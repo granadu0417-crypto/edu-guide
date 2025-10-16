@@ -1,4 +1,4 @@
-baseURL = "https://edu-guide.com/"
+baseURL = "https://edu-guide.pages.dev/"
 languageCode = "ko-kr"
 title = "에듀가이드 | 초중고 학습 정보 플랫폼"
 theme = "eduguide"
