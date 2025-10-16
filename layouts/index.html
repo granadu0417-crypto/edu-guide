@@ -1,0 +1,261 @@
+{{ define "title" }}{{ .Site.Title }} | 초중고 학습 정보 플랫폼{{ end }}
+
+{{ define "main" }}
+<div class="home-hero">
+    <h1 class="hero-title">📚 에듀가이드</h1>
+    <p class="hero-subtitle">초등학생부터 고등학생까지, 학습에 필요한 모든 정보</p>
+</div>
+
+<section class="category-section">
+    <h2 class="section-title">📖 카테고리별 글 보기</h2>
+    <div class="category-grid">
+        <a href="/elementary/" class="category-card">
+            <div class="category-icon">🎒</div>
+            <h3>초등학교</h3>
+            <p>초등학생 학습 정보</p>
+        </a>
+        <a href="/middle/" class="category-card">
+            <div class="category-icon">📝</div>
+            <h3>중학교</h3>
+            <p>중학생 내신·학습 정보</p>
+        </a>
+        <a href="/high/" class="category-card">
+            <div class="category-icon">🎓</div>
+            <h3>고등학교</h3>
+            <p>고등학생 수능·입시 정보</p>
+        </a>
+        <a href="/local/" class="category-card">
+            <div class="category-icon">📍</div>
+            <h3>지역 정보</h3>
+            <p>지역별 학원·과외 정보</p>
+        </a>
+    </div>
+</section>
+
+<section class="recent-posts">
+    <h2 class="section-title">✨ 최신 글</h2>
+    <div class="post-list">
+        {{ range first 6 (where .Site.RegularPages "Type" "in" (slice "elementary" "middle" "high" "local" "academy")) }}
+        <article class="post-card">
+            <div class="post-categories">
+                {{ range .Params.categories }}
+                <span class="post-category">{{ . }}</span>
+                {{ end }}
+            </div>
+            <h3 class="post-card-title">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h3>
+            <p class="post-card-excerpt">{{ .Description | truncate 120 }}</p>
+            <div class="post-card-meta">
+                <span class="post-date">{{ .Date.Format "2006.01.02" }}</span>
+                <span class="post-readtime">{{ .ReadingTime }}분 소요</span>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+</section>
+
+<section class="ad-banner-home">
+    <h3>🎯 맞춤 학습 컨설팅</h3>
+    <p>전문가와 함께하는 1:1 학습 설계</p>
+    <button class="banner-button">자세히 보기</button>
+</section>
+
+<style>
+.home-hero {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 16px;
+    margin-bottom: 60px;
+}
+
+.hero-title {
+    font-size: var(--font-2xl);
+    font-weight: 800;
+    margin-bottom: 16px;
+}
+
+.hero-subtitle {
+    font-size: var(--font-lg);
+    font-weight: 500;
+    opacity: 0.95;
+}
+
+.category-section, .recent-posts {
+    margin-bottom: 80px;
+}
+
+.section-title {
+    font-size: var(--font-xl);
+    font-weight: 700;
+    margin-bottom: 32px;
+    text-align: center;
+    color: var(--text-primary);
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 24px;
+}
+
+.category-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 24px;
+    background: white;
+    border: 2px solid var(--border-light);
+    border-radius: 12px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--primary-color);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.category-icon {
+    font-size: 48px;
+    margin-bottom: 16px;
+}
+
+.category-card h3 {
+    font-size: var(--font-lg);
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 8px;
+}
+
+.category-card p {
+    font-size: var(--font-sm);
+    color: var(--text-secondary);
+    margin: 0;
+}
+
+.post-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 32px;
+}
+
+.post-card {
+    background: white;
+    border: 1px solid var(--border-light);
+    border-radius: 12px;
+    padding: 24px;
+    transition: all 0.3s ease;
+}
+
+.post-card:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+.post-categories {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.post-category {
+    display: inline-block;
+    padding: 4px 12px;
+    background: var(--bg-secondary);
+    color: var(--primary-color);
+    font-size: var(--font-xs);
+    font-weight: 600;
+    border-radius: 20px;
+}
+
+.post-card-title {
+    font-size: var(--font-md);
+    font-weight: 700;
+    margin-bottom: 12px;
+    line-height: var(--line-height-tight);
+}
+
+.post-card-title a {
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+.post-card-title a:hover {
+    color: var(--primary-color);
+}
+
+.post-card-excerpt {
+    font-size: var(--font-sm);
+    color: var(--text-secondary);
+    line-height: var(--line-height-normal);
+    margin-bottom: 16px;
+}
+
+.post-card-meta {
+    display: flex;
+    gap: 16px;
+    font-size: var(--font-xs);
+    color: var(--text-tertiary);
+}
+
+.ad-banner-home {
+    text-align: center;
+    padding: 48px 24px;
+    background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+    border-radius: 16px;
+    margin-top: 60px;
+}
+
+.ad-banner-home h3 {
+    font-size: var(--font-xl);
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 12px;
+}
+
+.ad-banner-home p {
+    font-size: var(--font-base);
+    color: var(--text-secondary);
+    margin-bottom: 24px;
+}
+
+.banner-button {
+    padding: 12px 32px;
+    background: white;
+    color: var(--primary-color);
+    font-size: var(--font-base);
+    font-weight: 700;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.banner-button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+@media (max-width: 768px) {
+    .home-hero {
+        padding: 40px 20px;
+    }
+    
+    .hero-title {
+        font-size: var(--font-xl);
+    }
+    
+    .category-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .post-list {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
+{{ end }}

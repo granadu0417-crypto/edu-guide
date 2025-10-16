@@ -1,0 +1,184 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<div class="section-header">
+    <h1 class="section-title">{{ .Title }}</h1>
+    {{ with .Description }}
+    <p class="section-description">{{ . }}</p>
+    {{ end }}
+</div>
+
+<div class="post-grid">
+    {{ range .Pages }}
+    <article class="post-card">
+        <div class="post-categories">
+            {{ range .Params.categories }}
+            <span class="post-category">{{ . }}</span>
+            {{ end }}
+        </div>
+        
+        <h2 class="post-card-title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+        
+        <p class="post-card-excerpt">{{ .Description | truncate 150 }}</p>
+        
+        <div class="post-card-meta">
+            <span class="post-date">📅 {{ .Date.Format "2006년 01월 02일" }}</span>
+            <span class="post-readtime">⏱️ {{ .ReadingTime }}분 소요</span>
+        </div>
+        
+        <div class="post-card-tags">
+            {{ range first 5 .Params.tags }}
+            <span class="post-tag">#{{ . }}</span>
+            {{ end }}
+        </div>
+    </article>
+    {{ end }}
+</div>
+
+{{ if eq (len .Pages) 0 }}
+<div class="empty-state">
+    <p>📝 아직 작성된 글이 없습니다.</p>
+    <p class="empty-state-subtitle">곧 유용한 정보를 가득 채워드릴게요!</p>
+</div>
+{{ end }}
+
+<style>
+.section-header {
+    text-align: center;
+    padding: 48px 0;
+    border-bottom: 2px solid var(--border-light);
+    margin-bottom: 48px;
+}
+
+.section-title {
+    font-size: var(--font-2xl);
+    font-weight: 800;
+    color: var(--text-primary);
+    margin-bottom: 16px;
+}
+
+.section-description {
+    font-size: var(--font-md);
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 32px;
+    margin-bottom: 80px;
+}
+
+.post-card {
+    background: white;
+    border: 1px solid var(--border-light);
+    border-radius: 12px;
+    padding: 28px;
+    transition: all 0.3s ease;
+}
+
+.post-card:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    transform: translateY(-4px);
+    border-color: var(--primary-color);
+}
+
+.post-categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-category {
+    display: inline-block;
+    padding: 6px 14px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-size: var(--font-xs);
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.post-card-title {
+    font-size: var(--font-lg);
+    font-weight: 700;
+    line-height: var(--line-height-tight);
+    margin-bottom: 16px;
+}
+
+.post-card-title a {
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+.post-card-title a:hover {
+    color: var(--primary-color);
+}
+
+.post-card-excerpt {
+    font-size: var(--font-sm);
+    color: var(--text-secondary);
+    line-height: var(--line-height-normal);
+    margin-bottom: 20px;
+}
+
+.post-card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border-light);
+    font-size: var(--font-xs);
+    color: var(--text-tertiary);
+    margin-bottom: 12px;
+}
+
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 80px 20px;
+    color: var(--text-secondary);
+}
+
+.empty-state p {
+    font-size: var(--font-lg);
+    margin-bottom: 12px;
+}
+
+.empty-state-subtitle {
+    font-size: var(--font-base);
+    opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+    .section-header {
+        padding: 32px 0;
+    }
+    
+    .section-title {
+        font-size: var(--font-xl);
+    }
+    
+    .post-grid {
+        grid-template-columns: 1fr;
+        gap: 24px;
+    }
+}
+</style>
+{{ end }}

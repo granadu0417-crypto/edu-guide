@@ -1,0 +1,60 @@
+baseURL = "https://edu-guide.com/"
+languageCode = "ko-kr"
+title = "에듀가이드 | 초중고 학습 정보 플랫폼"
+theme = "eduguide"
+
+[params]
+  description = "초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서. 과목별 공부법, 내신 대비, 수능 준비, 지역별 학원·과외 정보까지."
+  keywords = "초등학생, 중학생, 고등학생, 공부법, 내신, 수능, 학원, 과외, 교육정보"
+  author = "에듀가이드 편집팀"
+  
+  # SEO 최적화
+  enableRobotsTXT = true
+  enableGitInfo = true
+  
+  # 소셜 미디어
+  [params.social]
+    naver = "https://blog.naver.com/eduguide"
+    instagram = "https://instagram.com/eduguide"
+    youtube = "https://youtube.com/@eduguide"
+
+[menu]
+  [[menu.main]]
+    name = "초등학생"
+    url = "/elementary/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "중학생"
+    url = "/middle/"
+    weight = 2
+  
+  [[menu.main]]
+    name = "고등학생"
+    url = "/high/"
+    weight = 3
+  
+  [[menu.main]]
+    name = "지역정보"
+    url = "/local/"
+    weight = 4
+  
+  [[menu.main]]
+    name = "학원·과외"
+    url = "/academy/"
+    weight = 5
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  grade = "grades"
+  subject = "subjects"
+  region = "regions"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.8
