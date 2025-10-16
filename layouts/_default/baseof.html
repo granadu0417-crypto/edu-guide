@@ -9,21 +9,39 @@
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit . ", " }}{{ else }}{{ .Site.Params.keywords }}{{ end }}">
     <meta name="author" content="{{ .Site.Params.author }}">
+    <link rel="canonical" href="{{ .Permalink }}">
     
-    <!-- Open Graph (SNS 공유) -->
-    <meta property="og:title" content="{{ .Title }}">
+    <!-- Open Graph (페이스북, 카카오톡 등) -->
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
     <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-    <meta property="og:type" content="article">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:locale" content="ko_KR">
+    {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ .Site.BaseURL }}images/og-default.jpg">{{ end }}
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    {{ if .IsPage }}
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+    <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+    <meta property="article:author" content="{{ .Site.Params.author }}">
+    {{ end }}
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    {{ with .Params.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ else }}<meta name="twitter:image" content="{{ .Site.BaseURL }}images/og-default.jpg">{{ end }}
     
     <!-- 구조화된 데이터 (JSON-LD) -->
+    {{ if .IsPage }}
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "Article",
         "headline": "{{ .Title }}",
         "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
+        "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.BaseURL }}images/og-default.jpg{{ end }}",
         "author": {
             "@type": "Organization",
             "name": "{{ .Site.Params.author }}"
@@ -33,12 +51,71 @@
             "name": "{{ .Site.Title }}",
             "logo": {
                 "@type": "ImageObject",
-                "url": "{{ .Site.BaseURL }}logo.png"
+                "url": "{{ .Site.BaseURL }}images/logo.png"
             }
         },
-        "datePublished": "{{ .Date.Format "2006-01-02" }}"
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ .Permalink }}"
+        },
+        "keywords": "{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}",
+        "articleSection": "{{ with .Params.categories }}{{ index . 0 }}{{ end }}",
+        "inLanguage": "ko-KR"
     }
     </script>
+    {{ else }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}",
+        "description": "{{ .Site.Params.description }}",
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{ .Site.Title }}"
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        },
+        "inLanguage": "ko-KR"
+    }
+    </script>
+    {{ end }}
+    
+    <!-- BreadcrumbList 구조화된 데이터 -->
+    {{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "홈",
+                "item": "{{ .Site.BaseURL }}"
+            }{{ with .Params.categories }},
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "{{ index . 0 }}",
+                "item": "{{ $.Site.BaseURL }}categories/{{ index . 0 | urlize }}/"
+            }{{ end }},
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "{{ .Title }}",
+                "item": "{{ .Permalink }}"
+            }
+        ]
+    }
+    </script>
+    {{ end }}
     
     <!-- Google Analytics 4 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP3W863XX4"></script>
