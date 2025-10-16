@@ -28,11 +28,13 @@
             <span class="post-readtime">⏱️ {{ .ReadingTime }}분 소요</span>
         </div>
         
+        {{ with .Params.tags }}
         <div class="post-card-tags">
-            {{ range first 5 .Params.tags }}
+            {{ range first 5 . }}
             <span class="post-tag">#{{ . }}</span>
             {{ end }}
         </div>
+        {{ end }}
     </article>
     {{ end }}
 </div>
