@@ -2,32 +2,43 @@
 
 {{ define "main" }}
 <div class="home-hero">
-    <h1 class="hero-title">📚 에듀가이드</h1>
-    <p class="hero-subtitle">초등학생부터 고등학생까지, 학습에 필요한 모든 정보</p>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+        <h1 class="hero-title">📚 에듀가이드</h1>
+        <p class="hero-subtitle">초등학생부터 고등학생까지, 학습에 필요한 모든 정보</p>
+    </div>
 </div>
 
 <section class="category-section">
     <h2 class="section-title">📖 카테고리별 글 보기</h2>
     <div class="category-grid">
         <a href="/elementary/" class="category-card">
-            <div class="category-icon">🎒</div>
-            <h3>초등학교</h3>
-            <p>초등학생 학습 정보</p>
+            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=250&fit=crop')"></div>
+            <div class="category-content">
+                <h3>🎒 초등학교</h3>
+                <p>초등학생 학습 정보</p>
+            </div>
         </a>
         <a href="/middle/" class="category-card">
-            <div class="category-icon">📝</div>
-            <h3>중학교</h3>
-            <p>중학생 내신·학습 정보</p>
+            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=250&fit=crop')"></div>
+            <div class="category-content">
+                <h3>📝 중학교</h3>
+                <p>중학생 내신·학습 정보</p>
+            </div>
         </a>
         <a href="/high/" class="category-card">
-            <div class="category-icon">🎓</div>
-            <h3>고등학교</h3>
-            <p>고등학생 수능·입시 정보</p>
+            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=400&h=250&fit=crop')"></div>
+            <div class="category-content">
+                <h3>🎓 고등학교</h3>
+                <p>고등학생 수능·입시 정보</p>
+            </div>
         </a>
         <a href="/local/" class="category-card">
-            <div class="category-icon">📍</div>
-            <h3>지역 정보</h3>
-            <p>지역별 학원·과외 정보</p>
+            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&h=250&fit=crop')"></div>
+            <div class="category-content">
+                <h3>📍 지역 정보</h3>
+                <p>지역별 학원·과외 정보</p>
+            </div>
         </a>
     </div>
 </section>
@@ -63,12 +74,29 @@
 
 <style>
 .home-hero {
+    position: relative;
     text-align: center;
-    padding: 60px 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 100px 20px;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.95) 0%, rgba(118, 75, 162, 0.95) 100%), 
+                url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=400&fit=crop') center/cover;
     color: white;
     border-radius: 16px;
     margin-bottom: 60px;
+    overflow: hidden;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.9) 0%, rgba(118, 75, 162, 0.9) 100%);
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
 }
 
 .hero-title {
@@ -104,34 +132,45 @@
 .category-card {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding: 40px 24px;
     background: white;
     border: 2px solid var(--border-light);
     border-radius: 12px;
     text-decoration: none;
     transition: all 0.3s ease;
+    overflow: hidden;
 }
 
 .category-card:hover {
     transform: translateY(-4px);
     border-color: var(--primary-color);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
 }
 
-.category-icon {
-    font-size: 48px;
-    margin-bottom: 16px;
+.category-image {
+    width: 100%;
+    height: 160px;
+    background-size: cover;
+    background-position: center;
+    transition: transform 0.3s ease;
 }
 
-.category-card h3 {
+.category-card:hover .category-image {
+    transform: scale(1.05);
+}
+
+.category-content {
+    padding: 24px;
+    text-align: center;
+}
+
+.category-content h3 {
     font-size: var(--font-lg);
     font-weight: 700;
     color: var(--text-primary);
     margin-bottom: 8px;
 }
 
-.category-card p {
+.category-content p {
     font-size: var(--font-sm);
     color: var(--text-secondary);
     margin: 0;

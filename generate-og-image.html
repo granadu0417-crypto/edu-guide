@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OG Image Generator - 에듀가이드</title>
+    <style>
+        body {
+            font-family: 'Pretendard', -apple-system, sans-serif;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        canvas {
+            border: 1px solid #ddd;
+            margin: 20px 0;
+            max-width: 100%;
+        }
+        button {
+            background: #4A90E2;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background: #357ABD;
+        }
+        .info {
+            background: #e8f4fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 에듀가이드 OG 이미지 생성기</h1>
+        
+        <div class="info">
+            <strong>사용 방법:</strong><br>
+            1. 아래 "이미지 생성" 버튼 클릭<br>
+            2. "이미지 다운로드" 버튼으로 저장<br>
+            3. 파일명: <code>og-default.jpg</code> 로 저장<br>
+            4. <code>/static/images/</code> 폴더에 넣기
+        </div>
+
+        <canvas id="canvas" width="1200" height="630"></canvas>
+        
+        <div>
+            <button onclick="generateImage()">🎨 이미지 생성</button>
+            <button onclick="downloadImage()">💾 이미지 다운로드</button>
+        </div>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+
+        function generateImage() {
+            // 배경 그라데이션
+            const gradient = ctx.createLinearGradient(0, 0, 1200, 630);
+            gradient.addColorStop(0, '#667eea');
+            gradient.addColorStop(1, '#764ba2');
+            ctx.fillStyle = gradient;
+            ctx.fillRect(0, 0, 1200, 630);
+
+            // 반투명 오버레이
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.1)';
+            ctx.fillRect(0, 0, 1200, 630);
+
+            // 장식 원들
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.1)';
+            ctx.beginPath();
+            ctx.arc(100, 100, 150, 0, Math.PI * 2);
+            ctx.fill();
+            
+            ctx.beginPath();
+            ctx.arc(1100, 530, 200, 0, Math.PI * 2);
+            ctx.fill();
+
+            // 책 이모지 (큰 텍스트로 표현)
+            ctx.font = 'bold 120px Arial';
+            ctx.fillStyle = 'white';
+            ctx.textAlign = 'center';
+            ctx.fillText('📚', 600, 200);
+
+            // 메인 타이틀
+            ctx.font = 'bold 80px Pretendard, sans-serif';
+            ctx.fillStyle = 'white';
+            ctx.textAlign = 'center';
+            ctx.fillText('에듀가이드', 600, 320);
+
+            // 서브 타이틀
+            ctx.font = '40px Pretendard, sans-serif';
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.95)';
+            ctx.fillText('초중고 학습 정보 플랫폼', 600, 380);
+
+            // 하단 장식선
+            ctx.strokeStyle = 'rgba(255, 255, 255, 0.3)';
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            ctx.moveTo(350, 450);
+            ctx.lineTo(850, 450);
+            ctx.stroke();
+
+            // 하단 설명
+            ctx.font = '28px Pretendard, sans-serif';
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.9)';
+            ctx.fillText('과목별 공부법 · 내신 대비 · 학원 정보', 600, 510);
+
+            alert('✅ 이미지 생성 완료! 이제 "이미지 다운로드" 버튼을 눌러주세요.');
+        }
+
+        function downloadImage() {
+            // Canvas를 이미지로 변환하여 다운로드
+            const link = document.createElement('a');
+            link.download = 'og-default.jpg';
+            link.href = canvas.toDataURL('image/jpeg', 0.95);
+            link.click();
+            
+            alert('💾 이미지가 다운로드되었습니다!\n\n다음 단계:\n1. 다운로드된 파일 확인\n2. /static/images/ 폴더에 넣기\n3. Hugo 빌드 & 배포');
+        }
+
+        // 페이지 로드 시 자동 생성
+        window.onload = function() {
+            generateImage();
+        }
+    </script>
+</body>
+</html>
