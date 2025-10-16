@@ -1,7 +1,6 @@
 baseURL = "https://edu-guide.pages.dev/"
 languageCode = "ko-kr"
 title = "에듀가이드 | 초중고 학습 정보 플랫폼"
-theme = "eduguide"
 
 [params]
   description = "초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서. 과목별 공부법, 내신 대비, 수능 준비, 지역별 학원·과외 정보까지."
