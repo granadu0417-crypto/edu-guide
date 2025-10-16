@@ -34,7 +34,7 @@
             </div>
         </a>
         <a href="/local/" class="category-card">
-            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&h=250&fit=crop')"></div>
+            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=250&fit=crop')"></div>
             <div class="category-content">
                 <h3>📍 지역 정보</h3>
                 <p>지역별 학원·과외 정보</p>
@@ -279,19 +279,54 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
+/* Fade-in Animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.home-hero {
+    animation: fadeInUp 0.8s ease-out;
+}
+
+.category-card {
+    animation: fadeInUp 0.8s ease-out;
+    animation-fill-mode: both;
+}
+
+.category-card:nth-child(1) { animation-delay: 0.1s; }
+.category-card:nth-child(2) { animation-delay: 0.2s; }
+.category-card:nth-child(3) { animation-delay: 0.3s; }
+.category-card:nth-child(4) { animation-delay: 0.4s; }
+
+.post-card {
+    animation: fadeInUp 0.8s ease-out;
+    animation-fill-mode: both;
+}
+
+.post-card:nth-child(1) { animation-delay: 0.2s; }
+.post-card:nth-child(2) { animation-delay: 0.3s; }
+.post-card:nth-child(3) { animation-delay: 0.4s; }
+
 @media (max-width: 768px) {
     .home-hero {
         padding: 40px 20px;
     }
-    
+
     .hero-title {
         font-size: var(--font-xl);
     }
-    
+
     .category-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .post-list {
         grid-template-columns: 1fr;
     }

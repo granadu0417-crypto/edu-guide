@@ -18,7 +18,7 @@
 
 <style>
 .site-footer {
-    background: var(--text-primary);
+    background: #2c3e50;
     color: white;
     padding: 3rem 0 2rem;
     margin-top: 4rem;
@@ -33,6 +33,13 @@
 
 .footer-info h4 {
     margin-bottom: 1rem;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.footer-info p {
+    color: rgba(255,255,255,0.9);
+    line-height: 1.6;
 }
 
 .footer-disclaimer {
@@ -40,11 +47,26 @@
     color: rgba(255,255,255,0.8);
 }
 
+.footer-disclaimer p {
+    color: rgba(255,255,255,0.8);
+}
+
+.footer-disclaimer strong {
+    color: #ffd93d;
+}
+
 .footer-bottom {
     text-align: center;
     padding-top: 2rem;
     border-top: 1px solid rgba(255,255,255,0.1);
     font-size: var(--font-sm);
-    color: rgba(255,255,255,0.6);
+    color: rgba(255,255,255,0.7);
+}
+
+@media (max-width: 768px) {
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
 }
 </style>
