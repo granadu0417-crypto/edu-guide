@@ -267,22 +267,31 @@ a:hover {
         padding: 0.8rem 0;
     }
 
+    /* 헤더 레이아웃 변경: 로고 우측, 메뉴 아래 */
+    .header-content {
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 0.8rem;
+    }
+
     .site-logo a {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .logo-image {
-        width: 32px;
-        height: 32px;
+        width: 28px;
+        height: 28px;
     }
 
     /* 상단 메뉴 간격 조정 */
     .main-nav ul {
-        gap: 0.8rem;
+        gap: 1rem;
+        flex-wrap: wrap;
+        justify-content: flex-end;
     }
 
     .main-nav a {
-        font-size: 0.8rem;
+        font-size: 0.85rem;
         padding: 0.3rem 0;
     }
 
