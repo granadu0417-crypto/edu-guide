@@ -2,6 +2,12 @@
 
 {{ define "main" }}
 <div class="home-hero">
+    <div class="hero-bg-slider">
+        <div class="hero-bg-slide active" style="background-image: url('/images/infographic-korean.webp')"></div>
+        <div class="hero-bg-slide" style="background-image: url('/images/infographic-english.webp')"></div>
+        <div class="hero-bg-slide" style="background-image: url('/images/infographic-study-comparison.webp')"></div>
+        <div class="hero-bg-slide" style="background-image: url('/images/infographic-curriculum.webp')"></div>
+    </div>
     <div class="hero-overlay"></div>
     <div class="hero-content">
         <h1 class="hero-title">📚 과외를부탁해</h1>
@@ -9,32 +15,49 @@
     </div>
 </div>
 
+<script>
+// 히어로 배경 슬라이더
+(function() {
+    const slides = document.querySelectorAll('.hero-bg-slide');
+    let currentSlide = 0;
+    
+    function nextSlide() {
+        slides[currentSlide].classList.remove('active');
+        currentSlide = (currentSlide + 1) % slides.length;
+        slides[currentSlide].classList.add('active');
+    }
+    
+    // 5초마다 슬라이드 변경
+    setInterval(nextSlide, 5000);
+})();
+</script>
+
 <section class="category-section">
     <h2 class="section-title">📖 카테고리별 글 보기</h2>
     <div class="category-grid">
         <a href="/elementary/" class="category-card">
-            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=250&fit=crop')"></div>
+            <div class="category-image" style="background-image: url('/images/infographic-english.webp')"></div>
             <div class="category-content">
                 <h3>🎒 초등학교</h3>
                 <p>초등학생 학습 정보</p>
             </div>
         </a>
         <a href="/middle/" class="category-card">
-            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=250&fit=crop')"></div>
+            <div class="category-image" style="background-image: url('/images/infographic-korean.webp')"></div>
             <div class="category-content">
                 <h3>📝 중학교</h3>
                 <p>중학생 내신·학습 정보</p>
             </div>
         </a>
         <a href="/high/" class="category-card">
-            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=400&h=250&fit=crop')"></div>
+            <div class="category-image" style="background-image: url('/images/infographic-study-comparison.webp')"></div>
             <div class="category-content">
                 <h3>🎓 고등학교</h3>
                 <p>고등학생 수능·입시 정보</p>
             </div>
         </a>
         <a href="/local/" class="category-card">
-            <div class="category-image" style="background-image: url('https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=250&fit=crop')"></div>
+            <div class="category-image" style="background-image: url('/images/infographic-curriculum.webp')"></div>
             <div class="category-content">
                 <h3>📍 지역 정보</h3>
                 <p>지역별 학원·과외 정보</p>
@@ -78,12 +101,37 @@
     position: relative;
     text-align: center;
     padding: 100px 20px;
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.95) 0%, rgba(118, 75, 162, 0.95) 100%), 
-                url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=400&fit=crop') center/cover;
     color: white;
     border-radius: 16px;
     margin-bottom: 60px;
     overflow: hidden;
+    background-color: #667eea;
+}
+
+/* 배경 슬라이더 */
+.hero-bg-slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+
+.hero-bg-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: center;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.hero-bg-slide.active {
+    opacity: 1;
 }
 
 .hero-overlay {
@@ -92,12 +140,13 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.9) 0%, rgba(118, 75, 162, 0.9) 100%);
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.85) 0%, rgba(118, 75, 162, 0.85) 100%);
+    z-index: 1;
 }
 
 .hero-content {
     position: relative;
-    z-index: 1;
+    z-index: 2;
 }
 
 .hero-title {
