@@ -4,7 +4,7 @@ date: 2025-01-17
 description: "학생부종합전형 합격을 위한 완벽 가이드. 전형 이해부터 자기소개서 작성법, 면접 준비, 평가 요소별 대비 전략까지 상위권 대학 합격을 위한 실전 노하우를 소개합니다."
 categories: ["고등학교"]
 tags: ["학생부종합", "학종", "자기소개서", "면접", "대입전형", "수시", "합격전략"]
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 ![대학 입시 준비](https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop)
