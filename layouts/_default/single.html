@@ -21,7 +21,6 @@
         <div class="article-info">
             <span class="author">✍️ {{ .Site.Params.author }}</span>
             <span class="date">📅 {{ .Date.Format "2006년 01월 02일" }}</span>
-            <span class="reading-time">⏱️ {{ .ReadingTime }}분 소요</span>
         </div>
 
         <!-- 본문 -->
@@ -31,10 +30,15 @@
 
         <!-- 광고 배너 (하단) -->
         <div class="ad-banner">
-            <p style="color: #95a5a6; font-size: 0.9rem;">광고 영역</p>
-            <p style="color: #5a6c7d; font-size: 1.1rem; margin-top: 0.5rem;">
-                여기에 학원·과외 배너가 들어갑니다
+            <h3 style="font-size: 1.5rem; color: var(--text-primary); margin-bottom: 0.8rem;">🎯 맞춤 학습 컨설팅</h3>
+            <p style="color: #5a6c7d; font-size: 1.1rem; margin-bottom: 1.5rem;">
+                전문가와 함께하는 1:1 학습 설계
             </p>
+            <a href="https://pf.kakao.com/_Cixlaxl/chat" target="_blank" rel="noopener noreferrer">
+                <button style="padding: 12px 32px; background: #FEE500; color: #3c1e1e; font-size: 1rem; font-weight: 700; border: none; border-radius: 8px; cursor: pointer; transition: all 0.3s ease;">
+                    💬 카카오톡 상담하기
+                </button>
+            </a>
         </div>
 
         <!-- 태그 -->

@@ -4,7 +4,7 @@
 <div class="home-hero">
     <div class="hero-overlay"></div>
     <div class="hero-content">
-        <h1 class="hero-title">📚 에듀가이드</h1>
+        <h1 class="hero-title">📚 과외를부탁해</h1>
         <p class="hero-subtitle">초등학생부터 고등학생까지, 학습에 필요한 모든 정보</p>
     </div>
 </div>
@@ -59,7 +59,6 @@
             <p class="post-card-excerpt">{{ .Description | truncate 120 }}</p>
             <div class="post-card-meta">
                 <span class="post-date">{{ .Date.Format "2006.01.02" }}</span>
-                <span class="post-readtime">{{ .ReadingTime }}분 소요</span>
             </div>
         </article>
         {{ end }}
@@ -69,7 +68,9 @@
 <section class="ad-banner-home">
     <h3>🎯 맞춤 학습 컨설팅</h3>
     <p>전문가와 함께하는 1:1 학습 설계</p>
-    <button class="banner-button">자세히 보기</button>
+    <a href="https://pf.kakao.com/_Cixlaxl/chat" target="_blank" rel="noopener noreferrer">
+        <button class="banner-button">카카오톡 상담하기</button>
+    </a>
 </section>
 
 <style>
@@ -127,6 +128,9 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     gap: 24px;
+    justify-items: center;
+    max-width: 1100px;
+    margin: 0 auto;
 }
 
 .category-card {
