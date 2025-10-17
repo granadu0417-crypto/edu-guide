@@ -50,6 +50,10 @@
 }
 
 /* Pretendard Variable Font */
+html {
+    overflow-x: hidden;
+}
+
 body {
     font-family: var(--font-sans);
     font-size: var(--font-base);
@@ -60,6 +64,12 @@ body {
     overflow-wrap: break-word;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+}
+
+img, video, iframe {
+    max-width: 100%;
+    height: auto;
 }
 
 /* 컨테이너 (가독성 최적 너비) */
@@ -222,6 +232,16 @@ a:hover {
     text-decoration: underline;
 }
 
+/* 이미지 스타일 (본문 이미지) */
+.article-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2em auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
 /* 광고 배너 영역 */
 .ad-banner {
     background: var(--bg-gray);
@@ -234,10 +254,32 @@ a:hover {
 
 /* 반응형 */
 @media (max-width: 768px) {
-    article {
-        padding: 2rem 1.5rem;
+    .container {
+        padding: 0 16px;
     }
-    
+
+    .wide-container {
+        padding: 0 16px;
+    }
+
+    article {
+        padding: 1.5rem 1rem;
+        margin: 1rem 0;
+    }
+
     h1 { font-size: 1.75rem; }
     h2 { font-size: 1.5rem; }
+
+    .article-content img {
+        margin: 1.5em 0;
+    }
+
+    .ad-banner {
+        padding: 1.5rem 1rem;
+    }
+
+    /* 모바일 터치 스크롤 최적화 */
+    body {
+        -webkit-overflow-scrolling: touch;
+    }
 }
