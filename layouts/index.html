@@ -327,8 +327,34 @@
         font-size: var(--font-xl);
     }
 
+    /* 카테고리 그리드 - 2열 레이아웃 */
     .category-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+        padding: 0 8px;
+    }
+
+    .category-card {
+        width: 100%;
+    }
+
+    /* 카테고리 이미지 높이 축소 */
+    .category-image {
+        height: 100px;
+    }
+
+    /* 카테고리 컨텐츠 패딩 축소 */
+    .category-content {
+        padding: 12px;
+    }
+
+    .category-content h3 {
+        font-size: var(--font-base);
+        margin-bottom: 4px;
+    }
+
+    .category-content p {
+        font-size: 0.75rem;
     }
 
     .post-list {
