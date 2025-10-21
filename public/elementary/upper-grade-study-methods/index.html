@@ -108,9 +108,18 @@
     
     
     <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+
     
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#667eea">
+    <link rel="apple-touch-icon" href="/images/icon-192.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="과외를부탁해">
+
     
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/viral.css">
 </head>
 <body>
     <header class="site-header">
@@ -121,6 +130,10 @@
                     <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image">
                     <span>과외를부탁해</span>
                 </a>
+                <div class="usage-counter">
+                    <div class="label">누적 사용자</div>
+                    <div class="count"><span id="usageCount">0</span>명</div>
+                </div>
             </div>
             <nav class="main-nav">
                 <ul>
@@ -475,6 +488,23 @@
         </div>
 
         
+        <div class="share-section">
+    <h4>💬 친구에게 공유하기</h4>
+    <div class="share-buttons">
+        <button class="btn-share btn-facebook" onclick="shareFacebook()">
+            <span>📘</span> 페이스북
+        </button>
+        <button class="btn-share btn-twitter" onclick="shareTwitter()">
+            <span>🐦</span> 트위터
+        </button>
+        <button class="btn-share btn-copy" id="copyBtn" onclick="copyLink()">
+            <span>🔗</span> 링크 복사
+        </button>
+    </div>
+</div>
+
+
+        
         
         <div class="article-tags">
             <strong>태그:</strong>
@@ -622,6 +652,19 @@
 }
 </style>
 
+
+    
+    <div id="bookmarkPopup" class="bookmark-popup" style="display: none;">
+        <h4>⭐ 북마크 추가</h4>
+        <p>자주 사용하시나요? 북마크에 추가하고 빠르게 접속하세요!</p>
+        <div class="bookmark-popup-buttons">
+            <button class="btn-bookmark-yes" onclick="closeBookmarkPopup(true)">추가하기</button>
+            <button class="btn-bookmark-no" onclick="closeBookmarkPopup(false)">나중에</button>
+        </div>
+    </div>
+
+    
+    <script src="/js/viral.js"></script>
 
     
     <script>
