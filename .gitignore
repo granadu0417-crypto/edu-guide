@@ -1,5 +1,5 @@
 # Hugo
-/public/
+# /public/  # 추적 스크립트 배포를 위해 public 폴더 포함
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
