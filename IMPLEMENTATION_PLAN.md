@@ -757,12 +757,68 @@ Core Web Vitals: 모두 Good
 
 ### 현재 진행 상태
 - [x] 프로젝트 계획서 작성 완료
-- [ ] Phase 1 시작 전
+- [x] Phase 1 진행 중 (50% 완료)
 - [ ] Phase 2 시작 전
 - [ ] Phase 3 시작 전
 - [ ] Phase 4 시작 전
 
+### Phase 1 완료 항목 (2025-01-25)
+
+#### ✅ Task 1.1: Floating 카카오톡 버튼 구현 ✓ 완료
+- [x] `layouts/partials/floating-kakao.html` 생성
+- [x] CSS 스타일 작성 (고정 위치, z-index 최상위)
+- [x] 모바일 반응형 테스트 완료
+- [x] `layouts/_default/baseof.html`에 통합
+- [x] 전체 페이지 테스트 완료
+- [x] **추가 개선**: 드롭다운 메뉴 hover UX 개선 (투명 다리 영역 추가)
+
+**실제 소요 시간**: 약 3시간
+**상태**: ✅ 완료 및 배포됨
+
+#### ✅ Task 1.2: 콘텐츠 CTA 컴포넌트 제작 ✓ 완료
+- [x] `layouts/shortcodes/cta-consultation.html` 생성 (중간용)
+- [x] `layouts/shortcodes/cta-consultation-final.html` 생성 (끝용)
+- [x] 2가지 스타일 디자인 완료
+- [x] 카카오톡 링크 동적 삽입 구조
+- [x] **기존 56개 콘텐츠에 자동 추가 완료** (자동화 스크립트 사용)
+
+**실제 소요 시간**: 약 2시간
+**상태**: ✅ 완료 및 배포됨
+
+#### 🔧 추가 해결 사항
+- [x] **Service Worker 캐시 문제 해결**
+  - edukoreaai.com 홈페이지 오래된 버전 표시 문제 진단
+  - Service Worker 및 "edu-guide-v1" 캐시 삭제
+  - 새 버전 정상 배포 확인
+
+- [x] **Cloudflare Pages 배포 검증**
+  - 프로덕션 배포 상태 확인 (커밋 e8c45be)
+  - 도메인 라우팅 정상 작동 확인
+  - 캐시 관리 방법 수립
+
+- [x] **드롭다운 메뉴 UX 개선**
+  - hover 시 메뉴 사라지는 문제 진단
+  - CSS에 투명 다리 영역(::after) 추가
+  - 부드러운 사용자 경험 구현
+
+**총 소요 시간**: 약 6시간
+**커밋**: 65f0782 (드롭다운 UX 개선)
+
+### Phase 1 남은 작업
+- [ ] Task 1.3: 상담 페이지 리디자인
+- [ ] Task 1.4: sitemap.xml 최적화
+- [ ] Task 1.5: robots.txt 정교화
+- [ ] Task 1.6: 이미지 lazy loading 구현
+- [ ] Task 1.7: 관련 글 추천 시스템
+- [ ] Task 1.8: 콘텐츠 템플릿 archetypes 설정
+- [ ] Task 1.9: 핵심 키워드 리스트 작성 (100개)
+- [ ] Task 1.10: 파일럿 콘텐츠 5편 작성
+
+**예상 남은 시간**: 약 36시간
+
 ### 최근 업데이트
+- 2025-01-25: Phase 1 핵심 작업 완료 (Floating 버튼, CTA 컴포넌트, 기존 콘텐츠 업데이트)
+- 2025-01-25: 캐시 문제 해결 및 UX 개선 완료
 - 2025-01-XX: 실행 계획서 초안 작성 완료
 
 ---
