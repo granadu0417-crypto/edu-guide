@@ -136,7 +136,6 @@ title = "과외를부탁해 | 초중고 학습 정보 플랫폼"
   category = "categories"
   tag = "tags"
   grade = "grades"
-  subject = "subjects"
   region = "regions"
 
 [outputs]
