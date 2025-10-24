@@ -10,7 +10,10 @@
     <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit . ", " }}{{ else }}{{ .Site.Params.keywords }}{{ end }}">
     <meta name="author" content="{{ .Site.Params.author }}">
     <link rel="canonical" href="{{ .Permalink }}">
-    
+
+    <!-- Naver 웹마스터 도구 인증 -->
+    <meta name="naver-site-verification" content="228c0da6bfc9eda328a78ce3a4417c8ff8630d59" />
+
     <!-- Open Graph (페이스북, 카카오톡 등) -->
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
     <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
