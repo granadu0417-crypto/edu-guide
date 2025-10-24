@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Subjects on 과외를부탁해 | 초중고 학습 정보 플랫폼</title>
-    <link>https://edu-guide.pages.dev/subjects/</link>
+    <link>https://edukoreaai.com/subjects/</link>
     <description>Recent content in Subjects on 과외를부탁해 | 초중고 학습 정보 플랫폼</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <atom:link href="https://edu-guide.pages.dev/subjects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://edukoreaai.com/subjects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
