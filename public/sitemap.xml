@@ -3,12 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://edukoreaai.com/categories/</loc>
-    <lastmod>2025-10-16T10:00:00+09:00</lastmod>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://edukoreaai.com/tags/</loc>
-    <lastmod>2025-10-16T10:00:00+09:00</lastmod>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EA%B3%B5%EB%B6%80%EB%B2%95/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/subjects/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EA%B3%BC%EC%99%B8/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EB%AC%B8%EC%9E%A5%EC%A0%9C/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EB%B9%84%EA%B5%90/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EC%84%A0%ED%83%9D%EA%B0%80%EC%9D%B4%EB%93%9C/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/categories/%EC%84%A0%ED%83%9D%EA%B0%80%EC%9D%B4%EB%93%9C/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EC%88%98%ED%95%99/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/categories/%EC%88%98%ED%95%99/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/subjects/math/word-problems-guide/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/categories/%ED%95%99%EC%8A%B5%EB%B2%95/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%ED%95%99%EC%9B%90/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tutoring/guide/academy-vs-private/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/categories/%ED%95%99%EC%9B%90%EA%B3%BC%EC%99%B8/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tutoring/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -17,17 +102,7 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://edukoreaai.com/</loc>
-    <lastmod>2025-10-16T10:00:00+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://edukoreaai.com/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/</loc>
-    <lastmod>2025-10-16T10:00:00+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://edukoreaai.com/categories/%EC%88%98%ED%95%99/</loc>
     <lastmod>2025-10-16T10:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -198,11 +273,6 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://edukoreaai.com/tags/%EA%B3%BC%EA%B3%A0/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://edukoreaai.com/tags/%EA%B3%BC%EC%99%B8/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -507,11 +577,6 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://edukoreaai.com/tags/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://edukoreaai.com/tags/%EB%AC%B8%ED%95%99/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -678,11 +743,6 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://edukoreaai.com/tags/%EC%88%98%EC%8B%9C/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://edukoreaai.com/tags/%EC%88%98%ED%95%99/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -1327,11 +1387,6 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://edukoreaai.com/categories/%ED%95%99%EC%8A%B5%EB%B2%95/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://edukoreaai.com/tags/%ED%95%99%EC%8A%B5%EC%8A%B5%EA%B4%80/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1358,11 +1413,6 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://edukoreaai.com/tags/%ED%95%99%EC%8A%B5%ED%99%98%EA%B2%BD/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://edukoreaai.com/tags/%ED%95%99%EC%9B%90/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -1480,7 +1530,31 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://edukoreaai.com/subjects/</loc>
+    <loc>https://edukoreaai.com/tags/%EA%B0%9C%EB%85%90/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/subjects/korean/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EB%8B%A8%EC%96%B4/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/consultation/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/tags/%EB%AC%B8%EB%B2%95/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/subjects/math/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://edukoreaai.com/subjects/english/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url><url>

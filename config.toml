@@ -18,29 +18,118 @@ title = "과외를부탁해 | 초중고 학습 정보 플랫폼"
     youtube = "https://youtube.com/@eduguide"
 
 [menu]
+  # 학습 가이드 (드롭다운)
+  [[menu.main]]
+    name = "학습 가이드"
+    identifier = "learning"
+    weight = 1
+
   [[menu.main]]
     name = "초등학생"
+    parent = "learning"
     url = "/elementary/"
     weight = 1
-  
+
   [[menu.main]]
     name = "중학생"
+    parent = "learning"
     url = "/middle/"
     weight = 2
-  
+
   [[menu.main]]
     name = "고등학생"
+    parent = "learning"
     url = "/high/"
     weight = 3
-  
+
+  # 과목별 (드롭다운)
   [[menu.main]]
-    name = "지역정보"
-    url = "/local/"
+    name = "과목별"
+    identifier = "subjects"
+    weight = 2
+
+  [[menu.main]]
+    name = "국어"
+    parent = "subjects"
+    url = "/subjects/korean/"
+    weight = 1
+
+  [[menu.main]]
+    name = "영어"
+    parent = "subjects"
+    url = "/subjects/english/"
+    weight = 2
+
+  [[menu.main]]
+    name = "수학"
+    parent = "subjects"
+    url = "/subjects/math/"
+    weight = 3
+
+  [[menu.main]]
+    name = "과학"
+    parent = "subjects"
+    url = "/subjects/science/"
     weight = 4
-  
+
+  [[menu.main]]
+    name = "사회"
+    parent = "subjects"
+    url = "/subjects/social/"
+    weight = 5
+
+  # 학원·과외 (드롭다운)
   [[menu.main]]
     name = "학원·과외"
-    url = "/academy/"
+    identifier = "tutoring"
+    weight = 3
+
+  [[menu.main]]
+    name = "선택 가이드"
+    parent = "tutoring"
+    url = "/tutoring/guide/"
+    weight = 1
+
+  [[menu.main]]
+    name = "학원 찾기"
+    parent = "tutoring"
+    url = "/tutoring/academy/"
+    weight = 2
+
+  [[menu.main]]
+    name = "과외 찾기"
+    parent = "tutoring"
+    url = "/tutoring/private/"
+    weight = 3
+
+  # 지역정보 (드롭다운)
+  [[menu.main]]
+    name = "지역정보"
+    identifier = "local"
+    weight = 4
+
+  [[menu.main]]
+    name = "서울"
+    parent = "local"
+    url = "/local/seoul/"
+    weight = 1
+
+  [[menu.main]]
+    name = "경기"
+    parent = "local"
+    url = "/local/gyeonggi/"
+    weight = 2
+
+  [[menu.main]]
+    name = "전체 지역"
+    parent = "local"
+    url = "/local/"
+    weight = 3
+
+  # 무료 상담 (단독 메뉴)
+  [[menu.main]]
+    name = "무료 상담"
+    url = "/consultation/"
     weight = 5
 
 [taxonomies]
