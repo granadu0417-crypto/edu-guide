@@ -1,0 +1,77 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {{- range .Data.Pages }}
+  {{- if and (not .Params.robotsNoIndex) (ne .Kind "taxonomy") (ne .Kind "term") }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+    {{- end }}
+
+    {{- /* 우선순위 설정: 콘텐츠 유형별 차별화 */ -}}
+    {{- $priority := 0.5 -}}
+    {{- $changefreq := "monthly" -}}
+
+    {{- /* 홈페이지: 최고 우선순위 */ -}}
+    {{- if eq .Kind "home" -}}
+      {{- $priority = 1.0 -}}
+      {{- $changefreq = "daily" -}}
+
+    {{- /* 상담 페이지: 전환 페이지로 높은 우선순위 */ -}}
+    {{- else if in .RelPermalink "/consultation/" -}}
+      {{- $priority = 0.9 -}}
+      {{- $changefreq = "weekly" -}}
+
+    {{- /* 학년별 인덱스 페이지: 높은 우선순위 */ -}}
+    {{- else if or (in .RelPermalink "/elementary/") (in .RelPermalink "/middle/") (in .RelPermalink "/high/") -}}
+      {{- if eq .Kind "section" -}}
+        {{- $priority = 0.9 -}}
+        {{- $changefreq = "weekly" -}}
+      {{- else -}}
+        {{- $priority = 0.8 -}}
+        {{- $changefreq = "weekly" -}}
+      {{- end -}}
+
+    {{- /* 과목별 페이지: 높은 우선순위 */ -}}
+    {{- else if in .RelPermalink "/subjects/" -}}
+      {{- if eq .Kind "section" -}}
+        {{- $priority = 0.9 -}}
+        {{- $changefreq = "weekly" -}}
+      {{- else -}}
+        {{- $priority = 0.8 -}}
+        {{- $changefreq = "weekly" -}}
+      {{- end -}}
+
+    {{- /* 학원/과외 페이지: 높은 우선순위 */ -}}
+    {{- else if in .RelPermalink "/tutoring/" -}}
+      {{- $priority = 0.8 -}}
+      {{- $changefreq = "weekly" -}}
+
+    {{- /* 지역정보 페이지: 중간 우선순위 */ -}}
+    {{- else if in .RelPermalink "/local/" -}}
+      {{- $priority = 0.7 -}}
+      {{- $changefreq = "weekly" -}}
+
+    {{- /* 학년별 가이드 페이지: 섹션과 일반 페이지 구분 */ -}}
+    {{- else if eq .Kind "section" -}}
+      {{- $priority = 0.7 -}}
+      {{- $changefreq = "weekly" -}}
+
+    {{- /* 일반 콘텐츠 페이지: 표준 우선순위 */ -}}
+    {{- else if eq .Kind "page" -}}
+      {{- $priority = 0.7 -}}
+      {{- $changefreq = "weekly" -}}
+
+    {{- /* 태그/카테고리 페이지: 낮은 우선순위 */ -}}
+    {{- else -}}
+      {{- $priority = 0.4 -}}
+      {{- $changefreq = "monthly" -}}
+    {{- end -}}
+
+    <changefreq>{{ $changefreq }}</changefreq>
+    <priority>{{ $priority }}</priority>
+  </url>
+  {{- end }}
+  {{- end }}
+</urlset>
