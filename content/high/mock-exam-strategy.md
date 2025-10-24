@@ -652,7 +652,9 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 □ 휴식 후 다시 시작
 ```
 
+{{< cta-consultation-final >}}
 ## 마무리 및 격려
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 
 모의고사는 **실전이 아닌 연습**입니다. 틀리는 것이 당연하고, 틀린 문제에서 배우는 것이 핵심입니다.
 

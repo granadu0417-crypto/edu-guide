@@ -418,7 +418,9 @@ A: I'm going to visit my grandmother. ✓
 - 엘리하이: 내신 대비
 - 야나두 주니어: 회화 중심
 
+{{< cta-consultation-final >}}
 ## 마무리 및 격려
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 
 영어 듣기 실력은 **꾸준함**이 가장 중요합니다. 하루 15분씩이라도 매일 영어를 들으면, 3개월 후에는 확실한 변화를 느낄 수 있습니다.
 

@@ -725,7 +725,9 @@ featured_image: "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=
 □ 원서 접수 지원
 ```
 
+{{< cta-consultation-final >}}
 ## 마무리 및 격려
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 
 고3 자녀를 둔 학부모님, **정말 수고가 많으십니다**. 자녀만큼, 때로는 자녀보다 더 힘든 시간을 보내고 계십니다.
 

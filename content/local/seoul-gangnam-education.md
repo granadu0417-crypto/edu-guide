@@ -591,6 +591,7 @@ featured_image: "https://images.unsplash.com/photo-1555992336-fb0d29498b13?w=120
 - 진로 상담
 
 ## 맺음말
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 
 서울 강남권은 우리나라 최고 수준의 교육 인프라를 갖춘 지역입니다. 하지만 교육의 질은 단순히 지역만으로 결정되지 않습니다.
 

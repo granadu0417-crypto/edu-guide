@@ -783,7 +783,9 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 ✓ 예체능도 신경 쓰기
 ```
 
+{{< cta-consultation-final >}}
 ## 마무리 및 격려
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 
 고등학교 3년은 **대학 입시를 위한 준비 기간**입니다. 내신과 생활기록부는 그 핵심입니다.
 

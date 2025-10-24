@@ -182,8 +182,10 @@ tags: ["수학", "문장제", "문제풀이", "공부법"]
 ## 관련 글
 
 - [수학 기초 다지기](/subjects/math/)
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 - [수학 학원 vs 과외, 어떤 게 나을까?](/tutoring/guide/academy-vs-private/)
 - [우리 지역 수학 학원 찾기](/local/)
+{{< cta-consultation-final >}}
 
 ---
 

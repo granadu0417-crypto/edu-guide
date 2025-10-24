@@ -529,7 +529,9 @@ ever, never, just, already, yet, for, since
 - 하루 암기량 정하기
 - 매일 조금씩이 효과적
 
+{{< cta-consultation-final >}}
 ## 마무리 및 격려
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 
 효율적인 암기와 노트 정리는 **공부 시간을 절반으로 줄이면서도 성적은 2배로 높이는** 마법 같은 기술입니다. 
 

@@ -676,7 +676,9 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 □ 정시 준비 (12월)
 ```
 
+{{< cta-consultation-final >}}
 ## 마무리 및 격려
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 
 학생부종합전형은 **3년간의 성실함과 열정**을 평가하는 전형입니다. 단기간 준비로는 불가능하며, 긴 호흡으로 꾸준히 준비해야 합니다.
 

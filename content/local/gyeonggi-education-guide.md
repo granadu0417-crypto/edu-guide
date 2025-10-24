@@ -773,6 +773,7 @@ featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=
 - 장기 교육 계획
 
 ## 맺음말
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 
 경기도의 다양한 신도시들은 각각 독특한 교육 환경과 장점을 가지고 있습니다. 중요한 것은 가정의 상황과 자녀의 특성에 맞는 지역을 선택하는 것입니다.
 

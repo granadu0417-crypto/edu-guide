@@ -114,6 +114,7 @@ A: I'd like to sign up for private lessons.
 **문제 형태**
 ```
 What is the relationship between the speakers?
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 Where does this conversation most likely take place?
 ```
 
@@ -835,6 +836,7 @@ This means that ~
 - 모든 유형 정복
 ```
 
+{{< cta-consultation-final >}}
 ## 마무리 및 격려
 
 수능 영어는 **절대평가**이지만 결코 쉽지 않습니다. 하지만 체계적인 학습과 꾸준한 연습으로 충분히 1등급을 받을 수 있습니다.

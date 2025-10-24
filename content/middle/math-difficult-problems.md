@@ -114,6 +114,7 @@ x² + 6x + 9 - y² 를 인수분해하시오.
 #### 문제 5. 이차함수의 그래프 이동
 
 **문제:**  
+{{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 y = x² 의 그래프를 x축 방향으로 2만큼, y축 방향으로 -3만큼 평행이동한 그래프의 식을 구하시오.
 
 **풀이:**  
@@ -299,6 +300,7 @@ A. 중학교 내신 시험에서는 계산기 사용이 불가능합니다.
 - [중2 수학 핵심 개념 총정리](/middle/math-grade2-summary/)
 - [고1 수학 예습 가이드 - 중학교와 뭐가 다를까?](/high/math-preparation/)
 - [수학 공부법 완벽 가이드 - 개념부터 심화까지](/study-tips/math-study-method/)
+{{< cta-consultation-final >}}
 
 ---
 
