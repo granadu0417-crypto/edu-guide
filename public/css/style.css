@@ -138,6 +138,47 @@ img, video, iframe {
     color: var(--primary-color);
 }
 
+/* 드롭다운 메뉴 */
+.main-nav .has-dropdown {
+    position: relative;
+}
+
+.main-nav .dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: white;
+    min-width: 200px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    padding: 0.5rem 0;
+    margin-top: 0.5rem;
+    z-index: 1000;
+}
+
+.main-nav .has-dropdown:hover .dropdown {
+    display: block;
+}
+
+.main-nav .dropdown li {
+    list-style: none;
+}
+
+.main-nav .dropdown a {
+    display: block;
+    padding: 0.7rem 1.2rem;
+    color: var(--text-primary);
+    font-size: var(--font-sm);
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.main-nav .dropdown a:hover {
+    background: var(--bg-light);
+    color: var(--primary-color);
+}
+
 /* 본문 타이포그래피 (가독성 극대화) */
 article {
     background: white;
@@ -293,6 +334,25 @@ a:hover {
     .main-nav a {
         font-size: 0.85rem;
         padding: 0.3rem 0;
+    }
+
+    /* 모바일 드롭다운 */
+    .main-nav .dropdown {
+        position: static;
+        box-shadow: none;
+        padding: 0.5rem 0 0 1rem;
+        margin-top: 0.3rem;
+        background: var(--bg-light);
+        border-radius: 4px;
+    }
+
+    .main-nav .has-dropdown:hover .dropdown {
+        display: block;
+    }
+
+    .main-nav .dropdown a {
+        padding: 0.5rem 0.8rem;
+        font-size: 0.8rem;
     }
 
     article {

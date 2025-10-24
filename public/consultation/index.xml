@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>무료 학습 상담 on 과외를부탁해 | 초중고 학습 정보 플랫폼</title>
-    <link>https://edukoreaai.com/consultation/</link>
+    <link>http://localhost:1313/consultation/</link>
     <description>Recent content in 무료 학습 상담 on 과외를부탁해 | 초중고 학습 정보 플랫폼</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <atom:link href="https://edukoreaai.com/consultation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/consultation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
