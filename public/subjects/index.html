@@ -173,6 +173,41 @@
     </div>
 </header>
 
+<script>
+
+(function() {
+    if ('ontouchstart' in window) {
+        const dropdowns = document.querySelectorAll('.has-dropdown');
+
+        dropdowns.forEach(dropdown => {
+            const link = dropdown.querySelector('a');
+            const menu = dropdown.querySelector('.dropdown');
+
+            link.addEventListener('click', function(e) {
+                
+                if (!dropdown.classList.contains('active')) {
+                    e.preventDefault();
+
+                    
+                    dropdowns.forEach(d => d.classList.remove('active'));
+
+                    
+                    dropdown.classList.add('active');
+                }
+                
+            });
+        });
+
+        
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.has-dropdown')) {
+                dropdowns.forEach(d => d.classList.remove('active'));
+            }
+        });
+    }
+})();
+</script>
+
     
     <main>
         
@@ -184,6 +219,46 @@
 </div>
 
 <div class="post-grid">
+    
+    <article class="post-card">
+        
+
+        <div class="post-card-content">
+            <div class="post-categories">
+                
+                <span class="post-category">수학</span>
+                
+                <span class="post-category">학습법</span>
+                
+            </div>
+
+            <h2 class="post-card-title">
+                <a href="/subjects/math/">수학 공부법</a>
+            </h2>
+
+            <p class="post-card-excerpt">수학 개념 이해부터 문제 풀이 전략까지, 수학 실력을 체계적으로 키우는 방법을 소개합니다.</p>
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025년 01월 24일</span>
+            </div>
+
+            
+            <div class="post-card-tags">
+                
+                <span class="post-tag">#수학</span>
+                
+                <span class="post-tag">#개념</span>
+                
+                <span class="post-tag">#문제풀이</span>
+                
+                <span class="post-tag">#도형</span>
+                
+                <span class="post-tag">#함수</span>
+                
+            </div>
+            
+        </div>
+    </article>
     
     <article class="post-card">
         
@@ -217,46 +292,6 @@
                 <span class="post-tag">#문법</span>
                 
                 <span class="post-tag">#문학</span>
-                
-            </div>
-            
-        </div>
-    </article>
-    
-    <article class="post-card">
-        
-
-        <div class="post-card-content">
-            <div class="post-categories">
-                
-                <span class="post-category">수학</span>
-                
-                <span class="post-category">학습법</span>
-                
-            </div>
-
-            <h2 class="post-card-title">
-                <a href="/subjects/math/">수학 공부법</a>
-            </h2>
-
-            <p class="post-card-excerpt">수학 개념 이해부터 문제 풀이 전략까지, 수학 실력을 체계적으로 키우는 방법을 소개합니다.</p>
-
-            <div class="post-card-meta">
-                <span class="post-date">📅 0001년 01월 01일</span>
-            </div>
-
-            
-            <div class="post-card-tags">
-                
-                <span class="post-tag">#수학</span>
-                
-                <span class="post-tag">#개념</span>
-                
-                <span class="post-tag">#문제풀이</span>
-                
-                <span class="post-tag">#도형</span>
-                
-                <span class="post-tag">#함수</span>
                 
             </div>
             

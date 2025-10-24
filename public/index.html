@@ -174,6 +174,41 @@
     </div>
 </header>
 
+<script>
+
+(function() {
+    if ('ontouchstart' in window) {
+        const dropdowns = document.querySelectorAll('.has-dropdown');
+
+        dropdowns.forEach(dropdown => {
+            const link = dropdown.querySelector('a');
+            const menu = dropdown.querySelector('.dropdown');
+
+            link.addEventListener('click', function(e) {
+                
+                if (!dropdown.classList.contains('active')) {
+                    e.preventDefault();
+
+                    
+                    dropdowns.forEach(d => d.classList.remove('active'));
+
+                    
+                    dropdown.classList.add('active');
+                }
+                
+            });
+        });
+
+        
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.has-dropdown')) {
+                dropdowns.forEach(d => d.classList.remove('active'));
+            }
+        });
+    }
+})();
+</script>
+
     
     <main>
         

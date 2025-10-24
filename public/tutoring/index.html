@@ -173,6 +173,41 @@
     </div>
 </header>
 
+<script>
+
+(function() {
+    if ('ontouchstart' in window) {
+        const dropdowns = document.querySelectorAll('.has-dropdown');
+
+        dropdowns.forEach(dropdown => {
+            const link = dropdown.querySelector('a');
+            const menu = dropdown.querySelector('.dropdown');
+
+            link.addEventListener('click', function(e) {
+                
+                if (!dropdown.classList.contains('active')) {
+                    e.preventDefault();
+
+                    
+                    dropdowns.forEach(d => d.classList.remove('active'));
+
+                    
+                    dropdown.classList.add('active');
+                }
+                
+            });
+        });
+
+        
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.has-dropdown')) {
+                dropdowns.forEach(d => d.classList.remove('active'));
+            }
+        });
+    }
+})();
+</script>
+
     
     <main>
         
@@ -204,7 +239,7 @@
             <p class="post-card-excerpt">학원과 과외의 장단점을 비교하고, 우리 아이에게 맞는 학습 방법을 선택하는 가이드를 제공합니다.</p>
 
             <div class="post-card-meta">
-                <span class="post-date">📅 2025년 10월 24일</span>
+                <span class="post-date">📅 2025년 01월 24일</span>
             </div>
 
             

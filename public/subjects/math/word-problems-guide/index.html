@@ -25,8 +25,8 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     
-    <meta property="article:published_time" content="2025-10-24T00:00:00Z">
-    <meta property="article:modified_time" content="2025-10-24T00:00:00Z">
+    <meta property="article:published_time" content="2025-01-24T00:00:00Z">
+    <meta property="article:modified_time" content="2025-01-24T00:00:00Z">
     <meta property="article:author" content="과외를부탁해 편집팀">
     
     
@@ -57,8 +57,8 @@
                 "url": "http:\/\/localhost:1313\/images/logo.png"
             }
         },
-        "datePublished": "2025-10-24T00:00:00Z",
-        "dateModified": "2025-10-24T00:00:00Z",
+        "datePublished": "2025-01-24T00:00:00Z",
+        "dateModified": "2025-01-24T00:00:00Z",
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "http:\/\/localhost:1313\/subjects\/math\/word-problems-guide\/"
@@ -215,6 +215,41 @@
     </div>
 </header>
 
+<script>
+
+(function() {
+    if ('ontouchstart' in window) {
+        const dropdowns = document.querySelectorAll('.has-dropdown');
+
+        dropdowns.forEach(dropdown => {
+            const link = dropdown.querySelector('a');
+            const menu = dropdown.querySelector('.dropdown');
+
+            link.addEventListener('click', function(e) {
+                
+                if (!dropdown.classList.contains('active')) {
+                    e.preventDefault();
+
+                    
+                    dropdowns.forEach(d => d.classList.remove('active'));
+
+                    
+                    dropdown.classList.add('active');
+                }
+                
+            });
+        });
+
+        
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.has-dropdown')) {
+                dropdowns.forEach(d => d.classList.remove('active'));
+            }
+        });
+    }
+})();
+</script>
+
     
     <main>
         
@@ -239,7 +274,7 @@
         
         <div class="article-info">
             <span class="author">✍️ 과외를부탁해 편집팀</span>
-            <span class="date">📅 2025년 10월 24일</span>
+            <span class="date">📅 2025년 01월 24일</span>
         </div>
 
         

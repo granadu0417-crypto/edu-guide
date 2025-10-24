@@ -173,6 +173,41 @@
     </div>
 </header>
 
+<script>
+
+(function() {
+    if ('ontouchstart' in window) {
+        const dropdowns = document.querySelectorAll('.has-dropdown');
+
+        dropdowns.forEach(dropdown => {
+            const link = dropdown.querySelector('a');
+            const menu = dropdown.querySelector('.dropdown');
+
+            link.addEventListener('click', function(e) {
+                
+                if (!dropdown.classList.contains('active')) {
+                    e.preventDefault();
+
+                    
+                    dropdowns.forEach(d => d.classList.remove('active'));
+
+                    
+                    dropdown.classList.add('active');
+                }
+                
+            });
+        });
+
+        
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.has-dropdown')) {
+                dropdowns.forEach(d => d.classList.remove('active'));
+            }
+        });
+    }
+})();
+</script>
+
     
     <main>
         
@@ -185,13 +220,46 @@
 
 <div class="post-grid">
     
+    <article class="post-card">
+        
+
+        <div class="post-card-content">
+            <div class="post-categories">
+                
+                <span class="post-category">수학</span>
+                
+                <span class="post-category">학습법</span>
+                
+            </div>
+
+            <h2 class="post-card-title">
+                <a href="/subjects/math/word-problems-guide/">수학 문장제 정복하기 - 초등부터 고등까지 완벽 가이드</a>
+            </h2>
+
+            <p class="post-card-excerpt">수학 문장제를 쉽게 푸는 방법과 실전 팁을 학년별로 정리했습니다.</p>
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025년 01월 24일</span>
+            </div>
+
+            
+            <div class="post-card-tags">
+                
+                <span class="post-tag">#수학</span>
+                
+                <span class="post-tag">#문장제</span>
+                
+                <span class="post-tag">#문제풀이</span>
+                
+                <span class="post-tag">#공부법</span>
+                
+            </div>
+            
+        </div>
+    </article>
+    
 </div>
 
-
-<div class="empty-state">
-    <p>📝 아직 작성된 글이 없습니다.</p>
-    <p class="empty-state-subtitle">곧 유용한 정보를 가득 채워드릴게요!</p>
-</div>
 
 
 <style>

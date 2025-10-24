@@ -173,6 +173,41 @@
     </div>
 </header>
 
+<script>
+
+(function() {
+    if ('ontouchstart' in window) {
+        const dropdowns = document.querySelectorAll('.has-dropdown');
+
+        dropdowns.forEach(dropdown => {
+            const link = dropdown.querySelector('a');
+            const menu = dropdown.querySelector('.dropdown');
+
+            link.addEventListener('click', function(e) {
+                
+                if (!dropdown.classList.contains('active')) {
+                    e.preventDefault();
+
+                    
+                    dropdowns.forEach(d => d.classList.remove('active'));
+
+                    
+                    dropdown.classList.add('active');
+                }
+                
+            });
+        });
+
+        
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.has-dropdown')) {
+                dropdowns.forEach(d => d.classList.remove('active'));
+            }
+        });
+    }
+})();
+</script>
+
     
     <main>
         
@@ -202,7 +237,7 @@
             <p class="post-card-excerpt">수학 문장제를 쉽게 푸는 방법과 실전 팁을 학년별로 정리했습니다.</p>
 
             <div class="post-card-meta">
-                <span class="post-date">📅 2025년 10월 24일</span>
+                <span class="post-date">📅 2025년 01월 24일</span>
             </div>
 
             
