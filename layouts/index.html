@@ -69,7 +69,7 @@
 <section class="recent-posts">
     <h2 class="section-title">✨ 최신 글</h2>
     <div class="post-list">
-        {{ range first 6 (where .Site.RegularPages "Type" "in" (slice "elementary" "middle" "high" "local" "academy")) }}
+        {{ range first 6 (where .Site.RegularPages "Type" "in" (slice "elementary" "middle" "high" "local")) }}
         <article class="post-card">
             <div class="post-categories">
                 {{ range .Params.categories }}

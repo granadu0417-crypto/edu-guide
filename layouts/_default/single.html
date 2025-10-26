@@ -23,6 +23,13 @@
             <span class="date">📅 {{ .Date.Format "2006년 01월 02일" }}</span>
         </div>
 
+        <!-- Featured Image -->
+        {{ with .Params.featured_image }}
+        <div class="featured-image">
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        </div>
+        {{ end }}
+
         <!-- 본문 -->
         <div class="article-content">
             {{ .Content }}
@@ -98,6 +105,19 @@
 .article-content {
     font-size: var(--font-base);
     line-height: var(--line-height-relaxed);
+}
+
+.featured-image {
+    margin: 2rem 0 3rem 0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.featured-image img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 .article-tags {
