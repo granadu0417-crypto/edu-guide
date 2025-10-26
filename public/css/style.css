@@ -123,6 +123,7 @@ img, video, iframe {
     display: flex;
     list-style: none;
     gap: 2rem;
+    align-items: center;
 }
 
 .main-nav a {
@@ -132,6 +133,9 @@ img, video, iframe {
     font-weight: 600;
     transition: color 0.2s;
     padding: 0.5rem 0;
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
 }
 
 .main-nav a:hover {

@@ -150,6 +150,10 @@
                         
                     
                         
+                            <li><a href="/exam/">시험 대비</a></li>
+                        
+                    
+                        
                             <li class="has-dropdown">
                                 <a href="">지역정보 ▼</a>
                                 <ul class="dropdown">
@@ -231,49 +235,179 @@
 (function() {
     const slides = document.querySelectorAll('.hero-bg-slide');
     let currentSlide = 0;
-    
+
     function nextSlide() {
         slides[currentSlide].classList.remove('active');
         currentSlide = (currentSlide + 1) % slides.length;
         slides[currentSlide].classList.add('active');
     }
-    
+
     
     setInterval(nextSlide, 5000);
+})();
+
+
+(function() {
+    const track = document.querySelector('.category-track');
+    const prevBtn = document.querySelector('.slider-btn.prev');
+    const nextBtn = document.querySelector('.slider-btn.next');
+    const indicators = document.querySelectorAll('.indicator');
+    const cards = document.querySelectorAll('.category-card');
+
+    let currentIndex = 0;
+    const totalSlides = cards.length;
+
+    
+    function getSlidesPerView() {
+        if (window.innerWidth <= 480) return 2;
+        if (window.innerWidth <= 768) return 3;
+        return 4;
+    }
+
+    function updateSlider() {
+        const slidesPerView = getSlidesPerView();
+        const cardWidth = cards[0].offsetWidth;
+        const gap = 20; 
+        const offset = -(currentIndex * (cardWidth + gap));
+
+        track.style.transform = `translateX(${offset}px)`;
+
+        
+        indicators.forEach((indicator, index) => {
+            indicator.classList.toggle('active', index === currentIndex);
+        });
+
+        
+        if (currentIndex === 0) {
+            prevBtn.classList.add('disabled');
+            prevBtn.style.pointerEvents = 'none';
+        } else {
+            prevBtn.classList.remove('disabled');
+            prevBtn.style.pointerEvents = 'auto';
+        }
+
+        const maxIndex = totalSlides - slidesPerView;
+        if (currentIndex >= maxIndex) {
+            nextBtn.classList.add('disabled');
+            nextBtn.style.pointerEvents = 'none';
+        } else {
+            nextBtn.classList.remove('disabled');
+            nextBtn.style.pointerEvents = 'auto';
+        }
+    }
+
+    function goToSlide(index) {
+        const slidesPerView = getSlidesPerView();
+        const maxIndex = totalSlides - slidesPerView;
+        currentIndex = Math.max(0, Math.min(index, maxIndex));
+        updateSlider();
+    }
+
+    
+    prevBtn.addEventListener('click', () => goToSlide(currentIndex - 1));
+    nextBtn.addEventListener('click', () => goToSlide(currentIndex + 1));
+
+    indicators.forEach((indicator, index) => {
+        indicator.addEventListener('click', () => goToSlide(index));
+    });
+
+    
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+            goToSlide(currentIndex);
+        }, 100);
+    });
+
+    
+    updateSlider();
 })();
 </script>
 
 <section class="category-section">
     <h2 class="section-title">📖 카테고리별 글 보기</h2>
-    <div class="category-grid">
-        <a href="/elementary/" class="category-card">
-            <div class="category-image" style="background-image: url('/images/infographic-english.webp')"></div>
-            <div class="category-content">
-                <h3>🎒 초등학교</h3>
-                <p>초등학생 학습 정보</p>
+    <div class="category-slider-wrapper">
+        <button class="slider-btn prev" aria-label="이전">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="15 18 9 12 15 6"></polyline>
+            </svg>
+        </button>
+        <div class="category-slider">
+            <div class="category-track">
+                <a href="/elementary/" class="category-card">
+                    <div class="category-image" style="background-image: url('/images/infographic-english.webp')"></div>
+                    <div class="category-content">
+                        <h3>🎒 초등학생</h3>
+                        <p>초등 학습 정보</p>
+                    </div>
+                </a>
+                <a href="/middle/" class="category-card">
+                    <div class="category-image" style="background-image: url('/images/infographic-korean.webp')"></div>
+                    <div class="category-content">
+                        <h3>📝 중학생</h3>
+                        <p>중학 내신·학습</p>
+                    </div>
+                </a>
+                <a href="/high/" class="category-card">
+                    <div class="category-image" style="background-image: url('/images/infographic-study-comparison.webp')"></div>
+                    <div class="category-content">
+                        <h3>🎓 고등학생</h3>
+                        <p>고등 수능·입시</p>
+                    </div>
+                </a>
+                <a href="/subjects/korean/" class="category-card">
+                    <div class="category-image" style="background-image: url('/images/infographic-korean.webp')"></div>
+                    <div class="category-content">
+                        <h3>📚 국어</h3>
+                        <p>국어 공부법</p>
+                    </div>
+                </a>
+                <a href="/subjects/english/" class="category-card">
+                    <div class="category-image" style="background-image: url('/images/infographic-english.webp')"></div>
+                    <div class="category-content">
+                        <h3>🔤 영어</h3>
+                        <p>영어 공부법</p>
+                    </div>
+                </a>
+                <a href="/subjects/math/" class="category-card">
+                    <div class="category-image" style="background-image: url('/images/infographic-study-comparison.webp')"></div>
+                    <div class="category-content">
+                        <h3>🔢 수학</h3>
+                        <p>수학 공부법</p>
+                    </div>
+                </a>
+                <a href="/subjects/science/" class="category-card">
+                    <div class="category-image" style="background-image: url('/images/infographic-curriculum.webp')"></div>
+                    <div class="category-content">
+                        <h3>🔬 과학</h3>
+                        <p>과학 공부법</p>
+                    </div>
+                </a>
+                <a href="/subjects/social/" class="category-card">
+                    <div class="category-image" style="background-image: url('/images/infographic-korean.webp')"></div>
+                    <div class="category-content">
+                        <h3>🌍 사회</h3>
+                        <p>사회 공부법</p>
+                    </div>
+                </a>
             </div>
-        </a>
-        <a href="/middle/" class="category-card">
-            <div class="category-image" style="background-image: url('/images/infographic-korean.webp')"></div>
-            <div class="category-content">
-                <h3>📝 중학교</h3>
-                <p>중학생 내신·학습 정보</p>
-            </div>
-        </a>
-        <a href="/high/" class="category-card">
-            <div class="category-image" style="background-image: url('/images/infographic-study-comparison.webp')"></div>
-            <div class="category-content">
-                <h3>🎓 고등학교</h3>
-                <p>고등학생 수능·입시 정보</p>
-            </div>
-        </a>
-        <a href="/local/" class="category-card">
-            <div class="category-image" style="background-image: url('/images/infographic-curriculum.webp')"></div>
-            <div class="category-content">
-                <h3>📍 지역 정보</h3>
-                <p>지역별 학원·과외 정보</p>
-            </div>
-        </a>
+        </div>
+        <button class="slider-btn next" aria-label="다음">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+        </button>
+    </div>
+    <div class="slider-indicators">
+        <span class="indicator active" data-slide="0"></span>
+        <span class="indicator" data-slide="1"></span>
+        <span class="indicator" data-slide="2"></span>
+        <span class="indicator" data-slide="3"></span>
+        <span class="indicator" data-slide="4"></span>
+        <span class="indicator" data-slide="5"></span>
+        <span class="indicator" data-slide="6"></span>
+        <span class="indicator" data-slide="7"></span>
     </div>
 </section>
 
@@ -320,6 +454,137 @@
                 
                 <span class="post-category">고등학생</span>
                 
+                <span class="post-category">국어</span>
+                
+                <span class="post-category">학습법</span>
+                
+                <span class="post-category">수능</span>
+                
+            </div>
+            <h3 class="post-card-title">
+                <a href="/high/high-school-korean-study-guide/">고등학생 국어 공부법 완벽 가이드 | 수능부터 내신까지</a>
+            </h3>
+            <p class="post-card-excerpt">수능 국어 1등급의 비밀! 독서·문학·문법·화작 영역별 완벽 공략법과 고1~고3 학년별 맞춤 전략. 국어 공부, 이제 제대로 시작하세요.</p>
+            <div class="post-card-meta">
+                <span class="post-date">2025.01.26</span>
+            </div>
+        </article>
+        
+        <article class="post-card">
+            <div class="post-categories">
+                
+                <span class="post-category">시험</span>
+                
+                <span class="post-category">학습전략</span>
+                
+            </div>
+            <h3 class="post-card-title">
+                <a href="/exam/exam-two-weeks-before-strategy/">시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜</a>
+            </h3>
+            <p class="post-card-excerpt">시험 2주 남았을 때, 어떻게 공부해야 할까요? 중간고사·기말고사 단기 집중 전략과 과목별 공부법, 실수 없는 준비 체크리스트까지!</p>
+            <div class="post-card-meta">
+                <span class="post-date">2025.01.26</span>
+            </div>
+        </article>
+        
+        <article class="post-card">
+            <div class="post-categories">
+                
+                <span class="post-category">학원과외</span>
+                
+                <span class="post-category">온라인학습</span>
+                
+            </div>
+            <h3 class="post-card-title">
+                <a href="/tutoring/online-video-tutoring-guide/">온라인 화상과외 완벽 가이드 | 장단점부터 선택법까지</a>
+            </h3>
+            <p class="post-card-excerpt">온라인 화상과외, 정말 효과 있을까? 장점·단점 완벽 분석과 대면 과외 비교, 선생님 선택 가이드까지. 우리 아이에게 맞는 과외 찾기!</p>
+            <div class="post-card-meta">
+                <span class="post-date">2025.01.26</span>
+            </div>
+        </article>
+        
+        <article class="post-card">
+            <div class="post-categories">
+                
+                <span class="post-category">중학생</span>
+                
+                <span class="post-category">영어</span>
+                
+                <span class="post-category">학습법</span>
+                
+                <span class="post-category">내신</span>
+                
+            </div>
+            <h3 class="post-card-title">
+                <a href="/middle/middle-school-english-study-guide/">중학생 영어 공부법 완전 정복 | 내신부터 고등 준비까지</a>
+            </h3>
+            <p class="post-card-excerpt">중학 영어, 이렇게 공부하세요! 문법·독해·듣기·어휘를 완벽하게. 중1~중3 학년별 맞춤 전략과 내신 만점 비법을 공개합니다. 고등 영어 준비는 지금부터!</p>
+            <div class="post-card-meta">
+                <span class="post-date">2025.01.26</span>
+            </div>
+        </article>
+        
+        <article class="post-card">
+            <div class="post-categories">
+                
+                <span class="post-category">초등학생</span>
+                
+                <span class="post-category">수학</span>
+                
+                <span class="post-category">학습법</span>
+                
+            </div>
+            <h3 class="post-card-title">
+                <a href="/elementary/elementary-math-study-guide/">초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략</a>
+            </h3>
+            <p class="post-card-excerpt">초등 수학 공부, 어떻게 시작해야 할까요? 1학년부터 6학년까지 학년별 맞춤 학습 전략과 실전 노하우를 전문가가 알려드립니다. 수학 기초를 탄탄하게!</p>
+            <div class="post-card-meta">
+                <span class="post-date">2025.01.26</span>
+            </div>
+        </article>
+        
+        <article class="post-card">
+            <div class="post-categories">
+                
+                <span class="post-category">학원과외</span>
+                
+                <span class="post-category">선택가이드</span>
+                
+            </div>
+            <h3 class="post-card-title">
+                <a href="/tutoring/private-tutor-selection-guide/">과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드</a>
+            </h3>
+            <p class="post-card-excerpt">학원과 과외 중 무엇을 선택할지, 좋은 선생님은 어떻게 찾는지, 효과적으로 활용하는 방법까지. 과외 선택의 모든 것을 담았습니다.</p>
+            <div class="post-card-meta">
+                <span class="post-date">2025.01.25</span>
+            </div>
+        </article>
+        
+        <article class="post-card">
+            <div class="post-categories">
+                
+                <span class="post-category">과목별</span>
+                
+                <span class="post-category">국어</span>
+                
+                <span class="post-category">학습법</span>
+                
+            </div>
+            <h3 class="post-card-title">
+                <a href="/subjects/korean-reading-improvement/">국어 독해력 향상 5단계 전략 - 초등부터 고등까지</a>
+            </h3>
+            <p class="post-card-excerpt">국어 독해력을 체계적으로 향상시키는 5단계 전략입니다. 학년별 맞춤 방법과 실전 훈련, 문제 풀이 노하우까지 완벽 가이드를 제공합니다.</p>
+            <div class="post-card-meta">
+                <span class="post-date">2025.01.25</span>
+            </div>
+        </article>
+        
+        <article class="post-card">
+            <div class="post-categories">
+                
+                <span class="post-category">고등학생</span>
+                
                 <span class="post-category">수능</span>
                 
                 <span class="post-category">입시전략</span>
@@ -331,59 +596,6 @@
             <p class="post-card-excerpt">수능 100일 전부터 당일까지, 과목별 마무리 전략과 실전 감각 키우기, 멘탈 관리까지 완벽 대비 가이드입니다.</p>
             <div class="post-card-meta">
                 <span class="post-date">2025.01.25</span>
-            </div>
-        </article>
-        
-        <article class="post-card">
-            <div class="post-categories">
-                
-                <span class="post-category">중학생</span>
-                
-                <span class="post-category">학습법</span>
-                
-                <span class="post-category">자기주도학습</span>
-                
-            </div>
-            <h3 class="post-card-title">
-                <a href="/middle/self-directed-learning-complete-guide/">중학생 자기주도학습 완전 가이드 - 내신부터 고등 준비까지</a>
-            </h3>
-            <p class="post-card-excerpt">중학생 자기주도학습의 모든 것. 계획 수립부터 실행, 점검까지 단계별 전략과 내신 관리, 고등학교 준비를 위한 실전 가이드입니다.</p>
-            <div class="post-card-meta">
-                <span class="post-date">2025.01.25</span>
-            </div>
-        </article>
-        
-        <article class="post-card">
-            <div class="post-categories">
-                
-                <span class="post-category">초등학생</span>
-                
-                <span class="post-category">학습법</span>
-                
-                <span class="post-category">습관</span>
-                
-            </div>
-            <h3 class="post-card-title">
-                <a href="/elementary/study-habits-formation/">초등학생 공부습관 만들기 - 평생 가는 학습 기초 다지기</a>
-            </h3>
-            <p class="post-card-excerpt">초등학생 시기에 올바른 공부습관을 만드는 것이 평생 학습의 기초가 됩니다. 학년별 맞춤 전략과 부모의 역할, 실천 가능한 방법을 제공합니다.</p>
-            <div class="post-card-meta">
-                <span class="post-date">2025.01.25</span>
-            </div>
-        </article>
-        
-        <article class="post-card">
-            <div class="post-categories">
-                
-                <span class="post-category">지역정보</span>
-                
-            </div>
-            <h3 class="post-card-title">
-                <a href="/local/gyeonggi-education-guide/">경기도 주요 지역 교육 환경 가이드 - 학군과 교육 인프라 총정리</a>
-            </h3>
-            <p class="post-card-excerpt">경기도 주요 교육 도시(분당, 평촌, 산본, 일산, 동탄 등)의 학군 정보와 교육 인프라를 상세히 안내합니다. 지역별 특징, 학교 현황, 도서관, 교육지원센터 정보를 완벽 정리했습니다.</p>
-            <div class="post-card-meta">
-                <span class="post-date">2025.01.17</span>
             </div>
         </article>
         
@@ -475,13 +687,23 @@
     color: var(--text-primary);
 }
 
-.category-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 24px;
-    justify-items: center;
-    max-width: 1100px;
+ 
+.category-slider-wrapper {
+    position: relative;
+    max-width: 1200px;
     margin: 0 auto;
+    padding: 0 60px;
+}
+
+.category-slider {
+    overflow: hidden;
+    border-radius: 16px;
+}
+
+.category-track {
+    display: flex;
+    gap: 20px;
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .category-card {
@@ -493,6 +715,8 @@
     text-decoration: none;
     transition: all 0.3s ease;
     overflow: hidden;
+    flex-shrink: 0;
+    width: calc((100% - 60px) / 4);
 }
 
 .category-card:hover {
@@ -529,6 +753,80 @@
     font-size: var(--font-sm);
     color: var(--text-secondary);
     margin: 0;
+}
+
+ 
+.slider-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: white;
+    border: 2px solid var(--border-light);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    z-index: 10;
+    color: var(--primary-color);
+}
+
+.slider-btn:hover {
+    background: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 12px rgba(74, 144, 226, 0.3);
+}
+
+.slider-btn.prev {
+    left: 0;
+}
+
+.slider-btn.next {
+    right: 0;
+}
+
+.slider-btn.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.slider-btn.disabled:hover {
+    background: white;
+    color: var(--primary-color);
+    border-color: var(--border-light);
+    box-shadow: none;
+}
+
+ 
+.slider-indicators {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 24px;
+}
+
+.indicator {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--border-light);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.indicator:hover {
+    background: var(--primary-color);
+    opacity: 0.7;
+}
+
+.indicator.active {
+    width: 24px;
+    border-radius: 4px;
+    background: var(--primary-color);
 }
 
 .post-list {
@@ -680,24 +978,25 @@
     }
 
      
-    .category-grid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 12px;
-        padding: 0 8px;
+    .category-slider-wrapper {
+        padding: 0 50px;
     }
 
     .category-card {
-        width: 100%;
+        width: calc((100% - 40px) / 3);
     }
 
-     
+    .slider-btn {
+        width: 40px;
+        height: 40px;
+    }
+
     .category-image {
-        height: 100px;
+        height: 120px;
     }
 
-     
     .category-content {
-        padding: 12px;
+        padding: 16px;
     }
 
     .category-content h3 {
@@ -711,6 +1010,39 @@
 
     .post-list {
         grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+     
+    .category-slider-wrapper {
+        padding: 0 40px;
+    }
+
+    .category-card {
+        width: calc((100% - 20px) / 2);
+    }
+
+    .slider-btn {
+        width: 36px;
+        height: 36px;
+    }
+
+    .category-image {
+        height: 100px;
+    }
+
+    .category-content {
+        padding: 12px;
+    }
+
+    .indicator {
+        width: 6px;
+        height: 6px;
+    }
+
+    .indicator.active {
+        width: 18px;
     }
 }
 </style>

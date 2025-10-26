@@ -28,8 +28,48 @@
   </url>
   <url>
     <loc>https://edukoreaai.com/high/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/high/high-school-korean-study-guide/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/exam/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/tutoring/online-video-tutoring-guide/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/middle/middle-school-english-study-guide/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/elementary/elementary-math-study-guide/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/elementary/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/tutoring/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://edukoreaai.com/subjects/</loc>
@@ -57,17 +97,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://edukoreaai.com/elementary/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://edukoreaai.com/elementary/study-habits-formation/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://edukoreaai.com/tutoring/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -87,7 +117,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://edukoreaai.com/local/gyeonggi-education-guide/</loc>
+    <loc>https://edukoreaai.com/tutoring/guide/</loc>
+    <lastmod>2025-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/local/gyeonggi/gyeonggi-education-guide/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/local/gyeonggi/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -122,7 +162,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://edukoreaai.com/local/seoul-gangnam-education/</loc>
+    <loc>https://edukoreaai.com/local/seoul/seoul-gangnam-education/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/local/seoul/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -292,6 +337,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://edukoreaai.com/tutoring/private/</loc><changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://edukoreaai.com/subjects/science/</loc><changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://edukoreaai.com/subjects/korean/</loc><changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -300,11 +353,15 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://edukoreaai.com/subjects/social/</loc><changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://edukoreaai.com/subjects/english/</loc><changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://edukoreaai.com/academy/</loc><changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://edukoreaai.com/tutoring/academy/</loc><changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
