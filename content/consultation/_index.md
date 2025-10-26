@@ -407,10 +407,10 @@ description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료
   margin: 0;
 }
 
-/* 상담 카테고리 */
+/* 상담 카테고리 - 2x2 그리드 */
 .consultation-categories {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 32px;
   margin: 40px 0;
 }
