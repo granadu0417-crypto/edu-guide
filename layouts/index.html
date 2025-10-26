@@ -63,12 +63,22 @@
         });
 
         // 버튼 활성화/비활성화
-        prevBtn.style.opacity = currentIndex === 0 ? '0.3' : '1';
-        prevBtn.style.pointerEvents = currentIndex === 0 ? 'none' : 'auto';
+        if (currentIndex === 0) {
+            prevBtn.classList.add('disabled');
+            prevBtn.style.pointerEvents = 'none';
+        } else {
+            prevBtn.classList.remove('disabled');
+            prevBtn.style.pointerEvents = 'auto';
+        }
 
         const maxIndex = totalSlides - slidesPerView;
-        nextBtn.style.opacity = currentIndex >= maxIndex ? '0.3' : '1';
-        nextBtn.style.pointerEvents = currentIndex >= maxIndex ? 'none' : 'auto';
+        if (currentIndex >= maxIndex) {
+            nextBtn.classList.add('disabled');
+            nextBtn.style.pointerEvents = 'none';
+        } else {
+            nextBtn.classList.remove('disabled');
+            nextBtn.style.pointerEvents = 'auto';
+        }
     }
 
     function goToSlide(index) {
@@ -393,6 +403,18 @@
 
 .slider-btn.next {
     right: 0;
+}
+
+.slider-btn.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.slider-btn.disabled:hover {
+    background: white;
+    color: var(--primary-color);
+    border-color: var(--border-light);
+    box-shadow: none;
 }
 
 /* 인디케이터 */
