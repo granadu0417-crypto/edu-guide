@@ -102,11 +102,17 @@ title = "과외를부탁해 | 초중고 학습 정보 플랫폼"
     url = "/tutoring/private/"
     weight = 3
 
+  # 시험 대비 (단독 메뉴)
+  [[menu.main]]
+    name = "시험 대비"
+    url = "/exam/"
+    weight = 4
+
   # 지역정보 (드롭다운)
   [[menu.main]]
     name = "지역정보"
     identifier = "local"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "서울"
@@ -130,7 +136,7 @@ title = "과외를부탁해 | 초중고 학습 정보 플랫폼"
   [[menu.main]]
     name = "무료 상담"
     url = "/consultation/"
-    weight = 5
+    weight = 6
 
 [taxonomies]
   category = "categories"
