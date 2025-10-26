@@ -5,7 +5,7 @@ description: "중학 영어, 이렇게 공부하세요! 문법·독해·듣기·
 categories: ["중학생", "영어", "학습법", "내신"]
 tags: ["중학영어", "영어공부법", "중등영어", "영어문법", "영어독해", "내신영어", "영어듣기", "서술형영어", "영어어휘"]
 grades: ["중학생"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&q=80"
 draft: false
 ---
 
@@ -25,6 +25,8 @@ draft: false
 - **영어 자신감**: 중등 3년이 평생 영어 실력을 좌우합니다
 
 {{< cta-kakao-consultation type="hero" >}}
+
+![중학생이 영어 공부를 하고 있는 모습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80 "중학 영어 학습의 중요성")
 
 ---
 

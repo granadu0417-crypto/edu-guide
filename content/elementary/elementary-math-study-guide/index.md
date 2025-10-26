@@ -5,7 +5,7 @@ description: "초등 수학 공부, 어떻게 시작해야 할까요? 1학년부
 categories: ["초등학생", "수학", "학습법"]
 tags: ["초등수학", "공부법", "학습전략", "수학기초", "학년별학습", "초등교육", "사칙연산", "문제풀이", "수학개념"]
 grades: ["초등학생"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80"
 draft: false
 ---
 
@@ -25,6 +25,8 @@ draft: false
 - **학습 태도**: 스스로 생각하고 풀어내는 습관을 만듭니다
 
 {{< cta-kakao-consultation type="hero" >}}
+
+![초등학생이 수학 공부를 하고 있는 모습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80 "초등 수학 학습의 중요성")
 
 ---
 
@@ -94,6 +96,8 @@ draft: false
 ---
 
 ### 5~6학년: 중등 준비, 심화 개념 다지기
+
+![고학년 학생이 심화 수학 문제를 풀고 있는 모습](https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&q=80 "초등 고학년 수학 학습")
 
 **핵심 목표**: 분수·소수 완벽 이해, 비율·도형 심화, 수학적 사고력 확장
 

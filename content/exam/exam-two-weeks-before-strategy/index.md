@@ -4,7 +4,7 @@ date: 2025-01-26
 description: "시험 2주 남았을 때, 어떻게 공부해야 할까요? 중간고사·기말고사 단기 집중 전략과 과목별 공부법, 실수 없는 준비 체크리스트까지!"
 categories: ["시험", "학습전략"]
 tags: ["시험공부", "시험대비", "중간고사", "기말고사", "내신대비", "공부법", "시험전략", "단기집중", "시험준비"]
-featured_image: ""
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=80"
 draft: false
 ---
 
