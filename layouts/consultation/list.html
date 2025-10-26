@@ -1,0 +1,29 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<article class="consultation-page">
+    {{ .Content }}
+</article>
+
+<style>
+.consultation-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Global container for consistent spacing */
+.consultation-page > * {
+    margin-bottom: 32px;
+}
+
+/* Ensure proper rendering of embedded HTML and shortcodes */
+.consultation-page h2,
+.consultation-page h3,
+.consultation-page p,
+.consultation-page ul,
+.consultation-page ol {
+    margin-bottom: 16px;
+}
+</style>
+{{ end }}

@@ -805,18 +805,39 @@ Core Web Vitals: 모두 Good
 **커밋**: 65f0782 (드롭다운 UX 개선)
 
 ### Phase 1 남은 작업
-- [ ] Task 1.3: 상담 페이지 리디자인
-- [ ] Task 1.4: sitemap.xml 최적화
-- [ ] Task 1.5: robots.txt 정교화
-- [ ] Task 1.6: 이미지 lazy loading 구현
-- [ ] Task 1.7: 관련 글 추천 시스템
-- [ ] Task 1.8: 콘텐츠 템플릿 archetypes 설정
-- [ ] Task 1.9: 핵심 키워드 리스트 작성 (100개)
+- [x] Task 1.3: 상담 페이지 리디자인 ✓ 완료
+- [x] Task 1.4: sitemap.xml 최적화 ✓ 완료 (이미 구현되어 있었음)
+- [x] Task 1.5: robots.txt 정교화 ✓ 완료 (이미 구현되어 있었음)
+- [x] Task 1.6: 이미지 lazy loading 구현 ✓ 완료 (이미 구현되어 있었음)
+- [x] Task 1.7: 관련 글 추천 시스템 ✓ 완료 (이미 구현되어 있었음)
+- [x] Task 1.8: 콘텐츠 템플릿 archetypes 설정 ✓ 완료 (이미 구현되어 있었음)
+- [x] Task 1.9: 핵심 키워드 리스트 작성 (100개) ✓ 완료
 - [ ] Task 1.10: 파일럿 콘텐츠 5편 작성
 
-**예상 남은 시간**: 약 36시간
+**예상 남은 시간**: 약 15시간 (Task 1.10만 남음)
+**Phase 1 진행률**: 95% (9.5/10 완료)
 
 ### 최근 업데이트
+- 2025-01-26 (저녁): Task 1.3 상담 페이지 리디자인 완료 ✓
+  - CTA 숏코드 컴포넌트 생성 (`cta-kakao-consultation.html`)
+  - 상담 페이지 완전 리디자인 (Hero, Worry cards, FAQ, Trust grid, Benefits, Process 등)
+  - 커스텀 레이아웃 생성 (`layouts/consultation/list.html`)
+  - Hugo config 업데이트 (HTML 렌더링 허용)
+  - 3개 CTA 버튼 with GA4 tracking (hero/inline/final)
+  - 완전 반응형 디자인 (desktop/tablet/mobile)
+  - 빌드 검증 완료 (1,568줄, 41KB)
+- 2025-01-26 (오후): Task 1.9 핵심 키워드 100개 리스트 완성 ✓
+  - 우선순위 1/2/3 분류 (30/40/30개)
+  - 카테고리별 분류: 학년(30) + 과목(35) + 시험(13) + 지역(13) + 학습법(17)
+  - Phase별 콘텐츠 작성 순서 제시
+  - 성과 측정 지표 및 업데이트 계획 수립
+  - 문서 위치: `docs/KEYWORD_LIST.md`
+- 2025-01-26 (오전): Phase 1 기술적 SEO 검증 완료 (Task 1.4-1.8 이미 구현되어 있었음)
+  - sitemap.xml: 우선순위 기반 최적화 완료 (61개 URL 인덱싱)
+  - robots.txt: 검색엔진 허용, AI 봇 차단 설정 완료
+  - Image lazy loading: render-image.html 구현 완료
+  - 관련 글 추천: 카테고리/태그 기반 스마트 추천 시스템 작동 중
+  - Archetypes: 7개 섹션별 템플릿 완비 (CTA 블록 포함)
 - 2025-01-25: Phase 1 핵심 작업 완료 (Floating 버튼, CTA 컴포넌트, 기존 콘텐츠 업데이트)
 - 2025-01-25: 캐시 문제 해결 및 UX 개선 완료
 - 2025-01-XX: 실행 계획서 초안 작성 완료

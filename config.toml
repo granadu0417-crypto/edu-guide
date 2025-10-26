@@ -144,3 +144,9 @@ title = "과외를부탁해 | 초중고 학습 정보 플랫폼"
 
 # Sitemap 설정은 layouts/sitemap.xml에서 커스터마이징됨
 # 콘텐츠 유형별 우선순위 차별화, 불필요한 페이지 제외
+
+# Markdown 렌더링 설정
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # HTML 렌더링 허용 (상담 페이지 등에서 필요)
