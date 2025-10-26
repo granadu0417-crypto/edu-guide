@@ -132,5 +132,102 @@
     color: var(--primary-color);
     font-size: var(--font-sm);
 }
+
+/* 모바일 최적화 */
+@media (max-width: 768px) {
+    .article-title {
+        font-size: 1.6rem; /* 2.5rem → 1.6rem */
+        line-height: 1.4;
+        margin-bottom: 0.8rem;
+    }
+
+    .article-info {
+        gap: 1rem;
+        padding-bottom: 1.5rem;
+        margin-bottom: 2rem;
+        font-size: 0.85rem;
+    }
+
+    .article-content {
+        font-size: 1rem; /* 본문 가독성 */
+        line-height: 1.7;
+    }
+
+    /* 본문 내 제목 크기 조정 */
+    .article-content h2 {
+        font-size: 1.4rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    .article-content h3 {
+        font-size: 1.2rem;
+        margin-top: 1.5rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .article-content h4 {
+        font-size: 1.1rem;
+    }
+
+    /* 본문 내 리스트, 표, 코드 블록 가독성 */
+    .article-content ul,
+    .article-content ol {
+        padding-left: 1.5rem;
+        margin: 1rem 0;
+    }
+
+    .article-content li {
+        margin-bottom: 0.5rem;
+    }
+
+    .article-content table {
+        font-size: 0.85rem;
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .article-content code {
+        font-size: 0.85rem;
+    }
+
+    .article-content pre {
+        font-size: 0.8rem;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .featured-image {
+        margin: 1.5rem 0 2rem 0;
+        border-radius: 8px;
+    }
+
+    .article-tags {
+        margin-top: 2rem;
+        padding-top: 1.5rem;
+    }
+
+    .tag {
+        font-size: 0.85rem;
+        margin: 0 0.3rem;
+    }
+
+    /* 광고 배너 모바일 최적화 */
+    .ad-banner h3 {
+        font-size: 1.2rem !important;
+    }
+
+    .ad-banner p {
+        font-size: 0.95rem !important;
+    }
+
+    .ad-banner button {
+        padding: 14px 24px !important;
+        font-size: 0.95rem !important;
+        width: 100% !important;
+        max-width: 280px;
+    }
+}
 </style>
 {{ end }}

@@ -64,9 +64,32 @@
 }
 
 @media (max-width: 768px) {
+    .site-footer {
+        padding: 2rem 0 1.5rem; /* 패딩 감소 */
+    }
+
     .footer-content {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 1.5rem; /* 2rem → 1.5rem */
+    }
+
+    .footer-info h4 {
+        font-size: 1.1rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .footer-info p {
+        font-size: 0.9rem; /* 더 읽기 쉽게 */
+        line-height: 1.6;
+    }
+
+    .footer-disclaimer {
+        font-size: 0.85rem; /* 약관 텍스트 */
+    }
+
+    .footer-bottom {
+        font-size: 0.8rem;
+        padding-top: 1.5rem;
     }
 }
 </style>

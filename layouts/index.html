@@ -468,6 +468,7 @@
     display: flex;
     gap: 8px;
     margin-bottom: 12px;
+    flex-wrap: wrap;
 }
 
 .post-category {
@@ -478,6 +479,11 @@
     font-size: var(--font-xs);
     font-weight: 600;
     border-radius: 20px;
+}
+
+/* 모바일: 태그 3개 제한 */
+.post-category:nth-child(n+4) {
+    display: none;
 }
 
 .post-card-title {
@@ -501,6 +507,12 @@
     color: var(--text-secondary);
     line-height: var(--line-height-normal);
     margin-bottom: 16px;
+    /* 모바일: 3줄 제한 */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .post-card-meta {
@@ -624,41 +636,107 @@
         font-size: 0.75rem;
     }
 
+    /* 게시글 목록 - 모바일 최적화 */
     .post-list {
         grid-template-columns: 1fr;
+        gap: 20px; /* 32px → 20px (간격 조정) */
+    }
+
+    .post-card {
+        padding: 20px; /* 24px → 20px */
+    }
+
+    .post-card-title {
+        font-size: 1.1rem; /* 제목 크기 조정 */
+    }
+
+    .post-card-excerpt {
+        font-size: 0.9rem; /* 14px 이상 */
+        line-height: 1.5;
+    }
+
+    .post-category {
+        font-size: 0.75rem; /* 태그 크기 */
+        padding: 4px 10px;
+    }
+
+    .post-card-meta {
+        font-size: 0.8rem; /* 메타 정보 */
+    }
+
+    /* CTA 배너 모바일 최적화 */
+    .ad-banner-home {
+        padding: 32px 20px; /* 48px → 32px */
+        margin-top: 40px; /* 60px → 40px */
+    }
+
+    .ad-banner-home h3 {
+        font-size: 1.3rem; /* 더 읽기 쉽게 */
+    }
+
+    .ad-banner-home p {
+        font-size: 0.95rem;
+        margin-bottom: 20px;
+    }
+
+    .banner-button {
+        padding: 14px 28px; /* 터치 영역 증가 */
+        font-size: 1rem;
+        width: 100%; /* 모바일에서 전체 너비 */
+        max-width: 300px; /* 최대 너비 제한 */
     }
 }
 
 @media (max-width: 480px) {
-    /* 슬라이더 - 모바일에서 2개씩 */
+    /* 슬라이더 - 모바일에서 2개씩, 터치 영역 확대 */
     .category-slider-wrapper {
-        padding: 0 40px;
+        padding: 0 44px;
     }
 
     .category-card {
         width: calc((100% - 20px) / 2);
+        min-height: 180px; /* 터치 영역 확보 */
     }
 
     .slider-btn {
-        width: 36px;
-        height: 36px;
+        width: 40px;
+        height: 40px; /* 터치 영역 44px 권장 */
     }
 
     .category-image {
-        height: 100px;
+        height: 120px; /* 100px → 120px로 증가 */
     }
 
     .category-content {
-        padding: 12px;
+        padding: 16px; /* 12px → 16px로 증가 */
+    }
+
+    .category-content h3 {
+        font-size: 1rem; /* 더 명확하게 */
+        margin-bottom: 4px;
+    }
+
+    .category-content p {
+        font-size: 0.85rem; /* 0.75rem → 0.85rem */
     }
 
     .indicator {
-        width: 6px;
-        height: 6px;
+        width: 8px; /* 6px → 8px */
+        height: 8px;
     }
 
     .indicator.active {
-        width: 18px;
+        width: 20px; /* 18px → 20px */
+    }
+
+    /* 섹션 간격 조정 */
+    .category-section {
+        margin-bottom: 50px;
+    }
+
+    .section-title {
+        font-size: 1.3rem; /* 모바일 제목 크기 증가 */
+        margin-bottom: 24px;
     }
 }
 </style>

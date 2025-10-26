@@ -34,7 +34,7 @@
 
             {{ with .Params.tags }}
             <div class="post-card-tags">
-                {{ range first 5 . }}
+                {{ range first 3 . }}
                 <span class="post-tag">#{{ . }}</span>
                 {{ end }}
             </div>
@@ -132,6 +132,11 @@
     border-radius: 20px;
 }
 
+/* 모바일에서 카테고리 태그 3개로 제한 */
+.post-category:nth-child(n+4) {
+    display: none;
+}
+
 .post-card-title {
     font-size: var(--font-lg);
     font-weight: 700;
@@ -153,6 +158,12 @@
     color: var(--text-secondary);
     line-height: var(--line-height-normal);
     margin-bottom: 20px;
+    /* 모바일에서 3줄로 제한 */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .post-card-meta {
@@ -176,6 +187,11 @@
     font-size: var(--font-xs);
     color: var(--primary-color);
     font-weight: 600;
+}
+
+/* 모바일에서 해시태그 3개로 제한 */
+.post-tag:nth-child(n+4) {
+    display: none;
 }
 
 .empty-state {
@@ -203,9 +219,44 @@
         font-size: var(--font-xl);
     }
     
+    /* 게시글 그리드 최적화 */
     .post-grid {
         grid-template-columns: 1fr;
-        gap: 24px;
+        gap: 20px; /* 24px → 20px */
+    }
+    
+    /* 게시글 카드 모바일 최적화 */
+    .post-card {
+        border-radius: 10px;
+    }
+    
+    .post-card-content {
+        padding: 20px; /* 28px → 20px */
+    }
+    
+    .post-card-title {
+        font-size: 1.1rem; /* 더 읽기 쉽게 */
+        margin-bottom: 12px;
+    }
+    
+    .post-card-excerpt {
+        font-size: 0.9rem; /* 14px 이상으로 가독성 확보 */
+        line-height: 1.5;
+        margin-bottom: 16px;
+    }
+    
+    .post-category {
+        font-size: 0.75rem;
+        padding: 4px 10px;
+    }
+    
+    .post-card-meta {
+        font-size: 0.8rem;
+        gap: 12px;
+    }
+    
+    .post-tag {
+        font-size: 0.75rem;
     }
 }
 </style>

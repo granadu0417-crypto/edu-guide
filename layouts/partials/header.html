@@ -1,15 +1,22 @@
 <header class="site-header">
     <div class="wide-container">
         <div class="header-content">
-            <div class="site-logo">
-                <a href="/">
-                    <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
-                    <span>과외를부탁해</span>
-                </a>
-                <div class="usage-counter">
-                    <div class="label">누적 사용자</div>
-                    <div class="count"><span id="usageCount">0</span>명</div>
+            <div class="header-top">
+                <div class="site-logo">
+                    <a href="/">
+                        <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
+                        <span>과외를부탁해</span>
+                    </a>
                 </div>
+                <button class="mobile-menu-toggle" aria-label="메뉴 열기">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+            <div class="usage-counter">
+                <div class="label">누적 사용자</div>
+                <div class="count"><span id="usageCount">0</span>명</div>
             </div>
             <nav class="main-nav">
                 <ul>
@@ -34,8 +41,35 @@
 </header>
 
 <script>
-// 모바일 드롭다운 터치 개선
+// 모바일 메뉴 토글
 (function() {
+    const menuToggle = document.querySelector('.mobile-menu-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    const header = document.querySelector('.site-header');
+
+    if (menuToggle) {
+        menuToggle.addEventListener('click', function() {
+            this.classList.toggle('active');
+            mainNav.classList.toggle('active');
+            document.body.classList.toggle('menu-open');
+
+            // aria-label 업데이트
+            const isOpen = this.classList.contains('active');
+            this.setAttribute('aria-label', isOpen ? '메뉴 닫기' : '메뉴 열기');
+        });
+
+        // 메뉴 외부 클릭시 닫기
+        document.addEventListener('click', function(e) {
+            if (!header.contains(e.target) && mainNav.classList.contains('active')) {
+                menuToggle.classList.remove('active');
+                mainNav.classList.remove('active');
+                document.body.classList.remove('menu-open');
+                menuToggle.setAttribute('aria-label', '메뉴 열기');
+            }
+        });
+    }
+
+    // 모바일 드롭다운 터치 개선
     if ('ontouchstart' in window) {
         const dropdowns = document.querySelectorAll('.has-dropdown');
 
