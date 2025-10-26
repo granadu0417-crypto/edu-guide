@@ -23,7 +23,7 @@
                     {{ range .Site.Menus.main }}
                         {{ if .HasChildren }}
                             <li class="has-dropdown">
-                                <a href="{{ .URL }}">{{ .Name }} ▼</a>
+                                <a href="{{ .URL }}">{{ .Name }}</a>
                                 <ul class="dropdown">
                                     {{ range .Children }}
                                         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
@@ -69,35 +69,6 @@
         });
     }
 
-    // 모바일 드롭다운 터치 개선
-    if ('ontouchstart' in window) {
-        const dropdowns = document.querySelectorAll('.has-dropdown');
-
-        dropdowns.forEach(dropdown => {
-            const link = dropdown.querySelector('a');
-            const menu = dropdown.querySelector('.dropdown');
-
-            link.addEventListener('click', function(e) {
-                // 드롭다운이 닫혀있으면 열고 링크 이동 막기
-                if (!dropdown.classList.contains('active')) {
-                    e.preventDefault();
-
-                    // 다른 드롭다운 모두 닫기
-                    dropdowns.forEach(d => d.classList.remove('active'));
-
-                    // 현재 드롭다운 열기
-                    dropdown.classList.add('active');
-                }
-                // 이미 열려있으면 링크로 이동
-            });
-        });
-
-        // 외부 클릭시 드롭다운 닫기
-        document.addEventListener('click', function(e) {
-            if (!e.target.closest('.has-dropdown')) {
-                dropdowns.forEach(d => d.classList.remove('active'));
-            }
-        });
-    }
+    // 모바일에서는 드롭다운이 항상 펼쳐져 있으므로 별도 처리 불필요
 })();
 </script>

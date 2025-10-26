@@ -166,6 +166,18 @@ img, video, iframe {
     gap: 0.3rem;
 }
 
+/* 데스크톱: 드롭다운 화살표 추가 */
+.main-nav .has-dropdown > a::after {
+    content: '▼';
+    font-size: 0.7em;
+    opacity: 0.7;
+    transition: transform 0.3s ease;
+}
+
+.main-nav .has-dropdown:hover > a::after {
+    transform: translateY(2px);
+}
+
 /* 드롭다운 컨테이너 */
 .main-nav .dropdown {
     display: none;
@@ -518,9 +530,10 @@ a:hover {
         overflow: hidden;
     }
 
-    /* 모바일 드롭다운 - 개선된 디자인 */
+    /* 모바일 드롭다운 - 항상 펼쳐서 표시 */
     .main-nav .dropdown {
         position: static;
+        display: block !important; /* 모바일에서는 항상 표시 */
         box-shadow: none;
         padding: 0.6rem 0;
         margin-top: 0.5rem;
@@ -537,10 +550,9 @@ a:hover {
         display: none;
     }
 
-    /* 모바일: 호버와 active 클래스 모두에서 드롭다운 표시 */
-    .main-nav .has-dropdown:hover .dropdown,
-    .main-nav .has-dropdown.active .dropdown {
-        display: block;
+    /* 모바일: 드롭다운 화살표 숨김 */
+    .main-nav .has-dropdown > a::after {
+        display: none;
     }
 
     .main-nav .dropdown li:not(:last-child) {
