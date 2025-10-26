@@ -9,7 +9,7 @@ featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=120
 
 지리는 단순히 외우는 과목이 아닙니다. 지도를 읽고, 공간을 이해하고, 지역의 특성을 파악하는 종합적 사고가 필요합니다. 이 글에서는 자연지리와 인문지리를 완벽하게 정복하는 모든 학습법을 안내합니다.
 
-![지리 학습법](https://images.unsplash.com/photo-1569163139394-de4798960e4c?w=1200&h=600&fit=crop)
+![지리 학습법](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=600&fit=crop)
 
 ## 지리 공부가 중요한 이유
 
