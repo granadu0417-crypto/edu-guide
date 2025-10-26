@@ -1,6 +1,38 @@
 {{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
+<!-- Schema.org 구조화된 데이터 (ItemList) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "{{ .Title }}",
+  {{ with .Description }}"description": "{{ . }}",{{ end }}
+  "url": "{{ .Permalink }}",
+  "numberOfItems": {{ len .Pages }},
+  "itemListElement": [
+    {{ range $index, $page := .Pages }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $index 1 }},
+      "item": {
+        "@type": "Article",
+        "name": "{{ $page.Title }}",
+        "url": "{{ $page.Permalink }}",
+        {{ with $page.Description }}"description": "{{ . }}",{{ end }}
+        {{ with $page.Date }}"datePublished": "{{ .Format "2006-01-02" }}",{{ end }}
+        {{ with $page.Params.featured_image }}"image": "{{ . }}",{{ end }}
+        "author": {
+          "@type": "Organization",
+          "name": "{{ $.Site.Params.author }}"
+        }
+      }
+    }{{ if ne (add $index 1) (len $.Pages) }},{{ end }}
+    {{ end }}
+  ]
+}
+</script>
+
 <div class="section-header">
     <h1 class="section-title">{{ .Title }}</h1>
     {{ with .Description }}

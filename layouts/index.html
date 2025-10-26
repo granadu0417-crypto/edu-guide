@@ -1,6 +1,58 @@
 {{ define "title" }}{{ .Site.Title }} | 초중고 학습 정보 플랫폼{{ end }}
 
 {{ define "main" }}
+<!-- Schema.org 구조화된 데이터 (WebSite + ItemList) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.author }}",
+    "url": "{{ .Site.BaseURL }}"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "최신 교육 정보",
+  "description": "초중고 학습 가이드 최신 글",
+  "url": "{{ .Site.BaseURL }}",
+  "numberOfItems": {{ len (first 10 (where .Site.RegularPages "Type" "in" (slice "elementary" "middle" "high" "local" "exam" "subjects" "tutoring"))) }},
+  "itemListElement": [
+    {{ $pages := first 10 (where .Site.RegularPages "Type" "in" (slice "elementary" "middle" "high" "local" "exam" "subjects" "tutoring")) }}
+    {{ range $index, $page := $pages }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $index 1 }},
+      "item": {
+        "@type": "Article",
+        "name": "{{ $page.Title }}",
+        "url": "{{ $page.Permalink }}",
+        {{ with $page.Description }}"description": "{{ . }}",{{ end }}
+        {{ with $page.Date }}"datePublished": "{{ .Format "2006-01-02" }}",{{ end }}
+        "author": {
+          "@type": "Organization",
+          "name": "{{ $.Site.Params.author }}"
+        }
+      }
+    }{{ if ne (add $index 1) (len $pages) }},{{ end }}
+    {{ end }}
+  ]
+}
+</script>
+
 <div class="home-hero">
     <div class="hero-bg-slider">
         <div class="hero-bg-slide active" style="background-image: url('/images/infographic-korean.webp')"></div>
