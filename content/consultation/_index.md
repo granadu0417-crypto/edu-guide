@@ -213,7 +213,7 @@ description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료
 ### 📚 상담 내용
 
 <details>
-<summary><strong>Q8. 구체적으로 어떤 수업이 가능한가요?</strong></summary>
+<summary><strong>Q6. 구체적으로 어떤 수업이 가능한가요?</strong></summary>
 <div class="faq-answer">
 유아 초중고 고3(N수생) 성인 국/영/수/사/과<br>
 검정고시, 코딩, 학습코칭, 입시컨설팅<br>
@@ -223,28 +223,28 @@ description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료
 </details>
 
 <details>
-<summary><strong>Q9. 우리 지역 학원/과외 정보도 알 수 있나요?</strong></summary>
+<summary><strong>Q7. 우리 지역 학원/과외 정보도 알 수 있나요?</strong></summary>
 <div class="faq-answer">
 네, <strong>지역별 맞춤 정보</strong>를 제공해드립니다. 거주 지역을 알려주시면 해당 지역 학원/과외 정보와 추천 사항을 안내드립니다.
 </div>
 </details>
 
 <details>
-<summary><strong>Q10. 해외에서도 상담 가능한가요?</strong></summary>
+<summary><strong>Q8. 해외에서도 상담 가능한가요?</strong></summary>
 <div class="faq-answer">
 네, 카카오톡으로 <strong>전 세계 어디서나</strong> 상담 가능합니다. 해외 거주 한국 학생을 위한 온라인 화상 수업 정보도 제공합니다.
 </div>
 </details>
 
 <details>
-<summary><strong>Q11. 여러 번 상담받아도 되나요?</strong></summary>
+<summary><strong>Q9. 여러 번 상담받아도 되나요?</strong></summary>
 <div class="faq-answer">
 물론입니다! 궁금한 점이 생길 때마다 <strong>언제든지 문의</strong>하세요. 횟수 제한 없이 지속적으로 상담 가능합니다.
 </div>
 </details>
 
 <details>
-<summary><strong>Q12. 답변은 얼마나 빨리 받을 수 있나요?</strong></summary>
+<summary><strong>Q10. 답변은 얼마나 빨리 받을 수 있나요?</strong></summary>
 <div class="faq-answer">
 카카오톡 메시지 확인 후 <strong>최대한 빠르게</strong> 답변드립니다. 긴급한 경우 우선적으로 응대하며, 늦어도 당일 내 답변드립니다.
 </div>
