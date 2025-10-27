@@ -210,20 +210,6 @@ description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료
 </div>
 </details>
 
-<details>
-<summary><strong>Q6. 강제로 학원이나 과외를 권유하나요?</strong></summary>
-<div class="faq-answer">
-<strong>절대 아닙니다.</strong> 순수하게 학습 정보 제공과 상담만 진행합니다. 강압적인 권유나 등록 요구는 일체 없습니다.
-</div>
-</details>
-
-<details>
-<summary><strong>Q7. 제 정보가 다른 곳에 팔리거나 공유되나요?</strong></summary>
-<div class="faq-answer">
-<strong>절대 그렇지 않습니다.</strong> 개인정보보호법에 따라 철저히 관리되며, 어떠한 경우에도 제3자에게 제공하거나 판매하지 않습니다.
-</div>
-</details>
-
 ### 📚 상담 내용
 
 <details>
