@@ -1,166 +1,228 @@
-<!-- Floating 카카오톡 상담 버튼 -->
-<div class="floating-kakao-button" id="floatingKakao">
+<!-- Floating 카카오톡 상담 + 무료체험 버튼 -->
+<div class="floating-dual-buttons" id="floatingButtons">
+    <!-- 카카오톡 상담 버튼 -->
     <a href="https://pf.kakao.com/_Cixlaxl/chat"
        target="_blank"
        rel="noopener noreferrer"
+       class="floating-btn floating-kakao"
        onclick="gtag('event', 'click', {
            'event_category': 'Conversion',
            'event_label': 'Floating KakaoTalk Button',
            'value': 1
        });">
-        <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M14 4C8.477 4 4 7.589 4 12c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S19.523 4 14 4z" fill="currentColor"/>
         </svg>
-        <span class="floating-kakao-text">카카오톡 상담</span>
+        <span class="floating-text">카카오톡 상담</span>
+    </a>
+    
+    <!-- 무료체험 신청 버튼 -->
+    <a href="https://naver.me/FGENm9ex"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="floating-btn floating-trial"
+       onclick="gtag('event', 'click', {
+           'event_category': 'Conversion',
+           'event_label': 'Floating Trial Button',
+           'value': 1
+       });">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor"/>
+        </svg>
+        <span class="floating-text">무료체험 신청</span>
     </a>
 </div>
 
 <style>
-/* Floating 카카오톡 버튼 스타일 */
-.floating-kakao-button {
+/* Floating 듀얼 버튼 컨테이너 */
+.floating-dual-buttons {
     position: fixed;
     bottom: 30px;
     right: 30px;
     z-index: 9999;
-    animation: floatPulse 2s ease-in-out infinite;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }
 
-.floating-kakao-button a {
+/* 공통 버튼 스타일 */
+.floating-btn {
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 16px 24px;
-    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
-    color: #3C1E1E;
+    padding: 14px 22px;
     text-decoration: none;
     border-radius: 50px;
     font-weight: 700;
-    font-size: 16px;
-    box-shadow: 0 8px 24px rgba(254, 229, 0, 0.4);
+    font-size: 15px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     white-space: nowrap;
+    animation: floatPulse 3s ease-in-out infinite;
 }
 
-.floating-kakao-button a:hover {
+/* 카카오톡 버튼 */
+.floating-kakao {
+    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+    color: #3C1E1E;
+}
+
+.floating-kakao:hover {
     transform: translateY(-4px);
-    box-shadow: 0 12px 32px rgba(254, 229, 0, 0.5);
+    box-shadow: 0 8px 28px rgba(254, 229, 0, 0.5);
     background: linear-gradient(135deg, #FFD700 0%, #FEE500 100%);
 }
 
-.floating-kakao-button a:active {
+/* 무료체험 버튼 */
+.floating-trial {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.floating-trial:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(102, 126, 234, 0.5);
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+.floating-btn:active {
     transform: translateY(-2px);
 }
 
-.floating-kakao-button svg {
+.floating-btn svg {
     flex-shrink: 0;
 }
 
-.floating-kakao-text {
+.floating-text {
     font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
 }
 
-/* 펄스 애니메이션 */
+/* 펄스 애니메이션 - 두 번째 버튼은 약간 딜레이 */
 @keyframes floatPulse {
     0%, 100% {
         transform: translateY(0);
     }
     50% {
-        transform: translateY(-8px);
+        transform: translateY(-6px);
     }
+}
+
+.floating-trial {
+    animation-delay: 0.5s;
 }
 
 /* 태블릿 */
 @media (max-width: 768px) {
-    .floating-kakao-button {
+    .floating-dual-buttons {
         bottom: 20px;
         right: 20px;
+        gap: 10px;
     }
 
-    .floating-kakao-button a {
-        padding: 14px 20px;
-        font-size: 15px;
+    .floating-btn {
+        padding: 12px 18px;
+        font-size: 14px;
         gap: 8px;
     }
 
-    .floating-kakao-button svg {
-        width: 24px;
-        height: 24px;
+    .floating-btn svg {
+        width: 20px;
+        height: 20px;
     }
 }
 
 /* 모바일 */
 @media (max-width: 480px) {
-    .floating-kakao-button {
+    .floating-dual-buttons {
         bottom: 16px;
         right: 16px;
+        gap: 8px;
     }
 
-    .floating-kakao-button a {
-        padding: 12px 18px;
-        font-size: 14px;
-        gap: 6px;
-    }
-
-    .floating-kakao-button svg {
-        width: 22px;
-        height: 22px;
-    }
-
-    /* 작은 화면에서는 텍스트 숨기고 아이콘만 표시 */
-    .floating-kakao-text {
+    /* 작은 화면에서는 아이콘만 표시 */
+    .floating-text {
         display: none;
     }
 
-    .floating-kakao-button a {
-        width: 56px;
-        height: 56px;
+    .floating-btn {
+        width: 52px;
+        height: 52px;
         padding: 0;
         justify-content: center;
         border-radius: 50%;
+    }
+
+    .floating-btn svg {
+        width: 24px;
+        height: 24px;
     }
 }
 
 /* 다크모드 지원 */
 @media (prefers-color-scheme: dark) {
-    .floating-kakao-button a {
+    .floating-kakao {
         background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
         color: #3C1E1E;
+    }
+    
+    .floating-trial {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
     }
 }
 
 /* 접근성: 포커스 스타일 */
-.floating-kakao-button a:focus {
+.floating-btn:focus {
     outline: 3px solid #667eea;
     outline-offset: 4px;
 }
 
 /* 프린트 시 숨김 */
 @media print {
-    .floating-kakao-button {
+    .floating-dual-buttons {
         display: none !important;
     }
 }
 
-/* 스크롤 시 살짝 투명도 조정 (선택사항) */
-.floating-kakao-button.scrolled {
+/* 스크롤 시 살짝 투명도 조정 */
+.floating-dual-buttons.scrolled {
     opacity: 0.95;
+}
+
+/* 매우 작은 화면 (iPhone SE 등) */
+@media (max-width: 375px) {
+    .floating-dual-buttons {
+        bottom: 12px;
+        right: 12px;
+        gap: 6px;
+    }
+    
+    .floating-btn {
+        width: 48px;
+        height: 48px;
+    }
+    
+    .floating-btn svg {
+        width: 22px;
+        height: 22px;
+    }
 }
 </style>
 
 <script>
-// 스크롤 시 버튼 상태 관리 (선택사항)
+// 스크롤 시 버튼 상태 관리
 (function() {
     let lastScroll = 0;
-    const floatingBtn = document.getElementById('floatingKakao');
+    const floatingBtns = document.getElementById('floatingButtons');
 
     window.addEventListener('scroll', function() {
         const currentScroll = window.pageYOffset;
 
         // 100px 이상 스크롤 시 살짝 투명도 조정
         if (currentScroll > 100) {
-            floatingBtn.classList.add('scrolled');
+            floatingBtns.classList.add('scrolled');
         } else {
-            floatingBtn.classList.remove('scrolled');
+            floatingBtns.classList.remove('scrolled');
         }
 
         lastScroll = currentScroll;

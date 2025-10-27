@@ -1,0 +1,371 @@
+{{- /*
+  카카오톡 상담 + 무료체험신청 듀얼 CTA 컴포넌트
+  
+  사용법:
+  {{< cta-dual type="inline" >}}  - 본문 중간용
+  {{< cta-dual type="final" >}}   - 글 하단용
+*/ -}}
+
+{{- $type := .Get "type" | default "inline" -}}
+{{- $kakaoUrl := "https://pf.kakao.com/_Cixlaxl/chat" -}}
+{{- $naverFormUrl := "https://naver.me/FGENm9ex" -}}
+
+{{- if eq $type "inline" -}}
+{{- /* 본문 중간 듀얼 버튼 */ -}}
+<div class="cta-dual-inline">
+  <div class="dual-inline-box">
+    <div class="dual-inline-icon">📞</div>
+    <div class="dual-inline-content">
+      <h3>궁금한 점이 있으신가요?</h3>
+      <p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요</p>
+    </div>
+    <div class="dual-inline-buttons">
+      <a href="{{ $kakaoUrl }}"
+         target="_blank"
+         rel="noopener noreferrer"
+         class="dual-btn-kakao"
+         onclick="gtag('event', 'click_consultation', {
+           'event_category': 'engagement',
+           'event_label': 'consultation_inline_kakao',
+           'value': 1
+         });">
+        💬 카카오톡 상담
+      </a>
+      <a href="{{ $naverFormUrl }}"
+         target="_blank"
+         rel="noopener noreferrer"
+         class="dual-btn-trial"
+         onclick="gtag('event', 'click_trial', {
+           'event_category': 'engagement',
+           'event_label': 'trial_inline_naver',
+           'value': 1
+         });">
+        ✨ 무료체험 신청
+      </a>
+    </div>
+  </div>
+</div>
+
+<style>
+.cta-dual-inline {
+  margin: 48px 0;
+}
+
+.dual-inline-box {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 28px 32px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-radius: 16px;
+  border: 2px solid #e9ecef;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+  font-size: 42px;
+  flex-shrink: 0;
+}
+
+.dual-inline-content {
+  flex: 1;
+}
+
+.dual-inline-content h3 {
+  margin: 0 0 6px;
+  font-size: 19px;
+  font-weight: 700;
+  color: #212529;
+}
+
+.dual-inline-content p {
+  margin: 0;
+  font-size: 14px;
+  color: #6c757d;
+}
+
+.dual-inline-buttons {
+  display: flex;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: 700;
+  font-size: 15px;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.dual-btn-kakao {
+  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+  color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.dual-btn-trial:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+  .dual-inline-box {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .dual-inline-icon {
+    width: 100%;
+  }
+  
+  .dual-inline-buttons {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .dual-inline-box {
+    padding: 24px 20px;
+  }
+  
+  .dual-inline-icon {
+    font-size: 36px;
+  }
+  
+  .dual-inline-content h3 {
+    font-size: 17px;
+  }
+  
+  .dual-inline-content p {
+    font-size: 13px;
+  }
+  
+  .dual-inline-buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .dual-btn-kakao,
+  .dual-btn-trial {
+    width: 100%;
+    padding: 14px 20px;
+    font-size: 14px;
+  }
+}
+</style>
+
+{{- else if eq $type "final" -}}
+{{- /* 글 하단 최종 CTA */ -}}
+<div class="cta-dual-final">
+  <div class="dual-final-box">
+    <h3>🎓 지금 바로 맞춤 학습 컨설팅을 받아보세요</h3>
+    <p class="dual-final-desc">전문가와의 1:1 상담 또는 무료체험으로 우리 아이에게 딱 맞는 학습 방법을 찾아드립니다</p>
+    
+    <div class="dual-final-buttons">
+      <a href="{{ $kakaoUrl }}"
+         target="_blank"
+         rel="noopener noreferrer"
+         class="dual-btn-final-kakao"
+         onclick="gtag('event', 'click_consultation', {
+           'event_category': 'engagement',
+           'event_label': 'consultation_final_kakao',
+           'value': 1
+         });">
+        💬 카카오톡 상담하기
+      </a>
+      
+      <a href="{{ $naverFormUrl }}"
+         target="_blank"
+         rel="noopener noreferrer"
+         class="dual-btn-final-trial"
+         onclick="gtag('event', 'click_trial', {
+           'event_category': 'engagement',
+           'event_label': 'trial_final_naver',
+           'value': 1
+         });">
+        ✨ 무료체험 신청하기
+      </a>
+    </div>
+    
+    <div class="dual-final-features">
+      <div class="feature-item">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">완전 무료</span>
+      </div>
+      <div class="feature-item">
+        <span class="feature-icon">⚡</span>
+        <span class="feature-text">빠른 답변</span>
+      </div>
+      <div class="feature-item">
+        <span class="feature-icon">🔒</span>
+        <span class="feature-text">정보 보호</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.cta-dual-final {
+  margin: 56px 0 40px;
+}
+
+.dual-final-box {
+  text-align: center;
+  padding: 52px 40px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 20px;
+  box-shadow: 0 16px 48px rgba(102, 126, 234, 0.3);
+}
+
+.dual-final-box h3 {
+  color: white;
+  font-size: 28px;
+  font-weight: 800;
+  margin: 0 0 12px;
+  line-height: 1.4;
+}
+
+.dual-final-desc {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 16px;
+  margin: 0 0 32px;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+.dual-final-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 32px;
+  flex-wrap: wrap;
+}
+
+.dual-btn-final-kakao,
+.dual-btn-final-trial {
+  padding: 18px 40px;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 800;
+  font-size: 18px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: inline-block;
+}
+
+.dual-btn-final-kakao {
+  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+  color: #3C1E1E;
+  box-shadow: 0 8px 24px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-final-kakao:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(254, 229, 0, 0.5);
+}
+
+.dual-btn-final-trial {
+  background: white;
+  color: #667eea;
+  box-shadow: 0 8px 24px rgba(255, 255, 255, 0.3);
+}
+
+.dual-btn-final-trial:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(255, 255, 255, 0.5);
+}
+
+.dual-final-features {
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  flex-wrap: wrap;
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.feature-icon {
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .dual-final-box {
+    padding: 40px 28px;
+  }
+  
+  .dual-final-box h3 {
+    font-size: 24px;
+  }
+  
+  .dual-final-desc {
+    font-size: 15px;
+  }
+  
+  .dual-final-buttons {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .dual-btn-final-kakao,
+  .dual-btn-final-trial {
+    width: 100%;
+    max-width: 300px;
+    padding: 16px 32px;
+    font-size: 16px;
+  }
+  
+  .dual-final-features {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .dual-final-box {
+    padding: 32px 20px;
+    border-radius: 16px;
+  }
+  
+  .dual-final-box h3 {
+    font-size: 20px;
+  }
+  
+  .dual-final-desc {
+    font-size: 14px;
+  }
+  
+  .dual-btn-final-kakao,
+  .dual-btn-final-trial {
+    padding: 14px 28px;
+    font-size: 15px;
+  }
+  
+  .feature-item {
+    font-size: 14px;
+  }
+}
+</style>
+
+{{- end -}}
