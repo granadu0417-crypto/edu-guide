@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>내신대비 on 과외를부탁해 | 초중고 학습 정보 플랫폼</title>
-    <link>https://edukoreaai.com/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/</link>
+    <link>http://localhost:35079/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/</link>
     <description>Recent content in 내신대비 on 과외를부탁해 | 초중고 학습 정보 플랫폼</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
     <lastBuildDate>Thu, 16 Oct 2025 10:00:00 +0900</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35079/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>중3 수학 어려운 문제 30선 &#43; 상세 풀이 (2025년 최신) - 내신 1등급 완성</title>
-      <link>https://edukoreaai.com/middle/math-difficult-problems/</link>
+      <link>http://localhost:35079/middle/math-difficult-problems/</link>
       <pubDate>Thu, 16 Oct 2025 10:00:00 +0900</pubDate>
-      <guid>https://edukoreaai.com/middle/math-difficult-problems/</guid>
+      <guid>http://localhost:35079/middle/math-difficult-problems/</guid>
       <description>&lt;p&gt;중학교 3학년 수학은 고등학교 수학의 기초가 되는 가장 중요한 시기입니다. 특히 이차함수와 삼각비는 고등학교에서도 계속 나오기 때문에 확실하게 이해하고 넘어가야 합니다.&lt;/p&gt;&#xA;&lt;p&gt;이 글에서는 &lt;strong&gt;중3 수학에서 가장 많이 틀리는 어려운 문제 30개&lt;/strong&gt;를 단원별로 정리하고, 상세한 풀이와 함께 제공합니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;중3-수학-왜-어렵게-느껴질까&#34;&gt;중3 수학, 왜 어렵게 느껴질까?&lt;/h2&gt;&#xA;&lt;p&gt;중3 수학이 어려운 이유는 크게 3가지입니다:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;추상적인 개념 등장&lt;/strong&gt; - 이차함수, 삼각비 등 눈에 보이지 않는 개념&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;복합적인 문제&lt;/strong&gt; - 여러 개념을 동시에 적용해야 하는 문제 증가&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;계산량 증가&lt;/strong&gt; - 실수하기 쉬운 복잡한 계산&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;하지만 걱정하지 마세요. &lt;strong&gt;핵심 유형 30개만 완벽하게 익히면&lt;/strong&gt; 내신 90점 이상은 충분히 가능합니다.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜</title>
-      <link>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</link>
+      <title>사회 논술 대비법 - 서술형·논술형 완벽 답안 작성 가이드 (2025)</title>
+      <link>http://localhost:35079/subjects/social/social-essay-writing/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</guid>
+      <guid>http://localhost:35079/subjects/social/social-essay-writing/</guid>
+      <description>&lt;p&gt;사회 과목에서 논술·서술형 평가의 비중이 점점 높아지고 있습니다. 단순 암기만으로는 좋은 점수를 받기 어렵습니다. 이 글에서는 사회 과목 논술·서술형 답안을 효과적으로 작성하는 완벽한 전략을 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;사회 논술 대비&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;사회-논술서술형-평가의-특징&#34;&gt;사회 논술·서술형 평가의 특징&lt;/h2&gt;&#xA;&lt;h3 id=&#34;논술형-vs-서술형&#34;&gt;논술형 vs 서술형&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;차이점&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;서술형:&#xA;- 짧은 답안 (2-5줄)&#xA;- 핵심 내용 중심&#xA;- 배점: 3-5점&#xA;- 예: &amp;#34;갑신정변의 원인을 서술하시오&amp;#34;&#xA;&#xA;논술형:&#xA;- 긴 답안 (10줄 이상)&#xA;- 분석과 논리 전개&#xA;- 배점: 10-20점&#xA;- 예: &amp;#34;근대화 과정에서 갑신정변이 &#xA;      미친 영향을 분석하시오&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;평가-기준&#34;&gt;평가 기준&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;채점 요소&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>사회 암기 전략 - 역사·지리 용어 완벽 암기 가이드 (2025)</title>
+      <link>http://localhost:35079/subjects/social/social-memorization-strategies/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35079/subjects/social/social-memorization-strategies/</guid>
+      <description>&lt;p&gt;사회 과목은 암기할 내용이 많아 부담스럽게 느껴질 수 있습니다. 하지만 체계적인 암기 전략을 활용하면 효율적으로 학습하고 오래 기억할 수 있습니다. 이 글에서는 역사, 지리, 정치·경제 등 사회 과목 전반의 완벽한 암기 전략을 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;사회 암기 전략&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;사회-과목-암기가-어려운-이유&#34;&gt;사회 과목 암기가 어려운 이유&lt;/h2&gt;&#xA;&lt;h3 id=&#34;방대한-학습량&#34;&gt;방대한 학습량&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;사회 과목의 특징&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;역사: 시대별 사건, 인물, 연도&#xA;지리: 지명, 위치, 통계, 현상&#xA;정치·경제: 제도, 개념, 용어&#xA;→ 암기할 내용이 매우 많음&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;추상적인-개념&#34;&gt;추상적인 개념&lt;/h3&gt;&#xA;&lt;p&gt;사회 과목은 구체적이지 않은 개념들이 많아 이해와 암기가 어렵습니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜</title>
+      <link>http://localhost:35079/exam/exam-two-weeks-before-strategy/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35079/exam/exam-two-weeks-before-strategy/</guid>
       <description>&lt;h2 id=&#34;-시험-2주-전-지금이-골든타임입니다&#34;&gt;🎯 시험 2주 전, 지금이 골든타임입니다!&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;시험까지 2주밖에 안 남았는데 뭘 해야 하죠?&amp;rdquo;&#xA;&amp;ldquo;범위가 너무 넓어서 어디서부터 시작할지 모르겠어요.&amp;rdquo;&#xA;&amp;ldquo;벼락치기로 성적 올릴 수 있을까요?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;시험 2주 전은 &lt;strong&gt;가장 중요한 시기&lt;/strong&gt;입니다. 너무 늦지도, 너무 이르지도 않은 &lt;strong&gt;골든타임&lt;/strong&gt;입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;시험-2주-전이-중요한-이유&#34;&gt;시험 2주 전이 중요한 이유&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;집중 효율 최고&lt;/strong&gt;: 긴장감 + 집중력이 최고조&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;기억 보존&lt;/strong&gt;: 2주 뒤 시험까지 기억이 유지되는 최적 기간&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;전략 수정 가능&lt;/strong&gt;: 아직 방향 전환 가능한 마지막 시기&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;불안 조절&lt;/strong&gt;: 너무 일찍 시작하면 번아웃, 너무 늦으면 패닉&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;cta-kakao-hero&#34;&gt;&#xA;  &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;     target=&#34;_blank&#34;&#xA;     rel=&#34;noopener noreferrer&#34;&#xA;     class=&#34;kakao-btn-hero&#34;&#xA;     onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;       &#39;event_category&#39;: &#39;engagement&#39;,&#xA;       &#39;event_label&#39;: &#39;consultation_hero&#39;,&#xA;       &#39;value&#39;: 1&#xA;     });&#34;&gt;&#xA;    💬 카카오톡으로 무료 상담 시작하기&#xA;  &lt;/a&gt;&#xA;  &lt;p class=&#34;kakao-subtitle&#34;&gt;⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p&gt;</description>
     </item>
   </channel>

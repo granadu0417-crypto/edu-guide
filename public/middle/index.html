@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=35079&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -9,7 +9,7 @@
     <meta name="description" content="중학생을 위한 내신 대비 및 학습 전략을 안내합니다.">
     <meta name="keywords" content="초등학생, 중학생, 고등학생, 공부법, 내신, 수능, 학원, 과외, 교육정보">
     <meta name="author" content="과외를부탁해 편집팀">
-    <link rel="canonical" href="https://edukoreaai.com/middle/">
+    <link rel="canonical" href="http://localhost:35079/middle/">
 
     
     <meta name="naver-site-verification" content="228c0da6bfc9eda328a78ce3a4417c8ff8630d59" />
@@ -18,10 +18,10 @@
     <meta property="og:title" content="중학생 | 과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta property="og:description" content="중학생을 위한 내신 대비 및 학습 전략을 안내합니다.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://edukoreaai.com/middle/">
+    <meta property="og:url" content="http://localhost:35079/middle/">
     <meta property="og:site_name" content="과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta property="og:locale" content="ko_KR">
-    <meta property="og:image" content="https://edukoreaai.com/images/og-default.jpg">
+    <meta property="og:image" content="http://localhost:35079/images/og-default.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     
@@ -30,7 +30,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="중학생 | 과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta name="twitter:description" content="중학생을 위한 내신 대비 및 학습 전략을 안내합니다.">
-    <meta name="twitter:image" content="https://edukoreaai.com/images/og-default.jpg">
+    <meta name="twitter:image" content="http://localhost:35079/images/og-default.jpg">
     
     
     
@@ -39,7 +39,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "과외를부탁해 | 초중고 학습 정보 플랫폼",
-        "url": "https:\/\/edukoreaai.com\/",
+        "url": "http:\/\/localhost:35079\/",
         "description": "초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서. 과목별 공부법, 내신 대비, 수능 준비, 지역별 학원·과외 정보까지.",
         "publisher": {
             "@type": "Organization",
@@ -47,7 +47,7 @@
         },
         "potentialAction": {
             "@type": "SearchAction",
-            "target": "https:\/\/edukoreaai.com\/search?q={search_term_string}",
+            "target": "http:\/\/localhost:35079\/search?q={search_term_string}",
             "query-input": "required name=search_term_string"
         },
         "inLanguage": "ko-KR"
@@ -86,22 +86,29 @@
     <header class="site-header">
     <div class="wide-container">
         <div class="header-content">
-            <div class="site-logo">
-                <a href="/">
-                    <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
-                    <span>과외를부탁해</span>
-                </a>
-                <div class="usage-counter">
-                    <div class="label">누적 사용자</div>
-                    <div class="count"><span id="usageCount">0</span>명</div>
+            <div class="header-top">
+                <div class="site-logo">
+                    <a href="/">
+                        <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
+                        <span>과외를부탁해</span>
+                    </a>
                 </div>
+                <button class="mobile-menu-toggle" aria-label="메뉴 열기">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+            <div class="usage-counter">
+                <div class="label">누적 사용자</div>
+                <div class="count"><span id="usageCount">0</span>명</div>
             </div>
             <nav class="main-nav">
                 <ul>
                     
                         
                             <li class="has-dropdown">
-                                <a href="">학습 가이드 ▼</a>
+                                <a href="">학습 가이드</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/elementary/">초등학생</a></li>
@@ -116,7 +123,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">과목별 ▼</a>
+                                <a href="">과목별</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/subjects/korean/">국어</a></li>
@@ -135,7 +142,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">학원·과외 ▼</a>
+                                <a href="">학원·과외</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/tutoring/guide/">선택 가이드</a></li>
@@ -154,7 +161,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">지역정보 ▼</a>
+                                <a href="">지역정보</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/local/seoul/">서울</a></li>
@@ -180,41 +187,275 @@
 <script>
 
 (function() {
-    if ('ontouchstart' in window) {
-        const dropdowns = document.querySelectorAll('.has-dropdown');
+    const menuToggle = document.querySelector('.mobile-menu-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    const header = document.querySelector('.site-header');
 
-        dropdowns.forEach(dropdown => {
-            const link = dropdown.querySelector('a');
-            const menu = dropdown.querySelector('.dropdown');
+    if (menuToggle) {
+        menuToggle.addEventListener('click', function() {
+            this.classList.toggle('active');
+            mainNav.classList.toggle('active');
+            document.body.classList.toggle('menu-open');
 
-            link.addEventListener('click', function(e) {
-                
-                if (!dropdown.classList.contains('active')) {
-                    e.preventDefault();
-
-                    
-                    dropdowns.forEach(d => d.classList.remove('active'));
-
-                    
-                    dropdown.classList.add('active');
-                }
-                
-            });
+            
+            const isOpen = this.classList.contains('active');
+            this.setAttribute('aria-label', isOpen ? '메뉴 닫기' : '메뉴 열기');
         });
 
         
         document.addEventListener('click', function(e) {
-            if (!e.target.closest('.has-dropdown')) {
-                dropdowns.forEach(d => d.classList.remove('active'));
+            if (!header.contains(e.target) && mainNav.classList.contains('active')) {
+                menuToggle.classList.remove('active');
+                mainNav.classList.remove('active');
+                document.body.classList.remove('menu-open');
+                menuToggle.setAttribute('aria-label', '메뉴 열기');
             }
         });
     }
+
+    
 })();
 </script>
 
     
     <main>
         
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "중학생",
+  "description": "중학생을 위한 내신 대비 및 학습 전략을 안내합니다.",
+  "url": "http:\/\/localhost:35079\/middle\/",
+  "numberOfItems":  13 ,
+  "itemListElement": [
+    
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "item": {
+        "@type": "Article",
+        "name": "중3 수학 어려운 문제 30선 \u002b 상세 풀이 (2025년 최신) - 내신 1등급 완성",
+        "url": "http:\/\/localhost:35079\/middle\/math-difficult-problems\/",
+        "description": "중학교 3학년 수학에서 가장 많이 틀리는 어려운 문제 30개를 엄선했습니다. 이차함수, 피타고라스 정리, 삼각비 등 핵심 단원별 고난도 문제와 상세한 풀이로 내신 1등급을 완성하세요.",
+        "datePublished": "2025-10-16",
+        "image": "https:\/\/images.unsplash.com\/photo-1635070041078-e363dbe005cb?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 영어 공부법 완전 정복 | 내신부터 고등 준비까지",
+        "url": "http:\/\/localhost:35079\/middle\/middle-school-english-study-guide\/",
+        "description": "중학 영어, 이렇게 공부하세요! 문법·독해·듣기·어휘를 완벽하게. 중1~중3 학년별 맞춤 전략과 내신 만점 비법을 공개합니다. 고등 영어 준비는 지금부터!",
+        "datePublished": "2025-01-26",
+        "image": "https:\/\/images.unsplash.com\/photo-1546410531-bb4caa6b424d?w=1200\u0026q=80",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 자기주도학습 완전 가이드 - 내신부터 고등 준비까지",
+        "url": "http:\/\/localhost:35079\/middle\/self-directed-learning-complete-guide\/",
+        "description": "중학생 자기주도학습의 모든 것. 계획 수립부터 실행, 점검까지 단계별 전략과 내신 관리, 고등학교 준비를 위한 실전 가이드입니다.",
+        "datePublished": "2025-01-25",
+        "image": "https:\/\/images.unsplash.com\/photo-1434030216411-0b793f4b4173?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  4 ,
+      "item": {
+        "@type": "Article",
+        "name": "중등 과학 실험 노트 작성법 - 탐구 보고서 완벽 가이드",
+        "url": "http:\/\/localhost:35079\/middle\/science-lab-notebook\/",
+        "description": "중학교 과학 실험 노트와 탐구 보고서를 체계적으로 작성하는 방법입니다. 실험 설계부터 결과 분석, 결론 도출까지 과학적 사고력을 키우는 완벽한 작성 전략을 제시합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1532094349884-543bc11b234d?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  5 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학 수학 완벽 정복 - 도형과 함수 집중 공략",
+        "url": "http:\/\/localhost:35079\/middle\/math-geometry-functions\/",
+        "description": "중학교 수학의 핵심인 도형과 함수를 완벽하게 정리한 가이드입니다. 평면도형, 입체도형, 일차함수, 이차함수까지 개념 이해와 문제 풀이 전략을 체계적으로 제시합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1635070041078-e363dbe005cb?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  6 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학 영어 문법 완벽 정리 - 핵심 개념과 실전 적용",
+        "url": "http:\/\/localhost:35079\/middle\/english-grammar-guide\/",
+        "description": "중학교 3년간 배우는 영어 문법을 체계적으로 정리한 완벽 가이드입니다. 시제, 조동사, to부정사, 동명사부터 관계사, 가정법까지 핵심 개념과 실전 문제 풀이 전략을 제시합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1456513080510-7bf3a84b82f8?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  7 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 내신 관리 완벽 전략 - 고등학교 준비의 시작",
+        "url": "http:\/\/localhost:35079\/middle\/internal-grade-management\/",
+        "description": "중학교 내신 관리의 모든 것! 중간고사·기말고사 대비부터 수행평가, 출결·봉사 관리까지, 고등학교 입시를 준비하는 체계적인 내신 관리 전략을 제시합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1434030216411-0b793f4b4173?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  8 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 독해력 향상 전략 - 비문학·문학 완벽 정복",
+        "url": "http:\/\/localhost:35079\/middle\/reading-comprehension-advanced\/",
+        "description": "중학교 국어 독해력을 체계적으로 향상시키는 방법입니다. 비문학(설명문, 논설문)과 문학(시, 소설) 지문 분석부터 문제 풀이 전략까지 독해의 모든 것을 제시합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1456513080510-7bf3a84b82f8?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  9 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 서술형 평가 완벽 대비 - 모든 과목 고득점 전략",
+        "url": "http:\/\/localhost:35079\/middle\/descriptive-assessment-strategy\/",
+        "description": "중학교 서술형 평가를 체계적으로 준비하는 방법입니다. 국어, 영어, 수학, 사회, 과학 과목별 서술형 문제 유형 분석과 답안 작성 전략, 감점 요인 피하기까지 완벽 정리합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1434030216411-0b793f4b4173?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  10 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 시간 관리와 학습 계획표 작성법 - 실천 가능한 스케줄링",
+        "url": "http:\/\/localhost:35079\/middle\/time-management-planning\/",
+        "description": "중학교 내신과 수행평가를 동시에 준비하는 효과적인 시간 관리 전략. 현실적인 학습 계획표 작성 방법부터 실천력을 높이는 구체적인 팁까지, 8~9과목을 효율적으로 관리하는 방법을 소개합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1484480974693-6ca0a78fb36b?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  11 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 역사 공부법 - 암기가 아닌 이해와 흐름으로 접근하기",
+        "url": "http:\/\/localhost:35079\/middle\/history-study-methods\/",
+        "description": "중학교 한국사와 세계사를 효과적으로 공부하는 방법입니다. 시대별 흐름 파악부터 인물·사건 정리, 서술형 대비까지 역사 과목 완벽 공략 전략을 제시합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1461360370896-922624d12aa1?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  12 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 영어 듣기 실력 향상법 - 실전 전략과 일일 훈련법",
+        "url": "http:\/\/localhost:35079\/middle\/english-listening-skills\/",
+        "description": "중학교 영어 듣기 평가 완벽 대비를 위한 체계적인 훈련법과 실전 전략. 받아쓰기부터 실전 문제 풀이까지, 듣기 실력을 단계적으로 향상시키는 구체적인 방법을 소개합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1509228468518-180dd4864904?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  13 ,
+      "item": {
+        "@type": "Article",
+        "name": "중학생 효율적인 암기법과 노트 정리 - 과목별 맞춤 전략",
+        "url": "http:\/\/localhost:35079\/middle\/memory-note-taking\/",
+        "description": "중학교 내신 대비를 위한 효과적인 암기 방법과 과목별 노트 정리 기술. 망각 곡선을 활용한 복습 전략부터 과목 특성에 맞는 노트 작성법까지, 학습 효율을 2배 높이는 구체적인 방법을 소개합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1455390582262-044cdead277a?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    }
+    
+  ]
+}
+</script>
+
 <div class="section-header">
     <h1 class="section-title">중학생</h1>
     
@@ -256,10 +497,6 @@
                 <span class="post-tag">#어려운문제</span>
                 
                 <span class="post-tag">#내신대비</span>
-                
-                <span class="post-tag">#수학문제풀이</span>
-                
-                <span class="post-tag">#고난도</span>
                 
             </div>
             
@@ -303,10 +540,6 @@
                 
                 <span class="post-tag">#중등영어</span>
                 
-                <span class="post-tag">#영어문법</span>
-                
-                <span class="post-tag">#영어독해</span>
-                
             </div>
             
         </div>
@@ -347,8 +580,6 @@
                 
                 <span class="post-tag">#학습전략</span>
                 
-                <span class="post-tag">#자기주도학습</span>
-                
             </div>
             
         </div>
@@ -388,8 +619,6 @@
                 <span class="post-tag">#탐구보고서</span>
                 
                 <span class="post-tag">#실험노트</span>
-                
-                <span class="post-tag">#과학탐구</span>
                 
             </div>
             
@@ -433,10 +662,6 @@
                 
                 <span class="post-tag">#함수</span>
                 
-                <span class="post-tag">#일차함수</span>
-                
-                <span class="post-tag">#이차함수</span>
-                
             </div>
             
         </div>
@@ -476,8 +701,6 @@
                 <span class="post-tag">#영어문법</span>
                 
                 <span class="post-tag">#내신영어</span>
-                
-                <span class="post-tag">#문법정리</span>
                 
             </div>
             
@@ -519,8 +742,6 @@
                 
                 <span class="post-tag">#기말고사</span>
                 
-                <span class="post-tag">#수행평가</span>
-                
             </div>
             
         </div>
@@ -560,8 +781,6 @@
                 <span class="post-tag">#비문학</span>
                 
                 <span class="post-tag">#문학</span>
-                
-                <span class="post-tag">#국어독해</span>
                 
             </div>
             
@@ -603,8 +822,6 @@
                 
                 <span class="post-tag">#답안작성</span>
                 
-                <span class="post-tag">#시험전략</span>
-                
             </div>
             
         </div>
@@ -640,10 +857,6 @@
                 <span class="post-tag">#학습계획</span>
                 
                 <span class="post-tag">#스케줄</span>
-                
-                <span class="post-tag">#내신</span>
-                
-                <span class="post-tag">#수행평가</span>
                 
             </div>
             
@@ -685,8 +898,6 @@
                 
                 <span class="post-tag">#세계사</span>
                 
-                <span class="post-tag">#역사공부법</span>
-                
             </div>
             
         </div>
@@ -723,10 +934,6 @@
                 
                 <span class="post-tag">#영어듣기</span>
                 
-                <span class="post-tag">#내신</span>
-                
-                <span class="post-tag">#수행평가</span>
-                
             </div>
             
         </div>
@@ -762,10 +969,6 @@
                 <span class="post-tag">#노트정리</span>
                 
                 <span class="post-tag">#내신</span>
-                
-                <span class="post-tag">#학습법</span>
-                
-                <span class="post-tag">#복습</span>
                 
             </div>
             
@@ -857,6 +1060,11 @@
     border-radius: 20px;
 }
 
+ 
+.post-category:nth-child(n+4) {
+    display: none;
+}
+
 .post-card-title {
     font-size: var(--font-lg);
     font-weight: 700;
@@ -878,6 +1086,12 @@
     color: var(--text-secondary);
     line-height: var(--line-height-normal);
     margin-bottom: 20px;
+     
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .post-card-meta {
@@ -901,6 +1115,11 @@
     font-size: var(--font-xs);
     color: var(--primary-color);
     font-weight: 600;
+}
+
+ 
+.post-tag:nth-child(n+4) {
+    display: none;
 }
 
 .empty-state {
@@ -928,9 +1147,44 @@
         font-size: var(--font-xl);
     }
     
+     
     .post-grid {
         grid-template-columns: 1fr;
-        gap: 24px;
+        gap: 20px;  
+    }
+    
+     
+    .post-card {
+        border-radius: 10px;
+    }
+    
+    .post-card-content {
+        padding: 20px;  
+    }
+    
+    .post-card-title {
+        font-size: 1.1rem;  
+        margin-bottom: 12px;
+    }
+    
+    .post-card-excerpt {
+        font-size: 0.9rem;  
+        line-height: 1.5;
+        margin-bottom: 16px;
+    }
+    
+    .post-category {
+        font-size: 0.75rem;
+        padding: 4px 10px;
+    }
+    
+    .post-card-meta {
+        font-size: 0.8rem;
+        gap: 12px;
+    }
+    
+    .post-tag {
+        font-size: 0.75rem;
     }
 }
 </style>
@@ -1003,9 +1257,32 @@
 }
 
 @media (max-width: 768px) {
+    .site-footer {
+        padding: 2rem 0 1.5rem;  
+    }
+
     .footer-content {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 1.5rem;  
+    }
+
+    .footer-info h4 {
+        font-size: 1.1rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .footer-info p {
+        font-size: 0.9rem;  
+        line-height: 1.6;
+    }
+
+    .footer-disclaimer {
+        font-size: 0.85rem;  
+    }
+
+    .footer-bottom {
+        font-size: 0.8rem;
+        padding-top: 1.5rem;
     }
 }
 </style>

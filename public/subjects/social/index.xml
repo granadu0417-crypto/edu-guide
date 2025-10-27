@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>사회 공부법 on 과외를부탁해 | 초중고 학습 정보 플랫폼</title>
-    <link>https://edukoreaai.com/subjects/social/</link>
+    <link>http://localhost:35079/subjects/social/</link>
     <description>Recent content in 사회 공부법 on 과외를부탁해 | 초중고 학습 정보 플랫폼</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <atom:link href="https://edukoreaai.com/subjects/social/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:35079/subjects/social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>사회 논술 대비법 - 서술형·논술형 완벽 답안 작성 가이드 (2025)</title>
+      <link>http://localhost:35079/subjects/social/social-essay-writing/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35079/subjects/social/social-essay-writing/</guid>
+      <description>&lt;p&gt;사회 과목에서 논술·서술형 평가의 비중이 점점 높아지고 있습니다. 단순 암기만으로는 좋은 점수를 받기 어렵습니다. 이 글에서는 사회 과목 논술·서술형 답안을 효과적으로 작성하는 완벽한 전략을 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;사회 논술 대비&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;사회-논술서술형-평가의-특징&#34;&gt;사회 논술·서술형 평가의 특징&lt;/h2&gt;&#xA;&lt;h3 id=&#34;논술형-vs-서술형&#34;&gt;논술형 vs 서술형&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;차이점&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;서술형:&#xA;- 짧은 답안 (2-5줄)&#xA;- 핵심 내용 중심&#xA;- 배점: 3-5점&#xA;- 예: &amp;#34;갑신정변의 원인을 서술하시오&amp;#34;&#xA;&#xA;논술형:&#xA;- 긴 답안 (10줄 이상)&#xA;- 분석과 논리 전개&#xA;- 배점: 10-20점&#xA;- 예: &amp;#34;근대화 과정에서 갑신정변이 &#xA;      미친 영향을 분석하시오&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;평가-기준&#34;&gt;평가 기준&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;채점 요소&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>사회 암기 전략 - 역사·지리 용어 완벽 암기 가이드 (2025)</title>
+      <link>http://localhost:35079/subjects/social/social-memorization-strategies/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35079/subjects/social/social-memorization-strategies/</guid>
+      <description>&lt;p&gt;사회 과목은 암기할 내용이 많아 부담스럽게 느껴질 수 있습니다. 하지만 체계적인 암기 전략을 활용하면 효율적으로 학습하고 오래 기억할 수 있습니다. 이 글에서는 역사, 지리, 정치·경제 등 사회 과목 전반의 완벽한 암기 전략을 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;사회 암기 전략&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;사회-과목-암기가-어려운-이유&#34;&gt;사회 과목 암기가 어려운 이유&lt;/h2&gt;&#xA;&lt;h3 id=&#34;방대한-학습량&#34;&gt;방대한 학습량&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;사회 과목의 특징&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;역사: 시대별 사건, 인물, 연도&#xA;지리: 지명, 위치, 통계, 현상&#xA;정치·경제: 제도, 개념, 용어&#xA;→ 암기할 내용이 매우 많음&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;추상적인-개념&#34;&gt;추상적인 개념&lt;/h3&gt;&#xA;&lt;p&gt;사회 과목은 구체적이지 않은 개념들이 많아 이해와 암기가 어렵습니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>사회 역사 학습법 - 한국사·세계사 완벽 정복 가이드 (2025)</title>
+      <link>http://localhost:35079/subjects/social/social-history-study-methods/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35079/subjects/social/social-history-study-methods/</guid>
+      <description>&lt;p&gt;역사는 단순 암기가 아닙니다. 시대의 흐름을 이해하고, 사건 간 인과관계를 파악하며, 역사적 의미를 생각하는 것이 진짜 역사 공부입니다. 이 글에서는 한국사와 세계사를 완벽하게 정복하는 모든 학습법을 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;역사 학습법&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;역사-공부가-중요한-이유&#34;&gt;역사 공부가 중요한 이유&lt;/h2&gt;&#xA;&lt;h3 id=&#34;단순-과거가-아닌-현재와-미래&#34;&gt;단순 과거가 아닌 현재와 미래&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;역사의 가치&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;과거를 알면:&#xA;✓ 현재를 이해&#xA;✓ 미래를 예측&#xA;✓ 실수 반복 방지&#xA;✓ 지혜 습득&#xA;&#xA;역사 공부:&#xA;단순 암기 (X)&#xA;→ 시대 흐름 이해&#xA;→ 인과관계 파악&#xA;→ 역사적 사고력&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;평가-비중&#34;&gt;평가 비중&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;시험에서의 역사&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>사회 지리 완벽 정리 - 자연·인문지리 학습법 가이드 (2025)</title>
+      <link>http://localhost:35079/subjects/social/social-geography-mastery/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35079/subjects/social/social-geography-mastery/</guid>
+      <description>&lt;p&gt;지리는 단순히 외우는 과목이 아닙니다. 지도를 읽고, 공간을 이해하고, 지역의 특성을 파악하는 종합적 사고가 필요합니다. 이 글에서는 자연지리와 인문지리를 완벽하게 정복하는 모든 학습법을 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;지리 학습법&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;지리-공부가-중요한-이유&#34;&gt;지리 공부가 중요한 이유&lt;/h2&gt;&#xA;&lt;h3 id=&#34;공간적-사고력&#34;&gt;공간적 사고력&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;지리적 시각&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;지리를 배우면:&#xA;✓ 공간 인식 능력&#xA;✓ 지역 이해력&#xA;✓ 환경 문제 해결&#xA;✓ 국제 감각&#xA;&#xA;지리 = 세상을 보는 눈!&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;평가-비중&#34;&gt;평가 비중&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;시험에서의 지리&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;중학교:&#xA;- 사회 과목 30-40%&#xA;- 지도·그래프 문제&#xA;- 지역 조사 프로젝트&#xA;&#xA;고등학교:&#xA;- 한국지리 선택&#xA;- 세계지리 선택&#xA;- 수행평가 비중 높음&#xA;- 통계 자료 해석&#xA;&#xA;→ 실생활 연결 과목!&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;지리-학습-영역&#34;&gt;지리 학습 영역&lt;/h2&gt;&#xA;&lt;h3 id=&#34;지리의-구분&#34;&gt;지리의 구분&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;2대 영역&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

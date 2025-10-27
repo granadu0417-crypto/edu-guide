@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>중학생 on 과외를부탁해 | 초중고 학습 정보 플랫폼</title>
-    <link>https://edukoreaai.com/grades/%EC%A4%91%ED%95%99%EC%83%9D/</link>
+    <link>http://localhost:35079/grades/%EC%A4%91%ED%95%99%EC%83%9D/</link>
     <description>Recent content in 중학생 on 과외를부탁해 | 초중고 학습 정보 플랫폼</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/grades/%EC%A4%91%ED%95%99%EC%83%9D/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35079/grades/%EC%A4%91%ED%95%99%EC%83%9D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>중학생 영어 공부법 완전 정복 | 내신부터 고등 준비까지</title>
-      <link>https://edukoreaai.com/middle/middle-school-english-study-guide/</link>
+      <link>http://localhost:35079/middle/middle-school-english-study-guide/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/middle/middle-school-english-study-guide/</guid>
+      <guid>http://localhost:35079/middle/middle-school-english-study-guide/</guid>
       <description>&lt;h2 id=&#34;-중학-영어-왜-이렇게-중요할까요&#34;&gt;🎯 중학 영어, 왜 이렇게 중요할까요?&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;초등 때는 잘했는데, 중학교 와서 갑자기 어려워졌어요.&amp;rdquo;&#xA;&amp;ldquo;문법이 너무 많아서 헷갈려요.&amp;rdquo;&#xA;&amp;ldquo;내신 시험에서 서술형이 너무 어려워요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;많은 중학생들이 영어 때문에 고민합니다. &lt;strong&gt;중학 영어는 초등 영어와 완전히 다릅니다.&lt;/strong&gt; 단순 암기가 아니라 &lt;strong&gt;문법 체계 이해 + 독해력 + 듣기 능력&lt;/strong&gt;이 모두 필요한 과정입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;중학-영어가-결정하는-것들&#34;&gt;중학 영어가 결정하는 것들&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;고등 영어의 80%&lt;/strong&gt;: 중등 문법이 고등 영어의 기초입니다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;수능 영어 등급&lt;/strong&gt;: 중등 때 독해 습관이 수능까지 영향을 미칩니다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;내신 성적&lt;/strong&gt;: 중학 내신은 고입, 대입 전형에 직접 반영됩니다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;영어 자신감&lt;/strong&gt;: 중등 3년이 평생 영어 실력을 좌우합니다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;cta-kakao-hero&#34;&gt;&#xA;  &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;     target=&#34;_blank&#34;&#xA;     rel=&#34;noopener noreferrer&#34;&#xA;     class=&#34;kakao-btn-hero&#34;&#xA;     onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;       &#39;event_category&#39;: &#39;engagement&#39;,&#xA;       &#39;event_label&#39;: &#39;consultation_hero&#39;,&#xA;       &#39;value&#39;: 1&#xA;     });&#34;&gt;&#xA;    💬 카카오톡으로 무료 상담 시작하기&#xA;  &lt;/a&gt;&#xA;  &lt;p class=&#34;kakao-subtitle&#34;&gt;⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p&gt;</description>
     </item>
   </channel>

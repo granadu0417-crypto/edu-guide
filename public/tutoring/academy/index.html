@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=35079&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -9,7 +9,7 @@
     <meta name="description" content="우리 동네 학원 정보, 학원 선택 가이드, 학원별 특징과 장단점">
     <meta name="keywords" content="학원 찾기, 학원 정보, 학원 선택, 보습학원, 입시학원">
     <meta name="author" content="과외를부탁해 편집팀">
-    <link rel="canonical" href="https://edukoreaai.com/tutoring/academy/">
+    <link rel="canonical" href="http://localhost:35079/tutoring/academy/">
 
     
     <meta name="naver-site-verification" content="228c0da6bfc9eda328a78ce3a4417c8ff8630d59" />
@@ -18,10 +18,10 @@
     <meta property="og:title" content="학원 찾기 | 과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta property="og:description" content="우리 동네 학원 정보, 학원 선택 가이드, 학원별 특징과 장단점">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://edukoreaai.com/tutoring/academy/">
+    <meta property="og:url" content="http://localhost:35079/tutoring/academy/">
     <meta property="og:site_name" content="과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta property="og:locale" content="ko_KR">
-    <meta property="og:image" content="https://edukoreaai.com/images/og-default.jpg">
+    <meta property="og:image" content="http://localhost:35079/images/og-default.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     
@@ -30,7 +30,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="학원 찾기 | 과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta name="twitter:description" content="우리 동네 학원 정보, 학원 선택 가이드, 학원별 특징과 장단점">
-    <meta name="twitter:image" content="https://edukoreaai.com/images/og-default.jpg">
+    <meta name="twitter:image" content="http://localhost:35079/images/og-default.jpg">
     
     
     
@@ -39,7 +39,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "과외를부탁해 | 초중고 학습 정보 플랫폼",
-        "url": "https:\/\/edukoreaai.com\/",
+        "url": "http:\/\/localhost:35079\/",
         "description": "초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서. 과목별 공부법, 내신 대비, 수능 준비, 지역별 학원·과외 정보까지.",
         "publisher": {
             "@type": "Organization",
@@ -47,7 +47,7 @@
         },
         "potentialAction": {
             "@type": "SearchAction",
-            "target": "https:\/\/edukoreaai.com\/search?q={search_term_string}",
+            "target": "http:\/\/localhost:35079\/search?q={search_term_string}",
             "query-input": "required name=search_term_string"
         },
         "inLanguage": "ko-KR"
@@ -86,22 +86,29 @@
     <header class="site-header">
     <div class="wide-container">
         <div class="header-content">
-            <div class="site-logo">
-                <a href="/">
-                    <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
-                    <span>과외를부탁해</span>
-                </a>
-                <div class="usage-counter">
-                    <div class="label">누적 사용자</div>
-                    <div class="count"><span id="usageCount">0</span>명</div>
+            <div class="header-top">
+                <div class="site-logo">
+                    <a href="/">
+                        <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
+                        <span>과외를부탁해</span>
+                    </a>
                 </div>
+                <button class="mobile-menu-toggle" aria-label="메뉴 열기">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+            <div class="usage-counter">
+                <div class="label">누적 사용자</div>
+                <div class="count"><span id="usageCount">0</span>명</div>
             </div>
             <nav class="main-nav">
                 <ul>
                     
                         
                             <li class="has-dropdown">
-                                <a href="">학습 가이드 ▼</a>
+                                <a href="">학습 가이드</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/elementary/">초등학생</a></li>
@@ -116,7 +123,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">과목별 ▼</a>
+                                <a href="">과목별</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/subjects/korean/">국어</a></li>
@@ -135,7 +142,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">학원·과외 ▼</a>
+                                <a href="">학원·과외</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/tutoring/guide/">선택 가이드</a></li>
@@ -154,7 +161,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">지역정보 ▼</a>
+                                <a href="">지역정보</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/local/seoul/">서울</a></li>
@@ -180,41 +187,88 @@
 <script>
 
 (function() {
-    if ('ontouchstart' in window) {
-        const dropdowns = document.querySelectorAll('.has-dropdown');
+    const menuToggle = document.querySelector('.mobile-menu-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    const header = document.querySelector('.site-header');
 
-        dropdowns.forEach(dropdown => {
-            const link = dropdown.querySelector('a');
-            const menu = dropdown.querySelector('.dropdown');
+    if (menuToggle) {
+        menuToggle.addEventListener('click', function() {
+            this.classList.toggle('active');
+            mainNav.classList.toggle('active');
+            document.body.classList.toggle('menu-open');
 
-            link.addEventListener('click', function(e) {
-                
-                if (!dropdown.classList.contains('active')) {
-                    e.preventDefault();
-
-                    
-                    dropdowns.forEach(d => d.classList.remove('active'));
-
-                    
-                    dropdown.classList.add('active');
-                }
-                
-            });
+            
+            const isOpen = this.classList.contains('active');
+            this.setAttribute('aria-label', isOpen ? '메뉴 닫기' : '메뉴 열기');
         });
 
         
         document.addEventListener('click', function(e) {
-            if (!e.target.closest('.has-dropdown')) {
-                dropdowns.forEach(d => d.classList.remove('active'));
+            if (!header.contains(e.target) && mainNav.classList.contains('active')) {
+                menuToggle.classList.remove('active');
+                mainNav.classList.remove('active');
+                document.body.classList.remove('menu-open');
+                menuToggle.setAttribute('aria-label', '메뉴 열기');
             }
         });
     }
+
+    
 })();
 </script>
 
     
     <main>
         
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "학원 찾기",
+  "description": "우리 동네 학원 정보, 학원 선택 가이드, 학원별 특징과 장단점",
+  "url": "http:\/\/localhost:35079\/tutoring\/academy\/",
+  "numberOfItems":  2 ,
+  "itemListElement": [
+    
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "item": {
+        "@type": "Article",
+        "name": "대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)",
+        "url": "http:\/\/localhost:35079\/tutoring\/academy\/large-vs-small-academy\/",
+        "description": "대형 학원과 소형 학원의 장단점을 상세히 비교합니다. 아이 성향별, 과목별, 목적별 최적의 학원 선택 가이드를 제공합니다.",
+        "datePublished": "2025-01-26",
+        "image": "https:\/\/images.unsplash.com\/photo-1497633762265-9d179a990aa6?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "item": {
+        "@type": "Article",
+        "name": "학원 선택 완벽 체크리스트 - 등록 전 필수 확인사항 (2025)",
+        "url": "http:\/\/localhost:35079\/tutoring\/academy\/academy-selection-checklist\/",
+        "description": "학원 등록 전 반드시 확인해야 할 체크리스트를 소개합니다. 시설, 강사진, 커리큘럼, 비용까지 실패 없는 학원 선택 가이드입니다.",
+        "datePublished": "2025-01-26",
+        "image": "https:\/\/images.unsplash.com\/photo-1427504494785-3a9ca7044f45?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    }
+    
+  ]
+}
+</script>
+
 <div class="section-header">
     <h1 class="section-title">학원 찾기</h1>
     
@@ -224,13 +278,84 @@
 
 <div class="post-grid">
     
+    <article class="post-card">
+        
+        <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&amp;h=630&amp;fit=crop')"></div>
+        
+
+        <div class="post-card-content">
+            <div class="post-categories">
+                
+                <span class="post-category">학원과외</span>
+                
+                <span class="post-category">학원</span>
+                
+            </div>
+
+            <h2 class="post-card-title">
+                <a href="/tutoring/academy/large-vs-small-academy/">대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)</a>
+            </h2>
+
+            <p class="post-card-excerpt">대형 학원과 소형 학원의 장단점을 상세히 비교합니다. 아이 성향별, 과목별, 목적별 최적의 학원 선택 가이드를 제공합니다.</p>
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025년 01월 26일</span>
+            </div>
+
+            
+            <div class="post-card-tags">
+                
+                <span class="post-tag">#대형학원</span>
+                
+                <span class="post-tag">#소형학원</span>
+                
+                <span class="post-tag">#학원비교</span>
+                
+            </div>
+            
+        </div>
+    </article>
+    
+    <article class="post-card">
+        
+        <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&amp;h=630&amp;fit=crop')"></div>
+        
+
+        <div class="post-card-content">
+            <div class="post-categories">
+                
+                <span class="post-category">학원과외</span>
+                
+                <span class="post-category">학원</span>
+                
+            </div>
+
+            <h2 class="post-card-title">
+                <a href="/tutoring/academy/academy-selection-checklist/">학원 선택 완벽 체크리스트 - 등록 전 필수 확인사항 (2025)</a>
+            </h2>
+
+            <p class="post-card-excerpt">학원 등록 전 반드시 확인해야 할 체크리스트를 소개합니다. 시설, 강사진, 커리큘럼, 비용까지 실패 없는 학원 선택 가이드입니다.</p>
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025년 01월 26일</span>
+            </div>
+
+            
+            <div class="post-card-tags">
+                
+                <span class="post-tag">#학원선택</span>
+                
+                <span class="post-tag">#학원등록</span>
+                
+                <span class="post-tag">#학원체크리스트</span>
+                
+            </div>
+            
+        </div>
+    </article>
+    
 </div>
 
-
-<div class="empty-state">
-    <p>📝 아직 작성된 글이 없습니다.</p>
-    <p class="empty-state-subtitle">곧 유용한 정보를 가득 채워드릴게요!</p>
-</div>
 
 
 <style>
@@ -314,6 +439,11 @@
     border-radius: 20px;
 }
 
+ 
+.post-category:nth-child(n+4) {
+    display: none;
+}
+
 .post-card-title {
     font-size: var(--font-lg);
     font-weight: 700;
@@ -335,6 +465,12 @@
     color: var(--text-secondary);
     line-height: var(--line-height-normal);
     margin-bottom: 20px;
+     
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .post-card-meta {
@@ -358,6 +494,11 @@
     font-size: var(--font-xs);
     color: var(--primary-color);
     font-weight: 600;
+}
+
+ 
+.post-tag:nth-child(n+4) {
+    display: none;
 }
 
 .empty-state {
@@ -385,9 +526,44 @@
         font-size: var(--font-xl);
     }
     
+     
     .post-grid {
         grid-template-columns: 1fr;
-        gap: 24px;
+        gap: 20px;  
+    }
+    
+     
+    .post-card {
+        border-radius: 10px;
+    }
+    
+    .post-card-content {
+        padding: 20px;  
+    }
+    
+    .post-card-title {
+        font-size: 1.1rem;  
+        margin-bottom: 12px;
+    }
+    
+    .post-card-excerpt {
+        font-size: 0.9rem;  
+        line-height: 1.5;
+        margin-bottom: 16px;
+    }
+    
+    .post-category {
+        font-size: 0.75rem;
+        padding: 4px 10px;
+    }
+    
+    .post-card-meta {
+        font-size: 0.8rem;
+        gap: 12px;
+    }
+    
+    .post-tag {
+        font-size: 0.75rem;
     }
 }
 </style>
@@ -460,9 +636,32 @@
 }
 
 @media (max-width: 768px) {
+    .site-footer {
+        padding: 2rem 0 1.5rem;  
+    }
+
     .footer-content {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 1.5rem;  
+    }
+
+    .footer-info h4 {
+        font-size: 1.1rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .footer-info p {
+        font-size: 0.9rem;  
+        line-height: 1.6;
+    }
+
+    .footer-disclaimer {
+        font-size: 0.85rem;  
+    }
+
+    .footer-bottom {
+        font-size: 0.8rem;
+        padding-top: 1.5rem;
     }
 }
 </style>

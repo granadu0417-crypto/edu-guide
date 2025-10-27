@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=35079&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -9,7 +9,7 @@
     <meta name="description" content="지역별 학원, 과외, 교육 환경 정보를 안내합니다.">
     <meta name="keywords" content="초등학생, 중학생, 고등학생, 공부법, 내신, 수능, 학원, 과외, 교육정보">
     <meta name="author" content="과외를부탁해 편집팀">
-    <link rel="canonical" href="https://edukoreaai.com/local/">
+    <link rel="canonical" href="http://localhost:35079/local/">
 
     
     <meta name="naver-site-verification" content="228c0da6bfc9eda328a78ce3a4417c8ff8630d59" />
@@ -18,10 +18,10 @@
     <meta property="og:title" content="지역정보 | 과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta property="og:description" content="지역별 학원, 과외, 교육 환경 정보를 안내합니다.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://edukoreaai.com/local/">
+    <meta property="og:url" content="http://localhost:35079/local/">
     <meta property="og:site_name" content="과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta property="og:locale" content="ko_KR">
-    <meta property="og:image" content="https://edukoreaai.com/images/og-default.jpg">
+    <meta property="og:image" content="http://localhost:35079/images/og-default.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     
@@ -30,7 +30,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="지역정보 | 과외를부탁해 | 초중고 학습 정보 플랫폼">
     <meta name="twitter:description" content="지역별 학원, 과외, 교육 환경 정보를 안내합니다.">
-    <meta name="twitter:image" content="https://edukoreaai.com/images/og-default.jpg">
+    <meta name="twitter:image" content="http://localhost:35079/images/og-default.jpg">
     
     
     
@@ -39,7 +39,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "과외를부탁해 | 초중고 학습 정보 플랫폼",
-        "url": "https:\/\/edukoreaai.com\/",
+        "url": "http:\/\/localhost:35079\/",
         "description": "초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서. 과목별 공부법, 내신 대비, 수능 준비, 지역별 학원·과외 정보까지.",
         "publisher": {
             "@type": "Organization",
@@ -47,7 +47,7 @@
         },
         "potentialAction": {
             "@type": "SearchAction",
-            "target": "https:\/\/edukoreaai.com\/search?q={search_term_string}",
+            "target": "http:\/\/localhost:35079\/search?q={search_term_string}",
             "query-input": "required name=search_term_string"
         },
         "inLanguage": "ko-KR"
@@ -86,22 +86,29 @@
     <header class="site-header">
     <div class="wide-container">
         <div class="header-content">
-            <div class="site-logo">
-                <a href="/">
-                    <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
-                    <span>과외를부탁해</span>
-                </a>
-                <div class="usage-counter">
-                    <div class="label">누적 사용자</div>
-                    <div class="count"><span id="usageCount">0</span>명</div>
+            <div class="header-top">
+                <div class="site-logo">
+                    <a href="/">
+                        <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
+                        <span>과외를부탁해</span>
+                    </a>
                 </div>
+                <button class="mobile-menu-toggle" aria-label="메뉴 열기">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+            <div class="usage-counter">
+                <div class="label">누적 사용자</div>
+                <div class="count"><span id="usageCount">0</span>명</div>
             </div>
             <nav class="main-nav">
                 <ul>
                     
                         
                             <li class="has-dropdown">
-                                <a href="">학습 가이드 ▼</a>
+                                <a href="">학습 가이드</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/elementary/">초등학생</a></li>
@@ -116,7 +123,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">과목별 ▼</a>
+                                <a href="">과목별</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/subjects/korean/">국어</a></li>
@@ -135,7 +142,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">학원·과외 ▼</a>
+                                <a href="">학원·과외</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/tutoring/guide/">선택 가이드</a></li>
@@ -154,7 +161,7 @@
                     
                         
                             <li class="has-dropdown">
-                                <a href="">지역정보 ▼</a>
+                                <a href="">지역정보</a>
                                 <ul class="dropdown">
                                     
                                         <li><a href="/local/seoul/">서울</a></li>
@@ -180,41 +187,241 @@
 <script>
 
 (function() {
-    if ('ontouchstart' in window) {
-        const dropdowns = document.querySelectorAll('.has-dropdown');
+    const menuToggle = document.querySelector('.mobile-menu-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    const header = document.querySelector('.site-header');
 
-        dropdowns.forEach(dropdown => {
-            const link = dropdown.querySelector('a');
-            const menu = dropdown.querySelector('.dropdown');
+    if (menuToggle) {
+        menuToggle.addEventListener('click', function() {
+            this.classList.toggle('active');
+            mainNav.classList.toggle('active');
+            document.body.classList.toggle('menu-open');
 
-            link.addEventListener('click', function(e) {
-                
-                if (!dropdown.classList.contains('active')) {
-                    e.preventDefault();
-
-                    
-                    dropdowns.forEach(d => d.classList.remove('active'));
-
-                    
-                    dropdown.classList.add('active');
-                }
-                
-            });
+            
+            const isOpen = this.classList.contains('active');
+            this.setAttribute('aria-label', isOpen ? '메뉴 닫기' : '메뉴 열기');
         });
 
         
         document.addEventListener('click', function(e) {
-            if (!e.target.closest('.has-dropdown')) {
-                dropdowns.forEach(d => d.classList.remove('active'));
+            if (!header.contains(e.target) && mainNav.classList.contains('active')) {
+                menuToggle.classList.remove('active');
+                mainNav.classList.remove('active');
+                document.body.classList.remove('menu-open');
+                menuToggle.setAttribute('aria-label', '메뉴 열기');
             }
         });
     }
+
+    
 })();
 </script>
 
     
     <main>
         
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "지역정보",
+  "description": "지역별 학원, 과외, 교육 환경 정보를 안내합니다.",
+  "url": "http:\/\/localhost:35079\/local\/",
+  "numberOfItems":  11 ,
+  "itemListElement": [
+    
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "item": {
+        "@type": "Article",
+        "name": "마포구 영어과외 선택 가이드 - 효과적인 1:1 영어 학습법",
+        "url": "http:\/\/localhost:35079\/local\/mapo-english-tutor\/",
+        "description": "마포구에서 영어과외를 찾고 계신가요? 1:1 영어과외의 실제 효과와 장점, 올바른 선택 방법을 알려드립니다.",
+        "datePublished": "2025-10-16",
+        "image": "https:\/\/images.unsplash.com\/photo-1546410531-bb4caa6b424d?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "item": {
+        "@type": "Article",
+        "name": "서울 지역 교육정보",
+        "url": "http:\/\/localhost:35079\/local\/seoul\/",
+        "description": "서울 주요 학군 및 교육 환경 정보를 제공합니다. 강남, 서초, 송파 등 주요 지역의 학교, 학원, 교육 인프라를 안내합니다.",
+        "datePublished": "2025-01-27",
+        
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  3 ,
+      "item": {
+        "@type": "Article",
+        "name": "경기도 지역 교육정보",
+        "url": "http:\/\/localhost:35079\/local\/gyeonggi\/",
+        "description": "경기도 주요 신도시 및 교육 환경 정보를 제공합니다. 분당, 평촌, 일산, 동탄 등 주요 지역의 학교, 학원, 교육 인프라를 안내합니다.",
+        "datePublished": "2025-01-17",
+        
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  4 ,
+      "item": {
+        "@type": "Article",
+        "name": "교육복지 지원 제도 총정리 - 저소득층 학생 무료 지원 혜택",
+        "url": "http:\/\/localhost:35079\/local\/education-welfare-support-guide\/",
+        "description": "기초생활수급자, 차상위계층, 한부모가족을 위한 교육비 지원 제도를 상세히 안내합니다. 급식비, 교육비, 방과후, 장학금까지 받을 수 있는 모든 교육복지 혜택을 총정리했습니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1488521787991-ed7bbaae773c?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  5 ,
+      "item": {
+        "@type": "Article",
+        "name": "교육지원청·Wee센터 완벽 활용 가이드 - 무료 상담과 지원 서비스",
+        "url": "http:\/\/localhost:35079\/local\/education-support-center-guide\/",
+        "description": "교육지원청, Wee센터, 학습종합클리닉센터 등 공공 교육지원 기관의 모든 것을 안내합니다. 무료 상담, 학습 지원, 진로 상담 등 학생과 학부모가 꼭 알아야 할 교육 서비스를 소개합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1454165804606-c3d57bc86b40?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  6 ,
+      "item": {
+        "@type": "Article",
+        "name": "무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법",
+        "url": "http:\/\/localhost:35079\/local\/online-education-platform-guide\/",
+        "description": "EBS, e학습터, 위두랑, 인터넷 강의 등 무료·저렴한 온라인 교육 플랫폼을 상세히 안내합니다. 학년별 추천 사이트, 효과적인 활용법, 학습 관리 방법까지 온라인 학습의 모든 것을 소개합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1588702547923-7093a6c3ba33?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  7 ,
+      "item": {
+        "@type": "Article",
+        "name": "전국 공공도서관 활용 완벽 가이드 - 무료 학습공간과 교육 프로그램",
+        "url": "http:\/\/localhost:35079\/local\/public-library-guide\/",
+        "description": "전국 주요 공공도서관의 시설, 프로그램, 이용 방법을 상세히 안내합니다. 학습실 예약, 독서 프로그램, 디지털 자료 활용법까지 도서관 200% 활용하는 방법을 소개합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1521587760476-6c12a4b040da?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  8 ,
+      "item": {
+        "@type": "Article",
+        "name": "전국 특목고·자사고·영재학교 지역별 가이드 - 입학 전형과 준비 전략",
+        "url": "http:\/\/localhost:35079\/local\/special-purpose-high-school-guide\/",
+        "description": "전국 특수목적고등학교, 자율형사립고등학교, 영재학교의 지역별 현황과 입학 전형을 상세히 안내합니다. 외고, 과고, 국제고, 예고, 체고, 마이스터고까지 특성화된 고등학교 완벽 가이드입니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1562774053-701939374585?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  9 ,
+      "item": {
+        "@type": "Article",
+        "name": "지역아동센터·청소년수련관 완벽 가이드 - 무료·저렴한 교육 시설",
+        "url": "http:\/\/localhost:35079\/local\/community-learning-center-guide\/",
+        "description": "지역아동센터, 청소년수련관, 복지관 등 지역사회 교육 시설의 모든 것을 안내합니다. 이용 대상, 프로그램, 신청 방법까지 무료·저렴하게 이용할 수 있는 교육 인프라를 소개합니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1503676260728-1c00da094a0b?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  10 ,
+      "item": {
+        "@type": "Article",
+        "name": "초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법",
+        "url": "http:\/\/localhost:35079\/local\/after-school-program-guide\/",
+        "description": "초등학교 방과후학교와 돌봄교실의 모든 것을 안내합니다. 프로그램 종류, 비용, 신청 방법, 지원 제도까지 학부모가 꼭 알아야 할 정보를 총정리했습니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1503676260728-1c00da094a0b?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    },
+    
+    {
+      "@type": "ListItem",
+      "position":  11 ,
+      "item": {
+        "@type": "Article",
+        "name": "학원 선택 완벽 가이드 - 우리 아이에게 맞는 학원 찾기",
+        "url": "http:\/\/localhost:35079\/local\/private-academy-selection-guide\/",
+        "description": "학원 선택부터 관리까지 학부모가 꼭 알아야 할 모든 정보를 안내합니다. 학원 유형, 선택 기준, 등록 절차, 환불 규정, 주의사항까지 현명한 학원 선택을 위한 완벽 가이드입니다.",
+        "datePublished": "2025-01-17",
+        "image": "https:\/\/images.unsplash.com\/photo-1522202176988-66273c2fd55f?w=1200\u0026h=630\u0026fit=crop",
+        "author": {
+          "@type": "Organization",
+          "name": "과외를부탁해 편집팀"
+        }
+      }
+    }
+    
+  ]
+}
+</script>
+
 <div class="section-header">
     <h1 class="section-title">지역정보</h1>
     
@@ -257,11 +464,29 @@
                 
                 <span class="post-tag">#과외추천</span>
                 
-                <span class="post-tag">#1대1과외</span>
-                
-                <span class="post-tag">#영어회화</span>
+            </div>
+            
+        </div>
+    </article>
+    
+    <article class="post-card">
+        
+
+        <div class="post-card-content">
+            <div class="post-categories">
                 
             </div>
+
+            <h2 class="post-card-title">
+                <a href="/local/seoul/">서울 지역 교육정보</a>
+            </h2>
+
+            <p class="post-card-excerpt">서울 주요 학군 및 교육 환경 정보를 제공합니다. 강남, 서초, 송파 등 주요 지역의 학교, 학원, 교육 인프라를 안내합니다.</p>
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025년 01월 27일</span>
+            </div>
+
             
         </div>
     </article>
@@ -319,10 +544,6 @@
                 
                 <span class="post-tag">#급식비</span>
                 
-                <span class="post-tag">#방과후</span>
-                
-                <span class="post-tag">#저소득층</span>
-                
             </div>
             
         </div>
@@ -358,10 +579,6 @@
                 <span class="post-tag">#Wee센터</span>
                 
                 <span class="post-tag">#학습클리닉</span>
-                
-                <span class="post-tag">#진로상담</span>
-                
-                <span class="post-tag">#심리상담</span>
                 
             </div>
             
@@ -399,33 +616,7 @@
                 
                 <span class="post-tag">#e학습터</span>
                 
-                <span class="post-tag">#위두랑</span>
-                
-                <span class="post-tag">#인터넷강의</span>
-                
             </div>
-            
-        </div>
-    </article>
-    
-    <article class="post-card">
-        
-
-        <div class="post-card-content">
-            <div class="post-categories">
-                
-            </div>
-
-            <h2 class="post-card-title">
-                <a href="/local/seoul/">서울 지역 교육정보</a>
-            </h2>
-
-            <p class="post-card-excerpt">서울 주요 학군 및 교육 환경 정보를 제공합니다. 강남, 서초, 송파 등 주요 지역의 학교, 학원, 교육 인프라를 안내합니다.</p>
-
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 17일</span>
-            </div>
-
             
         </div>
     </article>
@@ -460,10 +651,6 @@
                 <span class="post-tag">#공공도서관</span>
                 
                 <span class="post-tag">#학습실</span>
-                
-                <span class="post-tag">#독서프로그램</span>
-                
-                <span class="post-tag">#디지털자료</span>
                 
             </div>
             
@@ -501,10 +688,6 @@
                 
                 <span class="post-tag">#영재학교</span>
                 
-                <span class="post-tag">#외고</span>
-                
-                <span class="post-tag">#과고</span>
-                
             </div>
             
         </div>
@@ -540,10 +723,6 @@
                 <span class="post-tag">#청소년수련관</span>
                 
                 <span class="post-tag">#복지관</span>
-                
-                <span class="post-tag">#무료교육</span>
-                
-                <span class="post-tag">#지역사회</span>
                 
             </div>
             
@@ -581,10 +760,6 @@
                 
                 <span class="post-tag">#초등돌봄</span>
                 
-                <span class="post-tag">#방과후프로그램</span>
-                
-                <span class="post-tag">#교육복지</span>
-                
             </div>
             
         </div>
@@ -620,10 +795,6 @@
                 <span class="post-tag">#사교육</span>
                 
                 <span class="post-tag">#학원선택</span>
-                
-                <span class="post-tag">#교습소</span>
-                
-                <span class="post-tag">#과외</span>
                 
             </div>
             
@@ -715,6 +886,11 @@
     border-radius: 20px;
 }
 
+ 
+.post-category:nth-child(n+4) {
+    display: none;
+}
+
 .post-card-title {
     font-size: var(--font-lg);
     font-weight: 700;
@@ -736,6 +912,12 @@
     color: var(--text-secondary);
     line-height: var(--line-height-normal);
     margin-bottom: 20px;
+     
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .post-card-meta {
@@ -759,6 +941,11 @@
     font-size: var(--font-xs);
     color: var(--primary-color);
     font-weight: 600;
+}
+
+ 
+.post-tag:nth-child(n+4) {
+    display: none;
 }
 
 .empty-state {
@@ -786,9 +973,44 @@
         font-size: var(--font-xl);
     }
     
+     
     .post-grid {
         grid-template-columns: 1fr;
-        gap: 24px;
+        gap: 20px;  
+    }
+    
+     
+    .post-card {
+        border-radius: 10px;
+    }
+    
+    .post-card-content {
+        padding: 20px;  
+    }
+    
+    .post-card-title {
+        font-size: 1.1rem;  
+        margin-bottom: 12px;
+    }
+    
+    .post-card-excerpt {
+        font-size: 0.9rem;  
+        line-height: 1.5;
+        margin-bottom: 16px;
+    }
+    
+    .post-category {
+        font-size: 0.75rem;
+        padding: 4px 10px;
+    }
+    
+    .post-card-meta {
+        font-size: 0.8rem;
+        gap: 12px;
+    }
+    
+    .post-tag {
+        font-size: 0.75rem;
     }
 }
 </style>
@@ -861,9 +1083,32 @@
 }
 
 @media (max-width: 768px) {
+    .site-footer {
+        padding: 2rem 0 1.5rem;  
+    }
+
     .footer-content {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 1.5rem;  
+    }
+
+    .footer-info h4 {
+        font-size: 1.1rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .footer-info p {
+        font-size: 0.9rem;  
+        line-height: 1.6;
+    }
+
+    .footer-disclaimer {
+        font-size: 0.85rem;  
+    }
+
+    .footer-bottom {
+        font-size: 0.8rem;
+        padding-top: 1.5rem;
     }
 }
 </style>
