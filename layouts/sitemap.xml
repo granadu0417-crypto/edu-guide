@@ -48,9 +48,9 @@
       {{- $priority = 0.8 -}}
       {{- $changefreq = "weekly" -}}
 
-    {{- /* 지역정보 페이지: 중간 우선순위 */ -}}
+    {{- /* 지역정보 페이지: 높은 우선순위 (SEO 최적화) */ -}}
     {{- else if in .RelPermalink "/local/" -}}
-      {{- $priority = 0.7 -}}
+      {{- $priority = 0.85 -}}
       {{- $changefreq = "weekly" -}}
 
     {{- /* 학년별 가이드 페이지: 섹션과 일반 페이지 구분 */ -}}
