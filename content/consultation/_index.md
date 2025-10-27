@@ -174,28 +174,30 @@ description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료
 <details>
 <summary><strong>Q1. 상담 비용이 있나요?</strong></summary>
 <div class="faq-answer">
-아니요, <strong>완전 무료</strong>입니다. 상담료, 등록비, 숨겨진 비용 일체 없습니다. 부담 없이 문의하세요.
+아니요, 완전 무료입니다. 담당교육팀장이 학습상담 진행 후 체험수업도 무료로 진행 가능합니다.<br>
+체험수업 후 실제 수업을 희망하신다면 아이와 상의 후 수업등록 결제해주시면 됩니다.
 </div>
 </details>
 
 <details>
 <summary><strong>Q2. 상담은 얼마나 걸리나요?</strong></summary>
 <div class="faq-answer">
-카카오톡 간단 상담은 <strong>즉시</strong> 가능하며, 심화 상담은 <strong>20-30분</strong> 정도 소요됩니다. 시간 제약 없이 편하게 문의하세요.
+교육팀장 카톡or전화상담 5분~10분정도이며, 맞춤선생님 무료체험수업은 30분 진행됩니다.<br>
+무료체험신청 혹은 카카오톡으로 [연락처/학년/과목] 남겨주시면 상담드리겠습니다.
 </div>
 </details>
 
 <details>
 <summary><strong>Q3. 언제 상담받을 수 있나요?</strong></summary>
 <div class="faq-answer">
-<strong>24시간 언제든지</strong> 카카오톡으로 메시지를 보내주세요. 평일, 주말, 공휴일 관계없이 확인 후 최대한 빠르게 답변드립니다.
+24시간 언제든지 [카카오톡] or [상담신청양식] 남겨주시면, 평일, 주말, 공휴일 관계없이 확인 후 순차적으로 최대한 빠른 답변드리겠습니다.
 </div>
 </details>
 
 <details>
-<summary><strong>Q4. 어떤 방식으로 상담하나요?</strong></summary>
+<summary><strong>Q4. 어떤 절차로 진행되나요?</strong></summary>
 <div class="faq-answer">
-주로 <strong>카카오톡 메시지</strong>로 진행하며, 필요시 <strong>음성 통화</strong>도 가능합니다. 편하신 방식으로 선택하세요.
+교육팀장 상담 -> 맞춤 선생님 배정 -> 30분 무료체험수업 -> 1:1커리큘럼 컨설팅 후 수업시작!
 </div>
 </details>
 
@@ -225,9 +227,12 @@ description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료
 ### 📚 상담 내용
 
 <details>
-<summary><strong>Q8. 구체적으로 어떤 상담이 가능한가요?</strong></summary>
+<summary><strong>Q8. 구체적으로 어떤 수업이 가능한가요?</strong></summary>
 <div class="faq-answer">
-학습 방법, 과목별 공부법, 학원/과외 선택, 학습 습관 개선, 시간 관리, 진로/입시, 학습 자료 추천 등 <strong>교육 관련 모든 상담</strong>이 가능합니다.
+유아 초중고 고3(N수생) 성인 국/영/수/사/과<br>
+검정고시, 코딩, 학습코칭, 입시컨설팅<br>
+영어회화,중국어,일본어,각종 인증시험,<br>
+국제학교수업 등 가능합니다.
 </div>
 </details>
 
