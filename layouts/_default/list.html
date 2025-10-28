@@ -67,6 +67,9 @@
 
             <div class="post-card-meta">
                 <span class="post-date">📅 {{ .Date.Format "2006년 01월 02일" }}</span>
+                {{ with .Params.reading_time }}
+                <span class="post-reading-time">📝 {{ . }}</span>
+                {{ end }}
             </div>
 
             {{ with .Params.tags }}
