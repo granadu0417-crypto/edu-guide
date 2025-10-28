@@ -2,7 +2,7 @@
 title: "고등 수능 과외 마스터 가이드 - 만점을 위한 과목별 전략"
 date: 2025-01-18
 lastmod: 2025-01-18
-reading_time: "약 36분 분량"
+reading_time: "713줄"
 draft: false
 description: "고등학생 수능 만점을 위한 완벽 과외 전략. 국어, 수학, 영어, 탐구 과목별 수능 대비법부터 기출 분석, 킬러 문항 정복, 실전 감각까지. 정시 전형 목표 학생을 위한 수능 과외 완벽 가이드."
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"

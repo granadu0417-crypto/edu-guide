@@ -2,7 +2,7 @@
 title: "고등 온라인 과외 완벽 가이드 - 비대면 1:1 학습 성공 전략"
 date: 2025-01-16
 lastmod: 2025-01-16
-reading_time: "약 29분 분량"
+reading_time: "578줄"
 draft: false
 description: "고등학생 온라인 과외의 모든 것. 화상 과외, 태블릿 과외, 메타버스 수업까지. 비대면 1:1 과외의 장단점부터 효과적인 학습 환경 구축, 과목별 적합도까지 완벽 가이드."
 featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
