@@ -13,7 +13,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 10년 넘게 서대문권 영어 교육 상담을 진행하면서 느낀 점은,
 서대문구는 연세대·이화여대 영문과 전공자와 원어민 강사가 풍부한 지역이라는 것입니다.
 
-![서대문구 영어교육](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![서대문구 신촌 연희동 영어과외 1:1 수업 - 연세대 이화여대 영문과 선생님과 학생이 영어 공부하는 모습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
 
 ## 서대문구 영어교육 환경의 특징
 
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 이 시기부터는 회화와 문법의 균형 잡힌 학습이 시작됩니다.
 
-![영어 학습](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=600&fit=crop)
+![서대문구 초등 영어과외 - 명문대생 선생님이 1:1로 영어 회화 지도하는 장면](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=600&fit=crop)
 
 - 기초 문법 체계 확립
 - 독해 능력의 단계적 향상
@@ -323,6 +323,14 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 영어로 생각하기 연습
 - 영어 독서 습관 형성
 ```
+
+## 서대문구 근처 지역 과외 정보
+
+**함께 읽으면 좋은 글:**
+- [마포구 영어과외](/local/seoul/mapo-english-tutoring)
+- [용산구 영어과외](/local/seoul/yongsan-english-tutoring)
+- [서대문구 수학과외](/local/seoul/seodaemun-math-tutoring)
+- [은평구 영어과외](/local/seoul/eunpyeong-english-tutoring)
 
 ## 자주 묻는 질문
 

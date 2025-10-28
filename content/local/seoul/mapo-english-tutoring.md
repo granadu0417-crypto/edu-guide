@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 10년 넘게 마포권 영어 교육 상담을 진행하면서 느낀 점은,
 마포구는 회화와 입시 영어를 모두 아우르는 균형 잡힌 환경이라는 것입니다.
 
-![마포구 홍대 영어과외 학원 거리 풍경 - 원어민 강사와 학생들이 많은 교육 환경](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![마포구 홍대 합정 영어과외 1:1 수업 - 원어민 강사가 학생과 함께 영어 공부하는 모습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
 
 ## 마포구 영어교육 환경의 특징
 
@@ -80,7 +80,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 이 시기부터 회화와 문법의 균형 잡힌 학습이 시작됩니다.
 
-![마포구 초등학생 영어 수업 모습 - 학생들이 선생님과 함께 영어 공부하는 장면](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=600&fit=crop)
+![마포구 초등 영어과외 - 원어민 선생님이 1:1로 영어 회화 지도하는 장면](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=600&fit=crop)
 
 - 기초 문법 체계 확립
 - 독해 능력의 단계적 향상
@@ -242,8 +242,8 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 **활용 방법:**
 - 다양한 국적(미국, 영국, 캐나다, 호주 등) 선택 가능
-- 카페에서 소규모 그룹 수업
-- 1:1 회화 집중 훈련
+- 카페에서 편안한 1:1 맞춤 수업
+- 회화 집중 훈련과 실전 연습
 - 자유롭고 창의적인 수업 분위기
 
 ### 대학 인근의 장점
