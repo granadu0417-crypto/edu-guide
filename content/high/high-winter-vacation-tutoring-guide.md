@@ -2,6 +2,7 @@
 title: "고등 겨울방학 과외 전략 - 학년별 선행·집중 완벽 가이드"
 date: 2025-01-19
 lastmod: 2025-01-19
+reading_time: "약 32분 분량"
 draft: false
 description: "고등학생 겨울방학 과외의 모든 것. 예비 고1, 고2, 고3별 맞춤 전략. 선행과 복습의 황금비율, 단기 집중 과외, 일과 관리까지. 겨울방학을 알차게 보내는 완벽 가이드."
 featured_image: "https://images.unsplash.com/photo-1483389127117-b6a2102724ae?w=1200&h=630&fit=crop"

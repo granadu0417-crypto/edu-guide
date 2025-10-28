@@ -2,6 +2,7 @@
 title: "고등 내신 과외 핵심 전략 - 1등급 만들기 실전 가이드"
 date: 2025-01-17
 lastmod: 2025-01-17
+reading_time: "약 41분 분량"
 draft: false
 description: "고등학교 내신 1등급을 위한 완벽 과외 전략. 학교별 출제 경향 분석부터 서술형 대비, 수행평가 관리까지. 수시 학생부 전형을 목표로 하는 학생을 위한 내신 과외 완벽 가이드."
 featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"

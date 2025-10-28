@@ -2,6 +2,7 @@
 title: "고등 과외 과목별 선택 가이드 - 수학·영어·국어 맞춤 전략"
 date: 2025-01-15
 lastmod: 2025-01-15
+reading_time: "약 29분 분량"
 draft: false
 description: "고등학생 과외 과목 선택의 모든 것. 수학, 영어, 국어, 탐구 영역별 과외 필요성 진단부터 효과적인 학습 전략까지. 내신과 수능을 동시에 잡는 과목별 맞춤 과외 가이드."
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
