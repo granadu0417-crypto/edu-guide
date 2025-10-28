@@ -13,7 +13,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 10년 넘게 송파권 영어 교육 상담을 진행하면서 느낀 점은,
 송파구는 내신과 수능, 회화와 문법의 균형을 잘 맞추는 지역이라는 것입니다.
 
-![송파구 영어교육](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=600&fit=crop)
+![송파구 잠실 가락동 영어과외 1:1 수업 - 학생과 선생님이 영어 교재로 공부하는 모습](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=600&fit=crop)
 
 ## 송파구 영어교육 환경의 특징
 
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 이 시기부터 회화와 문법의 균형 잡힌 학습이 시작됩니다.
 
-![영어 학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![송파구 초등 영어과외 - 영어 회화 교재로 1:1 맞춤 수업 진행 중](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
 
 - 기초 문법 체계 확립
 - 독해 능력의 단계적 향상
@@ -239,7 +239,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 **활용 방법:**
 - 검증된 선생님 정보 공유
 - 효과적인 학습법 교류
-- 영어 스터디 그룹 형성
+- 1:1 맞춤형 과외 정보 교환
 
 ### 학원과 과외의 조화
 
@@ -292,6 +292,16 @@ A. 온라인 과외는 영어 학습에 특히 효과적일 수 있습니다.
 녹화 기능으로 복습이 가능하며,
 지역 제약 없이 원어민 선생님을 만날 수 있습니다.
 
+{{< cta-dual type="inline" >}}
+
+## 송파구 근처 지역 과외 정보
+
+**함께 읽으면 좋은 글:**
+- [강남구 영어과외](/local/seoul/gangnam-english-tutoring)
+- [서초구 영어과외](/local/seoul/seocho-english-tutoring)
+- [송파구 수학과외](/local/seoul/songpa-math-tutoring)
+- [잠실 영어과외](/local/seoul/jamsil-english-tutoring)
+
 ## 마무리하며
 
 송파구 8학군의 균형 잡힌 교육 환경은 분명한 장점입니다.
@@ -307,3 +317,5 @@ A. 온라인 과외는 영어 학습에 특히 효과적일 수 있습니다.
 
 영어는 단기간에 완성되는 과목이 아닙니다.
 꾸준함과 적절한 방향 설정이 가장 중요합니다.
+
+{{< cta-dual type="final" >}}
