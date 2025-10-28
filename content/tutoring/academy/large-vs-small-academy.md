@@ -172,6 +172,8 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 - ✅ 성적 중하위권
 - ✅ 학습 흥미 회복 필요
 
+{{< cta-dual type="inline" >}}
+
 ## 과목별 추천
 
 ### 대형 학원 추천 과목
@@ -356,3 +358,5 @@ A. 프랜차이즈는 대형과 소형의 중간 정도입니다. 본사의 커�
 - 등록 후에도 지속 모니터링하세요
 
 현명한 선택하시길 바랍니다! 📚
+
+{{< cta-dual type="final" >}}

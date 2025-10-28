@@ -386,6 +386,8 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 (띄어도 틀린 것은 아님)
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 학년별 문법 학습 전략
 
 ### 초등학생
@@ -501,6 +503,10 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 3. 맞춤법 검사 생활화
 
 국어 문법 학습에 어려움을 느끼신다면 [무료 상담](/consultation/)을 통해 전문가의 1:1 맞춤 지도를 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

@@ -119,6 +119,8 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 - ✅ 학습 기록부
 - ✅ 포트폴리오 제공
 
+{{< cta-dual type="inline" >}}
+
 ### 소통 시스템
 
 **학부모 소통**
@@ -270,3 +272,5 @@ A. 매우 좋습니다. 실제 경험담이 가장 정확한 정보입니다. �
 5. 등록 후에도 지속적인 모니터링
 
 좋은 학원 선택하시길 바랍니다! 📚
+
+{{< cta-dual type="final" >}}

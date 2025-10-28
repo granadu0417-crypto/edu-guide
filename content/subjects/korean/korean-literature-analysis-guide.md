@@ -432,6 +432,8 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 ✓ 보편적 진리
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 학년별 문학 공부 전략
 
 ### 중학생
@@ -688,6 +690,10 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 4. 다양한 장르 접하기
 
 문학 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

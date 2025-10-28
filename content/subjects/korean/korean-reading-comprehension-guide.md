@@ -195,6 +195,8 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 - 인물 간 갈등 구조
 - 사건 전개 방식
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 독해력 향상을 위한 실천 습관
 
 ### 매일 실천할 것
@@ -404,6 +406,10 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 3. 3줄 요약 습관화
 
 독해력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

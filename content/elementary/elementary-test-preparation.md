@@ -4,7 +4,7 @@ date: 2025-01-15
 description: "초등학생을 위한 효과적인 시험 준비 전략 가이드. 학년별 시험 준비 방법과 과목별 공부법으로 실력을 최대한 발휘하는 방법을 소개합니다."
 categories: ["초등"]
 tags: ["시험준비", "시험공부법", "초등공부", "성적향상", "학습전략", "시험불안", "1:1과외"]
-featured_image: "/images/elementary-test-preparation.jpg"
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 > "시험은 두려운 것이 아니라 내 실력을 확인하는 기회입니다. 제대로 준비하면 자신 있게 시험을 볼 수 있습니다."

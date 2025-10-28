@@ -261,6 +261,8 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
    → 대부분 오답
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 학년별 비문학 독해 전략
 
 ### 중학생
@@ -578,6 +580,10 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 4. 오답 노트 작성
 
 비문학 독해 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

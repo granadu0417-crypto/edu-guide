@@ -406,6 +406,8 @@ remember, forget, try, stop
 - I stopped to smoke. (목적)
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 분사 (Participles) 완벽 정리
 
 ### 현재분사 vs 과거분사
@@ -865,6 +867,10 @@ much, even, still, far, a lot
 4. 오답 노트 작성
 
 영어 문법 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

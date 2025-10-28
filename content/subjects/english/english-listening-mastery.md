@@ -382,6 +382,8 @@ M: I'm calling to change my reservation.
 - 최소한만 적기
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 학년별 영어 듣기 학습 전략
 
 ### 중학생
@@ -599,6 +601,10 @@ M: I'm calling to change my reservation.
 4. 받아쓰기 연습
 
 영어 듣기 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

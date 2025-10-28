@@ -4,7 +4,7 @@ date: 2025-01-15
 description: "초등학생을 위한 과학적이고 효과적인 암기 전략 가이드. 학년별 맞춤 암기법과 과목별 암기 전략으로 학습 효율을 높이는 방법을 소개합니다."
 categories: ["초등"]
 tags: ["암기법", "기억력", "학습전략", "초등공부법", "과목별암기", "효율적학습", "1:1과외"]
-featured_image: "/images/elementary-memory-techniques.jpg"
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---
 
 > "암기는 단순 반복이 아니라 전략입니다. 아이에게 맞는 암기법을 찾으면 공부가 훨씬 쉬워집니다."

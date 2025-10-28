@@ -363,6 +363,8 @@ They → 앞 복수 대상
    - 관계없는 정보
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 독해 실력 향상 전략
 
 ### 어휘력 강화
@@ -726,6 +728,10 @@ The book [which I bought yesterday] is interesting.
 4. 시간 재며 풀기
 
 영어 독해 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

@@ -334,6 +334,8 @@ featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=
 3 m³ = 3000 L
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 학년별 기초 학습 전략
 
 ### 초등학생 (1-3학년)
@@ -799,6 +801,10 @@ featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=
 4. 응용 문제로 확장
 
 수학 기초 다지기를 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

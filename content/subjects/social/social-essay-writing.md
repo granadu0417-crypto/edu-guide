@@ -576,6 +576,8 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 - 전혀 모르면 상식적으로
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 학년별 논술 대비 전략
 
 ### 중학생
@@ -811,6 +813,10 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 4. 논리적으로 연결하기
 
 사회 논술·서술형 실력 향상을 위한 맞춤 첨삭이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 

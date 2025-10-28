@@ -4,7 +4,7 @@ date: 2025-01-15
 description: "초등학생을 위한 체계적인 복습 방법 가이드. 학년별 복습 전략과 과목별 복습 시스템으로 학습 내용을 완전히 내 것으로 만드는 방법을 소개합니다."
 categories: ["초등"]
 tags: ["복습방법", "학습전략", "초등공부법", "복습시스템", "장기기억", "효율적학습", "1:1과외"]
-featured_image: "/images/elementary-review-methods.jpg"
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 
 > "복습은 공부의 완성입니다. 한 번 배운 것을 제대로 복습하면, 열 번 새로 배우는 것보다 효과적입니다."
