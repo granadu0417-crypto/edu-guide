@@ -134,7 +134,7 @@ sitemap:
 - 소음으로 집중 방해
 - 불편함으로 공부 회피
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
@@ -372,7 +372,7 @@ sitemap:
 - 허리 통증 예방
 - 장시간 학습 가능
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
@@ -707,7 +707,7 @@ A. **완전히 끊기보다는 제한**하세요. 공부 시간에만 다른 방
 
 집중력만 좋아져도 성적은 자연스럽게 오릅니다. 지금 당장 시작하세요!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

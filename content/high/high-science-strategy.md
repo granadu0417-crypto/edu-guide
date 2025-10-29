@@ -78,7 +78,7 @@ sitemap:
 - 학교 수업이 좋으면 내신+수능 병행
 - 학교 수업이 부실하면 과외 필수
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
@@ -391,7 +391,7 @@ sitemap:
 
 **주 1-2회 × 2시간 권장**
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
@@ -667,7 +667,7 @@ A. **의대, 약대 등 일부 학과만 반영**합니다. 대부분은 과탐�
 
 과학탐구 1등급은 충분히 달성 가능합니다. 체계적으로 준비하세요!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

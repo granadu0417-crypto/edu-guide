@@ -306,7 +306,7 @@ draft: false
 - 4등급 이하
 - 과목 선택 고민 상담
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ## 고1 과외 선생님 선택법
 
@@ -915,7 +915,7 @@ A. **3개월 후에도 다음 중 2개 이상이면 교체 고려하세요.**
 
 **잘 준비하면 고2-3가 편해집니다.**
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

@@ -64,7 +64,7 @@ sitemap:
 | 킬러 문항 | 필수 대비 | 변별력 문제 일부 |
 | 서술형 | 수학만 해당 | 모든 과목 20-40% |
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
@@ -296,7 +296,7 @@ sitemap:
 - 개념 정리 + 기출 분석
 - 실전 모의고사
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
@@ -545,7 +545,7 @@ sitemap:
 - 수험 생활 전반 조언
 - 선배로서 경험 공유
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
@@ -702,7 +702,7 @@ A. **있습니다.** 단, 새로운 개념을 배우기보다는 **기출 분석
 
 정시 전형을 목표로 하는 학생이라면, 수능이 곧 대학입니다. 제대로 된 수능 과외로 만점을 향해 나아가세요.
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

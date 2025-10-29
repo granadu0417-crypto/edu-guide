@@ -444,7 +444,7 @@ draft: false
 탐구: 인강 또는 학원
 ```
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ## 학년별 추천
 
@@ -1017,7 +1017,7 @@ A. **학년과 실력에 따라 다릅니다.**
 
 **현명한 선택으로 목표 대학 가세요!**
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

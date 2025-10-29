@@ -290,7 +290,7 @@ draft: false
 또는 주 1회 꾸준히
 ```
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ## 생기부 관리와 과외의 역할
 
@@ -925,7 +925,7 @@ A. **방향에 따라 전략이 다릅니다.**
 
 **지금이 가장 중요합니다. 파이팅!**
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

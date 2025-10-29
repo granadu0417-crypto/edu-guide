@@ -130,7 +130,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 우리 애는 시범 수업 받고 "엄마 이 선생님이랑 하고 싶어" 그러더라고요. 아이가 좋아하면 효과도 두 배예요.
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ![대치동 학원가](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=600&fit=crop)
 
@@ -285,7 +285,7 @@ AP Calculus나 IB Math 가르치는 선생님도 있고, 영어로 수업하는 
 
 그리고 과외 시작하면 부모가 계속 관심 가져야 해요. "선생님한테 맡겼으니 끝"이 아니라, 정기적으로 선생님이랑 소통하고, 아이 상태 체크하고요.
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
