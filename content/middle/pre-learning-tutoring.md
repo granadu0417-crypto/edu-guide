@@ -681,7 +681,7 @@ draft: false
 
 **방학 시작하시나요? 40-50% 목표로 시작하세요!**
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

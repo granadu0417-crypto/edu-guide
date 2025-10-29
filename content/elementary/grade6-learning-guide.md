@@ -640,7 +640,7 @@ draft: false
 
 초등 6년, 수고 많으셨습니다. 새로운 출발을 응원합니다!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

@@ -486,7 +486,7 @@ draft: false
 
 한 학기 동안 수고 많으셨습니다. 학기 말을 잘 마무리하고 즐거운 방학 맞이하세요!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

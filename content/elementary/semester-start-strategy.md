@@ -446,7 +446,7 @@ draft: false
 
 학기 초를 잘 시작하면 한 학기가 즐겁고 성공적입니다!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

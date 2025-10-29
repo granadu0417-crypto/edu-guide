@@ -492,7 +492,7 @@ draft: false
 
 5학년의 노력은 중학교에서 빛을 발합니다!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

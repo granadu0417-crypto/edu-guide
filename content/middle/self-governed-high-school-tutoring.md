@@ -890,7 +890,7 @@ draft: false
 
 **합격을 진심으로 응원합니다!** 🎓
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

@@ -310,7 +310,7 @@ draft: false
 
 **우리 아이 맞춤 1:1 과외를 찾고 계신가요?**
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

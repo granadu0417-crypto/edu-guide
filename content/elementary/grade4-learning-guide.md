@@ -472,7 +472,7 @@ draft: false
 
 4학년을 잘 보내면 5-6학년과 중학교가 훨씬 수월해집니다!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

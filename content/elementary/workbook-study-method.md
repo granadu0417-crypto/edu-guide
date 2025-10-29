@@ -331,7 +331,7 @@ draft: false
 
 똑똑하게 선택하고 제대로 활용하세요!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

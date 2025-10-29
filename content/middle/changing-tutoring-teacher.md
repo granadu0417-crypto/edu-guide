@@ -845,7 +845,7 @@ OR
 명백한 문제 = 즉시
 ```
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

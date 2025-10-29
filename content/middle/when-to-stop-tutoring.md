@@ -896,7 +896,7 @@ Option 3: 시험 전만
 적기에 중단!
 ```
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

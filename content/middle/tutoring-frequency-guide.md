@@ -848,7 +848,7 @@ draft: false
 
 시작은 주 2회, 3개월 후 조정하세요.
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

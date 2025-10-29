@@ -1012,7 +1012,7 @@ A. **심화가 내신을 포함합니다.**
 시작하세요
 ```
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

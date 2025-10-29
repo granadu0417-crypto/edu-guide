@@ -505,7 +505,7 @@ draft: false
 
 우리 아이의 방학이 의미 있고 행복한 시간이 되기를 응원합니다!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

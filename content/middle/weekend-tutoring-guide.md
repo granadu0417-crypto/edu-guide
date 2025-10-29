@@ -599,7 +599,7 @@ A. **네, 그것이 목표입니다.**
 ✅ 점진적 독립 목표
 ```
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

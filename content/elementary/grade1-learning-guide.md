@@ -412,7 +412,7 @@ draft: false
 
 우리 아이의 초등 1학년이 행복하고 의미있는 시간이 되기를 응원합니다!
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

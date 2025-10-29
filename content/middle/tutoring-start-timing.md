@@ -885,7 +885,7 @@ draft: false
 
 시작이 반입니다. 나머지 반은 학생의 노력입니다.
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

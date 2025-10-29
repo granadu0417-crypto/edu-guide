@@ -850,7 +850,7 @@ He enjoys playing soccer.
 
 **지금 바로 시작하세요!**
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

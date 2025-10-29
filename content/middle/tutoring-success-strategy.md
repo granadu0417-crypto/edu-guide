@@ -889,7 +889,7 @@ A. **목표 달성 or 6개월 효과 없을 때입니다.**
 꾸준하게!
 ```
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

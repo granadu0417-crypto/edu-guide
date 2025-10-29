@@ -308,7 +308,7 @@ draft: false
 
 **우리 아이에게 딱 맞는 선생님을 찾고 계신가요?**
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 

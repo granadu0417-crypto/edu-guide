@@ -1151,7 +1151,7 @@ After: 복습 + 숙제 + 복습
 효과 2배!
 ```
 
-{{< cta-tutoring >}}
+{{< cta-dual type="inline" >}}
 
 ---
 
