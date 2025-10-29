@@ -35,6 +35,11 @@
 
 <div class="section-header">
     <h1 class="section-title">{{ .Title }}</h1>
+    <div class="section-stats">
+        <span class="stats-badge">
+            📚 총 {{ len .Pages }}개 글
+        </span>
+    </div>
     {{ with .Description }}
     <p class="section-description">{{ . }}</p>
     {{ end }}
@@ -62,6 +67,9 @@
 
             <div class="post-card-meta">
                 <span class="post-date">📅 {{ .Date.Format "2006년 01월 02일" }}</span>
+                {{ with .Params.reading_time }}
+                <span class="post-reading-time">📝 {{ . }}</span>
+                {{ end }}
             </div>
 
             {{ with .Params.tags }}
@@ -95,7 +103,28 @@
     font-size: var(--font-2xl);
     font-weight: 800;
     color: var(--text-primary);
+    margin-bottom: 12px;
+}
+
+.section-stats {
     margin-bottom: 16px;
+}
+
+.stats-badge {
+    display: inline-block;
+    padding: 8px 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    transition: all 0.3s ease;
+}
+
+.stats-badge:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
 }
 
 .section-description {
@@ -246,11 +275,16 @@
     .section-header {
         padding: 32px 0;
     }
-    
+
     .section-title {
         font-size: var(--font-xl);
     }
-    
+
+    .stats-badge {
+        font-size: 13px;
+        padding: 6px 16px;
+    }
+
     /* 게시글 그리드 최적화 */
     .post-grid {
         grid-template-columns: 1fr;
