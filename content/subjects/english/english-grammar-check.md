@@ -6,8 +6,6 @@ description: "영어 문법 오류 교정 완벽 정복 | 흔한 실수, 교정 
 categories: ["영어"]
 tags: ["영어", "문법", "교정", "첨삭", "grammar", "오류", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?w=1200&h=630&fit=crop"
-
-455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---
 
 # 영어 문법 오류 교정 가이드
