@@ -3,7 +3,7 @@ title: "중학 자기주도학습 vs 학원 의존 | 균형 찾기"
 date: 2025-01-25
 reading_time: "318줄"
 description: "중학생 자기주도학습의 모든 것. 계획 수립부터 실행, 점검까지 단계별 전략과 내신 관리, 고등학교 준비를 위한 실전 가이드입니다."
-categories: ["중학생", "학습법", "자기주도학습"]
+categories: ["중등", "학습법", "자기주도학습"]
 tags: ["중학내신", "공부법", "학습전략", "자기주도학습"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

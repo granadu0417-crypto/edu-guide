@@ -3,7 +3,7 @@ title: "고1 과외 시작 가이드 - 고등학교 첫 과외 완벽 준비"
 date: 2025-10-28
 reading_time: "926줄"
 description: "고1 과외, 언제 시작해야 할까요? 고등학교 입학 후 첫 과외 시작 시기와 과목 선택, 내신·수능 병행 전략까지 완벽 가이드입니다."
-categories: ["고등학생", "과외"]
+categories: ["고등", "과외"]
 tags: ["고1과외", "고등학교과외", "고등과외시작", "1:1과외", "고1내신", "과외선택", "수능과외"]
 featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 draft: false

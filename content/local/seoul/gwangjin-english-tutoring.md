@@ -3,7 +3,7 @@ title: "광진구 영어과외 추천 | 건대·구의 원어민부터 입시까
 date: 2025-01-27
 reading_time: "349줄"
 description: "건대입구, 구의동, 자양동, 광장동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
+categories: ["지역", "서울"]
 tags: ["광진구", "영어과외", "건대입구", "구의동", "자양동", "광장동", "영어", "과외", "건국대", "영어회화", "입시영어"]
 featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 ---

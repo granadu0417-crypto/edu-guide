@@ -3,7 +3,7 @@ title: "초등 6학년 학습 가이드 - 초등 마무리와 중학교 완벽 �
 date: 2025-10-28
 reading_time: "651줄"
 description: "초등학교 마지막 학년인 6학년은 초등 학습의 완성과 중학교 준비가 동시에 이루어져야 하는 중요한 시기입니다. 과목별 마무리 전략과 중학 대비법을 완벽히 안내합니다."
-categories: ["초등학생", "학년별가이드"]
+categories: ["초등", "학년별가이드"]
 tags: ["초등6학년", "6학년학습", "중학준비", "초등마무리", "중학대비", "졸업", "진학준비"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

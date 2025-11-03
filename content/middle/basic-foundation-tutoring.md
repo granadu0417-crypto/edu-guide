@@ -3,7 +3,7 @@ title: "중등 기초 다지기 과외 - 4-5등급 탈출 전략"
 date: 2025-10-28
 reading_time: "1226줄"
 description: "성적이 낮아 고민이신가요? 기초부터 차근차근 다지는 과외로 3등급 진입하세요."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["기초과외", "성적부진", "4등급", "5등급", "중등과외", "등급올리기"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 draft: false

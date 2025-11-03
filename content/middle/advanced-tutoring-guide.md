@@ -3,7 +3,7 @@ title: "중등 심화 과외 가이드 - 1등급을 위한 전략"
 date: 2025-10-28
 reading_time: "1022줄"
 description: "1등급 학생을 위한 심화 과외, 어떻게 진행해야 할까요? 경시 대회부터 고등 준비까지 완벽 가이드입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["심화과외", "1등급", "경시대회", "중등과외", "영재교육"]
 featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
 draft: false

@@ -3,7 +3,7 @@ title: "초등 독서 습관 만들기 완벽 정리 | 평생 독자 되기 2025
 date: 2025-01-17
 reading_time: "334줄"
 description: "초등학생 자녀에게 평생 독서 습관을 심어주는 실전 가이드입니다. 책을 싫어하는 아이도 독서를 좋아하게 만드는 구체적인 방법과 단계별 전략을 제시합니다."
-categories: ["초등학생", "독서", "습관"]
+categories: ["초등", "독서", "습관"]
 tags: ["독서습관", "책읽기", "초등독서", "독서교육"]
 featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
 ---

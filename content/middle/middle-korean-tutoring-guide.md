@@ -3,7 +3,7 @@ title: "중등 국어과외 완벽 가이드 - 비문학부터 내신까지"
 date: 2025-10-28
 reading_time: "516줄"
 description: "중학교 국어과외, 정말 필요할까요? 독해력, 문법, 내신까지 중등 국어과외의 모든 것을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등국어", "국어과외", "중학국어", "내신국어", "비문학", "독해력", "1:1국어과외"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 draft: false

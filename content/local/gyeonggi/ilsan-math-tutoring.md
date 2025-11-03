@@ -3,7 +3,7 @@ title: "일산 수학과외 TOP 노하우 | 고양시 1:1 맞춤 전략 2025"
 date: 2025-01-28
 reading_time: "334줄"
 description: "일산 수학과외 TOP 가이드 | 일산동구·일산서구 내신 1:1 전문, 정발산 학원가 활용, 명문대생 과외 [2025년 최신]"
-categories: ["지역정보"]
+categories: ["지역", "경기"]
 tags: ["일산", "수학과외", "고양시", "일산동구", "일산서구", "정발산", "수학", "과외", "내신수학", "수능수학"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---

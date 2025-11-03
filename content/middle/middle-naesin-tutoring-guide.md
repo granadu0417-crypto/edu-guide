@@ -3,7 +3,7 @@ title: "중등 내신 과외 완벽 가이드 - 등급 올리는 전략"
 date: 2025-10-28
 reading_time: "468줄"
 description: "중학교 내신 관리 과외, 어떻게 해야 효과적일까요? 등급별 전략부터 시험 대비까지 완벽 가이드입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["내신과외", "내신관리", "중등내신", "1:1과외", "등급올리기", "시험대비"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

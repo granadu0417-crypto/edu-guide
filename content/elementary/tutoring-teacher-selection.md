@@ -3,7 +3,7 @@ title: "초등 과외 선생님 선택법 - 좋은 선생님 찾는 체크리스
 date: 2025-10-28
 reading_time: "318줄"
 description: "과외 선생님을 어떻게 선택해야 할까요? 좋은 선생님의 기준부터 첫 수업 체크포인트까지, 과외 선생님 선택의 모든 것을 알려드립니다."
-categories: ["초등학생", "과외"]
+categories: ["초등", "과외"]
 tags: ["과외선생님", "선생님선택", "과외선택", "1:1과외", "좋은선생님", "과외면접"]
 featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
 draft: false

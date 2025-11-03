@@ -3,7 +3,7 @@ title: "강남구 수학과외 완벽 정리 | 대치동 내신·수능 전문 2
 date: 2025-01-27
 reading_time: "289줄"
 description: "대치동, 압구정, 청담동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
+categories: ["지역", "서울"]
 tags: ["강남구", "수학과외", "대치동", "압구정", "청담", "수학", "과외", "초등수학", "중등수학", "고등수학", "수능수학"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---

@@ -3,7 +3,7 @@ title: "고2 과외 전략 가이드 - 수시 대비 핵심 관리"
 date: 2025-10-28
 reading_time: "936줄"
 description: "고2 과외, 어떻게 해야 할까요? 수시 vs 정시 결정 시기, 생기부 핵심 만들기, 심화 과목 선택부터 모의고사 전략까지 완벽 가이드입니다."
-categories: ["고등학생", "과외"]
+categories: ["고등", "과외"]
 tags: ["고2과외", "고등과외", "수시대비", "정시대비", "생기부관리", "모의고사", "내신관리"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 draft: false

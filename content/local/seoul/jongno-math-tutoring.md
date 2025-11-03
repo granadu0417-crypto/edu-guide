@@ -3,7 +3,7 @@ title: "종로구 수학과외 vs 학원 | 평창·부암 전통 명문가 선�
 date: 2025-01-27
 reading_time: "328줄"
 description: "평창동, 부암동, 삼청동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
+categories: ["지역", "서울"]
 tags: ["종로구", "수학과외", "평창동", "부암동", "삼청동", "수학", "과외", "명문교육", "내신수학", "수능수학"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---

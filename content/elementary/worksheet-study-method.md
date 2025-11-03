@@ -3,7 +3,7 @@ title: "초등 학습지 활용법 - 매일 꾸준히가 만드는 기적"
 date: 2025-10-28
 reading_time: "391줄"
 description: "학습지는 매일 꾸준히 하면 엄청난 효과를 발휘합니다. 학습지 선택부터 활용법, 지속 방법까지 완벽 가이드를 제시합니다."
-categories: ["초등학생", "학습전략"]
+categories: ["초등", "학습전략"]
 tags: ["학습지", "구몬", "눈높이", "일일학습", "꾸준한공부"]
 featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
 draft: false

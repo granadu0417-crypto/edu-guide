@@ -3,7 +3,7 @@ title: "송파구 수학과외 추천 | 잠실·가락 8학군 내신 1등급"
 date: 2025-01-27
 reading_time: "277줄"
 description: "잠실, 가락동, 문정동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
+categories: ["지역", "서울"]
 tags: ["송파구", "수학과외", "잠실", "가락동", "문정동", "수학", "과외", "8학군", "초등수학", "중등수학", "고등수학"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

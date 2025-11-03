@@ -3,7 +3,7 @@ title: "초등 영어과외 시작 가이드 - 시기와 방법의 모든 것"
 date: 2025-10-28
 reading_time: "316줄"
 description: "초등 영어과외 몇 학년부터 시작해야 할까요? 원어민 vs 한국인 선생님, 회화 vs 문법, 초등 영어과외의 모든 것을 안내합니다."
-categories: ["초등학생", "과외"]
+categories: ["초등", "과외"]
 tags: ["초등영어", "영어과외", "초등과외", "1:1영어", "영어회화", "영어문법", "원어민과외"]
 featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 draft: false

@@ -3,7 +3,7 @@ title: "초등 공부습관 고민? | 평생 가는 기초 다지기 솔루션"
 date: 2025-01-25
 reading_time: "262줄"
 description: "초등학생 시기에 올바른 공부습관을 만드는 것이 평생 학습의 기초가 됩니다. 학년별 맞춤 전략과 부모의 역할, 실천 가능한 방법을 제공합니다."
-categories: ["초등학생", "학습법", "습관"]
+categories: ["초등", "학습법", "습관"]
 tags: ["초등교육", "공부습관", "학습습관", "자기주도학습"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 draft: false

@@ -3,7 +3,7 @@ title: "초등 5학년 학습 가이드 - 고학년 실력 완성과 중학 준�
 date: 2025-10-28
 reading_time: "503줄"
 description: "초등 5학년은 초등 학습의 정점이자 중학교 준비의 시작입니다. 심화 학습, 완전한 자기주도, 과목별 전략까지 5학년 성공의 모든 것을 담았습니다."
-categories: ["초등학생", "학년별가이드"]
+categories: ["초등", "학년별가이드"]
 tags: ["초등5학년", "5학년학습", "고학년", "중학준비", "심화학습", "자기주도학습", "학습전략"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 draft: false

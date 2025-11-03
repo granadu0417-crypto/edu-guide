@@ -3,7 +3,7 @@ title: "중등 수학과외 완벽 가이드 - 내신부터 고입까지"
 date: 2025-10-28
 reading_time: "514줄"
 description: "중학교 수학과외, 정말 필요할까요? 내신 관리부터 고등학교 입시까지, 중등 수학과외의 모든 것을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등수학", "수학과외", "중학수학", "내신수학", "1:1과외", "중등과외", "수학선생님"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 draft: false

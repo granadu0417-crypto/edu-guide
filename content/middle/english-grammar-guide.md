@@ -3,7 +3,7 @@ title: "중학 영어 문법 추천 정리법 | 실전 적용까지"
 date: 2025-01-17
 reading_time: "777줄"
 description: "중학교 3년간 배우는 영어 문법을 체계적으로 정리한 완벽 가이드입니다. 시제, 조동사, to부정사, 동명사부터 관계사, 가정법까지 핵심 개념과 실전 문제 풀이 전략을 제시합니다."
-categories: ["중학생", "영어", "문법"]
+categories: ["중등", "영어", "문법"]
 tags: ["중등영어", "영어문법", "내신영어", "문법정리"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---

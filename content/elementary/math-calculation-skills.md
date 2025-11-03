@@ -3,7 +3,7 @@ title: "초등 연산 실력 고민? | 6가지 향상 전략 솔루션"
 date: 2025-01-17
 reading_time: "524줄"
 description: "초등학생의 수학 연산 실력을 체계적으로 향상시킬 수 있는 실전 전략입니다. 덧셈, 뺄셈, 곱셈, 나눗셈의 기초를 탄탄히 다지는 방법을 안내합니다."
-categories: ["초등학생", "수학", "연산"]
+categories: ["초등", "수학", "연산"]
 tags: ["초등수학", "연산", "계산력", "사칙연산"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

@@ -3,7 +3,7 @@ title: "중등 단기 집중 과외 - 2-4주 특급 전략"
 date: 2025-10-28
 reading_time: "957줄"
 description: "시험 직전, 방학 중 단기 집중 과외가 필요하신가요? 효과적인 단기 과외 전략을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["단기과외", "집중과외", "시험대비", "중등과외"]
 featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 draft: false

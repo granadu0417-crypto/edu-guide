@@ -3,7 +3,7 @@ title: "중등 첫 과외 준비 가이드 - 시작이 중요합니다"
 date: 2025-10-28
 reading_time: "1008줄"
 description: "처음 과외를 시작하는데 무엇을 준비해야 할까요? 첫 과외를 위한 완벽 준비 가이드입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["첫과외", "과외준비", "중등과외", "과외시작"]
 featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 draft: false

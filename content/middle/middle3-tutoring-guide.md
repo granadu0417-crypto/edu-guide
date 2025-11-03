@@ -3,7 +3,7 @@ title: "중3 과외 완벽 가이드 - 고입부터 내신까지"
 date: 2025-10-28
 reading_time: "471줄"
 description: "중3 과외, 어떻게 준비할까요? 고등학교 입시부터 내신 마무리까지 중3 과외의 모든 것을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중3과외", "고입과외", "중학교과외", "특목고", "자사고", "내신관리", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 draft: false

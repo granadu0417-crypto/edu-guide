@@ -3,7 +3,7 @@ title: "중등 선행학습 과외 가이드 - 제대로 선행하는 법"
 date: 2025-10-28
 reading_time: "691줄"
 description: "선행학습, 얼마나 해야 할까요? 과목별, 학년별 적정 선행 범위와 전략을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과외", "선행학습", "학습전략", "방학과외"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

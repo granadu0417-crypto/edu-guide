@@ -3,7 +3,7 @@ title: "도봉구 영어과외 완벽 정리 | 창동·방학 1:1 맞춤"
 date: 2025-01-27
 reading_time: "371줄"
 description: "창동, 방학동, 쌍문동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
+categories: ["지역", "서울"]
 tags: ["도봉구", "영어과외", "창동", "방학동", "쌍문동", "영어", "과외", "창동신도시", "내신영어", "수능영어"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 ---

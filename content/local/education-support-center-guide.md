@@ -3,7 +3,7 @@ title: "교육지원센터 활용법 | Wee센터 무료 상담 총정리"
 date: 2025-01-17
 reading_time: "975줄"
 description: "교육지원청, Wee센터, 학습종합클리닉센터 등 공공 교육지원 기관의 모든 것을 안내합니다. 무료 상담, 학습 지원, 진로 상담 등 학생과 학부모가 꼭 알아야 할 교육 서비스를 소개합니다."
-categories: ["지역정보"]
+categories: ["지역"]
 tags: ["교육지원청", "Wee센터", "학습클리닉", "진로상담", "심리상담", "무료상담", "교육복지"]
 featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---

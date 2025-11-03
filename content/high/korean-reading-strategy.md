@@ -3,7 +3,7 @@ title: "수능 국어 독해 고민? | 시간관리·지문분석 솔루션"
 date: 2025-01-17
 reading_time: "657줄"
 description: "수능 국어 80분 안에 45문항을 푸는 시간 관리 전략과 영역별 독해 기술. 문학·비문학 지문 분석법, 선택지 판단 전략, 오답률 높은 문제 공략법까지 고득점을 위한 실전 노하우를 소개합니다."
-categories: ["고등학교"]
+categories: ["고등"]
 tags: ["수능", "국어", "독해", "비문학", "문학", "시간관리", "학습전략"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---

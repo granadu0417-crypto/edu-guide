@@ -3,7 +3,7 @@ title: "초등 받아쓰기 만점 비법 | 7가지 전략 총정리"
 date: 2025-01-17
 reading_time: "340줄"
 description: "초등학교 받아쓰기 시험을 체계적으로 준비하는 방법입니다. 단순 암기를 넘어 맞춤법 원리를 이해하고, 꾸준한 연습으로 국어 실력을 키우는 전략을 제시합니다."
-categories: ["초등학생", "국어", "받아쓰기"]
+categories: ["초등", "국어", "받아쓰기"]
 tags: ["받아쓰기", "맞춤법", "초등국어", "어휘학습"]
 featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---

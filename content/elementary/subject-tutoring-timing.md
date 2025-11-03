@@ -3,7 +3,7 @@ title: "과목별 과외 시작 시기 완벽 가이드 - 언제가 적기일까
 date: 2025-10-28
 reading_time: "440줄"
 description: "수학, 영어, 국어 과외는 언제 시작해야 효과적일까요? 과목별 최적의 시작 시기와 판단 기준을 알려드립니다."
-categories: ["초등학생", "과외"]
+categories: ["초등", "과외"]
 tags: ["과외시작시기", "초등과외", "수학과외", "영어과외", "국어과외", "과외타이밍", "학년별과외"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

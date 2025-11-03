@@ -3,7 +3,7 @@ title: "중학교 중간고사 대비 과외 완벽 가이드"
 date: 2025-10-28
 reading_time: "436줄"
 description: "중간고사 대비 과외, 언제부터 어떻게 준비해야 할까요? 시기별 전략부터 과목별 대비까지 완벽 가이드입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중간고사", "시험대비", "내신과외", "중등과외", "1:1과외", "시험준비"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

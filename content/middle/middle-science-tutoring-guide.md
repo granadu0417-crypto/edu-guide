@@ -3,7 +3,7 @@ title: "중등 과학과외 완벽 가이드 - 개념부터 실험까지"
 date: 2025-10-28
 reading_time: "517줄"
 description: "중학교 과학과외, 정말 필요할까요? 물리, 화학, 생물, 지구과학까지 중등 과학과외의 모든 것을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과학", "과학과외", "중학과학", "내신과학", "물리", "화학", "생물", "지구과학"]
 featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
 draft: false

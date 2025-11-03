@@ -3,7 +3,7 @@ title: "고3 자녀 지원 추천 가이드 | 학부모 현명한 응원법"
 date: 2025-01-17
 reading_time: "749줄"
 description: "고3 자녀를 둔 학부모를 위한 완벽 가이드. 효과적인 의사소통 방법, 학습 환경 조성, 정서적 지지, 입시 정보 이해, 진로 상담까지 자녀의 성공적인 대입을 돕는 실전 노하우를 소개합니다."
-categories: ["고등학교"]
+categories: ["고등"]
 tags: ["학부모", "고3", "자녀교육", "입시", "진로상담", "정서지원", "학습환경"]
 featured_image: "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=1200&h=630&fit=crop"
 ---

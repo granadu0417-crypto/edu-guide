@@ -3,7 +3,7 @@ title: "중등 사회과외 완벽 가이드 - 역사부터 지리까지"
 date: 2025-10-28
 reading_time: "509줄"
 description: "중학교 사회과외, 정말 필요할까요? 역사, 지리, 일반사회까지 중등 사회과외의 모든 것을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등사회", "사회과외", "중학사회", "내신사회", "역사", "지리", "일반사회", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
 draft: false

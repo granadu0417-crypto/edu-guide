@@ -3,7 +3,7 @@ title: "고등 여름방학 과외 전략 - 학년별 선행·복습 완벽 가�
 date: 2025-10-28
 reading_time: "1160줄"
 description: "고등 여름방학 과외, 어떻게 해야 할까요? 고1·고2·고3 학년별 맞춤 전략, 선행 vs 복습 균형, 약점 보완부터 수능 대비까지 완벽 가이드입니다."
-categories: ["고등학생", "과외"]
+categories: ["고등", "과외"]
 tags: ["여름방학과외", "고등과외", "방학특강", "선행학습", "복습전략", "고1방학", "고2방학", "고3방학"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 draft: false

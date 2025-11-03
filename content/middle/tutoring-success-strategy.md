@@ -3,7 +3,7 @@ title: "중등 과외 성공 전략 - 실패하지 않는 법"
 date: 2025-10-28
 reading_time: "899줄"
 description: "과외로 성공하려면 무엇이 필요할까요? 성공하는 학생들의 공통점을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["과외성공", "학습전략", "중등과외", "성적향상"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 draft: false

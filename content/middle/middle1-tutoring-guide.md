@@ -3,7 +3,7 @@ title: "중1 과외 시작 가이드 - 중학교 첫 과외 완벽 준비"
 date: 2025-10-28
 reading_time: "446줄"
 description: "중1 과외, 언제 시작해야 할까요? 중학교 입학 후 첫 과외 시작 시기와 과목 선택, 준비 방법까지 완벽 가이드입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중1과외", "중학교과외", "중등과외시작", "1:1과외", "중1학습", "과외선택"]
 featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 draft: false

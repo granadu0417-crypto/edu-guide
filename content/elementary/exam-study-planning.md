@@ -3,7 +3,7 @@ title: "초등 시험 준비 vs 일상 학습 | 균형 잡는 법"
 date: 2025-01-17
 reading_time: "408줄"
 description: "초등학생 단원 평가와 시험을 체계적으로 준비하는 방법입니다. 시험 2주 전부터 당일까지, 단계별 학습 계획과 효과적인 복습 전략을 제시합니다."
-categories: ["초등학생", "시험", "학습계획"]
+categories: ["초등", "시험", "학습계획"]
 tags: ["단원평가", "시험대비", "학습계획", "복습법"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---

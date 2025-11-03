@@ -3,7 +3,7 @@ title: "초등 수학과외 완벽 가이드 - 시작 시기부터 선생님 선
 date: 2025-10-28
 reading_time: "293줄"
 description: "초등 수학과외 언제 시작해야 할까요? 1:1 과외의 효과와 선생님 선택법, 학원과의 비교까지 초등 수학과외의 모든 것을 안내합니다."
-categories: ["초등학생", "과외"]
+categories: ["초등", "과외"]
 tags: ["초등수학", "수학과외", "초등과외", "1:1과외", "수학공부", "과외선택", "수학선생님"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 draft: false

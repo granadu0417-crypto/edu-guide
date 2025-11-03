@@ -3,7 +3,7 @@ title: "동작구 영어과외 vs 학원 | 사당·노량진 최적 선택"
 date: 2025-01-27
 reading_time: "352줄"
 description: "사당동, 노량진, 흑석동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
+categories: ["지역", "서울"]
 tags: ["동작구", "영어과외", "사당동", "노량진", "흑석동", "영어", "과외", "중앙대", "숭실대", "영어회화", "내신영어", "수능영어"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 ---

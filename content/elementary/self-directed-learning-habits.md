@@ -3,7 +3,7 @@ title: "초등 자기주도학습 vs 부모 관리 | 균형 찾기"
 date: 2025-01-17
 reading_time: "656줄"
 description: "초등학생 시기부터 자기주도학습 습관을 길러주는 실전 가이드입니다. 스스로 공부하는 아이로 키우는 구체적인 방법과 단계별 실천 전략을 제시합니다."
-categories: ["초등학생", "학습법", "습관"]
+categories: ["초등", "학습법", "습관"]
 tags: ["자기주도학습", "학습습관", "초등교육", "공부습관"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---

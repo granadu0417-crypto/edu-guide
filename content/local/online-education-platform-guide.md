@@ -3,7 +3,7 @@ title: "온라인 학습 플랫폼 추천 | EBS·e학습터 무료 활용법"
 date: 2025-01-17
 reading_time: "842줄"
 description: "EBS, e학습터, 위두랑, 인터넷 강의 등 무료·저렴한 온라인 교육 플랫폼을 상세히 안내합니다. 학년별 추천 사이트, 효과적인 활용법, 학습 관리 방법까지 온라인 학습의 모든 것을 소개합니다."
-categories: ["지역정보"]
+categories: ["지역"]
 tags: ["온라인교육", "EBS", "e학습터", "위두랑", "인터넷강의", "무료강의", "온라인학습", "에듀테크"]
 featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
 ---

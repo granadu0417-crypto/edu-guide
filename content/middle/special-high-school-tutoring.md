@@ -3,7 +3,7 @@ title: "특목고 준비 과외 완벽 가이드 - 과학고/외고/국제고"
 date: 2025-10-28
 reading_time: "440줄"
 description: "특목고 준비 과외, 어떻게 시작해야 할까요? 과학고, 외고, 국제고별 맞춤 전략을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["특목고", "과학고", "외고", "국제고", "고입과외", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
 draft: false

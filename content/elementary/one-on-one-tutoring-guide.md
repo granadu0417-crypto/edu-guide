@@ -3,7 +3,7 @@ title: "초등 1:1 과외 효과적 활용법 - 최대 효과 내는 비결"
 date: 2025-10-28
 reading_time: "320줄"
 description: "1:1 과외를 시작했지만 효과가 없다고요? 과외 효과를 극대화하는 방법부터 흔한 실수까지, 초등 1:1 과외 200% 활용법을 알려드립니다."
-categories: ["초등학생", "과외"]
+categories: ["초등", "과외"]
 tags: ["1:1과외", "과외활용법", "과외효과", "초등과외", "개인과외", "맞춤학습"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 draft: false

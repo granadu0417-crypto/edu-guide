@@ -3,7 +3,7 @@ title: "초등 4학년 학습 가이드 - 고학년 도약을 준비하는 핵�
 date: 2025-10-28
 reading_time: "483줄"
 description: "초등 4학년은 고학년으로 가는 준비 단계입니다. 사고력 수학, 깊이 있는 독해, 과목별 학습 전략까지 4학년 성공을 위한 완벽 가이드를 제시합니다."
-categories: ["초등학생", "학년별가이드"]
+categories: ["초등", "학년별가이드"]
 tags: ["초등4학년", "4학년학습", "고학년준비", "사고력수학", "독해력", "학습전략", "자기주도학습"]
 featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 draft: false

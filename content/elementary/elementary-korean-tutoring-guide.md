@@ -3,7 +3,7 @@ title: "초등 국어과외 필요성과 효과 - 독해력이 모든 과목의 
 date: 2025-10-28
 reading_time: "330줄"
 description: "초등 국어과외가 정말 필요할까요? 독해력과 어휘력이 모든 과목에 미치는 영향부터 효과적인 국어 학습법까지, 초등 국어과외의 모든 것을 안내합니다."
-categories: ["초등학생", "과외"]
+categories: ["초등", "과외"]
 tags: ["초등국어", "국어과외", "독해력", "어휘력", "글쓰기", "1:1국어과외", "초등과외"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 draft: false

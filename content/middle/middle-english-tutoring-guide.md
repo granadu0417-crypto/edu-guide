@@ -3,7 +3,7 @@ title: "중등 영어과외 완벽 가이드 - 내신부터 고입까지"
 date: 2025-10-28
 reading_time: "532줄"
 description: "중학교 영어과외, 어떻게 시작해야 할까요? 문법, 내신, 회화까지 중등 영어과외의 모든 것을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등영어", "영어과외", "중학영어", "내신영어", "영어문법", "영어회화", "1:1영어과외"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 draft: false

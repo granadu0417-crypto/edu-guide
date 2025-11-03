@@ -3,7 +3,7 @@ title: "중등 주말 과외 가이드 - 토요일과 일요일 활용법"
 date: 2025-10-28
 reading_time: "609줄"
 description: "주중에 시간이 없다면 주말 과외는 어떨까요? 주말 과외의 장단점과 효과적인 활용법입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["주말과외", "토요일과외", "일요일과외", "중등과외"]
 featured_image: "https://images.unsplash.com/photo-1506784242126-2a0b0b89c56a?w=1200&h=630&fit=crop"
 draft: false

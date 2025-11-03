@@ -3,7 +3,7 @@ title: "초등 1학년 학습 가이드 - 학교 첫 적응부터 기초 학습�
 date: 2025-10-28
 reading_time: "423줄"
 description: "초등학교 1학년 자녀를 둔 학부모를 위한 완벽 가이드. 학교 적응, 한글과 수 개념 학습, 생활 습관 형성까지 1학년 시기에 꼭 필요한 모든 것을 담았습니다."
-categories: ["초등학생", "학년별가이드"]
+categories: ["초등", "학년별가이드"]
 tags: ["초등1학년", "1학년학습", "학교적응", "한글학습", "기초수학", "초등입학", "학부모가이드", "저학년학습"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 draft: false

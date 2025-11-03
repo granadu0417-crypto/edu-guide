@@ -3,7 +3,7 @@ title: "중학교 기말고사 대비 과외 완벽 가이드"
 date: 2025-10-28
 reading_time: "475줄"
 description: "기말고사 대비 과외, 중간고사와 어떻게 다를까요? 범위부터 전략까지 기말고사 완벽 대비 가이드입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["기말고사", "시험대비", "내신과외", "중등과외", "1:1과외", "기말시험"]
 featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
 draft: false

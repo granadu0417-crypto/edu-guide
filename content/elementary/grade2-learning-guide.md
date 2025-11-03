@@ -3,7 +3,7 @@ title: "초등 2학년 학습 가이드 - 기초 실력을 탄탄하게 다지�
 date: 2025-10-28
 reading_time: "407줄"
 description: "초등학교 2학년은 1학년에서 배운 기초를 확장하고 본격적인 학습 습관을 형성하는 중요한 시기입니다. 과목별 학습 전략과 학습 습관 형성법을 상세히 안내합니다."
-categories: ["초등학생", "학년별가이드"]
+categories: ["초등", "학년별가이드"]
 tags: ["초등2학년", "2학년학습", "기초학력", "구구단", "독해력", "학습습관", "저학년교육"]
 featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
 draft: false

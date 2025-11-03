@@ -3,7 +3,7 @@ title: "강동구 영어과외 vs 학원 | 천호·길동 최적 선택"
 date: 2025-01-27
 reading_time: "322줄"
 description: "고덕동, 명일동, 천호동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
+categories: ["지역", "서울"]
 tags: ["강동구", "영어과외", "고덕동", "명일동", "천호동", "영어", "과외", "영어회화", "내신영어", "수능영어"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---

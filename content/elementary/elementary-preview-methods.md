@@ -3,7 +3,7 @@ title: "초등학생 예습법 - 수업을 2배 효과적으로 만드는 비법
 date: 2025-10-28
 reading_time: "538줄"
 description: "효과적인 예습 방법으로 수업 이해도를 높이는 전략을 소개합니다. 학년별, 과목별 예습 방법과 예습 습관 만들기까지 실천 가능한 가이드를 제공합니다."
-categories: ["초등학생", "학습법"]
+categories: ["초등", "학습법"]
 tags: ["초등교육", "예습", "예습법", "공부법", "학습전략", "선행학습"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 draft: false

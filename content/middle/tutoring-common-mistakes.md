@@ -3,7 +3,7 @@ title: "중등 과외 흔한 실수"
 date: 2025-10-28
 reading_time: "995줄"
 description: "과외를 시작하는 학생과 부모님이 흔히 저지르는 실수 23가지와 해결 방법. 이 글 하나로 시행착오를 줄이고 과외 효과를 극대화하세요."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과외", "1:1과외", "학습전략", "과외선택", "학습효율"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

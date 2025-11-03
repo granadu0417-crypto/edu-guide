@@ -3,7 +3,7 @@ title: "고등 진로·전공 추천 탐색법 | 적성부터 학과까지 2025"
 date: 2025-01-17
 reading_time: "717줄"
 description: "고등학생을 위한 체계적인 진로 탐색과 대학 전공 선택 가이드. 자기 이해부터 직업 세계 탐색, 학과 정보, 진로 설계까지 미래를 준비하는 완벽한 로드맵을 제시합니다."
-categories: ["고등학교"]
+categories: ["고등"]
 tags: ["진로", "전공선택", "적성검사", "대학학과", "직업탐색", "진로설계", "미래준비"]
 featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---

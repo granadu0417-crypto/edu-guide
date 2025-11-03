@@ -3,7 +3,7 @@ title: "고등 과외 vs 학원 완벽 비교 - 내신·수능 맞춤 선택"
 date: 2025-10-28
 reading_time: "1028줄"
 description: "고등학생 과외와 학원, 어느 것이 더 좋을까요? 내신·수능·수시·정시별 장단점부터 선택 기준까지 완벽 비교 가이드입니다."
-categories: ["고등학생", "과외"]
+categories: ["고등", "과외"]
 tags: ["고등과외", "고등학원", "과외vs학원", "1:1과외", "학원선택", "내신관리", "수능대비"]
 featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 draft: false

@@ -3,7 +3,7 @@ title: "초등 방문과외 선택 가이드 - 우리 집 vs 선생님 댁"
 date: 2025-10-28
 reading_time: "429줄"
 description: "방문과외와 외출과외, 어느 것이 우리 아이에게 맞을까요? 각각의 장단점과 선택 기준, 준비사항까지 완벽 가이드를 제공합니다."
-categories: ["초등학생", "과외"]
+categories: ["초등", "과외"]
 tags: ["방문과외", "외출과외", "1:1과외", "초등과외", "과외선택", "가정방문", "과외장소"]
 featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 draft: false

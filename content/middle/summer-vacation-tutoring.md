@@ -3,7 +3,7 @@ title: "여름방학 과외 전략"
 date: 2025-10-28
 reading_time: "925줄"
 description: "중학생 여름방학 40일을 효율적으로 활용하는 완벽 가이드. 학년별 전략, 과목별 우선순위, 선행학습 vs 복습 균형까지 상세히 안내합니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과외", "1:1과외", "학습전략", "방학과외", "선행학습"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

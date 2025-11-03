@@ -3,7 +3,7 @@ title: "중등 1등급 유지 과외"
 date: 2025-10-28
 reading_time: "868줄"
 description: "1등급을 달성한 학생들을 위한 특화 전략. 유지하기 위한 학습법, 심리 관리, 과외 활용법을 상세히 안내합니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과외", "1:1과외", "학습전략", "1등급", "내신관리"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

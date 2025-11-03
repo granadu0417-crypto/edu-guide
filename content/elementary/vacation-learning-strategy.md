@@ -3,7 +3,7 @@ title: "초등 방학 학습 전략 - 여름/겨울 방학을 200% 활용하는 
 date: 2025-10-28
 reading_time: "516줄"
 description: "방학은 학습 격차가 벌어지는 시기입니다. 복습, 예습, 독서, 체험 활동까지 균형잡힌 방학 계획으로 다음 학기를 준비하는 완벽 가이드를 제시합니다."
-categories: ["초등학생", "학습전략"]
+categories: ["초등", "학습전략"]
 tags: ["방학계획", "여름방학", "겨울방학", "방학공부", "초등방학", "학습전략", "체험활동"]
 featured_image: "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=1200&h=630&fit=crop"
 draft: false

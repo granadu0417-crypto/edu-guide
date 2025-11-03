@@ -3,7 +3,7 @@ title: "모의고사 활용 vs 기출문제 | 등급 올리는 선택"
 date: 2025-01-17
 reading_time: "669줄"
 description: "수능 대비 모의고사 200% 활용하기. 3월·6월·9월 평가원 모의고사 분석법, 효과적인 오답 노트 작성, 약점 파악과 보완 전략, 실전 감각 유지 노하우까지 완벽 가이드입니다."
-categories: ["고등학교"]
+categories: ["고등"]
 tags: ["수능", "모의고사", "평가원", "오답노트", "학습전략", "실전대비", "성적향상"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---

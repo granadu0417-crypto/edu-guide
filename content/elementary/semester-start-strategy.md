@@ -3,7 +3,7 @@ title: "초등 학기 초 전략 - 새 학기 첫 한 달이 1년을 결정한�
 date: 2025-10-28
 reading_time: "457줄"
 description: "학기 초 첫 한 달은 한 학기 전체의 분위기와 성적을 좌우합니다. 새 학기 적응, 학습 습관 정착, 친구 관계 형성까지 학기 초를 성공적으로 시작하는 완벽 가이드입니다."
-categories: ["초등학생", "학습전략"]
+categories: ["초등", "학습전략"]
 tags: ["학기초", "새학기", "개학", "학습습관", "적응전략", "초등학기시작"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 draft: false

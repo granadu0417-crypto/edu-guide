@@ -3,7 +3,7 @@ title: "초등 파닉스 추천 학습법 | 읽기 기초 완성"
 date: 2025-01-17
 reading_time: "618줄"
 description: "초등학생 영어 파닉스 학습의 모든 것! 알파벳 소리부터 단어 읽기까지, 가정에서 실천할 수 있는 체계적인 파닉스 학습 방법을 소개합니다."
-categories: ["초등학생", "영어", "파닉스"]
+categories: ["초등", "영어", "파닉스"]
 tags: ["초등영어", "파닉스", "알파벳", "영어읽기"]
 featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 ---

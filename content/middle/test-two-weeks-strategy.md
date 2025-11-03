@@ -3,7 +3,7 @@ title: "시험 2주 전 집중 전략"
 date: 2025-10-28
 reading_time: "799줄"
 description: "중간·기말고사 2주 전부터 시험 당일까지, 효율적인 학습 전략과 시간 관리법을 단계별로 안내합니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과외", "1:1과외", "학습전략", "시험대비", "내신관리"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

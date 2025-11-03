@@ -3,7 +3,7 @@ title: "고3 멘탈 관리 완벽 정리 | 슬럼프 극복 심리 전략"
 date: 2025-01-17
 reading_time: "730줄"
 description: "고3 수험생을 위한 멘탈 관리와 슬럼프 극복 완벽 가이드. 학습 동기 유지법, 스트레스 관리, 불안 극복, 집중력 향상, 번아웃 예방까지 수험 생활을 이겨내는 심리 전략을 소개합니다."
-categories: ["고등학교"]
+categories: ["고등"]
 tags: ["멘탈관리", "슬럼프극복", "수험생활", "스트레스", "동기부여", "집중력", "심리관리"]
 featured_image: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&h=630&fit=crop"
 ---

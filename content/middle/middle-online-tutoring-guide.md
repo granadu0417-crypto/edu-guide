@@ -3,7 +3,7 @@ title: "중등 온라인 과외 완벽 가이드 - 효과와 선택법"
 date: 2025-10-28
 reading_time: "488줄"
 description: "중학생 온라인 과외, 정말 효과 있을까요? 대면 과외와의 차이부터 준비사항까지 완벽 가이드입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["온라인과외", "화상과외", "비대면과외", "중등과외", "1:1과외", "줌과외"]
 featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
 draft: false

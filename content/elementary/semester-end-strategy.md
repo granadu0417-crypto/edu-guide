@@ -3,7 +3,7 @@ title: "초등 학기 말 마무리 전략 - 완벽한 피니시로 다음을 �
 date: 2025-10-28
 reading_time: "497줄"
 description: "학기 말은 한 학기를 정리하고 다음을 준비하는 중요한 시기입니다. 기말고사 대비, 학습 내용 정리, 방학 준비까지 학기 말을 성공적으로 마무리하는 완벽 가이드입니다."
-categories: ["초등학생", "학습전략"]
+categories: ["초등", "학습전략"]
 tags: ["학기말", "기말고사", "학기마무리", "방학준비", "시험대비", "학습정리"]
 featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 draft: false

@@ -3,7 +3,7 @@ title: "고3 수험생 과외 가이드 - 수능 마지막 전략"
 date: 2025-10-28
 reading_time: "1017줄"
 description: "고3 과외, 어떻게 해야 할까요? 수능 D-Day까지 시기별 전략, 정시·수시 병행, 멘탈 관리부터 마지막 스퍼트까지 완벽 가이드입니다."
-categories: ["고등학생", "과외"]
+categories: ["고등", "과외"]
 tags: ["고3과외", "수험생과외", "수능과외", "정시대비", "수시원서", "재수생", "N수생"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

@@ -3,7 +3,7 @@ title: "중등 그룹과외 완벽 가이드 - 2:1부터 소그룹까지"
 date: 2025-10-28
 reading_time: "523줄"
 description: "그룹과외가 1:1과 어떻게 다를까요? 친구와 함께하는 과외의 장단점부터 성공 조건까지 완벽 가이드입니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["그룹과외", "소그룹과외", "2:1과외", "중등과외", "과외선택", "친구과외"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 draft: false

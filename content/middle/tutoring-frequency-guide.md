@@ -3,7 +3,7 @@ title: "중등 과외 횟수 가이드 - 주 몇 회가 적당할까?"
 date: 2025-10-28
 reading_time: "858줄"
 description: "과외 횟수, 주 몇 회가 적당할까요? 성적별, 과목별, 목표별 최적의 과외 횟수를 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과외", "1:1과외", "학습전략", "과외횟수"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

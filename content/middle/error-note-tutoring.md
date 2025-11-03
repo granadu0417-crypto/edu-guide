@@ -3,7 +3,7 @@ title: "중등 오답노트 과외 가이드 - 틀린 문제가 보물이다"
 date: 2025-10-28
 reading_time: "860줄"
 description: "오답노트로 성적 올리는 완벽 가이드. 작성법, 활용법, 과외 연계 전략까지 모두 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과외", "오답노트", "학습전략", "성적향상"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

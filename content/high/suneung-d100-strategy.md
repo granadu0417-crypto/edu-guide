@@ -3,7 +3,7 @@ title: "수능 D-100 전략 고민? | 마지막 100일 솔루션"
 date: 2025-01-25
 reading_time: "334줄"
 description: "수능 100일 전부터 당일까지, 과목별 마무리 전략과 실전 감각 키우기, 멘탈 관리까지 완벽 대비 가이드입니다."
-categories: ["고등학생", "수능", "입시전략"]
+categories: ["고등", "수능", "입시전략"]
 tags: ["수능준비", "고3", "수능전략", "실전대비", "D-100"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

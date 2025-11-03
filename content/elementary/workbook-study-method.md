@@ -3,7 +3,7 @@ title: "초등 문제집 활용법 - 똑똑하게 선택하고 제대로 활용�
 date: 2025-10-28
 reading_time: "341줄"
 description: "서점에 넘쳐나는 문제집, 어떤 것을 선택하고 어떻게 활용해야 할까요? 문제집 선택부터 활용법, 오답 정리까지 완벽 가이드를 제시합니다."
-categories: ["초등학생", "학습전략"]
+categories: ["초등", "학습전략"]
 tags: ["문제집", "문제집추천", "학습교재", "초등문제집", "공부법"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 draft: false

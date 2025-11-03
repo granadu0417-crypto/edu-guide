@@ -3,7 +3,7 @@ title: "중등 과외 시작 시기 가이드 - 언제가 적기일까?"
 date: 2025-10-28
 reading_time: "895줄"
 description: "과외는 언제 시작해야 할까요? 학년별, 상황별 최적의 과외 시작 시점을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중등과외", "1:1과외", "학습전략", "과외시기"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 draft: false

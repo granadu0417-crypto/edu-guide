@@ -3,7 +3,7 @@ title: "중등 과외 효과 극대화 하는 법 - 10배 활용 전략"
 date: 2025-10-28
 reading_time: "1161줄"
 description: "같은 과외인데 효과가 다른 이유는? 과외 효과를 10배 높이는 전략을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["과외효과", "학습전략", "중등과외", "성적향상"]
 featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 draft: false

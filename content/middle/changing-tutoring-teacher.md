@@ -3,7 +3,7 @@ title: "중등 과외 선생님 교체 가이드 - 언제, 어떻게?"
 date: 2025-10-28
 reading_time: "855줄"
 description: "선생님을 바꿔야 할까요? 교체 시기와 방법, 주의사항을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["과외교체", "선생님교체", "중등과외"]
 featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 draft: false

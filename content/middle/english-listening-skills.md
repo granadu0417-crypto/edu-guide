@@ -3,7 +3,7 @@ title: "중학 영어 듣기 완벽 정리 | 실전 훈련법 총정리"
 date: 2025-01-17
 reading_time: "435줄"
 description: "중학교 영어 듣기 평가 완벽 대비를 위한 체계적인 훈련법과 실전 전략. 받아쓰기부터 실전 문제 풀이까지, 듣기 실력을 단계적으로 향상시키는 구체적인 방법을 소개합니다."
-categories: ["중학교"]
+categories: ["중등"]
 tags: ["영어", "듣기", "영어듣기", "내신", "수행평가", "학습법"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

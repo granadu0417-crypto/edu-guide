@@ -3,7 +3,7 @@ title: "중등 과외 비용 가이드 - 합리적인 선택하기"
 date: 2025-10-28
 reading_time: "919줄"
 description: "중학생 과외 비용은 얼마나 할까요? 선생님별, 과목별 비용과 합리적 선택 기준을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["과외비용", "중등과외", "1:1과외", "과외선택"]
 featured_image: "https://images.unsplash.com/photo-1554224311-beee-663fd10c?w=1200&h=630&fit=crop"
 draft: false

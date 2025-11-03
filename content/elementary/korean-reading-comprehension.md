@@ -3,7 +3,7 @@ title: "초등 국어 독해력 키우기 - 모든 공부의 기초 만들기"
 date: 2025-10-28
 reading_time: "487줄"
 description: "초등학생 국어 독해력을 체계적으로 향상시키는 방법을 소개합니다. 학년별 독해 전략부터 가정에서 할 수 있는 실전 훈련까지 제공합니다."
-categories: ["초등학생", "과목별학습"]
+categories: ["초등", "과목별학습"]
 tags: ["초등교육", "국어", "독해력", "읽기", "독서", "문해력", "이해력"]
 featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
 draft: false

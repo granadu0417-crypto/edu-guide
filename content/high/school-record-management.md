@@ -3,7 +3,7 @@ title: "고등 내신·생기부 완벽 정리 | 대입 성공 전략 2025"
 date: 2025-01-17
 reading_time: "800줄"
 description: "고등학교 내신 등급 관리부터 생활기록부 작성까지 대입 성공을 위한 완벽 가이드. 교과 성적 향상 전략, 비교과 활동 관리, 세특 작성 노하우, 학년별 준비 로드맵을 상세히 소개합니다."
-categories: ["고등학교"]
+categories: ["고등"]
 tags: ["내신", "생활기록부", "세특", "비교과", "대입", "학생부종합", "교과전형"]
 featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 ---

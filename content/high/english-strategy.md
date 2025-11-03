@@ -3,7 +3,7 @@ title: "수능 영어 1등급 완벽 정리 | 유형별 공략법"
 date: 2025-01-17
 reading_time: "852줄"
 description: "수능 영어 절대평가 90점 이상 1등급 달성을 위한 완벽 가이드. 듣기부터 빈칸·순서·삽입·요약까지 유형별 전략, 어휘·문법 학습법, 70분 시간 관리 노하우를 소개합니다."
-categories: ["고등학교"]
+categories: ["고등"]
 tags: ["수능", "영어", "절대평가", "듣기", "독해", "유형별전략", "1등급"]
 featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 ---

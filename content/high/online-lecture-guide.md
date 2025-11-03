@@ -3,7 +3,7 @@ title: "인강 활용 고민? | 200% 효율 높이는 솔루션"
 date: 2025-01-17
 reading_time: "723줄"
 description: "고등학생을 위한 인터넷 강의 완벽 활용 가이드. EBS부터 사설 강의까지 강의 선택 기준, 효과적인 수강 방법, 배속 활용, 노트 정리, 자기주도 학습 전략을 소개합니다."
-categories: ["고등학교"]
+categories: ["고등"]
 tags: ["인터넷강의", "온라인학습", "EBS", "인강", "자기주도학습", "학습전략", "효율적공부"]
 featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop"
 ---

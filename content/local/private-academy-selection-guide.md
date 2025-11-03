@@ -3,7 +3,7 @@ title: "학원 vs 과외 고민? | 우리 아이 최적 선택 솔루션"
 date: 2025-01-17
 reading_time: "849줄"
 description: "학원 선택부터 관리까지 학부모가 꼭 알아야 할 모든 정보를 안내합니다. 학원 유형, 선택 기준, 등록 절차, 환불 규정, 주의사항까지 현명한 학원 선택을 위한 완벽 가이드입니다."
-categories: ["지역정보"]
+categories: ["지역"]
 tags: ["학원", "사교육", "학원선택", "교습소", "과외", "인터넷강의", "학습관리", "환불규정"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 ---

@@ -3,7 +3,7 @@ title: "초등 과외 vs 학원 완벽 비교 - 우리 아이에게 맞는 선�
 date: 2025-10-28
 reading_time: "324줄"
 description: "과외와 학원 중 무엇이 우리 아이에게 맞을까요? 장단점 비교부터 선택 기준까지 초등 학습의 올바른 선택을 도와드립니다."
-categories: ["초등학생", "과외"]
+categories: ["초등", "과외"]
 tags: ["과외", "학원", "1:1과외", "초등과외", "학원선택", "과외vs학원", "학습선택"]
 featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 draft: false

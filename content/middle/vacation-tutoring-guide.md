@@ -3,7 +3,7 @@ title: "중등 방학 과외 완벽 가이드 - 여름방학과 겨울방학"
 date: 2025-10-28
 reading_time: "500줄"
 description: "방학 과외, 어떻게 활용해야 할까요? 복습, 예습, 선행까지 방학 과외의 모든 것을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["방학과외", "여름방학", "겨울방학", "중등과외", "1:1과외", "선행학습"]
 featured_image: "https://images.unsplash.com/photo-1455849318743-b2233052fcff?w=1200&h=630&fit=crop"
 draft: false

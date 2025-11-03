@@ -3,7 +3,7 @@ title: "중학 역사 공부법 vs 암기법 | 이해로 접근하기"
 date: 2025-01-17
 reading_time: "555줄"
 description: "중학교 한국사와 세계사를 효과적으로 공부하는 방법입니다. 시대별 흐름 파악부터 인물·사건 정리, 서술형 대비까지 역사 과목 완벽 공략 전략을 제시합니다."
-categories: ["중학생", "역사", "사회"]
+categories: ["중등", "역사", "사회"]
 tags: ["중학역사", "한국사", "세계사", "역사공부법"]
 featured_image: "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=1200&h=630&fit=crop"
 ---

@@ -3,7 +3,7 @@ title: "중2 과외 완벽 가이드 - 중2병과 학습 관리"
 date: 2025-10-28
 reading_time: "435줄"
 description: "중2 과외, 왜 중요할까요? 중2병 시기 학습 관리부터 내신 대비까지 중2 과외의 모든 것을 알려드립니다."
-categories: ["중학생", "과외"]
+categories: ["중등", "과외"]
 tags: ["중2과외", "중학교과외", "중2병", "1:1과외", "중2학습", "사춘기학습"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 draft: false
