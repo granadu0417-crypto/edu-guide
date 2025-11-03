@@ -3,7 +3,7 @@ title: "수학 문제풀이 과외 | 유형분석·전략·실전 완벽 마스�
 date: 2025-01-28
 reading_time: "600줄"
 description: "수학 문제풀이 과외로 유형 분석, 풀이 전략, 실전 테크닉까지 완벽 마스터 | 1:1 맞춤 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학과외", "문제풀이", "수학전략", "유형분석", "내신", "수능", "실전테크닉", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---

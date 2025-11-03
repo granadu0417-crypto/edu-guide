@@ -3,7 +3,7 @@ title: "수학 개념 이해 완벽 가이드 | 1:1 수학 개념 과외"
 date: 2025-01-29
 reading_time: "340줄"
 description: "수학 개념 완벽 이해 전략 | 정의 이해, 정리 증명, 예제 활용, 1:1 맞춤 개념 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "개념이해", "공부법", "정의", "정리", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

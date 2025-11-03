@@ -3,7 +3,7 @@ title: "중2 수학 완벽 가이드 | 1:1 중등 수학 과외"
 date: 2025-01-29
 reading_time: "370줄"
 description: "중2 수학 완벽 정복 | 유리수와 순환소수, 식의 계산, 부등식, 일차함수, 확률, 1:1 맞춤 중2 수학 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "중2", "중등수학", "일차함수", "확률", "부등식", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

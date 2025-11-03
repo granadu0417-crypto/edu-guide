@@ -3,7 +3,7 @@ title: "영어 명사·관사 완벽 활용 | 1:1 문법 과외"
 date: 2025-01-29
 reading_time: "440줄"
 description: "영어 명사·관사 완벽 정복 | 가산/불가산 명사, a/an/the 구별, 1:1 맞춤 문법 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "문법", "명사", "관사", "가산명사", "불가산명사", "a", "the", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

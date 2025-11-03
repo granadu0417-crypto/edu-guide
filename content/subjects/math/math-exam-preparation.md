@@ -3,7 +3,7 @@ title: "수학 시험 대비 완벽 가이드 | 1:1 수학 시험 준비 과외"
 date: 2025-01-29
 reading_time: "350줄"
 description: "효과적인 수학 시험 준비 전략 | 내신·모의고사·수능 대비, 시간 관리, 실전 팁, 1:1 맞춤 시험 준비 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "시험대비", "공부법", "내신", "수능", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---

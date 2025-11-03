@@ -3,7 +3,7 @@ title: "영어 관용표현 과외 | 이디엄·숙어 완벽 마스터 가이�
 date: 2025-01-28
 reading_time: "520줄"
 description: "영어 관용표현(이디엄) 과외로 자연스러운 영어 구사력 향상. 실생활 필수 숙어부터 고급 표현까지 체계적 학습법"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어관용표현", "이디엄과외", "영어숙어", "영어표현", "영어회화", "영어실력향상", "자연스러운영어"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---

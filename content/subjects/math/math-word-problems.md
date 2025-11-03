@@ -3,7 +3,7 @@ title: "수학 문장제 풀이 완벽 가이드 | 1:1 문장제 과외"
 date: 2025-01-29
 reading_time: "330줄"
 description: "수학 문장제 완벽 공략법 | 문장 해석, 식 세우기, 유형별 전략, 1:1 맞춤 문장제 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "문장제", "응용문제", "활용", "문제해석", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---

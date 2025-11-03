@@ -3,7 +3,7 @@ title: "수능 영어 문법 완벽 대비 | 1:1 문법 과외"
 date: 2025-01-29
 reading_time: "390줄"
 description: "수능 영어 문법 완벽 정복 | 핵심 문법, 빈출 유형, 실수 방지, 1:1 맞춤 문법 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "문법", "수능", "시험", "어법", "grammar", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---

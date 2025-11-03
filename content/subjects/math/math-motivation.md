@@ -3,7 +3,7 @@ title: "수학 동기부여 완벽 가이드 | 1:1 수학 동기 과외"
 date: 2025-01-29
 reading_time: "320줄"
 description: "수학 공부 동기부여 전략 | 목표 설정, 성취감, 흥미 유발, 1:1 맞춤 동기 부여 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "동기부여", "공부법", "목표", "성취감", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
 ---

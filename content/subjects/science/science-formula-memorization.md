@@ -3,7 +3,7 @@ title: "과학 공식 과외 | 물리·화학·생물·지구과학 공식 완�
 date: 2025-01-28
 reading_time: "600줄"
 description: "과학 공식 과외로 물리·화학·생물·지구과학 핵심 공식 완벽 정복 | 이해 중심 암기·실전 적용·1:1 맞춤 지도 [2025년]"
-categories: ["과목"]
+categories: ["과학"]
 tags: ["과학과외", "공식암기", "물리공식", "화학공식", "생물공식", "지구과학공식", "1:1과외", "암기법"]
 featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
 ---

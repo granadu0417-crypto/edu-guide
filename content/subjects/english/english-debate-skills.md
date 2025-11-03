@@ -3,7 +3,7 @@ title: "영어 토론 과외 | 디베이트 실력 향상 완벽 가이드"
 date: 2025-01-28
 reading_time: "650줄"
 description: "영어 토론 과외로 디베이트 실력을 체계적으로 향상시키는 방법. 논리적 사고, 설득력, 영어 스피킹까지 한번에 잡는 학습 전략"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어토론과외", "디베이트과외", "영어스피킹", "논리적사고", "설득력", "영어말하기", "토론학습", "영어회화"]
 featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
 ---

@@ -3,7 +3,7 @@ title: "영어 세부 정보 찾기 완벽 가이드 | 1:1 독해 과외"
 date: 2025-01-29
 reading_time: "410줄"
 description: "영어 세부 정보 찾기 완벽 정복 | 스캐닝 기법, 키워드 매칭, 일치·불일치 판단, 1:1 맞춤 독해 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "독해", "세부정보", "스캐닝", "detail", "scanning", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
 ---

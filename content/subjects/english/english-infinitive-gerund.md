@@ -3,7 +3,7 @@ title: "부정사·동명사 완벽 구별법 | 1:1 문법 과외"
 date: 2025-01-29
 reading_time: "440줄"
 description: "to부정사·동명사 완벽 정복 | want to vs enjoy -ing 구별, 의미 차이, 1:1 맞춤 문법 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "문법", "부정사", "동명사", "toV", "Ving", "infinitive", "gerund", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 ---

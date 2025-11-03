@@ -3,7 +3,7 @@ title: "영어 비판적 독해 가이드 | 1:1 비판적 독해 과외"
 date: 2025-01-29
 reading_time: "300줄"
 description: "영어 비판적 독해 완벽 정복 | 논리 분석, 주장 파악, 비판적 사고, 1:1 맞춤 독해 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "비판적독해", "critical reading", "독해", "논리", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---

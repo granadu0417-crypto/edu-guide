@@ -3,7 +3,7 @@ title: "과학 개념연결 과외 | 통합사고·융합문제 완벽 대비"
 date: 2025-01-28
 reading_time: "625줄"
 description: "과학 개념연결 과외로 물리·화학·생물·지구과학 통합 이해, 융합 사고력 향상, 통합과학 완벽 대비"
-categories: ["과목"]
+categories: ["과학"]
 tags: ["과학개념연결과외", "통합과학", "융합과학", "개념연결", "과학과외", "통합사고", "STEAM"]
 featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
 ---

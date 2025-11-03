@@ -3,7 +3,7 @@ title: "영어 추론 문제 완벽 정복 | 1:1 독해 과외"
 date: 2025-01-29
 reading_time: "430줄"
 description: "영어 추론 문제 완벽 가이드 | 행간 읽기, 암시된 내용 파악, 논리적 추론, 1:1 맞춤 독해 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "독해", "추론", "inference", "암시", "논리", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 ---

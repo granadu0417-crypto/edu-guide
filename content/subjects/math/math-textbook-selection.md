@@ -3,7 +3,7 @@ title: "수학 문제집 선택 완벽 가이드 | 1:1 문제집 추천 과외"
 date: 2025-01-29
 reading_time: "310줄"
 description: "수학 문제집 선택 전략 | 수준별 추천, 유형별 선택, 효과적 활용, 1:1 맞춤 문제집 가이드 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "문제집", "교재", "참고서", "문제집추천", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---

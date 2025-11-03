@@ -3,7 +3,7 @@ title: "영어 발음 규칙 완벽 정리 | 1:1 발음 과외"
 date: 2025-01-29
 reading_time: "360줄"
 description: "영어 발음 규칙 완벽 정복 | 음운 변화, 강세, 억양, 1:1 맞춤 발음 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "발음", "pronunciation", "음운변화", "강세", "억양", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
 ---

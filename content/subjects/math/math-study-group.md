@@ -3,7 +3,7 @@ title: "수학 스터디 그룹 완벽 가이드 | 1:1 수학 스터디 과외"
 date: 2025-01-29
 reading_time: "300줄"
 description: "효과적인 수학 스터디 그룹 운영 | 그룹 구성, 운영 방법, 협력 학습, 1:1 맞춤 그룹 스터디 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "스터디그룹", "그룹스터디", "협력학습", "동료학습", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---

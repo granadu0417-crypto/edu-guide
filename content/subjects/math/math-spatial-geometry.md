@@ -3,7 +3,7 @@ title: "공간도형과 좌표 완벽 가이드 | 1:1 공간도형 과외"
 date: 2025-01-29
 reading_time: "310줄"
 description: "공간도형과 공간좌표 완벽 정복 | 3차원 도형, 공간벡터, 정사영, 1:1 맞춤 공간도형 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "공간도형", "공간좌표", "입체도형", "공간벡터", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

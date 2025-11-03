@@ -3,7 +3,7 @@ title: "영어 프레젠테이션 완벽 가이드 | 1:1 발표 과외"
 date: 2025-01-29
 reading_time: "360줄"
 description: "영어 프레젠테이션 완벽 정복 | 발표 구조, 필수 표현, 실전 팁, 1:1 맞춤 발표 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "프레젠테이션", "발표", "presentation", "speaking", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1200&h=630&fit=crop"
 ---

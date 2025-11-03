@@ -3,7 +3,7 @@ title: "영어 이메일 작성 완벽 가이드 | 1:1 작문 과외"
 date: 2025-01-29
 reading_time: "360줄"
 description: "영어 이메일 작성 완벽 정복 | 격식별 표현, 비즈니스 이메일, 실전 템플릿, 1:1 맞춤 작문 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "이메일", "email", "writing", "비즈니스", "작문", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=1200&h=630&fit=crop"
 ---

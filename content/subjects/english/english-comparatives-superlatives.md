@@ -3,7 +3,7 @@ title: "비교급·최상급 완벽 활용 | 1:1 문법 과외"
 date: 2025-01-29
 reading_time: "410줄"
 description: "영어 비교급·최상급 완벽 정복 | -er/-est, more/most, as~as 구문, 1:1 맞춤 문법 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "문법", "비교급", "최상급", "comparative", "superlative", "than", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 ---

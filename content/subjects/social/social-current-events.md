@@ -3,7 +3,7 @@ title: "사회 시사이슈 과외 | 분석력·토론능력 완벽 대비"
 date: 2025-01-28
 reading_time: "612줄"
 description: "사회 시사이슈 과외로 뉴스 분석, 다각적 관점, 논리적 토론, 논술 대비까지 체계적으로 학습"
-categories: ["과목"]
+categories: ["사회"]
 tags: ["사회시사과외", "시사이슈", "뉴스분석", "토론과외", "사회과외", "논술대비", "비판적사고"]
 featured_image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop"
 ---

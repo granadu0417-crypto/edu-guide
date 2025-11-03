@@ -3,7 +3,7 @@ title: "영어 동의어·반의어 완벽 정리 | 1:1 영어 과외"
 date: 2025-01-29
 reading_time: "420줄"
 description: "영어 동의어·반의어 완벽 정복 | 빈출 유의어 세트, 뉘앙스 차이, 1:1 맞춤 어휘 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "어휘", "동의어", "반의어", "synonym", "antonym", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
 ---

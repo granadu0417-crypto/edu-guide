@@ -3,7 +3,7 @@ title: "영어 문법기초 과외 | 품사·시제·문장구조 완벽 정리"
 date: 2025-01-28
 reading_time: "615줄"
 description: "영어 문법기초 과외로 8품사, 12시제, 5형식 문장 구조를 체계적으로 정리하여 독해·작문의 탄탄한 기초 완성"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어문법과외", "기초문법", "품사", "시제", "문장구조", "영어과외", "문법정리"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---

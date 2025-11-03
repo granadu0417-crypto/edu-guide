@@ -3,7 +3,7 @@ title: "수학 삼각함수 완벽 정복 가이드 | 1:1 삼각함수 과외"
 date: 2025-01-29
 reading_time: "410줄"
 description: "수학 삼각함수 완벽 정복 | 삼각비, 삼각함수, 덧셈정리, 삼각방정식, 1:1 맞춤 삼각함수 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "삼각함수", "삼각비", "수학1", "수학2", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

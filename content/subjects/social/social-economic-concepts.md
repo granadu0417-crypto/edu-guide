@@ -3,7 +3,7 @@ title: "사회 경제 과외 | 시장·금융·무역 개념 완벽 정리"
 date: 2025-01-28
 reading_time: "520줄"
 description: "사회 경제 과외로 시장 원리, 금융 시스템, 국제 무역을 체계적으로 학습. 경제 개념부터 실생활 적용까지 완벽 마스터"
-categories: ["과목"]
+categories: ["사회"]
 tags: ["사회경제과외", "경제개념", "시장원리", "금융", "무역", "사회과외", "경제학습"]
 featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
 ---

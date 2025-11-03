@@ -3,7 +3,7 @@ title: "과학 생물 과외 | 세포·유전·생태계 완벽 개념 정리"
 date: 2025-01-28
 reading_time: "605줄"
 description: "과학 생물 과외로 세포, 유전, DNA, 생태계까지 완벽 개념 정리 | 체계적 학습 [2025년]"
-categories: ["과목"]
+categories: ["과학"]
 tags: ["과학과외", "생물과외", "세포", "유전", "DNA", "생태계", "광합성", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200&h=630&fit=crop"
 ---

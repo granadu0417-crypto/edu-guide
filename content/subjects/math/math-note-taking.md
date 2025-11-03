@@ -3,7 +3,7 @@ title: "수학 노트 정리법 완벽 가이드 | 1:1 수학 노트 과외"
 date: 2025-01-29
 reading_time: "320줄"
 description: "효과적인 수학 노트 정리 방법 | 개념 정리, 문제 풀이, 오답 노트, 1:1 맞춤 노트 관리 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "노트정리", "공부법", "필기", "정리", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---

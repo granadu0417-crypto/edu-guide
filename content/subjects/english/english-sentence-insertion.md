@@ -3,7 +3,7 @@ title: "영어 문장 삽입 전략 | 1:1 독해 과외"
 date: 2025-01-29
 reading_time: "410줄"
 description: "영어 문장 삽입 완벽 정복 | 논리적 위치 파악, 연결어 활용, 문맥 연결, 1:1 맞춤 독해 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "독해", "문장삽입", "논리", "문맥", "연결어", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---

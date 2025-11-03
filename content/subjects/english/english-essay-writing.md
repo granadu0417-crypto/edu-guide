@@ -3,7 +3,7 @@ title: "영어 에세이 작성 완벽 가이드 | 1:1 작문 과외"
 date: 2025-01-29
 reading_time: "370줄"
 description: "영어 에세이 작성 완벽 정복 | 구조, 논리 전개, 실전 팁, 1:1 맞춤 에세이 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "에세이", "essay", "writing", "작문", "글쓰기", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---

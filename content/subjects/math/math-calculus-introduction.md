@@ -3,7 +3,7 @@ title: "수학 미적분 과외 | 극한·미분·적분 완벽 입문"
 date: 2025-01-28
 reading_time: "610줄"
 description: "수학 미적분 과외로 극한, 미분, 적분까지 완벽 입문 | 기초부터 심화까지 체계적 학습 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학과외", "미적분과외", "극한", "미분", "적분", "수학2", "미적분", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

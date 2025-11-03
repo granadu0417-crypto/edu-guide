@@ -3,7 +3,7 @@ title: "수학 미분 완벽 정복 가이드 | 1:1 미분 과외"
 date: 2025-01-29
 reading_time: "430줄"
 description: "수학 미분 완벽 정복 | 도함수, 미분법, 도함수의 활용, 1:1 맞춤 미분 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "미분", "도함수", "수학2", "미적분", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---

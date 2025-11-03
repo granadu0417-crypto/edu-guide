@@ -3,7 +3,7 @@ title: "영어 고급 회화 가이드 | 1:1 고급 회화 과외"
 date: 2025-01-29
 reading_time: "280줄"
 description: "영어 고급 회화 완벽 정복 | 유창성, 자연스러움, 토론 능력, 1:1 맞춤 고급 회화 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "고급회화", "speaking", "회화", "유창성", "토론", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
 ---

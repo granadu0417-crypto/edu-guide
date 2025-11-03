@@ -3,7 +3,7 @@ title: "국어 과외 | 시 분석 완벽 정복 - 표현기교·주제·정서 
 date: 2025-01-28
 reading_time: "600줄"
 description: "국어 과외로 시 분석 완벽 정복 | 표현기교·주제파악·정서 이해·감상법·1:1 맞춤 해설 [2025년]"
-categories: ["과목"]
+categories: ["국어"]
 tags: ["국어과외", "시분석", "문학", "표현기교", "주제파악", "정서", "감상법", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---

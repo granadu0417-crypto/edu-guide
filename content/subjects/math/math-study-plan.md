@@ -3,7 +3,7 @@ title: "수학 학습 계획 완벽 가이드 | 1:1 수학 학습 전략 과외"
 date: 2025-01-29
 reading_time: "350줄"
 description: "효과적인 수학 학습 계획 수립 가이드 | 단계별 계획, 시간 배분, 목표 설정, 1:1 맞춤 수학 학습 관리 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "학습계획", "공부법", "시간관리", "목표설정", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 ---

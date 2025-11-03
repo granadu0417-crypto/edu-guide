@@ -3,7 +3,7 @@ title: "수학 서술형 과외 | 문장제·풀이과정 완벽 전략"
 date: 2025-01-28
 reading_time: "490줄"
 description: "수학 서술형 과외로 문장제 해결, 풀이 과정 작성, 부분 점수 전략을 체계적으로 학습. 서술형 고득점 비법"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학서술형과외", "문장제", "풀이과정", "부분점수", "수학과외", "내신수학", "서술형전략"]
 featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
 ---

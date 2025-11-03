@@ -3,7 +3,7 @@ title: "사회 정치 과외 | 민주주의·정치제도 완벽 이해"
 date: 2025-01-28
 reading_time: "530줄"
 description: "사회 정치 과외로 민주주의 원리, 정치 제도, 권력 분립을 체계적으로 학습. 정치 개념부터 현실 적용까지 완벽 마스터"
-categories: ["과목"]
+categories: ["사회"]
 tags: ["사회정치과외", "민주주의", "정치제도", "권력분립", "헌법", "사회과외", "정치학습"]
 featured_image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200&h=630&fit=crop"
 ---

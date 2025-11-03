@@ -3,7 +3,7 @@ title: "영어 복습법 완벽 가이드 | 1:1 복습 전략 과외"
 date: 2025-01-29
 reading_time: "360줄"
 description: "영어 복습법 완벽 정복 | 효율적 복습, 장기 기억, 오답 분석, 1:1 맞춤 복습 전략 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "복습", "review", "공부법", "기억", "학습법", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---

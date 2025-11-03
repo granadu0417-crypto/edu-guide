@@ -3,7 +3,7 @@ title: "수학 인강 활용 완벽 가이드 | 1:1 인강 활용 과외"
 date: 2025-01-29
 reading_time: "300줄"
 description: "효과적인 수학 인강 활용법 | 강의 선택, 수강 전략, 복습 방법, 1:1 맞춤 인강 가이드 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "인강", "온라인강의", "인터넷강의", "이러닝", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 ---

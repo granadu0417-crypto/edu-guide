@@ -3,7 +3,7 @@ title: "수학 대수 과외 | 방정식·부등식·함수 완벽 마스터"
 date: 2025-01-28
 reading_time: "605줄"
 description: "수학 대수 과외로 방정식, 부등식, 함수까지 완벽 정복 | 일차·이차·고차 방정식 체계적 학습 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학과외", "대수과외", "방정식", "부등식", "함수", "이차방정식", "인수분해", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---

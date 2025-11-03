@@ -3,7 +3,7 @@ title: "수학 함수 과외 | 함수 개념부터 그래프까지 완벽 이해
 date: 2025-01-28
 reading_time: "480줄"
 description: "수학 함수 과외로 함수의 기본 개념부터 그래프, 변환, 응용까지 체계적으로 학습. 수능 수학 고득점을 위한 함수 완전 정복"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학함수과외", "함수개념", "함수그래프", "수학과외", "수능수학", "함수변환", "함수의응용"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---

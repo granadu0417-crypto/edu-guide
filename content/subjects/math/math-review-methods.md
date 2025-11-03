@@ -3,7 +3,7 @@ title: "수학 복습 방법 완벽 가이드 | 1:1 수학 복습 전략 과외"
 date: 2025-01-29
 reading_time: "330줄"
 description: "효과적인 수학 복습 전략 | 반복 주기, 오답 정리, 장기 기억, 1:1 맞춤 복습 관리 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "복습", "공부법", "기억", "오답정리", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---

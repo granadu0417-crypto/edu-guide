@@ -3,7 +3,7 @@ title: "확률과 통계 심화 완벽 가이드 | 1:1 확률통계 과외"
 date: 2025-01-29
 reading_time: "340줄"
 description: "확률과 통계 심화 학습 | 확률분포, 통계적 추정, 가설검정, 1:1 맞춤 확률통계 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "확률", "통계", "확률분포", "통계적추정", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop"
 ---

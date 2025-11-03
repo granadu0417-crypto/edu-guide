@@ -3,7 +3,7 @@ title: "영어 면접 완벽 대비 가이드 | 1:1 면접 과외"
 date: 2025-01-29
 reading_time: "350줄"
 description: "영어 면접 완벽 정복 | 자주 나오는 질문, 답변 전략, 실전 팁, 1:1 맞춤 면접 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "면접", "interview", "취업", "입학", "speaking", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---

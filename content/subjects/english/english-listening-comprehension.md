@@ -3,7 +3,7 @@ title: "영어 듣기 과외 | 발음구별·받아쓰기 완벽 마스터"
 date: 2025-01-28
 reading_time: "602줄"
 description: "영어 듣기 과외로 음소 구별, 문장 듣기, 받아쓰기, 실전 대화까지 체계적 훈련으로 듣기 실력 완벽 향상"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어듣기과외", "리스닝", "발음구별", "받아쓰기", "영어과외", "듣기훈련", "청취력"]
 featured_image: "https://images.unsplash.com/photo-1484069560501-87d72b0c3669?w=1200&h=630&fit=crop"
 ---

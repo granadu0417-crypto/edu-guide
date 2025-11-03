@@ -3,7 +3,7 @@ title: "국어 의사소통 과외 | 발표·토론·설득 완벽 실전 훈련
 date: 2025-01-28
 reading_time: "620줄"
 description: "국어 의사소통 과외로 발표, 토론, 설득, 경청까지 실전 훈련 | 화법과 작문 완벽 대비 [2025년]"
-categories: ["과목"]
+categories: ["국어"]
 tags: ["국어과외", "의사소통과외", "발표", "토론", "설득", "화법", "말하기", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1200&h=630&fit=crop"
 ---

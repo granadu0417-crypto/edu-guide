@@ -3,7 +3,7 @@ title: "영어 주제 찾기 완벽 가이드 | 1:1 독해 과외"
 date: 2025-01-29
 reading_time: "450줄"
 description: "영어 주제 찾기 완벽 정복 | 주제문 찾기, 키워드 파악, 실전 문제 풀이, 1:1 맞춤 독해 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "독해", "주제찾기", "main idea", "topic", "reading", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1456735190827-d1262f71b8a0?w=1200&h=630&fit=crop"
 ---

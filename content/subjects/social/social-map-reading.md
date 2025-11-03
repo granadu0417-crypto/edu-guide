@@ -3,7 +3,7 @@ title: "사회 지도독해 과외 | 지형도·통계지도 완벽 해석"
 date: 2025-01-28
 reading_time: "620줄"
 description: "사회 지도독해 과외로 지형도·통계지도·주제도 해석, 등고선·축척·위치 파악, 지도 분석 능력 완벽 습득"
-categories: ["과목"]
+categories: ["사회"]
 tags: ["사회지도과외", "지도읽기", "지형도", "통계지도", "사회과외", "지리과외", "등고선"]
 featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
 ---

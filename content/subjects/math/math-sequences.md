@@ -3,7 +3,7 @@ title: "수학 수열 완벽 정복 가이드 | 1:1 수열 과외"
 date: 2025-01-29
 reading_time: "420줄"
 description: "수학 수열 완벽 정복 | 등차수열, 등비수열, 계차수열, 수열의 합, 1:1 맞춤 수열 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "수열", "등차수열", "등비수열", "수학1", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---

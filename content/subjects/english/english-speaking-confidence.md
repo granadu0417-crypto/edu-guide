@@ -3,7 +3,7 @@ title: "영어 말하기 자신감 심층 분석 | 1:1 회화 극복 전략"
 date: 2025-01-28
 reading_time: "600줄"
 description: "영어 말하기 자신감 키우는 핵심 전략 | 1:1 맞춤 회화 훈련, 발음 교정, 실전 대화 연습, 상황별 표현 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "말하기", "회화", "스피킹", "발음", "자신감", "영어회화", "원어민", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 ---

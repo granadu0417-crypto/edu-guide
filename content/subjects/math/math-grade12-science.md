@@ -3,7 +3,7 @@ title: "고3 이과 수학 완벽 가이드 | 1:1 고등 수학 과외"
 date: 2025-01-29
 reading_time: "420줄"
 description: "고3 이과 수학 완벽 정복 | 수능 미적분 대비, 수학 I·II 총정리, 킬러 문제 공략, 1:1 맞춤 고3 이과 수학 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "고3", "이과수학", "수능수학", "미적분", "킬러문제", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

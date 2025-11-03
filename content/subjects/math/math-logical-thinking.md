@@ -3,7 +3,7 @@ title: "수학 논리사고 과외 | 추론력·창의력 완벽 훈련"
 date: 2025-01-28
 reading_time: "605줄"
 description: "수학 논리사고 과외로 연역·귀납 추론, 창의적 문제 해결, 수학적 증명, 사고력 확장까지 체계적 학습"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학논리사고과외", "논리적사고", "수학추론", "창의적문제해결", "수학과외", "사고력수학", "증명"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

@@ -3,7 +3,7 @@ title: "영어 요지·주장 파악 전략 | 1:1 독해 과외"
 date: 2025-01-29
 reading_time: "440줄"
 description: "영어 요지·주장 파악 완벽 정복 | 필자 주장 찾기, 핵심 메시지 파악, 1:1 맞춤 독해 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "독해", "요지", "주장", "purpose", "claim", "reading", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
 ---

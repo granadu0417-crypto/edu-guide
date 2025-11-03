@@ -3,7 +3,7 @@ title: "고2 문과 수학 완벽 가이드 | 1:1 고등 수학 과외"
 date: 2025-01-29
 reading_time: "400줄"
 description: "고2 문과 수학 완벽 정복 | 지수함수, 로그함수, 삼각함수, 수열, 확률과 통계, 1:1 맞춤 고2 문과 수학 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "고2", "문과수학", "지수함수", "삼각함수", "수열", "확률", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

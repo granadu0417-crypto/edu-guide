@@ -3,7 +3,7 @@ title: "수학 문제 풀이 전략 가이드 | 1:1 수학 문제풀이 과외"
 date: 2025-01-29
 reading_time: "360줄"
 description: "효과적인 수학 문제 풀이 전략 | 문제 분석, 풀이 단계, 검산 방법, 1:1 맞춤 문제풀이 지도 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "문제풀이", "공부법", "전략", "풀이과정", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---

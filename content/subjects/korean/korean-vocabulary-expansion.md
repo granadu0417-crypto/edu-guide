@@ -3,7 +3,7 @@ title: "국어 어휘력 과외 | 한자어·관용어·어원 완벽 확장"
 date: 2025-01-28
 reading_time: "615줄"
 description: "국어 어휘력 과외로 한자어, 관용어, 속담, 어원까지 체계적 확장 | 독해력·표현력 향상의 핵심 [2025년]"
-categories: ["과목"]
+categories: ["국어"]
 tags: ["국어과외", "어휘력과외", "어휘", "한자어", "관용어", "속담", "어원학습", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
 ---

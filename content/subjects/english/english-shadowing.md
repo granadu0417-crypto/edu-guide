@@ -3,7 +3,7 @@ title: "영어 섀도잉 완벽 가이드 | 1:1 발음 과외"
 date: 2025-01-29
 reading_time: "370줄"
 description: "영어 섀도잉 완벽 정복 | 따라 말하기 훈련법, 발음 향상, 1:1 맞춤 발음 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "섀도잉", "shadowing", "발음", "듣기", "speaking", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1200&h=630&fit=crop"
 ---

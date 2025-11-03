@@ -3,7 +3,7 @@ title: "영어 평생 학습 완벽 가이드 | 1:1 평생 영어 과외"
 date: 2025-01-29
 reading_time: "310줄"
 description: "영어 평생 학습 완벽 정복 | 지속 학습, 실용 영어, 흥미 유지, 1:1 맞춤 평생 영어 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "평생학습", "lifelong", "지속학습", "실용영어", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---

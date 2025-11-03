@@ -3,7 +3,7 @@ title: "사회 역사 과외 | 사료해석·인과관계 완벽 분석"
 date: 2025-01-28
 reading_time: "600줄"
 description: "사회 역사 과외로 사료 해석, 인과 관계, 역사적 사고력까지 완벽 분석 | 체계적 학습 [2025년]"
-categories: ["과목"]
+categories: ["사회"]
 tags: ["사회과외", "역사과외", "한국사", "세계사", "사료해석", "인과관계", "역사분석", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=1200&h=630&fit=crop"
 ---

@@ -3,7 +3,7 @@ title: "영어 고급독해 과외 | 복잡구문·논리분석 완벽 마스터
 date: 2025-01-28
 reading_time: "608줄"
 description: "영어 고급독해 과외로 복잡한 구문 분석, 비문학·문학 지문 정복, 비판적 독해, 수능 고난도 문제 완벽 대비"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어고급독해과외", "복잡구문", "비문학독해", "문학독해", "영어과외", "수능독해", "논리분석"]
 featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
 ---

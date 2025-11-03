@@ -3,7 +3,7 @@ title: "영어 순서 배열 문제 전략 | 1:1 독해 과외"
 date: 2025-01-29
 reading_time: "420줄"
 description: "영어 순서 배열 문제 완벽 정복 | 논리적 흐름, 연결어 활용, 대명사 추적, 1:1 맞춤 독해 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "독해", "순서배열", "문장순서", "논리", "연결어", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
 ---

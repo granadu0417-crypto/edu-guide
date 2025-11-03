@@ -3,7 +3,7 @@ title: "분사구문 완벽 이해 | 1:1 문법 과외"
 date: 2025-01-29
 reading_time: "400줄"
 description: "영어 분사구문 완벽 정복 | V-ing/p.p. 구별, 접속사 생략, Being/Having been 용법, 1:1 맞춤 문법 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "문법", "분사구문", "participle", "Ving", "being", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
 ---

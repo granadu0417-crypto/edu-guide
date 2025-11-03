@@ -3,7 +3,7 @@ title: "영어 형용사·부사 완벽 정복 | 1:1 문법 과외"
 date: 2025-01-29
 reading_time: "420줄"
 description: "영어 형용사·부사 완벽 가이드 | 형용사 vs 부사 구별, 위치, -ly 변화, 1:1 맞춤 문법 지도 [2025년]"
-categories: ["과목"]
+categories: ["영어"]
 tags: ["영어", "문법", "형용사", "부사", "adjective", "adverb", "ly", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 ---

@@ -3,7 +3,7 @@ title: "수학 흔한 실수 방지 가이드 | 1:1 수학 실수 방지 과외"
 date: 2025-01-29
 reading_time: "330줄"
 description: "수학에서 흔한 실수 유형과 방지법 | 계산 실수, 개념 오해, 문제 오독, 1:1 맞춤 실수 방지 전략 [2025년]"
-categories: ["과목"]
+categories: ["수학"]
 tags: ["수학", "실수방지", "공부법", "계산실수", "주의사항", "1:1과외"]
 featured_image: "https://images.unsplash.com/photo-1554224311-beee415c201f?w=1200&h=630&fit=crop"
 ---
