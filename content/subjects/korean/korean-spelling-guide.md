@@ -1,11 +1,12 @@
 ---
 title: "국어 맞춤법 완벽 가이드 | 1:1 국어 문법 과외 [2025]"
 date: 2025-01-17
+reading_time: "400줄"
 description: "한글 맞춤법 총칙부터 세부 규정까지 체계적 학습법. 헷갈리기 쉬운 맞춤법을 1:1 과외로 완벽하게 익히세요."
 categories: ["국어"]
 tags: ["국어", "맞춤법", "문법", "1:1과외", "한글맞춤법", "띄어쓰기", "표준어", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
 ---
 
 # 맞춤법 완벽 가이드

@@ -1,11 +1,11 @@
 ---
 title: "영어 듣기 자료 활용법 | 1:1 듣기 과외"
 date: 2025-01-29
-reading_time: "350줄"
+reading_time: "538줄"
 description: "영어 듣기 자료 완벽 활용 | 무료 사이트, 앱 추천, 효과적 학습법, 1:1 맞춤 듣기 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "듣기", "자료", "앱", "사이트", "listening", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
 ---
 
 # 영어 듣기 자료 활용법

@@ -1,11 +1,12 @@
 ---
 title: "국어 높임법 완벽 정리 | 1:1 국어 문법 과외 [2025]"
 date: 2025-01-23
+reading_time: "400줄"
 description: "주체높임, 객체높임, 상대높임 체계적 학습법. 높임법 어휘와 문법을 1:1 과외로 완벽하게 마스터하세요."
 categories: ["국어"]
 tags: ["국어", "높임법", "문법", "1:1과외", "주체높임", "객체높임", "상대높임", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
 ---
 
 # 높임법 완벽 가이드

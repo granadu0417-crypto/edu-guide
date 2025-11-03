@@ -1,11 +1,11 @@
 ---
 title: "수학 그래프 그리기 완벽 가이드 | 1:1 그래프 과외"
 date: 2025-01-29
-reading_time: "300줄"
+reading_time: "534줄"
 description: "수학 그래프 완벽 그리기 | 함수 그래프, 개형 파악, 그리기 요령, 1:1 맞춤 그래프 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "그래프", "함수", "도형", "시각화", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
 ---
 
 # 수학 그래프 그리기 완벽 가이드

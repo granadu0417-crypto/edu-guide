@@ -1,11 +1,11 @@
 ---
 title: "수학 심화 팁 완벽 가이드 | 1:1 수학 심화 과외"
 date: 2025-01-29
-reading_time: "320줄"
+reading_time: "630줄"
 description: "수학 고수로 가는 심화 팁 | 고급 기법, 사고력 향상, 킬러 대비, 1:1 맞춤 심화 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "심화", "고급기법", "킬러", "사고력", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 ---
 
 # 수학 심화 팁 완벽 가이드

@@ -1,11 +1,11 @@
 ---
 title: "중3 수학 완벽 가이드 | 1:1 중등 수학 과외"
 date: 2025-01-29
-reading_time: "380줄"
+reading_time: "562줄"
 description: "중3 수학 완벽 정복 | 제곱근, 인수분해, 이차방정식, 이차함수, 삼각비, 1:1 맞춤 중3 수학 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "중3", "중등수학", "이차함수", "이차방정식", "제곱근", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
 ---
 
 # 중3 수학 완벽 가이드

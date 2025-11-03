@@ -1,11 +1,11 @@
 ---
 title: "관계대명사·관계부사 완벽 가이드 | 1:1 문법 과외"
 date: 2025-01-29
-reading_time: "480줄"
+reading_time: "476줄"
 description: "관계대명사·관계부사 완벽 정복 | who, which, that, where, when 구별법, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "관계대명사", "관계부사", "who", "which", "that", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop"
 ---
 
 # 관계대명사·관계부사 완벽 정복

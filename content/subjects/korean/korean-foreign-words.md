@@ -1,11 +1,12 @@
 ---
 title: "외래어 표기법 완벽 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-01-21
+reading_time: "400줄"
 description: "언어별 외래어 표기 규정과 실전 적용법. 영어, 일본어, 중국어 외래어를 1:1 과외로 정확히 표기하세요."
 categories: ["국어"]
 tags: ["국어", "외래어", "표기법", "1:1과외", "영어", "일본어", "중국어", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?w=1200&h=630&fit=crop"
 ---
 
 # 외래어 표기법 완벽 가이드

@@ -1,11 +1,11 @@
 ---
 title: "세계사 연표 정복 프리미엄 가이드 | 1:1 맞춤 암기법"
 date: 2025-01-28
-reading_time: "530줄"
+reading_time: "678줄"
 description: "세계사 연표 완벽 암기 핵심 전략 | 1:1 맞춤 지도, 시대별 핵심 사건 정리, 흐름 이해, 실전 암기법, 시험 대비 [2025년]"
 categories: ["사회"]
 tags: ["사회", "세계사", "연표", "역사", "암기", "시대", "흐름", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 ---
 
 # 세계사 연표 완벽 정복

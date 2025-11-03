@@ -1,11 +1,11 @@
 ---
 title: "영어 토론 완벽 가이드 | 1:1 토론 과외"
 date: 2025-01-29
-reading_time: "340줄"
+reading_time: "522줄"
 description: "영어 토론 완벽 정복 | 논리 전개, 반박 기술, 필수 표현, 1:1 맞춤 토론 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "토론", "debate", "논리", "반박", "speaking", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1581093458791-9d42e15ddd8e?w=1200&h=630&fit=crop"
 ---
 
 # 영어 토론 완벽 가이드

@@ -1,11 +1,12 @@
 ---
 title: "수학 학습 사이트 추천 및 활용법 | 1:1 과외와 함께하는 온라인 학습 [2025]"
 date: 2025-01-15
+reading_time: "716줄"
 description: "효과적인 수학 학습을 위한 온라인 사이트를 소개합니다. 무료부터 유료까지, 각 사이트의 특징과 활용법을 1:1 과외 전문가가 알려드립니다."
 categories: ["수학"]
 tags: ["수학사이트", "온라인학습", "인강", "1:1과외", "학습자료", "수학공부", "무료강의", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
 ---
 
 # 수학 학습 사이트 추천 및 활용법

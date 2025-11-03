@@ -1,11 +1,12 @@
 ---
 title: "국어 고전소설 완벽 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-02-05
+reading_time: "427줄"
 description: "고전소설 유형과 특징 분석를 체계적으로 학습하는 방법. 1:1 과외로 고전소설을 완벽하게 마스터하세요."
 categories: ["국어"]
 tags: ["국어", "고전소설", "고전소설, 영웅소설, 판소리계소설", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---
 
 # 국어 고전소설 완벽 가이드

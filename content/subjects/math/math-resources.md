@@ -1,11 +1,12 @@
 ---
 title: "수학 학습 자료 총정리 완벽 가이드 | 1:1 과외 추천 교재 [2025]"
 date: 2025-01-15
+reading_time: "552줄"
 description: "수학 학습에 필요한 모든 자료를 총정리했습니다. 교재부터 온라인 자료까지, 1:1 과외 전문가가 추천하는 최고의 수학 학습 자료입니다."
 categories: ["수학"]
 tags: ["수학교재", "학습자료", "추천교재", "1:1과외", "온라인강의", "수학앱", "참고서", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 ---
 
 # 수학 학습 자료 총정리 완벽 가이드

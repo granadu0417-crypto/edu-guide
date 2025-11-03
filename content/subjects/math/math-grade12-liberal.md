@@ -1,11 +1,11 @@
 ---
 title: "고3 문과 수학 완벽 가이드 | 1:1 고등 수학 과외"
 date: 2025-01-29
-reading_time: "400줄"
+reading_time: "606줄"
 description: "고3 문과 수학 완벽 정복 | 수능 수학 대비, 수학 I 총정리, 확률과 통계 완성, 1:1 맞춤 고3 문과 수학 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "고3", "문과수학", "수능수학", "수학1", "확률과통계", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=1200&h=630&fit=crop"
 ---
 
 # 고3 문과 수학 완벽 가이드

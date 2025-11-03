@@ -1,11 +1,11 @@
 ---
 title: "국어 소설분석 과외 | 인물·사건·주제 완벽 파악"
 date: 2025-01-28
-reading_time: "510줄"
+reading_time: "628줄"
 description: "국어 소설분석 과외로 인물 성격, 사건 구조, 배경의 의미, 시점, 주제를 체계적으로 학습. 문학 작품 깊이 있는 이해"
 categories: ["국어"]
 tags: ["국어소설분석과외", "소설분석", "문학", "인물분석", "주제파악", "국어과외", "내신문학"]
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop"
 ---
 
 **"소설을 어떻게 분석하나요?"** 체계적 방법으로 누구나 잘 읽을 수 있습니다.

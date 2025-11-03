@@ -1,11 +1,11 @@
 ---
 title: "수학 학습 앱 활용 가이드 | 1:1 앱 활용 과외"
 date: 2025-01-29
-reading_time: "300줄"
+reading_time: "360줄"
 description: "수학 학습 앱 완벽 활용법 | 추천 앱, 기능별 활용, 효과적 사용, 1:1 맞춤 앱 가이드 [2025년]"
 categories: ["수학"]
 tags: ["수학", "앱", "학습앱", "모바일", "디지털학습", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 # 수학 학습 앱 활용 가이드

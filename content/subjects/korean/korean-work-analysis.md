@@ -1,11 +1,12 @@
 ---
 title: "국어 작품론 완벽 가이드 | 1:1 국어 문학 과외 [2025]"
 date: 2025-02-01
+reading_time: "392줄"
 description: "대표 작품 심층 분석를 체계적으로 학습하는 방법. 1:1 과외로 작품론을 깊이 있게 이해하세요."
 categories: ["국어"]
 tags: ["국어", "작품론", "문학", "1:1과외", "작품분석, 주제, 구성, 표현", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
 ---
 
 # 국어 작품론 완벽 가이드

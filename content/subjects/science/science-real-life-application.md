@@ -1,11 +1,11 @@
 ---
 title: "과학 실생활응용 과외 | 일상 속 과학원리 완벽 이해"
 date: 2025-01-28
-reading_time: "510줄"
+reading_time: "634줄"
 description: "과학 실생활응용 과외로 일상 속 과학 원리를 발견하고 창의적으로 활용. 융합 사고력과 문제 해결 능력 향상"
 categories: ["과학"]
 tags: ["과학실생활과외", "과학응용", "융합과학", "생활과학", "과학과외", "창의적사고", "문제해결"]
-featured_image: "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
 ---
 
 **"과학이 어디에 쓰이나요?"** 과학은 우리 생활 곳곳에 숨어있습니다!

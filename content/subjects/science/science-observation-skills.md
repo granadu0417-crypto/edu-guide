@@ -1,11 +1,11 @@
 ---
 title: "과학 관찰력 과외 | 실험·탐구·기록 능력 완벽 향상"
 date: 2025-01-28
-reading_time: "490줄"
+reading_time: "752줄"
 description: "과학 관찰력 과외로 정밀한 관찰, 체계적 기록, 분석 능력을 키우는 방법. 실험 탐구 능력 향상과 과학적 사고력 완성"
 categories: ["과학"]
 tags: ["과학관찰과외", "관찰력향상", "과학실험", "탐구능력", "과학과외", "실험기록", "과학적사고"]
-featured_image: "https://images.unsplash.com/photo-1530587191325-3db32d826c18?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 **"과학은 관찰에서 시작됩니다!"** 정밀한 관찰 능력이 과학의 기초입니다.

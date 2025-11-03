@@ -1,11 +1,12 @@
 ---
 title: "수학 1:1 과외 완벽 활용 가이드 | 효과적인 학습 전략 [2025]"
 date: 2025-01-15
+reading_time: "717줄"
 description: "수학 1:1 과외를 효과적으로 활용하는 방법을 소개합니다. 과외 선택부터 최대 효과 내는 법까지, 전문가가 알려드리는 완벽 가이드입니다."
 categories: ["수학"]
 tags: ["수학과외", "1:1과외", "과외선택", "학습전략", "성적향상", "개인맞춤", "효과적학습", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 ---
 
 # 수학 1:1 과외 완벽 활용 가이드

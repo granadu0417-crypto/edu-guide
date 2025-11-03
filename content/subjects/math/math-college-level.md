@@ -1,11 +1,12 @@
 ---
 title: "대학 수학 미리보기 완벽 가이드 | 1:1 과외로 선행 준비 [2025]"
 date: 2025-01-15
+reading_time: "618줄"
 description: "대학 수학의 세계를 미리 경험하는 방법을 소개합니다. 미적분학, 선형대수, 통계학 등 대학 수학 준비를 1:1 과외 전문가가 알려드립니다."
 categories: ["수학"]
 tags: ["대학수학", "미적분학", "선형대수", "1:1과외", "대학준비", "이공계", "전공수학", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop"
 ---
 
 # 대학 수학 미리보기 완벽 가이드

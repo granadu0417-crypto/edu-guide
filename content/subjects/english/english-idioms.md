@@ -1,11 +1,11 @@
 ---
 title: "영어 이디엄·숙어 완벽 정리 | 1:1 영어 과외"
 date: 2025-01-29
-reading_time: "410줄"
+reading_time: "650줄"
 description: "영어 이디엄·숙어 완벽 정복 | 수능 빈출 관용 표현, 비유적 의미, 1:1 맞춤 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "어휘", "이디엄", "숙어", "idiom", "관용표현", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
 ---
 
 # 영어 이디엄·숙어 완벽 정리

@@ -1,11 +1,12 @@
 ---
 title: "국어 향가 완벽 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-02-12
+reading_time: "427줄"
 description: "25수 향가 작품 분석를 체계적으로 학습하는 방법. 1:1 과외로 향가을 완벽하게 마스터하세요."
 categories: ["국어"]
 tags: ["국어", "향가", "향가, 신라가요, 불교", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
 ---
 
 # 국어 향가 완벽 가이드

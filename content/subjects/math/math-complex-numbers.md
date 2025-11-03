@@ -1,11 +1,11 @@
 ---
 title: "수학 복소수 완벽 정복 가이드 | 1:1 복소수 과외"
 date: 2025-01-29
-reading_time: "370줄"
+reading_time: "568줄"
 description: "수학 복소수 완벽 정복 | 허수, 복소평면, 극형식, 드무아브르, 1:1 맞춤 복소수 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "복소수", "허수", "복소평면", "수학1", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 ---
 
 # 수학 복소수 완벽 정복 가이드

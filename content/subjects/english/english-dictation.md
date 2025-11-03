@@ -1,11 +1,11 @@
 ---
 title: "영어 딕테이션 완벽 마스터 | 1:1 듣기 과외"
 date: 2025-01-29
-reading_time: "380줄"
+reading_time: "583줄"
 description: "영어 딕테이션 완벽 정복 | 받아쓰기 훈련법, 단계별 학습, 1:1 맞춤 듣기 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "딕테이션", "받아쓰기", "dictation", "듣기", "listening", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=1200&h=630&fit=crop"
 ---
 
 # 영어 딕테이션 완벽 마스터

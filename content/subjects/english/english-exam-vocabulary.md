@@ -1,11 +1,11 @@
 ---
 title: "수능 영어 어휘 완벽 대비 | 1:1 어휘 과외"
 date: 2025-01-29
-reading_time: "400줄"
+reading_time: "590줄"
 description: "수능 영어 어휘 완벽 정복 | 필수 단어, 암기 전략, 실전 적용, 1:1 맞춤 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "어휘", "수능", "시험", "단어", "vocabulary", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 # 수능 영어 어휘 완벽 대비

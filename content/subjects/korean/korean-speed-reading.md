@@ -1,11 +1,12 @@
 ---
 title: "국어 속독법 완벽 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-02-16
+reading_time: "427줄"
 description: "빠르고 정확한 읽기 기술를 체계적으로 학습하는 방법. 1:1 과외로 속독법을 완벽하게 마스터하세요."
 categories: ["국어"]
 tags: ["국어", "속독법", "속독, 스피드리딩, 읽기속도", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
 ---
 
 # 국어 속독법 완벽 가이드

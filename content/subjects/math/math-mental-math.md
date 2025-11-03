@@ -1,11 +1,11 @@
 ---
 title: "수학 암산 기술 완벽 가이드 | 1:1 암산 훈련 과외"
 date: 2025-01-29
-reading_time: "310줄"
+reading_time: "542줄"
 description: "효과적인 암산 기술과 훈련법 | 빠른 계산, 암산 요령, 어림 계산, 1:1 맞춤 암산 훈련 [2025년]"
 categories: ["수학"]
 tags: ["수학", "암산", "계산", "빠른계산", "어림", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
 ---
 
 # 수학 암산 기술 완벽 가이드

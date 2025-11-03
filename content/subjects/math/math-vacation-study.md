@@ -1,11 +1,11 @@
 ---
 title: "방학 수학 학습 완벽 가이드 | 1:1 방학 수학 과외"
 date: 2025-01-29
-reading_time: "310줄"
+reading_time: "513줄"
 description: "효과적인 방학 수학 학습 전략 | 여름·겨울방학 계획, 집중 학습, 선행·복습, 1:1 맞춤 방학 수학 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "방학", "여름방학", "겨울방학", "집중학습", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1471970471555-19d4b113e9ed?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
 ---
 
 # 방학 수학 학습 완벽 가이드

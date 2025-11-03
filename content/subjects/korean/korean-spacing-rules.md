@@ -1,11 +1,12 @@
 ---
 title: "국어 띄어쓰기 정복 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-01-18
+reading_time: "400줄"
 description: "띄어쓰기 원칙과 예외 규정 완벽 정리. 의존명사, 단위명사, 보조용언 띄어쓰기를 1:1 과외로 마스터하세요."
 categories: ["국어"]
 tags: ["국어", "띄어쓰기", "문법", "1:1과외", "의존명사", "보조용언", "단위명사", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop"
 ---
 
 # 띄어쓰기 완벽 가이드

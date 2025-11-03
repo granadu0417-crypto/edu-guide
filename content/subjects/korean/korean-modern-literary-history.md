@@ -1,11 +1,12 @@
 ---
 title: "국어 현대문학사 완벽 가이드 | 1:1 국어 문학 과외 [2025]"
 date: 2025-01-30
+reading_time: "392줄"
 description: "한국 현대문학 흐름과 시대별 특징를 체계적으로 학습하는 방법. 1:1 과외로 현대문학사을 깊이 있게 이해하세요."
 categories: ["국어"]
 tags: ["국어", "현대문학사", "문학", "1:1과외", "문학사, 시대구분, 문학운동", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 # 국어 현대문학사 완벽 가이드

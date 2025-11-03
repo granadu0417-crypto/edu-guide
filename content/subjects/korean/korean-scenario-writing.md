@@ -1,11 +1,12 @@
 ---
 title: "국어 시나리오 완벽 가이드 | 1:1 국어 문학 과외 [2025]"
 date: 2025-01-29
+reading_time: "392줄"
 description: "시나리오 구성과 영상화를 체계적으로 학습하는 방법. 1:1 과외로 시나리오을 깊이 있게 이해하세요."
 categories: ["국어"]
 tags: ["국어", "시나리오", "문학", "1:1과외", "시나리오, 영화, 드라마, 각본", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 # 국어 시나리오 완벽 가이드

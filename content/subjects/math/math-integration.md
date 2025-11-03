@@ -1,11 +1,11 @@
 ---
 title: "수학 적분 완벽 정복 가이드 | 1:1 적분 과외"
 date: 2025-01-29
-reading_time: "420줄"
+reading_time: "544줄"
 description: "수학 적분 완벽 정복 | 부정적분, 정적분, 적분의 활용, 1:1 맞춤 적분 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "적분", "정적분", "부정적분", "미적분", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=1200&h=630&fit=crop"
 ---
 
 # 수학 적분 완벽 정복 가이드

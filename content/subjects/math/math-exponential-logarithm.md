@@ -1,11 +1,11 @@
 ---
 title: "수학 지수와 로그 완벽 정복 가이드 | 1:1 지수로그 과외"
 date: 2025-01-29
-reading_time: "400줄"
+reading_time: "541줄"
 description: "수학 지수와 로그 완벽 정복 | 지수법칙, 로그법칙, 지수함수, 로그함수, 1:1 맞춤 지수로그 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "지수", "로그", "지수함수", "로그함수", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
 ---
 
 # 수학 지수와 로그 완벽 정복 가이드

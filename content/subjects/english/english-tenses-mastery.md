@@ -1,11 +1,11 @@
 ---
 title: "영어 시제 완벽 정복 | 1:1 문법 과외 가이드"
 date: 2025-01-29
-reading_time: "520줄"
+reading_time: "573줄"
 description: "영어 시제 완벽 정복 | 12시제 체계적 정리, 1:1 맞춤 문법 지도, 실전 예문, 시험 대비 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "시제", "tense", "현재완료", "과거완료", "미래시제", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 
 # 영어 시제 완벽 정복

@@ -1,11 +1,12 @@
 ---
 title: "재수생 수학 학습 전략 완벽 가이드 | 1:1 과외로 재도전 성공 [2025]"
 date: 2025-01-15
+reading_time: "771줄"
 description: "재수생을 위한 효과적인 수학 학습 전략을 소개합니다. 1년 만에 목표 달성하는 체계적인 계획과 멘탈 관리까지, 1:1 과외 전문가가 알려드립니다."
 categories: ["수학"]
 tags: ["재수생", "수학학습법", "수능준비", "1:1과외", "성적향상", "재도전", "입시", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
 ---
 
 # 재수생 수학 학습 전략 완벽 가이드

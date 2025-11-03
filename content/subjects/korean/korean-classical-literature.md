@@ -1,11 +1,11 @@
 ---
 title: "국어 고전문학 과외 | 고전소설·시가 완벽 마스터"
 date: 2025-01-28
-reading_time: "480줄"
+reading_time: "511줄"
 description: "국어 고전문학 과외로 고전소설, 시가, 수필 완벽 정복. 수능 국어 고득점을 위한 체계적 학습법"
 categories: ["국어"]
 tags: ["고전문학과외", "국어과외", "고전소설", "시조", "가사", "수능국어", "고전문학학습"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
 ---
 
 **"고전문학이 어렵고 지루하다"** 많은 학생들의 고민입니다.

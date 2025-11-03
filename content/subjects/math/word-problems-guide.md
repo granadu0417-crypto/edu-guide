@@ -1,11 +1,11 @@
 ---
 title: "수학 문장제 정복 추천 방법 | 초등~고등"
 date: 2025-01-24
-reading_time: "610줄"
+reading_time: "704줄"
 description: "수학 문장제를 쉽게 푸는 방법과 실전 팁을 학년별로 정리했습니다. 유형별 풀이 전략, 실전 예시, 흔한 실수 해결법 포함."
 categories: ["수학", "학습법"]
 tags: ["수학", "문장제", "문제풀이", "공부법"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---
 
 # 수학 문장제 정복하기

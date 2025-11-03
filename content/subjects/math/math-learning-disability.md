@@ -1,11 +1,12 @@
 ---
 title: "수학 학습장애 극복 완벽 가이드 | 1:1 과외로 희망 찾기 [2025]"
 date: 2025-01-15
+reading_time: "599줄"
 description: "난산증, 수포자를 위한 맞춤 학습 전략을 소개합니다. 수학 학습장애를 극복하고 자신감을 되찾는 방법을 1:1 과외 전문가가 알려드립니다."
 categories: ["수학"]
 tags: ["학습장애", "난산증", "수포자", "1:1과외", "맞춤학습", "자신감회복", "특수교육", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 # 수학 학습장애 극복 완벽 가이드

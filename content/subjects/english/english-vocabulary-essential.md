@@ -1,11 +1,11 @@
 ---
 title: "수능 필수 어휘 3000 완벽 암기 | 1:1 영어 과외"
 date: 2025-01-29
-reading_time: "480줄"
+reading_time: "590줄"
 description: "수능 필수 어휘 3000 완벽 정복 | 빈출 단어, 효율적 암기법, 1:1 맞춤 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "어휘", "수능", "단어", "암기", "vocabulary", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
 ---
 
 # 수능 필수 어휘 3000 완벽 암기

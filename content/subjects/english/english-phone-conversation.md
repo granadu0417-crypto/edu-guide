@@ -1,11 +1,11 @@
 ---
 title: "영어 전화 통화 완벽 가이드 | 1:1 회화 과외"
 date: 2025-01-29
-reading_time: "330줄"
+reading_time: "525줄"
 description: "영어 전화 통화 완벽 정복 | 전화 표현, 상황별 대화, 실전 팁, 1:1 맞춤 회화 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "전화", "통화", "phone", "conversation", "speaking", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 ---
 
 # 영어 전화 통화 완벽 가이드

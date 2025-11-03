@@ -1,11 +1,11 @@
 ---
 title: "수학 시간 관리 완벽 가이드 | 1:1 수학 시간 관리 과외"
 date: 2025-01-29
-reading_time: "340줄"
+reading_time: "678줄"
 description: "효과적인 수학 시간 관리 전략 | 공부 시간 배분, 시험 시간 전략, 집중력 관리, 1:1 맞춤 시간 관리 [2025년]"
 categories: ["수학"]
 tags: ["수학", "시간관리", "공부법", "집중력", "효율", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
 ---
 
 # 수학 시간 관리 완벽 가이드

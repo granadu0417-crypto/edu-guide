@@ -1,11 +1,11 @@
 ---
 title: "영어 시험·자격증 완벽 가이드 | 1:1 시험 대비 과외"
 date: 2025-01-29
-reading_time: "350줄"
+reading_time: "598줄"
 description: "영어 시험·자격증 완벽 정복 | TOEIC, TOEFL, IELTS, TEPS 완벽 대비, 1:1 맞춤 시험 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "시험", "자격증", "TOEIC", "TOEFL", "IELTS", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
 ---
 
 # 영어 시험·자격증 완벽 가이드

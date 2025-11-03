@@ -1,11 +1,12 @@
 ---
 title: "수학 관련 진로 탐색 완벽 가이드 | 1:1 과외로 미래 설계 [2025]"
 date: 2025-01-15
+reading_time: "610줄"
 description: "수학을 활용하는 다양한 진로와 직업을 소개합니다. 진로 선택부터 준비 과정까지, 1:1 과외 전문가가 알려드리는 수학 진로 로드맵입니다."
 categories: ["수학"]
 tags: ["수학진로", "직업탐색", "진로설계", "1:1과외", "이공계", "수학전공", "미래직업", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop"
 ---
 
 # 수학 관련 진로 탐색 완벽 가이드

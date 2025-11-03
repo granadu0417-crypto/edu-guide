@@ -1,11 +1,12 @@
 ---
 title: "표준어 규정 완벽 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-01-20
+reading_time: "400줄"
 description: "표준 발음법과 표준어 사정 원칙 체계적 학습. 복수 표준어, 방언, 준말을 1:1 과외로 정확히 익히세요."
 categories: ["국어"]
 tags: ["국어", "표준어", "문법", "1:1과외", "발음법", "방언", "복수표준어", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 ---
 
 # 표준어 완벽 가이드

@@ -1,11 +1,11 @@
 ---
 title: "영어 사회 주제 어휘 완벽 정리 | 1:1 영어 과외"
 date: 2025-01-29
-reading_time: "430줄"
+reading_time: "757줄"
 description: "영어 사회 주제 어휘 완벽 정복 | 정치·경제·문화·교육 필수 어휘, 1:1 맞춤 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "어휘", "사회", "social vocabulary", "수능", "독해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
 ---
 
 # 영어 사회 주제 어휘 완벽 정리

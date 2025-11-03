@@ -1,11 +1,11 @@
 ---
 title: "수학 벡터 완벽 정복 가이드 | 1:1 벡터 과외"
 date: 2025-01-29
-reading_time: "390줄"
+reading_time: "563줄"
 description: "수학 벡터 완벽 정복 | 벡터의 연산, 내적, 외적, 공간벡터, 1:1 맞춤 벡터 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "벡터", "내적", "기하", "공간도형", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 ---
 
 # 수학 벡터 완벽 정복 가이드

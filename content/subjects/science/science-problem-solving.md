@@ -1,11 +1,11 @@
 ---
 title: "과학 탐구 과외 | 실험분석·그래프해석·문제해결 완벽 정복"
 date: 2025-01-28
-reading_time: "600줄"
+reading_time: "523줄"
 description: "과학 탐구 과외로 실험 분석, 그래프 해석, 문제 해결까지 완벽 정복 | 1:1 맞춤 훈련 [2025년]"
 categories: ["과학"]
 tags: ["과학과외", "탐구", "문제해결", "실험분석", "그래프해석", "변인통제", "실전전략", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
 ---
 
 # 과학 탐구 문제 완벽 정복하기

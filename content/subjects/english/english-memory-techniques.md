@@ -1,11 +1,11 @@
 ---
 title: "영어 효율적 암기법 완벽 가이드 | 1:1 암기 전략 과외"
 date: 2025-01-29
-reading_time: "380줄"
+reading_time: "711줄"
 description: "영어 효율적 암기법 완벽 정복 | 과학적 암기, 장기 기억, 복습 전략, 1:1 맞춤 암기 전략 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "암기법", "기억법", "복습", "memory", "학습법", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1531498860502-7c67cf02f657?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
 ---
 
 # 영어 효율적 암기법 완벽 가이드

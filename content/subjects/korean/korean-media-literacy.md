@@ -1,11 +1,11 @@
 ---
 title: "국어 미디어 리터러시 과외 | 뉴스·광고 비판적 읽기"
 date: 2025-01-28
-reading_time: "450줄"
+reading_time: "464줄"
 description: "국어 미디어 리터러시 과외로 뉴스, 광고, SNS를 비판적으로 분석하는 능력 향상. 수능 국어 독서 영역 대비"
 categories: ["국어"]
 tags: ["미디어리터러시", "국어과외", "비판적사고", "뉴스분석", "광고분석", "수능국어독서"]
-featured_image: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop"
 ---
 
 **"가짜뉴스를 어떻게 구별하나?"** 현대인의 필수 능력입니다.

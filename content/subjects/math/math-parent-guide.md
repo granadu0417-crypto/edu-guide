@@ -1,11 +1,12 @@
 ---
 title: "학부모를 위한 수학 지도 완벽 가이드 | 1:1 과외 활용법 [2025]"
 date: 2025-01-15
+reading_time: "545줄"
 description: "자녀의 수학 학습을 효과적으로 돕는 방법을 소개합니다. 학부모가 알아야 할 모든 것과 1:1 과외 활용 전략을 알려드립니다."
 categories: ["수학"]
 tags: ["학부모가이드", "수학교육", "자녀지도", "1:1과외", "학습관리", "부모역할", "교육정보", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
 ---
 
 # 학부모를 위한 수학 지도 완벽 가이드

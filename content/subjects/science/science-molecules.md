@@ -1,11 +1,12 @@
 ---
 title: "과학 분자 완벽 가이드 | 1:1 과학 과외 [2025]"
 date: 2025-03-30
+reading_time: "485줄"
 description: "분자 구조와 극성를 체계적으로 학습하는 방법. 1:1 과외로 분자을 완벽하게 이해하세요."
 categories: ["과학"]
 tags: ["과학", "분자", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 ---
 
 # 과학 분자 완벽 가이드

@@ -1,11 +1,12 @@
 ---
 title: "국어 논술 완벽 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-02-24
+reading_time: "427줄"
 description: "논리적 글쓰기와 논증를 체계적으로 학습하는 방법. 1:1 과외로 논술을 완벽하게 마스터하세요."
 categories: ["국어"]
 tags: ["국어", "논술", "논술, 논리, 논증, 주장", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
 ---
 
 # 국어 논술 완벽 가이드

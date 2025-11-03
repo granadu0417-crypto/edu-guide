@@ -1,11 +1,11 @@
 ---
 title: "영어 문법 오류 교정 가이드 | 1:1 작문 과외"
 date: 2025-01-29
-reading_time: "340줄"
+reading_time: "613줄"
 description: "영어 문법 오류 교정 완벽 정복 | 흔한 실수, 교정 방법, 첨삭 팁, 1:1 맞춤 작문 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "교정", "첨삭", "grammar", "오류", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1
+featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b7?w=1200&h=630&fit=crop"
 
 455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---

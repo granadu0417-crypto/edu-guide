@@ -1,11 +1,11 @@
 ---
 title: "영어 수동태 완벽 정복 | 1:1 문법 과외"
 date: 2025-01-29
-reading_time: "420줄"
+reading_time: "392줄"
 description: "영어 수동태 완벽 가이드 | be p.p. 형태, 능동태 전환, by 생략, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "수동태", "passive", "능동태", "by", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---
 
 # 영어 수동태 완벽 정복

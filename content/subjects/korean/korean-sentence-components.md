@@ -1,11 +1,12 @@
 ---
 title: "국어 문장 성분 완벽 분석 | 1:1 국어 문법 과외 [2025]"
 date: 2025-01-16
+reading_time: "609줄"
 description: "주어, 서술어, 목적어, 보어, 관형어, 부사어까지 문장 성분 체계적 학습법. 1:1 과외로 문장 구조 분석 능력을 키우세요."
 categories: ["국어"]
 tags: ["국어", "문장성분", "문법", "1:1과외", "주어", "서술어", "목적어", "보어", "관형어", "부사어", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
 ---
 
 # 국어 문장 성분 완벽 분석

@@ -1,11 +1,12 @@
 ---
 title: "과학 호르몬 완벽 가이드 | 1:1 과학 과외 [2025]"
 date: 2025-04-22
+reading_time: "485줄"
 description: "내분비계와 호르몬 조절를 체계적으로 학습하는 방법. 1:1 과외로 호르몬을 완벽하게 이해하세요."
 categories: ["과학"]
 tags: ["과학", "호르몬", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop"
 ---
 
 # 과학 호르몬 완벽 가이드

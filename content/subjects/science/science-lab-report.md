@@ -1,11 +1,11 @@
 ---
 title: "과학 실험보고서 과외 | 작성법·분석법 완벽 마스터"
 date: 2025-01-28
-reading_time: "618줄"
+reading_time: "717줄"
 description: "과학 실험보고서 과외로 실험 설계, 데이터 분석, 결론 도출, 고찰 작성법을 체계적으로 학습"
 categories: ["과학"]
 tags: ["과학실험보고서과외", "실험보고서", "실험설계", "과학과외", "탐구보고서", "데이터분석", "과학탐구"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
 ---
 
 **"실험 보고서 어떻게 써야 하나요?"** 체계적 방법으로 완벽한 보고서 작성이 가능합니다.

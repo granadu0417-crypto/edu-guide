@@ -1,11 +1,12 @@
 ---
 title: "국어 문법 실전 문제 풀이 | 1:1 국어 과외 [2025]"
 date: 2025-01-24
+reading_time: "400줄"
 description: "수능, 내신 대비 문법 기출 문제 완벽 분석. 품사, 문장성분, 어법 문제를 1:1 과외로 집중 훈련하세요."
 categories: ["국어"]
 tags: ["국어", "문법", "문제풀이", "1:1과외", "수능", "내신", "기출문제", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---
 
 # 문법 실전 문제 완벽 가이드

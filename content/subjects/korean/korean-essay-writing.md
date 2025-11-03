@@ -1,11 +1,11 @@
 ---
 title: "국어 논술 과외 | 논리구성·표현력·첨삭 완벽 가이드"
 date: 2025-01-28
-reading_time: "615줄"
+reading_time: "580줄"
 description: "국어 논술 과외로 논리 구성, 표현력, 체계적 첨삭까지 완벽 마스터 | 1:1 맞춤 지도 [2025년]"
 categories: ["국어"]
 tags: ["국어과외", "논술과외", "글쓰기", "작문", "첨삭", "논리구성", "표현력", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
 ---
 
 # 국어 논술 완벽 마스터하기

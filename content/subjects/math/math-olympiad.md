@@ -1,11 +1,12 @@
 ---
 title: "수학 올림피아드 대회 완벽 준비 가이드 | 1:1 과외로 수상 도전 [2025]"
 date: 2025-01-15
+reading_time: "741줄"
 description: "수학 올림피아드 및 경시대회를 효과적으로 준비하는 방법을 소개합니다. 대회 정보부터 학습 전략까지, 1:1 과외 전문가가 알려드립니다."
 categories: ["수학"]
 tags: ["올림피아드", "경시대회", "수학대회", "1:1과외", "영재교육", "심화학습", "문제해결력", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 # 수학 올림피아드 대회 완벽 준비 가이드

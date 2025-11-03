@@ -1,11 +1,11 @@
 ---
 title: "국어 독해력 과외 | 문단분석·주제파악 완벽 훈련"
 date: 2025-01-28
-reading_time: "610줄"
+reading_time: "734줄"
 description: "국어 독해력 과외로 문장·문단·글 전체 이해, 비문학·문학 독해, 비판적 사고력까지 체계적 향상"
 categories: ["국어"]
 tags: ["국어독해과외", "독해력", "비문학독해", "문단분석", "국어과외", "주제파악", "수능국어"]
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 **"글을 읽어도 무슨 말인지 모르겠어요!"** 체계적 훈련으로 독해력을 완벽히 향상시킬 수 있습니다.

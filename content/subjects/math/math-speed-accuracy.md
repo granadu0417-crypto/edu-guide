@@ -1,11 +1,11 @@
 ---
 title: "수학 과외 | 계산 속도·정확성 완벽 훈련 - 암산·실수 제로"
 date: 2025-01-28
-reading_time: "600줄"
+reading_time: "1076줄"
 description: "수학 과외로 계산 속도·정확성 완벽 정복 | 암산 능력·빠른 계산법·실수 제로 훈련·1:1 맞춤 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학과외", "계산속도", "정확성", "암산", "연산", "실수방지", "1:1과외", "속도향상"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---
 
 # 수학 과외로 계산 속도와 정확성 완벽 정복

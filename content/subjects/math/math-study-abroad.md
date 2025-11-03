@@ -1,11 +1,12 @@
 ---
 title: "해외 수학 교육과정 완벽 가이드 | 1:1 과외로 글로벌 준비 [2025]"
 date: 2025-01-15
+reading_time: "479줄"
 description: "미국, 영국, IB 등 해외 수학 교육과정을 소개합니다. 유학 준비부터 국제 수학 시험까지, 1:1 과외 전문가가 알려드립니다."
 categories: ["수학"]
 tags: ["해외수학", "유학준비", "IB수학", "AP수학", "1:1과외", "국제학교", "SAT", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 ---
 
 # 해외 수학 교육과정 완벽 가이드

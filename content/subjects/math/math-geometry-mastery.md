@@ -1,11 +1,11 @@
 ---
 title: "수학 기하 과외 | 도형·벡터·공간도형 완벽 마스터"
 date: 2025-01-28
-reading_time: "520줄"
+reading_time: "646줄"
 description: "수학 기하 과외로 평면도형, 입체도형, 벡터, 좌표계를 체계적으로 학습. 도형의 성질부터 공간지각력까지 완벽 정복"
 categories: ["수학"]
 tags: ["수학기하과외", "기하학", "도형", "벡터", "공간도형", "수학과외", "수능기하"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 ---
 
 **"기하가 어려워요!"** 하지만 기하는 **보이는 수학**입니다.

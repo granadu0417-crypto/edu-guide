@@ -1,11 +1,11 @@
 ---
 title: "사회 지리 과외 | 지형·기후·인구·산업 완벽 탐구"
 date: 2025-01-28
-reading_time: "605줄"
+reading_time: "581줄"
 description: "사회 지리 과외로 지형, 기후, 인구, 산업까지 완벽 이해 | 체계적 학습 [2025년]"
 categories: ["사회"]
 tags: ["사회과외", "지리과외", "지형", "기후", "인구", "산업", "지도읽기", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 ---
 
 # 사회 지리 완벽 탐구하기

@@ -1,11 +1,12 @@
 ---
 title: "수학 대회 총정리 완벽 가이드 | 1:1 과외로 수상 도전 [2025]"
 date: 2025-01-15
+reading_time: "543줄"
 description: "국내외 주요 수학 대회를 총정리했습니다. 대회 정보부터 준비 전략까지, 1:1 과외 전문가가 알려드리는 수학 대회 완벽 가이드입니다."
 categories: ["수학"]
 tags: ["수학대회", "경시대회", "올림피아드", "1:1과외", "수상전략", "대회정보", "입시스펙", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
 ---
 
 # 수학 대회 총정리 완벽 가이드

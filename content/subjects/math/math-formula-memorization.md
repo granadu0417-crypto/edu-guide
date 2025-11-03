@@ -1,11 +1,11 @@
 ---
 title: "수학 공식 암기 완벽 가이드 | 1:1 수학 공식 암기 과외"
 date: 2025-01-29
-reading_time: "300줄"
+reading_time: "514줄"
 description: "효과적인 수학 공식 암기 전략 | 이해 후 암기, 암기 요령, 복습 주기, 1:1 맞춤 공식 암기 [2025년]"
 categories: ["수학"]
 tags: ["수학", "공식암기", "공부법", "암기", "기억", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---
 
 # 수학 공식 암기 완벽 가이드

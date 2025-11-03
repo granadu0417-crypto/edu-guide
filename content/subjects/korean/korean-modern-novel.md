@@ -1,11 +1,12 @@
 ---
 title: "국어 현대소설 완벽 가이드 | 1:1 국어 문학 과외 [2025]"
 date: 2025-01-26
+reading_time: "392줄"
 description: "현대소설 분석과 서사 구조를 체계적으로 학습하는 방법. 1:1 과외로 현대소설을 깊이 있게 이해하세요."
 categories: ["국어"]
 tags: ["국어", "현대소설", "문학", "1:1과외", "소설분석, 서사구조, 인물, 배경", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
 ---
 
 # 국어 현대소설 완벽 가이드

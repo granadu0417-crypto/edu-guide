@@ -1,11 +1,12 @@
 ---
 title: "영재교육원 수학 완벽 준비 가이드 | 1:1 과외로 합격 도전 [2025]"
 date: 2025-01-15
+reading_time: "451줄"
 description: "영재교육원 수학 프로그램 준비부터 합격까지, 1:1 과외 전문가가 알려드리는 완벽 가이드입니다. 선발 과정과 학습 전략을 상세히 소개합니다."
 categories: ["수학"]
 tags: ["영재교육원", "영재교육", "수학영재", "1:1과외", "창의수학", "심화학습", "입학준비", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?q=80&w=2070"
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---
 
 # 영재교육원 수학 완벽 준비 가이드

@@ -1,11 +1,12 @@
 ---
 title: "국어 요지 파악 완벽 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-02-19
+reading_time: "427줄"
 description: "중심 내용 빠르게 찾기를 체계적으로 학습하는 방법. 1:1 과외로 요지 파악을 완벽하게 마스터하세요."
 categories: ["국어"]
 tags: ["국어", "요지 파악", "요지, 중심내용, 주제파악", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 ---
 
 # 국어 요지 파악 완벽 가이드

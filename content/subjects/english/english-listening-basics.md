@@ -1,11 +1,11 @@
 ---
 title: "영어 듣기 기초 완벽 가이드 | 1:1 듣기 과외"
 date: 2025-01-29
-reading_time: "450줄"
+reading_time: "625줄"
 description: "영어 듣기 기초 완벽 정복 | 발음 규칙, 듣기 전략, 소리 구별법, 1:1 맞춤 듣기 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "듣기", "listening", "발음", "수능", "영어듣기", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1484807352052-23338990c6c6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
 ---
 
 # 영어 듣기 기초 완벽 가이드

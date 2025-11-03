@@ -1,11 +1,12 @@
 ---
 title: "로마자 표기법 완벽 가이드 | 1:1 국어 과외 [2025]"
 date: 2025-01-22
+reading_time: "400줄"
 description: "한글의 로마자 표기 규정과 실전 활용법. 인명, 지명, 일반 명사 로마자 표기를 1:1 과외로 정확히 익히세요."
 categories: ["국어"]
 tags: ["국어", "로마자", "표기법", "1:1과외", "인명", "지명", "국어로마자화", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
 ---
 
 # 로마자 표기법 완벽 가이드

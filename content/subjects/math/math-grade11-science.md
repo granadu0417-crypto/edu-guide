@@ -1,11 +1,11 @@
 ---
 title: "고2 이과 수학 완벽 가이드 | 1:1 고등 수학 과외"
 date: 2025-01-29
-reading_time: "410줄"
+reading_time: "617줄"
 description: "고2 이과 수학 완벽 정복 | 지수·로그·삼각함수, 수열, 함수의 극한, 미분과 적분, 기하, 1:1 맞춤 고2 이과 수학 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "고2", "이과수학", "미분", "적분", "극한", "기하", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
 ---
 
 # 고2 이과 수학 완벽 가이드
