@@ -5,7 +5,7 @@ reading_time: "461줄"
 description: "전북도의 교육 환경을 완벽 분석합니다. 전주 학원가부터 전북대 과외, 온라인 교육 전략까지 전북 지역 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
 tags: ["전북교육", "전북학원", "전북과외", "전주학원", "전주과외", "익산과외", "전북대과외", "원광대과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

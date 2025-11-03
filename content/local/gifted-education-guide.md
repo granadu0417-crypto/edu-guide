@@ -5,7 +5,7 @@ reading_time: "500줄"
 description: "영재교육의 모든 것! 영재교육원, 영재학급 선발 과정부터 합격 전략, 교육 프로그램까지 영재교육 완벽 가이드입니다."
 categories: ["지역"]
 tags: ["영재교육", "영재교육원", "영재학급", "영재선발", "영재교육프로그램", "교육청영재교육원", "대학부설영재교육원", "과학영재", "수학영재"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

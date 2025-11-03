@@ -5,7 +5,7 @@ reading_time: "578줄"
 description: "서울 북부권 최대 교육 특구 중계동의 학원, 과외, 교육 환경을 완벽 분석합니다. 합리적인 비용과 우수한 입시 성과로 주목받는 중계동 교육의 모든 것을 안내합니다."
 categories: ["지역", "서울"]
 tags: ["중계동", "학원가", "노원교육", "중계학원", "서울교육", "학원선택", "중계입시", "교육특구"]
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

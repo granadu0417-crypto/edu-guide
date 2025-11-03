@@ -5,7 +5,7 @@ reading_time: "500줄"
 description: "한부모 가정을 위한 모든 것 - 정부 교육 지원 제도, 장학금, 교육급여, 방과후 돌봄, 일과 양육 병행 전략, 자녀 정서 지원까지 한부모 가정이 알아야 할 모든 교육 정보입니다."
 categories: ["지역"]
 tags: ["한부모가정", "교육지원", "교육급여", "장학금", "양육지원", "한부모지원", "저소득지원", "교육복지", "방과후돌봄", "과외지원"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

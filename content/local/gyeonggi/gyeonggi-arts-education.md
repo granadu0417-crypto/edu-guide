@@ -5,7 +5,7 @@ reading_time: "227줄"
 description: "경기도 예체능 교육 완벽 가이드입니다. 음악, 미술, 체육 분야별 학원 선택과 입시 준비 전략을 제공합니다."
 categories: ["지역", "경기"]
 tags: ["경기예체능", "음악학원", "미술학원", "체육학원", "예술고", "경기교육"]
-featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -5,7 +5,7 @@ reading_time: "500줄"
 description: "대구 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 categories: ["지역"]
 tags: ["대구영어과외", "대구과외", "영어과외", "대구교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

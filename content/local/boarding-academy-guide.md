@@ -5,7 +5,7 @@ reading_time: "410줄"
 description: "기숙학원 완벽 가이드 | 기숙학원 특징·일반학원 차이·선택 기준·입소 준비·학습 효과·생활 관리·주의사항까지 상세 안내"
 categories: ["지역"]
 tags: ["기숙학원", "재수학원", "기숙형학원", "입시학원", "집중학습", "학원생활", "재수생", "N수생"]
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

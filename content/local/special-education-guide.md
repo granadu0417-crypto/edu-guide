@@ -5,7 +5,7 @@ reading_time: "500줄"
 description: "특수교육의 모든 것 - 특수교육 대상, 진단 및 선정 절차, 특수학교와 특수학급, 통합교육, 개별화교육계획(IEP), 치료지원, 전환교육까지 특수교육이 필요한 자녀를 위한 완벽 가이드입니다."
 categories: ["지역"]
 tags: ["특수교육", "장애학생", "특수학교", "특수학급", "통합교육", "IEP", "개별화교육", "치료지원", "발달장애", "교육지원"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1581093458791-9d42e15ddd8e?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

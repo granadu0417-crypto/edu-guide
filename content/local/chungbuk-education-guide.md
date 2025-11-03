@@ -5,7 +5,7 @@ reading_time: "417줄"
 description: "충북도의 교육 환경을 완벽 분석합니다. 청주·충주·제천 학원가부터 충북대·한국교원대 과외, 세종 접근성까지 충북 지역 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
 tags: ["충북교육", "충북학원", "충북과외", "청주학원", "청주과외", "충북대과외", "한국교원대과외", "세종접근성", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

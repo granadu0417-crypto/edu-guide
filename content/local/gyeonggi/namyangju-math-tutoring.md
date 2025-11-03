@@ -5,7 +5,7 @@ reading_time: "199줄"
 description: "경기도 남양주시의 수학 과외 선택부터 학습 전략까지 완벽 가이드입니다. 초중고 수학 과외 선택법과 효과적인 학습 전략을 제공합니다."
 categories: ["지역", "경기"]
 tags: ["남양주수학과외", "수학과외", "남양주교육", "수학학원", "수학공부", "경기교육"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

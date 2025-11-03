@@ -5,7 +5,7 @@ reading_time: "657줄"
 description: "대한민국 최대 교육 특구 대치동의 학원, 과외, 스터디카페, 교육 환경을 총망라한 완벽 가이드입니다. 초등부터 고등까지 대치동 교육 생태계를 상세히 분석합니다."
 categories: ["지역", "서울"]
 tags: ["대치동", "학원가", "강남교육", "입시학원", "대치학원", "과외", "교육특구", "학원선택"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -5,7 +5,7 @@ reading_time: "567줄"
 description: "충남도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 대전·세종 대학생 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 categories: ["지역"]
 tags: ["충남과외", "과외", "충남교육", "천안과외", "아산과외", "충남대과외", "공주대과외", "KAIST과외", "대전과외", "세종과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -5,7 +5,7 @@ reading_time: "420줄"
 description: "대안학교 완벽 가이드 | 대안학교 종류·인가 vs 비인가·교육과정·입학 절차·학력 인정·장단점·선택 기준까지 상세 안내"
 categories: ["지역"]
 tags: ["대안학교", "대안교육", "인가형대안학교", "비인가형대안학교", "특성화중학교", "특성화고등학교", "홈스쿨링", "자유학교"]
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

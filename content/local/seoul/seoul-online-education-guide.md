@@ -5,7 +5,7 @@ reading_time: "532줄"
 description: "서울 지역 학생들을 위한 온라인 교육 완벽 가이드입니다. 인터넷 강의, 화상 과외, AI 학습 플랫폼 활용법과 오프라인 교육과의 효과적인 병행 전략을 상세히 안내합니다."
 categories: ["지역", "서울"]
 tags: ["온라인교육", "인터넷강의", "화상과외", "AI학습", "EBS", "메가스터디", "온라인학습", "서울교육"]
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

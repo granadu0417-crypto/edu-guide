@@ -5,7 +5,7 @@ reading_time: "200줄"
 description: "경기도 수원시의 영어 과외 선택부터 학습 전략까지 완벽 가이드입니다. 초중고 영어 과외 선택법과 효과적인 학습 전략을 제공합니다."
 categories: ["지역", "경기"]
 tags: ["수원영어과외", "영어과외", "수원교육", "영어학원", "영어공부", "경기교육"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

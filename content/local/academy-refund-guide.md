@@ -5,7 +5,7 @@ reading_time: "400줄"
 description: "학원 환불 규정 완벽 가이드 | 법적 근거·정확한 환불 계산법·단계별 환불 절차·분쟁 해결 방법·필요 서류까지 상세 안내"
 categories: ["지역"]
 tags: ["학원환불", "학원법", "환불규정", "소비자권리", "교육환불", "학원계약", "환불계산", "학원분쟁"]
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

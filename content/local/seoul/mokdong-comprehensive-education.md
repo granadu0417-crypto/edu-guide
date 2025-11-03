@@ -5,7 +5,7 @@ reading_time: "641줄"
 description: "서울 서부권 최대 교육 특구 목동의 학원, 과외, 교육 환경을 완벽 분석합니다. 대치동과 다른 목동만의 교육 특징과 장점을 상세히 안내합니다."
 categories: ["지역", "서울"]
 tags: ["목동", "학원가", "양천교육", "목동학원", "서울교육", "학원선택", "목동입시", "교육특구"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -5,7 +5,7 @@ reading_time: "245줄"
 description: "경기도 이천시의 학원, 과외, 교육 환경을 완벽 분석합니다. 이천 지역 학부모를 위한 맞춤 교육 정보를 제공합니다."
 categories: ["지역", "경기"]
 tags: ["이천교육", "이천학원", "이천과외", "경기교육", "학원선택", "과외선택"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

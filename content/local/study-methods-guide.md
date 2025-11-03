@@ -5,7 +5,7 @@ reading_time: "450줄"
 description: "효과적인 공부방법 완벽 가이드 | 과목별 학습법·시간관리·집중력 향상·노트필기·오답정리·시험 준비 전략까지 상세 안내"
 categories: ["지역"]
 tags: ["공부방법", "학습법", "시간관리", "집중력", "노트필기", "오답노트", "시험공부", "자기주도학습"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

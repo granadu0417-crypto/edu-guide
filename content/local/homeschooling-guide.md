@@ -5,7 +5,7 @@ reading_time: "500줄"
 description: "홈스쿨링(재택 교육) 완벽 가이드입니다. 법적 지위, 장단점, 시작 방법, 교육과정 구성, 학력 인정, 검정고시까지 홈스쿨링의 모든 것을 안내합니다."
 categories: ["지역"]
 tags: ["홈스쿨링", "재택교육", "대안교육", "검정고시", "홈스쿨교육과정", "자녀교육", "언스쿨링", "홈에듀케이션"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -5,7 +5,7 @@ reading_time: "245줄"
 description: "경기도 오산시의 학원, 과외, 교육 환경을 완벽 분석합니다. 오산 지역 학부모를 위한 맞춤 교육 정보를 제공합니다."
 categories: ["지역", "경기"]
 tags: ["오산교육", "오산학원", "오산과외", "경기교육", "학원선택", "과외선택"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

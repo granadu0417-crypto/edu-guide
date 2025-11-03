@@ -5,7 +5,7 @@ reading_time: "384줄"
 description: "충남도의 교육 환경을 완벽 분석합니다. 천안·아산 학원가부터 대전·세종 접근성, 온라인 교육 전략까지 충남 지역 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
 tags: ["충남교육", "충남학원", "충남과외", "천안학원", "천안과외", "아산과외", "대전접근성", "세종접근성", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

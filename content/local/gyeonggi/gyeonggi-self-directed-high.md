@@ -5,7 +5,7 @@ reading_time: "155줄"
 description: "경기도 자사고 완벽 가이드입니다. 자사고 입시 준비부터 합격 전략까지 상세히 안내합니다."
 categories: ["지역", "경기"]
 tags: ["경기자사고", "자사고입시", "경기교육", "자사고준비"]
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

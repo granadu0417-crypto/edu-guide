@@ -5,7 +5,7 @@ reading_time: "500줄"
 description: "인천 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 categories: ["지역"]
 tags: ["인천영어과외", "인천과외", "영어과외", "인천교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

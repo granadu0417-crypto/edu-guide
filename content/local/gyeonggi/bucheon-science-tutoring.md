@@ -5,7 +5,7 @@ reading_time: "202줄"
 description: "경기도 부천시의 과학 과외 선택부터 학습 전략까지 완벽 가이드입니다. 과학 과목별 과외 선택법과 효과적인 학습 전략을 제공합니다."
 categories: ["지역", "경기"]
 tags: ["부천과학과외", "과학과외", "부천교육", "물리과외", "화학과외", "생명과학과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

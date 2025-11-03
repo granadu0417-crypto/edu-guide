@@ -5,7 +5,7 @@ reading_time: "457줄"
 description: "제주도의 교육 환경을 완벽 분석합니다. 제주시·서귀포 학원가부터 제주대 과외, 온라인 교육 전략, 국제학교까지 제주 지역 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
 tags: ["제주교육", "제주학원", "제주과외", "제주시학원", "서귀포학원", "제주대과외", "제주국제학교", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

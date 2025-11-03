@@ -5,7 +5,7 @@ reading_time: "400줄"
 description: "온라인 학습 도구 완벽 가이드입니다. EBS·유튜브·인강 플랫폼, 학습 관리 앱, 화상 과외, 교육용 앱까지 효과적인 온라인 학습 방법을 안내합니다."
 categories: ["지역"]
 tags: ["온라인학습", "인터넷강의", "EBS강의", "화상과외", "학습앱", "온라인과외", "교육플랫폼", "디지털학습"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

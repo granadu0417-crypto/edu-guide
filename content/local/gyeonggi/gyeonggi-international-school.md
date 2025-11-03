@@ -5,7 +5,7 @@ reading_time: "155줄"
 description: "경기도 국제학교 완벽 가이드입니다. 국제학교 입시 준비부터 합격 전략까지 상세히 안내합니다."
 categories: ["지역", "경기"]
 tags: ["경기국제학교", "국제학교입시", "경기교육", "국제학교준비"]
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b7?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

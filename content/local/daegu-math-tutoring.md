@@ -5,7 +5,7 @@ reading_time: "500줄"
 description: "대구 수학 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·개념부터 문제풀이까지·내신 수능 대비·1:1 과외 추천"
 categories: ["지역"]
 tags: ["대구수학과외", "대구과외", "수학과외", "대구교육", "초등수학", "중등수학", "고등수학", "수학내신", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

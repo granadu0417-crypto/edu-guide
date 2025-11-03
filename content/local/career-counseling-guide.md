@@ -5,7 +5,7 @@ reading_time: "400줄"
 description: "진로상담 완벽 가이드 | 청소년 진로탐색·진로검사 종류·상담 받는 방법·학년별 진로준비·진학 전략까지 상세 안내"
 categories: ["지역"]
 tags: ["진로상담", "진로탐색", "진로검사", "커리어코칭", "청소년진로", "직업탐색", "대학진학", "진로교육"]
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

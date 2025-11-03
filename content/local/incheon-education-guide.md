@@ -5,7 +5,7 @@ reading_time: "1184줄"
 description: "인천시의 학원, 과외, 교육 환경을 완벽 분석합니다. 송도·청라 신도시부터 인하대·인천대 과외까지, 수도권 접근성을 활용한 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
 tags: ["인천교육", "인천학원", "인천과외", "송도학원", "청라학원", "인하대과외", "인천대과외", "수도권교육", "신도시학원", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

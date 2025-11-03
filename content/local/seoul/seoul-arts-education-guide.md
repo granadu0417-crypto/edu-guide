@@ -5,7 +5,7 @@ reading_time: "620줄"
 description: "서울 지역 예체능 교육의 모든 것을 담은 완벽 가이드입니다. 음악, 미술, 체육 분야별 학원 선택, 입시 준비, 특기 개발 전략을 상세히 안내합니다."
 categories: ["지역", "서울"]
 tags: ["예체능교육", "음악학원", "미술학원", "체육학원", "예술고", "예체능입시", "특기", "서울교육"]
-featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

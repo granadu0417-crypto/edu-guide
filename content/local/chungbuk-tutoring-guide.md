@@ -5,7 +5,7 @@ reading_time: "414줄"
 description: "충북도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 충북대·한국교원대 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 categories: ["지역"]
 tags: ["충북과외", "과외", "충북교육", "청주과외", "충북대과외", "한국교원대과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

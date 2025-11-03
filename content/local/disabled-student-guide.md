@@ -5,7 +5,7 @@ reading_time: "550줄"
 description: "장애학생 교육 지원 완벽 가이드 | 특수교육 대상자 선정·장애 유형별 지원·통합교육·개별화교육계획·치료지원·진로교육·법적 권리까지 상세 안내"
 categories: ["지역"]
 tags: ["장애학생", "특수교육", "통합교육", "개별화교육", "특수교육지원", "장애학생지원", "특수학급", "치료지원", "진로교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

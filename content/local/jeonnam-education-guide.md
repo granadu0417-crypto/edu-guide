@@ -5,7 +5,7 @@ reading_time: "460줄"
 description: "전남도의 교육 환경을 완벽 분석합니다. 순천·여수·목포 학원가부터 광주 접근성, 온라인 교육 전략까지 전남 지역 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
 tags: ["전남교육", "전남학원", "전남과외", "순천학원", "여수학원", "목포학원", "광주접근성", "전남대과외", "순천대과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

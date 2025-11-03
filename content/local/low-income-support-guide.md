@@ -5,7 +5,7 @@ reading_time: "500줄"
 description: "저소득층 가정을 위한 교육 지원 제도 완벽 가이드입니다. 교육급여, 교육비 지원, 장학금, 바우처 등 다양한 지원 프로그램의 자격 요건과 신청 방법을 상세히 안내합니다."
 categories: ["지역"]
 tags: ["저소득층교육지원", "교육급여", "교육비지원", "저소득층장학금", "교육바우처", "기초생활수급자", "차상위계층", "한부모가정지원", "교육복지"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

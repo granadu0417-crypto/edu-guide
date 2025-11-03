@@ -5,7 +5,7 @@ reading_time: "1055줄"
 description: "세종시의 학원, 과외, 교육 환경을 완벽 분석합니다. 신도시 세종의 최신 교육 인프라부터 대전 접근성, 고려대·홍익대 과외까지 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
 tags: ["세종교육", "세종학원", "세종과외", "세종시교육", "정부청사학원", "고려대세종과외", "홍익대세종과외", "신도시교육", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -5,7 +5,7 @@ reading_time: "485줄"
 description: "부산시의 학원, 과외, 교육 환경을 완벽 분석합니다. 부산 지역 학부모를 위한 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
 tags: ["부산교육", "부산학원", "부산과외", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
