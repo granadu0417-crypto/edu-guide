@@ -5,7 +5,7 @@ reading_time: "792줄"
 description: "영어 동의어·반의어 완벽 정복 | 빈출 유의어 세트, 뉘앙스 차이, 1:1 맞춤 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "어휘", "동의어", "반의어", "synonym", "antonym", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 # 영어 동의어·반의어 완벽 정리

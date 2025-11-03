@@ -6,7 +6,7 @@ description: "생식 방법과 발생를 체계적으로 학습하는 방법. 1:
 categories: ["과학"]
 tags: ["과학", "생식", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b7?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 
 # 과학 생식 완벽 가이드

@@ -6,7 +6,7 @@ description: "사회문화 현상의 이해를 체계적으로 학습하는 방�
 categories: ["사회"]
 tags: ["사회", "사회문화", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
 ---
 
 # 사회 사회문화 완벽 가이드

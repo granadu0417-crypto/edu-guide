@@ -5,7 +5,7 @@ reading_time: "559줄"
 description: "수학 개념 완벽 이해 전략 | 정의 이해, 정리 증명, 예제 활용, 1:1 맞춤 개념 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "개념이해", "공부법", "정의", "정리", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
 ---
 
 # 수학 개념 이해 완벽 가이드

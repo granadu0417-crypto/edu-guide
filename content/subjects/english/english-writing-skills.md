@@ -5,7 +5,7 @@ reading_time: "610줄"
 description: "영어 작문 실력 향상 핵심 전략 | 1:1 맞춤 첨삭, 문법 오류 교정, 자연스러운 표현 연습, 유형별 실전 예시 [2025년]"
 categories: ["영어"]
 tags: ["영어", "작문", "영작문", "라이팅", "에세이", "첨삭", "문법", "표현", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
 ---
 
 # 영어 작문 실력 키우는 성공 비결

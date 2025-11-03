@@ -6,7 +6,7 @@ description: "해방과 정부 수립를 체계적으로 학습하는 방법. 1:
 categories: ["사회"]
 tags: ["사회", "광복", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
 ---
 
 # 사회 광복 완벽 가이드

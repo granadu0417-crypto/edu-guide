@@ -5,7 +5,7 @@ reading_time: "546줄"
 description: "영어 프레젠테이션 완벽 정복 | 발표 구조, 필수 표현, 실전 팁, 1:1 맞춤 발표 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "프레젠테이션", "발표", "presentation", "speaking", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
 ---
 
 # 영어 프레젠테이션 완벽 가이드

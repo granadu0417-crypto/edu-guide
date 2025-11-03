@@ -6,7 +6,7 @@ description: "세계 경제와 국제기구를 체계적으로 학습하는 방�
 categories: ["사회"]
 tags: ["사회", "국제경제", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=1200&h=630&fit=crop"
 ---
 
 # 사회 국제경제 완벽 가이드

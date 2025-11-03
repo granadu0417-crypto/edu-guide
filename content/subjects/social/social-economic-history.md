@@ -6,7 +6,7 @@ description: "한국 경제의 발전를 체계적으로 학습하는 방법. 1:
 categories: ["사회"]
 tags: ["사회", "경제사", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 # 사회 경제사 완벽 가이드

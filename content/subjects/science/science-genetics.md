@@ -6,7 +6,7 @@ description: "멘델 유전과 유전법칙를 체계적으로 학습하는 방�
 categories: ["과학"]
 tags: ["과학", "유전", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
 ---
 
 # 과학 유전 완벽 가이드

@@ -6,7 +6,7 @@ description: "문맥으로 빈칸 채우기를 체계적으로 학습하는 방�
 categories: ["국어"]
 tags: ["국어", "빈칸 추론", "빈칸추론, 문맥파악", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?w=1200&h=630&fit=crop"
 ---
 
 # 국어 빈칸 추론 완벽 가이드

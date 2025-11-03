@@ -6,7 +6,7 @@ description: "파동의 성질과 간섭, 회절를 체계적으로 학습하는
 categories: ["과학"]
 tags: ["과학", "파동", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1581093458791-9d42e15ddd8e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
 ---
 
 # 과학 파동 완벽 가이드

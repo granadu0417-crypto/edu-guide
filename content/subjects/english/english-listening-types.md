@@ -5,7 +5,7 @@ reading_time: "637줄"
 description: "수능 영어 듣기 유형별 완벽 공략 | 17개 유형 전략, 만점 비법, 1:1 맞춤 듣기 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "듣기", "수능", "유형별", "전략", "listening", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 # 수능 영어 듣기 유형별 공략법

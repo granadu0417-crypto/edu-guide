@@ -5,7 +5,7 @@ reading_time: "698줄"
 description: "과학 개념연결 과외로 물리·화학·생물·지구과학 통합 이해, 융합 사고력 향상, 통합과학 완벽 대비"
 categories: ["과학"]
 tags: ["과학개념연결과외", "통합과학", "융합과학", "개념연결", "과학과외", "통합사고", "STEAM"]
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
 ---
 
 **"과학 과목들이 따로 노는 것 같아요!"** 개념 연결로 통합적 이해가 가능합니다.

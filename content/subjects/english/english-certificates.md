@@ -5,7 +5,7 @@ reading_time: "598줄"
 description: "영어 시험·자격증 완벽 정복 | TOEIC, TOEFL, IELTS, TEPS 완벽 대비, 1:1 맞춤 시험 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "시험", "자격증", "TOEIC", "TOEFL", "IELTS", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
 ---
 
 # 영어 시험·자격증 완벽 가이드

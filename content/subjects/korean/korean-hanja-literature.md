@@ -6,7 +6,7 @@ description: "한시와 한문 산문 감상법를 체계적으로 학습하는 
 categories: ["국어"]
 tags: ["국어", "한문학", "한문학, 한시, 한문산문", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b7?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 ---
 
 # 국어 한문학 완벽 가이드

@@ -5,7 +5,7 @@ reading_time: "512줄"
 description: "중1 수학 완벽 정복 | 자연수, 정수, 유리수, 문자와 식, 일차방정식, 좌표평면, 1:1 맞춤 중1 수학 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "중1", "중등수학", "자연수", "정수", "유리수", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b7?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
 ---
 
 # 중1 수학 완벽 가이드

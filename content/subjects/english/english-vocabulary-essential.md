@@ -5,7 +5,7 @@ reading_time: "590줄"
 description: "수능 필수 어휘 3000 완벽 정복 | 빈출 단어, 효율적 암기법, 1:1 맞춤 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "어휘", "수능", "단어", "암기", "vocabulary", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 # 수능 필수 어휘 3000 완벽 암기

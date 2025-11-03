@@ -6,7 +6,7 @@ description: "자주 틀리는 어법 오류 100가지와 교정법. 높임법, 
 categories: ["국어"]
 tags: ["국어", "어법", "문법", "1:1과외", "오류교정", "높임법", "시제", "피동", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?w=1200&h=630&fit=crop"
 ---
 
 # 어법 오류 완벽 가이드

@@ -6,7 +6,7 @@ description: "중심 내용 빠르게 찾기를 체계적으로 학습하는 방
 categories: ["국어"]
 tags: ["국어", "요지 파악", "요지, 중심내용, 주제파악", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 
 # 국어 요지 파악 완벽 가이드

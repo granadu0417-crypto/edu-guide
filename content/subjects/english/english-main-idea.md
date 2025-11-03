@@ -5,7 +5,7 @@ reading_time: "509줄"
 description: "영어 주제 찾기 완벽 정복 | 주제문 찾기, 키워드 파악, 실전 문제 풀이, 1:1 맞춤 독해 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "독해", "주제찾기", "main idea", "topic", "reading", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
 ---
 
 # 영어 주제 찾기 완벽 가이드

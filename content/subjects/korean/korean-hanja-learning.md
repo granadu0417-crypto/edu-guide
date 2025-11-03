@@ -6,7 +6,7 @@ description: "필수 한자 800자를 체계적으로 학습하는 방법. 1:1 �
 categories: ["국어"]
 tags: ["국어", "한자 학습", "한자, 한문, 사자성어", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 
 # 국어 한자 학습 완벽 가이드

@@ -5,7 +5,7 @@ reading_time: "842줄"
 description: "영어 문법기초 과외로 8품사, 12시제, 5형식 문장 구조를 체계적으로 정리하여 독해·작문의 탄탄한 기초 완성"
 categories: ["영어"]
 tags: ["영어문법과외", "기초문법", "품사", "시제", "문장구조", "영어과외", "문법정리"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
 ---
 
 **"문법이 너무 헷갈려요!"** 체계적 정리로 문법 기초를 확실히 다질 수 있습니다.

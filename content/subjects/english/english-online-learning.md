@@ -5,7 +5,7 @@ reading_time: "626줄"
 description: "영어 온라인 학습 완벽 정복 | 플랫폼 선택, 효율적 활용, 자료 추천, 1:1 맞춤 온라인 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "온라인학습", "인터넷", "앱", "e-learning", "디지털", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---
 
 # 영어 온라인 학습 완벽 가이드

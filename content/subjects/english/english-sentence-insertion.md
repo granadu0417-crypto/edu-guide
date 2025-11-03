@@ -5,7 +5,7 @@ reading_time: "551줄"
 description: "영어 문장 삽입 완벽 정복 | 논리적 위치 파악, 연결어 활용, 문맥 연결, 1:1 맞춤 독해 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "독해", "문장삽입", "논리", "문맥", "연결어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 ---
 
 # 영어 문장 삽입 전략

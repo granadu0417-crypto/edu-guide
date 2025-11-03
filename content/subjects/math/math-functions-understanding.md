@@ -5,7 +5,7 @@ reading_time: "632줄"
 description: "수학 함수 과외로 함수의 기본 개념부터 그래프, 변환, 응용까지 체계적으로 학습. 수능 수학 고득점을 위한 함수 완전 정복"
 categories: ["수학"]
 tags: ["수학함수과외", "함수개념", "함수그래프", "수학과외", "수능수학", "함수변환", "함수의응용"]
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=630&fit=crop"
 ---
 
 **"함수가 뭔가요?"** 수학의 핵심, 함수를 제대로 이해하면 수학이 쉬워집니다.

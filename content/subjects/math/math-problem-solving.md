@@ -5,7 +5,7 @@ reading_time: "622줄"
 description: "효과적인 수학 문제 풀이 전략 | 문제 분석, 풀이 단계, 검산 방법, 1:1 맞춤 문제풀이 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "문제풀이", "공부법", "전략", "풀이과정", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
 ---
 
 # 수학 문제 풀이 전략 가이드

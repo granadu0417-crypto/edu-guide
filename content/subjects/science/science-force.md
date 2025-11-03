@@ -6,7 +6,7 @@ description: "뉴턴 법칙과 힘의 평형를 체계적으로 학습하는 방
 categories: ["과학"]
 tags: ["과학", "힘과 운동", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1597008641621-cefdcf718025?w=1200&h=630&fit=crop"
 ---
 
 # 과학 힘과 운동 완벽 가이드

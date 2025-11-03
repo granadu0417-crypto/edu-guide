@@ -6,7 +6,7 @@ description: "구석기, 신석기, 청동기 시대를 체계적으로 학습�
 categories: ["사회"]
 tags: ["사회", "선사시대", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 # 사회 선사시대 완벽 가이드

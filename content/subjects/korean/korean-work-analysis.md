@@ -6,7 +6,7 @@ description: "대표 작품 심층 분석를 체계적으로 학습하는 방법
 categories: ["국어"]
 tags: ["국어", "작품론", "문학", "1:1과외", "작품분석, 주제, 구성, 표현", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---
 
 # 국어 작품론 완벽 가이드

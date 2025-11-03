@@ -5,7 +5,7 @@ reading_time: "477줄"
 description: "영어 조동사 완벽 정복 | can, will, must, should, may 구별법, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "조동사", "modal", "can", "will", "must", "should", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531498860502-7c67cf02f657?w=1200&h=630&fit=crop"
 ---
 
 # 영어 조동사 완벽 활용

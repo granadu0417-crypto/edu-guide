@@ -5,7 +5,7 @@ reading_time: "452줄"
 description: "효과적인 수학 인강 활용법 | 강의 선택, 수강 전략, 복습 방법, 1:1 맞춤 인강 가이드 [2025년]"
 categories: ["수학"]
 tags: ["수학", "인강", "온라인강의", "인터넷강의", "이러닝", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1581093458791-9d42e15ddd8e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 ---
 
 # 수학 인강 활용 완벽 가이드

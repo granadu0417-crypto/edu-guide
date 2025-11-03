@@ -5,7 +5,7 @@ reading_time: "515줄"
 description: "영어 순서 배열 문제 완벽 정복 | 논리적 흐름, 연결어 활용, 대명사 추적, 1:1 맞춤 독해 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "독해", "순서배열", "문장순서", "논리", "연결어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
 ---
 
 # 영어 순서 배열 문제 전략

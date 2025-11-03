@@ -6,7 +6,7 @@ description: "구술 면접 대비 전략를 체계적으로 학습하는 방법
 categories: ["국어"]
 tags: ["국어", "면접", "면접, 구술, 답변기술", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
 ---
 
 # 국어 면접 완벽 가이드

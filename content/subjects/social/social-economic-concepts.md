@@ -5,7 +5,7 @@ reading_time: "689줄"
 description: "사회 경제 과외로 시장 원리, 금융 시스템, 국제 무역을 체계적으로 학습. 경제 개념부터 실생활 적용까지 완벽 마스터"
 categories: ["사회"]
 tags: ["사회경제과외", "경제개념", "시장원리", "금융", "무역", "사회과외", "경제학습"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
 ---
 
 **"경제가 뭔가요?"** 경제는 우리 생활과 밀접한 학문입니다.

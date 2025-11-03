@@ -5,7 +5,7 @@ reading_time: "512줄"
 description: "영어 번역 기초 완벽 정복 | 번역 원칙, 실전 기법, 오역 방지, 1:1 맞춤 번역 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "번역", "translation", "통역", "실력", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
 ---
 
 # 영어 번역 기초 가이드

@@ -5,7 +5,7 @@ reading_time: "1060줄"
 description: "국어 의사소통 과외로 발표, 토론, 설득, 경청까지 실전 훈련 | 화법과 작문 완벽 대비 [2025년]"
 categories: ["국어"]
 tags: ["국어과외", "의사소통과외", "발표", "토론", "설득", "화법", "말하기", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 ---
 
 **"발표만 하면 떨려요..."** 남 앞에서 말하는 것이 두렵거나, 토론에서 논리적으로 반박하지 못하거나, 설득력 있게 말하지 못해 고민하는 학생들이 많습니다.

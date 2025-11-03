@@ -6,7 +6,7 @@ description: "공문서, 이메일 작성법를 체계적으로 학습하는 방
 categories: ["국어"]
 tags: ["국어", "실용문", "실용문, 공문서, 이메일", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 # 국어 실용문 완벽 가이드

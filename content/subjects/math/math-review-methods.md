@@ -5,7 +5,7 @@ reading_time: "598줄"
 description: "효과적인 수학 복습 전략 | 반복 주기, 오답 정리, 장기 기억, 1:1 맞춤 복습 관리 [2025년]"
 categories: ["수학"]
 tags: ["수학", "복습", "공부법", "기억", "오답정리", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1481871550528-9c0fb7d8e88f?w=1200&h=630&fit=crop"
 ---
 
 # 수학 복습 방법 완벽 가이드

@@ -5,7 +5,7 @@ reading_time: "575줄"
 description: "영어 연어(Collocation) 완벽 정복 | 자연스러운 단어 조합, 빈출 연어 세트, 1:1 맞춤 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "어휘", "연어", "collocation", "word combination", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
 ---
 
 # 영어 연어 표현 완벽 정리

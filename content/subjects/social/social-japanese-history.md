@@ -6,7 +6,7 @@ description: "일본의 역사와 발전를 체계적으로 학습하는 방법.
 categories: ["사회"]
 tags: ["사회", "일본사", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
 ---
 
 # 사회 일본사 완벽 가이드

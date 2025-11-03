@@ -6,7 +6,7 @@ description: "깊이 있는 독해 방법를 체계적으로 학습하는 방법
 categories: ["국어"]
 tags: ["국어", "정독법", "정독, 정밀독해, 심층분석", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 ---
 
 # 국어 정독법 완벽 가이드

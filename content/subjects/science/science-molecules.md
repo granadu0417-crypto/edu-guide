@@ -6,7 +6,7 @@ description: "분자 구조와 극성를 체계적으로 학습하는 방법. 1:
 categories: ["과학"]
 tags: ["과학", "분자", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
 ---
 
 # 과학 분자 완벽 가이드

@@ -5,7 +5,7 @@ reading_time: "702줄"
 description: "사회 지도독해 과외로 지형도·통계지도·주제도 해석, 등고선·축척·위치 파악, 지도 분석 능력 완벽 습득"
 categories: ["사회"]
 tags: ["사회지도과외", "지도읽기", "지형도", "통계지도", "사회과외", "지리과외", "등고선"]
-featured_image: "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?w=1200&h=630&fit=crop"
 ---
 
 **"지도가 너무 복잡해요!"** 체계적 방법으로 모든 지도를 완벽히 해석할 수 있습니다.

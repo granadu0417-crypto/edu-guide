@@ -5,7 +5,7 @@ reading_time: "551줄"
 description: "효과적인 온라인 수학 학습 전략 | 인강 활용, 화상 과외, 학습 플랫폼, 1:1 맞춤 온라인 수학 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "온라인학습", "인강", "화상과외", "이러닝", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 ---
 
 # 온라인 수학 학습 완벽 가이드

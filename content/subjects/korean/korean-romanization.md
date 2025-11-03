@@ -6,7 +6,7 @@ description: "한글의 로마자 표기 규정과 실전 활용법. 인명, 지
 categories: ["국어"]
 tags: ["국어", "로마자", "표기법", "1:1과외", "인명", "지명", "국어로마자화", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 ---
 
 # 로마자 표기법 완벽 가이드

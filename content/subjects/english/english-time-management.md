@@ -5,7 +5,7 @@ reading_time: "606줄"
 description: "수능 영어 시간 관리 완벽 정복 | 효율적 배분, 문제별 시간, 실전 전략, 1:1 맞춤 시험 전략 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "수능", "시험", "시간관리", "전략", "time", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 ---
 
 # 수능 영어 시간 관리 완벽 가이드

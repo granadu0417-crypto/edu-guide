@@ -5,7 +5,7 @@ reading_time: "609줄"
 description: "영어 기초 작문 완벽 정복 | 문장 구조, 필수 표현, 실전 연습, 1:1 맞춤 작문 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "작문", "writing", "쓰기", "문장", "영작", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
 ---
 
 # 영어 기초 작문 완벽 가이드

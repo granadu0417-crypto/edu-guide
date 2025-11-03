@@ -5,7 +5,7 @@ reading_time: "580줄"
 description: "효과적인 수학 학습 계획 수립 가이드 | 단계별 계획, 시간 배분, 목표 설정, 1:1 맞춤 수학 학습 관리 [2025년]"
 categories: ["수학"]
 tags: ["수학", "학습계획", "공부법", "시간관리", "목표설정", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
 ---
 
 # 수학 학습 계획 완벽 가이드

@@ -6,7 +6,7 @@ description: "속도, 가속도, 등가속도 운동를 체계적으로 학습�
 categories: ["과학"]
 tags: ["과학", "운동학", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
 ---
 
 # 과학 운동학 완벽 가이드

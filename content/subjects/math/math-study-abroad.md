@@ -6,7 +6,7 @@ description: "미국, 영국, IB 등 해외 수학 교육과정을 소개합니�
 categories: ["수학"]
 tags: ["해외수학", "유학준비", "IB수학", "AP수학", "1:1과외", "국제학교", "SAT", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 
 # 해외 수학 교육과정 완벽 가이드

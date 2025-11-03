@@ -5,7 +5,7 @@ reading_time: "515줄"
 description: "수학 이차곡선 완벽 정복 | 포물선, 타원, 쌍곡선, 방정식, 1:1 맞춤 이차곡선 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "이차곡선", "포물선", "타원", "쌍곡선", "기하", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=1200&h=630&fit=crop"
 ---
 
 # 수학 이차곡선 완벽 정복 가이드

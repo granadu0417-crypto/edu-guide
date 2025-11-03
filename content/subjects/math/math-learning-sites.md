@@ -6,7 +6,7 @@ description: "효과적인 수학 학습을 위한 온라인 사이트를 소개
 categories: ["수학"]
 tags: ["수학사이트", "온라인학습", "인강", "1:1과외", "학습자료", "수학공부", "무료강의", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
 ---
 
 # 수학 학습 사이트 추천 및 활용법

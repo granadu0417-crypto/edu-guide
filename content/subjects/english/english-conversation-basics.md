@@ -5,7 +5,7 @@ reading_time: "620줄"
 description: "영어 기초 회화 완벽 정복 | 일상 대화, 필수 표현, 실전 연습, 1:1 맞춤 회화 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "회화", "speaking", "대화", "일상영어", "기초", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=1200&h=630&fit=crop"
 ---
 
 # 영어 기초 회화 완벽 가이드

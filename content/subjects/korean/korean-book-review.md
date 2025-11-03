@@ -6,7 +6,7 @@ description: "독후감과 서평 쓰기를 체계적으로 학습하는 방법.
 categories: ["국어"]
 tags: ["국어", "서평", "서평, 독후감, 비평", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 # 국어 서평 완벽 가이드

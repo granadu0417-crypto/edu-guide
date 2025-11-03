@@ -5,7 +5,7 @@ reading_time: "689줄"
 description: "수학 논리사고 과외로 연역·귀납 추론, 창의적 문제 해결, 수학적 증명, 사고력 확장까지 체계적 학습"
 categories: ["수학"]
 tags: ["수학논리사고과외", "논리적사고", "수학추론", "창의적문제해결", "수학과외", "사고력수학", "증명"]
-featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&h=630&fit=crop"
 ---
 
 **"수학이 너무 기계적이에요!"** 논리적 사고로 수학의 본질을 이해할 수 있습니다.

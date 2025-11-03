@@ -6,7 +6,7 @@ description: "국어 기출 완벽 분석를 체계적으로 학습하는 방법
 categories: ["국어"]
 tags: ["국어", "기출 문제", "기출문제, 기출분석", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
 ---
 
 # 국어 기출 문제 완벽 가이드

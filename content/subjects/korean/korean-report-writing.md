@@ -6,7 +6,7 @@ description: "학술 보고서 작성법를 체계적으로 학습하는 방법.
 categories: ["국어"]
 tags: ["국어", "보고서", "보고서, 리포트, 학술글", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 # 국어 보고서 완벽 가이드

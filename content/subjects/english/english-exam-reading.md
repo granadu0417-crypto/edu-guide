@@ -5,7 +5,7 @@ reading_time: "567줄"
 description: "수능 영어 독해 시험 완벽 공략 | 시간 배분, 문제 유형, 만점 전략, 1:1 맞춤 독해 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "독해", "수능", "시험", "전략", "reading", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 
 # 수능 영어 독해 시험 전략

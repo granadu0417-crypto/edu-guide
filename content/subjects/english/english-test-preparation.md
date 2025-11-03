@@ -5,7 +5,7 @@ reading_time: "473줄"
 description: "영어 시험 과외로 내신, 수능, 모의고사까지 완벽 대비 | 유형별 전략·실전 훈련 [2025년]"
 categories: ["영어"]
 tags: ["영어과외", "시험대비", "내신", "수능", "모의고사", "유형분석", "실전전략", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
 ---
 
 # 영어 시험 완벽 대비하기

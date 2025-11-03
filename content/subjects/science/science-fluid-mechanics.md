@@ -6,7 +6,7 @@ description: "압력, 부력, 베르누이를 체계적으로 학습하는 방�
 categories: ["과학"]
 tags: ["과학", "유체역학", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 
 # 과학 유체역학 완벽 가이드

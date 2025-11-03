@@ -5,7 +5,7 @@ reading_time: "502줄"
 description: "영어 전치사 완벽 가이드 | in/on/at 시간·장소, for/during/while 구별, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "전치사", "preposition", "in", "on", "at", "for", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 
 # 영어 전치사 완벽 정리

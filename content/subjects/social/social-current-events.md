@@ -5,7 +5,7 @@ reading_time: "800줄"
 description: "사회 시사이슈 과외로 뉴스 분석, 다각적 관점, 논리적 토론, 논술 대비까지 체계적으로 학습"
 categories: ["사회"]
 tags: ["사회시사과외", "시사이슈", "뉴스분석", "토론과외", "사회과외", "논술대비", "비판적사고"]
-featured_image: "https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---
 
 **"뉴스가 어려워요!"** 체계적 분석으로 시사 이슈를 완벽히 이해할 수 있습니다.

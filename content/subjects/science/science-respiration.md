@@ -6,7 +6,7 @@ description: "세포호흡과 에너지 생성를 체계적으로 학습하는 �
 categories: ["과학"]
 tags: ["과학", "호흡", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
 ---
 
 # 과학 호흡 완벽 가이드

@@ -5,7 +5,7 @@ reading_time: "658줄"
 description: "수능 영어 시험 심리 완벽 정복 | 긴장 극복, 집중력 유지, 멘탈 관리, 1:1 맞춤 시험 심리 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "수능", "시험", "심리", "멘탈", "긴장", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
 ---
 
 # 수능 영어 시험 심리 완벽 가이드

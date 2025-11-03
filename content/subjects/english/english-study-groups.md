@@ -5,7 +5,7 @@ reading_time: "624줄"
 description: "영어 스터디 그룹 완벽 정복 | 그룹 구성, 운영 방법, 효과적 활용, 1:1 맞춤 그룹 스터디 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "스터디", "그룹", "팀학습", "협업", "study group", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
 ---
 
 # 영어 스터디 그룹 완벽 가이드

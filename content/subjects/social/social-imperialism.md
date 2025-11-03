@@ -6,7 +6,7 @@ description: "제국주의와 식민 지배를 체계적으로 학습하는 방�
 categories: ["사회"]
 tags: ["사회", "제국주의", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
 ---
 
 # 사회 제국주의 완벽 가이드

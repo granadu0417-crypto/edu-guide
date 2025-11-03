@@ -5,7 +5,7 @@ reading_time: "488줄"
 description: "영어 듣기 실전 팁 완벽 정리 | 시험 전략, 집중력 유지, 효율적 학습법, 1:1 맞춤 듣기 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "듣기", "팁", "전략", "수능", "시험", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=1200&h=630&fit=crop"
 ---
 
 # 영어 듣기 실전 팁 모음

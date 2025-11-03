@@ -6,7 +6,7 @@ description: "국제 무역과 경제 협력를 체계적으로 학습하는 방
 categories: ["사회"]
 tags: ["사회", "무역", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop"
 ---
 
 # 사회 무역 완벽 가이드

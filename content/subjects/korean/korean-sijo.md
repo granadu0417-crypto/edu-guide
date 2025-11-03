@@ -6,7 +6,7 @@ description: "시조의 형식과 감상법를 체계적으로 학습하는 방�
 categories: ["국어"]
 tags: ["국어", "시조", "시조, 평시조, 사설시조", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531498860502-7c67cf02f657?w=1200&h=630&fit=crop"
 ---
 
 # 국어 시조 완벽 가이드

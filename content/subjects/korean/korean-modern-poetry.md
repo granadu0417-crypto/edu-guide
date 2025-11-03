@@ -6,7 +6,7 @@ description: "현대시 감상법과 작품 분석를 체계적으로 학습하�
 categories: ["국어"]
 tags: ["국어", "현대시", "문학", "1:1과외", "감상법, 운율, 심상, 화자", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
 ---
 
 # 국어 현대시 완벽 가이드

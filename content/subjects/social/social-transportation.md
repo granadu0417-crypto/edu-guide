@@ -6,7 +6,7 @@ description: "교통과 통신의 발달를 체계적으로 학습하는 방법.
 categories: ["사회"]
 tags: ["사회", "교통", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531498860502-7c67cf02f657?w=1200&h=630&fit=crop"
 ---
 
 # 사회 교통 완벽 가이드

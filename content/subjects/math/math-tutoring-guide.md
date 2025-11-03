@@ -6,7 +6,7 @@ description: "수학 1:1 과외를 효과적으로 활용하는 방법을 소개
 categories: ["수학"]
 tags: ["수학과외", "1:1과외", "과외선택", "학습전략", "성적향상", "개인맞춤", "효과적학습", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 ---
 
 # 수학 1:1 과외 완벽 활용 가이드

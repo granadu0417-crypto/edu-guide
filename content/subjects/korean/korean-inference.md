@@ -6,7 +6,7 @@ description: "행간의 의미 파악하기를 체계적으로 학습하는 방�
 categories: ["국어"]
 tags: ["국어", "추론 능력", "추론, 함축의미, 행간읽기", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1481871550528-9c0fb7d8e88f?w=1200&h=630&fit=crop"
 ---
 
 # 국어 추론 능력 완벽 가이드

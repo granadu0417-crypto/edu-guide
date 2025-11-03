@@ -5,7 +5,7 @@ reading_time: "466줄"
 description: "영어 악센트별 듣기 완벽 정복 | 미국식·영국식·호주식 발음 차이, 1:1 맞춤 듣기 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "악센트", "accent", "미국식", "영국식", "발음", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 # 영어 악센트별 듣기 가이드

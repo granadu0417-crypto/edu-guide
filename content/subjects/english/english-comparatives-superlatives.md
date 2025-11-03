@@ -5,7 +5,7 @@ reading_time: "395줄"
 description: "영어 비교급·최상급 완벽 정복 | -er/-est, more/most, as~as 구문, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "비교급", "최상급", "comparative", "superlative", "than", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop"
 ---
 
 # 비교급·최상급 완벽 활용

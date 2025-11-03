@@ -6,7 +6,7 @@ description: "세계 지역별 특징를 체계적으로 학습하는 방법. 1:
 categories: ["사회"]
 tags: ["사회", "지역지리", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
 ---
 
 # 사회 지역지리 완벽 가이드

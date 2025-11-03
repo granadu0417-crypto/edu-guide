@@ -5,7 +5,7 @@ reading_time: "610줄"
 description: "수학 문장제 완벽 공략법 | 문장 해석, 식 세우기, 유형별 전략, 1:1 맞춤 문장제 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "문장제", "응용문제", "활용", "문제해석", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
 ---
 
 # 수학 문장제 풀이 완벽 가이드

@@ -6,7 +6,7 @@ description: "핵심 내용 간추리기를 체계적으로 학습하는 방법.
 categories: ["국어"]
 tags: ["국어", "요약하기", "요약, 압축, 핵심파악", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 ---
 
 # 국어 요약하기 완벽 가이드

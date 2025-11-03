@@ -5,7 +5,7 @@ reading_time: "555줄"
 description: "수학 증명 완벽 작성법 | 논리적 전개, 증명 기법, 서술 방법, 1:1 맞춤 증명 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "증명", "논리", "서술형", "증명문제", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
 ---
 
 # 수학 증명 작성 완벽 가이드

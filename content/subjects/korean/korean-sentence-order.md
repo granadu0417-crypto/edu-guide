@@ -6,7 +6,7 @@ description: "문장 순서 논리적 배열를 체계적으로 학습하는 방
 categories: ["국어"]
 tags: ["국어", "순서 배열", "순서배열, 논리흐름", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---
 
 # 국어 순서 배열 완벽 가이드

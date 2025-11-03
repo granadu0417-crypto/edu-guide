@@ -6,7 +6,7 @@ description: "적절한 위치에 문장 넣기를 체계적으로 학습하는 
 categories: ["국어"]
 tags: ["국어", "문장 삽입", "문장삽입, 흐름파악", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=1200&h=630&fit=crop"
 ---
 
 # 국어 문장 삽입 완벽 가이드

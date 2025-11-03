@@ -6,7 +6,7 @@ description: "논리적 글쓰기와 논증를 체계적으로 학습하는 방�
 categories: ["국어"]
 tags: ["국어", "논술", "논술, 논리, 논증, 주장", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 
 # 국어 논술 완벽 가이드

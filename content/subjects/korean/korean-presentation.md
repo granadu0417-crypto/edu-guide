@@ -6,7 +6,7 @@ description: "효과적인 프레젠테이션를 체계적으로 학습하는 �
 categories: ["국어"]
 tags: ["국어", "발표", "발표, 프레젠테이션, 스피치", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
 ---
 
 # 국어 발표 완벽 가이드

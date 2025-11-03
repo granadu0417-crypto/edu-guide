@@ -5,7 +5,7 @@ reading_time: "926줄"
 description: "사회 과외로 비판적 사고력 완벽 정복 | 논리 분석·다양한 관점·토론 훈련·논술 작성·1:1 맞춤 지도 [2025년]"
 categories: ["사회"]
 tags: ["사회과외", "비판적사고", "논리분석", "토론", "논술", "사고력훈련", "1:1과외", "심화학습"]
-featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 # 사회 과외로 비판적 사고력 완벽 정복하기

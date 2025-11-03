@@ -6,7 +6,7 @@ description: "민주 정치의 원리를 체계적으로 학습하는 방법. 1:
 categories: ["사회"]
 tags: ["사회", "민주주의", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
 ---
 
 # 사회 민주주의 완벽 가이드

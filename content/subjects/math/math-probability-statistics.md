@@ -5,7 +5,7 @@ reading_time: "582줄"
 description: "확률과 통계 심화 학습 | 확률분포, 통계적 추정, 가설검정, 1:1 맞춤 확률통계 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "확률", "통계", "확률분포", "통계적추정", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 # 확률과 통계 심화 완벽 가이드

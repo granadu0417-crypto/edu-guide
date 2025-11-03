@@ -5,7 +5,7 @@ reading_time: "477줄"
 description: "영어 발음 과외로 원어민 발음, 억양, 음성학까지 완벽 교정 | 1:1 맞춤 훈련 [2025년]"
 categories: ["영어"]
 tags: ["영어과외", "발음교정", "원어민발음", "억양", "음성학", "R발음", "L발음", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
 ---
 
 # 영어 발음 완벽 교정하기

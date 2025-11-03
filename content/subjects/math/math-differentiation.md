@@ -5,7 +5,7 @@ reading_time: "569줄"
 description: "수학 미분 완벽 정복 | 도함수, 미분법, 도함수의 활용, 1:1 맞춤 미분 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "미분", "도함수", "수학2", "미적분", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
 ---
 
 # 수학 미분 완벽 정복 가이드

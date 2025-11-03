@@ -6,7 +6,7 @@ description: "띄어쓰기 원칙과 예외 규정 완벽 정리. 의존명사, 
 categories: ["국어"]
 tags: ["국어", "띄어쓰기", "문법", "1:1과외", "의존명사", "보조용언", "단위명사", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
 ---
 
 # 띄어쓰기 완벽 가이드

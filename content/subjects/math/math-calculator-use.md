@@ -5,7 +5,7 @@ reading_time: "612줄"
 description: "수학 계산기 효과적 활용법 | 계산기 기능, 검산 방법, 수능 대비, 1:1 맞춤 계산 전략 [2025년]"
 categories: ["수학"]
 tags: ["수학", "계산기", "공부법", "검산", "수능", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---
 
 # 수학 계산기 활용 완벽 가이드

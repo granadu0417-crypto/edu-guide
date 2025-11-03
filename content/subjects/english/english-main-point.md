@@ -5,7 +5,7 @@ reading_time: "540줄"
 description: "영어 요지·주장 파악 완벽 정복 | 필자 주장 찾기, 핵심 메시지 파악, 1:1 맞춤 독해 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "독해", "요지", "주장", "purpose", "claim", "reading", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=1200&h=630&fit=crop"
 ---
 
 # 영어 요지·주장 파악 전략

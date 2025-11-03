@@ -5,7 +5,7 @@ reading_time: "666줄"
 description: "사회 정치 과외로 민주주의 원리, 정치 제도, 권력 분립을 체계적으로 학습. 정치 개념부터 현실 적용까지 완벽 마스터"
 categories: ["사회"]
 tags: ["사회정치과외", "민주주의", "정치제도", "권력분립", "헌법", "사회과외", "정치학습"]
-featured_image: "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 ---
 
 **"정치가 뭔가요?"** 정치는 우리 삶을 결정하는 과정입니다.

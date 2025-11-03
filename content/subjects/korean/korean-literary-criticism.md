@@ -6,7 +6,7 @@ description: "문학 비평 이론과 실제를 체계적으로 학습하는 방
 categories: ["국어"]
 tags: ["국어", "문학 비평", "문학", "1:1과외", "비평, 문학이론, 해석", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 # 국어 문학 비평 완벽 가이드

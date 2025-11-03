@@ -6,7 +6,7 @@ description: "지형의 형성과 특징를 체계적으로 학습하는 방법.
 categories: ["사회"]
 tags: ["사회", "지형", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---
 
 # 사회 지형 완벽 가이드

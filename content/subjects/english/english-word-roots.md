@@ -5,7 +5,7 @@ reading_time: "852줄"
 description: "영어 어근 완벽 정복 | 접두사·접미사·어근 활용법, 단어 유추 능력, 1:1 맞춤 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "어근", "어휘", "vocabulary", "word roots", "prefix", "suffix", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 # 영어 어근으로 단어 정복하기

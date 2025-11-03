@@ -5,7 +5,7 @@ reading_time: "649줄"
 description: "효과적인 수학 시험 준비 전략 | 내신·모의고사·수능 대비, 시간 관리, 실전 팁, 1:1 맞춤 시험 준비 [2025년]"
 categories: ["수학"]
 tags: ["수학", "시험대비", "공부법", "내신", "수능", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?w=1200&h=630&fit=crop"
 ---
 
 # 수학 시험 대비 완벽 가이드

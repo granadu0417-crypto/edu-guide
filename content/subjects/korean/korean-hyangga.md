@@ -6,7 +6,7 @@ description: "25수 향가 작품 분석를 체계적으로 학습하는 방법.
 categories: ["국어"]
 tags: ["국어", "향가", "향가, 신라가요, 불교", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?w=1200&h=630&fit=crop"
 ---
 
 # 국어 향가 완벽 가이드

@@ -5,7 +5,7 @@ reading_time: "529줄"
 description: "영어 고급 어휘 완벽 정복 | 1등급 필수 어휘, 고난도 단어, 실전 활용, 1:1 맞춤 고급 어휘 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "고급어휘", "vocabulary", "어휘", "고난도", "1등급", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
 ---
 
 # 영어 고급 어휘 완벽 가이드

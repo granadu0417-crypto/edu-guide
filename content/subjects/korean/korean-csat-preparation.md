@@ -6,7 +6,7 @@ description: "수능 국어 완벽 대비를 체계적으로 학습하는 방법
 categories: ["국어"]
 tags: ["국어", "수능 국어", "수능, 대학수학능력시험", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
 ---
 
 # 국어 수능 국어 완벽 가이드

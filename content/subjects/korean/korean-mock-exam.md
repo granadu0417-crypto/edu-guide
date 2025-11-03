@@ -6,7 +6,7 @@ description: "국어 모의고사 활용법를 체계적으로 학습하는 방�
 categories: ["국어"]
 tags: ["국어", "모의고사", "모의고사, 실전", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 
 # 국어 모의고사 완벽 가이드

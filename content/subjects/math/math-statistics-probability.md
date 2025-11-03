@@ -5,7 +5,7 @@ reading_time: "746줄"
 description: "수학 확률과 통계 과외로 경우의 수, 순열, 조합, 확률, 통계까지 완벽 마스터 | 실전 문제 풀이 [2025년]"
 categories: ["수학"]
 tags: ["수학과외", "확률과통계과외", "경우의수", "순열", "조합", "확률", "통계", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1610296669228-602fa827fc1f?w=1200&h=630&fit=crop"
 ---
 
 **"순열과 조합이 헷갈려요..."** 경우의 수를 세다가 실수하거나, 확률 계산이 복잡해서 틀리거나, 통계 해석을 어려워하는 학생들이 많습니다.

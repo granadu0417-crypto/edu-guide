@@ -5,7 +5,7 @@ reading_time: "478줄"
 description: "영어 발음 규칙 완벽 정복 | 음운 변화, 강세, 억양, 1:1 맞춤 발음 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "발음", "pronunciation", "음운변화", "강세", "억양", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
 ---
 
 # 영어 발음 규칙 완벽 정리

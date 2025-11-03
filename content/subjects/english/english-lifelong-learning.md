@@ -5,7 +5,7 @@ reading_time: "562줄"
 description: "영어 평생 학습 완벽 정복 | 지속 학습, 실용 영어, 흥미 유지, 1:1 맞춤 평생 영어 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "평생학습", "lifelong", "지속학습", "실용영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
 ---
 
 # 영어 평생 학습 완벽 가이드

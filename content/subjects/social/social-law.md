@@ -6,7 +6,7 @@ description: "법의 이념과 역할를 체계적으로 학습하는 방법. 1:
 categories: ["사회"]
 tags: ["사회", "법과 사회", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1581093458791-9d42e15ddd8e?w=1200&h=630&fit=crop"
 ---
 
 # 사회 법과 사회 완벽 가이드

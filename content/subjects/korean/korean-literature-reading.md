@@ -6,7 +6,7 @@ description: "시, 소설 지문 읽기 전략를 체계적으로 학습하는 �
 categories: ["국어"]
 tags: ["국어", "문학 독해", "문학독해, 시, 소설, 감상", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
 ---
 
 # 국어 문학 독해 완벽 가이드

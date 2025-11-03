@@ -6,7 +6,7 @@ description: "산업화와 자본주의를 체계적으로 학습하는 방법. 
 categories: ["사회"]
 tags: ["사회", "산업혁명", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---
 
 # 사회 산업혁명 완벽 가이드

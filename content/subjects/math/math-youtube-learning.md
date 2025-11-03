@@ -5,7 +5,7 @@ reading_time: "360줄"
 description: "수학 유튜브 효과적 활용법 | 채널 추천, 시청 전략, 학습 방법, 1:1 맞춤 유튜브 가이드 [2025년]"
 categories: ["수학"]
 tags: ["수학", "유튜브", "동영상학습", "온라인학습", "무료강의", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
 ---
 
 # 수학 유튜브 활용 완벽 가이드

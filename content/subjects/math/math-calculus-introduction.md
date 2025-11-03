@@ -5,7 +5,7 @@ reading_time: "823줄"
 description: "수학 미적분 과외로 극한, 미분, 적분까지 완벽 입문 | 기초부터 심화까지 체계적 학습 [2025년]"
 categories: ["수학"]
 tags: ["수학과외", "미적분과외", "극한", "미분", "적분", "수학2", "미적분", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---
 
 **"미적분이 너무 어려워요..."** 극한의 개념을 이해하지 못하거나, 미분 공식을 외워도 문제에 적용하지 못하거나, 적분이 무엇인지 감이 안 잡히는 학생들이 많습니다.

@@ -6,7 +6,7 @@ description: "세계의 기후 지역를 체계적으로 학습하는 방법. 1:
 categories: ["사회"]
 tags: ["사회", "기후", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
 ---
 
 # 사회 기후 완벽 가이드

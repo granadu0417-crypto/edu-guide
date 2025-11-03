@@ -6,7 +6,7 @@ description: "시장 경제의 원리를 체계적으로 학습하는 방법. 1:
 categories: ["사회"]
 tags: ["사회", "시장경제", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 ---
 
 # 사회 시장경제 완벽 가이드

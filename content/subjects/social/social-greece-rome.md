@@ -6,7 +6,7 @@ description: "고대 그리스와 로마 제국를 체계적으로 학습하는 
 categories: ["사회"]
 tags: ["사회", "그리스·로마", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?w=1200&h=630&fit=crop"
 ---
 
 # 사회 그리스·로마 완벽 가이드

@@ -6,7 +6,7 @@ description: "토론 기술과 전략를 체계적으로 학습하는 방법. 1:
 categories: ["국어"]
 tags: ["국어", "토론", "토론, 논쟁, 반론", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
 ---
 
 # 국어 토론 완벽 가이드

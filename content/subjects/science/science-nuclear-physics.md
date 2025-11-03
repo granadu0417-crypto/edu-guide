@@ -6,7 +6,7 @@ description: "원자 구조와 핵반응를 체계적으로 학습하는 방법.
 categories: ["과학"]
 tags: ["과학", "원자물리", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1569163139394-de4798aa62b4?w=1200&h=630&fit=crop"
 ---
 
 # 과학 원자물리 완벽 가이드

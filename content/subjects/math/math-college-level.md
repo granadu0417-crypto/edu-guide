@@ -6,7 +6,7 @@ description: "대학 수학의 세계를 미리 경험하는 방법을 소개합
 categories: ["수학"]
 tags: ["대학수학", "미적분학", "선형대수", "1:1과외", "대학준비", "이공계", "전공수학", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1589998059171-988d887df646?w=1200&h=630&fit=crop"
 ---
 
 # 대학 수학 미리보기 완벽 가이드

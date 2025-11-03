@@ -6,7 +6,7 @@ description: "재수생을 위한 효과적인 수학 학습 전략을 소개합
 categories: ["수학"]
 tags: ["재수생", "수학학습법", "수능준비", "1:1과외", "성적향상", "재도전", "입시", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 # 재수생 수학 학습 전략 완벽 가이드

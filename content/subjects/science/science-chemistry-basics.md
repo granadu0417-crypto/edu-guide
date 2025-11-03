@@ -5,7 +5,7 @@ reading_time: "587줄"
 description: "과학 화학 과외로 원소, 화학반응, 산과염기까지 완벽 기초 완성 | 체계적 학습 [2025년]"
 categories: ["과학"]
 tags: ["과학과외", "화학과외", "원소", "주기율표", "화학반응", "산염기", "화학식", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 ---
 
 # 과학 화학 기초 완벽 다지기

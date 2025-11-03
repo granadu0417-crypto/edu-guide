@@ -5,7 +5,7 @@ reading_time: "447줄"
 description: "영어 가정법 완벽 정복 | 가정법 과거/과거완료, I wish, as if 구문, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "가정법", "subjunctive", "조건문", "ifonly", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b7?w=1200&h=630&fit=crop"
 ---
 
 # 영어 가정법 완벽 정복

@@ -6,7 +6,7 @@ description: "한국의 지리적 특성를 체계적으로 학습하는 방법.
 categories: ["사회"]
 tags: ["사회", "한국지리", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 
 # 사회 한국지리 완벽 가이드

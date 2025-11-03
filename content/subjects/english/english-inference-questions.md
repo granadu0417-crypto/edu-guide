@@ -5,7 +5,7 @@ reading_time: "512줄"
 description: "영어 추론 문제 완벽 가이드 | 행간 읽기, 암시된 내용 파악, 논리적 추론, 1:1 맞춤 독해 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "독해", "추론", "inference", "암시", "논리", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 # 영어 추론 문제 완벽 정복

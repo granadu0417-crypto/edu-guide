@@ -6,7 +6,7 @@ description: "지구의 구조와 지질작용를 체계적으로 학습하는 �
 categories: ["과학"]
 tags: ["과학", "지질학", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
 ---
 
 # 과학 지질학 완벽 가이드

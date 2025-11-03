@@ -5,7 +5,7 @@ reading_time: "563줄"
 description: "영어 빈칸 추론 완벽 정복 | 문맥 파악, 논리 흐름, 연결어 활용, 1:1 맞춤 독해 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "독해", "빈칸추론", "문맥", "논리", "연결어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
 ---
 
 # 영어 빈칸 추론 완벽 대비

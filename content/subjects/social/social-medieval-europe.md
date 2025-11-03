@@ -6,7 +6,7 @@ description: "봉건제와 십자군 전쟁를 체계적으로 학습하는 방�
 categories: ["사회"]
 tags: ["사회", "중세 유럽", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 # 사회 중세 유럽 완벽 가이드

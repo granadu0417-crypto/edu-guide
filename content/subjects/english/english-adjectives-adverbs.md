@@ -5,7 +5,7 @@ reading_time: "525줄"
 description: "영어 형용사·부사 완벽 가이드 | 형용사 vs 부사 구별, 위치, -ly 변화, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "형용사", "부사", "adjective", "adverb", "ly", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
 ---
 
 # 영어 형용사·부사 완벽 정복

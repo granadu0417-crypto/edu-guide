@@ -5,7 +5,7 @@ reading_time: "579줄"
 description: "고1 수학 완벽 정복 | 다항식, 방정식과 부등식, 도형의 방정식, 집합과 명제, 함수, 경우의 수, 1:1 맞춤 고1 수학 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "고1", "고등수학", "다항식", "집합", "함수", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 ---
 
 # 고1 수학 완벽 가이드

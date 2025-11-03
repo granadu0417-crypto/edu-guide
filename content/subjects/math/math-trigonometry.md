@@ -5,7 +5,7 @@ reading_time: "519줄"
 description: "수학 삼각함수 완벽 정복 | 삼각비, 삼각함수, 덧셈정리, 삼각방정식, 1:1 맞춤 삼각함수 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "삼각함수", "삼각비", "수학1", "수학2", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 # 수학 삼각함수 완벽 정복 가이드

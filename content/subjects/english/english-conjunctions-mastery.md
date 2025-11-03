@@ -5,7 +5,7 @@ reading_time: "532줄"
 description: "영어 접속사 완벽 정복 | and/but/or, because/so, when/while 구별, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "접속사", "conjunction", "and", "but", "because", "when", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
 ---
 
 # 영어 접속사 완벽 마스터

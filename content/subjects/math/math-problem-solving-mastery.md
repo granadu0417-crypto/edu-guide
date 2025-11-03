@@ -5,7 +5,7 @@ reading_time: "519줄"
 description: "수학 문제풀이 과외로 유형 분석, 풀이 전략, 실전 테크닉까지 완벽 마스터 | 1:1 맞춤 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학과외", "문제풀이", "수학전략", "유형분석", "내신", "수능", "실전테크닉", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
 ---
 
 # 수학 문제풀이 완벽 마스터하기

@@ -5,7 +5,7 @@ reading_time: "489줄"
 description: "영어 일상 표현 완벽 정복 | 상황별 필수 회화, 자주 쓰는 표현, 1:1 맞춤 회화 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "회화", "일상표현", "실용영어", "speaking", "표현", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
 ---
 
 # 영어 일상 표현 완벽 정리

@@ -5,7 +5,7 @@ reading_time: "602줄"
 description: "효과적인 수학 노트 정리 방법 | 개념 정리, 문제 풀이, 오답 노트, 1:1 맞춤 노트 관리 [2025년]"
 categories: ["수학"]
 tags: ["수학", "노트정리", "공부법", "필기", "정리", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 # 수학 노트 정리법 완벽 가이드

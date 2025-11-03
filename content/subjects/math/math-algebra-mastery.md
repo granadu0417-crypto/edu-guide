@@ -5,7 +5,7 @@ reading_time: "900줄"
 description: "수학 대수 과외로 방정식, 부등식, 함수까지 완벽 정복 | 일차·이차·고차 방정식 체계적 학습 [2025년]"
 categories: ["수학"]
 tags: ["수학과외", "대수과외", "방정식", "부등식", "함수", "이차방정식", "인수분해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1616077167555-51f6bc516dfa?w=1200&h=630&fit=crop"
 ---
 
 **"방정식만 나오면 머리가 하얘져요..."** 대수 개념을 이해하지 못하거나, 문제 풀이 방법을 몰라서, 시험에서 좋은 점수를 받지 못하는 학생들이 많습니다.

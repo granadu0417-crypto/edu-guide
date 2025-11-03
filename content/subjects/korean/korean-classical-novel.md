@@ -6,7 +6,7 @@ description: "고전소설 유형과 특징 분석를 체계적으로 학습하�
 categories: ["국어"]
 tags: ["국어", "고전소설", "고전소설, 영웅소설, 판소리계소설", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
 ---
 
 # 국어 고전소설 완벽 가이드

@@ -5,7 +5,7 @@ reading_time: "662줄"
 description: "영어 학습 계획 완벽 정복 | 목표 설정, 일정 관리, 효율적 학습법, 1:1 맞춤 학습 전략 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "학습계획", "공부법", "스케줄", "study plan", "전략", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1581093458791-9d42e15ddd8e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=630&fit=crop"
 ---
 
 # 영어 학습 계획 완벽 수립 가이드

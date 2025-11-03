@@ -5,7 +5,7 @@ reading_time: "601줄"
 description: "영어 명사·관사 완벽 정복 | 가산/불가산 명사, a/an/the 구별, 1:1 맞춤 문법 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "문법", "명사", "관사", "가산명사", "불가산명사", "a", "the", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
 ---
 
 # 영어 명사·관사 완벽 활용

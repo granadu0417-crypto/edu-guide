@@ -6,7 +6,7 @@ description: "수학 학습에 필요한 모든 자료를 총정리했습니다.
 categories: ["수학"]
 tags: ["수학교재", "학습자료", "추천교재", "1:1과외", "온라인강의", "수학앱", "참고서", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1569163139394-de4798aa62b4?w=1200&h=630&fit=crop"
 ---
 
 # 수학 학습 자료 총정리 완벽 가이드

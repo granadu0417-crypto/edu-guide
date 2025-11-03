@@ -5,7 +5,7 @@ reading_time: "668줄"
 description: "영어 이메일 작성 완벽 정복 | 격식별 표현, 비즈니스 이메일, 실전 템플릿, 1:1 맞춤 작문 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "이메일", "email", "writing", "비즈니스", "작문", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
 ---
 
 # 영어 이메일 작성 완벽 가이드

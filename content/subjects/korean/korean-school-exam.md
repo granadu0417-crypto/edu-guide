@@ -6,7 +6,7 @@ description: "중간/기말고사 대비를 체계적으로 학습하는 방법.
 categories: ["국어"]
 tags: ["국어", "내신 국어", "내신, 학교시험", "1:1과외", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=1200&h=630&fit=crop"
 ---
 
 # 국어 내신 국어 완벽 가이드

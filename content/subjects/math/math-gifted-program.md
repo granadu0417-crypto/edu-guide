@@ -6,7 +6,7 @@ description: "영재교육원 수학 프로그램 준비부터 합격까지, 1:1
 categories: ["수학"]
 tags: ["영재교육원", "영재교육", "수학영재", "1:1과외", "창의수학", "심화학습", "입학준비", "2025"]
 author: "에듀코리아 수학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 
 # 영재교육원 수학 완벽 준비 가이드

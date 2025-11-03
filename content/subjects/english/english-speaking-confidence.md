@@ -5,7 +5,7 @@ reading_time: "611줄"
 description: "영어 말하기 자신감 키우는 핵심 전략 | 1:1 맞춤 회화 훈련, 발음 교정, 실전 대화 연습, 상황별 표현 [2025년]"
 categories: ["영어"]
 tags: ["영어", "말하기", "회화", "스피킹", "발음", "자신감", "영어회화", "원어민", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 # 영어 말하기 자신감 키우기

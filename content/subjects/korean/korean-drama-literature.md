@@ -6,7 +6,7 @@ description: "희곡 구성과 공연 예술를 체계적으로 학습하는 방
 categories: ["국어"]
 tags: ["국어", "희곡", "문학", "1:1과외", "희곡, 극문학, 대사, 무대", "2025"]
 author: "에듀코리아 국어교육연구소"
-featured_image: "https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
 ---
 
 # 국어 희곡 완벽 가이드

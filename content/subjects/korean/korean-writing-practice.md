@@ -5,7 +5,7 @@ reading_time: "695줄"
 description: "국어 글쓰기 과외로 문장 구성, 표현력, 논리적 전개를 체계적으로 학습. 매일 쓰기 훈련으로 작문 실력 향상"
 categories: ["국어"]
 tags: ["국어글쓰기과외", "작문", "표현력", "구성력", "첨삭지도", "국어과외", "글쓰기훈련"]
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=1200&h=630&fit=crop"
 ---
 
 **"글쓰기가 어려워요!"** 체계적 훈련으로 누구나 잘 쓸 수 있습니다.

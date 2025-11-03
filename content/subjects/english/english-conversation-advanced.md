@@ -5,7 +5,7 @@ reading_time: "446줄"
 description: "영어 고급 회화 완벽 정복 | 유창성, 자연스러움, 토론 능력, 1:1 맞춤 고급 회화 지도 [2025년]"
 categories: ["영어"]
 tags: ["영어", "고급회화", "speaking", "회화", "유창성", "토론", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop"
 ---
 
 # 영어 고급 회화 가이드

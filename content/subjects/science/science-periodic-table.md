@@ -6,7 +6,7 @@ description: "원소의 주기적 성질를 체계적으로 학습하는 방법.
 categories: ["과학"]
 tags: ["과학", "주기율표", "과학, 탐구, 실험", "1:1과외", "2025"]
 author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
 ---
 
 # 과학 주기율표 완벽 가이드

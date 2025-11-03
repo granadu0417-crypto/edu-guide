@@ -5,7 +5,7 @@ reading_time: "562줄"
 description: "영어 관용표현(이디엄) 과외로 자연스러운 영어 구사력 향상. 실생활 필수 숙어부터 고급 표현까지 체계적 학습법"
 categories: ["영어"]
 tags: ["영어관용표현", "이디엄과외", "영어숙어", "영어표현", "영어회화", "영어실력향상", "자연스러운영어"]
-featured_image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
 ---
 
 **"영어는 잘하는데 원어민처럼 자연스럽지 않다"** 많은 학생들의 고민입니다.

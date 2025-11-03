@@ -5,7 +5,7 @@ reading_time: "572줄"
 description: "수학 수열 완벽 정복 | 등차수열, 등비수열, 계차수열, 수열의 합, 1:1 맞춤 수열 지도 [2025년]"
 categories: ["수학"]
 tags: ["수학", "수열", "등차수열", "등비수열", "수학1", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
 ---
 
 # 수학 수열 완벽 정복 가이드

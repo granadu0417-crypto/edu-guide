@@ -6,7 +6,7 @@ description: "1차·2차 세계대전를 체계적으로 학습하는 방법. 1:
 categories: ["사회"]
 tags: ["사회", "세계대전", "사회, 역사, 지리", "1:1과외", "2025"]
 author: "에듀코리아 사회교육연구소"
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 # 사회 세계대전 완벽 가이드
