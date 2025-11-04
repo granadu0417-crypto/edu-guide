@@ -1,4 +1,4 @@
-const CACHE_NAME = 'edu-guide-v1';
+const CACHE_NAME = 'edu-guide-v2-20250115';
 const urlsToCache = [
   '/',
   '/css/style.css',
