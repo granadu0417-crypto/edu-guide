@@ -16,7 +16,7 @@ tags:
 - listening
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1481871550528-9c0fb7d8e88f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 ---
 
 # 영어 딕테이션 완벽 마스터

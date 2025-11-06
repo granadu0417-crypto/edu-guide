@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: https://images.unsplash.com/photo-1569163139394-de4798aa62b4?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
 # 수학 적분 완벽 정복 가이드

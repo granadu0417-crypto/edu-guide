@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1481871550528-9c0fb7d8e88f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
 ---
 
 # 과학 무기화학 완벽 가이드

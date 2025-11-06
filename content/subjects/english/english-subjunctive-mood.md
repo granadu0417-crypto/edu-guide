@@ -15,7 +15,7 @@ tags:
 - ifonly
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1635070041409-e63e783ce3b7?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 ---
 
 # 영어 가정법 완벽 정복

@@ -17,7 +17,7 @@ tags:
 - 표준어
 - '2025'
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1569163139394-de4798aa62b4?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
 ---
 
 # 맞춤법 완벽 가이드

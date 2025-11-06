@@ -16,7 +16,7 @@ tags:
 - 연결어
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 ---
 
 # 영어 빈칸 추론 완벽 대비

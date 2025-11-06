@@ -15,7 +15,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: https://images.unsplash.com/photo-1481871550528-9c0fb7d8e88f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
 # 수학 스터디 그룹 완벽 가이드

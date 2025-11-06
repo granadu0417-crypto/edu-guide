@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: https://images.unsplash.com/photo-1581093458791-9d42e15ddd8e?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
 # 수학 학습 앱 활용 가이드
