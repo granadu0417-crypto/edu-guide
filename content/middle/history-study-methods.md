@@ -3,8 +3,9 @@ title: "중학생 역사 공부법 - 암기가 아닌 이해와 흐름으로 접
 date: 2025-01-17
 description: "중학교 한국사와 세계사를 효과적으로 공부하는 방법입니다. 시대별 흐름 파악부터 인물·사건 정리, 서술형 대비까지 역사 과목 완벽 공략 전략을 제시합니다."
 categories: ["중학생", "역사", "사회"]
-tags: ["중학역사", "한국사", "세계사", "역사공부법"]
-featured_image: "https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=1200&h=630&fit=crop"
+tags: ["중학역사", "한국사", "세계사", "역사공부법", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
+featured_image: "https://images.pexels.com/photos/8782765/pexels-photo-8782765.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![역사 공부](https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=800&h=400&fit=crop)

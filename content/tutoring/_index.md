@@ -1,6 +1,8 @@
 ---
 title: "학원·과외 가이드"
-description: "좋은 학원과 과외 선생님을 찾는 방법, 학원 vs 과외 선택 가이드를 제공합니다."
+description: "과외, 학원, 개인과외에 대한 완벽 가이드. 좋은 학원과 과외 선생님을 찾는 방법, 학원 vs 과외 선택 가이드를 제공합니다."
+keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
+featured_image: "https://images.unsplash.com/photo-1695370992939-be4eb6fddf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw0fHxwZXJzb25hbGl6ZWQlMjBsZWFybmluZ3xlbnwwfDB8fHwxNzYyMzg5MzE5fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
 ---
 
 # 학원·과외 가이드

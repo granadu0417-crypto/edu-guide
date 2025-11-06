@@ -1,11 +1,12 @@
 ---
 title: "과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드"
 date: 2025-01-25
-description: "학원과 과외 중 무엇을 선택할지, 좋은 선생님은 어떻게 찾는지, 효과적으로 활용하는 방법까지. 과외 선택의 모든 것을 담았습니다."
+description: "과외, 학원, 개인과외에 대한 완벽 가이드. 학원과 과외 중 무엇을 선택할지, 좋은 선생님은 어떻게 찾는지, 효과적으로 활용하는 방법까지. 과외 선택의 모든 것을 담았습니다."
 categories: ["학원과외", "선택가이드"]
-tags: ["과외", "학원", "학원선택", "과외선생님", "1대1과외"]
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+tags: ["과외", "학원", "학원선택", "과외선생님", "1대1과외", "과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
+featured_image: "https://images.pexels.com/photos/7079148/pexels-photo-7079148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 draft: false
+keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
 ---
 
 ![학원과 과외 선택](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=800&h=400&fit=crop)

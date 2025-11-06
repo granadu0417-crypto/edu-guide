@@ -3,8 +3,9 @@ title: "초등학생 수학 문장제 문제 해결 전략 - 서술형 완벽 �
 date: 2025-01-17
 description: "초등학생이 어려워하는 수학 문장제 문제를 효과적으로 푸는 방법입니다. 문제 이해부터 풀이, 검산까지 체계적인 접근법과 학년별 맞춤 전략을 제시합니다."
 categories: ["초등학생", "수학", "문장제"]
-tags: ["수학문장제", "서술형", "초등수학", "문제풀이"]
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+tags: ["수학문장제", "서술형", "초등수학", "문제풀이", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
+featured_image: "https://images.unsplash.com/photo-1758612898716-fa346091b21e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8eW91bmclMjBzdHVkZW50JTIwaG9tZXdvcmt8ZW58MHwwfHx8MTc2MjM4OTI4MXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![수학 문제 풀이](https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=800&h=400&fit=crop)

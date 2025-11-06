@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 **1. 현재 단순형 (Present Simple)**:
 
 ```
-형태: 동사 원형 (3인칭 단수 -s)
+형태: 동[개별 문의 필요]형 (3인칭 단수 -s)
 
 용법:
 1) 습관적 행동
@@ -158,11 +158,11 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 **미래 표현 방법**:
 
 ```
-1. will + 동사원형
+1. will + 동[개별 문의 필요]형
    - 단순 미래, 의지
    - I will study hard.
 
-2. be going to + 동사원형
+2. be going to + 동[개별 문의 필요]형
    - 계획된 미래
    - I am going to study abroad.
 
@@ -562,7 +562,7 @@ how (방법):
 
 ```
 형태:
-If + 주어 + 과거동사~, 주어 + would/could + 동사원형
+If + 주어 + 과거동사~, 주어 + would/could + 동[개별 문의 필요]형
 
 예시:
 - If I were rich, I would buy a car.

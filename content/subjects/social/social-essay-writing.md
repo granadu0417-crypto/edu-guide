@@ -372,7 +372,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
    증가/감소 추세
    변곡점 확인
 
-4. 원인 분석:
+[개별 문의 필요]인 분석:
    왜 이런 현상이?
 
 5. 해석 서술:

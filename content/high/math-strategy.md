@@ -3,8 +3,9 @@ title: "수능 수학 영역별 완벽 공략 - 킬러 문제부터 시간 관�
 date: 2025-01-17
 description: "수능 수학 100분 30문항 완벽 대비 전략. 공통·선택과목 영역별 학습법, 킬러 문제 접근법, 실수 방지 체크리스트, 등급컷 올리는 시간 관리 노하우까지 고득점을 위한 실전 가이드입니다."
 categories: ["고등학교"]
-tags: ["수능", "수학", "공통과목", "선택과목", "킬러문제", "시간관리", "학습전략"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+tags: ["수능", "수학", "공통과목", "선택과목", "킬러문제", "시간관리", "학습전략", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
+featured_image: "https://images.pexels.com/photos/8489322/pexels-photo-8489322.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![수능 수학 공부](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop)

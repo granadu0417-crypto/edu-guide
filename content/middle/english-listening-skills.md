@@ -3,8 +3,9 @@ title: "중학생 영어 듣기 실력 향상법 - 실전 전략과 일일 훈�
 date: 2025-01-17
 description: "중학교 영어 듣기 평가 완벽 대비를 위한 체계적인 훈련법과 실전 전략. 받아쓰기부터 실전 문제 풀이까지, 듣기 실력을 단계적으로 향상시키는 구체적인 방법을 소개합니다."
 categories: ["중학교"]
-tags: ["영어", "듣기", "영어듣기", "내신", "수행평가", "학습법"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+tags: ["영어", "듣기", "영어듣기", "내신", "수행평가", "학습법", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원"]
+featured_image: "https://images.unsplash.com/photo-1585432959449-b1c9c8cc49ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxOHx8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![영어 듣기 학습](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop)

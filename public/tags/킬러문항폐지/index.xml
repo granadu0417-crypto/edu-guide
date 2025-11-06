@@ -1,19 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>킬러문항폐지 on 과외를부탁해 | 초중고 학습 정보 플랫폼</title>
-    <link>http://localhost:35079/tags/%ED%82%AC%EB%9F%AC%EB%AC%B8%ED%95%AD%ED%8F%90%EC%A7%80/</link>
-    <description>Recent content in 킬러문항폐지 on 과외를부탁해 | 초중고 학습 정보 플랫폼</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:35079/tags/%ED%82%AC%EB%9F%AC%EB%AC%B8%ED%95%AD%ED%8F%90%EC%A7%80/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2026학년도 수능 변경사항 총정리 - 고2 필독! 킬러문항 폐지와 과목 구조 개편</title>
-      <link>http://localhost:35079/high/2026-suneung-changes/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35079/high/2026-suneung-changes/</guid>
-      <description>&lt;h2 id=&#34;2026학년도-수능-무엇이-달라지나요&#34;&gt;2026학년도 수능, 무엇이 달라지나요?&lt;/h2&gt;&#xA;&lt;p&gt;안녕하세요, 과외를부탁해입니다! 👋&lt;/p&gt;&#xA;&lt;p&gt;현재 고2 학생 여러분, 2026학년도 수능에 큰 변화가 있다는 사실 알고 계시죠? 교육부가 발표한 개편안에 따르면 &lt;strong&gt;킬러문항 폐지&lt;/strong&gt;를 포함해 여러 중요한 변경사항이 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;이 글에서는 2026 수능의 모든 변경사항을 한눈에 정리해드리겠습니다. 지금부터 차근차근 준비하면 충분히 대비할 수 있으니, 끝까지 읽어보시길 추천드려요!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-2026-수능-핵심-변경사항-요약&#34;&gt;📌 2026 수능 핵심 변경사항 요약&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;구분&lt;/th&gt;&#xA;          &lt;th&gt;기존 (2025학년도)&lt;/th&gt;&#xA;          &lt;th&gt;변경 (2026학년도)&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;킬러문항&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;존재 (상위 4% 변별)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;전면 폐지&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;국어 선택과목&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;화법과 작문 / 언어와 매체&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;공통과목으로 통합&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;수학 선택과목&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;확률과 통계 / 미적분 / 기하&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;동일 유지&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;사회탐구&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;9개 과목 중 2개 선택&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;통합사회 추가&lt;/strong&gt; (10개 과목)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;과학탐구&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;8개 과목 중 2개 선택&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;통합과학 추가&lt;/strong&gt; (9개 과목)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;영어&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;절대평가&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;동일 유지&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;문항 난이도&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;최고 난이도 4-5%&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;최고 난이도 10% 수준으로 하향&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-가장-큰-변화-킬러문항-완전-폐지&#34;&gt;1️⃣ 가장 큰 변화: 킬러문항 완전 폐지&lt;/h2&gt;&#xA;&lt;h3 id=&#34;킬러문항이-뭔가요&#34;&gt;킬러문항이 뭔가요?&lt;/h3&gt;&#xA;&lt;p&gt;킬러문항은 &lt;strong&gt;상위 4% 학생도 풀기 어려운 초고난도 문제&lt;/strong&gt;를 의미합니다. 주로 수학과 과학탐구 영역에서 출제되었고, 사교육 의존도를 높인다는 비판을 받아왔어요.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>킬러문항폐지 on 과외를부탁해 | 초중고 학습 정보 플랫폼</title><link>https://edukoreaai.com/tags/%ED%82%AC%EB%9F%AC%EB%AC%B8%ED%95%AD%ED%8F%90%EC%A7%80/</link><description>Recent content in 킬러문항폐지 on 과외를부탁해 | 초중고 학습 정보 플랫폼</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%ED%82%AC%EB%9F%AC%EB%AC%B8%ED%95%AD%ED%8F%90%EC%A7%80/index.xml" rel="self" type="application/rss+xml"/><item><title>2026학년도 수능 변경사항 총정리 - 고2 필독! 킬러문항 폐지와 과목 구조 개편</title><link>https://edukoreaai.com/high/2026-suneung-changes/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/high/2026-suneung-changes/</guid><description>&lt;h2 id="2026학년도-수능-무엇이-달라지나요">2026학년도 수능, 무엇이 달라지나요?&lt;/h2>
+&lt;p>안녕하세요, 과외를부탁해입니다! 👋&lt;/p>
+&lt;p>현재 고2 학생 여러분, 2026학년도 수능에 큰 변화가 있다는 사실 알고 계시죠? 교육부가 발표한 개편안에 따르면 &lt;strong>킬러문항 폐지&lt;/strong>를 포함해 여러 중요한 변경사항이 있습니다.&lt;/p>
+&lt;p>이 글에서는 2026 수능의 모든 변경사항을 한눈에 정리해드리겠습니다. 지금부터 차근차근 준비하면 충분히 대비할 수 있으니, 끝까지 읽어보시길 추천드려요!&lt;/p>
+&lt;hr>
+&lt;h2 id="-2026-수능-핵심-변경사항-요약">📌 2026 수능 핵심 변경사항 요약&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">구분&lt;/th>
+ &lt;th style="text-align: left">기존 (2025학년도)&lt;/th>
+ &lt;th style="text-align: left">변경 (2026학년도)&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>킬러문항&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">존재 (상위 4% 변별)&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>전면 폐지&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>국어 선택과목&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">화법과 작문 / 언어와 매체&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>공통과목으로 통합&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>수학 선택과목&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">확률과 통계 / 미적분 / 기하&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>동일 유지&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>사회탐구&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">9개 과목 중 2개 선택&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>통합사회 추가&lt;/strong> (10개 과목)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>과학탐구&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">8개 과목 중 2개 선택&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>통합과학 추가&lt;/strong> (9개 과목)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>영어&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">절대평가&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>동일 유지&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>문항 난이도&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">최고 난이도 4-5%&lt;/td>
+ &lt;td style="text-align: left">&lt;strong>최고 난이도 10% 수준으로 하향&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="1-가장-큰-변화-킬러문항-완전-폐지">1️⃣ 가장 큰 변화: 킬러문항 완전 폐지&lt;/h2>
+&lt;h3 id="킬러문항이-뭔가요">킬러문항이 뭔가요?&lt;/h3>
+&lt;p>킬러문항은 &lt;strong>상위 4% 학생도 풀기 어려운 초고난도 문제&lt;/strong>를 의미합니다. 주로 수학과 과학탐구 영역에서 출제되었고, 사교육 의존도를 높인다는 비판을 받아왔어요.&lt;/p></description></item></channel></rss>

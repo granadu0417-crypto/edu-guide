@@ -1,10 +1,11 @@
 ---
 title: "초등 영어 단어 암기 효과적인 5가지 방법 - 즐겁게 외우기"
 date: 2025-01-17
-description: "초등학생이 영어 단어를 효과적으로 암기하는 방법입니다. 단순 반복이 아닌 재미있고 기억에 오래 남는 어휘 학습 전략을 제시합니다."
+description: "초등학생, 초등, 초등교육에 대한 완벽 가이드. 초등학생이 영어 단어를 효과적으로 암기하는 방법입니다. 단순 반복이 아닌 재미있고 기억에 오래 남는 어휘 학습 전략을 제시합니다."
 categories: ["초등학생", "영어", "어휘"]
-tags: ["영어단어", "어휘암기", "초등영어", "영어학습"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+tags: ["영어단어", "어휘암기", "초등영어", "영어학습", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
+featured_image: "https://images.unsplash.com/photo-1615466178532-b6d2f9c304de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw4fHxwcmltYXJ5JTIwc2Nob29sJTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3NjIzODkyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![영어 단어 학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)

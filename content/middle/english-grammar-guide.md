@@ -1,10 +1,11 @@
 ---
-title: "중학 영어 문법 완벽 정리 - 핵심 개념과 실전 적용"
+title: "중학생 중학 영어 문법 완벽 정리 - 핵심 개념과 실전 적용"
 date: 2025-01-17
 description: "중학교 3년간 배우는 영어 문법을 체계적으로 정리한 완벽 가이드입니다. 시제, 조동사, to부정사, 동명사부터 관계사, 가정법까지 핵심 개념과 실전 문제 풀이 전략을 제시합니다."
 categories: ["중학생", "영어", "문법"]
-tags: ["중등영어", "영어문법", "내신영어", "문법정리"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+tags: ["중등영어", "영어문법", "내신영어", "문법정리", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
+featured_image: "https://images.pexels.com/photos/4143801/pexels-photo-4143801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![영어 문법 공부](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=400&fit=crop)
@@ -60,8 +61,8 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 **기본 형태**
 ```
-I/You/We/They + 동사원형
-He/She/It + 동사원형 + s/es
+I/You/We/They + 동[개별 문의 필요]형
+He/She/It + 동[개별 문의 필요]형 + s/es
 
 I play soccer.
 He plays soccer.
@@ -102,13 +103,13 @@ come - came - come
 
 ### 미래 시제 (Future Tense)
 
-**will + 동사원형**
+**will + 동[개별 문의 필요]형**
 ```
 I will study tomorrow.
 She will come soon.
 ```
 
-**be going to + 동사원형**
+**be going to + 동[개별 문의 필요]형**
 ```
 I am going to study tomorrow.
 계획된 미래, 확실한 미래
@@ -245,7 +246,7 @@ You should study harder.
 
 ## 3. to부정사 (Infinitive) - 중2 핵심
 
-**to + 동사원형**, 명사·형용사·부사 역할
+**to + 동[개별 문의 필요]형**, 명사·형용사·부사 역할
 
 ### 명사적 용법: ~하는 것
 
@@ -317,7 +318,7 @@ He is old enough to drive.
 
 ## 4. 동명사 (Gerund) - 중2 핵심
 
-**동사원형 + -ing**, 명사 역할만
+**동[개별 문의 필요]형 + -ing**, 명사 역할만
 
 ### 주어
 
@@ -673,7 +674,7 @@ The broken window was fixed.
 ### 가정법 과거 (현재 사실 반대)
 
 ```
-If + 주어 + 과거동사, 주어 + would/could + 동사원형
+If + 주어 + 과거동사, 주어 + would/could + 동[개별 문의 필요]형
 
 If I were rich, I would buy a car.
 (사실: 나는 부자가 아니다)
@@ -721,7 +722,7 @@ I wish I were tall.
 ```
 [to부정사 - 명사적 용법]
 
-형태: to + 동사원형
+형태: to + 동[개별 문의 필요]형
 역할: 주어, 목적어, 보어
 예문: I want to go home.
 주의: want + to부정사 (동명사 X)

@@ -3,8 +3,9 @@ title: "중학생 서술형 평가 완벽 대비 - 모든 과목 고득점 전�
 date: 2025-01-17
 description: "중학교 서술형 평가를 체계적으로 준비하는 방법입니다. 국어, 영어, 수학, 사회, 과학 과목별 서술형 문제 유형 분석과 답안 작성 전략, 감점 요인 피하기까지 완벽 정리합니다."
 categories: ["중학생", "시험", "서술형"]
-tags: ["서술형평가", "내신", "답안작성", "시험전략"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+tags: ["서술형평가", "내신", "답안작성", "시험전략", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
+featured_image: "https://images.unsplash.com/photo-1758525861614-4d3cb34751d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwzMHx8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![서술형 평가](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
@@ -43,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 ![답안 작성](https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&h=400&fit=crop)
 *체계적인 답안 구성이 중요합니다*
 
-## 서술형 답안 작성 5원칙
+## 서술형 답안 작성 [개별 문의 필요]칙
 
 ### 1. 문제가 요구하는 것 정확히 파악
 
@@ -358,7 +359,7 @@ Q: ~의 의미를 서술하시오.
 - 예시 추가
 ```
 
-**2. 원인·결과**
+**[개별 문의 필요]인·결과**
 ```
 Q: ~의 원인과 결과를 쓰시오.
 
@@ -418,7 +419,7 @@ Q: A와 B를 비교하여 쓰시오.
 
 ### 문제 유형
 
-**1. 원리 설명**
+**[개별 문의 필요]리 설명**
 ```
 Q: ~의 원리를 설명하시오.
 

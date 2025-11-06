@@ -3,8 +3,9 @@ title: "초등 고학년 사회·과학 공부법 - 암기가 아닌 이해 중�
 date: 2025-01-17
 description: "초등 고학년(4~6학년) 사회와 과학 과목을 효과적으로 공부하는 방법입니다. 단순 암기를 벗어나 이해 중심 학습으로 내신과 사고력을 동시에 키우는 전략을 제시합니다."
 categories: ["초등학생", "사회", "과학", "학습법"]
-tags: ["초등사회", "초등과학", "고학년공부", "암기과목"]
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+tags: ["초등사회", "초등과학", "고학년공부", "암기과목", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
+featured_image: "https://images.pexels.com/photos/5212681/pexels-photo-5212681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![초등 사회 과학 학습](https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800&h=400&fit=crop)

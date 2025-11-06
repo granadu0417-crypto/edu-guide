@@ -1,10 +1,11 @@
 ---
 title: "강남구 수학과외 선택 가이드 - 전문가가 알려주는 5가지 핵심 포인트"
 date: 2025-01-27
-description: "대치동, 압구정, 청담동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
+description: "지역, 서울, 경기에 대한 완벽 가이드. 대치동, 압구정, 청담동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
-tags: ["강남구", "수학과외", "대치동", "압구정", "청담", "수학", "과외", "초등수학", "중등수학", "고등수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+tags: ["강남구", "수학과외", "대치동", "압구정", "청담", "수학", "과외", "초등수학", "중등수학", "고등수학", "수능수학", "지역", "서울", "경기", "강남"]
+featured_image: "https://images.unsplash.com/photo-1660100340893-c775f01cd9c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMXx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzAxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 강남구에서 수학과외를 알아보는 학부모님들이 가장 많이 하시는 질문이 있습니다. 

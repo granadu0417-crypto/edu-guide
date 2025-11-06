@@ -3,8 +3,9 @@ title: "중학생 시간 관리와 학습 계획표 작성법 - 실천 가능한
 date: 2025-01-17
 description: "중학교 내신과 수행평가를 동시에 준비하는 효과적인 시간 관리 전략. 현실적인 학습 계획표 작성 방법부터 실천력을 높이는 구체적인 팁까지, 8~9과목을 효율적으로 관리하는 방법을 소개합니다."
 categories: ["중학교"]
-tags: ["시간관리", "학습계획", "스케줄", "내신", "수행평가", "생활관리"]
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+tags: ["시간관리", "학습계획", "스케줄", "내신", "수행평가", "생활관리", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원"]
+featured_image: "https://images.unsplash.com/photo-1758525861793-9258e09708e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyNHx8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![시간 관리와 계획](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop)

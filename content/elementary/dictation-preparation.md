@@ -3,8 +3,9 @@ title: "초등학교 받아쓰기 대비 전략 - 만점 받는 7가지 비법"
 date: 2025-01-17
 description: "초등학교 받아쓰기 시험을 체계적으로 준비하는 방법입니다. 단순 암기를 넘어 맞춤법 원리를 이해하고, 꾸준한 연습으로 국어 실력을 키우는 전략을 제시합니다."
 categories: ["초등학생", "국어", "받아쓰기"]
-tags: ["받아쓰기", "맞춤법", "초등국어", "어휘학습"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+tags: ["받아쓰기", "맞춤법", "초등국어", "어휘학습", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
+featured_image: "https://images.unsplash.com/photo-1758685733633-a12889098460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw2fHxlbGVtZW50YXJ5JTIwc3R1ZGVudCUyMHN0dWR5aW5nfGVufDB8MHx8fDE3NjIzODkyNzR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![받아쓰기 공부](https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&h=400&fit=crop)

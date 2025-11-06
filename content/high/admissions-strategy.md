@@ -1,10 +1,11 @@
 ---
-title: "학생부종합전형 완벽 대비 - 자소서부터 면접까지 합격 전략"
+title: "고등학생 학생부종합전형 완벽 대비 - 자소서부터 면접까지 합격 전략"
 date: 2025-01-17
 description: "학생부종합전형 합격을 위한 완벽 가이드. 전형 이해부터 자기소개서 작성법, 면접 준비, 평가 요소별 대비 전략까지 상위권 대학 합격을 위한 실전 노하우를 소개합니다."
 categories: ["고등학교"]
-tags: ["학생부종합", "학종", "자기소개서", "면접", "대입전형", "수시", "합격전략"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+tags: ["학생부종합", "학종", "자기소개서", "면접", "대입전형", "수시", "합격전략", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
+featured_image: "https://images.unsplash.com/photo-1762330917436-862420554194?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8YWR2YW5jZWQlMjBzdHVkeWluZ3xlbnwwfDB8fHwxNzYyMzg5Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![대학 입시 준비](https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop)

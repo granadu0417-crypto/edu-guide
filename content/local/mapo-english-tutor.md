@@ -1,11 +1,11 @@
 ---
-title: "마포구 영어과외 선택 가이드 - 효과적인 1:1 영어 학습법"
+title: "지역 마포구 영어과외 선택 가이드 - 효과적인 1:1 영어 학습법"
 date: 2025-10-16T09:00:00+09:00
 categories: ["지역정보", "과외"]
-tags: ["마포구", "영어과외", "과외추천", "1대1과외", "영어회화"]
-description: "마포구에서 영어과외를 찾고 계신가요? 1:1 영어과외의 실제 효과와 장점, 올바른 선택 방법을 알려드립니다."
-keywords: ["마포구 영어과외", "마포 과외", "영어 1대1", "영어과외 효과", "영어과외 선택방법"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+tags: ["마포구", "영어과외", "과외추천", "1대1과외", "영어회화", "지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
+description: "지역, 서울, 경기에 대한 완벽 가이드. 마포구에서 영어과외를 찾고 계신가요? 1:1 영어과외의 실제 효과와 장점, 올바른 선택 방법을 알려드립니다."
+keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
+featured_image: "https://images.unsplash.com/photo-1554345477-fb33b2cfff57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8c2VvdWwlMjBjaXR5c2NhcGV8ZW58MHwwfHx8MTc2MjM4OTI5NXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
 ---
 
 마포구에서 아이에게 맞는 영어과외를 찾는 것은 쉽지 않습니다. 학원은 많은 학생들 때문에 개별 관리가 어렵고, 과외는 선택의 폭이 너무 넓어 고민되시죠.

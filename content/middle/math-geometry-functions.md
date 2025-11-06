@@ -1,10 +1,11 @@
 ---
-title: "중학 수학 완벽 정복 - 도형과 함수 집중 공략"
+title: "중학생 중학 수학 완벽 정복 - 도형과 함수 집중 공략"
 date: 2025-01-17
 description: "중학교 수학의 핵심인 도형과 함수를 완벽하게 정리한 가이드입니다. 평면도형, 입체도형, 일차함수, 이차함수까지 개념 이해와 문제 풀이 전략을 체계적으로 제시합니다."
 categories: ["중학생", "수학", "도형", "함수"]
-tags: ["중등수학", "도형", "함수", "일차함수", "이차함수"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+tags: ["중등수학", "도형", "함수", "일차함수", "이차함수", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
+featured_image: "https://images.pexels.com/photos/3769995/pexels-photo-3769995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![중학 수학 공부](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=400&fit=crop)
@@ -223,7 +224,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 부피 = (4πr³) ÷ 3
 ```
 
-## 1-4. 원의 성질 (중3 핵심)
+## 1-[개별 문의 필요]의 성질 (중3 핵심)
 
 ### 원의 기본
 
@@ -240,7 +241,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 **원주각의 성질**
 ```
 1. 한 호에 대한 원주각의 크기는 일정
-2. 원주각 = 중심각 ÷ 2
+[개별 문의 필요]주각 = 중심각 ÷ 2
 3. 반원에 대한 원주각 = 90°
 ```
 

@@ -1,7 +1,8 @@
 ---
 title: "시험 대비 전략"
-description: "중간고사, 기말고사, 수능까지 시험 기간별 효과적인 학습 전략과 공부법을 소개합니다."
-keywords: ["시험 대비", "중간고사", "기말고사", "수능", "시험 공부법", "시험 전략"]
+description: "시험, 시험대비, 중간고사에 대한 완벽 가이드. 중간고사, 기말고사, 수능까지 시험 기간별 효과적인 학습 전략과 공부법을 소개합니다."
+keywords: ["시험", "시험대비", "중간고사", "기말고사", "모의고사", "공부법", "학습전략", "오답노트", "시험준비"]
+featured_image: "https://images.unsplash.com/photo-1733817561081-5a2f1ac6813c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw4fHx0ZXN0JTIwcmV2aWV3JTIwbm90ZXN8ZW58MHwwfHx8MTc2MjM4OTI4M3ww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
 ---
 
 # 시험 대비 전략

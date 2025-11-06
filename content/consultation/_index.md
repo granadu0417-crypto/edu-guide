@@ -1,6 +1,7 @@
 ---
 title: "무료 학습 상담"
 description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료 상담을 받아보세요. 카카오톡으로 언제든지 편하게 문의하세요."
+featured_image: "https://images.pexels.com/photos/6517325/pexels-photo-6517325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 <div class="consultation-hero">
@@ -129,7 +130,7 @@ description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료
   <div class="trust-item">
     <div class="trust-icon">💯</div>
     <h3>완전 무료</h3>
-    <p>상담 비용 0원<br>부담 없이 문의하세요</p>
+    <p>상담 비용 [개별 문의 필요]<br>부담 없이 문의하세요</p>
   </div>
 
   <div class="trust-item">

@@ -3,8 +3,9 @@ title: "중학생 독해력 향상 전략 - 비문학·문학 완벽 정복"
 date: 2025-01-17
 description: "중학교 국어 독해력을 체계적으로 향상시키는 방법입니다. 비문학(설명문, 논설문)과 문학(시, 소설) 지문 분석부터 문제 풀이 전략까지 독해의 모든 것을 제시합니다."
 categories: ["중학생", "국어", "독해"]
-tags: ["독해력", "비문학", "문학", "국어독해"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+tags: ["독해력", "비문학", "문학", "국어독해", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
+featured_image: "https://images.unsplash.com/photo-1585314455738-55f248937b76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMTR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![독해 공부](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=400&fit=crop)
@@ -132,7 +133,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 읽기 전략:
 1. 용어 정의 확인
-2. 원인과 결과 파악
+[개별 문의 필요]인과 결과 파악
 3. 도표·그림 참고
 4. 예시로 이해 확인
 ```

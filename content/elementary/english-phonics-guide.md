@@ -1,10 +1,11 @@
 ---
 title: "초등 영어 파닉스 학습 완벽 가이드 - 읽기의 첫걸음"
 date: 2025-01-17
-description: "초등학생 영어 파닉스 학습의 모든 것! 알파벳 소리부터 단어 읽기까지, 가정에서 실천할 수 있는 체계적인 파닉스 학습 방법을 소개합니다."
+description: "초등학생, 초등, 초등교육에 대한 완벽 가이드. 초등학생 영어 파닉스 학습의 모든 것! 알파벳 소리부터 단어 읽기까지, 가정에서 실천할 수 있는 체계적인 파닉스 학습 방법을 소개합니다."
 categories: ["초등학생", "영어", "파닉스"]
-tags: ["초등영어", "파닉스", "알파벳", "영어읽기"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+tags: ["초등영어", "파닉스", "알파벳", "영어읽기", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
+featured_image: "https://images.pexels.com/photos/5896589/pexels-photo-5896589.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![영어 알파벳 학습](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=800&h=400&fit=crop)

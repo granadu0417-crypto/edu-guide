@@ -1,7 +1,8 @@
 ---
 title: "학원·과외 선택 가이드"
-description: "학원과 과외 중 무엇을 선택할지, 어떻게 선택해야 하는지 종합 가이드"
-keywords: ["학원 선택", "과외 선택", "학원 vs 과외", "사교육 선택"]
+description: "과외, 학원, 개인과외에 대한 완벽 가이드. 학원과 과외 중 무엇을 선택할지, 어떻게 선택해야 하는지 종합 가이드"
+keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
+featured_image: "https://images.pexels.com/photos/8520496/pexels-photo-8520496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # 학원·과외 선택 가이드

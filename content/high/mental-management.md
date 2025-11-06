@@ -1,10 +1,11 @@
 ---
-title: "고3 학습 멘탈 관리와 슬럼프 극복 - 수험 생활 심리 전략"
+title: "고등학생 고3 학습 멘탈 관리와 슬럼프 극복 - 수험 생활 심리 전략"
 date: 2025-01-17
 description: "고3 수험생을 위한 멘탈 관리와 슬럼프 극복 완벽 가이드. 학습 동기 유지법, 스트레스 관리, 불안 극복, 집중력 향상, 번아웃 예방까지 수험 생활을 이겨내는 심리 전략을 소개합니다."
 categories: ["고등학교"]
-tags: ["멘탈관리", "슬럼프극복", "수험생활", "스트레스", "동기부여", "집중력", "심리관리"]
-featured_image: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&h=630&fit=crop"
+tags: ["멘탈관리", "슬럼프극복", "수험생활", "스트레스", "동기부여", "집중력", "심리관리", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
+featured_image: "https://images.unsplash.com/photo-1507207908229-c59ddb730e40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw2fHxoaWdoJTIwc2Nob29sJTIwc3R1ZGVudHxlbnwwfDB8fHwxNzYyMzg5MjkwfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![학습과 멘탈 관리](https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&h=630&fit=crop)

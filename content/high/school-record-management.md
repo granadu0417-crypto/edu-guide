@@ -3,8 +3,9 @@ title: "고등학교 내신과 생활기록부 완벽 관리 - 대입 성공 전
 date: 2025-01-17
 description: "고등학교 내신 등급 관리부터 생활기록부 작성까지 대입 성공을 위한 완벽 가이드. 교과 성적 향상 전략, 비교과 활동 관리, 세특 작성 노하우, 학년별 준비 로드맵을 상세히 소개합니다."
 categories: ["고등학교"]
-tags: ["내신", "생활기록부", "세특", "비교과", "대입", "학생부종합", "교과전형"]
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+tags: ["내신", "생활기록부", "세특", "비교과", "대입", "학생부종합", "교과전형", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
+featured_image: "https://images.pexels.com/photos/2781814/pexels-photo-2781814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![고등학교 학습과 기록](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop)
@@ -429,7 +430,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 - 다른 관점 제시
 
 질문 예시:
-"선생님, 이 원리를 실생활에 적용하면
+"선생님, [개별 문의 필요]리를 실생활에 적용하면
  어떻게 활용할 수 있나요?"
 
 효과:

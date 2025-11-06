@@ -1,7 +1,8 @@
 ---
 title: "학원 찾기"
-description: "우리 동네 학원 정보, 학원 선택 가이드, 학원별 특징과 장단점"
-keywords: ["학원 찾기", "학원 정보", "학원 선택", "보습학원", "입시학원"]
+description: "과외, 학원, 개인과외에 대한 완벽 가이드. 우리 동네 학원 정보, 학원 선택 가이드, 학원별 특징과 장단점"
+keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
+featured_image: "https://images.pexels.com/photos/34572615/pexels-photo-34572615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 # 학원 찾기

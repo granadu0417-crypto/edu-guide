@@ -1,10 +1,11 @@
 ---
 title: "관악구 수학과외 핵심 가이드 | 서울대 수학과가 가르치는 차별화된 교육"
 date: 2025-01-27
-description: "신림동, 봉천동, 남현동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
+description: "지역, 서울, 경기에 대한 완벽 가이드. 신림동, 봉천동, 남현동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
-tags: ["관악구", "수학과외", "신림동", "봉천동", "남현동", "수학", "과외", "서울대", "내신수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+tags: ["관악구", "수학과외", "신림동", "봉천동", "남현동", "수학", "과외", "서울대", "내신수학", "수능수학", "지역", "서울", "경기", "강남", "강동"]
+featured_image: "https://images.unsplash.com/photo-1729799959058-bda08177a84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8bmVpZ2hib3Job29kJTIwbGVhcm5pbmclMjBjZW50ZXJ8ZW58MHwwfHx8MTc2MjM4OTMzMXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 관악구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.
@@ -83,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 - 분수와 소수의 완벽한 이해
 - 도형과 측정의 공간 감각 형성
-- 수학 영재교육원 대비(희망시)
+- 수학 영재교[개별 문의 필요] 대비(희망시)
 - 경시대회 준비 가능
 
 {{< cta-dual type="inline" >}}
@@ -268,7 +269,7 @@ A. 일반적으로 최소 2-3개월은 지켜봐야 합니다.
 
 A. 관악구는 서울대 수학 올림피아드 메달리스트들이 많아
 경시대회 준비에 최적화된 환경입니다.
-수학 영재교육원, KMO, IMO 등 다양한 수준의 대비가 가능합니다.
+수학 영재교[개별 문의 필요], KMO, IMO 등 다양한 수준의 대비가 가능합니다.
 
 {{< cta-dual type="final" >}}
 

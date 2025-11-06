@@ -1,10 +1,11 @@
 ---
 title: "학원 vs 과외, 어떤 게 우리 아이에게 맞을까?"
 date: 2025-01-24
-description: "학원과 과외의 장단점을 비교하고, 우리 아이에게 맞는 학습 방법을 선택하는 가이드를 제공합니다."
+description: "과외, 학원, 개인과외에 대한 완벽 가이드. 학원과 과외의 장단점을 비교하고, 우리 아이에게 맞는 학습 방법을 선택하는 가이드를 제공합니다."
 categories: ["학원·과외", "선택가이드"]
-tags: ["학원", "과외", "비교", "선택가이드"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+tags: ["학원", "과외", "비교", "선택가이드", "과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
+featured_image: "https://images.unsplash.com/photo-1589995635011-078e0bb91d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxfHx0dXRvciUyMHRlYWNoaW5nfGVufDB8MHx8fDE3NjIzODkzODF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
 ---
 
 # 학원 vs 과외, 어떤 게 우리 아이에게 맞을까?

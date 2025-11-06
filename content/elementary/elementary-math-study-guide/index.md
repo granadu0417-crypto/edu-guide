@@ -3,10 +3,11 @@ title: "초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략"
 date: 2025-01-26
 description: "초등 수학 공부, 어떻게 시작해야 할까요? 1학년부터 6학년까지 학년별 맞춤 학습 전략과 실전 노하우를 전문가가 알려드립니다. 수학 기초를 탄탄하게!"
 categories: ["초등학생", "수학", "학습법"]
-tags: ["초등수학", "공부법", "학습전략", "수학기초", "학년별학습", "초등교육", "사칙연산", "문제풀이", "수학개념"]
+tags: ["초등수학", "공부법", "학습전략", "수학기초", "학년별학습", "초등교육", "사칙연산", "문제풀이", "수학개념", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법"]
 grades: ["초등학생"]
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80"
+featured_image: "https://images.unsplash.com/photo-1758525861781-bea6e7d79334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyMHx8eW91bmclMjBzdHVkZW50JTIwaG9tZXdvcmt8ZW58MHwwfHx8MTc2MjM4OTMyMnww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
 draft: false
+keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ## 🎯 초등 수학, 왜 이렇게 중요할까요?
@@ -172,7 +173,7 @@ draft: false
 
 ### 5️⃣ 실생활 속 수학 찾기
 
-- 장보기: "10,000원으로 뭘 살 수 있을까?"
+- 장보기: "[개별 문의 필요]으로 뭘 살 수 있을까?"
 - 요리: "200g이 필요한데, 100g씩 몇 개?"
 - 시간: "30분 후에 출발하면 몇 시야?"
 - 거리: "학교까지 500m인데, 100m는 몇 %야?"

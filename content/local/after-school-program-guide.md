@@ -1,10 +1,11 @@
 ---
-title: "초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법"
+title: "지역 초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법"
 date: 2025-01-17
 description: "초등학교 방과후학교와 돌봄교실의 모든 것을 안내합니다. 프로그램 종류, 비용, 신청 방법, 지원 제도까지 학부모가 꼭 알아야 할 정보를 총정리했습니다."
 categories: ["지역정보"]
-tags: ["방과후학교", "돌봄교실", "초등돌봄", "방과후프로그램", "교육복지", "무상교육", "특기적성"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+tags: ["방과후학교", "돌봄교실", "초등돌봄", "방과후프로그램", "교육복지", "무상교육", "특기적성", "지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가"]
+featured_image: "https://images.unsplash.com/photo-1637070901110-c06a08018c35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxNHx8c2VvdWwlMjBjaXR5c2NhcGV8ZW58MHwwfHx8MTc2MjM4OTI5NXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 맞벌이 가정이 늘어나면서 방과후학교와 돌봄교실의 중요성이 커지고 있습니다. 자녀의 안전한 보호와 교육을 동시에 제공하는 방과후 프로그램의 모든 것을 상세히 알아보겠습니다.

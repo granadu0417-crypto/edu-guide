@@ -1,11 +1,12 @@
 ---
 title: "중학생 자기주도학습 완전 가이드 - 내신부터 고등 준비까지"
 date: 2025-01-25
-description: "중학생 자기주도학습의 모든 것. 계획 수립부터 실행, 점검까지 단계별 전략과 내신 관리, 고등학교 준비를 위한 실전 가이드입니다."
+description: "중학생, 중학교, 중등에 대한 완벽 가이드. 중학생 자기주도학습의 모든 것. 계획 수립부터 실행, 점검까지 단계별 전략과 내신 관리, 고등학교 준비를 위한 실전 가이드입니다."
 categories: ["중학생", "학습법", "자기주도학습"]
-tags: ["중학내신", "공부법", "학습전략", "자기주도학습"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+tags: ["중학내신", "공부법", "학습전략", "자기주도학습", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
+featured_image: "https://images.unsplash.com/photo-1666280963024-5da21c9be270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw2fHx0ZWVuYWdlciUyMHN0dWR5aW5nfGVufDB8MHx8fDE3NjIzODkzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
 draft: false
+keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![자기주도학습하는 중학생](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
