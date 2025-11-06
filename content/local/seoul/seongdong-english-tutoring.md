@@ -19,7 +19,7 @@ tags:
 - 실용영어
 - 입시영어,
 - 강남
-featured_image: https://images.unsplash.com/photo-1708780477852-4ba6fb3902f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwzfHxuZWlnaGJvcmhvb2QlMjBsZWFybmluZyUyMGNlbnRlcnxlbnwwfDB8fHwxNzYyMzg5MzMxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1708780477852-4ba6fb3902f7?w=1200&h=630&fit=crop
 ---
 
 성동구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

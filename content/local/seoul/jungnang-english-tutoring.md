@@ -18,7 +18,7 @@ tags:
 - 수능영어,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1751768542554-2d0469b7093c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw2fHxrb3JlYW4lMjBjaXR5JTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3NjIzODkzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1751768542554-2d0469b7093c?w=1200&h=630&fit=crop
 ---
 
 중랑구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

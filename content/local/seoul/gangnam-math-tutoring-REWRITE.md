@@ -19,7 +19,7 @@ tags:
 - 고등수학
 - 수능수학
 - 학부모후기,
-featured_image: https://images.unsplash.com/photo-1602825398850-714a149a7d04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzAxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1602825398850-714a149a7d04?w=1200&h=630&fit=crop
 ---
 
 강남에서 아이 키우는 학부모라면 한 번쯤 고민하셨죠? "우리 애, 수학 과외 시켜야 할까?"

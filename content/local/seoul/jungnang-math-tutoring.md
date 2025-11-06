@@ -18,7 +18,7 @@ tags:
 - 수능수학,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1689751935515-1670567d761b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMHx8c2VvdWwlMjBjaXR5c2NhcGV8ZW58MHwwfHx8MTc2MjM4OTI5NXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1689751935515-1670567d761b?w=1200&h=630&fit=crop
 ---
 
 중랑구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

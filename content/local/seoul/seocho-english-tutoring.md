@@ -19,7 +19,7 @@ tags:
 - 수능영어,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1637070875173-1ecab5fff748?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw0fHxzZW91bCUyMGNpdHlzY2FwZXxlbnwwfDB8fHwxNzYyMzg5Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1637070875173-1ecab5fff748?w=1200&h=630&fit=crop
 ---
 
 서초구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

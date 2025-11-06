@@ -22,7 +22,7 @@ tags:
 - 강사
 - 1대1
 - 맞춤학습
-featured_image: https://images.unsplash.com/photo-1589995635011-078e0bb91d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxfHx0dXRvciUyMHRlYWNoaW5nfGVufDB8MHx8fDE3NjIzODkzODF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1589995635011-078e0bb91d11?w=1200&h=630&fit=crop
 ---
 
 # 학원 vs 과외, 어떤 게 우리 아이에게 맞을까?

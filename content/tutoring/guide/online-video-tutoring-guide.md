@@ -23,7 +23,7 @@ tags:
 - 화상과외
 - 선생님
 - 교사
-featured_image: https://images.unsplash.com/photo-1758524944402-1903b38f848f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMHx8dHV0b3IlMjB0ZWFjaGluZ3xlbnwwfDB8fHwxNzYyMzg5MzgxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1758524944402-1903b38f848f?w=1200&h=630&fit=crop
 ---
 
 코로나 이후 급성장한 온라인 화상 과외. "우리 아이에게도 효과가 있을까?" 고민하시는 학부모님들을 위해 실전 가이드를 준비했습니다.

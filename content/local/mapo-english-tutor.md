@@ -12,7 +12,7 @@ tags:
 - 영어회화
 description: 지역 교육 정보 완벽 가이드입니다. 학원가 분석부터 교육 지원 제도까지, 우리 지역 교육 자원을 최대한 활용하는 방법을 제시합니다
   영어 분야 전문 가이드입니다 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다.
-featured_image: https://images.unsplash.com/photo-1554345477-fb33b2cfff57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8c2VvdWwlMjBjaXR5c2NhcGV8ZW58MHwwfHx8MTc2MjM4OTI5NXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1554345477-fb33b2cfff57?w=1200&h=630&fit=crop
 ---
 
 마포구에서 아이에게 맞는 영어과외를 찾는 것은 쉽지 않습니다. 학원은 많은 학생들 때문에 개별 관리가 어렵고, 과외는 선택의 폭이 너무 넓어 고민되시죠.

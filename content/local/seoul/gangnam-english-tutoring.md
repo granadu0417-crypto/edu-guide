@@ -18,7 +18,7 @@ tags:
 - 토익
 - 수능영어,
 - 강남
-featured_image: https://images.unsplash.com/photo-1743906487913-1919e4c71537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyOXx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzM2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1743906487913-1919e4c71537?w=1200&h=630&fit=crop
 ---
 
 강남구에서 영어과외를 준비하는 학부모님들께서 가장 고민하시는 부분이 있습니다.

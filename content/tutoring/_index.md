@@ -3,7 +3,7 @@ title: 학원·과외 가이드
 description: 효과적인 과외 활용법을 알려드립니다. 과목별 맞춤 학습 전략과 실력 향상을 위한 체계적인 관리 방법을 안내합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다 과외 선택부터 효과적인 활용까지, 1:1
   맞춤 지도의 모든 것을 알려드립니다.
-featured_image: https://images.unsplash.com/photo-1695370992939-be4eb6fddf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw0fHxwZXJzb25hbGl6ZWQlMjBsZWFybmluZ3xlbnwwfDB8fHwxNzYyMzg5MzE5fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
+featured_image: https://images.unsplash.com/photo-1695370992939-be4eb6fddf35?w=1200&h=630&fit=crop
 tags:
 - 1:1과외
 - 가이드
