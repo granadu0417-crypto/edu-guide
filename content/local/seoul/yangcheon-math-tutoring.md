@@ -1,10 +1,25 @@
 ---
-title: "양천구 수학과외 핵심 정리 | 목동 8학군의 체계적 수학 교육"
+title: 양천구 수학과외 핵심 정리 | 목동 8학군의 체계적 수학 교육
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 목동, 신정동, 신월동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["양천구", "수학과외", "목동", "신정동", "신월동", "수학", "과외", "목동8학군", "내신수학", "수능수학,", "강남", "강동"]
-featured_image: "https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+description: 검증된 과외 선택 가이드로 올바른 결정을 하세요. 과외 유형별 장단점 분석과 우리 아이에게 맞는 최적의 선택 방법을 제시합니다
+  지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를
+  바탕으로 최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 양천구
+- 수학과외
+- 목동
+- 신정동
+- 신월동
+- 수학
+- 과외
+- 목동8학군
+- 내신수학
+- 수능수학,
+- 강남
+- 강동
+featured_image: https://images.pexels.com/photos/52547/lantern-festival-seoul-cheonggyecheon-stream-lantern-52547.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 ---
 
 양천구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

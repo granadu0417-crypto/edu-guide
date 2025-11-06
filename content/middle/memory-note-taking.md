@@ -1,12 +1,17 @@
 ---
-title: "중학생 효율적인 암기법과 노트 정리 - 과목별 맞춤 전략"
+title: 효과적인 암기법과 노트필기 | 학습 효율화
 date: 2025-01-17
-description: "중학교 내신 대비를 위한 효과적인 암기 방법과 과목별 노트 정리 기술. 망각 곡선을 활용한 복습 전략부터 과목 특성에 맞는 노트 작성법까지, 학습 효율을 2배 높이는 구체적인 방법을 소개합니다."
-categories: ["중학교"]
-tags: ["암기법", "노트정리", "내신", "학습법", "복습", "시험대비", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원"]
-featured_image: "https://images.unsplash.com/photo-1761479146876-503ee6a64344?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw4fHxqdW5pb3IlMjBoaWdoJTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3NjIzODkzMTR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 내신 시험 준비 전략을 마스터하세요. 학교 적응부터 공부 방법까지, 성공적인
+  중학 생활을 위한 완벽 가이드를 제공합니다 중학생 내신 관리부터 자기주도 학습 능력 향상까지 단계별 학습 전략을 안내합니다. 학년별 특성에 맞는
+  구체적인 학습 방법을 제시합니다.
+tags:
+- 내신관리
+- 성적향상
+- 중등교육
+- 중학교
+- 학습방법
+featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 ---
-
 ![노트 정리와 학습](https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop)
 
 중학교에 올라오면 **암기해야 할 내용이 급격히 늘어납니다**. 초등학교 때처럼 무작정 외우기만 해서는 시험 범위를 소화하기 어렵습니다. 효율적인 암기 방법과 체계적인 노트 정리 기술을 익히면, **같은 시간에 2배 이상의 학습 효과**를 얻을 수 있습니다.

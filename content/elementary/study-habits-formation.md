@@ -1,13 +1,16 @@
 ---
-title: "초등학생 공부습관 만들기 - 평생 가는 학습 기초 다지기"
+title: 올바른 학습 습관 형성 | 초등 시기 핵심
 date: 2025-01-25
-description: "초등학생, 초등, 초등교육에 대한 완벽 가이드. 초등학생 시기에 올바른 공부습관을 만드는 것이 평생 학습의 기초가 됩니다. 학년별 맞춤 전략과 부모의 역할, 실천 가능한 방법을 제공합니다."
-categories: ["초등학생", "학습법", "습관"]
-tags: ["초등교육", "공부습관", "학습습관", "자기주도학습", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
-featured_image: "https://images.unsplash.com/photo-1758612898701-e2f2958f219d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxNHx8Y2hpbGQlMjBsZWFybmluZ3xlbnwwfDB8fHwxNzYyMzg5MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-draft: false
+description: 초등학교 입학 후 학교 적응이 걱정되시나요? 1학년 시기에 꼭 필요한 기초 학습 습관과 학교생활 적응 전략을 알려드립니다.
+  한글부터 숫자까지, 즐겁게 배우는 방법을 제공합니다 초등학생의 발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다. 학부모님과
+  함께하는 효과적인 교육 방법을 안내합니다.
+tags:
+- 자기주도학습
+- 초등교육
+- 초등학습
+- 학습습관
+featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 ---
-
 ![공부하는 초등학생](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)
 *초등 시기의 공부습관이 평생 학습의 토대가 됩니다*
 

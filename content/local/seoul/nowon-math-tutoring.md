@@ -1,10 +1,25 @@
 ---
-title: "노원구 중계동 수학과외 추천 | 교육1번지에서 찾는 우리 아이 맞춤 선생님"
+title: 노원구 중계동 수학과외 추천 | 교육1번지에서 찾는 우리 아이 맞춤 선생님
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 중계동, 상계동, 하계동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["노원구", "수학과외", "중계동", "상계동", "하계동", "수학", "과외", "교육1번지", "내신수학", "수능수학,", "강남", "강동"]
-featured_image: "https://images.unsplash.com/photo-1637073759450-546b5006d107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwzfHxzZW91bCUyMGNpdHlzY2FwZXxlbnwwfDB8fHwxNzYyMzg5Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 과외로 실력을 키우는 검증된 방법을 배우세요. 개인 맞춤형 학습 전략과 효율적인 관리로 빠른 성적 향상을 도와드립니다 지역별
+  교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 노원구
+- 수학과외
+- 중계동
+- 상계동
+- 하계동
+- 수학
+- 과외
+- 교육1번지
+- 내신수학
+- 수능수학,
+- 강남
+- 강동
+featured_image: https://images.unsplash.com/photo-1637073759450-546b5006d107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwzfHxzZW91bCUyMGNpdHlzY2FwZXxlbnwwfDB8fHwxNzYyMzg5Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 노원구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

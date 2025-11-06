@@ -1,10 +1,25 @@
 ---
-title: "성북구 영어과외 핵심 가이드 | 정릉·길음 고려대 영문과 중심 영어 교육"
+title: 성북구 영어과외 핵심 가이드 | 정릉·길음 고려대 영문과 중심 영어 교육
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 정릉동, 길음동, 석관동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["성북구", "영어과외", "정릉동", "길음동", "석관동", "영어", "과외", "고려대", "내신영어", "수능영어,", "강남", "강동"]
-featured_image: "https://images.unsplash.com/photo-1678649375997-d2479529a7e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMXx8c2VvdWwlMjBjaXR5c2NhcGV8ZW58MHwwfHx8MTc2MjM4OTI5NXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 효과적인 과외 활용법을 알려드립니다. 과목별 맞춤 학습 전략과 실력 향상을 위한 체계적인 관리 방법을 안내합니다 지역별 교육
+  환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 성북구
+- 영어과외
+- 정릉동
+- 길음동
+- 석관동
+- 영어
+- 과외
+- 고려대
+- 내신영어
+- 수능영어,
+- 강남
+- 강동
+featured_image: https://images.unsplash.com/photo-1678649375997-d2479529a7e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMXx8c2VvdWwlMjBjaXR5c2NhcGV8ZW58MHwwfHx8MTc2MjM4OTI5NXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 성북구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

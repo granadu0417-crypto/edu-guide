@@ -1,11 +1,32 @@
 ---
-title: "초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략"
+title: 초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략
 date: 2025-01-26
-description: "초등 수학 공부, 어떻게 시작해야 할까요? 1학년부터 6학년까지 학년별 맞춤 학습 전략과 실전 노하우를 전문가가 알려드립니다. 수학 기초를 탄탄하게!"
-categories: ["초등학생", "수학", "학습법"]
-tags: ["초등수학", "공부법", "학습전략", "수학기초", "학년별학습", "초등교육", "사칙연산", "문제풀이", "수학개념", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법"]
-grades: ["초등학생"]
-featured_image: "https://images.unsplash.com/photo-1758525861781-bea6e7d79334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyMHx8eW91bmclMjBzdHVkZW50JTIwaG9tZXdvcmt8ZW58MHwwfHx8MTc2MjM4OTMyMnww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 초등 교육 성공의 비결을 공개합니다. 기초 학력 완성과 학습 태도 형성으로 중·고등 학습의 기반을 탄탄히 다지세요 초등학생의
+  발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다. 학부모님과 함께하는 효과적인 교육 방법을 안내합니다 초등학생의 발달
+  단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다.
+categories:
+- 초등학생
+- 수학
+- 학습법
+tags:
+- 초등수학
+- 공부법
+- 학습전략
+- 수학기초
+- 학년별학습
+- 초등교육
+- 사칙연산
+- 문제풀이
+- 수학개념
+- 초등학생
+- 초등
+- 초등교육
+- 초등학교
+- 공부법
+- 학습법
+grades:
+- 초등학생
+featured_image: https://images.unsplash.com/photo-1758525861781-bea6e7d79334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyMHx8eW91bmclMjBzdHVkZW50JTIwaG9tZXdvcmt8ZW58MHwwfHx8MTc2MjM4OTMyMnww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 draft: false
 ---
 

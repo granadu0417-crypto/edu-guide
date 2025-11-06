@@ -1,12 +1,16 @@
 ---
-title: "초등학생 자기주도학습 습관 만들기 - 평생 학습의 기초"
+title: 자기주도 학습 습관 | 스스로 공부하기
 date: 2025-01-17
-description: "초등학생 시기부터 자기주도학습 습관을 길러주는 실전 가이드입니다. 스스로 공부하는 아이로 키우는 구체적인 방법과 단계별 실천 전략을 제시합니다."
-categories: ["초등학생", "학습법", "습관"]
-tags: ["자기주도학습", "학습습관", "초등교육", "공부습관", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
-featured_image: "https://images.unsplash.com/photo-1631032024590-140cc8dd4b32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw5fHxjaGlsZCUyMGxlYXJuaW5nfGVufDB8MHx8fDE3NjIzODkyODB8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 초등학교 입학 후 학교 적응이 걱정되시나요? 1학년 시기에 꼭 필요한 기초 학습 습관과 학교생활 적응 전략을 알려드립니다.
+  한글부터 숫자까지, 즐겁게 배우는 방법을 제공합니다 초등학생의 발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다. 학부모님과
+  함께하는 효과적인 교육 방법을 안내합니다.
+tags:
+- 자기주도학습
+- 초등교육
+- 초등학습
+- 학습습관
+featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
 ---
-
 ![초등학생 자기주도학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)
 *스스로 공부하는 습관은 평생 학습 능력의 토대입니다*
 

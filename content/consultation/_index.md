@@ -1,7 +1,15 @@
 ---
-title: "무료 학습 상담"
-description: "학습 고민, 학원/과외 선택 등 교육 전문가와 무료 상담을 받아보세요. 카카오톡으로 언제든지 편하게 문의하세요."
-featured_image: "https://images.pexels.com/photos/6517325/pexels-photo-6517325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+title: 무료 학습 상담
+description: 체계적인 학습 상담으로 성적 향상의 길을 찾으세요. 개인별 맞춤 분석과 실전 전략으로 학업 목표 달성을 도와드립니다 전문가의
+  맞춤형 교육 컨설팅으로 학습 고민을 해결하고 명확한 방향을 설정하세요. 지금 바로 학습 고민을 해결하세요 전문가의 맞춤형 교육 컨설팅으로 학습
+  고민을 해결하고 명확한 방향을 설정하세요.
+featured_image: https://images.pexels.com/photos/6517325/pexels-photo-6517325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+tags:
+- 가이드
+- 교육상담
+- 교육컨설팅
+- 학습상담
+- 학습전략
 ---
 
 <div class="consultation-hero">

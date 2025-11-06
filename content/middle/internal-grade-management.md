@@ -1,12 +1,20 @@
 ---
-title: "중학생 내신 관리 완벽 전략 - 고등학교 준비의 시작"
+title: 중등 내신 관리 전략 | 학년별 대비법
 date: 2025-01-17
-description: "중학교 내신 관리의 모든 것! 중간고사·기말고사 대비부터 수행평가, 출결·봉사 관리까지, 고등학교 입시를 준비하는 체계적인 내신 관리 전략을 제시합니다."
-categories: ["중학생", "내신", "학습전략"]
-tags: ["중학내신", "중간고사", "기말고사", "수행평가", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
-featured_image: "https://images.unsplash.com/photo-1758525861536-15fb8a3ee629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw3fHx0ZWVuYWdlciUyMHN0dWR5aW5nfGVufDB8MHx8fDE3NjIzODkzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 내신 시험 준비 전략을 마스터하세요. 학교 적응부터 공부 방법까지, 성공적인
+  중학 생활을 위한 완벽 가이드를 제공합니다 중학생 내신 관리부터 자기주도 학습 능력 향상까지 단계별 학습 전략을 안내합니다. 학년별 특성에 맞는
+  구체적인 학습 방법을 제시합니다.
+tags:
+- 기말고사
+- 내신
+- 내신관리
+- 중간고사
+- 중등교육
+- 중학교
+- 진학정보
+- 학습습관
+featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
 ---
-
 ![중학생 내신 공부](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 *체계적인 내신 관리가 고등학교 성공의 기초입니다*
 

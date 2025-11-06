@@ -1,10 +1,25 @@
 ---
-title: "대치동 수학과외 5년 경험담 - 학부모가 말하는 진짜 현실"
+title: 대치동 수학과외 5년 경험담 - 학부모가 말하는 진짜 현실
 date: 2025-01-27
-description: "강남구에서 아이 수학 과외 선생님 찾으면서 겪은 시행착오와 노하우를 솔직하게 공유합니다. 대치동, 압구정, 청담동 지역 학부모들의 실제 경험담을 담았어요."
-categories: ["지역정보"]
-tags: ["강남구", "수학과외", "대치동", "압구정", "청담", "수학", "과외후기", "초등수학", "중등수학", "고등수학", "수능수학", "학부모후기,"]
-featured_image: "https://images.unsplash.com/photo-1602825398850-714a149a7d04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzAxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 과외로 실력을 키우는 검증된 방법을 배우세요. 개인 맞춤형 학습 전략과 효율적인 관리로 빠른 성적 향상을 도와드립니다 지역별
+  교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 강남구
+- 수학과외
+- 대치동
+- 압구정
+- 청담
+- 수학
+- 과외후기
+- 초등수학
+- 중등수학
+- 고등수학
+- 수능수학
+- 학부모후기,
+featured_image: https://images.unsplash.com/photo-1602825398850-714a149a7d04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzAxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 강남에서 아이 키우는 학부모라면 한 번쯤 고민하셨죠? "우리 애, 수학 과외 시켜야 할까?"

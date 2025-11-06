@@ -1,12 +1,19 @@
 ---
-title: "초등학생 수학 문장제 문제 해결 전략 - 서술형 완벽 대비"
+title: 수학 문장제 풀이법 | 문제 이해력
 date: 2025-01-17
-description: "초등학생이 어려워하는 수학 문장제 문제를 효과적으로 푸는 방법입니다. 문제 이해부터 풀이, 검산까지 체계적인 접근법과 학년별 맞춤 전략을 제시합니다."
-categories: ["초등학생", "수학", "문장제"]
-tags: ["수학문장제", "서술형", "초등수학", "문제풀이", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
-featured_image: "https://images.unsplash.com/photo-1758612898716-fa346091b21e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8eW91bmclMjBzdHVkZW50JTIwaG9tZXdvcmt8ZW58MHwwfHx8MTc2MjM4OTI4MXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 초등학교 입학 후 학교 적응이 걱정되시나요? 1학년 시기에 꼭 필요한 기초 학습 습관과 학교생활 적응 전략을 알려드립니다.
+  한글부터 숫자까지, 즐겁게 배우는 방법을 제공합니다 초등학생의 발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다. 학부모님과
+  함께하는 효과적인 교육 방법을 안내합니다.
+tags:
+- 계산
+- 문장제
+- 사고력
+- 읽기
+- 초등교육
+- 초등학습
+- 학습전략
+featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
 ---
-
 ![수학 문제 풀이](https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=800&h=400&fit=crop)
 *문장제는 읽기와 사고력이 결합된 종합 문제입니다*
 

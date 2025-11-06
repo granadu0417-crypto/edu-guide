@@ -1,12 +1,20 @@
 ---
-title: "중학생 독해력 향상 전략 - 비문학·문학 완벽 정복"
+title: 중등 심화 독해 전략 | 비문학 정복
 date: 2025-01-17
-description: "중학교 국어 독해력을 체계적으로 향상시키는 방법입니다. 비문학(설명문, 논설문)과 문학(시, 소설) 지문 분석부터 문제 풀이 전략까지 독해의 모든 것을 제시합니다."
-categories: ["중학생", "국어", "독해"]
-tags: ["독해력", "비문학", "문학", "국어독해", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
-featured_image: "https://images.unsplash.com/photo-1585314455738-55f248937b76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMTR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 내신 시험 준비 전략을 마스터하세요. 학교 적응부터 공부 방법까지, 성공적인
+  중학 생활을 위한 완벽 가이드를 제공합니다 중학생 내신 관리부터 자기주도 학습 능력 향상까지 단계별 학습 전략을 안내합니다. 학년별 특성에 맞는
+  구체적인 학습 방법을 제시합니다.
+tags:
+- 내신
+- 내신관리
+- 독해력
+- 모의고사
+- 문장제
+- 중등교육
+- 중학교
+- 학습전략
+featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 ---
-
 ![독해 공부](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=400&fit=crop)
 *체계적인 독해 전략이 모든 과목 실력을 높입니다*
 

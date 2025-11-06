@@ -1,13 +1,19 @@
 ---
-title: "수능 D-100 실전 대비 전략 - 마지막 100일 완벽 가이드"
+title: 완벽 고등 독서 활동 | 심화 독서 전략
 date: 2025-01-25
-description: "고등학생, 고등학교, 고등에 대한 완벽 가이드. 수능 100일 전부터 당일까지, 과목별 마무리 전략과 실전 감각 키우기, 멘탈 관리까지 완벽 대비 가이드입니다."
-categories: ["고등학생", "수능", "입시전략"]
-tags: ["수능준비", "고3", "수능전략", "실전대비", "D-100", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
-featured_image: "https://images.unsplash.com/photo-1758525861622-f4e7ac86a2d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyNnx8dGVlbmFnZXIlMjBib29rc3xlbnwwfDB8fHwxNzYyMzg5Mjk0fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-draft: false
+description: 완벽 과정 - 수능 수학에서 원하는 등급을 받고 싶으신가요? 미적분과 확률통계를 완벽하게 마스터하는 전략을 제시합니다. 개념부터
+  킬러 문항까지 단계별 정복 로드맵을 제공합니다 대입 준비의 모든 것, 내신과 수능을 동시에 잡는 효율적인 학습 전략을 제시합니다. 입시 전문가의
+  노하우로 합격 전략을 설계합니다.
+tags:
+- 고등교육
+- 고등학교
+- 대입
+- 대학입시
+- 모의고사
+- 수능
+- 학습전략
+featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
 ---
-
 ![수능 D-100](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 *마지막 100일, 전략적 접근이 합격을 좌우합니다*
 

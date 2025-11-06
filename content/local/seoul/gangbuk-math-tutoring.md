@@ -1,10 +1,25 @@
 ---
-title: "강북구 수학과외 추천 | 수유·미아 국민대 수학교육과 중심 교육"
+title: 강북구 수학과외 추천 | 수유·미아 국민대 수학교육과 중심 교육
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 수유동, 미아동, 번동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["강북구", "수학과외", "수유동", "미아동", "번동", "수학", "과외", "수유리", "내신수학", "수능수학,", "강남", "강동"]
-featured_image: "https://images.unsplash.com/photo-1701215373698-9df8210d6201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxNHx8bmVpZ2hib3Job29kJTIwbGVhcm5pbmclMjBjZW50ZXJ8ZW58MHwwfHx8MTc2MjM4OTMzMXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 성공적인 과외를 위한 완벽 가이드입니다. 선생님 선택부터 학습 관리까지, 과외 효과를 극대화하는 모든 방법을 담았습니다 지역별
+  교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 강북구
+- 수학과외
+- 수유동
+- 미아동
+- 번동
+- 수학
+- 과외
+- 수유리
+- 내신수학
+- 수능수학,
+- 강남
+- 강동
+featured_image: https://images.unsplash.com/photo-1701215373698-9df8210d6201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxNHx8bmVpZ2hib3Job29kJTIwbGVhcm5pbmclMjBjZW50ZXJ8ZW58MHwwfHx8MTc2MjM4OTMzMXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 강북구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

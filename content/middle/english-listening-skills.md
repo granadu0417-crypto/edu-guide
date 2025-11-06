@@ -1,12 +1,19 @@
 ---
-title: "중학생 영어 듣기 실력 향상법 - 실전 전략과 일일 훈련법"
+title: 영어 듣기 실력 향상법 | 청해 마스터
 date: 2025-01-17
-description: "중학교 영어 듣기 평가 완벽 대비를 위한 체계적인 훈련법과 실전 전략. 받아쓰기부터 실전 문제 풀이까지, 듣기 실력을 단계적으로 향상시키는 구체적인 방법을 소개합니다."
-categories: ["중학교"]
-tags: ["영어", "듣기", "영어듣기", "내신", "수행평가", "학습법", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원"]
-featured_image: "https://images.unsplash.com/photo-1585432959449-b1c9c8cc49ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxOHx8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 내신 시험 준비 전략을 마스터하세요. 학교 적응부터 공부 방법까지, 성공적인
+  중학 생활을 위한 완벽 가이드를 제공합니다 중학생 내신 관리부터 자기주도 학습 능력 향상까지 단계별 학습 전략을 안내합니다. 학년별 특성에 맞는
+  구체적인 학습 방법을 제시합니다.
+tags:
+- 내신
+- 내신관리
+- 듣기
+- 받아쓰기
+- 쓰기
+- 중등교육
+- 중학교
+featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop
 ---
-
 ![영어 듣기 학습](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop)
 
 중학교 영어 시험에서 듣기 평가는 보통 **20~25% 정도의 비중**을 차지하며, 수행평가에서도 중요한 평가 항목입니다. 듣기는 단기간에 실력을 높이기 어렵다고 생각하기 쉽지만, 체계적인 훈련 방법과 꾸준한 연습으로 충분히 향상시킬 수 있습니다.

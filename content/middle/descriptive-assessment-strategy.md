@@ -1,12 +1,17 @@
 ---
-title: "중학생 서술형 평가 완벽 대비 - 모든 과목 고득점 전략"
+title: 서술형 평가 전략 | 고득점 비법
 date: 2025-01-17
-description: "중학교 서술형 평가를 체계적으로 준비하는 방법입니다. 국어, 영어, 수학, 사회, 과학 과목별 서술형 문제 유형 분석과 답안 작성 전략, 감점 요인 피하기까지 완벽 정리합니다."
-categories: ["중학생", "시험", "서술형"]
-tags: ["서술형평가", "내신", "답안작성", "시험전략", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
-featured_image: "https://images.unsplash.com/photo-1758525861614-4d3cb34751d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwzMHx8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 내신 시험 준비 전략을 마스터하세요. 학교 적응부터 공부 방법까지, 성공적인
+  중학 생활을 위한 완벽 가이드를 제공합니다 중학생 내신 관리부터 자기주도 학습 능력 향상까지 단계별 학습 전략을 안내합니다. 학년별 특성에 맞는
+  구체적인 학습 방법을 제시합니다.
+tags:
+- 내신관리
+- 사고력
+- 중등교육
+- 중학교
+- 학습전략
+featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop
 ---
-
 ![서술형 평가](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 *체계적인 답안 작성 전략이 고득점의 열쇠입니다*
 

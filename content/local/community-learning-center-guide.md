@@ -1,10 +1,20 @@
 ---
-title: "지역아동센터·청소년수련관 완벽 가이드 - 무료·저렴한 교육 시설"
+title: 지역아동센터·청소년수련관 완벽 가이드 - 무료·저렴한 교육 시설
 date: 2025-01-17
-description: "지역아동센터, 청소년수련관, 복지관 등 지역사회 교육 시설의 모든 것을 안내합니다. 이용 대상, 프로그램, 신청 방법까지 무료·저렴하게 이용할 수 있는 교육 인프라를 소개합니다."
-categories: ["지역정보"]
-tags: ["지역아동센터", "청소년수련관", "복지관", "무료교육", "지역사회", "교육복지", "방과후"]
-featured_image: "https://images.unsplash.com/photo-1648900451337-78cbbbd7383c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw3fHxzZW91bCUyMGNpdHlzY2FwZXxlbnwwfDB8fHwxNzYyMzg5Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 지역별 교육 환경의 모든 것을 담았습니다. 우리 동네 최적의 교육 시설과 프로그램으로 효과적인 학습 설계 방법을 안내합니다
+  지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 단계별로 자세하게 안내드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 지역아동센터
+- 청소년수련관
+- 복지관
+- 무료교육
+- 지역사회
+- 교육복지
+- 방과후
+featured_image: https://images.unsplash.com/photo-1648900451337-78cbbbd7383c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw3fHxzZW91bCUyMGNpdHlzY2FwZXxlbnwwfDB8fHwxNzYyMzg5Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 우리 동네에는 무료 또는 저렴하게 이용할 수 있는 다양한 교육·복지 시설이 있습니다. 지역아동센터, 청소년수련관, 복지관 등 지역사회 교육 인프라를 200% 활용하는 방법을 알아보겠습니다.

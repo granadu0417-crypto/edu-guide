@@ -1,10 +1,25 @@
 ---
-title: "금천구 영어과외 선택 가이드 | 독산·시흥 지역 맞춤형 영어 교육"
+title: 금천구 영어과외 선택 가이드 | 독산·시흥 지역 맞춤형 영어 교육
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 독산동, 시흥동, 가산동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["금천구", "영어과외", "독산동", "시흥동", "가산동", "영어", "과외", "영어회화", "수능영어", "실속형,", "강남", "강동"]
-featured_image: "https://images.unsplash.com/photo-1715777412838-809659f8d03d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw3fHx1cmJhbiUyMHNjaG9vbCUyMGRpc3RyaWN0fGVufDB8MHx8fDE3NjIzODkyOTh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 우리 아이에게 딱 맞는 과외 찾기 가이드. 과외 형태별 특징 분석과 효과적인 활용 전략으로 학습 성과를 극대화합니다 지역별
+  교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 금천구
+- 영어과외
+- 독산동
+- 시흥동
+- 가산동
+- 영어
+- 과외
+- 영어회화
+- 수능영어
+- 실속형,
+- 강남
+- 강동
+featured_image: https://images.unsplash.com/photo-1715777412838-809659f8d03d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw3fHx1cmJhbiUyMHNjaG9vbCUyMGRpc3RyaWN0fGVufDB8MHx8fDE3NjIzODkyOTh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 금천구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

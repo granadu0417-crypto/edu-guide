@@ -1,12 +1,20 @@
 ---
-title: "수능 영어 절대평가 1등급 전략 - 유형별 공략과 실전 노하우"
+title: 고등 영어 학습 전략 | 수능 완벽 대비
 date: 2025-01-17
-description: "수능 영어 절대평가 90점 이상 1등급 달성을 위한 완벽 가이드. 듣기부터 빈칸·순서·삽입·요약까지 유형별 전략, 어휘·문법 학습법, 70분 시간 관리 노하우를 소개합니다."
-categories: ["고등학교"]
-tags: ["수능", "영어", "절대평가", "듣기", "독해", "유형별전략", "1등급", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
-featured_image: "https://images.unsplash.com/photo-1726390415318-e6872be3da8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8dW5pdmVyc2l0eSUyMGVudHJhbmNlJTIwZXhhbXxlbnwwfDB8fHwxNzYyMzg5Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 고등학교 첫 내신 시험이 불안하신가요? 중학교와는 차원이 다른 고등 내신 관리 전략을 마스터하세요. 과목별 공부법부터 시간
+  관리까지, 고1 성공의 핵심 전략을 제공합니다 대입 준비의 모든 것, 내신과 수능을 동시에 잡는 효율적인 학습 전략을 제시합니다. 입시 전문가의
+  노하우로 합격 전략을 설계합니다.
+tags:
+- 고등교육
+- 고등학교
+- 대입
+- 대학입시
+- 독해력
+- 듣기
+- 수능
+- 학습전략
+featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
 ---
-
 ![수능 영어 공부](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop)
 
 2018학년도부터 수능 영어가 **절대평가**로 전환되면서, "90점 이상만 받으면 1등급"이라는 인식이 퍼졌습니다. 하지만 실제로는 **빈칸추론, 순서배열, 문장삽입** 등 고난도 문제가 여전히 존재하며, 방심하면 2~3등급으로 떨어질 수 있습니다. 체계적인 유형별 학습과 전략적 접근이 필요합니다.

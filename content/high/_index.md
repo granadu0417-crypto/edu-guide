@@ -1,5 +1,92 @@
 ---
-title: "고등학생"
-description: "고등학생, 고등학교, 고등에 대한 완벽 가이드. 고등학생을 위한 수능 대비 및 입시 정보를 제공합니다."
-featured_image: "https://images.pexels.com/photos/6958518/pexels-photo-6958518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+title: 고등학생 입시 가이드 | 수능부터 대입까지
+description: 대입 성공의 모든 것을 담았습니다. 학년별 맞춤 전략과 전형별 준비 방법으로 합격 가능성을 극대화하는 방법을 안내합니다 대입
+  준비의 모든 것, 내신과 수능을 동시에 잡는 효율적인 학습 전략을 제시합니다. 입시 전문가의 노하우로 합격 전략을 설계합니다 대입 준비의 모든
+  것, 내신과 수능을 동시에 잡는 효율적인 학습 전략을 제시합니다.
+categories:
+- 고등학생
+tags:
+- 고등
+- 고등학교
+- 수능
+- 대입
+- 입시전략
+featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
 ---
+
+# 고등학생 입시 가이드
+
+고등학교 3년은 **대학 입시**를 준비하는 시기입니다. 내신, 수능, 비교과 활동을 균형있게 관리하며 목표 대학 합격을 향해 나아가야 합니다.
+
+## 📚 학년별 전략
+
+### 고1 - 기초 다지기
+- [고1 내신 전략](/high/high-b9-1/) - 고등 첫 시험 대비
+- [고1 학습 습관](/high/high-b9-2/) - 고등 공부법 정착
+- [생기부 관리 시작](/high/high-b9-3/) - 학생부 첫 단추
+
+### 고2 - 진로 확정
+- [고2 학습 로드맵](/high/high-b10-1/) - 진로 확정과 준비
+- [고2 학생부](/high/high-b10-2/) - 심화 활동 전략
+- [모의고사 대비](/high/high-b10-3/) - 수능 감각 유지
+
+### 고3 - 입시 최종 준비
+- [수능 D-365](/high/high-b11-1/) - 입시 최종 전략
+- [수시 vs 정시](/high/high-b11-2/) - 전형 선택
+- [면접 준비](/high/high-b11-3/) - 대학별 면접 대비
+
+## 📖 수능 과목별 전략
+
+### 국어
+- [수능 국어](/high/korean-reading-strategy/) - 화법작문문학독해
+- [독해 전략](/high/korean-reading-strategy/) - 비문학 정복
+
+### 수학
+- [수능 수학](/high/math-strategy/) - 미적분과 확률통계
+- [수학 실전](/high/math-strategy/) - 킬러 문항 대비
+
+### 영어
+- [수능 영어](/high/english-strategy/) - 절대평가 1등급
+- [영어 독해](/high/english-strategy/) - 빠르고 정확한 독해
+
+## 🎯 입시 전형별 가이드
+
+### 수시
+- [학생부종합](/high/admissions-strategy/) - 생기부 완성 전략
+- [학생부교과](/high/school-record-management/) - 내신 관리법
+- [논술](/high/admissions-strategy/) - 논리적 글쓰기
+
+### 정시
+- [수능 전략](/high/suneung-d100-strategy/) - D-100 집중 전략
+- [모의고사 활용](/high/mock-exam-strategy/) - 실전 감각 유지
+
+## 💡 입시 전략
+
+- [입시 전략](/high/admissions-strategy/) - 전형별 대비법
+- [진로와 학과](/high/career-major-guide/) - 학과 선택 가이드
+- [2026 수능 변화](/high/2026-suneung-changes/) - 최신 입시 정보
+- [온라인 강의](/high/online-lecture-guide/) - 효과적 활용법
+- [멘탈 관리](/high/mental-management/) - 입시 스트레스 대처
+- [학부모 지원](/high/parent-support-guide/) - 부모님 역할
+
+## 💡 고등 학습의 핵심
+
+### 1. 균형 잡힌 준비
+내신, 수능, 비교과 활동을 모두 챙겨야 합니다.
+
+### 2. 장기적 계획
+3년 로드맵을 세우고 체계적으로 준비하세요.
+
+### 3. 자기 관리
+시간 관리, 멘탈 관리가 성공의 열쇠입니다.
+
+### 4. 정보 수집
+입시 정보를 꾸준히 업데이트하고 활용하세요.
+
+---
+
+**고등학교의 목표**
+
+목표 대학 합격을 위해 지금부터 체계적으로 준비하세요. 노력은 배신하지 않습니다!
+
+더 자세한 정보는 위의 카테고리별 가이드를 참고하세요!

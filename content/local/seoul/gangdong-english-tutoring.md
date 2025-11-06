@@ -1,10 +1,25 @@
 ---
-title: "강동구 영어과외 선택 가이드 - 신흥 교육 지역의 균형 잡힌 영어 학습"
+title: 강동구 영어과외 선택 가이드 - 신흥 교육 지역의 균형 잡힌 영어 학습
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 고덕동, 명일동, 천호동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["강동구", "영어과외", "고덕동", "명일동", "천호동", "영어", "과외", "영어회화", "내신영어", "수능영어,", "강남", "강동"]
-featured_image: "https://images.unsplash.com/photo-1743941234294-b9a846df90d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyNHx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzM2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 과외로 실력을 키우는 검증된 방법을 배우세요. 개인 맞춤형 학습 전략과 효율적인 관리로 빠른 성적 향상을 도와드립니다 지역별
+  교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 강동구
+- 영어과외
+- 고덕동
+- 명일동
+- 천호동
+- 영어
+- 과외
+- 영어회화
+- 내신영어
+- 수능영어,
+- 강남
+- 강동
+featured_image: https://images.unsplash.com/photo-1743941234294-b9a846df90d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyNHx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzM2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 강동구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

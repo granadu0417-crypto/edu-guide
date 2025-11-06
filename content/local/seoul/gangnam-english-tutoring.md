@@ -1,10 +1,25 @@
 ---
-title: "강남구 영어과외 선택 가이드 - 전문가가 알려주는 학년별 맞춤 전략"
+title: 강남구 영어과외 선택 가이드 - 전문가가 알려주는 학년별 맞춤 전략
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 압구정, 청담, 대치동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["강남구", "영어과외", "대치동", "압구정", "청담", "영어", "과외", "영어회화", "토플", "토익", "수능영어,", "강남"]
-featured_image: "https://images.unsplash.com/photo-1743906487913-1919e4c71537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyOXx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzM2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 성공적인 과외를 위한 완벽 가이드입니다. 선생님 선택부터 학습 관리까지, 과외 효과를 극대화하는 모든 방법을 담았습니다 지역별
+  교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 강남구
+- 영어과외
+- 대치동
+- 압구정
+- 청담
+- 영어
+- 과외
+- 영어회화
+- 토플
+- 토익
+- 수능영어,
+- 강남
+featured_image: https://images.unsplash.com/photo-1743906487913-1919e4c71537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyOXx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzM2fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 강남구에서 영어과외를 준비하는 학부모님들께서 가장 고민하시는 부분이 있습니다.

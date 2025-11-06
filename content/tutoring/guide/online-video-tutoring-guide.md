@@ -1,10 +1,29 @@
 ---
-title: "온라인 화상 과외 완벽 가이드 - 장단점부터 선택 기준까지 (2025)"
+title: 온라인 화상 과외 완벽 가이드 - 장단점부터 선택 기준까지 (2025)
 date: 2025-01-26
-description: "과외, 학원, 개인과외에 대한 완벽 가이드. 온라인 화상 과외의 모든 것을 알려드립니다. 장단점, 효과적인 활용법, 플랫폼 선택 가이드까지 2025년 최신 정보로 정리했습니다."
-categories: ["학원과외", "선택가이드"]
-tags: ["온라인과외", "화상과외", "화상수업", "비대면과외", "온라인학습", "인터넷강의", "화상과외장단점", "과외선택", "과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사"]
-featured_image: "https://images.unsplash.com/photo-1758524944402-1903b38f848f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMHx8dHV0b3IlMjB0ZWFjaGluZ3xlbnwwfDB8fHwxNzYyMzg5MzgxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 과외로 실력을 키우는 검증된 방법을 배우세요. 개인 맞춤형 학습 전략과 효율적인 관리로 빠른 성적 향상을 도와드립니다 과외
+  선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다 과외 선택부터 효과적인 활용까지,
+  1:1 맞춤 지도의 모든 것을 알려드립니다.
+categories:
+- 학원과외
+- 선택가이드
+tags:
+- 온라인과외
+- 화상과외
+- 화상수업
+- 비대면과외
+- 온라인학습
+- 인터넷강의
+- 화상과외장단점
+- 과외선택
+- 과외
+- 학원
+- 개인과외
+- 그룹과외
+- 화상과외
+- 선생님
+- 교사
+featured_image: https://images.unsplash.com/photo-1758524944402-1903b38f848f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMHx8dHV0b3IlMjB0ZWFjaGluZ3xlbnwwfDB8fHwxNzYyMzg5MzgxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 코로나 이후 급성장한 온라인 화상 과외. "우리 아이에게도 효과가 있을까?" 고민하시는 학부모님들을 위해 실전 가이드를 준비했습니다.

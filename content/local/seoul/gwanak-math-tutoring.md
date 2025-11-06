@@ -1,10 +1,25 @@
 ---
-title: "관악구 수학과외 핵심 가이드 | 서울대 수학과가 가르치는 차별화된 교육"
+title: 관악구 수학과외 핵심 가이드 | 서울대 수학과가 가르치는 차별화된 교육
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 신림동, 봉천동, 남현동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["관악구", "수학과외", "신림동", "봉천동", "남현동", "수학", "과외", "서울대", "내신수학", "수능수학,", "강남", "강동"]
-featured_image: "https://images.unsplash.com/photo-1729799959058-bda08177a84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8bmVpZ2hib3Job29kJTIwbGVhcm5pbmclMjBjZW50ZXJ8ZW58MHwwfHx8MTc2MjM4OTMzMXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 검증된 과외 선택 가이드로 올바른 결정을 하세요. 과외 유형별 장단점 분석과 우리 아이에게 맞는 최적의 선택 방법을 제시합니다
+  지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를
+  바탕으로 최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 관악구
+- 수학과외
+- 신림동
+- 봉천동
+- 남현동
+- 수학
+- 과외
+- 서울대
+- 내신수학
+- 수능수학,
+- 강남
+- 강동
+featured_image: https://images.unsplash.com/photo-1729799959058-bda08177a84c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8bmVpZ2hib3Job29kJTIwbGVhcm5pbmclMjBjZW50ZXJ8ZW58MHwwfHx8MTc2MjM4OTMzMXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 관악구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

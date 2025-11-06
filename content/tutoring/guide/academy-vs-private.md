@@ -1,10 +1,28 @@
 ---
-title: "학원 vs 과외, 어떤 게 우리 아이에게 맞을까?"
+title: 학원 vs 과외, 어떤 게 우리 아이에게 맞을까?
 date: 2025-01-24
-description: "과외, 학원, 개인과외에 대한 완벽 가이드. 학원과 과외의 장단점을 비교하고, 우리 아이에게 맞는 학습 방법을 선택하는 가이드를 제공합니다."
-categories: ["학원·과외", "선택가이드"]
-tags: ["학원", "과외", "비교", "선택가이드", "과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
-featured_image: "https://images.unsplash.com/photo-1589995635011-078e0bb91d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxfHx0dXRvciUyMHRlYWNoaW5nfGVufDB8MHx8fDE3NjIzODkzODF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 검증된 과외 선택 가이드로 올바른 결정을 하세요. 과외 유형별 장단점 분석과 우리 아이에게 맞는 최적의 선택 방법을 제시합니다
+  과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다 과외 선택부터 효과적인
+  활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다.
+categories:
+- 학원·과외
+- 선택가이드
+tags:
+- 학원
+- 과외
+- 비교
+- 선택가이드
+- 과외
+- 학원
+- 개인과외
+- 그룹과외
+- 화상과외
+- 선생님
+- 교사
+- 강사
+- 1대1
+- 맞춤학습
+featured_image: https://images.unsplash.com/photo-1589995635011-078e0bb91d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxfHx0dXRvciUyMHRlYWNoaW5nfGVufDB8MHx8fDE3NjIzODkzODF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 # 학원 vs 과외, 어떤 게 우리 아이에게 맞을까?

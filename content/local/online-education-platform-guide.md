@@ -1,10 +1,25 @@
 ---
-title: "무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법"
+title: 무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법
 date: 2025-01-17
-description: "EBS, e학습터, 위두랑, 인터넷 강의 등 무료·저렴한 온라인 교육 플랫폼을 상세히 안내합니다. 학년별 추천 사이트, 효과적인 활용법, 학습 관리 방법까지 온라인 학습의 모든 것을 소개합니다."
-categories: ["지역정보"]
-tags: ["온라인교육", "EBS", "e학습터", "위두랑", "인터넷강의", "무료강의", "온라인학습", "에듀테크,", "강남", "강동", "강북", "강서"]
-featured_image: "https://images.unsplash.com/photo-1761019362997-247c7d646f45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyfHx1cmJhbiUyMHNjaG9vbCUyMGRpc3RyaWN0fGVufDB8MHx8fDE3NjIzODkyOTh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 지역 교육 정보 완벽 가이드입니다. 학원가 분석부터 교육 지원 제도까지, 우리 지역 교육 자원을 최대한 활용하는 방법을 제시합니다
+  지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 단계별로 자세하게 안내드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 온라인교육
+- EBS
+- e학습터
+- 위두랑
+- 인터넷강의
+- 무료강의
+- 온라인학습
+- 에듀테크,
+- 강남
+- 강동
+- 강북
+- 강서
+featured_image: https://images.unsplash.com/photo-1761019362997-247c7d646f45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyfHx1cmJhbiUyMHNjaG9vbCUyMGRpc3RyaWN0fGVufDB8MHx8fDE3NjIzODkyOTh8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 코로나19 이후 온라인 교육이 크게 확대되었습니다. 무료 또는 저렴하게 이용할 수 있는 온라인 교육 플랫폼을 효과적으로 활용하는 방법을 상세히 알아보겠습니다.

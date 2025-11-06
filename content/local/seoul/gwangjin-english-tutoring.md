@@ -1,10 +1,25 @@
 ---
-title: "광진구 영어과외 핵심 가이드 | 건대·구의 실용 영어 교육"
+title: 광진구 영어과외 핵심 가이드 | 건대·구의 실용 영어 교육
 date: 2025-01-27
-description: "지역, 서울, 경기에 대한 완벽 가이드. 건대입구, 구의동, 자양동, 광장동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
-categories: ["지역정보"]
-tags: ["광진구", "영어과외", "건대입구", "구의동", "자양동", "광장동", "영어", "과외", "건국대", "영어회화", "입시영어,", "강남"]
-featured_image: "https://images.unsplash.com/photo-1682376681629-27661344e75d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMHx8dXJiYW4lMjBzY2hvb2wlMjBkaXN0cmljdHxlbnwwfDB8fHwxNzYyMzg5Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
+description: 우리 아이에게 딱 맞는 과외 찾기 가이드. 과외 형태별 특징 분석과 효과적인 활용 전략으로 학습 성과를 극대화합니다 지역별
+  교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다 지역별 교육 환경과 학원 정보를 바탕으로
+  최적의 학습 환경을 찾아드립니다.
+categories:
+- 지역정보
+tags:
+- 광진구
+- 영어과외
+- 건대입구
+- 구의동
+- 자양동
+- 광장동
+- 영어
+- 과외
+- 건국대
+- 영어회화
+- 입시영어,
+- 강남
+featured_image: https://images.unsplash.com/photo-1682376681629-27661344e75d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMHx8dXJiYW4lMjBzY2hvb2wlMjBkaXN0cmljdHxlbnwwfDB8fHwxNzYyMzg5Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80
 ---
 
 광진구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.
