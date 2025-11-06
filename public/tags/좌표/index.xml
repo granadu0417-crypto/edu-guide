@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>좌표 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EC%A2%8C%ED%91%9C/</link><description>Recent content in 좌표 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EC%A2%8C%ED%91%9C/index.xml" rel="self" type="application/rss+xml"/><item><title>공간도형과 좌표 완벽 가이드 | 1:1 공간도형 과외</title><link>https://edukoreaai.com/subjects/math/math-spatial-geometry/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-spatial-geometry/</guid><description>&lt;h1 id="공간도형과-좌표-완벽-가이드">공간도형과 좌표 완벽 가이드&lt;/h1>
+&lt;p>공간을 수학적으로 이해하고 싶으신가요?&lt;/p>
+&lt;p>&amp;ldquo;3차원이 상상이 안 돼요.&amp;rdquo;
+&amp;ldquo;공간벡터가 어려워요.&amp;rdquo;
+&amp;ldquo;정사영이 뭔지 모르겠어요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>공간 감각&lt;/strong>을 키우면 공간도형도 쉽습니다.&lt;/p>
+&lt;h2 id="공간도형-기초">공간도형 기초&lt;/h2>
+&lt;h3 id="2차원-vs-3차원">2차원 vs 3차원&lt;/h3>
+&lt;p>&lt;strong>차원&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>평면 (2D):
+x, y 좌표
+
+공간 (3D):
+x, y, z 좌표
+
+차이:
+깊이 추가
+
+→ 확장
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h3 id="공간좌표">공간좌표&lt;/h3>
+&lt;p>&lt;strong>3성분&lt;/strong>&lt;/p></description></item><item><title>수학 그래프 그리기 완벽 가이드 | 1:1 그래프 과외</title><link>https://edukoreaai.com/subjects/math/math-graph-sketching/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-graph-sketching/</guid><description>&lt;h1 id="수학-그래프-그리기-완벽-가이드">수학 그래프 그리기 완벽 가이드&lt;/h1>
+&lt;p>&amp;ldquo;그래프를 어떻게 그리나요?&amp;rdquo;&lt;/p>
+&lt;p>&amp;ldquo;함수 그래프가 헷갈려요.&amp;rdquo;
+&amp;ldquo;개형을 파악할 수 없어요.&amp;rdquo;
+&amp;ldquo;그림 없이는 못 풀겠어요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>그래프&lt;/strong>는 수학의 지도입니다. 그릴 수 있으면 문제가 쉬워집니다.&lt;/p>
+&lt;h2 id="그래프의-중요성">그래프의 중요성&lt;/h2>
+&lt;h3 id="왜-그래프인가">왜 그래프인가?&lt;/h3>
+&lt;p>&lt;strong>시각화&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>효과:
+- 함수 이해
+- 문제 해결
+- 직관 형성
+
+활용:
+모든 함수 단원
+
+→ 필수 도구
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="좌표평면-기초">좌표평면 기초&lt;/h2>
+&lt;h3 id="축과-원점">축과 원점&lt;/h3>
+&lt;p>&lt;strong>기본&lt;/strong>&lt;/p></description></item></channel></rss>

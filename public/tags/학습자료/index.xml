@@ -1,33 +1,225 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>학습자료 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/</link>
-    <description>Recent content in 학습자료 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>영어 학습 자료 완벽 정리 | 1:1 자료 선택 과외</title>
-      <link>https://edukoreaai.com/subjects/english/english-resources/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/english/english-resources/</guid>
-      <description>&lt;h1 id=&#34;영어-학습-자료-완벽-정리&#34;&gt;영어 학습 자료 완벽 정리&lt;/h1&gt;&#xA;&lt;p&gt;어떤 자료로 공부해야 할지 모르겠나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;자료가 너무 많아서 선택이 어려워요.&amp;rdquo;&#xA;&amp;ldquo;무료 자료는 어떤 게 좋나요?&amp;rdquo;&#xA;&amp;ldquo;레벨에 맞는 자료를 모르겠어요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;올바른 자료 선택이 &lt;strong&gt;효율적 학습&lt;/strong&gt;의 시작입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;자료-선택-원칙&#34;&gt;자료 선택 원칙&lt;/h2&gt;&#xA;&lt;h3 id=&#34;원칙-1-목적&#34;&gt;원칙 1: 목적&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;질문:&#xA;- 수능? 회화? 토익?&#xA;- 단기? 장기?&#xA;&#xA;선택:&#xA;목적에 맞게&#xA;&#xA;→ 효율성&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h3 id=&#34;원칙-2-레벨&#34;&gt;원칙 2: 레벨&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수학 학습 사이트 추천 및 활용법 | 1:1 과외와 함께하는 온라인 학습 [2025]</title>
-      <link>https://edukoreaai.com/subjects/math/math-learning-sites/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-learning-sites/</guid>
-      <description>&lt;h1 id=&#34;수학-학습-사이트-추천-및-활용법&#34;&gt;수학 학습 사이트 추천 및 활용법&lt;/h1&gt;&#xA;&lt;p&gt;온라인 수학 학습 사이트는 이제 &lt;strong&gt;필수 학습 도구&lt;/strong&gt;가 되었습니다. 언제 어디서나 접근할 수 있고, 자신의 속도에 맞춰 학습할 수 있는 장점이 있습니다. 이 글에서는 검증된 수학 학습 사이트와 효과적인 활용 방법을 소개합니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;온라인-학습의-장점&#34;&gt;온라인 학습의 장점&lt;/h2&gt;&#xA;&lt;h3 id=&#34;시공간의-제약-없음&#34;&gt;시공간의 제약 없음&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;전통적 학습의 한계:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;정해진 시간에만 수업&lt;/li&gt;&#xA;&lt;li&gt;특정 장소 방문 필요&lt;/li&gt;&#xA;&lt;li&gt;복습 기회 제한&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;온라인 학습의 장점:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;24시간&lt;/strong&gt; 언제든 접속&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;어디서나&lt;/strong&gt; 학습 가능 (PC, 태블릿, 스마트폰)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;무제한 복습&lt;/strong&gt; 가능&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;자신의 속도&lt;/strong&gt;로 학습&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;통계에 따르면 온라인 학습을 병행한 학생이 그렇지 않은 학생보다 &lt;strong&gt;평균 15점 높은&lt;/strong&gt; 성적을 기록했습니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수학 학습 자료 총정리 완벽 가이드 | 1:1 과외 추천 교재 [2025]</title>
-      <link>https://edukoreaai.com/subjects/math/math-resources/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-resources/</guid>
-      <description>&lt;h1 id=&#34;수학-학습-자료-총정리-완벽-가이드&#34;&gt;수학 학습 자료 총정리 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;수학 학습에는 좋은 자료가 필수입니다. 교재부터 온라인 강의, 앱까지 모든 자료를 총정리하고 효과적인 활용법을 알려드립니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;필수-교재&#34;&gt;필수 교재&lt;/h2&gt;&#xA;&lt;h3 id=&#34;초등-수학&#34;&gt;초등 수학&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;개념서:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;디딤돌 초등수학&lt;/strong&gt;: 기본 개념&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;최상위 수학&lt;/strong&gt;: 심화&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;큐브 수학&lt;/strong&gt;: 사고력&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;문제집:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;기본&lt;/strong&gt;: 백점 수학, 우등생 해법&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;심화&lt;/strong&gt;: 최고수준, 상위권 수학&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;추천 조합:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;기본: 디딤돌 + 백점&lt;/li&gt;&#xA;&lt;li&gt;심화: 최상위 + 최고수준&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;중등-수학&#34;&gt;중등 수학&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;개념서:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;개념원리&lt;/strong&gt;: 가장 기본&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;숨마쿰라우데&lt;/strong&gt;: 자세한 설명&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;완자&lt;/strong&gt;: 교과서 충실&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;문제집:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;기본&lt;/strong&gt;: 오투, 일품&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;심화&lt;/strong&gt;: 블랙라벨, 최고득점&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;내신:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>학습자료 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/</link><description>Recent content in 학습자료 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/index.xml" rel="self" type="application/rss+xml"/><item><title>영어 학습 자료 완벽 정리 | 1:1 자료 선택 과외</title><link>https://edukoreaai.com/subjects/english/english-resources/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/english/english-resources/</guid><description>&lt;h1 id="영어-학습-자료-완벽-정리">영어 학습 자료 완벽 정리&lt;/h1>
+&lt;p>어떤 자료로 공부해야 할지 모르겠나요?&lt;/p>
+&lt;p>&amp;ldquo;자료가 너무 많아서 선택이 어려워요.&amp;rdquo;
+&amp;ldquo;무료 자료는 어떤 게 좋나요?&amp;rdquo;
+&amp;ldquo;레벨에 맞는 자료를 모르겠어요.&amp;rdquo;&lt;/p>
+&lt;p>올바른 자료 선택이 &lt;strong>효율적 학습&lt;/strong>의 시작입니다.&lt;/p>
+&lt;h2 id="자료-선택-원칙">자료 선택 원칙&lt;/h2>
+&lt;h3 id="원칙-1-목적">원칙 1: 목적&lt;/h3>
+&lt;p>&lt;strong>Purpose&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>질문:
+- 수능? 회화? 토익?
+- 단기? 장기?
+
+선택:
+목적에 맞게
+
+→ 효율성
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h3 id="원칙-2-레벨">원칙 2: 레벨&lt;/h3>
+&lt;p>&lt;strong>Level&lt;/strong>&lt;/p></description></item><item><title>수학 학습 사이트 추천 및 활용법 | 1:1 과외와 함께하는 온라인 학습 [2025]</title><link>https://edukoreaai.com/subjects/math/math-learning-sites/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-learning-sites/</guid><description>&lt;h1 id="수학-학습-사이트-추천-및-활용법">수학 학습 사이트 추천 및 활용법&lt;/h1>
+&lt;p>온라인 수학 학습 사이트는 이제 &lt;strong>필수 학습 도구&lt;/strong>가 되었습니다. 언제 어디서나 접근할 수 있고, 자신의 속도에 맞춰 학습할 수 있는 장점이 있습니다. 이 글에서는 검증된 수학 학습 사이트와 효과적인 활용 방법을 소개합니다.&lt;/p>
+&lt;h2 id="온라인-학습의-장점">온라인 학습의 장점&lt;/h2>
+&lt;h3 id="시공간의-제약-없음">시공간의 제약 없음&lt;/h3>
+&lt;p>&lt;strong>전통적 학습의 한계:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>정해진 시간에만 수업&lt;/li>
+&lt;li>특정 장소 방문 필요&lt;/li>
+&lt;li>복습 기회 제한&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>온라인 학습의 장점:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>24시간&lt;/strong> 언제든 접속&lt;/li>
+&lt;li>&lt;strong>어디서나&lt;/strong> 학습 가능 (PC, 태블릿, 스마트폰)&lt;/li>
+&lt;li>&lt;strong>무제한 복습&lt;/strong> 가능&lt;/li>
+&lt;li>&lt;strong>자신의 속도&lt;/strong>로 학습&lt;/li>
+&lt;/ul>
+&lt;p>통계에 따르면 온라인 학습을 병행한 학생이 그렇지 않은 학생보다 &lt;strong>평균 15점 높은&lt;/strong> 성적을 기록했습니다.&lt;/p></description></item><item><title>수학 학습 자료 총정리 완벽 가이드 | 1:1 과외 추천 교재 [2025]</title><link>https://edukoreaai.com/subjects/math/math-resources/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-resources/</guid><description>&lt;h1 id="수학-학습-자료-총정리-완벽-가이드">수학 학습 자료 총정리 완벽 가이드&lt;/h1>
+&lt;p>수학 학습에는 좋은 자료가 필수입니다. 교재부터 온라인 강의, 앱까지 모든 자료를 총정리하고 효과적인 활용법을 알려드립니다.&lt;/p>
+&lt;h2 id="필수-교재">필수 교재&lt;/h2>
+&lt;h3 id="초등-수학">초등 수학&lt;/h3>
+&lt;p>&lt;strong>개념서:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>디딤돌 초등수학&lt;/strong>: 기본 개념&lt;/li>
+&lt;li>&lt;strong>최상위 수학&lt;/strong>: 심화&lt;/li>
+&lt;li>&lt;strong>큐브 수학&lt;/strong>: 사고력&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>문제집:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>기본&lt;/strong>: 백점 수학, 우등생 해법&lt;/li>
+&lt;li>&lt;strong>심화&lt;/strong>: 최고수준, 상위권 수학&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>추천 조합:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>기본: 디딤돌 + 백점&lt;/li>
+&lt;li>심화: 최상위 + 최고수준&lt;/li>
+&lt;/ul>
+&lt;h3 id="중등-수학">중등 수학&lt;/h3>
+&lt;p>&lt;strong>개념서:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>개념원리&lt;/strong>: 가장 기본&lt;/li>
+&lt;li>&lt;strong>숨마쿰라우데&lt;/strong>: 자세한 설명&lt;/li>
+&lt;li>&lt;strong>완자&lt;/strong>: 교과서 충실&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>문제집:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>기본&lt;/strong>: 오투, 일품&lt;/li>
+&lt;li>&lt;strong>심화&lt;/strong>: 블랙라벨, 최고득점&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>내신:&lt;/strong>&lt;/p></description></item></channel></rss>

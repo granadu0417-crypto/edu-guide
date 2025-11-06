@@ -1,11 +1,22 @@
 ---
-title: "국어 독해력 5단계 추천 전략 | 초등~고등"
+title: 국어 독해력 5단계 추천 전략 | 초등~고등
 date: 2025-01-25
-reading_time: "329줄"
-description: "국어 독해력을 체계적으로 향상시키는 5단계 전략입니다. 학년별 맞춤 방법과 실전 훈련, 문제 풀이 노하우까지 완벽 가이드를 제공합니다."
-categories: ["과목별", "국어", "학습법"]
-tags: ["국어", "독해력", "독해", "국어공부", "비문학"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+reading_time: 329줄
+description: 국어 독해력을 체계적으로 향상시키는 5단계 전략입니다. 학년별 맞춤 방법과 실전 훈련, 문제 풀이 노하우까지 완벽 가이드를
+  제공합니다 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 학부모님과 함께하는 효과적인 교육 방법을 안내합니다. 지금 바로
+  시작하세요.
+categories:
+- 과목별
+- 국어
+- 학습법
+tags:
+- 국어
+- 독해력
+- 독해
+- 국어공부
+- 비문학
+- 기초
+featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
 draft: false
 ---
 

@@ -1,11 +1,22 @@
 ---
-title: "영어 번역 기초 가이드 | 1:1 번역 기초 과외"
+title: 영어 번역 기초 가이드 | 1:1 번역 기초 과외
 date: 2025-01-29
-reading_time: "512줄"
-description: "영어 번역 기초 완벽 정복 | 번역 원칙, 실전 기법, 오역 방지, 1:1 맞춤 번역 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "번역", "translation", "통역", "실력", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+reading_time: 512줄
+description: 영어 번역 기초 완벽 정복 | 번역 원칙, 실전 기법, 오역 방지, 1:1 맞춤 번역 지도 [2025년] 과목별 특성을 고려한
+  맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
+  현명한 선택을 도와드립니다.
+categories:
+- 영어
+tags:
+- 영어
+- 번역
+- translation
+- 통역
+- 실력
+- 1:1과외
+- 기초
+- 과외
+featured_image: https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop
 ---
 
 # 영어 번역 기초 가이드

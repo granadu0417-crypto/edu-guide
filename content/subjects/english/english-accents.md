@@ -1,11 +1,22 @@
 ---
-title: "영어 악센트별 듣기 가이드 | 1:1 듣기 과외"
+title: 영어 악센트별 듣기 가이드 | 1:1 듣기 과외
 date: 2025-01-29
-reading_time: "466줄"
-description: "영어 악센트별 듣기 완벽 정복 | 미국식·영국식·호주식 발음 차이, 1:1 맞춤 듣기 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "악센트", "accent", "미국식", "영국식", "발음", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+reading_time: 466줄
+description: 영어 악센트별 듣기 완벽 정복 | 미국식·영국식·호주식 발음 차이, 1:1 맞춤 듣기 지도 [2025년] 과목별 특성을 고려한
+  맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
+  현명한 선택을 도와드립니다.
+categories:
+- 영어
+tags:
+- 영어
+- 악센트
+- accent
+- 미국식
+- 영국식
+- 발음
+- 1:1과외
+- 듣기
+featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
 ---
 
 # 영어 악센트별 듣기 가이드

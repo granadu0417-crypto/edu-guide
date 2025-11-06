@@ -1,12 +1,23 @@
 ---
-title: "과학 DNA 완벽 가이드 | 1:1 과학 과외 [2025]"
+title: 과학 DNA 완벽 가이드 | 1:1 과학 과외 [2025]
 date: 2025-04-12
-reading_time: "485줄"
-description: "유전물질의 구조와 복제를 체계적으로 학습하는 방법. 1:1 과외로 DNA을 완벽하게 이해하세요."
-categories: ["과학"]
-tags: ["과학", "DNA", "과학, 탐구, 실험", "1:1과외", "2025"]
-author: "에듀코리아 과학교육연구소"
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+reading_time: 485줄
+description: 유전물질의 구조와 복제를 체계적으로 학습하는 방법. 1:1 과외로 DNA을 완벽하게 이해하세요 과목별 특성을 고려한 맞춤형
+  학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한
+  선택을 도와드립니다.
+categories:
+- 과학
+tags:
+- 과학
+- DNA
+- 과학, 탐구, 실험
+- 1:1과외
+- '2025'
+- 과외
+- 고급
+- 심화
+author: 에듀코리아 과학교육연구소
+featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
 ---
 
 # 과학 DNA 완벽 가이드

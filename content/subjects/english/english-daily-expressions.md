@@ -1,11 +1,22 @@
 ---
-title: "영어 일상 표현 완벽 정리 | 1:1 회화 과외"
+title: 영어 일상 표현 완벽 정리 | 1:1 회화 과외
 date: 2025-01-29
-reading_time: "489줄"
-description: "영어 일상 표현 완벽 정복 | 상황별 필수 회화, 자주 쓰는 표현, 1:1 맞춤 회화 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "회화", "일상표현", "실용영어", "speaking", "표현", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+reading_time: 489줄
+description: 영어 일상 표현 완벽 정복 | 상황별 필수 회화, 자주 쓰는 표현, 1:1 맞춤 회화 지도 [2025년] 과목별 특성을 고려한
+  맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
+  현명한 선택을 도와드립니다.
+categories:
+- 영어
+tags:
+- 영어
+- 회화
+- 일상표현
+- 실용영어
+- speaking
+- 표현
+- 1:1과외
+- 과외
+featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
 ---
 
 # 영어 일상 표현 완벽 정리

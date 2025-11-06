@@ -1,11 +1,22 @@
 ---
-title: "영어 연어 표현 완벽 정리 | 1:1 영어 과외"
+title: 영어 연어 표현 완벽 정리 | 1:1 영어 과외
 date: 2025-01-29
-reading_time: "575줄"
-description: "영어 연어(Collocation) 완벽 정복 | 자연스러운 단어 조합, 빈출 연어 세트, 1:1 맞춤 어휘 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "어휘", "연어", "collocation", "word combination", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
+reading_time: 575줄
+description: 영어 연어(Collocation) 완벽 정복 | 자연스러운 단어 조합, 빈출 연어 세트, 1:1 맞춤 어휘 지도 [2025년]
+  과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
+  경험하세요.
+categories:
+- 영어
+tags:
+- 영어
+- 어휘
+- 연어
+- collocation
+- word combination
+- 1:1과외
+- 과외
+- 단어
+featured_image: https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop
 ---
 
 # 영어 연어 표현 완벽 정리

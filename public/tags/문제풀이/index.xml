@@ -1,68 +1,808 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>문제풀이 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/</link>
-    <description>Recent content in 문제풀이 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>수학 공부법</title>
-      <link>https://edukoreaai.com/subjects/math/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/</guid>
-      <description>&lt;h1 id=&#34;수학-공부법&#34;&gt;수학 공부법&lt;/h1&gt;&#xA;&lt;p&gt;수학을 정복하기 위한 체계적인 학습 방법을 제공합니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;주요-학습-영역&#34;&gt;주요 학습 영역&lt;/h2&gt;&#xA;&lt;h3 id=&#34;개념-이해&#34;&gt;개념 이해&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;수학 개념 완벽히 이해하기&lt;/li&gt;&#xA;&lt;li&gt;공식 유도 과정 알기&lt;/li&gt;&#xA;&lt;li&gt;개념 간 연결고리 찾기&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;문제-풀이-전략&#34;&gt;문제 풀이 전략&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;문제 유형별 접근법&lt;/li&gt;&#xA;&lt;li&gt;실수 줄이는 방법&lt;/li&gt;&#xA;&lt;li&gt;시간 관리 전략&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;도형과-함수&#34;&gt;도형과 함수&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;도형 문제 정복하기&lt;/li&gt;&#xA;&lt;li&gt;함수 개념 마스터&lt;/li&gt;&#xA;&lt;li&gt;그래프 해석 능력&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;수학-문장제&#34;&gt;수학 문장제&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;문장제 읽는 법&lt;/li&gt;&#xA;&lt;li&gt;식 세우기 연습&lt;/li&gt;&#xA;&lt;li&gt;단위 확인 습관&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;학년별-수학-학습&#34;&gt;학년별 수학 학습&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;초등학생&lt;/strong&gt;: 연산 완성, 문장제 익히기&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;중학생&lt;/strong&gt;: 도형/함수 기초, 문제 풀이 연습&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;고등학생&lt;/strong&gt;: 미적분, 확률통계, 수능 대비&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;수학 성적 향상이 고민이신가요?&#xA;&lt;a href=&#34;https://edukoreaai.com/consultation/&#34;&gt;맞춤 학습법 상담받기 →&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수학 문제 풀이 전략 가이드 | 1:1 수학 문제풀이 과외</title>
-      <link>https://edukoreaai.com/subjects/math/math-problem-solving/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-problem-solving/</guid>
-      <description>&lt;h1 id=&#34;수학-문제-풀이-전략-가이드&#34;&gt;수학 문제 풀이 전략 가이드&lt;/h1&gt;&#xA;&lt;p&gt;수학 문제, 어떻게 풀어야 할까요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;문제만 보면 막막해요.&amp;rdquo;&#xA;&amp;ldquo;어디서부터 시작해야 할지 모르겠어요.&amp;rdquo;&#xA;&amp;ldquo;시간이 너무 오래 걸려요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;체계적인 &lt;strong&gt;문제 풀이 전략&lt;/strong&gt;이 있으면 어떤 문제도 풀 수 있습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;문제-풀이의-기본&#34;&gt;문제 풀이의 기본&lt;/h2&gt;&#xA;&lt;h3 id=&#34;4단계-접근법&#34;&gt;4단계 접근법&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;체계적&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;1단계: 이해&#xA;무엇을 묻는가?&#xA;&#xA;2단계: 계획&#xA;어떻게 풀 것인가?&#xA;&#xA;3단계: 실행&#xA;풀이 진행&#xA;&#xA;4단계: 검증&#xA;답 확인&#xA;&#xA;→ Polya의 문제해결 모형&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;1단계-문제-이해&#34;&gt;1단계: 문제 이해&lt;/h2&gt;&#xA;&lt;h3 id=&#34;문제-읽기&#34;&gt;문제 읽기&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;꼼꼼히&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수학 문제풀이 과외 | 유형분석·전략·실전 완벽 마스터</title>
-      <link>https://edukoreaai.com/subjects/math/math-problem-solving-mastery/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-problem-solving-mastery/</guid>
-      <description>&lt;h1 id=&#34;수학-문제풀이-완벽-마스터하기&#34;&gt;수학 문제풀이 완벽 마스터하기&lt;/h1&gt;&#xA;&lt;p&gt;수학 개념은 아는데 문제만 보면 막막하신가요? 시간이 부족하고, 실수가 잦고, 점수가 오르지 않나요? 수학 문제풀이는 체계적 전략과 반복 훈련으로 반드시 향상됩니다. 1:1 맞춤 문제풀이 과외로 효율적으로 실력을 키워보세요.&lt;/p&gt;&#xA;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;왜-문제풀이-전략이-중요한가&#34;&gt;왜 문제풀이 전략이 중요한가?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;개념과-적용의-차이&#34;&gt;개념과 적용의 차이&lt;/h3&gt;&#xA;&lt;p&gt;개념을 안다고 문제를 풀 수 있는 것은 아닙니다. 개념을 어떻게 적용할지 아는 것이 문제풀이 능력입니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략</title>
-      <link>https://edukoreaai.com/elementary/elementary-math-study-guide/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/elementary/elementary-math-study-guide/</guid>
-      <description>&lt;h2 id=&#34;-초등-수학-왜-이렇게-중요할까요&#34;&gt;🎯 초등 수학, 왜 이렇게 중요할까요?&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;우리 아이, 수학만 나오면 힘들어해요.&amp;rdquo;&#xA;&amp;ldquo;계산은 잘하는데 문장제는 왜 못 풀까요?&amp;rdquo;&#xA;&amp;ldquo;어떻게 가르쳐야 수학을 좋아하게 될까요?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;많은 학부모님들이 초등 수학 때문에 고민하십니다. &lt;strong&gt;초등 수학은 단순한 과목이 아닙니다.&lt;/strong&gt; 중·고등학교 수학의 토대이자, 논리적 사고력을 기르는 핵심 과정입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;초등-수학이-결정하는-것들&#34;&gt;초등 수학이 결정하는 것들&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;중학교 수학 성적의 80%&lt;/strong&gt;: 초등 수학 기초가 탄탄해야 중등 과정이 쉽습니다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;수학적 사고력&lt;/strong&gt;: 문제 해결 능력과 논리력의 기초를 다집니다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;자신감 형성&lt;/strong&gt;: 초등 때 수학에 자신감을 가지면 평생 갑니다&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;학습 태도&lt;/strong&gt;: 스스로 생각하고 풀어내는 습관을 만듭니다&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;cta-kakao-hero&#34;&gt;&#xA;  &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;     target=&#34;_blank&#34;&#xA;     rel=&#34;noopener noreferrer&#34;&#xA;     class=&#34;kakao-btn-hero&#34;&#xA;     onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;       &#39;event_category&#39;: &#39;engagement&#39;,&#xA;       &#39;event_label&#39;: &#39;consultation_hero&#39;,&#xA;       &#39;value&#39;: 1&#xA;     });&#34;&gt;&#xA;    💬 카카오톡으로 무료 상담 시작하기&#xA;  &lt;/a&gt;&#xA;  &lt;p class=&#34;kakao-subtitle&#34;&gt;⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>국어 문법 실전 문제 풀이 | 1:1 국어 과외 [2025]</title>
-      <link>https://edukoreaai.com/subjects/korean/korean-grammar-practice/</link>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/korean/korean-grammar-practice/</guid>
-      <description>&lt;h1 id=&#34;문법-실전-문제-완벽-가이드&#34;&gt;문법 실전 문제 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;문법 실전 문제 학습이 어렵나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;문법 실전 문제이 너무 복잡해요.&amp;rdquo;&#xA;&amp;ldquo;문법 실전 문제 규칙을 외울 수가 없어요.&amp;rdquo;&#xA;&amp;ldquo;문법 실전 문제 실수를 자주 해요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;문법 실전 문제의 원리&lt;/strong&gt;를 이해하면 &lt;strong&gt;정확한 국어 사용&lt;/strong&gt;이 가능합니다.&lt;/p&gt;&#xA;&lt;p&gt;이 가이드에서는 문법 실전 문제 완벽 정복법을 소개합니다.&lt;/p&gt;&#xA;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;1-문법-실전-문제의-기본-원리&#34;&gt;1. 문법 실전 문제의 기본 원리&lt;/h2&gt;&#xA;&lt;h3 id=&#34;기본-개념&#34;&gt;기본 개념&lt;/h3&gt;&#xA;&lt;p&gt;문법 실전 문제은 &lt;strong&gt;올바른 국어 사용의 핵심&lt;/strong&gt;입니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수학 문장제 정복 추천 방법 | 초등~고등</title>
-      <link>https://edukoreaai.com/subjects/math/word-problems-guide/</link>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/word-problems-guide/</guid>
-      <description>&lt;h1 id=&#34;수학-문장제-정복하기&#34;&gt;수학 문장제 정복하기&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;문장제만 나오면 어려워해요&amp;rdquo;, &amp;ldquo;문제는 이해하는데 식을 못 세워요&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;이런 고민, 많으시죠? 수학 문장제를 쉽게 푸는 방법을 알려드립니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;수학 문장제 풀이&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;문장제가-어려운-이유&#34;&gt;문장제가 어려운 이유&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-읽기-능력-부족&#34;&gt;1. 읽기 능력 부족&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;문제를 정확히 이해하지 못함&lt;/li&gt;&#xA;&lt;li&gt;핵심 정보를 파악하지 못함&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-식-세우기-어려움&#34;&gt;2. 식 세우기 어려움&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;문장을 수식으로 바꾸는 게 낯설음&lt;/li&gt;&#xA;&lt;li&gt;어떤 연산을 써야 할지 모름&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-단위-실수&#34;&gt;3. 단위 실수&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;단위 확인을 안 함&lt;/li&gt;&#xA;&lt;li&gt;답의 단위를 잘못 쓰기&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;문장제-푸는-5단계-전략&#34;&gt;문장제 푸는 5단계 전략&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1단계-꼼꼼히-읽기&#34;&gt;1단계: 꼼꼼히 읽기&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;✓ 문제를 2-3번 천천히 읽기&#xA;✓ 모르는 단어 확인하기&#xA;✓ 구하려는 것 밑줄 긋기&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;2단계-정보-정리하기&#34;&gt;2단계: 정보 정리하기&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;✓ 주어진 정보를 표로 정리&#xA;✓ 구하려는 것 명확히 하기&#xA;✓ 단위 확인하기&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;3단계-그림-그리기&#34;&gt;3단계: 그림 그리기&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;✓ 문제 상황을 그림으로 표현&#xA;✓ 수직선, 표, 도형 등 활용&#xA;✓ 시각화를 통한 이해&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;4단계-식-세우기&#34;&gt;4단계: 식 세우기&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;✓ 그림을 보고 식 만들기&#xA;✓ 간단한 수로 먼저 연습&#xA;✓ 단위 일치 확인&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;5단계-답-확인하기&#34;&gt;5단계: 답 확인하기&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;✓ 계산 다시 확인&#xA;✓ 답이 문제 상황에 맞는지 확인&#xA;✓ 단위 정확히 쓰기&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;학년별-문장제-전략&#34;&gt;학년별 문장제 전략&lt;/h2&gt;&#xA;&lt;h3 id=&#34;초등학생&#34;&gt;초등학생&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;1-2학년: 기초 다지기&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수학 기출문제 분석 및 활용 완벽 가이드 | 1:1 과외 학습법 [2025]</title>
-      <link>https://edukoreaai.com/subjects/math/math-past-exams/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-past-exams/</guid>
-      <description>&lt;h1 id=&#34;수학-기출문제-분석-및-활용-완벽-가이드&#34;&gt;수학 기출문제 분석 및 활용 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;수학 성적 향상의 핵심은 &lt;strong&gt;기출문제 분석&lt;/strong&gt;에 있습니다. 최근 3-5년간의 기출문제만 제대로 분석해도 출제 경향과 핵심 개념을 파악할 수 있습니다. 이 글에서는 기출문제를 효과적으로 활용하는 구체적인 방법을 알려드립니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;기출문제-분석이-중요한-이유&#34;&gt;기출문제 분석이 중요한 이유&lt;/h2&gt;&#xA;&lt;h3 id=&#34;출제-경향-파악의-핵심&#34;&gt;출제 경향 파악의 핵심&lt;/h3&gt;&#xA;&lt;p&gt;기출문제는 &lt;strong&gt;출제자의 의도&lt;/strong&gt;를 가장 명확하게 보여주는 자료입니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;주요 이점:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;자주 출제되는 유형 파악 가능&lt;/li&gt;&#xA;&lt;li&gt;난이도 분포 확인&lt;/li&gt;&#xA;&lt;li&gt;새로운 문제 경향 예측&lt;/li&gt;&#xA;&lt;li&gt;시간 배분 연습&lt;/li&gt;&#xA;&lt;li&gt;실전 감각 향상&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;대부분의 시험은 &lt;strong&gt;70-80%가 기본 개념&lt;/strong&gt; 문제이고, 나머지 20-30%가 응용 및 심화 문제입니다. 기출 분석을 통해 이러한 비율을 정확히 파악할 수 있습니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수학 완벽 로드맵 - 기초부터 심화까지 총정리</title>
-      <link>https://edukoreaai.com/subjects/math/math-complete-roadmap/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-complete-roadmap/</guid>
-      <description>&lt;h1 id=&#34;수학-완벽-로드맵---기초부터-심화까지-총정리&#34;&gt;수학 완벽 로드맵 - 기초부터 심화까지 총정리&lt;/h1&gt;&#xA;&lt;p&gt;수학은 논리적 사고력과 문제 해결 능력을 키우는 핵심 과목입니다. 체계적인 학습과 꾸준한 연습으로 누구나 수학을 정복할 수 있습니다. 이 가이드는 수학 학습의 모든 것을 담았습니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;과목별 맞춤 학습 전략이 필요하신가요?&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 수학 완벽 로드맵 - 기초부터 심화까지 총정리&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-수학-학습의-중요성&#34;&gt;1. 수학 학습의 중요성&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-왜-수학을-공부해야-하는가&#34;&gt;1.1 왜 수학을 공부해야 하는가&lt;/h3&gt;&#xA;&lt;p&gt;수학은 단순한 계산 능력을 넘어 다양한 능력을 키웁니다:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>문제풀이 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/</link><description>Recent content in 문제풀이 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/index.xml" rel="self" type="application/rss+xml"/><item><title>수학 공부법</title><link>https://edukoreaai.com/subjects/math/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/</guid><description>&lt;h1 id="수학-공부법">수학 공부법&lt;/h1>
+&lt;p>수학을 정복하기 위한 체계적인 학습 방법을 제공합니다.&lt;/p>
+&lt;h2 id="주요-학습-영역">주요 학습 영역&lt;/h2>
+&lt;h3 id="개념-이해">개념 이해&lt;/h3>
+&lt;ul>
+&lt;li>수학 개념 완벽히 이해하기&lt;/li>
+&lt;li>공식 유도 과정 알기&lt;/li>
+&lt;li>개념 간 연결고리 찾기&lt;/li>
+&lt;/ul>
+&lt;h3 id="문제-풀이-전략">문제 풀이 전략&lt;/h3>
+&lt;ul>
+&lt;li>문제 유형별 접근법&lt;/li>
+&lt;li>실수 줄이는 방법&lt;/li>
+&lt;li>시간 관리 전략&lt;/li>
+&lt;/ul>
+&lt;h3 id="도형과-함수">도형과 함수&lt;/h3>
+&lt;ul>
+&lt;li>도형 문제 정복하기&lt;/li>
+&lt;li>함수 개념 마스터&lt;/li>
+&lt;li>그래프 해석 능력&lt;/li>
+&lt;/ul>
+&lt;h3 id="수학-문장제">수학 문장제&lt;/h3>
+&lt;ul>
+&lt;li>문장제 읽는 법&lt;/li>
+&lt;li>식 세우기 연습&lt;/li>
+&lt;li>단위 확인 습관&lt;/li>
+&lt;/ul>
+&lt;h2 id="학년별-수학-학습">학년별 수학 학습&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>초등학생&lt;/strong>: 연산 완성, 문장제 익히기&lt;/li>
+&lt;li>&lt;strong>중학생&lt;/strong>: 도형/함수 기초, 문제 풀이 연습&lt;/li>
+&lt;li>&lt;strong>고등학생&lt;/strong>: 미적분, 확률통계, 수능 대비&lt;/li>
+&lt;/ul>
+&lt;p>수학 성적 향상이 고민이신가요?
+&lt;a href="https://edukoreaai.com/consultation/">맞춤 학습법 상담받기 →&lt;/a>&lt;/p></description></item><item><title>수학 문제 풀이 전략 가이드 | 1:1 수학 문제풀이 과외</title><link>https://edukoreaai.com/subjects/math/math-problem-solving/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-problem-solving/</guid><description>&lt;h1 id="수학-문제-풀이-전략-가이드">수학 문제 풀이 전략 가이드&lt;/h1>
+&lt;p>수학 문제, 어떻게 풀어야 할까요?&lt;/p>
+&lt;p>&amp;ldquo;문제만 보면 막막해요.&amp;rdquo;
+&amp;ldquo;어디서부터 시작해야 할지 모르겠어요.&amp;rdquo;
+&amp;ldquo;시간이 너무 오래 걸려요.&amp;rdquo;&lt;/p>
+&lt;p>체계적인 &lt;strong>문제 풀이 전략&lt;/strong>이 있으면 어떤 문제도 풀 수 있습니다.&lt;/p>
+&lt;h2 id="문제-풀이의-기본">문제 풀이의 기본&lt;/h2>
+&lt;h3 id="4단계-접근법">4단계 접근법&lt;/h3>
+&lt;p>&lt;strong>체계적&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>1단계: 이해
+무엇을 묻는가?
+
+2단계: 계획
+어떻게 풀 것인가?
+
+3단계: 실행
+풀이 진행
+
+4단계: 검증
+답 확인
+
+→ Polya의 문제해결 모형
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1단계-문제-이해">1단계: 문제 이해&lt;/h2>
+&lt;h3 id="문제-읽기">문제 읽기&lt;/h3>
+&lt;p>&lt;strong>꼼꼼히&lt;/strong>&lt;/p></description></item><item><title>수학 문제풀이 과외 | 유형분석·전략·실전 완벽 마스터</title><link>https://edukoreaai.com/subjects/math/math-problem-solving-mastery/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-problem-solving-mastery/</guid><description>&lt;h1 id="수학-문제풀이-완벽-마스터하기">수학 문제풀이 완벽 마스터하기&lt;/h1>
+&lt;p>수학 개념은 아는데 문제만 보면 막막하신가요? 시간이 부족하고, 실수가 잦고, 점수가 오르지 않나요? 수학 문제풀이는 체계적 전략과 반복 훈련으로 반드시 향상됩니다. 1:1 맞춤 문제풀이 과외로 효율적으로 실력을 키워보세요.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="왜-문제풀이-전략이-중요한가">왜 문제풀이 전략이 중요한가?&lt;/h2>
+&lt;h3 id="개념과-적용의-차이">개념과 적용의 차이&lt;/h3>
+&lt;p>개념을 안다고 문제를 풀 수 있는 것은 아닙니다. 개념을 어떻게 적용할지 아는 것이 문제풀이 능력입니다.&lt;/p></description></item><item><title>초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략</title><link>https://edukoreaai.com/elementary/elementary-math-study-guide/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/elementary/elementary-math-study-guide/</guid><description>&lt;h2 id="-초등-수학-왜-이렇게-중요할까요">🎯 초등 수학, 왜 이렇게 중요할까요?&lt;/h2>
+&lt;p>&amp;ldquo;우리 아이, 수학만 나오면 힘들어해요.&amp;rdquo;
+&amp;ldquo;계산은 잘하는데 문장제는 왜 못 풀까요?&amp;rdquo;
+&amp;ldquo;어떻게 가르쳐야 수학을 좋아하게 될까요?&amp;rdquo;&lt;/p>
+&lt;p>많은 학부모님들이 초등 수학 때문에 고민하십니다. &lt;strong>초등 수학은 단순한 과목이 아닙니다.&lt;/strong> 중·고등학교 수학의 토대이자, 논리적 사고력을 기르는 핵심 과정입니다.&lt;/p>
+&lt;h3 id="초등-수학이-결정하는-것들">초등 수학이 결정하는 것들&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>중학교 수학 성적의 80%&lt;/strong>: 초등 수학 기초가 탄탄해야 중등 과정이 쉽습니다&lt;/li>
+&lt;li>&lt;strong>수학적 사고력&lt;/strong>: 문제 해결 능력과 논리력의 기초를 다집니다&lt;/li>
+&lt;li>&lt;strong>자신감 형성&lt;/strong>: 초등 때 수학에 자신감을 가지면 평생 갑니다&lt;/li>
+&lt;li>&lt;strong>학습 태도&lt;/strong>: 스스로 생각하고 풀어내는 습관을 만듭니다&lt;/li>
+&lt;/ul>
+&lt;div class="cta-kakao-hero">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="kakao-btn-hero"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_hero',
+ 'value': 1
+ });">
+ 💬 카카오톡으로 무료 상담 시작하기
+ &lt;/a>
+ &lt;p class="kakao-subtitle">⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p></description></item><item><title>국어 문법 실전 문제 풀이 | 1:1 국어 과외 [2025]</title><link>https://edukoreaai.com/subjects/korean/korean-grammar-practice/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/korean/korean-grammar-practice/</guid><description>&lt;h1 id="문법-실전-문제-완벽-가이드">문법 실전 문제 완벽 가이드&lt;/h1>
+&lt;p>문법 실전 문제 학습이 어렵나요?&lt;/p>
+&lt;p>&amp;ldquo;문법 실전 문제이 너무 복잡해요.&amp;rdquo;
+&amp;ldquo;문법 실전 문제 규칙을 외울 수가 없어요.&amp;rdquo;
+&amp;ldquo;문법 실전 문제 실수를 자주 해요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>문법 실전 문제의 원리&lt;/strong>를 이해하면 &lt;strong>정확한 국어 사용&lt;/strong>이 가능합니다.&lt;/p>
+&lt;p>이 가이드에서는 문법 실전 문제 완벽 정복법을 소개합니다.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1-문법-실전-문제의-기본-원리">1. 문법 실전 문제의 기본 원리&lt;/h2>
+&lt;h3 id="기본-개념">기본 개념&lt;/h3>
+&lt;p>문법 실전 문제은 &lt;strong>올바른 국어 사용의 핵심&lt;/strong>입니다.&lt;/p></description></item><item><title>수학 문장제 정복 추천 방법 | 초등~고등</title><link>https://edukoreaai.com/subjects/math/word-problems-guide/</link><pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/word-problems-guide/</guid><description>&lt;h1 id="수학-문장제-정복하기">수학 문장제 정복하기&lt;/h1>
+&lt;p>&amp;ldquo;문장제만 나오면 어려워해요&amp;rdquo;, &amp;ldquo;문제는 이해하는데 식을 못 세워요&amp;rdquo;&lt;/p>
+&lt;p>이런 고민, 많으시죠? 수학 문장제를 쉽게 푸는 방법을 알려드립니다.&lt;/p>
+&lt;p>&lt;img
+ src="https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&amp;amp;h=600&amp;amp;fit=crop"
+ alt="수학 문장제 풀이"
+ loading="lazy"
+ decoding="async"
+ width="800"
+ height="400"
+>
+&lt;/p>
+&lt;h2 id="문장제가-어려운-이유">문장제가 어려운 이유&lt;/h2>
+&lt;h3 id="1-읽기-능력-부족">1. 읽기 능력 부족&lt;/h3>
+&lt;ul>
+&lt;li>문제를 정확히 이해하지 못함&lt;/li>
+&lt;li>핵심 정보를 파악하지 못함&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-식-세우기-어려움">2. 식 세우기 어려움&lt;/h3>
+&lt;ul>
+&lt;li>문장을 수식으로 바꾸는 게 낯설음&lt;/li>
+&lt;li>어떤 연산을 써야 할지 모름&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-단위-실수">3. 단위 실수&lt;/h3>
+&lt;ul>
+&lt;li>단위 확인을 안 함&lt;/li>
+&lt;li>답의 단위를 잘못 쓰기&lt;/li>
+&lt;/ul>
+&lt;h2 id="문장제-푸는-5단계-전략">문장제 푸는 5단계 전략&lt;/h2>
+&lt;h3 id="1단계-꼼꼼히-읽기">1단계: 꼼꼼히 읽기&lt;/h3>
+&lt;pre tabindex="0">&lt;code>✓ 문제를 2-3번 천천히 읽기
+✓ 모르는 단어 확인하기
+✓ 구하려는 것 밑줄 긋기
+&lt;/code>&lt;/pre>&lt;h3 id="2단계-정보-정리하기">2단계: 정보 정리하기&lt;/h3>
+&lt;pre tabindex="0">&lt;code>✓ 주어진 정보를 표로 정리
+✓ 구하려는 것 명확히 하기
+✓ 단위 확인하기
+&lt;/code>&lt;/pre>&lt;h3 id="3단계-그림-그리기">3단계: 그림 그리기&lt;/h3>
+&lt;pre tabindex="0">&lt;code>✓ 문제 상황을 그림으로 표현
+✓ 수직선, 표, 도형 등 활용
+✓ 시각화를 통한 이해
+&lt;/code>&lt;/pre>&lt;h3 id="4단계-식-세우기">4단계: 식 세우기&lt;/h3>
+&lt;pre tabindex="0">&lt;code>✓ 그림을 보고 식 만들기
+✓ 간단한 수로 먼저 연습
+✓ 단위 일치 확인
+&lt;/code>&lt;/pre>&lt;h3 id="5단계-답-확인하기">5단계: 답 확인하기&lt;/h3>
+&lt;pre tabindex="0">&lt;code>✓ 계산 다시 확인
+✓ 답이 문제 상황에 맞는지 확인
+✓ 단위 정확히 쓰기
+&lt;/code>&lt;/pre>&lt;h2 id="학년별-문장제-전략">학년별 문장제 전략&lt;/h2>
+&lt;h3 id="초등학생">초등학생&lt;/h3>
+&lt;p>&lt;strong>1-2학년: 기초 다지기&lt;/strong>&lt;/p></description></item><item><title>수학 기출문제 분석 및 활용 완벽 가이드 | 1:1 과외 학습법 [2025]</title><link>https://edukoreaai.com/subjects/math/math-past-exams/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-past-exams/</guid><description>&lt;h1 id="수학-기출문제-분석-및-활용-완벽-가이드">수학 기출문제 분석 및 활용 완벽 가이드&lt;/h1>
+&lt;p>수학 성적 향상의 핵심은 &lt;strong>기출문제 분석&lt;/strong>에 있습니다. 최근 3-5년간의 기출문제만 제대로 분석해도 출제 경향과 핵심 개념을 파악할 수 있습니다. 이 글에서는 기출문제를 효과적으로 활용하는 구체적인 방법을 알려드립니다.&lt;/p>
+&lt;h2 id="기출문제-분석이-중요한-이유">기출문제 분석이 중요한 이유&lt;/h2>
+&lt;h3 id="출제-경향-파악의-핵심">출제 경향 파악의 핵심&lt;/h3>
+&lt;p>기출문제는 &lt;strong>출제자의 의도&lt;/strong>를 가장 명확하게 보여주는 자료입니다.&lt;/p>
+&lt;p>&lt;strong>주요 이점:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>자주 출제되는 유형 파악 가능&lt;/li>
+&lt;li>난이도 분포 확인&lt;/li>
+&lt;li>새로운 문제 경향 예측&lt;/li>
+&lt;li>시간 배분 연습&lt;/li>
+&lt;li>실전 감각 향상&lt;/li>
+&lt;/ul>
+&lt;p>대부분의 시험은 &lt;strong>70-80%가 기본 개념&lt;/strong> 문제이고, 나머지 20-30%가 응용 및 심화 문제입니다. 기출 분석을 통해 이러한 비율을 정확히 파악할 수 있습니다.&lt;/p></description></item><item><title>수학 완벽 로드맵 - 기초부터 심화까지 총정리</title><link>https://edukoreaai.com/subjects/math/math-complete-roadmap/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-complete-roadmap/</guid><description>&lt;h1 id="수학-완벽-로드맵---기초부터-심화까지-총정리">수학 완벽 로드맵 - 기초부터 심화까지 총정리&lt;/h1>
+&lt;p>수학은 논리적 사고력과 문제 해결 능력을 키우는 핵심 과목입니다. 체계적인 학습과 꾸준한 연습으로 누구나 수학을 정복할 수 있습니다. 이 가이드는 수학 학습의 모든 것을 담았습니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">과목별 맞춤 학습 전략이 필요하신가요?&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 수학 완벽 로드맵 - 기초부터 심화까지 총정리',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-수학-학습의-중요성">1. 수학 학습의 중요성&lt;/h2>
+&lt;h3 id="11-왜-수학을-공부해야-하는가">1.1 왜 수학을 공부해야 하는가&lt;/h3>
+&lt;p>수학은 단순한 계산 능력을 넘어 다양한 능력을 키웁니다:&lt;/p></description></item></channel></rss>

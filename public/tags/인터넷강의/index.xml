@@ -1,40 +1,279 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>인터넷강의 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B0%95%EC%9D%98/</link>
-    <description>Recent content in 인터넷강의 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B0%95%EC%9D%98/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>수학 인강 활용 완벽 가이드 | 1:1 인강 활용 과외</title>
-      <link>https://edukoreaai.com/subjects/math/math-online-lectures/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-online-lectures/</guid>
-      <description>&lt;h1 id=&#34;수학-인강-활용-완벽-가이드&#34;&gt;수학 인강 활용 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;인강을 제대로 활용하고 계신가요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;인강만 보면 아는 것 같아요.&amp;rdquo;&#xA;&amp;ldquo;어떤 강사가 좋나요?&amp;rdquo;&#xA;&amp;ldquo;인강을 봐도 성적이 안 올라요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;올바른 인강 활용&lt;/strong&gt;이 성적 향상의 지름길입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;인강의-장단점&#34;&gt;인강의 장단점&lt;/h2&gt;&#xA;&lt;h3 id=&#34;장점&#34;&gt;장점&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;편리함&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;장점:&#xA;- 언제 어디서나&#xA;- 반복 재생&#xA;- 일시정지 가능&#xA;- 다양한 강사&#xA;&#xA;→ 유연성&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h3 id=&#34;단점&#34;&gt;단점&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;한계&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>온라인 화상 과외 완벽 가이드 - 장단점부터 선택 기준까지 (2025)</title>
-      <link>https://edukoreaai.com/tutoring/guide/online-video-tutoring-guide/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/guide/online-video-tutoring-guide/</guid>
-      <description>&lt;p&gt;코로나 이후 급성장한 온라인 화상 과외. &amp;ldquo;우리 아이에게도 효과가 있을까?&amp;rdquo; 고민하시는 학부모님들을 위해 실전 가이드를 준비했습니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;온라인 화상 과외&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;온라인-화상-과외란&#34;&gt;온라인 화상 과외란?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;정의&#34;&gt;정의&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zoom, Google Meet 등 화상회의 프로그램 활용&lt;/li&gt;&#xA;&lt;li&gt;1:1 또는 소그룹 실시간 수업&lt;/li&gt;&#xA;&lt;li&gt;집에서 받는 맞춤형 과외&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;대면-과외와의-차이점&#34;&gt;대면 과외와의 차이점&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;장소&lt;/strong&gt;: 집에서 수업 (이동 시간 0분)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;선생님 선택&lt;/strong&gt;: 전국 단위 선택 가능&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;학습 자료&lt;/strong&gt;: 디지털 자료 활용&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;온라인-화상-과외의-장점&#34;&gt;온라인 화상 과외의 장점&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-시간과-비용-절약&#34;&gt;1. 시간과 비용 절약&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;시간 절약&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;이동 시간 제로&lt;/li&gt;&#xA;&lt;li&gt;학원 왕복 1시간 → 추가 학습 시간 확보&lt;/li&gt;&#xA;&lt;li&gt;타이트한 일정에도 수업 가능&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;실제 사례&lt;/strong&gt;&#xA;&amp;ldquo;대치동에서 강남까지 왕복 2시간 걸렸는데, 화상 과외로 바꾸니 그 시간에 복습할 수 있어요.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법</title>
-      <link>https://edukoreaai.com/local/online-education-platform-guide/</link>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/local/online-education-platform-guide/</guid>
-      <description>&lt;p&gt;코로나19 이후 온라인 교육이 크게 확대되었습니다. 무료 또는 저렴하게 이용할 수 있는 온라인 교육 플랫폼을 효과적으로 활용하는 방법을 상세히 알아보겠습니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;온라인학습&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;온라인-교육-플랫폼-개요&#34;&gt;온라인 교육 플랫폼 개요&lt;/h2&gt;&#xA;&lt;h3 id=&#34;온라인-교육의-장점&#34;&gt;온라인 교육의 장점&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;학습자 관점&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;장점:&#xA;- 시간·장소 자유&#xA;- 반복 학습 가능&#xA;- 자기 주도 학습&#xA;- 경제적 (무료·저렴)&#xA;&#xA;효과:&#xA;- 개인 맞춤 학습&#xA;- 자기 속도 조절&#xA;- 다양한 콘텐츠 접근&#xA;- 학습 격차 해소&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;학부모 관점&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;사교육비 절감&lt;/li&gt;&#xA;&lt;li&gt;안전한 학습&lt;/li&gt;&#xA;&lt;li&gt;학습 관리 가능&lt;/li&gt;&#xA;&lt;li&gt;양질의 콘텐츠&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;주요-플랫폼-분류&#34;&gt;주요 플랫폼 분류&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;공공 플랫폼 (무료)&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>학원 선택 완벽 가이드 - 우리 아이에게 맞는 학원 찾기</title>
-      <link>https://edukoreaai.com/local/private-academy-selection-guide/</link>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/local/private-academy-selection-guide/</guid>
-      <description>&lt;p&gt;학원은 학교 교육을 보완하는 중요한 역할을 합니다. 하지만 아이에게 맞지 않는 학원은 시간과 비용만 낭비할 수 있습니다. 우리 아이에게 딱 맞는 학원을 선택하는 방법을 알아보겠습니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;학원&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;사교육-기관-유형&#34;&gt;사교육 기관 유형&lt;/h2&gt;&#xA;&lt;h3 id=&#34;학원&#34;&gt;학원&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;학원법상 학원&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;정의:&#xA;- 학원의 설립·운영 및 과외교습에 관한 법률&#xA;- 학습자 10명 이상 교습&#xA;- 교습소보다 큰 규모&#xA;- 교육청 등록&#xA;&#xA;분류:&#xA;- 학교교과 학원&#xA;- 예능 학원&#xA;- 독서실&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;규모별 분류&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;대형 학원:&#xA;- 학생 100명 이상&#xA;- 여러 강사&#xA;- 체계적 시스템&#xA;- 브랜드화&#xA;&#xA;중형 학원:&#xA;- 학생 30~100명&#xA;- 소수 강사&#xA;- 관리형&#xA;&#xA;소형 학원:&#xA;- 학생 10~30명&#xA;- 개인 운영&#xA;- 밀착 관리&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;교습소&#34;&gt;교습소&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;교습소란?&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>인터넷강의 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B0%95%EC%9D%98/</link><description>Recent content in 인터넷강의 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B0%95%EC%9D%98/index.xml" rel="self" type="application/rss+xml"/><item><title>수학 인강 활용 완벽 가이드 | 1:1 인강 활용 과외</title><link>https://edukoreaai.com/subjects/math/math-online-lectures/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-online-lectures/</guid><description>&lt;h1 id="수학-인강-활용-완벽-가이드">수학 인강 활용 완벽 가이드&lt;/h1>
+&lt;p>인강을 제대로 활용하고 계신가요?&lt;/p>
+&lt;p>&amp;ldquo;인강만 보면 아는 것 같아요.&amp;rdquo;
+&amp;ldquo;어떤 강사가 좋나요?&amp;rdquo;
+&amp;ldquo;인강을 봐도 성적이 안 올라요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>올바른 인강 활용&lt;/strong>이 성적 향상의 지름길입니다.&lt;/p>
+&lt;h2 id="인강의-장단점">인강의 장단점&lt;/h2>
+&lt;h3 id="장점">장점&lt;/h3>
+&lt;p>&lt;strong>편리함&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>장점:
+- 언제 어디서나
+- 반복 재생
+- 일시정지 가능
+- 다양한 강사
+
+→ 유연성
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h3 id="단점">단점&lt;/h3>
+&lt;p>&lt;strong>한계&lt;/strong>&lt;/p></description></item><item><title>온라인 화상 과외 완벽 가이드 - 장단점부터 선택 기준까지 (2025)</title><link>https://edukoreaai.com/tutoring/guide/online-video-tutoring-guide/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/guide/online-video-tutoring-guide/</guid><description>&lt;p>코로나 이후 급성장한 온라인 화상 과외. &amp;ldquo;우리 아이에게도 효과가 있을까?&amp;rdquo; 고민하시는 학부모님들을 위해 실전 가이드를 준비했습니다.&lt;/p>
+&lt;p>&lt;img
+ src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&amp;amp;h=600&amp;amp;fit=crop"
+ alt="온라인 화상 과외"
+ loading="lazy"
+ decoding="async"
+ width="800"
+ height="400"
+>
+&lt;/p>
+&lt;h2 id="온라인-화상-과외란">온라인 화상 과외란?&lt;/h2>
+&lt;h3 id="정의">정의&lt;/h3>
+&lt;ul>
+&lt;li>Zoom, Google Meet 등 화상회의 프로그램 활용&lt;/li>
+&lt;li>1:1 또는 소그룹 실시간 수업&lt;/li>
+&lt;li>집에서 받는 맞춤형 과외&lt;/li>
+&lt;/ul>
+&lt;h3 id="대면-과외와의-차이점">대면 과외와의 차이점&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>장소&lt;/strong>: 집에서 수업 (이동 시간 0분)&lt;/li>
+&lt;li>&lt;strong>선생님 선택&lt;/strong>: 전국 단위 선택 가능&lt;/li>
+&lt;li>&lt;strong>학습 자료&lt;/strong>: 디지털 자료 활용&lt;/li>
+&lt;/ul>
+&lt;h2 id="온라인-화상-과외의-장점">온라인 화상 과외의 장점&lt;/h2>
+&lt;h3 id="1-시간과-비용-절약">1. 시간과 비용 절약&lt;/h3>
+&lt;p>&lt;strong>시간 절약&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>이동 시간 제로&lt;/li>
+&lt;li>학원 왕복 1시간 → 추가 학습 시간 확보&lt;/li>
+&lt;li>타이트한 일정에도 수업 가능&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>실제 사례&lt;/strong>
+&amp;ldquo;대치동에서 강남까지 왕복 2시간 걸렸는데, 화상 과외로 바꾸니 그 시간에 복습할 수 있어요.&amp;rdquo;&lt;/p></description></item><item><title>무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법</title><link>https://edukoreaai.com/local/online-education-platform-guide/</link><pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/local/online-education-platform-guide/</guid><description>&lt;p>코로나19 이후 온라인 교육이 크게 확대되었습니다. 무료 또는 저렴하게 이용할 수 있는 온라인 교육 플랫폼을 효과적으로 활용하는 방법을 상세히 알아보겠습니다.&lt;/p>
+&lt;p>&lt;img
+ src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&amp;amp;h=600&amp;amp;fit=crop"
+ alt="온라인학습"
+ loading="lazy"
+ decoding="async"
+ width="800"
+ height="400"
+>
+&lt;/p>
+&lt;h2 id="온라인-교육-플랫폼-개요">온라인 교육 플랫폼 개요&lt;/h2>
+&lt;h3 id="온라인-교육의-장점">온라인 교육의 장점&lt;/h3>
+&lt;p>&lt;strong>학습자 관점&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>장점:
+- 시간·장소 자유
+- 반복 학습 가능
+- 자기 주도 학습
+- 경제적 (무료·저렴)
+
+효과:
+- 개인 맞춤 학습
+- 자기 속도 조절
+- 다양한 콘텐츠 접근
+- 학습 격차 해소
+&lt;/code>&lt;/pre>&lt;p>&lt;strong>학부모 관점&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>사교육비 절감&lt;/li>
+&lt;li>안전한 학습&lt;/li>
+&lt;li>학습 관리 가능&lt;/li>
+&lt;li>양질의 콘텐츠&lt;/li>
+&lt;/ul>
+&lt;h3 id="주요-플랫폼-분류">주요 플랫폼 분류&lt;/h3>
+&lt;p>&lt;strong>공공 플랫폼 (무료)&lt;/strong>&lt;/p></description></item><item><title>학원 선택 완벽 가이드 - 우리 아이에게 맞는 학원 찾기</title><link>https://edukoreaai.com/local/private-academy-selection-guide/</link><pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/local/private-academy-selection-guide/</guid><description>&lt;p>학원은 학교 교육을 보완하는 중요한 역할을 합니다. 하지만 아이에게 맞지 않는 학원은 시간과 비용만 낭비할 수 있습니다. 우리 아이에게 딱 맞는 학원을 선택하는 방법을 알아보겠습니다.&lt;/p>
+&lt;p>&lt;img
+ src="https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&amp;amp;h=600&amp;amp;fit=crop"
+ alt="학원"
+ loading="lazy"
+ decoding="async"
+ width="800"
+ height="400"
+>
+&lt;/p>
+&lt;h2 id="사교육-기관-유형">사교육 기관 유형&lt;/h2>
+&lt;h3 id="학원">학원&lt;/h3>
+&lt;p>&lt;strong>학원법상 학원&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>정의:
+- 학원의 설립·운영 및 과외교습에 관한 법률
+- 학습자 10명 이상 교습
+- 교습소보다 큰 규모
+- 교육청 등록
+
+분류:
+- 학교교과 학원
+- 예능 학원
+- 독서실
+&lt;/code>&lt;/pre>&lt;p>&lt;strong>규모별 분류&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>대형 학원:
+- 학생 100명 이상
+- 여러 강사
+- 체계적 시스템
+- 브랜드화
+
+중형 학원:
+- 학생 30~100명
+- 소수 강사
+- 관리형
+
+소형 학원:
+- 학생 10~30명
+- 개인 운영
+- 밀착 관리
+&lt;/code>&lt;/pre>&lt;h3 id="교습소">교습소&lt;/h3>
+&lt;p>&lt;strong>교습소란?&lt;/strong>&lt;/p></description></item></channel></rss>

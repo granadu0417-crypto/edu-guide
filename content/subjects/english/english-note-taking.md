@@ -1,11 +1,21 @@
 ---
-title: "영어 노트 필기법 완벽 가이드 | 1:1 학습 전략 과외"
+title: 영어 노트 필기법 완벽 가이드 | 1:1 학습 전략 과외
 date: 2025-01-29
-reading_time: "704줄"
-description: "영어 노트 필기법 완벽 정복 | 효율적 정리, 복습 전략, 암기 노하우, 1:1 맞춤 필기 전략 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "필기법", "노트", "정리", "공부법", "note-taking", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+reading_time: 704줄
+description: 영어 노트 필기법 완벽 정복 | 효율적 정리, 복습 전략, 암기 노하우, 1:1 맞춤 필기 전략 지도 [2025년] 과목별
+  특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
+categories:
+- 영어
+tags:
+- 영어
+- 필기법
+- 노트
+- 정리
+- 공부법
+- note-taking
+- 1:1과외
+- 과외
+featured_image: https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop
 ---
 
 # 영어 노트 필기법 완벽 가이드

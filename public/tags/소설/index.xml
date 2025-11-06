@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>소설 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EC%86%8C%EC%84%A4/</link><description>Recent content in 소설 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EC%86%8C%EC%84%A4/index.xml" rel="self" type="application/rss+xml"/><item><title>국어 고전소설 완벽 가이드 | 1:1 국어 과외 [2025]</title><link>https://edukoreaai.com/subjects/korean/korean-classical-novel/</link><pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/korean/korean-classical-novel/</guid><description>&lt;h1 id="국어-고전소설-완벽-가이드">국어 고전소설 완벽 가이드&lt;/h1>
+&lt;p>고전소설 학습, 제대로 하고 계신가요?&lt;/p>
+&lt;p>&amp;ldquo;고전소설을 어떻게 공부해야 할지 모르겠어요.&amp;rdquo;
+&amp;ldquo;고전소설 성적이 오르지 않아요.&amp;rdquo;
+&amp;ldquo;고전소설 시험 문제가 너무 어려워요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>고전소설의 핵심 원리&lt;/strong>를 이해하면 &lt;strong>국어 실력이 크게 향상&lt;/strong>됩니다.&lt;/p>
+&lt;p>이 가이드에서는 고전소설 완벽 학습법을 소개합니다.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1-고전소설의-이해">1. 고전소설의 이해&lt;/h2>
+&lt;h3 id="기본-개념">기본 개념&lt;/h3>
+&lt;p>고전소설은 &lt;strong>국어 학습의 핵심 영역&lt;/strong>입니다.&lt;/p></description></item><item><title>국어 고전문학 과외 | 고전소설·시가 완벽 마스터</title><link>https://edukoreaai.com/subjects/korean/korean-classical-literature/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/korean/korean-classical-literature/</guid><description>&lt;p>&lt;strong>&amp;ldquo;고전문학이 어렵고 지루하다&amp;rdquo;&lt;/strong> 많은 학생들의 고민입니다.&lt;/p>
+&lt;p>고전문학은 수능 국어에서 빠지지 않는 핵심 영역이며, &lt;strong>현대어 풀이&lt;/strong>, &lt;strong>작품 이해&lt;/strong>, &lt;strong>문학적 표현 분석&lt;/strong>을 체계적으로 학습하면 고득점이 가능합니다.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1-고전문학이란">1. 고전문학이란?&lt;/h2>
+&lt;h3 id="11-고전문학의-범위">1.1 고전문학의 범위&lt;/h3>
+&lt;p>&lt;strong>시대 구분&lt;/strong>&lt;/p></description></item><item><title>국어 소설분석 과외 | 인물·사건·주제 완벽 파악</title><link>https://edukoreaai.com/subjects/korean/korean-novel-analysis/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/korean/korean-novel-analysis/</guid><description>&lt;p>&lt;strong>&amp;ldquo;소설을 어떻게 분석하나요?&amp;rdquo;&lt;/strong> 체계적 방법으로 누구나 잘 읽을 수 있습니다.&lt;/p>
+&lt;p>소설 분석은 &lt;strong>문학 감상의 핵심&lt;/strong>이며, &lt;strong>국어 실력의 기초&lt;/strong>입니다.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1-소설이란">1. 소설이란?&lt;/h2>
+&lt;h3 id="11-소설의-정의">1.1 소설의 정의&lt;/h3>
+&lt;p>&lt;strong>소설&lt;/strong>&lt;/p></description></item><item><title>국어 현대소설 완벽 가이드 | 1:1 국어 문학 과외 [2025]</title><link>https://edukoreaai.com/subjects/korean/korean-modern-novel/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/korean/korean-modern-novel/</guid><description>&lt;h1 id="국어-현대소설-완벽-가이드">국어 현대소설 완벽 가이드&lt;/h1>
+&lt;p>현대소설 학습이 어렵나요?&lt;/p>
+&lt;p>&amp;ldquo;현대소설을 어떻게 공부해야 할지 모르겠어요.&amp;rdquo;
+&amp;ldquo;현대소설 작품 분석이 너무 어려워요.&amp;rdquo;
+&amp;ldquo;현대소설 시험 문제가 풀리지 않아요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>현대소설의 핵심 원리&lt;/strong>를 이해하면 &lt;strong>문학 실력이 크게 향상&lt;/strong>됩니다.&lt;/p>
+&lt;p>이 가이드에서는 현대소설 완벽 학습법을 소개합니다.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1-현대소설의-이해">1. 현대소설의 이해&lt;/h2>
+&lt;h3 id="기본-개념">기본 개념&lt;/h3>
+&lt;p>현대소설은 &lt;strong>한국 문학의 중요한 장르&lt;/strong>입니다.&lt;/p></description></item></channel></rss>

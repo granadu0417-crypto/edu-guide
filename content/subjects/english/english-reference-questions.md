@@ -1,11 +1,21 @@
 ---
-title: "영어 지칭 대상 파악 가이드 | 1:1 독해 과외"
+title: 영어 지칭 대상 파악 가이드 | 1:1 독해 과외
 date: 2025-01-29
-reading_time: "573줄"
-description: "영어 지칭 대상 파악 완벽 정복 | 대명사 추적, 지시어 분석, 문맥 이해, 1:1 맞춤 독해 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "독해", "지칭대상", "대명사", "reference", "pronoun", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop"
+reading_time: 573줄
+description: 영어 지칭 대상 파악 완벽 정복 | 대명사 추적, 지시어 분석, 문맥 이해, 1:1 맞춤 독해 지도 [2025년] 과목별 특성을
+  고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
+categories:
+- 영어
+tags:
+- 영어
+- 독해
+- 지칭대상
+- 대명사
+- reference
+- pronoun
+- 1:1과외
+- 과외
+featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
 ---
 
 # 영어 지칭 대상 파악 가이드

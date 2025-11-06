@@ -1,11 +1,22 @@
 ---
-title: "영어 어근으로 단어 정복하기 | 1:1 영어 과외"
+title: 영어 어근으로 단어 정복하기 | 1:1 영어 과외
 date: 2025-01-29
-reading_time: "852줄"
-description: "영어 어근 완벽 정복 | 접두사·접미사·어근 활용법, 단어 유추 능력, 1:1 맞춤 어휘 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "어근", "어휘", "vocabulary", "word roots", "prefix", "suffix", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
+reading_time: 852줄
+description: 영어 어근 완벽 정복 | 접두사·접미사·어근 활용법, 단어 유추 능력, 1:1 맞춤 어휘 지도 [2025년] 과목별 특성을
+  고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
+  정보로 현명한 선택을 도와드립니다.
+categories:
+- 영어
+tags:
+- 영어
+- 어근
+- 어휘
+- vocabulary
+- word roots
+- prefix
+- suffix
+- 1:1과외
+featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
 ---
 
 # 영어 어근으로 단어 정복하기

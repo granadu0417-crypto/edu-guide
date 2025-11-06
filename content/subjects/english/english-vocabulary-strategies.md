@@ -1,11 +1,22 @@
 ---
-title: "영어 어휘 효율적 암기 전략 | 1:1 영어 과외"
+title: 영어 어휘 효율적 암기 전략 | 1:1 영어 과외
 date: 2025-01-29
-reading_time: "676줄"
-description: "영어 어휘 효율적 암기 전략 완벽 정복 | 장기 기억 전환, 과학적 복습법, 암기 도구 활용, 1:1 맞춤 어휘 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "어휘", "암기법", "vocabulary", "학습전략", "복습", "기억법", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+reading_time: 676줄
+description: 영어 어휘 효율적 암기 전략 완벽 정복 | 장기 기억 전환, 과학적 복습법, 암기 도구 활용, 1:1 맞춤 어휘 지도 [2025년]
+  과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
+  경험하세요.
+categories:
+- 영어
+tags:
+- 영어
+- 어휘
+- 암기법
+- vocabulary
+- 학습전략
+- 복습
+- 기억법
+- 1:1과외
+featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
 ---
 
 # 영어 어휘 효율적 암기 전략

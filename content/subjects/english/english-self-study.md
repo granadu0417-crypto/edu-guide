@@ -1,11 +1,22 @@
 ---
-title: "영어 독학 완벽 가이드 | 1:1 독학 전략 과외"
+title: 영어 독학 완벽 가이드 | 1:1 독학 전략 과외
 date: 2025-01-29
-reading_time: "694줄"
-description: "영어 독학 완벽 정복 | 자기주도 학습, 자료 선택, 동기 유지, 1:1 맞춤 독학 전략 지도 [2025년]"
-categories: ["영어"]
-tags: ["영어", "독학", "자기주도학습", "공부법", "self-study", "혼자", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&h=630&fit=crop"
+reading_time: 694줄
+description: 영어 독학 완벽 정복 | 자기주도 학습, 자료 선택, 동기 유지, 1:1 맞춤 독학 전략 지도 [2025년] 과목별 특성을
+  고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
+  정보로 현명한 선택을 도와드립니다.
+categories:
+- 영어
+tags:
+- 영어
+- 독학
+- 자기주도학습
+- 공부법
+- self-study
+- 혼자
+- 1:1과외
+- 과외
+featured_image: https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&h=630&fit=crop
 ---
 
 # 영어 독학 완벽 가이드

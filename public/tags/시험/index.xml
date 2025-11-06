@@ -1,47 +1,433 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>시험 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EC%8B%9C%ED%97%98/</link>
-    <description>Recent content in 시험 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EC%8B%9C%ED%97%98/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>수능 영어 독해 시험 전략 | 1:1 독해 과외</title>
-      <link>https://edukoreaai.com/subjects/english/english-exam-reading/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/english/english-exam-reading/</guid>
-      <description>&lt;h1 id=&#34;수능-영어-독해-시험-전략&#34;&gt;수능 영어 독해 시험 전략&lt;/h1&gt;&#xA;&lt;p&gt;수능 영어 독해가 어렵나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;시간이 부족해요.&amp;rdquo;&#xA;&amp;ldquo;어떤 유형부터 풀어야 할지 모르겠어요.&amp;rdquo;&#xA;&amp;ldquo;지문이 길어서 읽다가 포기해요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;수능 독해는 &lt;strong&gt;전략과 연습&lt;/strong&gt;으로 반드시 1등급을 받을 수 있습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;수능-영어-구성&#34;&gt;수능 영어 구성&lt;/h2&gt;&#xA;&lt;h3 id=&#34;문항-구성&#34;&gt;문항 구성&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;듣기 + 독해&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;듣기: 17문항 (34점)&#xA;- 1번~17번&#xA;&#xA;독해: 28문항 (56점)&#xA;- 18번~45번&#xA;&#xA;총 45문항 (90점)&#xA;→ 원점수로 등급&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h3 id=&#34;등급-기준&#34;&gt;등급 기준&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;2024학년도 기준&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수능 영어 시간 관리 완벽 가이드 | 1:1 전략 과외</title>
-      <link>https://edukoreaai.com/subjects/english/english-time-management/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/english/english-time-management/</guid>
-      <description>&lt;h1 id=&#34;수능-영어-시간-관리-완벽-가이드&#34;&gt;수능 영어 시간 관리 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;수능 영어 시간이 항상 부족한가요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;뒤에 문제를 못 풀고 끝나요.&amp;rdquo;&#xA;&amp;ldquo;시간 때문에 실수해요.&amp;rdquo;&#xA;&amp;ldquo;어떤 문제에 시간을 써야 할지 모르겠어요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;시간 관리는 &lt;strong&gt;전략과 연습&lt;/strong&gt;으로 반드시 개선할 수 있습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;수능-영어-시간-구조&#34;&gt;수능 영어 시간 구조&lt;/h2&gt;&#xA;&lt;h3 id=&#34;전체-시간&#34;&gt;전체 시간&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;70분 활용&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;총 시험 시간: 70분&#xA;&#xA;구성:&#xA;듣기: 25분 (고정)&#xA;- 17문항&#xA;- 자동 진행&#xA;&#xA;독해: 45분 (본인 조절)&#xA;- 28문항&#xA;- 18번~45번&#xA;&#xA;→ 독해 45분 활용이 핵심&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수능 영어 어휘 완벽 대비 | 1:1 어휘 과외</title>
-      <link>https://edukoreaai.com/subjects/english/english-exam-vocabulary/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/english/english-exam-vocabulary/</guid>
-      <description>&lt;h1 id=&#34;수능-영어-어휘-완벽-대비&#34;&gt;수능 영어 어휘 완벽 대비&lt;/h1&gt;&#xA;&lt;p&gt;수능 영어 어휘가 부족한가요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;단어를 외워도 시험에서 기억이 안 나요.&amp;rdquo;&#xA;&amp;ldquo;어떤 단어부터 외워야 할지 모르겠어요.&amp;rdquo;&#xA;&amp;ldquo;단어장만 보면 졸려요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;수능 어휘는 &lt;strong&gt;전략적 암기와 반복&lt;/strong&gt;으로 반드시 정복할 수 있습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;수능-필수-어휘-수준&#34;&gt;수능 필수 어휘 수준&lt;/h2&gt;&#xA;&lt;h3 id=&#34;필요한-단어-수&#34;&gt;필요한 단어 수&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;목표 어휘량&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;1등급: 4,000~5,000개&#xA;2등급: 3,000~4,000개&#xA;3등급: 2,000~3,000개&#xA;&#xA;기본:&#xA;중학교 1,200개&#xA;고1 1,800개&#xA;고2-3 2,000개&#xA;&#xA;→ 총 5,000개 목표&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h3 id=&#34;우선순위&#34;&gt;우선순위&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;어떤 단어부터?&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>영어 시험·자격증 완벽 가이드 | 1:1 시험 대비 과외</title>
-      <link>https://edukoreaai.com/subjects/english/english-certificates/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/english/english-certificates/</guid>
-      <description>&lt;h1 id=&#34;영어-시험자격증-완벽-가이드&#34;&gt;영어 시험·자격증 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;어떤 영어 시험을 준비해야 할지 모르겠나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;취업에는 어떤 시험이 좋나요?&amp;rdquo;&#xA;&amp;ldquo;유학 가려면 뭘 봐야 하나요?&amp;rdquo;&#xA;&amp;ldquo;TOEIC과 TOEFL 차이가 뭔가요?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;영어 시험은 &lt;strong&gt;목적에 맞는 선택&lt;/strong&gt;이 중요합니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;시험-종류&#34;&gt;시험 종류&lt;/h2&gt;&#xA;&lt;h3 id=&#34;국내용&#34;&gt;국내용&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;취업/진학&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;TOEIC:&#xA;- 용도: 취업, 승진&#xA;- 점수: 990점 만점&#xA;- 특징: 비즈니스 영어&#xA;&#xA;TEPS:&#xA;- 용도: 대학원, 공무원&#xA;- 점수: 600점 만점 (New)&#xA;- 특징: 한국형 시험&#xA;&#xA;G-TELP:&#xA;- 용도: 일부 기업&#xA;- 점수: Level 1-5&#xA;- 특징: 실용 영어&#xA;&#xA;→ 목적별 선택&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜</title>
-      <link>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</guid>
-      <description>&lt;h2 id=&#34;-시험-2주-전-지금이-골든타임입니다&#34;&gt;🎯 시험 2주 전, 지금이 골든타임입니다!&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;시험까지 2주밖에 안 남았는데 뭘 해야 하죠?&amp;rdquo;&#xA;&amp;ldquo;범위가 너무 넓어서 어디서부터 시작할지 모르겠어요.&amp;rdquo;&#xA;&amp;ldquo;벼락치기로 성적 올릴 수 있을까요?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;시험 2주 전은 &lt;strong&gt;가장 중요한 시기&lt;/strong&gt;입니다. 너무 늦지도, 너무 이르지도 않은 &lt;strong&gt;골든타임&lt;/strong&gt;입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;시험-2주-전이-중요한-이유&#34;&gt;시험 2주 전이 중요한 이유&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;집중 효율 최고&lt;/strong&gt;: 긴장감 + 집중력이 최고조&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;기억 보존&lt;/strong&gt;: 2주 뒤 시험까지 기억이 유지되는 최적 기간&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;전략 수정 가능&lt;/strong&gt;: 아직 방향 전환 가능한 마지막 시기&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;불안 조절&lt;/strong&gt;: 너무 일찍 시작하면 번아웃, 너무 늦으면 패닉&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;cta-kakao-hero&#34;&gt;&#xA;  &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;     target=&#34;_blank&#34;&#xA;     rel=&#34;noopener noreferrer&#34;&#xA;     class=&#34;kakao-btn-hero&#34;&#xA;     onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;       &#39;event_category&#39;: &#39;engagement&#39;,&#xA;       &#39;event_label&#39;: &#39;consultation_hero&#39;,&#xA;       &#39;value&#39;: 1&#xA;     });&#34;&gt;&#xA;    💬 카카오톡으로 무료 상담 시작하기&#xA;  &lt;/a&gt;&#xA;  &lt;p class=&#34;kakao-subtitle&#34;&gt;⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>시험 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EC%8B%9C%ED%97%98/</link><description>Recent content in 시험 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EC%8B%9C%ED%97%98/index.xml" rel="self" type="application/rss+xml"/><item><title>수능 영어 독해 시험 전략 | 1:1 독해 과외</title><link>https://edukoreaai.com/subjects/english/english-exam-reading/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/english/english-exam-reading/</guid><description>&lt;h1 id="수능-영어-독해-시험-전략">수능 영어 독해 시험 전략&lt;/h1>
+&lt;p>수능 영어 독해가 어렵나요?&lt;/p>
+&lt;p>&amp;ldquo;시간이 부족해요.&amp;rdquo;
+&amp;ldquo;어떤 유형부터 풀어야 할지 모르겠어요.&amp;rdquo;
+&amp;ldquo;지문이 길어서 읽다가 포기해요.&amp;rdquo;&lt;/p>
+&lt;p>수능 독해는 &lt;strong>전략과 연습&lt;/strong>으로 반드시 1등급을 받을 수 있습니다.&lt;/p>
+&lt;h2 id="수능-영어-구성">수능 영어 구성&lt;/h2>
+&lt;h3 id="문항-구성">문항 구성&lt;/h3>
+&lt;p>&lt;strong>듣기 + 독해&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>듣기: 17문항 (34점)
+- 1번~17번
+
+독해: 28문항 (56점)
+- 18번~45번
+
+총 45문항 (90점)
+→ 원점수로 등급
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h3 id="등급-기준">등급 기준&lt;/h3>
+&lt;p>&lt;strong>2024학년도 기준&lt;/strong>&lt;/p></description></item><item><title>수능 영어 시간 관리 완벽 가이드 | 1:1 전략 과외</title><link>https://edukoreaai.com/subjects/english/english-time-management/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/english/english-time-management/</guid><description>&lt;h1 id="수능-영어-시간-관리-완벽-가이드">수능 영어 시간 관리 완벽 가이드&lt;/h1>
+&lt;p>수능 영어 시간이 항상 부족한가요?&lt;/p>
+&lt;p>&amp;ldquo;뒤에 문제를 못 풀고 끝나요.&amp;rdquo;
+&amp;ldquo;시간 때문에 실수해요.&amp;rdquo;
+&amp;ldquo;어떤 문제에 시간을 써야 할지 모르겠어요.&amp;rdquo;&lt;/p>
+&lt;p>시간 관리는 &lt;strong>전략과 연습&lt;/strong>으로 반드시 개선할 수 있습니다.&lt;/p>
+&lt;h2 id="수능-영어-시간-구조">수능 영어 시간 구조&lt;/h2>
+&lt;h3 id="전체-시간">전체 시간&lt;/h3>
+&lt;p>&lt;strong>70분 활용&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>총 시험 시간: 70분
+
+구성:
+듣기: 25분 (고정)
+- 17문항
+- 자동 진행
+
+독해: 45분 (본인 조절)
+- 28문항
+- 18번~45번
+
+→ 독해 45분 활용이 핵심
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p></description></item><item><title>수능 영어 어휘 완벽 대비 | 1:1 어휘 과외</title><link>https://edukoreaai.com/subjects/english/english-exam-vocabulary/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/english/english-exam-vocabulary/</guid><description>&lt;h1 id="수능-영어-어휘-완벽-대비">수능 영어 어휘 완벽 대비&lt;/h1>
+&lt;p>수능 영어 어휘가 부족한가요?&lt;/p>
+&lt;p>&amp;ldquo;단어를 외워도 시험에서 기억이 안 나요.&amp;rdquo;
+&amp;ldquo;어떤 단어부터 외워야 할지 모르겠어요.&amp;rdquo;
+&amp;ldquo;단어장만 보면 졸려요.&amp;rdquo;&lt;/p>
+&lt;p>수능 어휘는 &lt;strong>전략적 암기와 반복&lt;/strong>으로 반드시 정복할 수 있습니다.&lt;/p>
+&lt;h2 id="수능-필수-어휘-수준">수능 필수 어휘 수준&lt;/h2>
+&lt;h3 id="필요한-단어-수">필요한 단어 수&lt;/h3>
+&lt;p>&lt;strong>목표 어휘량&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>1등급: 4,000~5,000개
+2등급: 3,000~4,000개
+3등급: 2,000~3,000개
+
+기본:
+중학교 1,200개
+고1 1,800개
+고2-3 2,000개
+
+→ 총 5,000개 목표
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h3 id="우선순위">우선순위&lt;/h3>
+&lt;p>&lt;strong>어떤 단어부터?&lt;/strong>&lt;/p></description></item><item><title>영어 시험·자격증 완벽 가이드 | 1:1 시험 대비 과외</title><link>https://edukoreaai.com/subjects/english/english-certificates/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/english/english-certificates/</guid><description>&lt;h1 id="영어-시험자격증-완벽-가이드">영어 시험·자격증 완벽 가이드&lt;/h1>
+&lt;p>어떤 영어 시험을 준비해야 할지 모르겠나요?&lt;/p>
+&lt;p>&amp;ldquo;취업에는 어떤 시험이 좋나요?&amp;rdquo;
+&amp;ldquo;유학 가려면 뭘 봐야 하나요?&amp;rdquo;
+&amp;ldquo;TOEIC과 TOEFL 차이가 뭔가요?&amp;rdquo;&lt;/p>
+&lt;p>영어 시험은 &lt;strong>목적에 맞는 선택&lt;/strong>이 중요합니다.&lt;/p>
+&lt;h2 id="시험-종류">시험 종류&lt;/h2>
+&lt;h3 id="국내용">국내용&lt;/h3>
+&lt;p>&lt;strong>취업/진학&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>TOEIC:
+- 용도: 취업, 승진
+- 점수: 990점 만점
+- 특징: 비즈니스 영어
+
+TEPS:
+- 용도: 대학원, 공무원
+- 점수: 600점 만점 (New)
+- 특징: 한국형 시험
+
+G-TELP:
+- 용도: 일부 기업
+- 점수: Level 1-5
+- 특징: 실용 영어
+
+→ 목적별 선택
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p></description></item><item><title>시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜</title><link>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</guid><description>&lt;h2 id="-시험-2주-전-지금이-골든타임입니다">🎯 시험 2주 전, 지금이 골든타임입니다!&lt;/h2>
+&lt;p>&amp;ldquo;시험까지 2주밖에 안 남았는데 뭘 해야 하죠?&amp;rdquo;
+&amp;ldquo;범위가 너무 넓어서 어디서부터 시작할지 모르겠어요.&amp;rdquo;
+&amp;ldquo;벼락치기로 성적 올릴 수 있을까요?&amp;rdquo;&lt;/p>
+&lt;p>시험 2주 전은 &lt;strong>가장 중요한 시기&lt;/strong>입니다. 너무 늦지도, 너무 이르지도 않은 &lt;strong>골든타임&lt;/strong>입니다.&lt;/p>
+&lt;h3 id="시험-2주-전이-중요한-이유">시험 2주 전이 중요한 이유&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>집중 효율 최고&lt;/strong>: 긴장감 + 집중력이 최고조&lt;/li>
+&lt;li>&lt;strong>기억 보존&lt;/strong>: 2주 뒤 시험까지 기억이 유지되는 최적 기간&lt;/li>
+&lt;li>&lt;strong>전략 수정 가능&lt;/strong>: 아직 방향 전환 가능한 마지막 시기&lt;/li>
+&lt;li>&lt;strong>불안 조절&lt;/strong>: 너무 일찍 시작하면 번아웃, 너무 늦으면 패닉&lt;/li>
+&lt;/ul>
+&lt;div class="cta-kakao-hero">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="kakao-btn-hero"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_hero',
+ 'value': 1
+ });">
+ 💬 카카오톡으로 무료 상담 시작하기
+ &lt;/a>
+ &lt;p class="kakao-subtitle">⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p></description></item></channel></rss>
