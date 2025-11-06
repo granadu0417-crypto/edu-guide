@@ -1,11 +1,10 @@
 ---
-title: "지역 용산구 수학과외 완벽 정리 | 한남·이촌 국제학교부터 입시까지"
+title: "용산구 수학과외 완벽 정리 | 한남·이촌 국제학교부터 입시까지"
 date: 2025-01-27
 description: "지역, 서울, 경기에 대한 완벽 가이드. 한남동, 이촌동, 용산동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
-tags: ["용산구", "수학과외", "한남동", "이촌동", "용산동", "수학", "과외", "국제학교", "AP수학", "IB수학", "입시수학", "지역", "서울", "경기", "강남"]
+tags: ["용산구", "수학과외", "한남동", "이촌동", "용산동", "수학", "과외", "국제학교", "AP수학", "IB수학", "입시수학,", "강남"]
 featured_image: "https://images.unsplash.com/photo-1625358396881-58d58b8af2ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxNXx8dXJiYW4lMjBzY2hvb2wlMjBkaXN0cmljdHxlbnwwfDB8fHwxNzYyMzg5Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 용산구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

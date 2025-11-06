@@ -5,7 +5,6 @@ description: "수능 영어 절대평가 90점 이상 1등급 달성을 위한 �
 categories: ["고등학교"]
 tags: ["수능", "영어", "절대평가", "듣기", "독해", "유형별전략", "1등급", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
 featured_image: "https://images.unsplash.com/photo-1726390415318-e6872be3da8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8dW5pdmVyc2l0eSUyMGVudHJhbmNlJTIwZXhhbXxlbnwwfDB8fHwxNzYyMzg5Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![수능 영어 공부](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop)

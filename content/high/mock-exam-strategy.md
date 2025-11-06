@@ -5,7 +5,6 @@ description: "수능 대비 모의고사 200% 활용하기. 3월·6월·9월 평
 categories: ["고등학교"]
 tags: ["수능", "모의고사", "평가원", "오답노트", "학습전략", "실전대비", "성적향상", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
 featured_image: "https://images.pexels.com/photos/6973087/pexels-photo-6973087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![모의고사 시험](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop)

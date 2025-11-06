@@ -5,7 +5,6 @@ description: "수능 국어 80분 안에 45문항을 푸는 시간 관리 전략
 categories: ["고등학교"]
 tags: ["수능", "국어", "독해", "비문학", "문학", "시간관리", "학습전략", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
 featured_image: "https://images.pexels.com/photos/8489622/pexels-photo-8489622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![수능 국어 공부](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop)

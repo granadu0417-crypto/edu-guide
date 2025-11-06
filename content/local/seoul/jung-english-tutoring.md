@@ -1,11 +1,10 @@
 ---
-title: "지역 중구 영어과외 실용 가이드 | 명동·을지로 글로벌 영어 교육"
+title: "중구 영어과외 실용 가이드 | 명동·을지로 글로벌 영어 교육"
 date: 2025-01-27
 description: "지역, 서울, 경기에 대한 완벽 가이드. 명동, 을지로, 남산, 충무로 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
-tags: ["중구", "영어과외", "명동", "을지로", "남산", "충무로", "영어", "과외", "비즈니스영어", "토익", "회화", "수능영어", "지역", "서울", "경기"]
+tags: ["중구", "영어과외", "명동", "을지로", "남산", "충무로", "영어", "과외", "비즈니스영어", "토익", "회화", "수능영어,"]
 featured_image: "https://images.unsplash.com/photo-1731883625164-86e960b62742?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8dXJiYW4lMjBzY2hvb2wlMjBkaXN0cmljdHxlbnwwfDB8fHwxNzYyMzg5Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 중구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

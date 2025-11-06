@@ -6,7 +6,6 @@ categories: ["시험", "학습전략"]
 tags: ["시험공부", "시험대비", "중간고사", "기말고사", "내신대비", "공부법", "시험전략", "단기집중", "시험준비", "시험", "시험대비", "중간고사", "기말고사", "모의고사", "공부법"]
 featured_image: "https://images.pexels.com/photos/7088534/pexels-photo-7088534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 draft: false
-keywords: ["시험", "시험대비", "중간고사", "기말고사", "모의고사", "공부법", "학습전략", "오답노트", "시험준비"]
 ---
 
 ## 🎯 시험 2주 전, 지금이 골든타임입니다!

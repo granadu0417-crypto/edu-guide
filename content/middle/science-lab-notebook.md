@@ -5,7 +5,6 @@ description: "중학교 과학 실험 노트와 탐구 보고서를 체계적으
 categories: ["중학생", "과학", "실험"]
 tags: ["과학실험", "탐구보고서", "실험노트", "과학탐구", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 featured_image: "https://images.pexels.com/photos/8499484/pexels-photo-8499484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![과학 실험](https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&h=400&fit=crop)

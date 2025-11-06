@@ -5,7 +5,6 @@ description: "중학교 서술형 평가를 체계적으로 준비하는 방법�
 categories: ["중학생", "시험", "서술형"]
 tags: ["서술형평가", "내신", "답안작성", "시험전략", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 featured_image: "https://images.unsplash.com/photo-1758525861614-4d3cb34751d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwzMHx8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMDR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![서술형 평가](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)

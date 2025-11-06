@@ -1,7 +1,6 @@
 ---
 title: "과외 찾기"
 description: "과외, 학원, 개인과외에 대한 완벽 가이드. 1대1 과외, 그룹 과외, 온라인 과외 정보와 과외 선생님 선택 가이드"
-keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
 featured_image: "https://images.pexels.com/photos/18464994/pexels-photo-18464994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 

@@ -5,7 +5,6 @@ description: "고등학생을 위한 인터넷 강의 완벽 활용 가이드. E
 categories: ["고등학교"]
 tags: ["인터넷강의", "온라인학습", "EBS", "인강", "자기주도학습", "학습전략", "효율적공부", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
 featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwzfHxoaWdoJTIwc2Nob29sJTIwc3R1ZGVudHxlbnwwfDB8fHwxNzYyMzg5MjkwfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![온라인 학습](https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop)

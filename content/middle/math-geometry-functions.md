@@ -5,7 +5,6 @@ description: "중학교 수학의 핵심인 도형과 함수를 완벽하게 정
 categories: ["중학생", "수학", "도형", "함수"]
 tags: ["중등수학", "도형", "함수", "일차함수", "이차함수", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 featured_image: "https://images.pexels.com/photos/3769995/pexels-photo-3769995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![중학 수학 공부](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=400&fit=crop)

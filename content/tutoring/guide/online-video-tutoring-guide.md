@@ -5,7 +5,6 @@ description: "과외, 학원, 개인과외에 대한 완벽 가이드. 온라인
 categories: ["학원과외", "선택가이드"]
 tags: ["온라인과외", "화상과외", "화상수업", "비대면과외", "온라인학습", "인터넷강의", "화상과외장단점", "과외선택", "과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사"]
 featured_image: "https://images.unsplash.com/photo-1758524944402-1903b38f848f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMHx8dHV0b3IlMjB0ZWFjaGluZ3xlbnwwfDB8fHwxNzYyMzg5MzgxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
 ---
 
 코로나 이후 급성장한 온라인 화상 과외. "우리 아이에게도 효과가 있을까?" 고민하시는 학부모님들을 위해 실전 가이드를 준비했습니다.

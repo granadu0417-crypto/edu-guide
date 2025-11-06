@@ -7,7 +7,6 @@ tags: ["초등수학", "공부법", "학습전략", "수학기초", "학년별�
 grades: ["초등학생"]
 featured_image: "https://images.unsplash.com/photo-1758525861781-bea6e7d79334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyMHx8eW91bmclMjBzdHVkZW50JTIwaG9tZXdvcmt8ZW58MHwwfHx8MTc2MjM4OTMyMnww&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
 draft: false
-keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ## 🎯 초등 수학, 왜 이렇게 중요할까요?

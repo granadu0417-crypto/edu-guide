@@ -1,7 +1,6 @@
 ---
 title: "경기도 지역 교육정보"
 description: "지역, 서울, 경기에 대한 완벽 가이드. 경기도 주요 신도시 및 교육 환경 정보를 제공합니다. 분당, 평촌, 일산, 동탄 등 주요 지역의 학교, 학원, 교육 인프라를 안내합니다."
-keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 featured_image: "https://images.pexels.com/photos/8763203/pexels-photo-8763203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 

@@ -5,7 +5,6 @@ description: "중학교 내신 대비를 위한 효과적인 암기 방법과 �
 categories: ["중학교"]
 tags: ["암기법", "노트정리", "내신", "학습법", "복습", "시험대비", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원"]
 featured_image: "https://images.unsplash.com/photo-1761479146876-503ee6a64344?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw4fHxqdW5pb3IlMjBoaWdoJTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3NjIzODkzMTR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![노트 정리와 학습](https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop)

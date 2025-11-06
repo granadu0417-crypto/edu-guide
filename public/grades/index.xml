@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Grades on 과외를부탁해 | 초중고 학습 정보 플랫폼</title><link>https://edukoreaai.com/grades/</link><description>Recent content in Grades on 과외를부탁해 | 초중고 학습 정보 플랫폼</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/grades/index.xml" rel="self" type="application/rss+xml"/><item><title>고등학생</title><link>https://edukoreaai.com/grades/%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/grades/%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D/</guid><description/></item><item><title>중학생</title><link>https://edukoreaai.com/grades/%EC%A4%91%ED%95%99%EC%83%9D/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/grades/%EC%A4%91%ED%95%99%EC%83%9D/</guid><description/></item><item><title>초등학생</title><link>https://edukoreaai.com/grades/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/grades/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grades on 과외를부탁해 | 초중고 학습 정보 플랫폼</title>
+    <link>https://edukoreaai.com/grades/</link>
+    <description>Recent content in Grades on 과외를부탁해 | 초중고 학습 정보 플랫폼</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://edukoreaai.com/grades/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>고등학생</title>
+      <link>https://edukoreaai.com/grades/%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/grades/%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>중학생</title>
+      <link>https://edukoreaai.com/grades/%EC%A4%91%ED%95%99%EC%83%9D/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/grades/%EC%A4%91%ED%95%99%EC%83%9D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>초등학생</title>
+      <link>https://edukoreaai.com/grades/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/grades/%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

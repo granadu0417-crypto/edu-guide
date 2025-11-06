@@ -5,7 +5,6 @@ description: "초등학생 자녀에게 평생 독서 습관을 심어주는 실
 categories: ["초등학생", "독서", "습관"]
 tags: ["독서습관", "책읽기", "초등독서", "독서교육", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 featured_image: "https://images.pexels.com/photos/4260485/pexels-photo-4260485.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![독서하는 아이](https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=400&fit=crop)

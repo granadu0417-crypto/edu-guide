@@ -5,7 +5,6 @@ description: "초등학생, 초등, 초등교육에 대한 완벽 가이드. 초
 categories: ["초등학생", "영어", "어휘"]
 tags: ["영어단어", "어휘암기", "초등영어", "영어학습", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 featured_image: "https://images.unsplash.com/photo-1615466178532-b6d2f9c304de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw4fHxwcmltYXJ5JTIwc2Nob29sJTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3NjIzODkyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![영어 단어 학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)

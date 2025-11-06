@@ -5,7 +5,6 @@ description: "고등학생을 위한 체계적인 진로 탐색과 대학 전공
 categories: ["고등학교"]
 tags: ["진로", "전공선택", "적성검사", "대학학과", "직업탐색", "진로설계", "미래준비", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
 featured_image: "https://images.unsplash.com/photo-1762330917056-e69b34329ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxfHxhZHZhbmNlZCUyMHN0dWR5aW5nfGVufDB8MHx8fDE3NjIzODkyODV8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![진로 탐색과 선택](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop)

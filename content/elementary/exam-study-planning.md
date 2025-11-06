@@ -5,7 +5,6 @@ description: "초등학생, 초등, 초등교육에 대한 완벽 가이드. 초
 categories: ["초등학생", "시험", "학습계획"]
 tags: ["단원평가", "시험대비", "학습계획", "복습법", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 featured_image: "https://images.pexels.com/photos/5905890/pexels-photo-5905890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![시험 준비](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)

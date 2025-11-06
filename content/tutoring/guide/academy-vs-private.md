@@ -5,7 +5,6 @@ description: "과외, 학원, 개인과외에 대한 완벽 가이드. 학원과
 categories: ["학원·과외", "선택가이드"]
 tags: ["학원", "과외", "비교", "선택가이드", "과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
 featured_image: "https://images.unsplash.com/photo-1589995635011-078e0bb91d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxfHx0dXRvciUyMHRlYWNoaW5nfGVufDB8MHx8fDE3NjIzODkzODF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
 ---
 
 # 학원 vs 과외, 어떤 게 우리 아이에게 맞을까?

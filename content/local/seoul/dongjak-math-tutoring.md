@@ -1,11 +1,10 @@
 ---
-title: "지역 동작구 수학과외 핵심 가이드 | 사당·노량진 대학가 중심 체계적 수학 교육"
+title: "동작구 수학과외 핵심 가이드 | 사당·노량진 대학가 중심 체계적 수학 교육"
 date: 2025-01-27
 description: "지역, 서울, 경기에 대한 완벽 가이드. 사당동, 노량진, 상도동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
-tags: ["동작구", "수학과외", "사당동", "노량진", "상도동", "수학", "과외", "중앙대", "내신수학", "수능수학", "지역", "서울", "경기", "강남", "강동"]
+tags: ["동작구", "수학과외", "사당동", "노량진", "상도동", "수학", "과외", "중앙대", "내신수학", "수능수학,", "강남", "강동"]
 featured_image: "https://images.unsplash.com/photo-1595553919333-e9eb49a3b8d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwzfHxrb3JlYW4lMjBjaXR5JTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3NjIzODkzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 동작구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

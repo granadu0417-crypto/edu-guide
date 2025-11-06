@@ -5,7 +5,6 @@ description: "학생부종합전형 합격을 위한 완벽 가이드. 전형 �
 categories: ["고등학교"]
 tags: ["학생부종합", "학종", "자기소개서", "면접", "대입전형", "수시", "합격전략", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
 featured_image: "https://images.unsplash.com/photo-1762330917436-862420554194?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxMnx8YWR2YW5jZWQlMjBzdHVkeWluZ3xlbnwwfDB8fHwxNzYyMzg5Mjg1fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![대학 입시 준비](https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop)

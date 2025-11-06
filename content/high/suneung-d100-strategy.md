@@ -6,7 +6,6 @@ categories: ["고등학생", "수능", "입시전략"]
 tags: ["수능준비", "고3", "수능전략", "실전대비", "D-100", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 featured_image: "https://images.unsplash.com/photo-1758525861622-f4e7ac86a2d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwyNnx8dGVlbmFnZXIlMjBib29rc3xlbnwwfDB8fHwxNzYyMzg5Mjk0fDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
 draft: false
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![수능 D-100](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)

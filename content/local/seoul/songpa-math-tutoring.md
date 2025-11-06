@@ -1,11 +1,10 @@
 ---
-title: "지역 송파구 수학과외 선택 가이드 - 8학군의 체계적 수학 학습법"
+title: "송파구 수학과외 선택 가이드 - 8학군의 체계적 수학 학습법"
 date: 2025-01-27
 description: "지역, 서울, 경기에 대한 완벽 가이드. 잠실, 가락동, 문정동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
-tags: ["송파구", "수학과외", "잠실", "가락동", "문정동", "수학", "과외", "8학군", "초등수학", "중등수학", "고등수학", "지역", "서울", "경기", "강남"]
+tags: ["송파구", "수학과외", "잠실", "가락동", "문정동", "수학", "과외", "8학군", "초등수학", "중등수학", "고등수학,", "강남"]
 featured_image: "https://images.unsplash.com/photo-1594181985790-4ad34b333bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw3fHxrb3JlYW4lMjBjaXR5JTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3NjIzODkzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 송파구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

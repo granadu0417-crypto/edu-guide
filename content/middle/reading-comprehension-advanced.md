@@ -5,7 +5,6 @@ description: "중학교 국어 독해력을 체계적으로 향상시키는 방�
 categories: ["중학생", "국어", "독해"]
 tags: ["독해력", "비문학", "문학", "국어독해", "중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 featured_image: "https://images.unsplash.com/photo-1585314455738-55f248937b76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxM3x8dGVlbiUyMGhvbWV3b3JrfGVufDB8MHx8fDE3NjIzODkzMTR8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["중학생", "중학교", "중등", "중등교육", "내신", "공부법", "학습법", "시험대비", "학원", "과외"]
 ---
 
 ![독해 공부](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=400&fit=crop)

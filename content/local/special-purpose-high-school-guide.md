@@ -3,9 +3,8 @@ title: "전국 특목고·자사고·영재학교 지역별 가이드 - 입학 �
 date: 2025-01-17
 description: "전국 특수목적고등학교, 자율형사립고등학교, 영재학교의 지역별 현황과 입학 전형을 상세히 안내합니다. 외고, 과고, 국제고, 예고, 체고, 마이스터고까지 특성화된 고등학교 완벽 가이드입니다."
 categories: ["지역정보"]
-tags: ["특목고", "자사고", "영재학교", "외고", "과고", "국제고", "예고", "체고", "마이스터고", "입시", "지역", "서울", "경기", "강남", "강동"]
+tags: ["특목고", "자사고", "영재학교", "외고", "과고", "국제고", "예고", "체고", "마이스터고", "입시,", "강남", "강동"]
 featured_image: "https://images.unsplash.com/photo-1653016380323-a4496cbe3cf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxNXx8a29yZWFuJTIwY2l0eSUyMGVkdWNhdGlvbnxlbnwwfDB8fHwxNzYyMzg5MzAxfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 일반고와 다른 특성화된 교육을 제공하는 특목고, 자사고, 영재학교는 많은 학생과 학부모의 관심 대상입니다. 전국 학교 현황과 입학 전형, 준비 전략을 상세히 알아보겠습니다.

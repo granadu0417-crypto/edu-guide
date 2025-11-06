@@ -5,7 +5,6 @@ description: "고3 자녀를 둔 학부모를 위한 완벽 가이드. 효과적
 categories: ["고등학교"]
 tags: ["학부모", "고3", "자녀교육", "입시", "진로상담", "정서지원", "학습환경", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
 featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw4fHxoaWdoJTIwc2Nob29sJTIwc3R1ZGVudHxlbnwwfDB8fHwxNzYyMzg5MjkwfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![부모와 자녀](https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=1200&h=630&fit=crop)

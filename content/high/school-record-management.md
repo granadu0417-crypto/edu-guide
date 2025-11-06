@@ -5,7 +5,6 @@ description: "고등학교 내신 등급 관리부터 생활기록부 작성까�
 categories: ["고등학교"]
 tags: ["내신", "생활기록부", "세특", "비교과", "대입", "학생부종합", "교과전형", "고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법"]
 featured_image: "https://images.pexels.com/photos/2781814/pexels-photo-2781814.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-keywords: ["고등학생", "고등학교", "고등", "수능", "입시", "내신", "대학", "공부법", "학원", "과외"]
 ---
 
 ![고등학교 학습과 기록](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop)

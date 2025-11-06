@@ -1,11 +1,10 @@
 ---
-title: "지역 중랑구 영어과외 선택법 | 면목·망우 경희대 영문과 중심 영어 교육"
+title: "중랑구 영어과외 선택법 | 면목·망우 경희대 영문과 중심 영어 교육"
 date: 2025-01-27
 description: "지역, 서울, 경기에 대한 완벽 가이드. 면목동, 망우동, 상봉동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
-tags: ["중랑구", "영어과외", "면목동", "망우동", "상봉동", "영어", "과외", "중랑천", "내신영어", "수능영어", "지역", "서울", "경기", "강남", "강동"]
+tags: ["중랑구", "영어과외", "면목동", "망우동", "상봉동", "영어", "과외", "중랑천", "내신영어", "수능영어,", "강남", "강동"]
 featured_image: "https://images.unsplash.com/photo-1751768542554-2d0469b7093c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHw2fHxrb3JlYW4lMjBjaXR5JTIwZWR1Y2F0aW9ufGVufDB8MHx8fDE3NjIzODkzMDF8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
-keywords: ["지역", "서울", "경기", "강남", "강동", "강북", "강서", "학원가", "교육특구", "대치동"]
 ---
 
 중랑구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

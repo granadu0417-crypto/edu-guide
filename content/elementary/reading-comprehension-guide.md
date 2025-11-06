@@ -5,7 +5,6 @@ description: "초등학생, 초등, 초등교육에 대한 완벽 가이드. 초
 categories: ["초등학생", "국어", "독해력"]
 tags: ["초등국어", "독해력", "저학년", "학습법", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 featured_image: "https://images.pexels.com/photos/3755707/pexels-photo-3755707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![초등학생 독서 학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)

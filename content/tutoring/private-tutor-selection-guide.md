@@ -6,7 +6,6 @@ categories: ["학원과외", "선택가이드"]
 tags: ["과외", "학원", "학원선택", "과외선생님", "1대1과외", "과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
 featured_image: "https://images.pexels.com/photos/7079148/pexels-photo-7079148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 draft: false
-keywords: ["과외", "학원", "개인과외", "그룹과외", "화상과외", "선생님", "교사", "강사", "1대1", "맞춤학습"]
 ---
 
 ![학원과 과외 선택](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=800&h=400&fit=crop)

@@ -6,7 +6,6 @@ categories: ["초등학생", "학습법", "습관"]
 tags: ["초등교육", "공부습관", "학습습관", "자기주도학습", "초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 featured_image: "https://images.unsplash.com/photo-1758612898701-e2f2958f219d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTQyOTB8MHwxfHNlYXJjaHwxNHx8Y2hpbGQlMjBsZWFybmluZ3xlbnwwfDB8fHwxNzYyMzg5MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200&q=80"
 draft: false
-keywords: ["초등학생", "초등", "초등교육", "초등학교", "공부법", "학습법", "학습전략", "교육", "학원", "과외"]
 ---
 
 ![공부하는 초등학생](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)

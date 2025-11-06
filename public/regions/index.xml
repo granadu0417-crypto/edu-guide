@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Regions on 과외를부탁해 | 초중고 학습 정보 플랫폼</title><link>https://edukoreaai.com/regions/</link><description>Recent content in Regions on 과외를부탁해 | 초중고 학습 정보 플랫폼</description><generator>Hugo</generator><language>ko-kr</language><atom:link href="https://edukoreaai.com/regions/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regions on 과외를부탁해 | 초중고 학습 정보 플랫폼</title>
+    <link>https://edukoreaai.com/regions/</link>
+    <description>Recent content in Regions on 과외를부탁해 | 초중고 학습 정보 플랫폼</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <atom:link href="https://edukoreaai.com/regions/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
