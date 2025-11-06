@@ -101,4 +101,4 @@ featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1
 
 각 과목의 특성을 이해하고 체계적으로 학습하면 전체 학습 효과가 크게 향상됩니다!
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final"  >}}

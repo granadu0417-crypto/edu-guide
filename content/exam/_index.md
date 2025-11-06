@@ -179,4 +179,4 @@ tags:
 
 체계적인 준비와 침착한 마음가짐이 좋은 성적을 만듭니다!
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final"  >}}

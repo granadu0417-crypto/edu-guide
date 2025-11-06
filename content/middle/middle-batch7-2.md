@@ -173,4 +173,4 @@ featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1
 
 중학교 3년이 고등학교 성공을 결정합니다. 내신을 관리하고 진로를 탐색하며 자기주도 학습 능력을 키우세요!
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final"  >}}

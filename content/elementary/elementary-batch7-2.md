@@ -160,4 +160,4 @@ featured_image: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1
 
 초등학교에서 형성된 학습 습관과 기초 학력이 중·고등학교 성공의 열쇠입니다. 지금 바른 습관을 들이면 평생 도움이 됩니다!
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final"  >}}

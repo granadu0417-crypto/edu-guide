@@ -203,4 +203,4 @@ featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1
 
 목표 대학 합격을 위해 지금부터 체계적으로 준비하세요. 꾸준한 노력은 반드시 결실을 맺습니다!
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final"  >}}

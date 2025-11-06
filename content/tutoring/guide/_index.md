@@ -169,4 +169,4 @@ tags:
 
 좋은 선생님과 학생의 노력이 만나면 놀라운 성과를 이룰 수 있습니다!
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final"  >}}

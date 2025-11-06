@@ -102,4 +102,4 @@ tags:
 
 각 과목의 특성을 이해하고 체계적으로 학습하면 전체 학습 효과가 크게 향상됩니다!
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final"  >}}

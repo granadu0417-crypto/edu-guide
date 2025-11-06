@@ -333,8 +333,7 @@ featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1
 
 {{< cta-consultation-final
     title="우리 아이 맞춤 독서 계획이 필요하신가요?"
-    message="학년별, 수준별로 최적화된 독서 전략을 함께 만들어드립니다"
->}}
+    message="학년별, 수준별로 최적화된 독서 전략을 함께 만들어드립니다" >}}
 
 ---
 
