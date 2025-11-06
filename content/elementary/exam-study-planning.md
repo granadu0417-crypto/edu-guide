@@ -8,7 +8,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1503462087047-bb9f621e6d0e?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 ---
 ![시험 준비](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 *체계적인 계획이 좋은 결과를 만듭니다*

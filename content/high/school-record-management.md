@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 학생부
-featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1598520106830-8c45c2035460?w=1200&h=630&fit=crop
 ---
 ![고등학교 학습과 기록](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop)
 

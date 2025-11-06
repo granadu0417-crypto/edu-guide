@@ -13,7 +13,7 @@ tags:
 - 듣기
 - 수능
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop
 ---
 ![수능 영어 공부](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop)
 

@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1635070041409-bbec93146e3f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=1200&h=630&fit=crop
 ---
 ## 왜 시험 대비가 중요한가?
 

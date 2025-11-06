@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop
 ---
 ## 왜 고등학생 시기가 중요한가?
 

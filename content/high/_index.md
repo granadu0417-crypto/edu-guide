@@ -11,7 +11,7 @@ tags:
 - 수능
 - 대입
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop
 ---
 
 # 고등학생 입시 가이드

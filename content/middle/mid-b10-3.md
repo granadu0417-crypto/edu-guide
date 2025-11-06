@@ -12,7 +12,7 @@ tags:
 - 중2학년
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1472289065668-ce650ac443d2?w=1200&h=630&fit=crop
 ---# 중3 고교 선택 전략
 
 중2 시기는 **내신 관리**와 **진로 탐색**이 동시에 이루어지는 중요한 시기입니다. 자기주도 학습 능력을 키우고 진로를 탐색하며 고등학교를 준비해야 합니다.

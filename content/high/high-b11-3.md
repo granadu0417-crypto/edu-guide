@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1567706424282-c64c7ddab2e6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop
 ---# 고3 입시 최종 점검
 
 고3 시기는 **대학 입시**를 준비하는 결정적 시기입니다. 내신, 수능, 비교과 활동을 균형있게 관리하며 목표 대학 합격을 향해 체계적으로 준비해야 합니다.
