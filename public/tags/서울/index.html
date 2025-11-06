@@ -245,7 +245,7 @@
         "@type": "Article",
         "name": "서초구 수학과외 선택 가이드 - 교육특구의 체계적 수학 학습법",
         "url": "https:\/\/edukoreaai.com\/local\/seoul\/seocho-math-tutoring\/",
-        "description": "성공적인 과외를 위한 완벽 가이드입니다. 전략적 접근으로 경쟁력을 강화하세요 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와드립니다.",
+        "description": "성공적인 과외를 위한 완벽 가이드입니다. 전략적 접근으로 경쟁력을 강화하세요 지역별 교육 환경과 학원 정보를 바탕으로 최적의 전략적 접근으로 경쟁력을 강화하세요.",
         "datePublished": "2025-01-27",
         "image": "https:\/\/images.pexels.com\/photos\/18091875\/pexels-photo-18091875.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=2\u0026h=650\u0026w=940",
         "author": {
@@ -282,7 +282,7 @@
                 <a href="/local/seoul/seocho-math-tutoring/">서초구 수학과외 선택 가이드 - 교육특구의 체계적 수학 학습법</a>
             </h2>
 
-            <p class="post-card-excerpt">성공적인 과외를 위한 완벽 가이드입니다. 전략적 접근으로 경쟁력을 강화하세요 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와 …</p>
+            <p class="post-card-excerpt">성공적인 과외를 위한 완벽 가이드입니다. 전략적 접근으로 경쟁력을 강화하세요 지역별 교육 환경과 학원 정보를 바탕으로 최적의 전략적 접근으로 경쟁력을 강화하세요.</p>
 
             <div class="post-card-meta">
                 <span class="post-date">📅 2025년 01월 27일</span>
@@ -775,6 +775,117 @@
         height: 24px;
     }
 }
+
+ 
+@media (prefers-color-scheme: dark) {
+    .floating-kakao {
+        background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+        color: #3C1E1E;
+    }
+    
+    .floating-trial {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+    }
+}
+
+ 
+.floating-btn:focus {
+    outline: 3px solid #667eea;
+    outline-offset: 4px;
+}
+
+ 
+@media print {
+    .floating-dual-buttons {
+        display: none !important;
+    }
+}
+
+ 
+.floating-dual-buttons.scrolled {
+    opacity: 0.95;
+}
+
+ 
+@media (max-width: 375px) {
+    .floating-dual-buttons {
+        bottom: 12px;
+        right: 12px;
+        gap: 6px;
+    }
+    
+    .floating-btn {
+        width: 48px;
+        height: 48px;
+    }
+    
+    .floating-btn svg {
+        width: 22px;
+        height: 22px;
+    }
+}
+</style>
+
+<script>
+
+(function() {
+    let lastScroll = 0;
+    const floatingBtns = document.getElementById('floatingButtons');
+
+    window.addEventListener('scroll', function() {
+        const currentScroll = window.pageYOffset;
+
+        
+        if (currentScroll > 100) {
+            floatingBtns.classList.add('scrolled');
+        } else {
+            floatingBtns.classList.remove('scrolled');
+        }
+
+        lastScroll = currentScroll;
+    });
+})();
+</script>
+
+
+    
+    <div id="bookmarkPopup" class="bookmark-popup" style="display: none;">
+        <h4>⭐ 북마크 추가</h4>
+        <p>자주 사용하시나요? 북마크에 추가하고 빠르게 접속하세요!</p>
+        <div class="bookmark-popup-buttons">
+            <button class="btn-bookmark-yes" onclick="closeBookmarkPopup(true)">추가하기</button>
+            <button class="btn-bookmark-no" onclick="closeBookmarkPopup(false)">나중에</button>
+        </div>
+    </div>
+
+    
+    <script src="/js/viral.js"></script>
+
+    
+    <script>
+    (function() {
+      const startTime = Date.now();
+
+      window.addEventListener('beforeunload', function() {
+        const duration = Math.floor((Date.now() - startTime) / 1000);
+
+        const data = {
+          referrer: document.referrer || 'direct',
+          page_url: window.location.href,
+          session_duration: duration
+        };
+
+        navigator.sendBeacon(
+          'https://analytics-tracker.granadu0417.workers.dev/track',
+          JSON.stringify(data)
+        );
+      });
+    })();
+    </script>
+</body>
+</html>
+
 
  
 @media (prefers-color-scheme: dark) {
