@@ -1,21 +1,11 @@
 ---
-title: 영어 문법 핵심 정리 - 중고등 필수 문법 완벽 가이드 (2025)
+title: "영어 문법 핵심 추천 정리 | 중고등 필수 2025"
 date: 2025-01-26
-description: 전문가의 맞춤형 컨설팅으로 학습 방향을 명확히 하세요. 현재 실력 진단부터 구체적인 실행 계획까지, 우리 아이에게 딱 맞는 영어 분야 전문 가이드입니다.
-categories:
-- 과목별
-- 영어
-tags:
-- 영어문법
-- 영어공부법
-- 문법정리
-- 중학영어
-- 고등영어
-- 수능영어
-- 영어시제
-- 영어동사
-- 문법기초
-featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
+reading_time: "881줄"
+description: "영어 문법의 핵심을 체계적으로 정리한 완벽 가이드입니다. 시제, 동사, 조동사, 수동태, 부정사, 관계사 등 중고등 필수 문법 개념부터 실전 적용까지 영어 실력을 높이는 모든 방법을 안내합니다."
+categories: ["과목별", "영어"]
+tags: ["영어문법", "영어공부법", "문법정리", "중학영어", "고등영어", "수능영어", "영어시제", "영어동사", "문법기초"]
+featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
 ---
 
 영어 실력의 기초는 탄탄한 문법 지식입니다. 문법을 제대로 이해하면 독해, 듣기, 쓰기 모든 영역에서 실력이 향상됩니다. 이 글에서는 중고등학생이 반드시 알아야 할 핵심 문법을 체계적으로 정리하고 실전 적용 방법을 안내합니다.
@@ -76,7 +66,7 @@ featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200
 **1. 현재 단순형 (Present Simple)**:
 
 ```
-형태: 동[개별 문의 필요]형 (3인칭 단수 -s)
+형태: 동사 원형 (3인칭 단수 -s)
 
 용법:
 1) 습관적 행동
@@ -169,11 +159,11 @@ featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200
 **미래 표현 방법**:
 
 ```
-1. will + 동[개별 문의 필요]형
+1. will + 동사원형
    - 단순 미래, 의지
    - I will study hard.
 
-2. be going to + 동[개별 문의 필요]형
+2. be going to + 동사원형
    - 계획된 미래
    - I am going to study abroad.
 
@@ -417,6 +407,8 @@ remember, forget, try, stop
 - I stopped to smoke. (목적)
 ```
 
+{{< cta-consultation message="과목별 맞춤 학습 전략이 필요하신가요?" >}}
+
 ## 분사 (Participles) 완벽 정리
 
 ### 현재분사 vs 과거분사
@@ -573,7 +565,7 @@ how (방법):
 
 ```
 형태:
-If + 주어 + 과거동사~, 주어 + would/could + 동[개별 문의 필요]형
+If + 주어 + 과거동사~, 주어 + would/could + 동사원형
 
 예시:
 - If I were rich, I would buy a car.
@@ -876,6 +868,10 @@ much, even, still, far, a lot
 4. 오답 노트 작성
 
 영어 문법 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
+
+{{< cta-consultation-final >}}
+
+---
 
 ## 관련 글
 
