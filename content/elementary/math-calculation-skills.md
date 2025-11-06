@@ -1,15 +1,13 @@
 ---
 title: 연산 능력 향상 | 빠르고 정확한 계산
 date: 2025-01-17
-description: 초등학교 입학 후 학교 적응이 걱정되시나요? 1학년 시기에 꼭 필요한 기초 학습 습관과 학교생활 적응 전략을 알려드립니다.
-  한글부터 숫자까지, 즐겁게 배우는 방법을 제공합니다 초등학생의 발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다. 학부모님과
-  함께하는 효과적인 교육 방법을 안내합니다.
+description: 연산 능력 향상을 위한 실용적인 학습 가이드. 효과적인 학습 전략과 구체적인 실천 방법을 제시합니다.
 tags:
 - 계산
 - 연산
 - 초등교육
 - 초등학습
-featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop
 ---
 ![초등학생 수학 공부](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&h=400&fit=crop)
 *탄탄한 연산 실력은 수학 자신감의 출발점입니다*

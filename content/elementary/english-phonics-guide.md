@@ -1,9 +1,7 @@
 ---
 title: 파닉스 완벽 가이드 | 영어 읽기 기초
 date: 2025-01-17
-description: 초등학교 입학 후 학교 적응이 걱정되시나요? 1학년 시기에 꼭 필요한 기초 학습 습관과 학교생활 적응 전략을 알려드립니다.
-  한글부터 숫자까지, 즐겁게 배우는 방법을 제공합니다 초등학생의 발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다. 학부모님과
-  함께하는 효과적인 교육 방법을 안내합니다.
+description: 초등 영어 학습의 기초를 다지는 실용적인 가이드. 파닉스부터 단어 암기까지 효과적인 영어 공부법을 제시합니다.
 tags:
 - 듣기
 - 말하기
@@ -12,7 +10,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습가이드
-featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1616400619175-5beda3a17896?w=1200&h=630&fit=crop
 ---
 ![영어 알파벳 학습](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=800&h=400&fit=crop)
 *파닉스는 영어 읽기의 가장 중요한 기초입니다*

@@ -16,7 +16,7 @@ tags:
 - 독해전략
 - 국어내신
 - 수능국어
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
 ---
 
 국어 성적의 핵심은 독해력입니다. 단순히 글을 읽는 것이 아니라, 글의 구조를 파악하고 핵심 내용을 정확히 이해하는 능력이 필요합니다. 이 글에서는 초등학생부터 고등학생까지 학년별로 독해력을 체계적으로 향상시킬 수 있는 전략을 제공합니다.

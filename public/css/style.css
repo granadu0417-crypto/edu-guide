@@ -462,6 +462,7 @@ a:hover {
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 2rem;
     margin: 2rem 0;
+    justify-content: center;
 }
 
 .post-card {

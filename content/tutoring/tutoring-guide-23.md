@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1531347520000-000000000001?w=1200&h=630&fit=crop
 ---
 ## 왜 1:1 과외가 효과적인가?
 

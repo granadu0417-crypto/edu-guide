@@ -12,7 +12,7 @@ tags:
 - 온라인학습
 - 학습가이드
 - 학원
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=1200&h=630&fit=crop
 ---
 ![온라인 학습](https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop)
 

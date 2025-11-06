@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1622782914767-404fb9ab3f57?w=1200&h=630&fit=crop
 ---
 ## 왜 중학생 시기가 중요한가?
 

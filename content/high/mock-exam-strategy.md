@@ -12,7 +12,7 @@ tags:
 - 모의고사
 - 수능
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop
 ---
 ![모의고사 시험](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop)
 

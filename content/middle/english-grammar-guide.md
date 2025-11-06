@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 중등교육
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop
 ---
 ![영어 문법 공부](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=400&fit=crop)
 *체계적인 문법 이해가 영어 실력의 기초입니다*

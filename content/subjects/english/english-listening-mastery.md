@@ -17,7 +17,7 @@ tags:
 - 리스닝
 - 영어청취
 - 듣기훈련
-featured_image: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1582564286939-400a311013a2?w=1200&h=630&fit=crop
 ---
 
 영어 듣기는 단순히 귀로 듣는 것이 아니라 집중력과 전략이 필요한 영역입니다. 수능에서 듣기 17문항은 절대 놓칠 수 없는 점수입니다. 이 글에서는 유형별 맞춤 전략과 실전 훈련 방법을 통해 영어 듣기 만점을 달성하는 방법을 안내합니다.

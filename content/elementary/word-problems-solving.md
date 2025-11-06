@@ -1,9 +1,7 @@
 ---
 title: 수학 문장제 풀이법 | 문제 이해력
 date: 2025-01-17
-description: 초등학교 입학 후 학교 적응이 걱정되시나요? 1학년 시기에 꼭 필요한 기초 학습 습관과 학교생활 적응 전략을 알려드립니다.
-  한글부터 숫자까지, 즐겁게 배우는 방법을 제공합니다 초등학생의 발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다. 학부모님과
-  함께하는 효과적인 교육 방법을 안내합니다.
+description: 수학 학습의 기초를 탄탄히 다지는 학년별 맞춤 전략. 연산부터 문장제까지 체계적인 수학 공부법을 안내합니다.
 tags:
 - 계산
 - 문장제
@@ -12,7 +10,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1537495329792-41ae41ad3bf0?w=1200&h=630&fit=crop
 ---
 ![수학 문제 풀이](https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=800&h=400&fit=crop)
 *문장제는 읽기와 사고력이 결합된 종합 문제입니다*

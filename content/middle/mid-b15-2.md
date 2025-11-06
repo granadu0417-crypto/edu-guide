@@ -13,7 +13,7 @@ tags:
 - 중전학년
 - 중학교
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop
 ---# 중2 자기주도 학습
 
 중등 시기는 **내신 관리**와 **진로 탐색**이 동시에 이루어지는 중요한 시기입니다. 자기주도 학습 능력을 키우고 진로를 탐색하며 고등학교를 준비해야 합니다.

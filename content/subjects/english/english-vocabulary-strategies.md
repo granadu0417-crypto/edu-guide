@@ -17,7 +17,7 @@ tags:
 - 단어장
 - 영어암기
 - vocabulary
-featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1596367407372-96cb88503db6?w=1200&h=630&fit=crop
 ---
 
 영어 실력의 토대는 풍부한 어휘력입니다. 단어를 많이 알수록 독해, 듣기, 쓰기 모든 영역에서 실력이 향상됩니다. 이 글에서는 과학적으로 검증된 어휘 학습법과 실전 암기 전략을 통해 영어 어휘 실력을 체계적으로 향상시키는 방법을 안내합니다.

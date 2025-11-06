@@ -17,7 +17,7 @@ tags:
 - 영어공부법
 - 독해공략
 - 영어독해력
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop
 ---
 
 영어 실력의 핵심은 독해력입니다. 문법을 아무리 잘 알아도 지문을 정확하고 빠르게 읽지 못하면 좋은 점수를 받을 수 없습니다. 이 글에서는 지문 유형과 문제 유형별 맞춤 전략을 통해 영어 독해 실력을 체계적으로 향상시키는 방법을 안내합니다.

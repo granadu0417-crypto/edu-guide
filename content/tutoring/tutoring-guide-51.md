@@ -13,7 +13,7 @@ tags:
 - 수능
 - 학부모가이드
 - 학습가이드
-featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop
 ---
 ## 왜 1:1 과외가 효과적인가?
 

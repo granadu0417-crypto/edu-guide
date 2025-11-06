@@ -10,7 +10,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습방법
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=1200&h=630&fit=crop
 ---
 ![노트 정리와 학습](https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop)
 

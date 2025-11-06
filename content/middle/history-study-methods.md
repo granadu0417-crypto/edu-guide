@@ -10,7 +10,7 @@ tags:
 - 중학교
 - 학습가이드
 - 학습방법
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1577495508326-19a1b3cf65b7?w=1200&h=630&fit=crop
 ---
 ![역사 공부](https://images.unsplash.com/photo-1461360370896-922624d12aa1?w=800&h=400&fit=crop)
 *역사는 흐름으로 이해하면 암기가 쉬워집니다*

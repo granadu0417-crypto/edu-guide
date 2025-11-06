@@ -11,7 +11,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습가이드
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=1200&h=630&fit=crop
 ---
 ![자기주도학습하는 중학생](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 *중학생 시기의 자기주도학습 능력이 고등학교 성공을 좌우합니다*

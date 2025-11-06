@@ -17,7 +17,7 @@ tags:
 - 국어공부법
 - 독해공략
 - 비문학독해
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1572721546624-05bf65ad1c92?w=1200&h=630&fit=crop
 ---
 
 국어 성적의 승패는 비문학 독해에서 갈립니다. 수능과 내신에서 가장 높은 배점을 차지하는 비문학 지문을 효과적으로 공략하는 방법을 알려드립니다. 지문 유형별 특성을 이해하고 체계적인 독해 전략을 익히면 누구나 비문학을 정복할 수 있습니다.

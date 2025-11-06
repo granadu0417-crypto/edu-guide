@@ -12,7 +12,7 @@ tags:
 - 수능
 - 학부모가이드
 - 학습가이드
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1525338078858-d762b5e32f2c?w=1200&h=630&fit=crop
 ---
 ![학원과 과외 선택](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=800&h=400&fit=crop)
 *올바른 선택이 자녀의 학습 효율을 2배 이상 높입니다*

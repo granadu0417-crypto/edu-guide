@@ -14,7 +14,7 @@ tags:
 - 독해
 - 국어공부
 - 비문학
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=1200&h=630&fit=crop
 draft: false
 ---
 

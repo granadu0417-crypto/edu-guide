@@ -12,7 +12,7 @@ tags:
 - 문장제
 - 문제풀이
 - 공부법
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop
 ---
 
 # 수학 문장제 정복하기

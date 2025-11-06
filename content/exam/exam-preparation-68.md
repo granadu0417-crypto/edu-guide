@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 중간고사
-featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?w=1200&h=630&fit=crop
 ---
 ## 왜 시험 대비가 중요한가?
 
