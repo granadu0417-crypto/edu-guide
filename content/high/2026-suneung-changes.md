@@ -20,7 +20,7 @@ tags:
 - 수능
 - 입시
 - 내신
-featured_image: https://images.unsplash.com/photo-1526243741027-444d633d7365?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
 description: 프리미엄 과정 - 고등학교 첫 내신 시험이 불안하신가요? 중학교와는 차원이 다른 고등 내신 관리 전략을 마스터하세요. 과목별
   공부법부터 시간 관리까지, 고1 성공의 핵심 전략을 제공합니다 대입 준비의 모든 것, 내신과 수능을 동시에 잡는 효율적인 학습 전략을 제시합니다.
 ---

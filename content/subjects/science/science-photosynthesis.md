@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
 ---
 
 ## 과학 광합성 완벽 가이드

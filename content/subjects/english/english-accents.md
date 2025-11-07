@@ -16,7 +16,7 @@ tags:
 - 발음
 - 1:1과외
 - 듣기
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
 ---
 
 ## 영어 악센트별 듣기 가이드

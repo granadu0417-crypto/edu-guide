@@ -16,7 +16,7 @@ tags:
 - 수능준비
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 ## 수학 모의고사 완벽 대비 전략

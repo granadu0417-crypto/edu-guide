@@ -12,7 +12,7 @@ tags:
 - 수능
 - 수시
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1589998059171-988d887df646?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop
 ---## 고3 종합 입시 전략
 
 고등학생 시기는 **대학 입시**를 준비하는 결정적 시기입니다. 내신, 수능, 비교과 활동을 균형있게 관리하며 목표 대학 합격을 향해 체계적으로 준비해야 합니다.

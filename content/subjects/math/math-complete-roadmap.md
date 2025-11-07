@@ -17,7 +17,7 @@ tags:
 description: 수학 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 기초 개념부터 고난도 문제 풀이까지, 효과적인 학습 전략과 로드맵을
   제시합니다. 1:1 과외를 통한 맞춤 학습으로 수학 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 단계별로
   자세하게 안내드립니다.
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop
 reading_time: 625줄
 ---
 

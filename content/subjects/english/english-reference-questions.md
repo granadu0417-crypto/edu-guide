@@ -15,7 +15,7 @@ tags:
 - pronoun
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
 ---
 
 ## 영어 지칭 대상 파악 가이드

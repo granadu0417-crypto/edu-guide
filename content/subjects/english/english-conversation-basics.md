@@ -16,7 +16,7 @@ tags:
 - 기초
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
 ---
 
 ## 영어 기초 회화 완벽 가이드

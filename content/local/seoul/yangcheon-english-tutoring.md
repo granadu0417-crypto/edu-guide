@@ -18,7 +18,7 @@ tags:
 - 토플
 - 수능영어,
 - 강남
-featured_image: https://images.unsplash.com/photo-1577125527890-475beedd75d3?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
 ---
 
 양천구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

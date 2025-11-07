@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop
 ---
 
 ## 과학 유기화학 완벽 가이드

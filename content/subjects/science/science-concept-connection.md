@@ -16,7 +16,7 @@ tags:
 - 통합사고
 - STEAM
 - 과학
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
 ---
 
 **"과학 과목들이 따로 노는 것 같아요!"** 개념 연결로 통합적 이해가 가능합니다.

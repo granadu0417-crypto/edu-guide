@@ -17,7 +17,7 @@ tags:
 - 영어회화
 - 원어민
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop
 ---
 
 ## 영어 말하기 자신감 키우기

@@ -15,7 +15,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
 ---
 
 ## 수학 지수와 로그 완벽 정복 가이드

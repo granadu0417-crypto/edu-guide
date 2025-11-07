@@ -12,7 +12,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
 ---## 중3 최종 내신 관리
 
 중3 시기는 **내신 관리**와 **진로 탐색**이 동시에 이루어지는 중요한 시기입니다. 자기주도 학습 능력을 키우고 진로를 탐색하며 고등학교를 준비해야 합니다.

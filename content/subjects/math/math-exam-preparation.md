@@ -15,7 +15,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
 ---
 
 ## 수학 시험 대비 완벽 가이드

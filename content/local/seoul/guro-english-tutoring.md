@@ -18,7 +18,7 @@ tags:
 - 수능영어,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1593806720198-a3ea2d805e98?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
 ---
 
 구로구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

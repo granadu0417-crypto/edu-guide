@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1597008641621-cefdcf718025?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop
 ---
 
 ## 과학 힘과 운동 완벽 가이드

@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 기초
-featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
 ---
 
 ## 방학 수학 학습 완벽 가이드

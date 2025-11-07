@@ -17,7 +17,7 @@ tags:
 - 기초
 - 심화
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop
 ---
 
 ## 국어 정독법 완벽 가이드

@@ -17,7 +17,7 @@ tags:
 - 전공수학
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1589998059171-988d887df646?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
 ---
 
 ## 대학 수학 미리보기 완벽 가이드

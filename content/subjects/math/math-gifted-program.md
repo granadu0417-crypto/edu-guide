@@ -17,7 +17,7 @@ tags:
 - 입학준비
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop
 ---
 
 ## 영재교육원 수학 완벽 준비 가이드

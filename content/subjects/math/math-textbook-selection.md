@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 기초
-featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop
 ---
 
 ## 수학 문제집 선택 완벽 가이드

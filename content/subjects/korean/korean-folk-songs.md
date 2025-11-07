@@ -17,7 +17,7 @@ tags:
 - 기초
 - 심화
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
 ---
 
 ## 국어 민요 완벽 가이드

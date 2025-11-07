@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 기초
 - 과외
-featured_image: https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
 ---
 
 ## 영어 번역 기초 가이드

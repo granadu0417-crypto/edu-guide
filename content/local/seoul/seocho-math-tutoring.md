@@ -16,7 +16,7 @@ tags:
 - ','
 - 서울,
 - ','
-featured_image: https://images.pexels.com/photos/18091875/pexels-photo-18091875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1200&h=630&fit=crop
 ---
 
 서초구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

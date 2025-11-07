@@ -17,7 +17,7 @@ tags:
 - 시
 - 기초
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
 ---
 
 ## 국어 고전시가 완벽 가이드

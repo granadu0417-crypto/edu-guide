@@ -15,7 +15,7 @@ tags:
 - 제곱근
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
 ---
 
 ## 중3 수학 완벽 가이드

@@ -15,7 +15,7 @@ tags:
 - 실험기록
 - 과학적사고
 - 과학
-featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 ---
 
 **"과학은 관찰에서 시작됩니다!"** 정밀한 관찰 능력이 과학의 기초입니다.

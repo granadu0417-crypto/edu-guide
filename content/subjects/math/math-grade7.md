@@ -16,7 +16,7 @@ tags:
 - 유리수
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop
 ---
 
 ## 중1 수학 완벽 가이드

@@ -18,7 +18,7 @@ tags:
 - 토익
 - 회화
 - 수능영어,
-featured_image: https://images.unsplash.com/photo-1731883625164-86e960b62742?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop
 ---
 
 중구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

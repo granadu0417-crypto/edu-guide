@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
 ---
 
 ## 과학 해양 완벽 가이드

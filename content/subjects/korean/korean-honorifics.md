@@ -17,7 +17,7 @@ tags:
 - 상대높임
 - '2025'
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
 ---
 
 ## 높임법 완벽 가이드

@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop
 ---
 
 ## 사회 시장경제 완벽 가이드

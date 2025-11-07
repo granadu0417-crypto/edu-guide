@@ -16,7 +16,7 @@ tags:
 - 영어과외
 - 문법정리
 - 문법
-featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop
 ---
 
 **"문법이 너무 헷갈려요!"** 체계적 정리로 문법 기초를 확실히 다질 수 있습니다.

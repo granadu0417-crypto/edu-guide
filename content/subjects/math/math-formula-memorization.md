@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 공식
 - 과외
-featured_image: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
 ## 수학 공식 암기 완벽 가이드

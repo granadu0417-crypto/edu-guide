@@ -16,7 +16,7 @@ tags:
 - vocabulary
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
 ---
 
 ## 수능 영어 어휘 완벽 대비

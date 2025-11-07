@@ -18,7 +18,7 @@ tags:
 - 내신문학
 - 문학감상
 - 작품분석법
-featured_image: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
 ---
 
 국어 문학은 단순히 작품을 읽는 것이 아니라 작가의 의도를 파악하고 작품의 의미를 깊이 이해하는 과정입니다. 시, 소설, 수필 등 장르별 특성을 이해하고 체계적인 분석 방법을 익히면 누구나 문학 고수가 될 수 있습니다.

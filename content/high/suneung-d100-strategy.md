@@ -12,7 +12,7 @@ tags:
 - 모의고사
 - 수능
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
 ---
 ![수능 D-100](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 *마지막 100일, 전략적 접근이 합격을 좌우합니다*

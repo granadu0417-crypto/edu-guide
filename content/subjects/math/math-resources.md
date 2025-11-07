@@ -17,7 +17,7 @@ tags:
 - 참고서
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
 ---
 
 ## 수학 학습 자료 총정리 완벽 가이드

@@ -16,7 +16,7 @@ tags:
 - being
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
 ---
 
 ## 분사구문 완벽 이해

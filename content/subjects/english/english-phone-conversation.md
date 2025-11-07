@@ -16,7 +16,7 @@ tags:
 - speaking
 - 1:1과외
 - 회화
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop
 ---
 
 ## 영어 전화 통화 완벽 가이드

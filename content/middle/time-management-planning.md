@@ -8,7 +8,7 @@ tags:
 - 복습전략
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1522199755839-a2bacb67c546?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop
 ---
 ![시간 관리와 계획](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop)
 

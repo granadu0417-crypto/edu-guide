@@ -19,7 +19,7 @@ tags:
 - 고등수학
 - 수능수학,
 - 강남
-featured_image: https://images.unsplash.com/photo-1660100340893-c775f01cd9c7?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop
 ---
 
 강남구에서 수학과외를 알아보는 학부모님들이 가장 많이 하시는 질문이 있습니다. 

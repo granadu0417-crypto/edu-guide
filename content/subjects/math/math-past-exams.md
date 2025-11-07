@@ -16,7 +16,7 @@ tags:
 - 문제풀이
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
 ---
 
 ## 수학 기출문제 분석 및 활용 완벽 가이드

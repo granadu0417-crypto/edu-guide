@@ -11,7 +11,7 @@ tags:
 - 연산
 - 읽기
 - 자기주도학습
-featured_image: https://images.unsplash.com/photo-1508835277982-1c1b0e205603?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop
 ---## 초4 학습 습관 형성
 
 초등 4학년 시기는 **평생 학습의 기초**를 다지는 중요한 시기입니다. 이 시기에 형성된 학습 습관과 태도가 중·고등학교는 물론 평생의 학습 능력을 결정합니다.

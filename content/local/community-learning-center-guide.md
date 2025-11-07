@@ -12,7 +12,7 @@ tags:
 - 지역사회
 - 교육복지
 - 방과후
-featured_image: https://images.unsplash.com/photo-1648900451337-78cbbbd7383c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop
 ---
 
 우리 동네에는 무료 또는 저렴하게 이용할 수 있는 다양한 교육·복지 시설이 있습니다. 지역아동센터, 청소년수련관, 복지관 등 지역사회 교육 인프라를 200% 활용하는 방법을 알아보겠습니다.

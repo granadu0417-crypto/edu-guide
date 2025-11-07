@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 추론
-featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop
 ---
 
 ## 수학 증명 작성 완벽 가이드

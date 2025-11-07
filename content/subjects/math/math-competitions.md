@@ -17,7 +17,7 @@ tags:
 - 입시스펙
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop
 ---
 
 ## 수학 대회 총정리 완벽 가이드

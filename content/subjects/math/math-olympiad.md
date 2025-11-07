@@ -17,7 +17,7 @@ tags:
 - 문제해결력
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop
 ---
 
 ## 수학 올림피아드 대회 완벽 준비 가이드

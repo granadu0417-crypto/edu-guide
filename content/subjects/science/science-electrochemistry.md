@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop
 ---
 
 ## 과학 전기화학 완벽 가이드

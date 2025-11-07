@@ -12,7 +12,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
 ---
 ## 왜 초등 시기가 중요한가?
 

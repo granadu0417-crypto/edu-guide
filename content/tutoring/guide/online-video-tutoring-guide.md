@@ -16,7 +16,7 @@ tags:
 - 인터넷강의
 - 화상과외장단점
 - 과외선택
-featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 코로나 이후 급성장한 온라인 화상 과외. "우리 아이에게도 효과가 있을까?" 고민하시는 학부모님들을 위해 실전 가이드를 준비했습니다.

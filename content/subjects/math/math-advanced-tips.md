@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 계산
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
 ---
 
 ## 수학 심화 팁 완벽 가이드

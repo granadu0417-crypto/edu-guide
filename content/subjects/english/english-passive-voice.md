@@ -15,7 +15,7 @@ tags:
 - by
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
 ---
 
 ## 영어 수동태 완벽 정복

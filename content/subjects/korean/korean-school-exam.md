@@ -17,7 +17,7 @@ tags:
 - 내신
 - 기초
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
 ## 국어 내신 국어 완벽 가이드

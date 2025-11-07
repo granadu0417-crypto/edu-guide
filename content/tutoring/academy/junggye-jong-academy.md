@@ -15,7 +15,7 @@ tags:
 description: 중계동 종합학원 추천. 수학·영어·국어 통합 관리, 관리형 시스템, 1:1 과외 병행을 안내합니다 과외 선택부터 효과적인 활용까지,
   1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
   현명한 선택을 도와드립니다.
-featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 reading_time: 295줄
 ---
 

@@ -17,7 +17,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: https://images.pexels.com/photos/6280728/pexels-photo-6280728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop
 ---
 
 서울 강남권(강남구, 서초구, 송파구)은 우리나라 대표적인 교육 1번지로 알려져 있습니다. 우수한 학교, 풍부한 교육 인프라, 다양한 학습 자원이 집중된 이 지역의 교육 환경을 상세히 살펴보겠습니다.

@@ -15,7 +15,7 @@ tags:
 - 실수방지
 - 1:1과외
 - 속도향상
-featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop
 ---
 
 ## 수학 과외로 계산 속도와 정확성 완벽 정복

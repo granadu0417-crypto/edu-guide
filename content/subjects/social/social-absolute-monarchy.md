@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop
 ---
 
 ## 사회 절대왕정 완벽 가이드

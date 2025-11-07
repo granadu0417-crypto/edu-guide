@@ -11,7 +11,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1555116505-38ab61800975?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
 ---## 초3 종합 학습 전략
 
 초등학생 시기는 **평생 학습의 기초**를 다지는 중요한 시기입니다. 이 시기에 형성된 학습 습관과 태도가 중·고등학교는 물론 평생의 학습 능력을 결정합니다.

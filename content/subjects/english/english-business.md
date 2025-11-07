@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 기초
 - 과외
-featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop
 ---
 
 ## 비즈니스 영어 기초 가이드

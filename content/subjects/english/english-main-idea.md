@@ -15,7 +15,7 @@ tags:
 - reading
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
 ---
 
 ## 영어 주제 찾기 완벽 가이드

@@ -18,7 +18,7 @@ tags:
 - 내신영어
 - 수능영어,
 - 강남
-featured_image: https://images.pexels.com/photos/33068042/pexels-photo-33068042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
 ---
 
 강서구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

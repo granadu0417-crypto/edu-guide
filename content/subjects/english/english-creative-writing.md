@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 영문법
-featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
 ---
 
 ## 영어 창의적 글쓰기 가이드

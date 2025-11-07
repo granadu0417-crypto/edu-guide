@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 기하
-featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop
 ---
 
 ## 수학 인강 활용 완벽 가이드

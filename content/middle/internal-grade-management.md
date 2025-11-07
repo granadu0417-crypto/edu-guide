@@ -11,7 +11,7 @@ tags:
 - 중학교
 - 진학정보
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 ![중학생 내신 공부](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 *체계적인 내신 관리가 고등학교 성공의 기초입니다*

@@ -18,7 +18,7 @@ tags:
 - 영어회화
 - 토익,
 - 강남
-featured_image: https://images.unsplash.com/photo-1598306399989-e54938e09ddf?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
 마포구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

@@ -17,7 +17,7 @@ tags:
 - 무료강의
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
 ---
 
 ## 수학 학습 사이트 추천 및 활용법

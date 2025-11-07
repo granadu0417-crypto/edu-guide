@@ -16,7 +16,7 @@ tags:
 - 생태계
 - 광합성
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 ---
 
 **"생물은 외울 게 너무 많아요..."** 세포 구조를 헷갈리거나, 유전 법칙을 이해하지 못하거나, 생태계 개념이 복잡해서 고민하는 학생들이 많습니다.

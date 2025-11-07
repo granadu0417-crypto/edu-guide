@@ -18,7 +18,7 @@ tags:
 description: 국어 영역 전체를 아우르는 완전정복 가이드입니다. 문법, 독해, 문학, 작문, 화법과 작문, 언어와 매체까지 모든 영역을 체계적으로
   정리하고 학습 전략을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 국어 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의
   기초를 다져보세요.
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 reading_time: 612줄
 ---
 

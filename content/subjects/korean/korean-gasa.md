@@ -17,7 +17,7 @@ tags:
 - 과외
 - 기초
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop
 ---
 
 ## 국어 가사 문학 완벽 가이드

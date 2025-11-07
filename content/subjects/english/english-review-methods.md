@@ -16,7 +16,7 @@ tags:
 - 학습법
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1635372722656-389f87a941b7?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop
 ---
 
 ## 영어 복습법 완벽 가이드

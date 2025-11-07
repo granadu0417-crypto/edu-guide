@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop
 ---## 초등 4학년 심화 학습
 
 초등 전학년 시기는 **평생 학습의 기초**를 다지는 중요한 시기입니다. 이 시기에 형성된 학습 습관과 태도가 중·고등학교는 물론 평생의 학습 능력을 결정합니다.

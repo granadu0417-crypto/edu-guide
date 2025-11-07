@@ -15,7 +15,7 @@ tags:
 description: 산본 초등학원 추천. 금정·군포 지역, 학년별 선택, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤
   지도의 모든 것을 알려드립니다. 학부모님과 함께하는 효과적인 교육 방법을 안내합니다. 지금 바로 시작하세요. 학부모님과 함께하는 효과적인 교육
   방법을 안내합니다.
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

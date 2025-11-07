@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1610296669228-602fa827fc1f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop
 ---
 
 ## 과학 반응 속도 완벽 가이드

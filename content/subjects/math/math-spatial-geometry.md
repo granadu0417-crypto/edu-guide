@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 도형
 - 좌표
-featured_image: https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop
 ---
 
 ## 공간도형과 좌표 완벽 가이드

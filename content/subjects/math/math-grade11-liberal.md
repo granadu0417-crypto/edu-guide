@@ -16,7 +16,7 @@ tags:
 - 수열
 - 확률
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 ## 고2 문과 수학 완벽 가이드

@@ -16,7 +16,7 @@ tags:
 - claim
 - reading
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 ---
 
 ## 영어 요지·주장 파악 전략

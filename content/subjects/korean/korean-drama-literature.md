@@ -17,7 +17,7 @@ tags:
 - 과외
 - 표현
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
 ---
 
 ## 국어 희곡 완벽 가이드

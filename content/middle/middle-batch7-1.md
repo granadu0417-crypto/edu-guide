@@ -11,7 +11,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1622782914767-404fb9ab3f57?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
 ---## 중등 종합 학습 전략
 
 중학생 시기는 **내신 관리**와 **진로 탐색**이 동시에 이루어지는 중요한 시기입니다. 자기주도 학습 능력을 키우고 진로를 탐색하며 고등학교를 준비해야 합니다.

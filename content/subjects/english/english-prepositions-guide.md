@@ -17,7 +17,7 @@ tags:
 - at
 - for
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
 ---
 
 ## 영어 전치사 완벽 정리

@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
 ---
 
 ## 사회 환경윤리 완벽 가이드

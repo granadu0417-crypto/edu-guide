@@ -11,7 +11,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
 ---## 고3 수능 D-300 전략
 
 고2 시기는 **대학 입시**를 준비하는 결정적 시기입니다. 내신, 수능, 비교과 활동을 균형있게 관리하며 목표 대학 합격을 향해 체계적으로 준비해야 합니다.

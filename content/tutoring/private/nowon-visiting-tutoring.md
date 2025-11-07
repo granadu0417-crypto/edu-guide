@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 의대생과외
 description: 지역별 방문 과외 선생님 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 단계별 실천 전략으로 목표를 달성하세요.
-featured_image: https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

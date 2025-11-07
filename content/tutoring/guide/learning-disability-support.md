@@ -15,7 +15,7 @@ tags:
 description: 학습 부진 학생을 위한 맞춤 교육 전략. 원인 파악, 1:1 과외 활용, 학습 동기 부여, 단계별 학습 방법을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200&h=630&fit=crop
 reading_time: 312줄
 ---
 

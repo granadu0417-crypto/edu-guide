@@ -15,7 +15,7 @@ tags:
 - 사회과외
 - 정치학습
 - 정치
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop
 ---
 
 **"정치가 뭔가요?"** 정치는 우리 삶을 결정하는 과정입니다.

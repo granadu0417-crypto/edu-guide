@@ -13,7 +13,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
 ---
 ![독서하는 아이](https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&h=400&fit=crop)
 *어린 시절의 독서 습관은 평생의 자산입니다*

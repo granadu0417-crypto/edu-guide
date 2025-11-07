@@ -18,7 +18,7 @@ tags:
 - 내신수학
 - 수능수학,
 - 강남
-featured_image: https://images.unsplash.com/photo-1759193529611-40ef867726fd?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
 ---
 
 동대문구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

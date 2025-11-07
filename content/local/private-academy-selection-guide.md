@@ -19,7 +19,7 @@ tags:
 - 강동
 - 강북
 - 강서
-featured_image: https://images.pexels.com/photos/2848492/pexels-photo-2848492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
 ---
 
 학원은 학교 교육을 보완하는 중요한 역할을 합니다. 하지만 아이에게 맞지 않는 학원은 시간과 비용만 낭비할 수 있습니다. 우리 아이에게 딱 맞는 학원을 선택하는 방법을 알아보겠습니다.

@@ -18,7 +18,7 @@ tags:
 - 자유탐구
 - 과학대회
 - 생기부
-featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---
 
 과학 탐구 활동은 단순한 실험이 아닙니다. 스스로 질문하고, 설계하고, 실행하고, 분석하는 진짜 과학입니다. 이 글에서는 주제 선정부터 발표까지 성공적인 과학 탐구 활동을 위한 모든 과정을 단계별로 안내합니다.

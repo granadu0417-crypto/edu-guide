@@ -11,7 +11,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---## 중등 학습 심화 전략
 
 중등 시기는 **내신 관리**와 **진로 탐색**이 동시에 이루어지는 중요한 시기입니다. 자기주도 학습 능력을 키우고 진로를 탐색하며 고등학교를 준비해야 합니다.

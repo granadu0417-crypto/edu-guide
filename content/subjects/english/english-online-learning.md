@@ -16,7 +16,7 @@ tags:
 - 디지털
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
 ---
 
 ## 영어 온라인 학습 완벽 가이드

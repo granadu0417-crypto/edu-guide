@@ -16,7 +16,7 @@ tags:
 - 국어과외
 - 글쓰기훈련
 - 표현
-featured_image: https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop
 ---
 
 **"글쓰기가 어려워요!"** 체계적 훈련으로 누구나 잘 쓸 수 있습니다.

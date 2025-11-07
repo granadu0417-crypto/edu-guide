@@ -18,7 +18,7 @@ tags:
 - 실속형,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1715777412838-809659f8d03d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
 ---
 
 금천구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

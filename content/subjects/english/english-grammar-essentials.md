@@ -18,7 +18,7 @@ tags:
 - 영어시제
 - 영어동사
 - 문법기초
-featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop
 ---
 
 영어 실력의 기초는 탄탄한 문법 지식입니다. 문법을 제대로 이해하면 독해, 듣기, 쓰기 모든 영역에서 실력이 향상됩니다. 이 글에서는 중고등학생이 반드시 알아야 할 핵심 문법을 체계적으로 정리하고 실전 적용 방법을 안내합니다.

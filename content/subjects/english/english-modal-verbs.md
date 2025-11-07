@@ -17,7 +17,7 @@ tags:
 - must
 - should
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1531498860502-7c67cf02f657?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop
 ---
 
 ## 영어 조동사 완벽 활용

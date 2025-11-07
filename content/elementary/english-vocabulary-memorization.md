@@ -12,7 +12,7 @@ tags:
 - 읽기
 - 초등교육
 - 초등학습
-featured_image: https://images.unsplash.com/photo-1595152772835-219674b2a8a6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
 ---
 ![영어 단어 학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)
 *즐겁게 배우는 영어 단어는 오래 기억됩니다*

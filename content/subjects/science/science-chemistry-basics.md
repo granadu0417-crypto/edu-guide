@@ -16,7 +16,7 @@ tags:
 - 산염기
 - 화학식
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
 ---
 
 ## 과학 화학 기초 완벽 다지기

@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
 ---
 ## 왜 1:1 과외가 효과적인가?
 

@@ -17,7 +17,7 @@ tags:
 - 특수교육
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
 ---
 
 ## 수학 학습장애 극복 완벽 가이드

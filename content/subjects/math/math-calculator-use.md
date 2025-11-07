@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 계산
 - 과외
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop
 ---
 
 ## 수학 계산기 활용 완벽 가이드

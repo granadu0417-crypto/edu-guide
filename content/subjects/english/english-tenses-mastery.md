@@ -16,7 +16,7 @@ tags:
 - 과거완료
 - 미래시제
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---
 
 ## 영어 시제 완벽 정복

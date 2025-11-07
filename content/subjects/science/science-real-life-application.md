@@ -16,7 +16,7 @@ tags:
 - 창의적사고
 - 문제해결
 - 과학
-featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop
 ---
 
 **"과학이 어디에 쓰이나요?"** 과학은 우리 생활 곳곳에 숨어있습니다!

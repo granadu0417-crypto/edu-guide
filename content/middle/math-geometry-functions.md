@@ -11,7 +11,7 @@ tags:
 - 사고력
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop
 ---
 ![중학 수학 공부](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=400&fit=crop)
 *도형과 함수는 중학 수학의 양대 산맥입니다*

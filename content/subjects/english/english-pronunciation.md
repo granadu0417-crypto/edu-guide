@@ -16,7 +16,7 @@ tags:
 - 억양
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
 ## 영어 발음 규칙 완벽 정리

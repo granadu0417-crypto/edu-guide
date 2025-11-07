@@ -15,7 +15,7 @@ tags:
 description: 반포 프리미엄 학원 추천. 소수정예 관리형 학원, 개별 맞춤 케어, 1:1 과외 병행을 안내합니다 과외 선택부터 효과적인 활용까지,
   1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
   현명한 선택을 도와드립니다.
-featured_image: https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
 reading_time: 290줄
 ---
 

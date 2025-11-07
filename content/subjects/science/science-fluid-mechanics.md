@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200&h=630&fit=crop
 ---
 
 ## 과학 유체역학 완벽 가이드

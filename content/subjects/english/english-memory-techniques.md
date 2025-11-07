@@ -15,7 +15,7 @@ tags:
 - 학습법
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 ## 영어 효율적 암기법 완벽 가이드

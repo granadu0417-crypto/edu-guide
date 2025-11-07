@@ -16,7 +16,7 @@ tags:
 - 변인통제
 - 실전전략
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop
 ---
 
 ## 과학 탐구 문제 완벽 정복하기

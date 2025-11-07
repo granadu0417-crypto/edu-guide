@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop
 ---
 
 ## 사회 사회사 완벽 가이드

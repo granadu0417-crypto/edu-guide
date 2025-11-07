@@ -17,7 +17,7 @@ tags:
 - 기초
 - 심화
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1564325724739-bae0bd08762c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop
 ---
 
 ## 국어 설화 완벽 가이드

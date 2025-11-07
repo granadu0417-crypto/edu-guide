@@ -15,7 +15,7 @@ tags:
 - scanning
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
 ---
 
 ## 영어 세부 정보 찾기 완벽 가이드

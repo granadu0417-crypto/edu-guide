@@ -9,7 +9,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
 ---
 ![초등학생 자기주도학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)
 *스스로 공부하는 습관은 평생 학습 능력의 토대입니다*

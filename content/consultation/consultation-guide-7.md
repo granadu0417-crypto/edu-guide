@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1526243741027-444d633d7365?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop
 ---
 ## 왜 학습 상담이 필요한가?
 

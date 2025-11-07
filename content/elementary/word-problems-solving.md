@@ -11,7 +11,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1537495329792-41ae41ad3bf0?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop
 ---
 ![수학 문제 풀이](https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=800&h=400&fit=crop)
 *문장제는 읽기와 사고력이 결합된 종합 문제입니다*

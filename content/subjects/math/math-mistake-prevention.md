@@ -18,7 +18,7 @@ tags:
 - 수학만점
 - 실수방지
 - 수학정확도
-featured_image: https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop
 ---
 
 "아! 이거 알고 있었는데 실수했어!" 이 말을 시험 때마다 하고 있지 않나요? 수학에서 실수는 단순한 불운이 아닙니다. 체계적인 전략으로 실수를 90% 이상 줄일 수 있습니다. 이 글에서는 수학 실수를 완벽하게 방지하는 모든 방법을 안내합니다.

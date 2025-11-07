@@ -15,7 +15,7 @@ tags:
 - study group
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
 ---
 
 ## 영어 스터디 그룹 완벽 가이드

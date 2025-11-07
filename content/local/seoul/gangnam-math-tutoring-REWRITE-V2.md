@@ -18,7 +18,7 @@ tags:
 - 고등수학
 - 수능수학,
 - 강남
-featured_image: https://images.pexels.com/photos/7743745/pexels-photo-7743745.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
 ---
 
 강남구에서 수학과외를 알아보는 학부모님들이 가장 많이 하시는 질문이 있습니다. "어떤 선생님이 우리 아이에게 맞을까요?"

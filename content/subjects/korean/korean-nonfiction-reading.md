@@ -17,7 +17,7 @@ tags:
 - 문학
 - 독해
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
 ---
 
 ## 국어 비문학 독해 완벽 가이드

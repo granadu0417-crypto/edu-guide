@@ -27,7 +27,7 @@ tags:
 - 내신
 grades:
 - 고등학생
-featured_image: https://images.pexels.com/photos/4778635/pexels-photo-4778635.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
 draft: false
 ---
 

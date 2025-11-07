@@ -12,7 +12,7 @@ tags:
 - 쓰기
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---
 ![영어 듣기 학습](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop)
 

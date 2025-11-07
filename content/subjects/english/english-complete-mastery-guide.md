@@ -17,7 +17,7 @@ tags:
 description: 영어 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 듣기, 말하기, 읽기, 쓰기의 4대 영역과 문법, 어휘까지 모든 것을
   포함합니다. 1:1 과외를 통한 맞춤 학습으로 영어 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 단계별로
   자세하게 안내드립니다.
-featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 reading_time: 655줄
 ---
 

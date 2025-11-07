@@ -15,7 +15,7 @@ tags:
 - 국어과외
 - 내신문학
 - 소설
-featured_image: https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 **"소설을 어떻게 분석하나요?"** 체계적 방법으로 누구나 잘 읽을 수 있습니다.

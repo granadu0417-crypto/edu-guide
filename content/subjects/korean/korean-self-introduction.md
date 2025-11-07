@@ -17,7 +17,7 @@ tags:
 - 기초
 - 심화
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop
 ---
 
 ## 국어 자기소개서 완벽 가이드

@@ -16,7 +16,7 @@ tags:
 - habit
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop
 ---
 
 ## 영어 학습 동기부여 & 습관 형성 가이드

@@ -11,7 +11,7 @@ tags:
 - 초등학습
 - 학습가이드
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1495741545814-2d7f4d75ea09?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop
 ---
 ![초등학생 독서 학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=400&fit=crop)
 *초등 저학년 시기의 독해력은 모든 과목 학습의 기초가 됩니다*

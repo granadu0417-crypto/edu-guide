@@ -19,7 +19,7 @@ tags:
 - 수능수학,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1753405276492-555fc3108ed9?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
 ---
 
 마포구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

@@ -16,7 +16,7 @@ tags:
 - which
 - that
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
 ---
 
 ## 관계대명사·관계부사 완벽 정복

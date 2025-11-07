@@ -17,7 +17,7 @@ tags:
 - a
 - the
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop
 ---
 
 ## 영어 명사·관사 완벽 활용

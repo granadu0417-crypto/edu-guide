@@ -17,7 +17,7 @@ tags:
 - 수능
 - 기초
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
 ---
 
 ## 국어 수능 국어 완벽 가이드

@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop
 ---
 
 ## 사회 사회문화 완벽 가이드

@@ -16,7 +16,7 @@ tags:
 - 영어듣기
 - 1:1과외
 - 기초
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
 ---
 
 ## 영어 듣기 기초 완벽 가이드

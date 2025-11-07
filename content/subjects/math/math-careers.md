@@ -17,7 +17,7 @@ tags:
 - 미래직업
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
 ## 수학 관련 진로 탐색 완벽 가이드

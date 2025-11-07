@@ -15,7 +15,7 @@ tags:
 - time
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop
 ---
 
 ## 수능 영어 시간 관리 완벽 가이드

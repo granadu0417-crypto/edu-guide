@@ -15,7 +15,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: https://images.pexels.com/photos/29861387/pexels-photo-29861387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop
 ---
 
 학생과 학부모를 위한 다양한 무료 교육 지원 서비스가 있습니다. 교육지원청, Wee센터, 학습종합클리닉센터 등 공공 기관의 전문적인 지원을 200% 활용하는 방법을 알아보겠습니다.

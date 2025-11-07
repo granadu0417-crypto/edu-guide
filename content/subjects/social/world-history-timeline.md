@@ -15,7 +15,7 @@ tags:
 - 시대
 - 흐름
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
 ---
 
 ## 세계사 연표 완벽 정복

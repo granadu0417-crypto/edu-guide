@@ -16,7 +16,7 @@ tags:
 - 토론
 - 1:1과외
 - 고급
-featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
 ---
 
 ## 영어 고급 회화 가이드

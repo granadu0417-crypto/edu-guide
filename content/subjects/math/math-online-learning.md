@@ -15,7 +15,7 @@ tags:
 - 1:1과외
 - 과외
 - 기하
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
 ---
 
 ## 온라인 수학 학습 완벽 가이드

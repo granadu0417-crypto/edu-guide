@@ -16,7 +16,7 @@ tags:
 - 정서
 - 감상법
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1531498860502-7c67cf02f657?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop
 ---
 
 ## 국어 과외로 시 분석 완벽 정복하기

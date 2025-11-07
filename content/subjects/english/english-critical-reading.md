@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 고급
-featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
 ---
 
 ## 영어 비판적 독해 가이드

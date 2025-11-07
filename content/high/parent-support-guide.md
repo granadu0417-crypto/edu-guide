@@ -11,7 +11,7 @@ tags:
 - 모의고사
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---
 ![부모와 자녀](https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?w=1200&h=630&fit=crop)
 

@@ -16,7 +16,7 @@ tags:
 - 사고력수학
 - 증명
 - 수학
-featured_image: https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop
 ---
 
 **"수학이 너무 기계적이에요!"** 논리적 사고로 수학의 본질을 이해할 수 있습니다.

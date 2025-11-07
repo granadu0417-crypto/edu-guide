@@ -16,7 +16,7 @@ tags:
 - 학원평가
 - 사교육
 - 학부모가이드
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop
 ---
 
 학원 선택은 신중해야 합니다. 비용도 비용이지만, 우리 아이의 소중한 시간과 학습 효과가 달린 문제니까요. 등록 전 반드시 확인해야 할 체크리스트를 공유합니다.

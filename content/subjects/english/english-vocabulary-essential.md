@@ -16,7 +16,7 @@ tags:
 - vocabulary
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
 ---
 
 ## 수능 필수 어휘 3000 완벽 암기

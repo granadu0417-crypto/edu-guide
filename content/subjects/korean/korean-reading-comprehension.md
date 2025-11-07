@@ -16,7 +16,7 @@ tags:
 - 주제파악
 - 수능국어
 - 국어
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
 ---
 
 **"글을 읽어도 무슨 말인지 모르겠어요!"** 체계적 훈련으로 독해력을 완벽히 향상시킬 수 있습니다.

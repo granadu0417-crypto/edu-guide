@@ -16,7 +16,7 @@ tags:
 - 내신수학
 - 서술형전략
 - 수학
-featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop
 ---
 
 **"서술형이 너무 어려워요!"** 체계적 전략으로 누구나 고득점할 수 있습니다.

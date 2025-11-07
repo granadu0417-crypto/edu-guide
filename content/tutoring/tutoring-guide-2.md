@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: https://images.unsplash.com/photo-1541963463532-d68292c34b19?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop
 ---
 ## 왜 1:1 과외가 효과적인가?
 

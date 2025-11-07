@@ -16,7 +16,7 @@ tags:
 - 수학2
 - 미적분
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
 ---
 
 **"미적분이 너무 어려워요..."** 극한의 개념을 이해하지 못하거나, 미분 공식을 외워도 문제에 적용하지 못하거나, 적분이 무엇인지 감이 안 잡히는 학생들이 많습니다.

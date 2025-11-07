@@ -16,7 +16,7 @@ tags:
 - 화법
 - 말하기
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
 **"발표만 하면 떨려요..."** 남 앞에서 말하는 것이 두렵거나, 토론에서 논리적으로 반박하지 못하거나, 설득력 있게 말하지 못해 고민하는 학생들이 많습니다.

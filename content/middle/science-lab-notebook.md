@@ -11,7 +11,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습가이드
-featured_image: https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 ---
 ![과학 실험](https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&h=400&fit=crop)
 *체계적인 실험 기록이 과학적 사고력을 키웁니다*

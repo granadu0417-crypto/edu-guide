@@ -15,7 +15,7 @@ tags:
 - 사회과외
 - 경제학습
 - 경제
-featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
 ---
 
 **"경제가 뭔가요?"** 경제는 우리 생활과 밀접한 학문입니다.

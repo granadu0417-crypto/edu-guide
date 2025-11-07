@@ -16,7 +16,7 @@ tags:
 - 이차방정식
 - 인수분해
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1616077167555-51f6bc516dfa?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
 ---
 
 **"방정식만 나오면 머리가 하얘져요..."** 대수 개념을 이해하지 못하거나, 문제 풀이 방법을 몰라서, 시험에서 좋은 점수를 받지 못하는 학생들이 많습니다.

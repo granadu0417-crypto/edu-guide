@@ -15,7 +15,7 @@ tags:
 description: 과외 선생님 면접의 모든 것. 필수 질문 리스트, 평가 기준, 시범 수업 체크포인트를 제시합니다 과외 선택부터 효과적인 활용까지,
   1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
   현명한 선택을 도와드립니다.
-featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 reading_time: 295줄
 ---
 

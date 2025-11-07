@@ -17,7 +17,7 @@ tags:
 - because
 - when
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop
 ---
 
 ## 영어 접속사 완벽 마스터

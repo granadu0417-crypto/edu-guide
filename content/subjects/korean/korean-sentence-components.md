@@ -20,7 +20,7 @@ tags:
 - 부사어
 - '2025'
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
 ## 국어 문장 성분 완벽 분석

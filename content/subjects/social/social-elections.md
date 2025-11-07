@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop
 ---
 
 ## 사회 선거 완벽 가이드

@@ -9,7 +9,7 @@ tags:
 - 연산
 - 초등교육
 - 초등학습
-featured_image: https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
 ---
 ![초등학생 수학 공부](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&h=400&fit=crop)
 *탄탄한 연산 실력은 수학 자신감의 출발점입니다*

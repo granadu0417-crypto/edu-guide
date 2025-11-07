@@ -16,7 +16,7 @@ tags:
 - 함수
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
 ## 고1 수학 완벽 가이드

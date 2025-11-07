@@ -27,7 +27,7 @@ tags:
 - 공부법
 grades:
 - 중학생
-featured_image: https://images.pexels.com/photos/6958583/pexels-photo-6958583.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
 draft: false
 ---
 

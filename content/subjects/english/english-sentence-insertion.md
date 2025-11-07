@@ -15,7 +15,7 @@ tags:
 - 연결어
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop
 ---
 
 ## 영어 문장 삽입 전략

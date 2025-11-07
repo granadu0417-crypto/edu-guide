@@ -18,7 +18,7 @@ tags:
 - 수능수학,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1637073759450-546b5006d107?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop
 ---
 
 노원구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

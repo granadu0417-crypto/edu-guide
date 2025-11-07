@@ -18,7 +18,7 @@ tags:
 - 초등수학
 - 중학수학
 - 기초다지기
-featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
 ---
 
 수학 실력의 핵심은 탄탄한 기초입니다. 아무리 어려운 문제도 기초 개념과 연산의 조합일 뿐입니다. 기초가 튼튼하면 어떤 수학 문제도 두렵지 않습니다. 이 글에서는 수학 기초를 체계적으로 다지는 완벽한 학습법을 단계별로 안내합니다.

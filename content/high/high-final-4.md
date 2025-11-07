@@ -12,7 +12,7 @@ tags:
 - 독해력
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1516321165247-4aa89a48be28?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
 ---
 ## 왜 고등학생 시기가 중요한가?
 

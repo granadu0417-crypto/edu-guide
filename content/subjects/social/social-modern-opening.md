@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop
 ---
 
 ## 사회 개항기 완벽 가이드

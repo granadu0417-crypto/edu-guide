@@ -16,7 +16,7 @@ tags:
 - 프랜차이즈학원
 - 학원고르기
 - 학원
-featured_image: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
 ---
 
 "대형 학원이 좋을까, 소형 학원이 좋을까?" 학부모님들이 가장 많이 고민하는 질문입니다. 정답은 '우리 아이에게 맞는 곳'입니다. 각각의 특징을 정확히 알아보겠습니다.

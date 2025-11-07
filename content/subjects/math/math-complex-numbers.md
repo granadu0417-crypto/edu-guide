@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 연산
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 ## 수학 복소수 완벽 정복 가이드

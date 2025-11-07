@@ -16,7 +16,7 @@ tags:
 - 킬러문제
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
 ---
 
 ## 고3 이과 수학 완벽 가이드

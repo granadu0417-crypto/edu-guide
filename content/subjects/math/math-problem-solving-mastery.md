@@ -16,7 +16,7 @@ tags:
 - 수능
 - 실전테크닉
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop
 ---
 
 ## 수학 문제풀이 완벽 마스터하기

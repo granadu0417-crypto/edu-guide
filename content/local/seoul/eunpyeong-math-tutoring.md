@@ -19,7 +19,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: https://images.pexels.com/photos/34554596/pexels-photo-34554596.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
 ---
 
 은평구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

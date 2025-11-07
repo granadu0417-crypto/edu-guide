@@ -16,7 +16,7 @@ tags:
 - 수능국어
 - 고전문학학습
 - 소설
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop
 ---
 
 **"고전문학이 어렵고 지루하다"** 많은 학생들의 고민입니다.

@@ -17,7 +17,7 @@ tags:
 - 기초
 - 심화
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop
 ---
 
 ## 국어 판소리 완벽 가이드

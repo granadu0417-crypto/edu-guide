@@ -16,7 +16,7 @@ tags:
 - 지구과학공식
 - 1:1과외
 - 암기법
-featured_image: https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
 ---
 
 ## 과학 공식 과외로 완벽 암기하기

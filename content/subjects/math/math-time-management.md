@@ -15,7 +15,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
 ---
 
 ## 수학 시간 관리 완벽 가이드

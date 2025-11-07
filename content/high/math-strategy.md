@@ -11,7 +11,7 @@ tags:
 - 도형
 - 수능
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
 ---
 ![수능 수학 공부](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop)
 

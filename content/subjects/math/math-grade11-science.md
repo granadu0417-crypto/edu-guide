@@ -16,7 +16,7 @@ tags:
 - 극한
 - 기하
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop
 ---
 
 ## 고2 이과 수학 완벽 가이드

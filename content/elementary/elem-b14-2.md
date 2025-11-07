@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop
 ---## 초2 학습 습관 정착
 
 초등 전학년 시기는 **평생 학습의 기초**를 다지는 중요한 시기입니다. 이 시기에 형성된 학습 습관과 태도가 중·고등학교는 물론 평생의 학습 능력을 결정합니다.

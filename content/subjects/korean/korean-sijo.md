@@ -17,7 +17,7 @@ tags:
 - 시
 - 기초
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1531498860502-7c67cf02f657?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop
 ---
 
 ## 국어 시조 완벽 가이드

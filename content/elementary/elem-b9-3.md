@@ -12,7 +12,7 @@ tags:
 - 초등1학년
 - 초등교육
 - 초등학습
-featured_image: https://images.unsplash.com/photo-1534482421-64566f976cfa?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
 ---
 ## 왜 초등 시기가 중요한가?
 

@@ -17,7 +17,7 @@ tags:
 - 강동
 - 강북
 - 강서
-featured_image: https://images.unsplash.com/photo-1761019362997-247c7d646f45?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
 ---
 
 코로나19 이후 온라인 교육이 크게 확대되었습니다. 무료 또는 저렴하게 이용할 수 있는 온라인 교육 플랫폼을 효과적으로 활용하는 방법을 상세히 알아보겠습니다.

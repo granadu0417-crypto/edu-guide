@@ -15,7 +15,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: https://images.pexels.com/photos/34554598/pexels-photo-34554598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
 ---
 
 공공도서관은 무료로 이용할 수 있는 최고의 교육 인프라입니다. 도서 대출은 물론 학습 공간, 다양한 교육 프로그램, 디지털 자료까지 제공하는 도서관을 200% 활용하는 방법을 알아보겠습니다.

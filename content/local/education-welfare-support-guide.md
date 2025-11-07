@@ -17,7 +17,7 @@ tags:
 - 강동
 - 강북
 - 강서
-featured_image: https://images.pexels.com/photos/3018976/pexels-photo-3018976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
 ---
 
 경제적 어려움으로 교육 기회를 놓치는 일이 없도록 다양한 교육복지 제도가 마련되어 있습니다. 저소득층 가정이 받을 수 있는 모든 교육 지원 혜택을 상세히 알아보겠습니다.

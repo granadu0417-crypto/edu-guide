@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1519337265831-281ec6cc8514?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop
 ---
 ## 왜 학습 상담이 필요한가?
 

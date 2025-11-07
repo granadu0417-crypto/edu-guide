@@ -16,7 +16,7 @@ tags:
 - 수능독해
 - 논리분석
 - 영어
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 **"영어 지문이 너무 어려워요!"** 체계적 훈련으로 고급 독해를 완벽히 정복할 수 있습니다.

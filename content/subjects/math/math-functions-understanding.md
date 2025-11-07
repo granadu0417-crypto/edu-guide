@@ -16,7 +16,7 @@ tags:
 - 함수변환
 - 함수의응용
 - 함수
-featured_image: https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop
 ---
 
 **"함수가 뭔가요?"** 수학의 핵심, 함수를 제대로 이해하면 수학이 쉬워집니다.

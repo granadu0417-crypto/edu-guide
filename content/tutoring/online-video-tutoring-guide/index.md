@@ -16,7 +16,7 @@ tags:
 - 온라인학습
 - 화상수업
 - 비대면과외
-featured_image: https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
 draft: false
 ---
 

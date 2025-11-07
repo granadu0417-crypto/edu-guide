@@ -15,7 +15,7 @@ tags:
 - 작문
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
 ---
 
 ## 영어 이메일 작성 완벽 가이드

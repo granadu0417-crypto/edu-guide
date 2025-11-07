@@ -15,7 +15,7 @@ tags:
 - 논리
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop
 ---
 
 ## 영어 추론 문제 완벽 정복

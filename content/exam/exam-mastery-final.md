@@ -8,7 +8,7 @@ tags:
 - 시험대비
 - 시험전략
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 ---## 시험 완벽 마스터
 
 **시험**은 학습의 결과를 확인하는 중요한 과정입니다. 체계적인 준비와 전략으로 최고의 성적을 달성하세요.

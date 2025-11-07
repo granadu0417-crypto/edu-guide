@@ -16,7 +16,7 @@ tags:
 - listening
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop
 ---
 
 ## 수능 영어 듣기 유형별 공략법

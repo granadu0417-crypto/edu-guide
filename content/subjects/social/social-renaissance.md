@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop
 ---
 
 ## 사회 르네상스 완벽 가이드

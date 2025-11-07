@@ -12,7 +12,7 @@ tags:
 - 수능
 - 시험대비
 - 시험전략
-featured_image: https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
 ---
 ## 왜 시험 대비가 중요한가?
 

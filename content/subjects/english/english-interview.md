@@ -16,7 +16,7 @@ tags:
 - speaking
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
 ---
 
 ## 영어 면접 완벽 대비 가이드

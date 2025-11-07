@@ -19,7 +19,7 @@ tags:
 - 창의수학
 - 내신수학,
 - 강남
-featured_image: https://images.pexels.com/photos/7316946/pexels-photo-7316946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop
 ---
 
 성동구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

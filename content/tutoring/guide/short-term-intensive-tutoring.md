@@ -15,7 +15,7 @@ tags:
 description: 단기 집중 과외 선택의 모든 것. 시험 직전 효과적인 학습 전략, 과외 선택 기준, 단기간 성적 향상 비법을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 reading_time: 302줄
 ---
 

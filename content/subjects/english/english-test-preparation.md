@@ -16,7 +16,7 @@ tags:
 - 유형분석
 - 실전전략
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop
 ---
 
 ## 영어 시험 완벽 대비하기

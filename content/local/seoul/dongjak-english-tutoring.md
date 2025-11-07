@@ -18,7 +18,7 @@ tags:
 - 영어회화
 - 내신영어
 - 수능영어,
-featured_image: https://images.pexels.com/photos/12869239/pexels-photo-12869239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---
 
 동작구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

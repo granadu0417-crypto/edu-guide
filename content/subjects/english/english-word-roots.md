@@ -16,7 +16,7 @@ tags:
 - prefix
 - suffix
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 ---
 
 ## 영어 어근으로 단어 정복하기

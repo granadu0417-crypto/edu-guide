@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop
 ---
 ## 왜 학습 상담이 필요한가?
 

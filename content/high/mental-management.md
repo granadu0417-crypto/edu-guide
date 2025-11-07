@@ -12,7 +12,7 @@ tags:
 - 수능
 - 입시전략
 - 학습가이드
-featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 ---
 ![학습과 멘탈 관리](https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=1200&h=630&fit=crop)
 

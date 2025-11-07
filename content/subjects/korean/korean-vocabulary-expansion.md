@@ -16,7 +16,7 @@ tags:
 - 속담
 - 어원학습
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
 **"어휘력이 부족해서 독해가 안 돼요..."** 단어를 몰라서 글의 의미를 파악하지 못하거나, 표현이 빈약해서 작문에서 좋은 점수를 받지 못하는 학생들이 많습니다.

@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 영문법
-featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop
 ---
 
 ## 영어 프레젠테이션 완벽 가이드

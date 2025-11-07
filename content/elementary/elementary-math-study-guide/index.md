@@ -26,7 +26,7 @@ tags:
 - 학습법
 grades:
 - 초등학생
-featured_image: https://images.unsplash.com/photo-1758525861781-bea6e7d79334?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
 draft: false
 ---
 

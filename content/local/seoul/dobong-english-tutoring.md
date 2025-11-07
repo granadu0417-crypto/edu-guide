@@ -19,7 +19,7 @@ tags:
 - 수능영어,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1660602738577-7277a9354341?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 도봉구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

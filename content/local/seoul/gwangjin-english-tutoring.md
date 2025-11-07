@@ -18,7 +18,7 @@ tags:
 - 영어회화
 - 입시영어,
 - 강남
-featured_image: https://images.unsplash.com/photo-1682376681629-27661344e75d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
 광진구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

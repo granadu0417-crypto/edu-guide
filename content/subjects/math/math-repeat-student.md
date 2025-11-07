@@ -17,7 +17,7 @@ tags:
 - 입시
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop
 ---
 
 ## 재수생 수학 학습 전략 완벽 가이드

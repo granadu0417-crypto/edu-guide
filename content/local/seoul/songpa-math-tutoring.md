@@ -18,7 +18,7 @@ tags:
 - 중등수학
 - 고등수학,
 - 강남
-featured_image: https://images.unsplash.com/photo-1594181985790-4ad34b333bca?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
 ---
 
 송파구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

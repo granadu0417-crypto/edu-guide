@@ -12,7 +12,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습가이드
-featured_image: https://images.unsplash.com/photo-1616400619175-5beda3a17896?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
 ---
 ![영어 알파벳 학습](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=800&h=400&fit=crop)
 *파닉스는 영어 읽기의 가장 중요한 기초입니다*

@@ -11,7 +11,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop
 ---
 ![독해 공부](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=400&fit=crop)
 *체계적인 독해 전략이 모든 과목 실력을 높입니다*

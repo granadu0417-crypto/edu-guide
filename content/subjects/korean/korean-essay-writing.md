@@ -16,7 +16,7 @@ tags:
 - 논리구성
 - 표현력
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop
 ---
 
 ## 국어 논술 완벽 마스터하기

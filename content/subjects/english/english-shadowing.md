@@ -16,7 +16,7 @@ tags:
 - speaking
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1597008641621-cefdcf718025?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop
 ---
 
 ## 영어 섀도잉 완벽 가이드

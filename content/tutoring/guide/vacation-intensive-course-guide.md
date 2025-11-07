@@ -15,7 +15,7 @@ tags:
 description: 방학 특강 선택의 모든 것. 겨울·여름 방학 활용 전략, 선행 vs 복습 선택 기준, 효과적인 특강 활용법을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
 reading_time: 305줄
 ---
 

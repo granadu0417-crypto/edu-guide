@@ -16,7 +16,7 @@ tags:
 - 글쓰기
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop
 ---
 
 ## 영어 에세이 작성 완벽 가이드

@@ -16,7 +16,7 @@ tags:
 - 산업
 - 지도읽기
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
 ## 사회 지리 완벽 탐구하기

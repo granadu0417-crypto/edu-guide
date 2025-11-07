@@ -16,7 +16,7 @@ tags:
 - 수능국어독서
 - 국어
 - 읽기
-featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 ---
 
 **"가짜뉴스를 어떻게 구별하나?"** 현대인의 필수 능력입니다.

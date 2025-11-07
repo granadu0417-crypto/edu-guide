@@ -18,7 +18,7 @@ tags:
 - AP영어
 - IB영어
 - 입시영어,
-featured_image: https://images.pexels.com/photos/12654796/pexels-photo-12654796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
 ---
 
 용산구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

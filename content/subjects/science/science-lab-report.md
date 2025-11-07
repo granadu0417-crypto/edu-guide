@@ -16,7 +16,7 @@ tags:
 - 데이터분석
 - 과학탐구
 - 과학
-featured_image: https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop
 ---
 
 **"실험 보고서 어떻게 써야 하나요?"** 체계적 방법으로 완벽한 보고서 작성이 가능합니다.

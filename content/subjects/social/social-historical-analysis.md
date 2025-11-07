@@ -16,7 +16,7 @@ tags:
 - 인과관계
 - 역사분석
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop
 ---
 
 ## 사회 역사 완벽 분석하기

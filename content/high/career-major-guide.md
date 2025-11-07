@@ -11,7 +11,7 @@ tags:
 - 수시
 - 정시
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 ![진로 탐색과 선택](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop)
 

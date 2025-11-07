@@ -17,7 +17,7 @@ tags:
 - 효과적학습
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
 ---
 
 ## 수학 1:1 과외 완벽 활용 가이드

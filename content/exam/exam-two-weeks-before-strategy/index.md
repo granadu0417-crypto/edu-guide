@@ -23,7 +23,7 @@ tags:
 - 기말고사
 - 모의고사
 - 공부법
-featured_image: https://images.pexels.com/photos/7088534/pexels-photo-7088534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop
 draft: false
 ---
 

@@ -12,7 +12,7 @@ tags:
 - 집중력
 - 초등교육
 - 초등학습
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
 ---
 ![받아쓰기 공부](https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&h=400&fit=crop)
 *체계적인 준비로 받아쓰기 자신감을 키워보세요*

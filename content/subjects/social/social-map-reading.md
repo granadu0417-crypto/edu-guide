@@ -16,7 +16,7 @@ tags:
 - 지리과외
 - 등고선
 - 사회
-featured_image: https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---
 
 **"지도가 너무 복잡해요!"** 체계적 방법으로 모든 지도를 완벽히 해석할 수 있습니다.

@@ -19,7 +19,7 @@ tags:
 - 입시,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1653016380323-a4496cbe3cf0?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1200&h=630&fit=crop
 ---
 
 일반고와 다른 특성화된 교육을 제공하는 특목고, 자사고, 영재학교는 많은 학생과 학부모의 관심 대상입니다. 전국 학교 현황과 입학 전형, 준비 전략을 상세히 알아보겠습니다.

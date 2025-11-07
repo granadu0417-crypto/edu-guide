@@ -17,7 +17,7 @@ tags:
 - 기초
 - 심화
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop
 ---
 
 ## 국어 향가 완벽 가이드

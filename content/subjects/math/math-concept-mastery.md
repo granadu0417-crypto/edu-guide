@@ -18,7 +18,7 @@ tags:
 - 고등수학
 - 수능수학
 - 수학원리
-featured_image: https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
 ---
 
 수학 실력의 핵심은 개념의 완벽한 이해입니다. 공식을 단순히 암기하는 것이 아니라 '왜 그런지' 이해하면 어떤 문제도 풀 수 있습니다. 이 글에서는 수학 개념을 체계적으로 이해하고 실전에 적용하는 완벽한 학습법을 안내합니다.

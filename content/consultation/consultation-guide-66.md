@@ -13,7 +13,7 @@ tags:
 - 집중력
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop
 ---
 ## 왜 학습 상담이 필요한가?
 

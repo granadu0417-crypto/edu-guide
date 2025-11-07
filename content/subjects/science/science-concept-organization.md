@@ -17,7 +17,7 @@ tags:
 - 중학과학
 - 고등과학
 - 과학내신
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
 ---
 
 과학 성적은 개념 정리에서 결정됩니다. 단순 암기가 아닌 체계적인 정리와 이해가 핵심입니다. 이 글에서는 물리, 화학, 생물, 지구과학의 개념을 완벽하게 정리하고 암기하는 모든 방법을 안내합니다.

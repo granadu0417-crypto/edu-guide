@@ -9,7 +9,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 ---
 ![서술형 평가](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 *체계적인 답안 작성 전략이 고득점의 열쇠입니다*

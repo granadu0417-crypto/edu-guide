@@ -16,7 +16,7 @@ tags:
 - 계산
 - 그래프
 - 연산
-featured_image: https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
 ---
 
 ## 수학 문장제 정복하기

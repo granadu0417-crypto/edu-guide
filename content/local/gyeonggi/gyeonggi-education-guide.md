@@ -19,7 +19,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: https://images.pexels.com/photos/34568963/pexels-photo-34568963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop
 ---
 
 경기도는 서울 인접 지역을 중심으로 우수한 교육 환경을 갖춘 도시들이 많습니다. 1기 신도시부터 3기 신도시까지, 각 지역의 특성과 교육 인프라를 상세히 살펴보겠습니다.

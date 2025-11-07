@@ -16,7 +16,7 @@ tags:
 - 추천
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop
 ---
 
 ## 영어 학습 자료 완벽 정리

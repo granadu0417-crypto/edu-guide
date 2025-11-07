@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1598520106830-8c45c2035460?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
 ---## 초6 중등 과목 미리보기
 
 초등 6학년 시기는 **평생 학습의 기초**를 다지는 중요한 시기입니다. 이 시기에 형성된 학습 습관과 태도가 중·고등학교는 물론 평생의 학습 능력을 결정합니다.

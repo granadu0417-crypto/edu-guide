@@ -11,7 +11,7 @@ tags:
 - 자기주도학습
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
 ---
 ## 왜 중학생 시기가 중요한가?
 

@@ -16,7 +16,7 @@ tags:
 - 부등식
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---
 
 ## 중2 수학 완벽 가이드

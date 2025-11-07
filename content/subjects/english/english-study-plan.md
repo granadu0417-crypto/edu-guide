@@ -15,7 +15,7 @@ tags:
 - 전략
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
 ---
 
 ## 영어 학습 계획 완벽 수립 가이드

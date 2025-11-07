@@ -19,7 +19,7 @@ tags:
 - 수능영어,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1743941234294-b9a846df90d7?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
 강동구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

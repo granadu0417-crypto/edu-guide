@@ -16,7 +16,7 @@ tags:
 - superlative
 - than
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
 ---
 
 ## 비교급·최상급 완벽 활용

@@ -15,7 +15,7 @@ tags:
 - 수학과외
 - 수능기하
 - 기하
-featured_image: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 ---
 
 **"기하가 어려워요!"** 하지만 기하는 **보이는 수학**입니다.

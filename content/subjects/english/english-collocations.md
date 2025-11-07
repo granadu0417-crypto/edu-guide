@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 단어
-featured_image: https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
 ---
 
 ## 영어 연어 표현 완벽 정리

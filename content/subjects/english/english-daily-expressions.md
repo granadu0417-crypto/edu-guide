@@ -16,7 +16,7 @@ tags:
 - 표현
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
 ---
 
 ## 영어 일상 표현 완벽 정리

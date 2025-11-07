@@ -16,7 +16,7 @@ tags:
 - 듣기훈련
 - 청취력
 - 발음
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
 **"영어가 들리지 않아요!"** 체계적 훈련으로 듣기 실력을 완벽히 향상시킬 수 있습니다.

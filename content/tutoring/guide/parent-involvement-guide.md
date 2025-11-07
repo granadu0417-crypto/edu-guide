@@ -14,7 +14,7 @@ tags:
 - 중등
 description: 학부모의 학원 과외 참여 전략. 적절한 관여 수준, 선생님과의 협력 방법, 자녀 동기부여 전략을 제시합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 reading_time: 312줄
 ---
 

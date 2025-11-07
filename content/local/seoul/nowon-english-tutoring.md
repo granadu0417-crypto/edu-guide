@@ -18,7 +18,7 @@ tags:
 - 수능영어,
 - 강남
 - 강동
-featured_image: https://images.pexels.com/photos/6214718/pexels-photo-6214718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+featured_image: https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop
 ---
 
 노원구에서 영어과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

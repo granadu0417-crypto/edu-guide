@@ -16,7 +16,7 @@ tags:
 - 혼자
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 ---
 
 ## 영어 독학 완벽 가이드

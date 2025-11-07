@@ -15,7 +15,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: https://images.unsplash.com/photo-1637070901110-c06a08018c35?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
 맞벌이 가정이 늘어나면서 방과후학교와 돌봄교실의 중요성이 커지고 있습니다. 자녀의 안전한 보호와 교육을 동시에 제공하는 방과후 프로그램의 모든 것을 상세히 알아보겠습니다.

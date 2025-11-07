@@ -18,7 +18,7 @@ tags:
 - 중학지리
 - 고등지리
 - 지리내신
-featured_image: https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
 ---
 
 지리는 단순히 외우는 과목이 아닙니다. 지도를 읽고, 공간을 이해하고, 지역의 특성을 파악하는 종합적 사고가 필요합니다. 이 글에서는 자연지리와 인문지리를 완벽하게 정복하는 모든 학습법을 안내합니다.

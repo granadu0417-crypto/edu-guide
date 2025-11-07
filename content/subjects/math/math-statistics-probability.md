@@ -15,7 +15,7 @@ tags:
 - 확률
 - 통계
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1610296669228-602fa827fc1f?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
 ---
 
 **"순열과 조합이 헷갈려요..."** 경우의 수를 세다가 실수하거나, 확률 계산이 복잡해서 틀리거나, 통계 해석을 어려워하는 학생들이 많습니다.

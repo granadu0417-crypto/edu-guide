@@ -17,7 +17,7 @@ tags:
 - 복수표준어
 - '2025'
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop
 ---
 
 ## 표준어 완벽 가이드

@@ -15,7 +15,7 @@ tags:
 - 전문영어
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
 ---
 
 ## 진로별 영어 학습 가이드

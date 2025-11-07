@@ -17,7 +17,7 @@ tags:
 - 국어내신
 - 수능국어
 - 문법공부
-featured_image: https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop
 ---
 
 국어 문법은 암기보다 **이해**가 중요합니다. 문법 개념을 제대로 이해하면 독해, 작문, 어휘 실력이 함께 향상됩니다. 이 글에서는 초등학생부터 고등학생까지 꼭 알아야 할 국어 문법을 체계적으로 정리했습니다.

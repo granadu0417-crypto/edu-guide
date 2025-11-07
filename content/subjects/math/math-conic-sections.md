@@ -16,7 +16,7 @@ tags:
 - 기하
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop
 ---
 
 ## 수학 이차곡선 완벽 정복 가이드

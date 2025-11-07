@@ -19,7 +19,7 @@ tags:
 - 수능수학,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1689751935678-441f1735e4e2?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
 ---
 
 구로구에서 수학과외를 준비하는 학부모님들께서 자주 하시는 질문이 있습니다.

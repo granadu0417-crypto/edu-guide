@@ -17,7 +17,7 @@ tags:
 - 과외
 - 표현
 author: 에듀코리아 국어교육연구소
-featured_image: https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
 ---
 
 ## 국어 수필 완벽 가이드

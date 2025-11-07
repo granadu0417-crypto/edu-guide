@@ -15,7 +15,7 @@ tags:
 - note-taking
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
 ## 영어 노트 필기법 완벽 가이드

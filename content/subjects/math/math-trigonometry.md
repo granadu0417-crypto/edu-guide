@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 함수
 - 과외
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop
 ---
 
 ## 수학 삼각함수 완벽 정복 가이드

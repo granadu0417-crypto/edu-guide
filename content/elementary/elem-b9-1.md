@@ -13,7 +13,7 @@ tags:
 - 창의력
 - 초등1학년
 - 초등교육
-featured_image: https://images.unsplash.com/photo-1590402494587-44b71d7772f6?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop
 ---
 ## 왜 초등 시기가 중요한가?
 
