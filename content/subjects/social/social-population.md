@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
 ---
 
-# 사회 인구 완벽 가이드
+## 사회 인구 완벽 가이드
 
 인구 학습, 어렵게 느껴지시나요?
 

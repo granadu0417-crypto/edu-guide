@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 ---
 
-# 수학 삼각함수 완벽 정복 가이드
+## 수학 삼각함수 완벽 정복 가이드
 
 삼각함수가 어렵게 느껴지나요?
 

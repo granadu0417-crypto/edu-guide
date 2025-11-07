@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?computer-learning&sig=7776
 reading_time: 280줄
 ---
 
-# 코딩 과외 - 파이썬·자바 프로그래밍 선생님
+## 코딩 과외 - 파이썬·자바 프로그래밍 선생님
 
 과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
 ---
 
-# 수능 영어 듣기 유형별 공략법
+## 수능 영어 듣기 유형별 공략법
 
 수능 듣기 유형이 너무 많나요?
 

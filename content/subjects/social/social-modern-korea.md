@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop
 ---
 
-# 사회 현대사 완벽 가이드
+## 사회 현대사 완벽 가이드
 
 현대사 학습, 어렵게 느껴지시나요?
 

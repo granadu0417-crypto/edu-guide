@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?kids-learning&sig=14649410
 reading_time: 280줄
 ---
 
-# 중등 영어 과외 - 문법·독해·듣기 선생님
+## 중등 영어 과외 - 문법·독해·듣기 선생님
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

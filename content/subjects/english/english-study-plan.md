@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=630&fit=crop
 ---
 
-# 영어 학습 계획 완벽 수립 가이드
+## 영어 학습 계획 완벽 수립 가이드
 
 영어 공부를 어떻게 시작해야 할지 막막한가요?
 

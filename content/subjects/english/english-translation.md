@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop
 ---
 
-# 영어 번역 기초 가이드
+## 영어 번역 기초 가이드
 
 번역을 잘하고 싶나요?
 

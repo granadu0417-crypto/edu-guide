@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
 ---
 
-# 띄어쓰기 완벽 가이드
+## 띄어쓰기 완벽 가이드
 
 띄어쓰기 학습이 어렵나요?
 

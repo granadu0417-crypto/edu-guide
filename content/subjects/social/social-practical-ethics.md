@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
 ---
 
-# 사회 생활윤리 완벽 가이드
+## 사회 생활윤리 완벽 가이드
 
 생활윤리 학습, 어렵게 느껴지시나요?
 

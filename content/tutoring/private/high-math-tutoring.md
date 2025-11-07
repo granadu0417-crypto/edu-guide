@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?library&sig=91496528259707
 reading_time: 280줄
 ---
 
-# 고등 수학 과외 - 미적분·기하·확통 선생님
+## 고등 수학 과외 - 미적분·기하·확통 선생님
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

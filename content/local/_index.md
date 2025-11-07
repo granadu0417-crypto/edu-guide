@@ -15,7 +15,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&h=630&fit=crop
 ---
 
-# 지역별 교육 정보
+## 지역별 교육 정보
 
 지역마다 교육 환경과 특성이 다릅니다. 우리 지역에 맞는 **최적의 교육 정보**를 찾아보세요.
 

@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?study-group&sig=6121818949
 reading_time: 280줄
 ---
 
-# 고려대 과외 - 입시 전문 선생님 찾기
+## 고려대 과외 - 입시 전문 선생님 찾기
 
 선생님 유형별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1432821596592-e2c18b78144f?w=1200&h=630&fit=crop
 ---
 
-# 사회 그리스·로마 완벽 가이드
+## 사회 그리스·로마 완벽 가이드
 
 그리스·로마 학습, 어렵게 느껴지시나요?
 

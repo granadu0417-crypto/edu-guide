@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?library&sig=76659350464602
 reading_time: 280줄
 ---
 
-# 장기 과외 - 1년+ 관리 선생님 찾기
+## 장기 과외 - 1년+ 관리 선생님 찾기
 
 수업 형태별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

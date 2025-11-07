@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
 ---
 
-# 수학 노트 정리법 완벽 가이드
+## 수학 노트 정리법 완벽 가이드
 
 수학 노트, 어떻게 정리해야 할까요?
 

@@ -6,7 +6,7 @@ description: 좋은 학원과 과외 선생님을 찾는 방법, 학원 vs 과�
 featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
 ---
 
-# 학원·과외 가이드
+## 학원·과외 가이드
 
 우리 아이에게 딱 맞는 학습 방법을 찾아보세요.
 

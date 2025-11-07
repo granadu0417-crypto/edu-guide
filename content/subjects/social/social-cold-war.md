@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
 ---
 
-# 사회 냉전 완벽 가이드
+## 사회 냉전 완벽 가이드
 
 냉전 학습, 어렵게 느껴지시나요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 ---
 
-# 영어 딕테이션 완벽 마스터
+## 영어 딕테이션 완벽 마스터
 
 받아쓰기가 너무 어렵나요?
 

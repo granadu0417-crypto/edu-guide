@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
 ---
 
-# 로마자 표기법 완벽 가이드
+## 로마자 표기법 완벽 가이드
 
 로마자 표기법 학습이 어렵나요?
 

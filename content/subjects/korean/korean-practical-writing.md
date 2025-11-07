@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
 ---
 
-# 국어 실용문 완벽 가이드
+## 국어 실용문 완벽 가이드
 
 실용문 학습, 제대로 하고 계신가요?
 

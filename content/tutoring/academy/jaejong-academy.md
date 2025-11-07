@@ -17,7 +17,7 @@ featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1
 reading_time: 270줄
 ---
 
-# 재종 학원 - 재수종합반 및 1:1 멘토링
+## 재종 학원 - 재수종합반 및 1:1 멘토링
 
 학원 선택과 1:1 과외 병행 전략을 안내합니다.
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
 ---
 
-# 수학 계산기 활용 완벽 가이드
+## 수학 계산기 활용 완벽 가이드
 
 계산기, 제대로 활용하고 계신가요?
 

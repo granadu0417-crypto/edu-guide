@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
 ---
 
-# 영어 학습 자료 완벽 정리
+## 영어 학습 자료 완벽 정리
 
 어떤 자료로 공부해야 할지 모르겠나요?
 

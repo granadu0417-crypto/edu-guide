@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?w=1200&h=630&fit=crop
 ---
 
-# 수학 시험 대비 완벽 가이드
+## 수학 시험 대비 완벽 가이드
 
 수학 시험, 어떻게 준비해야 할까요?
 

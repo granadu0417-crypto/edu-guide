@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
 ---
 
-# 영어 지칭 대상 파악 가이드
+## 영어 지칭 대상 파악 가이드
 
 지칭 대상 찾기가 어렵나요?
 

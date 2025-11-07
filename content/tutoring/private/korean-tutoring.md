@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?students-studying&sig=2030
 reading_time: 280줄
 ---
 
-# 국어 과외 - 비문학·문학·문법 선생님
+## 국어 과외 - 비문학·문학·문법 선생님
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

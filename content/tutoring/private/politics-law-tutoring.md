@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?university&sig=66093142014
 reading_time: 280줄
 ---
 
-# 정치와법 과외 - 개념 정리 선생님 찾기
+## 정치와법 과외 - 개념 정리 선생님 찾기
 
 과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

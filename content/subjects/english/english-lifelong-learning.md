@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
 ---
 
-# 영어 평생 학습 완벽 가이드
+## 영어 평생 학습 완벽 가이드
 
 시험 끝나면 영어 공부도 끝인가요?
 

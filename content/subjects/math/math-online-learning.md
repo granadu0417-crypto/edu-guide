@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 ---
 
-# 온라인 수학 학습 완벽 가이드
+## 온라인 수학 학습 완벽 가이드
 
 온라인으로 수학을 효과적으로 공부하고 싶으신가요?
 

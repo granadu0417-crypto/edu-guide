@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
 ---
 
-# 영어 듣기 기초 완벽 가이드
+## 영어 듣기 기초 완벽 가이드
 
 영어 듣기가 안 들리나요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 ---
 
-# 영어 창의적 글쓰기 가이드
+## 영어 창의적 글쓰기 가이드
 
 영어로 이야기를 쓰고 싶으신가요?
 

@@ -20,7 +20,7 @@ author: 에듀코리아 과학교육연구소
 featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
 ---
 
-# 과학 산과 염기 완벽 가이드
+## 과학 산과 염기 완벽 가이드
 
 산과 염기 학습, 어렵게 느껴지시나요?
 

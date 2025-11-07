@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
 ---
 
-# 영어 고급 회화 가이드
+## 영어 고급 회화 가이드
 
 기본 회화를 넘어 유창하게 말하고 싶나요?
 

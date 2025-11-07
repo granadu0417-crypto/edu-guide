@@ -19,7 +19,7 @@ featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1
 reading_time: 280줄
 ---
 
-# 산본 초등학원 - 금정·군포 지역 및 1:1 과외
+## 산본 초등학원 - 금정·군포 지역 및 1:1 과외
 
 산본은 금정·군포를 중심으로 초등 전문 학원이 발달해 있습니다.
 

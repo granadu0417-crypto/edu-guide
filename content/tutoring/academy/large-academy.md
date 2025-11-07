@@ -17,7 +17,7 @@ featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1
 reading_time: 270줄
 ---
 
-# 대형학원 - 스타강사·시스템 및 1:1 과외
+## 대형학원 - 스타강사·시스템 및 1:1 과외
 
 학원 유형의 특징과 1:1 과외 병행을 안내합니다.
 

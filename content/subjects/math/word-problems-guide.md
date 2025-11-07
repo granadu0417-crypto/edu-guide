@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop
 ---
 
-# 수학 문장제 정복하기
+## 수학 문장제 정복하기
 
 "문장제만 나오면 어려워해요", "문제는 이해하는데 식을 못 세워요"
 

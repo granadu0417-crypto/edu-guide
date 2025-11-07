@@ -17,7 +17,7 @@ featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200
 reading_time: 270줄
 ---
 
-# 코딩 학원 - 파이썬·자바·정보올림피아드 및 1:1 과외
+## 코딩 학원 - 파이썬·자바·정보올림피아드 및 1:1 과외
 
 전문 과정 학원의 특징과 1:1 과외 병행 전략을 안내합니다.
 

@@ -19,7 +19,7 @@ featured_image: https://source.unsplash.com/1200x630/?writing&sig=14459645135149
 reading_time: 300줄
 ---
 
-# 분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외
+## 분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외
 
 분당은 대치동과 함께 수도권 양대 교육 특구로, 최상위권 수학학원이 집중되어 있습니다.
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1200&h=630&fit=crop
 ---
 
-# 영어 작문 실력 키우는 성공 비결
+## 영어 작문 실력 키우는 성공 비결
 
 영어 작문에 어려움을 겪고 계신가요?
 

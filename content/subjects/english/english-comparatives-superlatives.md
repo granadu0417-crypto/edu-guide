@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop
 ---
 
-# 비교급·최상급 완벽 활용
+## 비교급·최상급 완벽 활용
 
 비교 표현이 어렵나요?
 

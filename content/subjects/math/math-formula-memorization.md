@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=630&fit=crop
 ---
 
-# 수학 공식 암기 완벽 가이드
+## 수학 공식 암기 완벽 가이드
 
 공식이 기억나지 않나요?
 

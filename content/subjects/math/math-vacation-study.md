@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
 ---
 
-# 방학 수학 학습 완벽 가이드
+## 방학 수학 학습 완벽 가이드
 
 방학을 어떻게 보내야 할까요?
 

@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&h=630&fit=crop
 ---
 
-# 진로별 영어 학습 가이드
+## 진로별 영어 학습 가이드
 
 자신의 진로에 맞는 영어를 배우고 싶나요?
 

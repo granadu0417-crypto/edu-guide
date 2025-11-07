@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?school-supplies&sig=176915
 reading_time: 275줄
 ---
 
-# 초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외
+## 초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외
 
 과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.
 

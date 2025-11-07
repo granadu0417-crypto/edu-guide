@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=630&fit=crop
 ---
 
-# 영어 순서 배열 문제 전략
+## 영어 순서 배열 문제 전략
 
 순서 배열 문제가 어렵나요?
 

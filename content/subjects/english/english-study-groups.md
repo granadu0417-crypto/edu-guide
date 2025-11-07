@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
 ---
 
-# 영어 스터디 그룹 완벽 가이드
+## 영어 스터디 그룹 완벽 가이드
 
 혼자 공부하기 외로운가요?
 

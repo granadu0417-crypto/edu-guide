@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?desk-study&sig=16544945600
 reading_time: 280줄
 ---
 
-# 중국어 과외 - HSK·회화 전문 선생님 찾기
+## 중국어 과외 - HSK·회화 전문 선생님 찾기
 
 과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

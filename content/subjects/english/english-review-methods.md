@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1635372722656-389f87a941b7?w=1200&h=630&fit=crop
 ---
 
-# 영어 복습법 완벽 가이드
+## 영어 복습법 완벽 가이드
 
 배운 것을 금방 잊어버리나요?
 

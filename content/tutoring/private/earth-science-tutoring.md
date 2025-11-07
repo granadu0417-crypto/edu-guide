@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?teenager-studying&sig=4158
 reading_time: 280줄
 ---
 
-# 지구과학 과외 - 천문·기상 전문 선생님 찾기
+## 지구과학 과외 - 천문·기상 전문 선생님 찾기
 
 과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

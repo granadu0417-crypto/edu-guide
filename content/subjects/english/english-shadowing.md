@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1597008641621-cefdcf718025?w=1200&h=630&fit=crop
 ---
 
-# 영어 섀도잉 완벽 가이드
+## 영어 섀도잉 완벽 가이드
 
 발음이 좋아지고 싶나요?
 

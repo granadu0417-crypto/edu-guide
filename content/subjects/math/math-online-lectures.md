@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
 ---
 
-# 수학 인강 활용 완벽 가이드
+## 수학 인강 활용 완벽 가이드
 
 인강을 제대로 활용하고 계신가요?
 

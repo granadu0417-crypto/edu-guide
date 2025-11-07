@@ -18,7 +18,7 @@ featured_image: https://source.unsplash.com/1200x630/?students-studying&sig=3408
 reading_time: 280줄
 ---
 
-# 광주 학원가 - 수완·첨단 지역 및 1:1 과외
+## 광주 학원가 - 수완·첨단 지역 및 1:1 과외
 
 광주 학원가. 수완·첨단 지역, 과목별, 1:1 과외를 안내합니다.. 지역 특성과 학원 선택, 1:1 과외 병행 전략을 안내합니다.
 

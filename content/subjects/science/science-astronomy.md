@@ -19,7 +19,7 @@ author: 에듀코리아 과학교육연구소
 featured_image: https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop
 ---
 
-# 과학 천문학 완벽 가이드
+## 과학 천문학 완벽 가이드
 
 천문학 학습, 어렵게 느껴지시나요?
 

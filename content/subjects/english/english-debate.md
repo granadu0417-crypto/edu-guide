@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
 ---
 
-# 영어 토론 완벽 가이드
+## 영어 토론 완벽 가이드
 
 영어로 의견을 논리적으로 말하기 어려우신가요?
 

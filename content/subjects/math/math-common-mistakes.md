@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop
 ---
 
-# 수학 흔한 실수 방지 가이드
+## 수학 흔한 실수 방지 가이드
 
 "실수만 안 했어도..."라고 말한 적 있나요?
 

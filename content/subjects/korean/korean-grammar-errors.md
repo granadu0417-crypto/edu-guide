@@ -21,7 +21,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?w=1200&h=630&fit=crop
 ---
 
-# 어법 오류 완벽 가이드
+## 어법 오류 완벽 가이드
 
 어법 오류 학습이 어렵나요?
 

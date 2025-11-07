@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?learning&sig=1477493942048
 reading_time: 280줄
 ---
 
-# 화학 과외 - 실험·이론 전문 선생님 찾기
+## 화학 과외 - 실험·이론 전문 선생님 찾기
 
 과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

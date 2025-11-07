@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&h=630&fit=crop
 ---
 
-# 영어 독학 완벽 가이드
+## 영어 독학 완벽 가이드
 
 혼자서 영어 공부하기 어렵나요?
 

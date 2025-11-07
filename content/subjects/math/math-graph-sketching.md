@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
 ---
 
-# 수학 그래프 그리기 완벽 가이드
+## 수학 그래프 그리기 완벽 가이드
 
 "그래프를 어떻게 그리나요?"
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
 ---
 
-# 영어 일상 표현 완벽 정리
+## 영어 일상 표현 완벽 정리
 
 일상에서 자주 쓰는 영어 표현을 모르시나요?
 

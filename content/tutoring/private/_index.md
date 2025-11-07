@@ -11,7 +11,7 @@ keywords:
 featured_image: https://source.unsplash.com/1200x630/?online-learning&sig=7854613938551564894
 ---
 
-# 과외 찾기
+## 과외 찾기
 
 우리 아이에게 맞는 과외 유형과 좋은 과외 선생님을 선택하는 방법을 안내합니다.
 

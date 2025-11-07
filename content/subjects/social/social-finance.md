@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
 ---
 
-# 사회 금융 완벽 가이드
+## 사회 금융 완벽 가이드
 
 금융 학습, 어렵게 느껴지시나요?
 

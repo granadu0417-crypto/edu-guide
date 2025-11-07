@@ -20,7 +20,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop
 ---
 
-# 부정사·동명사 완벽 구별
+## 부정사·동명사 완벽 구별
 
 부정사와 동명사가 헷갈리나요?
 

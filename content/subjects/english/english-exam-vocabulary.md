@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
 ---
 
-# 수능 영어 어휘 완벽 대비
+## 수능 영어 어휘 완벽 대비
 
 수능 영어 어휘가 부족한가요?
 

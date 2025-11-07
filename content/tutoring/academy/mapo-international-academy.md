@@ -19,7 +19,7 @@ featured_image: https://source.unsplash.com/1200x630/?education&sig=787802631399
 reading_time: 290줄
 ---
 
-# 마포 국제학교 대비 학원 - IB·AP 과정 및 1:1 과외
+## 마포 국제학교 대비 학원 - IB·AP 과정 및 1:1 과외
 
 마포는 국제학교 학생을 위한 IB·AP 전문 학원이 있습니다. 본 가이드에서는 국제학교 커리큘럼 대비를 안내합니다.
 

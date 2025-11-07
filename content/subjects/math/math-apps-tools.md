@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
-# 수학 학습 앱 활용 가이드
+## 수학 학습 앱 활용 가이드
 
 스마트폰으로 수학 공부하기!
 

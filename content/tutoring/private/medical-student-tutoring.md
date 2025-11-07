@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?teenager-studying&sig=7069
 reading_time: 280줄
 ---
 
-# 의대생 과외 - 의치한 선생님 찾기
+## 의대생 과외 - 의치한 선생님 찾기
 
 선생님 유형별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

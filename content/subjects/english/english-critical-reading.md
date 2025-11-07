@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop
 ---
 
-# 영어 비판적 독해 가이드
+## 영어 비판적 독해 가이드
 
 글을 그냥 읽기만 하나요?
 

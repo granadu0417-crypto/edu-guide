@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
-# 사회 조선 전기 완벽 가이드
+## 사회 조선 전기 완벽 가이드
 
 조선 전기 학습, 어렵게 느껴지시나요?
 

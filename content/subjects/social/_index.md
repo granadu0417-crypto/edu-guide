@@ -11,7 +11,7 @@ keywords:
 featured_image: https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=1200&h=630&fit=crop
 ---
 
-# 사회 공부법
+## 사회 공부법
 
 역사, 지리, 정치·경제 등 사회 교과의 효과적인 학습 방법을 안내합니다.
 

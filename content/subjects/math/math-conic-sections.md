@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=1200&h=630&fit=crop
 ---
 
-# 수학 이차곡선 완벽 정복 가이드
+## 수학 이차곡선 완벽 정복 가이드
 
 이차곡선이 어렵게 느껴지나요?
 

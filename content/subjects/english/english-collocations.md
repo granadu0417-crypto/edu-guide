@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop
 ---
 
-# 영어 연어 표현 완벽 정리
+## 영어 연어 표현 완벽 정리
 
 "Do homework"인가요 "Make homework"인가요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&h=630&fit=crop
 ---
 
-# 고2 문과 수학 완벽 가이드
+## 고2 문과 수학 완벽 가이드
 
 문과 수학, 어떻게 공부해야 할까요?
 

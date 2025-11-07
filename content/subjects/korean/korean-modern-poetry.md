@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop
 ---
 
-# 국어 현대시 완벽 가이드
+## 국어 현대시 완벽 가이드
 
 현대시 학습이 어렵나요?
 

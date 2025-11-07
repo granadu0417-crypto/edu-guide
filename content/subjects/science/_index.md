@@ -11,7 +11,7 @@ keywords:
 featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
 ---
 
-# 과학 공부법
+## 과학 공부법
 
 체계적인 과학 학습 방법과 탐구 능력 향상을 위한 가이드입니다.
 

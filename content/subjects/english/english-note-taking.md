@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop
 ---
 
-# 영어 노트 필기법 완벽 가이드
+## 영어 노트 필기법 완벽 가이드
 
 영어 노트를 어떻게 정리해야 할지 모르겠나요?
 

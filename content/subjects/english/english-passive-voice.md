@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
 ---
 
-# 영어 수동태 완벽 정복
+## 영어 수동태 완벽 정복
 
 수동태가 어렵나요?
 

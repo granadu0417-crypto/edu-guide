@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
 ---
 
-# 중3 수학 완벽 가이드
+## 중3 수학 완벽 가이드
 
 중3 수학, 고등 수학의 마지막 관문!
 

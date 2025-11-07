@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
 ---
 
-# 영어 이디엄·숙어 완벽 정리
+## 영어 이디엄·숙어 완벽 정리
 
 "kick the bucket"이 "양동이를 차다"가 아니라고요?
 

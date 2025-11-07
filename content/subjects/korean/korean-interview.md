@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop
 ---
 
-# 국어 면접 완벽 가이드
+## 국어 면접 완벽 가이드
 
 면접 학습, 제대로 하고 계신가요?
 

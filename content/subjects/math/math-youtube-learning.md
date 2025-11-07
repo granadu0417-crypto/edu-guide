@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
 ---
 
-# 수학 유튜브 활용 완벽 가이드
+## 수학 유튜브 활용 완벽 가이드
 
 유튜브로 수학 공부하기!
 

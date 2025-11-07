@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
 ---
 
-# 영어 전화 통화 완벽 가이드
+## 영어 전화 통화 완벽 가이드
 
 영어 전화가 무섭나요?
 

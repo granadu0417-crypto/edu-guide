@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?math-homework&sig=66293242
 reading_time: 280줄
 ---
 
-# 중등 수학 과외 - 내신 만점 전략 선생님
+## 중등 수학 과외 - 내신 만점 전략 선생님
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

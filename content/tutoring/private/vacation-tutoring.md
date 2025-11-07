@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?chalkboard&sig=86370166277
 reading_time: 280줄
 ---
 
-# 방학 과외 - 겨울·여름 특강 선생님 찾기
+## 방학 과외 - 겨울·여름 특강 선생님 찾기
 
 수업 형태별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

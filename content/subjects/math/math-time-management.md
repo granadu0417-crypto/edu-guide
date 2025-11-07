@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop
 ---
 
-# 수학 시간 관리 완벽 가이드
+## 수학 시간 관리 완벽 가이드
 
 수학 공부, 시간이 부족하신가요?
 

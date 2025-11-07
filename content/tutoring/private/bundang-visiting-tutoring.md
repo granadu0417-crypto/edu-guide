@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?studying-at-home&sig=35599
 reading_time: 280줄
 ---
 
-# 분당 방문 과외 - 판교·정자 선생님 찾기
+## 분당 방문 과외 - 판교·정자 선생님 찾기
 
 지역별 방문 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

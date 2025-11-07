@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?computer-learning&sig=5222
 reading_time: 280줄
 ---
 
-# 화상 과외 - 비대면 실시간 수업 선생님 찾기
+## 화상 과외 - 비대면 실시간 수업 선생님 찾기
 
 수업 형태별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

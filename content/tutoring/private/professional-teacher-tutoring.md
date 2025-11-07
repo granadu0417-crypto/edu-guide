@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?university&sig=29962001465
 reading_time: 280줄
 ---
 
-# 전문 강사 과외 - 경력 10년+ 선생님 찾기
+## 전문 강사 과외 - 경력 10년+ 선생님 찾기
 
 선생님 유형별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

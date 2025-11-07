@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?tutoring&sig=5498790443870
 reading_time: 280줄
 ---
 
-# 주말 과외 - 토일 집중 선생님 찾기
+## 주말 과외 - 토일 집중 선생님 찾기
 
 수업 형태별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

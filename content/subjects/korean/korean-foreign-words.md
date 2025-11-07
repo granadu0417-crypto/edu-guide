@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
-# 외래어 표기법 완벽 가이드
+## 외래어 표기법 완벽 가이드
 
 외래어 표기법 학습이 어렵나요?
 

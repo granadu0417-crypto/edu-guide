@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?homework&sig=6517213501853
 reading_time: 280줄
 ---
 
-# 초등 수학 과외 - 연산·사고력 선생님 찾기
+## 초등 수학 과외 - 연산·사고력 선생님 찾기
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

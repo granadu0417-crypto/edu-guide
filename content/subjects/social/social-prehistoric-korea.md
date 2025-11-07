@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
 ---
 
-# 사회 선사시대 완벽 가이드
+## 사회 선사시대 완벽 가이드
 
 선사시대 학습, 어렵게 느껴지시나요?
 

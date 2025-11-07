@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
 ---
 
-# 사회 환경 문제 완벽 가이드
+## 사회 환경 문제 완벽 가이드
 
 환경 문제 학습, 어렵게 느껴지시나요?
 

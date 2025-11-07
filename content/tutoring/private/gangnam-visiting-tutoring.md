@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?study-group&sig=2785686369
 reading_time: 280줄
 ---
 
-# 강남 방문 과외 - 대치·서초 선생님 찾기
+## 강남 방문 과외 - 대치·서초 선생님 찾기
 
 지역별 방문 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

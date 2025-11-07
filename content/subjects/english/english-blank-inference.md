@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 ---
 
-# 영어 빈칸 추론 완벽 대비
+## 영어 빈칸 추론 완벽 대비
 
 빈칸 추론이 어렵나요?
 

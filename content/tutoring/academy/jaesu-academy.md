@@ -17,7 +17,7 @@ featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1
 reading_time: 270줄
 ---
 
-# 재수학원 - 독재·반독재·기숙 및 1:1 멘토링
+## 재수학원 - 독재·반독재·기숙 및 1:1 멘토링
 
 학원 유형의 특징과 1:1 과외 병행을 안내합니다.
 

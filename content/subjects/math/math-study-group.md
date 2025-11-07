@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
-# 수학 스터디 그룹 완벽 가이드
+## 수학 스터디 그룹 완벽 가이드
 
 혼자 공부하기 힘드신가요?
 

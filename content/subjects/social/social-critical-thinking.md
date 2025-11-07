@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
 ---
 
-# 사회 과외로 비판적 사고력 완벽 정복하기
+## 사회 과외로 비판적 사고력 완벽 정복하기
 
 사회 과목에서 비판적 사고가 어렵나요?
 

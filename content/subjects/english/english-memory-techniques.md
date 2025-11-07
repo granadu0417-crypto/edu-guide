@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop
 ---
 
-# 영어 효율적 암기법 완벽 가이드
+## 영어 효율적 암기법 완벽 가이드
 
 외워도 금방 잊어버리나요?
 

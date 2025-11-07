@@ -11,7 +11,7 @@ keywords:
 featured_image: https://source.unsplash.com/1200x630/?homework&sig=4335951030306632333
 ---
 
-# 학원 찾기
+## 학원 찾기
 
 지역별 학원 정보와 우리 아이에게 맞는 학원을 선택하는 방법을 안내합니다.
 

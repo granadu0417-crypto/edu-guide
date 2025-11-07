@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?university&sig=30257872988
 reading_time: 280줄
 ---
 
-# 논술 과외 - 대학별 맞춤 지도 선생님
+## 논술 과외 - 대학별 맞춤 지도 선생님
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

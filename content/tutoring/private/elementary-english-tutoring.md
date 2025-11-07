@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?homework&sig=7958073021180
 reading_time: 280줄
 ---
 
-# 초등 영어 과외 - 파닉스·리딩 전문 선생님
+## 초등 영어 과외 - 파닉스·리딩 전문 선생님
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

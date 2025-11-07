@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop
 ---
 
-# 영어 형용사·부사 완벽 정복
+## 영어 형용사·부사 완벽 정복
 
 형용사와 부사가 헷갈리나요?
 

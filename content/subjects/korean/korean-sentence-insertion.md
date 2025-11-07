@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=1200&h=630&fit=crop
 ---
 
-# 국어 문장 삽입 완벽 가이드
+## 국어 문장 삽입 완벽 가이드
 
 문장 삽입 학습, 제대로 하고 계신가요?
 

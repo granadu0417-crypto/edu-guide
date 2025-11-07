@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
 ---
 
-# 수학 증명 작성 완벽 가이드
+## 수학 증명 작성 완벽 가이드
 
 "증명 문제만 나오면 막막해요..."
 

@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?study-group&sig=5394759077
 reading_time: 280줄
 ---
 
-# 지리 과외 - 한국지리·세계지리 선생님 찾기
+## 지리 과외 - 한국지리·세계지리 선생님 찾기
 
 과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

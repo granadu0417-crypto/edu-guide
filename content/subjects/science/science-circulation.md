@@ -20,7 +20,7 @@ author: 에듀코리아 과학교육연구소
 featured_image: https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop
 ---
 
-# 과학 순환 완벽 가이드
+## 과학 순환 완벽 가이드
 
 순환 학습, 어렵게 느껴지시나요?
 

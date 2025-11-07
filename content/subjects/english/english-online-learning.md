@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
 ---
 
-# 영어 온라인 학습 완벽 가이드
+## 영어 온라인 학습 완벽 가이드
 
 온라인으로 영어 공부하고 싶은가요?
 

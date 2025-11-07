@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
 ---
 
-# 확률과 통계 심화 완벽 가이드
+## 확률과 통계 심화 완벽 가이드
 
 확률과 통계, 제대로 정복하고 싶으신가요?
 

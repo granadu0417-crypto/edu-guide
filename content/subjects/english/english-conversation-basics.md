@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=1200&h=630&fit=crop
 ---
 
-# 영어 기초 회화 완벽 가이드
+## 영어 기초 회화 완벽 가이드
 
 영어로 말하기가 두렵나요?
 

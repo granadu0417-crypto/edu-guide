@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
 ---
 
-# 수능 영어 시간 관리 완벽 가이드
+## 수능 영어 시간 관리 완벽 가이드
 
 수능 영어 시간이 항상 부족한가요?
 

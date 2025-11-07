@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?library&sig=32020961483017
 reading_time: 280줄
 ---
 
-# 영어 회화 과외 - 원어민·한국인 선생님
+## 영어 회화 과외 - 원어민·한국인 선생님
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop
 ---
 
-# 사회 사회문화 완벽 가이드
+## 사회 사회문화 완벽 가이드
 
 사회문화 학습, 어렵게 느껴지시나요?
 

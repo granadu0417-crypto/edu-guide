@@ -20,7 +20,7 @@ author: 에듀코리아 과학교육연구소
 featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
 ---
 
-# 과학 유전 완벽 가이드
+## 과학 유전 완벽 가이드
 
 유전 학습, 어렵게 느껴지시나요?
 

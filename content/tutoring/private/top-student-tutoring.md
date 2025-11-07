@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?college-student&sig=714039
 reading_time: 280줄
 ---
 
-# 최상위권 과외 - 심화 전문 선생님 찾기
+## 최상위권 과외 - 심화 전문 선생님 찾기
 
 학년·대상별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

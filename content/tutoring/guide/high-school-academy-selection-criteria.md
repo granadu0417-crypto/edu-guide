@@ -19,7 +19,7 @@ featured_image: https://source.unsplash.com/1200x630/?college-student&sig=391807
 reading_time: 315줄
 ---
 
-# 고등학생 학원 선택 기준
+## 고등학생 학원 선택 기준
 
 고등학교 3년은 대학 입시를 결정하는 중요한 시기입니다. 내신과 수능을 동시에 준비해야 하는 고등학생에게 맞는 학원은 어떻게 선택해야 할까요?
 

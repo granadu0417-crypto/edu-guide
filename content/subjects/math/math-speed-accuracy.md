@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
 ---
 
-# 수학 과외로 계산 속도와 정확성 완벽 정복
+## 수학 과외로 계산 속도와 정확성 완벽 정복
 
 계산이 느리고 실수가 많으신가요?
 

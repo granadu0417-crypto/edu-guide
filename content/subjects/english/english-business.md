@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop
 ---
 
-# 비즈니스 영어 기초 가이드
+## 비즈니스 영어 기초 가이드
 
 직장에서 영어를 써야 하나요?
 

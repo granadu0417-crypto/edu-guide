@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
-# 수능 영어 독해 시험 전략
+## 수능 영어 독해 시험 전략
 
 수능 영어 독해가 어렵나요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
 ---
 
-# 수학 심화 팁 완벽 가이드
+## 수학 심화 팁 완벽 가이드
 
 기본은 됐는데, 더 높은 수준으로 가고 싶으신가요?
 

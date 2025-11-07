@@ -20,7 +20,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
 ---
 
-# 영어 전치사 완벽 정리
+## 영어 전치사 완벽 정리
 
 전치사가 헷갈리나요?
 

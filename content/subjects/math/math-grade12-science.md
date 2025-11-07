@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
 ---
 
-# 고3 이과 수학 완벽 가이드
+## 고3 이과 수학 완벽 가이드
 
 수능 이과 수학, 최고 난이도 정복하기!
 

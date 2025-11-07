@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?tutoring&sig=9126963005635
 reading_time: 275줄
 ---
 
-# 논술학원 - 대학별 논술 전문 및 1:1 첨삭
+## 논술학원 - 대학별 논술 전문 및 1:1 첨삭
 
 과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.
 

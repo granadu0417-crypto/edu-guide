@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop
 ---
 
-# 영어 문장 삽입 전략
+## 영어 문장 삽입 전략
 
 문장 삽입 문제가 어렵나요?
 

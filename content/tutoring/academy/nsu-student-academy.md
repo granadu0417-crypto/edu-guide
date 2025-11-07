@@ -17,7 +17,7 @@ featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1
 reading_time: 270줄
 ---
 
-# N수생 학원 - 장기 재수 전략 및 1:1 과외
+## N수생 학원 - 장기 재수 전략 및 1:1 과외
 
 학원 선택과 1:1 과외 병행 전략을 안내합니다.
 

@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop
 ---
 
-# 사회 직업윤리 완벽 가이드
+## 사회 직업윤리 완벽 가이드
 
 직업윤리 학습, 어렵게 느껴지시나요?
 

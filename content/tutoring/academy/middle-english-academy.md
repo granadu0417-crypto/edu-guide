@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?computer-learning&sig=7791
 reading_time: 275줄
 ---
 
-# 중등 영어학원 - 내신·영어듣기 전문 및 1:1 과외
+## 중등 영어학원 - 내신·영어듣기 전문 및 1:1 과외
 
 과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.
 

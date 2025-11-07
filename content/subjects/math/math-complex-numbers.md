@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
 ---
 
-# 수학 복소수 완벽 정복 가이드
+## 수학 복소수 완벽 정복 가이드
 
 복소수가 어렵게 느껴지나요?
 

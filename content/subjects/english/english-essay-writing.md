@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop
 ---
 
-# 영어 에세이 작성 완벽 가이드
+## 영어 에세이 작성 완벽 가이드
 
 영어 에세이가 막막하신가요?
 

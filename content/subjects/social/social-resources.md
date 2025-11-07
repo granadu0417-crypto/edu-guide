@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
 ---
 
-# 사회 자원 완벽 가이드
+## 사회 자원 완벽 가이드
 
 자원 학습, 어렵게 느껴지시나요?
 

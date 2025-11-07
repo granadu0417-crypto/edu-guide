@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop
 ---
 
-# 영어 이메일 작성 완벽 가이드
+## 영어 이메일 작성 완벽 가이드
 
 영어 이메일 쓰기가 어려우신가요?
 

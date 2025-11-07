@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
 ---
 
-# 고2 이과 수학 완벽 가이드
+## 고2 이과 수학 완벽 가이드
 
 이과 수학, 어떻게 정복할까요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
 ---
 
-# 영어 시험·자격증 완벽 가이드
+## 영어 시험·자격증 완벽 가이드
 
 어떤 영어 시험을 준비해야 할지 모르겠나요?
 

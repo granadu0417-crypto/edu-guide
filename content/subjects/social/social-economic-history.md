@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
 ---
 
-# 사회 경제사 완벽 가이드
+## 사회 경제사 완벽 가이드
 
 경제사 학습, 어렵게 느껴지시나요?
 

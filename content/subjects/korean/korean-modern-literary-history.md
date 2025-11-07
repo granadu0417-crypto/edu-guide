@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop
 ---
 
-# 국어 현대문학사 완벽 가이드
+## 국어 현대문학사 완벽 가이드
 
 현대문학사 학습이 어렵나요?
 

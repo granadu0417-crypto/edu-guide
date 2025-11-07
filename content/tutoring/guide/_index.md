@@ -10,7 +10,7 @@ keywords:
 featured_image: https://source.unsplash.com/1200x630/?writing&sig=1110170550612956977
 ---
 
-# 학원·과외 선택 가이드
+## 학원·과외 선택 가이드
 
 우리 아이에게 맞는 사교육 형태를 선택하는 방법을 안내합니다.
 

@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
 ---
 
-# 사회 지형 완벽 가이드
+## 사회 지형 완벽 가이드
 
 지형 학습, 어렵게 느껴지시나요?
 

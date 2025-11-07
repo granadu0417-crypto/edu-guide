@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
 ---
 
-# 영어 프레젠테이션 완벽 가이드
+## 영어 프레젠테이션 완벽 가이드
 
 영어 발표가 두렵나요?
 

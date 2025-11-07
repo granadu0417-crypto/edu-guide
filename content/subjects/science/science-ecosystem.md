@@ -20,7 +20,7 @@ author: 에듀코리아 과학교육연구소
 featured_image: https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop
 ---
 
-# 과학 생태계 완벽 가이드
+## 과학 생태계 완벽 가이드
 
 생태계 학습, 어렵게 느껴지시나요?
 

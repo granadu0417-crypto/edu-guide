@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?books&sig=7476415006692121
 reading_time: 280줄
 ---
 
-# 토익 과외 - LC·RC 전문 선생님 찾기
+## 토익 과외 - LC·RC 전문 선생님 찾기
 
 과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

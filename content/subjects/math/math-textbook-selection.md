@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=630&fit=crop
 ---
 
-# 수학 문제집 선택 완벽 가이드
+## 수학 문제집 선택 완벽 가이드
 
 어떤 문제집을 골라야 할까요?
 

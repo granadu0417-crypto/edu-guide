@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?computer-learning&sig=1880
 reading_time: 275줄
 ---
 
-# 사회탐구학원 - 한국사·사탐 완성 및 1:1 과외
+## 사회탐구학원 - 한국사·사탐 완성 및 1:1 과외
 
 과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.
 

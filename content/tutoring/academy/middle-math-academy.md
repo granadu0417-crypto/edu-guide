@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?notebook&sig=6043652156526
 reading_time: 275줄
 ---
 
-# 중등 수학학원 - 내신 1등급 만들기 및 1:1 과외
+## 중등 수학학원 - 내신 1등급 만들기 및 1:1 과외
 
 과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.
 

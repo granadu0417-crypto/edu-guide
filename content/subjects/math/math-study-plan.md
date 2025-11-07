@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop
 ---
 
-# 수학 학습 계획 완벽 가이드
+## 수학 학습 계획 완벽 가이드
 
 수학 공부, 어디서부터 시작해야 할까요?
 

@@ -20,7 +20,7 @@ author: 에듀코리아 과학교육연구소
 featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
 ---
 
-# 과학 상대성이론 완벽 가이드
+## 과학 상대성이론 완벽 가이드
 
 상대성이론 학습, 어렵게 느껴지시나요?
 

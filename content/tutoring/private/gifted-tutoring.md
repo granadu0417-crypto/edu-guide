@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?teacher&sig=79383076756496
 reading_time: 280줄
 ---
 
-# 영재교육 과외 - 창의력·사고력 선생님 찾기
+## 영재교육 과외 - 창의력·사고력 선생님 찾기
 
 과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

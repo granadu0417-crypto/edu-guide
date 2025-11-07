@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
-# 분사구문 완벽 이해
+## 분사구문 완벽 이해
 
 분사구문이 어렵나요?
 

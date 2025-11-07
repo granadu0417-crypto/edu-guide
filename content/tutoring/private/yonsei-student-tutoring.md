@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?books&sig=5833748035043582
 reading_time: 280줄
 ---
 
-# 연세대 과외 - 문이과 균형 선생님 찾기
+## 연세대 과외 - 문이과 균형 선생님 찾기
 
 선생님 유형별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

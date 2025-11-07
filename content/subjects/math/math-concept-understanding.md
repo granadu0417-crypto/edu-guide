@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=1200&h=630&fit=crop
 ---
 
-# 수학 개념 이해 완벽 가이드
+## 수학 개념 이해 완벽 가이드
 
 수학 개념, 어떻게 이해해야 할까요?
 

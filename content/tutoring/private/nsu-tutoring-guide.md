@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?school-supplies&sig=401557
 reading_time: 280줄
 ---
 
-# N수생 과외 가이드 - 장기 전략 선생님 찾기
+## N수생 과외 가이드 - 장기 전략 선생님 찾기
 
 학년·대상별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

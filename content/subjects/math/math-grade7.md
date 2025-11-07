@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
 ---
 
-# 중1 수학 완벽 가이드
+## 중1 수학 완벽 가이드
 
 중학교 첫 수학이 걱정되나요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
 ---
 
-# 영어 발음 규칙 완벽 정리
+## 영어 발음 규칙 완벽 정리
 
 영어 발음이 어렵나요?
 

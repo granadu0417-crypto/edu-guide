@@ -20,7 +20,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
 ---
 
-# 영어 말하기 자신감 키우기
+## 영어 말하기 자신감 키우기
 
 영어 말하기에 자신감이 없으신가요?
 

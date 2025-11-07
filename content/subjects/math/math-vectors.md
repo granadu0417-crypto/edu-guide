@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
 ---
 
-# 수학 벡터 완벽 정복 가이드
+## 수학 벡터 완벽 정복 가이드
 
 벡터가 어렵게 느껴지나요?
 

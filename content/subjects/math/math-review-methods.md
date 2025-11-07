@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 ---
 
-# 수학 복습 방법 완벽 가이드
+## 수학 복습 방법 완벽 가이드
 
 공부한 내용, 어떻게 기억할까요?
 

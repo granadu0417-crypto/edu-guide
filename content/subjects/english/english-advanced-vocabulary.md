@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
 ---
 
-# 영어 고급 어휘 완벽 가이드
+## 영어 고급 어휘 완벽 가이드
 
 1등급을 위한 고급 어휘를 익히고 싶나요?
 

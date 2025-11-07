@@ -18,7 +18,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
 ---
 
-# 세계사 연표 완벽 정복
+## 세계사 연표 완벽 정복
 
 세계사 연표 암기가 어렵나요?
 

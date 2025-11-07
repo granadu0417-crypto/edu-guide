@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=1200&h=630&fit=crop
 ---
 
-# 과학 공식 과외로 완벽 암기하기
+## 과학 공식 과외로 완벽 암기하기
 
 과학 공식 암기가 어렵나요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
 ---
 
-# 중2 수학 완벽 가이드
+## 중2 수학 완벽 가이드
 
 중2 수학이 갑자기 어려워졌나요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
 ---
 
-# 영어 어근으로 단어 정복하기
+## 영어 어근으로 단어 정복하기
 
 영어 단어를 하나하나 외우기 힘드신가요?
 

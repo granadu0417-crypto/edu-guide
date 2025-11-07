@@ -20,7 +20,7 @@ author: 에듀코리아 사회교육연구소
 featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
 ---
 
-# 사회 절대왕정 완벽 가이드
+## 사회 절대왕정 완벽 가이드
 
 절대왕정 학습, 어렵게 느껴지시나요?
 

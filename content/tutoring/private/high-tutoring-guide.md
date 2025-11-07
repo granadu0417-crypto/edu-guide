@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?computer-learning&sig=2019
 reading_time: 280줄
 ---
 
-# 고등 과외 완벽 가이드 - 입시 선생님 찾기
+## 고등 과외 완벽 가이드 - 입시 선생님 찾기
 
 학년·대상별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.
 

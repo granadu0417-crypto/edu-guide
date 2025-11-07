@@ -17,7 +17,7 @@ featured_image: https://source.unsplash.com/1200x630/?science-class&sig=48813096
 reading_time: 280줄
 ---
 
-# 수능 수학 과외 - 모의고사 고득점 선생님
+## 수능 수학 과외 - 모의고사 고득점 선생님
 
 과목별 1:1 과외 선생님 찾기와 효과적 활용법을 안내합니다.
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
 ---
 
-# 고1 수학 완벽 가이드
+## 고1 수학 완벽 가이드
 
 고등학교 수학, 첫 시작이 중요합니다!
 

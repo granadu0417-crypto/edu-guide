@@ -20,7 +20,7 @@ author: 에듀코리아 과학교육연구소
 featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
 ---
 
-# 과학 용액 완벽 가이드
+## 과학 용액 완벽 가이드
 
 용액 학습, 어렵게 느껴지시나요?
 

@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
 ---
 
-# 수학 문장제 풀이 완벽 가이드
+## 수학 문장제 풀이 완벽 가이드
 
 "문장제만 나오면 막막해요..."
 

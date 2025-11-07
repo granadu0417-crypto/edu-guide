@@ -19,7 +19,7 @@ tags:
 featured_image: https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?w=1200&h=630&fit=crop
 ---
 
-# 공간도형과 좌표 완벽 가이드
+## 공간도형과 좌표 완벽 가이드
 
 공간을 수학적으로 이해하고 싶으신가요?
 

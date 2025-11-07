@@ -20,7 +20,7 @@ author: 에듀코리아 국어교육연구소
 featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
 ---
 
-# 국어 순서 배열 완벽 가이드
+## 국어 순서 배열 완벽 가이드
 
 순서 배열 학습, 제대로 하고 계신가요?
 
