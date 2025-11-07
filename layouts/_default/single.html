@@ -69,7 +69,7 @@
         <!-- Featured Image -->
         {{ with .Params.featured_image }}
         <div class="featured-image">
-            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" width="1200" height="630" decoding="async">
         </div>
         {{ end }}
 
