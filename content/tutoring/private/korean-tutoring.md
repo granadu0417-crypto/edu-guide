@@ -12,7 +12,8 @@ tags:
 - 생물
 - 학습환경
 - 노원
-description: 과목별 1:1 과외 선생님 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 입증된 시스템으로 목표에 도달하세요.
+description: 국어 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
+
 featured_image: https://source.unsplash.com/1200x630/?students-studying&sig=2030112081284853338
 reading_time: 280줄
 ---

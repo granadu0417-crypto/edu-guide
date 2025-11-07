@@ -12,7 +12,8 @@ tags:
 - 학원
 - 생물
 - 그룹학습
-description: 과목별 전문 학원 추천. 선택 기준, 학년별 전략, 1:1 과외 병행을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 단계별 실천 전략으로 목표를 달성하세요.
+description: 사회탐구 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 전문 강사진과 함께하는 체계적인 학습으로 실력을 키우세요.
+
 featured_image: https://source.unsplash.com/1200x630/?computer-learning&sig=1880860163467218416
 reading_time: 275줄
 ---

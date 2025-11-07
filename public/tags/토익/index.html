@@ -910,3 +910,265 @@
     </script>
 </body>
 </html>
+('event', 'click', {
+           'event_category': 'Conversion',
+           'event_label': 'Floating KakaoTalk Button',
+           'value': 1
+       });">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M14 4C8.477 4 4 7.589 4 12c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S19.523 4 14 4z" fill="currentColor"/>
+        </svg>
+        <span class="floating-text">카카오톡 상담</span>
+    </a>
+    
+    
+    <a href="https://naver.me/FGENm9ex"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="floating-btn floating-trial"
+       onclick="gtag('event', 'click', {
+           'event_category': 'Conversion',
+           'event_label': 'Floating Trial Button',
+           'value': 1
+       });">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor"/>
+        </svg>
+        <span class="floating-text">무료체험 신청</span>
+    </a>
+</div>
+
+<style>
+ 
+.floating-dual-buttons {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+ 
+.floating-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 22px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 15px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    white-space: nowrap;
+    animation: floatPulse 3s ease-in-out infinite;
+}
+
+ 
+.floating-kakao {
+    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+    color: #3C1E1E;
+}
+
+.floating-kakao:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(254, 229, 0, 0.5);
+    background: linear-gradient(135deg, #FFD700 0%, #FEE500 100%);
+}
+
+ 
+.floating-trial {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.floating-trial:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(102, 126, 234, 0.5);
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+.floating-btn:active {
+    transform: translateY(-2px);
+}
+
+.floating-btn svg {
+    flex-shrink: 0;
+}
+
+.floating-text {
+    font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+ 
+@keyframes floatPulse {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-6px);
+    }
+}
+
+.floating-trial {
+    animation-delay: 0.5s;
+}
+
+ 
+@media (max-width: 768px) {
+    .floating-dual-buttons {
+        bottom: 20px;
+        right: 20px;
+        gap: 10px;
+    }
+
+    .floating-btn {
+        padding: 12px 18px;
+        font-size: 14px;
+        gap: 8px;
+    }
+
+    .floating-btn svg {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+ 
+@media (max-width: 480px) {
+    .floating-dual-buttons {
+        bottom: 16px;
+        right: 16px;
+        gap: 8px;
+    }
+
+     
+    .floating-text {
+        display: none;
+    }
+
+    .floating-btn {
+        width: 52px;
+        height: 52px;
+        padding: 0;
+        justify-content: center;
+        border-radius: 50%;
+    }
+
+    .floating-btn svg {
+        width: 24px;
+        height: 24px;
+    }
+}
+
+ 
+@media (prefers-color-scheme: dark) {
+    .floating-kakao {
+        background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+        color: #3C1E1E;
+    }
+    
+    .floating-trial {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+    }
+}
+
+ 
+.floating-btn:focus {
+    outline: 3px solid #667eea;
+    outline-offset: 4px;
+}
+
+ 
+@media print {
+    .floating-dual-buttons {
+        display: none !important;
+    }
+}
+
+ 
+.floating-dual-buttons.scrolled {
+    opacity: 0.95;
+}
+
+ 
+@media (max-width: 375px) {
+    .floating-dual-buttons {
+        bottom: 12px;
+        right: 12px;
+        gap: 6px;
+    }
+    
+    .floating-btn {
+        width: 48px;
+        height: 48px;
+    }
+    
+    .floating-btn svg {
+        width: 22px;
+        height: 22px;
+    }
+}
+</style>
+
+<script>
+
+(function() {
+    let lastScroll = 0;
+    const floatingBtns = document.getElementById('floatingButtons');
+
+    window.addEventListener('scroll', function() {
+        const currentScroll = window.pageYOffset;
+
+        
+        if (currentScroll > 100) {
+            floatingBtns.classList.add('scrolled');
+        } else {
+            floatingBtns.classList.remove('scrolled');
+        }
+
+        lastScroll = currentScroll;
+    });
+})();
+</script>
+
+
+    
+    <div id="bookmarkPopup" class="bookmark-popup" style="display: none;">
+        <h4>⭐ 북마크 추가</h4>
+        <p>자주 사용하시나요? 북마크에 추가하고 빠르게 접속하세요!</p>
+        <div class="bookmark-popup-buttons">
+            <button class="btn-bookmark-yes" onclick="closeBookmarkPopup(true)">추가하기</button>
+            <button class="btn-bookmark-no" onclick="closeBookmarkPopup(false)">나중에</button>
+        </div>
+    </div>
+
+    
+    <script src="/js/viral.js"></script>
+
+    
+    <script>
+    (function() {
+      const startTime = Date.now();
+
+      window.addEventListener('beforeunload', function() {
+        const duration = Math.floor((Date.now() - startTime) / 1000);
+
+        const data = {
+          referrer: document.referrer || 'direct',
+          page_url: window.location.href,
+          session_duration: duration
+        };
+
+        navigator.sendBeacon(
+          'https://analytics-tracker.granadu0417.workers.dev/track',
+          JSON.stringify(data)
+        );
+      });
+    })();
+    </script>
+</body>
+</html>

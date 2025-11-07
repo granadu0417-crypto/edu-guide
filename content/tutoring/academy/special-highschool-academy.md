@@ -12,7 +12,8 @@ tags:
 - 학원
 - 생물
 - 그룹학습
-description: 전문 과정 학원. 단기 목표, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 체계적인 학습법으로 성적을 향상시키세요.
+description: 특목고 입시 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 검증된 학원 정보와 1:1 과외 병행 전략을 안내합니다.
+
 featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 reading_time: 270줄
 ---

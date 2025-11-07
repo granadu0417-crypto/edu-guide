@@ -12,7 +12,8 @@ tags:
 - 그룹학습
 - 학습환경
 - 노원
-description: 전문 과정 학원. 단기 목표, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 체계적인 학습법으로 성적을 향상시키세요.
+description: 일본어 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 우수 학원 추천과 효과적인 학습 전략을 제시합니다.
+
 featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 reading_time: 270줄
 ---

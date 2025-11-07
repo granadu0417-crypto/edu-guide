@@ -12,7 +12,8 @@ tags:
 - 생물
 - 학습환경
 - 노원
-description: 학년·대상별 1:1 과외 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 실전 중심 방법으로 성과를 만드세요.
+description: 고등 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 개인별 학습 진단과 맞춤형 지도로 빠른 성과를 만들어보세요.
+
 featured_image: https://source.unsplash.com/1200x630/?computer-learning&sig=201922874716692136
 reading_time: 280줄
 ---
