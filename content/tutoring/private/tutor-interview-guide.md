@@ -16,7 +16,7 @@ tags:
 - 1대1과외
 - 과외추천
 - 과외
-featured_image: https://source.unsplash.com/1200x630/?whiteboard&sig=7575110206892288565
+featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
 ---
 
 과외 선생님 선택은 신중해야 합니다. 1:1로 긴 시간 함께하는 만큼, 실력은 물론 성향까지 맞아야 하니까요. 면접부터 계약까지, 실패 없는 과외 선생님 선택법을 알려드립니다.

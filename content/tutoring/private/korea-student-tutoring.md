@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 고려대 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 검증된 선생님과 함께하는 1:1 맞춤 학습으로 실력을 향상시키세요.
 
-featured_image: https://source.unsplash.com/1200x630/?study-group&sig=6121818949416516689
+featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

@@ -15,7 +15,7 @@ tags:
 description: 마포 국제학교 대비 학원. IB·AP 과정, 영어 에세이, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1
   맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한
   선택을 도와드립니다.
-featured_image: https://source.unsplash.com/1200x630/?education&sig=7878026313992232106
+featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
 reading_time: 290줄
 ---
 

@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 사고력 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 검증된 선생님과 함께하는 1:1 맞춤 학습으로 실력을 향상시키세요.
 
-featured_image: https://source.unsplash.com/1200x630/?university&sig=3596949357196517591
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

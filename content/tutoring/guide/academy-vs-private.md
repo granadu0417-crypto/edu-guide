@@ -16,7 +16,7 @@ tags:
 - 그룹학습
 - 학습환경
 - 노원
-featured_image: https://source.unsplash.com/1200x630/?education&sig=9031938641538002612
+featured_image: https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop
 ---
 
 ## 학원 vs 과외, 어떤 게 우리 아이에게 맞을까?

@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 선생님 유형별 1:1 과외 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 입증된 시스템으로 목표에 도달하세요.
-featured_image: https://source.unsplash.com/1200x630/?computer-learning&sig=2070206084037434979
+featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

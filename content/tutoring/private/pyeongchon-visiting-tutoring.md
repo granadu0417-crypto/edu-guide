@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 지역별 방문 과외 선생님 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 전문가의 노하우로 자신감을 키우세요.
-featured_image: https://source.unsplash.com/1200x630/?exam&sig=480158611483344411
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

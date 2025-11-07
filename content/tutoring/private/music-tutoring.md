@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 음악 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: https://source.unsplash.com/1200x630/?study-group&sig=6976415253260458754
+featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

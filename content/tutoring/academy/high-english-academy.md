@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 고등 영어 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 우수 학원 추천과 효과적인 학습 전략을 제시합니다.
 
-featured_image: https://source.unsplash.com/1200x630/?notebook&sig=6329110012695422006
+featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
 reading_time: 275줄
 ---
 

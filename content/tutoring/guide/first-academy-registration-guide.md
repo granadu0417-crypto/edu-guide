@@ -15,7 +15,7 @@ tags:
 description: 첫 학원 등록의 모든 것. 학원 선택 기준, 레벨 테스트 준비, 적응 전략, 학원과 1:1 과외 병행 팁을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: https://source.unsplash.com/1200x630/?studying-at-home&sig=6644391204721718014
+featured_image: https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop
 reading_time: 308줄
 ---
 

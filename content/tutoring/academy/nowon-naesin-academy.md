@@ -15,7 +15,7 @@ tags:
 description: 노원 내신학원 추천. 중고등 내신 전문 학원, 학교별 맞춤 수업, 1:1 과외 병행 전략을 안내합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 입시 전문가의 노하우로 합격 전략을 설계합니다. 수능 대비 완벽 가이드를 제공합니다. 입시
   전문가의 노하우로 합격 전략을 설계합니다.
-featured_image: https://source.unsplash.com/1200x630/?whiteboard&sig=4379696328781182359
+featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 reading_time: 295줄
 ---
 

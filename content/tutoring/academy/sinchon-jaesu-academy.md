@@ -15,7 +15,7 @@ tags:
 description: 신촌 재수·N수 학원 추천. 독재·반독재·기숙 학원, 1:1 멘토링, 재수 성공 전략을 안내합니다 과외 선택부터 효과적인 활용까지,
   1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
   현명한 선택을 도와드립니다.
-featured_image: https://source.unsplash.com/1200x630/?study-group&sig=446011919082016711
+featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
 reading_time: 295줄
 ---
 

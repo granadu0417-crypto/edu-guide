@@ -13,7 +13,7 @@ tags:
 - 노원
 - 의대생과외
 description: 학년·대상별 1:1 과외 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 맞춤형 솔루션으로 빠른 향상을 경험하세요.
-featured_image: https://source.unsplash.com/1200x630/?tutoring&sig=4289226292825182971
+featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

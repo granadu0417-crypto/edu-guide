@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 미술 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 개인별 학습 진단과 맞춤형 지도로 빠른 성과를 만들어보세요.
 
-featured_image: https://source.unsplash.com/1200x630/?whiteboard&sig=3124722906655197496
+featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 

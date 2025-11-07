@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 초등 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: https://source.unsplash.com/1200x630/?school-supplies&sig=5074753178854294901
+featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 reading_time: 280줄
 ---
 
