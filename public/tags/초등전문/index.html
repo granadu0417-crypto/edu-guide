@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">산본 초등학원 추천. 금정·군포 지역, 학년별 선택, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 학부모님과 함께하는 효과적인 교육 방법을 안내합니다. 지금 바로 시작하세요. 학부모님과 함께하는 효과적인 교육  …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 15일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#산본학원</span>
+                <a href="/tags/%EC%82%B0%EB%B3%B8%ED%95%99%EC%9B%90" class="post-tag">#산본학원</a>
                 
-                <span class="post-tag">#금정학원</span>
+                <a href="/tags/%EA%B8%88%EC%A0%95%ED%95%99%EC%9B%90" class="post-tag">#금정학원</a>
                 
-                <span class="post-tag">#군포학원</span>
+                <a href="/tags/%EA%B5%B0%ED%8F%AC%ED%95%99%EC%9B%90" class="post-tag">#군포학원</a>
+                
+                <a href="/tags/%EC%B4%88%EB%93%B1%ED%95%99%EC%9B%90" class="post-tag">#초등학원</a>
+                
+                <a href="/tags/1%EB%8C%801%EA%B3%BC%EC%99%B8" class="post-tag">#1대1과외</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 15</span>
+                <span class="post-reading-time">⏱️ 1분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -337,21 +348,26 @@
 
             <p class="post-card-excerpt">양천 초등학원 추천. 목동권 초등 전문 학원, 학년별 선택, 과목별 학원, 1:1 초등 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 학부모님과 함께하는 효과적인 교육 방법을 안내합니다. 지금 바로 시작하세요. 학부모님 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 15일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#양천학원</span>
+                <a href="/tags/%EC%96%91%EC%B2%9C%ED%95%99%EC%9B%90" class="post-tag">#양천학원</a>
                 
-                <span class="post-tag">#초등학원</span>
+                <a href="/tags/%EC%B4%88%EB%93%B1%ED%95%99%EC%9B%90" class="post-tag">#초등학원</a>
                 
-                <span class="post-tag">#목동초등</span>
+                <a href="/tags/%EB%AA%A9%EB%8F%99%EC%B4%88%EB%93%B1" class="post-tag">#목동초등</a>
+                
+                <a href="/tags/%EC%B4%88%EB%93%B1%EC%A0%84%EB%AC%B8" class="post-tag">#초등전문</a>
+                
+                <a href="/tags/1%EB%8C%801%EA%B3%BC%EC%99%B8" class="post-tag">#1대1과외</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 15</span>
+                <span class="post-reading-time">⏱️ 8분</span>
+            </div>
         </div>
     </article>
     
@@ -474,6 +490,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -482,24 +528,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

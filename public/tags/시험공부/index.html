@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -299,24 +302,32 @@
 
             <p class="post-card-excerpt">시험 2주 전, 무엇부터 시작해야 할지 막막하신가요? 과목별 핵심 개념 정리부터 실전 문제 풀이까지 체계적인 마무리 전략을 체계적인 학습법으로 성적을 향상시키세요.</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 28일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#성적관리</span>
+                <a href="/tags/%EC%84%B1%EC%A0%81%EA%B4%80%EB%A6%AC" class="post-tag">#성적관리</a>
                 
-                <span class="post-tag">#시험공부</span>
+                <a href="/tags/%EC%8B%9C%ED%97%98%EA%B3%B5%EB%B6%80" class="post-tag">#시험공부</a>
                 
-                <span class="post-tag">#시험대비</span>
+                <a href="/tags/%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84" class="post-tag">#시험대비</a>
+                
+                <a href="/tags/%EC%8B%9C%ED%97%98%EC%A0%84%EB%9E%B5" class="post-tag">#시험전략</a>
+                
+                <a href="/tags/%ED%95%99%EC%8A%B5%EC%A0%84%EB%9E%B5" class="post-tag">#학습전략</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 28</span>
+                <span class="post-reading-time">⏱️ 5분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.pexels.com/photos/7088534/pexels-photo-7088534.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940')"></div>
@@ -337,21 +348,26 @@
 
             <p class="post-card-excerpt">시험 대비 완벽 가이드로 자신감을 키우세요. 검증된 학습 방법과 실전 노하우로 최고의 성적을 얻을 수 있습니다 시험 준비부터 실전 응시까지, 체계적인 시험 전략으로 목표 달성을 돕겠습니다. 단계별로 자세하게 안내드립니다 시험 준비부터 실전 응시까지, 체계적인 시험 전략 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 26일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#시험공부</span>
+                <a href="/tags/%EC%8B%9C%ED%97%98%EA%B3%B5%EB%B6%80" class="post-tag">#시험공부</a>
                 
-                <span class="post-tag">#시험대비</span>
+                <a href="/tags/%EC%8B%9C%ED%97%98%EB%8C%80%EB%B9%84" class="post-tag">#시험대비</a>
                 
-                <span class="post-tag">#중간고사</span>
+                <a href="/tags/%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC" class="post-tag">#중간고사</a>
+                
+                <a href="/tags/%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC" class="post-tag">#기말고사</a>
+                
+                <a href="/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84" class="post-tag">#내신대비</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 26</span>
+                <span class="post-reading-time">⏱️ 22분</span>
+            </div>
         </div>
     </article>
     
@@ -474,6 +490,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -482,24 +528,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

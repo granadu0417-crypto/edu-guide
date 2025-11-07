@@ -172,60 +172,69 @@
         </button>
         <div class="category-slider">
             <div class="category-track">
+                {{ $elementaryCount := len (where .Site.RegularPages "Type" "elementary") }}
+                {{ $middleCount := len (where .Site.RegularPages "Type" "middle") }}
+                {{ $highCount := len (where .Site.RegularPages "Type" "high") }}
+                {{ $koreanCount := len (where .Site.RegularPages "Section" "subjects/korean") }}
+                {{ $englishCount := len (where .Site.RegularPages "Section" "subjects/english") }}
+                {{ $mathCount := len (where .Site.RegularPages "Section" "subjects/math") }}
+                {{ $scienceCount := len (where .Site.RegularPages "Section" "subjects/science") }}
+                {{ $socialCount := len (where .Site.RegularPages "Section" "subjects/social") }}
+
                 <a href="/elementary/" class="category-card">
                     <div class="category-image" style="background-image: url('/images/infographic-english.webp')"></div>
                     <div class="category-content">
                         <h3>🎒 초등학생</h3>
-                        <p>초등 학습 정보</p>
+                        <p>초등 학습 정보 <span class="post-count">({{ $elementaryCount }})</span></p>
                     </div>
                 </a>
                 <a href="/middle/" class="category-card">
                     <div class="category-image" style="background-image: url('/images/infographic-korean.webp')"></div>
                     <div class="category-content">
                         <h3>📝 중학생</h3>
-                        <p>중학 내신·학습</p>
+                        <p>중학 내신·학습 <span class="post-count">({{ $middleCount }})</span></p>
                     </div>
                 </a>
                 <a href="/high/" class="category-card">
                     <div class="category-image" style="background-image: url('/images/infographic-study-comparison.webp')"></div>
                     <div class="category-content">
                         <h3>🎓 고등학생</h3>
-                        <p>고등 수능·입시</p>
+                        <p>고등 수능·입시 <span class="post-count">({{ $highCount }})</span></p>
                     </div>
                 </a>
                 <a href="/subjects/korean/" class="category-card">
                     <div class="category-image" style="background-image: url('/images/infographic-korean.webp')"></div>
                     <div class="category-content">
                         <h3>📚 국어</h3>
-                        <p>국어 공부법</p>
+                        <p>국어 공부법 <span class="post-count">({{ $koreanCount }})</span></p>
                     </div>
                 </a>
                 <a href="/subjects/english/" class="category-card">
                     <div class="category-image" style="background-image: url('/images/infographic-english.webp')"></div>
                     <div class="category-content">
                         <h3>🔤 영어</h3>
-                        <p>영어 공부법</p>
+                        <p>영어 공부법 <span class="post-count">({{ $englishCount }})</span></p>
                     </div>
                 </a>
                 <a href="/subjects/math/" class="category-card">
                     <div class="category-image" style="background-image: url('/images/infographic-study-comparison.webp')"></div>
                     <div class="category-content">
                         <h3>🔢 수학</h3>
-                        <p>수학 공부법</p>
+                        <p>수학 공부법 <span class="post-count">({{ $mathCount }})</span></p>
                     </div>
                 </a>
                 <a href="/subjects/science/" class="category-card">
                     <div class="category-image" style="background-image: url('/images/infographic-curriculum.webp')"></div>
                     <div class="category-content">
                         <h3>🔬 과학</h3>
-                        <p>과학 공부법</p>
+                        <p>과학 공부법 <span class="post-count">({{ $scienceCount }})</span></p>
                     </div>
                 </a>
                 <a href="/subjects/social/" class="category-card">
                     <div class="category-image" style="background-image: url('/images/infographic-korean.webp')"></div>
                     <div class="category-content">
                         <h3>🌍 사회</h3>
-                        <p>사회 공부법</p>
+                        <p>사회 공부법 <span class="post-count">({{ $socialCount }})</span></p>
                     </div>
                 </a>
             </div>
@@ -421,6 +430,12 @@
     font-size: var(--font-sm);
     color: var(--text-secondary);
     margin: 0;
+}
+
+.post-count {
+    font-weight: 700;
+    color: var(--primary-color);
+    font-size: var(--font-base);
 }
 
 /* 슬라이더 버튼 */

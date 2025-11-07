@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -284,21 +287,26 @@
 
             <p class="post-card-excerpt">과목별 전문 학원 추천. 선택 기준, 학년별 전략, 1:1 과외 병행을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 체계적인 시스템으로 완벽하게 준비하세요.</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 15일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#고등수학,수능수학,내신수학</span>
+                <a href="/tags/%EA%B3%A0%EB%93%B1%EC%88%98%ED%95%99%EC%88%98%EB%8A%A5%EC%88%98%ED%95%99%EB%82%B4%EC%8B%A0%EC%88%98%ED%95%99" class="post-tag">#고등수학,수능수학,내신수학</a>
                 
-                <span class="post-tag">#1대1과외</span>
+                <a href="/tags/1%EB%8C%801%EA%B3%BC%EC%99%B8" class="post-tag">#1대1과외</a>
                 
-                <span class="post-tag">#과목별학원</span>
+                <a href="/tags/%EA%B3%BC%EB%AA%A9%EB%B3%84%ED%95%99%EC%9B%90" class="post-tag">#과목별학원</a>
+                
+                <a href="/tags/%EC%88%98%ED%95%99" class="post-tag">#수학</a>
+                
+                <a href="/tags/%EC%88%98%ED%95%99%ED%95%99%EC%9B%90" class="post-tag">#수학학원</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 15</span>
+                <span class="post-reading-time">⏱️ 1분</span>
+            </div>
         </div>
     </article>
     
@@ -421,6 +429,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -429,24 +467,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

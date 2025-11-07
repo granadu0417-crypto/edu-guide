@@ -1,6 +1,10 @@
 {{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
+<!-- 읽기 시간 계산 -->
+{{ $readingTime := div (countwords .Content) 200 }}
+{{ if lt $readingTime 1 }}{{ $readingTime = 1 }}{{ end }}
+
 <!-- Schema.org 구조화된 데이터 (Article) -->
 <script type="application/ld+json">
 {
@@ -12,6 +16,8 @@
   {{ with .Params.featured_image }}"image": "{{ . }}",{{ end }}
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "timeRequired": "PT{{ $readingTime }}M",
+  "wordCount": {{ countwords .Content }},
   "author": {
     "@type": "Organization",
     "name": "{{ .Site.Params.author }}",
@@ -51,6 +57,7 @@
         <div class="article-info">
             <span class="author">✍️ {{ .Site.Params.author }}</span>
             <span class="date">📅 {{ .Date.Format "2006년 01월 02일" }}</span>
+            <span class="reading-time">⏱️ {{ $readingTime }}분</span>
         </div>
 
         <!-- Featured Image -->

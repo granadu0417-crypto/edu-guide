@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.pexels.com/photos/34568963/pexels-photo-34568963.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">우리 동네 교육 환경 분석 가이드입니다. 지역 특성에 맞는 학습 전략과 교육 인프라 활용으로 최고의 학습 효과를 만드세요 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 단계별로 자세하게 안내드립니다 지역별 교육 환경과 학원 정보를 바탕으로  …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 17일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#경기도</span>
+                <a href="/tags/%EA%B2%BD%EA%B8%B0%EB%8F%84" class="post-tag">#경기도</a>
                 
-                <span class="post-tag">#분당</span>
+                <a href="/tags/%EB%B6%84%EB%8B%B9" class="post-tag">#분당</a>
                 
-                <span class="post-tag">#평촌</span>
+                <a href="/tags/%ED%8F%89%EC%B4%8C" class="post-tag">#평촌</a>
+                
+                <a href="/tags/%EC%9D%BC%EC%82%B0" class="post-tag">#일산</a>
+                
+                <a href="/tags/%EB%8F%99%ED%83%84" class="post-tag">#동탄</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 17</span>
+                <span class="post-reading-time">⏱️ 21분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.pexels.com/photos/8763203/pexels-photo-8763203.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940')"></div>
@@ -335,21 +346,26 @@
 
             <p class="post-card-excerpt">경기도 31개 시군별 교육 환경과 학원 정보를 한눈에 확인하세요. 분당, 일산, 평촌, 수지 등 지역별 특성에 맞는 최적의 학습 환경을 찾아드립니다. 수도권 최대 교육 인프라를 활용한 학습 전략을 제시합니다 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을  …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 17일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#가이드</span>
+                <a href="/tags/%EA%B0%80%EC%9D%B4%EB%93%9C" class="post-tag">#가이드</a>
                 
-                <span class="post-tag">#교육정보</span>
+                <a href="/tags/%EA%B5%90%EC%9C%A1%EC%A0%95%EB%B3%B4" class="post-tag">#교육정보</a>
                 
-                <span class="post-tag">#지역</span>
+                <a href="/tags/%EC%A7%80%EC%97%AD" class="post-tag">#지역</a>
+                
+                <a href="/tags/%EA%B2%BD%EA%B8%B0%EB%8F%84" class="post-tag">#경기도</a>
+                
+                <a href="/tags/%ED%95%99%EC%9B%90" class="post-tag">#학원</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 17</span>
+                <span class="post-reading-time">⏱️ 8분</span>
+            </div>
         </div>
     </article>
     
@@ -472,6 +488,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -480,24 +526,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

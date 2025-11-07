@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -284,21 +287,26 @@
 
             <p class="post-card-excerpt">수학 학습 앱 완벽 활용법 | 추천 앱, 기능별 활용, 효과적 사용, 1:1 맞춤 앱 가이드 [2025년] 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 29일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#수학</span>
+                <a href="/tags/%EC%88%98%ED%95%99" class="post-tag">#수학</a>
                 
-                <span class="post-tag">#앱</span>
+                <a href="/tags/%EC%95%B1" class="post-tag">#앱</a>
                 
-                <span class="post-tag">#학습앱</span>
+                <a href="/tags/%ED%95%99%EC%8A%B5%EC%95%B1" class="post-tag">#학습앱</a>
+                
+                <a href="/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC" class="post-tag">#모바일</a>
+                
+                <a href="/tags/%EB%94%94%EC%A7%80%ED%84%B8%ED%95%99%EC%8A%B5" class="post-tag">#디지털학습</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 29</span>
+                <span class="post-reading-time">⏱️ 6분</span>
+            </div>
         </div>
     </article>
     
@@ -421,6 +429,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -429,24 +467,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

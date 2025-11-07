@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -284,21 +287,26 @@
 
             <p class="post-card-excerpt">주요 작가 생애와 문학세계를 체계적으로 학습하는 방법. 1:1 과외로 작가론을 깊이 있게 이해하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 31일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#국어</span>
+                <a href="/tags/%EA%B5%AD%EC%96%B4" class="post-tag">#국어</a>
                 
-                <span class="post-tag">#작가론</span>
+                <a href="/tags/%EC%9E%91%EA%B0%80%EB%A1%A0" class="post-tag">#작가론</a>
                 
-                <span class="post-tag">#문학</span>
+                <a href="/tags/%EB%AC%B8%ED%95%99" class="post-tag">#문학</a>
+                
+                <a href="/tags/11%EA%B3%BC%EC%99%B8" class="post-tag">#1:1과외</a>
+                
+                <a href="/tags/%EC%9E%91%EA%B0%80%EC%97%B0%EA%B5%AC-%EC%9E%91%ED%92%88%EC%84%B8%EA%B3%84-%EB%AC%B8%ED%95%99%EA%B4%80" class="post-tag">#작가연구, 작품세계, 문학관</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 31</span>
+                <span class="post-reading-time">⏱️ 13분</span>
+            </div>
         </div>
     </article>
     
@@ -421,6 +429,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -429,24 +467,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

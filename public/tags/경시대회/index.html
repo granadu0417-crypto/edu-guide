@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">국내외 주요 수학 대회를 총정리했습니다. 대회 정보부터 준비 전략까지, 1:1 과외 전문가가 알려드리는 수학 대회 완벽 가이드입니다 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤  …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 15일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#수학대회</span>
+                <a href="/tags/%EC%88%98%ED%95%99%EB%8C%80%ED%9A%8C" class="post-tag">#수학대회</a>
                 
-                <span class="post-tag">#경시대회</span>
+                <a href="/tags/%EA%B2%BD%EC%8B%9C%EB%8C%80%ED%9A%8C" class="post-tag">#경시대회</a>
                 
-                <span class="post-tag">#올림피아드</span>
+                <a href="/tags/%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C" class="post-tag">#올림피아드</a>
+                
+                <a href="/tags/11%EA%B3%BC%EC%99%B8" class="post-tag">#1:1과외</a>
+                
+                <a href="/tags/%EC%88%98%EC%83%81%EC%A0%84%EB%9E%B5" class="post-tag">#수상전략</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 15</span>
+                <span class="post-reading-time">⏱️ 12분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -337,21 +348,26 @@
 
             <p class="post-card-excerpt">수학 올림피아드 및 경시대회를 효과적으로 준비하는 방법을 소개합니다. 대회 정보부터 학습 전략까지, 1:1 과외 전문가가 알려드립니다 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 15일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#올림피아드</span>
+                <a href="/tags/%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C" class="post-tag">#올림피아드</a>
                 
-                <span class="post-tag">#경시대회</span>
+                <a href="/tags/%EA%B2%BD%EC%8B%9C%EB%8C%80%ED%9A%8C" class="post-tag">#경시대회</a>
                 
-                <span class="post-tag">#수학대회</span>
+                <a href="/tags/%EC%88%98%ED%95%99%EB%8C%80%ED%9A%8C" class="post-tag">#수학대회</a>
+                
+                <a href="/tags/11%EA%B3%BC%EC%99%B8" class="post-tag">#1:1과외</a>
+                
+                <a href="/tags/%EC%98%81%EC%9E%AC%EA%B5%90%EC%9C%A1" class="post-tag">#영재교육</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 15</span>
+                <span class="post-reading-time">⏱️ 21분</span>
+            </div>
         </div>
     </article>
     
@@ -474,6 +490,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -482,24 +528,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

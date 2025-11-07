@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -284,21 +287,26 @@
 
             <p class="post-card-excerpt">국어 어휘력 과외로 한자어, 관용어, 속담, 어원까지 체계적 확장 | 독해력·표현력 향상의 핵심 [2025년] 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 28일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#국어과외</span>
+                <a href="/tags/%EA%B5%AD%EC%96%B4%EA%B3%BC%EC%99%B8" class="post-tag">#국어과외</a>
                 
-                <span class="post-tag">#어휘력과외</span>
+                <a href="/tags/%EC%96%B4%ED%9C%98%EB%A0%A5%EA%B3%BC%EC%99%B8" class="post-tag">#어휘력과외</a>
                 
-                <span class="post-tag">#어휘</span>
+                <a href="/tags/%EC%96%B4%ED%9C%98" class="post-tag">#어휘</a>
+                
+                <a href="/tags/%ED%95%9C%EC%9E%90%EC%96%B4" class="post-tag">#한자어</a>
+                
+                <a href="/tags/%EA%B4%80%EC%9A%A9%EC%96%B4" class="post-tag">#관용어</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 28</span>
+                <span class="post-reading-time">⏱️ 40분</span>
+            </div>
         </div>
     </article>
     
@@ -421,6 +429,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -429,24 +467,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

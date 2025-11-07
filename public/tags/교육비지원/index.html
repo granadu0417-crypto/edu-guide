@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.pexels.com/photos/3018976/pexels-photo-3018976.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940')"></div>
@@ -284,21 +287,26 @@
 
             <p class="post-card-excerpt">지역별 맞춤 교육 정보를 제공합니다. 학원 선택부터 공공 프로그램 활용까지, 우리 지역 교육의 모든 것을 안내합니다 지역별 효과적인 방법으로 실력을 향상시키세요.</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 17일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#교육복지</span>
+                <a href="/tags/%EA%B5%90%EC%9C%A1%EB%B3%B5%EC%A7%80" class="post-tag">#교육복지</a>
                 
-                <span class="post-tag">#교육비지원</span>
+                <a href="/tags/%EA%B5%90%EC%9C%A1%EB%B9%84%EC%A7%80%EC%9B%90" class="post-tag">#교육비지원</a>
                 
-                <span class="post-tag">#급식비</span>
+                <a href="/tags/%EA%B8%89%EC%8B%9D%EB%B9%84" class="post-tag">#급식비</a>
+                
+                <a href="/tags/%EB%B0%A9%EA%B3%BC%ED%9B%84" class="post-tag">#방과후</a>
+                
+                <a href="/tags/%EC%A0%80%EC%86%8C%EB%93%9D%EC%B8%B5" class="post-tag">#저소득층</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 17</span>
+                <span class="post-reading-time">⏱️ 18분</span>
+            </div>
         </div>
     </article>
     
@@ -421,6 +429,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -429,24 +467,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

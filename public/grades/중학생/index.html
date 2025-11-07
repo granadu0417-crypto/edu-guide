@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.pexels.com/photos/6958583/pexels-photo-6958583.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940')"></div>
@@ -290,21 +293,26 @@
 
             <p class="post-card-excerpt">중학생 학습 가이드의 결정판입니다. 효과적인 공부 방법과 진로 설계로 고등학교 성공의 토대를 만드는 방법을 안내합니다 중학생 내신 관리부터 자기주도 학습 능력 향상까지 단계별 학습 전략을 안내합니다. 학년별 특성에 맞는 구체적인 학습 방법을 제시합니다 중학생 내신 관리 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 26일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#중학영어</span>
+                <a href="/tags/%EC%A4%91%ED%95%99%EC%98%81%EC%96%B4" class="post-tag">#중학영어</a>
                 
-                <span class="post-tag">#영어공부법</span>
+                <a href="/tags/%EC%98%81%EC%96%B4%EA%B3%B5%EB%B6%80%EB%B2%95" class="post-tag">#영어공부법</a>
                 
-                <span class="post-tag">#중등영어</span>
+                <a href="/tags/%EC%A4%91%EB%93%B1%EC%98%81%EC%96%B4" class="post-tag">#중등영어</a>
+                
+                <a href="/tags/%EC%98%81%EC%96%B4%EB%AC%B8%EB%B2%95" class="post-tag">#영어문법</a>
+                
+                <a href="/tags/%EC%98%81%EC%96%B4%EB%8F%85%ED%95%B4" class="post-tag">#영어독해</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 26</span>
+                <span class="post-reading-time">⏱️ 23분</span>
+            </div>
         </div>
     </article>
     
@@ -427,6 +435,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -435,24 +473,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

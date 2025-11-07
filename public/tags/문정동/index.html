@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1594181985790-4ad34b333bca?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">성공적인 과외를 위한 완벽 가이드입니다. 단계별 가이드로 확실하게 준비하세요 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 27일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#송파구</span>
+                <a href="/tags/%EC%86%A1%ED%8C%8C%EA%B5%AC" class="post-tag">#송파구</a>
                 
-                <span class="post-tag">#수학과외</span>
+                <a href="/tags/%EC%88%98%ED%95%99%EA%B3%BC%EC%99%B8" class="post-tag">#수학과외</a>
                 
-                <span class="post-tag">#잠실</span>
+                <a href="/tags/%EC%9E%A0%EC%8B%A4" class="post-tag">#잠실</a>
+                
+                <a href="/tags/%EA%B0%80%EB%9D%BD%EB%8F%99" class="post-tag">#가락동</a>
+                
+                <a href="/tags/%EB%AC%B8%EC%A0%95%EB%8F%99" class="post-tag">#문정동</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 27</span>
+                <span class="post-reading-time">⏱️ 12분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940')"></div>
@@ -337,21 +348,26 @@
 
             <p class="post-card-excerpt">검증된 과외 선택 가이드로 올바른 결정을 하세요. 실전 노하우로 자신감을 키우세요 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 27일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#송파구</span>
+                <a href="/tags/%EC%86%A1%ED%8C%8C%EA%B5%AC" class="post-tag">#송파구</a>
                 
-                <span class="post-tag">#영어과외</span>
+                <a href="/tags/%EC%98%81%EC%96%B4%EA%B3%BC%EC%99%B8" class="post-tag">#영어과외</a>
                 
-                <span class="post-tag">#잠실</span>
+                <a href="/tags/%EC%9E%A0%EC%8B%A4" class="post-tag">#잠실</a>
+                
+                <a href="/tags/%EA%B0%80%EB%9D%BD%EB%8F%99" class="post-tag">#가락동</a>
+                
+                <a href="/tags/%EB%AC%B8%EC%A0%95%EB%8F%99" class="post-tag">#문정동</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 27</span>
+                <span class="post-reading-time">⏱️ 14분</span>
+            </div>
         </div>
     </article>
     
@@ -474,6 +490,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -482,24 +528,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

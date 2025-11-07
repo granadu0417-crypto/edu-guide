@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">과학 개념연결 과외로 물리·화학·생물·지구과학 통합 이해, 융합 사고력 향상, 통합과학 완벽 대비 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로  …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 28일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#과학개념연결과외</span>
+                <a href="/tags/%EA%B3%BC%ED%95%99%EA%B0%9C%EB%85%90%EC%97%B0%EA%B2%B0%EA%B3%BC%EC%99%B8" class="post-tag">#과학개념연결과외</a>
                 
-                <span class="post-tag">#통합과학</span>
+                <a href="/tags/%ED%86%B5%ED%95%A9%EA%B3%BC%ED%95%99" class="post-tag">#통합과학</a>
                 
-                <span class="post-tag">#융합과학</span>
+                <a href="/tags/%EC%9C%B5%ED%95%A9%EA%B3%BC%ED%95%99" class="post-tag">#융합과학</a>
+                
+                <a href="/tags/%EA%B0%9C%EB%85%90%EC%97%B0%EA%B2%B0" class="post-tag">#개념연결</a>
+                
+                <a href="/tags/%EA%B3%BC%ED%95%99%EA%B3%BC%EC%99%B8" class="post-tag">#과학과외</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 28</span>
+                <span class="post-reading-time">⏱️ 17분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -337,21 +348,26 @@
 
             <p class="post-card-excerpt">과학 실생활응용 과외로 일상 속 과학 원리를 발견하고 창의적으로 활용. 융합 사고력과 문제 해결 능력 향상 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 28일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#과학실생활과외</span>
+                <a href="/tags/%EA%B3%BC%ED%95%99%EC%8B%A4%EC%83%9D%ED%99%9C%EA%B3%BC%EC%99%B8" class="post-tag">#과학실생활과외</a>
                 
-                <span class="post-tag">#과학응용</span>
+                <a href="/tags/%EA%B3%BC%ED%95%99%EC%9D%91%EC%9A%A9" class="post-tag">#과학응용</a>
                 
-                <span class="post-tag">#융합과학</span>
+                <a href="/tags/%EC%9C%B5%ED%95%A9%EA%B3%BC%ED%95%99" class="post-tag">#융합과학</a>
+                
+                <a href="/tags/%EC%83%9D%ED%99%9C%EA%B3%BC%ED%95%99" class="post-tag">#생활과학</a>
+                
+                <a href="/tags/%EA%B3%BC%ED%95%99%EA%B3%BC%EC%99%B8" class="post-tag">#과학과외</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 28</span>
+                <span class="post-reading-time">⏱️ 14분</span>
+            </div>
         </div>
     </article>
     
@@ -474,6 +490,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -482,24 +528,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

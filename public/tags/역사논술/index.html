@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -286,21 +289,26 @@
 
             <p class="post-card-excerpt">사회 과목 논술·서술형 평가를 완벽하게 대비하는 방법을 소개합니다. 역사·지리·정치경제 논술 답안 작성 전략부터 실전 템플릿까지 모든 노하우를 안내합니다 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 단계별로 자세하게 안내드립니다. 효과적인 학 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 26일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#사회논술</span>
+                <a href="/tags/%EC%82%AC%ED%9A%8C%EB%85%BC%EC%88%A0" class="post-tag">#사회논술</a>
                 
-                <span class="post-tag">#서술형</span>
+                <a href="/tags/%EC%84%9C%EC%88%A0%ED%98%95" class="post-tag">#서술형</a>
                 
-                <span class="post-tag">#논술형평가</span>
+                <a href="/tags/%EB%85%BC%EC%88%A0%ED%98%95%ED%8F%89%EA%B0%80" class="post-tag">#논술형평가</a>
+                
+                <a href="/tags/%EC%82%AC%ED%9A%8C%EC%84%9C%EC%88%A0%ED%98%95" class="post-tag">#사회서술형</a>
+                
+                <a href="/tags/%EB%8B%B5%EC%95%88%EC%9E%91%EC%84%B1" class="post-tag">#답안작성</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 26</span>
+                <span class="post-reading-time">⏱️ 23분</span>
+            </div>
         </div>
     </article>
     
@@ -423,6 +431,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -431,24 +469,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

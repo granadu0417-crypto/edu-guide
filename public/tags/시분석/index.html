@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1531498860502-7c67cf02f657?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">국어 과외로 시 분석 완벽 정복 | 표현기교·주제파악·정서 이해·감상법·1:1 맞춤 해설 [2025년] 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 28일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#국어과외</span>
+                <a href="/tags/%EA%B5%AD%EC%96%B4%EA%B3%BC%EC%99%B8" class="post-tag">#국어과외</a>
                 
-                <span class="post-tag">#시분석</span>
+                <a href="/tags/%EC%8B%9C%EB%B6%84%EC%84%9D" class="post-tag">#시분석</a>
                 
-                <span class="post-tag">#문학</span>
+                <a href="/tags/%EB%AC%B8%ED%95%99" class="post-tag">#문학</a>
+                
+                <a href="/tags/%ED%91%9C%ED%98%84%EA%B8%B0%EA%B5%90" class="post-tag">#표현기교</a>
+                
+                <a href="/tags/%EC%A3%BC%EC%A0%9C%ED%8C%8C%EC%95%85" class="post-tag">#주제파악</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 28</span>
+                <span class="post-reading-time">⏱️ 36분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -339,21 +350,26 @@
 
             <p class="post-card-excerpt">국어 문학 작품을 체계적으로 분석하는 완벽 가이드를 소개합니다. 시, 소설, 수필, 극문학의 특성 파악부터 작품 감상법, 문학 문제 풀이 전략까지 문학 실력을 높이는 모든 방법을 안내합니다 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 26일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#문학</span>
+                <a href="/tags/%EB%AC%B8%ED%95%99" class="post-tag">#문학</a>
                 
-                <span class="post-tag">#국어문학</span>
+                <a href="/tags/%EA%B5%AD%EC%96%B4%EB%AC%B8%ED%95%99" class="post-tag">#국어문학</a>
                 
-                <span class="post-tag">#시분석</span>
+                <a href="/tags/%EC%8B%9C%EB%B6%84%EC%84%9D" class="post-tag">#시분석</a>
+                
+                <a href="/tags/%EC%86%8C%EC%84%A4%EB%B6%84%EC%84%9D" class="post-tag">#소설분석</a>
+                
+                <a href="/tags/%EB%AC%B8%ED%95%99%EC%9E%91%ED%92%88" class="post-tag">#문학작품</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 26</span>
+                <span class="post-reading-time">⏱️ 21분</span>
+            </div>
         </div>
     </article>
     
@@ -476,6 +492,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -484,24 +530,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -284,21 +287,26 @@
 
             <p class="post-card-excerpt">지역별 교육 환경의 모든 것을 담았습니다. 우리 동네 최적의 교육 시설과 프로그램으로 효과적인 학습 설계 방법을 안내합니다 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 10월 16일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#지역</span>
+                <a href="/tags/%EC%A7%80%EC%97%AD" class="post-tag">#지역</a>
                 
-                <span class="post-tag">#서울</span>
+                <a href="/tags/%EC%84%9C%EC%9A%B8" class="post-tag">#서울</a>
                 
-                <span class="post-tag">#경기</span>
+                <a href="/tags/%EA%B2%BD%EA%B8%B0" class="post-tag">#경기</a>
+                
+                <a href="/tags/%ED%95%99%EC%9B%90" class="post-tag">#학원</a>
+                
+                <a href="/tags/%EA%B3%BC%EC%99%B8" class="post-tag">#과외</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 10. 16</span>
+                <span class="post-reading-time">⏱️ 3분</span>
+            </div>
         </div>
     </article>
     
@@ -421,6 +429,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -429,24 +467,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

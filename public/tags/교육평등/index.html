@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">교육 격차의 원인과 해소 전략. 1:1 과외 활용, 정부 지원, 지역사회 협력으로 교육 기회 평등을 실현하는 방법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 15일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#교육격차</span>
+                <a href="/tags/%EA%B5%90%EC%9C%A1%EA%B2%A9%EC%B0%A8" class="post-tag">#교육격차</a>
                 
-                <span class="post-tag">#교육평등</span>
+                <a href="/tags/%EA%B5%90%EC%9C%A1%ED%8F%89%EB%93%B1" class="post-tag">#교육평등</a>
                 
-                <span class="post-tag">#1대1과외</span>
+                <a href="/tags/1%EB%8C%801%EA%B3%BC%EC%99%B8" class="post-tag">#1대1과외</a>
+                
+                <a href="/tags/%EA%B5%90%EC%9C%A1%EA%B8%B0%ED%9A%8C" class="post-tag">#교육기회</a>
+                
+                <a href="/tags/%EC%82%AC%EA%B5%90%EC%9C%A1%EA%B2%A9%EC%B0%A8" class="post-tag">#사교육격차</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 15</span>
+                <span class="post-reading-time">⏱️ 13분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -337,21 +348,26 @@
 
             <p class="post-card-excerpt">다문화 가정 학생을 위한 교육 지원. 언어 학습, 1:1 과외 활용, 학교 지원, 문화 적응 전략을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 15일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#다문화</span>
+                <a href="/tags/%EB%8B%A4%EB%AC%B8%ED%99%94" class="post-tag">#다문화</a>
                 
-                <span class="post-tag">#1대1과외</span>
+                <a href="/tags/1%EB%8C%801%EA%B3%BC%EC%99%B8" class="post-tag">#1대1과외</a>
                 
-                <span class="post-tag">#언어지원</span>
+                <a href="/tags/%EC%96%B8%EC%96%B4%EC%A7%80%EC%9B%90" class="post-tag">#언어지원</a>
+                
+                <a href="/tags/%ED%95%99%EC%8A%B5%EC%A7%80%EC%9B%90" class="post-tag">#학습지원</a>
+                
+                <a href="/tags/%ED%95%9C%EA%B5%AD%EC%96%B4%EA%B5%90%EC%9C%A1" class="post-tag">#한국어교육</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 15</span>
+                <span class="post-reading-time">⏱️ 12분</span>
+            </div>
         </div>
     </article>
     
@@ -474,6 +490,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -482,24 +528,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

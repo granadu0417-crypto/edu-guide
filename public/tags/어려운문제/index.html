@@ -266,6 +266,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -286,21 +289,26 @@
 
             <p class="post-card-excerpt">중학교 첫 시험이 두렵나요? 초등과는 다른 중등 내신 시험 준비 전략을 마스터하세요. 학교 적응부터 공부 방법까지, 성공적인 중학 생활을 위한 완벽 가이드를 제공합니다 중학생 내신 관리부터 자기주도 학습 능력 향상까지 단계별 학습 전략을 안내합니다. …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 10월 16일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#중3수학</span>
+                <a href="/tags/%EC%A4%913%EC%88%98%ED%95%99" class="post-tag">#중3수학</a>
                 
-                <span class="post-tag">#어려운문제</span>
+                <a href="/tags/%EC%96%B4%EB%A0%A4%EC%9A%B4%EB%AC%B8%EC%A0%9C" class="post-tag">#어려운문제</a>
                 
-                <span class="post-tag">#내신대비</span>
+                <a href="/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84" class="post-tag">#내신대비</a>
+                
+                <a href="/tags/%EC%88%98%ED%95%99%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4" class="post-tag">#수학문제풀이</a>
+                
+                <a href="/tags/%EA%B3%A0%EB%82%9C%EB%8F%84" class="post-tag">#고난도</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 10. 16</span>
+                <span class="post-reading-time">⏱️ 13분</span>
+            </div>
         </div>
     </article>
     
@@ -423,6 +431,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -431,24 +469,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">화폐와 금융 시스템를 체계적으로 학습하는 방법. 1:1 과외로 금융을 완벽하게 이해하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 06월 24일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#사회</span>
+                <a href="/tags/%EC%82%AC%ED%9A%8C" class="post-tag">#사회</a>
                 
-                <span class="post-tag">#금융</span>
+                <a href="/tags/%EA%B8%88%EC%9C%B5" class="post-tag">#금융</a>
                 
-                <span class="post-tag">#사회, 역사, 지리</span>
+                <a href="/tags/%EC%82%AC%ED%9A%8C-%EC%97%AD%EC%82%AC-%EC%A7%80%EB%A6%AC" class="post-tag">#사회, 역사, 지리</a>
+                
+                <a href="/tags/11%EA%B3%BC%EC%99%B8" class="post-tag">#1:1과외</a>
+                
+                <a href="/tags/2025" class="post-tag">#2025</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 06. 24</span>
+                <span class="post-reading-time">⏱️ 15분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -337,21 +348,26 @@
 
             <p class="post-card-excerpt">사회 경제 과외로 시장 원리, 금융 시스템, 국제 무역을 체계적으로 학습. 경제 개념부터 실생활 적용까지 완벽 마스터 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 28일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#사회경제과외</span>
+                <a href="/tags/%EC%82%AC%ED%9A%8C%EA%B2%BD%EC%A0%9C%EA%B3%BC%EC%99%B8" class="post-tag">#사회경제과외</a>
                 
-                <span class="post-tag">#경제개념</span>
+                <a href="/tags/%EA%B2%BD%EC%A0%9C%EA%B0%9C%EB%85%90" class="post-tag">#경제개념</a>
                 
-                <span class="post-tag">#시장원리</span>
+                <a href="/tags/%EC%8B%9C%EC%9E%A5%EC%9B%90%EB%A6%AC" class="post-tag">#시장원리</a>
+                
+                <a href="/tags/%EA%B8%88%EC%9C%B5" class="post-tag">#금융</a>
+                
+                <a href="/tags/%EB%AC%B4%EC%97%AD" class="post-tag">#무역</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 28</span>
+                <span class="post-reading-time">⏱️ 16분</span>
+            </div>
         </div>
     </article>
     
@@ -474,6 +490,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -482,24 +528,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

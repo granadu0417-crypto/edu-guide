@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -303,24 +306,32 @@
 
             <p class="post-card-excerpt">좋은 과외 선생님을 선택하는 완벽한 방법을 소개합니다. 면접 질문 리스트, 체크포인트, 계약 팁까지 과외 선택의 모든 것을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 26일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#과외선생님</span>
+                <a href="/tags/%EA%B3%BC%EC%99%B8%EC%84%A0%EC%83%9D%EB%8B%98" class="post-tag">#과외선생님</a>
                 
-                <span class="post-tag">#과외선택</span>
+                <a href="/tags/%EA%B3%BC%EC%99%B8%EC%84%A0%ED%83%9D" class="post-tag">#과외선택</a>
                 
-                <span class="post-tag">#과외면접</span>
+                <a href="/tags/%EA%B3%BC%EC%99%B8%EB%A9%B4%EC%A0%91" class="post-tag">#과외면접</a>
+                
+                <a href="/tags/%EA%B3%BC%EC%99%B8%EA%B3%84%EC%95%BD" class="post-tag">#과외계약</a>
+                
+                <a href="/tags/%EA%B3%BC%EC%99%B8%ED%8C%81" class="post-tag">#과외팁</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 26</span>
+                <span class="post-reading-time">⏱️ 16분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -339,21 +350,26 @@
 
             <p class="post-card-excerpt">학원과 과외 계약서 작성의 모든 것. 필수 조항, 주의사항, 환불 규정, 분쟁 예방 전략을 제시합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 15일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#계약서</span>
+                <a href="/tags/%EA%B3%84%EC%95%BD%EC%84%9C" class="post-tag">#계약서</a>
                 
-                <span class="post-tag">#학원등록</span>
+                <a href="/tags/%ED%95%99%EC%9B%90%EB%93%B1%EB%A1%9D" class="post-tag">#학원등록</a>
                 
-                <span class="post-tag">#과외계약</span>
+                <a href="/tags/%EA%B3%BC%EC%99%B8%EA%B3%84%EC%95%BD" class="post-tag">#과외계약</a>
+                
+                <a href="/tags/%ED%99%98%EB%B6%88%EA%B7%9C%EC%A0%95" class="post-tag">#환불규정</a>
+                
+                <a href="/tags/%EB%B2%95%EC%A0%81%EB%B3%B4%ED%98%B8" class="post-tag">#법적보호</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 15</span>
+                <span class="post-reading-time">⏱️ 6분</span>
+            </div>
         </div>
     </article>
     
@@ -476,6 +492,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -484,24 +530,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {

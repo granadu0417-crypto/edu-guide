@@ -283,6 +283,9 @@
 
 <div class="post-grid">
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -301,24 +304,32 @@
 
             <p class="post-card-excerpt">초등학교 1학년부터 6학년까지 학년별 맞춤 학습 전략을 제공합니다. 기초 학력 완성과 올바른 학습 습관 형성으로 중학교 진학을 완벽 준비하세요. 과목별 공부법, 시험 대비, 학부모 가이드를 한번에 확인하세요 초등학생의 발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교 …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 28일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#초등</span>
+                <a href="/tags/%EC%B4%88%EB%93%B1" class="post-tag">#초등</a>
                 
-                <span class="post-tag">#초등교육</span>
+                <a href="/tags/%EC%B4%88%EB%93%B1%EA%B5%90%EC%9C%A1" class="post-tag">#초등교육</a>
                 
-                <span class="post-tag">#학습법</span>
+                <a href="/tags/%ED%95%99%EC%8A%B5%EB%B2%95" class="post-tag">#학습법</a>
+                
+                <a href="/tags/%EA%B3%B5%EB%B6%80%EB%B0%A9%EB%B2%95" class="post-tag">#공부방법</a>
+                
+                <a href="/tags/%ED%95%99%EC%8A%B5%EC%8A%B5%EA%B4%80" class="post-tag">#학습습관</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 28</span>
+                <span class="post-reading-time">⏱️ 3분</span>
+            </div>
         </div>
     </article>
     
+    
+    
+
     <article class="post-card">
         
         <div class="post-card-image" style="background-image: url('https://images.unsplash.com/photo-1758525861781-bea6e7d79334?w=1200&amp;h=630&amp;fit=crop')"></div>
@@ -341,21 +352,26 @@
 
             <p class="post-card-excerpt">초등 교육 성공의 비결을 공개합니다. 기초 학력 완성과 학습 태도 형성으로 중·고등 학습의 기반을 탄탄히 다지세요 초등학생의 발달 단계에 맞춘 체계적인 학습법과 실천 가능한 교육 가이드를 제공합니다. 학부모님과 함께하는 효과적인 교육 방법을 안내합니다 초등학생의 발달  …</p>
 
-            <div class="post-card-meta">
-                <span class="post-date">📅 2025년 01월 26일</span>
-            </div>
-
             
             <div class="post-card-tags">
                 
-                <span class="post-tag">#초등수학</span>
+                <a href="/tags/%EC%B4%88%EB%93%B1%EC%88%98%ED%95%99" class="post-tag">#초등수학</a>
                 
-                <span class="post-tag">#공부법</span>
+                <a href="/tags/%EA%B3%B5%EB%B6%80%EB%B2%95" class="post-tag">#공부법</a>
                 
-                <span class="post-tag">#학습전략</span>
+                <a href="/tags/%ED%95%99%EC%8A%B5%EC%A0%84%EB%9E%B5" class="post-tag">#학습전략</a>
+                
+                <a href="/tags/%EC%88%98%ED%95%99%EA%B8%B0%EC%B4%88" class="post-tag">#수학기초</a>
+                
+                <a href="/tags/%ED%95%99%EB%85%84%EB%B3%84%ED%95%99%EC%8A%B5" class="post-tag">#학년별학습</a>
                 
             </div>
             
+
+            <div class="post-card-meta">
+                <span class="post-date">📅 2025. 01. 26</span>
+                <span class="post-reading-time">⏱️ 18분</span>
+            </div>
         </div>
     </article>
     
@@ -478,6 +494,36 @@
     text-overflow: ellipsis;
 }
 
+.post-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.post-tag {
+    font-size: var(--font-xs);
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 10px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.post-tag:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-1px);
+}
+
+ 
+@media (max-width: 768px) {
+    .post-tag:nth-child(n+4) {
+        display: none;
+    }
+}
+
 .post-card-meta {
     display: flex;
     flex-wrap: wrap;
@@ -486,24 +532,11 @@
     border-top: 1px solid var(--border-light);
     font-size: var(--font-xs);
     color: var(--text-tertiary);
-    margin-bottom: 12px;
 }
 
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
+.post-reading-time {
     font-weight: 600;
-}
-
- 
-.post-tag:nth-child(n+4) {
-    display: none;
+    color: var(--primary-color);
 }
 
 .empty-state {
