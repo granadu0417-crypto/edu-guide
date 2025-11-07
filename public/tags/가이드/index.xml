@@ -1,133 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>가이드 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EA%B0%80%EC%9D%B4%EB%93%9C/</link><description>Recent content in 가이드 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EA%B0%80%EC%9D%B4%EB%93%9C/index.xml" rel="self" type="application/rss+xml"/><item><title>무료 학습 상담</title><link>https://edukoreaai.com/consultation/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/consultation/</guid><description>&lt;div class="consultation-hero">
- &lt;div class="hero-badge">💬 24시간 언제든지&lt;/div>
- &lt;h1 class="hero-title">우리 아이에게 딱 맞는&lt;br>학습 방법을 찾아드립니다&lt;/h1>
- &lt;p class="hero-description">
- 교육 전문가와 1:1 무료 상담으로 학습 고민을 해결하세요.&lt;br>
- 학년별, 과목별 맞춤 정보를 카카오톡으로 편하게 받아보세요.
- &lt;/p>
-&lt;/div>
-&lt;div class="cta-kakao-hero">
- &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
- target="_blank"
- rel="noopener noreferrer"
- class="kakao-btn-hero"
- onclick="gtag('event', 'click_consultation', {
- 'event_category': 'engagement',
- 'event_label': 'consultation_hero',
- 'value': 1
- });">
- 💬 카카오톡으로 무료 상담 시작하기
- &lt;/a>
- &lt;p class="kakao-subtitle">⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p>
-&lt;/div>
-
-&lt;style>
-.cta-kakao-hero {
- text-align: center;
- margin: 40px 0;
-}
-
-.kakao-btn-hero {
- display: inline-block;
- padding: 24px 56px;
- background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
- color: #3C1E1E;
- text-decoration: none;
- border-radius: 50px;
- font-weight: 800;
- font-size: 22px;
- box-shadow: 0 12px 32px rgba(254, 229, 0, 0.4);
- transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
- border: none;
- cursor: pointer;
-}
-
-.kakao-btn-hero:hover {
- transform: translateY(-4px);
- box-shadow: 0 16px 40px rgba(254, 229, 0, 0.6);
- background: linear-gradient(135deg, #FFD700 0%, #FEE500 100%);
-}
-
-.kakao-subtitle {
- margin-top: 16px;
- color: #6c757d;
- font-size: 15px;
- font-weight: 500;
-}
-
-@media (max-width: 768px) {
- .kakao-btn-hero {
- padding: 20px 40px;
- font-size: 18px;
- }
-
- .kakao-subtitle {
- font-size: 14px;
- }
-}
-
-@media (max-width: 480px) {
- .kakao-btn-hero {
- padding: 18px 32px;
- font-size: 16px;
- width: 100%;
- max-width: 320px;
- }
-}
-&lt;/style>
-&lt;hr>
-&lt;h2 id="-이런-고민이-있으신가요">🎯 이런 고민이 있으신가요?&lt;/h2>
-&lt;div class="worry-grid">
- &lt;div class="worry-card">
- &lt;div class="worry-icon">📚&lt;/div>
- &lt;h3>성적이 오르지 않아요&lt;/h3>
- &lt;p>열심히 공부하는데 성적이 제자리, 효과적인 학습법을 찾고 싶으세요?&lt;/p></description></item><item><title>시험 대비 전략</title><link>https://edukoreaai.com/exam/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/exam/</guid><description>&lt;h2 id="시험-대비-전략">시험 대비 전략&lt;/h2>
-&lt;p>&lt;strong>시험&lt;/strong>은 학습의 결과를 확인하는 중요한 과정입니다. 체계적인 준비와 전략으로 최고의 성적을 달성하세요.&lt;/p>
-&lt;h2 id="-시험-준비의-중요성">🎯 시험 준비의 중요성&lt;/h2>
-&lt;h3 id="단순-암기가-아닌-이해">단순 암기가 아닌 이해&lt;/h3>
-&lt;p>시험은 단순히 외운 것을 쓰는 것이 아니라 이해한 것을 적용하는 과정입니다.&lt;/p>
-&lt;p>&lt;strong>핵심 포인트:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>개념의 정확한 이해&lt;/li>
-&lt;li>응용력 키우기&lt;/li>
-&lt;li>문제 해결 능력&lt;/li>
-&lt;li>시간 관리 능력&lt;/li>
-&lt;/ul>
-&lt;h3 id="체계적-준비">체계적 준비&lt;/h3>
-&lt;p>계획적인 준비가 성공의 열쇠입니다.&lt;/p>
-&lt;p>&lt;strong>준비 단계:&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>시험 범위 파악&lt;/li>
-&lt;li>학습 계획 수립&lt;/li>
-&lt;li>단계별 실천&lt;/li>
-&lt;li>최종 점검&lt;/li>
-&lt;/ol>
-&lt;h2 id="-시기별-준비-전략">📚 시기별 준비 전략&lt;/h2>
-&lt;h3 id="4주-전---전체-파악">4주 전 - 전체 파악&lt;/h3>
-&lt;p>시험 범위를 확인하고 전체 계획을 세웁니다.&lt;/p></description></item><item><title>서울 지역 교육정보</title><link>https://edukoreaai.com/local/seoul/</link><pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/local/seoul/</guid><description>&lt;h2 id="서울-지역-교육정보">서울 지역 교육정보&lt;/h2>
-&lt;p>서울은 대한민국 교육의 중심지로, &lt;strong>25개 자치구마다 고유한 교육 환경&lt;/strong>을 가지고 있습니다. 우리 동네에 최적화된 학습 전략을 찾아보세요.&lt;/p>
-&lt;h2 id="-서울-주요-교육-특구">📍 서울 주요 교육 특구&lt;/h2>
-&lt;h3 id="강남구-대치동-압구정동">강남구 (대치동, 압구정동)&lt;/h3>
-&lt;p>&lt;strong>대한민국 교육 1번지&lt;/strong>로 불리는 강남구는 최고의 교육 인프라를 자랑합니다.&lt;/p>
-&lt;p>&lt;strong>교육 특징:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>대형 입시학원 밀집 지역&lt;/li>
-&lt;li>프리미엄 1:1 과외 활성화&lt;/li>
-&lt;li>수능 및 내신 전문 학원 다수&lt;/li>
-&lt;li>24시간 스터디카페 운영&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>추천 학습 전략&lt;/strong>: 내신과 수능을 동시에 준비할 수 있는 체계적 커리큘럼&lt;/p>
-&lt;h3 id="송파구-잠실동-가락동">송파구 (잠실동, 가락동)&lt;/h3>
-&lt;p>강남에 이은 교육 강자로, &lt;strong>균형 잡힌 교육 환경&lt;/strong>을 제공합니다.&lt;/p></description></item><item><title>경기도 지역 교육정보</title><link>https://edukoreaai.com/local/gyeonggi/</link><pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/local/gyeonggi/</guid><description>&lt;h2 id="경기도-지역-교육정보">경기도 지역 교육정보&lt;/h2>
-&lt;p>경기도는 대한민국 &lt;strong>최대 규모의 교육 인프라&lt;/strong>를 보유한 지역으로, &lt;strong>31개 시군마다 독특한 교육 환경&lt;/strong>을 가지고 있습니다. 우리 지역에 최적화된 학습 전략을 찾아보세요.&lt;/p>
-&lt;h2 id="-경기도-주요-교육-특구">📍 경기도 주요 교육 특구&lt;/h2>
-&lt;h3 id="분당구-성남시">분당구 (성남시)&lt;/h3>
-&lt;p>&lt;strong>강남을 잇는 교육 1번지&lt;/strong>로 수준 높은 교육 환경을 자랑합니다.&lt;/p>
-&lt;p>&lt;strong>교육 특징:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>판교 테크노밸리 배경의 높은 교육열&lt;/li>
-&lt;li>대형 입시학원 및 프리미엄 과외 활성화&lt;/li>
-&lt;li>STEM 교육 특화 프로그램 다수&lt;/li>
-&lt;li>24시간 운영 스터디카페 인프라&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>추천 학습 전략&lt;/strong>: 내신과 비교과를 동시에 준비하는 종합 전략&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>가이드 on 과외를부탁해</title>
+    <link>https://edukoreaai.com/tags/%EA%B0%80%EC%9D%B4%EB%93%9C/</link>
+    <description>Recent content in 가이드 on 과외를부탁해</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://edukoreaai.com/tags/%EA%B0%80%EC%9D%B4%EB%93%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>무료 학습 상담</title>
+      <link>https://edukoreaai.com/consultation/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/consultation/</guid>
+      <description>&lt;div class=&#34;consultation-hero&#34;&gt;&#xA;  &lt;div class=&#34;hero-badge&#34;&gt;💬 24시간 언제든지&lt;/div&gt;&#xA;  &lt;h1 class=&#34;hero-title&#34;&gt;우리 아이에게 딱 맞는&lt;br&gt;학습 방법을 찾아드립니다&lt;/h1&gt;&#xA;  &lt;p class=&#34;hero-description&#34;&gt;&#xA;    교육 전문가와 1:1 무료 상담으로 학습 고민을 해결하세요.&lt;br&gt;&#xA;    학년별, 과목별 맞춤 정보를 카카오톡으로 편하게 받아보세요.&#xA;  &lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;cta-kakao-hero&#34;&gt;&#xA;  &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;     target=&#34;_blank&#34;&#xA;     rel=&#34;noopener noreferrer&#34;&#xA;     class=&#34;kakao-btn-hero&#34;&#xA;     onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;       &#39;event_category&#39;: &#39;engagement&#39;,&#xA;       &#39;event_label&#39;: &#39;consultation_hero&#39;,&#xA;       &#39;value&#39;: 1&#xA;     });&#34;&gt;&#xA;    💬 카카오톡으로 무료 상담 시작하기&#xA;  &lt;/a&gt;&#xA;  &lt;p class=&#34;kakao-subtitle&#34;&gt;⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-kakao-hero {&#xA;  text-align: center;&#xA;  margin: 40px 0;&#xA;}&#xA;&#xA;.kakao-btn-hero {&#xA;  display: inline-block;&#xA;  padding: 24px 56px;&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;  text-decoration: none;&#xA;  border-radius: 50px;&#xA;  font-weight: 800;&#xA;  font-size: 22px;&#xA;  box-shadow: 0 12px 32px rgba(254, 229, 0, 0.4);&#xA;  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);&#xA;  border: none;&#xA;  cursor: pointer;&#xA;}&#xA;&#xA;.kakao-btn-hero:hover {&#xA;  transform: translateY(-4px);&#xA;  box-shadow: 0 16px 40px rgba(254, 229, 0, 0.6);&#xA;  background: linear-gradient(135deg, #FFD700 0%, #FEE500 100%);&#xA;}&#xA;&#xA;.kakao-subtitle {&#xA;  margin-top: 16px;&#xA;  color: #6c757d;&#xA;  font-size: 15px;&#xA;  font-weight: 500;&#xA;}&#xA;&#xA;@media (max-width: 768px) {&#xA;  .kakao-btn-hero {&#xA;    padding: 20px 40px;&#xA;    font-size: 18px;&#xA;  }&#xA;&#xA;  .kakao-subtitle {&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 480px) {&#xA;  .kakao-btn-hero {&#xA;    padding: 18px 32px;&#xA;    font-size: 16px;&#xA;    width: 100%;&#xA;    max-width: 320px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-이런-고민이-있으신가요&#34;&gt;🎯 이런 고민이 있으신가요?&lt;/h2&gt;&#xA;&lt;div class=&#34;worry-grid&#34;&gt;&#xA;  &lt;div class=&#34;worry-card&#34;&gt;&#xA;    &lt;div class=&#34;worry-icon&#34;&gt;📚&lt;/div&gt;&#xA;    &lt;h3&gt;성적이 오르지 않아요&lt;/h3&gt;&#xA;    &lt;p&gt;열심히 공부하는데 성적이 제자리, 효과적인 학습법을 찾고 싶으세요?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>시험 대비 전략</title>
+      <link>https://edukoreaai.com/exam/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/exam/</guid>
+      <description>&lt;h2 id=&#34;시험-대비-전략&#34;&gt;시험 대비 전략&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;시험&lt;/strong&gt;은 학습의 결과를 확인하는 중요한 과정입니다. 체계적인 준비와 전략으로 최고의 성적을 달성하세요.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-시험-준비의-중요성&#34;&gt;🎯 시험 준비의 중요성&lt;/h2&gt;&#xA;&lt;h3 id=&#34;단순-암기가-아닌-이해&#34;&gt;단순 암기가 아닌 이해&lt;/h3&gt;&#xA;&lt;p&gt;시험은 단순히 외운 것을 쓰는 것이 아니라 이해한 것을 적용하는 과정입니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;핵심 포인트:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;개념의 정확한 이해&lt;/li&gt;&#xA;&lt;li&gt;응용력 키우기&lt;/li&gt;&#xA;&lt;li&gt;문제 해결 능력&lt;/li&gt;&#xA;&lt;li&gt;시간 관리 능력&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;체계적-준비&#34;&gt;체계적 준비&lt;/h3&gt;&#xA;&lt;p&gt;계획적인 준비가 성공의 열쇠입니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;준비 단계:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;시험 범위 파악&lt;/li&gt;&#xA;&lt;li&gt;학습 계획 수립&lt;/li&gt;&#xA;&lt;li&gt;단계별 실천&lt;/li&gt;&#xA;&lt;li&gt;최종 점검&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;-시기별-준비-전략&#34;&gt;📚 시기별 준비 전략&lt;/h2&gt;&#xA;&lt;h3 id=&#34;4주-전---전체-파악&#34;&gt;4주 전 - 전체 파악&lt;/h3&gt;&#xA;&lt;p&gt;시험 범위를 확인하고 전체 계획을 세웁니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>서울 지역 교육정보</title>
+      <link>https://edukoreaai.com/local/seoul/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/local/seoul/</guid>
+      <description>&lt;h2 id=&#34;서울-지역-교육정보&#34;&gt;서울 지역 교육정보&lt;/h2&gt;&#xA;&lt;p&gt;서울은 대한민국 교육의 중심지로, &lt;strong&gt;25개 자치구마다 고유한 교육 환경&lt;/strong&gt;을 가지고 있습니다. 우리 동네에 최적화된 학습 전략을 찾아보세요.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-서울-주요-교육-특구&#34;&gt;📍 서울 주요 교육 특구&lt;/h2&gt;&#xA;&lt;h3 id=&#34;강남구-대치동-압구정동&#34;&gt;강남구 (대치동, 압구정동)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;대한민국 교육 1번지&lt;/strong&gt;로 불리는 강남구는 최고의 교육 인프라를 자랑합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;교육 특징:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;대형 입시학원 밀집 지역&lt;/li&gt;&#xA;&lt;li&gt;프리미엄 1:1 과외 활성화&lt;/li&gt;&#xA;&lt;li&gt;수능 및 내신 전문 학원 다수&lt;/li&gt;&#xA;&lt;li&gt;24시간 스터디카페 운영&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;추천 학습 전략&lt;/strong&gt;: 내신과 수능을 동시에 준비할 수 있는 체계적 커리큘럼&lt;/p&gt;&#xA;&lt;h3 id=&#34;송파구-잠실동-가락동&#34;&gt;송파구 (잠실동, 가락동)&lt;/h3&gt;&#xA;&lt;p&gt;강남에 이은 교육 강자로, &lt;strong&gt;균형 잡힌 교육 환경&lt;/strong&gt;을 제공합니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>경기도 지역 교육정보</title>
+      <link>https://edukoreaai.com/local/gyeonggi/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/local/gyeonggi/</guid>
+      <description>&lt;h2 id=&#34;경기도-지역-교육정보&#34;&gt;경기도 지역 교육정보&lt;/h2&gt;&#xA;&lt;p&gt;경기도는 대한민국 &lt;strong&gt;최대 규모의 교육 인프라&lt;/strong&gt;를 보유한 지역으로, &lt;strong&gt;31개 시군마다 독특한 교육 환경&lt;/strong&gt;을 가지고 있습니다. 우리 지역에 최적화된 학습 전략을 찾아보세요.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-경기도-주요-교육-특구&#34;&gt;📍 경기도 주요 교육 특구&lt;/h2&gt;&#xA;&lt;h3 id=&#34;분당구-성남시&#34;&gt;분당구 (성남시)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;강남을 잇는 교육 1번지&lt;/strong&gt;로 수준 높은 교육 환경을 자랑합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;교육 특징:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;판교 테크노밸리 배경의 높은 교육열&lt;/li&gt;&#xA;&lt;li&gt;대형 입시학원 및 프리미엄 과외 활성화&lt;/li&gt;&#xA;&lt;li&gt;STEM 교육 특화 프로그램 다수&lt;/li&gt;&#xA;&lt;li&gt;24시간 운영 스터디카페 인프라&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;추천 학습 전략&lt;/strong&gt;: 내신과 비교과를 동시에 준비하는 종합 전략&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

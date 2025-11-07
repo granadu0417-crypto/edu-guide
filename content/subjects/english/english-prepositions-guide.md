@@ -1,5 +1,5 @@
 ---
-title: 영어 전치사 완벽 정리 | 1:1 문법 과외
+title: 영어 전치사 완벽 정리 | 1:1 문법 과외 완벽 가이드 - 성공적인 학습법과 활용 전략
 date: 2025-01-29
 reading_time: 502줄
 description: 영어 전치사 완벽 가이드 | in/on/at 시간·장소, for/during/while 구별, 1:1 맞춤 문법 지도 [2025년]

@@ -1,196 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>실험분석 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EC%8B%A4%ED%97%98%EB%B6%84%EC%84%9D/</link><description>Recent content in 실험분석 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EC%8B%A4%ED%97%98%EB%B6%84%EC%84%9D/index.xml" rel="self" type="application/rss+xml"/><item><title>과학 탐구 과외 | 실험분석·그래프해석·문제해결 완벽 정복</title><link>https://edukoreaai.com/subjects/science/science-problem-solving/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/science/science-problem-solving/</guid><description>&lt;h2 id="과학-탐구-문제-완벽-정복하기">과학 탐구 문제 완벽 정복하기&lt;/h2>
-&lt;p>과학 탐구 문제가 어렵나요? 실험 결과 해석이 막막하고, 그래프가 복잡하며, 변인 통제가 헷갈리나요? 과학 탐구 능력은 체계적 훈련으로 반드시 향상됩니다. 1:1 맞춤 탐구 과외로 실험 분석부터 문제 해결까지 완벽하게 정복하세요.&lt;/p>
-&lt;div class="cta-dual-inline">
- &lt;div class="dual-inline-box">
- &lt;div class="dual-inline-icon">📞&lt;/div>
- &lt;div class="dual-inline-content">
- &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
- &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
- &lt;/div>
- &lt;div class="dual-inline-buttons">
- &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
- target="_blank"
- rel="noopener noreferrer"
- class="dual-btn-kakao"
- onclick="gtag('event', 'click_consultation', {
- 'event_category': 'engagement',
- 'event_label': 'consultation_inline_kakao',
- 'value': 1
- });">
- 💬 카카오톡 상담
- &lt;/a>
- &lt;a href="https://naver.me/FGENm9ex"
- target="_blank"
- rel="noopener noreferrer"
- class="dual-btn-trial"
- onclick="gtag('event', 'click_trial', {
- 'event_category': 'engagement',
- 'event_label': 'trial_inline_naver',
- 'value': 1
- });">
- ✨ 무료체험 신청
- &lt;/a>
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;style>
-.cta-dual-inline {
- margin: 48px 0;
-}
-
-.dual-inline-box {
- display: flex;
- align-items: center;
- gap: 20px;
- padding: 28px 32px;
- background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
- border-radius: 16px;
- border: 2px solid #e9ecef;
- box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-}
-
-.dual-inline-icon {
- font-size: 42px;
- flex-shrink: 0;
-}
-
-.dual-inline-content {
- flex: 1;
-}
-
-.dual-inline-content h3 {
- margin: 0 0 6px;
- font-size: 19px;
- font-weight: 700;
- color: #212529;
-}
-
-.dual-inline-content p {
- margin: 0;
- font-size: 14px;
- color: #6c757d;
-}
-
-.dual-inline-buttons {
- display: flex;
- gap: 12px;
- flex-shrink: 0;
-}
-
-.dual-btn-kakao,
-.dual-btn-trial {
- padding: 12px 24px;
- text-decoration: none;
- border-radius: 25px;
- font-weight: 700;
- font-size: 15px;
- transition: all 0.3s ease;
- white-space: nowrap;
- display: inline-block;
-}
-
-.dual-btn-kakao {
- background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
- color: #3C1E1E;
-}
-
-.dual-btn-kakao:hover {
- transform: translateY(-2px);
- box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
-}
-
-.dual-btn-trial {
- background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
- color: white;
-}
-
-.dual-btn-trial:hover {
- transform: translateY(-2px);
- box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
-}
-
-@media (max-width: 992px) {
- .dual-inline-box {
- flex-wrap: wrap;
- justify-content: center;
- text-align: center;
- }
- 
- .dual-inline-icon {
- width: 100%;
- }
- 
- .dual-inline-buttons {
- width: 100%;
- justify-content: center;
- }
-}
-
-@media (max-width: 576px) {
- .dual-inline-box {
- padding: 24px 20px;
- }
- 
- .dual-inline-icon {
- font-size: 36px;
- }
- 
- .dual-inline-content h3 {
- font-size: 17px;
- }
- 
- .dual-inline-content p {
- font-size: 13px;
- }
- 
- .dual-inline-buttons {
- flex-direction: column;
- width: 100%;
- }
- 
- .dual-btn-kakao,
- .dual-btn-trial {
- width: 100%;
- padding: 14px 20px;
- font-size: 14px;
- }
-}
-&lt;/style>
-&lt;h2 id="왜-과학-탐구-능력이-중요한가">왜 과학 탐구 능력이 중요한가?&lt;/h2>
-&lt;h3 id="과학의-핵심">과학의 핵심&lt;/h3>
-&lt;p>과학은 단순 암기가 아니라 탐구하는 학문입니다. 현상을 관찰하고, 가설을 세우며, 실험으로 검증하는 과정이 과학의 본질입니다.&lt;/p></description></item><item><title>과학 실험보고서 vs 탐구활동 | 작성법 비교 2025</title><link>https://edukoreaai.com/subjects/science/science-experiment-report-guide/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/science/science-experiment-report-guide/</guid><description>&lt;p>과학 실력은 실험 보고서 작성 능력에서 판가름 납니다. 잘 작성된 실험 보고서는 단순한 기록이 아니라 과학적 사고의 증거입니다. 이 글에서는 초등학생부터 고등학생까지 완벽한 실험 보고서를 작성하는 모든 방법을 단계별로 안내합니다.&lt;/p>
-&lt;p>&lt;img
- src="https://images.unsplash.com/photo-1530210124550-912dc1381cb8?w=1200&amp;amp;h=600&amp;amp;fit=crop"
- alt="과학 실험 보고서"
- loading="lazy"
- decoding="async"
- width="800"
- height="400"
->
-&lt;/p>
-&lt;h2 id="실험-보고서가-중요한-이유">실험 보고서가 중요한 이유&lt;/h2>
-&lt;h3 id="과학적-사고력의-증거">과학적 사고력의 증거&lt;/h3>
-&lt;p>&lt;strong>실험 보고서의 의미&lt;/strong>:&lt;/p>
-&lt;pre tabindex="0">&lt;code>단순 기록 (X):
-→ 무엇을 했는지만 나열
-
-과학적 증거 (O):
-→ 왜 했는지
-→ 어떻게 했는지
-→ 무엇을 발견했는지
-→ 의미가 무엇인지
-&lt;/code>&lt;/pre>&lt;h3 id="평가에서의-비중">평가에서의 비중&lt;/h3>
-&lt;p>&lt;strong>성적 반영 비율&lt;/strong>:&lt;/p>
-&lt;pre tabindex="0">&lt;code>중학교:
-- 수행평가 30-40%
-- 실험 보고서 비중 높음
-- 탐구 능력 평가
-
-고등학교:
-- 내신 수행평가 40-50%
-- 생기부 탐구 활동
-- 대학 입시 자료
-&lt;/code>&lt;/pre>&lt;h2 id="실험-보고서-기본-구조">실험 보고서 기본 구조&lt;/h2>
-&lt;h3 id="7단계-구성">7단계 구성&lt;/h3>
-&lt;p>&lt;strong>완벽한 실험 보고서&lt;/strong>:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>실험분석 on 과외를부탁해</title>
+    <link>https://edukoreaai.com/tags/%EC%8B%A4%ED%97%98%EB%B6%84%EC%84%9D/</link>
+    <description>Recent content in 실험분석 on 과외를부탁해</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://edukoreaai.com/tags/%EC%8B%A4%ED%97%98%EB%B6%84%EC%84%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>과학 탐구 과외 | 실험분석·그래프해석·문제해결 완벽 정복 상세 안내 - 체계적인 접근법과 실전 팁</title>
+      <link>https://edukoreaai.com/subjects/science/science-problem-solving/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/subjects/science/science-problem-solving/</guid>
+      <description>&lt;h2 id=&#34;과학-탐구-문제-완벽-정복하기&#34;&gt;과학 탐구 문제 완벽 정복하기&lt;/h2&gt;&#xA;&lt;p&gt;과학 탐구 문제가 어렵나요? 실험 결과 해석이 막막하고, 그래프가 복잡하며, 변인 통제가 헷갈리나요? 과학 탐구 능력은 체계적 훈련으로 반드시 향상됩니다. 1:1 맞춤 탐구 과외로 실험 분석부터 문제 해결까지 완벽하게 정복하세요.&lt;/p&gt;&#xA;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;왜-과학-탐구-능력이-중요한가&#34;&gt;왜 과학 탐구 능력이 중요한가?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;과학의-핵심&#34;&gt;과학의 핵심&lt;/h3&gt;&#xA;&lt;p&gt;과학은 단순 암기가 아니라 탐구하는 학문입니다. 현상을 관찰하고, 가설을 세우며, 실험으로 검증하는 과정이 과학의 본질입니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>과학 실험보고서 vs 탐구활동 | 작성법 비교 2025 상세 안내 - 체계적인 접근법과 실전 팁</title>
+      <link>https://edukoreaai.com/subjects/science/science-experiment-report-guide/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/subjects/science/science-experiment-report-guide/</guid>
+      <description>&lt;p&gt;과학 실력은 실험 보고서 작성 능력에서 판가름 납니다. 잘 작성된 실험 보고서는 단순한 기록이 아니라 과학적 사고의 증거입니다. 이 글에서는 초등학생부터 고등학생까지 완벽한 실험 보고서를 작성하는 모든 방법을 단계별로 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1530210124550-912dc1381cb8?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;과학 실험 보고서&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;실험-보고서가-중요한-이유&#34;&gt;실험 보고서가 중요한 이유&lt;/h2&gt;&#xA;&lt;h3 id=&#34;과학적-사고력의-증거&#34;&gt;과학적 사고력의 증거&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;실험 보고서의 의미&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;단순 기록 (X):&#xA;→ 무엇을 했는지만 나열&#xA;&#xA;과학적 증거 (O):&#xA;→ 왜 했는지&#xA;→ 어떻게 했는지&#xA;→ 무엇을 발견했는지&#xA;→ 의미가 무엇인지&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;평가에서의-비중&#34;&gt;평가에서의 비중&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;성적 반영 비율&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;중학교:&#xA;- 수행평가 30-40%&#xA;- 실험 보고서 비중 높음&#xA;- 탐구 능력 평가&#xA;&#xA;고등학교:&#xA;- 내신 수행평가 40-50%&#xA;- 생기부 탐구 활동&#xA;- 대학 입시 자료&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;실험-보고서-기본-구조&#34;&gt;실험 보고서 기본 구조&lt;/h2&gt;&#xA;&lt;h3 id=&#34;7단계-구성&#34;&gt;7단계 구성&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;완벽한 실험 보고서&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

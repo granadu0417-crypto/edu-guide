@@ -1,207 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>확률과통계 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%ED%99%95%EB%A5%A0%EA%B3%BC%ED%86%B5%EA%B3%84/</link><description>Recent content in 확률과통계 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%ED%99%95%EB%A5%A0%EA%B3%BC%ED%86%B5%EA%B3%84/index.xml" rel="self" type="application/rss+xml"/><item><title>고3 문과 수학 완벽 가이드 | 1:1 고등 수학 과외</title><link>https://edukoreaai.com/subjects/math/math-grade12-liberal/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-grade12-liberal/</guid><description>&lt;h2 id="고3-문과-수학-완벽-가이드">고3 문과 수학 완벽 가이드&lt;/h2>
-&lt;p>수능 수학, 어떻게 정복할까요?&lt;/p>
-&lt;p>&amp;ldquo;시간이 부족해요.&amp;rdquo;
-&amp;ldquo;킬러 문제가 안 풀려요.&amp;rdquo;
-&amp;ldquo;실수가 많아요.&amp;rdquo;&lt;/p>
-&lt;p>고3 문과 수학은 &lt;strong>수능 실전 대비&lt;/strong>가 핵심입니다. 전략적으로 준비하면 반드시 성공합니다.&lt;/p>
-&lt;h2 id="고3-문과-수학-개요">고3 문과 수학 개요&lt;/h2>
-&lt;h3 id="수능-수학-영역">수능 수학 영역&lt;/h3>
-&lt;p>&lt;strong>출제 범위&lt;/strong>&lt;/p>
-&lt;pre tabindex="0">&lt;code>공통:
-수학 I (22문항)
-- 지수함수와 로그함수
-- 삼각함수
-- 수열
-
-선택:
-확률과 통계 (8문항)
-- 경우의 수
-- 확률
-- 통계
-
-총 30문항, 100분
-
-→ 시간 관리 중요
-&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
- &lt;div class="dual-inline-box">
- &lt;div class="dual-inline-icon">📞&lt;/div>
- &lt;div class="dual-inline-content">
- &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
- &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p></description></item><item><title>수학 완벽 로드맵 - 기초부터 심화까지 총정리</title><link>https://edukoreaai.com/subjects/math/math-complete-roadmap/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-complete-roadmap/</guid><description>&lt;h2 id="수학-완벽-로드맵---기초부터-심화까지-총정리">수학 완벽 로드맵 - 기초부터 심화까지 총정리&lt;/h2>
-&lt;p>수학은 논리적 사고력과 문제 해결 능력을 키우는 핵심 과목입니다. 체계적인 학습과 꾸준한 연습으로 누구나 수학을 정복할 수 있습니다. 이 가이드는 수학 학습의 모든 것을 담았습니다.&lt;/p>
-
-&lt;div class="cta-consultation cta-subtle">
- &lt;div class="cta-content">
- &lt;div class="cta-icon">
- &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
- &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
- &lt;/svg>
- &lt;/div>
- &lt;div class="cta-text">
- &lt;p class="cta-message">과목별 맞춤 학습 전략이 필요하신가요?&lt;/p>
- &lt;/div>
- &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
- target="_blank"
- rel="noopener noreferrer"
- class="cta-button cta-button-subtle"
- onclick="gtag('event', 'click', {
- 'event_category': 'Conversion',
- 'event_label': 'Content CTA Subtle - 수학 완벽 로드맵 - 기초부터 심화까지 총정리',
- 'value': 1
- });">
- 카카오톡 상담하기
- &lt;/a>
- &lt;/div>
-&lt;/div>
-
-&lt;style>
- 
-.cta-consultation {
- margin: 40px 0;
- padding: 24px;
- border-radius: 16px;
- background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
- border: 1px solid #dee2e6;
- transition: all 0.3s ease;
-}
-
-.cta-consultation:hover {
- transform: translateY(-2px);
- box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
- border-color: #ced4da;
-}
-
-.cta-content {
- display: flex;
- align-items: center;
- gap: 16px;
-}
-
-.cta-icon {
- flex-shrink: 0;
- width: 48px;
- height: 48px;
- display: flex;
- align-items: center;
- justify-content: center;
- background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
- border-radius: 12px;
- color: #3C1E1E;
-}
-
-.cta-text {
- flex: 1;
-}
-
-.cta-message {
- margin: 0;
- font-size: 15px;
- color: #495057;
- line-height: 1.6;
- font-weight: 500;
-}
-
-.cta-button {
- flex-shrink: 0;
- padding: 12px 24px;
- text-decoration: none;
- border-radius: 8px;
- font-weight: 600;
- font-size: 14px;
- transition: all 0.3s ease;
- white-space: nowrap;
-}
-
-.cta-button-subtle {
- background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
- color: white;
- box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
-}
-
-.cta-button-subtle:hover {
- transform: translateY(-2px);
- box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
-}
-
-.cta-button-subtle:active {
- transform: translateY(0);
-}
-
- 
-@media (max-width: 768px) {
- .cta-consultation {
- padding: 20px;
- margin: 32px 0;
- }
-
- .cta-content {
- gap: 12px;
- }
-
- .cta-icon {
- width: 40px;
- height: 40px;
- }
-
- .cta-icon svg {
- width: 20px;
- height: 20px;
- }
-
- .cta-message {
- font-size: 14px;
- }
-
- .cta-button {
- padding: 10px 20px;
- font-size: 13px;
- }
-}
-
- 
-@media (max-width: 480px) {
- .cta-consultation {
- padding: 16px;
- margin: 24px 0;
- }
-
- .cta-content {
- flex-direction: column;
- text-align: center;
- gap: 16px;
- }
-
- .cta-icon {
- width: 56px;
- height: 56px;
- margin: 0 auto;
- }
-
- .cta-message {
- font-size: 14px;
- }
-
- .cta-button {
- width: 100%;
- padding: 14px 24px;
- font-size: 14px;
- }
-}
-
- 
-.cta-button:focus {
- outline: 3px solid #667eea;
- outline-offset: 4px;
-}
-
- 
-@media print {
- .cta-consultation {
- display: none !important;
- }
-}
-&lt;/style>
-
-&lt;h2 id="1-수학-학습의-중요성">1. 수학 학습의 중요성&lt;/h2>
-&lt;h3 id="11-왜-수학을-공부해야-하는가">1.1 왜 수학을 공부해야 하는가&lt;/h3>
-&lt;p>수학은 단순한 계산 능력을 넘어 다양한 능력을 키웁니다:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>확률과통계 on 과외를부탁해</title>
+    <link>https://edukoreaai.com/tags/%ED%99%95%EB%A5%A0%EA%B3%BC%ED%86%B5%EA%B3%84/</link>
+    <description>Recent content in 확률과통계 on 과외를부탁해</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://edukoreaai.com/tags/%ED%99%95%EB%A5%A0%EA%B3%BC%ED%86%B5%EA%B3%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>고3 문과 수학 완벽 가이드 | 1:1 고등 수학 과외 - 체계적인 학습 방법과 실전 노하우</title>
+      <link>https://edukoreaai.com/subjects/math/math-grade12-liberal/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/subjects/math/math-grade12-liberal/</guid>
+      <description>&lt;h2 id=&#34;고3-문과-수학-완벽-가이드&#34;&gt;고3 문과 수학 완벽 가이드&lt;/h2&gt;&#xA;&lt;p&gt;수능 수학, 어떻게 정복할까요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;시간이 부족해요.&amp;rdquo;&#xA;&amp;ldquo;킬러 문제가 안 풀려요.&amp;rdquo;&#xA;&amp;ldquo;실수가 많아요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;고3 문과 수학은 &lt;strong&gt;수능 실전 대비&lt;/strong&gt;가 핵심입니다. 전략적으로 준비하면 반드시 성공합니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;고3-문과-수학-개요&#34;&gt;고3 문과 수학 개요&lt;/h2&gt;&#xA;&lt;h3 id=&#34;수능-수학-영역&#34;&gt;수능 수학 영역&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;출제 범위&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;공통:&#xA;수학 I (22문항)&#xA;- 지수함수와 로그함수&#xA;- 삼각함수&#xA;- 수열&#xA;&#xA;선택:&#xA;확률과 통계 (8문항)&#xA;- 경우의 수&#xA;- 확률&#xA;- 통계&#xA;&#xA;총 30문항, 100분&#xA;&#xA;→ 시간 관리 중요&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략</title>
+      <link>https://edukoreaai.com/subjects/math/math-complete-roadmap/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/subjects/math/math-complete-roadmap/</guid>
+      <description>&lt;h2 id=&#34;수학-완벽-로드맵---기초부터-심화까지-총정리&#34;&gt;수학 완벽 로드맵 - 기초부터 심화까지 총정리&lt;/h2&gt;&#xA;&lt;p&gt;수학은 논리적 사고력과 문제 해결 능력을 키우는 핵심 과목입니다. 체계적인 학습과 꾸준한 연습으로 누구나 수학을 정복할 수 있습니다. 이 가이드는 수학 학습의 모든 것을 담았습니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;과목별 맞춤 학습 전략이 필요하신가요?&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-수학-학습의-중요성&#34;&gt;1. 수학 학습의 중요성&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-왜-수학을-공부해야-하는가&#34;&gt;1.1 왜 수학을 공부해야 하는가&lt;/h3&gt;&#xA;&lt;p&gt;수학은 단순한 계산 능력을 넘어 다양한 능력을 키웁니다:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

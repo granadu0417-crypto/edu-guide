@@ -1,5 +1,5 @@
 ---
-title: 분사구문 완벽 이해 | 1:1 문법 과외
+title: 분사구문 완벽 이해 | 1:1 문법 과외 완벽 가이드 - 성공적인 학습법과 활용 전략
 date: 2025-01-29
 reading_time: 357줄
 description: 영어 분사구문 완벽 정복 | V-ing/p.p. 구별, 접속사 생략, Being/Having been 용법, 1:1 맞춤 문법

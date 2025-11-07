@@ -1,5 +1,5 @@
 ---
-title: 영어 조동사 완벽 활용법 | 1:1 문법 과외
+title: 영어 조동사 완벽 활용법 | 1:1 문법 과외 완벽 가이드 - 성공적인 학습법과 활용 전략
 date: 2025-01-29
 reading_time: 477줄
 description: 영어 조동사 완벽 정복 | can, will, must, should, may 구별법, 1:1 맞춤 문법 지도 [2025년]

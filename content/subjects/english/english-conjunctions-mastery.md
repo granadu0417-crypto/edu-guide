@@ -1,5 +1,5 @@
 ---
-title: 영어 접속사 완벽 마스터 | 1:1 문법 과외
+title: 영어 접속사 완벽 마스터 | 1:1 문법 과외 완벽 가이드 - 성공적인 학습법과 활용 전략
 date: 2025-01-29
 reading_time: 532줄
 description: 영어 접속사 완벽 정복 | and/but/or, because/so, when/while 구별, 1:1 맞춤 문법 지도 [2025년]
