@@ -1,167 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>동사 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EB%8F%99%EC%82%AC/</link><description>Recent content in 동사 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EB%8F%99%EC%82%AC/index.xml" rel="self" type="application/rss+xml"/><item><title>국어 품사 완벽 가이드 | 1:1 국어 문법 과외 [2025]</title><link>https://edukoreaai.com/subjects/korean/korean-parts-of-speech/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/korean/korean-parts-of-speech/</guid><description>&lt;h1 id="국어-품사-완벽-가이드">국어 품사 완벽 가이드&lt;/h1>
-&lt;p>품사 구분이 어렵나요?&lt;/p>
-&lt;p>&amp;ldquo;명사와 대명사 차이가 뭐예요?&amp;rdquo;
-&amp;ldquo;형용사와 동사 구분을 못하겠어요.&amp;rdquo;
-&amp;ldquo;조사가 너무 헷갈려요.&amp;rdquo;&lt;/p>
-&lt;p>&lt;strong>품사 체계&lt;/strong>를 제대로 이해하면 &lt;strong>모든 국어 문법이 쉬워집니다&lt;/strong>.&lt;/p>
-&lt;p>이 가이드에서는 국어 9품사 완벽 정복법을 소개합니다.&lt;/p>
-&lt;div class="cta-dual-inline">
- &lt;div class="dual-inline-box">
- &lt;div class="dual-inline-icon">📞&lt;/div>
- &lt;div class="dual-inline-content">
- &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
- &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
- &lt;/div>
- &lt;div class="dual-inline-buttons">
- &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
- target="_blank"
- rel="noopener noreferrer"
- class="dual-btn-kakao"
- onclick="gtag('event', 'click_consultation', {
- 'event_category': 'engagement',
- 'event_label': 'consultation_inline_kakao',
- 'value': 1
- });">
- 💬 카카오톡 상담
- &lt;/a>
- &lt;a href="https://naver.me/FGENm9ex"
- target="_blank"
- rel="noopener noreferrer"
- class="dual-btn-trial"
- onclick="gtag('event', 'click_trial', {
- 'event_category': 'engagement',
- 'event_label': 'trial_inline_naver',
- 'value': 1
- });">
- ✨ 무료체험 신청
- &lt;/a>
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;style>
-.cta-dual-inline {
- margin: 48px 0;
-}
-
-.dual-inline-box {
- display: flex;
- align-items: center;
- gap: 20px;
- padding: 28px 32px;
- background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
- border-radius: 16px;
- border: 2px solid #e9ecef;
- box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-}
-
-.dual-inline-icon {
- font-size: 42px;
- flex-shrink: 0;
-}
-
-.dual-inline-content {
- flex: 1;
-}
-
-.dual-inline-content h3 {
- margin: 0 0 6px;
- font-size: 19px;
- font-weight: 700;
- color: #212529;
-}
-
-.dual-inline-content p {
- margin: 0;
- font-size: 14px;
- color: #6c757d;
-}
-
-.dual-inline-buttons {
- display: flex;
- gap: 12px;
- flex-shrink: 0;
-}
-
-.dual-btn-kakao,
-.dual-btn-trial {
- padding: 12px 24px;
- text-decoration: none;
- border-radius: 25px;
- font-weight: 700;
- font-size: 15px;
- transition: all 0.3s ease;
- white-space: nowrap;
- display: inline-block;
-}
-
-.dual-btn-kakao {
- background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
- color: #3C1E1E;
-}
-
-.dual-btn-kakao:hover {
- transform: translateY(-2px);
- box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
-}
-
-.dual-btn-trial {
- background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
- color: white;
-}
-
-.dual-btn-trial:hover {
- transform: translateY(-2px);
- box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
-}
-
-@media (max-width: 992px) {
- .dual-inline-box {
- flex-wrap: wrap;
- justify-content: center;
- text-align: center;
- }
- 
- .dual-inline-icon {
- width: 100%;
- }
- 
- .dual-inline-buttons {
- width: 100%;
- justify-content: center;
- }
-}
-
-@media (max-width: 576px) {
- .dual-inline-box {
- padding: 24px 20px;
- }
- 
- .dual-inline-icon {
- font-size: 36px;
- }
- 
- .dual-inline-content h3 {
- font-size: 17px;
- }
- 
- .dual-inline-content p {
- font-size: 13px;
- }
- 
- .dual-inline-buttons {
- flex-direction: column;
- width: 100%;
- }
- 
- .dual-btn-kakao,
- .dual-btn-trial {
- width: 100%;
- padding: 14px 20px;
- font-size: 14px;
- }
-}
-&lt;/style>
-&lt;h2 id="1-국어-품사란">1. 국어 품사란?&lt;/h2>
-&lt;h3 id="품사의-정의">품사의 정의&lt;/h3>
-&lt;p>품사는 &lt;strong>단어를 기능과 형태에 따라 분류&lt;/strong>한 것입니다.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>동사 on 과외를부탁해</title>
+    <link>https://edukoreaai.com/tags/%EB%8F%99%EC%82%AC/</link>
+    <description>Recent content in 동사 on 과외를부탁해</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://edukoreaai.com/tags/%EB%8F%99%EC%82%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>국어 품사 완벽 가이드 | 1:1 국어 문법 과외 [2025]</title>
+      <link>https://edukoreaai.com/subjects/korean/korean-parts-of-speech/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://edukoreaai.com/subjects/korean/korean-parts-of-speech/</guid>
+      <description>&lt;h1 id=&#34;국어-품사-완벽-가이드&#34;&gt;국어 품사 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;품사 구분이 어렵나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;명사와 대명사 차이가 뭐예요?&amp;rdquo;&#xA;&amp;ldquo;형용사와 동사 구분을 못하겠어요.&amp;rdquo;&#xA;&amp;ldquo;조사가 너무 헷갈려요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;품사 체계&lt;/strong&gt;를 제대로 이해하면 &lt;strong&gt;모든 국어 문법이 쉬워집니다&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;이 가이드에서는 국어 9품사 완벽 정복법을 소개합니다.&lt;/p&gt;&#xA;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;1-국어-품사란&#34;&gt;1. 국어 품사란?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;품사의-정의&#34;&gt;품사의 정의&lt;/h3&gt;&#xA;&lt;p&gt;품사는 &lt;strong&gt;단어를 기능과 형태에 따라 분류&lt;/strong&gt;한 것입니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

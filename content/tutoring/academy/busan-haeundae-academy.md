@@ -15,7 +15,7 @@ tags:
 description: 부산 해운대 학원. 중고등 입시, 내신·수능, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의
   모든 것을 알려드립니다. 입시 전문가의 노하우로 합격 전략을 설계합니다. 수능 대비 완벽 가이드를 제공합니다. 입시 전문가의 노하우로 합격 전략을
   설계합니다.
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?learning&sig=8903296898163985705
 reading_time: 280줄
 ---
 

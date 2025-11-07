@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 과목별 전문 학원 추천. 선택 기준, 학년별 전략, 1:1 과외 병행을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 전문가의 세심한 가이드로 시작하세요.
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?tutoring&sig=9126963005635614327
 reading_time: 275줄
 ---
 

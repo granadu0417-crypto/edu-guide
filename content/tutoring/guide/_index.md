@@ -7,7 +7,7 @@ keywords:
 - 과외 선택
 - 학원 vs 과외
 - 사교육 선택
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?writing&sig=1110170550612956977
 ---
 
 # 학원·과외 선택 가이드

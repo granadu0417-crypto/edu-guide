@@ -13,7 +13,7 @@ tags:
 - 생물
 - 학습환경
 description: 과목별 1:1 과외 선생님 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 맞춤형 솔루션으로 빠른 향상을 경험하세요.
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?university&sig=3596949357196517591
 reading_time: 280줄
 ---
 

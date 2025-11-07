@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 내신과 수능 균형 전략. 수시·정시 목표별 시간 배분, 학원과 1:1 과외 활용, 효율적 학습 방법을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?student-laptop&sig=2503788450820540573
 reading_time: 305줄
 ---
 

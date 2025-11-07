@@ -13,7 +13,7 @@ tags:
 - 학원
 - 생물
 description: 과목별 전문 학원 추천. 선택 기준, 학년별 전략, 1:1 과외 병행을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 전문가의 세심한 가이드로 시작하세요.
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?notebook&sig=6043652156526375049
 reading_time: 275줄
 ---
 

@@ -15,7 +15,7 @@ tags:
 description: 시험 직전 1주일 준비 전략. D-7부터 시험 당일까지 학습 계획, 1:1 과외 활용, 컨디션 관리 방법을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?chalkboard&sig=389553701126921499
 reading_time: 300줄
 ---
 

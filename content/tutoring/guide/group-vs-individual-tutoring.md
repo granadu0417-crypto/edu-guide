@@ -15,7 +15,7 @@ tags:
 description: 그룹 과외와 1:1 과외 비교의 모든 것. 각각의 장단점, 비용 차이, 적합한 학생 유형, 효과적인 선택 전략을 제시합니다
   과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤
   학습을 경험하세요.
-featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?study-group&sig=2150250766750139722
 reading_time: 305줄
 ---
 

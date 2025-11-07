@@ -14,7 +14,7 @@ tags:
 - 성적향상
 description: 중학생을 위한 과외 선택의 모든 것. 학년별 전략, 과목별 선택, 내신 관리, 고등학교 준비까지 완벽 가이드입니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 학년별 특성에 맞는 구체적인 학습 방법을 제시합니다. 내신 관리의 모든 것을 알려드립니다.
-featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
+featured_image: https://source.unsplash.com/1200x630/?graduation&sig=2579818480634072971
 reading_time: 328줄
 ---
 
