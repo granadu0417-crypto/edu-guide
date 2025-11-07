@@ -1,61 +1,443 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>내신대비 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/</link>
-    <description>Recent content in 내신대비 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Thu, 16 Oct 2025 10:00:00 +0900</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>중등 수학 고난도 문제 풀이 | 심화 학습</title>
-      <link>https://edukoreaai.com/middle/math-difficult-problems/</link>
-      <pubDate>Thu, 16 Oct 2025 10:00:00 +0900</pubDate>
-      <guid>https://edukoreaai.com/middle/math-difficult-problems/</guid>
-      <description>&lt;p&gt;중학교 3학년 수학은 고등학교 수학의 기초가 되는 가장 중요한 시기입니다. 특히 이차함수와 삼각비는 고등학교에서도 계속 나오기 때문에 확실하게 이해하고 넘어가야 합니다.&lt;/p&gt;&#xA;&lt;p&gt;이 글에서는 &lt;strong&gt;중3 수학에서 가장 많이 틀리는 어려운 문제 30개&lt;/strong&gt;를 단원별로 정리하고, 상세한 풀이와 함께 제공합니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;중3-수학-왜-어렵게-느껴질까&#34;&gt;중3 수학, 왜 어렵게 느껴질까?&lt;/h2&gt;&#xA;&lt;p&gt;중3 수학이 어려운 이유는 크게 3가지입니다:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;추상적인 개념 등장&lt;/strong&gt; - 이차함수, 삼각비 등 눈에 보이지 않는 개념&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;복합적인 문제&lt;/strong&gt; - 여러 개념을 동시에 적용해야 하는 문제 증가&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;계산량 증가&lt;/strong&gt; - 실수하기 쉬운 복잡한 계산&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;하지만 걱정하지 마세요. &lt;strong&gt;핵심 유형 30개만 완벽하게 익히면&lt;/strong&gt; 내신 90점 이상은 충분히 가능합니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>사회 논술 대비 완벽 정리 | 서술·논술 답안 2025</title>
-      <link>https://edukoreaai.com/subjects/social/social-essay-writing/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/social/social-essay-writing/</guid>
-      <description>&lt;p&gt;사회 과목에서 논술·서술형 평가의 비중이 점점 높아지고 있습니다. 단순 암기만으로는 좋은 점수를 받기 어렵습니다. 이 글에서는 사회 과목 논술·서술형 답안을 효과적으로 작성하는 완벽한 전략을 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;사회 논술 대비&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;사회-논술서술형-평가의-특징&#34;&gt;사회 논술·서술형 평가의 특징&lt;/h2&gt;&#xA;&lt;h3 id=&#34;논술형-vs-서술형&#34;&gt;논술형 vs 서술형&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;차이점&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;서술형:&#xA;- 짧은 답안 (2-5줄)&#xA;- 핵심 내용 중심&#xA;- 배점: 3-5점&#xA;- 예: &amp;#34;갑신정변의 원인을 서술하시오&amp;#34;&#xA;&#xA;논술형:&#xA;- 긴 답안 (10줄 이상)&#xA;- 분석과 논리 전개&#xA;- 배점: 10-20점&#xA;- 예: &amp;#34;근대화 과정에서 갑신정변이 &#xA;      미친 영향을 분석하시오&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;평가-기준&#34;&gt;평가 기준&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;채점 요소&lt;/strong&gt;:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>사회 암기 전략 추천 방법 | 역사·지리 용어 2025</title>
-      <link>https://edukoreaai.com/subjects/social/social-memorization-strategies/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/social/social-memorization-strategies/</guid>
-      <description>&lt;p&gt;사회 과목은 암기할 내용이 많아 부담스럽게 느껴질 수 있습니다. 하지만 체계적인 암기 전략을 활용하면 효율적으로 학습하고 오래 기억할 수 있습니다. 이 글에서는 역사, 지리, 정치·경제 등 사회 과목 전반의 완벽한 암기 전략을 안내합니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;  src=&#34;https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;amp;h=600&amp;amp;fit=crop&#34;&#xA;  alt=&#34;사회 암기 전략&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  width=&#34;800&#34;&#xA;  height=&#34;400&#34;&#xA;&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;사회-과목-암기가-어려운-이유&#34;&gt;사회 과목 암기가 어려운 이유&lt;/h2&gt;&#xA;&lt;h3 id=&#34;방대한-학습량&#34;&gt;방대한 학습량&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;사회 과목의 특징&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;역사: 시대별 사건, 인물, 연도&#xA;지리: 지명, 위치, 통계, 현상&#xA;정치·경제: 제도, 개념, 용어&#xA;→ 암기할 내용이 매우 많음&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;추상적인-개념&#34;&gt;추상적인 개념&lt;/h3&gt;&#xA;&lt;p&gt;사회 과목은 구체적이지 않은 개념들이 많아 이해와 암기가 어렵습니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜</title>
-      <link>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</guid>
-      <description>&lt;h2 id=&#34;-시험-2주-전-지금이-골든타임입니다&#34;&gt;🎯 시험 2주 전, 지금이 골든타임입니다!&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;시험까지 2주밖에 안 남았는데 뭘 해야 하죠?&amp;rdquo;&#xA;&amp;ldquo;범위가 너무 넓어서 어디서부터 시작할지 모르겠어요.&amp;rdquo;&#xA;&amp;ldquo;벼락치기로 성적 올릴 수 있을까요?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;시험 2주 전은 &lt;strong&gt;가장 중요한 시기&lt;/strong&gt;입니다. 너무 늦지도, 너무 이르지도 않은 &lt;strong&gt;골든타임&lt;/strong&gt;입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;시험-2주-전이-중요한-이유&#34;&gt;시험 2주 전이 중요한 이유&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;집중 효율 최고&lt;/strong&gt;: 긴장감 + 집중력이 최고조&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;기억 보존&lt;/strong&gt;: 2주 뒤 시험까지 기억이 유지되는 최적 기간&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;전략 수정 가능&lt;/strong&gt;: 아직 방향 전환 가능한 마지막 시기&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;불안 조절&lt;/strong&gt;: 너무 일찍 시작하면 번아웃, 너무 늦으면 패닉&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;cta-kakao-hero&#34;&gt;&#xA;  &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;     target=&#34;_blank&#34;&#xA;     rel=&#34;noopener noreferrer&#34;&#xA;     class=&#34;kakao-btn-hero&#34;&#xA;     onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;       &#39;event_category&#39;: &#39;engagement&#39;,&#xA;       &#39;event_label&#39;: &#39;consultation_hero&#39;,&#xA;       &#39;value&#39;: 1&#xA;     });&#34;&gt;&#xA;    💬 카카오톡으로 무료 상담 시작하기&#xA;  &lt;/a&gt;&#xA;  &lt;p class=&#34;kakao-subtitle&#34;&gt;⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>내신 전문 학원 선택법 - 학교 시험 완벽 대비 전략</title>
-      <link>https://edukoreaai.com/tutoring/guide/naesin-specialized-academy-selection/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/guide/naesin-specialized-academy-selection/</guid>
-      <description>&lt;h2 id=&#34;내신-전문-학원-선택법&#34;&gt;내신 전문 학원 선택법&lt;/h2&gt;&#xA;&lt;p&gt;내신은 수시 전형의 핵심입니다. 내신 전문 학원은 학교 시험에 특화되어 완벽한 대비가 가능합니다. 성공적인 내신 관리를 위한 학원 선택법을 알려드립니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;우리 아이 내신 관리 전략이 궁금하신가요?&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 내신 전문 학원 선택법 - 학교 시험 완벽 대비 전략&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-내신-전문-학원이란&#34;&gt;1. 내신 전문 학원이란?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-특징&#34;&gt;1.1 특징&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;학교 시험 특화&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>성적 올리는 비법 - 학원 과외 활용한 단기 성적 향상 전략</title>
-      <link>https://edukoreaai.com/tutoring/guide/grade-improvement-strategies/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/guide/grade-improvement-strategies/</guid>
-      <description>&lt;h2 id=&#34;성적-올리는-비법---학원-과외-활용한-단기-성적-향상-전략&#34;&gt;성적 올리는 비법 - 학원 과외 활용한 단기 성적 향상 전략&lt;/h2&gt;&#xA;&lt;p&gt;성적을 빠르게 올리고 싶지만 방법을 모르겠다면? 무작정 공부 시간만 늘리는 것은 비효율적입니다. 본 가이드에서는 과학적으로 입증된 성적 향상 전략, 학원과 1:1 과외의 전략적 활용, 시험 대비 방법, 그리고 과목별 성적 올리는 비법을 상세히 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;성적 향상 전략, 1:1 무료 상담으로 시작하세요!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>중학생 과외 선택 완벽 가이드 - 내신부터 입시까지</title>
-      <link>https://edukoreaai.com/tutoring/guide/middle-school-tutor-selection-guide/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/guide/middle-school-tutor-selection-guide/</guid>
-      <description>&lt;h2 id=&#34;중학생-과외-선택-완벽-가이드&#34;&gt;중학생 과외 선택 완벽 가이드&lt;/h2&gt;&#xA;&lt;p&gt;중학교는 초등학교와 고등학교의 가교 역할을 하는 중요한 시기입니다. 본격적인 내신 관리가 시작되고, 학습 습관이 고착화되는 시기에 어떤 과외를 선택해야 할까요?&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;우리 아이 중학교 학습 전략이 궁금하신가요?&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 중학생 과외 선택 완벽 가이드 - 내신부터 입시까지&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-중학생-시기의-특징&#34;&gt;1. 중학생 시기의 특징&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-학습-환경의-변화&#34;&gt;1.1 학습 환경의 변화&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;초등학교와의 차이&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>내신대비 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/</link><description>Recent content in 내신대비 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 16 Oct 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EB%82%B4%EC%8B%A0%EB%8C%80%EB%B9%84/index.xml" rel="self" type="application/rss+xml"/><item><title>중등 수학 고난도 문제 풀이 | 심화 학습</title><link>https://edukoreaai.com/middle/math-difficult-problems/</link><pubDate>Thu, 16 Oct 2025 10:00:00 +0900</pubDate><guid>https://edukoreaai.com/middle/math-difficult-problems/</guid><description>&lt;p>중학교 3학년 수학은 고등학교 수학의 기초가 되는 가장 중요한 시기입니다. 특히 이차함수와 삼각비는 고등학교에서도 계속 나오기 때문에 확실하게 이해하고 넘어가야 합니다.&lt;/p>
+&lt;p>이 글에서는 &lt;strong>중3 수학에서 가장 많이 틀리는 어려운 문제 30개&lt;/strong>를 단원별로 정리하고, 상세한 풀이와 함께 제공합니다.&lt;/p>
+&lt;h2 id="중3-수학-왜-어렵게-느껴질까">중3 수학, 왜 어렵게 느껴질까?&lt;/h2>
+&lt;p>중3 수학이 어려운 이유는 크게 3가지입니다:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>추상적인 개념 등장&lt;/strong> - 이차함수, 삼각비 등 눈에 보이지 않는 개념&lt;/li>
+&lt;li>&lt;strong>복합적인 문제&lt;/strong> - 여러 개념을 동시에 적용해야 하는 문제 증가&lt;/li>
+&lt;li>&lt;strong>계산량 증가&lt;/strong> - 실수하기 쉬운 복잡한 계산&lt;/li>
+&lt;/ol>
+&lt;p>하지만 걱정하지 마세요. &lt;strong>핵심 유형 30개만 완벽하게 익히면&lt;/strong> 내신 90점 이상은 충분히 가능합니다.&lt;/p></description></item><item><title>사회 논술 대비 완벽 정리 | 서술·논술 답안 2025</title><link>https://edukoreaai.com/subjects/social/social-essay-writing/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/social/social-essay-writing/</guid><description>&lt;p>사회 과목에서 논술·서술형 평가의 비중이 점점 높아지고 있습니다. 단순 암기만으로는 좋은 점수를 받기 어렵습니다. 이 글에서는 사회 과목 논술·서술형 답안을 효과적으로 작성하는 완벽한 전략을 안내합니다.&lt;/p>
+&lt;p>&lt;img
+ src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;amp;h=600&amp;amp;fit=crop"
+ alt="사회 논술 대비"
+ loading="lazy"
+ decoding="async"
+ width="800"
+ height="400"
+>
+&lt;/p>
+&lt;h2 id="사회-논술서술형-평가의-특징">사회 논술·서술형 평가의 특징&lt;/h2>
+&lt;h3 id="논술형-vs-서술형">논술형 vs 서술형&lt;/h3>
+&lt;p>&lt;strong>차이점&lt;/strong>:&lt;/p>
+&lt;pre tabindex="0">&lt;code>서술형:
+- 짧은 답안 (2-5줄)
+- 핵심 내용 중심
+- 배점: 3-5점
+- 예: &amp;#34;갑신정변의 원인을 서술하시오&amp;#34;
+
+논술형:
+- 긴 답안 (10줄 이상)
+- 분석과 논리 전개
+- 배점: 10-20점
+- 예: &amp;#34;근대화 과정에서 갑신정변이 
+ 미친 영향을 분석하시오&amp;#34;
+&lt;/code>&lt;/pre>&lt;h3 id="평가-기준">평가 기준&lt;/h3>
+&lt;p>&lt;strong>채점 요소&lt;/strong>:&lt;/p></description></item><item><title>사회 암기 전략 추천 방법 | 역사·지리 용어 2025</title><link>https://edukoreaai.com/subjects/social/social-memorization-strategies/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/social/social-memorization-strategies/</guid><description>&lt;p>사회 과목은 암기할 내용이 많아 부담스럽게 느껴질 수 있습니다. 하지만 체계적인 암기 전략을 활용하면 효율적으로 학습하고 오래 기억할 수 있습니다. 이 글에서는 역사, 지리, 정치·경제 등 사회 과목 전반의 완벽한 암기 전략을 안내합니다.&lt;/p>
+&lt;p>&lt;img
+ src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&amp;amp;h=600&amp;amp;fit=crop"
+ alt="사회 암기 전략"
+ loading="lazy"
+ decoding="async"
+ width="800"
+ height="400"
+>
+&lt;/p>
+&lt;h2 id="사회-과목-암기가-어려운-이유">사회 과목 암기가 어려운 이유&lt;/h2>
+&lt;h3 id="방대한-학습량">방대한 학습량&lt;/h3>
+&lt;p>&lt;strong>사회 과목의 특징&lt;/strong>:&lt;/p>
+&lt;pre tabindex="0">&lt;code>역사: 시대별 사건, 인물, 연도
+지리: 지명, 위치, 통계, 현상
+정치·경제: 제도, 개념, 용어
+→ 암기할 내용이 매우 많음
+&lt;/code>&lt;/pre>&lt;h3 id="추상적인-개념">추상적인 개념&lt;/h3>
+&lt;p>사회 과목은 구체적이지 않은 개념들이 많아 이해와 암기가 어렵습니다.&lt;/p></description></item><item><title>시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜</title><link>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</link><pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/exam/exam-two-weeks-before-strategy/</guid><description>&lt;h2 id="-시험-2주-전-지금이-골든타임입니다">🎯 시험 2주 전, 지금이 골든타임입니다!&lt;/h2>
+&lt;p>&amp;ldquo;시험까지 2주밖에 안 남았는데 뭘 해야 하죠?&amp;rdquo;
+&amp;ldquo;범위가 너무 넓어서 어디서부터 시작할지 모르겠어요.&amp;rdquo;
+&amp;ldquo;벼락치기로 성적 올릴 수 있을까요?&amp;rdquo;&lt;/p>
+&lt;p>시험 2주 전은 &lt;strong>가장 중요한 시기&lt;/strong>입니다. 너무 늦지도, 너무 이르지도 않은 &lt;strong>골든타임&lt;/strong>입니다.&lt;/p>
+&lt;h3 id="시험-2주-전이-중요한-이유">시험 2주 전이 중요한 이유&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>집중 효율 최고&lt;/strong>: 긴장감 + 집중력이 최고조&lt;/li>
+&lt;li>&lt;strong>기억 보존&lt;/strong>: 2주 뒤 시험까지 기억이 유지되는 최적 기간&lt;/li>
+&lt;li>&lt;strong>전략 수정 가능&lt;/strong>: 아직 방향 전환 가능한 마지막 시기&lt;/li>
+&lt;li>&lt;strong>불안 조절&lt;/strong>: 너무 일찍 시작하면 번아웃, 너무 늦으면 패닉&lt;/li>
+&lt;/ul>
+&lt;div class="cta-kakao-hero">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="kakao-btn-hero"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_hero',
+ 'value': 1
+ });">
+ 💬 카카오톡으로 무료 상담 시작하기
+ &lt;/a>
+ &lt;p class="kakao-subtitle">⏰ 24시간 언제든지 문의 가능 · 완전 무료&lt;/p></description></item><item><title>내신 전문 학원 선택법 - 학교 시험 완벽 대비 전략</title><link>https://edukoreaai.com/tutoring/guide/naesin-specialized-academy-selection/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/guide/naesin-specialized-academy-selection/</guid><description>&lt;h2 id="내신-전문-학원-선택법">내신 전문 학원 선택법&lt;/h2>
+&lt;p>내신은 수시 전형의 핵심입니다. 내신 전문 학원은 학교 시험에 특화되어 완벽한 대비가 가능합니다. 성공적인 내신 관리를 위한 학원 선택법을 알려드립니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">우리 아이 내신 관리 전략이 궁금하신가요?&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 내신 전문 학원 선택법 - 학교 시험 완벽 대비 전략',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-내신-전문-학원이란">1. 내신 전문 학원이란?&lt;/h2>
+&lt;h3 id="11-특징">1.1 특징&lt;/h3>
+&lt;p>&lt;strong>학교 시험 특화&lt;/strong>&lt;/p></description></item><item><title>성적 올리는 비법 - 학원 과외 활용한 단기 성적 향상 전략</title><link>https://edukoreaai.com/tutoring/guide/grade-improvement-strategies/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/guide/grade-improvement-strategies/</guid><description>&lt;h2 id="성적-올리는-비법---학원-과외-활용한-단기-성적-향상-전략">성적 올리는 비법 - 학원 과외 활용한 단기 성적 향상 전략&lt;/h2>
+&lt;p>성적을 빠르게 올리고 싶지만 방법을 모르겠다면? 무작정 공부 시간만 늘리는 것은 비효율적입니다. 본 가이드에서는 과학적으로 입증된 성적 향상 전략, 학원과 1:1 과외의 전략적 활용, 시험 대비 방법, 그리고 과목별 성적 올리는 비법을 상세히 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">성적 향상 전략, 1:1 무료 상담으로 시작하세요!&lt;/p></description></item><item><title>중학생 과외 선택 완벽 가이드 - 내신부터 입시까지</title><link>https://edukoreaai.com/tutoring/guide/middle-school-tutor-selection-guide/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/guide/middle-school-tutor-selection-guide/</guid><description>&lt;h2 id="중학생-과외-선택-완벽-가이드">중학생 과외 선택 완벽 가이드&lt;/h2>
+&lt;p>중학교는 초등학교와 고등학교의 가교 역할을 하는 중요한 시기입니다. 본격적인 내신 관리가 시작되고, 학습 습관이 고착화되는 시기에 어떤 과외를 선택해야 할까요?&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">우리 아이 중학교 학습 전략이 궁금하신가요?&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 중학생 과외 선택 완벽 가이드 - 내신부터 입시까지',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-중학생-시기의-특징">1. 중학생 시기의 특징&lt;/h2>
+&lt;h3 id="11-학습-환경의-변화">1.1 학습 환경의 변화&lt;/h3>
+&lt;p>&lt;strong>초등학교와의 차이&lt;/strong>&lt;/p></description></item></channel></rss>

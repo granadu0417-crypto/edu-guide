@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>로그 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EB%A1%9C%EA%B7%B8/</link>
-    <description>Recent content in 로그 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EB%A1%9C%EA%B7%B8/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>수학 지수와 로그 완벽 정복 가이드 | 1:1 지수로그 과외</title>
-      <link>https://edukoreaai.com/subjects/math/math-exponential-logarithm/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-exponential-logarithm/</guid>
-      <description>&lt;h2 id=&#34;수학-지수와-로그-완벽-정복-가이드&#34;&gt;수학 지수와 로그 완벽 정복 가이드&lt;/h2&gt;&#xA;&lt;p&gt;지수와 로그가 어렵게 느껴지나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;지수법칙이 헷갈려요.&amp;rdquo;&#xA;&amp;ldquo;로그가 뭔지 모르겠어요.&amp;rdquo;&#xA;&amp;ldquo;밑 변환 공식이 복잡해요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;지수와 로그는 &lt;strong&gt;법칙 암기와 상호 관계 이해&lt;/strong&gt;로 정복할 수 있습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;지수&#34;&gt;지수&lt;/h2&gt;&#xA;&lt;h3 id=&#34;지수의-정의&#34;&gt;지수의 정의&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;거듭제곱&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;a^n = a × a × ... × a (n개)&#xA;&#xA;a: 밑 (base)&#xA;n: 지수 (exponent)&#xA;&#xA;예:&#xA;2^3 = 2 × 2 × 2 = 8&#xA;&#xA;→ 반복 곱셈&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>로그 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EB%A1%9C%EA%B7%B8/</link><description>Recent content in 로그 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EB%A1%9C%EA%B7%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>수학 지수와 로그 완벽 정복 가이드 | 1:1 지수로그 과외</title><link>https://edukoreaai.com/subjects/math/math-exponential-logarithm/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-exponential-logarithm/</guid><description>&lt;h2 id="수학-지수와-로그-완벽-정복-가이드">수학 지수와 로그 완벽 정복 가이드&lt;/h2>
+&lt;p>지수와 로그가 어렵게 느껴지나요?&lt;/p>
+&lt;p>&amp;ldquo;지수법칙이 헷갈려요.&amp;rdquo;
+&amp;ldquo;로그가 뭔지 모르겠어요.&amp;rdquo;
+&amp;ldquo;밑 변환 공식이 복잡해요.&amp;rdquo;&lt;/p>
+&lt;p>지수와 로그는 &lt;strong>법칙 암기와 상호 관계 이해&lt;/strong>로 정복할 수 있습니다.&lt;/p>
+&lt;h2 id="지수">지수&lt;/h2>
+&lt;h3 id="지수의-정의">지수의 정의&lt;/h3>
+&lt;p>&lt;strong>거듭제곱&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>a^n = a × a × ... × a (n개)
+
+a: 밑 (base)
+n: 지수 (exponent)
+
+예:
+2^3 = 2 × 2 × 2 = 8
+
+→ 반복 곱셈
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p></description></item></channel></rss>
