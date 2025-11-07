@@ -3,7 +3,7 @@ title: 학원·과외 가이드
 description: 좋은 학원과 과외 선생님을 찾는 방법, 학원 vs 과외 선택 가이드를 제공합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤
   지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을
   도와드립니다.
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
 ---
 
 ## 학원·과외 가이드

@@ -12,7 +12,7 @@ tags:
 - 학원
 - 과외
 - 교육정보
-featured_image: https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop
 ---
 
 ## 지역별 교육 정보

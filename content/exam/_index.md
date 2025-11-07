@@ -3,7 +3,7 @@ title: 시험 대비 전략
 description: 효과적인 시험 준비 방법을 배우세요. 과목별 학습 전략과 실전 테크닉으로 목표 성적을 달성할 수 있도록 안내합니다 시험 준비부터
   실전 응시까지, 체계적인 시험 전략으로 목표 달성을 돕겠습니다. 단계별로 자세하게 안내드립니다 시험 준비부터 실전 응시까지, 체계적인 시험 전략으로
   목표 달성을 돕겠습니다.
-featured_image: https://images.unsplash.com/photo-1733817561081-5a2f1ac6813c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 tags:
 - 가이드
 - 시험대비

@@ -11,7 +11,7 @@ tags:
 - 내신
 - 학습법
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 ---
 
 ## 중학생 학습 가이드
