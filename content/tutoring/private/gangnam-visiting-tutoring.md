@@ -69,5 +69,15 @@ reading_time: 280줄
 
 **Q5. 준비물은?** A5. 교재, 학습 공간, 필기구를 준비하세요.
 
+
+
+## 📚 관련 가이드
+
+- [서초 방문 과외 - 내신·입시 선생님 찾기](/tutoring/private/seocho-visiting-tutoring/)
+- [입시 컨설팅 과외 - 수시·정시 전문가 찾기](/tutoring/private/admission-consulting-tutoring/)
+- [미술 과외 - 입시·취미 전문 선생님 찾기](/tutoring/private/art-tutoring/)
+- [생명과학 과외 - 개념·실험 선생님 찾기](/tutoring/private/biology-tutoring/)
+- [분당 방문 과외 - 판교·정자 선생님 찾기](/tutoring/private/bundang-visiting-tutoring/)
+
 {{< cta-consultation-final >}}
 

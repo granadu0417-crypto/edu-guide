@@ -298,3 +298,13 @@ A. 최근 경험으로 볼 때, 자기주도 학습 능력이 뒷받침되면
 
 좋은 수학 과외는 단순히 문제 푸는 기술이 아니라,
 스스로 생각하고 해결하는 수학적 사고력을 키워줍니다.
+
+
+## 📚 관련 가이드
+
+- [마포구 영어과외 선택법 | 홍대 원어민부터 입시 영어까지 완벽 가이드](/local/seoul/mapo-english-tutoring/)
+- [도봉구 수학과외 핵심 정리 | 창동·방학동 주거 중심 안정적 수학 교육](/local/seoul/dobong-math-tutoring/)
+- [동작구 수학과외 핵심 가이드 | 사당·노량진 대학가 중심 체계적 수학 교육](/local/seoul/dongjak-math-tutoring/)
+- [은평구 수학과외 추천 | 불광·응암 주거 중심 안정적 수학 교육](/local/seoul/eunpyeong-math-tutoring/)
+- [강북구 수학과외 추천 | 수유·미아 국민대 수학교육과 중심 교육](/local/seoul/gangbuk-math-tutoring/)
+

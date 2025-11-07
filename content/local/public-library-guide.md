@@ -805,3 +805,12 @@ A. 상호대차 서비스:
 - 다른 이용자를 배려해주세요
 
 가까운 도서관을 찾아가세요. 책과 지식, 문화가 어려분을 기다리고 있습니다!
+
+## 📚 관련 가이드
+
+- [서울 강남지역 교육 환경 완벽 가이드 - 학군과 교육 인프라 총정리](/local/seoul/seoul-gangnam-education/)
+- [초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법](/local/after-school-program-guide/)
+- [교육지원청·Wee센터 완벽 활용 가이드 - 무료 상담과 지원 서비스](/local/education-support-center-guide/)
+- [교육복지 지원 제도 총정리 - 저소득층 학생 무료 지원 혜택](/local/education-welfare-support-guide/)
+- [무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법](/local/online-education-platform-guide/)
+

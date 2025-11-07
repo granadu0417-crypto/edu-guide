@@ -512,3 +512,13 @@ in/on/at, for/during, by/until 같은 주요 전치사 구별법을 확실히 �
 
 1:1 맞춤 문법 과외로 더욱 빠르게 전치사를 마스터할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [영어 형용사·부사 완벽 정복 | 1:1 문법 과외](/subjects/english/english-adjectives-adverbs/)
+- [비교급·최상급 완벽 활용 | 1:1 문법 과외](/subjects/english/english-comparatives-superlatives/)
+- [영어 접속사 완벽 마스터 | 1:1 문법 과외](/subjects/english/english-conjunctions-mastery/)
+- [부정사·동명사 완벽 구별법 | 1:1 문법 과외](/subjects/english/english-infinitive-gerund/)
+- [영어 조동사 완벽 활용법 | 1:1 문법 과외](/subjects/english/english-modal-verbs/)
+

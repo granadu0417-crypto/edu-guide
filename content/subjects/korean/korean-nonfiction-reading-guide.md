@@ -595,6 +595,16 @@ featured_image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1
 
 비문학 독해 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [국어 독해력 향상 추천 전략 | 초중고 학년별](/subjects/korean/korean-reading-comprehension-guide/)
+- [국어 문법 총정리 완벽 정리 | 품사부터 문장까지 2025](/subjects/korean/korean-grammar-complete-guide/)
+- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
+- [고등학생 국어 공부법 완벽 가이드 | 수능부터 내신까지](/high/high-school-korean-study-guide/index/)
+- [국어 문학 분석 vs 암기 | 시·소설 해석법 비교](/subjects/korean/korean-literature-analysis-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

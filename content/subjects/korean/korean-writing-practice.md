@@ -591,6 +591,16 @@ featured_image: https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=1
 - 성취감
 - 다음 단계
 
+
+## 📚 관련 가이드
+
+- [국어 논술 과외 | 논리구성·표현력·첨삭 완벽 가이드](/subjects/korean/korean-essay-writing/)
+- [국어 작가론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-author-studies/)
+- [국어 고전문학 과외 | 고전소설·시가 완벽 마스터](/subjects/korean/korean-classical-literature/)
+- [국어 의사소통 과외 | 발표·토론·설득 완벽 실전 훈련](/subjects/korean/korean-communication-skills/)
+- [국어 완전정복 종합가이드 - 문법부터 문학까지](/subjects/korean/korean-comprehensive-mastery/)
+
+
 ## FAQ
 
 ### Q1. 글쓰기를 어떻게 시작하나요?

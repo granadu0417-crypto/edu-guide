@@ -411,3 +411,13 @@ featured_image: https://images.unsplash.com/photo-1485322551133-3a4c27a9d925?w=1
 ---
 
 **어법 오류 완벽 정복**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [국어 높임법 완벽 정리 | 1:1 국어 문법 과외 [2025]](/subjects/korean/korean-honorifics/)
+- [국어 문법 실전 문제 풀이 | 1:1 국어 과외 [2025]](/subjects/korean/korean-grammar-practice/)
+- [국어 품사 완벽 가이드 | 1:1 국어 문법 과외 [2025]](/subjects/korean/korean-parts-of-speech/)
+- [국어 문장 성분 완벽 분석 | 1:1 국어 문법 과외 [2025]](/subjects/korean/korean-sentence-components/)
+- [국어 띄어쓰기 정복 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-spacing-rules/)
+

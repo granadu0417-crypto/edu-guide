@@ -586,6 +586,16 @@ featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1
 - 환율 계산
 - 실업률
 
+
+## 📚 관련 가이드
+
+- [사회 통합 완성 가이드 - 역사·지리·일반사회 전 영역](/subjects/social/social-comprehensive-integration/)
+- [사회 과외 | 비판적 사고력 완벽 정복 - 분석·평가·논리 훈련](/subjects/social/social-critical-thinking/)
+- [사회 시사이슈 과외 | 분석력·토론능력 완벽 대비](/subjects/social/social-current-events/)
+- [사회 경제사 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-economic-history/)
+- [사회 금융 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-finance/)
+
+
 ## FAQ
 
 ### Q1. 경제가 왜 중요한가요?

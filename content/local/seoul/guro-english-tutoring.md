@@ -407,3 +407,13 @@ A. 적정 선행은 도움이 됩니다.
 
 영어는 단기간에 완성되는 과목이 아닙니다.
 꾸준함과 적절한 방향 설정이 가장 중요합니다.
+
+
+## 📚 관련 가이드
+
+- [은평구 영어과외 핵심 가이드 | 불광·응암 체계적 영어 교육](/local/seoul/eunpyeong-english-tutoring/)
+- [강동구 영어과외 선택 가이드 - 신흥 교육 지역의 균형 잡힌 영어 학습](/local/seoul/gangdong-english-tutoring/)
+- [강남구 영어과외 선택 가이드 - 전문가가 알려주는 학년별 맞춤 전략](/local/seoul/gangnam-english-tutoring/)
+- [금천구 영어과외 선택 가이드 | 독산·시흥 지역 맞춤형 영어 교육](/local/seoul/geumcheon-english-tutoring/)
+- [구로구 수학과외 완벽 정리 | 가산디지털단지·신도림 실용적 수학 교육](/local/seoul/guro-math-tutoring/)
+

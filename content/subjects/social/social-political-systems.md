@@ -562,6 +562,16 @@ featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1
 - 첨삭 지도
 - 시간 관리
 
+
+## 📚 관련 가이드
+
+- [사회 통합 완성 가이드 - 역사·지리·일반사회 전 영역](/subjects/social/social-comprehensive-integration/)
+- [사회 헌법 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-constitution/)
+- [사회 과외 | 비판적 사고력 완벽 정복 - 분석·평가·논리 훈련](/subjects/social/social-critical-thinking/)
+- [사회 시사이슈 과외 | 분석력·토론능력 완벽 대비](/subjects/social/social-current-events/)
+- [사회 민주주의 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-democracy/)
+
+
 ## FAQ
 
 ### Q1. 정치를 왜 배워야 하나요?

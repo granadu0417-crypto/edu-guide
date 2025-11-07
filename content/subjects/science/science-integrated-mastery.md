@@ -592,6 +592,16 @@ A: 과학탐구는 2과목 60분(각 30분)입니다. 쉬운 문제부터 풀고
 ### Q10: 과학 실력 향상을 위해 1:1 과외가 도움이 되나요?
 A: 네, 1:1 과외는 과학 실력 향상에 매우 효과적입니다. 복잡한 과학 개념을 학생 수준에 맞춰 쉽게 설명해주고, 실험 원리와 자료 해석 능력을 체계적으로 키울 수 있습니다. 특히 계산 문제 풀이와 그래프 해석, 탐구 과정 이해 등에서 즉각적인 피드백을 받을 수 있어 효율적입니다. 선택과목 결정과 학습 전략 수립에도 큰 도움이 됩니다.
 
+
+
+## 📚 관련 가이드
+
+- [과학 화학 결합 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-chemical-bonding/)
+- [과학 화학 반응 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-chemical-reactions/)
+- [과학 개념연결 과외 | 통합사고·융합문제 완벽 대비](/subjects/science/science-concept-connection/)
+- [과학 전기화학 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-electrochemistry/)
+- [과학 화학 평형 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-equilibrium/)
+
 {{< cta-consultation-final >}}
 
 ---

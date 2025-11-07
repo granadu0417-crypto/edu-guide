@@ -77,6 +77,16 @@ reading_time: 280줄
 **Q4. 선생님 선택 기준?** A4. 학력·경력·소통능력을 확인하세요.
 **Q5. 시범 수업?** A5. 필수입니다. 1-2회 받아보고 결정하세요.
 
+
+
+## 📚 관련 가이드
+
+- [초등 수학 과외 - 연산·사고력 선생님 찾기](/tutoring/private/elementary-math-tutoring/)
+- [고등 수학 과외 - 미적분·기하·확통 선생님](/tutoring/private/high-math-tutoring/)
+- [중등 영어 과외 - 문법·독해·듣기 선생님](/tutoring/private/middle-english-tutoring/)
+- [중등 과외 완벽 가이드 - 내신 선생님 찾기](/tutoring/private/middle-tutoring-guide/)
+- [수능 수학 과외 - 모의고사 고득점 선생님](/tutoring/private/suneung-math-tutoring/)
+
 {{< cta-consultation-final >}}
 
 ---

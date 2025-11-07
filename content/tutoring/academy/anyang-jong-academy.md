@@ -62,4 +62,14 @@ reading_time: 285줄
 **Q2. 비용은?** A2. 월 80-130만 원입니다.
 **Q3. 1:1 과외?** A3. 약점 과목만 추천합니다.
 
+
+
+## 📚 관련 가이드
+
+- [평촌 학원가 가이드 - 인덕원·범계 종합 및 1:1 과외](/tutoring/academy/pyeongchon-academy-guide/)
+- [중계동 종합학원 - 수학·영어·국어 통합 관리 및 1:1 과외](/tutoring/academy/junggye-jong-academy/)
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+- [부산 해운대 학원 - 중고등 입시 및 1:1 과외](/tutoring/academy/busan-haeundae-academy/)
+- [대구 수성구 학원 - 수학·영어 특화 및 1:1 과외](/tutoring/academy/daegu-suseong-academy/)
+
 {{< cta-consultation-final >}}

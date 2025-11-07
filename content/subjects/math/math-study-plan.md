@@ -589,3 +589,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 수학 과외로 효과적인 학습 계획을 수립하고 관리할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 계산기 활용 완벽 가이드 | 1:1 수학 계산 과외](/subjects/math/math-calculator-use/)
+- [수학 시간 관리 완벽 가이드 | 1:1 수학 시간 관리 과외](/subjects/math/math-time-management/)
+- [수학 심화 팁 완벽 가이드 | 1:1 수학 심화 과외](/subjects/math/math-advanced-tips/)
+- [수학 흔한 실수 방지 가이드 | 1:1 수학 실수 방지 과외](/subjects/math/math-common-mistakes/)
+- [수학 개념 이해 완벽 가이드 | 1:1 수학 개념 과외](/subjects/math/math-concept-understanding/)
+

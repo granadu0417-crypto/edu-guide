@@ -731,6 +731,16 @@ featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1
 □ 원서 접수 지원
 ```
 
+
+
+## 📚 관련 가이드
+
+- [모의고사 완벽 활용 | 수능 실전 대비](/high/high-final-12/)
+- [고1 학습 시작 전략 | 고교 적응](/high/high-b10-1/)
+- [고2 진로 확정 전략 | 학과 선택](/high/high-b10-2/)
+- [고3 수능 D-300 전략 | 최종 스퍼트](/high/high-b10-3/)
+- [고1 내신 관리법 | 첫 시험 대비](/high/high-b11-1/)
+
 {{< cta-consultation-final >}}
 ## 마무리 및 격려
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}

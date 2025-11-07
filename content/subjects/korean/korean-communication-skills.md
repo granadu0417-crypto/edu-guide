@@ -1069,3 +1069,13 @@ featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1
 - [강남 국어과외](../../local/gangnam-korean/)
 - [서초 국어과외](../../local/seocho-korean/)
 - [송파 국어과외](../../local/songpa-korean/)
+
+
+## 📚 관련 가이드
+
+- [국어 토론 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-debate/)
+- [국어 논술 과외 | 논리구성·표현력·첨삭 완벽 가이드](/subjects/korean/korean-essay-writing/)
+- [국어 과외 | 시 분석 완벽 정복 - 표현기교·주제·정서 해석](/subjects/korean/korean-poetry-analysis/)
+- [국어 발표 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-presentation/)
+- [국어 어휘력 과외 | 한자어·관용어·어원 완벽 확장](/subjects/korean/korean-vocabulary-expansion/)
+

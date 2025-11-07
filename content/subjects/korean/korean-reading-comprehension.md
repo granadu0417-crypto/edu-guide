@@ -624,6 +624,16 @@ featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1
 - 정기적 학습
 - 습관 형성
 
+
+## 📚 관련 가이드
+
+- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
+- [국어 고전문학 과외 | 고전소설·시가 완벽 마스터](/subjects/korean/korean-classical-literature/)
+- [국어 완전정복 종합가이드 - 문법부터 문학까지](/subjects/korean/korean-comprehensive-mastery/)
+- [국어 미디어 리터러시 과외 | 뉴스·광고 비판적 읽기](/subjects/korean/korean-media-literacy/)
+- [국어 비문학 독해 고민? | 유형별 전략 솔루션 2025](/subjects/korean/korean-nonfiction-reading-guide/)
+
+
 ## FAQ
 
 ### Q1. 독해력을 어떻게 키우나요?

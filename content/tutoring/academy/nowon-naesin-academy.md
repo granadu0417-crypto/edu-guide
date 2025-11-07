@@ -241,6 +241,16 @@ A9. 학원에서 분석해줍니다. 1:1 과외 선생님도 학교 기출을 �
 **Q10. 노원 내신학원 vs 강남?**
 A10. 내신은 노원이 가성비가 좋습니다. 강남은 수능·입시에 강하지만, 내신은 지역 학교 전문 학원이 유리합니다.
 
+
+
+## 📚 관련 가이드
+
+- [중계동 종합학원 - 수학·영어·국어 통합 관리 및 1:1 과외](/tutoring/academy/junggye-jong-academy/)
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [중하위권 학원 - 기초부터 탄탄히 및 1:1 과외](/tutoring/academy/basic-academy/)
+- [코딩 학원 - 파이썬·자바·정보올림피아드 및 1:1 과외](/tutoring/academy/coding-academy/)
+- [초등학원 선택 가이드 - 학년별 추천 및 1:1 과외](/tutoring/academy/elementary-academy-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

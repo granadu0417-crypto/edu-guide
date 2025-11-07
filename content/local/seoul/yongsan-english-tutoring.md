@@ -372,3 +372,13 @@ A. 온라인 과외는 영어 학습에 특히 효과적일 수 있습니다.
 
 영어는 단기간에 완성되는 과목이 아닙니다.
 꾸준함과 적절한 방향 설정이 가장 중요합니다.
+
+
+## 📚 관련 가이드
+
+- [용산구 수학과외 완벽 정리 | 한남·이촌 국제학교부터 입시까지](/local/seoul/yongsan-math-tutoring/)
+- [광진구 영어과외 핵심 가이드 | 건대·구의 실용 영어 교육](/local/seoul/gwangjin-english-tutoring/)
+- [마포구 영어과외 선택법 | 홍대 원어민부터 입시 영어까지 완벽 가이드](/local/seoul/mapo-english-tutoring/)
+- [성동구 영어과외 선택법 | 성수·왕십리 실용 영어부터 입시까지](/local/seoul/seongdong-english-tutoring/)
+- [도봉구 영어과외 선택 가이드 | 창동·방학동 체계적 영어 교육](/local/seoul/dobong-english-tutoring/)
+

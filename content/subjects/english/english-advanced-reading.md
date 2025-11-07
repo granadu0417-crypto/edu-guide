@@ -629,6 +629,16 @@ featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1
 - 개선 방향
 - 맞춤 훈련
 
+
+## 📚 관련 가이드
+
+- [영어 악센트별 듣기 가이드 | 1:1 듣기 과외](/subjects/english/english-accents/)
+- [영어 형용사·부사 완벽 정복 | 1:1 문법 과외](/subjects/english/english-adjectives-adverbs/)
+- [영어 고급 어휘 완벽 가이드 | 1:1 고급 어휘 과외](/subjects/english/english-advanced-vocabulary/)
+- [영어 빈칸 추론 완벽 대비 | 1:1 독해 과외](/subjects/english/english-blank-inference/)
+- [비즈니스 영어 기초 가이드 | 1:1 비즈니스 영어 과외](/subjects/english/english-business/)
+
+
 ## FAQ
 
 ### Q1. 고급 독해는 언제부터 시작하나요?

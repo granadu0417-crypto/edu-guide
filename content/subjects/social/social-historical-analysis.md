@@ -603,3 +603,13 @@ featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1
 지금 바로 시작하여 역사의 흐름을 명확히 이해하고, 역사적 사고력을 길러가세요.
 
 {{< cta-dual type="final" >}}
+
+
+## 📚 관련 가이드
+
+- [사회 통합 완성 가이드 - 역사·지리·일반사회 전 영역](/subjects/social/social-comprehensive-integration/)
+- [사회 과외 | 비판적 사고력 완벽 정복 - 분석·평가·논리 훈련](/subjects/social/social-critical-thinking/)
+- [사회 지리 과외 | 지형·기후·인구·산업 완벽 탐구](/subjects/social/social-geography-skills/)
+- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
+- [세계사 연표 정복 프리미엄 가이드 | 1:1 맞춤 암기법](/subjects/social/world-history-timeline/)
+

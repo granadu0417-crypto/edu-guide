@@ -446,3 +446,13 @@ A. 비용은 저렴하지만 (50% 수준), 개인 맞춤은 어렵습니다. 친
 
 **작성일**: 2025-01-26
 **카테고리**: 학원·과외 선택가이드
+
+
+## 📚 관련 가이드
+
+- [온라인 화상과외 완벽 가이드 | 장단점부터 선택법까지](/tutoring/online-video-tutoring-guide/index/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [온라인 과외 vs 오프라인 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/online-vs-offline-tutoring/)
+- [온라인 과외 vs 방문 과외 비교 - 완벽한 선택 가이드](/tutoring/guide/online-vs-visit-tutoring-comparison/)
+- [대전 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/daejeon-education/)
+

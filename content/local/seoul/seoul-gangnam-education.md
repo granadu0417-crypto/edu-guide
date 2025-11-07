@@ -618,3 +618,12 @@ featured_image: https://images.pexels.com/photos/6280728/pexels-photo-6280728.jp
 - 행복한 학교생활
 
 여러분 가정에 좋은 교육 환경과 행복한 학습이 함께하기를 바랍니다!
+
+## 📚 관련 가이드
+
+- [경기도 주요 지역 교육 환경 가이드 - 학군과 교육 인프라 총정리](/local/gyeonggi/gyeonggi-education-guide/)
+- [전국 공공도서관 활용 완벽 가이드 - 무료 학습공간과 교육 프로그램](/local/public-library-guide/)
+- [초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법](/local/after-school-program-guide/)
+- [교육지원청·Wee센터 완벽 활용 가이드 - 무료 상담과 지원 서비스](/local/education-support-center-guide/)
+- [교육복지 지원 제도 총정리 - 저소득층 학생 무료 지원 혜택](/local/education-welfare-support-guide/)
+

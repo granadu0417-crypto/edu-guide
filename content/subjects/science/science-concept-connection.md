@@ -594,6 +594,16 @@ featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1
 - 탐구 과정
 - 발표 준비
 
+
+## 📚 관련 가이드
+
+- [과학 실생활응용 과외 | 일상 속 과학원리 완벽 이해](/subjects/science/science-real-life-application/)
+- [과학 통합 완성 가이드 - 물화생지 전 영역 정복](/subjects/science/science-integrated-mastery/)
+- [과학 실험보고서 과외 | 작성법·분석법 완벽 마스터](/subjects/science/science-lab-report/)
+- [과학 관찰력 과외 | 실험·탐구·기록 능력 완벽 향상](/subjects/science/science-observation-skills/)
+- [과학 산과 염기 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-acid-base/)
+
+
 ## FAQ
 
 ### Q1. 개념 연결을 어떻게 시작하나요?

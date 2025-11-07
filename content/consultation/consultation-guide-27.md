@@ -114,6 +114,16 @@ A: **가능합니다**. 화상 상담으로 시간과 장소 제약 없이 받�
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [고급 학습 동기 부여 상담 | 자기주도 학습 시작](/consultation/consultation-guide-47/)
+- [마스터 학습 동기 부여 상담 | 자기주도 학습 시작](/consultation/consultation-guide-67/)
+- [학습 동기 부여 상담 | 자기주도 학습 시작](/consultation/consultation-guide-7/)
+- [학습 방향 설정 상담 | 맞춤형 학습 로드맵](/consultation/consultation-guide-1/)
+- [학부모 교육 상담 | 자녀 학습 지도 방법](/consultation/consultation-guide-10/)
+
 {{< cta-consultation-final >}}
 
 ---

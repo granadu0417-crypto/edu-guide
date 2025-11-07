@@ -735,6 +735,16 @@ featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1
 **가정법 과거완료**
 - I wish I had studied. (과거 후회)
 
+
+## 📚 관련 가이드
+
+- [영어 시제 완벽 정복 | 1:1 문법 과외 가이드](/subjects/english/english-tenses-mastery/)
+- [영어 형용사·부사 완벽 정복 | 1:1 문법 과외](/subjects/english/english-adjectives-adverbs/)
+- [영어 고급독해 과외 | 복잡구문·논리분석 완벽 마스터](/subjects/english/english-advanced-reading/)
+- [비교급·최상급 완벽 활용 | 1:1 문법 과외](/subjects/english/english-comparatives-superlatives/)
+- [영어 접속사 완벽 마스터 | 1:1 문법 과외](/subjects/english/english-conjunctions-mastery/)
+
+
 ## FAQ
 
 ### Q1. 문법을 어디서부터 시작하나요?

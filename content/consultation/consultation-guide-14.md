@@ -116,6 +116,16 @@ A: **가능합니다**. 화상 상담으로 시간과 장소 제약 없이 받�
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [학습 방향 설정 상담 | 맞춤형 학습 로드맵](/consultation/consultation-guide-1/)
+- [성적 향상 컨설팅 | 단기 성적 개선 전략](/consultation/consultation-guide-11/)
+- [학습 환경 조성 상담 | 최적의 공부 환경](/consultation/consultation-guide-12/)
+- [독서 습관 형성 상담 | 효과적인 독서 전략](/consultation/consultation-guide-13/)
+- [예습 방법 컨설팅 | 선행 학습 효율화](/consultation/consultation-guide-16/)
+
 {{< cta-consultation-final >}}
 
 ---

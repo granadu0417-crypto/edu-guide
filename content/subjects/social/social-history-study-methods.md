@@ -744,6 +744,16 @@ How (어떻게):
 
 역사 학습을 위한 맞춤 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [사회 논술 대비 완벽 정리 | 서술·논술 답안 2025](/subjects/social/social-essay-writing/)
+- [사회 지리 vs 역사 학습 | 자연·인문 비교 2025](/subjects/social/social-geography-mastery/)
+- [사회 암기 전략 추천 방법 | 역사·지리 용어 2025](/subjects/social/social-memorization-strategies/)
+- [사회 통합 완성 가이드 - 역사·지리·일반사회 전 영역](/subjects/social/social-comprehensive-integration/)
+- [사회 역사 과외 | 사료해석·인과관계 완벽 분석](/subjects/social/social-historical-analysis/)
+
 {{< cta-consultation-final >}}
 
 ---

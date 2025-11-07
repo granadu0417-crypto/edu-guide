@@ -590,3 +590,13 @@ featured_image: https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200
 지금 바로 시작하여 지리의 논리를 명확히 이해하고, 세상을 보는 눈을 넓혀가세요.
 
 {{< cta-dual type="final" >}}
+
+
+## 📚 관련 가이드
+
+- [사회 지도독해 과외 | 지형도·통계지도 완벽 해석](/subjects/social/social-map-reading/)
+- [사회 기후 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-climate-geography/)
+- [사회 과외 | 비판적 사고력 완벽 정복 - 분석·평가·논리 훈련](/subjects/social/social-critical-thinking/)
+- [사회 역사 과외 | 사료해석·인과관계 완벽 분석](/subjects/social/social-historical-analysis/)
+- [사회 산업 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-industry-geography/)
+

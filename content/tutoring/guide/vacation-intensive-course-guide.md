@@ -246,6 +246,16 @@ reading_time: 305줄
 - [ ] 개학 후 첫 시험 대비 계획을 세웠는가?
 - [ ] 특강 경험을 바탕으로 다음 방학 계획을 세웠는가?
 
+
+## 📚 관련 가이드
+
+- [방학 학습 계획 가이드 - 여름·겨울 방학 학원 과외 완벽 전략](/tutoring/guide/summer-winter-vacation-planning/)
+- [심화 학습 전략 가이드 - 상위권 도약을 위한 1:1 과외 활용](/tutoring/guide/advanced-learning-strategy/)
+- [학원 과외 비용 관리 가이드 - 효율적인 사교육비 절감 전략](/tutoring/guide/cost-management-guide/)
+- [영재 학생 교육 전략 가이드 - 심화 학습과 1:1 과외 활용법](/tutoring/guide/gifted-education-strategy/)
+- [그룹 과외 vs 1대1 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/group-vs-individual-tutoring/)
+
+
 ## FAQ
 
 **Q1. 방학 특강은 꼭 들어야 하나요?**

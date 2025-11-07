@@ -548,6 +548,16 @@ featured_image: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1
 - 증명 작성
 - 엄밀한 표현
 
+
+## 📚 관련 가이드
+
+- [수학 벡터 완벽 정복 가이드 | 1:1 벡터 과외](/subjects/math/math-vectors/)
+- [공간도형과 좌표 완벽 가이드 | 1:1 공간도형 과외](/subjects/math/math-spatial-geometry/)
+- [수학 대수 과외 | 방정식·부등식·함수 완벽 마스터](/subjects/math/math-algebra-mastery/)
+- [수학 미적분 과외 | 극한·미분·적분 완벽 입문](/subjects/math/math-calculus-introduction/)
+- [수학 완벽 로드맵 - 기초부터 심화까지 총정리](/subjects/math/math-complete-roadmap/)
+
+
 ## FAQ
 
 ### Q1. 기하가 왜 어려운가요?

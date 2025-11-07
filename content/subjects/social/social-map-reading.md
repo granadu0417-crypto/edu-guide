@@ -600,6 +600,16 @@ featured_image: https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?w=1
 - 응용 문제
 - 창의적 활용
 
+
+## 📚 관련 가이드
+
+- [사회 지리 과외 | 지형·기후·인구·산업 완벽 탐구](/subjects/social/social-geography-skills/)
+- [사회 시사이슈 과외 | 분석력·토론능력 완벽 대비](/subjects/social/social-current-events/)
+- [사회 절대왕정 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-absolute-monarchy/)
+- [사회 고대 문명 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-civilizations/)
+- [사회 고조선 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-korea/)
+
+
 ## FAQ
 
 ### Q1. 지도를 어디서부터 봐야 하나요?

@@ -147,6 +147,16 @@ A9. 목표와 적성에 따라 다릅니다. 신중히 결정하세요.
 **Q10. 준비 과정이 힘든데요?**
 A10. 힘들지만 목표가 명확하면 가능합니다. 1:1 과외 선생님의 멘토링이 큰 도움이 됩니다.
 
+
+
+## 📚 관련 가이드
+
+- [대전 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/daejeon-education/)
+- [영재 학생 교육 전략 가이드 - 심화 학습과 1:1 과외 활용법](/tutoring/guide/gifted-education-strategy/)
+- [서초 영재교육 학원 - 과학고·영재학교 대비 전문 및 1:1 과외](/tutoring/academy/seocho-gifted-academy/)
+- [심화 학습 전략 가이드 - 상위권 도약을 위한 1:1 과외 활용](/tutoring/guide/advanced-learning-strategy/)
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+
 {{< cta-consultation-final >}}
 
 ---

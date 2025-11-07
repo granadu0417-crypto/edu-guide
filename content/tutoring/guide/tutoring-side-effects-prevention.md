@@ -313,6 +313,16 @@ A9. 다른 아이와 비교하지 마세요. 내 자녀에게 맞는 적정량�
 **Q10. 건강한 1:1 과외 활용법은?**
 A10. 약점 1-2과목만 주 2-3회 이하, 자기주도 학습과 병행, 주 1일 완전 휴식, 충분한 수면과 운동, 선생님은 방향 제시 역할, 학생은 스스로 학습이 핵심입니다.
 
+
+
+## 📚 관련 가이드
+
+- [건강한 학습 습관 형성 가이드 - 1:1 과외로 평생 가는 공부 습관 만들기](/tutoring/guide/healthy-study-habits/)
+- [친구와 과외 가이드 - 또래 학습과 스터디 그룹 활용 전략](/tutoring/guide/peer-tutoring-guide/)
+- [지방 거주 학생 교육 전략 - 온라인 1:1 과외와 효율적 학습 방법](/tutoring/guide/rural-student-strategy/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+
 {{< cta-consultation-final >}}
 
 ---

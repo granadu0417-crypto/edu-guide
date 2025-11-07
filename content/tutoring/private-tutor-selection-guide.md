@@ -430,6 +430,16 @@ A: **장단점이 명확함**
 신중하게 선택하고, 적극적으로 소통하며,
 아이의 변화를 지켜봐 주세요.
 
+
+
+## 📚 관련 가이드
+
+- [학원 vs 과외, 어떤 게 우리 아이에게 맞을까?](/tutoring/guide/academy-vs-private/)
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [중하위권 학원 - 기초부터 탄탄히 및 1:1 과외](/tutoring/academy/basic-academy/)
+- [초등학원 선택 가이드 - 학년별 추천 및 1:1 과외](/tutoring/academy/elementary-academy-guide/)
+- [고등학원 입시 전략 - 수시·정시 및 1:1 과외](/tutoring/academy/high-academy-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

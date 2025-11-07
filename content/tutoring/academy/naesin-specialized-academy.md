@@ -43,4 +43,14 @@ reading_time: 270줄
 **Q1. 어떤 유형이 좋은가요?** A1. 학생에 따라 다릅니다.
 **Q2. 1:1 과외는?** A2. 병행 추천합니다.
 
+
+
+## 📚 관련 가이드
+
+- [종합반 학원 - 올인원 관리 및 1:1 과외](/tutoring/academy/jonghapban-academy/)
+- [대형학원 - 스타강사·시스템 및 1:1 과외](/tutoring/academy/large-academy/)
+- [자율학습 학원 - 독서실+질의응답 및 1:1 과외](/tutoring/academy/self-study-academy/)
+- [수능 전문 학원 - 모의고사·파이널 및 1:1 과외](/tutoring/academy/suneung-specialized-academy/)
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+
 {{< cta-consultation-final >}}

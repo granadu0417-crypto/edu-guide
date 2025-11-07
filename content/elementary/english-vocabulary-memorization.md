@@ -382,6 +382,16 @@ apple
 오늘부터 하루 3단어씩, 재미있게 시작해보세요!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [파닉스 완벽 가이드 | 영어 읽기 기초](/elementary/english-phonics-guide/)
+- [받아쓰기 완벽 대비 | 맞춤법 정복](/elementary/dictation-preparation/)
+- [초1 학교생활 가이드 | 친구 사귀기](/elementary/elem-b9-2/)
+- [초등 1학년 공부법 | 기초 학습](/elementary/elem-b9-3/)
+- [초1 학습 습관 시작 | 즐거운 공부](/elementary/elem-b9-4/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 학습 가이드이며, 개별 아이의 수준과 학습 스타일에 맞춰 적절히 조절하여 활용하시기 바랍니다.*

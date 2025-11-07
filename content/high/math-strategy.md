@@ -726,6 +726,16 @@ log 진수: 양수
 - 킬러: 자이스토리, 블랙라벨
 - 모의고사: 메가스터디, 이투스
 
+
+
+## 📚 관련 가이드
+
+- [고등 영어 학습 전략 | 수능 완벽 대비](/high/english-strategy/)
+- [모의고사 활용 전략 | 실전 감각 유지](/high/mock-exam-strategy/)
+- [완벽 고등 독서 활동 | 심화 독서 전략](/high/suneung-d100-strategy/)
+- [진로와 학과 선택 가이드 | 미래 설계](/high/career-major-guide/)
+- [고1 학습 시작 전략 | 고교 적응](/high/high-b10-1/)
+
 {{< cta-consultation-final >}}
 ## 마무리 및 격려
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}

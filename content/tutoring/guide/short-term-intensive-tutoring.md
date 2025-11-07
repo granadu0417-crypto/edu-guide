@@ -205,6 +205,16 @@ reading_time: 302줄
 - [ ] 오답 노트를 최종 점검했는가?
 - [ ] 시험 시간 배분 전략을 세웠는가?
 
+
+## 📚 관련 가이드
+
+- [시험 직전 준비 전략 가이드 - D-7부터 시험 당일까지 완벽 대비](/tutoring/guide/exam-last-minute-prep/)
+- [시험 망쳤을 때 대처법 - 긴급 복구 및 재도약 전략](/tutoring/guide/exam-panic-recovery-guide/)
+- [내신 전문 학원 선택법 - 학교 시험 완벽 대비 전략](/tutoring/guide/naesin-specialized-academy-selection/)
+- [방학 학습 계획 가이드 - 여름·겨울 방학 학원 과외 완벽 전략](/tutoring/guide/summer-winter-vacation-planning/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+
+
 ## FAQ
 
 **Q1. 시험까지 1주일밖에 안 남았는데 과외가 도움이 될까요?**

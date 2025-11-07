@@ -562,6 +562,16 @@ A: 네, 효과적으로 활용하면 좋습니다. 학원에서 체계적인 학
 ### Q10: 그룹 과외가 우리 아이에게 효과적일까요?
 A: 많은 경우 매우 효과적입니다. 특히 친한 친구와 함께 공부하고 싶어하는 학생, 경쟁을 통해 동기부여 되는 학생, 1:1은 부담스럽고 학원은 너무 많은 학생에게 적합합니다. 경제적이면서도 적절한 관리를 받을 수 있고, 친구들과 함께 공부하며 사회성도 기를 수 있습니다. 다만 구성원 선택이 매우 중요하므로, 수준과 목표가 비슷한 친구들로 신중하게 구성하세요.
 
+
+
+## 📚 관련 가이드
+
+- [그룹 과외 vs 1대1 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/group-vs-individual-tutoring/)
+- [1대1 과외 장단점 완벽 분석 - 맞춤 학습의 모든 것](/tutoring/guide/one-on-one-tutoring-pros-cons/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [초등학생 학원 vs 과외 선택 가이드 - 우리 아이에게 맞는 학습 찾기](/tutoring/guide/elementary-academy-vs-tutor-guide/)
+- [수학 학원 vs 과외 비교 - 우리 아이에게 맞는 선택은?](/tutoring/guide/math-academy-vs-tutor-comparison/)
+
 {{< cta-consultation-final >}}
 
 ---

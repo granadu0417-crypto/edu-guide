@@ -489,6 +489,16 @@ A: 정해진 시기는 없습니다. 아이가 학교 수업을 따라가기 어
 ### Q10: 1:1 과외가 우리 아이에게 도움이 될까요?
 A: 1:1 과외는 맞춤형 학습이 필요한 경우 매우 효과적입니다. 특히 기초가 부족하거나, 특정 과목이 많이 약하거나, 학습 습관을 잡아야 할 때 좋습니다. 선생님이 아이의 수준과 속도에 맞춰 지도하므로 효율적이며, 즉각적인 질문과 답변이 가능해 이해도가 높아집니다. 또한 아이의 성향과 학습 스타일을 고려한 맞춤 지도로 학습 효과를 극대화할 수 있습니다.
 
+
+
+## 📚 관련 가이드
+
+- [학원 선택 완벽 체크리스트 - 등록 전 필수 확인사항 (2025)](/tutoring/academy/academy-selection-checklist/)
+- [고등학생 학원 선택 기준 - 내신과 수능 모두 잡는 전략](/tutoring/guide/high-school-academy-selection-criteria/)
+- [수학 학원 vs 과외 비교 - 우리 아이에게 맞는 선택은?](/tutoring/guide/math-academy-vs-tutor-comparison/)
+- [중학생 과외 선택 완벽 가이드 - 내신부터 입시까지](/tutoring/guide/middle-school-tutor-selection-guide/)
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

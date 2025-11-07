@@ -311,6 +311,16 @@ Q. 1+2+3+...+100 = ?
 
 {{< cta-dual type="final" >}}
 
+
+## 📚 관련 가이드
+
+- [수학 올림피아드 대회 완벽 준비 가이드 | 1:1 과외로 수상 도전 [2025]](/subjects/math/math-olympiad/)
+- [수학 선행학습 전략 완벽 가이드 | 1:1 과외로 올바른 선행 [2025]](/subjects/math/math-advanced-learning/)
+- [수학 관련 진로 탐색 완벽 가이드 | 1:1 과외로 미래 설계 [2025]](/subjects/math/math-careers/)
+- [대학 수학 미리보기 완벽 가이드 | 1:1 과외로 선행 준비 [2025]](/subjects/math/math-college-level/)
+- [수학 대회 총정리 완벽 가이드 | 1:1 과외로 수상 도전 [2025]](/subjects/math/math-competitions/)
+
+
 ## FAQ
 
 ### Q1. 영재교육원 꼭 가야 하나요?

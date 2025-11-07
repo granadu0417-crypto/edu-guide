@@ -481,6 +481,16 @@ P(A) = (사건 A가 일어나는 경우의 수) / (전체 경우의 수)
 
 수학 개념 학습을 위한 맞춤 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [수학 기초 vs 심화 학습 | 연산~응용 균형 비교](/subjects/math/math-foundation-building/)
+- [수학 실수 고민? | 완벽 검산 전략 솔루션 2025](/subjects/math/math-mistake-prevention/)
+- [수학 완벽 로드맵 - 기초부터 심화까지 총정리](/subjects/math/math-complete-roadmap/)
+- [초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략](/elementary/elementary-math-study-guide/index/)
+- [수학 선행학습 전략 완벽 가이드 | 1:1 과외로 올바른 선행 [2025]](/subjects/math/math-advanced-learning/)
+
 {{< cta-consultation-final >}}
 
 ---

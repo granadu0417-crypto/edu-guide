@@ -804,3 +804,12 @@ A. 진학 가능:
 - 행복한 학교생활이 최우선입니다
 
 우리 아이에게 맞는 최선의 학교를 선택하시기 바랍니다!
+
+## 📚 관련 가이드
+
+- [초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법](/local/after-school-program-guide/)
+- [교육지원청·Wee센터 완벽 활용 가이드 - 무료 상담과 지원 서비스](/local/education-support-center-guide/)
+- [교육복지 지원 제도 총정리 - 저소득층 학생 무료 지원 혜택](/local/education-welfare-support-guide/)
+- [무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법](/local/online-education-platform-guide/)
+- [학원 선택 완벽 가이드 - 우리 아이에게 맞는 학원 찾기](/local/private-academy-selection-guide/)
+

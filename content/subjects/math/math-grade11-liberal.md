@@ -595,3 +595,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 문과 수학 과외로 수능까지 완벽 대비할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 지수와 로그 완벽 정복 가이드 | 1:1 지수로그 과외](/subjects/math/math-exponential-logarithm/)
+- [고2 이과 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade11-science/)
+- [고3 문과 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade12-liberal/)
+- [중2 수학 완벽 가이드 | 1:1 중등 수학 과외](/subjects/math/math-grade8/)
+- [확률과 통계 심화 완벽 가이드 | 1:1 확률통계 과외](/subjects/math/math-probability-statistics/)
+

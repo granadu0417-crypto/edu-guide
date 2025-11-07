@@ -97,6 +97,16 @@ A: **학습 후 보상**으로 제공하되, 시간 제한(하루 30분~1시간)
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [초1 학교생활 가이드 | 친구 사귀기](/elementary/elem-b9-2/)
+- [초등 1학년 공부법 | 기초 학습](/elementary/elem-b9-3/)
+- [초1 학습 습관 시작 | 즐거운 공부](/elementary/elem-b9-4/)
+- [마스터 초등 과학 학습법 | 탐구력 키우기](/elementary/elementary-final-70/)
+- [받아쓰기 완벽 대비 | 맞춤법 정복](/elementary/dictation-preparation/)
+
 {{< cta-consultation-final >}}
 
 ---

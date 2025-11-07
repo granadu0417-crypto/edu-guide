@@ -934,3 +934,13 @@ A. **모든 과목과 삶에 필요**합니다.
 질문→토론→논술까지 체계적으로 정복합니다.
 
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [사회 시사이슈 과외 | 분석력·토론능력 완벽 대비](/subjects/social/social-current-events/)
+- [사회 지리 과외 | 지형·기후·인구·산업 완벽 탐구](/subjects/social/social-geography-skills/)
+- [사회 역사 과외 | 사료해석·인과관계 완벽 분석](/subjects/social/social-historical-analysis/)
+- [사회 절대왕정 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-absolute-monarchy/)
+- [사회 고대 문명 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-civilizations/)
+

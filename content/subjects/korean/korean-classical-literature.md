@@ -520,3 +520,13 @@ featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1
 5. **주간 복습·테스트**
 
 고전문학으로 수능 국어를 정복하세요!
+
+
+## 📚 관련 가이드
+
+- [국어 고전소설 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-classical-novel/)
+- [국어 소설분석 과외 | 인물·사건·주제 완벽 파악](/subjects/korean/korean-novel-analysis/)
+- [국어 독해력 과외 | 문단분석·주제파악 완벽 훈련](/subjects/korean/korean-reading-comprehension/)
+- [고등학생 국어 공부법 완벽 가이드 | 수능부터 내신까지](/high/high-school-korean-study-guide/index/)
+- [국어 의사소통 과외 | 발표·토론·설득 완벽 실전 훈련](/subjects/korean/korean-communication-skills/)
+

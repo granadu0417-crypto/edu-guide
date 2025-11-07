@@ -228,6 +228,16 @@ A9. 심화 전문 학원을 선택하세요. 송파에도 경시 대비 학원�
 **Q10. 온라인 수학 학원은?**
 A10. 온라인은 저렴하고 시간 자유롭지만 관리가 약합니다. 자기주도 학습이 되면 온라인+1:1 과외도 좋은 선택입니다.
 
+
+
+## 📚 관련 가이드
+
+- [잠실 입시학원 - 고3 수능 집중 학원 및 1:1 과외 전략](/tutoring/academy/jamsil-admission-academy/)
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+- [분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외](/tutoring/academy/bundang-math-academy/)
+- [대치동 수학학원 추천 - 입시 명문 학원 비교 및 1:1 과외 병행 전략](/tutoring/academy/daechi-math-academy/)
+- [초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외](/tutoring/academy/elementary-math-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

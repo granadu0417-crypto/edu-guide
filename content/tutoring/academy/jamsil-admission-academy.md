@@ -225,6 +225,16 @@ A9. 합격 실적, 모의고사 시스템, 강사진, 관리 체계를 확인하
 **Q10. 번아웃이 걱정되는데?**
 A10. 적절한 휴식이 필수입니다. 주 1일은 완전 휴식하고, 수면 7시간은 확보하세요. 1:1 과외 선생님이 멘탈 케어도 해주어야 합니다.
 
+
+
+## 📚 관련 가이드
+
+- [송파 수학학원 - 잠실·문정·가락 지역별 추천 및 1:1 과외](/tutoring/academy/songpa-math-academy/)
+- [대치동 수학학원 추천 - 입시 명문 학원 비교 및 1:1 과외 병행 전략](/tutoring/academy/daechi-math-academy/)
+- [신촌 대학입시 학원 - 재수·N수 전문 학원 및 1:1 멘토링](/tutoring/academy/sinchon-jaesu-academy/)
+- [특목고 입시학원 - 과학고·외고·국제고 및 1:1 과외](/tutoring/academy/special-highschool-academy/)
+- [수원 입시학원 - 영통·광교·인계 및 1:1 과외](/tutoring/academy/suwon-admission-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -1084,3 +1084,13 @@ A. **집중 훈련으로 가능**합니다.
 기초 연산→암산→빠른 계산법까지 체계적으로 완성합니다.
 
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 대수 과외 | 방정식·부등식·함수 완벽 마스터](/subjects/math/math-algebra-mastery/)
+- [수학 미적분 과외 | 극한·미분·적분 완벽 입문](/subjects/math/math-calculus-introduction/)
+- [수학 흔한 실수 방지 가이드 | 1:1 수학 실수 방지 과외](/subjects/math/math-common-mistakes/)
+- [수학 복소수 완벽 정복 가이드 | 1:1 복소수 과외](/subjects/math/math-complex-numbers/)
+- [수학 암산 기술 완벽 가이드 | 1:1 암산 훈련 과외](/subjects/math/math-mental-math/)
+

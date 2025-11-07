@@ -429,3 +429,13 @@ A. 나이와 목표에 따라 다릅니다.
 
 영어는 단기간에 완성되는 과목이 아닙니다.
 꾸준함과 적절한 방향 설정이 가장 중요합니다.
+
+
+## 📚 관련 가이드
+
+- [강북구 수학과외 추천 | 수유·미아 국민대 수학교육과 중심 교육](/local/seoul/gangbuk-math-tutoring/)
+- [도봉구 영어과외 선택 가이드 | 창동·방학동 체계적 영어 교육](/local/seoul/dobong-english-tutoring/)
+- [강동구 영어과외 선택 가이드 - 신흥 교육 지역의 균형 잡힌 영어 학습](/local/seoul/gangdong-english-tutoring/)
+- [관악구 영어과외 선택 가이드 | 서울대 영문과가 만드는 차별화된 영어 교육](/local/seoul/gwanak-english-tutoring/)
+- [중랑구 영어과외 선택법 | 면목·망우 경희대 영문과 중심 영어 교육](/local/seoul/jungnang-english-tutoring/)
+

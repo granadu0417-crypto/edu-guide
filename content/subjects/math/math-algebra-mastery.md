@@ -909,3 +909,13 @@ f(a) = 0이면 (x-a)가 f(x)의 인수
 - [대치 수학과외](../../local/daechi-math/)
 - [분당 수학과외](../../local/bundang-math/)
 - [목동 수학과외](../../local/mokdong-math/)
+
+
+## 📚 관련 가이드
+
+- [수학 미적분 과외 | 극한·미분·적분 완벽 입문](/subjects/math/math-calculus-introduction/)
+- [수학 개념 이해 완벽 가이드 | 1:1 수학 개념 과외](/subjects/math/math-concept-understanding/)
+- [수학 미분 완벽 정복 가이드 | 1:1 미분 과외](/subjects/math/math-differentiation/)
+- [수학 함수 과외 | 함수 개념부터 그래프까지 완벽 이해](/subjects/math/math-functions-understanding/)
+- [고1 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade10/)
+

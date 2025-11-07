@@ -266,6 +266,16 @@ reading_time: 315줄
 - [ ] 당일 복습
 - [ ] 선생님 피드백
 
+
+## 📚 관련 가이드
+
+- [성적 올리는 비법 - 학원 과외 활용한 단기 성적 향상 전략](/tutoring/guide/grade-improvement-strategies/)
+- [대전 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/daejeon-education/)
+- [특목고 준비 학원 과외 가이드 - 과학고·외고·국제고 입시 전략](/tutoring/guide/special-high-school-prep/)
+- [학습 환경 최적화 가이드 - 집중력 높이는 공부 공간 만들기](/tutoring/guide/study-environment-optimization/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+
+
 ## FAQ
 
 **Q1. 공부해도 성적이 안 오르는 이유는?**

@@ -341,6 +341,16 @@ featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1
 오늘부터 차근차근 준비해보세요. 만점의 기쁨을 느끼게 될 거예요!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [초등 4학년 과목별 전략 | 핵심 학습법](/elementary/elem-b10-3/)
+- [초등 5학년 학습법 | 심화 학습 시작](/elementary/elem-b11-1/)
+- [초5 공부 습관 완성 | 중등 준비](/elementary/elem-b11-2/)
+- [초등 5학년 과목 전략 | 응용력 향상](/elementary/elem-b11-3/)
+- [초5 심화 학습 가이드 | 창의적 사고](/elementary/elem-b11-4/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 학습 가이드이며, 개별 아이의 수준과 학습 스타일에 맞춰 적절히 조절하여 활용하시기 바랍니다.*

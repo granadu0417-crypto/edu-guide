@@ -695,6 +695,16 @@ Day 31: 복습 (1개월 후)
 
 사회 과목 암기를 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [사회 논술 대비 완벽 정리 | 서술·논술 답안 2025](/subjects/social/social-essay-writing/)
+- [과학 암기 고민? | 생물·지구과학 전략 솔루션 2025](/subjects/science/science-memorization-strategies/)
+- [사회 지리 vs 역사 학습 | 자연·인문 비교 2025](/subjects/social/social-geography-mastery/)
+- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
+- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -256,6 +256,16 @@ reading_time: 312줄
 - [ ] 비용 부담을 감당할 수 있는가?
 - [ ] 과외로 보완할 과목이 명확한가?
 
+
+## 📚 관련 가이드
+
+- [관리형 학원 선택법 - 학습 관리부터 생활 관리까지 완벽 가이드](/tutoring/guide/managed-academy-selection-guide/)
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+- [종합 학원 추천 방법 - 전 과목 통합 관리 완벽 가이드](/tutoring/guide/comprehensive-academy-recommendation/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 선택 완벽 체크리스트 - 등록 전 필수 확인사항 (2025)](/tutoring/academy/academy-selection-checklist/)
+
+
 ## FAQ
 
 **Q1. 자율형 학원과 관리형 학원 중 어느 것이 성적 향상에 더 효과적인가요?**

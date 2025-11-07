@@ -275,6 +275,16 @@ A9. 온라인 과외 중개 플랫폼에서 '온라인 수업 가능' 필터로 
 **Q10. 지방 학생만의 강점은 없나요?**
 A10. 있습니다! 지방 학생은 수도권 학생보다 유혹이 적고, 자기주도 학습 능력이 강해집니다. 또한 지역 인재 전형으로 대학 진학 기회가 있습니다. 온라인 1:1 과외로 약점을 보완하면 오히려 유리할 수 있습니다.
 
+
+
+## 📚 관련 가이드
+
+- [교육 격차 해소 전략 - 1:1 과외와 정부 지원으로 기회 평등 실현하기](/tutoring/guide/education-gap-strategy/)
+- [온라인 과외 vs 오프라인 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/online-vs-offline-tutoring/)
+- [심화 학습 전략 가이드 - 상위권 도약을 위한 1:1 과외 활용](/tutoring/guide/advanced-learning-strategy/)
+- [학원 과외 비용 관리 가이드 - 효율적인 사교육비 절감 전략](/tutoring/guide/cost-management-guide/)
+- [대전 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/daejeon-education/)
+
 {{< cta-consultation-final >}}
 
 ---

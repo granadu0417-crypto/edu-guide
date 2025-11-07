@@ -124,6 +124,16 @@ A: **3개월 후에도 성적 변화가 없거나** **소통이 안 되면** 교
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [고등 과외 전략 | 수능과 내신 병행](/tutoring/tutoring-guide-11/)
+- [실전 고등 과외 전략 | 수능과 내신 병행](/tutoring/tutoring-guide-31/)
+- [중등 과외 활용법 | 내신 집중 관리](/tutoring/tutoring-guide-10/)
+- [실전 중등 과외 활용법 | 내신 집중 관리](/tutoring/tutoring-guide-30/)
+- [고급 중등 과외 활용법 | 내신 집중 관리](/tutoring/tutoring-guide-50/)
+
 {{< cta-consultation-final >}}
 
 ---

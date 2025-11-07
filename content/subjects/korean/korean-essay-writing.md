@@ -589,3 +589,13 @@ featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1
 지금 바로 시작하여 논리적이고 설득력 있는 글을 쓰는 능력을 키워보세요.
 
 {{< cta-dual type="final" >}}
+
+
+## 📚 관련 가이드
+
+- [국어 글쓰기 과외 | 작문·표현력·첨삭 완벽 지도](/subjects/korean/korean-writing-practice/)
+- [국어 의사소통 과외 | 발표·토론·설득 완벽 실전 훈련](/subjects/korean/korean-communication-skills/)
+- [국어 과외 | 시 분석 완벽 정복 - 표현기교·주제·정서 해석](/subjects/korean/korean-poetry-analysis/)
+- [국어 어휘력 과외 | 한자어·관용어·어원 완벽 확장](/subjects/korean/korean-vocabulary-expansion/)
+- [국어 작가론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-author-studies/)
+

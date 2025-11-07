@@ -180,3 +180,13 @@ featured_image: https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1
 체계적인 준비와 침착한 마음가짐이 좋은 성적을 만듭니다!
 
 {{< cta-dual type="final"  >}}
+
+
+## 📚 관련 가이드
+
+- [시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜](/exam/exam-two-weeks-before-strategy/index/)
+- [시험 2주 전 준비 | 효율적 마무리](/exam/exam-preparation-1/)
+- [서술형 시험 대비법 | 논리적 답안 작성](/exam/exam-preparation-10/)
+- [객관식 문제 풀이 전략 | 오답 제거 기법](/exam/exam-preparation-11/)
+- [시험 시간 관리 전략 | 효율적 문제 풀이](/exam/exam-preparation-12/)
+

@@ -532,3 +532,13 @@ featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200
 지금 바로 시작하여 과학 탐구 고수가 되어보세요.
 
 {{< cta-dual type="final" >}}
+
+
+## 📚 관련 가이드
+
+- [과학 생물 과외 | 세포·유전·생태계 완벽 개념 정리](/subjects/science/science-biology-concepts/)
+- [과학 화학 과외 | 원소·화학반응·물질변화 완벽 기초](/subjects/science/science-chemistry-basics/)
+- [과학 공식 과외 | 물리·화학·생물·지구과학 공식 완벽 암기법](/subjects/science/science-formula-memorization/)
+- [과학 실생활응용 과외 | 일상 속 과학원리 완벽 이해](/subjects/science/science-real-life-application/)
+- [과학 산과 염기 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-acid-base/)
+

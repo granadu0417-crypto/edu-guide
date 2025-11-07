@@ -238,6 +238,16 @@ featured_image: https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=1
 부모의 역할도 적극적 지원자에서 조력자, 관찰자로 변화해야 합니다. 아이를 믿고 기다려주세요. 스스로 공부하는 힘은 평생의 자산이 될 것입니다.
 
 ---
+
+
+## 📚 관련 가이드
+
+- [마스터 초등 과학 학습법 | 탐구력 키우기](/elementary/elementary-final-70/)
+- [올바른 학습 습관 형성 | 초등 시기 핵심](/elementary/study-habits-formation/)
+- [초1 학교생활 가이드 | 친구 사귀기](/elementary/elem-b9-2/)
+- [초등 1학년 공부법 | 기초 학습](/elementary/elem-b9-3/)
+- [초1 학습 습관 시작 | 즐거운 공부](/elementary/elem-b9-4/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 교육 가이드이며, 개별 아이의 성향과 상황에 맞춰 적절히 조절하여 적용하시기 바랍니다.*

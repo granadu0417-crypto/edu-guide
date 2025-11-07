@@ -248,6 +248,16 @@ A9. 먼저 선생님과 협의를 시도하고, 계약서 기준을 제시하세
 **Q10. 환불 대신 수업 변경이 나을까요?**
 A10. 환불 사유가 시간대나 선생님 불만족이라면 변경이 더 나을 수 있습니다. 하지만 근본적인 불만족이라면 환불 후 다른 학원이나 1:1 과외를 찾는 것이 좋습니다. 변경 가능 여부를 먼저 확인하세요.
 
+
+
+## 📚 관련 가이드
+
+- [학원 바꾸기 완벽 가이드 - 올바른 학원 변경 시기와 전략](/tutoring/guide/changing-academy-guide/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [첫 학원 등록 가이드 - 학원 입문 완벽 준비 전략](/tutoring/guide/first-academy-registration-guide/)
+- [온라인 인강 vs 학원 과외 가이드 - 비용 대비 효과 완벽 비교](/tutoring/guide/online-lecture-vs-tutoring/)
+
 {{< cta-consultation-final >}}
 
 ---

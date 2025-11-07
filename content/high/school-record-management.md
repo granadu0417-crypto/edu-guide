@@ -790,6 +790,16 @@ featured_image: https://images.unsplash.com/photo-1598520106830-8c45c2035460?w=1
 ✓ 예체능도 신경 쓰기
 ```
 
+
+
+## 📚 관련 가이드
+
+- [대학 입시 전략 가이드 | 전형별 대비법](/high/admissions-strategy/)
+- [고1 학습 시작 전략 | 고교 적응](/high/high-b10-1/)
+- [고2 진로 확정 전략 | 학과 선택](/high/high-b10-2/)
+- [고3 수능 D-300 전략 | 최종 스퍼트](/high/high-b10-3/)
+- [고1 내신 관리법 | 첫 시험 대비](/high/high-b11-1/)
+
 {{< cta-consultation-final >}}
 ## 마무리 및 격려
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}

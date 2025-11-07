@@ -437,3 +437,13 @@ featured_image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1
 ---
 
 **수능 국어 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [국어 빈칸 추론 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-blank-inference/)
+- [국어 서평 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-book-review/)
+- [국어 고전소설 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-classical-novel/)
+- [국어 고전시가 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-classical-poetry/)
+- [국어 정독법 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-close-reading/)
+

@@ -697,6 +697,16 @@ featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1
 - 반복 수정
 - 실력 향상
 
+
+## 📚 관련 가이드
+
+- [사회 과외 | 비판적 사고력 완벽 정복 - 분석·평가·논리 훈련](/subjects/social/social-critical-thinking/)
+- [사회 지도독해 과외 | 지형도·통계지도 완벽 해석](/subjects/social/social-map-reading/)
+- [사회 절대왕정 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-absolute-monarchy/)
+- [사회 고대 문명 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-civilizations/)
+- [사회 고조선 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-korea/)
+
+
 ## FAQ
 
 ### Q1. 시사 이슈를 어떻게 시작하나요?

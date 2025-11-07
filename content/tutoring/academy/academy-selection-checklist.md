@@ -282,3 +282,13 @@ A. 매우 좋습니다. 실제 경험담이 가장 정확한 정보입니다. �
 5. 등록 후에도 지속적인 모니터링
 
 좋은 학원 선택하시길 바랍니다! 📚
+
+
+## 📚 관련 가이드
+
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+- [초등학생 학원 vs 과외 선택 가이드 - 우리 아이에게 맞는 학습 찾기](/tutoring/guide/elementary-academy-vs-tutor-guide/)
+- [첫 학원 등록 가이드 - 학원 입문 완벽 준비 전략](/tutoring/guide/first-academy-registration-guide/)
+- [고등학생 학원 선택 기준 - 내신과 수능 모두 잡는 전략](/tutoring/guide/high-school-academy-selection-criteria/)
+- [자율형 학원 vs 관리형 학원 비교 - 우리 아이에게 맞는 선택은?](/tutoring/guide/self-directed-vs-managed-academy/)
+

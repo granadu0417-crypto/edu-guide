@@ -647,6 +647,16 @@ A: 한국사 능력검정시험은 한국사 수능과 출제 범위가 비슷�
 ### Q10: 사회 실력 향상을 위해 1:1 과외가 도움이 되나요?
 A: 네, 1:1 과외는 사회 실력 향상에 매우 효과적입니다. 복잡한 사회 개념을 쉽게 설명해주고, 역사의 흐름을 체계적으로 정리할 수 있습니다. 자료 해석 능력과 논술 작성 능력을 키우는 데도 큰 도움이 됩니다. 특히 선택과목 결정, 시사 문제 연계, 학습 전략 수립 등 전반적인 사회 학습에서 전문가의 도움을 받을 수 있어 효율적입니다.
 
+
+
+## 📚 관련 가이드
+
+- [사회 경제사 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-economic-history/)
+- [사회 환경윤리 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-environmental-ethics/)
+- [사회 윤리사상 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ethical-thought/)
+- [사회 역사 과외 | 사료해석·인과관계 완벽 분석](/subjects/social/social-historical-analysis/)
+- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
+
 {{< cta-consultation-final >}}
 
 ---

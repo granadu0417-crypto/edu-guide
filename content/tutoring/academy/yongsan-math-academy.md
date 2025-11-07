@@ -56,4 +56,14 @@ reading_time: 285줄
 **Q2. SAT Math는?** A2. 일부 학원에서 대비합니다.
 **Q3. 1:1 과외?** A3. 심화는 필수입니다.
 
+
+
+## 📚 관련 가이드
+
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+- [분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외](/tutoring/academy/bundang-math-academy/)
+- [대치동 수학학원 추천 - 입시 명문 학원 비교 및 1:1 과외 병행 전략](/tutoring/academy/daechi-math-academy/)
+- [초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외](/tutoring/academy/elementary-math-academy/)
+- [고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외](/tutoring/academy/high-math-academy/)
+
 {{< cta-consultation-final >}}

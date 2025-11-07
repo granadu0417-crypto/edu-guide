@@ -345,3 +345,13 @@ draft: false
 *본 글은 초등 수학 교육 전문가의 자문을 받아 작성된 일반적인 학습 가이드입니다. 개별 아이의 성향과 수준에 맞춰 적절히 조절하여 적용하시기 바랍니다.*
 
 *최종 업데이트: 2025년 1월*
+
+
+## 📚 관련 가이드
+
+- [수학 문장제 정복 추천 방법 | 초등~고등](/subjects/math/word-problems-guide/)
+- [수학 기초 vs 심화 학습 | 연산~응용 균형 비교](/subjects/math/math-foundation-building/)
+- [중등 수학 고난도 문제 풀이 | 심화 학습](/middle/math-difficult-problems/)
+- [수학 문제 풀이 전략 가이드 | 1:1 수학 문제풀이 과외](/subjects/math/math-problem-solving/)
+- [중학생 영어 공부법 완전 정복 | 내신부터 고등 준비까지](/middle/middle-school-english-study-guide/index/)
+

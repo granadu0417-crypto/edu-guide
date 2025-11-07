@@ -203,3 +203,13 @@ featured_image: https://images.unsplash.com/photo-1516397281156-ca07cf9746fc?w=1
 목표 대학 합격을 위해 지금부터 체계적으로 준비하세요. 꾸준한 노력은 반드시 결실을 맺습니다!
 
 {{< cta-dual type="final"  >}}
+
+
+## 📚 관련 가이드
+
+- [고1 종합 전략 | 성공적 시작](/high/high-batch7-1/)
+- [고2 종합 학습 전략 | 균형 관리](/high/high-batch7-2/)
+- [고2 성공 가이드 | 입시 기반](/high/high-batch8-2/)
+- [고1 마스터 가이드 | 학습부터 생활까지](/high/high-final-1/)
+- [정시 전략 가이드 | 수능 점수 활용](/high/high-final-10/)
+

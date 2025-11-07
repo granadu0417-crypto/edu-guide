@@ -75,6 +75,16 @@ reading_time: 280줄
 **Q4. 선택 기준은?** A4. 학교 족보와 실적을 확인하세요.
 **Q5. 수능 대비는?** A5. 1:1 과외를 병행하세요.
 
+
+
+## 📚 관련 가이드
+
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+- [부산 해운대 학원 - 중고등 입시 및 1:1 과외](/tutoring/academy/busan-haeundae-academy/)
+- [대전 둔산동 학원 - 유성·서구 및 1:1 과외](/tutoring/academy/daejeon-dunsan-academy/)
+- [광주 학원가 - 수완·첨단 지역 및 1:1 과외](/tutoring/academy/gwangju-academy/)
+- [성남 내신학원 - 분당·수정·중원 및 1:1 과외](/tutoring/academy/seongnam-naesin-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

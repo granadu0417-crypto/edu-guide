@@ -243,6 +243,16 @@ A10. 물론입니다. 처음에는 무료 자원으로 시작하고, 정말 필�
 - [ ] 매일 복습 시간 확보
 - [ ] 월 1회 성적 점검
 
+
+
+## 📚 관련 가이드
+
+- [영재 학생 교육 전략 가이드 - 심화 학습과 1:1 과외 활용법](/tutoring/guide/gifted-education-strategy/)
+- [온라인 인강 vs 학원 과외 가이드 - 비용 대비 효과 완벽 비교](/tutoring/guide/online-lecture-vs-tutoring/)
+- [독학 vs 학원 과외 가이드 - 자기주도 학습 vs 관리 학습](/tutoring/guide/self-study-vs-tutoring/)
+- [한부모 가정 교육 지원 가이드 - 효율적 1:1 과외와 지원 제도 활용](/tutoring/guide/single-parent-family-education/)
+- [학습 동기 유지 방법 가이드 - 꾸준함을 위한 1:1 과외 활용 전략](/tutoring/guide/study-motivation-maintenance/)
+
 {{< cta-consultation-final >}}
 
 ---

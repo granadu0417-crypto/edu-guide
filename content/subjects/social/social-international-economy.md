@@ -495,3 +495,13 @@ featured_image: https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=1
 ---
 
 **국제경제 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [사회 경제사 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-economic-history/)
+- [사회 시장경제 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-market-economy/)
+- [사회 절대왕정 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-absolute-monarchy/)
+- [사회 고대 문명 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-civilizations/)
+- [사회 고조선 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-korea/)
+

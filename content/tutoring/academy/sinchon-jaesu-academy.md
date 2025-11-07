@@ -231,6 +231,16 @@ A9. 본인 성적, 자기주도 능력, 예산을 고려하세요. 독재는 자
 **Q10. 재수하면 친구 관계는?**
 A10. 고립되지 마세요. 재수 친구도 사귀고, 기존 친구와도 연락하세요. 1:1 멘토와 정기적으로 대화하는 것도 도움이 됩니다.
 
+
+
+## 📚 관련 가이드
+
+- [특목고 입시학원 - 과학고·외고·국제고 및 1:1 과외](/tutoring/academy/special-highschool-academy/)
+- [수원 입시학원 - 영통·광교·인계 및 1:1 과외](/tutoring/academy/suwon-admission-academy/)
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [반포 프리미엄 학원 - 소수정예 관리형 학원 및 1:1 과외](/tutoring/academy/banpo-premium-academy/)
+- [중하위권 학원 - 기초부터 탄탄히 및 1:1 과외](/tutoring/academy/basic-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

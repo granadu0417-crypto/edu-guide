@@ -213,6 +213,16 @@ A9. 있지만 드뭅니다. 대부분 최상위권 학생들입니다. 일반적
 **Q10. 독학에서 1:1 과외로 전환하려면?**
 A10. 언제든 가능합니다. 독학이 힘들다면 즉시 1:1 과외를 시작하세요.
 
+
+
+## 📚 관련 가이드
+
+- [그룹 과외 vs 1대1 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/group-vs-individual-tutoring/)
+- [온라인 과외 vs 오프라인 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/online-vs-offline-tutoring/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [심화 학습 전략 가이드 - 상위권 도약을 위한 1:1 과외 활용](/tutoring/guide/advanced-learning-strategy/)
+
 {{< cta-consultation-final >}}
 
 ---

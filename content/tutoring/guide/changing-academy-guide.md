@@ -206,6 +206,16 @@ reading_time: 305줄
 - [ ] 이전 학원에서의 실패를 반복하지 않고 있는가?
 - [ ] 3개월 후 성적 변화를 점검할 계획이 있는가?
 
+
+## 📚 관련 가이드
+
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [학원·과외 환불 가이드 - 수강료 환불 절차와 소비자 권리](/tutoring/guide/academy-tutoring-refund/)
+- [첫 학원 등록 가이드 - 학원 입문 완벽 준비 전략](/tutoring/guide/first-academy-registration-guide/)
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+
+
 ## FAQ
 
 **Q1. 학원을 바꾸는 최적의 시기는 언제인가요?**

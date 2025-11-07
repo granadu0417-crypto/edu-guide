@@ -249,6 +249,16 @@ A9. 영재교육원이나 영재학교를 목표로 한다면 초등 5-6학년�
 **Q10. 스트레스가 심한데?**
 A10. 휴식이 필요합니다. 영재교육은 강도가 높아 번아웃 위험이 있습니다. 1:1 과외 선생님이 멘탈 케어도 해주어야 하며, 필요하면 과감히 휴식하세요.
 
+
+
+## 📚 관련 가이드
+
+- [반포 프리미엄 학원 - 소수정예 관리형 학원 및 1:1 과외](/tutoring/academy/banpo-premium-academy/)
+- [단과학원 vs 종합학원 - 선택 가이드 및 1:1 과외](/tutoring/academy/dankwa-vs-jonghap-academy/)
+- [과학학원 - 물리·화학·생명·지구과학 및 1:1 과외](/tutoring/academy/science-academy/)
+- [특목고 입시학원 - 과학고·외고·국제고 및 1:1 과외](/tutoring/academy/special-highschool-academy/)
+- [특목고 준비 학원 과외 가이드 - 과학고·외고·국제고 입시 전략](/tutoring/guide/special-high-school-prep/)
+
 {{< cta-consultation-final >}}
 
 ---

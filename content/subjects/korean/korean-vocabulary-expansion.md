@@ -860,6 +860,16 @@ featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1
 - 과정 중심 피드백
 - 긍정적 분위기
 
+
+## 📚 관련 가이드
+
+- [국어 의사소통 과외 | 발표·토론·설득 완벽 실전 훈련](/subjects/korean/korean-communication-skills/)
+- [국어 논술 과외 | 논리구성·표현력·첨삭 완벽 가이드](/subjects/korean/korean-essay-writing/)
+- [국어 과외 | 시 분석 완벽 정복 - 표현기교·주제·정서 해석](/subjects/korean/korean-poetry-analysis/)
+- [국어 어휘력 향상 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-vocabulary-advanced/)
+- [국어 작가론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-author-studies/)
+
+
 ## FAQ
 
 ### Q1. 어휘를 얼마나 외워야 하나요?

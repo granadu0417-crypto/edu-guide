@@ -593,3 +593,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 중2 수학 과외로 더욱 탄탄한 기초를 다질 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [중1 수학 완벽 가이드 | 1:1 중등 수학 과외](/subjects/math/math-grade7/)
+- [중3 수학 완벽 가이드 | 1:1 중등 수학 과외](/subjects/math/math-grade9/)
+- [확률과 통계 심화 완벽 가이드 | 1:1 확률통계 과외](/subjects/math/math-probability-statistics/)
+- [수학 심화 팁 완벽 가이드 | 1:1 수학 심화 과외](/subjects/math/math-advanced-tips/)
+- [수학 학습 앱 활용 가이드 | 1:1 앱 활용 과외](/subjects/math/math-apps-tools/)
+

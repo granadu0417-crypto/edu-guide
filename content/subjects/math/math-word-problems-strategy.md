@@ -462,6 +462,16 @@ featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1
 - 시간 배분
 - 효율 향상
 
+
+## 📚 관련 가이드
+
+- [수학 완벽 로드맵 - 기초부터 심화까지 총정리](/subjects/math/math-complete-roadmap/)
+- [수학 논리사고 과외 | 추론력·창의력 완벽 훈련](/subjects/math/math-logical-thinking/)
+- [수학 문제 풀이 전략 가이드 | 1:1 수학 문제풀이 과외](/subjects/math/math-problem-solving/)
+- [수학 문장제 풀이 완벽 가이드 | 1:1 문장제 과외](/subjects/math/math-word-problems/)
+- [수학 문장제 정복 추천 방법 | 초등~고등](/subjects/math/word-problems-guide/)
+
+
 ## FAQ
 
 ### Q1. 서술형을 어떻게 시작하나요?

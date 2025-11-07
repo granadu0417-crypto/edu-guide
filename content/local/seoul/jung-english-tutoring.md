@@ -443,3 +443,13 @@ Part별 전략 학습과 매일 2시간 학습이 필수입니다.
 
 영어는 단기간에 완성되는 과목이 아닙니다.
 꾸준함과 적절한 방향 설정이 가장 중요합니다.
+
+
+## 📚 관련 가이드
+
+- [중구 수학과외 핵심 정보 | 명동·남산 도심 속 효율적 수학 학습](/local/seoul/jung-math-tutoring/)
+- [강남구 영어과외 선택 가이드 - 전문가가 알려주는 학년별 맞춤 전략](/local/seoul/gangnam-english-tutoring/)
+- [구로구 영어과외 선택법 | 가산디지털·신도림 실용 영어부터 입시까지](/local/seoul/guro-english-tutoring/)
+- [도봉구 영어과외 선택 가이드 | 창동·방학동 체계적 영어 교육](/local/seoul/dobong-english-tutoring/)
+- [동대문구 영어과외 핵심 포인트 | 답십리·휘경 한국외대 영문과 중심 영어 교육](/local/seoul/dongdaemun-english-tutoring/)
+

@@ -714,6 +714,16 @@ Time-bound (기한):
 - 매 시간 일어나서
 ```
 
+
+
+## 📚 관련 가이드
+
+- [모의고사 완벽 활용 | 수능 실전 대비](/high/high-final-12/)
+- [학부모 지원 가이드 | 입시 도움](/high/parent-support-guide/)
+- [대학 입시 전략 가이드 | 전형별 대비법](/high/admissions-strategy/)
+- [고1 학습 시작 전략 | 고교 적응](/high/high-b10-1/)
+- [고2 진로 확정 전략 | 학과 선택](/high/high-b10-2/)
+
 {{< cta-consultation-final >}}
 ## 마무리 및 격려
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}

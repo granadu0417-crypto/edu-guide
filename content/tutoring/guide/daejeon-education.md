@@ -86,6 +86,16 @@ A2. 종합 학원 월 50-90만 원 정도로 서울보다 저렴합니다.
 **Q3. 온라인 과외가 효과적인가요?**
 A3. 네, 자기주도 학습 능력이 있는 학생에게는 매우 효과적입니다.
 
+
+
+## 📚 관련 가이드
+
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [경기 분당 학원 과외 선택 가이드 - 성남시 입시 완벽 전략](/tutoring/guide/gyeonggi-bundang-education/)
+- [서울 목동 학원 과외 선택 가이드 - 양천구 입시 완벽 전략](/tutoring/guide/seoul-mokdong-education/)
+- [특목고 준비 학원 과외 가이드 - 과학고·외고·국제고 입시 전략](/tutoring/guide/special-high-school-prep/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

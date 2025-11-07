@@ -508,3 +508,13 @@ draft: false
 *본 글은 수능 국어 전문 강사의 자문을 받아 작성된 일반적인 학습 가이드입니다. 개별 학생의 성향과 수준에 맞춰 적절히 조절하여 적용하시기 바랍니다.*
 
 *최종 업데이트: 2025년 1월*
+
+
+## 📚 관련 가이드
+
+- [프리미엄 수능 영어 실전 가이드 | 절대평가 1등급](/high/2026-suneung-changes/)
+- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
+- [국어 비문학 독해 고민? | 유형별 전략 솔루션 2025](/subjects/korean/korean-nonfiction-reading-guide/)
+- [국어 독해력 향상 추천 전략 | 초중고 학년별](/subjects/korean/korean-reading-comprehension-guide/)
+- [국어 문법 총정리 완벽 정리 | 품사부터 문장까지 2025](/subjects/korean/korean-grammar-complete-guide/)
+

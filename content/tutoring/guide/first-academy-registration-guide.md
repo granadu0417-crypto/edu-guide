@@ -224,6 +224,16 @@ reading_time: 308줄
 - [ ] 학생이 학원에 적응하고 있는가?
 - [ ] 필요시 1:1 과외 병행을 고려했는가?
 
+
+## 📚 관련 가이드
+
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [학원 바꾸기 완벽 가이드 - 올바른 학원 변경 시기와 전략](/tutoring/guide/changing-academy-guide/)
+- [학원 선택 완벽 체크리스트 - 등록 전 필수 확인사항 (2025)](/tutoring/academy/academy-selection-checklist/)
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+
+
 ## FAQ
 
 **Q1. 첫 학원은 언제 등록하는 것이 좋나요?**

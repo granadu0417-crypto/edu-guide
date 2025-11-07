@@ -141,6 +141,16 @@ featured_image: https://source.unsplash.com/1200x630/?education&sig=903193864153
 - [좋은 학원 선택하는 체크리스트](/tutoring/academy/)
 - [과외 선생님 찾는 방법](/tutoring/private/)
 - [우리 지역 학원/과외 정보](/local/)
+
+
+## 📚 관련 가이드
+
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [중하위권 학원 - 기초부터 탄탄히 및 1:1 과외](/tutoring/academy/basic-academy/)
+- [코딩 학원 - 파이썬·자바·정보올림피아드 및 1:1 과외](/tutoring/academy/coding-academy/)
+- [초등학원 선택 가이드 - 학년별 추천 및 1:1 과외](/tutoring/academy/elementary-academy-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

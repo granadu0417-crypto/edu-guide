@@ -410,3 +410,13 @@ featured_image: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=1
 ---
 
 **표준어 완벽 정복**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [국어 맞춤법 완벽 가이드 | 1:1 국어 문법 과외 [2025]](/subjects/korean/korean-spelling-guide/)
+- [흔한 국어 어법 오류 총정리 | 1:1 국어 과외 [2025]](/subjects/korean/korean-grammar-errors/)
+- [국어 문법 실전 문제 풀이 | 1:1 국어 과외 [2025]](/subjects/korean/korean-grammar-practice/)
+- [국어 높임법 완벽 정리 | 1:1 국어 문법 과외 [2025]](/subjects/korean/korean-honorifics/)
+- [국어 품사 완벽 가이드 | 1:1 국어 문법 과외 [2025]](/subjects/korean/korean-parts-of-speech/)
+

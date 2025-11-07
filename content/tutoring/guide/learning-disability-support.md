@@ -286,6 +286,16 @@ reading_time: 312줄
 - [ ] 동기 부여 유지
 - [ ] 포기하지 않기
 
+
+## 📚 관련 가이드
+
+- [노베이스 학생 가이드 - 기초부터 시작하는 1:1 과외 전략](/tutoring/guide/no-base-student-guide/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [맞벌이 가정 학습 관리 가이드 - 바쁜 부모를 위한 1:1 과외 활용법](/tutoring/guide/dual-income-family-learning/)
+- [시험 직전 준비 전략 가이드 - D-7부터 시험 당일까지 완벽 대비](/tutoring/guide/exam-last-minute-prep/)
+
+
 ## FAQ
 
 **Q1. 학습 부진은 치료 가능한가요?**

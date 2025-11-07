@@ -333,6 +333,16 @@ A: **선지 분석 연습**을 하세요. 왜 이 선지가 정답인지, 다른
 
 오늘부터 매일 30분, 독해 훈련을 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [국어 독해력 향상 추천 전략 | 초중고 학년별](/subjects/korean/korean-reading-comprehension-guide/)
+- [고등학생 국어 공부법 완벽 가이드 | 수능부터 내신까지](/high/high-school-korean-study-guide/index/)
+- [국어 비문학 독해 고민? | 유형별 전략 솔루션 2025](/subjects/korean/korean-nonfiction-reading-guide/)
+- [국어 문법 총정리 완벽 정리 | 품사부터 문장까지 2025](/subjects/korean/korean-grammar-complete-guide/)
+- [국어 문학 분석 vs 암기 | 시·소설 해석법 비교](/subjects/korean/korean-literature-analysis-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

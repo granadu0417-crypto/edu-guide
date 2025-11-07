@@ -62,4 +62,14 @@ reading_time: 280줄
 **Q2. 1:1 과외?** A2. 3학년부터 추천합니다.
 **Q3. 선행은?** A3. 과도한 선행은 피하세요.
 
+
+
+## 📚 관련 가이드
+
+- [양천 초등학원 - 목동권 초등 전문 학원 및 1:1 과외 추천](/tutoring/academy/yangcheon-elementary-academy/)
+- [대전 둔산동 학원 - 유성·서구 및 1:1 과외](/tutoring/academy/daejeon-dunsan-academy/)
+- [초등학원 선택 가이드 - 학년별 추천 및 1:1 과외](/tutoring/academy/elementary-academy-guide/)
+- [초등 영어학원 - 파닉스·회화·문법 및 1:1 과외](/tutoring/academy/elementary-english-academy/)
+- [초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외](/tutoring/academy/elementary-math-academy/)
+
 {{< cta-consultation-final >}}

@@ -437,3 +437,13 @@ featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1
 ---
 
 **한문학 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [국어 가사 문학 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-gasa/)
+- [국어 작가론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-author-studies/)
+- [국어 빈칸 추론 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-blank-inference/)
+- [국어 서평 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-book-review/)
+- [국어 고전문학사 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-classical-history/)
+

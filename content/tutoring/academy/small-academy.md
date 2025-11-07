@@ -42,4 +42,14 @@ reading_time: 270줄
 **Q1. 어떤 유형이 좋은가요?** A1. 학생에 따라 다릅니다.
 **Q2. 1:1 과외는?** A2. 병행 추천합니다.
 
+
+
+## 📚 관련 가이드
+
+- [기숙학원 - 전국 기숙학원 비교 및 1:1 과외](/tutoring/academy/boarding-academy/)
+- [재수학원 - 독재·반독재·기숙 및 1:1 멘토링](/tutoring/academy/jaesu-academy/)
+- [종합반 학원 - 올인원 관리 및 1:1 과외](/tutoring/academy/jonghapban-academy/)
+- [대형학원 - 스타강사·시스템 및 1:1 과외](/tutoring/academy/large-academy/)
+- [관리형학원 - 1:1 케어·학습관리 및 과외](/tutoring/academy/managed-academy/)
+
 {{< cta-consultation-final >}}

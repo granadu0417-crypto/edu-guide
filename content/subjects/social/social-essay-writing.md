@@ -828,6 +828,16 @@ featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1
 
 사회 논술·서술형 실력 향상을 위한 맞춤 첨삭이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [사회 암기 전략 추천 방법 | 역사·지리 용어 2025](/subjects/social/social-memorization-strategies/)
+- [사회 지리 vs 역사 학습 | 자연·인문 비교 2025](/subjects/social/social-geography-mastery/)
+- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
+- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
+- [영어 문법 핵심 추천 정리 | 중고등 필수 2025](/subjects/english/english-grammar-essentials/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -68,4 +68,14 @@ reading_time: 295줄
 **Q2. 비용은?** A2. 대치동보다 30% 저렴합니다.
 **Q3. 1:1 과외?** A3. 병행 추천합니다.
 
+
+
+## 📚 관련 가이드
+
+- [안양 종합학원 - 평촌·범계·인덕원 통합 및 1:1 과외](/tutoring/academy/anyang-jong-academy/)
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+- [부산 해운대 학원 - 중고등 입시 및 1:1 과외](/tutoring/academy/busan-haeundae-academy/)
+- [대구 수성구 학원 - 수학·영어 특화 및 1:1 과외](/tutoring/academy/daegu-suseong-academy/)
+- [대전 둔산동 학원 - 유성·서구 및 1:1 과외](/tutoring/academy/daejeon-dunsan-academy/)
+
 {{< cta-consultation-final >}}

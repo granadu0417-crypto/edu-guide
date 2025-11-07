@@ -231,6 +231,16 @@ A9. 평소 수능 공부를 꾸준히 하고, 1:1 과외로 약점 과목을 집
 **Q10. 내신·수능 균형이 제일 어려운데요?**
 A10. 네, 가장 어려운 부분입니다. 명확한 목표 설정과 시기별 비중 조정이 필요합니다. 1:1 과외로 효율을 높이고, 선생님과 상담하며 조정하세요.
 
+
+
+## 📚 관련 가이드
+
+- [시험 직전 준비 전략 가이드 - D-7부터 시험 당일까지 완벽 대비](/tutoring/guide/exam-last-minute-prep/)
+- [입시 컨설팅 vs 학원 과외 가이드 - 대입 전략 선택](/tutoring/guide/consulting-vs-tutoring/)
+- [맞벌이 가정 학습 관리 가이드 - 바쁜 부모를 위한 1:1 과외 활용법](/tutoring/guide/dual-income-family-learning/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -773,3 +773,12 @@ A. 다문화 지원:
 - 모두의 권리
 
 경제적 이유로 교육의 기회를 놓치는 일이 없도록, 필요한 지원을 적극적으로 받으시기 바랍니다. 우리 아이들 모두가 공평한 기회 속에서 꿈을 키워갈 수 있기를 응원합니다!
+
+## 📚 관련 가이드
+
+- [초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법](/local/after-school-program-guide/)
+- [무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법](/local/online-education-platform-guide/)
+- [학원 선택 완벽 가이드 - 우리 아이에게 맞는 학원 찾기](/local/private-academy-selection-guide/)
+- [교육지원청·Wee센터 완벽 활용 가이드 - 무료 상담과 지원 서비스](/local/education-support-center-guide/)
+- [전국 공공도서관 활용 완벽 가이드 - 무료 학습공간과 교육 프로그램](/local/public-library-guide/)
+

@@ -202,6 +202,16 @@ CVC 패턴(자음-모음-자음)의 간단한 단어를 익힙니다.
 매일 조금씩, 즐겁게 함께 해보세요!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [초등 영어 단어 암기법 | 효과적 학습](/elementary/english-vocabulary-memorization/)
+- [초1 학교생활 가이드 | 친구 사귀기](/elementary/elem-b9-2/)
+- [초등 1학년 공부법 | 기초 학습](/elementary/elem-b9-3/)
+- [초1 학습 습관 시작 | 즐거운 공부](/elementary/elem-b9-4/)
+- [마스터 초등 과학 학습법 | 탐구력 키우기](/elementary/elementary-final-70/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 학습 가이드이며, 개별 아이의 수준과 학습 속도에 맞춰 적절히 조절하여 활용하시기 바랍니다.*

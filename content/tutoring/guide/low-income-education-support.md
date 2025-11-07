@@ -301,6 +301,16 @@ A9. 고등학교는 무상교육입니다. 교육급여로 교과서, 학용품�
 **Q10. 다른 저소득층 가정은 어떻게 하나요?**
 A10. 성공적인 저소득층 가정은 정부 지원을 최대 활용하고, EBS와 도서관을 적극 이용하며, 바우처나 무료 멘토링으로 1:1 과외를 받습니다. 자기주도 학습과 끈기로 명문대에 진학합니다.
 
+
+
+## 📚 관련 가이드
+
+- [한부모 가정 교육 지원 가이드 - 효율적 1:1 과외와 지원 제도 활용](/tutoring/guide/single-parent-family-education/)
+- [입시 컨설팅 vs 학원 과외 가이드 - 대입 전략 선택](/tutoring/guide/consulting-vs-tutoring/)
+- [노베이스 학생 가이드 - 기초부터 시작하는 1:1 과외 전략](/tutoring/guide/no-base-student-guide/)
+- [학부모 학원 과외 참여 가이드 - 적절한 관여와 협력 전략](/tutoring/guide/parent-involvement-guide/)
+- [학원 과외 소통 가이드 - 선생님·학부모·학생 협력 전략](/tutoring/guide/tutoring-communication-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

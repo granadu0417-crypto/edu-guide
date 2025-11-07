@@ -906,3 +906,12 @@ A. 대안:
 - 아이의 행복과 안전이 최우선입니다
 
 우리 아이가 안전하고 행복하게 성장할 수 있는 지역사회를 함께 만들어갑시다!
+
+## 📚 관련 가이드
+
+- [교육복지 지원 제도 총정리 - 저소득층 학생 무료 지원 혜택](/local/education-welfare-support-guide/)
+- [초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법](/local/after-school-program-guide/)
+- [교육지원청·Wee센터 완벽 활용 가이드 - 무료 상담과 지원 서비스](/local/education-support-center-guide/)
+- [마포구 영어과외 선택 가이드 - 효과적인 1:1 영어 학습법](/local/mapo-english-tutor/)
+- [무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법](/local/online-education-platform-guide/)
+

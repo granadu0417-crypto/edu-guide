@@ -315,6 +315,16 @@ reading_time: 310줄
 - [ ] 주간 테스트로 점검
 - [ ] 멘탈 회복
 
+
+## 📚 관련 가이드
+
+- [시험 직전 준비 전략 가이드 - D-7부터 시험 당일까지 완벽 대비](/tutoring/guide/exam-last-minute-prep/)
+- [단기 집중 과외 선택 - 시험 직전 성적 올리는 특급 전략](/tutoring/guide/short-term-intensive-tutoring/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [맞벌이 가정 학습 관리 가이드 - 바쁜 부모를 위한 1:1 과외 활용법](/tutoring/guide/dual-income-family-learning/)
+
+
 ## FAQ
 
 **Q1. 시험 망쳤는데 포기하고 싶어요?**

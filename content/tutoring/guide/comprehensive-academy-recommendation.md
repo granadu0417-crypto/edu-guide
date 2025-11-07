@@ -233,6 +233,16 @@ reading_time: 310줄
 - [ ] 정기 테스트 성적이 향상되고 있는가?
 - [ ] 필요시 1:1 과외 병행을 고려했는가?
 
+
+## 📚 관련 가이드
+
+- [관리형 학원 선택법 - 학습 관리부터 생활 관리까지 완벽 가이드](/tutoring/guide/managed-academy-selection-guide/)
+- [자율형 학원 vs 관리형 학원 비교 - 우리 아이에게 맞는 선택은?](/tutoring/guide/self-directed-vs-managed-academy/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+
+
 ## FAQ
 
 **Q1. 종합 학원과 단과 학원 중 어느 것이 더 좋나요?**

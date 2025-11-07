@@ -648,6 +648,16 @@ featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1
 - 에너지 절약
 - 신재생 에너지
 
+
+## 📚 관련 가이드
+
+- [과학 개념연결 과외 | 통합사고·융합문제 완벽 대비](/subjects/science/science-concept-connection/)
+- [과학 실험보고서 vs 탐구활동 | 작성법 비교 2025](/subjects/science/science-experiment-report-guide/)
+- [과학 통합 완성 가이드 - 물화생지 전 영역 정복](/subjects/science/science-integrated-mastery/)
+- [과학 실험보고서 과외 | 작성법·분석법 완벽 마스터](/subjects/science/science-lab-report/)
+- [과학 실생활응용 과외 | 일상 속 과학원리 완벽 이해](/subjects/science/science-real-life-application/)
+
+
 ## FAQ
 
 ### Q1. 관찰과 추리의 차이는?

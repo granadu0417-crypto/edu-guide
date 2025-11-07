@@ -495,3 +495,13 @@ featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200
 ---
 
 **주기율표 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [과학 산과 염기 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-acid-base/)
+- [과학 천문학 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-astronomy/)
+- [과학 대기 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-atmosphere/)
+- [과학 원자 구조 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-atomic-structure/)
+- [과학 세포 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-cell/)
+

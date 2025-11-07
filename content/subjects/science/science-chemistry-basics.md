@@ -596,3 +596,13 @@ HCl + NaOH → H₂O + NaCl
 지금 바로 시작하여 화학의 원리를 명확히 이해하고, 실력을 탄탄히 쌓아가세요.
 
 {{< cta-dual type="final" >}}
+
+
+## 📚 관련 가이드
+
+- [과학 생물 과외 | 세포·유전·생태계 완벽 개념 정리](/subjects/science/science-biology-concepts/)
+- [과학 공식 과외 | 물리·화학·생물·지구과학 공식 완벽 암기법](/subjects/science/science-formula-memorization/)
+- [과학 주기율표 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-periodic-table/)
+- [과학 탐구 과외 | 실험분석·그래프해석·문제해결 완벽 정복](/subjects/science/science-problem-solving/)
+- [과학 산과 염기 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-acid-base/)
+

@@ -704,6 +704,16 @@ C 강사:
 방학: 인강 (수능)
 ```
 
+
+
+## 📚 관련 가이드
+
+- [대학 입시 전략 가이드 | 전형별 대비법](/high/admissions-strategy/)
+- [입시 멘탈 관리 가이드 | 스트레스 극복](/high/mental-management/)
+- [진로와 학과 선택 가이드 | 미래 설계](/high/career-major-guide/)
+- [고등 영어 학습 전략 | 수능 완벽 대비](/high/english-strategy/)
+- [고1 학습 시작 전략 | 고교 적응](/high/high-b10-1/)
+
 {{< cta-consultation-final >}}
 ## 마무리 및 격려
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}

@@ -124,6 +124,16 @@ A: **3개월 후에도 성적 변화가 없거나** **소통이 안 되면** 교
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [마스터 과외 선생님 선택법 | 우리 아이 맞는 선생님](/tutoring/tutoring-advanced-62/)
+- [마스터 과학 과외 학습법 | 실험과 개념 이해](/tutoring/tutoring-advanced-67/)
+- [마스터 사회 과외 효율화 | 암기와 논리 학습](/tutoring/tutoring-advanced-68/)
+- [마스터 과외 효과 극대화 전략 | 학습 성과 높이기](/tutoring/tutoring-advanced-63/)
+- [마스터 수학 1:1 과외 가이드 | 개념부터 심화까지](/tutoring/tutoring-advanced-64/)
+
 {{< cta-consultation-final >}}
 
 ---

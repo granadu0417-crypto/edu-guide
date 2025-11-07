@@ -277,6 +277,16 @@ A9. 심호흡을 하고 긍정적으로 생각하세요. 이미 준비는 끝났
 **Q10. 시험 중 모르는 문제가 나오면?**
 A10. 표시하고 넘어가세요. 쉬운 문제부터 풀고, 마지막에 다시 도전하세요. 한 문제에 너무 많은 시간을 쓰지 마세요.
 
+
+
+## 📚 관련 가이드
+
+- [내신 vs 수능 균형 가이드 - 수시·정시 대비 학원 과외 전략](/tutoring/guide/naesin-vs-suneung-balance/)
+- [시험 망쳤을 때 대처법 - 긴급 복구 및 재도약 전략](/tutoring/guide/exam-panic-recovery-guide/)
+- [단기 집중 과외 선택 - 시험 직전 성적 올리는 특급 전략](/tutoring/guide/short-term-intensive-tutoring/)
+- [시험 2주 전 준비 | 효율적 마무리](/exam/exam-preparation-1/)
+- [서술형 시험 대비법 | 논리적 답안 작성](/exam/exam-preparation-10/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -532,6 +532,16 @@ ever, never, just, already, yet, for, since
 - 하루 암기량 정하기
 - 매일 조금씩이 효과적
 
+
+
+## 📚 관련 가이드
+
+- [역사 공부법 가이드 | 암기와 이해](/middle/history-study-methods/)
+- [중학생 과외 선택 완벽 가이드 - 내신부터 입시까지](/tutoring/guide/middle-school-tutor-selection-guide/)
+- [서술형 평가 전략 | 고득점 비법](/middle/descriptive-assessment-strategy/)
+- [영어 듣기 실력 향상법 | 청해 마스터](/middle/english-listening-skills/)
+- [중등 내신 관리 전략 | 학년별 대비법](/middle/internal-grade-management/)
+
 {{< cta-consultation-final >}}
 ## 마무리 및 격려
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}

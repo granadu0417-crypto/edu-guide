@@ -531,6 +531,16 @@ A: 학원 선생님과 상담하여 적정량을 조절할 수 있습니다. 다
 ### Q10: 영어 학원과 1:1 과외를 병행하면 효과적인가요?
 A: 네, 매우 효과적입니다. 학원에서는 체계적인 커리큘럼과 그룹 활동을 통해 학습하고, 1:1 과외에서는 회화 집중 연습, 문법 개별 지도, 작문 첨삭 등 개인 맞춤 학습을 받을 수 있습니다. 특히 회화는 1:1 과외가 매우 효과적이며, 학원에서 부족한 부분을 보완하는 전략으로 많이 활용됩니다.
 
+
+
+## 📚 관련 가이드
+
+- [초등학생 학원 vs 과외 선택 가이드 - 우리 아이에게 맞는 학습 찾기](/tutoring/guide/elementary-academy-vs-tutor-guide/)
+- [고등학생 학원 선택 기준 - 내신과 수능 모두 잡는 전략](/tutoring/guide/high-school-academy-selection-criteria/)
+- [단과 학원 선택 기준 - 과목별 전문 학원 완벽 가이드](/tutoring/guide/single-subject-academy-selection/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 선택 완벽 체크리스트 - 등록 전 필수 확인사항 (2025)](/tutoring/academy/academy-selection-checklist/)
+
 {{< cta-consultation-final >}}
 
 ---

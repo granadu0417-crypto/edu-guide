@@ -535,6 +535,16 @@ D. 시간 부족 → 시간 관리 연습
 - 유사 문제 풀이
 - 새로운 문제 도전
 
+
+## 📚 관련 가이드
+
+- [수학 대회 총정리 완벽 가이드 | 1:1 과외로 수상 도전 [2025]](/subjects/math/math-competitions/)
+- [영재교육원 수학 완벽 준비 가이드 | 1:1 과외로 합격 도전 [2025]](/subjects/math/math-gifted-program/)
+- [수학 선행학습 전략 완벽 가이드 | 1:1 과외로 올바른 선행 [2025]](/subjects/math/math-advanced-learning/)
+- [수학 관련 진로 탐색 완벽 가이드 | 1:1 과외로 미래 설계 [2025]](/subjects/math/math-careers/)
+- [대학 수학 미리보기 완벽 가이드 | 1:1 과외로 선행 준비 [2025]](/subjects/math/math-college-level/)
+
+
 ## FAQ
 
 ### Q1. 수학 올림피아드 준비, 언제 시작해야 하나요?

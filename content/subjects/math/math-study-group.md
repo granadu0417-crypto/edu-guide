@@ -502,3 +502,13 @@ A. 둘 다 장점이 있습니다.
 
 1:1 맞춤 수학 과외와 스터디를 병행하면 더욱 효과적입니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 개념 이해 완벽 가이드 | 1:1 수학 개념 과외](/subjects/math/math-concept-understanding/)
+- [수학 미분 완벽 정복 가이드 | 1:1 미분 과외](/subjects/math/math-differentiation/)
+- [고1 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade10/)
+- [수학 그래프 그리기 완벽 가이드 | 1:1 그래프 과외](/subjects/math/math-graph-sketching/)
+- [수학 적분 완벽 정복 가이드 | 1:1 적분 과외](/subjects/math/math-integration/)
+

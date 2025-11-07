@@ -186,6 +186,16 @@ A4. 네, 목동은 재수 학원 선택지가 다양하고, 강남보다 경쟁�
 **Q5. 목동에서 성공하려면?**
 A5. ① 본인 실력에 맞는 학원 선택 ② 강남과 비교하지 않기 ③ 복습과 자기주도 학습 시간 확보 ④ 효율적인 비용 관리입니다.
 
+
+
+## 📚 관련 가이드
+
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [대전 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/daejeon-education/)
+- [경기 분당 학원 과외 선택 가이드 - 성남시 입시 완벽 전략](/tutoring/guide/gyeonggi-bundang-education/)
+- [서울 강남 학원 과외 선택 가이드 - 대치동 입시 완벽 전략](/tutoring/guide/seoul-gangnam-education/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

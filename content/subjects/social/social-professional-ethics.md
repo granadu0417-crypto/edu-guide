@@ -495,3 +495,13 @@ featured_image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1
 ---
 
 **직업윤리 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [사회 환경윤리 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-environmental-ethics/)
+- [사회 윤리사상 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ethical-thought/)
+- [사회 생활윤리 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-practical-ethics/)
+- [사회 절대왕정 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-absolute-monarchy/)
+- [사회 고대 문명 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-civilizations/)
+

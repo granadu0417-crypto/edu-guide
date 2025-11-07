@@ -615,3 +615,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 수능 수학 과외로 효율적으로 목표 달성할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [고3 이과 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade12-science/)
+- [수학 복소수 완벽 정복 가이드 | 1:1 복소수 과외](/subjects/math/math-complex-numbers/)
+- [수학 수열 완벽 정복 가이드 | 1:1 수열 과외](/subjects/math/math-sequences/)
+- [수학 삼각함수 완벽 정복 가이드 | 1:1 삼각함수 과외](/subjects/math/math-trigonometry/)
+- [수학 심화 팁 완벽 가이드 | 1:1 수학 심화 과외](/subjects/math/math-advanced-tips/)
+

@@ -368,3 +368,13 @@ A. 프랜차이즈는 대형과 소형의 중간 정도입니다. 본사의 커�
 - 등록 후에도 지속 모니터링하세요
 
 현명한 선택하시길 바랍니다! 📚
+
+
+## 📚 관련 가이드
+
+- [학원 선택 완벽 체크리스트 - 등록 전 필수 확인사항 (2025)](/tutoring/academy/academy-selection-checklist/)
+- [자율형 학원 vs 관리형 학원 비교 - 우리 아이에게 맞는 선택은?](/tutoring/guide/self-directed-vs-managed-academy/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [학원 바꾸기 완벽 가이드 - 올바른 학원 변경 시기와 전략](/tutoring/guide/changing-academy-guide/)
+

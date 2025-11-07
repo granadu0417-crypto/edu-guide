@@ -63,6 +63,16 @@ reading_time: 275줄
 **Q2. 1:1 과외도 필요한가요?** A2. 약점 보완과 심화에 추천합니다.
 **Q3. 비용은?** A3. 월 40-80만 원입니다.
 
+
+
+## 📚 관련 가이드
+
+- [초등 영어학원 - 파닉스·회화·문법 및 1:1 과외](/tutoring/academy/elementary-english-academy/)
+- [고등 영어학원 - 수능·내신·모의고사 및 1:1 과외](/tutoring/academy/high-english-academy/)
+- [중등 수학학원 - 내신 1등급 만들기 및 1:1 과외](/tutoring/academy/middle-math-academy/)
+- [부산 해운대 학원 - 중고등 입시 및 1:1 과외](/tutoring/academy/busan-haeundae-academy/)
+- [대구 수성구 학원 - 수학·영어 특화 및 1:1 과외](/tutoring/academy/daegu-suseong-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -203,3 +203,13 @@ featured_image: https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=1
 목표 대학 합격을 위해 지금부터 체계적으로 준비하세요. 꾸준한 노력은 반드시 결실을 맺습니다!
 
 {{< cta-dual type="final"  >}}
+
+
+## 📚 관련 가이드
+
+- [고3 면접 준비 | 자신감 있는 답변](/high/high-b13-3/)
+- [고1 진로 탐색 | 학과 선택](/high/high-b15-1/)
+- [고3 합격 전략 | 최종 준비](/high/high-batch8-3/)
+- [논술 전형 준비 | 논리적 글쓰기](/high/high-final-9/)
+- [고1 학습 시작 전략 | 고교 적응](/high/high-b10-1/)
+

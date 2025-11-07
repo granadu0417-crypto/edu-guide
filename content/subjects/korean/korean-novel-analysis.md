@@ -521,6 +521,16 @@ featured_image: https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1
 - 시대별
 - 세계 문학
 
+
+## 📚 관련 가이드
+
+- [국어 문학 분석 vs 암기 | 시·소설 해석법 비교](/subjects/korean/korean-literature-analysis-guide/)
+- [국어 과외 | 시 분석 완벽 정복 - 표현기교·주제·정서 해석](/subjects/korean/korean-poetry-analysis/)
+- [국어 고전문학 과외 | 고전소설·시가 완벽 마스터](/subjects/korean/korean-classical-literature/)
+- [국어 현대소설 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-modern-novel/)
+- [국어 독해력 과외 | 문단분석·주제파악 완벽 훈련](/subjects/korean/korean-reading-comprehension/)
+
+
 ## FAQ
 
 ### Q1. 소설을 어떻게 읽어야 하나요?

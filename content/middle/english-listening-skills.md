@@ -425,6 +425,16 @@ A: I'm going to visit my grandmother. ✓
 - 엘리하이: 내신 대비
 - 야나두 주니어: 회화 중심
 
+
+
+## 📚 관련 가이드
+
+- [과학 실험 노트 작성법 | 탐구 활동 가이드](/middle/science-lab-notebook/)
+- [중등 영어 문법 완벽 가이드 | 체계적 학습](/middle/english-grammar-guide/)
+- [중등 내신 관리 전략 | 학년별 대비법](/middle/internal-grade-management/)
+- [도형과 함수 완벽 정복 | 중등 핵심 단원](/middle/math-geometry-functions/)
+- [중2 학습 전략 가이드 | 사춘기 극복 공부법](/middle/mid-b10-1/)
+
 {{< cta-consultation-final >}}
 ## 마무리 및 격려
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}

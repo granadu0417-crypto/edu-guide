@@ -707,6 +707,16 @@ A. 혼자 공부하기 어렵다면 전문가의 도움이 효과적입니다.
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}
 - [수학 학원 vs 과외, 어떤 게 나을까?](/tutoring/guide/academy-vs-private/)
 - [우리 지역 수학 학원 찾기](/local/)
+
+
+## 📚 관련 가이드
+
+- [초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략](/elementary/elementary-math-study-guide/index/)
+- [수학 계산기 활용 완벽 가이드 | 1:1 수학 계산 과외](/subjects/math/math-calculator-use/)
+- [수학 그래프 그리기 완벽 가이드 | 1:1 그래프 과외](/subjects/math/math-graph-sketching/)
+- [수학 문제 풀이 전략 가이드 | 1:1 수학 문제풀이 과외](/subjects/math/math-problem-solving/)
+- [수학 학습 계획 완벽 가이드 | 1:1 수학 학습 전략 과외](/subjects/math/math-study-plan/)
+
 {{< cta-consultation-final >}}
 
 ---

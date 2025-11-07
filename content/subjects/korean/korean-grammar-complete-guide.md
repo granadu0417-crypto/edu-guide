@@ -517,6 +517,16 @@ featured_image: https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200
 
 국어 문법 학습에 어려움을 느끼신다면 [무료 상담](/consultation/)을 통해 전문가의 1:1 맞춤 지도를 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [국어 독해력 향상 추천 전략 | 초중고 학년별](/subjects/korean/korean-reading-comprehension-guide/)
+- [국어 비문학 독해 고민? | 유형별 전략 솔루션 2025](/subjects/korean/korean-nonfiction-reading-guide/)
+- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
+- [고등학생 국어 공부법 완벽 가이드 | 수능부터 내신까지](/high/high-school-korean-study-guide/index/)
+- [국어 문학 분석 vs 암기 | 시·소설 해석법 비교](/subjects/korean/korean-literature-analysis-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

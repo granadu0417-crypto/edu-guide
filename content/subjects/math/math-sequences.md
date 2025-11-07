@@ -581,3 +581,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 수열 과외로 더욱 체계적으로 학습할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 학습 앱 활용 가이드 | 1:1 앱 활용 과외](/subjects/math/math-apps-tools/)
+- [수학 흔한 실수 방지 가이드 | 1:1 수학 실수 방지 과외](/subjects/math/math-common-mistakes/)
+- [수학 복소수 완벽 정복 가이드 | 1:1 복소수 과외](/subjects/math/math-complex-numbers/)
+- [수학 시험 대비 완벽 가이드 | 1:1 수학 시험 준비 과외](/subjects/math/math-exam-preparation/)
+- [수학 지수와 로그 완벽 정복 가이드 | 1:1 지수로그 과외](/subjects/math/math-exponential-logarithm/)
+

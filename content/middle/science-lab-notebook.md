@@ -554,6 +554,16 @@ Y축: 종속 변인 (용해도)
 처음에는 어렵고 시간이 걸리지만, 꾸준히 연습하면 자연스럽게 익숙해집니다. 정직하고 정확하게 기록하는 습관을 들이세요. 그것이 진정한 과학자의 자세입니다!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [영어 듣기 실력 향상법 | 청해 마스터](/middle/english-listening-skills/)
+- [도형과 함수 완벽 정복 | 중등 핵심 단원](/middle/math-geometry-functions/)
+- [자기주도학습 완벽 가이드 | 스스로 공부하기](/middle/self-directed-learning-complete-guide/)
+- [서술형 평가 전략 | 고득점 비법](/middle/descriptive-assessment-strategy/)
+- [역사 공부법 가이드 | 암기와 이해](/middle/history-study-methods/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 실험 노트 작성 가이드이며, 학교별 양식과 평가 기준은 다를 수 있으니 선생님의 지도를 따르시기 바랍니다.*

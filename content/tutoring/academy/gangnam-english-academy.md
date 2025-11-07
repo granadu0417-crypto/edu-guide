@@ -281,6 +281,16 @@ A9. 토플·텝스가 아니라면 불리하지 않습니다. 수능·내신은 
 **Q10. 초등학생도 강남 영어학원?**
 A10. 필수는 아닙니다. 초등은 재미있게 영어에 노출되는 것이 중요합니다. 지역 학원에서 파닉스·리딩을 배우고, 원어민 1:1 과외로 회화를 하는 것이 더 효과적일 수 있습니다.
 
+
+
+## 📚 관련 가이드
+
+- [초등 영어학원 - 파닉스·회화·문법 및 1:1 과외](/tutoring/academy/elementary-english-academy/)
+- [고등 영어학원 - 수능·내신·모의고사 및 1:1 과외](/tutoring/academy/high-english-academy/)
+- [일산 영어학원 - 중고등 내신·수능 전문 및 1:1 과외](/tutoring/academy/ilsan-english-academy/)
+- [중등 영어학원 - 내신·영어듣기 전문 및 1:1 과외](/tutoring/academy/middle-english-academy/)
+- [부산 해운대 학원 - 중고등 입시 및 1:1 과외](/tutoring/academy/busan-haeundae-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -57,4 +57,14 @@ reading_time: 285줄
 **Q2. 1:1 과외 필요?** A2. 추천합니다.
 **Q3. 수능 대비는?** A3. 내신이 강점이므로 수능은 1:1 과외로.
 
+
+
+## 📚 관련 가이드
+
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [반포 프리미엄 학원 - 소수정예 관리형 학원 및 1:1 과외](/tutoring/academy/banpo-premium-academy/)
+- [중하위권 학원 - 기초부터 탄탄히 및 1:1 과외](/tutoring/academy/basic-academy/)
+- [기숙학원 - 전국 기숙학원 비교 및 1:1 과외](/tutoring/academy/boarding-academy/)
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+
 {{< cta-consultation-final >}}

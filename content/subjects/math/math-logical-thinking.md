@@ -584,6 +584,16 @@ featured_image: https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1
 - 이해 확인
 - 의사소통 능력
 
+
+## 📚 관련 가이드
+
+- [수학 증명 작성 완벽 가이드 | 1:1 수학 증명 과외](/subjects/math/math-proof-writing/)
+- [수학 서술형 과외 | 문장제·풀이과정 완벽 전략](/subjects/math/math-word-problems-strategy/)
+- [수학 심화 팁 완벽 가이드 | 1:1 수학 심화 과외](/subjects/math/math-advanced-tips/)
+- [수학 대수 과외 | 방정식·부등식·함수 완벽 마스터](/subjects/math/math-algebra-mastery/)
+- [수학 학습 앱 활용 가이드 | 1:1 앱 활용 과외](/subjects/math/math-apps-tools/)
+
+
 ## FAQ
 
 ### Q1. 수학적 사고력을 어떻게 키우나요?

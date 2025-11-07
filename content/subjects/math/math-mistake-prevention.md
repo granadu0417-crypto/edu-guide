@@ -457,6 +457,16 @@ x - y = 1
 
 수학 실수 방지를 위한 맞춤 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [수학 개념 이해 완벽 정리 | 기초~심화 2025](/subjects/math/math-concept-mastery/)
+- [수학 기초 vs 심화 학습 | 연산~응용 균형 비교](/subjects/math/math-foundation-building/)
+- [수학 흔한 실수 방지 가이드 | 1:1 수학 실수 방지 과외](/subjects/math/math-common-mistakes/)
+- [수학 선행학습 전략 완벽 가이드 | 1:1 과외로 올바른 선행 [2025]](/subjects/math/math-advanced-learning/)
+- [수학 완벽 로드맵 - 기초부터 심화까지 총정리](/subjects/math/math-complete-roadmap/)
+
 {{< cta-consultation-final >}}
 
 ---

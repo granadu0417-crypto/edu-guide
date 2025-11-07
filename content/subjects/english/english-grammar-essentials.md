@@ -882,6 +882,16 @@ much, even, still, far, a lot
 
 영어 문법 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [영어 독해 vs 문법 공부 | 유형별 전략 비교](/subjects/english/english-reading-strategies/)
+- [영어 듣기 완벽 정리 | 유형별 실전 전략 2025](/subjects/english/english-listening-mastery/)
+- [중학생 영어 공부법 완전 정복 | 내신부터 고등 준비까지](/middle/middle-school-english-study-guide/index/)
+- [영어 완벽 마스터 가이드 - 듣기·말하기·읽기·쓰기 총정리](/subjects/english/english-complete-mastery-guide/)
+- [영어 문법기초 과외 | 품사·시제·문장구조 완벽 정리](/subjects/english/english-grammar-fundamentals/)
+
 {{< cta-consultation-final >}}
 
 ---

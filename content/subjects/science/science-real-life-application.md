@@ -531,6 +531,16 @@ featured_image: https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1
 - 문제 해결
 - 발명 아이디어
 
+
+## 📚 관련 가이드
+
+- [과학 개념연결 과외 | 통합사고·융합문제 완벽 대비](/subjects/science/science-concept-connection/)
+- [과학 실험보고서 과외 | 작성법·분석법 완벽 마스터](/subjects/science/science-lab-report/)
+- [과학 관찰력 과외 | 실험·탐구·기록 능력 완벽 향상](/subjects/science/science-observation-skills/)
+- [과학 탐구 과외 | 실험분석·그래프해석·문제해결 완벽 정복](/subjects/science/science-problem-solving/)
+- [과학 산과 염기 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-acid-base/)
+
+
 ## FAQ
 
 ### Q1. 과학이 실생활에 어떻게 도움이 되나요?

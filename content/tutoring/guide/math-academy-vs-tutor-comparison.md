@@ -464,6 +464,16 @@ A: 학력과 경력도 중요하지만, 설명 능력과 아이와의 궁합이 
 ### Q10: 1:1 수학 과외가 효과적인가요?
 A: 네, 매우 효과적입니다. 특히 기초가 부족하거나 특정 단원이 약한 경우, 1:1 과외는 학생 수준에 정확히 맞춘 지도가 가능합니다. 이해할 때까지 반복 설명을 들을 수 있고, 질문을 자유롭게 할 수 있어 효율적입니다. 또한 학습 습관 관리와 심리적 지원까지 받을 수 있어, 수학에 자신감을 잃은 학생에게 특히 추천합니다.
 
+
+
+## 📚 관련 가이드
+
+- [초등학생 학원 vs 과외 선택 가이드 - 우리 아이에게 맞는 학습 찾기](/tutoring/guide/elementary-academy-vs-tutor-guide/)
+- [고등학생 학원 선택 기준 - 내신과 수능 모두 잡는 전략](/tutoring/guide/high-school-academy-selection-criteria/)
+- [중학생 과외 선택 완벽 가이드 - 내신부터 입시까지](/tutoring/guide/middle-school-tutor-selection-guide/)
+- [온라인 과외 vs 방문 과외 비교 - 완벽한 선택 가이드](/tutoring/guide/online-vs-visit-tutoring-comparison/)
+- [수학 1:1 과외 완벽 활용 가이드 | 효과적인 학습 전략 [2025]](/subjects/math/math-tutoring-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

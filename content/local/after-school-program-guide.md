@@ -768,3 +768,12 @@ A. 점검 사항:
 - 가정의 경제적 여건을 고려하세요
 
 우리 아이가 안전하고 행복하게 방과후 시간을 보낼 수 있기를 바랍니다!
+
+## 📚 관련 가이드
+
+- [교육복지 지원 제도 총정리 - 저소득층 학생 무료 지원 혜택](/local/education-welfare-support-guide/)
+- [교육지원청·Wee센터 완벽 활용 가이드 - 무료 상담과 지원 서비스](/local/education-support-center-guide/)
+- [무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법](/local/online-education-platform-guide/)
+- [학원 선택 완벽 가이드 - 우리 아이에게 맞는 학원 찾기](/local/private-academy-selection-guide/)
+- [전국 공공도서관 활용 완벽 가이드 - 무료 학습공간과 교육 프로그램](/local/public-library-guide/)
+

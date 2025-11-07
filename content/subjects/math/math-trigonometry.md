@@ -528,3 +528,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 삼각함수 과외로 더욱 체계적으로 학습할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 미분 완벽 정복 가이드 | 1:1 미분 과외](/subjects/math/math-differentiation/)
+- [수학 복소수 완벽 정복 가이드 | 1:1 복소수 과외](/subjects/math/math-complex-numbers/)
+- [수학 개념 이해 완벽 가이드 | 1:1 수학 개념 과외](/subjects/math/math-concept-understanding/)
+- [고1 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade10/)
+- [고3 문과 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade12-liberal/)
+

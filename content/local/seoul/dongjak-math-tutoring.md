@@ -398,3 +398,13 @@ A. 일반적으로 최소 2-3개월은 지켜봐야 합니다.
 
 좋은 수학 과외는 단순히 문제 푸는 기술이 아니라,
 스스로 생각하고 해결하는 수학적 사고력을 키워줍니다.
+
+
+## 📚 관련 가이드
+
+- [도봉구 수학과외 핵심 정리 | 창동·방학동 주거 중심 안정적 수학 교육](/local/seoul/dobong-math-tutoring/)
+- [은평구 수학과외 추천 | 불광·응암 주거 중심 안정적 수학 교육](/local/seoul/eunpyeong-math-tutoring/)
+- [강북구 수학과외 추천 | 수유·미아 국민대 수학교육과 중심 교육](/local/seoul/gangbuk-math-tutoring/)
+- [금천구 수학과외 추천 | 독산·시흥 지역 맞춤형 수학 교육 완벽 가이드](/local/seoul/geumcheon-math-tutoring/)
+- [구로구 수학과외 완벽 정리 | 가산디지털단지·신도림 실용적 수학 교육](/local/seoul/guro-math-tutoring/)
+

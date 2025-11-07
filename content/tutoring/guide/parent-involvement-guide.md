@@ -229,6 +229,16 @@ reading_time: 312줄
 - [ ] 수업 방식 간섭
 - [ ] 과도한 압박
 
+
+## 📚 관련 가이드
+
+- [학원 과외 소통 가이드 - 선생님·학부모·학생 협력 전략](/tutoring/guide/tutoring-communication-guide/)
+- [입시 컨설팅 vs 학원 과외 가이드 - 대입 전략 선택](/tutoring/guide/consulting-vs-tutoring/)
+- [맞벌이 가정 학습 관리 가이드 - 바쁜 부모를 위한 1:1 과외 활용법](/tutoring/guide/dual-income-family-learning/)
+- [장기 학습 계획 세우기 - 지속 가능한 성적 향상 전략](/tutoring/guide/long-term-study-planning/)
+- [저소득층 교육 지원 가이드 - 무료·저비용 1:1 과외와 정부 지원 총정리](/tutoring/guide/low-income-education-support/)
+
+
 ## FAQ
 
 **Q1. 1:1 과외 수업에 참관해도 되나요?**

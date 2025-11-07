@@ -537,6 +537,16 @@ featured_image: https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1
 - GeoGebra
 - Desmos 그래프 계산기
 
+
+## 📚 관련 가이드
+
+- [수학 대수 과외 | 방정식·부등식·함수 완벽 마스터](/subjects/math/math-algebra-mastery/)
+- [수학 미적분 과외 | 극한·미분·적분 완벽 입문](/subjects/math/math-calculus-introduction/)
+- [수학 완벽 로드맵 - 기초부터 심화까지 총정리](/subjects/math/math-complete-roadmap/)
+- [수학 개념 이해 완벽 정리 | 기초~심화 2025](/subjects/math/math-concept-mastery/)
+- [수학 개념 이해 완벽 가이드 | 1:1 수학 개념 과외](/subjects/math/math-concept-understanding/)
+
+
 ## FAQ
 
 ### Q1. 함수가 왜 중요한가요?

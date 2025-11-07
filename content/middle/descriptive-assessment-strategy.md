@@ -643,6 +643,16 @@ Q: ~을/를 계산하는 과정을 쓰시오.
 문제가 요구하는 것을 정확히 파악하고, 논리적으로 구성하며, 핵심 키워드를 포함하여 완전한 문장으로 작성하세요. 평소 꾸준한 연습이 시험장에서의 자신감으로 이어집니다!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [도형과 함수 완벽 정복 | 중등 핵심 단원](/middle/math-geometry-functions/)
+- [중등 심화 독해 전략 | 비문학 정복](/middle/reading-comprehension-advanced/)
+- [과학 실험 노트 작성법 | 탐구 활동 가이드](/middle/science-lab-notebook/)
+- [영어 듣기 실력 향상법 | 청해 마스터](/middle/english-listening-skills/)
+- [역사 공부법 가이드 | 암기와 이해](/middle/history-study-methods/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 서술형 평가 대비 가이드이며, 학교별 채점 기준과 출제 경향은 다를 수 있으니 선생님의 지도를 따르시기 바랍니다.*

@@ -524,3 +524,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 이차곡선 과외로 더욱 체계적으로 학습할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [온라인 수학 학습 완벽 가이드 | 1:1 온라인 수학 과외](/subjects/math/math-online-learning/)
+- [수학 인강 활용 완벽 가이드 | 1:1 인강 활용 과외](/subjects/math/math-online-lectures/)
+- [수학 벡터 완벽 정복 가이드 | 1:1 벡터 과외](/subjects/math/math-vectors/)
+- [수학 유튜브 활용 완벽 가이드 | 1:1 유튜브 학습 과외](/subjects/math/math-youtube-learning/)
+- [수학 심화 팁 완벽 가이드 | 1:1 수학 심화 과외](/subjects/math/math-advanced-tips/)
+

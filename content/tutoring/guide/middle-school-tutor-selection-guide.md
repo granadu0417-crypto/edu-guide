@@ -553,6 +553,16 @@ A: 늦어도 중3 1학기부터는 시작하는 것이 좋습니다. 특목고�
 ### Q10: 1:1 과외가 중학생에게 효과적인가요?
 A: 네, 매우 효과적입니다. 특히 중학생은 사춘기로 인한 정서적 변화가 크고, 학습량도 급증하는 시기입니다. 1:1 과외는 학생의 수준과 속도에 맞춘 맞춤 지도가 가능하며, 약점을 정확히 파악하고 집중 보완할 수 있습니다. 또한 내신 시험 대비, 학습 습관 관리, 심리적 지원까지 종합적으로 도움을 받을 수 있어 중학생 시기에 특히 추천됩니다.
 
+
+
+## 📚 관련 가이드
+
+- [초등학생 학원 vs 과외 선택 가이드 - 우리 아이에게 맞는 학습 찾기](/tutoring/guide/elementary-academy-vs-tutor-guide/)
+- [성적 올리는 비법 - 학원 과외 활용한 단기 성적 향상 전략](/tutoring/guide/grade-improvement-strategies/)
+- [수학 학원 vs 과외 비교 - 우리 아이에게 맞는 선택은?](/tutoring/guide/math-academy-vs-tutor-comparison/)
+- [온라인 과외 vs 방문 과외 비교 - 완벽한 선택 가이드](/tutoring/guide/online-vs-visit-tutoring-comparison/)
+- [중등 수학 고난도 문제 풀이 | 심화 학습](/middle/math-difficult-problems/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -229,6 +229,16 @@ A9. 중계동 종합학원은 학부모 소통이 밀착되어 있습니다. 월
 **Q10. 종합반에서 특정 과목만 빠질 수 있나요?**
 A10. 일부 학원은 가능하지만 대부분 전체 등록이 원칙입니다. 특정 과목이 강하면 단과 또는 1:1 과외 중심으로 가는 것이 나을 수 있습니다.
 
+
+
+## 📚 관련 가이드
+
+- [안양 종합학원 - 평촌·범계·인덕원 통합 및 1:1 과외](/tutoring/academy/anyang-jong-academy/)
+- [부산 해운대 학원 - 중고등 입시 및 1:1 과외](/tutoring/academy/busan-haeundae-academy/)
+- [대구 수성구 학원 - 수학·영어 특화 및 1:1 과외](/tutoring/academy/daegu-suseong-academy/)
+- [대전 둔산동 학원 - 유성·서구 및 1:1 과외](/tutoring/academy/daejeon-dunsan-academy/)
+- [광주 학원가 - 수완·첨단 지역 및 1:1 과외](/tutoring/academy/gwangju-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

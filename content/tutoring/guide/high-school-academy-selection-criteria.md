@@ -526,6 +526,16 @@ A: 자기주도 학습이 가능한 학생에게는 매우 효과적입니다. �
 ### Q10: 학원과 1:1 과외를 병행하는 것이 효과적인가요?
 A: 네, 매우 효과적일 수 있습니다. 학원에서 체계적인 커리큘럼을 따라가고, 1:1 과외로 약점을 보완하거나 심화 학습을 하는 전략이 좋습니다. 예를 들어 주요 과목은 학원에서, 특별히 어려운 과목은 1:1 과외로 집중 관리하면 효율적입니다. 다만 학습량이 과하지 않도록 조절이 필요합니다.
 
+
+
+## 📚 관련 가이드
+
+- [초등학생 학원 vs 과외 선택 가이드 - 우리 아이에게 맞는 학습 찾기](/tutoring/guide/elementary-academy-vs-tutor-guide/)
+- [학원 선택 완벽 체크리스트 - 등록 전 필수 확인사항 (2025)](/tutoring/academy/academy-selection-checklist/)
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+- [종합 학원 추천 방법 - 전 과목 통합 관리 완벽 가이드](/tutoring/guide/comprehensive-academy-recommendation/)
+- [입시 컨설팅 vs 학원 과외 가이드 - 대입 전략 선택](/tutoring/guide/consulting-vs-tutoring/)
+
 {{< cta-consultation-final >}}
 
 ---

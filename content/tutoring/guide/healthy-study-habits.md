@@ -329,6 +329,16 @@ A9. 시간은 줄여도 되지만, 완전히 안 하면 리듬이 깨집니다. 
 **Q10. 좋은 학습 습관의 가장 중요한 것은?**
 A10. 꾸준함입니다. 매일 조금씩이 한 번에 많이보다 훨씬 효과적입니다. 정해진 시간, 정해진 장소에서 매일 공부하는 습관이 평생 자산이 됩니다.
 
+
+
+## 📚 관련 가이드
+
+- [맞벌이 가정 학습 관리 가이드 - 바쁜 부모를 위한 1:1 과외 활용법](/tutoring/guide/dual-income-family-learning/)
+- [내신 vs 수능 균형 가이드 - 수시·정시 대비 학원 과외 전략](/tutoring/guide/naesin-vs-suneung-balance/)
+- [지방 거주 학생 교육 전략 - 온라인 1:1 과외와 효율적 학습 방법](/tutoring/guide/rural-student-strategy/)
+- [한부모 가정 교육 지원 가이드 - 효율적 1:1 과외와 지원 제도 활용](/tutoring/guide/single-parent-family-education/)
+- [학습 플래너 작성 가이드 - 효율적인 공부 계획표 만들기](/tutoring/guide/study-planner-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

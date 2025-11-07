@@ -269,6 +269,16 @@ A9. 목동 학원 출신이거나 경험이 있는 선생님을 추천합니다.
 **Q10. 목동 학원과 온라인 학원?**
 A10. 목동 학원은 오프라인 수업과 관리가 강점입니다. 온라인 학원은 시간·장소 자유롭고 저렴하지만 관리가 약합니다. 온라인+1:1 과외도 좋은 대안입니다.
 
+
+
+## 📚 관련 가이드
+
+- [양천 초등학원 - 목동권 초등 전문 학원 및 1:1 과외 추천](/tutoring/academy/yangcheon-elementary-academy/)
+- [안양 종합학원 - 평촌·범계·인덕원 통합 및 1:1 과외](/tutoring/academy/anyang-jong-academy/)
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+- [부산 해운대 학원 - 중고등 입시 및 1:1 과외](/tutoring/academy/busan-haeundae-academy/)
+- [대구 수성구 학원 - 수학·영어 특화 및 1:1 과외](/tutoring/academy/daegu-suseong-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

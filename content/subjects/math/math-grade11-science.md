@@ -626,3 +626,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 이과 수학 과외로 미적분을 완벽히 마스터할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 미적분 과외 | 극한·미분·적분 완벽 입문](/subjects/math/math-calculus-introduction/)
+- [수학 이차곡선 완벽 정복 가이드 | 1:1 이차곡선 과외](/subjects/math/math-conic-sections/)
+- [수학 미분 완벽 정복 가이드 | 1:1 미분 과외](/subjects/math/math-differentiation/)
+- [고2 문과 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade11-liberal/)
+- [고3 이과 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade12-science/)
+

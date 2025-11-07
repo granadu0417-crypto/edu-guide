@@ -252,6 +252,16 @@ A9. 매우 중요합니다. 초등 때 형성된 학습 습관은 평생 갑니�
 **Q10. 놀이와 학습의 균형은?**
 A10. 초등은 놀이가 더 중요합니다. 학원과 과외는 적당히 하고, 친구와 놀고, 가족과 시간을 보내는 것이 우선입니다. 행복한 아이가 공부도 잘합니다.
 
+
+
+## 📚 관련 가이드
+
+- [산본 초등학원 - 금정·군포 지역 및 1:1 과외](/tutoring/academy/sanbon-elementary-academy/)
+- [목동 학원가 완전 정복 - 초중고 종합 학원 및 1:1 과외 추천](/tutoring/academy/mokdong-academy-guide/)
+- [대전 둔산동 학원 - 유성·서구 및 1:1 과외](/tutoring/academy/daejeon-dunsan-academy/)
+- [초등학원 선택 가이드 - 학년별 추천 및 1:1 과외](/tutoring/academy/elementary-academy-guide/)
+- [초등 영어학원 - 파닉스·회화·문법 및 1:1 과외](/tutoring/academy/elementary-english-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

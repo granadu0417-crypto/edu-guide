@@ -424,3 +424,13 @@ A. 전혀 아닙니다. 최소 3명 이상 만나보고 비교하는 게 현명�
 5. 3개월 지켜본 후 평가
 
 성공적인 과외 되시길 바랍니다! 📚
+
+
+## 📚 관련 가이드
+
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [1대1 과외 장단점 완벽 분석 - 맞춤 학습의 모든 것](/tutoring/guide/one-on-one-tutoring-pros-cons/)
+- [과외 선생님 면접 질문 가이드 - 최고의 선생님 찾기](/tutoring/guide/tutor-interview-guide/)
+- [마포구 영어과외 선택 가이드 - 효과적인 1:1 영어 학습법](/local/mapo-english-tutor/)
+- [그룹 과외 vs 1대1 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/group-vs-individual-tutoring/)
+

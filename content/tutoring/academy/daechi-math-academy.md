@@ -302,6 +302,16 @@ A9. 필수는 아닙니다. 중학생은 기초가 중요하므로 지역 학원
 **Q10. 대치동 학원과 온라인 학원은 어떻게 다른가요?**
 A10. 대치동 학원은 오프라인 수업, 경쟁 환경, 체계적 관리가 강점입니다. 온라인 학원은 시간·장소 자유롭고 저렴하지만 관리가 약합니다. 온라인 학원+1:1 과외도 좋은 대안입니다.
 
+
+
+## 📚 관련 가이드
+
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+- [분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외](/tutoring/academy/bundang-math-academy/)
+- [초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외](/tutoring/academy/elementary-math-academy/)
+- [고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외](/tutoring/academy/high-math-academy/)
+- [중등 수학학원 - 내신 1등급 만들기 및 1:1 과외](/tutoring/academy/middle-math-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

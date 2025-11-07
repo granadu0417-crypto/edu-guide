@@ -70,5 +70,15 @@ reading_time: 280줄
 
 **Q5. 준비물은?** A5. 교재, 오답노트, 학습 자료를 준비하세요.
 
+
+
+## 📚 관련 가이드
+
+- [국어 과외 - 비문학·문학·문법 선생님](/tutoring/private/korean-tutoring/)
+- [입시 컨설팅 과외 - 수시·정시 전문가 찾기](/tutoring/private/admission-consulting-tutoring/)
+- [미술 과외 - 입시·취미 전문 선생님 찾기](/tutoring/private/art-tutoring/)
+- [생명과학 과외 - 개념·실험 선생님 찾기](/tutoring/private/biology-tutoring/)
+- [분당 방문 과외 - 판교·정자 선생님 찾기](/tutoring/private/bundang-visiting-tutoring/)
+
 {{< cta-consultation-final >}}
 

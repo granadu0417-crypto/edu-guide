@@ -271,6 +271,16 @@ A9. 성적은 천천히 오릅니다. 2-3개월은 지켜봐야 합니다. 1:1 �
 **Q10. 장기적으로 동기를 유지하려면?**
 A10. 내적 동기를 키우세요. 명확한 목표, 작은 성공 경험, 적절한 휴식, 그리고 1:1 과외 멘토링이 도움이 됩니다.
 
+
+
+## 📚 관련 가이드
+
+- [시험 망쳤을 때 대처법 - 긴급 복구 및 재도약 전략](/tutoring/guide/exam-panic-recovery-guide/)
+- [영재 학생 교육 전략 가이드 - 심화 학습과 1:1 과외 활용법](/tutoring/guide/gifted-education-strategy/)
+- [스터디 계정 활용 가이드 - SNS 공부 인증과 1:1 과외 병행](/tutoring/guide/sns-study-account-guide/)
+- [학습 플래너 작성 가이드 - 효율적인 공부 계획표 만들기](/tutoring/guide/study-planner-guide/)
+- [과목 변경 전략 가이드 - 탐구 과목 선택과 재선택 완벽 안내](/tutoring/guide/subject-change-strategy/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -613,6 +613,16 @@ D < 0: 만나지 않음
 하루 30분~1시간씩 꾸준히 학습하고, 틀린 문제는 반드시 다시 풀어보세요. 개념이 탄탄하면 어떤 문제도 해결할 수 있습니다!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [중등 심화 독해 전략 | 비문학 정복](/middle/reading-comprehension-advanced/)
+- [과학 실험 노트 작성법 | 탐구 활동 가이드](/middle/science-lab-notebook/)
+- [서술형 평가 전략 | 고득점 비법](/middle/descriptive-assessment-strategy/)
+- [영어 듣기 실력 향상법 | 청해 마스터](/middle/english-listening-skills/)
+- [중등 내신 관리 전략 | 학년별 대비법](/middle/internal-grade-management/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 중학 수학 도형과 함수의 핵심을 정리한 가이드이며, 교과서와 문제집을 병행하여 학습하시기 바랍니다.*

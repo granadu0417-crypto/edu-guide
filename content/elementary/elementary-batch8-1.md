@@ -161,3 +161,13 @@ featured_image: https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=1
 초등학교에서 형성된 학습 습관과 기초 학력이 중·고등학교 성공의 열쇠입니다. 지금 바른 습관을 들이면 평생 도움이 됩니다!
 
 {{< cta-dual type="final"  >}}
+
+
+## 📚 관련 가이드
+
+- [초등 4학년 과목별 전략 | 핵심 학습법](/elementary/elem-b10-3/)
+- [초등 5학년 학습법 | 심화 학습 시작](/elementary/elem-b11-1/)
+- [초등 5학년 과목 전략 | 응용력 향상](/elementary/elem-b11-3/)
+- [초5 심화 학습 가이드 | 창의적 사고](/elementary/elem-b11-4/)
+- [초6 학습 마무리 | 중학교 예습](/elementary/elem-b12-2/)
+

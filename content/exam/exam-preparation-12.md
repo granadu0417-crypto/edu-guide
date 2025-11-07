@@ -164,6 +164,16 @@ A: **다음 시험을 준비**하세요. 오답 분석으로 약점을 보완하
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [시험 2주 전 준비 | 효율적 마무리](/exam/exam-preparation-1/)
+- [서술형 시험 대비법 | 논리적 답안 작성](/exam/exam-preparation-10/)
+- [객관식 문제 풀이 전략 | 오답 제거 기법](/exam/exam-preparation-11/)
+- [과목별 시험 전략 | 과목 특성별 대비](/exam/exam-preparation-13/)
+- [암기 과목 시험 준비 | 단기 암기 전략](/exam/exam-preparation-14/)
+
 {{< cta-consultation-final >}}
 
 ---

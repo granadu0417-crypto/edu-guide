@@ -277,6 +277,16 @@ A9. 주요 원인은 사교육 접근성 차이입니다. 경제력 있는 가�
 **Q10. 교육 격차 해소를 위해 가장 중요한 것은?**
 A10. 개인 차원에서는 온라인 1:1 과외 활용과 자기주도 학습입니다. 정부 차원에서는 교육 바우처 확대와 온라인 교육 지원입니다. 지역사회 차원에서는 무료 멘토링과 장학금입니다. 모두가 협력해야 합니다.
 
+
+
+## 📚 관련 가이드
+
+- [지방 거주 학생 교육 전략 - 온라인 1:1 과외와 효율적 학습 방법](/tutoring/guide/rural-student-strategy/)
+- [다문화 가정 학생 교육 가이드 - 언어와 학습을 위한 1:1 맞춤 지원](/tutoring/guide/multicultural-student-education/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [학원·과외 환불 가이드 - 수강료 환불 절차와 소비자 권리](/tutoring/guide/academy-tutoring-refund/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -789,3 +789,13 @@ A. **전략적 학습으로 가능**합니다.
 이해→암기→적용까지 체계적으로 완성합니다.
 
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [과학 생물 과외 | 세포·유전·생태계 완벽 개념 정리](/subjects/science/science-biology-concepts/)
+- [과학 화학 과외 | 원소·화학반응·물질변화 완벽 기초](/subjects/science/science-chemistry-basics/)
+- [과학 탐구 과외 | 실험분석·그래프해석·문제해결 완벽 정복](/subjects/science/science-problem-solving/)
+- [과학 산과 염기 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-acid-base/)
+- [과학 천문학 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-astronomy/)
+

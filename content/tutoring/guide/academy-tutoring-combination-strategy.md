@@ -264,6 +264,16 @@ reading_time: 318줄
 - [ ] 비용 대비 효과가 만족스러운가?
 - [ ] 학생이 학원과 과외 모두에 만족하는가?
 
+
+## 📚 관련 가이드
+
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 바꾸기 완벽 가이드 - 올바른 학원 변경 시기와 전략](/tutoring/guide/changing-academy-guide/)
+- [첫 학원 등록 가이드 - 학원 입문 완벽 준비 전략](/tutoring/guide/first-academy-registration-guide/)
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+- [학원·과외 환불 가이드 - 수강료 환불 절차와 소비자 권리](/tutoring/guide/academy-tutoring-refund/)
+
+
 ## FAQ
 
 **Q1. 학원과 1:1 과외를 병행하면 성적이 더 잘 오르나요?**

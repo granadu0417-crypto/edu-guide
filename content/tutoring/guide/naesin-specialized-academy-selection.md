@@ -479,6 +479,16 @@ A: 같은 학원에서 우리 학교 반이 있다면 바꿀 필요 없습니다
 ### Q10: 내신 학원과 1:1 과외를 병행하면 효과적인가요?
 A: 네, 매우 효과적입니다. 내신 학원에서는 시험 범위 전체를 커버하고 암기 관리를 받으며, 1:1 과외에서는 이해가 안 되는 개념을 보완하고 약점을 집중 훈련할 수 있습니다. 학원은 넓게, 1:1 과외는 깊게 학습하는 전략으로 내신 만점을 노릴 수 있습니다.
 
+
+
+## 📚 관련 가이드
+
+- [단기 집중 과외 선택 - 시험 직전 성적 올리는 특급 전략](/tutoring/guide/short-term-intensive-tutoring/)
+- [시험 망쳤을 때 대처법 - 긴급 복구 및 재도약 전략](/tutoring/guide/exam-panic-recovery-guide/)
+- [고등학생 학원 선택 기준 - 내신과 수능 모두 잡는 전략](/tutoring/guide/high-school-academy-selection-criteria/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [시험 2주 전 공부법 완벽 가이드 | D-14부터 D-1까지 일별 플랜](/exam/exam-two-weeks-before-strategy/index/)
+
 {{< cta-consultation-final >}}
 
 ---

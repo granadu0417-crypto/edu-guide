@@ -473,3 +473,13 @@ featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1
 5. **콘텐츠 창작** (학기 1회)
 
 미디어 리터러시로 똑똑한 정보 소비자가 되세요!
+
+
+## 📚 관련 가이드
+
+- [국어 독해력 과외 | 문단분석·주제파악 완벽 훈련](/subjects/korean/korean-reading-comprehension/)
+- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
+- [국어 작가론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-author-studies/)
+- [국어 빈칸 추론 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-blank-inference/)
+- [국어 서평 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-book-review/)
+

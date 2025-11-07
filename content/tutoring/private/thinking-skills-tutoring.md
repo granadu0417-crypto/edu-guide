@@ -70,5 +70,15 @@ reading_time: 280줄
 
 **Q5. 준비물은?** A5. 교재, 오답노트, 학습 자료를 준비하세요.
 
+
+
+## 📚 관련 가이드
+
+- [초등 수학 과외 - 연산·사고력 선생님 찾기](/tutoring/private/elementary-math-tutoring/)
+- [초등 영어 과외 - 파닉스·리딩 전문 선생님](/tutoring/private/elementary-english-tutoring/)
+- [초등 과외 완벽 가이드 - 학년별 선생님 찾기](/tutoring/private/elementary-tutoring-guide/)
+- [고등 수학 과외 - 미적분·기하·확통 선생님](/tutoring/private/high-math-tutoring/)
+- [중등 수학 과외 - 내신 만점 전략 선생님](/tutoring/private/middle-math-tutoring/)
+
 {{< cta-consultation-final >}}
 

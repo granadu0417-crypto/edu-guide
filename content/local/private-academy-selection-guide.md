@@ -862,3 +862,12 @@ A. 원인 파악:
 - 학원은 수단이지 목적이 아닙니다
 
 우리 아이에게 딱 맞는 학원을 찾아 효과적인 학습이 이루어지기를 바랍니다. 하지만 학원에 의존하기보다는 스스로 공부하는 힘을 기르는 것이 더욱 중요하다는 것을 잊지 마세요!
+
+## 📚 관련 가이드
+
+- [무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법](/local/online-education-platform-guide/)
+- [교육복지 지원 제도 총정리 - 저소득층 학생 무료 지원 혜택](/local/education-welfare-support-guide/)
+- [은평구 영어과외 핵심 가이드 | 불광·응암 체계적 영어 교육](/local/seoul/eunpyeong-english-tutoring/)
+- [은평구 수학과외 추천 | 불광·응암 주거 중심 안정적 수학 교육](/local/seoul/eunpyeong-math-tutoring/)
+- [초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법](/local/after-school-program-guide/)
+

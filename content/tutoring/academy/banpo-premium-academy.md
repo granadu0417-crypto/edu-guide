@@ -216,6 +216,16 @@ A9. 고2 후반부터 고3가 적기입니다. 고1은 일반 학원+1:1 과외�
 **Q10. 반포 외 프리미엄?**
 A10. 대치동, 목동, 분당에도 프리미엄 학원이 있습니다. 지역보다 학원의 실적과 시스템이 더 중요합니다.
 
+
+
+## 📚 관련 가이드
+
+- [소규모 학원 - 10명 이하 소수정예 및 1:1 과외](/tutoring/academy/small-academy/)
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [중하위권 학원 - 기초부터 탄탄히 및 1:1 과외](/tutoring/academy/basic-academy/)
+- [기숙학원 - 전국 기숙학원 비교 및 1:1 과외](/tutoring/academy/boarding-academy/)
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -768,6 +768,16 @@ W ← → E
 
 지리 학습을 위한 맞춤 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [사회 논술 대비 완벽 정리 | 서술·논술 답안 2025](/subjects/social/social-essay-writing/)
+- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
+- [사회 암기 전략 추천 방법 | 역사·지리 용어 2025](/subjects/social/social-memorization-strategies/)
+- [사회 지리 과외 | 지형·기후·인구·산업 완벽 탐구](/subjects/social/social-geography-skills/)
+- [사회 지도독해 과외 | 지형도·통계지도 완벽 해석](/subjects/social/social-map-reading/)
+
 {{< cta-consultation-final >}}
 
 ---

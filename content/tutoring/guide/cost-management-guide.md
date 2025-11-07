@@ -244,6 +244,16 @@ A10. ① 가계 소득의 10-20% 설정 ② 학년별 필요 비용 확인 ③ �
 - [ ] 대출로 충당 X
 - [ ] 학생 과부하 X
 
+
+
+## 📚 관련 가이드
+
+- [심화 학습 전략 가이드 - 상위권 도약을 위한 1:1 과외 활용](/tutoring/guide/advanced-learning-strategy/)
+- [그룹 과외 vs 1대1 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/group-vs-individual-tutoring/)
+- [다문화 가정 학생 교육 가이드 - 언어와 학습을 위한 1:1 맞춤 지원](/tutoring/guide/multicultural-student-education/)
+- [온라인 과외 vs 오프라인 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/online-vs-offline-tutoring/)
+- [지방 거주 학생 교육 전략 - 온라인 1:1 과외와 효율적 학습 방법](/tutoring/guide/rural-student-strategy/)
+
 {{< cta-consultation-final >}}
 
 ---

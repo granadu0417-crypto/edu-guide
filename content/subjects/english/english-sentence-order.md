@@ -523,3 +523,13 @@ First, However, Therefore 같은 핵심 연결어에 집중하세요.
 
 1:1 맞춤 독해 과외로 더욱 빠르게 순서 배열을 마스터할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [영어 빈칸 추론 완벽 대비 | 1:1 독해 과외](/subjects/english/english-blank-inference/)
+- [영어 문장 삽입 전략 | 1:1 독해 과외](/subjects/english/english-sentence-insertion/)
+- [영어 비판적 독해 가이드 | 1:1 비판적 독해 과외](/subjects/english/english-critical-reading/)
+- [영어 추론 문제 완벽 정복 | 1:1 독해 과외](/subjects/english/english-inference-questions/)
+- [영어 토론 완벽 가이드 | 1:1 토론 과외](/subjects/english/english-debate/)
+

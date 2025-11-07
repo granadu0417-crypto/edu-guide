@@ -295,6 +295,16 @@ featured_image: https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1
 하루 30분씩이라도 꾸준히 공부하고, 궁금한 것을 찾아보는 습관을 들이세요. 이러한 학습 방법은 중·고등학교는 물론 평생 학습의 기초가 됩니다.
 
 ---
+
+
+## 📚 관련 가이드
+
+- [수학 문장제 풀이법 | 문제 이해력](/elementary/word-problems-solving/)
+- [초1 학교생활 가이드 | 친구 사귀기](/elementary/elem-b9-2/)
+- [초등 1학년 공부법 | 기초 학습](/elementary/elem-b9-3/)
+- [초1 학습 습관 시작 | 즐거운 공부](/elementary/elem-b9-4/)
+- [마스터 초등 과학 학습법 | 탐구력 키우기](/elementary/elementary-final-70/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 학습 가이드이며, 개별 학생의 수준과 학습 스타일에 맞춰 적절히 조절하여 활용하시기 바랍니다.*

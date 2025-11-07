@@ -325,6 +325,16 @@ reading_time: 310줄
 - [ ] 학생 경청
 - [ ] 문제 시 빠른 소통
 
+
+## 📚 관련 가이드
+
+- [학부모 학원 과외 참여 가이드 - 적절한 관여와 협력 전략](/tutoring/guide/parent-involvement-guide/)
+- [입시 컨설팅 vs 학원 과외 가이드 - 대입 전략 선택](/tutoring/guide/consulting-vs-tutoring/)
+- [저소득층 교육 지원 가이드 - 무료·저비용 1:1 과외와 정부 지원 총정리](/tutoring/guide/low-income-education-support/)
+- [노베이스 학생 가이드 - 기초부터 시작하는 1:1 과외 전략](/tutoring/guide/no-base-student-guide/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+
+
 ## FAQ
 
 **Q1. 선생님과 얼마나 자주 소통해야 하나요?**

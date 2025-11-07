@@ -436,6 +436,16 @@ featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1
 체계적인 내신 관리 습관은 평생 공부하는 방법을 배우는 것입니다. 오늘부터 시작하세요!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [중등 교육 완벽 마스터 | 학업 성취](/middle/middle-final-1/)
+- [중등 진로 탐색 | 적성 발견하기](/middle/middle-final-10/)
+- [중등 자유학년제 활용 | 진로 체험 극대화](/middle/middle-final-11/)
+- [중등 독서 활동 | 생기부 관리 전략](/middle/middle-final-12/)
+- [중등 봉사활동 가이드 | 의미있는 활동](/middle/middle-final-13/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 학습 가이드이며, 개별 학생의 상황과 학교 정책에 따라 적절히 조절하여 활용하시기 바랍니다.*

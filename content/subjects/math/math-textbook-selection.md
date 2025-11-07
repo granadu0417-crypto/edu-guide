@@ -529,3 +529,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 수학 과외로 개인에게 맞는 문제집을 추천받을 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [방학 수학 학습 완벽 가이드 | 1:1 방학 수학 과외](/subjects/math/math-vacation-study/)
+- [수학 심화 팁 완벽 가이드 | 1:1 수학 심화 과외](/subjects/math/math-advanced-tips/)
+- [수학 학습 앱 활용 가이드 | 1:1 앱 활용 과외](/subjects/math/math-apps-tools/)
+- [수학 계산기 활용 완벽 가이드 | 1:1 수학 계산 과외](/subjects/math/math-calculator-use/)
+- [수학 흔한 실수 방지 가이드 | 1:1 수학 실수 방지 과외](/subjects/math/math-common-mistakes/)
+

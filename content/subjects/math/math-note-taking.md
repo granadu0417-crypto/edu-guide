@@ -611,3 +611,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 수학 과외로 효과적인 노트 정리법을 배울 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 흔한 실수 방지 가이드 | 1:1 수학 실수 방지 과외](/subjects/math/math-common-mistakes/)
+- [수학 개념 이해 완벽 가이드 | 1:1 수학 개념 과외](/subjects/math/math-concept-understanding/)
+- [수학 시험 대비 완벽 가이드 | 1:1 수학 시험 준비 과외](/subjects/math/math-exam-preparation/)
+- [수학 공식 암기 완벽 가이드 | 1:1 수학 공식 암기 과외](/subjects/math/math-formula-memorization/)
+- [수학 문제 풀이 전략 가이드 | 1:1 수학 문제풀이 과외](/subjects/math/math-problem-solving/)
+

@@ -323,3 +323,13 @@ A. 최근 3년간의 경험으로 볼 때,
 
 좋은 수학 과외는 단순히 문제 푸는 기술을 가르치는 것이 아니라,
 스스로 생각하고 해결하는 수학적 사고력을 키워주는 것입니다.
+
+
+## 📚 관련 가이드
+
+- [서초구 영어과외 선택 가이드 - 교육특구의 균형 잡힌 영어 학습](/local/seoul/seocho-english-tutoring/)
+- [도봉구 수학과외 핵심 정리 | 창동·방학동 주거 중심 안정적 수학 교육](/local/seoul/dobong-math-tutoring/)
+- [동대문구 수학과외 선택 가이드 | 답십리·휘경 실속형 수학 교육](/local/seoul/dongdaemun-math-tutoring/)
+- [동작구 수학과외 핵심 가이드 | 사당·노량진 대학가 중심 체계적 수학 교육](/local/seoul/dongjak-math-tutoring/)
+- [은평구 수학과외 추천 | 불광·응암 주거 중심 안정적 수학 교육](/local/seoul/eunpyeong-math-tutoring/)
+

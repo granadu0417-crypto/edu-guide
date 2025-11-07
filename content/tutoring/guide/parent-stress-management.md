@@ -331,6 +331,16 @@ A9. 필수입니다. 건강한 부모가 좋은 부모입니다. 매일 자기 �
 **Q10. 스트레스가 너무 심한데 어떡하나요?**
 A10. 전문 상담을 받으세요. 부끄러운 것이 아닙니다. 동시에 1:1 과외로 학습 관리를 맡기고, 부모 역할을 정서적 지지로 한정하면 스트레스가 크게 줄어듭니다.
 
+
+
+## 📚 관련 가이드
+
+- [맞벌이 가정 학습 관리 가이드 - 바쁜 부모를 위한 1:1 과외 활용법](/tutoring/guide/dual-income-family-learning/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [시험 직전 준비 전략 가이드 - D-7부터 시험 당일까지 완벽 대비](/tutoring/guide/exam-last-minute-prep/)
+- [시험 망쳤을 때 대처법 - 긴급 복구 및 재도약 전략](/tutoring/guide/exam-panic-recovery-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

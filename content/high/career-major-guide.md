@@ -706,6 +706,16 @@ A:
 - 대학 가서 전과
 ```
 
+
+
+## 📚 관련 가이드
+
+- [고1 종합 전략 | 성공적 시작](/high/high-batch7-1/)
+- [고2 종합 학습 전략 | 균형 관리](/high/high-batch7-2/)
+- [고3 종합 입시 전략 | 수시와 정시](/high/high-batch7-3/)
+- [고1 완벽 가이드 | 고교 생활](/high/high-batch8-1/)
+- [고2 성공 가이드 | 입시 기반](/high/high-batch8-2/)
+
 {{< cta-consultation-final >}}
 ## 마무리 및 격려
 {{< cta-consultation message="맞춤 학습 전략이 필요하신가요?" >}}

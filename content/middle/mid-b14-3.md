@@ -174,3 +174,13 @@ featured_image: https://images.unsplash.com/photo-1616400619175-5beda3a17896?w=1
 중학교 3년이 고등학교 성공을 결정합니다. 내신을 관리하고 진로를 탐색하며 자기주도 학습 능력을 키우세요!
 
 {{< cta-dual type="final"  >}}
+
+
+## 📚 관련 가이드
+
+- [중3 입시 준비 완벽 가이드 | 고교 진학 로드맵](/middle/mid-b11-1/)
+- [중3 고교 선택 전략 | 진학 준비](/middle/mid-b10-3/)
+- [중학생 공부습관 완성 | 효율적 학습](/middle/mid-b14-1/)
+- [중2 과목별 학습법 | 균형 잡힌 공부](/middle/mid-b14-2/)
+- [중3 합격 가이드 | 특목고 준비](/middle/middle-batch8-3/)
+

@@ -203,3 +203,13 @@ featured_image: https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1
 목표 대학 합격을 위해 지금부터 체계적으로 준비하세요. 꾸준한 노력은 반드시 결실을 맺습니다!
 
 {{< cta-dual type="final"  >}}
+
+
+## 📚 관련 가이드
+
+- [고1 과목별 전략 | 균형 학습](/high/high-b13-1/)
+- [고1 학습 시작 전략 | 고교 적응](/high/high-b10-1/)
+- [고2 진로 확정 전략 | 학과 선택](/high/high-b10-2/)
+- [고3 수능 D-300 전략 | 최종 스퍼트](/high/high-b10-3/)
+- [고1 내신 관리법 | 첫 시험 대비](/high/high-b11-1/)
+

@@ -402,3 +402,13 @@ featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1
 ---
 
 **시나리오 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [국어 현대시 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-modern-poetry/)
+- [국어 작가론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-author-studies/)
+- [국어 고전문학사 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-classical-history/)
+- [국어 고전시가 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-classical-poetry/)
+- [국어 희곡 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-drama-literature/)
+

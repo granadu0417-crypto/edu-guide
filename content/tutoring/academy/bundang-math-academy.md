@@ -76,4 +76,14 @@ reading_time: 300줄
 **Q4. 1:1 과외?** A4. 필수입니다.
 **Q5. 경시대회?** A5. 분당이 강합니다.
 
+
+
+## 📚 관련 가이드
+
+- [부천 수학학원 - 중동·상동·역곡 및 1:1 과외](/tutoring/academy/bucheon-math-academy/)
+- [대치동 수학학원 추천 - 입시 명문 학원 비교 및 1:1 과외 병행 전략](/tutoring/academy/daechi-math-academy/)
+- [초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외](/tutoring/academy/elementary-math-academy/)
+- [고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외](/tutoring/academy/high-math-academy/)
+- [중등 수학학원 - 내신 1등급 만들기 및 1:1 과외](/tutoring/academy/middle-math-academy/)
+
 {{< cta-consultation-final >}}

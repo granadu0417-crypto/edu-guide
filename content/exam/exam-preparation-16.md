@@ -163,6 +163,16 @@ A: **다음 시험을 준비**하세요. 오답 분석으로 약점을 보완하
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [실전 영어 시험 전략 가이드 | 독해와 문법 정복](/exam/exam-preparation-36/)
+- [고급 영어 시험 전략 가이드 | 독해와 문법 정복](/exam/exam-preparation-56/)
+- [시험 2주 전 준비 | 효율적 마무리](/exam/exam-preparation-1/)
+- [서술형 시험 대비법 | 논리적 답안 작성](/exam/exam-preparation-10/)
+- [객관식 문제 풀이 전략 | 오답 제거 기법](/exam/exam-preparation-11/)
+
 {{< cta-consultation-final >}}
 
 ---

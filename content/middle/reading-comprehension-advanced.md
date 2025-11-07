@@ -573,6 +573,16 @@ featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1
 지문의 구조를 파악하고, 핵심을 찾으며, 논리적으로 추론하는 능력은 모든 과목 학습의 기초입니다. 오늘부터 하루 30분, 독해 연습을 시작하세요!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [도형과 함수 완벽 정복 | 중등 핵심 단원](/middle/math-geometry-functions/)
+- [중등 영어 실력 향상 | 문법과 독해 완성](/middle/middle-final-6/)
+- [서술형 평가 전략 | 고득점 비법](/middle/descriptive-assessment-strategy/)
+- [중등 영어 문법 완벽 가이드 | 체계적 학습](/middle/english-grammar-guide/)
+- [영어 듣기 실력 향상법 | 청해 마스터](/middle/english-listening-skills/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 독해력 향상 가이드이며, 개별 학생의 수준에 맞춰 적절히 조절하여 학습하시기 바랍니다.*

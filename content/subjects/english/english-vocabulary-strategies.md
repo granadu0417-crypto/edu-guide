@@ -685,3 +685,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 영어 과외로 더욱 효율적으로 어휘를 확장할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [영어 효율적 암기법 완벽 가이드 | 1:1 암기 전략 과외](/subjects/english/english-memory-techniques/)
+- [영어 고급 어휘 완벽 가이드 | 1:1 고급 어휘 과외](/subjects/english/english-advanced-vocabulary/)
+- [수능 영어 어휘 완벽 대비 | 1:1 어휘 과외](/subjects/english/english-exam-vocabulary/)
+- [수능 필수 어휘 3000 완벽 암기 | 1:1 영어 과외](/subjects/english/english-vocabulary-essential/)
+- [영어 어근으로 단어 정복하기 | 1:1 영어 과외](/subjects/english/english-word-roots/)
+

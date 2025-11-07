@@ -257,6 +257,16 @@ featured_image: https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=1
 
 오늘부터 하나씩 실천해보세요!
 
+
+
+## 📚 관련 가이드
+
+- [마스터 초등 과학 학습법 | 탐구력 키우기](/elementary/elementary-final-70/)
+- [자기주도 학습 습관 | 스스로 공부하기](/elementary/self-directed-learning-habits/)
+- [초1 학교생활 가이드 | 친구 사귀기](/elementary/elem-b9-2/)
+- [초등 1학년 공부법 | 기초 학습](/elementary/elem-b9-3/)
+- [초1 학습 습관 시작 | 즐거운 공부](/elementary/elem-b9-4/)
+
 {{< cta-consultation-final >}}
 
 ---

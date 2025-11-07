@@ -633,6 +633,16 @@ featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1
 - 습관 형성
 - 장기적 향상
 
+
+## 📚 관련 가이드
+
+- [영어 듣기 완벽 정리 | 유형별 실전 전략 2025](/subjects/english/english-listening-mastery/)
+- [영어 악센트별 듣기 가이드 | 1:1 듣기 과외](/subjects/english/english-accents/)
+- [영어 고급독해 과외 | 복잡구문·논리분석 완벽 마스터](/subjects/english/english-advanced-reading/)
+- [영어 딕테이션 완벽 마스터 | 1:1 듣기 과외](/subjects/english/english-dictation/)
+- [영어 문법기초 과외 | 품사·시제·문장구조 완벽 정리](/subjects/english/english-grammar-fundamentals/)
+
+
 ## FAQ
 
 ### Q1. 듣기 실력을 어떻게 키우나요?

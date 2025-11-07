@@ -77,6 +77,16 @@ reading_time: 280줄
 **Q4. 선생님 선택 기준?** A4. 학력·경력·소통능력을 확인하세요.
 **Q5. 시범 수업?** A5. 필수입니다. 1-2회 받아보고 결정하세요.
 
+
+
+## 📚 관련 가이드
+
+- [입시 컨설팅 과외 - 수시·정시 전문가 찾기](/tutoring/private/admission-consulting-tutoring/)
+- [미술 과외 - 입시·취미 전문 선생님 찾기](/tutoring/private/art-tutoring/)
+- [부산 방문 과외 - 해운대·수영 선생님 찾기](/tutoring/private/busan-visiting-tutoring/)
+- [코딩 과외 - 파이썬·자바 프로그래밍 선생님](/tutoring/private/coding-tutoring/)
+- [대치 방문 과외 - 입시 전문 선생님 찾기](/tutoring/private/daechi-visiting-tutoring/)
+
 {{< cta-consultation-final >}}
 
 ---

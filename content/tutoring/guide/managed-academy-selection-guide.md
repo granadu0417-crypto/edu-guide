@@ -271,6 +271,16 @@ reading_time: 315줄
 - **추천**: 지역 내 유일한 관리형 학원을 이용하거나, 온라인 관리형 학습 프로그램 활용
 - **1:1 과외 병행**: 온라인 1:1 과외를 적극 활용하여, 전국 최고 선생님에게 배울 수 있습니다.
 
+
+## 📚 관련 가이드
+
+- [자율형 학원 vs 관리형 학원 비교 - 우리 아이에게 맞는 선택은?](/tutoring/guide/self-directed-vs-managed-academy/)
+- [종합 학원 추천 방법 - 전 과목 통합 관리 완벽 가이드](/tutoring/guide/comprehensive-academy-recommendation/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [대형 학원 vs 소형 학원 완벽 비교 - 우리 아이에게 맞는 선택 (2025)](/tutoring/academy/large-vs-small-academy/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+
+
 ## FAQ
 
 **Q1. 관리형 학원은 몇 학년부터 다니는 것이 좋나요?**

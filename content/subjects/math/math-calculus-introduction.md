@@ -832,3 +832,13 @@ f(b) - f(a) = ∫[a→b] f'(x)dx
 - [일산 수학과외](../../local/ilsan-math-tutoring/)
 - [평촌 수학과외](../../local/pyeongchon-math/)
 - [대치 수학과외](../../local/daechi-math/)
+
+
+## 📚 관련 가이드
+
+- [수학 미분 완벽 정복 가이드 | 1:1 미분 과외](/subjects/math/math-differentiation/)
+- [고2 이과 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade11-science/)
+- [수학 적분 완벽 정복 가이드 | 1:1 적분 과외](/subjects/math/math-integration/)
+- [수학 대수 과외 | 방정식·부등식·함수 완벽 마스터](/subjects/math/math-algebra-mastery/)
+- [고3 이과 수학 완벽 가이드 | 1:1 고등 수학 과외](/subjects/math/math-grade12-science/)
+

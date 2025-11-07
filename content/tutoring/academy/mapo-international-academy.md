@@ -71,4 +71,14 @@ reading_time: 290줄
 **Q2. 1:1 과외 필요?** A2. 필수입니다. 에세이 첨삭이 핵심입니다.
 **Q3. 원어민 선생님?** A3. 추천합니다.
 
+
+
+## 📚 관련 가이드
+
+- [초등 영어학원 - 파닉스·회화·문법 및 1:1 과외](/tutoring/academy/elementary-english-academy/)
+- [고등 영어학원 - 수능·내신·모의고사 및 1:1 과외](/tutoring/academy/high-english-academy/)
+- [중등 영어학원 - 내신·영어듣기 전문 및 1:1 과외](/tutoring/academy/middle-english-academy/)
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [반포 프리미엄 학원 - 소수정예 관리형 학원 및 1:1 과외](/tutoring/academy/banpo-premium-academy/)
+
 {{< cta-consultation-final >}}

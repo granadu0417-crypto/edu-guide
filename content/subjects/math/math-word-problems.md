@@ -619,3 +619,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 수학 과외로 문장제를 완벽히 마스터할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 심화 팁 완벽 가이드 | 1:1 수학 심화 과외](/subjects/math/math-advanced-tips/)
+- [수학 계산기 활용 완벽 가이드 | 1:1 수학 계산 과외](/subjects/math/math-calculator-use/)
+- [수학 암산 기술 완벽 가이드 | 1:1 암산 훈련 과외](/subjects/math/math-mental-math/)
+- [수학 학습 계획 완벽 가이드 | 1:1 수학 학습 전략 과외](/subjects/math/math-study-plan/)
+- [수학 학습 앱 활용 가이드 | 1:1 앱 활용 과외](/subjects/math/math-apps-tools/)
+

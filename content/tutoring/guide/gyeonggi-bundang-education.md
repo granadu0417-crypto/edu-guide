@@ -99,6 +99,16 @@ A2. 종합 학원 월 70-120만 원 정도입니다.
 **Q3. 분당에서 성공하려면?**
 A3. 내신 관리 철저히, 복습 시간 확보, 비용 효율적 관리입니다.
 
+
+
+## 📚 관련 가이드
+
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [대전 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/daejeon-education/)
+- [서울 목동 학원 과외 선택 가이드 - 양천구 입시 완벽 전략](/tutoring/guide/seoul-mokdong-education/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+
 {{< cta-consultation-final >}}
 
 ---

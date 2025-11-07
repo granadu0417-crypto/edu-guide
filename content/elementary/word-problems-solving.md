@@ -374,6 +374,16 @@ featured_image: https://images.unsplash.com/photo-1537495329792-41ae41ad3bf0?w=1
 오늘부터 하루 2~3문제씩, 차근차근 연습해보세요!
 
 ---
+
+
+## 📚 관련 가이드
+
+- [초1 학교생활 가이드 | 친구 사귀기](/elementary/elem-b9-2/)
+- [초등 1학년 공부법 | 기초 학습](/elementary/elem-b9-3/)
+- [초1 학습 습관 시작 | 즐거운 공부](/elementary/elem-b9-4/)
+- [마스터 초등 과학 학습법 | 탐구력 키우기](/elementary/elementary-final-70/)
+- [초등 고학년 공부법 | 4-6학년 전략](/elementary/upper-grade-study-methods/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 학습 가이드이며, 개별 학생의 수준과 학습 스타일에 맞춰 적절히 조절하여 활용하시기 바랍니다.*

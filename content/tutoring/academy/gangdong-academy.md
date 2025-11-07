@@ -190,6 +190,16 @@ A9. 내신은 강동 학원, 수능은 1:1 과외를 병행하세요.
 **Q10. 통학 시간은?**
 A10. 강동 내에서 20-30분 이내가 적당합니다. 너무 멀면 시간 낭비입니다.
 
+
+
+## 📚 관련 가이드
+
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [안양 종합학원 - 평촌·범계·인덕원 통합 및 1:1 과외](/tutoring/academy/anyang-jong-academy/)
+- [반포 프리미엄 학원 - 소수정예 관리형 학원 및 1:1 과외](/tutoring/academy/banpo-premium-academy/)
+- [중하위권 학원 - 기초부터 탄탄히 및 1:1 과외](/tutoring/academy/basic-academy/)
+- [기숙학원 - 전국 기숙학원 비교 및 1:1 과외](/tutoring/academy/boarding-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

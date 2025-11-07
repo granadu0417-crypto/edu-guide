@@ -316,6 +316,16 @@ reading_time: 320줄
 - [ ] 주간 점검
 - [ ] 월간 성적 확인
 
+
+## 📚 관련 가이드
+
+- [학습 효율 높이는 방법 - 학원 과외 200% 활용 전략](/tutoring/guide/learning-efficiency-tips/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [대전 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/daejeon-education/)
+- [장기 학습 계획 세우기 - 지속 가능한 성적 향상 전략](/tutoring/guide/long-term-study-planning/)
+- [중학생 과외 선택 완벽 가이드 - 내신부터 입시까지](/tutoring/guide/middle-school-tutor-selection-guide/)
+
+
 ## FAQ
 
 **Q1. 단기간에 성적 올릴 수 있나요?**

@@ -328,3 +328,13 @@ A. 서울대 영문과와 영어교육과 학생들은 영어 실력이 뛰어�
 
 영어는 단기간에 완성되는 과목이 아닙니다.
 꾸준함과 적절한 방향 설정이 가장 중요합니다.
+
+
+## 📚 관련 가이드
+
+- [관악구 수학과외 핵심 가이드 | 서울대 수학과가 가르치는 차별화된 교육](/local/seoul/gwanak-math-tutoring/)
+- [도봉구 영어과외 선택 가이드 | 창동·방학동 체계적 영어 교육](/local/seoul/dobong-english-tutoring/)
+- [강북구 영어과외 핵심 정리 | 수유·미아 국민대 영문과 중심 영어 교육](/local/seoul/gangbuk-english-tutoring/)
+- [강동구 영어과외 선택 가이드 - 신흥 교육 지역의 균형 잡힌 영어 학습](/local/seoul/gangdong-english-tutoring/)
+- [중랑구 영어과외 선택법 | 면목·망우 경희대 영문과 중심 영어 교육](/local/seoul/jungnang-english-tutoring/)
+

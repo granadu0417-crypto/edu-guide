@@ -816,6 +816,16 @@ featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200
 
 수학 기초 다지기를 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [수학 개념 이해 완벽 정리 | 기초~심화 2025](/subjects/math/math-concept-mastery/)
+- [초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략](/elementary/elementary-math-study-guide/index/)
+- [수학 실수 고민? | 완벽 검산 전략 솔루션 2025](/subjects/math/math-mistake-prevention/)
+- [수학 선행학습 전략 완벽 가이드 | 1:1 과외로 올바른 선행 [2025]](/subjects/math/math-advanced-learning/)
+- [수학 완벽 로드맵 - 기초부터 심화까지 총정리](/subjects/math/math-complete-roadmap/)
+
 {{< cta-consultation-final >}}
 
 ---

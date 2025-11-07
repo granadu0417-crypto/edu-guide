@@ -614,6 +614,16 @@ featured_image: https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?w=1
 - 논리적 서술
 - 과학적 문체
 
+
+## 📚 관련 가이드
+
+- [과학 실험보고서 vs 탐구활동 | 작성법 비교 2025](/subjects/science/science-experiment-report-guide/)
+- [과학 개념연결 과외 | 통합사고·융합문제 완벽 대비](/subjects/science/science-concept-connection/)
+- [과학 통합 완성 가이드 - 물화생지 전 영역 정복](/subjects/science/science-integrated-mastery/)
+- [과학 관찰력 과외 | 실험·탐구·기록 능력 완벽 향상](/subjects/science/science-observation-skills/)
+- [과학 실생활응용 과외 | 일상 속 과학원리 완벽 이해](/subjects/science/science-real-life-application/)
+
+
 ## FAQ
 
 ### Q1. 실험 보고서를 어디서부터 시작하나요?

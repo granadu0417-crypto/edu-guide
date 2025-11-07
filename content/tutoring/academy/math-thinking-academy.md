@@ -55,4 +55,14 @@ reading_time: 270줄
 **Q2. 비용은?** A2. 월 50-120만 원입니다.
 **Q3. 기간은?** A3. 목표에 따라 다릅니다.
 
+
+
+## 📚 관련 가이드
+
+- [중국어 학원 - HSK·회화 전문 및 1:1 과외](/tutoring/academy/chinese-academy/)
+- [코딩 학원 - 파이썬·자바·정보올림피아드 및 1:1 과외](/tutoring/academy/coding-academy/)
+- [초등학원 선택 가이드 - 학년별 추천 및 1:1 과외](/tutoring/academy/elementary-academy-guide/)
+- [초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외](/tutoring/academy/elementary-math-academy/)
+- [영어 회화 학원 - 원어민 수업 및 1:1 과외](/tutoring/academy/english-conversation-academy/)
+
 {{< cta-consultation-final >}}

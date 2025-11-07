@@ -402,3 +402,13 @@ featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1
 ---
 
 **작가론 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [국어 희곡 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-drama-literature/)
+- [국어 수필 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-essay-literature/)
+- [국어 문학 비평 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-literary-criticism/)
+- [국어 문학 사조 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-literary-trends/)
+- [국어 작품론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-work-analysis/)
+

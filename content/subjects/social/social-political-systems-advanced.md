@@ -495,3 +495,13 @@ featured_image: https://images.unsplash.com/photo-1610296669228-602fa827fc1f?w=1
 ---
 
 **정치 체제 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [사회 절대왕정 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-absolute-monarchy/)
+- [사회 고대 문명 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-civilizations/)
+- [사회 고조선 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-korea/)
+- [사회 중국사 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-chinese-history/)
+- [사회 시민혁명 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-civil-revolutions/)
+

@@ -124,6 +124,16 @@ A: **3개월 후에도 성적 변화가 없거나** **소통이 안 되면** 교
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [과외 학습 계획 수립 | 목표 설정 전략](/tutoring/tutoring-guide-16/)
+- [과외 선생님 소통법 | 학부모 참여 전략](/tutoring/tutoring-guide-19/)
+- [실전 과외 효과 극대화 전략 | 학습 성과 높이기](/tutoring/tutoring-guide-23/)
+- [실전 초등 과외 시작 가이드 | 기초 학습 전략](/tutoring/tutoring-guide-29/)
+- [과외 효과 극대화 전략 | 학습 성과 높이기](/tutoring/tutoring-guide-3/)
+
 {{< cta-consultation-final >}}
 
 ---

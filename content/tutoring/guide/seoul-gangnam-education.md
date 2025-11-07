@@ -240,6 +240,16 @@ A10. ① 본인의 실력에 맞는 학원/반 선택 ② 복습과 자기주도
 - [ ] 월 총 사교육비가 감당 가능한가?
 - [ ] 학생이 과부하를 느끼지 않는가?
 
+
+
+## 📚 관련 가이드
+
+- [서울 목동 학원 과외 선택 가이드 - 양천구 입시 완벽 전략](/tutoring/guide/seoul-mokdong-education/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [학원·과외 환불 가이드 - 수강료 환불 절차와 소비자 권리](/tutoring/guide/academy-tutoring-refund/)
+- [심화 학습 전략 가이드 - 상위권 도약을 위한 1:1 과외 활용](/tutoring/guide/advanced-learning-strategy/)
+
 {{< cta-consultation-final >}}
 
 ---

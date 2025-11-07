@@ -832,3 +832,13 @@ C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP
 - [대치 과학과외](../../local/daechi-science/)
 - [목동 과학과외](../../local/mokdong-science/)
 - [분당 과학과외](../../local/bundang-science/)
+
+
+## 📚 관련 가이드
+
+- [과학 세포 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-cell/)
+- [과학 화학 과외 | 원소·화학반응·물질변화 완벽 기초](/subjects/science/science-chemistry-basics/)
+- [과학 DNA 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-dna/)
+- [과학 생태계 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-ecosystem/)
+- [과학 공식 과외 | 물리·화학·생물·지구과학 공식 완벽 암기법](/subjects/science/science-formula-memorization/)
+

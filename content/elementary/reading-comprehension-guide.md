@@ -125,6 +125,16 @@ featured_image: https://images.unsplash.com/photo-1495741545814-2d7f4d75ea09?w=1
 매일 조금씩, 즐겁게 읽는 습관이 쌓이면 어느새 놀라운 독해력 향상을 경험하게 될 것입니다.
 
 ---
+
+
+## 📚 관련 가이드
+
+- [독서 습관 형성법 | 평생 독서가 되기](/elementary/reading-habit-formation/)
+- [마스터 초등 과학 학습법 | 탐구력 키우기](/elementary/elementary-final-70/)
+- [파닉스 완벽 가이드 | 영어 읽기 기초](/elementary/english-phonics-guide/)
+- [초등 시험 공부 계획 | 효율적 준비](/elementary/exam-study-planning/)
+- [자기주도 학습 습관 | 스스로 공부하기](/elementary/self-directed-learning-habits/)
+
 {{< cta-consultation-final >}}
 
 *본 글은 일반적인 학습 가이드이며, 개별 아이의 특성과 수준에 따라 적절히 조절하여 적용하시기 바랍니다.*

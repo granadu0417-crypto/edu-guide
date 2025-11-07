@@ -631,3 +631,13 @@ A. 네, 매우 효과적입니다.
 
 1:1 맞춤 수학 과외로 개인별 동기를 찾고 키울 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 개념 이해 완벽 가이드 | 1:1 수학 개념 과외](/subjects/math/math-concept-understanding/)
+- [수학 시간 관리 완벽 가이드 | 1:1 수학 시간 관리 과외](/subjects/math/math-time-management/)
+- [수학 계산기 활용 완벽 가이드 | 1:1 수학 계산 과외](/subjects/math/math-calculator-use/)
+- [수학 흔한 실수 방지 가이드 | 1:1 수학 실수 방지 과외](/subjects/math/math-common-mistakes/)
+- [수학 미분 완벽 정복 가이드 | 1:1 미분 과외](/subjects/math/math-differentiation/)
+

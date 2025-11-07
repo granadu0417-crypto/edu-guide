@@ -64,4 +64,14 @@ reading_time: 290줄
 **Q2. 내신 vs 수능?** A2. 학년에 따라 선택하세요.
 **Q3. 1:1 과외?** A3. 회화와 약점 보완에 추천합니다.
 
+
+
+## 📚 관련 가이드
+
+- [초등 영어학원 - 파닉스·회화·문법 및 1:1 과외](/tutoring/academy/elementary-english-academy/)
+- [강남 영어학원 BEST 10 - 토플·텝스·수능 전문 학원 및 1:1 과외 추천](/tutoring/academy/gangnam-english-academy/)
+- [고등 영어학원 - 수능·내신·모의고사 및 1:1 과외](/tutoring/academy/high-english-academy/)
+- [중등 영어학원 - 내신·영어듣기 전문 및 1:1 과외](/tutoring/academy/middle-english-academy/)
+- [부산 해운대 학원 - 중고등 입시 및 1:1 과외](/tutoring/academy/busan-haeundae-academy/)
+
 {{< cta-consultation-final >}}

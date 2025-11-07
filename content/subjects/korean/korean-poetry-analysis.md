@@ -1142,3 +1142,13 @@ A. **내 마음에 와닿는 시부터 시작**하세요.
 어려운 시도 쉽게 이해하고 깊이 있게 감상하는 능력을 완성합니다.
 
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [국어 소설분석 과외 | 인물·사건·주제 완벽 파악](/subjects/korean/korean-novel-analysis/)
+- [국어 작가론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-author-studies/)
+- [국어 고전문학사 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-classical-history/)
+- [국어 의사소통 과외 | 발표·토론·설득 완벽 실전 훈련](/subjects/korean/korean-communication-skills/)
+- [국어 희곡 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-drama-literature/)
+

@@ -437,3 +437,13 @@ featured_image: https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=1200
 ---
 
 **문장 삽입 완벽 마스터**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [국어 빈칸 추론 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-blank-inference/)
+- [국어 서평 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-book-review/)
+- [국어 정독법 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-close-reading/)
+- [국어 토론 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-debate/)
+- [국어 세부 내용 이해 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-detail-comprehension/)
+

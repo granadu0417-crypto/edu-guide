@@ -165,6 +165,16 @@ A9. EBS, 메가스터디, 이투스 등이 있습니다. 본인에게 맞는 강
 **Q10. 연간 비용은?**
 A10. 인강만 120-360만 원, 인강+1:1 과외 480-1320만 원, 학원+1:1 과외 1320-2640만 원입니다.
 
+
+
+## 📚 관련 가이드
+
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [학원·과외 환불 가이드 - 수강료 환불 절차와 소비자 권리](/tutoring/guide/academy-tutoring-refund/)
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [학원 바꾸기 완벽 가이드 - 올바른 학원 변경 시기와 전략](/tutoring/guide/changing-academy-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

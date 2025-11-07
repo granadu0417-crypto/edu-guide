@@ -559,6 +559,16 @@ A: 학생에 따라 다릅니다. 자기주도 학습이 잘 되고 1:1 과외�
 ### Q10: 1:1 과외가 우리 아이에게 효과적일까요?
 A: 네, 많은 경우 매우 효과적입니다. 특히 기초가 부족한 학생, 특정 과목이 약한 학생, 학습 습관이 잡히지 않은 학생에게 1:1 과외는 맞춤형 솔루션이 됩니다. 학생의 정확한 수준을 파악하고, 속도에 맞춰 지도하며, 약점을 집중 보완할 수 있습니다. 또한 즉각적인 질의응답과 밀착 관리로 학습 효율이 높고, 심리적 지원까지 받을 수 있어 자신감 회복에도 도움이 됩니다.
 
+
+
+## 📚 관련 가이드
+
+- [그룹 과외 vs 1대1 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/group-vs-individual-tutoring/)
+- [과외 선생님 선택 완벽 가이드 - 면접 질문과 체크리스트 (2025)](/tutoring/private/tutor-interview-guide/)
+- [학원 과외 병행 전략 - 시너지 효과 극대화 완벽 가이드](/tutoring/guide/academy-tutoring-combination-strategy/)
+- [그룹 과외 선택 가이드 - 경제적이고 효과적인 학습법](/tutoring/guide/group-tutoring-selection-guide/)
+- [온라인 과외 vs 오프라인 과외 선택 가이드 - 장단점 완벽 비교](/tutoring/guide/online-vs-offline-tutoring/)
+
 {{< cta-consultation-final >}}
 
 ---

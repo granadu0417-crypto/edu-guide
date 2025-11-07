@@ -233,6 +233,16 @@ reading_time: 305줄
 - [ ] 계획대로 안 될 때 유연하게 수정하고 있는가?
 - [ ] 학생의 의견을 반영하여 계획을 조정하고 있는가?
 
+
+## 📚 관련 가이드
+
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [맞벌이 가정 학습 관리 가이드 - 바쁜 부모를 위한 1:1 과외 활용법](/tutoring/guide/dual-income-family-learning/)
+- [스터디 계정 활용 가이드 - SNS 공부 인증과 1:1 과외 병행](/tutoring/guide/sns-study-account-guide/)
+- [학원 과외 효과 평가 가이드 - 성과 측정과 개선 전략](/tutoring/guide/tutoring-effectiveness-evaluation/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+
+
 ## FAQ
 
 **Q1. 장기 학습 계획은 언제 세우는 것이 좋나요?**

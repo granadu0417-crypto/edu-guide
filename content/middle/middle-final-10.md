@@ -113,6 +113,16 @@ A: **정상입니다**. 단기 목표를 세우고, 충분한 휴식을 취하�
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [중등 교육 완벽 마스터 | 학업 성취](/middle/middle-final-1/)
+- [중등 자유학년제 활용 | 진로 체험 극대화](/middle/middle-final-11/)
+- [중등 독서 활동 | 생기부 관리 전략](/middle/middle-final-12/)
+- [중등 봉사활동 가이드 | 의미있는 활동](/middle/middle-final-13/)
+- [중2 완벽 마스터 | 학습과 성장](/middle/middle-final-2/)
+
 {{< cta-consultation-final >}}
 
 ---

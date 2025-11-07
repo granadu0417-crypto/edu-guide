@@ -410,3 +410,13 @@ featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1
 ---
 
 **로마자 표기법 완벽 정복**, 1:1 과외와 함께 시작하세요!
+
+
+## 📚 관련 가이드
+
+- [외래어 표기법 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-foreign-words/)
+- [국어 작가론 완벽 가이드 | 1:1 국어 문학 과외 [2025]](/subjects/korean/korean-author-studies/)
+- [국어 빈칸 추론 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-blank-inference/)
+- [국어 서평 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-book-review/)
+- [국어 고전문학사 완벽 가이드 | 1:1 국어 과외 [2025]](/subjects/korean/korean-classical-history/)
+

@@ -276,6 +276,16 @@ A9. 초등학생은 방과후 학교나 돌봄 교실을 먼저 이용하고, �
 **Q10. 다른 맞벌이 가정은 어떻게 하나요?**
 A10. 성공적인 맞벌이 가정은 대부분 1:1 과외를 활용합니다. 선생님이 학습 매니저 역할을 하고, 부모는 큰 방향만 설정하며, 주말에 집중 소통하는 시스템입니다.
 
+
+
+## 📚 관련 가이드
+
+- [장기 학습 계획 세우기 - 지속 가능한 성적 향상 전략](/tutoring/guide/long-term-study-planning/)
+- [내신 vs 수능 균형 가이드 - 수시·정시 대비 학원 과외 전략](/tutoring/guide/naesin-vs-suneung-balance/)
+- [학부모 스트레스 관리 가이드 - 1:1 과외로 불안 해소하고 균형 찾기](/tutoring/guide/parent-stress-management/)
+- [스터디 계정 활용 가이드 - SNS 공부 인증과 1:1 과외 병행](/tutoring/guide/sns-study-account-guide/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

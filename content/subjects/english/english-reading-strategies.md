@@ -742,6 +742,16 @@ The book [which I bought yesterday] is interesting.
 
 영어 독해 실력 향상을 위한 맞춤 학습 전략이 필요하시다면 [무료 상담](/consultation/)을 통해 전문가의 조언을 받아보세요.
 
+
+
+## 📚 관련 가이드
+
+- [영어 문법 핵심 추천 정리 | 중고등 필수 2025](/subjects/english/english-grammar-essentials/)
+- [영어 듣기 완벽 정리 | 유형별 실전 전략 2025](/subjects/english/english-listening-mastery/)
+- [영어 완벽 마스터 가이드 - 듣기·말하기·읽기·쓰기 총정리](/subjects/english/english-complete-mastery-guide/)
+- [중학생 영어 공부법 완전 정복 | 내신부터 고등 준비까지](/middle/middle-school-english-study-guide/index/)
+- [국어 비문학 독해 고민? | 유형별 전략 솔루션 2025](/subjects/korean/korean-nonfiction-reading-guide/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -661,6 +661,16 @@ A: 먼저 약점을 정확히 파악하세요. 듣기가 문제인지, 독해인
 ### Q10: 영어 실력 향상을 위해 1:1 과외가 도움이 되나요?
 A: 네, 1:1 과외는 영어 실력 향상에 매우 효과적입니다. 학생의 현재 수준을 정확히 파악하고, 듣기·말하기·읽기·쓰기 각 영역의 약점을 집중적으로 보완할 수 있습니다. 특히 회화 연습, 발음 교정, 영작 첨삭, 독해 전략 등에서 즉각적인 피드백을 받을 수 있어 효율적입니다. 수능과 내신을 동시에 대비하는 맞춤 학습도 가능합니다.
 
+
+
+## 📚 관련 가이드
+
+- [중학생 영어 공부법 완전 정복 | 내신부터 고등 준비까지](/middle/middle-school-english-study-guide/index/)
+- [영어 독해 vs 문법 공부 | 유형별 전략 비교](/subjects/english/english-reading-strategies/)
+- [영어 듣기 완벽 정리 | 유형별 실전 전략 2025](/subjects/english/english-listening-mastery/)
+- [영어 문법 핵심 추천 정리 | 중고등 필수 2025](/subjects/english/english-grammar-essentials/)
+- [영어 듣기 기초 완벽 가이드 | 1:1 듣기 과외](/subjects/english/english-listening-basics/)
+
 {{< cta-consultation-final >}}
 
 ---

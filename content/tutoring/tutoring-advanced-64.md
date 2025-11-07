@@ -125,6 +125,16 @@ A: **3개월 후에도 성적 변화가 없거나** **소통이 안 되면** 교
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [과외 비용 가이드 | 합리적 가격 책정](/tutoring/tutoring-guide-15/)
+- [과외 진도 관리법 | 효율적 커리큘럼](/tutoring/tutoring-guide-17/)
+- [과외 선생님 선택법 | 우리 아이 맞는 선생님](/tutoring/tutoring-guide-2/)
+- [과외 성과 측정법 | 학습 효과 평가](/tutoring/tutoring-guide-20/)
+- [실전 과외 선생님 선택법 | 우리 아이 맞는 선생님](/tutoring/tutoring-guide-22/)
+
 {{< cta-consultation-final >}}
 
 ---

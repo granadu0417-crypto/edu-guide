@@ -192,6 +192,16 @@ reading_time: 302줄
 - [ ] 새 선생님과의 첫 수업에서 학습 목표를 공유했는가?
 - [ ] 3개월 후 성적 변화를 점검할 계획이 있는가?
 
+
+## 📚 관련 가이드
+
+- [과외 선생님 면접 질문 가이드 - 최고의 선생님 찾기](/tutoring/guide/tutor-interview-guide/)
+- [과외 선생님 제대로 선택하는 법 - 학원 vs 1대1 과외 완벽 가이드](/tutoring/private-tutor-selection-guide/)
+- [부산 학원 과외 선택 가이드 - 지방 광역시 입시 완벽 전략](/tutoring/guide/busan-education/)
+- [학원 바꾸기 완벽 가이드 - 올바른 학원 변경 시기와 전략](/tutoring/guide/changing-academy-guide/)
+- [맞벌이 가정 학습 관리 가이드 - 바쁜 부모를 위한 1:1 과외 활용법](/tutoring/guide/dual-income-family-learning/)
+
+
 ## FAQ
 
 **Q1. 과외 선생님을 바꾸는 최적의 시기는 언제인가요?**

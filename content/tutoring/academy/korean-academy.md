@@ -64,6 +64,16 @@ reading_time: 275줄
 **Q2. 1:1 과외도 필요한가요?** A2. 약점 보완과 심화에 추천합니다.
 **Q3. 비용은?** A3. 월 40-80만 원입니다.
 
+
+
+## 📚 관련 가이드
+
+- [중국어 학원 - HSK·회화 전문 및 1:1 과외](/tutoring/academy/chinese-academy/)
+- [논술학원 - 대학별 논술 전문 및 1:1 첨삭](/tutoring/academy/essay-academy/)
+- [심화 학원 - 상위권 학생 전문 및 1:1 과외](/tutoring/academy/advanced-academy/)
+- [중하위권 학원 - 기초부터 탄탄히 및 1:1 과외](/tutoring/academy/basic-academy/)
+- [기숙학원 - 전국 기숙학원 비교 및 1:1 과외](/tutoring/academy/boarding-academy/)
+
 {{< cta-consultation-final >}}
 
 ---

@@ -163,6 +163,16 @@ A: **다음 시험을 준비**하세요. 오답 분석으로 약점을 보완하
 
 오늘부터 시작하세요!
 
+
+
+## 📚 관련 가이드
+
+- [실전 중간고사 대비 전략 | 학기 중반 점검](/exam/exam-preparation-28/)
+- [고급 중간고사 대비 전략 | 학기 중반 점검](/exam/exam-preparation-48/)
+- [마스터 중간고사 대비 전략 | 학기 중반 점검](/exam/exam-preparation-68/)
+- [시험 2주 전 준비 | 효율적 마무리](/exam/exam-preparation-1/)
+- [서술형 시험 대비법 | 논리적 답안 작성](/exam/exam-preparation-10/)
+
 {{< cta-consultation-final >}}
 
 ---

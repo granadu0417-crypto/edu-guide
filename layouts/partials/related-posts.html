@@ -9,7 +9,7 @@
 {{- /* 관련 글 수집: 카테고리 또는 태그가 겹치는 페이지 */ -}}
 {{- $relatedPages := slice -}}
 
-{{- range where .Site.RegularPages "Type" "in" (slice "elementary" "middle" "high" "subjects" "local" "tutoring") -}}
+{{- range .Site.RegularPages -}}
   {{- if ne . $currentPage -}}
     {{- $pageCategories := .Params.categories | default slice -}}
     {{- $pageTags := .Params.tags | default slice -}}

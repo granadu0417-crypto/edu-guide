@@ -639,3 +639,13 @@ A. 네, 특히 심화 학습에 매우 효과적입니다.
 
 1:1 맞춤 수학 과외로 수학 고수로 성장할 수 있습니다.
 지금 바로 무료 상담을 신청하세요.
+
+
+## 📚 관련 가이드
+
+- [수학 계산기 활용 완벽 가이드 | 1:1 수학 계산 과외](/subjects/math/math-calculator-use/)
+- [수학 암산 기술 완벽 가이드 | 1:1 암산 훈련 과외](/subjects/math/math-mental-math/)
+- [확률과 통계 심화 완벽 가이드 | 1:1 확률통계 과외](/subjects/math/math-probability-statistics/)
+- [수학 학습 계획 완벽 가이드 | 1:1 수학 학습 전략 과외](/subjects/math/math-study-plan/)
+- [수학 문장제 풀이 완벽 가이드 | 1:1 문장제 과외](/subjects/math/math-word-problems/)
+

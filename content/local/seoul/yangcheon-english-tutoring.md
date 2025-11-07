@@ -335,3 +335,13 @@ A. 학생의 학습 부담을 고려해야 합니다.
 
 영어는 단기간에 완성되는 과목이 아닙니다.
 꾸준함과 적절한 방향 설정이 가장 중요합니다.
+
+
+## 📚 관련 가이드
+
+- [강남구 영어과외 선택 가이드 - 전문가가 알려주는 학년별 맞춤 전략](/local/seoul/gangnam-english-tutoring/)
+- [강서구 영어과외 완벽 선택 가이드 | 목동 학원가 영어 교육의 중심](/local/seoul/gangseo-english-tutoring/)
+- [양천구 수학과외 핵심 정리 | 목동 8학군의 체계적 수학 교육](/local/seoul/yangcheon-math-tutoring/)
+- [동대문구 영어과외 핵심 포인트 | 답십리·휘경 한국외대 영문과 중심 영어 교육](/local/seoul/dongdaemun-english-tutoring/)
+- [은평구 영어과외 핵심 가이드 | 불광·응암 체계적 영어 교육](/local/seoul/eunpyeong-english-tutoring/)
+
