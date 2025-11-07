@@ -1,26 +1,189 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>공식암기 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EA%B3%B5%EC%8B%9D%EC%95%94%EA%B8%B0/</link>
-    <description>Recent content in 공식암기 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EA%B3%B5%EC%8B%9D%EC%95%94%EA%B8%B0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>수학 공식 암기 완벽 가이드 | 1:1 수학 공식 암기 과외</title>
-      <link>https://edukoreaai.com/subjects/math/math-formula-memorization/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/math/math-formula-memorization/</guid>
-      <description>&lt;h1 id=&#34;수학-공식-암기-완벽-가이드&#34;&gt;수학 공식 암기 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;공식이 기억나지 않나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;공식이 너무 많아요.&amp;rdquo;&#xA;&amp;ldquo;외워도 금방 까먹어요.&amp;rdquo;&#xA;&amp;ldquo;시험 때 헷갈려요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;이해 후 암기&lt;/strong&gt;하면 절대 잊지 않습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;암기의-원칙&#34;&gt;암기의 원칙&lt;/h2&gt;&#xA;&lt;h3 id=&#34;이해가-먼저&#34;&gt;이해가 먼저&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;절대 원칙&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;× 무작정 암기&#xA;○ 이해 → 암기&#xA;&#xA;이유:&#xA;이해하면 오래 기억&#xA;잊어도 다시 유도&#xA;&#xA;→ 이해 우선&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h3 id=&#34;공식의-종류&#34;&gt;공식의 종류&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;분류&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>과학 공식 과외 | 물리·화학·생물·지구과학 공식 완벽 암기법</title>
-      <link>https://edukoreaai.com/subjects/science/science-formula-memorization/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/science/science-formula-memorization/</guid>
-      <description>&lt;h1 id=&#34;과학-공식-과외로-완벽-암기하기&#34;&gt;과학 공식 과외로 완벽 암기하기&lt;/h1&gt;&#xA;&lt;p&gt;과학 공식 암기가 어렵나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;공식이 너무 많아서 헷갈려요.&amp;rdquo;&#xA;&amp;ldquo;외워도 금방 잊어버려요.&amp;rdquo;&#xA;&amp;ldquo;언제 어떤 공식을 써야 할지 모르겠어요.&amp;rdquo;&#xA;&amp;ldquo;단위 계산에서 자꾸 실수해요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;10년 넘게 과학을 가르치면서 느낀 점은,&#xA;공식 암기는 &lt;strong&gt;이해와 체계적 반복&lt;/strong&gt;으로 반드시 가능하다는 것입니다.&lt;/p&gt;&#xA;&lt;p&gt;1:1 과학 공식 과외에서는 각 공식의 의미를 이해하고,&#xA;체계적인 암기 전략으로 완벽하게 내 것으로 만듭니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;과학-공식-암기가-어려운-이유&#34;&gt;과학 공식 암기가 어려운 이유&lt;/h2&gt;&#xA;&lt;p&gt;많은 학생들이 공식 암기에서 어려움을 겪습니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;단순-암기의-한계&#34;&gt;단순 암기의 한계&lt;/h3&gt;&#xA;&lt;p&gt;의미를 모르고 무작정 외우면:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>공식암기 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EA%B3%B5%EC%8B%9D%EC%95%94%EA%B8%B0/</link><description>Recent content in 공식암기 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EA%B3%B5%EC%8B%9D%EC%95%94%EA%B8%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>수학 공식 암기 완벽 가이드 | 1:1 수학 공식 암기 과외</title><link>https://edukoreaai.com/subjects/math/math-formula-memorization/</link><pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/math/math-formula-memorization/</guid><description>&lt;h1 id="수학-공식-암기-완벽-가이드">수학 공식 암기 완벽 가이드&lt;/h1>
+&lt;p>공식이 기억나지 않나요?&lt;/p>
+&lt;p>&amp;ldquo;공식이 너무 많아요.&amp;rdquo;
+&amp;ldquo;외워도 금방 까먹어요.&amp;rdquo;
+&amp;ldquo;시험 때 헷갈려요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>이해 후 암기&lt;/strong>하면 절대 잊지 않습니다.&lt;/p>
+&lt;h2 id="암기의-원칙">암기의 원칙&lt;/h2>
+&lt;h3 id="이해가-먼저">이해가 먼저&lt;/h3>
+&lt;p>&lt;strong>절대 원칙&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>× 무작정 암기
+○ 이해 → 암기
+
+이유:
+이해하면 오래 기억
+잊어도 다시 유도
+
+→ 이해 우선
+&lt;/code>&lt;/pre>&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h3 id="공식의-종류">공식의 종류&lt;/h3>
+&lt;p>&lt;strong>분류&lt;/strong>&lt;/p></description></item><item><title>과학 공식 과외 | 물리·화학·생물·지구과학 공식 완벽 암기법</title><link>https://edukoreaai.com/subjects/science/science-formula-memorization/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/science/science-formula-memorization/</guid><description>&lt;h1 id="과학-공식-과외로-완벽-암기하기">과학 공식 과외로 완벽 암기하기&lt;/h1>
+&lt;p>과학 공식 암기가 어렵나요?&lt;/p>
+&lt;p>&amp;ldquo;공식이 너무 많아서 헷갈려요.&amp;rdquo;
+&amp;ldquo;외워도 금방 잊어버려요.&amp;rdquo;
+&amp;ldquo;언제 어떤 공식을 써야 할지 모르겠어요.&amp;rdquo;
+&amp;ldquo;단위 계산에서 자꾸 실수해요.&amp;rdquo;&lt;/p>
+&lt;p>10년 넘게 과학을 가르치면서 느낀 점은,
+공식 암기는 &lt;strong>이해와 체계적 반복&lt;/strong>으로 반드시 가능하다는 것입니다.&lt;/p>
+&lt;p>1:1 과학 공식 과외에서는 각 공식의 의미를 이해하고,
+체계적인 암기 전략으로 완벽하게 내 것으로 만듭니다.&lt;/p>
+&lt;h2 id="과학-공식-암기가-어려운-이유">과학 공식 암기가 어려운 이유&lt;/h2>
+&lt;p>많은 학생들이 공식 암기에서 어려움을 겪습니다.&lt;/p>
+&lt;h3 id="단순-암기의-한계">단순 암기의 한계&lt;/h3>
+&lt;p>의미를 모르고 무작정 외우면:&lt;/p></description></item></channel></rss>

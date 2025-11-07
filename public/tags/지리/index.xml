@@ -1,33 +1,344 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>지리 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EC%A7%80%EB%A6%AC/</link>
-    <description>Recent content in 지리 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EC%A7%80%EB%A6%AC/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>사회 한국지리 완벽 가이드 | 1:1 사회 과외 [2025]</title>
-      <link>https://edukoreaai.com/subjects/social/social-korean-geography/</link>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/social/social-korean-geography/</guid>
-      <description>&lt;h1 id=&#34;사회-한국지리-완벽-가이드&#34;&gt;사회 한국지리 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;한국지리 학습, 어렵게 느껴지시나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;한국지리이 너무 복잡해요.&amp;rdquo;&#xA;&amp;ldquo;한국지리 개념이 이해가 안 돼요.&amp;rdquo;&#xA;&amp;ldquo;한국지리 문제 풀이가 막막해요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;한국지리의 핵심 원리&lt;/strong&gt;를 이해하면 &lt;strong&gt;사회 실력이 크게 향상&lt;/strong&gt;됩니다.&lt;/p&gt;&#xA;&lt;p&gt;이 가이드에서는 한국지리 완벽 학습법을 소개합니다.&lt;/p&gt;&#xA;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;1-한국지리의-기본-개념&#34;&gt;1. 한국지리의 기본 개념&lt;/h2&gt;&#xA;&lt;h3 id=&#34;핵심-이론&#34;&gt;핵심 이론&lt;/h3&gt;&#xA;&lt;p&gt;한국지리은 &lt;strong&gt;사회의 중요한 단원&lt;/strong&gt;입니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>사회 지역지리 완벽 가이드 | 1:1 사회 과외 [2025]</title>
-      <link>https://edukoreaai.com/subjects/social/social-regional-geography/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/social/social-regional-geography/</guid>
-      <description>&lt;h1 id=&#34;사회-지역지리-완벽-가이드&#34;&gt;사회 지역지리 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;지역지리 학습, 어렵게 느껴지시나요?&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;지역지리이 너무 복잡해요.&amp;rdquo;&#xA;&amp;ldquo;지역지리 개념이 이해가 안 돼요.&amp;rdquo;&#xA;&amp;ldquo;지역지리 문제 풀이가 막막해요.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;지역지리의 핵심 원리&lt;/strong&gt;를 이해하면 &lt;strong&gt;사회 실력이 크게 향상&lt;/strong&gt;됩니다.&lt;/p&gt;&#xA;&lt;p&gt;이 가이드에서는 지역지리 완벽 학습법을 소개합니다.&lt;/p&gt;&#xA;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;1-지역지리의-기본-개념&#34;&gt;1. 지역지리의 기본 개념&lt;/h2&gt;&#xA;&lt;h3 id=&#34;핵심-이론&#34;&gt;핵심 이론&lt;/h3&gt;&#xA;&lt;p&gt;지역지리은 &lt;strong&gt;사회의 중요한 단원&lt;/strong&gt;입니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>사회 통합 완성 가이드 - 역사·지리·일반사회 전 영역</title>
-      <link>https://edukoreaai.com/subjects/social/social-comprehensive-integration/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/social/social-comprehensive-integration/</guid>
-      <description>&lt;h1 id=&#34;사회-통합-완성-가이드---역사지리일반사회-전-영역&#34;&gt;사회 통합 완성 가이드 - 역사·지리·일반사회 전 영역&lt;/h1&gt;&#xA;&lt;p&gt;사회는 인간과 사회, 그리고 세계를 이해하는 핵심 과목입니다. 역사적 통찰, 지리적 사고, 사회 현상에 대한 이해를 통해 미래 사회의 주역으로 성장할 수 있습니다. 이 가이드는 사회 전 영역을 체계적으로 정리합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;과목별 맞춤 학습 전략이 필요하신가요?&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>지리 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EC%A7%80%EB%A6%AC/</link><description>Recent content in 지리 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EC%A7%80%EB%A6%AC/index.xml" rel="self" type="application/rss+xml"/><item><title>사회 한국지리 완벽 가이드 | 1:1 사회 과외 [2025]</title><link>https://edukoreaai.com/subjects/social/social-korean-geography/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/social/social-korean-geography/</guid><description>&lt;h1 id="사회-한국지리-완벽-가이드">사회 한국지리 완벽 가이드&lt;/h1>
+&lt;p>한국지리 학습, 어렵게 느껴지시나요?&lt;/p>
+&lt;p>&amp;ldquo;한국지리이 너무 복잡해요.&amp;rdquo;
+&amp;ldquo;한국지리 개념이 이해가 안 돼요.&amp;rdquo;
+&amp;ldquo;한국지리 문제 풀이가 막막해요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>한국지리의 핵심 원리&lt;/strong>를 이해하면 &lt;strong>사회 실력이 크게 향상&lt;/strong>됩니다.&lt;/p>
+&lt;p>이 가이드에서는 한국지리 완벽 학습법을 소개합니다.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1-한국지리의-기본-개념">1. 한국지리의 기본 개념&lt;/h2>
+&lt;h3 id="핵심-이론">핵심 이론&lt;/h3>
+&lt;p>한국지리은 &lt;strong>사회의 중요한 단원&lt;/strong>입니다.&lt;/p></description></item><item><title>사회 지역지리 완벽 가이드 | 1:1 사회 과외 [2025]</title><link>https://edukoreaai.com/subjects/social/social-regional-geography/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/social/social-regional-geography/</guid><description>&lt;h1 id="사회-지역지리-완벽-가이드">사회 지역지리 완벽 가이드&lt;/h1>
+&lt;p>지역지리 학습, 어렵게 느껴지시나요?&lt;/p>
+&lt;p>&amp;ldquo;지역지리이 너무 복잡해요.&amp;rdquo;
+&amp;ldquo;지역지리 개념이 이해가 안 돼요.&amp;rdquo;
+&amp;ldquo;지역지리 문제 풀이가 막막해요.&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>지역지리의 핵심 원리&lt;/strong>를 이해하면 &lt;strong>사회 실력이 크게 향상&lt;/strong>됩니다.&lt;/p>
+&lt;p>이 가이드에서는 지역지리 완벽 학습법을 소개합니다.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1-지역지리의-기본-개념">1. 지역지리의 기본 개념&lt;/h2>
+&lt;h3 id="핵심-이론">핵심 이론&lt;/h3>
+&lt;p>지역지리은 &lt;strong>사회의 중요한 단원&lt;/strong>입니다.&lt;/p></description></item><item><title>사회 통합 완성 가이드 - 역사·지리·일반사회 전 영역</title><link>https://edukoreaai.com/subjects/social/social-comprehensive-integration/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/social/social-comprehensive-integration/</guid><description>&lt;h1 id="사회-통합-완성-가이드---역사지리일반사회-전-영역">사회 통합 완성 가이드 - 역사·지리·일반사회 전 영역&lt;/h1>
+&lt;p>사회는 인간과 사회, 그리고 세계를 이해하는 핵심 과목입니다. 역사적 통찰, 지리적 사고, 사회 현상에 대한 이해를 통해 미래 사회의 주역으로 성장할 수 있습니다. 이 가이드는 사회 전 영역을 체계적으로 정리합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">과목별 맞춤 학습 전략이 필요하신가요?&lt;/p></description></item></channel></rss>

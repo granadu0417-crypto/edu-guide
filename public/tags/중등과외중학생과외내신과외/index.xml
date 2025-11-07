@@ -1,19 +1,219 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>중등과외,중학생과외,내신과외 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EC%A4%91%EB%93%B1%EA%B3%BC%EC%99%B8%EC%A4%91%ED%95%99%EC%83%9D%EA%B3%BC%EC%99%B8%EB%82%B4%EC%8B%A0%EA%B3%BC%EC%99%B8/</link>
-    <description>Recent content in 중등과외,중학생과외,내신과외 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EC%A4%91%EB%93%B1%EA%B3%BC%EC%99%B8%EC%A4%91%ED%95%99%EC%83%9D%EA%B3%BC%EC%99%B8%EB%82%B4%EC%8B%A0%EA%B3%BC%EC%99%B8/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>중등 과외 완벽 가이드 - 내신 선생님 찾기</title>
-      <link>https://edukoreaai.com/tutoring/private/middle-tutoring-guide/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/private/middle-tutoring-guide/</guid>
-      <description>&lt;h1 id=&#34;중등-과외-완벽-가이드---내신-선생님-찾기&#34;&gt;중등 과외 완벽 가이드 - 내신 선생님 찾기&lt;/h1&gt;&#xA;&lt;p&gt;학년·대상별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;과외 선생님 찾기, 무료 상담!&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 중등 과외 완벽 가이드 - 내신 선생님 찾기&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-학년대상별-특징&#34;&gt;1. 학년·대상별 특징&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;학습 단계&lt;/li&gt;&#xA;&lt;li&gt;필요 역량&lt;/li&gt;&#xA;&lt;li&gt;목표 설정&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-선생님-선택-기준&#34;&gt;2. 선생님 선택 기준&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;대상별 경험&lt;/li&gt;&#xA;&lt;li&gt;전문 분야&lt;/li&gt;&#xA;&lt;li&gt;관리 능력&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-과외-형태&#34;&gt;3. 과외 형태&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;방문 과외&lt;/li&gt;&#xA;&lt;li&gt;화상 과외&lt;/li&gt;&#xA;&lt;li&gt;집중 관리&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;4-비용&#34;&gt;4. 비용&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;시간당: 3만-10만 원&lt;/li&gt;&#xA;&lt;li&gt;학년별 차이&lt;/li&gt;&#xA;&lt;li&gt;과목별 차이&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;5-효과적-활용법&#34;&gt;5. 효과적 활용법&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;단계별 목표&lt;/li&gt;&#xA;&lt;li&gt;진도 관리&lt;/li&gt;&#xA;&lt;li&gt;피드백 활용&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;6-선생님-찾는-방법&#34;&gt;6. 선생님 찾는 방법&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;플랫폼 활용&lt;/li&gt;&#xA;&lt;li&gt;전문 매칭&lt;/li&gt;&#xA;&lt;li&gt;지인 추천&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;7-계약-주의사항&#34;&gt;7. 계약 주의사항&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;계약서 작성&lt;/li&gt;&#xA;&lt;li&gt;환불 규정&lt;/li&gt;&#xA;&lt;li&gt;목표 명시&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;8-faq&#34;&gt;8. FAQ&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Q1. 적합한 학생은?&lt;/strong&gt; A1. 학년·대상별 특성에 맞는 맞춤형 지도가 필요한 학생에게 적합합니다.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>중등과외,중학생과외,내신과외 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EC%A4%91%EB%93%B1%EA%B3%BC%EC%99%B8%EC%A4%91%ED%95%99%EC%83%9D%EA%B3%BC%EC%99%B8%EB%82%B4%EC%8B%A0%EA%B3%BC%EC%99%B8/</link><description>Recent content in 중등과외,중학생과외,내신과외 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EC%A4%91%EB%93%B1%EA%B3%BC%EC%99%B8%EC%A4%91%ED%95%99%EC%83%9D%EA%B3%BC%EC%99%B8%EB%82%B4%EC%8B%A0%EA%B3%BC%EC%99%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>중등 과외 완벽 가이드 - 내신 선생님 찾기</title><link>https://edukoreaai.com/tutoring/private/middle-tutoring-guide/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/private/middle-tutoring-guide/</guid><description>&lt;h1 id="중등-과외-완벽-가이드---내신-선생님-찾기">중등 과외 완벽 가이드 - 내신 선생님 찾기&lt;/h1>
+&lt;p>학년·대상별 1:1 과외를 찾는 방법과 효과적인 활용 전략을 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">과외 선생님 찾기, 무료 상담!&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 중등 과외 완벽 가이드 - 내신 선생님 찾기',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-학년대상별-특징">1. 학년·대상별 특징&lt;/h2>
+&lt;ul>
+&lt;li>학습 단계&lt;/li>
+&lt;li>필요 역량&lt;/li>
+&lt;li>목표 설정&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-선생님-선택-기준">2. 선생님 선택 기준&lt;/h2>
+&lt;ul>
+&lt;li>대상별 경험&lt;/li>
+&lt;li>전문 분야&lt;/li>
+&lt;li>관리 능력&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-과외-형태">3. 과외 형태&lt;/h2>
+&lt;ul>
+&lt;li>방문 과외&lt;/li>
+&lt;li>화상 과외&lt;/li>
+&lt;li>집중 관리&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-비용">4. 비용&lt;/h2>
+&lt;ul>
+&lt;li>시간당: 3만-10만 원&lt;/li>
+&lt;li>학년별 차이&lt;/li>
+&lt;li>과목별 차이&lt;/li>
+&lt;/ul>
+&lt;h2 id="5-효과적-활용법">5. 효과적 활용법&lt;/h2>
+&lt;ul>
+&lt;li>단계별 목표&lt;/li>
+&lt;li>진도 관리&lt;/li>
+&lt;li>피드백 활용&lt;/li>
+&lt;/ul>
+&lt;h2 id="6-선생님-찾는-방법">6. 선생님 찾는 방법&lt;/h2>
+&lt;ul>
+&lt;li>플랫폼 활용&lt;/li>
+&lt;li>전문 매칭&lt;/li>
+&lt;li>지인 추천&lt;/li>
+&lt;/ul>
+&lt;h2 id="7-계약-주의사항">7. 계약 주의사항&lt;/h2>
+&lt;ul>
+&lt;li>계약서 작성&lt;/li>
+&lt;li>환불 규정&lt;/li>
+&lt;li>목표 명시&lt;/li>
+&lt;/ul>
+&lt;h2 id="8-faq">8. FAQ&lt;/h2>
+&lt;p>&lt;strong>Q1. 적합한 학생은?&lt;/strong> A1. 학년·대상별 특성에 맞는 맞춤형 지도가 필요한 학생에게 적합합니다.&lt;/p></description></item></channel></rss>

@@ -1,33 +1,394 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>통합과학 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%ED%86%B5%ED%95%A9%EA%B3%BC%ED%95%99/</link>
-    <description>Recent content in 통합과학 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%ED%86%B5%ED%95%A9%EA%B3%BC%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>과학 개념연결 과외 | 통합사고·융합문제 완벽 대비</title>
-      <link>https://edukoreaai.com/subjects/science/science-concept-connection/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/science/science-concept-connection/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;과학 과목들이 따로 노는 것 같아요!&amp;rdquo;&lt;/strong&gt; 개념 연결로 통합적 이해가 가능합니다.&lt;/p&gt;&#xA;&lt;p&gt;과학은 &lt;strong&gt;연결의 학문&lt;/strong&gt;이며, &lt;strong&gt;융합적 사고의 토대&lt;/strong&gt;입니다.&lt;/p&gt;&#xA;&lt;div class=&#34;cta-dual-inline&#34;&gt;&#xA;  &lt;div class=&#34;dual-inline-box&#34;&gt;&#xA;    &lt;div class=&#34;dual-inline-icon&#34;&gt;📞&lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-content&#34;&gt;&#xA;      &lt;h3&gt;궁금한 점이 있으신가요?&lt;/h3&gt;&#xA;      &lt;p&gt;전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;dual-inline-buttons&#34;&gt;&#xA;      &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-kakao&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_consultation&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;consultation_inline_kakao&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        💬 카카오톡 상담&#xA;      &lt;/a&gt;&#xA;      &lt;a href=&#34;https://naver.me/FGENm9ex&#34;&#xA;         target=&#34;_blank&#34;&#xA;         rel=&#34;noopener noreferrer&#34;&#xA;         class=&#34;dual-btn-trial&#34;&#xA;         onclick=&#34;gtag(&#39;event&#39;, &#39;click_trial&#39;, {&#xA;           &#39;event_category&#39;: &#39;engagement&#39;,&#xA;           &#39;event_label&#39;: &#39;trial_inline_naver&#39;,&#xA;           &#39;value&#39;: 1&#xA;         });&#34;&gt;&#xA;        ✨ 무료체험 신청&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.cta-dual-inline {&#xA;  margin: 48px 0;&#xA;}&#xA;&#xA;.dual-inline-box {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 20px;&#xA;  padding: 28px 32px;&#xA;  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);&#xA;  border-radius: 16px;&#xA;  border: 2px solid #e9ecef;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.05);&#xA;}&#xA;&#xA;.dual-inline-icon {&#xA;  font-size: 42px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-inline-content {&#xA;  flex: 1;&#xA;}&#xA;&#xA;.dual-inline-content h3 {&#xA;  margin: 0 0 6px;&#xA;  font-size: 19px;&#xA;  font-weight: 700;&#xA;  color: #212529;&#xA;}&#xA;&#xA;.dual-inline-content p {&#xA;  margin: 0;&#xA;  font-size: 14px;&#xA;  color: #6c757d;&#xA;}&#xA;&#xA;.dual-inline-buttons {&#xA;  display: flex;&#xA;  gap: 12px;&#xA;  flex-shrink: 0;&#xA;}&#xA;&#xA;.dual-btn-kakao,&#xA;.dual-btn-trial {&#xA;  padding: 12px 24px;&#xA;  text-decoration: none;&#xA;  border-radius: 25px;&#xA;  font-weight: 700;&#xA;  font-size: 15px;&#xA;  transition: all 0.3s ease;&#xA;  white-space: nowrap;&#xA;  display: inline-block;&#xA;}&#xA;&#xA;.dual-btn-kakao {&#xA;  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;  color: #3C1E1E;&#xA;}&#xA;&#xA;.dual-btn-kakao:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);&#xA;}&#xA;&#xA;.dual-btn-trial {&#xA;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;  color: white;&#xA;}&#xA;&#xA;.dual-btn-trial:hover {&#xA;  transform: translateY(-2px);&#xA;  box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;@media (max-width: 992px) {&#xA;  .dual-inline-box {&#xA;    flex-wrap: wrap;&#xA;    justify-content: center;&#xA;    text-align: center;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    width: 100%;&#xA;    justify-content: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 576px) {&#xA;  .dual-inline-box {&#xA;    padding: 24px 20px;&#xA;  }&#xA;  &#xA;  .dual-inline-icon {&#xA;    font-size: 36px;&#xA;  }&#xA;  &#xA;  .dual-inline-content h3 {&#xA;    font-size: 17px;&#xA;  }&#xA;  &#xA;  .dual-inline-content p {&#xA;    font-size: 13px;&#xA;  }&#xA;  &#xA;  .dual-inline-buttons {&#xA;    flex-direction: column;&#xA;    width: 100%;&#xA;  }&#xA;  &#xA;  .dual-btn-kakao,&#xA;  .dual-btn-trial {&#xA;    width: 100%;&#xA;    padding: 14px 20px;&#xA;    font-size: 14px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;1-개념-연결이란&#34;&gt;1. 개념 연결이란?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-개념-연결의-의미&#34;&gt;1.1 개념 연결의 의미&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;정의&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>과학 통합 완성 가이드 - 물화생지 전 영역 정복</title>
-      <link>https://edukoreaai.com/subjects/science/science-integrated-mastery/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/subjects/science/science-integrated-mastery/</guid>
-      <description>&lt;h1 id=&#34;과학-통합-완성-가이드---물화생지-전-영역-정복&#34;&gt;과학 통합 완성 가이드 - 물화생지 전 영역 정복&lt;/h1&gt;&#xA;&lt;p&gt;과학은 자연 현상을 이해하고 탐구하는 학문입니다. 논리적 사고력과 탐구 능력을 키우며, 미래 사회의 핵심 역량을 개발합니다. 이 가이드는 과학 전 영역을 체계적으로 정리하고 효과적인 학습 전략을 제시합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;과목별 맞춤 학습 전략이 필요하신가요?&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 과학 통합 완성 가이드 - 물화생지 전 영역 정복&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-과학-학습의-중요성&#34;&gt;1. 과학 학습의 중요성&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-왜-과학을-공부해야-하는가&#34;&gt;1.1 왜 과학을 공부해야 하는가&lt;/h3&gt;&#xA;&lt;p&gt;과학은 현대 사회를 이해하고 살아가는 데 필수적입니다:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>프리미엄 수능 영어 실전 가이드 | 절대평가 1등급</title>
-      <link>https://edukoreaai.com/high/2026-suneung-changes/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/high/2026-suneung-changes/</guid>
-      <description>&lt;h2 id=&#34;2026학년도-수능-무엇이-달라지나요&#34;&gt;2026학년도 수능, 무엇이 달라지나요?&lt;/h2&gt;&#xA;&lt;p&gt;안녕하세요, 과외를부탁해입니다! 👋&lt;/p&gt;&#xA;&lt;p&gt;현재 고2 학생 여러분, 2026학년도 수능에 큰 변화가 있다는 사실 알고 계시죠? 교육부가 발표한 개편안에 따르면 &lt;strong&gt;킬러문항 폐지&lt;/strong&gt;를 포함해 여러 중요한 변경사항이 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;이 글에서는 2026 수능의 모든 변경사항을 한눈에 정리해드리겠습니다. 지금부터 차근차근 준비하면 충분히 대비할 수 있으니, 끝까지 읽어보시길 추천드려요!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-2026-수능-핵심-변경사항-요약&#34;&gt;📌 2026 수능 핵심 변경사항 요약&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;구분&lt;/th&gt;&#xA;          &lt;th&gt;기존 (2025학년도)&lt;/th&gt;&#xA;          &lt;th&gt;변경 (2026학년도)&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;킬러문항&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;존재 (상위 4% 변별)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;전면 폐지&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;국어 선택과목&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;화법과 작문 / 언어와 매체&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;공통과목으로 통합&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;수학 선택과목&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;확률과 통계 / 미적분 / 기하&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;동일 유지&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;사회탐구&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;9개 과목 중 2개 선택&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;통합사회 추가&lt;/strong&gt; (10개 과목)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;과학탐구&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;8개 과목 중 2개 선택&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;통합과학 추가&lt;/strong&gt; (9개 과목)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;영어&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;절대평가&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;동일 유지&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;문항 난이도&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;최고 난이도 4-5%&lt;/td&gt;&#xA;          &lt;td&gt;&lt;strong&gt;최고 난이도 10% 수준으로 하향&lt;/strong&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-가장-큰-변화-킬러문항-완전-폐지&#34;&gt;1️⃣ 가장 큰 변화: 킬러문항 완전 폐지&lt;/h2&gt;&#xA;&lt;h3 id=&#34;킬러문항이-뭔가요&#34;&gt;킬러문항이 뭔가요?&lt;/h3&gt;&#xA;&lt;p&gt;킬러문항은 &lt;strong&gt;상위 4% 학생도 풀기 어려운 초고난도 문제&lt;/strong&gt;를 의미합니다. 주로 수학과 과학탐구 영역에서 출제되었고, 사교육 의존도를 높인다는 비판을 받아왔어요.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>통합과학 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%ED%86%B5%ED%95%A9%EA%B3%BC%ED%95%99/</link><description>Recent content in 통합과학 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%ED%86%B5%ED%95%A9%EA%B3%BC%ED%95%99/index.xml" rel="self" type="application/rss+xml"/><item><title>과학 개념연결 과외 | 통합사고·융합문제 완벽 대비</title><link>https://edukoreaai.com/subjects/science/science-concept-connection/</link><pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/science/science-concept-connection/</guid><description>&lt;p>&lt;strong>&amp;ldquo;과학 과목들이 따로 노는 것 같아요!&amp;rdquo;&lt;/strong> 개념 연결로 통합적 이해가 가능합니다.&lt;/p>
+&lt;p>과학은 &lt;strong>연결의 학문&lt;/strong>이며, &lt;strong>융합적 사고의 토대&lt;/strong>입니다.&lt;/p>
+&lt;div class="cta-dual-inline">
+ &lt;div class="dual-inline-box">
+ &lt;div class="dual-inline-icon">📞&lt;/div>
+ &lt;div class="dual-inline-content">
+ &lt;h3>궁금한 점이 있으신가요?&lt;/h3>
+ &lt;p>전문가와 1:1 무료 상담 또는 무료체험을 신청하세요&lt;/p>
+ &lt;/div>
+ &lt;div class="dual-inline-buttons">
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-kakao"
+ onclick="gtag('event', 'click_consultation', {
+ 'event_category': 'engagement',
+ 'event_label': 'consultation_inline_kakao',
+ 'value': 1
+ });">
+ 💬 카카오톡 상담
+ &lt;/a>
+ &lt;a href="https://naver.me/FGENm9ex"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="dual-btn-trial"
+ onclick="gtag('event', 'click_trial', {
+ 'event_category': 'engagement',
+ 'event_label': 'trial_inline_naver',
+ 'value': 1
+ });">
+ ✨ 무료체험 신청
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+.cta-dual-inline {
+ margin: 48px 0;
+}
+
+.dual-inline-box {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+ padding: 28px 32px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+ border-radius: 16px;
+ border: 2px solid #e9ecef;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dual-inline-icon {
+ font-size: 42px;
+ flex-shrink: 0;
+}
+
+.dual-inline-content {
+ flex: 1;
+}
+
+.dual-inline-content h3 {
+ margin: 0 0 6px;
+ font-size: 19px;
+ font-weight: 700;
+ color: #212529;
+}
+
+.dual-inline-content p {
+ margin: 0;
+ font-size: 14px;
+ color: #6c757d;
+}
+
+.dual-inline-buttons {
+ display: flex;
+ gap: 12px;
+ flex-shrink: 0;
+}
+
+.dual-btn-kakao,
+.dual-btn-trial {
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 25px;
+ font-weight: 700;
+ font-size: 15px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+ display: inline-block;
+}
+
+.dual-btn-kakao {
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ color: #3C1E1E;
+}
+
+.dual-btn-kakao:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(254, 229, 0, 0.4);
+}
+
+.dual-btn-trial {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+}
+
+.dual-btn-trial:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+@media (max-width: 992px) {
+ .dual-inline-box {
+ flex-wrap: wrap;
+ justify-content: center;
+ text-align: center;
+ }
+ 
+ .dual-inline-icon {
+ width: 100%;
+ }
+ 
+ .dual-inline-buttons {
+ width: 100%;
+ justify-content: center;
+ }
+}
+
+@media (max-width: 576px) {
+ .dual-inline-box {
+ padding: 24px 20px;
+ }
+ 
+ .dual-inline-icon {
+ font-size: 36px;
+ }
+ 
+ .dual-inline-content h3 {
+ font-size: 17px;
+ }
+ 
+ .dual-inline-content p {
+ font-size: 13px;
+ }
+ 
+ .dual-inline-buttons {
+ flex-direction: column;
+ width: 100%;
+ }
+ 
+ .dual-btn-kakao,
+ .dual-btn-trial {
+ width: 100%;
+ padding: 14px 20px;
+ font-size: 14px;
+ }
+}
+&lt;/style>
+&lt;h2 id="1-개념-연결이란">1. 개념 연결이란?&lt;/h2>
+&lt;h3 id="11-개념-연결의-의미">1.1 개념 연결의 의미&lt;/h3>
+&lt;p>&lt;strong>정의&lt;/strong>&lt;/p></description></item><item><title>과학 통합 완성 가이드 - 물화생지 전 영역 정복</title><link>https://edukoreaai.com/subjects/science/science-integrated-mastery/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/subjects/science/science-integrated-mastery/</guid><description>&lt;h1 id="과학-통합-완성-가이드---물화생지-전-영역-정복">과학 통합 완성 가이드 - 물화생지 전 영역 정복&lt;/h1>
+&lt;p>과학은 자연 현상을 이해하고 탐구하는 학문입니다. 논리적 사고력과 탐구 능력을 키우며, 미래 사회의 핵심 역량을 개발합니다. 이 가이드는 과학 전 영역을 체계적으로 정리하고 효과적인 학습 전략을 제시합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">과목별 맞춤 학습 전략이 필요하신가요?&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 과학 통합 완성 가이드 - 물화생지 전 영역 정복',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-과학-학습의-중요성">1. 과학 학습의 중요성&lt;/h2>
+&lt;h3 id="11-왜-과학을-공부해야-하는가">1.1 왜 과학을 공부해야 하는가&lt;/h3>
+&lt;p>과학은 현대 사회를 이해하고 살아가는 데 필수적입니다:&lt;/p></description></item><item><title>프리미엄 수능 영어 실전 가이드 | 절대평가 1등급</title><link>https://edukoreaai.com/high/2026-suneung-changes/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/high/2026-suneung-changes/</guid><description>&lt;h2 id="2026학년도-수능-무엇이-달라지나요">2026학년도 수능, 무엇이 달라지나요?&lt;/h2>
+&lt;p>안녕하세요, 과외를부탁해입니다! 👋&lt;/p>
+&lt;p>현재 고2 학생 여러분, 2026학년도 수능에 큰 변화가 있다는 사실 알고 계시죠? 교육부가 발표한 개편안에 따르면 &lt;strong>킬러문항 폐지&lt;/strong>를 포함해 여러 중요한 변경사항이 있습니다.&lt;/p>
+&lt;p>이 글에서는 2026 수능의 모든 변경사항을 한눈에 정리해드리겠습니다. 지금부터 차근차근 준비하면 충분히 대비할 수 있으니, 끝까지 읽어보시길 추천드려요!&lt;/p>
+&lt;hr>
+&lt;h2 id="-2026-수능-핵심-변경사항-요약">📌 2026 수능 핵심 변경사항 요약&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>구분&lt;/th>
+ &lt;th>기존 (2025학년도)&lt;/th>
+ &lt;th>변경 (2026학년도)&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>킬러문항&lt;/strong>&lt;/td>
+ &lt;td>존재 (상위 4% 변별)&lt;/td>
+ &lt;td>&lt;strong>전면 폐지&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>국어 선택과목&lt;/strong>&lt;/td>
+ &lt;td>화법과 작문 / 언어와 매체&lt;/td>
+ &lt;td>&lt;strong>공통과목으로 통합&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>수학 선택과목&lt;/strong>&lt;/td>
+ &lt;td>확률과 통계 / 미적분 / 기하&lt;/td>
+ &lt;td>&lt;strong>동일 유지&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>사회탐구&lt;/strong>&lt;/td>
+ &lt;td>9개 과목 중 2개 선택&lt;/td>
+ &lt;td>&lt;strong>통합사회 추가&lt;/strong> (10개 과목)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>과학탐구&lt;/strong>&lt;/td>
+ &lt;td>8개 과목 중 2개 선택&lt;/td>
+ &lt;td>&lt;strong>통합과학 추가&lt;/strong> (9개 과목)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>영어&lt;/strong>&lt;/td>
+ &lt;td>절대평가&lt;/td>
+ &lt;td>&lt;strong>동일 유지&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>문항 난이도&lt;/strong>&lt;/td>
+ &lt;td>최고 난이도 4-5%&lt;/td>
+ &lt;td>&lt;strong>최고 난이도 10% 수준으로 하향&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="1-가장-큰-변화-킬러문항-완전-폐지">1️⃣ 가장 큰 변화: 킬러문항 완전 폐지&lt;/h2>
+&lt;h3 id="킬러문항이-뭔가요">킬러문항이 뭔가요?&lt;/h3>
+&lt;p>킬러문항은 &lt;strong>상위 4% 학생도 풀기 어려운 초고난도 문제&lt;/strong>를 의미합니다. 주로 수학과 과학탐구 영역에서 출제되었고, 사교육 의존도를 높인다는 비판을 받아왔어요.&lt;/p></description></item></channel></rss>

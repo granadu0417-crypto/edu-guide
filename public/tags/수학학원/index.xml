@@ -1,82 +1,1634 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>수학학원 on 과외를부탁해</title>
-    <link>https://edukoreaai.com/tags/%EC%88%98%ED%95%99%ED%95%99%EC%9B%90/</link>
-    <description>Recent content in 수학학원 on 과외를부탁해</description>
-    <generator>Hugo</generator>
-    <language>ko-kr</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://edukoreaai.com/tags/%EC%88%98%ED%95%99%ED%95%99%EC%9B%90/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외</title>
-      <link>https://edukoreaai.com/tutoring/academy/high-math-academy/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/academy/high-math-academy/</guid>
-      <description>&lt;h1 id=&#34;고등-수학학원---수능내신-동시-대비-및-11-과외&#34;&gt;고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외&lt;/h1&gt;&#xA;&lt;p&gt;과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;과목별 학원, 무료 상담!&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-과목별-학원-특징&#34;&gt;1. 과목별 학원 특징&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;전문화된 커리큘럼&lt;/li&gt;&#xA;&lt;li&gt;과목 집중 학습&lt;/li&gt;&#xA;&lt;li&gt;레벨별 세분화&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외 병행 효과적&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-레벨별-선택&#34;&gt;2. 레벨별 선택&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;기초반&lt;/li&gt;&#xA;&lt;li&gt;중급반&lt;/li&gt;&#xA;&lt;li&gt;심화반&lt;/li&gt;&#xA;&lt;li&gt;최상위반&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-학습-전략&#34;&gt;3. 학습 전략&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;개념 이해&lt;/li&gt;&#xA;&lt;li&gt;문제 풀이&lt;/li&gt;&#xA;&lt;li&gt;실전 연습&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외로 완성&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;4-11-과외&#34;&gt;4. 1:1 과외&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;약점 보완&lt;/li&gt;&#xA;&lt;li&gt;심화 학습&lt;/li&gt;&#xA;&lt;li&gt;개인 맞춤&lt;/li&gt;&#xA;&lt;li&gt;월 50-100만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;5-선택-기준&#34;&gt;5. 선택 기준&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;강사 전문성&lt;/li&gt;&#xA;&lt;li&gt;교재와 자료&lt;/li&gt;&#xA;&lt;li&gt;레벨 테스트&lt;/li&gt;&#xA;&lt;li&gt;실적&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;6-비용&#34;&gt;6. 비용&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;학원: 월 40-80만 원&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외: 월 50-100만 원&lt;/li&gt;&#xA;&lt;li&gt;총: 월 90-180만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;7-faq&#34;&gt;7. FAQ&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Q1. 과목 전문 학원이 좋은가요?&lt;/strong&gt; A1. 해당 과목에 집중하므로 효과적입니다.&#xA;&lt;strong&gt;Q2. 1:1 과외도 필요한가요?&lt;/strong&gt; A2. 약점 보완과 심화에 추천합니다.&#xA;&lt;strong&gt;Q3. 비용은?&lt;/strong&gt; A3. 월 40-80만 원입니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>단과 학원 선택 기준 - 과목별 전문 학원 완벽 가이드</title>
-      <link>https://edukoreaai.com/tutoring/guide/single-subject-academy-selection/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/guide/single-subject-academy-selection/</guid>
-      <description>&lt;h1 id=&#34;단과-학원-선택-기준---과목별-전문-학원-완벽-가이드&#34;&gt;단과 학원 선택 기준 - 과목별 전문 학원 완벽 가이드&lt;/h1&gt;&#xA;&lt;p&gt;단과 학원은 특정 과목에만 특화된 학원으로, 종합 학원과 달리 한 과목의 깊이 있는 학습을 제공합니다. 수학, 영어, 국어 등 학생이 특히 어려워하는 과목을 집중적으로 보완하거나, 이미 강한 과목을 더욱 심화 학습하고자 할 때 단과 학원이 효과적입니다. 본 가이드에서는 단과 학원의 특징, 종합 학원과의 차이, 과목별 선택 기준, 그리고 1:1 과외와의 병행 전략을 상세히 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;단과 학원 선택 고민, 1:1 무료 상담으로 해결하세요. 우리 아이에게 딱 맞는 전문 학원을 찾아드립니다!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>대치동 수학학원 추천 - 입시 명문 학원 비교 및 1:1 과외 병행 전략</title>
-      <link>https://edukoreaai.com/tutoring/academy/daechi-math-academy/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/academy/daechi-math-academy/</guid>
-      <description>&lt;h1 id=&#34;대치동-수학학원-추천---입시-명문-학원-비교-및-11-과외-병행-전략&#34;&gt;대치동 수학학원 추천 - 입시 명문 학원 비교 및 1:1 과외 병행 전략&lt;/h1&gt;&#xA;&lt;p&gt;대치동은 대한민국 최고의 교육 1번지로, 수많은 명문 수학학원이 집중되어 있습니다. 본 가이드에서는 대치동 수학학원의 특징, 주요 학원 비교, 선택 기준, 그리고 1:1 과외 병행 전략을 상세히 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;대치동 수학학원 선택, 무료 상담으로 시작하세요!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>부천 수학학원 - 중동·상동·역곡 및 1:1 과외</title>
-      <link>https://edukoreaai.com/tutoring/academy/bucheon-math-academy/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/academy/bucheon-math-academy/</guid>
-      <description>&lt;h1 id=&#34;부천-수학학원---중동상동역곡-및-11-과외&#34;&gt;부천 수학학원 - 중동·상동·역곡 및 1:1 과외&lt;/h1&gt;&#xA;&lt;p&gt;부천 수학학원 추천. 중동·상동·역곡 지역, 합리적 비용, 1:1 과외를 안내합니다.. 지역 특성과 학원 선택, 1:1 과외 병행 전략을 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;학원 선택, 무료 상담!&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 부천 수학학원 - 중동·상동·역곡 및 1:1 과외&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-지역-특징&#34;&gt;1. 지역 특징&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;합리적 비용&lt;/li&gt;&#xA;&lt;li&gt;지역 학생 밀집&lt;/li&gt;&#xA;&lt;li&gt;학교별 내신 강함&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외 병행 추천&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-학원-유형&#34;&gt;2. 학원 유형&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;종합학원&lt;/li&gt;&#xA;&lt;li&gt;단과학원&lt;/li&gt;&#xA;&lt;li&gt;관리형학원&lt;/li&gt;&#xA;&lt;li&gt;월 40-80만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-과목별&#34;&gt;3. 과목별&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;수학: 레벨별&lt;/li&gt;&#xA;&lt;li&gt;영어: 내신·수능&lt;/li&gt;&#xA;&lt;li&gt;국어: 독서·비문학&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외로 보완&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;4-학년별&#34;&gt;4. 학년별&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;초등: 기초&lt;/li&gt;&#xA;&lt;li&gt;중등: 내신&lt;/li&gt;&#xA;&lt;li&gt;고등: 수능·내신&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;5-11-과외&#34;&gt;5. 1:1 과외&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;약점 보완&lt;/li&gt;&#xA;&lt;li&gt;심화 학습&lt;/li&gt;&#xA;&lt;li&gt;월 40-80만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;6-선택-기준&#34;&gt;6. 선택 기준&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;학교 족보&lt;/li&gt;&#xA;&lt;li&gt;강사 경력&lt;/li&gt;&#xA;&lt;li&gt;관리 시스템&lt;/li&gt;&#xA;&lt;li&gt;실적&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;7-비용&#34;&gt;7. 비용&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;학원: 월 40-80만 원&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외: 월 40-80만 원&lt;/li&gt;&#xA;&lt;li&gt;총: 월 80-160만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;8-강남과-비교&#34;&gt;8. 강남과 비교&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;비용 30-40% 저렴&lt;/li&gt;&#xA;&lt;li&gt;수준 충분&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외로 보완&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;9-faq&#34;&gt;9. FAQ&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Q1. 비용은?&lt;/strong&gt; A1. 월 40-80만 원으로 합리적입니다.&#xA;&lt;strong&gt;Q2. 1:1 과외 필요?&lt;/strong&gt; A2. 추천합니다.&#xA;&lt;strong&gt;Q3. 강남보다 못한가요?&lt;/strong&gt; A3. 가성비가 우수합니다.&#xA;&lt;strong&gt;Q4. 선택 기준은?&lt;/strong&gt; A4. 학교 족보와 실적을 확인하세요.&#xA;&lt;strong&gt;Q5. 수능 대비는?&lt;/strong&gt; A5. 1:1 과외를 병행하세요.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외</title>
-      <link>https://edukoreaai.com/tutoring/academy/bundang-math-academy/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/academy/bundang-math-academy/</guid>
-      <description>&lt;h1 id=&#34;분당-수학학원-best---판교정자서현-및-11-과외&#34;&gt;분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외&lt;/h1&gt;&#xA;&lt;p&gt;분당은 대치동과 함께 수도권 양대 교육 특구로, 최상위권 수학학원이 집중되어 있습니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;분당 수학학원, 무료 상담!&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-분당-수학학원-특징&#34;&gt;1. 분당 수학학원 특징&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;대치동 수준&lt;/li&gt;&#xA;&lt;li&gt;상위권 학생 밀집&lt;/li&gt;&#xA;&lt;li&gt;경시대회 강함&lt;/li&gt;&#xA;&lt;li&gt;월 60-120만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-지역별&#34;&gt;2. 지역별&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;판교:&lt;/strong&gt; IT 단지, 신규 학원&#xA;&lt;strong&gt;정자:&lt;/strong&gt; 전통 학원가&#xA;&lt;strong&gt;서현:&lt;/strong&gt; 대형 브랜드&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>송파 수학학원 - 잠실·문정·가락 지역별 추천 및 1:1 과외</title>
-      <link>https://edukoreaai.com/tutoring/academy/songpa-math-academy/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/academy/songpa-math-academy/</guid>
-      <description>&lt;h1 id=&#34;송파-수학학원---잠실문정가락-지역별-추천-및-11-과외&#34;&gt;송파 수학학원 - 잠실·문정·가락 지역별 추천 및 1:1 과외&lt;/h1&gt;&#xA;&lt;p&gt;송파구는 잠실·문정·가락을 중심으로 우수한 수학학원이 많습니다. 본 가이드에서는 지역별 수학학원의 특징, 선택 기준, 학년별 추천, 그리고 1:1 수학 과외 병행 전략을 상세히 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;송파 수학학원 선택, 무료 상담으로 시작하세요!&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 송파 수학학원 - 잠실·문정·가락 지역별 추천 및 1:1 과외&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-송파-수학학원의-특징&#34;&gt;1. 송파 수학학원의 특징&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;지역별 특성:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>수학 학원 vs 과외 비교 - 우리 아이에게 맞는 선택은?</title>
-      <link>https://edukoreaai.com/tutoring/guide/math-academy-vs-tutor-comparison/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/guide/math-academy-vs-tutor-comparison/</guid>
-      <description>&lt;h1 id=&#34;수학-학원-vs-과외-비교&#34;&gt;수학 학원 vs 과외 비교&lt;/h1&gt;&#xA;&lt;p&gt;수학은 대부분의 학생이 학원이나 과외의 도움을 받는 과목입니다. 학원과 과외 중 어떤 것이 우리 아이에게 더 효과적일까요? 수준별, 상황별로 최적의 선택을 알려드립니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;우리 아이 수학 학습 전략이 궁금하신가요?&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 수학 학원 vs 과외 비교 - 우리 아이에게 맞는 선택은?&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-수학-학습의-특성&#34;&gt;1. 수학 학습의 특성&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-수학이-어려운-이유&#34;&gt;1.1 수학이 어려운 이유&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;개념의 연계성&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>용산 수학 특화 학원 - 한남·이촌 지역 및 1:1 과외</title>
-      <link>https://edukoreaai.com/tutoring/academy/yongsan-math-academy/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/academy/yongsan-math-academy/</guid>
-      <description>&lt;h1 id=&#34;용산-수학-특화-학원---한남이촌-지역-및-11-과외&#34;&gt;용산 수학 특화 학원 - 한남·이촌 지역 및 1:1 과외&lt;/h1&gt;&#xA;&lt;p&gt;용산은 한남·이촌을 중심으로 수학 특화 학원이 있습니다. 소수정예와 심화 과정이 강점입니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;용산 수학학원, 무료 상담!&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 용산 수학 특화 학원 - 한남·이촌 지역 및 1:1 과외&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-용산-수학학원-특징&#34;&gt;1. 용산 수학학원 특징&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;소수정예 (10명 이하)&lt;/li&gt;&#xA;&lt;li&gt;심화 과정&lt;/li&gt;&#xA;&lt;li&gt;외국인학교 학생 多&lt;/li&gt;&#xA;&lt;li&gt;월 60-100만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-지역별&#34;&gt;2. 지역별&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;한남:&lt;/strong&gt; 외국인 학생 多, 국제 수학&#xA;&lt;strong&gt;이촌:&lt;/strong&gt; 국내 학생, 내신·수능&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>중등 수학학원 - 내신 1등급 만들기 및 1:1 과외</title>
-      <link>https://edukoreaai.com/tutoring/academy/middle-math-academy/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/academy/middle-math-academy/</guid>
-      <description>&lt;h1 id=&#34;중등-수학학원---내신-1등급-만들기-및-11-과외&#34;&gt;중등 수학학원 - 내신 1등급 만들기 및 1:1 과외&lt;/h1&gt;&#xA;&lt;p&gt;과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;과목별 학원, 무료 상담!&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 중등 수학학원 - 내신 1등급 만들기 및 1:1 과외&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-과목별-학원-특징&#34;&gt;1. 과목별 학원 특징&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;전문화된 커리큘럼&lt;/li&gt;&#xA;&lt;li&gt;과목 집중 학습&lt;/li&gt;&#xA;&lt;li&gt;레벨별 세분화&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외 병행 효과적&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-레벨별-선택&#34;&gt;2. 레벨별 선택&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;기초반&lt;/li&gt;&#xA;&lt;li&gt;중급반&lt;/li&gt;&#xA;&lt;li&gt;심화반&lt;/li&gt;&#xA;&lt;li&gt;최상위반&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-학습-전략&#34;&gt;3. 학습 전략&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;개념 이해&lt;/li&gt;&#xA;&lt;li&gt;문제 풀이&lt;/li&gt;&#xA;&lt;li&gt;실전 연습&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외로 완성&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;4-11-과외&#34;&gt;4. 1:1 과외&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;약점 보완&lt;/li&gt;&#xA;&lt;li&gt;심화 학습&lt;/li&gt;&#xA;&lt;li&gt;개인 맞춤&lt;/li&gt;&#xA;&lt;li&gt;월 50-100만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;5-선택-기준&#34;&gt;5. 선택 기준&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;강사 전문성&lt;/li&gt;&#xA;&lt;li&gt;교재와 자료&lt;/li&gt;&#xA;&lt;li&gt;레벨 테스트&lt;/li&gt;&#xA;&lt;li&gt;실적&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;6-비용&#34;&gt;6. 비용&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;학원: 월 40-80만 원&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외: 월 50-100만 원&lt;/li&gt;&#xA;&lt;li&gt;총: 월 90-180만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;7-faq&#34;&gt;7. FAQ&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Q1. 과목 전문 학원이 좋은가요?&lt;/strong&gt; A1. 해당 과목에 집중하므로 효과적입니다.&#xA;&lt;strong&gt;Q2. 1:1 과외도 필요한가요?&lt;/strong&gt; A2. 약점 보완과 심화에 추천합니다.&#xA;&lt;strong&gt;Q3. 비용은?&lt;/strong&gt; A3. 월 40-80만 원입니다.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외</title>
-      <link>https://edukoreaai.com/tutoring/academy/elementary-math-academy/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://edukoreaai.com/tutoring/academy/elementary-math-academy/</guid>
-      <description>&lt;h1 id=&#34;초등-수학학원---연산사고력교과-종합-및-11-과외&#34;&gt;초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외&lt;/h1&gt;&#xA;&lt;p&gt;과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;cta-consultation cta-subtle&#34;&gt;&#xA;    &lt;div class=&#34;cta-content&#34;&gt;&#xA;        &lt;div class=&#34;cta-icon&#34;&gt;&#xA;            &lt;svg width=&#34;24&#34; height=&#34;24&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;                &lt;path d=&#34;M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z&#34; fill=&#34;currentColor&#34;/&gt;&#xA;            &lt;/svg&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;cta-text&#34;&gt;&#xA;            &lt;p class=&#34;cta-message&#34;&gt;과목별 학원, 무료 상담!&lt;/p&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;a href=&#34;https://pf.kakao.com/_Cixlaxl/chat&#34;&#xA;           target=&#34;_blank&#34;&#xA;           rel=&#34;noopener noreferrer&#34;&#xA;           class=&#34;cta-button cta-button-subtle&#34;&#xA;           onclick=&#34;gtag(&#39;event&#39;, &#39;click&#39;, {&#xA;               &#39;event_category&#39;: &#39;Conversion&#39;,&#xA;               &#39;event_label&#39;: &#39;Content CTA Subtle - 초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외&#39;,&#xA;               &#39;value&#39;: 1&#xA;           });&#34;&gt;&#xA;            카카오톡 상담하기&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA; &#xA;.cta-consultation {&#xA;    margin: 40px 0;&#xA;    padding: 24px;&#xA;    border-radius: 16px;&#xA;    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);&#xA;    border: 1px solid #dee2e6;&#xA;    transition: all 0.3s ease;&#xA;}&#xA;&#xA;.cta-consultation:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);&#xA;    border-color: #ced4da;&#xA;}&#xA;&#xA;.cta-content {&#xA;    display: flex;&#xA;    align-items: center;&#xA;    gap: 16px;&#xA;}&#xA;&#xA;.cta-icon {&#xA;    flex-shrink: 0;&#xA;    width: 48px;&#xA;    height: 48px;&#xA;    display: flex;&#xA;    align-items: center;&#xA;    justify-content: center;&#xA;    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);&#xA;    border-radius: 12px;&#xA;    color: #3C1E1E;&#xA;}&#xA;&#xA;.cta-text {&#xA;    flex: 1;&#xA;}&#xA;&#xA;.cta-message {&#xA;    margin: 0;&#xA;    font-size: 15px;&#xA;    color: #495057;&#xA;    line-height: 1.6;&#xA;    font-weight: 500;&#xA;}&#xA;&#xA;.cta-button {&#xA;    flex-shrink: 0;&#xA;    padding: 12px 24px;&#xA;    text-decoration: none;&#xA;    border-radius: 8px;&#xA;    font-weight: 600;&#xA;    font-size: 14px;&#xA;    transition: all 0.3s ease;&#xA;    white-space: nowrap;&#xA;}&#xA;&#xA;.cta-button-subtle {&#xA;    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);&#xA;    color: white;&#xA;    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);&#xA;}&#xA;&#xA;.cta-button-subtle:hover {&#xA;    transform: translateY(-2px);&#xA;    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);&#xA;}&#xA;&#xA;.cta-button-subtle:active {&#xA;    transform: translateY(0);&#xA;}&#xA;&#xA; &#xA;@media (max-width: 768px) {&#xA;    .cta-consultation {&#xA;        padding: 20px;&#xA;        margin: 32px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        gap: 12px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 40px;&#xA;        height: 40px;&#xA;    }&#xA;&#xA;    .cta-icon svg {&#xA;        width: 20px;&#xA;        height: 20px;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        padding: 10px 20px;&#xA;        font-size: 13px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;@media (max-width: 480px) {&#xA;    .cta-consultation {&#xA;        padding: 16px;&#xA;        margin: 24px 0;&#xA;    }&#xA;&#xA;    .cta-content {&#xA;        flex-direction: column;&#xA;        text-align: center;&#xA;        gap: 16px;&#xA;    }&#xA;&#xA;    .cta-icon {&#xA;        width: 56px;&#xA;        height: 56px;&#xA;        margin: 0 auto;&#xA;    }&#xA;&#xA;    .cta-message {&#xA;        font-size: 14px;&#xA;    }&#xA;&#xA;    .cta-button {&#xA;        width: 100%;&#xA;        padding: 14px 24px;&#xA;        font-size: 14px;&#xA;    }&#xA;}&#xA;&#xA; &#xA;.cta-button:focus {&#xA;    outline: 3px solid #667eea;&#xA;    outline-offset: 4px;&#xA;}&#xA;&#xA; &#xA;@media print {&#xA;    .cta-consultation {&#xA;        display: none !important;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h2 id=&#34;1-과목별-학원-특징&#34;&gt;1. 과목별 학원 특징&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;전문화된 커리큘럼&lt;/li&gt;&#xA;&lt;li&gt;과목 집중 학습&lt;/li&gt;&#xA;&lt;li&gt;레벨별 세분화&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외 병행 효과적&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-레벨별-선택&#34;&gt;2. 레벨별 선택&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;기초반&lt;/li&gt;&#xA;&lt;li&gt;중급반&lt;/li&gt;&#xA;&lt;li&gt;심화반&lt;/li&gt;&#xA;&lt;li&gt;최상위반&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-학습-전략&#34;&gt;3. 학습 전략&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;개념 이해&lt;/li&gt;&#xA;&lt;li&gt;문제 풀이&lt;/li&gt;&#xA;&lt;li&gt;실전 연습&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외로 완성&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;4-11-과외&#34;&gt;4. 1:1 과외&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;약점 보완&lt;/li&gt;&#xA;&lt;li&gt;심화 학습&lt;/li&gt;&#xA;&lt;li&gt;개인 맞춤&lt;/li&gt;&#xA;&lt;li&gt;월 50-100만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;5-선택-기준&#34;&gt;5. 선택 기준&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;강사 전문성&lt;/li&gt;&#xA;&lt;li&gt;교재와 자료&lt;/li&gt;&#xA;&lt;li&gt;레벨 테스트&lt;/li&gt;&#xA;&lt;li&gt;실적&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;6-비용&#34;&gt;6. 비용&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;학원: 월 40-80만 원&lt;/li&gt;&#xA;&lt;li&gt;1:1 과외: 월 50-100만 원&lt;/li&gt;&#xA;&lt;li&gt;총: 월 90-180만 원&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;7-faq&#34;&gt;7. FAQ&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Q1. 과목 전문 학원이 좋은가요?&lt;/strong&gt; A1. 해당 과목에 집중하므로 효과적입니다.&#xA;&lt;strong&gt;Q2. 1:1 과외도 필요한가요?&lt;/strong&gt; A2. 약점 보완과 심화에 추천합니다.&#xA;&lt;strong&gt;Q3. 비용은?&lt;/strong&gt; A3. 월 40-80만 원입니다.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>수학학원 on 과외를부탁해</title><link>https://edukoreaai.com/tags/%EC%88%98%ED%95%99%ED%95%99%EC%9B%90/</link><description>Recent content in 수학학원 on 과외를부탁해</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://edukoreaai.com/tags/%EC%88%98%ED%95%99%ED%95%99%EC%9B%90/index.xml" rel="self" type="application/rss+xml"/><item><title>고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외</title><link>https://edukoreaai.com/tutoring/academy/high-math-academy/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/academy/high-math-academy/</guid><description>&lt;h1 id="고등-수학학원---수능내신-동시-대비-및-11-과외">고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외&lt;/h1>
+&lt;p>과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">과목별 학원, 무료 상담!&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 고등 수학학원 - 수능·내신 동시 대비 및 1:1 과외',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-과목별-학원-특징">1. 과목별 학원 특징&lt;/h2>
+&lt;ul>
+&lt;li>전문화된 커리큘럼&lt;/li>
+&lt;li>과목 집중 학습&lt;/li>
+&lt;li>레벨별 세분화&lt;/li>
+&lt;li>1:1 과외 병행 효과적&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-레벨별-선택">2. 레벨별 선택&lt;/h2>
+&lt;ul>
+&lt;li>기초반&lt;/li>
+&lt;li>중급반&lt;/li>
+&lt;li>심화반&lt;/li>
+&lt;li>최상위반&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-학습-전략">3. 학습 전략&lt;/h2>
+&lt;ul>
+&lt;li>개념 이해&lt;/li>
+&lt;li>문제 풀이&lt;/li>
+&lt;li>실전 연습&lt;/li>
+&lt;li>1:1 과외로 완성&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-11-과외">4. 1:1 과외&lt;/h2>
+&lt;ul>
+&lt;li>약점 보완&lt;/li>
+&lt;li>심화 학습&lt;/li>
+&lt;li>개인 맞춤&lt;/li>
+&lt;li>월 50-100만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="5-선택-기준">5. 선택 기준&lt;/h2>
+&lt;ul>
+&lt;li>강사 전문성&lt;/li>
+&lt;li>교재와 자료&lt;/li>
+&lt;li>레벨 테스트&lt;/li>
+&lt;li>실적&lt;/li>
+&lt;/ul>
+&lt;h2 id="6-비용">6. 비용&lt;/h2>
+&lt;ul>
+&lt;li>학원: 월 40-80만 원&lt;/li>
+&lt;li>1:1 과외: 월 50-100만 원&lt;/li>
+&lt;li>총: 월 90-180만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="7-faq">7. FAQ&lt;/h2>
+&lt;p>&lt;strong>Q1. 과목 전문 학원이 좋은가요?&lt;/strong> A1. 해당 과목에 집중하므로 효과적입니다.
+&lt;strong>Q2. 1:1 과외도 필요한가요?&lt;/strong> A2. 약점 보완과 심화에 추천합니다.
+&lt;strong>Q3. 비용은?&lt;/strong> A3. 월 40-80만 원입니다.&lt;/p></description></item><item><title>단과 학원 선택 기준 - 과목별 전문 학원 완벽 가이드</title><link>https://edukoreaai.com/tutoring/guide/single-subject-academy-selection/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/guide/single-subject-academy-selection/</guid><description>&lt;h1 id="단과-학원-선택-기준---과목별-전문-학원-완벽-가이드">단과 학원 선택 기준 - 과목별 전문 학원 완벽 가이드&lt;/h1>
+&lt;p>단과 학원은 특정 과목에만 특화된 학원으로, 종합 학원과 달리 한 과목의 깊이 있는 학습을 제공합니다. 수학, 영어, 국어 등 학생이 특히 어려워하는 과목을 집중적으로 보완하거나, 이미 강한 과목을 더욱 심화 학습하고자 할 때 단과 학원이 효과적입니다. 본 가이드에서는 단과 학원의 특징, 종합 학원과의 차이, 과목별 선택 기준, 그리고 1:1 과외와의 병행 전략을 상세히 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">단과 학원 선택 고민, 1:1 무료 상담으로 해결하세요. 우리 아이에게 딱 맞는 전문 학원을 찾아드립니다!&lt;/p></description></item><item><title>대치동 수학학원 추천 - 입시 명문 학원 비교 및 1:1 과외 병행 전략</title><link>https://edukoreaai.com/tutoring/academy/daechi-math-academy/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/academy/daechi-math-academy/</guid><description>&lt;h1 id="대치동-수학학원-추천---입시-명문-학원-비교-및-11-과외-병행-전략">대치동 수학학원 추천 - 입시 명문 학원 비교 및 1:1 과외 병행 전략&lt;/h1>
+&lt;p>대치동은 대한민국 최고의 교육 1번지로, 수많은 명문 수학학원이 집중되어 있습니다. 본 가이드에서는 대치동 수학학원의 특징, 주요 학원 비교, 선택 기준, 그리고 1:1 과외 병행 전략을 상세히 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">대치동 수학학원 선택, 무료 상담으로 시작하세요!&lt;/p></description></item><item><title>부천 수학학원 - 중동·상동·역곡 및 1:1 과외</title><link>https://edukoreaai.com/tutoring/academy/bucheon-math-academy/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/academy/bucheon-math-academy/</guid><description>&lt;h1 id="부천-수학학원---중동상동역곡-및-11-과외">부천 수학학원 - 중동·상동·역곡 및 1:1 과외&lt;/h1>
+&lt;p>부천 수학학원 추천. 중동·상동·역곡 지역, 합리적 비용, 1:1 과외를 안내합니다.. 지역 특성과 학원 선택, 1:1 과외 병행 전략을 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">학원 선택, 무료 상담!&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 부천 수학학원 - 중동·상동·역곡 및 1:1 과외',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-지역-특징">1. 지역 특징&lt;/h2>
+&lt;ul>
+&lt;li>합리적 비용&lt;/li>
+&lt;li>지역 학생 밀집&lt;/li>
+&lt;li>학교별 내신 강함&lt;/li>
+&lt;li>1:1 과외 병행 추천&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-학원-유형">2. 학원 유형&lt;/h2>
+&lt;ul>
+&lt;li>종합학원&lt;/li>
+&lt;li>단과학원&lt;/li>
+&lt;li>관리형학원&lt;/li>
+&lt;li>월 40-80만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-과목별">3. 과목별&lt;/h2>
+&lt;ul>
+&lt;li>수학: 레벨별&lt;/li>
+&lt;li>영어: 내신·수능&lt;/li>
+&lt;li>국어: 독서·비문학&lt;/li>
+&lt;li>1:1 과외로 보완&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-학년별">4. 학년별&lt;/h2>
+&lt;ul>
+&lt;li>초등: 기초&lt;/li>
+&lt;li>중등: 내신&lt;/li>
+&lt;li>고등: 수능·내신&lt;/li>
+&lt;/ul>
+&lt;h2 id="5-11-과외">5. 1:1 과외&lt;/h2>
+&lt;ul>
+&lt;li>약점 보완&lt;/li>
+&lt;li>심화 학습&lt;/li>
+&lt;li>월 40-80만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="6-선택-기준">6. 선택 기준&lt;/h2>
+&lt;ul>
+&lt;li>학교 족보&lt;/li>
+&lt;li>강사 경력&lt;/li>
+&lt;li>관리 시스템&lt;/li>
+&lt;li>실적&lt;/li>
+&lt;/ul>
+&lt;h2 id="7-비용">7. 비용&lt;/h2>
+&lt;ul>
+&lt;li>학원: 월 40-80만 원&lt;/li>
+&lt;li>1:1 과외: 월 40-80만 원&lt;/li>
+&lt;li>총: 월 80-160만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="8-강남과-비교">8. 강남과 비교&lt;/h2>
+&lt;ul>
+&lt;li>비용 30-40% 저렴&lt;/li>
+&lt;li>수준 충분&lt;/li>
+&lt;li>1:1 과외로 보완&lt;/li>
+&lt;/ul>
+&lt;h2 id="9-faq">9. FAQ&lt;/h2>
+&lt;p>&lt;strong>Q1. 비용은?&lt;/strong> A1. 월 40-80만 원으로 합리적입니다.
+&lt;strong>Q2. 1:1 과외 필요?&lt;/strong> A2. 추천합니다.
+&lt;strong>Q3. 강남보다 못한가요?&lt;/strong> A3. 가성비가 우수합니다.
+&lt;strong>Q4. 선택 기준은?&lt;/strong> A4. 학교 족보와 실적을 확인하세요.
+&lt;strong>Q5. 수능 대비는?&lt;/strong> A5. 1:1 과외를 병행하세요.&lt;/p></description></item><item><title>분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외</title><link>https://edukoreaai.com/tutoring/academy/bundang-math-academy/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/academy/bundang-math-academy/</guid><description>&lt;h1 id="분당-수학학원-best---판교정자서현-및-11-과외">분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외&lt;/h1>
+&lt;p>분당은 대치동과 함께 수도권 양대 교육 특구로, 최상위권 수학학원이 집중되어 있습니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">분당 수학학원, 무료 상담!&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 분당 수학학원 BEST - 판교·정자·서현 및 1:1 과외',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-분당-수학학원-특징">1. 분당 수학학원 특징&lt;/h2>
+&lt;ul>
+&lt;li>대치동 수준&lt;/li>
+&lt;li>상위권 학생 밀집&lt;/li>
+&lt;li>경시대회 강함&lt;/li>
+&lt;li>월 60-120만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-지역별">2. 지역별&lt;/h2>
+&lt;p>&lt;strong>판교:&lt;/strong> IT 단지, 신규 학원
+&lt;strong>정자:&lt;/strong> 전통 학원가
+&lt;strong>서현:&lt;/strong> 대형 브랜드&lt;/p></description></item><item><title>송파 수학학원 - 잠실·문정·가락 지역별 추천 및 1:1 과외</title><link>https://edukoreaai.com/tutoring/academy/songpa-math-academy/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/academy/songpa-math-academy/</guid><description>&lt;h1 id="송파-수학학원---잠실문정가락-지역별-추천-및-11-과외">송파 수학학원 - 잠실·문정·가락 지역별 추천 및 1:1 과외&lt;/h1>
+&lt;p>송파구는 잠실·문정·가락을 중심으로 우수한 수학학원이 많습니다. 본 가이드에서는 지역별 수학학원의 특징, 선택 기준, 학년별 추천, 그리고 1:1 수학 과외 병행 전략을 상세히 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">송파 수학학원 선택, 무료 상담으로 시작하세요!&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 송파 수학학원 - 잠실·문정·가락 지역별 추천 및 1:1 과외',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-송파-수학학원의-특징">1. 송파 수학학원의 특징&lt;/h2>
+&lt;p>&lt;strong>지역별 특성:&lt;/strong>&lt;/p></description></item><item><title>수학 학원 vs 과외 비교 - 우리 아이에게 맞는 선택은?</title><link>https://edukoreaai.com/tutoring/guide/math-academy-vs-tutor-comparison/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/guide/math-academy-vs-tutor-comparison/</guid><description>&lt;h1 id="수학-학원-vs-과외-비교">수학 학원 vs 과외 비교&lt;/h1>
+&lt;p>수학은 대부분의 학생이 학원이나 과외의 도움을 받는 과목입니다. 학원과 과외 중 어떤 것이 우리 아이에게 더 효과적일까요? 수준별, 상황별로 최적의 선택을 알려드립니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">우리 아이 수학 학습 전략이 궁금하신가요?&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 수학 학원 vs 과외 비교 - 우리 아이에게 맞는 선택은?',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-수학-학습의-특성">1. 수학 학습의 특성&lt;/h2>
+&lt;h3 id="11-수학이-어려운-이유">1.1 수학이 어려운 이유&lt;/h3>
+&lt;p>&lt;strong>개념의 연계성&lt;/strong>&lt;/p></description></item><item><title>용산 수학 특화 학원 - 한남·이촌 지역 및 1:1 과외</title><link>https://edukoreaai.com/tutoring/academy/yongsan-math-academy/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/academy/yongsan-math-academy/</guid><description>&lt;h1 id="용산-수학-특화-학원---한남이촌-지역-및-11-과외">용산 수학 특화 학원 - 한남·이촌 지역 및 1:1 과외&lt;/h1>
+&lt;p>용산은 한남·이촌을 중심으로 수학 특화 학원이 있습니다. 소수정예와 심화 과정이 강점입니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">용산 수학학원, 무료 상담!&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 용산 수학 특화 학원 - 한남·이촌 지역 및 1:1 과외',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-용산-수학학원-특징">1. 용산 수학학원 특징&lt;/h2>
+&lt;ul>
+&lt;li>소수정예 (10명 이하)&lt;/li>
+&lt;li>심화 과정&lt;/li>
+&lt;li>외국인학교 학생 多&lt;/li>
+&lt;li>월 60-100만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-지역별">2. 지역별&lt;/h2>
+&lt;p>&lt;strong>한남:&lt;/strong> 외국인 학생 多, 국제 수학
+&lt;strong>이촌:&lt;/strong> 국내 학생, 내신·수능&lt;/p></description></item><item><title>중등 수학학원 - 내신 1등급 만들기 및 1:1 과외</title><link>https://edukoreaai.com/tutoring/academy/middle-math-academy/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/academy/middle-math-academy/</guid><description>&lt;h1 id="중등-수학학원---내신-1등급-만들기-및-11-과외">중등 수학학원 - 내신 1등급 만들기 및 1:1 과외&lt;/h1>
+&lt;p>과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">과목별 학원, 무료 상담!&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 중등 수학학원 - 내신 1등급 만들기 및 1:1 과외',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-과목별-학원-특징">1. 과목별 학원 특징&lt;/h2>
+&lt;ul>
+&lt;li>전문화된 커리큘럼&lt;/li>
+&lt;li>과목 집중 학습&lt;/li>
+&lt;li>레벨별 세분화&lt;/li>
+&lt;li>1:1 과외 병행 효과적&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-레벨별-선택">2. 레벨별 선택&lt;/h2>
+&lt;ul>
+&lt;li>기초반&lt;/li>
+&lt;li>중급반&lt;/li>
+&lt;li>심화반&lt;/li>
+&lt;li>최상위반&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-학습-전략">3. 학습 전략&lt;/h2>
+&lt;ul>
+&lt;li>개념 이해&lt;/li>
+&lt;li>문제 풀이&lt;/li>
+&lt;li>실전 연습&lt;/li>
+&lt;li>1:1 과외로 완성&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-11-과외">4. 1:1 과외&lt;/h2>
+&lt;ul>
+&lt;li>약점 보완&lt;/li>
+&lt;li>심화 학습&lt;/li>
+&lt;li>개인 맞춤&lt;/li>
+&lt;li>월 50-100만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="5-선택-기준">5. 선택 기준&lt;/h2>
+&lt;ul>
+&lt;li>강사 전문성&lt;/li>
+&lt;li>교재와 자료&lt;/li>
+&lt;li>레벨 테스트&lt;/li>
+&lt;li>실적&lt;/li>
+&lt;/ul>
+&lt;h2 id="6-비용">6. 비용&lt;/h2>
+&lt;ul>
+&lt;li>학원: 월 40-80만 원&lt;/li>
+&lt;li>1:1 과외: 월 50-100만 원&lt;/li>
+&lt;li>총: 월 90-180만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="7-faq">7. FAQ&lt;/h2>
+&lt;p>&lt;strong>Q1. 과목 전문 학원이 좋은가요?&lt;/strong> A1. 해당 과목에 집중하므로 효과적입니다.
+&lt;strong>Q2. 1:1 과외도 필요한가요?&lt;/strong> A2. 약점 보완과 심화에 추천합니다.
+&lt;strong>Q3. 비용은?&lt;/strong> A3. 월 40-80만 원입니다.&lt;/p></description></item><item><title>초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외</title><link>https://edukoreaai.com/tutoring/academy/elementary-math-academy/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://edukoreaai.com/tutoring/academy/elementary-math-academy/</guid><description>&lt;h1 id="초등-수학학원---연산사고력교과-종합-및-11-과외">초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외&lt;/h1>
+&lt;p>과목 전문 학원의 특징, 레벨별 선택, 1:1 과외 병행 전략을 안내합니다.&lt;/p>
+
+&lt;div class="cta-consultation cta-subtle">
+ &lt;div class="cta-content">
+ &lt;div class="cta-icon">
+ &lt;svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+ &lt;/svg>
+ &lt;/div>
+ &lt;div class="cta-text">
+ &lt;p class="cta-message">과목별 학원, 무료 상담!&lt;/p>
+ &lt;/div>
+ &lt;a href="https://pf.kakao.com/_Cixlaxl/chat"
+ target="_blank"
+ rel="noopener noreferrer"
+ class="cta-button cta-button-subtle"
+ onclick="gtag('event', 'click', {
+ 'event_category': 'Conversion',
+ 'event_label': 'Content CTA Subtle - 초등 수학학원 - 연산·사고력·교과 종합 및 1:1 과외',
+ 'value': 1
+ });">
+ 카카오톡 상담하기
+ &lt;/a>
+ &lt;/div>
+&lt;/div>
+
+&lt;style>
+ 
+.cta-consultation {
+ margin: 40px 0;
+ padding: 24px;
+ border-radius: 16px;
+ background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+ border: 1px solid #dee2e6;
+ transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+ border-color: #ced4da;
+}
+
+.cta-content {
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+
+.cta-icon {
+ flex-shrink: 0;
+ width: 48px;
+ height: 48px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+ border-radius: 12px;
+ color: #3C1E1E;
+}
+
+.cta-text {
+ flex: 1;
+}
+
+.cta-message {
+ margin: 0;
+ font-size: 15px;
+ color: #495057;
+ line-height: 1.6;
+ font-weight: 500;
+}
+
+.cta-button {
+ flex-shrink: 0;
+ padding: 12px 24px;
+ text-decoration: none;
+ border-radius: 8px;
+ font-weight: 600;
+ font-size: 14px;
+ transition: all 0.3s ease;
+ white-space: nowrap;
+}
+
+.cta-button-subtle {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ color: white;
+ box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+ transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+ .cta-consultation {
+ padding: 20px;
+ margin: 32px 0;
+ }
+
+ .cta-content {
+ gap: 12px;
+ }
+
+ .cta-icon {
+ width: 40px;
+ height: 40px;
+ }
+
+ .cta-icon svg {
+ width: 20px;
+ height: 20px;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ padding: 10px 20px;
+ font-size: 13px;
+ }
+}
+
+ 
+@media (max-width: 480px) {
+ .cta-consultation {
+ padding: 16px;
+ margin: 24px 0;
+ }
+
+ .cta-content {
+ flex-direction: column;
+ text-align: center;
+ gap: 16px;
+ }
+
+ .cta-icon {
+ width: 56px;
+ height: 56px;
+ margin: 0 auto;
+ }
+
+ .cta-message {
+ font-size: 14px;
+ }
+
+ .cta-button {
+ width: 100%;
+ padding: 14px 24px;
+ font-size: 14px;
+ }
+}
+
+ 
+.cta-button:focus {
+ outline: 3px solid #667eea;
+ outline-offset: 4px;
+}
+
+ 
+@media print {
+ .cta-consultation {
+ display: none !important;
+ }
+}
+&lt;/style>
+
+&lt;h2 id="1-과목별-학원-특징">1. 과목별 학원 특징&lt;/h2>
+&lt;ul>
+&lt;li>전문화된 커리큘럼&lt;/li>
+&lt;li>과목 집중 학습&lt;/li>
+&lt;li>레벨별 세분화&lt;/li>
+&lt;li>1:1 과외 병행 효과적&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-레벨별-선택">2. 레벨별 선택&lt;/h2>
+&lt;ul>
+&lt;li>기초반&lt;/li>
+&lt;li>중급반&lt;/li>
+&lt;li>심화반&lt;/li>
+&lt;li>최상위반&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-학습-전략">3. 학습 전략&lt;/h2>
+&lt;ul>
+&lt;li>개념 이해&lt;/li>
+&lt;li>문제 풀이&lt;/li>
+&lt;li>실전 연습&lt;/li>
+&lt;li>1:1 과외로 완성&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-11-과외">4. 1:1 과외&lt;/h2>
+&lt;ul>
+&lt;li>약점 보완&lt;/li>
+&lt;li>심화 학습&lt;/li>
+&lt;li>개인 맞춤&lt;/li>
+&lt;li>월 50-100만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="5-선택-기준">5. 선택 기준&lt;/h2>
+&lt;ul>
+&lt;li>강사 전문성&lt;/li>
+&lt;li>교재와 자료&lt;/li>
+&lt;li>레벨 테스트&lt;/li>
+&lt;li>실적&lt;/li>
+&lt;/ul>
+&lt;h2 id="6-비용">6. 비용&lt;/h2>
+&lt;ul>
+&lt;li>학원: 월 40-80만 원&lt;/li>
+&lt;li>1:1 과외: 월 50-100만 원&lt;/li>
+&lt;li>총: 월 90-180만 원&lt;/li>
+&lt;/ul>
+&lt;h2 id="7-faq">7. FAQ&lt;/h2>
+&lt;p>&lt;strong>Q1. 과목 전문 학원이 좋은가요?&lt;/strong> A1. 해당 과목에 집중하므로 효과적입니다.
+&lt;strong>Q2. 1:1 과외도 필요한가요?&lt;/strong> A2. 약점 보완과 심화에 추천합니다.
+&lt;strong>Q3. 비용은?&lt;/strong> A3. 월 40-80만 원입니다.&lt;/p></description></item></channel></rss>
