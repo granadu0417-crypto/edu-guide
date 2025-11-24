@@ -17,7 +17,7 @@ tags:
 - 수학심화
 - 세곡자연환경
 featured_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop
 
 ## 강남구 세곡동, 고등 수학 완벽 마스터하는 법
 

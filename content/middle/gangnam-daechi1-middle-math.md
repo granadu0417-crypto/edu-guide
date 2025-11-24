@@ -16,7 +16,7 @@ tags:
 - 수학심화
 - 대치동학원가
 featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
 
 ## 강남구 대치1동, 중학 수학 완벽 정복하는 법
 

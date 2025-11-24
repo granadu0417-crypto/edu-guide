@@ -15,9 +15,7 @@ tags:
 - 세화고
 - 영어독해
 - 일원주거단지
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e
-
-427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
 ---
 
 ## 강남구 일원1동, 고등 영어 완벽 정복하는 법

@@ -16,7 +16,7 @@ tags:
 - 수학심화
 - 역삼비즈니스
 featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
 
 ## 강남구 역삼1동, 중학 수학 완벽 정복하는 법
 

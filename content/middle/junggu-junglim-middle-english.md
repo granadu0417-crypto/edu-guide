@@ -16,7 +16,7 @@ tags:
 - 영어문법
 - 영어독해
 featured_image: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop
 
 ## 중구 중림동, 중학 영어 완벽 정복하는 법
 

@@ -16,7 +16,7 @@ tags:
 - 환일고
 - 영어독해
 featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
 
 ## 중구 약수동, 고등 영어 완벽 정복하는 법
 

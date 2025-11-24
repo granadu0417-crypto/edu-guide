@@ -16,7 +16,7 @@ tags:
 - 영어독해
 - 역삼IT금융
 featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
 
 ## 강남구 역삼2동, 고등 영어 완벽 정복하는 법
 

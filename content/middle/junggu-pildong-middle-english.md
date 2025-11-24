@@ -16,7 +16,7 @@ tags:
 - 영어문법
 - 영어독해
 featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
 
 ## 중구 필동, 우리 아이 영어 실력 제대로 키우는 법
 

@@ -16,7 +16,7 @@ tags:
 - 영어독해
 - 대치동학원가
 featured_image: https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop
 
 ## 강남구 대치4동, 고등 영어 완벽 정복하는 법
 

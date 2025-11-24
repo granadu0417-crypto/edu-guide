@@ -16,7 +16,7 @@ tags:
 - 영어독해
 - 일원주거단지
 featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 
 ## 강남구 일원본동, 중학 영어 완벽 정복하는 법
 

@@ -16,7 +16,7 @@ tags:
 - 수학심화
 - 코엑스
 featured_image: https://images.unsplash.com/photo-1635372722656-389f87a941b7?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1635372722656-389f87a941b7?w=1200&h=630&fit=crop
 
 ## 강남구 삼성1동, 고등 수학 완벽 마스터하는 법
 

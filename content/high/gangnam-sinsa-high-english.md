@@ -16,7 +16,7 @@ tags:
 - 영어독해
 - 가로수길
 featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
 
 ## 강남구 신사동, 고등 영어 완벽 정복하는 법
 

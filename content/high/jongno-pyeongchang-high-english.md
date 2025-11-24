@@ -16,7 +16,7 @@ tags:
 - 중앙고
 - 영어독해
 featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
 
 ## 종로구 평창동, 고등 영어 완벽 정복하는 법
 

@@ -16,7 +16,7 @@ tags:
 - 환일고
 - 수학심화
 featured_image: https://images.unsplash.com/photo-1472289065668-ce650ac443d2?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1472289065668-ce650ac443d2?w=1200&h=630&fit=crop
 
 ## 중구 신당5동, 고등 수학 완벽 마스터하는 법
 

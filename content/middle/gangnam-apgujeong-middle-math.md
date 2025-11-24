@@ -16,7 +16,7 @@ tags:
 - 수학심화
 - 로데오거리
 featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
 
 ## 강남구 압구정동, 중학 수학 완벽 정복하는 법
 

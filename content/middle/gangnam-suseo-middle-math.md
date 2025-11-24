@@ -16,7 +16,7 @@ tags:
 - 수학심화
 - 수서교통요지
 featured_image: https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop
 
 ## 강남구 수서동, 중학 수학 완벽 정복하는 법
 

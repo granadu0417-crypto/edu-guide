@@ -15,9 +15,7 @@ tags:
 - 보성고
 - 영어독해
 - 세곡자연환경
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45
-
-427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
 ---
 
 ## 강남구 세곡동, 고등 영어 완벽 정복하는 법

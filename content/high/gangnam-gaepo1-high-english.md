@@ -15,9 +15,7 @@ tags:
 - 대진고
 - 영어독해
 - 개포주거단지
-featured_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
-
-427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop
 ---
 
 ## 강남구 개포1동, 고등 영어 완벽 정복하는 법

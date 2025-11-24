@@ -16,7 +16,7 @@ tags:
 - 영어독해
 - 로데오거리
 featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
 
 ## 강남구 압구정동, 고등 영어 완벽 정복하는 법
 

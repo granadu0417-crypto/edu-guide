@@ -16,7 +16,7 @@ tags:
 - 장충고
 - 수학심화
 featured_image: https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop
 
 ## 중구 회현동, 고등 수학 완벽 마스터하는 법
 

@@ -16,7 +16,7 @@ tags:
 - 수학개념
 - 수학심화
 featured_image: https://images.unsplash.com/photo-1635372722656-389f87a941b7?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1635372722656-389f87a941b7?w=1200&h=630&fit=crop
 
 ## 종로구 혜화동, 중학 수학 완벽 정복하는 법
 

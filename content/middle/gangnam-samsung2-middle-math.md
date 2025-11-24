@@ -16,7 +16,7 @@ tags:
 - 수학개념
 - GBC
 featured_image: https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop
 
 ## 강남구 삼성2동, 중학 수학 완벽 정복하는 법
 

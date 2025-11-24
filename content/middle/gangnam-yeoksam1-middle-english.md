@@ -16,7 +16,7 @@ tags:
 - 영어독해
 - 역삼비즈니스
 featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop
 
 ## 강남구 역삼1동, 중학 영어 완벽 정복하는 법
 

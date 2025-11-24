@@ -16,7 +16,7 @@ tags:
 - 중앙고
 - 영어독해
 featured_image: https://images.unsplash.com/photo-1484807352052-23338990c6c6?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1484807352052-23338990c6c6?w=1200&h=630&fit=crop
 
 ## 종로구 이화동, 고등 영어 완벽 정복하는 법
 

@@ -15,9 +15,7 @@ tags:
 - 세화고
 - 영어독해
 - 수서교통요지
-featured_image: https://images.unsplash.com/photo-1513258496099-48168024aec0
-
-427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop
 ---
 
 ## 강남구 수서동, 고등 영어 완벽 정복하는 법

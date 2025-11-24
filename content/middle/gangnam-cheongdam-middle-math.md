@@ -16,7 +16,7 @@ tags:
 - 수학심화
 - 명품거리
 featured_image: https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop
 
 ## 강남구 청담동, 중학 수학 완벽 정복하는 법
 

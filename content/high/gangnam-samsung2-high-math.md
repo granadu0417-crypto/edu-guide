@@ -16,7 +16,7 @@ tags:
 - 수학심화
 - GBC
 featured_image: https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop
 
 ## 강남구 삼성2동, 고등 수학 완벽 마스터하는 법
 

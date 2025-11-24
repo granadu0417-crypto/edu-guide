@@ -16,7 +16,7 @@ tags:
 - 대진고
 - 대치동학원가
 featured_image: https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop
 
 ## 강남구 대치1동, 고등 수학 완벽 마스터하는 법
 

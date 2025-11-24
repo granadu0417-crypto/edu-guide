@@ -16,7 +16,7 @@ tags:
 - 수학심화
 - 가로수길
 featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
----
+featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
 
 ## 강남구 신사동, 중학 수학 완벽 정복하는 법
 
