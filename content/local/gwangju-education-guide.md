@@ -2,11 +2,11 @@
 title: "광주시 교육 가이드: 학원/과외/입시 완벽 정리"
 date: 2025-01-29
 categories:
+  - 지역정보
 regions:
   - 광주
 cities:
   - 광주시
-- 지역정보
 reading_time: "1217줄"
 description: "광주시의 학원, 과외, 교육 환경을 완벽 분석합니다. 전남대, GIST 과외부터 수완지구·첨단지구 학원가까지, 예술·교육 도시 광주의 맞춤 정보를 제공합니다."
 categories: ["지역"]

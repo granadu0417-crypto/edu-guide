@@ -2,11 +2,11 @@
 title: "전북도 교육 가이드: 학원/과외/입시 완벽 정리"
 date: 2025-01-29
 categories:
+  - 지역정보
 regions:
   - 전북
 cities:
   - 전북
-- 지역정보
 reading_time: "461줄"
 description: "전북도의 교육 환경을 완벽 분석합니다. 전주 학원가부터 전북대 과외, 온라인 교육 전략까지 전북 지역 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]

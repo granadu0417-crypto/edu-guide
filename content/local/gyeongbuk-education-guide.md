@@ -2,11 +2,11 @@
 title: "경북도 교육 가이드: 학원/과외/입시 완벽 정리"
 date: 2025-01-29
 categories:
+  - 지역정보
 regions:
   - 경북
 cities:
   - 경상북도
-- 지역정보
 reading_time: "485줄"
 description: "경북도의 교육 환경을 완벽 분석합니다. 포항·구미·경주 학원가부터 대구 접근성, POSTECH 과외, 온라인 교육 전략까지 경북 지역 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]

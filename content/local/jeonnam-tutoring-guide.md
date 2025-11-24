@@ -2,11 +2,11 @@
 title: "전남도 과외 가이드: 수학/영어/과학 과외 완벽 정리"
 date: 2025-01-29
 categories:
+  - 지역정보
 regions:
   - 전남
 cities:
   - 전라남도
-- 지역정보
 reading_time: "535줄"
 description: "전남도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 광주 대학생 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 categories: ["지역"]

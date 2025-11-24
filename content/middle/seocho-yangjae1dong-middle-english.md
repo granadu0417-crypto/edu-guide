@@ -2,11 +2,11 @@
 title: 서초구 양재1동 중등 영어과외 - 언남중·영동중 내신 전문
 date: 2025-01-22
 categories:
+  - 중등교육
 regions:
   - 서울
 cities:
   - 서초구
-- 중등교육
 description: 서초구 양재1동 중학생 영어과외 전문. 언남중, 영동중 내신 맞춤 관리. 문법·독해·듣기 통합 지도.
 tags:
   - yangjae1동

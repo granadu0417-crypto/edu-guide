@@ -2,11 +2,11 @@
 title: "세종 영어 과외 추천 | 초중고 영어 실력 완벽 향상 가이드"
 date: 2025-01-29
 categories:
+  - 지역정보
 regions:
   - 세종
 cities:
   - 세종시
-- 지역정보
 reading_time: "500줄"
 description: "세종 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 categories: ["지역"]

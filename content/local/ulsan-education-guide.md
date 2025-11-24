@@ -2,11 +2,11 @@
 title: "울산시 교육 가이드: 학원/과외/입시 완벽 정리"
 date: 2025-01-29
 categories:
+  - 지역정보
 regions:
   - 울산
 cities:
   - 울산시
-- 지역정보
 reading_time: "556줄"
 description: "울산시의 학원, 과외, 교육 환경을 완벽 분석합니다. 산업도시 울산의 삼산동 학원가부터 울산대·UNIST 과외, 부산 접근성까지 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]

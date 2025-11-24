@@ -2,11 +2,11 @@
 title: "부산시 교육 가이드: 학원/과외/입시 완벽 정리"
 date: 2025-01-29
 categories:
+  - 지역정보
 regions:
   - 부산
 cities:
   - 부산시
-- 지역정보
 reading_time: "485줄"
 description: "부산시의 학원, 과외, 교육 환경을 완벽 분석합니다. 부산 지역 학부모를 위한 맞춤 교육 정보를 제공합니다."
 categories: ["지역"]
