@@ -4,6 +4,10 @@ date: 2025-01-27
 reading_time: "417줄"
 description: "정릉동, 길음동, 석관동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 성북구
 tags: ["성북구", "영어과외", "정릉동", "길음동", "석관동", "영어", "과외", "고려대", "내신영어", "수능영어"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 ---

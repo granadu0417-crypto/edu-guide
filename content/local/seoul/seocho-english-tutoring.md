@@ -4,6 +4,10 @@ date: 2025-01-27
 reading_time: "374줄"
 description: "반포동, 서초동, 방배동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 서초구
 tags: ["서초구", "영어과외", "반포동", "서초동", "방배동", "영어", "과외", "영어회화", "내신영어", "수능영어"]
 featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop"
 ---

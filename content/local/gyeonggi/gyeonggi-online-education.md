@@ -4,6 +4,10 @@ date: 2025-01-29
 reading_time: "199줄"
 description: "경기도 학생들을 위한 온라인 교육 완벽 가이드입니다. 인터넷 강의, 화상 과외, AI 학습 활용법을 상세히 안내합니다."
 categories: ["지역", "경기"]
+regions:
+  - 경기
+cities:
+  - 경기도
 tags: ["경기온라인교육", "인터넷강의", "화상과외", "AI학습", "경기교육", "온라인학습"]
 featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80"
 sitemap:

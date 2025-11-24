@@ -4,6 +4,10 @@ date: 2025-01-29
 reading_time: "406줄"
 description: "송파구 지역의 과학 과외 선택부터 학습 전략까지 완벽 가이드입니다. 물리, 화학, 생명과학, 지구과학 과목별 과외 선택법과 내신/수능 대비 전략을 상세히 안내합니다."
 categories: ["지역", "서울"]
+regions:
+  - 서울
+cities:
+  - 송파구
 tags: ["송파과학과외", "과학과외", "물리과외", "화학과외", "생명과학과외", "지구과학과외", "과학내신", "송파교육"]
 featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80"
 sitemap:

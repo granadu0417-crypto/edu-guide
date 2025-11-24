@@ -4,6 +4,10 @@ date: 2025-01-28
 reading_time: "367줄"
 description: "평촌 영어과외 필수 정보 | 동안구 내신 1:1 전문, 평촌 학원가 활용, 원어민 회화, 명문대생 과외 [2025년 최신]"
 categories: ["지역정보"]
+regions:
+  - 경기
+cities:
+  - 평촌
 tags: ["평촌", "영어과외", "안양", "동안구", "평촌학원가", "범계", "인덕원", "영어", "과외", "원어민과외", "내신영어"]
 featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---

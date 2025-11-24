@@ -4,6 +4,10 @@ date: 2025-01-27
 reading_time: "391줄"
 description: "명동, 을지로, 남산, 충무로 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 서울시
 tags: ["중구", "수학과외", "명동", "을지로", "남산", "충무로", "수학", "과외", "도심교육", "내신수학", "수능수학"]
 featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
 ---

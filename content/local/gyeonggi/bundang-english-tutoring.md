@@ -4,6 +4,10 @@ date: 2025-01-28
 reading_time: "352줄"
 description: "분당 영어과외 베스트 가이드 | 8학군 내신 1:1 맞춤, 판교 원어민 수업, 수정구·분당구 전문 [2025년 최신]"
 categories: ["지역정보"]
+regions:
+  - 경기
+cities:
+  - 분당구
 tags: ["분당", "영어과외", "8학군", "판교", "수정구", "분당구", "원어민과외", "영어회화", "내신영어", "성남"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 ---

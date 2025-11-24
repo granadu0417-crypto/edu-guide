@@ -4,6 +4,10 @@ date: 2025-01-28
 reading_time: "329줄"
 description: "홍대 영어과외 완벽 가이드 | 원어민 강사 1:1 맞춤 수업, 카페 영어회화, 홍익대생 과외 추천 [2025년 최신]"
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 서울시
 tags: ["홍대", "영어과외", "원어민과외", "홍대영어", "연남동", "홍익대", "카페영어", "영어회화", "마포구"]
 featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 ---

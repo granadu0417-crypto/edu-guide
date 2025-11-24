@@ -4,6 +4,10 @@ date: 2025-01-17
 reading_time: "794줄"
 description: "경기도 주요 교육 도시(분당, 평촌, 산본, 일산, 동탄 등)의 학군 정보와 교육 인프라를 상세히 안내합니다. 지역별 특징, 학교 현황, 도서관, 교육지원센터 정보를 완벽 정리했습니다."
 categories: ["지역정보"]
+regions:
+  - 경기
+cities:
+  - 경기도
 tags: ["경기도", "분당", "평촌", "일산", "동탄", "학군", "교육환경", "신도시", "도서관"]
 featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
 ---

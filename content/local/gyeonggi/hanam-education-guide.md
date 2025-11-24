@@ -4,6 +4,10 @@ date: 2025-01-29
 reading_time: "245줄"
 description: "경기도 하남시의 학원, 과외, 교육 환경을 완벽 분석합니다. 하남 지역 학부모를 위한 맞춤 교육 정보를 제공합니다."
 categories: ["지역", "경기"]
+regions:
+  - 경기
+cities:
+  - 하남시
 tags: ["하남교육", "하남학원", "하남과외", "경기교육", "학원선택", "과외선택"]
 featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
 sitemap:

@@ -4,6 +4,10 @@ date: 2025-01-27
 reading_time: "400줄"
 description: "가산동 디지털단지, 신도림, 구로동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 서울시
 tags: ["구로구", "수학과외", "가산동", "신도림", "구로동", "수학", "과외", "디지털단지", "내신수학", "수능수학"]
 featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
 ---

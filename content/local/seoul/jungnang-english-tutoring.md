@@ -4,6 +4,10 @@ date: 2025-01-27
 reading_time: "418줄"
 description: "면목동, 망우동, 상봉동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 서울시
 tags: ["중랑구", "영어과외", "면목동", "망우동", "상봉동", "영어", "과외", "중랑천", "내신영어", "수능영어"]
 featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 ---

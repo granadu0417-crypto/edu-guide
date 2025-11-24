@@ -2,6 +2,10 @@
 title: "경북도 과외 가이드: 수학/영어/과학 과외 완벽 정리"
 date: 2025-01-29
 categories:
+regions:
+  - 경북
+cities:
+  - 경상북도
 - 지역정보
 reading_time: "575줄"
 description: "경북도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. POSTECH·경북대 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."

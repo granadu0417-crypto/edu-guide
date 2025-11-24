@@ -4,6 +4,10 @@ date: 2025-01-29
 reading_time: "326줄"
 description: "노원구 지역의 과학 과외 선택부터 학습 전략까지 완벽 가이드입니다. 합리적인 비용으로 우수한 과학 교육을 받을 수 있는 노원구 과외 시장을 상세히 안내합니다."
 categories: ["지역", "서울"]
+regions:
+  - 서울
+cities:
+  - 노원구
 tags: ["노원과학과외", "중계동과학", "과학과외", "물리과외", "화학과외", "생명과학과외", "지구과학과외", "노원교육"]
 featured_image: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?auto=format&fit=crop&q=80"
 sitemap:

@@ -4,6 +4,10 @@ date: 2025-01-27
 reading_time: "396줄"
 description: "가산동 디지털단지, 신도림, 구로동 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 서울시
 tags: ["구로구", "영어과외", "가산동", "신도림", "구로동", "영어", "과외", "영어회화", "토익", "수능영어"]
 featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---

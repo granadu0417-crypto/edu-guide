@@ -4,6 +4,10 @@ date: 2025-01-27
 reading_time: "380줄"
 description: "여의도 금융가, 당산동 학원가 중심 영등포구 영어과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 서울시
 tags: ["영등포구", "영어과외", "여의도", "당산동", "영등포동", "영어", "과외", "여의도금융가", "내신영어", "수능영어"]
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 ---

@@ -4,6 +4,10 @@ date: 2025-01-29
 reading_time: "200줄"
 description: "경기도 화성시의 영어 과외 선택부터 학습 전략까지 완벽 가이드입니다. 초중고 영어 과외 선택법과 효과적인 학습 전략을 제공합니다."
 categories: ["지역", "경기"]
+regions:
+  - 경기
+cities:
+  - 화성시
 tags: ["화성영어과외", "영어과외", "화성교육", "영어학원", "영어공부", "경기교육"]
 featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80"
 sitemap:

@@ -4,6 +4,10 @@ date: 2025-01-29
 reading_time: "202줄"
 description: "경기도 화성시의 과학 과외 선택부터 학습 전략까지 완벽 가이드입니다. 과학 과목별 과외 선택법과 효과적인 학습 전략을 제공합니다."
 categories: ["지역", "경기"]
+regions:
+  - 경기
+cities:
+  - 화성시
 tags: ["화성과학과외", "과학과외", "화성교육", "물리과외", "화학과외", "생명과학과외"]
 featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80"
 sitemap:

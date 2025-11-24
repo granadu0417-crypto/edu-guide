@@ -4,6 +4,10 @@ date: 2025-01-29
 reading_time: "609줄"
 description: "강남구 지역의 과학 과외 선택부터 학습 전략까지 완벽 가이드입니다. 물리, 화학, 생명과학, 지구과학 과목별 과외 선택법과 내신/수능 대비 전략을 상세히 안내합니다."
 categories: ["지역", "서울"]
+regions:
+  - 서울
+cities:
+  - 강남구
 tags: ["강남과학과외", "대치동과학", "과학과외", "물리과외", "화학과외", "생명과학과외", "지구과학과외", "과학내신"]
 featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80"
 sitemap:

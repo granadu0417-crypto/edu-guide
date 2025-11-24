@@ -4,6 +4,10 @@ date: 2025-01-27
 reading_time: "336줄"
 description: "한남동, 이촌동, 용산동 수학과외 선택 시 꼭 알아야 할 핵심 사항을 교육 전문가 관점에서 안내합니다."
 categories: ["지역정보"]
+regions:
+  - 서울
+cities:
+  - 서울시
 tags: ["용산구", "수학과외", "한남동", "이촌동", "용산동", "수학", "과외", "국제학교", "AP수학", "IB수학", "입시수학"]
 featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
