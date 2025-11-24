@@ -533,7 +533,6 @@ featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1
 - Wee센터
 
 **유료:**
-- 치료실: 회당 5-10만원
 
 **지원:**
 - 장애 등급 시 지원금

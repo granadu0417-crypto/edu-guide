@@ -466,8 +466,6 @@ featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1
 ### Q5. 비용이 얼마나 드나요?
 
 **대회 참가비:**
-- 대부분 무료 ~ 3만원
-- AMC: 약 5만원
 
 **준비 비용:**
 - 교재: 5-10만원
