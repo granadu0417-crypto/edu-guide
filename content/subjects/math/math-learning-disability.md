@@ -533,7 +533,6 @@ featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1
 - Wee센터
 
 **유료:**
-- 1:1 과외: 월 50-100만원
 - 치료실: 회당 5-10만원
 
 **지원:**

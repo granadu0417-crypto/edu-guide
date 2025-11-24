@@ -155,7 +155,6 @@ featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1
 - 과제 30분
 
 **비용:**
-- 시간당 3-5만원
 
 ### 중학생
 
@@ -175,7 +174,6 @@ featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1
 - 과제 1-2시간
 
 **비용:**
-- 시간당 4-6만원
 
 ### 고등학생
 
@@ -196,7 +194,6 @@ featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1
 - 과제 3-4시간
 
 **비용:**
-- 시간당 5-8만원
 
 ### 재수생
 
@@ -217,7 +214,6 @@ featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1
 - 과제 5-6시간
 
 **비용:**
-- 시간당 6-10만원
 
 ## 효과적인 과외 활용법
 

@@ -114,7 +114,6 @@ featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1
 **메가스터디:**
 - **강사**: 현우진, 양승진, 이미지
 - **장점**: 최고 강사진
-- **단점**: 비용 (월 10-15만원)
 - **추천**: 고3 수능
 
 **대성마이맥:**
@@ -124,7 +123,6 @@ featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1
 - **추천**: 개념 완성
 
 **EBS 프리미엄:**
-- **비용**: 월 3만원 (가성비!)
 - **장점**: 저렴, 수능 연계
 - **단점**: 고난도 부족
 
@@ -251,7 +249,6 @@ featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1
 - 수학 게임 앱
 - 유튜브 (재미)
 
-**비용:** 월 2-3만원
 
 ### 중학생
 
@@ -265,7 +262,6 @@ featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1
 - 블랙라벨 (실력자)
 - 유료 인강 (필요시)
 
-**비용:** 월 5-10만원
 
 ### 고등학생
 
@@ -279,7 +275,6 @@ featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1
 - N제 (여러 출판사)
 - 유료 인강
 
-**비용:** 월 10-20만원
 
 ## 효과적인 활용법
 
@@ -345,7 +340,6 @@ featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1
 - 오르비 자료
 - 학교 기출
 
-**절감:** 월 10만원 → 2만원
 
 ### 중고 거래
 
@@ -385,7 +379,6 @@ featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1
 - 필수 교재만 구입
 - 유료 인강 1-2과목
 
-**절감:** 월 20만원 → 5만원
 
 ## 1:1 과외 교재
 
