@@ -16,7 +16,6 @@ tags:
 - 영어독해
 - 도곡타워팰리스
 featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
 
 ## 강남구 도곡2동, 중학 영어 완벽 정복하는 법
 

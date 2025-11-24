@@ -16,7 +16,6 @@ tags:
 - 영어독해
 - 세곡자연환경
 featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
 
 ## 강남구 세곡동, 중학 영어 완벽 정복하는 법
 

@@ -16,7 +16,6 @@ tags:
 - 영어문법
 - 영어독해
 featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 
 ## 종로구 무악동, 우리 아이 영어 실력 제대로 키우는 법
 

@@ -16,7 +16,6 @@ tags:
 - 영어독해
 - 강남역
 featured_image: https://images.unsplash.com/photo-1516397281156-ca07cf9746fc?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1516397281156-ca07cf9746fc?w=1200&h=630&fit=crop
 
 ## 강남구 논현1동, 중학 영어 완벽 정복하는 법
 

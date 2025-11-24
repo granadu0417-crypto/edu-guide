@@ -16,7 +16,6 @@ tags:
 - 중앙고
 - 수학심화
 featured_image: https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop
 
 ## 종로구 가회동, 고등 수학 완벽 마스터하는 법
 

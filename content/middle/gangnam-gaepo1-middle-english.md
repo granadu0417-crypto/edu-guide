@@ -16,7 +16,6 @@ tags:
 - 영어독해
 - 개포주거단지
 featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
 
 ## 강남구 개포1동, 중학 영어 완벽 정복하는 법
 

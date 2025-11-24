@@ -16,7 +16,6 @@ tags:
 - 수학심화
 - 역삼비즈니스
 featured_image: https://images.unsplash.com/photo-1551817958-20c93da010d?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1551817958-20c93da010d?w=1200&h=630&fit=crop
 
 ## 강남구 역삼1동, 고등 수학 완벽 마스터하는 법
 

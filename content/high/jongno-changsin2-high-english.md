@@ -17,7 +17,6 @@ tags:
 - 중앙고
 - 영어독해
 featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
 
 ## 종로구 창신2동, 고등 영어 완벽 정복하는 법
 

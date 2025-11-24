@@ -16,7 +16,6 @@ tags:
 - 수학심화
 - 역삼IT금융
 featured_image: https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop
 
 ## 강남구 역삼2동, 중학 수학 완벽 정복하는 법
 

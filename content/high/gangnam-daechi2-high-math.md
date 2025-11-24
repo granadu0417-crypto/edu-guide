@@ -17,7 +17,6 @@ tags:
 - 수학심화
 - 대치동타워팰리스
 featured_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop
 
 ## 강남구 대치2동, 고등 수학 완벽 마스터하는 법
 

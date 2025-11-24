@@ -17,7 +17,6 @@ tags:
 - 영어독해
 - 대치동타워팰리스
 featured_image: https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop
 
 ## 강남구 대치2동, 고등 영어 완벽 정복하는 법
 

@@ -16,7 +16,6 @@ tags:
 - 영어독해
 - 학동역
 featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
 
 ## 강남구 논현2동, 고등 영어 완벽 정복하는 법
 

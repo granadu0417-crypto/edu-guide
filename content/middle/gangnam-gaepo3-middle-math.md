@@ -16,7 +16,6 @@ tags:
 - 수학심화
 - 개포주거단지
 featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
 
 ## 강남구 개포3동, 중학 수학 완벽 정복하는 법
 

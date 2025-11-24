@@ -16,7 +16,6 @@ tags:
 - 수학심화
 - 학동역
 featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
 
 ## 강남구 논현2동, 고등 수학 완벽 마스터하는 법
 

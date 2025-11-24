@@ -17,7 +17,6 @@ tags:
 - 수학심화
 - 개포주거단지
 featured_image: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop
 
 ## 강남구 개포4동, 고등 수학 완벽 마스터하는 법
 

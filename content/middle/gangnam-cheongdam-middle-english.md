@@ -16,7 +16,6 @@ tags:
 - 영어독해
 - 명품거리
 featured_image: https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?w=1200&h=630&fit=crop
-featured_image: https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?w=1200&h=630&fit=crop
 
 ## 강남구 청담동, 중학 영어 완벽 정복하는 법
 
