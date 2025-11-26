@@ -66,6 +66,12 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 
 정확한 문법과 철자가 필수입니다.
 
+<div style="background-color: #f8f9fa; padding: 18px; border-left: 3px solid #6c757d; margin: 15px 0; font-size: 0.95em;">
+
+이렇게 문법,어휘,독해,서술형 영역 모두 중요하기 때문에 저희 과외를부탁해 상상코칭은 1:1 영어과외를 진행할 때 수업시간을 보통 주2회 90분~120분 정도 진행하며, 필요시 주3회도 가능합니다. 각 학생마다 부족한 영역이 개인별로 다르기 때문에 학생의 레벨에 따라 학습 우선순위를 정해서 1:1 맞춤 과외 커리큘럼을 구성하고 있습니다.
+
+</div>
+
 ## 📚 덕수중·장원중·대경중 학교별 영어 특징
 
 ### 덕수중학교
@@ -94,6 +100,13 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 실생활 영어 활용
 
 **대비 전략:** 기본을 충실히 하고, 응용력과 창의성을 함께 기르는 것이 중요합니다.
+
+<div style="background-color: #f8f9fa; padding: 18px; border-left: 3px solid #6c757d; margin: 15px 0; font-size: 0.95em;">
+
+저희 과외를부탁해 1:1전문과외선생님들은 덕수중,장원중,대경중 내신을 꼼꼼히 대비하여 수행평가까지 관리가 가능합니다.
+학교별 시험기간과 시험범위 등을 철저히 분석하여 시험대비 4주 플랜 (과목 우선순위 + 집중 복습 + 실전 연습 + 마무리학습) 관리합니다.
+
+</div>
 
 {{< cta-dual type="middle" >}}
 
@@ -134,6 +147,12 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 
 꾸준한 훈련으로 듣기 만점을 목표합니다.
 
+<div style="background-color: #f8f9fa; padding: 18px; border-left: 3px solid #6c757d; margin: 15px 0; font-size: 0.95em;">
+
+과외를부탁해 상상코칭 1:1전문과외는 대학생 알바 선생님이 아닙니다. 대학교, 대학원 졸업 후 1:1과외 수업을 본업으로 하고 있는 전문과외 교사이며 교육청에서 정식으로 과외교습자 승인받은 전문선생님입니다. 각 선생님들은 평균 5년 이상 경력 및 10명~15명 이상의 학생들 담당하고 있는 실전 경험 많은 베테랑교사이기 때문에 축적한 노하우를 바탕으로 학생의 학습성향과 레벨을 빠르게 파악하고, 아이에게 딱 맞는 최적화된 맞춤형 커리큘럼을 제공할 수 있습니다. 검증된 전문교사와 함께라면, 아이들도 자신감을 얻고 효율적인 학습 전략을 얻을 수 있습니다.
+
+</div>
+
 ## 🔥 효과적인 중등 영어 학습법
 
 ### 1단계: 문법 개념 확실히
@@ -143,7 +162,11 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 예문 직접 만들어보기
 - 개념 노트 작성
 
-공식만 외우지 말고 **왜 그런지** 이해하세요.
+<div style="background-color: #f8f9fa; padding: 18px; border-left: 3px solid #6c757d; margin: 15px 0; font-size: 0.95em;">
+
+**[이렇게 수업합니다]** 문법은 반복학습이 핵심입니다. 한 번 배운다고 모두 체득되지 않기 때문에 [기본문법 정리 -> 심화 문법 -> 적용 연습] 순으로 단계적으로 반복지도하며 학생이 점진적으로 이해하고 활용할 수 있도록 합니다.
+
+</div>
 
 ### 2단계: 어휘 매일 암기
 어휘는 **꾸준함**이 답입니다.
@@ -152,7 +175,11 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 주기적 복습 (1일, 3일, 7일)
 - 어휘 노트 활용
 
-매일 조금씩, 그러나 반드시!
+<div style="background-color: #f8f9fa; padding: 18px; border-left: 3px solid #6c757d; margin: 15px 0; font-size: 0.95em;">
+
+**[이렇게 수업합니다]** 단어는 매일 조금씩이라도 꾸준히 암기해야하기 때문에 선생님들이 학습 플래너를 기본적으로 관리하여 하루 어휘 암기량 밀착관리합니다. 학생 레벨과 이해도에 따라 암기량과 방법을 조절하며, 학생 개별 목표 달성할 수 있도록 합니다. 한 번 외운다고 끝나는 것이 아니라, 반복 학습을 통해 장기 기억으로 자리잡도록 합니다. 다의어,동의어 묶어 기억하도록 연상 연결 학습을 통해 암기 효율을 높입니다.
+
+</div>
 
 ### 3단계: 본문 완벽 숙지
 교과서 본문은 **시험의 핵심**입니다.
@@ -161,7 +188,11 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 문법 사항 체크
 - 변형 문제 대비
 
-본문을 완전히 내 것으로 만드세요.
+<div style="background-color: #f8f9fa; padding: 18px; border-left: 3px solid #6c757d; margin: 15px 0; font-size: 0.95em;">
+
+**[이렇게 수업합니다]** 중등영어내신은 사실상 본문 복습을 얼마나 했는가에서 갈립니다. 본문 이해 -> 핵심 문장 구조 분석 -> 관련 문제 풀이 순으로 단계별 반복학습하여 내신 서술형 및 빈칸문제에 바로 적용할 수 있도록 합니다.
+
+</div>
 
 ### 4단계: 독해 매일 하기
 독해 실력은 **많이 읽을수록** 늡니다.
@@ -170,7 +201,11 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 문장 구조 파악
 - 요약 연습
 
-꾸준히 읽는 것이 최고의 방법입니다.
+<div style="background-color: #f8f9fa; padding: 18px; border-left: 3px solid #6c757d; margin: 15px 0; font-size: 0.95em;">
+
+**[이렇게 수업합니다]** 독해가 약한 학생 대부분은 단어가 아니라 문장 구조 이해가 약합니다. 구문 분석 및 문장 성분 파악하여 기본기를 탄탄히 하고 있습니다.
+
+</div>
 
 ### 5단계: 서술형 대비
 서술형은 **변별력**을 결정합니다.
@@ -179,7 +214,11 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 철자 정확히
 - 깔끔한 필체
 
-부분 점수라도 놓치지 마세요.
+<div style="background-color: #f8f9fa; padding: 18px; border-left: 3px solid #6c757d; margin: 15px 0; font-size: 0.95em;">
+
+**[이렇게 수업합니다]** 서술형 평가는 단순히 단어를 나열하는 것이 아니라, 문장 구조와 문법, 어휘를 정확하게 활용하여 의미 있는 문장을 만드는 능력입니다. 내신 서술형에서 자주 등장하는 문장 패턴을 정리하여 변형하여 영작해보는 훈련을 합니다.
+
+</div>
 
 ## 📖 광희동 중학생 영어, 학년별 학습 전략
 
