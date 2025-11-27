@@ -171,47 +171,41 @@
 </style>
 
 {{- else if eq $type "final" -}}
-{{- /* 글 하단 최종 CTA */ -}}
+{{- /* 글 하단 최종 CTA - 중간 CTA와 동일한 디자인 */ -}}
 <div class="cta-dual-final">
   <div class="dual-final-box">
-    <h3>🎓 지금 바로 1:1 무료 체험수업 신청하세요!</h3>
-    <p class="dual-final-desc">우리 아이와 잘 맞는 1:1맞춤 선생님과 체험수업 받아보시고 결정하세요!</p>
-    
+    <div class="dual-final-icon">🎓</div>
+    <div class="dual-final-content">
+      <h3>지금 바로 1:1 무료 체험수업 신청하세요!</h3>
+      <p>우리 아이와 잘 맞는 1:1맞춤 선생님과 체험수업 받아보시고 결정하세요!</p>
+      <div class="dual-final-features">
+        <span class="feature-item">✅ 완전 무료</span>
+        <span class="feature-item">⚡ 빠른 답변</span>
+      </div>
+    </div>
     <div class="dual-final-buttons">
       <a href="{{ $kakaoUrl }}"
          target="_blank"
          rel="noopener noreferrer"
-         class="dual-btn-final-kakao"
+         class="dual-btn-kakao"
          onclick="gtag('event', 'click_consultation', {
            'event_category': 'engagement',
            'event_label': 'consultation_final_kakao',
            'value': 1
          });">
-        💬 카카오톡 상담하기
+        💬 카카오톡 상담
       </a>
-      
       <a href="{{ $naverFormUrl }}"
          target="_blank"
          rel="noopener noreferrer"
-         class="dual-btn-final-trial"
+         class="dual-btn-trial"
          onclick="gtag('event', 'click_trial', {
            'event_category': 'engagement',
            'event_label': 'trial_final_naver',
            'value': 1
          });">
-        ✨ 무료체험 신청하기
+        ✨ 무료체험 신청
       </a>
-    </div>
-    
-    <div class="dual-final-features">
-      <div class="feature-item">
-        <span class="feature-icon">✅</span>
-        <span class="feature-text">완전 무료</span>
-      </div>
-      <div class="feature-item">
-        <span class="feature-icon">⚡</span>
-        <span class="feature-text">빠른 답변</span>
-      </div>
     </div>
   </div>
 </div>
@@ -222,143 +216,103 @@
 }
 
 .dual-final-box {
-  text-align: center;
-  padding: 52px 40px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-radius: 20px;
-  box-shadow: 0 16px 48px rgba(102, 126, 234, 0.3);
-}
-
-.dual-final-box h3 {
-  color: white;
-  font-size: 28px;
-  font-weight: 800;
-  margin: 0 0 12px;
-  line-height: 1.4;
-}
-
-.dual-final-desc {
-  color: rgba(255, 255, 255, 0.9);
-  font-size: 16px;
-  margin: 0 0 32px;
-  font-weight: 500;
-  line-height: 1.6;
-}
-
-.dual-final-buttons {
   display: flex;
-  justify-content: center;
-  gap: 16px;
-  margin-bottom: 32px;
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+  padding: 28px 32px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-radius: 16px;
+  border: 2px solid #e9ecef;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
 
-.dual-btn-final-kakao,
-.dual-btn-final-trial {
-  padding: 18px 40px;
-  text-decoration: none;
-  border-radius: 50px;
-  font-weight: 800;
-  font-size: 18px;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  display: inline-block;
+.dual-final-icon {
+  font-size: 42px;
+  flex-shrink: 0;
 }
 
-.dual-btn-final-kakao {
-  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
-  color: #3C1E1E;
-  box-shadow: 0 8px 24px rgba(254, 229, 0, 0.4);
+.dual-final-content {
+  flex: 1;
 }
 
-.dual-btn-final-kakao:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 32px rgba(254, 229, 0, 0.5);
+.dual-final-content h3 {
+  margin: 0 0 6px;
+  font-size: 19px;
+  font-weight: 700;
+  color: #212529;
 }
 
-.dual-btn-final-trial {
-  background: white;
-  color: #667eea;
-  box-shadow: 0 8px 24px rgba(255, 255, 255, 0.3);
-}
-
-.dual-btn-final-trial:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 32px rgba(255, 255, 255, 0.5);
+.dual-final-content p {
+  margin: 0 0 8px;
+  font-size: 14px;
+  color: #6c757d;
 }
 
 .dual-final-features {
   display: flex;
-  justify-content: center;
-  gap: 28px;
+  gap: 16px;
   flex-wrap: wrap;
 }
 
-.feature-item {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  color: rgba(255, 255, 255, 0.95);
-  font-size: 15px;
+.dual-final-features .feature-item {
+  font-size: 13px;
+  color: #495057;
   font-weight: 600;
 }
 
-.feature-icon {
-  font-size: 18px;
+.dual-final-buttons {
+  display: flex;
+  gap: 12px;
+  flex-shrink: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   .dual-final-box {
-    padding: 40px 28px;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
   }
-  
-  .dual-final-box h3 {
-    font-size: 24px;
+
+  .dual-final-icon {
+    width: 100%;
   }
-  
-  .dual-final-desc {
-    font-size: 15px;
+
+  .dual-final-features {
+    justify-content: center;
   }
-  
+
+  .dual-final-buttons {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .dual-final-box {
+    padding: 24px 20px;
+  }
+
+  .dual-final-icon {
+    font-size: 36px;
+  }
+
+  .dual-final-content h3 {
+    font-size: 17px;
+  }
+
+  .dual-final-content p {
+    font-size: 13px;
+  }
+
   .dual-final-buttons {
     flex-direction: column;
-    align-items: center;
-    gap: 12px;
-  }
-  
-  .dual-btn-final-kakao,
-  .dual-btn-final-trial {
     width: 100%;
-    max-width: 300px;
-    padding: 16px 32px;
-    font-size: 16px;
   }
-  
-  .dual-final-features {
-    gap: 20px;
-  }
-}
 
-@media (max-width: 480px) {
-  .dual-final-box {
-    padding: 32px 20px;
-    border-radius: 16px;
-  }
-  
-  .dual-final-box h3 {
-    font-size: 20px;
-  }
-  
-  .dual-final-desc {
-    font-size: 14px;
-  }
-  
-  .dual-btn-final-kakao,
-  .dual-btn-final-trial {
-    padding: 14px 28px;
-    font-size: 15px;
-  }
-  
-  .feature-item {
+  .dual-btn-kakao,
+  .dual-btn-trial {
+    width: 100%;
+    padding: 14px 20px;
     font-size: 14px;
   }
 }
