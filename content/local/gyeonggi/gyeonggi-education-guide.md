@@ -1,25 +1,15 @@
 ---
-title: 경기도 주요 지역 교육 환경 가이드 - 학군과 교육 인프라 총정리 상세 안내 - 체계적인 접근법과 실전 팁
+title: "경기도 교육 환경 총정리 | 분당·평촌·일산 학군 비교"
 date: 2025-01-17
-description: 우리 동네 교육 환경 분석 가이드입니다. 지역 특성에 맞는 학습 전략과 교육 인프라 활용으로 최고의 학습 효과를 만드세요 지역별
-  교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다. 단계별로 자세하게 안내드립니다 지역별 교육 환경과 학원 정보를 바탕으로 최적의
-  학습 환경을 찾아드립니다.
-categories:
-- 지역정보
-tags:
-- 경기도
-- 분당
-- 평촌
-- 일산
-- 동탄
-- 학군
-- 교육환경
-- 신도시
-- 도서관,
-- 강남
-- 강동
-- 강북
-featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop
+reading_time: "794줄"
+description: "경기도 주요 교육 도시(분당, 평촌, 산본, 일산, 동탄 등)의 학군 정보와 교육 인프라를 상세히 안내합니다. 지역별 특징, 학교 현황, 도서관, 교육지원센터 정보를 완벽 정리했습니다."
+categories: ["지역정보"]
+regions:
+  - 경기
+cities:
+  - 경기도
+tags: ["경기도", "분당", "평촌", "일산", "동탄", "학군", "교육환경", "신도시", "도서관"]
+featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
 ---
 
 경기도는 서울 인접 지역을 중심으로 우수한 교육 환경을 갖춘 도시들이 많습니다. 1기 신도시부터 3기 신도시까지, 각 지역의 특성과 교육 인프라를 상세히 살펴보겠습니다.
@@ -807,12 +797,3 @@ featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1
 - 성적보다 인성과 행복이 우선
 
 여러분 가정에 맞는 최선의 교육 환경을 찾아 행복한 학습 생활을 만들어가시기 바랍니다!
-
-## 📚 관련 가이드
-
-- [서울 강남지역 교육 환경 완벽 가이드 - 학군과 교육 인프라 총정리](/local/seoul/seoul-gangnam-education/)
-- [초등 방과후학교·돌봄교실 완벽 가이드 - 프로그램과 신청 방법](/local/after-school-program-guide/)
-- [교육지원청·Wee센터 완벽 활용 가이드 - 무료 상담과 지원 서비스](/local/education-support-center-guide/)
-- [교육복지 지원 제도 총정리 - 저소득층 학생 무료 지원 혜택](/local/education-welfare-support-guide/)
-- [무료 온라인 교육 플랫폼 완벽 가이드 - EBS·e학습터·위두랑 활용법](/local/online-education-platform-guide/)
-

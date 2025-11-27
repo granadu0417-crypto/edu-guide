@@ -143,6 +143,7 @@ title = "과외를부탁해"
   tag = "tags"
   grade = "grades"
   region = "regions"
+  city = "cities"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

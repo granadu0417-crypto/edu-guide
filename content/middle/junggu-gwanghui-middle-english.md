@@ -66,11 +66,6 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 
 정확한 문법과 철자가 필수입니다.
 
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-주 2회 90~120분 수업으로 문법·독해·서술형을 체계적으로 훈련합니다. 학생 개인별 취약점을 파악하여 맞춤형 커리큘럼을 제공합니다.
-</div>
-
 ## 📚 덕수중·장원중·대경중 학교별 영어 특징
 
 ### 덕수중학교
@@ -99,11 +94,6 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 실생활 영어 활용
 
 **대비 전략:** 기본을 충실히 하고, 응용력과 창의성을 함께 기르는 것이 중요합니다.
-
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>체계적인 내신 관리</strong><br>
-시험 4주 전부터 단계별 학습 플랜을 제공합니다. 본문 암기 → 문법 정리 → 문제 풀이 → 최종 점검까지 빈틈없이 관리합니다.
-</div>
 
 {{< cta-dual type="middle" >}}
 
@@ -144,11 +134,6 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 
 꾸준한 훈련으로 듣기 만점을 목표합니다.
 
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>전문 교사가 함께합니다</strong><br>
-중등 영어 지도 경력 5년 이상의 전문 교사가 학생 개인별 수준과 목표에 맞춰 1:1 맞춤 수업을 진행합니다.
-</div>
-
 ## 🔥 효과적인 중등 영어 학습법
 
 ### 1단계: 문법 개념 확실히
@@ -160,11 +145,6 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 
 공식만 외우지 말고 **왜 그런지** 이해하세요.
 
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-반복 학습이 핵심입니다. 같은 문법을 3회 이상 다른 방식으로 접근하여 완벽히 체화시킵니다.
-</div>
-
 ### 2단계: 어휘 매일 암기
 어휘는 **꾸준함**이 답입니다.
 - 하루 20개씩 꾸준히
@@ -173,11 +153,6 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 어휘 노트 활용
 
 매일 조금씩, 그러나 반드시!
-
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-플래너 밀착 관리로 매일 어휘 암기량을 체크합니다. 망각 곡선에 따른 복습 스케줄을 제공합니다.
-</div>
 
 ### 3단계: 본문 완벽 숙지
 교과서 본문은 **시험의 핵심**입니다.
@@ -188,11 +163,6 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 
 본문을 완전히 내 것으로 만드세요.
 
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-단계별 반복 학습으로 본문을 완벽히 숙지합니다. 해석 → 암기 → 변형 → 적용 순서로 진행합니다.
-</div>
-
 ### 4단계: 독해 매일 하기
 독해 실력은 **많이 읽을수록** 늡니다.
 - 매일 지문 2~3개
@@ -202,11 +172,6 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 
 꾸준히 읽는 것이 최고의 방법입니다.
 
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-구문 분석 기본기를 탄탄히 다집니다. 주어·동사 찾기부터 복문 분석까지 체계적으로 훈련합니다.
-</div>
-
 ### 5단계: 서술형 대비
 서술형은 **변별력**을 결정합니다.
 - 영작 연습 (한→영)
@@ -215,11 +180,6 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 - 깔끔한 필체
 
 부분 점수라도 놓치지 마세요.
-
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-문장 패턴 훈련으로 영작 실력을 키웁니다. 자주 출제되는 문형을 반복 연습하여 실수를 최소화합니다.
-</div>
 
 ## 📖 광희동 중학생 영어, 학년별 학습 전략
 
