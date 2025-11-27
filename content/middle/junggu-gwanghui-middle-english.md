@@ -67,7 +67,7 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 정확한 문법과 철자가 필수입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다</strong><br>
+<strong>이렇게 수업합니다!</strong><br>
 주 2회 90~120분 수업으로 문법·독해·서술형을 체계적으로 훈련합니다. 학생 개인별 취약점을 파악하여 맞춤형 커리큘럼을 제공합니다.
 </div>
 
@@ -161,7 +161,7 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 공식만 외우지 말고 **왜 그런지** 이해하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다</strong><br>
+<strong>이렇게 수업합니다!</strong><br>
 반복 학습이 핵심입니다. 같은 문법을 3회 이상 다른 방식으로 접근하여 완벽히 체화시킵니다.
 </div>
 
@@ -175,7 +175,7 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 매일 조금씩, 그러나 반드시!
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다</strong><br>
+<strong>이렇게 수업합니다!</strong><br>
 플래너 밀착 관리로 매일 어휘 암기량을 체크합니다. 망각 곡선에 따른 복습 스케줄을 제공합니다.
 </div>
 
@@ -189,7 +189,7 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 본문을 완전히 내 것으로 만드세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다</strong><br>
+<strong>이렇게 수업합니다!</strong><br>
 단계별 반복 학습으로 본문을 완벽히 숙지합니다. 해석 → 암기 → 변형 → 적용 순서로 진행합니다.
 </div>
 
@@ -203,7 +203,7 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 꾸준히 읽는 것이 최고의 방법입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다</strong><br>
+<strong>이렇게 수업합니다!</strong><br>
 구문 분석 기본기를 탄탄히 다집니다. 주어·동사 찾기부터 복문 분석까지 체계적으로 훈련합니다.
 </div>
 
@@ -217,7 +217,7 @@ featured_image: https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=1
 부분 점수라도 놓치지 마세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다</strong><br>
+<strong>이렇게 수업합니다!</strong><br>
 문장 패턴 훈련으로 영작 실력을 키웁니다. 자주 출제되는 문형을 반복 연습하여 실수를 최소화합니다.
 </div>
 
