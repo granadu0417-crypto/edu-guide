@@ -168,8 +168,6 @@ featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1
 수능까지 함께 달립니다! 모의고사 분석, 취약 유형 집중 공략으로 목표 등급 달성을 도와드립니다.
 </div>
 
-{{< cta-dual type="inline" >}}
-
 ## 중구 주요 학교별 수학 내신 전략
 
 ### 중학교
