@@ -233,6 +233,8 @@ featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1
 무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 아이 성향과 현재 실력을 파악한 후 맞춤 커리큘럼을 제안해 드립니다.
 </div>
 
+{{< cta-dual type="final" >}}
+
 ## 수학 실력, 이렇게 올리세요
 
 ### 성적이 오르는 공부 습관
@@ -298,8 +300,6 @@ featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1
 - 2개월: 학습 습관 형성기
 - 3개월: 성적 변화 시작
 - 3개월 후에도 변화 없으면 원인 분석 필요
-
-{{< cta-dual type="final" >}}
 
 ## 마치며
 
