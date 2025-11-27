@@ -354,5 +354,119 @@ EBS연계분석, 수능특강, 수능완성, 막판스퍼트,
 
 ---
 
+## 📦 콘텐츠 인벤토리 (전체 보유 파일 목록)
+
+### 전체 통계
+
+| 폴더 | 파일 개수 | 설명 |
+|------|----------|------|
+| consultation | 70개 | 상담 관련 |
+| elementary | 47개 | 초등학생 과외 |
+| exam | 71개 | 시험 대비 |
+| high | 53개 | 고등학생 과외 |
+| local | 66개 | 지역별 정보 |
+| middle | 54개 | 중학생 과외 |
+| subjects | 357개 | 과목별 정보 |
+| tutoring | 287개 | 과외/학원 가이드 |
+| **총계** | **1,005개** | |
+
+### 서울 지역 파일 목록 (local/seoul/) - 54개
+
+#### 서울 25개 구별 과외 페이지
+
+| 구 | 영어과외 | 수학과외 | 리라이팅 상태 |
+|---|---------|---------|--------------|
+| 강남구 | gangnam-english-tutoring.md | gangnam-math-tutoring.md | ⬜ 대기 |
+| 강동구 | gangdong-english-tutoring.md | gangdong-math-tutoring.md | ⬜ 대기 |
+| 강북구 | gangbuk-english-tutoring.md | gangbuk-math-tutoring.md | ⬜ 대기 |
+| 강서구 | gangseo-english-tutoring.md | gangseo-math-tutoring.md | ⬜ 대기 |
+| 관악구 | gwanak-english-tutoring.md | gwanak-math-tutoring.md | ⬜ 대기 |
+| 광진구 | gwangjin-english-tutoring.md | gwangjin-math-tutoring.md | ⬜ 대기 |
+| 구로구 | guro-english-tutoring.md | guro-math-tutoring.md | ⬜ 대기 |
+| 금천구 | geumcheon-english-tutoring.md | geumcheon-math-tutoring.md | ⬜ 대기 |
+| 노원구 | nowon-english-tutoring.md | nowon-math-tutoring.md | ⬜ 대기 |
+| 도봉구 | dobong-english-tutoring.md | dobong-math-tutoring.md | ⬜ 대기 |
+| 동대문구 | dongdaemun-english-tutoring.md | dongdaemun-math-tutoring.md | ⬜ 대기 |
+| 동작구 | dongjak-english-tutoring.md | dongjak-math-tutoring.md | ⬜ 대기 |
+| 마포구 | mapo-english-tutoring.md | mapo-math-tutoring.md | ⬜ 대기 |
+| 서대문구 | seodaemun-english-tutoring.md | seodaemun-math-tutoring.md | ⬜ 대기 |
+| 서초구 | seocho-english-tutoring.md | seocho-math-tutoring.md | ⬜ 대기 |
+| 성동구 | seongdong-english-tutoring.md | seongdong-math-tutoring.md | ⬜ 대기 |
+| 성북구 | seongbuk-english-tutoring.md | seongbuk-math-tutoring.md | ⬜ 대기 |
+| 송파구 | songpa-english-tutoring.md | songpa-math-tutoring.md | ⬜ 대기 |
+| 양천구 | yangcheon-english-tutoring.md | yangcheon-math-tutoring.md | ⬜ 대기 |
+| 영등포구 | yeongdeungpo-english-tutoring.md | yeongdeungpo-math-tutoring.md | ⬜ 대기 |
+| 용산구 | yongsan-english-tutoring.md | yongsan-math-tutoring.md | ⬜ 대기 |
+| 은평구 | eunpyeong-english-tutoring.md | eunpyeong-math-tutoring.md | ⬜ 대기 |
+| 종로구 | jongno-english-tutoring.md | jongno-math-tutoring.md | ⬜ 대기 |
+| **중구** | **jung-english-tutoring.md** | **jung-math-tutoring.md** | ✅ 완료 |
+| 중랑구 | jungnang-english-tutoring.md | jungnang-math-tutoring.md | ⬜ 대기 |
+
+#### 기타 서울 파일
+- _index.md (서울 지역 인덱스)
+- seoul-gangnam-education.md
+- gangnam-math-tutoring-REWRITE.md (임시)
+- gangnam-math-tutoring-REWRITE-V2.md (임시)
+
+### 리라이팅 진행 상황
+
+| 상태 | 개수 | 비고 |
+|------|-----|------|
+| ✅ 완료 | 2개 | jung-math, jung-english |
+| ⬜ 대기 | 48개 | 서울 나머지 구 |
+| 📝 작업중 | 0개 | |
+
+### 리라이팅 우선순위 (권장)
+
+1. **서울 주요 구** (검색량 많음)
+   - 강남구, 서초구, 송파구, 노원구, 마포구
+
+2. **서울 기타 구**
+   - 나머지 구들
+
+3. **경기도** (local/gyeonggi/)
+
+4. **학년별 폴더**
+   - middle/, high/, elementary/
+
+---
+
+## 🔄 브랜치/세션 변경 시 체크리스트
+
+세션이나 브랜치가 변경되면 아래를 확인:
+
+### 1. 현재 브랜치 확인
+```bash
+git branch --show-current
+git status
+```
+
+### 2. 커밋 안 된 변경사항 확인
+```bash
+git status --short
+```
+
+### 3. 최근 커밋 확인
+```bash
+git log --oneline -5
+```
+
+### 4. 파일 개수 확인
+```bash
+find content -name "*.md" | wc -l
+# 예상: 1,005개
+```
+
+### 5. 리라이팅 완료 파일 확인
+```bash
+# 중구 수학과외 (완료)
+head -5 content/local/seoul/jung-math-tutoring.md
+
+# 중구 영어과외 (완료)
+head -5 content/local/seoul/jung-english-tutoring.md
+```
+
+---
+
 *마지막 업데이트: 2025-11-27*
 *작성: Claude Code*
