@@ -376,7 +376,7 @@ EBS연계분석, 수능특강, 수능완성, 막판스퍼트,
 
 | 구 | 영어과외 | 수학과외 | 리라이팅 상태 |
 |---|---------|---------|--------------|
-| **강남구** | **gangnam-english-tutoring.md** | gangnam-math-tutoring.md | ✅ 영어 완료 |
+| **강남구** | **gangnam-english-tutoring.md** | **gangnam-math-tutoring.md** | ✅ 완료 |
 | 강동구 | gangdong-english-tutoring.md | gangdong-math-tutoring.md | ⬜ 대기 |
 | 강북구 | gangbuk-english-tutoring.md | gangbuk-math-tutoring.md | ⬜ 대기 |
 | 강서구 | gangseo-english-tutoring.md | gangseo-math-tutoring.md | ⬜ 대기 |
@@ -412,8 +412,8 @@ EBS연계분석, 수능특강, 수능완성, 막판스퍼트,
 
 | 상태 | 개수 | 비고 |
 |------|-----|------|
-| ✅ 완료 | 3개 | jung-math, jung-english, gangnam-english |
-| ⬜ 대기 | 47개 | 서울 나머지 구 |
+| ✅ 완료 | 4개 | jung-math, jung-english, gangnam-english, gangnam-math |
+| ⬜ 대기 | 46개 | 서울 나머지 구 |
 | 📝 작업중 | 0개 | |
 
 ### 리라이팅 우선순위 (권장)
