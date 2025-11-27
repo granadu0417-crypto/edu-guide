@@ -449,6 +449,77 @@ EBS연계분석, 수능특강, 수능완성, 막판스퍼트,
 
 ---
 
+## 🌿 브랜치 관리 (중요!)
+
+### 공식 작업 브랜치
+
+```
+claude/complete-website-updates-01PXvBgZzgopxNYPKybfuuvZ
+```
+
+**⚠️ 이 브랜치에만 작업하세요!**
+
+2025-11-27에 모든 콘텐츠가 이 브랜치로 통합되었습니다.
+다른 브랜치에서 작업하면 파일이 누락될 수 있습니다.
+
+### 세션 시작 시 필수 확인사항
+
+**1단계: 현재 브랜치 확인**
+```bash
+git branch --show-current
+```
+
+정답: `claude/complete-website-updates-01PXvBgZzgopxNYPKybfuuvZ`
+
+**2단계: 다른 브랜치 존재 여부 확인**
+```bash
+git branch -a
+```
+
+만약 다른 `claude/` 브랜치가 보이면 → 파일 수 비교 필요!
+
+**3단계: 파일 수 확인**
+```bash
+find content -name "*.md" | wc -l
+```
+
+정답: **1,786개** (2025-11-27 기준)
+
+만약 1,786개보다 적으면 → 브랜치 병합 필요!
+
+### 브랜치 병합이 필요한 경우
+
+다른 브랜치에 추가 콘텐츠가 있을 때:
+
+```bash
+# 1. 공식 브랜치로 체크아웃
+git checkout claude/complete-website-updates-01PXvBgZzgopxNYPKybfuuvZ
+
+# 2. 다른 브랜치 병합
+git merge 다른브랜치이름 --no-edit
+
+# 3. 충돌 해결 (리라이팅 완료 파일은 현재 버전 유지)
+git checkout --ours content/local/seoul/jung-math-tutoring.md
+git checkout --ours content/local/seoul/jung-english-tutoring.md
+git checkout --ours content/local/seoul/gangnam-english-tutoring.md
+git checkout --ours content/local/seoul/gangnam-math-tutoring.md
+git add .
+
+# 4. 커밋
+git commit -m "브랜치 병합: 누락 콘텐츠 통합"
+
+# 5. 푸시
+git push -u origin claude/complete-website-updates-01PXvBgZzgopxNYPKybfuuvZ
+```
+
+### 병합 이력 (참고용)
+
+| 날짜 | 병합된 브랜치 | 추가된 파일 |
+|------|-------------|-----------|
+| 2025-11-27 | `claude/rewrite-curriculum-files-01NXqTgxvoUq9rWwTEjmY66B` | 781개 (동별 콘텐츠) |
+
+---
+
 ## 🔄 브랜치/세션 변경 시 체크리스트
 
 세션이나 브랜치가 변경되면 아래를 확인:
