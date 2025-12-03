@@ -9,7 +9,7 @@ regions:
 cities:
   - 성남시
 tags: ["성남수학과외", "분당수학과외", "성남초등수학", "성남중등수학", "성남고등수학", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

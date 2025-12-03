@@ -9,7 +9,7 @@ regions:
 cities:
   - 파주시
 tags: ["파주수학과외", "운정수학과외", "파주초등수학", "파주중등수학", "파주고등수학", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

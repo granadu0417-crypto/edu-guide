@@ -9,7 +9,7 @@ regions:
 cities:
   - 경기도
 tags: ["경기예체능", "음악학원", "미술학원", "체육학원", "예술고입시", "경기교육"]
-featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

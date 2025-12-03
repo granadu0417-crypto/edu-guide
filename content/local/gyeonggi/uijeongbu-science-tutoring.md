@@ -9,7 +9,7 @@ regions:
 cities:
   - 의정부시
 tags: ["의정부과학과외", "의정부물리과외", "의정부화학과외", "의정부생명과학과외", "경기북부과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

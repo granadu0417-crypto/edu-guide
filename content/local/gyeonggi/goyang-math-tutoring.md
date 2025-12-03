@@ -9,7 +9,7 @@ regions:
 cities:
   - 고양시
 tags: ["고양수학과외", "일산수학과외", "고양초등수학", "고양중등수학", "고양고등수학", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

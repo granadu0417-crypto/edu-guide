@@ -9,7 +9,7 @@ regions:
 cities:
   - 시흥시
 tags: ["시흥수학과외", "배곧수학과외", "시흥초등수학", "시흥중등수학", "시흥고등수학", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

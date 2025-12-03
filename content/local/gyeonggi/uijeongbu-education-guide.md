@@ -9,7 +9,7 @@ regions:
 cities:
   - 의정부시
 tags: ["의정부교육", "의정부학원", "의정부과외", "경기북부교육", "의정부입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

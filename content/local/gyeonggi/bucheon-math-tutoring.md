@@ -9,7 +9,7 @@ regions:
 cities:
   - 부천시
 tags: ["부천수학과외", "부천초등수학", "부천중등수학", "부천고등수학", "부천수학학원", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

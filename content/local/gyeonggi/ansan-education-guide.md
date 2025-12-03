@@ -9,7 +9,7 @@ regions:
 cities:
   - 안산시
 tags: ["안산교육", "안산학원", "안산과외", "중동학원가", "고잔동학원", "안산입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -9,7 +9,7 @@ regions:
 cities:
   - 남양주시
 tags: ["남양주수학과외", "다산수학과외", "남양주초등수학", "남양주중등수학", "남양주고등수학", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

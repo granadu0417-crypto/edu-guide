@@ -9,7 +9,7 @@ regions:
 cities:
   - 화성시
 tags: ["화성수학과외", "동탄수학과외", "화성초등수학", "화성중등수학", "화성고등수학", "동탄학원"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

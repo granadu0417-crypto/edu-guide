@@ -9,7 +9,7 @@ regions:
 cities:
   - 군포시
 tags: ["군포교육", "군포학원", "군포과외", "산본학원가", "군포입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

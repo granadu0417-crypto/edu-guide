@@ -9,7 +9,7 @@ regions:
 cities:
   - 성남시
 tags: ["성남과학과외", "분당과학과외", "성남물리과외", "성남화학과외", "성남생명과학과외", "분당과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

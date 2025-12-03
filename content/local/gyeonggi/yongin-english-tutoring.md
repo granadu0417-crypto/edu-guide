@@ -9,7 +9,7 @@ regions:
 cities:
   - 용인시
 tags: ["용인영어과외", "수지영어과외", "기흥영어과외", "용인초등영어", "용인중등영어", "용인고등영어"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

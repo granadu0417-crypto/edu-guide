@@ -9,7 +9,7 @@ regions:
 cities:
   - 광명시
 tags: ["광명교육", "광명학원", "광명과외", "철산동학원", "광명입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

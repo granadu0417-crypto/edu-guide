@@ -9,7 +9,7 @@ regions:
 cities:
   - 경기도
 tags: ["경기온라인교육", "인터넷강의", "화상과외", "AI학습", "경기교육", "온라인학습"]
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -9,7 +9,7 @@ regions:
 cities:
   - 평택시
 tags: ["평택수학과외", "고덕수학과외", "평택초등수학", "평택중등수학", "평택고등수학", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

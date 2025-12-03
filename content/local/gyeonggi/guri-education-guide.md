@@ -9,7 +9,7 @@ regions:
 cities:
   - 구리시
 tags: ["구리교육", "구리학원", "구리과외", "인창동학원", "구리입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

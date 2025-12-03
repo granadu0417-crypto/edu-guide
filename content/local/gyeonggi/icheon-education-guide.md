@@ -9,7 +9,7 @@ regions:
 cities:
   - 이천시
 tags: ["이천교육", "이천학원", "이천과외", "이천입시", "경기동부교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

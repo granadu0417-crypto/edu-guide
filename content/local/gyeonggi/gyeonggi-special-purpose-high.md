@@ -9,7 +9,7 @@ regions:
 cities:
   - 경기도
 tags: ["경기특목고", "특목고입시", "외고입시", "과학고입시", "경기교육"]
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

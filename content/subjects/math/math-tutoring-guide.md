@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "수학 1:1 과외를 효과적으로 활용하는 방법을 소개합니다. 과외 선택부터 최대 효과 내는 법까지, 전문가가 알려드리는 완벽 가이드입니다."
 tags: ["수학과외", "1:1과외", "과외선택", "학습전략", "성적향상", "개인맞춤", "효과적학습"]
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 
 ## 수학 과외를 시작하려는데 어떻게 해야 효과를 볼 수 있을까요? 과외비가 아깝지 않으려면 뭘 준비해야 하나요.
