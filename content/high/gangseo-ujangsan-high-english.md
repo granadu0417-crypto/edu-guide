@@ -18,7 +18,7 @@ tags:
   - 수명고
   - 명덕고
   - 명덕여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1598025678451-af5c59b29c40?w=1200&h=630&fit=crop"
 ---
 
 영어, 어디서부터 시작해야 할지 모르겠나요?

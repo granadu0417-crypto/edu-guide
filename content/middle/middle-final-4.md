@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
 ---
 ## 국어는 모국어인데 왜 점수가 안 나올까요?
 

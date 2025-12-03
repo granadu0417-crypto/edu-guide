@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 일원고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
 ---
 
 복잡한 문법 문제에서 헤매고 있다면? 심화 문법 정복이 필요합니다.

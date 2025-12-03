@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
 ---
 
 ## 방에서는 공부가 안 되고, 거실에서는 집중이 안 돼요. 어디서 어떻게 공부해야 할까요?

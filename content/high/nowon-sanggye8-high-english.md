@@ -17,7 +17,7 @@ tags:
   - 청원고
   - 실력향상
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
 
 ---
 ## 상계8동 고등학생, 영어 실력을 확실히 올리고 싶다면

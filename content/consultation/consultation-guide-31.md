@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
 ---
 
 ## 이번 시험까지 한 달밖에 안 남았는데, 지금부터라도 성적을 올릴 수 있을까요?

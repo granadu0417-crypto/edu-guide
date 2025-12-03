@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop"
 ---
 
 영어 실력에 맞는 수업을 받고 계신가요?

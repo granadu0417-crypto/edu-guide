@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 오륜고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
 ---
 
 복소수 연산이 헷갈린다면? 복소수 체계 이해력이 필요합니다.

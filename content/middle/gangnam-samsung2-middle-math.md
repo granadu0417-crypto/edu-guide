@@ -20,7 +20,7 @@ tags:
   - 개원중
   - 수학개념
   - GBC
-featured_image: https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 삼성2동 중학생, 수학 다항식의 전개가 복잡하다면

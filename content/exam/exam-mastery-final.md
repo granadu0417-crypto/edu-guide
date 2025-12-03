@@ -8,7 +8,7 @@ tags:
 - 시험대비
 - 시험전략
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

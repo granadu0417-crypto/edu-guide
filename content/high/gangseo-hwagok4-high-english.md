@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&h=630&fit=crop"
 ---
 
 혼자서 영어 공부 계획을 지키기 어려우신가요?

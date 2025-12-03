@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
 ---
 ## 중3 2학기, 마지막 내신이 남았습니다
 

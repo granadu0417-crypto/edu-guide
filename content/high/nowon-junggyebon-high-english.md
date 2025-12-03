@@ -18,7 +18,7 @@ tags:
   - 재현고
   - 내신수능
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
 
 ---
 ## 중계본동 고등학생, 영어 성적 올리고 싶다면

@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "경북도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. POSTECH·경북대 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["경북과외", "과외", "경북교육", "포항과외", "구미과외", "경주과외", "POSTECH과외", "포항공대과외", "경북대과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
 ---
 
 ## 경북도에서 과외 선생님 구하기 어렵지 않나요? POSTECH생 과외가 효과가 있을지 궁금하시죠.

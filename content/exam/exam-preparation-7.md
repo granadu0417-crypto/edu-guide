@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 ---
 ## 수능 100일 남았는데 지금 성적으로 목표 대학 갈 수 있을까요?
 

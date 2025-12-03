@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 ## 글씨는 삐뚤빼뚤, 받아쓰기는 빨간 줄 투성이, 걱정되시죠?
 

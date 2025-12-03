@@ -21,7 +21,7 @@ tags:
   - 경신중
   - 동성중
   - 중앙중
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 종로1234가동 중학생, 수학 부등식의 활용이 어렵다면

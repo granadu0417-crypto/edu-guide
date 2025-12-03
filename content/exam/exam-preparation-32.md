@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
 ---
 ## 시간이 부족해서 끝까지 못 풀어요. 어떻게 시간을 배분해야 하나요?
 

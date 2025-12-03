@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
 ---
 
 ## 선생님한테 뭘 물어봐야 할지 모르겠어요. 부모 입장에서 뭘 해야 하나요?

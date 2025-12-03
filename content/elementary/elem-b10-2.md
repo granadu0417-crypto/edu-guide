@@ -11,7 +11,7 @@ tags:
 - 연산
 - 읽기
 - 자기주도학습
-featured_image: https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
 ---
 ## 공부하라고 잔소리하지 않아도 스스로 책상에 앉는 아이, 가능할까요?
 

@@ -14,7 +14,7 @@ tags:
 - 수능
 - 시험준비
 - 쓰기
-featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
 ---
 ## 내신이 좀 부족한데 논술로 만회할 수 있다고 들었어요. 어떻게 준비해야 하나요?
 

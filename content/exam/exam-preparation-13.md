@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
 ---
 ## 국어는 잘하는데 수학은 못해요. 과목마다 공부법이 다른 건가요?
 

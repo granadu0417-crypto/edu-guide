@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
 ---
 ## 강동구 둔촌2동 중학생, 수학 확률 문제가 감이 안 잡힌다면
 

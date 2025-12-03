@@ -18,7 +18,7 @@ tags:
   - 청원중
   - 맞춤수업
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=1200&h=630&fit=crop"
 
 ---
 ## 상계10동 중학생, 수학을 제대로 배우고 싶다면

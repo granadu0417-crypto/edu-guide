@@ -10,7 +10,7 @@ tags:
 - 복습전략
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
 ---
 ## 하루 24시간이 모자란다고요? 시간은 충분합니다
 

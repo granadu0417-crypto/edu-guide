@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 수학개념
 - 수학심화
-featured_image: https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 을지로동 중학생, 수학 원주각이 어렵다면

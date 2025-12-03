@@ -11,7 +11,7 @@ tags:
 - 중등과외
 - 1대1과외
 - 시험준비
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

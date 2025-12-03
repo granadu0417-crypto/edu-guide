@@ -12,7 +12,7 @@ tags:
 - 물리
 - 화학
 - 생물
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&h=630&fit=crop"
 ---
 ## 과학, 암기만 하면 된다더니 왜 이렇게 점수가 안 나올까요?
 

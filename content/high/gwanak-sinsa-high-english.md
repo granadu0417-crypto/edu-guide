@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 독해문법
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
 ---
 
 영어 독해와 문법, 따로 공부하고 계신가요? 함께 배우면 더 효율적입니다.

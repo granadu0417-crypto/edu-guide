@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 영훈고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
 ---
 
 영어 단어는 외우는데 점수가 왜 그대로일까요?

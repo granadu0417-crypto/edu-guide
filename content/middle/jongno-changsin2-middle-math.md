@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 수학개념
   - 수학심화
-featured_image: https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 창신2동 중학생, 수학 일차함수 그래프가 어렵다면

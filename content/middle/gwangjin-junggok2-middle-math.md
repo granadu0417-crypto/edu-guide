@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 ## 광진구 중곡2동 중학생, 수학 제곱근 계산이 어렵다면
 

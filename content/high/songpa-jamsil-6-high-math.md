@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
 ---
 
 부등식 영역 문제가 어렵다면? 부등식 영역 시각화 능력이 필요합니다.

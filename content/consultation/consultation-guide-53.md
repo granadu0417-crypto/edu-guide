@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
 ---
 
 ## 책 읽으라는 말은 많이 듣는데, 막상 책을 펴면 졸려요. 어떻게 하면 독서가 재미있어질까요?

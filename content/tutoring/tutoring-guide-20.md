@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
 ---
 
 ## 과외를 3개월째 받고 있는데, 효과가 있는지 모르겠어요. 어떻게 확인하나요?

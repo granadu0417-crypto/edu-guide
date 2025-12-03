@@ -10,7 +10,7 @@ tags:
 - 학습전략
 - 1등급
 - 내신관리
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 ---
 ## 1등급을 받았는데, 유지하는 게 더 힘들다고요?
 

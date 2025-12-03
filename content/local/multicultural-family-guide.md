@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "다문화가정 자녀 교육 지원 완벽 가이드입니다. 한국어 교육, 학교 적응, 학습 지원, 장학금, 대입 특별전형까지 다문화가정을 위한 모든 정보를 안내합니다."
 tags: ["다문화가정", "다문화교육", "한국어교육", "다문화가정지원", "다문화장학금", "이중언어", "다문화학생", "다문화특별전형"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 ---
 
 ## 다문화가정 자녀 교육 어떻게 지원받을 수 있나요? 한국어 교육이나 학교 적응이 걱정되시죠.

@@ -18,7 +18,7 @@ tags:
   - 온곡중
   - 내신관리
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=1200&h=630&fit=crop"
 
 ---
 ## 상계3·4동 중학생, 영어 내신이 걱정이라면

@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
 ---
 
 ## 아이한테 공부하라고 하면 싸우게 되고, 안 하면 걱정되고, 어떻게 해야 할까요?

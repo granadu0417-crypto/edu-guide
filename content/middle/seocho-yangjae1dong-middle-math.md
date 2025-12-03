@@ -22,7 +22,7 @@ tags:
   - 양재역
   - 양재시민의숲역
   - 매봉역
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 ## 서초구 양재1동 중학생, 수학 삼각형의 합동 조건이 헷갈린다면
 

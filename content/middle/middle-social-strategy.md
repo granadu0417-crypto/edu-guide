@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 사회 완벽 학습 전략 | 1:1 맞춤 지도, 역사·지리·일반사회 [2025년]"
 tags: ["중학생", "사회", "역사", "지리", "일반사회", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=630&fit=crop"
 ---
 
 ## 사회 과목이 외울 게 너무 많아요. 역사, 지리, 일반사회 다 어떻게 공부해야 하나요?

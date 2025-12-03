@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
 ---
 
 ## 뭘 하고 싶은지 모르겠어요. 좋아하는 것도 딱히 없고, 잘하는 것도 모르겠어요. 진로를 어떻게 찾아야 하나요?

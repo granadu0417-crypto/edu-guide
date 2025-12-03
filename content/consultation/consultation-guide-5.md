@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop"
 ---
 
 ## 하루 종일 공부만 하는데 왜 시간이 부족할까요? 어디서 시간이 새는 걸까요?

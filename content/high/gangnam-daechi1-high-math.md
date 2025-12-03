@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 중대부고
   - 단대부고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
 ---
 
 학원 숙제만 하느라 자기 공부 시간이 없다면? 학습 효율화가 필요합니다.

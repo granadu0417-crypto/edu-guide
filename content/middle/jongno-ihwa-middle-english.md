@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 이화동 중학생, 영어 시제의 일치가 어렵다면

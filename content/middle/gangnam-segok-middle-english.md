@@ -19,7 +19,7 @@ tags:
 - 영어문법
 - 영어독해
 - 세곡자연환경
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 세곡동 중학생, 영어 to부정사와 동명사가 헷갈린다면

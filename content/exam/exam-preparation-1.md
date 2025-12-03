@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
 ---
 ## 시험 2주 남았는데 뭐부터 해야 할지 모르겠어요. 어디서부터 시작하죠?
 

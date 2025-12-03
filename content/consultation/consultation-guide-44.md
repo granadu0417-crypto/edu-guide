@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
 ---
 
 ## 앉아 있는 시간은 긴데 성과가 없어요. 효율적으로 공부하는 습관은 어떻게 만드나요?

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 둔촌고
   - 천호고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 ---
 
 관계사 문장이 나오면 해석이 멈춘다면? 관계사 구문 훈련이 필요합니다.

@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
 ---
 
 ## 공부하려고 마음은 먹는데 실천이 안 돼요. 계획만 세우고 작심삼일로 끝납니다. 어떻게 하면 꾸준히 할 수 있나요?

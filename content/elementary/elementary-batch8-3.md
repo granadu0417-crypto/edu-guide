@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
 ---
 ## 3학년부터는 엄마 아빠 도움 없이 숙제할 수 있어야 해요
 

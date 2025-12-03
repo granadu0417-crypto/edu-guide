@@ -16,7 +16,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
 ---
 
 영어 성적이 대학 진학에 발목을 잡고 있다면, 지금이라도 제대로 시작해야 합니다.

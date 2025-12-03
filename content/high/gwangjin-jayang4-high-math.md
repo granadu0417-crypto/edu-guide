@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광양고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=1200&h=630&fit=crop"
 ---
 
 기출 문제를 풀어도 실전에서 막히는 이유, 알고 계신가요? 비슷해 보여도 조건이 다르면 풀이가 달라집니다.

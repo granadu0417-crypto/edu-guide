@@ -13,7 +13,7 @@ tags:
 - 자기주도학습
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
 ---
 ## 초등학교 때 영어 잘했는데, 중학교 오니까 왜 안 될까요?
 

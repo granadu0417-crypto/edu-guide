@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 석촌고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
 ---
 
 직선의 방정식과 기울기가 헷갈린다면? 일차함수 통합력이 필요합니다.

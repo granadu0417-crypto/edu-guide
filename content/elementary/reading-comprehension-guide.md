@@ -11,7 +11,7 @@ tags:
 - 초등학습
 - 학습가이드
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
 ---
 ## 수학 문장제만 나오면 막히나요? 독해력이 문제입니다
 

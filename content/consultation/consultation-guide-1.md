@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
 ---
 
 ## 공부는 열심히 하는데 성적이 안 오르는 이유, 혹시 방향이 잘못된 건 아닐까요?

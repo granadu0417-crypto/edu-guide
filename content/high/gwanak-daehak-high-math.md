@@ -17,7 +17,7 @@ tags:
   - 미림여고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
 ---
 
 대학동에는 서울대학교 캠퍼스가 있습니다. 교육열이 높은 지역인 만큼, 학생들의 목표도 높습니다.

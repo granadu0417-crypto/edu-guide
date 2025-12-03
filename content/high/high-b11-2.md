@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop"
 ---
 ## 내신이랑 수능이랑 둘 다 챙기려니 시간이 부족해요
 

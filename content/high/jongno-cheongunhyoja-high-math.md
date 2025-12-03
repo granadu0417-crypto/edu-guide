@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
 ---
 
 문제를 보면 막막하고 어디서 시작해야 할지 모르겠다면? 문제 분석력 훈련이 필요합니다.

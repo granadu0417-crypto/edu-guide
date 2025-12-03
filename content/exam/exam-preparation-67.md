@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
 ---
 ## 수능까지 100일 남았는데 막판 스퍼트는 어떻게 해야 하나요?
 

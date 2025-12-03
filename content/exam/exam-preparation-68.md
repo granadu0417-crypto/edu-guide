@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 중간고사
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 ## 중간고사에서 학기 초반에 배운 내용을 어떻게 정리해야 하나요?
 

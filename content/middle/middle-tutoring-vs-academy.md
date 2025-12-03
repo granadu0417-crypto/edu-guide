@@ -11,7 +11,7 @@ tags:
 - 1:1과외
 - 학원선택
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
 ---
 ## 과외랑 학원, 뭐가 더 낫냐고요? 답은 아이한테 있습니다
 

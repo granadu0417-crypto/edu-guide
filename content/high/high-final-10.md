@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
 ---
 ## 정시로 가기로 했는데, 수능 점수를 어떻게 활용해야 유리한지 모르겠어요.
 

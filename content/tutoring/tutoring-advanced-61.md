@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
 ---
 
 ## 첫 과외 수업에서 뭘 준비해 가야 하나요? 아이가 긴장을 많이 하는데 어떡해요?

@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
 ---
 ## 답이 두 개로 좁혀지면 항상 틀린 걸 고르게 돼요. 어떻게 해야 하죠?
 

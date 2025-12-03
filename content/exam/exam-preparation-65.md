@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 ---
 ## 우리 학교 선생님 출제 스타일을 어떻게 파악해야 하나요? 내신 고득점 비결이 뭔가요?
 

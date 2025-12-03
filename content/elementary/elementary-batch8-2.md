@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
 ---
 ## 1학년 때는 잘 따라갔는데, 2학년 되니 어려워하네요
 

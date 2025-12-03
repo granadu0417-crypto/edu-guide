@@ -17,7 +17,7 @@ tags:
   - 구현고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
 ---
 
 영어 지문이 길어지면서 읽다가 지치시나요? 효율적으로 읽는 방법을 알면 달라집니다.

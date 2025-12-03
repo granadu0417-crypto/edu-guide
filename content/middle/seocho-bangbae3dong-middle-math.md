@@ -22,7 +22,7 @@ tags:
   - 이수역
   - 방배역
   - 낙성대역
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
 ---
 ## 서초구 방배3동 중학생, 수학 이차방정식의 근의 공식이 안 외워진다면
 

@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 개포주거단지
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 개포2동 중학생, 수학 인수분해가 안 된다면

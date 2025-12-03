@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
 ---
 ## 고2가 가장 중요하다고 하는데, 왜 그런 건가요?
 

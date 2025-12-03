@@ -19,7 +19,7 @@ tags:
   - 솔샘고
   - 신일고
   - 창문여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
 ---
 
 수학 공식은 외웠는데 막상 시험에서 응용이 안 되시나요?

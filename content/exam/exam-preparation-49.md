@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
 ---
 ## 기말고사가 중간고사보다 범위가 넓은데 어떻게 준비해야 하나요?
 

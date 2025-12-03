@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 청담고
   - 현대고
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
 ---
 
 모의고사 등급이 2~3등급 사이에서 벗어나지 않는다면? 상위권 도약 전략이 필요합니다.

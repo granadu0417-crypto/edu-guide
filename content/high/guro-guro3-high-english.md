@@ -17,7 +17,7 @@ tags:
   - 구로고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1596496578664-db76b5bf3f63?w=1200&h=630&fit=crop"
 ---
 
 영어 성적이 오르락내리락한다면, 실력이 아직 완전히 정착되지 않은 것입니다.

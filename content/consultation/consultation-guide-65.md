@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
 ---
 
 ## 하루가 24시간인데 왜 시간이 모자랄까요? 공부할 시간이 없다는 말, 사실인가요?

@@ -11,7 +11,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
 ---
 
 ## 공부해야 하는 건 아는데 몸이 안 움직여요. 어떻게 하면 동기가 생길까요?

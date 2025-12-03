@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---
 ## 시간은 있는데 공부가 안 돼요
 

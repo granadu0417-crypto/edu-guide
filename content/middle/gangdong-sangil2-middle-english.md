@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
 
 ---
 ## 강동구 상일2동 중학생, 영어 서술형이 두렵다면

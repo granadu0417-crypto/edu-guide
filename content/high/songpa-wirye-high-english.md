@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 위례고
   - 위례한빛고
-featured_image: "https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=1200&h=630&fit=crop"
 ---
 
 듣기에서 세부 정보를 놓친다면? 집중 청취력이 필요합니다.

@@ -18,7 +18,7 @@ tags:
   - 상명중
   - 실력향상
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
 
 ---
 ## 중계2·3동 중학생, 영어 실력을 한 단계 끌어올리고 싶다면

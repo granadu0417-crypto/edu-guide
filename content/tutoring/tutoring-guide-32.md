@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
 ---
 
 ## 온라인 과외, 정말 대면만큼 집중이 될까요? 화면으로 공부가 되나요?

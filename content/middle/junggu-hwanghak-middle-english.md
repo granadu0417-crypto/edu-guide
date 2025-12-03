@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 황학동 중학생, 영어 현재완료진행형이 어렵다면

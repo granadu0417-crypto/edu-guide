@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 ---
 
 ## 적성검사는 해봤는데, 그 결과를 진로에 어떻게 연결해야 할지 모르겠어요.

@@ -9,7 +9,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 ## 공부하라고 하면 매번 싸우게 되나요?
 

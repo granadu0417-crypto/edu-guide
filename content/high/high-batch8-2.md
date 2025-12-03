@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
 ---
 ## 고2 되니까 갑자기 시간이 없어요. 내신, 수능, 비교과 다 해야 하는데 어떻게 해야 하죠?
 

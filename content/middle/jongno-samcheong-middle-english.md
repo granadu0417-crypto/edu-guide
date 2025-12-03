@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 삼청동 중학생, 영어 도치 구문이 어렵다면

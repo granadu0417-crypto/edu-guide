@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
 ---
 ## 시험장에만 가면 긴장돼서 실력 발휘가 안 돼요. 어떻게 하면 좋을까요?
 

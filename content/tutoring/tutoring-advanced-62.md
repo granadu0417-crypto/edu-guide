@@ -11,7 +11,7 @@ tags:
 - 학습상담
 - 학습코칭
 - 학원
-featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=1200&h=630&fit=crop"
 ---
 
 ## 과외 선생님을 여러 명 만나봤는데 누가 좋은지 모르겠어요. 어떤 기준으로 골라야 하나요?

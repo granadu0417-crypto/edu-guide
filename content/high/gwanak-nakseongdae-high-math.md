@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 1:1맞춤
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
 ---
 
 모든 학생에게 똑같은 수업을 하면 안 됩니다. 학생마다 막히는 지점이 다르기 때문입니다.

@@ -17,7 +17,7 @@ tags:
   - 미림여고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
 ---
 
 서울대 캠퍼스가 있는 대학동, 교육열이 높은 만큼 영어 실력에 대한 기대도 높습니다.

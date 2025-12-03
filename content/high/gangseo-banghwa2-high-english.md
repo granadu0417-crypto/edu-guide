@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 한서고
   - 동양고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=630&fit=crop"
 ---
 
 영어 공부 방법을 모르겠나요?

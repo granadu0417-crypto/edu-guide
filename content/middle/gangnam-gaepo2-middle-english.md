@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 개포주거단지
-featured_image: https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 개포2동 중학생, 영어 to부정사 용법이 헷갈린다면

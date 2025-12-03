@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
 ---
 
 공식은 외웠는데 응용이 안 되는 이유가 궁금하시죠? 개념의 본질을 이해해야 변형에 대응할 수 있습니다.

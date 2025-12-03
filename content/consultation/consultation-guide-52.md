@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 ---
 
 ## 집에서는 도무지 공부가 안 돼요. 방에만 들어가면 침대가 보이고, 책상에 앉아도 집중이 안 됩니다.

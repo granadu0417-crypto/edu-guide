@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 영동고
   - 진선여고
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
 ---
 
 해석은 되는데 문제를 틀린다면? 문제 풀이 전략 훈련이 필요합니다.

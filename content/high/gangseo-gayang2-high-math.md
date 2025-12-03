@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 세현고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
 ---
 
 풀이 과정은 이해되는데 혼자 풀면 안 되시나요?

@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---
 ## 첫 중간고사 성적이 3년 내신의 출발점이 됩니다
 

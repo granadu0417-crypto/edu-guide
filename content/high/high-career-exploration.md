@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 진로 탐색 완벽 전략 | 적성 검사·학과 정보·전공 선택·진로 설계 1:1 맞춤 진로 상담 로드맵 [2025년]"
 tags: ["진로탐색", "진로상담", "적성검사", "전공선택", "학과정보", "진로설계", "대학전공", "직업탐색", "고등진로"]
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
 ---
 
 ## 진로를 어떻게 정해야 할지 모르겠어요. 좋아하는 것도 잘하는 것도 잘 모르겠어요.

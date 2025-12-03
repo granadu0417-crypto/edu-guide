@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 석촌고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
 ---
 
 내용 일치 문제에서 함정에 빠진다면? 세부 정보 확인력이 필요합니다.

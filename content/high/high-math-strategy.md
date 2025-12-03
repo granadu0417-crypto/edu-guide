@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 수학 영역 완벽 정복 전략 | 수능 수학 공통·선택과목 영역별 맞춤 과외 로드맵 + 킬러문제 대비 [2025년]"
 tags: ["수학과외", "수능수학", "수학1", "수학2", "미적분", "확률과통계", "기하", "수학1등급", "고등수학", "내신수학"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
 ---
 
 ## 수학 공식은 아는데 문제에 적용이 안 돼요. 계산 실수도 많고 킬러 문제는 손도 못 대겠어요. 어떻게 하면 되나요?

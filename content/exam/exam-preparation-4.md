@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
 ---
 ## 시험장만 가면 머리가 하얘져요. 아는 것도 생각이 안 나는데 어떡하죠?
 

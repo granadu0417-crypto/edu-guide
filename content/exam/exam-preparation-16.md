@@ -11,7 +11,7 @@ tags:
 - 수능
 - 시험대비
 - 시험전략
-featured_image: https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 ## 영어 지문 읽는데 시간이 너무 오래 걸려요. 어떻게 해야 빨리 읽을 수 있나요?
 

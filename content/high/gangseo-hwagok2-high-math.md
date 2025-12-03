@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
 ---
 
 수학 공식을 외워도 문제에 적용이 안 되시나요?

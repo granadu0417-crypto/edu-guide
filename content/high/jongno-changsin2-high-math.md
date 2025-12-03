@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
 ---
 
 풀이 시간이 자꾸 오래 걸린다면? 빠른 풀이 전략 훈련이 필요합니다.

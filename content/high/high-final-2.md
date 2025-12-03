@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
 ---
 ## 고2인데 아직 진로를 못 정했어요. 늦은 건 아니겠죠?
 

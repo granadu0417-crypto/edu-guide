@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
 ---
 ## 체육이나 음악 이론 시험은 어떻게 준비해야 하나요?
 

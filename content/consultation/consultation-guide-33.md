@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
 ---
 
 ## 책을 읽어야 한다는 건 알겠는데, 10분도 못 가서 책을 덮게 돼요. 독서 습관은 어떻게 만들어야 하나요?

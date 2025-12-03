@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 ---
 
 ## 과외비가 천차만별인데, 어느 정도가 적당한 건가요? 비싸면 무조건 좋은가요?

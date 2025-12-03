@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
 
 ---
 ## 강동구 암사2동 중학생, 수학 문제가 조금만 바뀌면 못 풀겠다면

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 신일고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
 ---
 
 내신 준비하느라 수능 공부할 시간이 없다고요?

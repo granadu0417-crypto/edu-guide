@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고2 과외, 어떻게 해야 할까요? 수시 vs 정시 결정 시기, 생기부 핵심 만들기, 심화 과목 선택부터 모의고사 전략까지 완벽 가이드입니다."
 tags: ["고2과외", "고등과외", "수시대비", "정시대비", "생기부관리", "모의고사", "내신관리"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
 ---
 
 ## 고2가 되니까 갑자기 모든 게 어려워졌어요. 내신도 안 나오고 모의고사도 떨어지는데 이제 와서 수시를 해야 할지 정시를 해야 할지도 모르겠어요.

@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
 ---
 
 모의고사에서 자꾸 시간이 부족하다면? 문제 풀이 속도를 키워야 합니다.

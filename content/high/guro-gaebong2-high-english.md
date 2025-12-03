@@ -17,7 +17,7 @@ tags:
   - 경인고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
 ---
 
 어휘를 열심히 외우는데 독해가 안 된다면, 공부 방법이 잘못된 것입니다.

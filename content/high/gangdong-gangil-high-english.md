@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강동고
   - 한영외고
-featured_image: "https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
 ---
 
 어휘 암기가 금방 사라진다면? 효과적인 암기법 훈련이 필요합니다.

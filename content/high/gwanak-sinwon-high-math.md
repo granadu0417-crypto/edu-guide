@@ -17,7 +17,7 @@ tags:
   - 삼성고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
 ---
 
 내신과 수능, 둘 다 잡아야 하는데 시간은 한정되어 있습니다. 효율적인 공부가 필요합니다.

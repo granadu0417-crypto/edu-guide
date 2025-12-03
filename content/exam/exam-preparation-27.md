@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
 ---
 ## 수능 100일 남았는데 아직 개념도 안 잡혔어요. 뭐부터 해야 하죠?
 

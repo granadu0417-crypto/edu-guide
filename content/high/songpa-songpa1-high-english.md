@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 송파고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 글의 제목 추론이 어렵다면? 핵심 주제 압축력이 필요합니다.

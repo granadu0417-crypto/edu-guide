@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 회현동 중학생, 영어 수여동사가 헷갈린다면

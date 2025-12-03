@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
 ---
 ## 사회는 외워야 하는 건지 이해해야 하는 건지 헷갈려요. 어떻게 공부하나요?
 

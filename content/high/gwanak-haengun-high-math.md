@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 기초심화
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
 ---
 
 수학이 안 되는 게 아닙니다. 어디서부터 잘못됐는지 모르는 것뿐입니다. 찾아내면 됩니다.

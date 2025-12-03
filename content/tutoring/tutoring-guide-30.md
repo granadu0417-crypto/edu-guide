@@ -12,7 +12,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
 ---
 
 ## 중학교 내신은 수능에 직접 안 들어가는데, 왜 중요한가요?

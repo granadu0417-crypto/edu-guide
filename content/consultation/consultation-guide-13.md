@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
 ---
 
 ## 우리 아이가 게임만 하고 책은 거들떠도 안 봐요. 어떻게 해야 책을 좋아하게 할 수 있을까요?

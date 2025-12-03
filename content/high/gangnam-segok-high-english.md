@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세곡고
   - 보성고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---
 
 모의고사 점수가 들쭉날쭉하다면? 실전 안정화 훈련이 필요합니다.

@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
 ---
 
 독해 지문을 여러 번 읽어야 이해된다면? 직독직해 훈련이 필요합니다.

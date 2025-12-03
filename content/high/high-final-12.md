@@ -13,7 +13,7 @@ tags:
 - 모의고사
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
 ---
 ## 모의고사 성적이 들쭉날쭉해요. 이게 실력인지 운인지 모르겠어요.
 

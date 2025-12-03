@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습방법
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
 ---
 
 ## 수학은 열심히 하면 오르는데 영어는 왜 안 오를까요? 과목마다 다르게 공부해야 하나요?

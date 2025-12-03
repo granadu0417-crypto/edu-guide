@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "경남도의 교육 환경을 완벽 분석합니다. 창원·김해·진주 학원가부터 부산 접근성, 경상국립대 과외, 온라인 교육 전략까지 경남 지역 맞춤 교육 정보를 제공합니다."
 tags: ["경남교육", "경남학원", "경남과외", "창원학원", "김해학원", "진주학원", "부산접근성", "경상국립대과외", "창원대과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
 ---
 
 ## 경남도에서 아이 교육 어떻게 해야 할까요? 창원에서 해결될지 부산까지 가야 할지 고민되시죠.

@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
 ---
 ## 시험 전날 공부를 더 해야 할지 쉬어야 할지 모르겠어요. 어떻게 해야 최상의 컨디션을 만들 수 있나요?
 

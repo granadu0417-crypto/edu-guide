@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
 ---
 
 조건부 확률이 헷갈린다면? 확률 개념 체계화가 필요합니다.

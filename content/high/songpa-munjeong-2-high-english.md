@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 문정고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
 ---
 
 어법성 판단 문제에서 헷갈린다면? 문법 정확성 훈련이 필요합니다.

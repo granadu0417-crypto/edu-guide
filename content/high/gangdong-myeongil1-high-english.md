@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 명일고
   - 명일여고
-featured_image: "https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=630&fit=crop"
 ---
 
 삽입 문제에서 자주 틀린다면? 문맥 파악 훈련이 필요합니다.

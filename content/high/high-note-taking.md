@@ -7,7 +7,7 @@ reading_time: "701줄"
 description: "고등학생을 위한 효과적인 노트 필기 전략. 코넬식, 마인드맵, 디지털 노트 활용법부터 과목별 맞춤 필기법까지. 내신과 수능을 동시에 잡는 노트 필기 시스템."
 categories: ["고등"]
 tags: ["고등노트필기", "필기법", "코넬노트", "마인드맵", "학습전략", "내신대비", "수능준비", "효율적공부"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 송파나루역
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 송파2동 중학생, 수학 원의 성질이 헷갈린다면

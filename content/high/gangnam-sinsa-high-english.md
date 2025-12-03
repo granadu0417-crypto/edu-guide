@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 압구정고
   - 현대고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
 ---
 
 수능 영어 등급이 오르락내리락한다면? 안정적인 실력 구축이 필요합니다.

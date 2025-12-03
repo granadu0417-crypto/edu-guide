@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 
 ## 서점에 가면 교재가 너무 많아서 뭘 골라야 할지 모르겠어요. 어떤 교재가 우리 아이한테 맞을까요?

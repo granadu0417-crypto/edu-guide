@@ -18,7 +18,7 @@ tags:
   - 동일여고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
 ---
 
 내신 준비하느라 수능 준비할 시간이 없다면, 방법을 바꿔야 합니다.

@@ -12,7 +12,7 @@ tags:
 - 읽기
 - 초등교육
 - 초등학습
-featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
 ---
 ## 영어 단어, 무작정 쓰기만 하면 금방 까먹습니다
 

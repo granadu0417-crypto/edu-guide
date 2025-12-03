@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
 ---
 ## 객관식에서 두 개 중에 하나 고르다가 맨날 틀려요. 어떻게 하면 잘 고를 수 있나요?
 

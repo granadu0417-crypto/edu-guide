@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 단대부고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 기출은 잘 풀리는데 새로운 유형에서 막힌다면? 응용력 확장 훈련이 필요합니다.

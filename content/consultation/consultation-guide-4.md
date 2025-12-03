@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
 ---
 
 ## 우리 아이가 책상에 앉아있는 시간은 긴데, 왜 성적은 그대로일까요?

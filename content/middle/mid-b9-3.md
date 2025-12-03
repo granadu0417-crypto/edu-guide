@@ -14,7 +14,7 @@ tags:
 - 중1학년
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
 ---
 ## 고등학교가 코앞입니다, 중3 1년이 승부처입니다
 

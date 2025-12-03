@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 세현고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
 ---
 
 수학 때문에 스트레스 받고 계시나요?

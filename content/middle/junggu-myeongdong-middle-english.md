@@ -20,7 +20,7 @@ tags:
   - 환일중
   - 영어문법
   - 영어독해
-featured_image: https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 명동 중학생, 영어 원급 비교가 어렵다면

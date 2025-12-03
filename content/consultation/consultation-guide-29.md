@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 ## 시험지만 보면 머리가 하얘지고 손에 땀이 나요. 아는 것도 생각이 안 나는데 어떻게 해야 할까요?

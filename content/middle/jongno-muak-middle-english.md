@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 무악동 중학생, 영어 부가의문문이 헷갈린다면

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 언주고
   - 강남서초고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
 ---
 
 등급이 2등급에서 멈춰 있다면? 1등급 돌파 전략이 필요합니다.

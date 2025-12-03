@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 배재고
   - 광문고
-featured_image: "https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
 ---
 
 지문을 다 읽어도 요지가 안 잡힌다면? 요약 능력 훈련이 필요합니다.

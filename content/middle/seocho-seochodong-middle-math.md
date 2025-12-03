@@ -22,7 +22,7 @@ tags:
   - 문제풀이
   - 교대역
   - 서초역
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
 ---
 ## 서초구 서초동 중학생, 수학 제곱근과 실수가 헷갈린다면
 

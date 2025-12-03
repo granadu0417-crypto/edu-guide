@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서문여고
   - 서울고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
 ---
 
 심화 문제에서 막힌다면? 개념 간 연결고리를 파악해야 합니다.

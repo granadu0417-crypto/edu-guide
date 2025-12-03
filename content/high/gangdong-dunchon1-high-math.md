@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 둔촌고
   - 성내고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
 ---
 
 개념 정리는 했는데 응용이 안 된다면? 개념 응용력 훈련이 필요합니다.

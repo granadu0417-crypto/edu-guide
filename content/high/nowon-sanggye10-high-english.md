@@ -18,7 +18,7 @@ tags:
   - 청원고
   - 내신특화
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
 
 ---
 ## 상계10동 고등학생, 학교별 영어 내신을 확실히 잡고 싶다면

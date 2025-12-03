@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---
 ## 기말고사가 한 학기 성적을 결정하는데, 어떻게 마무리해야 할지 모르겠어요.
 

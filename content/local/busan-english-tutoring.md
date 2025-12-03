@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "부산 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 tags: ["부산영어과외", "부산과외", "영어과외", "부산교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 단어는 외우는데 문장을 못 만들겠어요. 듣기는 괜찮은데 말하기가 안 되고요. 어떻게 해야 할까요?

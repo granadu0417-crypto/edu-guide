@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 학습관리
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
 ---
 
 영어 공부, 혼자 하면 막막합니다. 뭘 어떻게 해야 할지, 내가 제대로 하고 있는 건지 알기 어렵죠.

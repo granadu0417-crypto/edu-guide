@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
 ---
 
 영어 공부 시간은 많은데 성적이 안 오른다면, 방법을 바꿔야 합니다.

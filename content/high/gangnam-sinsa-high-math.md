@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 압구정고
   - 현대고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
 ---
 
 경시 수준 문제에서 막힌다면? 심화 사고력 훈련이 필요합니다.

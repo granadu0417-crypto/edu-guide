@@ -19,7 +19,7 @@ tags:
   - 노일중
   - 수학개념
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
 
 ---
 ## 노원구 상계1동 중학생, 수학 성적이 고민이라면

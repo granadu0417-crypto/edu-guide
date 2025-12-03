@@ -17,7 +17,7 @@ tags:
   - 대진고
   - 독해문법
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
 
 ---
 ## 중계4동 고등학생, 영어 독해와 문법을 확실히 잡고 싶다면

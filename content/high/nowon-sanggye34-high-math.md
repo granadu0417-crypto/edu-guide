@@ -19,7 +19,7 @@ tags:
   - 내신대비
   - 수능대비
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
 
 ---
 ## 상계3·4동 고등학생, 수학 내신과 수능 둘 다 잡고 싶다면

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
 ---
 ## 광진구 군자동 중학생, 수학 삼각형의 합동 조건이 헷갈린다면
 

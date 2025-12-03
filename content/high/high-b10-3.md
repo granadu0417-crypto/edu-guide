@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
 ---
 ## 수능까지 300일, 이 시간을 어떻게 쓰느냐가 대학을 결정합니다
 

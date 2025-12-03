@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
 ---
 
 ## 매일 책상에 앉아 있는 시간은 긴데, 진짜 공부한 시간은 얼마 안 되는 것 같아요.

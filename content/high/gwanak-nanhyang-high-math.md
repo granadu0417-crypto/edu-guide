@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 실력향상
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop"
 ---
 
 수학을 포기하고 싶은 순간이 있으셨죠? 아직 포기할 때가 아닙니다.

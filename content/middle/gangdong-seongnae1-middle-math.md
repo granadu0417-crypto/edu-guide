@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
 ---
 ## 강동구 성내1동 중학생, 수학 좌표평면에서 점의 위치 찾기가 어렵다면
 

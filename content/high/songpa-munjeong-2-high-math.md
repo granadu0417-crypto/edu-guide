@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 문정고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
 ---
 
 고차방정식이 복잡하게 느껴진다면? 인수분해 패턴 인식력이 필요합니다.

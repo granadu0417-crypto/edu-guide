@@ -13,7 +13,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
 ---
 ## 왜?라는 질문이 많아졌다면 사고력이 자라고 있는 겁니다
 

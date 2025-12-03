@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
 ---
 
 ## 아이 방에서 공부를 안 하고 맨날 거실에서 누워있어요. 공부방은 어떻게 만들어줘야 하나요?

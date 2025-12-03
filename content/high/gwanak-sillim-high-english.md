@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
 ---
 
 영어 지문을 읽는데 앞에서 읽은 내용이 기억이 안 난다면, 독해 방법을 바꿔야 합니다.

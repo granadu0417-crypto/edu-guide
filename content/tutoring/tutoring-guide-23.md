@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
 ---
 
 ## 같은 시간 과외받는데 왜 누구는 오르고 누구는 안 오르나요? 뭐가 다른 건가요?

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
 ---
 
 영어 공부, 매일 하겠다고 다짐하는데 며칠 못 가나요?

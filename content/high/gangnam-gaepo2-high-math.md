@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1551817958-20c93da010d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop"
 ---
 
 중학교 때는 잘했는데 고등학교 와서 성적이 떨어졌다면? 고등 사고력 전환 훈련이 필요합니다.

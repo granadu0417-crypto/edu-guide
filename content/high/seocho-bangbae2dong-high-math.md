@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서문여고
   - 서울고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 ---
 
 수능 실전에서 시간이 부족하다면? 효율적인 풀이 순서 전략이 필요합니다.

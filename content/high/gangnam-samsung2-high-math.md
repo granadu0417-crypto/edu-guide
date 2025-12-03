@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 휘문고
   - 중대부고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop"
 ---
 
 심화 문제에서 손도 못 대겠다면? 고난도 문제 접근법 훈련이 필요합니다.

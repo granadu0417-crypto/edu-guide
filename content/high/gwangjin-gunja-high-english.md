@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 건대부고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
 ---
 
 영어 성적이 제자리인가요? 고등학교 영어는 노력만으로 되지 않습니다.

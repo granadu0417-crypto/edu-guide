@@ -17,7 +17,7 @@ tags:
   - 구로고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
 ---
 
 문제를 보면 어떻게 풀어야 할지 막막하다면, 접근법을 모르는 것입니다.

@@ -11,7 +11,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
 ---
 ## 계산은 잘하는데 문장제만 나오면 멍해지나요?
 

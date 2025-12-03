@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 휘문고
   - 중대부고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&h=630&fit=crop"
 ---
 
 교과서 본문 변형 문제에서 자꾸 틀린다면? 변형 유형 완벽 대비가 필요합니다.

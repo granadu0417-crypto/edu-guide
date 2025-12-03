@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤커리큘럼
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
 ---
 
 모든 학생에게 똑같은 수업을 하면 효과가 떨어집니다. 학생마다 필요한 것이 다르기 때문입니다.

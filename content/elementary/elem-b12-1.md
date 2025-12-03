@@ -13,7 +13,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
 ---
 ## 초등학교 마지막 학년, 무엇을 준비해야 할까요?
 

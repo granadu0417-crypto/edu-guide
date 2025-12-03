@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 천호고
   - 둔촌고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
 ---
 
 풀이 시간이 너무 오래 걸린다면? 효율적인 풀이법 훈련이 필요합니다.

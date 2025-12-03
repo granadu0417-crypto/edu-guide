@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 상일여고
   - 상일미디어고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
 ---
 
 개념 설명은 이해하지만 금방 잊어버린다면? 장기 기억화 훈련이 필요합니다.

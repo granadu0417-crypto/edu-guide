@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
 ---
 
 ## 과외비가 얼마나 하는지 몰라서 바가지 쓸까 봐 걱정이에요.

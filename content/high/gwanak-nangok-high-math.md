@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 1:1맞춤
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
 ---
 
 학원에서 열심히 듣는데 성적이 안 오르는 이유가 있습니다. 나에게 맞는 수업이 아니기 때문입니다.

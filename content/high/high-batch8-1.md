@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 ---
 ## 고등학생이 되면 뭐가 달라지나요? 중학교 때처럼 하면 안 되나요?
 

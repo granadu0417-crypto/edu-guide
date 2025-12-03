@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤커리큘럼
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
 ---
 
 영어 성적이 들쭉날쭉하다면, 실력이 아직 완전히 정착되지 않은 것입니다.

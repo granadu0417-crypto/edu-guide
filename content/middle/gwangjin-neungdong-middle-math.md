@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 ---
 ## 광진구 능동 중학생, 수학 도형의 닮음이 헷갈린다면
 

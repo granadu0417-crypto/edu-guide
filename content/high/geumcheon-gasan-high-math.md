@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
 ---
 
 수학 때문에 스트레스받고 계신가요? 해결 방법이 있습니다.

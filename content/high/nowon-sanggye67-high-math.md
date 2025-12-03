@@ -19,7 +19,7 @@ tags:
   - 내신대비
   - 수능대비
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
 
 ---
 ## 상계6·7동 고등학생, 수학 성적 돌파구가 필요하다면

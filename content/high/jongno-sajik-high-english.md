@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
 ---
 
 요약문 완성 문제에서 빈칸을 못 채우겠다면? 핵심 추출 훈련이 필요합니다.

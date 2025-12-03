@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 집중력 완벽 향상 전략 | 1:1 맞춤 지도, 몰입·지속·관리 [2025년]"
 tags: ["중학생", "집중력", "몰입", "학습능력", "효율", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
 ---
 
 ## 공부할 때 자꾸 딴 생각이 나요. 집중력을 어떻게 키울 수 있나요?

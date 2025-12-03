@@ -11,7 +11,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 ## 왜 그런지 모르겠는데 틀렸어요, 이 말을 자주 듣나요?
 

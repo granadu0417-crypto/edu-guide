@@ -18,7 +18,7 @@ tags:
   - 신상중
   - 맞춤커리큘럼
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
 
 ---
 ## 상계6·7동 중학생, 영어 실력을 올리고 싶다면

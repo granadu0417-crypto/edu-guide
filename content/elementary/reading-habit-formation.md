@@ -13,7 +13,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
 ---
 ## 책 읽으라고 하면 도망가는 아이, 어떻게 해야 할까요?
 

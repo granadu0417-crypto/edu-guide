@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
 ---
 ## 국어 지문 읽다 보면 뒤에 뭐가 있었는지 기억이 안 나요. 어떻게 해야 하죠?
 

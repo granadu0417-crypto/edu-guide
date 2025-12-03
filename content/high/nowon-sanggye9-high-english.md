@@ -17,7 +17,7 @@ tags:
   - 청원고
   - 용화여고
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 
 ---
 ## 상계9동 고등학생, 나에게 맞는 영어 커리큘럼이 필요하다면

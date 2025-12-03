@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 암기 완벽 마스터 전략 | 1:1 맞춤 지도, 이해·반복·연상 [2025년]"
 tags: ["중학생", "암기", "기억력", "복습", "학습법", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
 ---
 
 ## 외우기만 하면 금방 까먹어요. 오래 기억하는 방법이 뭐예요?

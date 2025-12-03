@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
 ---
 ## 공부는 하는데 성적이 안 오른다면, 습관이 문제입니다
 

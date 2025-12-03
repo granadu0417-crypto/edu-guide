@@ -7,7 +7,7 @@ reading_time: "664줄"
 description: "고등학생을 위한 동기부여와 성장 마인드셋 완전 가이드. 목표 설정부터 슬럼프 극복까지 지속 가능한 학습 동기 만들기."
 categories: ["고등"]
 tags: ["동기부여", "마인드셋", "목표설정", "자기계발", "슬럼프극복", "긍정마인드", "학습동기", "성장마인드"]
-featured_image: "https://images.unsplash.com/photo-1499728603263-13726abce5fd?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

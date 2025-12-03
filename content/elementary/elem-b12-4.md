@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
 ---
 ## 중학교 가면 갑자기 어려워진다던데, 진짜일까요?
 

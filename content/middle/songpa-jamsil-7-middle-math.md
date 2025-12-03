@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 잠실역
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 잠실7동 중학생, 수학 삼각비 사인·코사인·탄젠트가 헷갈린다면

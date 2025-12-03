@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 영어 완벽 학습 전략 | 1:1 맞춤 지도, 문법·독해·듣기·말하기 [2025년]"
 tags: ["중학생", "영어", "학습전략", "문법", "독해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 문법이랑 단어 외우는데 시간은 많이 쓰는데 성적이 안 올라요. 뭐가 문제일까요?

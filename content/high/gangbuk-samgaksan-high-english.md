@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 삼각산고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
 ---
 
 영어 지문이 길어지면 앞에서 읽은 내용이 기억나지 않나요?

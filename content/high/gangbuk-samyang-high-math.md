@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 신일고
   - 영훈고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
 ---
 
 중학교 때는 그럭저럭 했는데, 고등학교 올라와서 수학이 갑자기 안 된다고요?

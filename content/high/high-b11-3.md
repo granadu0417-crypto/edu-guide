@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
 ---
 ## 수시 원서 어디 넣을지, 정시 점수는 어디까지 되는지, 막막하시죠?
 

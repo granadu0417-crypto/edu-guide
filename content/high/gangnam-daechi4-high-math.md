@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 휘문고
   - 보성고
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
 ---
 
 서술형 풀이 과정에서 감점이 많다면? 논리적 서술력 훈련이 필요합니다.

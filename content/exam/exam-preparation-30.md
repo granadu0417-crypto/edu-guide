@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 ## 서술형 문제만 나오면 뭘 써야 할지 머리가 하얘져요. 어떻게 쓰면 되나요?
 

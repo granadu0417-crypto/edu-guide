@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
 ---
 ## 강동구 성내2동 중학생, 수학 연립방정식 풀이가 복잡하다면
 

@@ -11,7 +11,7 @@ tags:
 - 국제고
 - 고입과외
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---
 ## 특목고 가려면 과외가 꼭 필요한가요?
 

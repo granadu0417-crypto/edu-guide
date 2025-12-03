@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 천호고
   - 성내고
-featured_image: "https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 ---
 
 듣기에서 놓치는 문제가 있다면? 청취 집중력 훈련이 필요합니다.

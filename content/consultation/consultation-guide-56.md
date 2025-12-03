@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 ---
 
 ## 선생님이 예습해오라고 하는데, 뭘 어떻게 봐야 하는지 모르겠어요. 예습, 꼭 해야 하나요?

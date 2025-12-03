@@ -17,7 +17,7 @@ tags:
   - 경인고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
 ---
 
 같은 개념도 학교마다 출제 방식이 다릅니다. 학교에 맞춘 준비가 필요합니다.

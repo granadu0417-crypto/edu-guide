@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
 ---
 ## 시간이 부족해서 맨날 뒤에 문제 못 풀어요. 시간 배분 어떻게 해야 하나요?
 

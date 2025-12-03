@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 송파나루역
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 송파1동 중학생, 수학 피타고라스 정리가 헷갈린다면

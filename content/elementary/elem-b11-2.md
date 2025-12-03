@@ -13,7 +13,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
 ---
 ## 중학교까지 2년, 지금 만드는 습관이 내신의 기초가 됩니다
 

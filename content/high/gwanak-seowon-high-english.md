@@ -17,7 +17,7 @@ tags:
   - 삼성고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=1200&h=630&fit=crop"
 ---
 
 같은 영어 수업을 들어도 성적이 다른 이유가 있습니다. 나에게 맞는 수업인지가 중요합니다.

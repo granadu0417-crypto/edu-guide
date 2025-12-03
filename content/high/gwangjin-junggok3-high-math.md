@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=1200&h=630&fit=crop"
 ---
 
 쉬운 문제는 맞는데 어려운 문제에서 막히는 경험, 있으신가요? 응용력이 부족하기 때문입니다.

@@ -11,7 +11,7 @@ tags:
 - 수능
 - 시험대비
 - 시험전략
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---
 ## 영어 시험에서 독해랑 문법 중 뭘 먼저 공부해야 하나요?
 

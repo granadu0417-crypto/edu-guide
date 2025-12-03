@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 성내고
   - 길동고
-featured_image: "https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
 ---
 
 지문 유형에 따라 점수 차이가 크다면? 취약 유형 집중 훈련이 필요합니다.

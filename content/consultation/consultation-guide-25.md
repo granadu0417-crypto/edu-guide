@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---
 
 ## 학원, 숙제, 인강까지 할 게 너무 많은데, 시간이 모자라요. 어떻게 관리해야 할까요?

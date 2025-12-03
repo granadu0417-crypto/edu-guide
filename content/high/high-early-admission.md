@@ -7,7 +7,7 @@ reading_time: "911줄"
 description: "고등학생을 위한 수시 전형 완전 정복 가이드. 학생부종합, 학생부교과, 논술까지 전형별 준비 전략과 합격 로드맵."
 categories: ["고등"]
 tags: ["수시전형", "학생부종합", "학생부교과", "논술전형", "대입전략", "입시준비", "생기부", "자소서"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

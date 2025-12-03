@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 노트 정리 완벽 마스터 전략 | 1:1 맞춤 지도, 필기·정리·복습 [2025년]"
 tags: ["중학생", "노트정리", "필기", "정리", "복습", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
 ---
 
 ## 수업 시간에 필기를 열심히 하는데 정작 복습할 때 보면 뭔 소린지 모르겠어요

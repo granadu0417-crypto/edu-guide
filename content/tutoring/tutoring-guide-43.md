@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
 ---
 
 ## 과외를 하고 있는데 돈 값을 못 하는 것 같아요. 어떻게 해야 효과가 나나요?

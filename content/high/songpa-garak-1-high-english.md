@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 가락고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
 ---
 
 긴 지문만 나오면 집중이 흐트러진다면? 장문 독해 집중력이 필요합니다.

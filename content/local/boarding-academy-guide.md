@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "기숙학원 완벽 가이드 | 기숙학원 특징·일반학원 차이·선택 기준·입소 준비·학습 효과·생활 관리·주의사항까지 상세 안내"
 tags: ["기숙학원", "재수학원", "기숙형학원", "입시학원", "집중학습", "학원생활", "재수생", "N수생"]
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
 ---
 
 ## 기숙학원에 가면 성적이 정말 오를까요? 통학 학원과 비교해서 어떤 점이 다른가요?

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광양고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 글의 흐름은 아는데 답을 고르면 틀리는 경험, 있으신가요? 선택지 함정을 피하는 훈련이 필요합니다.

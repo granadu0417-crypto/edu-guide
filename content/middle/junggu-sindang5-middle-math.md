@@ -20,7 +20,7 @@ tags:
   - 장원중
   - 수학개념
   - 수학심화
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 신당5동 중학생, 수학 부등식의 해집합이 어렵다면

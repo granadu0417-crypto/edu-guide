@@ -7,7 +7,7 @@ reading_time: "878줄"
 description: "고등학생을 위한 생명과학 완전 정복 가이드. 세포부터 유전, 진화, 생태계까지 개념 이해와 문제풀이 전략. 수능 만점을 위한 체계적 접근법."
 categories: ["고등"]
 tags: ["고등생명과학", "생물학습법", "수능생명과학", "세포", "유전", "생태계", "과학탐구", "생물개념"]
-featured_image: "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

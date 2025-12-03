@@ -19,7 +19,7 @@ tags:
 - 입시,
 - 강남
 - 강동
-featured_image: https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
 ---
 
 ## 특목고나 자사고에 보내고 싶은데, 어떤 학교가 있고 어떻게 준비해야 하나요?

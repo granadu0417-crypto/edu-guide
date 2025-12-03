@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 기초실전
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=1200&h=630&fit=crop"
 ---
 
 영어 지문을 읽는데 시간이 너무 오래 걸린다면, 독해 방법이 잘못된 것일 수 있습니다.

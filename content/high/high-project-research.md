@@ -7,7 +7,7 @@ reading_time: "658줄"
 description: "고등학생을 위한 탐구 활동 완벽 가이드. 주제 선정부터 자료 조사, 실험 설계, 결과 정리까지. 학생부 종합전형을 위한 실전 연구 전략."
 categories: ["고등"]
 tags: ["고등탐구활동", "연구프로젝트", "학생부", "과학탐구", "사회탐구", "학종", "탐구보고서", "실험설계"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

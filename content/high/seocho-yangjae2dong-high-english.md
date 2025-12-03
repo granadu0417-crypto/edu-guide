@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 언남고
   - 양재고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---
 
 시험 범위는 다 외웠는데 변형 문제에서 틀린다면? 응용력 훈련이 필요합니다.

@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 가락시장역
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 가락본동 중학생, 영어 현재완료와 과거완료의 차이가 헷갈린다면

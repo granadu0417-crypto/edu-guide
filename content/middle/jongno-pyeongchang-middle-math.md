@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 수학개념
 - 수학심화
-featured_image: https://images.unsplash.com/photo-1632571401005-458e9d244591?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 평창동 중학생, 수학 비례식과 비례배분이 안 된다면

@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 개념실전
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
 ---
 
 문제를 풀다 막히면 어디서부터 다시 시작해야 할지 모르겠다는 학생들이 많습니다. 개념을 다시 점검해야 합니다.

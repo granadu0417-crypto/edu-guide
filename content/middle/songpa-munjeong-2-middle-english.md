@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 문정역
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 문정2동 중학생, 영어 조건절과 if의 쓰임이 헷갈린다면

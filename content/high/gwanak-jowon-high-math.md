@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 개념실전
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
 ---
 
 문제를 보면 어떤 공식을 써야 할지 모르겠다고요? 개념이 제대로 잡히지 않았기 때문입니다.

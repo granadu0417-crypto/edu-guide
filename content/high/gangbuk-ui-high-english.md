@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 ---
 
 영어 공부를 해도 실력이 안 느는 것 같나요?

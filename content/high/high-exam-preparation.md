@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 시험 대비 완벽 전략 | 내신 시험, 모의고사, 수능 대비, 과목별 전략, 시간 관리, 오답 노트, 멘탈 관리, 1:1 맞춤 지도 [2025년]"
 tags: ["시험대비", "내신시험", "모의고사", "수능준비", "시험전략", "오답노트", "시간관리", "멘탈관리", "공부방법", "집중력", "암기법", "문제풀이", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
 ---
 
 ## 시험 범위가 너무 많아서 다 못 볼 것 같아요. 시험만 보면 긴장해서 아는 것도 틀려요. 어떻게 하면 되나요?

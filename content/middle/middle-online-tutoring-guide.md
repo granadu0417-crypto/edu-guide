@@ -10,7 +10,7 @@ tags:
 - 비대면과외
 - 중등과외
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
 ---
 ## 이동 시간 40분, 아깝지 않으세요?
 

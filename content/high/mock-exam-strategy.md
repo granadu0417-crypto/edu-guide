@@ -12,7 +12,7 @@ tags:
 - 모의고사
 - 수능
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 ---
 ## 모의고사 점수만 확인하고 끝내면 되는 거 아닌가요?
 

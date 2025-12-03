@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
 ---
 
 긴 지문을 읽다 보면 앞부분이 기억나지 않는 경험, 있으신가요? 읽는 방법을 바꿔야 합니다.

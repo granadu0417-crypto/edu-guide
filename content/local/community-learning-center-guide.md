@@ -12,7 +12,7 @@ tags:
 - 지역사회
 - 교육복지
 - 방과후
-featured_image: https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---
 
 ## 우리 동네에 무료로 이용할 수 있는 교육 시설이 있다던데, 어떤 곳들이 있나요?

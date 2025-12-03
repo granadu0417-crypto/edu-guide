@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 문정고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1598025678451-af5c59b29c40?w=1200&h=630&fit=crop"
 ---
 
 글의 목적 파악이 어렵다면? 필자 의도 분석력이 필요합니다.

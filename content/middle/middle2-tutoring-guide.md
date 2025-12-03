@@ -11,7 +11,7 @@ tags:
 - 1:1과외
 - 중2학습
 - 사춘기학습
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
 ---
 ## 중2는 공부해도 소용없다고요? 그 말을 믿으면 안 됩니다
 

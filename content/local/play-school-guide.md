@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "놀이학교의 모든 것 - 놀이 중심 교육의 중요성, 연령별 프로그램, 시설 선택 기준, 발달 단계별 놀이 활동까지 우리 아이에게 맞는 놀이학교 찾기 완벽 가이드입니다."
 tags: ["놀이학교", "영유아교육", "유아교육", "놀이중심교육", "어린이집", "육아", "발달교육", "사회성발달", "유아기관", "과외대안"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
 ---
 
 ## 아이를 놀이학교에 보내야 할지 고민이시죠? 어린이집과 뭐가 다른지도 헷갈리시고요.

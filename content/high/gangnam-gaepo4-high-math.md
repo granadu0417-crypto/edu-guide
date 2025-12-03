@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
 ---
 
 도형 문제만 나오면 어려워한다면? 공간 지각력 훈련이 필요합니다.

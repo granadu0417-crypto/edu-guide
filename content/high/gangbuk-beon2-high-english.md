@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 신일고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
 ---
 
 문법 공부는 열심히 했는데 독해에서 적용이 안 되나요?

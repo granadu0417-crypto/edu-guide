@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 수학 완벽 정복 전략 | 1:1 맞춤 지도, 개념·유형·심화 [2025년]"
 tags: ["중학생", "수학", "학습전략", "개념", "문제풀이", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
 ---
 
 ## 수학은 무조건 많이 풀어야 하나요? 아무리 풀어도 실력이 안 느는 것 같아요

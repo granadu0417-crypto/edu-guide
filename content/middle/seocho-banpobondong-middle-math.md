@@ -22,7 +22,7 @@ tags:
   - 문제풀이
   - 구반포역
   - 신반포역
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
 ---
 ## 서초구 반포본동 중학생, 수학 확률 계산이 헷갈린다면
 

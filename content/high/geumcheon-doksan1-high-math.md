@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
 ---
 
 수학 실력이 제자리인 이유, 혹시 기초가 흔들리기 때문은 아닌가요?

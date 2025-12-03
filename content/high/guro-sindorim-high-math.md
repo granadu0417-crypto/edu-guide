@@ -17,7 +17,7 @@ tags:
   - 구현고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
 ---
 
 수학 성적이 오르지 않아 고민이신가요? 신도림동에서 검증된 수학 과외로 성적 향상의 기회를 잡으세요.

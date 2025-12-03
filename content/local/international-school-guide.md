@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "국제학교 완벽 가이드입니다. 입학 자격, IB·AP 교육과정, 입학 전형, 장단점, 해외·국내 대학 진학까지 국제학교의 모든 정보를 안내합니다."
 tags: ["국제학교", "IB학교", "AP과정", "외국인학교", "국제학교입학", "국제학교교육과정", "해외대학진학", "국제바칼로레아"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
 ---
 
 ## 우리 아이를 국제학교에 보내야 할까요? IB와 AP 과정 차이가 뭔지 헷갈리시죠.

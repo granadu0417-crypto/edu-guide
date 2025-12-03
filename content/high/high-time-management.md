@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 실전 시간 관리 시스템. 우선순위 설정부터 타임 블로킹, 데드라인 관리까지. 공부·휴식·수면을 모두 챙기는 완벽한 일정 관리법."
 tags: ["고등시간관리", "공부계획", "학습효율", "일정관리", "우선순위", "타임블로킹", "수능준비", "내신대비"]
-featured_image: "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
 ---
 
 ## 하루가 너무 빨리 가요. 공부하려고 앉으면 어느새 잘 시간인데 왜 이렇게 시간이 없나요?

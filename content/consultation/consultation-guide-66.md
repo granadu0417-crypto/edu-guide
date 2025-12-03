@@ -13,7 +13,7 @@ tags:
 - 집중력
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 ---
 
 ## 책상에 앉아 있는 시간은 긴데 공부가 안 돼요. 집중하려고 하면 자꾸 딴생각이 나요.

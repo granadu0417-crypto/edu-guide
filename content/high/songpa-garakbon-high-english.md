@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 가락고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
 ---
 
 글의 흐름을 파악했는데 순서 배열이 틀린다면? 문단 연결 논리력이 필요합니다.

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 국어 완벽 학습 전략 | 1:1 맞춤 지도, 독해·문법·문학 [2025년]"
 tags: ["중학생", "국어", "학습전략", "독해", "문법", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
 ---
 
 ## 국어는 공부해도 점수가 안 올라요. 국어는 어떻게 공부해야 하나요?

@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
 ---
 ## 책상 앞에 앉아도 집중이 안 돼요
 

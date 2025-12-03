@@ -19,7 +19,7 @@ tags:
   - 상명고
   - 내신수능
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 
 ---
 ## 중계2·3동 고등학생, 영어 내신과 수능 1등급을 목표로 한다면

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세화여고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=1200&h=630&fit=crop"
 ---
 
 오답 정리는 하는데 비슷한 문제가 또 틀린다면? 오답 분석 방법을 바꿔야 합니다.

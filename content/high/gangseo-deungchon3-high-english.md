@@ -18,7 +18,7 @@ tags:
   - 등촌고
   - 경복여고
   - 영일고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
 ---
 
 영어 공부 계획을 세워도 잘 안 지켜지나요?

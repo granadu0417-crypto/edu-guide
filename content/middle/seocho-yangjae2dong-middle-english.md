@@ -12,7 +12,7 @@ keywords: ["서초구 중등영어", "양재2동 영어과외", "언남중 내�
 
 tags:
   - yangjae2동
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 ## 서초구 양재2동 중학생, 영어 시제 일치가 헷갈린다면
 

@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
 ---
 
 시험에서 항상 비슷한 유형에서 틀린다면? 취약점 분석이 필요합니다.

@@ -12,7 +12,7 @@ tags:
 - 집중력
 - 초등교육
 - 초등학습
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
 ---
 ## 받아쓰기 100점, 한두 번 틀린다고 포기하지 마세요
 

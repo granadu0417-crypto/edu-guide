@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강남서초고
   - 중동고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
 ---
 
 문제 해석이 잘 안 된다면? 문제 분석력 훈련이 필요합니다.

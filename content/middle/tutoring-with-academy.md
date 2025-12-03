@@ -9,7 +9,7 @@ tags:
 - 중등과외
 - 학원
 - 병행전략
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 ---
 ## 학원 다니는데 과외까지 해야 할까요?
 

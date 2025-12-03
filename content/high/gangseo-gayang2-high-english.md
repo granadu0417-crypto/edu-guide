@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 세현고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
 ---
 
 해석은 되는데 문제를 못 맞히시나요?

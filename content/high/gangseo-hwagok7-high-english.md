@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
 ---
 
 수능 영어 유형이 어렵게 느껴지시나요?

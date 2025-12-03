@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 양재고
   - 언남고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
 ---
 
 문법은 아는데 영작이 안 된다면? 문장 구성력 훈련이 필요합니다.

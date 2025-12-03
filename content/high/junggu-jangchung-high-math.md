@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
 ---
 
 선행은 했는데 내신이 안 나온다면? 학교별 출제 경향 분석이 필요합니다.

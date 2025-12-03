@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "온라인 학습 도구 완벽 가이드입니다. EBS·유튜브·인강 플랫폼, 학습 관리 앱, 화상 과외, 교육용 앱까지 효과적인 온라인 학습 방법을 안내합니다."
 tags: ["온라인학습", "인터넷강의", "EBS강의", "화상과외", "학습앱", "온라인과외", "교육플랫폼", "디지털학습"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 
 ## 온라인 강의로 정말 효과가 있을까요? 아이가 집중을 못 할까 봐 걱정되시죠.

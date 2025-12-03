@@ -20,7 +20,7 @@ tags:
   - 대경중
   - 영어문법
   - 영어독해
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 동화동 중학생, 영어 사역동사가 헷갈린다면

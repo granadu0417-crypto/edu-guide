@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
 ---
 
 풀이 시간이 너무 오래 걸린다면? 문제 접근법을 바꿔야 합니다.

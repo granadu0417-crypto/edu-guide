@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습방법
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
 ---
 
 ## 수학은 수학대로, 영어는 영어대로 따로 공부해야 하나요? 과목마다 공부법이 다른 거예요?

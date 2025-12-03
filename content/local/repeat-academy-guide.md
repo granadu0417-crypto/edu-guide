@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "재수 결정부터 성공까지 - 재수학원 유형별 비교, 선택 기준, 효과적인 학습 전략, 멘탈 관리 방법, 반수와 독학재수까지 재수생이 알아야 할 모든 정보를 담은 완벽 가이드입니다."
 tags: ["재수학원", "재수", "수능", "대학입시", "기숙학원", "반수", "독학재수", "입시전략", "과외", "학습관리"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
 ---
 
 ## 재수를 해야 할지 말아야 할지 고민이시죠? 학원이랑 독학 중에 뭐가 나은지도 모르겠고요.

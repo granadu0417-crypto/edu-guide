@@ -14,7 +14,7 @@ tags:
 - 수능
 - 수시
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
 ---
 ## 수시 전형이 너무 복잡해요. 학종, 교과, 논술 중에 뭘 준비해야 할지 모르겠어요.
 

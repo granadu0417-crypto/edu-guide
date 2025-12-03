@@ -18,7 +18,7 @@ tags:
   - 재현고
   - 맞춤커리큘럼
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 
 ---
 ## 중계1동 고등학생, 학교에 맞는 수학 공부가 필요합니다

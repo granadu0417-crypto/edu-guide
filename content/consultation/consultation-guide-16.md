@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---
 
 ## 선행학습은 필수라고 하는데, 어디까지 어떻게 해야 할지 모르겠어요. 효과적인 예습 방법이 있나요?

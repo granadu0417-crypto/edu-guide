@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "전북도의 교육 환경을 완벽 분석합니다. 전주 학원가부터 전북대 과외, 온라인 교육 전략까지 전북 지역 맞춤 교육 정보를 제공합니다."
 tags: ["전북교육", "전북학원", "전북과외", "전주학원", "전주과외", "익산과외", "전북대과외", "원광대과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
 ---
 
 ## 전북도에서 아이 교육 어떻게 해야 할까요? 전주에서 해결될지 광주까지 가야 할지 고민이시죠.

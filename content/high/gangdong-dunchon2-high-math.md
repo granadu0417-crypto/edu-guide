@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 둔촌고
   - 천호고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
 ---
 
 증명 문제를 어떻게 시작해야 할지 모른다면? 논리적 추론 훈련이 필요합니다.

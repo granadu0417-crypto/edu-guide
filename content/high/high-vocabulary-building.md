@@ -7,7 +7,7 @@ reading_time: "642줄"
 description: "고등학생을 위한 체계적인 어휘력 향상 가이드. 효율적인 암기법부터 문맥 활용, 어원 분석까지. 수능 필수 어휘를 완벽하게 정복하는 전략."
 categories: ["고등"]
 tags: ["고등어휘", "어휘력향상", "영단어암기", "국어어휘", "수능어휘", "단어암기법", "어원", "문맥파악"]
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

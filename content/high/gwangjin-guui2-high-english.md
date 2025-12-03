@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 동국대부가람고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
 ---
 
 독해 속도가 느려서 시간이 항상 부족하다고요? 영어는 훈련 방식을 바꿔야 합니다.

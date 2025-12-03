@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
 ---
 ## 고1 때부터 비교과 해야 한다는데, 뭘 어디서부터 시작해야 하나요?
 

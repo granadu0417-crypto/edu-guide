@@ -17,7 +17,7 @@ tags:
   - 구로고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
 ---
 
 내신과 수능 중 하나만 선택해야 한다고 생각하시나요? 둘 다 잡을 수 있습니다.

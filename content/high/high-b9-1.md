@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
 ---
 ## 고1 1학기 내신, 생각보다 중요한 거 알고 계셨나요?
 

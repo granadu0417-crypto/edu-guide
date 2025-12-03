@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "과외는 언제 시작해야 할까요? 학년별, 상황별 최적의 과외 시작 시점을 알려드립니다."
 tags: ["중등과외", "1:1과외", "학습전략", "과외시기"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
 ---
 
 ## 과외를 언제 시작해야 하나요? 지금 시작해도 늦지 않았을까요?

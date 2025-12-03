@@ -17,7 +17,7 @@ tags:
   - 구현고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
 ---
 
 개념은 알겠는데 문제가 안 풀린다면, 개념을 제대로 이해하지 못한 것입니다.

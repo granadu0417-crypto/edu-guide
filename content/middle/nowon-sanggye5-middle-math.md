@@ -18,7 +18,7 @@ tags:
   - 노일중
   - 실력향상
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=1200&h=630&fit=crop"
 
 ---
 ## 상계5동 중학생, 수학 실력이 제자리라면

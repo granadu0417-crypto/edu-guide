@@ -17,7 +17,7 @@ tags:
   - 수락고
   - 내신수능병행
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
 
 ---
 ## 상계5동 고등학생, 영어 내신과 수능을 동시에 준비하고 싶다면

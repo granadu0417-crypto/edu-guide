@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 쓰기
-featured_image: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=1200&h=630&fit=crop"
 ---
 ## 논술이 수시 전형 중에서 가장 로또라고 하는데, 정말 그런가요?
 

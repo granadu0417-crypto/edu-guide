@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 ---
 
 ## 친구랑 같이 과외를 받으면 더 저렴한가요? 효과는 어떤가요?

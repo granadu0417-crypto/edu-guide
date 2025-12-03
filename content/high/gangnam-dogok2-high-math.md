@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1551836022-4c4c79ecde51?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
 ---
 
 공식은 외웠는데 어디에 적용할지 모르겠다면? 문제 유형 분석력이 필요합니다.

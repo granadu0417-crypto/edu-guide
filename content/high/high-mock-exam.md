@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 모의고사 완벽 분석 전략 | 체계적 오답 분석, 영역별 분석법, 약점 보완, 시간 배분 전략 [2025년]"
 tags: ["모의고사", "모의고사분석", "오답분석", "약점보완", "시간배분", "수능대비", "고등학생"]
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
 ---
 
 ## 모의고사를 봐도 점수가 안 올라요. 분석은 어떻게 하는 건가요? 모의고사를 제대로 활용하는 법을 알려주세요.

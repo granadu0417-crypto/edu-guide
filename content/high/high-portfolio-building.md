@@ -7,7 +7,7 @@ reading_time: "726줄"
 description: "고등학생을 위한 포트폴리오 구축 완전 가이드. 생활기록부 관리, 비교과 활동, 자기소개서까지 대입 포트폴리오 전략."
 categories: ["고등"]
 tags: ["포트폴리오", "생기부관리", "비교과활동", "자소서", "학생부", "대입준비", "진로활동", "동아리활동"]
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

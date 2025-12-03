@@ -12,7 +12,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습가이드
-featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
 ---
 ## 영어 단어를 외우지 않아도 읽을 수 있다면요?
 

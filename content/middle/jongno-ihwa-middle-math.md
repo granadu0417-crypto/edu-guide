@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 수학개념
 - 수학심화
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 이화동 중학생, 수학 소인수분해가 안 된다면

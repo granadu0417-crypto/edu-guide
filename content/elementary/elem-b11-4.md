@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
 ---
 ## 정해진 답 말고 다른 방법으로 풀어볼래? 이 질문에 흥미를 보이나요?
 

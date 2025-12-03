@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "부산 수학 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·개념부터 문제풀이까지·내신 수능 대비·1:1 과외 추천"
 tags: ["부산수학과외", "부산과외", "수학과외", "부산교육", "초등수학", "중등수학", "고등수학", "수학내신", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
 ---
 
 ## 개념은 아는 것 같은데 문제를 풀면 틀려요. 계산 실수도 너무 많고요. 어떻게 해야 수학 성적이 오를까요?

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 시간 관리 완벽 습득 비법 | 1:1 맞춤 지도, 계획·실행·점검 [2025년]"
 tags: ["중학생", "시간관리", "계획", "실행", "효율", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop"
 ---
 
 ## 시간이 부족해요. 학원 다녀오면 지치고, 숙제하면 밤이에요. 언제 공부하죠?

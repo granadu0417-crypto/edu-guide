@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 휘문고
   - 중대부고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
 ---
 
 삼각함수에서 혼란스럽다면? 삼각함수 완전 정복이 필요합니다.

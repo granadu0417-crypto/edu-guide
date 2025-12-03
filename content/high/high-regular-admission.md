@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 정시 전형 완전 정복 가이드. 수능 준비 전략부터 가채점, 원서접수, 추가합격까지 정시의 모든 것."
 tags: ["정시전형", "수능준비", "가채점", "정시지원", "대입전략", "입시준비", "백분위", "표준점수"]
-featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---
 
 ## 정시는 수능 점수만 잘 받으면 되는 거 아닌가요? 지원 전략이 왜 중요한지 모르겠어요.

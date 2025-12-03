@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
 ---
 ## 시험 일주일 남았는데 범위가 너무 많아요. 지금이라도 다 볼 수 있을까요?
 

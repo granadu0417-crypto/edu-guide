@@ -18,7 +18,7 @@ tags:
   - 상명중
   - 학습관리
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
 
 ---
 ## 중계2·3동 중학생, 수학 공부 체계적으로 하고 싶다면

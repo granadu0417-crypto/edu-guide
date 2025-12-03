@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "대전 수학 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·개념부터 문제풀이까지·내신 수능 대비·1:1 과외 추천"
 tags: ["대전수학과외", "대전과외", "수학과외", "대전교육", "초등수학", "중등수학", "고등수학", "수학내신", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
 ---
 
 ## 대전에서 수학 과외 선생님 어떻게 구해야 할까요? KAIST 학생 과외가 효과가 있을지 궁금하시죠.

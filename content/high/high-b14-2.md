@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 모의고사
 - 수능
-featured_image: https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
 ---
 ## 모의고사 등급이 오락가락해요. 어떻게 해야 안정적인 등급이 나올까요?
 

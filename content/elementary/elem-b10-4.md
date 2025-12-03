@@ -11,7 +11,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=1200&h=630&fit=crop"
 ---
 ## 풀이 과정이 틀렸는데 답은 맞았다, 이런 경우 있죠?
 

@@ -15,7 +15,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
 ---
 ## 특목고, 자사고 정말 갈 수 있을까요?
 

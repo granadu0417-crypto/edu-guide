@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 한서고
   - 동양고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
 ---
 
 수학 점수가 자꾸 발목을 잡나요?

@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
 ---
 ## 내신 1등급 받고 싶은데 학교 시험이 너무 어려워요. 어떻게 준비해야 하나요?
 

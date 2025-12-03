@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 성내고
   - 둔촌고
-featured_image: "https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
 ---
 
 모의고사와 내신 점수 격차가 크다면? 시험별 맞춤 전략이 필요합니다.

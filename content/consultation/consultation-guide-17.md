@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 ## 틀린 문제를 다시 풀어도 또 틀리는데, 오답노트는 어떻게 만들어야 효과가 있나요?

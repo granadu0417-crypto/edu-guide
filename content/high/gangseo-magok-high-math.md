@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 공항고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
 ---
 
 혼자 공부하면 자꾸 딴짓하게 되나요?

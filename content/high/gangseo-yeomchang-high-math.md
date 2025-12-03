@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 등촌고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
 ---
 
 수학 성적이 들쭉날쭉해서 걱정되시나요?

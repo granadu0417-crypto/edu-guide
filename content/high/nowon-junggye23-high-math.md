@@ -19,7 +19,7 @@ tags:
   - 상명고
   - 내신수능
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
 
 ---
 ## 중계2·3동 고등학생, 수학 내신과 수능을 함께 잡고 싶다면

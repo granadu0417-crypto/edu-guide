@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서문여고
   - 동덕여고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop"
 ---
 
 기본 문제는 맞는데 심화에서 점수가 깎인다면? 개념 적용력을 키워야 합니다.

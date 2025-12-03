@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
 ---
 ## 생기부가 중요하다는 건 알겠는데, 뭘 어떻게 채워야 하는 건지 모르겠어요
 

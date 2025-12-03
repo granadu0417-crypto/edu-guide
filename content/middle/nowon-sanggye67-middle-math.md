@@ -18,7 +18,7 @@ tags:
   - 신상중
   - 내신관리
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
 
 ---
 ## 상계6·7동 중학생, 수학 때문에 고민이라면

@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
 ---
 
 고난도 문제만 풀면 실력이 오른다고 생각하나요? 기초부터 탄탄히 해야 합니다.

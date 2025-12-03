@@ -7,7 +7,7 @@ lastmod: 2025-01-19
 reading_time: "633줄"
 draft: false
 description: "고등학생 겨울방학 과외의 모든 것. 예비 고1, 고2, 고3별 맞춤 전략. 선행과 복습의 황금비율, 단기 집중 과외, 일과 관리까지. 겨울방학을 알차게 보내는 완벽 가이드."
-featured_image: "https://images.unsplash.com/photo-1483389127117-b6a2102724ae?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 tags: ["겨울방학과외", "방학특강", "선행학습", "복습전략", "예비고1", "예비고2", "예비고3", "고등과외", "방학계획"]
 categories: ["고등"]
 sitemap:

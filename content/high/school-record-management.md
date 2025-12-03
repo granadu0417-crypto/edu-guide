@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 학생부
-featured_image: https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---
 ## 생기부가 중요하다는데, 도대체 어디에 뭘 써야 하는 거예요?
 

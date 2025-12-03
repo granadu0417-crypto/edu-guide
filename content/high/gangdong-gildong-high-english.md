@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 배재고
   - 한영고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
 ---
 
 주제문 찾기가 어렵다면? 핵심 문장 파악 훈련이 필요합니다.

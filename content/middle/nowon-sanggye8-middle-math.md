@@ -18,7 +18,7 @@ tags:
   - 청원중
   - 수학개념
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
 
 ---
 ## 상계8동 중학생, 수학 개념부터 확실히 잡고 싶다면

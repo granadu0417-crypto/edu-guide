@@ -8,7 +8,7 @@ tags:
 - 과외교체
 - 선생님교체
 - 중등과외
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
 ---
 ## 선생님을 바꿔야 할 것 같은데, 망설여지시죠?
 

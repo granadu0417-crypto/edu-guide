@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 가락고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
 ---
 
 빈칸에 들어갈 어휘가 비슷해 보인다면? 어휘 뉘앙스 파악력이 필요합니다.

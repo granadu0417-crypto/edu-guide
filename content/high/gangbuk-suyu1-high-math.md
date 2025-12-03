@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
 ---
 
 우리 아이에게 맞는 수학 공부법이 따로 있을까요?

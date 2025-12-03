@@ -13,7 +13,7 @@ tags:
 - 사고력
 - 중등교육
 - 중학교
-featured_image: https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 ## 도형과 함수, 어디서부터 손을 대야 할지 모르겠다고요?
 

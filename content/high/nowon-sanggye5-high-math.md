@@ -17,7 +17,7 @@ tags:
   - 수락고
   - 내신특화
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
 
 ---
 ## 상계5동 고등학생, 학교 내신 시험에 최적화된 대비가 필요하다면

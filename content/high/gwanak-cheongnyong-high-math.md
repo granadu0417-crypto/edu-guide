@@ -17,7 +17,7 @@ tags:
   - 내신특화
   - 수능수학
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
 ---
 
 중간고사가 다가오면 마음이 급해지시죠. 시험 범위는 넓은데 뭘 어떻게 공부해야 할지 막막합니다.

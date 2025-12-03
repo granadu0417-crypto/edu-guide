@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 복정역
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 장지동 중학생, 영어 형용사절과 부사절 구분이 헷갈린다면

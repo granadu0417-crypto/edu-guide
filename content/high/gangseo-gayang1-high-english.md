@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 세현고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
 ---
 
 영어 실력이 정체된 것 같나요?

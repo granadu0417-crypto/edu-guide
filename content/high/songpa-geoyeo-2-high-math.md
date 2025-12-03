@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 문정고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop"
 ---
 
 삼각함수 공식이 너무 많다면? 삼각함수 체계화 훈련이 필요합니다.

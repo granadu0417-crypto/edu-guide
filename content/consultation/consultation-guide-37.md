@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
 ---
 
 ## 시험 때마다 똑같은 유형에서 틀려요. 분명 틀린 문제 다시 풀었는데 왜 또 틀리는 걸까요?

@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "강원도의 교육 환경을 완벽 분석합니다. 춘천·원주·강릉 학원가부터 강원대·연세대 원주 과외, 온라인 교육 전략까지 강원 지역 맞춤 교육 정보를 제공합니다."
 tags: ["강원교육", "강원학원", "강원과외", "춘천학원", "원주학원", "강릉학원", "강원대과외", "연세대원주과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---
 
 ## 강원도에서 아이 교육 어떻게 해야 할까요? 서울만큼 잘 가르칠 수 있을지 걱정되시죠.

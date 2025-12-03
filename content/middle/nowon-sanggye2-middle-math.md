@@ -19,7 +19,7 @@ tags:
   - 노일중
   - 수학기초
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
 
 ---
 ## 상계2동 중학생, 수학 어디서부터 막히셨나요

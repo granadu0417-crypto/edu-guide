@@ -9,7 +9,7 @@ tags:
 - 선행학습
 - 학습전략
 - 방학과외
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

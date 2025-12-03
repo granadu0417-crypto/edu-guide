@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
 ---
 
 ## 필기를 열심히 하는데, 나중에 보면 내가 뭘 썼는지도 모르겠어요. 필기, 제대로 하는 법이 있나요?

@@ -22,7 +22,7 @@ tags:
   - 신반포역
   - 동작역
   - 이수역
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
 ---
 ## 서초구 반포4동 중학생, 수학 일차부등식 부호 바꾸기가 헷갈린다면
 

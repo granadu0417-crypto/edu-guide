@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 장학금 완전 정복 가이드. 교내 장학금부터 대외 장학금까지 종류별 준비 전략과 신청 노하우."
 tags: ["장학금", "장학금신청", "학비지원", "대입장학금", "장학금전략", "교내장학금", "대외장학금", "장학금조건"]
-featured_image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
 ---
 
 ## 장학금은 공부 잘하는 애들만 받는 거 아닌가요? 저도 받을 수 있는 장학금이 있을까요?

@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
 ---
 
 ## 국어는 한국어인데 왜 이렇게 어려운 거예요? 독해력을 어떻게 키워야 하나요?

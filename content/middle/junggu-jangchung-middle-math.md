@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 수학개념
 - 수학심화
-featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 장충동 중학생, 수학 원과 직선이 어렵다면

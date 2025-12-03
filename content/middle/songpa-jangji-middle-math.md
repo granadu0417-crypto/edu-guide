@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 복정역
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 장지동 중학생, 수학 연립일차부등식 풀이가 헷갈린다면

@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 학습관리
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
 ---
 
 수학 공부는 혼자 하기 어렵습니다. 무엇을 어떻게 해야 할지 알려줄 사람이 필요합니다.

@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "광주 수학 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·개념 이해·문제 풀이·내신 수능 대비·1:1 과외 추천"
 tags: ["광주수학과외", "광주과외", "수학과외", "광주교육", "초등수학", "중등수학", "고등수학", "수학학원"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
 ---
 
 ## 수학 공식은 외웠는데 문제가 안 풀리나요? 수학 성적이 계속 떨어져서 고민이시죠.

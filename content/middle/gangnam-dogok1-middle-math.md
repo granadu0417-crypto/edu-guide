@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 도곡타워팰리스
-featured_image: https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 도곡1동 중학생, 수학 방정식 활용 문제가 어렵다면

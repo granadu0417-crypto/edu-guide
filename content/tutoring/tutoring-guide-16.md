@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
 ---
 
 ## 과외를 시작하기 전에 목표를 어떻게 정해야 하나요? 그냥 성적 올리기?

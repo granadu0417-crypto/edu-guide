@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---
 
 ## 인강이나 온라인 수업을 들으면 자꾸 딴짓하게 돼요. 온라인 학습, 제대로 하려면 어떻게 해야 하나요?

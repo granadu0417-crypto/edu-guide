@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 천호고
   - 둔촌고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
 ---
 
 영작 시 문법 오류가 많다면? 정확한 영작 훈련이 필요합니다.

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 마천고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
 ---
 
 로그 방정식이 어렵다면? 로그 법칙 활용력이 필요합니다.

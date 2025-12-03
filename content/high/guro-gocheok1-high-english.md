@@ -17,7 +17,7 @@ tags:
   - 경인고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&h=630&fit=crop"
 ---
 
 영어 지문을 읽어도 무슨 말인지 모르겠다면, 구문 분석 능력이 부족한 것입니다.

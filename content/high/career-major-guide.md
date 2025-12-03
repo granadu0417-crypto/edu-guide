@@ -13,7 +13,7 @@ tags:
 - 수시
 - 정시
 - 진로탐색
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 ---
 ## 하고 싶은 게 많은데 어떻게 하나만 골라야 하나요?
 

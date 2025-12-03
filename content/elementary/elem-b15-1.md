@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
 ---
 ## 초등 6년, 뭘 어떻게 챙겨야 할지 막막하시죠?
 

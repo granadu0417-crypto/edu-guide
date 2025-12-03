@@ -18,7 +18,7 @@ tags:
   - 수명고
   - 명덕고
   - 명덕여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
 ---
 
 영어 시험 볼 때마다 비슷한 점수가 나오시나요?

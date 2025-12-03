@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
 
 ---
 ## 강동구 고덕2동 중학생, 영어 공부 의욕은 있는데 방법을 모르겠다면

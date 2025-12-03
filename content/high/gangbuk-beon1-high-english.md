@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 신일고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 ---
 
 내신 영어 공부하느라 수능 영어는 언제 하나요?

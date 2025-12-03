@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
 ---
 
 서술형 문제에서 점수를 많이 잃으시나요?

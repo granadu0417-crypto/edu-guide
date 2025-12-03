@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=1200&h=630&fit=crop"
 ---
 ## 수능 한 달 전, 이제 뭘 해야 할지 모르겠어요
 

@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=1200&h=630&fit=crop"
 ---
 
 ## 국어 독해가 안 되는데, 과외로 독해력을 어떻게 키우나요?

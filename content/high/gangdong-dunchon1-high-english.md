@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 둔촌고
   - 성내고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
 ---
 
 글의 순서 배열 문제가 어렵다면? 논리 흐름 파악 훈련이 필요합니다.

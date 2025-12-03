@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 마천역
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 마천2동 중학생, 영어 현재분사와 과거분사 구분이 헷갈린다면

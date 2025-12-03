@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "효과적인 공부방법 완벽 가이드 | 과목별 학습법·시간관리·집중력 향상·노트필기·오답정리·시험 준비 전략까지 상세 안내"
 tags: ["공부방법", "학습법", "시간관리", "집중력", "노트필기", "오답노트", "시험공부", "자기주도학습"]
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
 ---
 
 ## 열심히 공부하는데 성적이 안 올라서 답답하시죠? 방법이 잘못된 건 아닌지 걱정되시고요.

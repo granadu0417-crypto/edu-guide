@@ -11,7 +11,7 @@ tags:
 - 학습상담
 - 학습코칭
 - 학원
-featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
 ---
 
 ## 과외를 하고 있는데 효과가 있는 건지 모르겠어요. 성과를 어떻게 측정해야 하나요?

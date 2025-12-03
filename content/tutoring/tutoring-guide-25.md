@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 회화랑 문법이랑 다 해야 하는데, 과외로 둘 다 잡을 수 있나요?

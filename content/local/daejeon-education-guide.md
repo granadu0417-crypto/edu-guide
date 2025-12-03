@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "대전시의 학원, 과외, 교육 환경을 완벽 분석합니다. KAIST, 충남대 과외부터 둔산동·유성구 학원가까지, 과학도시 대전의 맞춤 교육 정보를 제공합니다."
 tags: ["대전교육", "대전학원", "대전과외", "카이스트과외", "충남대과외", "둔산동학원", "유성구학원", "대덕연구단지", "과학도시교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 ---
 
 ## 대전에서 아이 교육 어떻게 해야 하나요? KAIST 학생 과외가 가능한지 궁금해요.

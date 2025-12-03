@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
 ---
 
 긴 문장만 나오면 해석이 뒤죽박죽되나요?

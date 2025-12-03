@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
 ---
 
 삽입문 문제가 어렵다면? 문장 연결 논리력이 필요합니다.

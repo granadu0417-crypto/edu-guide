@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 마천고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
 ---
 
 등비급수 문제가 까다롭다면? 급수 수렴 개념 정리가 필요합니다.

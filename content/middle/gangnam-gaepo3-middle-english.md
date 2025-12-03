@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 개포주거단지
-featured_image: https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 개포3동 중학생, 영어 분사가 형용사인지 동사인지 헷갈린다면

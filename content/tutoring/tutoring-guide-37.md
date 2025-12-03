@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
 ---
 
 ## 진도가 너무 빠르다고 하는데, 선생님한테 뭐라고 말해야 하나요?

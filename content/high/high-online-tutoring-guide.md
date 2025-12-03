@@ -7,7 +7,7 @@ lastmod: 2025-01-16
 reading_time: "578줄"
 draft: false
 description: "고등학생 온라인 과외의 모든 것. 화상 과외, 태블릿 과외, 메타버스 수업까지. 비대면 1:1 과외의 장단점부터 효과적인 학습 환경 구축, 과목별 적합도까지 완벽 가이드."
-featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 tags: ["온라인과외", "화상과외", "비대면과외", "고등과외", "1:1과외", "태블릿과외", "줌수업", "원격수업", "인터넷과외"]
 categories: ["고등"]
 sitemap:

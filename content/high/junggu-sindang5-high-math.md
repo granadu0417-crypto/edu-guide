@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
 ---
 
 같은 유형을 계속 틀린다면? 약점 패턴 분석이 필요합니다.

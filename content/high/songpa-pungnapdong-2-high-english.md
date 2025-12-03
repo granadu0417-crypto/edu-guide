@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 풍납고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
 ---
 
 추론 문제에서 자꾸 틀린다면? 논리적 추론력이 필요합니다.

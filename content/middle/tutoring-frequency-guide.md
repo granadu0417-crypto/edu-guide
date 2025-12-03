@@ -9,7 +9,7 @@ tags:
 - 1:1과외
 - 학습전략
 - 과외횟수
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
 ---
 ## 과외 많이 하면 성적도 많이 오르나요?
 

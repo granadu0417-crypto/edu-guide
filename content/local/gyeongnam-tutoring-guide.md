@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "경남도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 부산대·경상국립대 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["경남과외", "과외", "경남교육", "창원과외", "김해과외", "진주과외", "부산대과외", "경상국립대과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
 ---
 
 ## 경남도에서 과외 선생님 찾기 어렵지 않나요? 부산대생 과외가 효과가 있을지 궁금하시죠.

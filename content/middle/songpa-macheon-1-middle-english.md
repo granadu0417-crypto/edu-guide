@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 마천역
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 마천1동 중학생, 영어 직접화법과 간접화법 전환이 헷갈린다면

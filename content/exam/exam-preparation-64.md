@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 ## 시험 당일 아침부터 긴장이 돼요. 시험장에서 어떻게 해야 실력 발휘가 잘 될까요?
 

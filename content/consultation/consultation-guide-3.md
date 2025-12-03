@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
 ---
 
 ## 내신 성적이 왜 이렇게 안 오르는 걸까요? 시험공부는 열심히 하는데 말이에요.

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496578664-db76b5bf3f63?w=1200&h=630&fit=crop"
 ---
 
 독해만 공부하고 듣기는 소홀하시나요?

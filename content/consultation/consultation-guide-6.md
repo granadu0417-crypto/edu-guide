@@ -12,7 +12,7 @@ tags:
 - 집중력
 - 학습가이드
 - 학습상담
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 ---
 
 ## 책상에 앉으면 딴 생각만 나고, 집중이 안 돼서 걱정이에요. 어떻게 해야 할까요?

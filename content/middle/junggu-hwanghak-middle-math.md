@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 수학개념
 - 수학심화
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 황학동 중학생, 수학 사각형의 성질이 헷갈린다면

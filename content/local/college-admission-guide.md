@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "대입 전형 완벽 가이드 | 수시·정시 차이·학생부종합·교과·논술·실기 전형별 특징·학년별 준비 전략·입시 스케줄·자기소개서·면접 노하우까지 상세 안내"
 tags: ["대입전형", "수시정시", "학생부종합", "학생부교과", "논술전형", "입시전략", "대입준비", "대학입시", "자기소개서", "면접준비"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80"
+featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
 ---
 
 ## 대학 입시 전형이 너무 복잡해요. 수시랑 정시 중에 뭘 준비해야 하는지 모르겠어요.

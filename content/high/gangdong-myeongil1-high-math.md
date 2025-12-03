@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 명일고
   - 명일여고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
 ---
 
 비슷한 문제인데 풀이법이 다르면 혼란스럽다면? 유형 분류 훈련이 필요합니다.

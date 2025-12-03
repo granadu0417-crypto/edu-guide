@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 문정고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
 ---
 
 함수의 연속성 개념이 모호하다면? 연속 개념 명확화가 필요합니다.

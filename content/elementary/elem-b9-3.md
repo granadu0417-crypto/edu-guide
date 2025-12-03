@@ -12,7 +12,7 @@ tags:
 - 초등1학년
 - 초등교육
 - 초등학습
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
 ---
 ## 처음 학교에 간 우리 아이, 공부는 어떻게 시작해야 할까요?
 

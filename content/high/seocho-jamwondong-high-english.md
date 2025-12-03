@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세화고
   - 반포고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
 ---
 
 글의 전개 방식이 파악이 안 된다면? 글 구조 분석 훈련이 필요합니다.

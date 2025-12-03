@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 잠실역
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 잠실4동 중학생, 수학 일차함수와 직선의 방정식이 헷갈린다면

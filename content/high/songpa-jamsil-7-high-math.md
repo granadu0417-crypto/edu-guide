@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
 ---
 
 정적분의 활용이 어렵다면? 넓이와 부피 개념 연결이 필요합니다.

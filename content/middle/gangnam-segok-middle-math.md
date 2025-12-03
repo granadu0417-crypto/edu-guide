@@ -19,7 +19,7 @@ tags:
 - 수학개념
 - 수학심화
 - 세곡자연환경
-featured_image: https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 세곡동 중학생, 수학 연립방정식 풀이가 막막하다면

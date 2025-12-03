@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
 ---
 
 기본 문제는 풀리는데 심화에서 막힌다면? 개념 간 연결이 부족한 것입니다.

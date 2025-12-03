@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 문정역
-featured_image: https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 문정2동 중학생, 수학 일차방정식 문장제가 헷갈린다면

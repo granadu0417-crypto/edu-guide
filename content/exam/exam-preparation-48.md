@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 중간고사
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
 ---
 ## 중간고사가 처음인데 어떻게 준비해야 하나요? 기말고사랑 다른 점이 있나요?
 

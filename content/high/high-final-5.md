@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
 ---
 ## 수학이 발목을 잡아요. 킬러 문항은 손도 못 대고 시간만 가요.
 

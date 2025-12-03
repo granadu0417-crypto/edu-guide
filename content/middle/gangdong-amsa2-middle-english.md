@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: https://images.unsplash.com/photo-1522661067900-ab829854a57b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=1200&h=630&fit=crop"
 
 ---
 ## 강동구 암사2동 중학생, 영어 성적이 정체되어 있다면

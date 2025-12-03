@@ -22,7 +22,7 @@ tags:
   - 문제풀이
   - 방배역
   - 이수역
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
 ---
 ## 서초구 방배본동 중학생, 수학 연립방정식 대입법이 어렵다면
 

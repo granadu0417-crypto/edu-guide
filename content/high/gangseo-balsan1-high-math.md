@@ -18,7 +18,7 @@ tags:
   - 수명고
   - 명덕고
   - 명덕여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 ---
 
 수학 문제를 풀 때 손이 안 나가시나요?

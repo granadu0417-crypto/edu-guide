@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
 ---
 
 단어는 외웠는데 왜 독해할 때 생각이 안 날까요?

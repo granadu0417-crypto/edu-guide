@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
 ---
 
 어휘를 열심히 외우는데 독해가 안 된다면, 공부 방법을 점검해야 합니다.

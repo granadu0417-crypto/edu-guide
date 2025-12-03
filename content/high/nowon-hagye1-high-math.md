@@ -17,7 +17,7 @@ tags:
   - 광운대부고
   - 내신수능
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 
 ---
 ## 하계1동 고등학생, 수학이 발목을 잡고 있다면

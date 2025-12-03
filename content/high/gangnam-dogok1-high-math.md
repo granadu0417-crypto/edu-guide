@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 ---
 
 개념은 아는데 응용 문제에서 막힌다면? 문제 해석력 훈련이 필요합니다.

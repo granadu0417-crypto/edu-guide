@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 집중력 향상의 모든 것. 산만함 원인 진단부터 몰입 기술, 환경 조성, 과외를 통한 집중력 훈련까지. 공부 효율을 10배 높이는 실전 전략."
 tags: ["고등집중력", "공부집중", "몰입학습", "학습효율", "집중력과외", "공부습관", "시험집중", "학습환경"]
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=1200&h=630&fit=crop"
 ---
 
 ## 책상에 앉아 있는 시간은 긴데 공부한 게 머릿속에 안 남아요. 어떻게 해야 집중이 되나요?

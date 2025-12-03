@@ -17,7 +17,7 @@ tags:
   - 경인고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
 ---
 
 문법과 독해를 따로 공부하고 계신가요? 함께 공부하면 훨씬 효율적입니다.

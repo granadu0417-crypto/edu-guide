@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 동국대부가람고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?w=1200&h=630&fit=crop"
 ---
 
 문장이 길어지면 해석이 막히나요? 고등 영어는 접근법이 달라야 합니다.

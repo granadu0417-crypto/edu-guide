@@ -9,7 +9,7 @@ tags:
 - 집중과외
 - 시험대비
 - 중등과외
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
 ---
 ## 시험 2주 남았는데, 지금 과외 시작해도 될까요?
 

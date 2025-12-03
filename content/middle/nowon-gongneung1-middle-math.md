@@ -18,7 +18,7 @@ tags:
   - 한천중
   - 내신대비
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
 
 ---
 ## 공릉1동 중학생, 수학 성적 향상이 목표라면

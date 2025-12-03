@@ -18,7 +18,7 @@ tags:
   - 동일여고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
 ---
 
 수학을 아무리 해도 실력이 제자리라면, 공부 방법을 바꿔야 합니다.

@@ -9,7 +9,7 @@ tags:
 - 토요일과외
 - 일요일과외
 - 중등과외
-featured_image: "https://images.unsplash.com/photo-1506784242126-2a0b0b89c56a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---
 ## 주중에 학원이 너무 많아서 과외할 시간이 없다고요?
 

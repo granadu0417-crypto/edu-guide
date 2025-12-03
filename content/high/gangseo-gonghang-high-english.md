@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 공항고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&h=630&fit=crop"
 ---
 
 남들이 좋다는 방법이 나한테는 안 맞나요?

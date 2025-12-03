@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
 ---
 
 모의고사는 풀었는데 점수가 안 오르는 이유, 고민되시죠? 문제 풀이 습관을 점검해야 합니다.

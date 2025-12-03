@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 동덕여고
   - 서문여고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=630&fit=crop"
 ---
 
 요지 파악 문제에서 자주 틀린다면? 글의 핵심을 빠르게 잡는 연습이 필요합니다.

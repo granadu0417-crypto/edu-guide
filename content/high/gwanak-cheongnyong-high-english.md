@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤커리큘럼
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200"
+featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop"
 ---
 
 영어 공부를 열심히 하는데 성적이 안 오른다면, 방법이 잘못된 것일 수 있습니다.

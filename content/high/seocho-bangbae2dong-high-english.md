@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서문여고
   - 서울고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
 ---
 
 영작 점수가 늘 불안정하다면? 정확한 문장 구조 훈련이 필요합니다.

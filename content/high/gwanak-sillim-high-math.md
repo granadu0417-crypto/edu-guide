@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=1200&h=630&fit=crop"
 ---
 
 수학 성적이 제자리인가요? 열심히는 하는데 점수가 안 오르면 방법을 바꿔야 합니다.

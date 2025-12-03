@@ -15,7 +15,7 @@ tags:
 - 수능
 - 시험준비
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
 ---
 ## 이제 진짜 수능까지 얼마 안 남았어요. 뭐부터 해야 할지 너무 막막해요.
 

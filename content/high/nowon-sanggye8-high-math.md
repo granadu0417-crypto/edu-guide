@@ -17,7 +17,7 @@ tags:
   - 청원고
   - 1:1맞춤
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
 
 ---
 ## 상계8동 고등학생, 나에게 맞는 수학 수업이 필요하다면

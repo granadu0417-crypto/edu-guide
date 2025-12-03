@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 언남고
   - 서울세종고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
 ---
 
 심화 문제는 풀었는데 서술 과정에서 감점당한다면? 논리적 서술력 훈련이 필요합니다.

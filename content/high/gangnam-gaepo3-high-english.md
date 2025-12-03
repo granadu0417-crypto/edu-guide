@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
 ---
 
 주제 추론과 요약 문제에서 틀린다면? 핵심 파악 능력 향상이 필요합니다.

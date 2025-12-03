@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
 ---
 
 학원에서 열심히 하는데 수학 성적이 그대로라면, 학습 방법이 맞지 않는 것입니다.

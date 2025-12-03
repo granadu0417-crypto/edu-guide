@@ -11,7 +11,7 @@ tags:
 - 학습상담
 - 학습코칭
 - 학원
-featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
 ---
 
 ## 과학은 외우려고 해도 너무 양이 많아요. 개념 이해랑 암기 중 뭐가 더 중요한가요?

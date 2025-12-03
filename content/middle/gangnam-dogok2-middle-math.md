@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 도곡타워팰리스
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 도곡2동 중학생, 수학 확률과 통계가 어렵다면

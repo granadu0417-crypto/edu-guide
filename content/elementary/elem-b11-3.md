@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
 ---
 ## 문제 유형이 달라지면 못 푸는 아이, 5학년이면 자주 있습니다
 

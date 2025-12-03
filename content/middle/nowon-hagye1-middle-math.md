@@ -18,7 +18,7 @@ tags:
   - 중원중
   - 기초심화
   - 북부교육지원청
-featured_image: https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
 
 ---
 ## 하계1동 중학생, 수학 기초와 심화 사이에서 고민이라면

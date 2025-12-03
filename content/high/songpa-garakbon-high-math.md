@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 가락고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
 ---
 
 수열 문제에서 점화식 세우기가 어렵다면? 수열 패턴 분석력이 필요합니다.

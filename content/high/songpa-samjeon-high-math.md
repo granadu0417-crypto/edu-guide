@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 삼전고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop"
 ---
 
 원의 방정식이 복잡하게 느껴진다면? 도형 방정식 연결력이 필요합니다.

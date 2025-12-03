@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 동국대부가람고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
 ---
 
 수학 점수가 좀처럼 오르지 않나요? 방법을 바꾸면 결과가 달라집니다.

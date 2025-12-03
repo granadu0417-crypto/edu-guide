@@ -14,7 +14,7 @@ tags:
 - 문법
 - 수능
 - 쓰기
-featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
 ---
 ## 국어 시험만 보면 시간이 부족해요. 어떻게 해야 빨리 풀 수 있을까요?
 

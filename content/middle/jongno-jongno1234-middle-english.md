@@ -21,7 +21,7 @@ tags:
   - 경신중
   - 동성중
   - 중앙중
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 종로1234가동 중학생, 영어 관계부사가 헷갈린다면

@@ -11,7 +11,7 @@ tags:
 - 내신수학
 - 1:1과외
 - 중등과외
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
 ---
 ## 수학 성적표를 받을 때마다 한숨이 나오시나요?
 

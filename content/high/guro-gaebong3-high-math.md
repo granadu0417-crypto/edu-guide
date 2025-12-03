@@ -17,7 +17,7 @@ tags:
   - 경인고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200"
+featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
 ---
 
 혼자 공부하다 보면 방향을 잃기 쉽습니다. 체계적인 관리가 필요합니다.

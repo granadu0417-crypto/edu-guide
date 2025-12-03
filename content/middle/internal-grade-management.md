@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진학정보
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
 ---
 ## 중학교 내신, 어떻게 관리해야 할지 모르겠다고요?
 

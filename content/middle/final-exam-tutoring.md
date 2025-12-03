@@ -11,7 +11,7 @@ tags:
 - 중등과외
 - 1대1과외
 - 기말시험
-featured_image: https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

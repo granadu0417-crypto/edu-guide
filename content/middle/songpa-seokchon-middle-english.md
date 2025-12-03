@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 석촌호수
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 석촌동 중학생, 영어 현재완료 시제가 헷갈린다면
