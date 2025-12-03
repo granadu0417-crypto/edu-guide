@@ -10,7 +10,7 @@ tags:
 - 시나리오
 - 문학
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
 ---
 
 ## 시나리오가 희곡이랑 뭐가 다른지 모르겠다고요? 영상 문학의 특성을 알면 이해됩니다.

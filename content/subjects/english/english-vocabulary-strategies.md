@@ -14,7 +14,7 @@ tags:
 - 복습
 - 기억법
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
 ---
 
 ## 오늘 외운 단어를 내일이면 까먹는다고요? 암기법을 바꿔야 합니다.

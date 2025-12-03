@@ -14,7 +14,7 @@ tags:
 - 수학2
 - 미적분
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 ---
 
 ## 미적분이 너무 어렵다고요? 극한 개념부터 이해가 안 되고 미분 공식을 외워도 문제에 적용이 안 되시죠.

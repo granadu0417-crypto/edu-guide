@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
 ---
 
 ## 엔탈피 계산이 헷갈리고 발열 반응과 흡열 반응 구분이 어렵다고요? 에너지 출입의 방향부터 이해하면 됩니다.

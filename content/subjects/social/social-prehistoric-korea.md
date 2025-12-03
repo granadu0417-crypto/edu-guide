@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---
 
 ## 구석기와 신석기 유물이 헷갈리고 청동기 시대 특징이 복잡하다고요? 시대별 도구와 생활 방식부터 정리하면 됩니다.

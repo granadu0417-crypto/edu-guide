@@ -10,7 +10,7 @@ tags:
 - 역학
 - 물리
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
 ---
 
 ## 운동 그래프 해석이 어렵고 역학 계산이 헷갈린다고요? 변위, 속도, 가속도의 관계부터 이해하면 됩니다.

@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 ---
 
 ## 도시화 과정과 대도시 문제가 헷갈리고 도시 체계가 복잡하다고요? 촌락에서 도시로의 변화 과정부터 정리하면 됩니다.

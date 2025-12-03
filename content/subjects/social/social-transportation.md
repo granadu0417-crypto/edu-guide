@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
 ---
 
 ## 도로와 철도, 항공 교통이 어떻게 발달했는지 복잡하다고요? 교통수단의 발전 과정부터 따라가면 됩니다.

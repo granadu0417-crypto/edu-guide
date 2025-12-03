@@ -15,7 +15,7 @@ tags:
 description: 스터디 계정 활용 전략. 공부 인증, 동기 부여, 학습 관리, 1:1 과외와의 병행 방법을 제시합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
   정보로 현명한 선택을 도와드립니다.
-featured_image: https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

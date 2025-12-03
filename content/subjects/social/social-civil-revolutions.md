@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 ## 영국, 미국, 프랑스 혁명의 순서가 헷갈리고 차이점 비교가 어렵다고요? 혁명의 원인과 결과를 연결하면 됩니다.

@@ -14,7 +14,7 @@ tags:
 - 수학과외
 - 수능기하
 - 기하
-featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
 ---
 
 ## 도형 문제만 나오면 머릿속이 하얘진다고요? 공간 감각이 없어서 입체도형이 도무지 그려지지 않으시죠.

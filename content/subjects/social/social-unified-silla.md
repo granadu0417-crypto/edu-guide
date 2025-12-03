@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
 ---
 
 ## 삼국 통일 과정과 남북국 시대가 헷갈린다고요? 신라의 통일 전쟁부터 따라가면 됩니다.

@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 기하
-featured_image: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
 ---
 
 ## 온라인으로 수학 공부해도 효과가 있을지 의문이시죠? 집에서 하면 집중이 안 되고 흐지부지 될 것 같다고 느끼시죠.

@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 화학 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 맞춤형 커리큘럼과 체계적인 학습 관리로 목표를 달성하세요.
 
-featured_image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

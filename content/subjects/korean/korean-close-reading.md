@@ -11,7 +11,7 @@ tags:
 - 정밀독해
 - 심층분석
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
 ---
 
 ## 글을 읽어도 내용이 머리에 안 남는다고요? 정독의 기술을 익히면 달라집니다.

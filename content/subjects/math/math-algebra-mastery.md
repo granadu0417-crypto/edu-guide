@@ -14,7 +14,7 @@ tags:
 - 이차방정식
 - 인수분해
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
 ---
 
 ## 방정식만 나오면 머리가 하얘진다고요? 인수분해가 안 되거나 함수 그래프가 도무지 이해가 안 되시죠.

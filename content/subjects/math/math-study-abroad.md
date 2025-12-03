@@ -17,7 +17,7 @@ tags:
 - SAT
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
 ---
 
 ## 유학을 준비하는데 해외 수학 시험이 뭐가 있는지도 모르겠다고요? SAT와 AP와 IB 차이가 헷갈린다고 느끼시죠.

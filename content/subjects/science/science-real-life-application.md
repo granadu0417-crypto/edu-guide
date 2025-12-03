@@ -16,7 +16,7 @@ tags:
 - 창의적사고
 - 문제해결
 - 과학
-featured_image: https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
 ---
 
 ## 과학 원리가 일상과 어떻게 연결되는지 모르겠다고요? 주변 현상을 관찰하는 것부터 시작하면 됩니다.

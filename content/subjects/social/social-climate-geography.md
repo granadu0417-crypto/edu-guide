@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
 ---
 
 ## 기후 그래프 해석이 어렵고 기후 지역 구분이 복잡하다고요? 기온과 강수량의 관계부터 파악하면 됩니다.

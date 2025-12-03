@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---
 
 ## 환경 문제 유형이 많고 해결책 연결이 복잡하다고요? 환경 문제의 원인부터 파악하면 됩니다.

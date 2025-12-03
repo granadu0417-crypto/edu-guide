@@ -13,7 +13,7 @@ tags:
 - 단어
 - vocabulary
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
 ---
 
 ## 단어를 외워도 시험에서 기억이 안 난다고요? 어떤 단어부터 외워야 할지 모르시겠죠.

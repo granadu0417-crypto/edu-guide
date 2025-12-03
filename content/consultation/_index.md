@@ -3,7 +3,7 @@ title: 무료 학습 상담
 description: 체계적인 학습 상담으로 성적 향상의 길을 찾으세요. 개인별 맞춤 분석과 실전 전략으로 학업 목표 달성을 도와드립니다 전문가의
   맞춤형 교육 컨설팅으로 학습 고민을 해결하고 명확한 방향을 설정하세요. 지금 바로 학습 고민을 해결하세요 전문가의 맞춤형 교육 컨설팅으로 학습
   고민을 해결하고 명확한 방향을 설정하세요.
-featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 tags:
 - 가이드
 - 교육상담

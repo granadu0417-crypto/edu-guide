@@ -11,7 +11,7 @@ tags:
 - 원소
 - 주기율표
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
 ---
 
 ## 화학이 처음부터 막막하고 원소 기호부터 어렵다고요? 기초부터 하나씩 쌓으면 됩니다.

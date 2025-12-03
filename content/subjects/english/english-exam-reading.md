@@ -13,7 +13,7 @@ tags:
 - 전략
 - reading
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 ---
 
 ## 독해 28문제를 45분 안에 다 풀 수가 없다고요? 뒤로 갈수록 시간이 부족해지시죠.

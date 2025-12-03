@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
 ---
 
 ## 분자 구조와 극성 판단이 어렵고 결합각 예측이 안 된다고요? 전자쌍 반발 이론부터 정리하면 됩니다.

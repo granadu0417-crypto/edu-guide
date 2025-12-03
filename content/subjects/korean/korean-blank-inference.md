@@ -11,7 +11,7 @@ tags:
 - 문맥파악
 - 1:1과외
 - 독해
-featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 ## 빈칸에 들어갈 말을 고르는 게 어렵다고요? 문맥을 읽는 눈을 키워야 합니다.

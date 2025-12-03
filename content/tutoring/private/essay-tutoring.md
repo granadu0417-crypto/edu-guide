@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 논술 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 검증된 선생님과 함께하는 1:1 맞춤 학습으로 실력을 향상시키세요.
 
-featured_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

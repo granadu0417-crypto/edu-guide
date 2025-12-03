@@ -12,7 +12,7 @@ tags:
 - 모바일
 - 디지털학습
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
 ---
 
 ## 스마트폰으로 수학 공부가 될까 싶으시죠? 어떤 앱을 써야 효과가 있는지 모르겠다고요.

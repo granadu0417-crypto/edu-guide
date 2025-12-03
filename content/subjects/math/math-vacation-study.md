@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 기초
-featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
 ---
 
 ## 방학 때 뭘 해야 할지 모르겠다고요? 계획은 세우는데 작심삼일이 된다고 느끼시죠.

@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
 ---
 
 ## 고조선과 여러 나라가 헷갈리고 시대 구분이 어렵다고요? 한반도 최초의 국가부터 순서대로 따라가면 됩니다.

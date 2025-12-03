@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 ## 6·25전쟁의 전개 과정이 복잡하고 국제 관계가 헷갈린다고요? 냉전 배경부터 이해하면 됩니다.

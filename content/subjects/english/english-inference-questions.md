@@ -13,7 +13,7 @@ tags:
 - 암시
 - 논리
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
 ---
 
 ## 지문에 없는 내용을 어떻게 찾냐고요? 선택지가 다 맞는 것 같으시죠.

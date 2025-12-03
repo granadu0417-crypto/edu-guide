@@ -10,7 +10,7 @@ tags:
 - 토론
 - debate
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
 ---
 
 ## 영어로 의견을 논리적으로 말하기 어렵다고요? 반박을 어떻게 해야 할지 모르겠다고요.

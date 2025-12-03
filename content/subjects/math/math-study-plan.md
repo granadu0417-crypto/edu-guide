@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 계산
-featured_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
 ---
 
 ## 계획 없이 공부하고 있다고요? 뭘 먼저 해야 할지 모르겠다고 느끼시죠.

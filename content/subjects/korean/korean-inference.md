@@ -11,7 +11,7 @@ tags:
 - 함축의미
 - 행간읽기
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
 ---
 
 ## 지문에 안 나온 내용을 어떻게 추론하냐고요? 행간을 읽는 방법이 있습니다.

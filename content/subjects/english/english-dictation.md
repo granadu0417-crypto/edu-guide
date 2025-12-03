@@ -10,7 +10,7 @@ tags:
 - 딕테이션
 - 듣기
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
 ---
 
 ## 받아쓰기를 하면 다 틀린다고요? 들리는 대로 쓰면 어디서 끊어야 할지 모르겠다고요.

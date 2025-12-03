@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 기숙 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 학원 선택 기준과 효율적인 활용법을 상세히 설명합니다.
 
-featured_image: https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
 reading_time: 270줄
 ---
 

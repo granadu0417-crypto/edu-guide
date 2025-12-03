@@ -12,7 +12,7 @@ tags:
 - 직업
 - 전문영어
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
 ---
 
 ## 의대 가려는데 어떤 영어를 공부해야 하는지 모르겠다고요? 공대나 경영대 진학에 필요한 영어가 다른지 궁금하다고요.

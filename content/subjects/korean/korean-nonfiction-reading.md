@@ -11,7 +11,7 @@ tags:
 - 설명문
 - 논설문
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 ---
 
 ## 설명문, 논설문 읽기가 지루하고 어렵다고요? 구조를 파악하면 쉬워집니다.

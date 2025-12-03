@@ -13,7 +13,7 @@ tags:
 - Ving
 - being
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 ## 분사구문이 뭔지 모르겠다고요? Being이 왜 생략되는지 궁금하시죠.

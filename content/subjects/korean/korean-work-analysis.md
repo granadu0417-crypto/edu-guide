@@ -10,7 +10,7 @@ tags:
 - 작품론
 - 문학
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---
 
 ## 작품 분석이 막막하고 어떻게 접근해야 할지 모르겠다고요? 체계적인 방법이 있습니다.

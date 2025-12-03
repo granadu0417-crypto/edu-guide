@@ -10,7 +10,7 @@ tags:
 - 면역
 - 생물
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
 ---
 
 ## 면역 반응 과정이 복잡하고 세포 종류가 헷갈린다고요? 비특이적 면역과 특이적 면역을 구분하면 됩니다.

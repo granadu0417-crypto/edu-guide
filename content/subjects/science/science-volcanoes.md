@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 ---
 
 ## 화산의 종류와 분출 유형이 헷갈리고 용암 특성 구분이 어렵다고요? 마그마의 성질부터 이해하면 됩니다.

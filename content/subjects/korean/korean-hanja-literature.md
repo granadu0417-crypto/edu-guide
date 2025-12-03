@@ -11,7 +11,7 @@ tags:
 - 한시
 - 한문산문
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 ## 한문학 지문이 나오면 어떻게 읽어야 할지 모르겠다고요? 기본 구조를 알면 해석이 쉬워집니다.

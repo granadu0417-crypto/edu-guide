@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 ## 광합성 과정이 복잡하고 명반응과 암반응 구분이 어렵다고요? 엽록체의 구조부터 이해하면 됩니다.

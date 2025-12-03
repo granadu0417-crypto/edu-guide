@@ -11,7 +11,7 @@ tags:
 - 한자어
 - 관용어
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 ---
 
 ## 단어를 외워도 금방 잊어버린다고요? 어원으로 접근하면 다릅니다.

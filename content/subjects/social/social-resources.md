@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---
 
 ## 에너지 자원과 광물 자원이 헷갈리고 자원 분포가 복잡하다고요? 자원의 의미와 분류부터 파악하면 됩니다.

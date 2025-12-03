@@ -14,7 +14,7 @@ tags:
 - 대치동학원
 description: 재종 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 검증된 학원 정보와 1:1 과외 병행 전략을 안내합니다.
 
-featured_image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

@@ -16,7 +16,7 @@ tags:
 - 과학개념
 description: 과학 전 영역을 체계적으로 정복하는 통합 가이드입니다. 물리, 화학, 생명과학, 지구과학의 핵심 개념과 탐구 방법, 효과적인
   학습 전략을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 과학 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요.
-featured_image: https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop"
 reading_time: 638줄
 ---
 

@@ -11,7 +11,7 @@ tags:
 - 평시조
 - 사설시조
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
 ---
 
 ## 시조가 다 비슷비슷해 보이고 구분이 안 된다고요? 형식의 특징을 알면 명확해집니다.

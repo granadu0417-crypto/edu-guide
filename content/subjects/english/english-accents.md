@@ -13,7 +13,7 @@ tags:
 - 발음
 - 1:1과외
 - 듣기
-featured_image: https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
 ---
 
 ## 미국 영어는 들리는데 영국 영어만 나오면 안 들린다고요? 호주 영어는 더 어렵게 느껴지시죠.

@@ -14,7 +14,7 @@ tags:
 - 제곱근
 - 1:1과외
 - 과외
-featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---
 
 ## 이차함수랑 이차방정식이 도대체 뭐가 다른지 모르겠다고요? 제곱근이랑 루트 계산이 너무 복잡하게 느껴지시죠.

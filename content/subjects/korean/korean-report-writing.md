@@ -11,7 +11,7 @@ tags:
 - 리포트
 - 학술글
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop"
 ---
 
 ## 보고서 쓰기가 막막하고 어디서부터 시작해야 할지 모르겠다고요? 구조를 알면 쉬워집니다.

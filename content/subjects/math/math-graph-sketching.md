@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 좌표
-featured_image: https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
 ---
 
 ## 그래프를 어떻게 그려야 할지 막막하다고요? 함수 식만 보면 개형이 전혀 그려지지 않는다고 느끼시죠.

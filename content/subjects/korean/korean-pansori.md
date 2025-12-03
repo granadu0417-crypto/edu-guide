@@ -11,7 +11,7 @@ tags:
 - 춘향가
 - 심청가
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
 ---
 
 ## 판소리가 뭔지도 모르겠고 어떻게 공부하냐고요? 핵심만 알면 쉽습니다.

@@ -11,7 +11,7 @@ tags:
 - 문법
 - 오류교정
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 ## 글을 쓸 때 자꾸 같은 실수를 반복한다고요? 자주 틀리는 어법을 정리하면 됩니다.

@@ -10,7 +10,7 @@ tags:
 - 현대시
 - 문학
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
 ---
 
 ## 현대시가 어렵고 무슨 말인지 모르겠다고요? 감상의 틀을 익히면 이해됩니다.

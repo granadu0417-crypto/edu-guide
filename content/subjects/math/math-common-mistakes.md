@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop"
 ---
 
 ## 아는 문제인데 자꾸 틀린다고요? 계산 실수가 너무 많아서 성적이 안 오른다고 느끼시죠.

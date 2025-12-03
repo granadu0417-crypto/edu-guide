@@ -11,7 +11,7 @@ tags:
 - 독후감
 - 비평
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 ---
 
 ## 서평을 어떻게 써야 할지 모르겠다고요? 독후감과는 다른 글쓰기입니다.

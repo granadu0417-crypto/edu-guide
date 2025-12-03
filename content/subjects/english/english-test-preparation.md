@@ -14,7 +14,7 @@ tags:
 - 유형분석
 - 실전전략
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop"
 ---
 
 ## 시험 점수가 생각만큼 안 나오시죠? 공부는 하는데 왜 성적이 안 오를까요.

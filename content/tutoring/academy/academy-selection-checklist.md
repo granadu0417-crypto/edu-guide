@@ -16,7 +16,7 @@ tags:
 - 학원평가
 - 사교육
 - 학부모가이드
-featured_image: https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop"
 ---
 
 ## 학원을 등록하려는데, 뭘 어떻게 확인해야 하는지 모르겠어요. 체크리스트 같은 게 있으면 좋겠는데요.

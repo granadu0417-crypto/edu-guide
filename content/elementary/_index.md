@@ -11,7 +11,7 @@ tags:
 - 학습법
 - 공부방법
 - 학습습관
-featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
 ---
 
 ## 초등학생 학습 가이드

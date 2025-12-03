@@ -10,7 +10,7 @@ tags:
 - 지진
 - 지구과학
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
 ---
 
 ## 지진파 종류와 진도 규모 계산이 헷갈린다고요? 원리를 이해하면 명확해집니다.

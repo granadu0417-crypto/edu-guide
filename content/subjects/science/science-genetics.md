@@ -10,7 +10,7 @@ tags:
 - 유전
 - 생물
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
 ---
 
 ## 멘델의 유전법칙이 복잡하고 유전 확률 계산이 안 된다고요? 분리 법칙부터 차근차근 정리하면 됩니다.

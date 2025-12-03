@@ -11,7 +11,7 @@ tags:
 - 논쟁
 - 반론
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
 ---
 
 ## 토론에서 논리적으로 말하기가 어렵다고요? 주장과 근거를 체계적으로 정리하면 됩니다.

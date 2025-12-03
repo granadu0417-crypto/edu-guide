@@ -13,7 +13,7 @@ tags:
 - 능동태
 - by
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 ## 수동태를 언제 써야 하는지 헷갈리시죠? by를 언제 생략하는지 모르겠다고요.

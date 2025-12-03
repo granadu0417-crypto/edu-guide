@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
 ---
 
 ## 신분 제도와 사회 변동이 헷갈리고 사회사 흐름이 복잡하다고요? 시대별 사회 구조의 변화부터 정리하면 됩니다.

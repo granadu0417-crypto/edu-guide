@@ -10,7 +10,7 @@ tags:
 - 창작글쓰기
 - 스토리텔링
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 ## 글을 쓰려고 하면 머릿속이 하얘진다고요? 창작에도 방법이 있습니다.

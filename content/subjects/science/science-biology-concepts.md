@@ -11,7 +11,7 @@ tags:
 - 세포
 - 유전
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 ---
 
 ## 생물 개념이 너무 많아서 어디서부터 시작해야 할지 막막하다고요? 구조화된 접근이 필요합니다.

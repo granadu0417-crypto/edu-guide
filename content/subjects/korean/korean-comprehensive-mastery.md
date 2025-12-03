@@ -14,7 +14,7 @@ tags:
 - 수능국어
 - 내신국어
 description: 국어 영역 전체를 아우르는 완전정복 가이드입니다. 문법, 독해, 문학, 작문까지 모든 영역을 체계적으로 정리합니다.
-featured_image: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
 ---
 
 ## 국어를 어디서부터 공부해야 할지 모르겠다고요? 영역별 로드맵을 따라가면 됩니다.

@@ -10,7 +10,7 @@ tags:
 - 맞춤법
 - 문법
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
 ---
 
 ## 맞춤법이 헷갈리고 실수가 잦다고요? 원리를 알면 정확해집니다.

@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
 ---
 
 ## 벡터가 도대체 뭔지 감이 안 온다고요? 내적이 뭔지, 어디에 쓰는지 모르겠다고 느끼시죠.

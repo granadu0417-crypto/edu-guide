@@ -12,7 +12,7 @@ tags:
 - 수능영어
 - 내신영어
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 공부, 어디서부터 시작해야 할지 막막하다고요? 듣기 말하기 읽기 쓰기 다 해야 하는데 정신없다고요.

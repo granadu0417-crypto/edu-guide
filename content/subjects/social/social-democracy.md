@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 ---
 
 ## 민주주의 원리가 추상적이고 정치 제도 비교가 복잡하다고요? 민주주의의 기본 이념부터 정리하면 됩니다.

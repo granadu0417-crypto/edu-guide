@@ -10,7 +10,7 @@ tags:
 - 독해
 - 세부정보
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
 ---
 
 ## 세부 정보 찾기 문제에서 지문이 너무 길어서 찾기 힘들다고요? 비슷한 내용이 많아서 헷갈린다고요.

@@ -12,7 +12,7 @@ tags:
 - 킬러
 - 사고력
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
 ---
 
 ## 기본 문제는 다 맞는데 어려운 문제만 나오면 막힌다고요? 킬러 문항을 정복하고 싶은데 방법을 모르시겠죠.

@@ -15,7 +15,7 @@ tags:
 description: 분당 수학학원 추천. 판교·정자·서현 지역, 최상위권 전문, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1
   맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한
   선택을 도와드립니다.
-featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
 reading_time: 300줄
 ---
 

@@ -11,7 +11,7 @@ tags:
 - 비교급
 - 최상급
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
 ---
 
 ## -er과 more 중 뭘 써야 하는지 모르겠다고요? the 비교급, the 비교급이 무슨 뜻인지 헷갈린다고요.

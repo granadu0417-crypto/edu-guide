@@ -11,7 +11,7 @@ tags:
 - 시대구분
 - 문학운동
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
 ---
 
 ## 현대문학사 시대 구분이 복잡하다고요? 흐름을 잡으면 정리됩니다.

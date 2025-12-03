@@ -11,7 +11,7 @@ tags:
 - 예습
 - 1:1과외
 - 학습전략
-featured_image: https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
 ---
 
 ## 선행학습을 시켜야 하나 말아야 하나 고민되시죠? 무작정 앞서 나가면 오히려 역효과가 날까 봐 걱정이시고요.

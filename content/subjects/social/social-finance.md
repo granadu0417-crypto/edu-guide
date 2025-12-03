@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 ## 금융 상품 종류가 많고 이자율 계산이 복잡하다고요? 화폐의 기본 기능부터 이해하면 됩니다.

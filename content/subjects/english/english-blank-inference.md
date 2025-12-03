@@ -12,7 +12,7 @@ tags:
 - 문맥
 - 논리
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 ---
 
 ## 빈칸 추론 문제만 나오면 막막하다고요? 선택지가 다 맞는 것 같아서 고르기 어렵다고요.

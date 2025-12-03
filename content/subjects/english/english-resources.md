@@ -13,7 +13,7 @@ tags:
 - resources
 - 추천
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
 ---
 
 ## 어떤 자료로 공부해야 좋을지 모르겠다고요? 자료가 너무 많아서 선택이 어렵다고요.

@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
 ---
 
 ## 사회화와 사회 구조가 헷갈리고 사회 현상 분석이 복잡하다고요? 개인과 사회의 관계부터 파악하면 됩니다.

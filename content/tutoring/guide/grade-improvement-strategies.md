@@ -15,7 +15,7 @@ tags:
 description: 단기간 성적 올리는 방법. 약점 파악, 학원과 1:1 과외 전략적 활용, 시험 대비, 과목별 성적 향상 전략을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

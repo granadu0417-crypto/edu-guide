@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
 ---
 
 ## 무단통치와 민족말살정책이 헷갈리고 독립운동 흐름이 복잡하다고요? 시기별 통치 정책부터 정리하면 됩니다.

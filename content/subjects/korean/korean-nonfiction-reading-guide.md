@@ -12,7 +12,7 @@ tags:
 - 독해전략
 - 지문분석
 - 수능국어
-featured_image: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 ---
 
 ## 비문학 지문이 머리에 안 들어온다고요? 유형별 독해법이 있습니다.

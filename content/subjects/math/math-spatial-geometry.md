@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 도형
 - 좌표
-featured_image: https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
 ---
 
 ## 3차원을 머릿속으로 그리는 게 안 된다고요? 공간도형 문제만 보면 어디서부터 시작해야 할지 막막하게 느껴지시죠.

@@ -12,7 +12,7 @@ tags:
 - 1:1과외
 - 대학준비
 - 이공계
-featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 ---
 
 ## 대학 수학이 고등학교 수학이랑 많이 다르다던데 걱정되시죠? 미리 준비하고 싶은데 어디서부터 시작해야 할지 모르겠다고요.

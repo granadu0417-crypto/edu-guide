@@ -13,7 +13,7 @@ tags:
 - motivation
 - habit
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 공부가 작심삼일이라고요? 시작은 열심히 하는데 며칠 못 간다고요.

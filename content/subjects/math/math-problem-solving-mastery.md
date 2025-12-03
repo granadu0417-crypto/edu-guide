@@ -14,7 +14,7 @@ tags:
 - 수능
 - 실전테크닉
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
 ---
 
 ## 개념은 아는데 막상 문제만 보면 막막하다고요? 시간은 부족하고 실수는 잦고 점수는 안 오른다고 느끼시죠.

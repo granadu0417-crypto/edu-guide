@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop"
 ---
 
 ## 해방 후 혼란과 분단 과정이 복잡하다고요? 1945년 광복부터 순서대로 따라가면 됩니다.

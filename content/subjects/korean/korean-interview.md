@@ -11,7 +11,7 @@ tags:
 - 구술
 - 답변기술
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop"
 ---
 
 ## 면접에서 무슨 말을 해야 할지 모르겠다고요? 답변의 구조를 알면 됩니다.

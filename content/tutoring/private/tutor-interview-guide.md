@@ -14,7 +14,7 @@ tags:
 - 1대1과외
 - 과외추천
 - 과외
-featured_image: https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

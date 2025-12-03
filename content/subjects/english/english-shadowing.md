@@ -13,7 +13,7 @@ tags:
 - 듣기
 - speaking
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
 ---
 
 ## 원어민처럼 말하고 싶다고요? 듣기와 말하기를 동시에 늘리고 싶다고요.

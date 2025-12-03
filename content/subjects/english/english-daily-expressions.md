@@ -10,7 +10,7 @@ tags:
 - 회화
 - 일상표현
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
 ---
 
 ## 간단한 말인데 영어로 뭐라고 하는지 모르겠다고요? 교과서 영어 말고 실생활에서 쓸 만한 표현이 없다고요.

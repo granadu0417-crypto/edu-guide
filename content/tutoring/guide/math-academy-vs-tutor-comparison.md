@@ -15,7 +15,7 @@ tags:
 description: 수학 학습을 위한 학원과 과외의 모든 것을 비교 분석합니다. 학년별, 수준별 맞춤 선택 가이드와 효과적인 활용 전략을 제시합니다
   과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤
   학습을 경험하세요.
-featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

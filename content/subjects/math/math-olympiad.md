@@ -17,7 +17,7 @@ tags:
 - 문제해결력
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
 ---
 
 ## 수학 올림피아드에 도전하고 싶은데 어디서부터 시작해야 할지 막막하다고요? 일반 수학과 뭐가 다른지 궁금하시죠.

@@ -14,7 +14,7 @@ tags:
 - 과학학원
 description: 과학 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 우수 학원 추천과 효과적인 학습 전략을 제시합니다.
 
-featured_image: https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

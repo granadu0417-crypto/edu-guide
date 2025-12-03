@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 전문 과정 학원. 단기 목표, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 실용적인 팁으로 빠르게 개선하세요.
-featured_image: https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

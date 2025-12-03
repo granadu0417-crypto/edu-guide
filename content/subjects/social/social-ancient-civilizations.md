@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop"
 ---
 
 ## 4대 문명의 특징 비교가 복잡하고 위치 암기가 어렵다고요? 문명 발생 조건부터 정리하면 됩니다.

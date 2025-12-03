@@ -10,7 +10,7 @@ tags:
 - 품사
 - 문법
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---
 
 ## 품사 구분이 너무 헷갈린다고요? 9품사 체계를 정리하면 명확해집니다.

@@ -10,7 +10,7 @@ tags:
 - 순환
 - 생물
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 ## 혈액 순환 경로가 복잡하고 심장 구조가 헷갈린다고요? 순서대로 따라가면 이해됩니다.

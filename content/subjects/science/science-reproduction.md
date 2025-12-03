@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 ---
 
 ## 유성생식과 무성생식 비교가 헷갈리고 감수분열이 어렵다고요? 염색체 행동부터 정리하면 됩니다.

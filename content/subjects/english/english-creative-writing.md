@@ -10,7 +10,7 @@ tags:
 - 창의적글쓰기
 - 작문
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
 ---
 
 ## 영어로 이야기를 쓰고 싶은데 어떻게 시작해야 할지 막막하다고요? 묘사가 생생하지 않다고요.

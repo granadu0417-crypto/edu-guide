@@ -10,7 +10,7 @@ tags:
 - 무기화학
 - 화학
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
 ---
 
 ## 금속 화합물과 비금속 화합물이 헷갈리고 반응 예측이 어렵다고요? 주기율표와 연결하면 됩니다.

@@ -13,7 +13,7 @@ tags:
 - 그룹학습
 - 학습환경
 description: 학원 유형별 특징. 장단점, 선택 기준, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 전략적 접근으로 경쟁력을 강화하세요.
-featured_image: https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 reading_time: 270줄
 ---
 

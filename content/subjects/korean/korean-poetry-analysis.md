@@ -11,7 +11,7 @@ tags:
 - 문학
 - 표현기교
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
 ---
 
 ## 시가 무슨 말인지 모르겠다고요? 분석의 틀을 익히면 이해됩니다.

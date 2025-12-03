@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 ---
 
 ## 그리스와 로마의 차이가 헷갈리고 제도 비교가 어렵다고요? 각 문명의 특징부터 정리하면 됩니다.

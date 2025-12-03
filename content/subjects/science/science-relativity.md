@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
 ---
 
 ## 시간 팽창과 길이 수축이 이해가 안 되고 추상적으로 느껴진다고요? 광속 불변의 원리부터 이해하면 됩니다.

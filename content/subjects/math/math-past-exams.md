@@ -15,7 +15,7 @@ tags:
 - 문제풀이
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
 ---
 
 ## 기출문제가 중요하다는데 어떻게 활용해야 할지 모르겠다고요? 그냥 많이 풀면 되는 건지 분석을 해야 하는 건지 헷갈리시죠.

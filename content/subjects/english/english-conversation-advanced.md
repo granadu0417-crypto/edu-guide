@@ -10,7 +10,7 @@ tags:
 - 고급회화
 - 토론
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop"
 ---
 
 ## 기본 대화는 되는데 더 깊은 얘기를 하려면 막힌다고요? 토론이나 발표를 영어로 하고 싶은데 자신이 없다고요.

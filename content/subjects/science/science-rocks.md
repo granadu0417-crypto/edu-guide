@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop"
 ---
 
 ## 화성암, 퇴적암, 변성암 구분이 헷갈리고 특징 암기가 어렵다고요? 생성 과정부터 이해하면 됩니다.

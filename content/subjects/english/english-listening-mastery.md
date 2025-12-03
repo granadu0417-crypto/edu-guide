@@ -15,7 +15,7 @@ tags:
 - 리스닝
 - 영어청취
 - 듣기훈련
-featured_image: https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 ---
 
 ## 수능 듣기 17문항, 정말 만점이 가능하냐고요? 유형별 전략만 알면 됩니다.

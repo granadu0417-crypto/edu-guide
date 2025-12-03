@@ -12,7 +12,7 @@ tags:
 - 검산
 - 수능
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
 ---
 
 ## 계산기를 어떻게 써야 시험에서 유리한지 모르겠다고요? 암산이 나은지 계산기가 나은지 헷갈리시죠.

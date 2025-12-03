@@ -13,7 +13,7 @@ tags:
 - study plan
 - 전략
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 공부 계획을 세워도 실천이 안 된다고요? 무엇부터 시작해야 할지 막막하다고요.

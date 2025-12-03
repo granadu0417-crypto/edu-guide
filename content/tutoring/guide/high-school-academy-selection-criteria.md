@@ -15,7 +15,7 @@ tags:
 description: 고등학생을 위한 학원 선택의 모든 것. 학년별 전략, 재수생 학원, 입시 컨설팅까지 완벽 가이드입니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 입시 전문가의 노하우로 합격 전략을 설계합니다. 수능 대비 완벽 가이드를 제공합니다. 입시
   전문가의 노하우로 합격 전략을 설계합니다.
-featured_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

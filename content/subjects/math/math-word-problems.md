@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 계산
-featured_image: https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
 ---
 
 ## 문장제만 나오면 무슨 말인지 이해가 안 된다고요? 식을 어떻게 세워야 할지 막막하시죠.

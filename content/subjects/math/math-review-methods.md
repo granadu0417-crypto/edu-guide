@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop"
 ---
 
 ## 분명히 공부했는데 시험 때 기억이 안 난다고요? 열심히 해도 금방 까먹어서 답답하다고 느끼시죠.

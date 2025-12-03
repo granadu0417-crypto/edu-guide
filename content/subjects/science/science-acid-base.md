@@ -10,7 +10,7 @@ tags:
 - 산과 염기
 - 화학
 - 1:1과외
-featured_image: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
 ---
 
 ## 산과 염기 개념이 헷갈리고 pH 계산이 어렵다고요? 원리를 알면 명확해집니다.

@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
 ---
 
 ## 빅뱅 우주론이 어렵고 우주의 크기를 가늠하기 힘들다고요? 우주의 탄생부터 순서대로 따라가면 됩니다.
