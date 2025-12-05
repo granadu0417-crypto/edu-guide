@@ -109,7 +109,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 학생 상황에 따라 다르지만, 보통 주2회를 권장합니다. 영어는 꾸준한 노출이 중요해서 주1회는 간격이 길어질 수 있습니다.
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final" >}}
 
 ## 마무리
 

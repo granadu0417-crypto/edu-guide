@@ -109,7 +109,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 학생 상황에 따라 다르지만, 보통 주2회를 권장합니다. 주1회는 복습 기간이 길어져 학습 효과가 떨어질 수 있고, 주3회 이상은 학생 부담이 클 수 있습니다.
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final" >}}
 
 ## 마무리
 

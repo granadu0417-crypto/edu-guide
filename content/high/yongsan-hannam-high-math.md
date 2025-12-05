@@ -109,7 +109,7 @@ featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=
 
 학생 상황에 따라 다르지만, 보통 주2회를 권장합니다. 수학은 꾸준한 연습이 중요해서 주1회는 복습 간격이 길어질 수 있습니다.
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final" >}}
 
 ## 마무리
 

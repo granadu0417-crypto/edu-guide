@@ -774,5 +774,81 @@ grep -h "featured_image:" content/[폴더]/*.md | sort | uniq -c
 
 ---
 
-**마지막 업데이트**: 2025-12-03
+## 14. 파일 생성 후 품질 검사 (필수)
+
+> ⚠️ **중요**: 스크립트로 파일 생성 후 반드시 아래 검사를 수행하세요!
+
+### 14-1. CTA 숏코드 검사
+
+**올바른 형식**: `{{< cta-dual type="final" >}}` (중괄호 2개씩)
+**잘못된 형식**: `{< cta-dual type="final" >}` (중괄호 1개) ❌
+
+```bash
+# 잘못된 CTA 검사 (결과가 0이어야 정상)
+grep -rEl '^\{< cta|[^{]\{< cta' content/ | wc -l
+
+# 잘못된 파일 목록 확인
+grep -rEl '^\{< cta|[^{]\{< cta' content/
+
+# 일괄 수정 (필요시)
+find content -name "*.md" -exec sed -i 's/{< cta-dual type="final" >}/{{< cta-dual type="final" >}}/g' {} \;
+```
+
+### 14-2. 아이보리 박스 HTML 검사
+
+**올바른 형식**:
+```html
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+```
+
+```bash
+# 아이보리 박스 있는지 확인
+grep -l "background-color: #FDF8F0" content/high/[구이름]-*.md | wc -l
+```
+
+### 14-3. YAML 필수 필드 검사
+
+```bash
+# title 필드 확인
+grep -L "^title:" content/[폴더]/*.md
+
+# date 필드 확인
+grep -L "^date:" content/[폴더]/*.md
+
+# featured_image 확인
+grep -L "featured_image:" content/[폴더]/*.md
+```
+
+### 14-4. 파일 생성 후 체크리스트
+
+스크립트로 파일 생성 후 반드시 확인:
+
+```
+[ ] CTA 숏코드가 {{< >}} 형식인가? (중괄호 2개씩)
+[ ] 아이보리 박스 HTML이 올바른가?
+[ ] YAML 필수 필드(title, date, featured_image)가 있는가?
+[ ] 이미지 URL에 ?w=1200&h=630&fit=crop 파라미터가 있는가?
+[ ] 비용 정보가 정확한가? (수학/영어, 중등/고등 구분)
+[ ] 파일 수가 예상과 맞는가? (동 수 × 2과목 × 2)
+```
+
+### 14-5. 전체 사이트 검사 명령어
+
+```bash
+# 전체 파일 수 확인
+find content -name "*.md" | wc -l
+
+# 폴더별 파일 수
+for dir in content/*/; do echo "$(basename $dir): $(find "$dir" -name "*.md" | wc -l)"; done
+
+# 잘못된 CTA 전체 검사
+grep -rEl '^\{< cta|[^{]\{< cta' content/ | wc -l
+
+# 이미지 중복 검사 (3회 이상 사용)
+grep -rh "featured_image:" content/ | sort | uniq -c | sort -rn | awk '$1 >= 3' | head -20
+```
+
+---
+
+**마지막 업데이트**: 2025-12-04
 **작성자**: Claude Code

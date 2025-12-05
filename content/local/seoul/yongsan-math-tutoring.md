@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 수능까지 남은 시간을 역산해서 학습 계획을 세웁니다. 킬러 문항을 맞추는 것보다 실수를 줄이는 것이 먼저입니다. 80점에서 90점 가는 것은 어렵지 않지만, 90점에서 100점 가는 것은 매우 어렵습니다.
 
-{{< cta-dual type="final" >}}
+{{{< cta-dual type="final" >}}}
 
 ## 수학 과외 선생님 선택 기준
 

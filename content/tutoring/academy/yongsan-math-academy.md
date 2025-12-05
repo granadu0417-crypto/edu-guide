@@ -62,7 +62,7 @@ reading_time: 160줄
 
 국제 과정이 있습니다. SAT Math, AP Calculus, IB Math 등을 다룹니다. 해외 대학 진학이나 외국인학교 학생에게 적합합니다.
 
-{{< cta-dual type="final" >}}
+{{{< cta-dual type="final" >}}}
 
 ## 어떤 학생에게 용산 수학학원이 맞나요?
 

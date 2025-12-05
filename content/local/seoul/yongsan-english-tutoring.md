@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 수능 실전 감각을 키우는 시기입니다. 빈칸 추론, 순서 배열, 문장 삽입 같은 고난도 유형을 집중 훈련합니다. 시간 관리도 중요해서, 실제 수능 시간에 맞춰 문제를 푸는 연습을 반복합니다.
 
-{{< cta-dual type="final" >}}
+{{{< cta-dual type="final" >}}}
 
 ## 영어과외 선생님 선택 기준
 

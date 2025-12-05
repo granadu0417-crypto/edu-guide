@@ -109,7 +109,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 독해 속도는 훈련으로 빨라집니다. 문장 구조를 파악하는 연습, 끊어 읽기 연습을 통해 점차 속도를 높여갑니다. 꾸준히 연습하면 반드시 빨라집니다.
 
-{< cta-dual type="final" >}
+{{< cta-dual type="final" >}}
 
 ## 마무리
 
