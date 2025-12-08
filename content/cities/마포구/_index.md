@@ -1,6 +1,6 @@
 ---
 title: "마포구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "마포구 16개 동 고등학생 과외 정보. 숭문고, 광성고, 경성고, 홍익대부속여고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "마포구 16개 동 중·고등학생 과외 정보. 숭문고, 광성고, 경성고, 홍익대부속여고 , 중학교 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
@@ -118,6 +119,63 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 **영어과외**
 - [염리동 고등 영어과외](/high/mapo-yeomni-high-english/) - 서울여고 개념부터 실전까지
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 아현동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [아현동 중등 수학과외](/middle/mapo-ahyeon-middle-math/)
+
+**영어과외**
+- [아현동 중등 영어과외](/middle/mapo-ahyeon-middle-english/)
+
+### 대흥동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [대흥동 중등 수학과외](/middle/mapo-daeheung-middle-math/)
+
+**영어과외**
+- [대흥동 중등 영어과외](/middle/mapo-daeheung-middle-english/)
+
+### 도화동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [도화동 중등 수학과외](/middle/mapo-dohwa-middle-math/)
+
+**영어과외**
+- [도화동 중등 영어과외](/middle/mapo-dohwa-middle-english/)
+
+### 공덕동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [공덕동 중등 수학과외](/middle/mapo-gongdeok-middle-math/)
+
+**영어과외**
+- [공덕동 중등 영어과외](/middle/mapo-gongdeok-middle-english/)
+
+### 합정동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [합정동 중등 수학과외](/middle/mapo-hapjeong-middle-math/)
+
+**영어과외**
+- [합정동 중등 영어과외](/middle/mapo-hapjeong-middle-english/)
+
+
 ## 마포구 주요 고등학교 안내
 
 ### 숭문고등학교
@@ -135,6 +193,11 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 ### 홍익대학교부속여자고등학교
 
 홍익대부속여고는 성산동에 위치한 여자고등학교입니다. 내신 경쟁이 치열하며, 꼼꼼한 대비가 필요합니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -154,6 +217,13 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -175,4 +245,4 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 ## 마무리
 
-마포구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 숭문고, 광성고, 경성고, 홍익대부속여고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+마포구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 숭문고, 광성고, 경성고, 홍익대부속여고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

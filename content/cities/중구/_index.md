@@ -1,6 +1,6 @@
 ---
 title: "중구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "중구 15개 동 고등학생 과외 정보. 성동고, 장충고, 환일고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "중구 15개 동 중·고등학생 과외 정보. 성동고, 장충고, 환일고 , 중학교 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
@@ -82,6 +83,63 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 - [필동 고등 영어과외](/high/junggu-pildong-high-english/)
 - [약수동 고등 영어과외](/high/junggu-yaksu-high-english/)
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 청구동
+
+**장충중·대경중·장원중** 학생들이 거주합니다.
+
+**수학과외**
+- [청구동 중등 수학과외](/middle/junggu-cheonggu-middle-math/)
+
+**영어과외**
+- [청구동 중등 영어과외](/middle/junggu-cheonggu-middle-english/)
+
+### 다산동
+
+**장원중·대경중·장충중** 학생들이 거주합니다.
+
+**수학과외**
+- [다산동 중등 수학과외](/middle/junggu-dasan-middle-math/)
+
+**영어과외**
+- [다산동 중등 영어과외](/middle/junggu-dasan-middle-english/)
+
+### 동화동
+
+**덕수중·장원중·대경중** 학생들이 거주합니다.
+
+**수학과외**
+- [동화동 중등 수학과외](/middle/junggu-donghwa-middle-math/)
+
+**영어과외**
+- [동화동 중등 영어과외](/middle/junggu-donghwa-middle-english/)
+
+### 을지로동
+
+**덕수중·장원중·대경중** 학생들이 거주합니다.
+
+**수학과외**
+- [을지로동 중등 수학과외](/middle/junggu-euljiro-middle-math/)
+
+**영어과외**
+- [을지로동 중등 영어과외](/middle/junggu-euljiro-middle-english/)
+
+### 광희동
+
+**덕수중·장원중·대경중** 학생들이 거주합니다.
+
+**수학과외**
+- [광희동 중등 수학과외](/middle/junggu-gwanghui-middle-math/)
+
+**영어과외**
+- [광희동 중등 영어과외](/middle/junggu-gwanghui-middle-english/)
+
+
 ## 중구 주요 고등학교 안내
 
 ### 성동고등학교
@@ -95,6 +153,11 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 ### 환일고등학교
 
 환일고는 중구에 위치한 일반고입니다. 꼼꼼한 내신 대비가 필요합니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -115,8 +178,15 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
 
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
+
 {{< cta-dual type="final" >}}
 
 ## 마무리
 
-중구에서 고등학생 과외를 찾고 계신다면, 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+중구에서 중·고등학생 과외를 찾고 계신다면, 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

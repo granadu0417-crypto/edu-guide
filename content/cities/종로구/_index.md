@@ -1,6 +1,6 @@
 ---
 title: "종로구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "종로구 17개 동 고등학생 과외 정보. 경복고, 동성고, 중앙고 등 관내 명문 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "종로구 17개 동 중·고등학생 과외 정보. 경복고, 동성고, 중앙고 등 관내 명문 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
   - 경복고
@@ -95,6 +96,67 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 - [평창동 고등 영어과외](/high/jongno-pyeongchang-high-english/)
 - [사직동 고등 영어과외](/high/jongno-sajik-high-english/)
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 부암동
+
+**경신중·동성중·중앙중** 학생들이 거주합니다.
+
+**수학과외**
+- [부암동 중등 수학과외](/middle/jongno-buam-middle-math/)
+
+**영어과외**
+- [부암동 중등 영어과외](/middle/jongno-buam-middle-english/)
+
+### 창신1동·창신2동·창신3동
+
+**경신중·동성중·중앙중** 학생들이 거주합니다.
+
+**수학과외**
+- [창신1동 중등 수학과외](/middle/jongno-changsin1-middle-math/)
+- [창신2동 중등 수학과외](/middle/jongno-changsin2-middle-math/)
+- [창신3동 중등 수학과외](/middle/jongno-changsin3-middle-math/)
+
+**영어과외**
+- [창신1동 중등 영어과외](/middle/jongno-changsin1-middle-english/)
+- [창신2동 중등 영어과외](/middle/jongno-changsin2-middle-english/)
+- [창신3동 중등 영어과외](/middle/jongno-changsin3-middle-english/)
+
+### 청운효자동
+
+**경신중·동성중·중앙중** 학생들이 거주합니다.
+
+**수학과외**
+- [청운효자동 중등 수학과외](/middle/jongno-cheongunhyoja-middle-math/)
+
+**영어과외**
+- [청운효자동 중등 영어과외](/middle/jongno-cheongunhyoja-middle-english/)
+
+### 가회동
+
+**경신중·동성중·중앙중** 학생들이 거주합니다.
+
+**수학과외**
+- [가회동 중등 수학과외](/middle/jongno-gahoe-middle-math/)
+
+**영어과외**
+- [가회동 중등 영어과외](/middle/jongno-gahoe-middle-english/)
+
+### 교남동
+
+**경신중·동성중·중앙중** 학생들이 거주합니다.
+
+**수학과외**
+- [교남동 중등 수학과외](/middle/jongno-gyonam-middle-math/)
+
+**영어과외**
+- [교남동 중등 영어과외](/middle/jongno-gyonam-middle-english/)
+
+
 ## 종로구 주요 고등학교 안내
 
 ### 경복고등학교
@@ -108,6 +170,11 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 ### 중앙고등학교
 
 중앙고는 종로구에 위치한 역사 깊은 명문고입니다. 교과서 개념을 심화하여 출제하며, 서술형 비중이 높습니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -128,8 +195,15 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
 
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
+
 {{< cta-dual type="final" >}}
 
 ## 마무리
 
-종로구에서 고등학생 과외를 찾고 계신다면, 경복고, 동성고, 중앙고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+종로구에서 중·고등학생 과외를 찾고 계신다면, 경복고, 동성고, 중앙고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

@@ -1,6 +1,6 @@
 ---
 title: "강서구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "강서구 23개 동 고등학생 과외 정보. 화곡고, 공항고, 명덕고 등 강서구 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "강서구 23개 동 중·고등학생 과외 정보. 화곡고, 공항고, 명덕고 등 강서구 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
@@ -120,6 +121,75 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 - [우장산동 고등 수학과외](/high/gangseo-ujangsan-high-math/) - 문제 풀이력 강화
 - [우장산동 고등 영어과외](/high/gangseo-ujangsan-high-english/) - 1등급 목표
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 발산1동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [발산1동 중등 수학과외](/middle/gangseo-balsan1-middle-math/)
+
+**영어과외**
+- [발산1동 중등 영어과외](/middle/gangseo-balsan1-middle-english/)
+
+### 방화1동·방화2동·방화3동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [방화1동 중등 수학과외](/middle/gangseo-banghwa1-middle-math/)
+- [방화2동 중등 수학과외](/middle/gangseo-banghwa2-middle-math/)
+- [방화3동 중등 수학과외](/middle/gangseo-banghwa3-middle-math/)
+
+**영어과외**
+- [방화1동 중등 영어과외](/middle/gangseo-banghwa1-middle-english/)
+- [방화2동 중등 영어과외](/middle/gangseo-banghwa2-middle-english/)
+- [방화3동 중등 영어과외](/middle/gangseo-banghwa3-middle-english/)
+
+### 등촌1동·등촌2동·등촌3동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [등촌1동 중등 수학과외](/middle/gangseo-deungchon1-middle-math/)
+- [등촌2동 중등 수학과외](/middle/gangseo-deungchon2-middle-math/)
+- [등촌3동 중등 수학과외](/middle/gangseo-deungchon3-middle-math/)
+
+**영어과외**
+- [등촌1동 중등 영어과외](/middle/gangseo-deungchon1-middle-english/)
+- [등촌2동 중등 영어과외](/middle/gangseo-deungchon2-middle-english/)
+- [등촌3동 중등 영어과외](/middle/gangseo-deungchon3-middle-english/)
+
+### 가양1동·가양2동·가양3동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [가양1동 중등 수학과외](/middle/gangseo-gayang1-middle-math/)
+- [가양2동 중등 수학과외](/middle/gangseo-gayang2-middle-math/)
+- [가양3동 중등 수학과외](/middle/gangseo-gayang3-middle-math/)
+
+**영어과외**
+- [가양1동 중등 영어과외](/middle/gangseo-gayang1-middle-english/)
+- [가양2동 중등 영어과외](/middle/gangseo-gayang2-middle-english/)
+- [가양3동 중등 영어과외](/middle/gangseo-gayang3-middle-english/)
+
+### 공항동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [공항동 중등 수학과외](/middle/gangseo-gonghang-middle-math/)
+
+**영어과외**
+- [공항동 중등 영어과외](/middle/gangseo-gonghang-middle-english/)
+
+
 ## 강서구 주요 고등학교 안내
 
 ### 화곡고등학교
@@ -133,6 +203,11 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 ### 명덕고등학교
 
 명덕고는 강서구에 위치한 일반고입니다. 교과서 개념을 충실히 다루면서 응용력을 평가하는 문제가 출제됩니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -152,6 +227,13 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -173,4 +255,4 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 ## 마무리
 
-강서구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 화곡고, 공항고, 명덕고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+강서구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 화곡고, 공항고, 명덕고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

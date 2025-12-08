@@ -1,6 +1,6 @@
 ---
 title: "성동구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "성동구 17개 동 고등학생 과외 정보. 경일고, 성수고, 무학여고, 한양대부고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "성동구 17개 동 중·고등학생 과외 정보. 경일고, 성수고, 무학여고, 한양대부고 , 중학교 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
@@ -94,6 +95,65 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 - [송정동 고등 영어과외](/high/seongdong-songjeong-high-english/)
 - [용답동 고등 영어과외](/high/seongdong-yongdap-high-english/)
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 응봉동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [응봉동 중등 수학과외](/middle/seongdong-eungbong-middle-math/)
+
+**영어과외**
+- [응봉동 중등 영어과외](/middle/seongdong-eungbong-middle-english/)
+
+### 금호1가동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [금호1가동 중등 수학과외](/middle/seongdong-geumho1ga-middle-math/)
+
+**영어과외**
+- [금호1가동 중등 영어과외](/middle/seongdong-geumho1ga-middle-english/)
+
+### 금호2·3가동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [금호2·3가동 중등 수학과외](/middle/seongdong-geumho2-3ga-middle-math/)
+
+**영어과외**
+- [금호2·3가동 중등 영어과외](/middle/seongdong-geumho2-3ga-middle-english/)
+
+### 금호4가동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [금호4가동 중등 수학과외](/middle/seongdong-geumho4ga-middle-math/)
+
+**영어과외**
+- [금호4가동 중등 영어과외](/middle/seongdong-geumho4ga-middle-english/)
+
+### 행당1동·행당2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [행당1동 중등 수학과외](/middle/seongdong-haengdang1-middle-math/)
+- [행당2동 중등 수학과외](/middle/seongdong-haengdang2-middle-math/)
+
+**영어과외**
+- [행당1동 중등 영어과외](/middle/seongdong-haengdang1-middle-english/)
+- [행당2동 중등 영어과외](/middle/seongdong-haengdang2-middle-english/)
+
+
 ## 성동구 주요 고등학교 안내
 
 ### 한양대학교부속고등학교
@@ -107,6 +167,11 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 ### 경일고등학교·성수고등학교
 
 성수동 인근에 위치한 일반고입니다. 기본 문제와 응용 문제가 균형 있게 출제됩니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -127,8 +192,15 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
 
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
+
 {{< cta-dual type="final" >}}
 
 ## 마무리
 
-성동구에서 고등학생 과외를 찾고 계신다면, 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+성동구에서 중·고등학생 과외를 찾고 계신다면, 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

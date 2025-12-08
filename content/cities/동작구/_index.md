@@ -1,6 +1,6 @@
 ---
 title: "동작구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "동작구 15개 동 고등학생 과외 정보. 동작고, 경문고, 수도여고, 숭의여고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "동작구 15개 동 중·고등학생 과외 정보. 동작고, 경문고, 수도여고, 숭의여고 , 중학교 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
@@ -108,6 +109,79 @@ featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=
 **영어과외**
 - [대방동 고등 영어과외](/high/dongjak-daebang-high-english/) - 성남고·영등포고·서울공업고 학교별 내신 특화
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 대방동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [대방동 중등 수학과외](/middle/dongjak-daebang-middle-math/)
+
+**영어과외**
+- [대방동 중등 영어과외](/middle/dongjak-daebang-middle-english/)
+
+### 흑석동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [흑석동 중등 수학과외](/middle/dongjak-heukseok-middle-math/)
+
+**영어과외**
+- [흑석동 중등 영어과외](/middle/dongjak-heukseok-middle-english/)
+
+### 노량진1동·노량진2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [노량진1동 중등 수학과외](/middle/dongjak-noryangjin1-middle-math/)
+- [노량진2동 중등 수학과외](/middle/dongjak-noryangjin2-middle-math/)
+
+**영어과외**
+- [노량진1동 중등 영어과외](/middle/dongjak-noryangjin1-middle-english/)
+- [노량진2동 중등 영어과외](/middle/dongjak-noryangjin2-middle-english/)
+
+### 사당1동 외 4개 동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [사당1동 중등 수학과외](/middle/dongjak-sadang1-middle-math/)
+- [사당2동 중등 수학과외](/middle/dongjak-sadang2-middle-math/)
+- [사당3동 중등 수학과외](/middle/dongjak-sadang3-middle-math/)
+- [사당4동 중등 수학과외](/middle/dongjak-sadang4-middle-math/)
+- [사당5동 중등 수학과외](/middle/dongjak-sadang5-middle-math/)
+
+**영어과외**
+- [사당1동 중등 영어과외](/middle/dongjak-sadang1-middle-english/)
+- [사당2동 중등 영어과외](/middle/dongjak-sadang2-middle-english/)
+- [사당3동 중등 영어과외](/middle/dongjak-sadang3-middle-english/)
+- [사당4동 중등 영어과외](/middle/dongjak-sadang4-middle-english/)
+- [사당5동 중등 영어과외](/middle/dongjak-sadang5-middle-english/)
+
+### 상도1동 외 3개 동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [상도1동 중등 수학과외](/middle/dongjak-sangdo1-middle-math/)
+- [상도2동 중등 수학과외](/middle/dongjak-sangdo2-middle-math/)
+- [상도3동 중등 수학과외](/middle/dongjak-sangdo3-middle-math/)
+- [상도4동 중등 수학과외](/middle/dongjak-sangdo4-middle-math/)
+
+**영어과외**
+- [상도1동 중등 영어과외](/middle/dongjak-sangdo1-middle-english/)
+- [상도2동 중등 영어과외](/middle/dongjak-sangdo2-middle-english/)
+- [상도3동 중등 영어과외](/middle/dongjak-sangdo3-middle-english/)
+- [상도4동 중등 영어과외](/middle/dongjak-sangdo4-middle-english/)
+
+
 ## 동작구 주요 고등학교 안내
 
 ### 동작고등학교
@@ -121,6 +195,11 @@ featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=
 ### 수도여자고등학교·숭의여고
 
 신대방동 인근에 위치한 여자고등학교입니다. 내신 경쟁이 치열하며, 꼼꼼한 대비가 필요합니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -140,6 +219,13 @@ featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -161,4 +247,4 @@ featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=
 
 ## 마무리
 
-동작구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 동작고, 경문고, 수도여고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+동작구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 동작고, 경문고, 수도여고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

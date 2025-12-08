@@ -1,6 +1,6 @@
 ---
 title: "서대문구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "서대문구 14개 동 고등학생 과외 정보. 중앙여고, 이화금란고, 명지고, 인창고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "서대문구 14개 동 중·고등학생 과외 정보. 중앙여고, 이화금란고, 명지고, 인창고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
@@ -98,6 +99,67 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 - [남가좌1동 고등 영어과외](/high/seodaemun-namgajwa1-high-english/) - 가재울고 체계적 학습 관리
 - [남가좌2동 고등 영어과외](/high/seodaemun-namgajwa2-high-english/) - 가재울고 실력 향상 수업
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 북아현동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [북아현동 중등 수학과외](/middle/seodaemun-bukahyeon-middle-math/)
+
+**영어과외**
+- [북아현동 중등 영어과외](/middle/seodaemun-bukahyeon-middle-english/)
+
+### 북가좌1동·북가좌2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [북가좌1동 중등 수학과외](/middle/seodaemun-bukgajwa1-middle-math/)
+- [북가좌2동 중등 수학과외](/middle/seodaemun-bukgajwa2-middle-math/)
+
+**영어과외**
+- [북가좌1동 중등 영어과외](/middle/seodaemun-bukgajwa1-middle-english/)
+- [북가좌2동 중등 영어과외](/middle/seodaemun-bukgajwa2-middle-english/)
+
+### 천연동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [천연동 중등 수학과외](/middle/seodaemun-cheongyeon-middle-math/)
+
+**영어과외**
+- [천연동 중등 영어과외](/middle/seodaemun-cheongyeon-middle-english/)
+
+### 충현동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [충현동 중등 수학과외](/middle/seodaemun-chunghyeon-middle-math/)
+
+**영어과외**
+- [충현동 중등 영어과외](/middle/seodaemun-chunghyeon-middle-english/)
+
+### 홍은1동·홍은2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [홍은1동 중등 수학과외](/middle/seodaemun-hongeun1-middle-math/)
+- [홍은2동 중등 수학과외](/middle/seodaemun-hongeun2-middle-math/)
+
+**영어과외**
+- [홍은1동 중등 영어과외](/middle/seodaemun-hongeun1-middle-english/)
+- [홍은2동 중등 영어과외](/middle/seodaemun-hongeun2-middle-english/)
+
+
 ## 서대문구 주요 고등학교 안내
 
 ### 한성과학고등학교
@@ -111,6 +173,11 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 ### 명지고등학교
 
 명지고는 홍은동에 위치한 일반고입니다. 기본 문제와 심화 문제가 균형 있게 출제됩니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -131,8 +198,15 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
 
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
+
 {{< cta-dual type="final" >}}
 
 ## 마무리
 
-서대문구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+서대문구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

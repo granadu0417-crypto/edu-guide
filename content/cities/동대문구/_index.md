@@ -1,6 +1,6 @@
 ---
 title: "동대문구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "동대문구 14개 동 고등학생 과외 정보. 경희고, 대광고, 청량고, 해성여고, 동국대사범대부속고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "동대문구 14개 동 중·고등학생 과외 정보. 경희고, 대광고, 청량고, 해성여고, 동국대사범대부속고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
@@ -130,6 +131,69 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 **영어과외**
 - [용신동 고등 영어과외](/high/dongdaemun-yongsin-high-english/) - 실력 향상 수업
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 청량리동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [청량리동 중등 수학과외](/middle/dongdaemun-cheongnyangni-middle-math/)
+
+**영어과외**
+- [청량리동 중등 영어과외](/middle/dongdaemun-cheongnyangni-middle-english/)
+
+### 답십리1동·답십리2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [답십리1동 중등 수학과외](/middle/dongdaemun-dapsimni1-middle-math/)
+- [답십리2동 중등 수학과외](/middle/dongdaemun-dapsimni2-middle-math/)
+
+**영어과외**
+- [답십리1동 중등 영어과외](/middle/dongdaemun-dapsimni1-middle-english/)
+- [답십리2동 중등 영어과외](/middle/dongdaemun-dapsimni2-middle-english/)
+
+### 회기동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [회기동 중등 수학과외](/middle/dongdaemun-hoegi-middle-math/)
+
+**영어과외**
+- [회기동 중등 영어과외](/middle/dongdaemun-hoegi-middle-english/)
+
+### 휘경1동·휘경2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [휘경1동 중등 수학과외](/middle/dongdaemun-hwigyeong1-middle-math/)
+- [휘경2동 중등 수학과외](/middle/dongdaemun-hwigyeong2-middle-math/)
+
+**영어과외**
+- [휘경1동 중등 영어과외](/middle/dongdaemun-hwigyeong1-middle-english/)
+- [휘경2동 중등 영어과외](/middle/dongdaemun-hwigyeong2-middle-english/)
+
+### 이문1동·이문2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [이문1동 중등 수학과외](/middle/dongdaemun-imun1-middle-math/)
+- [이문2동 중등 수학과외](/middle/dongdaemun-imun2-middle-math/)
+
+**영어과외**
+- [이문1동 중등 영어과외](/middle/dongdaemun-imun1-middle-english/)
+- [이문2동 중등 영어과외](/middle/dongdaemun-imun2-middle-english/)
+
+
 ## 동대문구 주요 고등학교 안내
 
 ### 경희고등학교 (자율형사립고)
@@ -152,6 +216,11 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 동국대사범대부속고는 장안동에 위치한 사립고입니다. 교과서 본문 암기가 기본이며, 핵심 표현과 문법이 그대로 출제됩니다. 변형 문제에 대비한 철저한 준비가 필요합니다.
 
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
+
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
 각 학교의 기출 문제를 분석하여 출제 경향에 맞춘 맞춤형 내신 대비를 진행합니다. 학교에서 자주 출제하는 유형을 집중 훈련합니다.
@@ -170,6 +239,13 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -191,4 +267,4 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 ## 마무리
 
-동대문구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 경희고, 대광고, 청량고, 해성여고, 동국대사범대부속고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+동대문구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 경희고, 대광고, 청량고, 해성여고, 동국대사범대부속고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

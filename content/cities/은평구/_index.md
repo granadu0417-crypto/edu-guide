@@ -1,6 +1,6 @@
 ---
 title: "은평구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "은평구 16개 동 고등학생 과외 정보. 은평고, 충암고, 예일여고, 선정고, 대성고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "은평구 16개 동 중·고등학생 과외 정보. 은평고, 충암고, 예일여고, 선정고, 대성고 , 중학교 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
@@ -100,6 +101,71 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 - [수색동 고등 영어과외](/high/eunpyeong-susaek-high-english/)
 - [역촌동 고등 영어과외](/high/eunpyeong-yeokchon-high-english/)
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 불광1동·불광2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [불광1동 중등 수학과외](/middle/eunpyeong-bulgwang1-middle-math/)
+- [불광2동 중등 수학과외](/middle/eunpyeong-bulgwang2-middle-math/)
+
+**영어과외**
+- [불광1동 중등 영어과외](/middle/eunpyeong-bulgwang1-middle-english/)
+- [불광2동 중등 영어과외](/middle/eunpyeong-bulgwang2-middle-english/)
+
+### 대조동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [대조동 중등 수학과외](/middle/eunpyeong-daejo-middle-math/)
+
+**영어과외**
+- [대조동 중등 영어과외](/middle/eunpyeong-daejo-middle-english/)
+
+### 응암1동·응암2동·응암3동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [응암1동 중등 수학과외](/middle/eunpyeong-eungam1-middle-math/)
+- [응암2동 중등 수학과외](/middle/eunpyeong-eungam2-middle-math/)
+- [응암3동 중등 수학과외](/middle/eunpyeong-eungam3-middle-math/)
+
+**영어과외**
+- [응암1동 중등 영어과외](/middle/eunpyeong-eungam1-middle-english/)
+- [응암2동 중등 영어과외](/middle/eunpyeong-eungam2-middle-english/)
+- [응암3동 중등 영어과외](/middle/eunpyeong-eungam3-middle-english/)
+
+### 갈현1동·갈현2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [갈현1동 중등 수학과외](/middle/eunpyeong-galhyeon1-middle-math/)
+- [갈현2동 중등 수학과외](/middle/eunpyeong-galhyeon2-middle-math/)
+
+**영어과외**
+- [갈현1동 중등 영어과외](/middle/eunpyeong-galhyeon1-middle-english/)
+- [갈현2동 중등 영어과외](/middle/eunpyeong-galhyeon2-middle-english/)
+
+### 구산동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [구산동 중등 수학과외](/middle/eunpyeong-gusan-middle-math/)
+
+**영어과외**
+- [구산동 중등 영어과외](/middle/eunpyeong-gusan-middle-english/)
+
+
 ## 은평구 주요 고등학교 안내
 
 ### 충암고등학교
@@ -113,6 +179,11 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 ### 예일여자고등학교
 
 예일여고는 은평구의 대표적인 여자고등학교입니다. 꼼꼼한 내신 대비가 필요합니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -133,8 +204,15 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
 
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
+
 {{< cta-dual type="final" >}}
 
 ## 마무리
 
-은평구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+은평구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

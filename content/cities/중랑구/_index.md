@@ -1,6 +1,6 @@
 ---
 title: "중랑구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "중랑구 16개 동 고등학생 과외 정보. 신현고, 면목고 등 중랑구 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "중랑구 16개 동 중·고등학생 과외 정보. 신현고, 면목고 등 중랑구 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
@@ -129,6 +130,73 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 학생이 다니는 학교의 기출문제를 수집하고 분석합니다. 담당 선생님의 출제 스타일에 맞춰 예상 문제를 풀어보고, 서술형 대비도 함께 진행합니다.
 </div>
 
+---
+
+
+---
+
+## 중학생 과외 안내
+
+### 중화1동·중화2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [중화1동 중등 수학과외](/middle/jungnang-junghwa1-middle-math/)
+- [중화2동 중등 수학과외](/middle/jungnang-junghwa2-middle-math/)
+
+**영어과외**
+- [중화1동 중등 영어과외](/middle/jungnang-junghwa1-middle-english/)
+- [중화2동 중등 영어과외](/middle/jungnang-junghwa2-middle-english/)
+
+### 망우3동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [망우3동 중등 수학과외](/middle/jungnang-mangwu3-middle-math/)
+
+**영어과외**
+- [망우3동 중등 영어과외](/middle/jungnang-mangwu3-middle-english/)
+
+### 망우본동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [망우본동 중등 수학과외](/middle/jungnang-mangwubon-middle-math/)
+
+**영어과외**
+- [망우본동 중등 영어과외](/middle/jungnang-mangwubon-middle-english/)
+
+### 묵1동·묵2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [묵1동 중등 수학과외](/middle/jungnang-muk1-middle-math/)
+- [묵2동 중등 수학과외](/middle/jungnang-muk2-middle-math/)
+
+**영어과외**
+- [묵1동 중등 영어과외](/middle/jungnang-muk1-middle-english/)
+- [묵2동 중등 영어과외](/middle/jungnang-muk2-middle-english/)
+
+### 면목2동 외 3개 동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [면목2동 중등 수학과외](/middle/jungnang-myeonmok2-middle-math/)
+- [면목4동 중등 수학과외](/middle/jungnang-myeonmok4-middle-math/)
+- [면목5동 중등 수학과외](/middle/jungnang-myeonmok5-middle-math/)
+- [면목7동 중등 수학과외](/middle/jungnang-myeonmok7-middle-math/)
+
+**영어과외**
+- [면목2동 중등 영어과외](/middle/jungnang-myeonmok2-middle-english/)
+- [면목4동 중등 영어과외](/middle/jungnang-myeonmok4-middle-english/)
+- [면목5동 중등 영어과외](/middle/jungnang-myeonmok5-middle-english/)
+- [면목7동 중등 영어과외](/middle/jungnang-myeonmok7-middle-english/)
+
 ## 중랑구 과외 비용 안내
 
 ### 수학과외
@@ -142,6 +210,13 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -167,4 +242,4 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 ## 마무리
 
-중랑구에서 고등학생 과외를 찾고 계신다면, 거주하는 동에 맞는 맞춤 과외를 선택하세요. 노원구 학원가까지 이동하는 시간을 아끼고, 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+중랑구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동에 맞는 맞춤 과외를 선택하세요. 노원구 학원가까지 이동하는 시간을 아끼고, 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

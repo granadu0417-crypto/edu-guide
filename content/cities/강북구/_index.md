@@ -1,6 +1,6 @@
 ---
 title: "강북구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "강북구 13개 동 고등학생 과외 정보. 신일고, 혜화여고, 영훈고, 미양고, 솔샘고, 창문여고, 삼각산고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "강북구 13개 동 중·고등학생 과외 정보. 신일고, 혜화여고, 영훈고, 미양고, 솔샘고, 창문여고, 삼각산고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
@@ -128,6 +129,67 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 **영어과외**
 - [우이동 고등 영어과외](/high/gangbuk-ui-high-english/) - 균형 잡힌 학습
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 번1동·번2동·번3동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [번1동 중등 수학과외](/middle/gangbuk-beon1-middle-math/)
+- [번2동 중등 수학과외](/middle/gangbuk-beon2-middle-math/)
+- [번3동 중등 수학과외](/middle/gangbuk-beon3-middle-math/)
+
+**영어과외**
+- [번1동 중등 영어과외](/middle/gangbuk-beon1-middle-english/)
+- [번2동 중등 영어과외](/middle/gangbuk-beon2-middle-english/)
+- [번3동 중등 영어과외](/middle/gangbuk-beon3-middle-english/)
+
+### 인수동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [인수동 중등 수학과외](/middle/gangbuk-insu-middle-math/)
+
+**영어과외**
+- [인수동 중등 영어과외](/middle/gangbuk-insu-middle-english/)
+
+### 미아동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [미아동 중등 수학과외](/middle/gangbuk-mia-middle-math/)
+
+**영어과외**
+- [미아동 중등 영어과외](/middle/gangbuk-mia-middle-english/)
+
+### 삼각산동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [삼각산동 중등 수학과외](/middle/gangbuk-samgaksan-middle-math/)
+
+**영어과외**
+- [삼각산동 중등 영어과외](/middle/gangbuk-samgaksan-middle-english/)
+
+### 삼양동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [삼양동 중등 수학과외](/middle/gangbuk-samyang-middle-math/)
+
+**영어과외**
+- [삼양동 중등 영어과외](/middle/gangbuk-samyang-middle-english/)
+
+
 ## 강북구 주요 고등학교 안내
 
 ### 신일고등학교
@@ -158,6 +220,11 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 삼각산고는 교과서 내용을 충실히 반영합니다. 서술형 비중이 있어 논리적인 풀이 작성이 필요합니다.
 
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
+
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
 각 학교의 기출 문제를 분석하여 출제 경향에 맞춘 맞춤형 내신 대비를 진행합니다. 학교에서 자주 출제하는 유형을 집중 훈련합니다.
@@ -176,6 +243,13 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -197,4 +271,4 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 ## 마무리
 
-강북구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 신일고, 혜화여고, 영훈고, 미양고, 솔샘고, 창문여고, 삼각산고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+강북구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 신일고, 혜화여고, 영훈고, 미양고, 솔샘고, 창문여고, 삼각산고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

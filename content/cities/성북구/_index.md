@@ -1,6 +1,6 @@
 ---
 title: "성북구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "성북구 22개 동 고등학생 과외 정보. 경기고, 성북고, 대광고, 홍익대사대부고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "성북구 22개 동 중·고등학생 과외 정보. 경기고, 성북고, 대광고, 홍익대사대부고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop"
@@ -140,6 +141,67 @@ featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=
 - [성북동 고등 수학과외](/high/seongbuk-seongbuk-high-math/) - 응용력 향상
 - [성북동 고등 영어과외](/high/seongbuk-seongbuk-high-english/) - 1등급 목표
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 안암동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [안암동 중등 수학과외](/middle/seongbuk-anam-middle-math/)
+
+**영어과외**
+- [안암동 중등 영어과외](/middle/seongbuk-anam-middle-english/)
+
+### 보문동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [보문동 중등 수학과외](/middle/seongbuk-bomun-middle-math/)
+
+**영어과외**
+- [보문동 중등 영어과외](/middle/seongbuk-bomun-middle-english/)
+
+### 돈암1동·돈암2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [돈암1동 중등 수학과외](/middle/seongbuk-donam1-middle-math/)
+- [돈암2동 중등 수학과외](/middle/seongbuk-donam2-middle-math/)
+
+**영어과외**
+- [돈암1동 중등 영어과외](/middle/seongbuk-donam1-middle-english/)
+- [돈암2동 중등 영어과외](/middle/seongbuk-donam2-middle-english/)
+
+### 동선동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [동선동 중등 수학과외](/middle/seongbuk-dongseon-middle-math/)
+
+**영어과외**
+- [동선동 중등 영어과외](/middle/seongbuk-dongseon-middle-english/)
+
+### 길음1동·길음2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [길음1동 중등 수학과외](/middle/seongbuk-gileum1-middle-math/)
+- [길음2동 중등 수학과외](/middle/seongbuk-gileum2-middle-math/)
+
+**영어과외**
+- [길음1동 중등 영어과외](/middle/seongbuk-gileum1-middle-english/)
+- [길음2동 중등 영어과외](/middle/seongbuk-gileum2-middle-english/)
+
+
 ## 성북구 주요 고등학교 안내
 
 ### 경기고등학교
@@ -157,6 +219,11 @@ featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=
 ### 홍익대학교사범대학부속고등학교
 
 홍익대사대부고는 정릉동에 위치한 사립고입니다. 영어 내신은 교과서와 부교재를 꼼꼼히 학습해야 하며, 본문 기반 변형 문제와 서술형 문제가 출제됩니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -176,6 +243,13 @@ featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -197,4 +271,4 @@ featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=
 
 ## 마무리
 
-성북구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 경기고, 성북고, 대광고, 홍익대사대부고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+성북구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 경기고, 성북고, 대광고, 홍익대사대부고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

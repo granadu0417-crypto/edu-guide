@@ -1,6 +1,6 @@
 ---
 title: "양천구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "양천구 18개 동 고등학생 과외 정보. 진명여고, 양정고, 한가람고, 신목고 등 관내 고등학교 내신과 수능 대비. 목동 학군 맞춤 수학·영어 과외."
+description: "양천구 18개 동 중·고등학생 과외 정보. 진명여고, 양정고, 한가람고, 신목고 , 중학교 등 관내 고등학교 내신과 수능 대비. 목동 학군 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
   - 목동학군
@@ -91,6 +92,71 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 - [신월6동 고등 영어과외](/high/yangcheon-sinwol6-high-english/) - 광영고·광영여고 내신·수능 대비
 - [신월7동 고등 영어과외](/high/yangcheon-sinwol7-high-english/) - 광영고·광영여고 맞춤 커리큘럼
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 목1동 외 4개 동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [목1동 중등 수학과외](/middle/yangcheon-mok1-middle-math/)
+- [목2동 중등 수학과외](/middle/yangcheon-mok2-middle-math/)
+- [목3동 중등 수학과외](/middle/yangcheon-mok3-middle-math/)
+- [목4동 중등 수학과외](/middle/yangcheon-mok4-middle-math/)
+- [목5동 중등 수학과외](/middle/yangcheon-mok5-middle-math/)
+
+**영어과외**
+- [목1동 중등 영어과외](/middle/yangcheon-mok1-middle-english/)
+- [목2동 중등 영어과외](/middle/yangcheon-mok2-middle-english/)
+- [목3동 중등 영어과외](/middle/yangcheon-mok3-middle-english/)
+- [목4동 중등 영어과외](/middle/yangcheon-mok4-middle-english/)
+- [목5동 중등 영어과외](/middle/yangcheon-mok5-middle-english/)
+
+### 신정1동 외 5개 동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [신정1동 중등 수학과외](/middle/yangcheon-sinjeong1-middle-math/)
+- [신정2동 중등 수학과외](/middle/yangcheon-sinjeong2-middle-math/)
+- [신정3동 중등 수학과외](/middle/yangcheon-sinjeong3-middle-math/)
+- [신정4동 중등 수학과외](/middle/yangcheon-sinjeong4-middle-math/)
+- [신정6동 중등 수학과외](/middle/yangcheon-sinjeong6-middle-math/)
+- [신정7동 중등 수학과외](/middle/yangcheon-sinjeong7-middle-math/)
+
+**영어과외**
+- [신정1동 중등 영어과외](/middle/yangcheon-sinjeong1-middle-english/)
+- [신정2동 중등 영어과외](/middle/yangcheon-sinjeong2-middle-english/)
+- [신정3동 중등 영어과외](/middle/yangcheon-sinjeong3-middle-english/)
+- [신정4동 중등 영어과외](/middle/yangcheon-sinjeong4-middle-english/)
+- [신정6동 중등 영어과외](/middle/yangcheon-sinjeong6-middle-english/)
+- [신정7동 중등 영어과외](/middle/yangcheon-sinjeong7-middle-english/)
+
+### 신월1동 외 6개 동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [신월1동 중등 수학과외](/middle/yangcheon-sinwol1-middle-math/)
+- [신월2동 중등 수학과외](/middle/yangcheon-sinwol2-middle-math/)
+- [신월3동 중등 수학과외](/middle/yangcheon-sinwol3-middle-math/)
+- [신월4동 중등 수학과외](/middle/yangcheon-sinwol4-middle-math/)
+- [신월5동 중등 수학과외](/middle/yangcheon-sinwol5-middle-math/)
+- [신월6동 중등 수학과외](/middle/yangcheon-sinwol6-middle-math/)
+
+**영어과외**
+- [신월1동 중등 영어과외](/middle/yangcheon-sinwol1-middle-english/)
+- [신월2동 중등 영어과외](/middle/yangcheon-sinwol2-middle-english/)
+- [신월3동 중등 영어과외](/middle/yangcheon-sinwol3-middle-english/)
+- [신월4동 중등 영어과외](/middle/yangcheon-sinwol4-middle-english/)
+- [신월5동 중등 영어과외](/middle/yangcheon-sinwol5-middle-english/)
+- [신월6동 중등 영어과외](/middle/yangcheon-sinwol6-middle-english/)
+
+
 ## 양천구 주요 고등학교 안내
 
 ### 양정고등학교
@@ -108,6 +174,11 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 ### 광영고등학교·광영여고
 
 광영고와 광영여고는 신월동에 위치해 있습니다. 교과서 중심으로 출제되며, 기본 개념 이해가 중요합니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -127,6 +198,13 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -148,4 +226,4 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 ## 마무리
 
-양천구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 목동 학군의 치열한 경쟁에서 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+양천구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 목동 학군의 치열한 경쟁에서 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

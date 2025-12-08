@@ -1,6 +1,6 @@
 ---
 title: "노원구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "노원구 19개 동 고등학생 과외 정보. 노원고, 수락고, 서라벌고, 대진고, 재현고, 태릉고, 서울과고, 영신여고, 광운대부고, 을지대부고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "노원구 19개 동 중·고등학생 과외 정보. 노원고, 수락고, 서라벌고, 대진고, 재현고, 태릉고, 서울과고, 영신여고, 광운대부고, 을지대부고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
@@ -108,6 +109,69 @@ featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=
 - [하계1동 고등 영어과외](/high/nowon-hagye1-high-english/) - 내신·수능 병행
 - [하계2동 고등 영어과외](/high/nowon-hagye2-high-english/) - 독해력 강화
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 공릉1동·공릉2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [공릉1동 중등 수학과외](/middle/nowon-gongneung1-middle-math/)
+- [공릉2동 중등 수학과외](/middle/nowon-gongneung2-middle-math/)
+
+**영어과외**
+- [공릉1동 중등 영어과외](/middle/nowon-gongneung1-middle-english/)
+- [공릉2동 중등 영어과외](/middle/nowon-gongneung2-middle-english/)
+
+### 하계1동·하계2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [하계1동 중등 수학과외](/middle/nowon-hagye1-middle-math/)
+- [하계2동 중등 수학과외](/middle/nowon-hagye2-middle-math/)
+
+**영어과외**
+- [하계1동 중등 영어과외](/middle/nowon-hagye1-middle-english/)
+- [하계2동 중등 영어과외](/middle/nowon-hagye2-middle-english/)
+
+### 중계1동·중계4동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [중계1동 중등 수학과외](/middle/nowon-junggye1-middle-math/)
+- [중계4동 중등 수학과외](/middle/nowon-junggye4-middle-math/)
+
+**영어과외**
+- [중계1동 중등 영어과외](/middle/nowon-junggye1-middle-english/)
+- [중계4동 중등 영어과외](/middle/nowon-junggye4-middle-english/)
+
+### 중계2·3동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [중계2·3동 중등 수학과외](/middle/nowon-junggye23-middle-math/)
+
+**영어과외**
+- [중계2·3동 중등 영어과외](/middle/nowon-junggye23-middle-english/)
+
+### 중계본동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [중계본동 중등 수학과외](/middle/nowon-junggyebon-middle-math/)
+
+**영어과외**
+- [중계본동 중등 영어과외](/middle/nowon-junggyebon-middle-english/)
+
+
 ## 노원구 주요 고등학교 안내
 
 ### 노원고등학교
@@ -150,6 +214,11 @@ featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=
 
 을지대부고는 월계동에 위치한 사립고입니다. 기본과 응용이 균형 있게 출제되며, 서술형 풀이 과정이 중요합니다.
 
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
+
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
 각 학교의 기출 문제를 분석하여 출제 경향에 맞춘 맞춤형 내신 대비를 진행합니다. 학교에서 자주 출제하는 유형을 집중 훈련합니다.
@@ -168,6 +237,13 @@ featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -189,4 +265,4 @@ featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=
 
 ## 마무리
 
-노원구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 노원고, 수락고, 서라벌고, 대진고, 재현고, 태릉고, 서울과고, 영신여고, 광운대부고, 을지대부고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+노원구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 노원고, 수락고, 서라벌고, 대진고, 재현고, 태릉고, 서울과고, 영신여고, 광운대부고, 을지대부고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

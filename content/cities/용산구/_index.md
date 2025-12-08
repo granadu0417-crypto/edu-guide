@@ -1,6 +1,6 @@
 ---
 title: "용산구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "용산구 16개 동 고등학생 과외 정보. 용산고, 중경고, 오산고, 보성여고, 신광여고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "용산구 16개 동 중·고등학생 과외 정보. 용산고, 중경고, 오산고, 보성여고, 신광여고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
@@ -100,6 +101,63 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 - [용문동 고등 영어과외](/high/yongsan-yongmun-high-english/)
 - [용산2가동 고등 영어과외](/high/yongsan-yongsan2ga-high-english/)
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 보광동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [보광동 중등 수학과외](/middle/yongsan-bogwang-middle-math/)
+
+**영어과외**
+- [보광동 중등 영어과외](/middle/yongsan-bogwang-middle-english/)
+
+### 청파동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [청파동 중등 수학과외](/middle/yongsan-cheongpa-middle-math/)
+
+**영어과외**
+- [청파동 중등 영어과외](/middle/yongsan-cheongpa-middle-english/)
+
+### 한강로동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [한강로동 중등 수학과외](/middle/yongsan-hangang-ro-middle-math/)
+
+**영어과외**
+- [한강로동 중등 영어과외](/middle/yongsan-hangang-ro-middle-english/)
+
+### 한남동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [한남동 중등 수학과외](/middle/yongsan-hannam-middle-math/)
+
+**영어과외**
+- [한남동 중등 영어과외](/middle/yongsan-hannam-middle-english/)
+
+### 후암동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [후암동 중등 수학과외](/middle/yongsan-huam-middle-math/)
+
+**영어과외**
+- [후암동 중등 영어과외](/middle/yongsan-huam-middle-english/)
+
+
 ## 용산구 주요 고등학교 안내
 
 ### 용산고등학교
@@ -113,6 +171,11 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 ### 오산고등학교
 
 오산고는 민족학교 전통을 계승한 학교입니다. 독특한 교육 철학을 바탕으로 운영됩니다.
+
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
@@ -133,8 +196,15 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
 
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
+
 {{< cta-dual type="final" >}}
 
 ## 마무리
 
-용산구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+용산구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

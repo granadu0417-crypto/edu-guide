@@ -1,6 +1,6 @@
 ---
 title: "도봉구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "도봉구 14개 동 고등학생 과외 정보. 창동고, 도봉고, 선덕고, 서라벌고, 서울외국어고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "도봉구 14개 동 중·고등학생 과외 정보. 창동고, 도봉고, 선덕고, 서라벌고, 서울외국어고 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,6 +14,7 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
@@ -90,6 +91,73 @@ featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=
 - [쌍문3동 고등 영어과외](/high/dobong-ssangmun3-high-english/) - 문법 체계화와 원리 이해
 - [쌍문4동 고등 영어과외](/high/dobong-ssangmun4-high-english/) - 독해 속도 향상
 
+---
+
+---
+
+## 중학생 과외 안내
+
+### 방학1동·방학2동·방학3동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [방학1동 중등 수학과외](/middle/dobong-banghak1-middle-math/)
+- [방학2동 중등 수학과외](/middle/dobong-banghak2-middle-math/)
+- [방학3동 중등 수학과외](/middle/dobong-banghak3-middle-math/)
+
+**영어과외**
+- [방학1동 중등 영어과외](/middle/dobong-banghak1-middle-english/)
+- [방학2동 중등 영어과외](/middle/dobong-banghak2-middle-english/)
+- [방학3동 중등 영어과외](/middle/dobong-banghak3-middle-english/)
+
+### 창1동 외 4개 동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [창1동 중등 수학과외](/middle/dobong-chang1-middle-math/)
+- [창2동 중등 수학과외](/middle/dobong-chang2-middle-math/)
+- [창3동 중등 수학과외](/middle/dobong-chang3-middle-math/)
+- [창4동 중등 수학과외](/middle/dobong-chang4-middle-math/)
+- [창5동 중등 수학과외](/middle/dobong-chang5-middle-math/)
+
+**영어과외**
+- [창1동 중등 영어과외](/middle/dobong-chang1-middle-english/)
+- [창2동 중등 영어과외](/middle/dobong-chang2-middle-english/)
+- [창3동 중등 영어과외](/middle/dobong-chang3-middle-english/)
+- [창4동 중등 영어과외](/middle/dobong-chang4-middle-english/)
+- [창5동 중등 영어과외](/middle/dobong-chang5-middle-english/)
+
+### 도봉1동·도봉2동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [도봉1동 중등 수학과외](/middle/dobong-dobong1-middle-math/)
+- [도봉2동 중등 수학과외](/middle/dobong-dobong2-middle-math/)
+
+**영어과외**
+- [도봉1동 중등 영어과외](/middle/dobong-dobong1-middle-english/)
+- [도봉2동 중등 영어과외](/middle/dobong-dobong2-middle-english/)
+
+### 쌍문1동 외 3개 동
+
+**중학교** 학생들이 거주합니다.
+
+**수학과외**
+- [쌍문1동 중등 수학과외](/middle/dobong-ssangmun1-middle-math/)
+- [쌍문2동 중등 수학과외](/middle/dobong-ssangmun2-middle-math/)
+- [쌍문3동 중등 수학과외](/middle/dobong-ssangmun3-middle-math/)
+- [쌍문4동 중등 수학과외](/middle/dobong-ssangmun4-middle-math/)
+
+**영어과외**
+- [쌍문1동 중등 영어과외](/middle/dobong-ssangmun1-middle-english/)
+- [쌍문2동 중등 영어과외](/middle/dobong-ssangmun2-middle-english/)
+- [쌍문3동 중등 영어과외](/middle/dobong-ssangmun3-middle-english/)
+- [쌍문4동 중등 영어과외](/middle/dobong-ssangmun4-middle-english/)
+
+
 ## 도봉구 주요 고등학교 안내
 
 ### 창동고등학교
@@ -112,6 +180,11 @@ featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=
 
 서울외국어고는 도봉구 창동에 위치한 외국어고입니다. 일반고보다 영어 내신 난이도가 높으며, 심화 문법과 고급 독해가 요구됩니다.
 
+
+### 중학교
+
+지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
+
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
 각 학교의 기출 문제를 분석하여 출제 경향에 맞춘 맞춤형 내신 대비를 진행합니다. 학교에서 자주 출제하는 유형을 집중 훈련합니다.
@@ -130,6 +203,13 @@ featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=
 **고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
 
 **고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+### 중학생
+
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
+
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
+
 
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
@@ -151,4 +231,4 @@ featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=
 
 ## 마무리
 
-도봉구에서 고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 창동고, 도봉고, 선덕고, 서라벌고, 서울외국어고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+도봉구에서 중·고등학생 과외를 찾고 계신다면, 거주하는 동과 다니는 학교에 맞는 맞춤 과외를 선택하세요. 창동고, 도봉고, 선덕고, 서라벌고, 서울외국어고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

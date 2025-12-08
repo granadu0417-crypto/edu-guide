@@ -1,6 +1,6 @@
 ---
 title: "서초구 과외 | 동별 수학·영어 1:1 맞춤 수업"
-description: "서초구 13개 동 고등학생 과외 정보. 세화고, 서울고, 반포고, 상문고 등 관내 명문 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+description: "서초구 13개 동 중·고등학생 과외 정보. 세화고, 서울고, 신반포중, 원촌중 등 관내 명문 학교 내신 대비. 동별 맞춤 수학·영어 과외."
 date: 2025-01-29
 categories:
   - 지역교육
@@ -14,21 +14,24 @@ tags:
   - 수학과외
   - 영어과외
   - 고등과외
+  - 중등과외
   - 내신관리
   - 수능대비
 featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 ---
 
-## 서초구 고등학생 과외 안내
+## 서초구 과외 안내
 
-서초구는 **13개 동**으로 구성되어 있으며, 세화고, 서울고, 반포고, 상문고, 양재고 등 명문 고등학교가 위치해 있습니다. 강남과 함께 대한민국 대표 교육특구입니다.
+서초구는 **13개 동**으로 구성되어 있으며, 세화고, 서울고, 반포고 등 고등학교와 신반포중, 원촌중, 이수중 등 중학교가 위치해 있습니다. 강남과 함께 대한민국 대표 교육특구입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>서초구 교육 특징</strong><br>
-강남서초교육지원청 관할로 강남구와 함께 전국 최고 수준의 학군입니다. 내신 경쟁이 치열하여 학교별 맞춤 대비가 필수입니다.
+강남서초교육지원청 관할로 전국 최고 수준의 학군입니다. 내신 경쟁이 치열하여 학교별 맞춤 대비가 필수입니다.
 </div>
 
-## 동별 고등 과외 안내
+---
+
+## 고등학생 과외 안내
 
 ### 반포동 (반포본동, 반포2동, 반포3동, 반포4동)·잠원동
 
@@ -64,77 +67,117 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 - [방배3동 고등 영어과외](/high/seocho-bangbae3dong-high-english/)
 - [방배4동 고등 영어과외](/high/seocho-bangbae4dong-high-english/)
 
-### 서초동
+### 서초동·양재동·내곡동
 
-**서울고, 상문고, 서초고, 양재고** 학생들이 거주하는 서초구 중심 지역입니다.
+**서울고, 상문고, 양재고, 언남고** 학생들이 거주하는 지역입니다.
 
 **수학과외**
 - [서초동 고등 수학과외](/high/seocho-seochodong-high-math/) - 서울고·상문고·서초고·양재고 내신·수능 대비
-
-**영어과외**
-- [서초동 고등 영어과외](/high/seocho-seochodong-high-english/)
-
-### 양재동 (양재1동, 양재2동)
-
-**양재고, 언남고** 학생들이 거주하는 지역입니다.
-
-**수학과외**
 - [양재1동 고등 수학과외](/high/seocho-yangjae1dong-high-math/) - 양재고·언남고 내신·수능 대비
 - [양재2동 고등 수학과외](/high/seocho-yangjae2dong-high-math/) - 언남고·양재고 내신·수능 대비
-
-**영어과외**
-- [양재1동 고등 영어과외](/high/seocho-yangjae1dong-high-english/)
-- [양재2동 고등 영어과외](/high/seocho-yangjae2dong-high-english/)
-
-### 내곡동
-
-**언남고, 서울세종고** 학생들이 거주하는 지역입니다.
-
-**수학과외**
 - [내곡동 고등 수학과외](/high/seocho-naegokdong-high-math/) - 언남고·서울세종고 내신·수능 대비
 
 **영어과외**
+- [서초동 고등 영어과외](/high/seocho-seochodong-high-english/)
+- [양재1동 고등 영어과외](/high/seocho-yangjae1dong-high-english/)
+- [양재2동 고등 영어과외](/high/seocho-yangjae2dong-high-english/)
 - [내곡동 고등 영어과외](/high/seocho-naegokdong-high-english/)
 
-## 서초구 주요 고등학교 안내
+---
 
-### 세화고등학교·세화여자고등학교
+## 중학생 과외 안내
 
-세화고와 세화여고는 반포동에 위치한 명문고입니다. 내신 시험 난이도가 높으며 심화 문제 출제 비중이 높습니다.
+### 반포동 (반포본동, 반포2동, 반포3동, 반포4동)·잠원동
 
-### 서울고등학교
+**반포중, 신반포중, 원촌중, 세화여중** 학생들이 거주합니다.
 
-서울고는 서초동에 위치한 전통 명문고입니다. 내신 경쟁이 치열하며 서술형 비중이 높습니다.
+**수학과외**
+- [반포본동 중등 수학과외](/middle/seocho-banpobondong-middle-math/) - 반포중·원촌중 맞춤 관리
+- [반포2동 중등 수학과외](/middle/seocho-banpo2dong-middle-math/) - 신반포중·원촌중 맞춤 관리
+- [반포3동 중등 수학과외](/middle/seocho-banpo3dong-middle-math/) - 신반포중·원촌중 맞춤 관리
+- [반포4동 중등 수학과외](/middle/seocho-banpo4dong-middle-math/) - 세화여중·방배중 맞춤 관리
+- [잠원동 중등 수학과외](/middle/seocho-jamwondong-middle-math/) - 반포중·신반포중 맞춤 관리
 
-### 반포고등학교·상문고등학교
+**영어과외**
+- [반포본동 중등 영어과외](/middle/seocho-banpobondong-middle-english/)
+- [반포2동 중등 영어과외](/middle/seocho-banpo2dong-middle-english/)
+- [반포3동 중등 영어과외](/middle/seocho-banpo3dong-middle-english/)
+- [반포4동 중등 영어과외](/middle/seocho-banpo4dong-middle-english/)
+- [잠원동 중등 영어과외](/middle/seocho-jamwondong-middle-english/)
 
-반포고와 상문고는 서초구에 위치한 일반고입니다. 기본과 응용이 균형 있게 출제됩니다.
+### 방배동 (방배본동, 방배2동, 방배3동, 방배4동)
 
-### 양재고등학교
+**방배중, 이수중, 서문여중, 동덕여중** 학생들이 거주합니다.
 
-양재고는 양재동에 위치한 일반고입니다. 교과서 중심으로 출제되며 꼼꼼한 대비가 필요합니다.
+**수학과외**
+- [방배본동 중등 수학과외](/middle/seocho-bangbaebondong-middle-math/) - 방배중·이수중 맞춤 관리
+- [방배2동 중등 수학과외](/middle/seocho-bangbae2dong-middle-math/) - 이수중·서문여중 맞춤 관리
+- [방배3동 중등 수학과외](/middle/seocho-bangbae3dong-middle-math/) - 이수중·서문여중 맞춤 관리
+- [방배4동 중등 수학과외](/middle/seocho-bangbae4dong-middle-math/) - 동덕여중·서문여중 맞춤 관리
+
+**영어과외**
+- [방배본동 중등 영어과외](/middle/seocho-bangbaebondong-middle-english/)
+- [방배2동 중등 영어과외](/middle/seocho-bangbae2dong-middle-english/)
+- [방배3동 중등 영어과외](/middle/seocho-bangbae3dong-middle-english/)
+- [방배4동 중등 영어과외](/middle/seocho-bangbae4dong-middle-english/)
+
+### 서초동·양재동·내곡동
+
+**서초중, 서일중, 양재중** 학생들이 거주합니다.
+
+**수학과외**
+- [서초동 중등 수학과외](/middle/seocho-seochodong-middle-math/)
+- [양재1동 중등 수학과외](/middle/seocho-yangjae1dong-middle-math/)
+- [양재2동 중등 수학과외](/middle/seocho-yangjae2dong-middle-math/)
+- [내곡동 중등 수학과외](/middle/seocho-naegokdong-middle-math/)
+
+**영어과외**
+- [서초동 중등 영어과외](/middle/seocho-seochodong-middle-english/)
+- [양재1동 중등 영어과외](/middle/seocho-yangjae1dong-middle-english/)
+- [양재2동 중등 영어과외](/middle/seocho-yangjae2dong-middle-english/)
+- [내곡동 중등 영어과외](/middle/seocho-naegokdong-middle-english/)
+
+---
+
+## 서초구 주요 학교 안내
+
+### 고등학교
+
+**세화고·세화여고**: 반포동 위치, 명문고. 심화 문제 출제 비중 높음.
+
+**서울고등학교**: 서초동 위치, 전통 명문고. 서술형 비중 높음.
+
+**반포고·상문고**: 서초구 위치. 기본과 응용 균형 출제.
+
+### 중학교
+
+**신반포중학교**: 반포동 대표 중학교. 내신 경쟁 치열.
+
+**원촌중학교**: 반포동 위치. 기본과 응용 균형 출제.
+
+**이수중학교**: 방배동 위치. 꼼꼼한 내신 대비 필요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>학교별 맞춤 과외</strong><br>
-서초구 명문고는 내신 경쟁이 치열합니다. 각 학교의 기출 문제를 철저히 분석하여 맞춤형 내신 대비를 진행합니다.
+서초구는 내신 경쟁이 치열합니다. 각 학교의 기출 문제를 철저히 분석하여 맞춤형 내신 대비를 진행합니다.
 </div>
 
-## 서초구 과외 비용 안내
+## 과외 비용 안내
 
-### 수학과외
+### 고등학생
 
-**고1~2**: 주1회 25만~35만원, 주2회 42만~58만원
+**수학**: 고1~2 주1회 25만~35만원, 주2회 42만~58만원 / 고3 주1회 30만~42만원, 주2회 50만~70만원
 
-**고3**: 주1회 30만~42만원, 주2회 50만~70만원
+**영어**: 고1~2 주1회 22만~32만원, 주2회 38만~52만원 / 고3 주1회 28만~38만원, 주2회 45만~62만원
 
-### 영어과외
+### 중학생
 
-**고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
+**수학**: 주1회 20만~28만원, 주2회 35만~48만원
 
-**고3**: 주1회 28만~38만원, 주2회 45만~62만원
+**영어**: 주1회 18만~25만원, 주2회 32만~45만원
 
 {{< cta-dual type="final" >}}
 
 ## 마무리
 
-서초구에서 고등학생 과외를 찾고 계신다면, 세화고, 서울고, 반포고 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
+서초구에서 중·고등학생 과외를 찾고 계신다면, 각 학교의 내신 특성을 파악한 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.
