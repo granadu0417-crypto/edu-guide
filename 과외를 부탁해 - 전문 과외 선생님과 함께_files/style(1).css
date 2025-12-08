@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+#mainVisual{position:relative}
+
+/* 텍스트 */
+#mainVisual .txt_area{position:absolute;top:21%;left:50%;z-index:10;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);width:100%;max-width:1200px;color:#fff}
+#mainVisual .txt_area .tit{opacity:0;margin-bottom:60px;letter-spacing:-3px;font-size:63px;line-height:1.3;font-family:'notokr-thin'}
+#mainVisual .txt_area .tit b{font-weight:normal;font-family:'notokr-bold'}
+#mainVisual .txt_area .txt{opacity:0;margin-bottom:70px;line-height:1.6;font-size:20px;font-family:'notokr-regular'}
+
+/* 슬라이더 */
+#main_img .slider{height:718px}
+#main_img .slider li{width:100%!important;height:100%;background:right no-repeat;background-size:cover}
+#main_img .slider li.img01{background-image:url(/sh_img/index/main_banner/main_img01.jpg)}
+#main_img .slider li.img02{background-image:url(/sh_img/index/main_banner/main_img02.jpg)}
+#main_img .slider li.img03{background-image:url(/sh_img/index/main_banner/main_img03.jpg)}
+
+/* 컨트롤러 */
+#mainVisual .bar{overflow:hidden;position:relative}
+#mainVisual .main_controls{display:inline-block}
+#mainVisual .main_controls .counter{font-size:12px;font-weight:700;letter-spacing:0;font-family:'Philosopher'}
+#mainVisual .main_controls .counter span.slash{padding:0 4px}
+#mainVisual .main_controls a{font-size:0}
+#mainVisual .main_controls a:before{content:"\f104";font-size:16px;color:#222;font-family:'fontawesome'}
+#mainVisual .main_controls a.bx-next:before{content:"\f105"}
+#mainVisual .timeline{position:absolute;left:60px;top:10px;z-index:1002;width:220px;height:1px;background-color:rgba(255,255,255,.35)}
+#mainVisual .timeline .fill{position:absolute;left:0;top:0;width:0;height:1px;background-color:#fff}
+#mainVisual .main_img li.on .fill{-webkit-animation:linefill 5.5s cubic-bezier(0.165, 0.840, 0.440, 1.000);animation:linefill 5.5s cubic-bezier(0.165, 0.840, 0.440, 1.000)}
+@keyframes linefill{from{width:0}to{width:100%}}
+
+/*btm_cont*/
+#mainVisual .c_bg{background-color:#194a6c;color:#fff}
+#mainVisual .c_bg .inner{display:flex;width:100%;max-width:1200px;margin:0 auto}
+#mainVisual .c_bg .inner .list{float:left;width:calc(100% - 300px);height:100%;padding:30px 0}
+#mainVisual .c_bg .inner .list .tit{float:left;margin-right:34px;transform:rotate(-0.1deg);font-size:18px;font-family:'NEXEN_TIRE_Bold'}
+#mainVisual .c_bg .inner .list .sh_lt{float:left;width:calc(100% - 165px);padding-right:48px}
+#mainVisual .c_bg .inner .link{display:flex;justify-content:center;align-items:center;float:right;width:300px;background-color:#0066e0;-webkit-transition:all .3s;-ms-transition:all .3s;transition:all .3s;color:#fff;text-align:center;font-size:18px;transform:rotate(-0.1deg);font-family:'NEXEN_TIRE_Bold';}
+#mainVisual .c_bg .inner .link i{margin-left:15px}
+#mainVisual .c_bg .inner .link:hover{background-color:#0150ad}
+
+/* 반응형 [s] */
+@media (max-width:1230px){
+#mainVisual .txt_area{padding-left:50px}
+#mainVisual .c_bg .inner{max-width:none}
+#mainVisual .c_bg .inner .list{width:80%;padding-left:50px}
+#mainVisual .c_bg .inner .list .sh_lt{padding-right:50px}
+#mainVisual .c_bg .inner .link{width:20%}
+#main_img .slider li{background-position:80%}
+}
+
+@media (max-width:1024px){
+#mainVisual .txt_area{top:14%}
+#main_img .slider{height:560px}
+#mainVisual .c_bg .inner .list{width:75%;padding-left:30px}
+#mainVisual .c_bg .inner .list .sh_lt{padding-right:30px}
+#mainVisual .c_bg .inner .link{width:25%}
+}
+
+@media (max-width:768px){
+#main_img{background:#000}
+#main_img .slider{height:480px;opacity:.6}
+#main_img .slider li{background-position:right !important}
+#main_img .slider li.img01{background-image:url(/sh_img/index/main_banner/main_img01m.jpg)}
+#main_img .slider li.img02{background-image:url(/sh_img/index/main_banner/main_img02m.jpg)}
+#main_img .slider li.img03{background-image:url(/sh_img/index/main_banner/main_img03m.jpg)}
+#mainVisual .txt_area{top:10%;padding-left:30px}
+#mainVisual .txt_area .tit{margin-bottom:25px;font-size:40px;line-height:56px}
+#mainVisual .txt_area .txt{margin-bottom:155px;font-size:15px;line-height:27px}
+#mainVisual .c_bg .inner .list{width:100%;padding:30px 25px}
+#mainVisual .c_bg .inner .list .tit{font-size:15px}
+#mainVisual .c_bg .inner .link{position:absolute;z-index:11;left:30px;top:320px;width:240px;border-radius:50px;line-height:60px;background: -webkit-linear-gradient(135deg, rgb(111,211,243), rgb(85, 120, 248));background: linear-gradient(135deg, rgb(111,211,243), rgb(85, 120, 248));}
+#mainVisual .c_bg .inner .list .sh_lt{padding-right:0}
+}
+@media (max-width:553px){
+#mainVisual .c_bg .inner .list{padding-left:15px}
+#mainVisual .c_bg .inner .list .tit{margin:0 0 15px}
+#mainVisual .c_bg .inner .list .sh_lt{width:100%}
+}
+@media (max-width:480px){
+#main_img .slider{height:400px}
+#main_img .slider li.img01{background-image:url(/sh_img/index/main_banner/main_img01m2.jpg)}
+#main_img .slider li.img02{background-image:url(/sh_img/index/main_banner/main_img02m2.jpg)}
+#main_img .slider li.img03{background-image:url(/sh_img/index/main_banner/main_img03m2.jpg)}
+#mainVisual .txt_area{top:8%;padding-left:15px}
+#mainVisual .txt_area .tit{font-size:33px;line-height:45px}
+#mainVisual .txt_area .txt{margin-bottom:120px;font-size:14px;line-height:26px}
+
+#mainVisual .c_bg .inner .link{left:15px;top:260px;width:190px;font-size:14px;line-height:55px}
+}
+
+@media (max-width:380px){}
+/* 반응형 [e] */

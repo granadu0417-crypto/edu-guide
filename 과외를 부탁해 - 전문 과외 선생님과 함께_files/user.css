@@ -1,0 +1,140 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@font-face {
+    font-family:'NEXEN_TIRE_Bold';
+    src:url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/NEXEN_TIRE_Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{-webkit-text-size-adjust:none}
+body{background:#fff;font-size:0.81em;letter-spacing:-.3px;font-family:'notokr-regular'}
+h1, h2, h3, h4, h5, h6, input, button, textarea, select{font-family:'notokr-regular'} 
+#device_change{border:1px solid #666;font-size:3.5em;box-shadow:none} 
+
+#sh_wrapper{overflow:hidden;position:relative;max-width:1920px;margin:0 auto;background-color:#fff}
+
+/* HEADER */
+#sh_hd{position:relative;z-index:10} 
+
+/*인덱스 영역*/
+#sh_container{position:relative;z-index:5}
+#sh_section{font-family:'notokr-regular'}
+
+/* SUB */
+#sub_main_banner{width:100%;height:400px;background:url(/sh_img/hd/sub_main_banner/sub_main_banner.jpg) no-repeat;animation:main 25s linear infinite}
+@keyframes main{from{background-position:top center}50%{background-position:bottom center}100%{background-position:top center}}
+#sh_content_tit{padding-top:165px;text-align:center;font-size:15px;color:#fff;font-family:'notokr-regular'}
+#sh_content_tit h3{display:inline-block;position:relative;z-index:5;margin-bottom:10px;font-size:34px;font-weight:normal;font-family:'notokr-regular'}
+#sh_content_tit h3:after{display:block;position:absolute;z-index:-1;width:41px;height:42px;content:'';top:-12px;right:-22px}
+#sh_content_tit .fa-home{color:#fff}
+#sh_content_tit .fa-angle-right{padding:0 5px;color:#b5b5b5}
+
+/* 사이드 */
+#sh_aside{position:relative;width:100%;max-width:1200px;margin:-25px auto 0;text-align:center;background-color:transparent}
+
+/* 컨텐츠 본문 영역 */
+#sh_content{position:relative;z-index:4;width:100%;max-width:1070px;min-height:580px;padding:0;margin:70px auto 40px;font-size:14px;color:#888;zoom:1}
+#sh_content:after{display:block;visibility:hidden;clear:both;content:""}
+
+/* 하단 */
+#sh_ft{width:100%;margin:0 auto;padding:100px 15px 74px;font-size:14px;letter-spacing:-.2px;line-height:24px;color:#777;font-family:'notokr-regular'}
+#sh_ft_wrapper{width:100%;max-width:1200px;margin:0 auto}
+#sh_ft_wrapper:after{display:block;clear:both;content:''}
+#sh_ft_wrapper> div{float:left}
+#sh_ft_wrapper .tit{width:278px}
+#sh_ft_wrapper .tit img{max-height:35px}
+#sh_ft_wrapper .info .ft_nav{margin-bottom:35px;line-height:15px;font-size:0;color:#222;font-family:'notokr-medium';letter-spacing:-.5px}
+#sh_ft_wrapper .info .ft_nav li{display:inline-block;font-size:17px}
+#sh_ft_wrapper .info .ft_nav li+li{margin-left:26px}
+#sh_ft_wrapper .info .link{margin-top:35px;font-size:0}
+#sh_ft_wrapper .info .link li{display:inline-block;font-size:12px;font-weight:700;line-height:12px;font-family:'Philosopher'}
+#sh_ft_wrapper .info .link li+li{padding-left:10px;margin-left:10px;border-left:1px solid #ccc}
+#sh_ft_wrapper .info .link li a{-webkit-transition:all .3s;-ms-transition:all .3s;transition:all .3s;color:#777}
+#sh_ft_wrapper .info .link li a:hover{color:#333}
+#sh_ft_wrapper .cs{float:right;width:198px;letter-spacing:0;font-family:'Philosopher';margin-top:-5px}
+#sh_ft_wrapper .cs .tit{width:100%;margin-bottom:28px;font-size:17px;font-weight:700;line-height:20px;color:#2e7cae}
+#sh_ft_wrapper .cs .tel{margin-bottom:26px;font-size:28px;line-height:28px;font-weight:700;color:#222}
+
+/* 반응형 사이트맵 공통 */
+#sh_site_map{position:relative;width:100%;font-family:'notokr-regular'}
+#sh_site_map:after{display:block;content:"";visibility:hidden;clear:both}
+#sh_site_map > div{width:31%;float:left;margin:0 1%}
+#sh_site_map > div:nth-of-type(3n){margin-right:0}
+#sh_site_map .sh_site_map_title{padding:10px 15px;border-bottom:2px solid #333;font-size:17px;font-weight:normal;text-align:center;color:#222;font-family:'notokr-bold'}
+#sh_site_map ul{padding:0 15px 15px}
+#sh_site_map .sh_site_map_box{min-height:205px;padding:17px 20px;border:1px solid #e1e1e1;border-top:none;font-size:14px;color:#333;line-height:40px}
+#sh_site_map .sh_site_map_box li{border-bottom:1px dotted #ccc}
+#sh_site_map .sh_site_map_box li:last-child{border:none}
+
+/* 반응형 하단 버튼 공통 */
+#fix_tel{display:none;position:fixed;right:15px;bottom:120px;z-index:100;width:60px;height:60px;border-radius:50%;font-size:30px;text-align:center;line-height:60px;color:#fff;background: -webkit-linear-gradient(135deg, rgb(111,211,243), rgb(85, 120, 248));background: linear-gradient(135deg, rgb(111,211,243), rgb(85, 120, 248));;box-shadow:5px 5px 5px rgba(0,0,0,.2);-webkit-transition:all .2s;transition:all .2s}
+#fix_tel.active{opacity:1;margin-right:0}
+#sh_ft_btns{display:none;padding:15px;background:#f7f7f7}
+#sh_ft_btns .btns{overflow:hidden}
+#sh_ft_btns .row2 a{width:50%}
+#sh_ft_btns a{float:left;display:block;width:100%;height:55px;border-radius:10px;font-size:16px;line-height:55px;color:#fff;text-align:center;background:-webkit-linear-gradient(135deg, rgb(111,211,243), rgb(85, 120, 248));background: linear-gradient(135deg, rgb(111,211,243), rgb(85, 120, 248));font-family:'notokr-bold'}
+#sh_ft_btns a.tel{font-size:18px;font-weight:700;letter-spacing:0;font-family:'Poppins'}
+#sh_ft_btns a i{padding-right:5px;font-size:18px}
+#sh_ft_btns a.kakao{font-weight:normal;color:#402325;background-color:#ffe500}
+
+#fix_btn .free_btn{display:flex;align-items:center;column-gap:20px;position:fixed;z-index:10;right:30px;bottom:30px;padding:15px 40px;border-radius:80px;font-size:17px;color:#fff;background: -webkit-linear-gradient(135deg, rgb(111,211,243), rgb(85, 120, 248));background: linear-gradient(135deg, rgb(111,211,243), rgb(85, 120, 248));box-shadow:3px 5px 20px -2px rgb(0 0 0 / 15%);transform:rotate(-0.1deg);font-family:'NEXEN_TIRE_Bold';}
+#fix_btn .free_btn img{margin-left:15px}
+#fix_btn .free_btn i{display:flex;align-items:center;justify-content:center;width:45px;height:45px;border-radius:100%;font-size:13px;color:#2e7cae;background:#fff}
+#fix_btn .kakao_btn{display:flex;justify-content:center;align-items:center;position:fixed;z-index:10;right:30px;bottom:120px;width:70px;height:70px;border-radius:100%;box-shadow:3px 5px 20px -2px rgb(0 0 0 / 15%);background:#eeda23}
+
+
+/* 반응형 [s] */
+@media (max-width:1624px){
+}
+
+@media (max-width:1024px){
+#sh_ft{padding:70px 15px}
+#sh_ft_wrapper .tit{width:100%;margin-bottom:35px}
+#sub_main_banner{height:260px}
+#sh_content_tit{padding-top:88px}
+#sh_aside{display:none}
+}
+
+@media (max-width:1200px){
+}
+
+@media (max-width:768px){
+/* 반응형 스타일 필수 [s] */
+#sh_login, #sh_agree, #sh_register,#sh_mb_confirm, #sh_result{padding:15px;margin:15px auto;border:none}
+#sh_login input[type=submit], #sh_agree .btn_wrap input[type=submit], #sh_register .btn_wrap input[type=submit],#sh_find_info input[type=submit], #sh_mb_confirm input[type=submit]{-webkit-appearance:none;appearance:none}
+#sh_login .bnr .txt p a{color:#0054a6}
+#sh_pw_confirm{width:100%;padding:30px 20px;border:none}
+#sh_agree .inner{padding:15px}
+#sh_agree .cont{padding:10px}
+#sh_site_map{padding:30px 20px}
+#sh_site_map > div{width:100%;margin:0}
+#sh_site_map .sh_site_map_box{min-height:auto}
+/* 반응형 스타일 필수 [e] */
+    
+#fix_btn .free_btn{left:50%;right:0;transform:translateX(-50%) rotate(-0.1deg);width:320px}
+    
+#sh_ft{padding:50px 15px 130px}
+#sh_ft_wrapper{text-align:center}
+#sh_ft_wrapper> div{width:100%}
+#sh_ft_wrapper .cs{display:none}
+}
+
+@media (max-width:480px){
+#fix_btn .free_btn{justify-content:center;width:255px;padding:10px 0;font-size:16px}
+#fix_btn .free_btn i{width:35px;height:35px}
+#fix_btn .kakao_btn{right:15px;bottom:195px;width:60px;height:60px}
+    
+#sh_ft_wrapper> div{font-size:13px;line-height:23px;word-break:keep-all}
+#sh_ft_wrapper .tit{margin-bottom:25px}
+#sh_ft_wrapper .info .ft_nav{display:none}
+#sub_main_banner{height:auto;background:none}
+#sh_content{min-height:350px;margin:0 auto}
+#sh_content_tit{padding:15px 0;border-top:1px solid #d1d1d1;border-bottom:1px solid #eee;color:#222}
+#sh_content_tit h3{margin:0;font-size:16px;transform:rotate(-0.1deg);font-family:'NEXEN_TIRE_Bold'}
+#sh_content_tit p{display:none}
+#fix_tel{display:block}
+#sh_ft_btns{display:block}
+}
+/* 반응형 [e] */
