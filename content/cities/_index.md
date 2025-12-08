@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 <div class="district-grid">
   <a href="/cities/강남구/" class="district-btn">강남구</a>
   <a href="/cities/강동구/" class="district-btn">강동구</a>
-  <a href="/cities/강북구/" class="district-btn">강북구</a>
+  <a href="/cities/강북구/" class="district-btn active">강북구</a>
   <a href="/cities/강서구/" class="district-btn">강서구</a>
   <a href="/cities/관악구/" class="district-btn">관악구</a>
   <a href="/cities/광진구/" class="district-btn">광진구</a>
@@ -108,6 +108,18 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **쌍문동** (쌍문1동~쌍문4동): 선덕고, 서라벌고 학생
 
 [도봉구 과외 상세 보기 →](/cities/도봉구/)
+
+### 강북구
+
+강북구 13개 동별 수학·영어 과외 안내가 가능합니다.
+
+- **번동** (번1동, 번2동, 번3동): 신일고 학생
+- **수유동** (수유1동~수유3동): 혜화여고 학생
+- **미아동**: 미양고, 솔샘고, 신일고, 창문여고 학생
+- **삼양동, 송천동**: 신일고, 영훈고 학생
+- **삼각산동**: 삼각산고 학생
+
+[강북구 과외 상세 보기 →](/cities/강북구/)
 
 ## 지역별 과외 선택 가이드
 
