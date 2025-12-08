@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/금천구/" class="district-btn">금천구</a>
   <a href="/cities/노원구/" class="district-btn active">노원구</a>
   <a href="/cities/도봉구/" class="district-btn active">도봉구</a>
-  <a href="/cities/동대문구/" class="district-btn">동대문구</a>
+  <a href="/cities/동대문구/" class="district-btn active">동대문구</a>
   <a href="/cities/동작구/" class="district-btn">동작구</a>
   <a href="/cities/마포구/" class="district-btn">마포구</a>
   <a href="/cities/서대문구/" class="district-btn">서대문구</a>
@@ -132,6 +132,19 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **하계동** (하계1동, 하계2동): 영신여고, 광운대부고 학생
 
 [노원구 과외 상세 보기 →](/cities/노원구/)
+
+### 동대문구
+
+동대문구 14개 동별 수학·영어 과외 안내가 가능합니다.
+
+- **청량리동**: 청량고 학생
+- **답십리동** (답십리1동, 답십리2동): 대광고, 해성여고 학생
+- **회기동, 휘경동**: 경희고, 대광고 학생
+- **이문동** (이문1동, 이문2동): 한국외대 인근 지역
+- **장안동** (장안1동, 장안2동): 동국대사범대부속고 학생
+- **전농동** (전농1동, 전농2동): 해성여고, 청량고 학생
+
+[동대문구 과외 상세 보기 →](/cities/동대문구/)
 
 ## 지역별 과외 선택 가이드
 
