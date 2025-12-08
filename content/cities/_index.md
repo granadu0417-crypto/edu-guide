@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/서대문구/" class="district-btn">서대문구</a>
   <a href="/cities/서초구/" class="district-btn">서초구</a>
   <a href="/cities/성동구/" class="district-btn">성동구</a>
-  <a href="/cities/성북구/" class="district-btn">성북구</a>
+  <a href="/cities/성북구/" class="district-btn active">성북구</a>
   <a href="/cities/송파구/" class="district-btn">송파구</a>
   <a href="/cities/양천구/" class="district-btn">양천구</a>
   <a href="/cities/영등포구/" class="district-btn">영등포구</a>
@@ -158,6 +158,19 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **신내동** (신내1동, 신내2동)
 
 [중랑구 과외 상세 보기 →](/cities/중랑구/)
+
+### 성북구
+
+성북구 22개 동별 수학·영어 과외 안내가 가능합니다. 고려대, 국민대 대학가가 형성된 교육 중심 지역입니다.
+
+- **안암동**: 성북고, 대광고 학생 (고려대 인근)
+- **정릉동** (정릉1동~정릉4동): 홍익대사대부고 학생
+- **길음동** (길음1동, 길음2동)
+- **장위동** (장위1동~장위3동)
+- **돈암동** (돈암1동, 돈암2동)
+- **월곡동** (월곡1동, 월곡2동)
+
+[성북구 과외 상세 보기 →](/cities/성북구/)
 
 ## 지역별 과외 선택 가이드
 
