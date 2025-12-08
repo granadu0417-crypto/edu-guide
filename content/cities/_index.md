@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/성동구/" class="district-btn">성동구</a>
   <a href="/cities/성북구/" class="district-btn active">성북구</a>
   <a href="/cities/송파구/" class="district-btn">송파구</a>
-  <a href="/cities/양천구/" class="district-btn">양천구</a>
+  <a href="/cities/양천구/" class="district-btn active">양천구</a>
   <a href="/cities/영등포구/" class="district-btn">영등포구</a>
   <a href="/cities/용산구/" class="district-btn">용산구</a>
   <a href="/cities/은평구/" class="district-btn">은평구</a>
@@ -198,6 +198,16 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **행운동·미성동·난곡동**: 성보고 학생
 
 [관악구 과외 상세 보기 →](/cities/관악구/)
+
+### 양천구
+
+양천구 18개 동별 수학·영어 과외 안내가 가능합니다. 서울 3대 교육특구 중 하나인 목동 학군이 위치해 있습니다.
+
+- **목동** (목1동~목5동): 진명여고, 양정고, 한가람고, 강서고 학생
+- **신정동** (신정1동~신정4동, 신정6동, 신정7동): 신목고, 양천고, 목동고 학생
+- **신월동** (신월1동~신월7동): 광영고, 광영여고 학생
+
+[양천구 과외 상세 보기 →](/cities/양천구/)
 
 ## 지역별 과외 선택 가이드
 
