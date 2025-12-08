@@ -69,24 +69,24 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 </style>
 
 <div class="district-grid">
-  <a href="/cities/강남구/" class="district-btn">강남구</a>
-  <a href="/cities/강동구/" class="district-btn">강동구</a>
+  <a href="/cities/강남구/" class="district-btn active">강남구</a>
+  <a href="/cities/강동구/" class="district-btn active">강동구</a>
   <a href="/cities/강북구/" class="district-btn active">강북구</a>
   <a href="/cities/강서구/" class="district-btn active">강서구</a>
   <a href="/cities/관악구/" class="district-btn active">관악구</a>
-  <a href="/cities/광진구/" class="district-btn">광진구</a>
-  <a href="/cities/구로구/" class="district-btn">구로구</a>
-  <a href="/cities/금천구/" class="district-btn">금천구</a>
+  <a href="/cities/광진구/" class="district-btn active">광진구</a>
+  <a href="/cities/구로구/" class="district-btn active">구로구</a>
+  <a href="/cities/금천구/" class="district-btn active">금천구</a>
   <a href="/cities/노원구/" class="district-btn active">노원구</a>
   <a href="/cities/도봉구/" class="district-btn active">도봉구</a>
   <a href="/cities/동대문구/" class="district-btn active">동대문구</a>
   <a href="/cities/동작구/" class="district-btn active">동작구</a>
   <a href="/cities/마포구/" class="district-btn active">마포구</a>
   <a href="/cities/서대문구/" class="district-btn active">서대문구</a>
-  <a href="/cities/서초구/" class="district-btn">서초구</a>
+  <a href="/cities/서초구/" class="district-btn active">서초구</a>
   <a href="/cities/성동구/" class="district-btn active">성동구</a>
   <a href="/cities/성북구/" class="district-btn active">성북구</a>
-  <a href="/cities/송파구/" class="district-btn">송파구</a>
+  <a href="/cities/송파구/" class="district-btn active">송파구</a>
   <a href="/cities/양천구/" class="district-btn active">양천구</a>
   <a href="/cities/영등포구/" class="district-btn active">영등포구</a>
   <a href="/cities/용산구/" class="district-btn active">용산구</a>
@@ -304,6 +304,82 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **응봉동·마장동·옥수동·송정동·용답동**
 
 [성동구 과외 상세 보기 →](/cities/성동구/)
+
+### 광진구
+
+광진구 15개 동별 수학·영어 과외 안내가 가능합니다. 건국대, 세종대 인근 교육 중심 지역입니다.
+
+- **화양동·군자동·능동**: 건대부고 학생 (건국대 인근)
+- **자양동** (자양1동~자양4동): 광양고 학생
+- **구의동** (구의1동~구의3동): 동국대부가람고 학생
+- **중곡동** (중곡1동~중곡4동): 대원고, 대원여고 학생
+- **광장동**: 광남고 학생
+
+[광진구 과외 상세 보기 →](/cities/광진구/)
+
+### 송파구
+
+송파구 27개 동별 수학·영어 과외 안내가 가능합니다. 잠실 학군이 위치한 교육 중심 지역입니다.
+
+- **잠실동** (잠실2동~잠실7동, 잠실본동): 잠실고, 잠일고, 잠신고 학생
+- **문정동** (문정1동, 문정2동)·**거여동·장지동**: 문정고 학생
+- **가락동** (가락1동, 가락2동, 가락본동): 가락고 학생
+- **방이동** (방이1동, 방이2동): 창덕여고, 서울체육고 학생
+- **위례동**: 위례고, 위례한빛고 학생
+
+[송파구 과외 상세 보기 →](/cities/송파구/)
+
+### 강동구
+
+강동구 19개 동별 수학·영어 과외 안내가 가능합니다. 고덕, 강일 신도시가 있는 성장 지역입니다.
+
+- **암사동** (암사1동~암사3동)·**강일동**: 강동고, 한영외고 학생
+- **천호동** (천호1동~천호3동)·**둔촌동**: 천호고, 둔촌고, 성내고 학생
+- **고덕동** (고덕1동, 고덕2동)·**길동**: 배재고, 광문고, 한영고 학생
+- **명일동** (명일1동, 명일2동): 명일고, 명일여고 학생
+
+[강동구 과외 상세 보기 →](/cities/강동구/)
+
+### 강남구
+
+강남구 22개 동별 수학·영어 과외 안내가 가능합니다. 대한민국 대표 교육특구 대치동이 위치해 있습니다.
+
+- **대치동** (대치1동, 대치2동, 대치4동): 휘문고, 단대부고, 중대부고, 보성고 학생
+- **압구정동·청담동·신사동**: 압구정고, 현대고, 청담고 학생
+- **개포동** (개포1동~개포4동)·**도곡동**: 개포고, 대진고 학생
+- **삼성동·역삼동**: 휘문고, 강남서초고, 중동고 학생
+
+[강남구 과외 상세 보기 →](/cities/강남구/)
+
+### 서초구
+
+서초구 13개 동별 수학·영어 과외 안내가 가능합니다. 강남과 함께 대한민국 대표 교육특구입니다.
+
+- **반포동** (반포본동, 반포2동~반포4동)·**잠원동**: 반포고, 세화고, 세화여고 학생
+- **방배동** (방배본동, 방배2동~방배4동): 서문여고, 서울고, 동덕여고 학생
+- **서초동·양재동**: 서울고, 상문고, 양재고 학생
+
+[서초구 과외 상세 보기 →](/cities/서초구/)
+
+### 구로구
+
+구로구 16개 동별 수학·영어 과외 안내가 가능합니다. 세종과학고가 위치해 있습니다.
+
+- **고척동** (고척1동, 고척2동)·**개봉동·오류동**: 고척고, 경인고 학생
+- **구로동** (구로1동~구로5동): 구로고, 구현고, 구일고 학생
+- **신도림동**: 신도림고, 구현고 학생
+- **수궁동**: 세종과학고, 오류고, 우신고 학생
+
+[구로구 과외 상세 보기 →](/cities/구로구/)
+
+### 금천구
+
+금천구 10개 동별 수학·영어 과외 안내가 가능합니다.
+
+- **독산동** (독산1동~독산4동)·**가산동**: 독산고 학생
+- **시흥동** (시흥1동~시흥5동): 금천고, 문일고, 동일여고 학생
+
+[금천구 과외 상세 보기 →](/cities/금천구/)
 
 ## 지역별 과외 선택 가이드
 
