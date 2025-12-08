@@ -82,15 +82,15 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/동대문구/" class="district-btn active">동대문구</a>
   <a href="/cities/동작구/" class="district-btn active">동작구</a>
   <a href="/cities/마포구/" class="district-btn active">마포구</a>
-  <a href="/cities/서대문구/" class="district-btn">서대문구</a>
+  <a href="/cities/서대문구/" class="district-btn active">서대문구</a>
   <a href="/cities/서초구/" class="district-btn">서초구</a>
   <a href="/cities/성동구/" class="district-btn">성동구</a>
   <a href="/cities/성북구/" class="district-btn active">성북구</a>
   <a href="/cities/송파구/" class="district-btn">송파구</a>
   <a href="/cities/양천구/" class="district-btn active">양천구</a>
   <a href="/cities/영등포구/" class="district-btn active">영등포구</a>
-  <a href="/cities/용산구/" class="district-btn">용산구</a>
-  <a href="/cities/은평구/" class="district-btn">은평구</a>
+  <a href="/cities/용산구/" class="district-btn active">용산구</a>
+  <a href="/cities/은평구/" class="district-btn active">은평구</a>
   <a href="/cities/종로구/" class="district-btn">종로구</a>
   <a href="/cities/중구/" class="district-btn">중구</a>
   <a href="/cities/중랑구/" class="district-btn active">중랑구</a>
@@ -241,6 +241,37 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **상암동**: 상암고 학생
 
 [마포구 과외 상세 보기 →](/cities/마포구/)
+
+### 서대문구
+
+서대문구 14개 동별 수학·영어 과외 안내가 가능합니다. 연세대, 이화여대가 있는 교육 중심 지역입니다.
+
+- **북아현동·천연동·충현동**: 중앙여고, 한성과학고, 이화금란고 학생
+- **홍은동** (홍은1동, 홍은2동): 명지고 학생
+- **홍제동** (홍제1동~홍제3동): 인창고 학생
+- **가좌동** (북가좌1동, 북가좌2동, 남가좌1동, 남가좌2동): 가재울고 학생
+
+[서대문구 과외 상세 보기 →](/cities/서대문구/)
+
+### 은평구
+
+은평구 16개 동별 수학·영어 과외 안내가 가능합니다. 명문 사립고가 많이 위치해 있습니다.
+
+- **불광동** (불광1동, 불광2동): 은평고, 예일여고 학생
+- **응암동** (응암1동~응암3동): 충암고, 은평고 학생
+- **갈현동** (갈현1동, 갈현2동): 선정고, 대성고, 숭실고 학생
+
+[은평구 과외 상세 보기 →](/cities/은평구/)
+
+### 용산구
+
+용산구 16개 동별 수학·영어 과외 안내가 가능합니다. 이촌동, 한남동 등 교육열이 높은 지역입니다.
+
+- **이촌동** (이촌1동, 이촌2동): 중경고 학생
+- **한남동·한강로동**: 오산고, 용산고, 보성여고 학생
+- **청파동·효창동·후암동**: 신광여고, 배문고 학생
+
+[용산구 과외 상세 보기 →](/cities/용산구/)
 
 ## 지역별 과외 선택 가이드
 
