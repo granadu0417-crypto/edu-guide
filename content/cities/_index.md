@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/강남구/" class="district-btn">강남구</a>
   <a href="/cities/강동구/" class="district-btn">강동구</a>
   <a href="/cities/강북구/" class="district-btn active">강북구</a>
-  <a href="/cities/강서구/" class="district-btn">강서구</a>
+  <a href="/cities/강서구/" class="district-btn active">강서구</a>
   <a href="/cities/관악구/" class="district-btn">관악구</a>
   <a href="/cities/광진구/" class="district-btn">광진구</a>
   <a href="/cities/구로구/" class="district-btn">구로구</a>
@@ -171,6 +171,19 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **월곡동** (월곡1동, 월곡2동)
 
 [성북구 과외 상세 보기 →](/cities/성북구/)
+
+### 강서구
+
+강서구 23개 동별 수학·영어 과외 안내가 가능합니다. 마곡지구 개발로 교육 인프라가 성장하고 있는 지역입니다.
+
+- **화곡동** (화곡1동~화곡8동, 화곡본동): 화곡고 학생
+- **가양동** (가양1동~가양3동)
+- **등촌동** (등촌1동~등촌3동)
+- **방화동** (방화1동~방화3동)
+- **마곡동**: 공항고 학생 (마곡지구)
+- **공항동, 발산1동, 염창동, 우장산동**
+
+[강서구 과외 상세 보기 →](/cities/강서구/)
 
 ## 지역별 과외 선택 가이드
 
