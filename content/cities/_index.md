@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/성북구/" class="district-btn active">성북구</a>
   <a href="/cities/송파구/" class="district-btn">송파구</a>
   <a href="/cities/양천구/" class="district-btn active">양천구</a>
-  <a href="/cities/영등포구/" class="district-btn">영등포구</a>
+  <a href="/cities/영등포구/" class="district-btn active">영등포구</a>
   <a href="/cities/용산구/" class="district-btn">용산구</a>
   <a href="/cities/은평구/" class="district-btn">은평구</a>
   <a href="/cities/종로구/" class="district-btn">종로구</a>
@@ -208,6 +208,17 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **신월동** (신월1동~신월7동): 광영고, 광영여고 학생
 
 [양천구 과외 상세 보기 →](/cities/양천구/)
+
+### 영등포구
+
+영등포구 18개 동별 수학·영어 과외 안내가 가능합니다. 여의도를 중심으로 다양한 고등학교가 위치해 있습니다.
+
+- **여의동**: 여의도고, 여의도여고 학생
+- **당산동·문래동·양평동**: 관악고, 선유고 학생
+- **대림동·도림동**: 영등포여고, 영신고 학생
+- **신길동** (신길1동, 신길3동~신길7동): 장훈고, 대영고 학생
+
+[영등포구 과외 상세 보기 →](/cities/영등포구/)
 
 ## 지역별 과외 선택 가이드
 
