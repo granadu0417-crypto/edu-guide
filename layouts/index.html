@@ -28,9 +28,9 @@
 <!-- 히어로 섹션 -->
 <section class="hero-section">
     <div class="hero-bg-slider">
-        <div class="hero-bg-slide active" style="background-image: url('/images/infographic-korean.webp')"></div>
-        <div class="hero-bg-slide" style="background-image: url('/images/infographic-english.webp')"></div>
-        <div class="hero-bg-slide" style="background-image: url('/images/infographic-study-comparison.webp')"></div>
+        <div class="hero-bg-slide active" style="background-image: url('/images/img01.jpg')"></div>
+        <div class="hero-bg-slide" style="background-image: url('/images/img02.jpg')"></div>
+        <div class="hero-bg-slide" style="background-image: url('/images/img03.jpg')"></div>
     </div>
     <div class="hero-overlay"></div>
     <div class="hero-content">
@@ -56,7 +56,7 @@
     <div class="strength-grid">
         <div class="strength-card">
             <div class="strength-icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                <img src="/images/icon01.png" alt="30년 노하우" loading="lazy">
             </div>
             <p class="strength-label">No.1 청소년 학습코칭</p>
             <p class="strength-value">30년</p>
@@ -64,7 +64,7 @@
         </div>
         <div class="strength-card">
             <div class="strength-icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                <img src="/images/icon02.png" alt="전문 학습코치" loading="lazy">
             </div>
             <p class="strength-label">최정예 전문 학습코치</p>
             <p class="strength-value">3,000명</p>
@@ -72,7 +72,7 @@
         </div>
         <div class="strength-card">
             <div class="strength-icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+                <img src="/images/icon03.png" alt="누적 회원수" loading="lazy">
             </div>
             <p class="strength-label">누적 체험 회원수</p>
             <p class="strength-value">100만명</p>
@@ -80,7 +80,7 @@
         </div>
         <div class="strength-card">
             <div class="strength-icon">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg>
+                <img src="/images/icon04.png" alt="만족도" loading="lazy">
             </div>
             <p class="strength-label">학습 만족도</p>
             <p class="strength-value">96.7%</p>
@@ -97,14 +97,24 @@
     </div>
     <div class="service-grid">
         <a href="/tutoring/" class="service-card">
-            <span class="service-num">01</span>
-            <h3>방문과외</h3>
-            <p>거주 지역 내 검증된 과외선생님과<br>1:1 멘토링 학습관리</p>
+            <div class="service-img">
+                <img src="/images/img04.jpg" alt="방문과외" loading="lazy">
+            </div>
+            <div class="service-content">
+                <span class="service-num">01</span>
+                <h3>방문과외</h3>
+                <p>거주 지역 내 검증된 과외선생님과<br>1:1 멘토링 학습관리</p>
+            </div>
         </a>
         <a href="/tutoring/" class="service-card">
-            <span class="service-num">02</span>
-            <h3>온라인과외</h3>
-            <p>타 지역, 해외에서도 딱 맞는<br>베테랑 선생님과 1:1 화상코칭</p>
+            <div class="service-img">
+                <img src="/images/img05.jpg" alt="온라인과외" loading="lazy">
+            </div>
+            <div class="service-content">
+                <span class="service-num">02</span>
+                <h3>온라인과외</h3>
+                <p>타 지역, 해외에서도 딱 맞는<br>베테랑 선생님과 1:1 화상코칭</p>
+            </div>
         </a>
     </div>
 </section>
@@ -463,10 +473,8 @@ document.addEventListener('DOMContentLoaded', function() {
     width: 72px; height: 72px;
     margin: 0 auto 16px;
     display: flex; align-items: center; justify-content: center;
-    background: linear-gradient(135deg, var(--primary) 0%, #764ba2 100%);
-    border-radius: 50%;
 }
-.strength-icon svg { width: 36px; height: 36px; stroke: white; }
+.strength-icon img { width: 60px; height: 60px; object-fit: contain; }
 
 .strength-label { font-size: 0.8rem; color: #666; margin-bottom: 4px; }
 .strength-value { font-size: 2.2rem; font-weight: 800; color: var(--primary); margin-bottom: 8px; }
@@ -490,7 +498,7 @@ document.addEventListener('DOMContentLoaded', function() {
     background: white;
     border: 2px solid #e5e7eb;
     border-radius: 16px;
-    padding: 40px 32px;
+    overflow: hidden;
     text-decoration: none;
     transition: all 0.3s;
 }
@@ -498,14 +506,34 @@ document.addEventListener('DOMContentLoaded', function() {
     border-color: var(--primary);
     box-shadow: 0 8px 32px rgba(74,144,226,0.15);
 }
+.service-card:hover .service-img img {
+    transform: scale(1.05);
+}
+
+.service-img {
+    width: 100%;
+    height: 180px;
+    overflow: hidden;
+}
+.service-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s;
+}
+
+.service-content {
+    padding: 24px;
+    position: relative;
+}
 
 .service-num {
-    font-size: 3rem; font-weight: 800;
-    color: var(--primary); opacity: 0.2;
-    position: absolute; top: 20px; right: 24px;
+    font-size: 2.5rem; font-weight: 800;
+    color: var(--primary); opacity: 0.15;
+    position: absolute; top: 12px; right: 16px;
 }
-.service-card h3 { font-size: 1.4rem; color: #1a1a2e; margin-bottom: 12px; }
-.service-card p { font-size: 0.95rem; color: #666; line-height: 1.6; }
+.service-card h3 { font-size: 1.3rem; color: #1a1a2e; margin-bottom: 10px; }
+.service-card p { font-size: 0.9rem; color: #666; line-height: 1.6; }
 
 /* ========== 카테고리 허브 ========== */
 .category-hub {
