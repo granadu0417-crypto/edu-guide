@@ -1,11 +1,12 @@
 ---
-title: "서울 자치구별 과외 안내"
-description: "서울 25개 자치구별 동 단위 과외 정보. 지역별 학교 특성에 맞춘 맞춤형 수학·영어 과외를 찾아보세요."
+title: "지역별 과외 안내 | 서울·경기 맞춤 수학·영어 과외"
+description: "서울 25개 구, 경기도 주요 도시별 과외 정보. 지역별 학교 특성에 맞춘 맞춤형 수학·영어 과외를 찾아보세요."
 date: 2025-01-29
 categories:
   - 지역교육
 tags:
   - 서울
+  - 경기
   - 과외
   - 지역별과외
   - 수학과외
@@ -13,9 +14,13 @@ tags:
 featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1200&h=630&fit=crop"
 ---
 
-## 서울 자치구별 과외 안내
+## 지역별 과외 안내
 
-서울 25개 자치구별로 동 단위 맞춤 과외 정보를 제공합니다. 거주 지역과 학교에 맞는 최적의 과외를 찾아보세요.
+서울·경기 지역별 맞춤 과외 정보를 제공합니다. 거주 지역과 학교에 맞는 최적의 과외를 찾아보세요.
+
+---
+
+## 서울특별시 (25개 구)
 
 <style>
 .district-grid {
@@ -380,6 +385,76 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **시흥동** (시흥1동~시흥5동): 금천고, 문일고, 동일여고 학생
 
 [금천구 과외 상세 보기 →](/cities/금천구/)
+
+---
+
+## 경기도 주요 도시
+
+경기도 주요 도시별 과외 정보입니다. 원하는 도시를 선택하세요.
+
+<div class="district-grid">
+  <a href="/local/gyeonggi/seongnam-math-tutoring/" class="district-btn">성남시</a>
+  <a href="/local/gyeonggi/bundang-english-tutoring/" class="district-btn">분당구</a>
+  <a href="/local/gyeonggi/suwon-math-tutoring/" class="district-btn">수원시</a>
+  <a href="/local/gyeonggi/yongin-math-tutoring/" class="district-btn">용인시</a>
+  <a href="/local/gyeonggi/goyang-math-tutoring/" class="district-btn">고양시</a>
+  <a href="/local/gyeonggi/ilsan-english-tutoring/" class="district-btn">일산</a>
+  <a href="/local/gyeonggi/bucheon-math-tutoring/" class="district-btn">부천시</a>
+  <a href="/local/gyeonggi/anyang-math-tutoring/" class="district-btn">안양시</a>
+  <a href="/local/gyeonggi/ansan-math-tutoring/" class="district-btn">안산시</a>
+  <a href="/local/gyeonggi/namyangju-math-tutoring/" class="district-btn">남양주시</a>
+  <a href="/local/gyeonggi/hwaseong-math-tutoring/" class="district-btn">화성시</a>
+  <a href="/local/gyeonggi/uijeongbu-math-tutoring/" class="district-btn">의정부시</a>
+  <a href="/local/gyeonggi/paju-math-tutoring/" class="district-btn">파주시</a>
+  <a href="/local/gyeonggi/gimpo-math-tutoring/" class="district-btn">김포시</a>
+  <a href="/local/gyeonggi/gwangmyeong-math-tutoring/" class="district-btn">광명시</a>
+  <a href="/local/gyeonggi/" class="district-btn" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%);">경기 전체 보기</a>
+</div>
+
+### 성남시 (분당구·수정구·중원구)
+
+경기도 대표 교육도시. 분당 학군이 전국적으로 유명합니다.
+
+- **분당구**: 낙생고, 불곡고, 분당중앙고, 서현고, 야탑고 학생
+- **수정구·중원구**: 성남고, 성남외고 학생
+
+[성남시 수학과외 →](/local/gyeonggi/seongnam-math-tutoring/) | [분당 영어과외 →](/local/gyeonggi/bundang-english-tutoring/)
+
+### 수원시
+
+경기도청 소재지. 다양한 고등학교가 위치해 있습니다.
+
+- **영통구·권선구·장안구·팔달구**: 수원외고, 영생고, 수원고, 삼일고 학생
+
+[수원시 수학과외 →](/local/gyeonggi/suwon-math-tutoring/) | [수원시 영어과외 →](/local/gyeonggi/suwon-english-tutoring/)
+
+### 용인시
+
+수지구, 기흥구, 처인구로 구성된 교육 도시입니다.
+
+- **수지구**: 용인외고, 죽전고 학생
+- **기흥구·처인구**: 용인고, 용인삼계고 학생
+
+[용인시 수학과외 →](/local/gyeonggi/yongin-math-tutoring/) | [용인시 영어과외 →](/local/gyeonggi/yongin-english-tutoring/)
+
+### 고양시 (일산)
+
+일산 신도시를 중심으로 교육 환경이 잘 갖춰진 지역입니다.
+
+- **일산동구·일산서구**: 백석고, 저현고, 주엽고, 일산대진고 학생
+- **덕양구**: 행신고, 화정고 학생
+
+[고양시 수학과외 →](/local/gyeonggi/goyang-math-tutoring/) | [일산 영어과외 →](/local/gyeonggi/ilsan-english-tutoring/)
+
+### 부천시
+
+서울 접근성이 좋은 교육 도시입니다.
+
+- **원미구·소사구·오정구**: 부천고, 부천북고, 부흥고 학생
+
+[부천시 수학과외 →](/local/gyeonggi/bucheon-math-tutoring/) | [부천시 영어과외 →](/local/gyeonggi/bucheon-english-tutoring/)
+
+---
 
 ## 지역별 과외 선택 가이드
 
