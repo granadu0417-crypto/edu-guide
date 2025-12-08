@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/강동구/" class="district-btn">강동구</a>
   <a href="/cities/강북구/" class="district-btn active">강북구</a>
   <a href="/cities/강서구/" class="district-btn active">강서구</a>
-  <a href="/cities/관악구/" class="district-btn">관악구</a>
+  <a href="/cities/관악구/" class="district-btn active">관악구</a>
   <a href="/cities/광진구/" class="district-btn">광진구</a>
   <a href="/cities/구로구/" class="district-btn">구로구</a>
   <a href="/cities/금천구/" class="district-btn">금천구</a>
@@ -184,6 +184,20 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **공항동, 발산1동, 염창동, 우장산동**
 
 [강서구 과외 상세 보기 →](/cities/강서구/)
+
+### 관악구
+
+관악구 20개 동별 수학·영어 과외 안내가 가능합니다. 서울대학교가 위치한 교육 중심 지역입니다.
+
+- **신림동 지역** (신림동, 신사동, 신원동): 신림고 학생
+- **서림동·서원동**: 신림고·삼성고 학생
+- **보라매동**: 당곡고(자율형 공립고) 학생
+- **인헌동·낙성대동**: 인헌고 학생
+- **삼성동·대학동**: 삼성고·미림여고 학생
+- **청룡동·성현동**: 구암고 학생
+- **행운동·미성동·난곡동**: 성보고 학생
+
+[관악구 과외 상세 보기 →](/cities/관악구/)
 
 ## 지역별 과외 선택 가이드
 
