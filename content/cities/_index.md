@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/광진구/" class="district-btn">광진구</a>
   <a href="/cities/구로구/" class="district-btn">구로구</a>
   <a href="/cities/금천구/" class="district-btn">금천구</a>
-  <a href="/cities/노원구/" class="district-btn">노원구</a>
+  <a href="/cities/노원구/" class="district-btn active">노원구</a>
   <a href="/cities/도봉구/" class="district-btn active">도봉구</a>
   <a href="/cities/동대문구/" class="district-btn">동대문구</a>
   <a href="/cities/동작구/" class="district-btn">동작구</a>
@@ -120,6 +120,18 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **삼각산동**: 삼각산고 학생
 
 [강북구 과외 상세 보기 →](/cities/강북구/)
+
+### 노원구
+
+노원구 19개 동별 수학·영어 과외 안내가 가능합니다.
+
+- **상계동** (상계1동~상계10동): 노원고, 수락고 학생
+- **중계동** (중계1동, 중계2·3동, 중계4동, 중계본동): 서라벌고, 대진고, 재현고 학생
+- **월계동** (월계1동~월계3동): 을지대부고, 혜화여고, 선덕고 학생
+- **공릉동** (공릉1동, 공릉2동): 태릉고, 서울과고, 염광여고 학생
+- **하계동** (하계1동, 하계2동): 영신여고, 광운대부고 학생
+
+[노원구 과외 상세 보기 →](/cities/노원구/)
 
 ## 지역별 과외 선택 가이드
 
