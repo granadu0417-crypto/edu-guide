@@ -1,0 +1,122 @@
+---
+title: "중구 과외 | 동별 수학·영어 1:1 맞춤 수업"
+description: "중구 15개 동 고등학생 과외 정보. 성동고, 장충고, 환일고 등 관내 고등학교 내신과 수능 대비. 동별 맞춤 수학·영어 과외."
+date: 2025-01-29
+categories:
+  - 지역교육
+regions:
+  - 서울
+cities:
+  - 중구
+tags:
+  - 중구
+  - 과외
+  - 수학과외
+  - 영어과외
+  - 고등과외
+  - 내신관리
+  - 수능대비
+featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+---
+
+## 중구 고등학생 과외 안내
+
+중구는 **15개 동**으로 구성되어 있으며, 성동고, 장충고, 환일고 등 고등학교가 위치해 있습니다. 명동, 을지로, 남대문 등 서울의 중심부에 위치한 지역입니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>중구 교육 특징</strong><br>
+동부교육지원청 관할로 서울 중심부에 위치해 있습니다. 학교별 내신 특성을 파악한 맞춤 과외가 효과적입니다.
+</div>
+
+## 동별 고등 과외 안내
+
+### 장충동·신당동
+
+**성동고, 장충고, 환일고** 학생들이 거주하는 지역입니다.
+
+**수학과외**
+- [장충동 고등 수학과외](/high/junggu-jangchung-high-math/) - 성동고·장충고·환일고 내신·수능 대비
+- [신당동 고등 수학과외](/high/junggu-sindang-high-math/) - 성동고·장충고·환일고 내신·수능 대비
+- [신당5동 고등 수학과외](/high/junggu-sindang5-high-math/) - 맞춤 수업
+
+**영어과외**
+- [장충동 고등 영어과외](/high/junggu-jangchung-high-english/)
+- [신당동 고등 영어과외](/high/junggu-sindang-high-english/)
+- [신당5동 고등 영어과외](/high/junggu-sindang5-high-english/)
+
+### 명동·을지로동·소공동
+
+서울 중심 상업지역입니다.
+
+**수학과외**
+- [명동 고등 수학과외](/high/junggu-myeongdong-high-math/) - 성동고·장충고·환일고 내신·수능 대비
+- [을지로동 고등 수학과외](/high/junggu-euljiro-high-math/) - 성동고·장충고·환일고 내신·수능 대비
+- [소공동 고등 수학과외](/high/junggu-sogong-high-math/) - 맞춤 수업
+
+**영어과외**
+- [명동 고등 영어과외](/high/junggu-myeongdong-high-english/)
+- [을지로동 고등 영어과외](/high/junggu-euljiro-high-english/)
+- [소공동 고등 영어과외](/high/junggu-sogong-high-english/)
+
+### 기타 동 (청구동, 다산동, 동화동, 광희동, 회현동, 황학동, 중림동, 필동, 약수동)
+
+**수학과외**
+- [청구동 고등 수학과외](/high/junggu-cheonggu-high-math/)
+- [다산동 고등 수학과외](/high/junggu-dasan-high-math/)
+- [동화동 고등 수학과외](/high/junggu-donghwa-high-math/)
+- [광희동 고등 수학과외](/high/junggu-gwanghui-high-math/)
+- [회현동 고등 수학과외](/high/junggu-hoehyeon-high-math/)
+- [황학동 고등 수학과외](/high/junggu-hwanghak-high-math/)
+- [중림동 고등 수학과외](/high/junggu-junglim-high-math/)
+- [필동 고등 수학과외](/high/junggu-pildong-high-math/)
+- [약수동 고등 수학과외](/high/junggu-yaksu-high-math/)
+
+**영어과외**
+- [청구동 고등 영어과외](/high/junggu-cheonggu-high-english/)
+- [다산동 고등 영어과외](/high/junggu-dasan-high-english/)
+- [동화동 고등 영어과외](/high/junggu-donghwa-high-english/)
+- [광희동 고등 영어과외](/high/junggu-gwanghui-high-english/)
+- [회현동 고등 영어과외](/high/junggu-hoehyeon-high-english/)
+- [황학동 고등 영어과외](/high/junggu-hwanghak-high-english/)
+- [중림동 고등 영어과외](/high/junggu-junglim-high-english/)
+- [필동 고등 영어과외](/high/junggu-pildong-high-english/)
+- [약수동 고등 영어과외](/high/junggu-yaksu-high-english/)
+
+## 중구 주요 고등학교 안내
+
+### 성동고등학교
+
+성동고는 중구에 위치한 일반고입니다. 기본 개념과 응용 문제가 균형 있게 출제됩니다.
+
+### 장충고등학교
+
+장충고는 장충동에 위치한 일반고입니다. 교과서 중심으로 출제되며 서술형 비중이 높습니다.
+
+### 환일고등학교
+
+환일고는 중구에 위치한 일반고입니다. 꼼꼼한 내신 대비가 필요합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>학교별 맞춤 과외</strong><br>
+각 학교의 기출 문제를 분석하여 출제 경향에 맞춘 맞춤형 내신 대비를 진행합니다.
+</div>
+
+## 중구 과외 비용 안내
+
+### 수학과외
+
+**고1~2**: 주1회 25만~35만원, 주2회 42만~58만원
+
+**고3**: 주1회 30만~42만원, 주2회 50만~70만원
+
+### 영어과외
+
+**고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
+
+**고3**: 주1회 28만~38만원, 주2회 45만~62만원
+
+{{< cta-dual type="final" >}}
+
+## 마무리
+
+중구에서 고등학생 과외를 찾고 계신다면, 1:1 맞춤 수업으로 효과적인 성적 향상이 가능합니다.

@@ -84,15 +84,15 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/마포구/" class="district-btn active">마포구</a>
   <a href="/cities/서대문구/" class="district-btn active">서대문구</a>
   <a href="/cities/서초구/" class="district-btn">서초구</a>
-  <a href="/cities/성동구/" class="district-btn">성동구</a>
+  <a href="/cities/성동구/" class="district-btn active">성동구</a>
   <a href="/cities/성북구/" class="district-btn active">성북구</a>
   <a href="/cities/송파구/" class="district-btn">송파구</a>
   <a href="/cities/양천구/" class="district-btn active">양천구</a>
   <a href="/cities/영등포구/" class="district-btn active">영등포구</a>
   <a href="/cities/용산구/" class="district-btn active">용산구</a>
   <a href="/cities/은평구/" class="district-btn active">은평구</a>
-  <a href="/cities/종로구/" class="district-btn">종로구</a>
-  <a href="/cities/중구/" class="district-btn">중구</a>
+  <a href="/cities/종로구/" class="district-btn active">종로구</a>
+  <a href="/cities/중구/" class="district-btn active">중구</a>
   <a href="/cities/중랑구/" class="district-btn active">중랑구</a>
 </div>
 
@@ -272,6 +272,38 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **청파동·효창동·후암동**: 신광여고, 배문고 학생
 
 [용산구 과외 상세 보기 →](/cities/용산구/)
+
+### 종로구
+
+종로구 17개 동별 수학·영어 과외 안내가 가능합니다. 서울 최고 수준의 명문 고등학교가 위치해 있습니다.
+
+- **청운효자동·부암동·무악동**: 경복고, 동성고, 중앙고 학생 (경복궁 인근)
+- **삼청동·가회동·혜화동**: 북촌, 대학로 인근 지역
+- **창신동** (창신1동~창신3동)·**숭인동** (숭인1동, 숭인2동)
+- **교남동·이화동·평창동·사직동** 등
+
+[종로구 과외 상세 보기 →](/cities/종로구/)
+
+### 중구
+
+중구 15개 동별 수학·영어 과외 안내가 가능합니다. 서울 중심부에 위치한 역사적인 지역입니다.
+
+- **장충동·신당동**: 성동고, 장충고, 환일고 학생
+- **명동·을지로동·소공동**: 서울 중심 상업지역
+- **청구동·다산동·동화동·광희동** 등
+
+[중구 과외 상세 보기 →](/cities/중구/)
+
+### 성동구
+
+성동구 17개 동별 수학·영어 과외 안내가 가능합니다. 한양대학교가 위치한 교육 환경이 좋은 지역입니다.
+
+- **성수동** (성수1가1동, 성수1가2동, 성수2가1동, 성수2가3동): 경일고, 성수고 학생
+- **행당동** (행당1동, 행당2동)·**사근동·왕십리**: 무학여고, 한양대부고 학생 (한양대 인근)
+- **금호동** (금호1가동, 금호2·3가동, 금호4가동): 경일고, 성수고 학생
+- **응봉동·마장동·옥수동·송정동·용답동**
+
+[성동구 과외 상세 보기 →](/cities/성동구/)
 
 ## 지역별 과외 선택 가이드
 
