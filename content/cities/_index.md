@@ -80,7 +80,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/노원구/" class="district-btn active">노원구</a>
   <a href="/cities/도봉구/" class="district-btn active">도봉구</a>
   <a href="/cities/동대문구/" class="district-btn active">동대문구</a>
-  <a href="/cities/동작구/" class="district-btn">동작구</a>
+  <a href="/cities/동작구/" class="district-btn active">동작구</a>
   <a href="/cities/마포구/" class="district-btn">마포구</a>
   <a href="/cities/서대문구/" class="district-btn">서대문구</a>
   <a href="/cities/서초구/" class="district-btn">서초구</a>
@@ -219,6 +219,17 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **신길동** (신길1동, 신길3동~신길7동): 장훈고, 대영고 학생
 
 [영등포구 과외 상세 보기 →](/cities/영등포구/)
+
+### 동작구
+
+동작구 15개 동별 수학·영어 과외 안내가 가능합니다. 중앙대학교가 위치한 흑석동을 중심으로 교육 환경이 형성되어 있습니다.
+
+- **사당동** (사당1동~사당5동): 동작고, 경문고 학생
+- **상도동** (상도1동~상도4동): 동작고, 경문고, 성남고 학생
+- **노량진동** (노량진1동, 노량진2동): 동작고, 경문고 학생
+- **신대방동** (신대방1동, 신대방2동): 수도여고, 숭의여고 학생
+
+[동작구 과외 상세 보기 →](/cities/동작구/)
 
 ## 지역별 과외 선택 가이드
 
