@@ -93,7 +93,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/은평구/" class="district-btn">은평구</a>
   <a href="/cities/종로구/" class="district-btn">종로구</a>
   <a href="/cities/중구/" class="district-btn">중구</a>
-  <a href="/cities/중랑구/" class="district-btn">중랑구</a>
+  <a href="/cities/중랑구/" class="district-btn active">중랑구</a>
 </div>
 
 ## 현재 상세 안내 가능 지역
@@ -145,6 +145,19 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **전농동** (전농1동, 전농2동): 해성여고, 청량고 학생
 
 [동대문구 과외 상세 보기 →](/cities/동대문구/)
+
+### 중랑구
+
+중랑구 16개 동별 수학·영어 과외 안내가 가능합니다. 서울 25개 구 중 유일하게 특목고·자사고가 없는 지역입니다.
+
+- **면목동** (면목2동, 면목3·8동, 면목4동, 면목5동, 면목7동, 면목본동)
+- **중화동** (중화1동, 중화2동)
+- **묵동** (묵1동, 묵2동)
+- **망우동** (망우3동, 망우본동)
+- **상봉동** (상봉1동, 상봉2동): 신현고 학생
+- **신내동** (신내1동, 신내2동)
+
+[중랑구 과외 상세 보기 →](/cities/중랑구/)
 
 ## 지역별 과외 선택 가이드
 
