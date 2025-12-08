@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
   <a href="/cities/도봉구/" class="district-btn active">도봉구</a>
   <a href="/cities/동대문구/" class="district-btn active">동대문구</a>
   <a href="/cities/동작구/" class="district-btn active">동작구</a>
-  <a href="/cities/마포구/" class="district-btn">마포구</a>
+  <a href="/cities/마포구/" class="district-btn active">마포구</a>
   <a href="/cities/서대문구/" class="district-btn">서대문구</a>
   <a href="/cities/서초구/" class="district-btn">서초구</a>
   <a href="/cities/성동구/" class="district-btn">성동구</a>
@@ -230,6 +230,17 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 - **신대방동** (신대방1동, 신대방2동): 수도여고, 숭의여고 학생
 
 [동작구 과외 상세 보기 →](/cities/동작구/)
+
+### 마포구
+
+마포구 16개 동별 수학·영어 과외 안내가 가능합니다. 홍대, 합정 지역의 문화 중심지이자 상암DMC가 있는 지역입니다.
+
+- **아현동·대흥동·공덕동·도화동**: 숭문고, 광성고, 서울여고 학생
+- **합정동·서교동·연남동**: 경성고, 홍익대부속여고 학생
+- **망원동·성산동**: 경성고, 상암고, 홍익대부속여고 학생
+- **상암동**: 상암고 학생
+
+[마포구 과외 상세 보기 →](/cities/마포구/)
 
 ## 지역별 과외 선택 가이드
 
