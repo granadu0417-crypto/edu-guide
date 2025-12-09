@@ -89,7 +89,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 - 문제 해결 전략 체계적 훈련
 - 중등 대비 기초 다지기
 
-초등 수학과외 비용은 주 1회 기준 약 12만원에서 20만원, 주 2회 기준 약 22만원에서 35만원 선입니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원~ 20만원, 주 2회 기준 약 22만원~ 35만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -117,7 +117,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 - 고등 선행은 중등 이해 후 진행
 - 과학고·영재학교 대비(희망시)
 
-중학생 수학과외 비용은 주 1회 기준 약 20만원에서 30만원, 주 2회 기준 약 28만원에서 45만원 선입니다.
+중학생 수학과외 비용은 주 1회 기준 약 20만원~ 30만원, 주 2회 기준 약 28만원~ 45만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -146,7 +146,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 - 시간 관리 최적화
 - 취약 유형 체계적 보완
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원~ 36만원, 주 2회 기준 약 33만원~ 53만원 선입니다. 고3의 경우 주 1회 28만원~ 40만원, 주 2회 37만원~ 59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
