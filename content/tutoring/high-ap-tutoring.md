@@ -1,0 +1,120 @@
+---
+title: "고등 AP과외 AP 시험 완벽 대비"
+date: 2025-01-26
+description: "고등 AP과외로 AP 시험을 완벽하게 대비합니다. 과목별 맞춤 학습과 고득점 전략 1:1 수업입니다."
+categories:
+  - 학습플랜
+  - 고등교육
+tags:
+  - 고등AP
+  - AP과외
+  - AP시험
+  - AP대비
+  - AP고득점
+  - 미국대학
+featured_image: "/images/edu_0091_QckxruozjRg.jpg"
+---
+
+AP 시험을 준비하고 있습니다. 미국 대학 입시에 AP 점수가 필요합니다. 어떤 과목을 선택하고 어떻게 준비해야 할지 모르겠습니다. AP는 미국 대학 수준의 과목입니다. 체계적으로 준비하면 5점 만점을 받을 수 있습니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+학생의 목표 대학과 전공을 파악합니다. 어떤 AP 과목이 필요한지 분석합니다.
+</div>
+
+## AP 시험이란
+
+Advanced Placement의 약자입니다. 미국 고등학교 수준을 넘어선 대학 수준 과목입니다.
+
+1~5점으로 평가합니다. 3점 이상이면 학점 인정을 받을 수 있습니다.
+
+38개 과목이 있습니다. 원하는 과목을 선택해서 응시합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+AP 시험의 구조와 평가 방식을 상세히 안내합니다. 무엇을 준비해야 하는지 알려드립니다.
+</div>
+
+## 주요 AP 과목
+
+AP Calculus AB/BC를 준비합니다. 수학을 좋아하면 필수입니다.
+
+AP Physics를 준비합니다. 공학, 자연과학 지원자에게 중요합니다.
+
+AP Chemistry, Biology를 준비합니다. 의대, 자연과학 지원에 유리합니다.
+
+AP English를 준비합니다. 영어 실력을 증명합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+학생의 진로에 맞는 AP 과목을 추천합니다. 효율적인 과목 조합을 제안합니다.
+</div>
+
+## AP 고득점 전략
+
+개념을 철저히 이해합니다. AP는 암기보다 이해가 중요합니다.
+
+문제 유형을 파악합니다. FRQ(주관식), MCQ(객관식) 유형에 익숙해집니다.
+
+실전 연습을 합니다. 기출 문제와 모의시험으로 훈련합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+과목별 맞춤 전략을 세웁니다. 5점 만점을 목표로 준비합니다.
+</div>
+
+## 과외의 장점
+
+맞춤 학습이 됩니다. 학생의 수준에 맞춰 수업합니다.
+
+영어로 수업합니다. AP 시험은 영어입니다. 영어로 개념을 배웁니다.
+
+체계적으로 관리합니다. 시험 일정에 맞춰 진도를 조절합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+AP 5점을 향해 함께 달립니다. 끝까지 관리합니다.
+</div>
+
+{{< cta-dual type="final" >}}
+
+## 학습 순서
+
+목표를 설정합니다. 어떤 AP 과목을 볼지 정합니다.
+
+기초를 다집니다. 필요한 선수 지식을 확인합니다.
+
+본격적으로 학습합니다. 개념을 배우고 문제를 풉니다.
+
+실전 대비를 합니다. 기출 문제로 훈련합니다.
+
+## 비용 안내
+
+과외비는 선생님 경력과 지역에 따라 다릅니다. **고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다. **고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+첫 상담에서 목표 과목을 정하고 학습 계획을 안내드립니다.
+</div>
+
+## 자주 묻는 질문
+
+**Q. AP 몇 과목을 봐야 하나요?**
+
+대학마다 다릅니다. 보통 3-5과목을 권장합니다.
+
+**Q. 언제부터 준비해야 하나요?**
+
+고1 때 시작하는 것이 좋습니다. 시험은 5월에 있습니다.
+
+**Q. AP 없이도 미국 대학 갈 수 있나요?**
+
+가능하지만, AP가 있으면 경쟁력이 높아집니다.
+
+**Q. 주 몇 회가 적당한가요?**
+
+주 2회를 권장합니다.
+
+## 마무리
+
+AP 시험은 체계적인 준비가 필요합니다. 과목별 맞춤 학습으로 5점 만점을 달성하세요. 함께 미국 대학 입시를 준비하겠습니다.
