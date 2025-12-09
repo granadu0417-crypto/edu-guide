@@ -649,16 +649,5 @@ A: 네, 1:1 과외는 사회 실력 향상에 매우 효과적입니다. 복잡�
 
 
 
-## 📚 관련 가이드
 
-- [사회 경제사 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-economic-history/)
-- [사회 환경윤리 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-environmental-ethics/)
-- [사회 윤리사상 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ethical-thought/)
-- [사회 역사 과외 | 사료해석·인과관계 완벽 분석](/subjects/social/social-historical-analysis/)
-- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
-
-{{< cta-consultation-final >}}
-
----
-
-사회는 우리가 살아가는 세계를 이해하고, 현명한 시민으로 성장하는 데 필수적인 과목입니다. 이 가이드의 전략을 실천하며 체계적으로 학습하세요. 필요하다면 전문가의 도움을 받아 더 효과적으로 실력을 향상시킬 수 있습니다. 사회에 대한 이해는 입시를 넘어 평생의 자산이 될 것입니다.
+{{< cta-dual type="final" >}}

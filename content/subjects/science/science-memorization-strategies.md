@@ -711,21 +711,5 @@ Quizlet:
 
 
 
-## 📚 관련 가이드
 
-- [과학 개념 정리 완벽 정리 | 암기-이해 2025](/subjects/science/science-concept-organization/)
-- [과학 실험보고서 vs 탐구활동 | 작성법 비교 2025](/subjects/science/science-experiment-report-guide/)
-- [과학 탐구 활동 추천 가이드 | 주제-발표 2025](/subjects/science/science-research-guide/)
-- [사회 암기 전략 추천 방법 | 역사·지리 용어 2025](/subjects/social/social-memorization-strategies/)
-- [과학 통합 완성 가이드 - 물화생지 전 영역 정복](/subjects/science/science-integrated-mastery/)
-
-{{< cta-consultation-final >}}
-
----
-
-## 관련 글
-
-- [과학 개념 정리 노하우 - 체계적 학습법](/subjects/science/science-concept-organization/)
-- [과학 실험 보고서 작성법 - 완벽 가이드](/subjects/science/science-experiment-report-guide/)
-- [과학 탐구 활동 가이드 - 주제부터 발표까지](/subjects/science/science-research-guide/)
-- [중학생 과학 공부법 - 개념과 암기](/middle/science-study-methods/)
+{{< cta-dual type="final" >}}

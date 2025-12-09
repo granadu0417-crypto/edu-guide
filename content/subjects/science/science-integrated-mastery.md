@@ -594,16 +594,5 @@ A: 네, 1:1 과외는 과학 실력 향상에 매우 효과적입니다. 복잡�
 
 
 
-## 📚 관련 가이드
 
-- [과학 화학 결합 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-chemical-bonding/)
-- [과학 화학 반응 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-chemical-reactions/)
-- [과학 개념연결 과외 | 통합사고·융합문제 완벽 대비](/subjects/science/science-concept-connection/)
-- [과학 전기화학 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-electrochemistry/)
-- [과학 화학 평형 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-equilibrium/)
-
-{{< cta-consultation-final >}}
-
----
-
-과학은 우리를 둘러싼 자연을 이해하고, 미래를 준비하는 필수 학문입니다. 이 가이드의 전략을 실천하며 체계적으로 학습하세요. 필요하다면 전문가의 도움을 받아 더 효과적으로 실력을 향상시킬 수 있습니다. 과학적 사고력은 입시를 넘어 평생의 자산이 될 것입니다.
+{{< cta-dual type="final" >}}

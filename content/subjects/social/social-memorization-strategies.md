@@ -697,21 +697,5 @@ Day 31: 복습 (1개월 후)
 
 
 
-## 📚 관련 가이드
 
-- [사회 논술 대비 완벽 정리 | 서술·논술 답안 2025](/subjects/social/social-essay-writing/)
-- [과학 암기 고민? | 생물·지구과학 전략 솔루션 2025](/subjects/science/science-memorization-strategies/)
-- [사회 지리 vs 역사 학습 | 자연·인문 비교 2025](/subjects/social/social-geography-mastery/)
-- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
-- [국어 독해력 5단계 추천 전략 | 초등-고등](/subjects/korean-reading-improvement/)
-
-{{< cta-consultation-final >}}
-
----
-
-## 관련 글
-
-- [사회 역사 학습법 - 한국사·세계사 완벽 정복](/subjects/social/social-history-study-methods/)
-- [사회 지리 완벽 정리 - 자연·인문지리 학습법](/subjects/social/social-geography-mastery/)
-- [과학 암기 과목 정복법 - 생물·지구과학](/subjects/science/science-memorization-strategies/)
-- [중학생 자기주도학습 완벽 가이드](/middle/self-directed-learning-complete-guide/)
+{{< cta-dual type="final" >}}

@@ -708,21 +708,5 @@ Y축: 용해도 (g/100mL)
 
 
 
-## 📚 관련 가이드
 
-- [과학 탐구 활동 추천 가이드 | 주제-발표 2025](/subjects/science/science-research-guide/)
-- [과학 개념 정리 완벽 정리 | 암기-이해 2025](/subjects/science/science-concept-organization/)
-- [과학 실험보고서 과외 | 작성법·분석법 완벽 마스터](/subjects/science/science-lab-report/)
-- [과학 암기 고민? | 생물·지구과학 전략 솔루션 2025](/subjects/science/science-memorization-strategies/)
-- [과학 통합 완성 가이드 - 물화생지 전 영역 정복](/subjects/science/science-integrated-mastery/)
-
-{{< cta-consultation-final >}}
-
----
-
-## 관련 글
-
-- [과학 개념 정리 노하우 - 암기부터 이해까지](/subjects/science/science-concept-organization/)
-- [과학 탐구 활동 가이드 - 주제 선정부터 발표까지](/subjects/science/science-research-guide/)
-- [중학생 과학 공부법 - 실험과 이론의 조화](/middle/science-study-methods/)
-- [고등학생 과학 탐구 - 생기부 완벽 대비](/high/science-research-preparation/)
+{{< cta-dual type="final" >}}

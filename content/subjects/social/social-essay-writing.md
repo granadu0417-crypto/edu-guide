@@ -830,21 +830,5 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 
 
-## 📚 관련 가이드
 
-- [사회 암기 전략 추천 방법 | 역사·지리 용어 2025](/subjects/social/social-memorization-strategies/)
-- [사회 지리 vs 역사 학습 | 자연·인문 비교 2025](/subjects/social/social-geography-mastery/)
-- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
-- [국어 독해력 5단계 추천 전략 | 초등-고등](/subjects/korean-reading-improvement/)
-- [영어 문법 핵심 추천 정리 | 중고등 필수 2025](/subjects/english/english-grammar-essentials/)
-
-{{< cta-consultation-final >}}
-
----
-
-## 관련 글
-
-- [사회 역사 학습법 - 한국사·세계사 완벽 정복](/subjects/social/social-history-study-methods/)
-- [사회 지리 완벽 정리 - 자연·인문지리 학습법](/subjects/social/social-geography-mastery/)
-- [사회 암기 전략 - 역사·지리 용어 완벽 암기](/subjects/social/social-memorization-strategies/)
-- [중학생 서술형 평가 전략](/middle/descriptive-assessment-strategy/)
+{{< cta-dual type="final" >}}
