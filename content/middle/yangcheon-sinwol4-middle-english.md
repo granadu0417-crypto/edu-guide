@@ -18,7 +18,7 @@ tags:
   - 신화중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0269_XckdW-FViuM.jpg"
 
 ---
 ## 양천구 신월4동 중학생, 어휘력이 부족하다면

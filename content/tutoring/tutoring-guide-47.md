@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 ---
 
 ## 과학은 실험이 많은데, 과외로 실험은 어떻게 배우나요?
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 **Q. 과학 과외 주 몇 회가 좋나요?**
 
-주 1~2회가 적당합니다. 과학은 개념 이해 후 문제 풀이 시간이 필요합니다. 너무 빽빽하게 하면 소화가 안 됩니다.
+주 1-2회가 적당합니다. 과학은 개념 이해 후 문제 풀이 시간이 필요합니다. 너무 빽빽하게 하면 소화가 안 됩니다.
 
 **Q. 어떤 과학이 제일 어렵나요?**
 

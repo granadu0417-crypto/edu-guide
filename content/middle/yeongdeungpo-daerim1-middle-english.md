@@ -18,7 +18,7 @@ tags:
   - 대림중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0277_WQl_OMbF6nA.jpg"
 
 ---
 ## 영등포구 대림1동 중학생, 독해 정확도가 낮다면

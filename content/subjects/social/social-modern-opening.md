@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0691_9M9VYzjHYB8.jpg"
 ---
 
 ## 강화도 조약과 개화파가 헷갈리고 외세 침략이 복잡하다고요? 흥선대원군의 정책부터 정리하면 됩니다.

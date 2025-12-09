@@ -11,7 +11,7 @@ tags:
 - 프레젠테이션
 - 스피치
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0481_7DXebwuiohE.jpg"
 ---
 
 ## 발표할 때 긴장되고 말이 안 나온다고요? 체계적인 준비 방법이 있습니다.

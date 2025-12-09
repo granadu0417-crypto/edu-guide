@@ -18,7 +18,7 @@ tags:
   - 목운중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0242_UlHSF20AHu0.jpg"
 
 ---
 ## 양천구 목1동 중학생, 수학 성적이 정체되어 있다면

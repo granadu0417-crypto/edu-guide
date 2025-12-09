@@ -19,11 +19,11 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0552_QAwSbedbHD0.jpg"
 ---
 ## 강동구 둔촌1동 중학생, 영어 접속사 when, because가 헷갈린다면
 
-when은 '~할 때', because는 '~때문에'인 건 아는데, 문장에서 어떻게 쓰는지 모르겠나요? 둔촌1동은 둔촌주공아파트 대단지를 중심으로 한 안정적인 주거 지역입니다. 둔촌중학교, 성내중학교 학생들이 높은 교육열 속에서 공부하고 있습니다.
+when은 '-할 때', because는 '-때문에'인 건 아는데, 문장에서 어떻게 쓰는지 모르겠나요? 둔촌1동은 둔촌주공아파트 대단지를 중심으로 한 안정적인 주거 지역입니다. 둔촌중학교, 성내중학교 학생들이 높은 교육열 속에서 공부하고 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -78,9 +78,9 @@ when은 '~할 때', because는 '~때문에'인 건 아는데, 문장에서 어�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

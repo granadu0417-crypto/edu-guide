@@ -14,7 +14,7 @@ tags:
 - 초등
 description: 울산 학원 추천. 삼산·남구, 합리적 비용, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의
   모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0785_WIT_bQPUrvg.jpg"
 reading_time: 160줄
 ---
 
@@ -33,7 +33,7 @@ reading_time: 160줄
 
 남구에도 학원이 많습니다. 삼산동과 함께 울산의 교육 중심지입니다. 접근성이 좋고, 다양한 유형의 학원이 있습니다.
 
-비용이 합리적입니다. 서울 대비 30~40% 정도 저렴합니다. 같은 비용으로 더 많은 수업을 받을 수 있습니다.
+비용이 합리적입니다. 서울 대비 30-40% 정도 저렴합니다. 같은 비용으로 더 많은 수업을 받을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

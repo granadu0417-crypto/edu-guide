@@ -10,7 +10,7 @@ tags:
 - 유체역학
 - 물리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0601__wyVfU61VPk.jpg"
 ---
 
 ## 압력과 부력 계산이 헷갈리고 베르누이 원리가 어렵다고요? 유체의 특성부터 이해하면 명확해집니다.

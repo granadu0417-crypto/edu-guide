@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 고등 영어 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0885_cpborMPOnHw.jpg"
 reading_time: 160줄
 ---
 
@@ -81,7 +81,7 @@ reading_time: 160줄
 
 **Q. 수능이랑 내신 중 뭘 먼저 해야 하나요?**
 
-고1~2는 내신 위주로, 고3은 수능 비중을 높이세요. 둘 다 놓치면 안 됩니다.
+고1-2는 내신 위주로, 고3은 수능 비중을 높이세요. 둘 다 놓치면 안 됩니다.
 
 **Q. 영어 과외 주 몇 회가 좋나요?**
 

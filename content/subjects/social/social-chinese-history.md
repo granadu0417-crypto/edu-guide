@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0648_onxFGIkDvcI.jpg"
 ---
 
 ## 중국 왕조가 너무 많고 순서 암기가 어렵다고요? 통일과 분열의 패턴을 파악하면 됩니다.

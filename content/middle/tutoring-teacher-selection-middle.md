@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 과외 선생님, 어떻게 선택해야 할까요? 면접 질문부터 체험 수업까지 완벽 선택 가이드입니다."
 tags: ["과외선생님", "선생님선택", "중등과외", "1:1과외", "과외면접"]
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0235_g4VGQWl8QDU.jpg"
 ---
 
 ## 좋은 과외 선생님은 어떻게 찾나요? 어떤 기준으로 선택해야 하나요?
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 **Q. 체험 수업 몇 번 해야 하나요?**
 
-1~2회 권장합니다. 더 많으면 시간 낭비입니다. 한 번에 파악 안 되면 두 번째에 확인하세요.
+1-2회 권장합니다. 더 많으면 시간 낭비입니다. 한 번에 파악 안 되면 두 번째에 확인하세요.
 
 **Q. 선생님과 연락이 안 되면요?**
 

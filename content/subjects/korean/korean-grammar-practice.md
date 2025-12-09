@@ -11,7 +11,7 @@ tags:
 - 문제풀이
 - 수능
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 ---
 
 ## 문법 개념은 아는데 문제만 풀면 틀린다고요? 유형별 접근법을 익히면 됩니다.

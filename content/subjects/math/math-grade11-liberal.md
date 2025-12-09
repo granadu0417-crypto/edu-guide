@@ -14,7 +14,7 @@ tags:
 - 수열
 - 확률
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0527_8ZLJaXp8Yvo.jpg"
 ---
 
 ## 문과라서 수학을 포기해도 되나요? 지수랑 로그가 뭔지 모르겠고 삼각함수는 왜 배우는지 답답하시죠.

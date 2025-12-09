@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0062_iQPr1XkF5F0.jpg"
 ---
 
 ## 학원을 세 군데나 다니는데 성적은 그대로예요. 어떤 학원이 우리 아이한테 맞는 건가요?

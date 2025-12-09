@@ -9,7 +9,7 @@ tags:
 - 중등과외
 - 1:1과외
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0230_5pQN_nlRbN4.jpg"
 ---
 ## 과외비가 비싸면 효과도 좋을까요?
 

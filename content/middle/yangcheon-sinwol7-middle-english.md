@@ -19,7 +19,7 @@ tags:
   - 양서중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0275_2N518py2mrQ.jpg"
 
 ---
 ## 양천구 신월7동 중학생, 체계적 학습이 필요하다면

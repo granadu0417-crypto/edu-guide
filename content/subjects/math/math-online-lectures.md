@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 기하
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0546_O5EMzfdxedg.jpg"
 ---
 
 ## 인강만 보면 아는 것 같은데 막상 문제를 풀면 안 풀린다고요? 봤는데 성적이 오르지 않아서 의문이시죠.

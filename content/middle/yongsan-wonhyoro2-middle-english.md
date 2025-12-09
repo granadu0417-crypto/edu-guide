@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "용산구 원효로2동 중학생을 위한 영어과외입니다. 성심여중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0339_1_CMoFsPfso.jpg"
 ---
 
 ## 중학교 영어 내신, 확실히 잡아드립니다
@@ -86,9 +86,9 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 영어 과외 비용은 수업 횟수와 시간에 따라 달라집니다.
 
-**중1~2**는 주1회 기준 17만원에서 24만원, 주2회 기준 30만원에서 42만원 선입니다.
+**중1-2**는 주1회 기준 17만원 -  24만원, 주2회 기준 30만원 -  42만원 선입니다.
 
-**중3**은 주1회 기준 19만원에서 26만원, 주2회 기준 34만원에서 48만원이 일반적입니다.
+**중3**은 주1회 기준 19만원 -  26만원, 주2회 기준 34만원 -  48만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

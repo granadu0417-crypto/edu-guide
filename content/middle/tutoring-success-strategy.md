@@ -9,7 +9,7 @@ tags:
 - 학습전략
 - 중등과외
 - 성적향상
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0234_wX5DqDi3iE4.jpg"
 ---
 ## 과외 효과가 학생마다 다른 이유가 뭘까요?
 

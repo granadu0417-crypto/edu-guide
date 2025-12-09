@@ -13,7 +13,7 @@ tags:
 - 어법
 - grammar
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0371_w9i7wMaM3EE.jpg"
 ---
 
 ## 어법 문제만 보면 헷갈린다고요? 분명히 배운 건데 막상 풀면 틀리시죠.

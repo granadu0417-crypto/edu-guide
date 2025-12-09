@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 오답 분석 완벽 마스터 전략 | 1:1 맞춤 지도, 오답노트, 분석, 복습 [2025년]"
 tags: ["중학생", "오답노트", "분석", "복습", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0954__yxsJEUJySM.jpg"
 ---
 
 ## 틀린 문제는 그냥 정답 확인하고 넘어가면 안 되나요? 오답 분석까지 해야 하나요?

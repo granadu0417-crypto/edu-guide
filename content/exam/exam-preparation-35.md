@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0174_nFrp4u2Pkxw.jpg"
 ---
 ## 수학 시험에서 아는 문제도 자꾸 틀려요. 어떻게 하면 실수를 줄일 수 있나요?
 

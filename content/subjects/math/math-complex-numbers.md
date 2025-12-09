@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 연산
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0514_M3lq6tdHMj8.jpg"
 ---
 
 ## 허수가 뭔지 감이 안 잡힌다고요? i 제곱이 왜 마이너스 1인지 도무지 이해가 안 되시죠.

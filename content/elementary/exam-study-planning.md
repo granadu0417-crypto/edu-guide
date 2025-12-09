@@ -10,7 +10,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0136_fj2iLi2yCfU.jpg"
 ---
 ## 시험 전날 벼락치기, 그만하고 싶지 않으세요?
 

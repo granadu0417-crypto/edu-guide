@@ -15,7 +15,7 @@ tags:
 description: 학원과 과외 계약서 작성의 모든 것. 필수 조항, 주의사항, 환불 규정, 분쟁 예방 전략을 제시합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
   정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0798_VIb8pHrBUC4.jpg"
 reading_time: 160줄
 ---
 

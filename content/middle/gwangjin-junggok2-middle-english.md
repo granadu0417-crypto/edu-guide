@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0783__9xRHrMOjeg.jpg"
 ---
 ## 광진구 중곡2동 중학생, 영어 동명사가 헷갈린다면
 
@@ -78,9 +78,9 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -93,7 +93,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 **Q. stop to do와 stop doing은 뭐가 다른가요?**
 
-stop to do는 ~하기 위해 멈추다, stop doing은 ~하는 것을 멈추다입니다. 의미가 완전히 다릅니다.
+stop to do는 -하기 위해 멈추다, stop doing은 -하는 것을 멈추다입니다. 의미가 완전히 다릅니다.
 
 **Q. 전치사 뒤에는 왜 동명사가 오나요?**
 

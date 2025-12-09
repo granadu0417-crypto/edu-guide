@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 ---
 
 ## 공부하려고 마음은 먹는데 실천이 안 돼요. 계획만 세우고 작심삼일로 끝납니다. 어떻게 하면 꾸준히 할 수 있나요?
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 **Q. 습관 만드는 데 얼마나 걸리나요?**
 
-개인차가 있지만 보통 2~3주면 어느 정도 자리 잡습니다. 3개월이면 완전히 몸에 붙습니다.
+개인차가 있지만 보통 2-3주면 어느 정도 자리 잡습니다. 3개월이면 완전히 몸에 붙습니다.
 
 **Q. 부모도 상담에 참여하나요?**
 

@@ -13,7 +13,7 @@ tags:
 - 노원
 - 의대생과외
 description: 과목별 1:1 과외 선생님 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 맞춤형 전략으로 목표를 달성하세요.
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0880_C4EphYa7EDA.jpg"
 reading_time: 160줄
 ---
 
@@ -88,7 +88,7 @@ reading_time: 160줄
 
 **Q. 과외는 주 몇 회가 좋나요?**
 
-주 1~2회가 적당합니다. 나머지 시간에 복습과 문제 풀이를 혼자 해야 합니다.
+주 1-2회가 적당합니다. 나머지 시간에 복습과 문제 풀이를 혼자 해야 합니다.
 
 **Q. 지리 기초가 없어도 되나요?**
 

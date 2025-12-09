@@ -16,7 +16,7 @@ tags:
 - 생물
 - 학습환경
 - 노원
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0861_pZA4eNKBz20.jpg"
 draft: false
 ---
 

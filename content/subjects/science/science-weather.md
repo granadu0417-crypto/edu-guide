@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0643_g0nVEyiDBAI.jpg"
 ---
 
 ## 일기도 해석이 어렵고 기상 현상 원리가 복잡하다고요? 대기 순환의 기본부터 이해하면 됩니다.

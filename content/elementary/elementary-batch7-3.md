@@ -11,11 +11,11 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 ---
 ## 예습하고 복습하면 성적이 올라간다, 말은 쉬운데 실천이 어렵죠?
 
-3학년은 공부 습관이 만들어지는 결정적 시기입니다. 1~2학년 때는 학교에서 시키는 대로만 해도 됐지만, 3학년부터는 스스로 공부하는 힘을 길러야 합니다. 지금 좋은 습관을 들이면 평생 갑니다.
+3학년은 공부 습관이 만들어지는 결정적 시기입니다. 1-2학년 때는 학교에서 시키는 대로만 해도 됐지만, 3학년부터는 스스로 공부하는 힘을 길러야 합니다. 지금 좋은 습관을 들이면 평생 갑니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 3학년은 저학년의 마지막이면서 고학년으로 넘어가는 과도기입니다. 호기심이 여전히 왕성하지만, 추상적 사고가 조금씩 시작됩니다.
 
-학습법은 놀이 요소를 줄이고 체계적 학습을 늘립니다. 집중 시간이 20~30분으로 늘어나니 학습 시간도 조금씩 늘립니다.
+학습법은 놀이 요소를 줄이고 체계적 학습을 늘립니다. 집중 시간이 20-30분으로 늘어나니 학습 시간도 조금씩 늘립니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

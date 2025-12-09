@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 기숙 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 학원 선택 기준과 효율적인 활용법을 상세히 설명합니다.
 
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0722_pMLCmgTNi_4.jpg"
 reading_time: 270줄
 ---
 
@@ -105,7 +105,7 @@ reading_time: 270줄
 
 **Q. 적응 못 하면 어떡하나요?**
 
-적응 기간이 필요합니다. 보통 2~4주 걸립니다. 적응 못 하면 나오는 것도 방법입니다.
+적응 기간이 필요합니다. 보통 2-4주 걸립니다. 적응 못 하면 나오는 것도 방법입니다.
 
 **Q. 현역도 기숙학원 다녀야 하나요?**
 

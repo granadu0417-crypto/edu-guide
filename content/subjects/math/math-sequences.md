@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0556_qB0erAjz70U.jpg"
 ---
 
 ## 수열 문제만 보면 규칙을 어떻게 찾아야 할지 막막하다고요? 등차인지 등비인지 구분도 헷갈리고 시그마 계산은 더 복잡하게 느껴지시죠.

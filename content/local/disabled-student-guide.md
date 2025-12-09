@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "장애학생 교육 지원 완벽 가이드 | 특수교육 대상자 선정·장애 유형별 지원·통합교육·개별화교육계획·치료지원·진로교육·법적 권리까지 상세 안내"
 tags: ["장애학생", "특수교육", "통합교육", "개별화교육", "특수교육지원", "장애학생지원", "특수학급", "치료지원", "진로교육"]
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 ---
 
 ## 장애가 있는 우리 아이도 제대로 된 교육을 받을 수 있을까요? 특수교육 대상자 선정부터 치료지원까지 막막하시죠.

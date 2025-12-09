@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0519_0G8M3LVT5Ds.jpg"
 ---
 
 ## 시험 범위가 너무 넓어서 어디서부터 손대야 할지 막막하시죠? 공부는 했는데 실전에서 자꾸 실수하고요.

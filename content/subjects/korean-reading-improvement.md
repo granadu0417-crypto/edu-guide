@@ -1,5 +1,5 @@
 ---
-title: 국어 독해력 5단계 추천 전략 | 초등~고등 완벽 가이드 - 성공적인 전략과 노하우
+title: 국어 독해력 5단계 추천 전략 | 초등-고등 완벽 가이드 - 성공적인 전략과 노하우
 date: 2025-01-25
 reading_time: 329줄
 description: 국어 독해력을 체계적으로 향상시키는 5단계 전략입니다. 학년별 맞춤 방법과 실전 훈련, 문제 풀이 노하우까지 완벽 가이드를
@@ -16,11 +16,11 @@ tags:
 - 국어공부
 - 비문학
 - 기초
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0430_FovL46JCjdk.jpg"
 draft: false
 ---
 
-![독서하는 학생](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=400&fit=crop)
+![독서하는 학생](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop)
 *체계적인 독해력 훈련이 모든 과목 성적을 올립니다*
 
 ## 왜 독해력이 중요한가?
@@ -52,9 +52,9 @@ draft: false
 - **문장으로 암기**: 예문과 함께
 
 #### 학년별 목표 어휘 수
-- 초등: 3,000~5,000개
-- 중등: 5,000~8,000개
-- 고등: 8,000~12,000개
+- 초등: 3,000-5,000개
+- 중등: 5,000-8,000개
+- 고등: 8,000-12,000개
 
 ### 2단계: 문장 구조 파악
 
@@ -162,13 +162,13 @@ draft: false
 
 ### 초등학생: 흥미 중심
 
-#### 저학년 (1~3학년)
+#### 저학년 (1-3학년)
 - **그림책**: 이미지와 텍스트 연결
 - **소리 내어 읽기**: 정확한 발음
 - **질문 답하기**: "누가?", "무엇을?"
 - **이야기 순서**: 시작-중간-끝
 
-#### 고학년 (4~6학년)
+#### 고학년 (4-6학년)
 - **다양한 장르**: 동화, 정보글, 시
 - **요약 연습**: 한 문장으로 정리
 - **주제 파악**: 글쓴이가 하고 싶은 말
@@ -335,16 +335,5 @@ A: **선지 분석 연습**을 하세요. 왜 이 선지가 정답인지, 다른
 
 
 
-## 📚 관련 가이드
 
-- [국어 독해력 향상 추천 전략 | 초중고 학년별](/subjects/korean/korean-reading-comprehension-guide/)
-- [고등학생 국어 공부법 완벽 가이드 | 수능부터 내신까지](/high/high-school-korean-study-guide/index/)
-- [국어 비문학 독해 고민? | 유형별 전략 솔루션 2025](/subjects/korean/korean-nonfiction-reading-guide/)
-- [국어 문법 총정리 완벽 정리 | 품사부터 문장까지 2025](/subjects/korean/korean-grammar-complete-guide/)
-- [국어 문학 분석 vs 암기 | 시·소설 해석법 비교](/subjects/korean/korean-literature-analysis-guide/)
-
-{{< cta-consultation-final >}}
-
----
-
-*본 글은 일반적인 독해력 향상 가이드이며, 개별 학생의 수준에 맞춰 적절히 조절하여 적용하시기 바랍니다.*
+{{< cta-dual type="final" >}}

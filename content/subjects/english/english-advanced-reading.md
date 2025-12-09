@@ -11,7 +11,7 @@ tags:
 - 비문학독해
 - 수능독해
 - 영어과외
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 ---
 
 ## 영어 지문이 길어지면 무슨 말인지 모르겠다고요? 수능 고난도 문제에서 막힌다고 느끼시죠.

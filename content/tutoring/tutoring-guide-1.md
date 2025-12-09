@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0943_HdVeYMcIzfw.jpg"
 ---
 
 ## 처음 과외를 시작하려고 하는데, 뭘 어떻게 준비해야 할지 모르겠어요. 첫 수업 전에 뭘 해야 하나요?
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-주 2~3회가 일반적입니다. 과목 난이도와 학생 수준에 따라 조절하세요.
+주 2-3회가 일반적입니다. 과목 난이도와 학생 수준에 따라 조절하세요.
 
 **Q. 온라인 과외도 효과가 있나요?**
 

@@ -12,7 +12,7 @@ keywords: ["서초구 중등수학", "양재2동 수학과외", "언남중 수�
 
 tags:
   - yangjae2동
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0063_v7FT5ngIEfA.jpg"
 ---
 ## 서초구 양재2동 중학생, 수학 삼각형의 닮음 조건이 헷갈린다면
 
@@ -71,9 +71,9 @@ AA, SAS, SSS 닮음 조건은 알겠는데, 합동 조건과 어떻게 다른지
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

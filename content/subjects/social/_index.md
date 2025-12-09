@@ -8,7 +8,7 @@ keywords:
 - 역사 학습
 - 지리 학습
 - 사회 논술
-featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0644_CJmOrnngHlE.jpg"
 ---
 
 ## 사회 공부법

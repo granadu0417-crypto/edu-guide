@@ -19,7 +19,7 @@ tags:
 - 환일중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0854_V0ogk2x_WdA.jpg"
 
 ---
 ## 중구 소공동 중학생, 수학 함수의 그래프 해석이 어렵다면
@@ -81,9 +81,9 @@ y = 2x + 1의 그래프를 보고 기울기와 y절편을 바로 읽어낼 수 �
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

@@ -13,7 +13,7 @@ tags:
 - motivation
 - habit
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 ---
 
 ## 영어 공부가 작심삼일이라고요? 시작은 열심히 하는데 며칠 못 간다고요.
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 ## 슬럼프 극복법
 
-슬럼프는 누구에게나 옵니다. 의욕 저하, 집중 안 됨, 미루기가 징후입니다. 2~3일 완전히 쉬세요. 원인을 파악하세요. 목표가 불명확한지, 방법이 잘못됐는지, 과로인지 확인합니다. 작은 목표로 다시 시작하세요. 하루 안 했다고 포기하지 마세요.
+슬럼프는 누구에게나 옵니다. 의욕 저하, 집중 안 됨, 미루기가 징후입니다. 2-3일 완전히 쉬세요. 원인을 파악하세요. 목표가 불명확한지, 방법이 잘못됐는지, 과로인지 확인합니다. 작은 목표로 다시 시작하세요. 하루 안 했다고 포기하지 마세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 중간고사
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0212_mi13tiWIJk0.jpg"
 ---
 ## 중간고사가 코앞인데 아직 1단원도 못 끝냈어요. 어떻게 해야 하죠?
 

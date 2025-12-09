@@ -11,7 +11,7 @@ tags:
 - 한자어
 - 관용어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0499_TRVSyEf4UEE.jpg"
 ---
 
 ## 단어를 외워도 금방 잊어버린다고요? 어원으로 접근하면 다릅니다.
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 **Q. 하루에 몇 개씩 익혀야 하나요?**
 
-5~10개를 꾸준히 익히세요. 주기적 복습이 중요합니다.
+5-10개를 꾸준히 익히세요. 주기적 복습이 중요합니다.
 
 ## 마무리
 

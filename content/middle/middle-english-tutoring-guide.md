@@ -10,7 +10,7 @@ tags:
 - 중학영어
 - 내신영어
 - 영어문법
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 ---
 ## 중학교 영어, 갑자기 어려워진 이유가 뭘까요?
 

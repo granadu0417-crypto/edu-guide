@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0124_NsPDiPFTp4c.jpg"
 ---
 ## 저학년이라 아직 괜찮겠지, 생각하시면 안 됩니다
 

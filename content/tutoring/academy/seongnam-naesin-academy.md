@@ -14,7 +14,7 @@ tags:
 - 영어
 description: 성남 내신학원. 분당·수정·중원, 학교별 대비, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의
   모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0774_XfC4SyL9XsU.jpg"
 reading_time: 160줄
 ---
 
@@ -33,7 +33,7 @@ reading_time: 160줄
 
 수정과 중원은 합리적인 가격대 학원이 많습니다. 가성비가 좋고 내신 중심 학원이 많습니다. 지역 밀착형이라 학교별 맞춤 수업이 가능합니다.
 
-비용이 강남보다 저렴합니다. 분당도 강남 대비 20~30% 정도 저렴합니다. 수정과 중원은 더 저렴합니다.
+비용이 강남보다 저렴합니다. 분당도 강남 대비 20-30% 정도 저렴합니다. 수정과 중원은 더 저렴합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

@@ -11,7 +11,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 ---
 
 ## 내신이 중요하다는 건 아는데, 어떻게 관리해야 하는지 모르겠어요. 과목이 너무 많아서 다 신경 쓸 수가 없어요.
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 **Q. 내신과 수능 중 뭐가 더 중요한가요?**
 
-학년과 입시 전형에 따라 다릅니다. 일반적으로 고1~2는 내신, 고3은 수능과 병행합니다.
+학년과 입시 전형에 따라 다릅니다. 일반적으로 고1-2는 내신, 고3은 수능과 병행합니다.
 
 **Q. 포기하고 싶은 과목이 있어요.**
 

@@ -11,7 +11,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 ---
 
 ## 시험 기간에 열심히 공부하는데도 등급이 안 오르는 이유가 뭘까요?
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 **Q. 한 번에 몇 등급이나 오를 수 있나요?**
 
-개인차가 있지만, 제대로 된 전략으로 1~2등급 향상은 충분히 가능합니다. 조급하지 말고 꾸준히 하세요.
+개인차가 있지만, 제대로 된 전략으로 1-2등급 향상은 충분히 가능합니다. 조급하지 말고 꾸준히 하세요.
 
 **Q. 벼락치기도 전략이 있나요?**
 

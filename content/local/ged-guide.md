@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "검정고시 완벽 가이드 | 초졸·중졸·고졸 검정고시 응시 자격·시험 과목·출제 범위·신청 방법·준비 전략·합격 기준·진로까지 상세 안내"
 tags: ["검정고시", "고졸검정고시", "중졸검정고시", "초졸검정고시", "학력인정", "검정고시준비", "검정고시합격", "검정고시과목", "검정고시일정"]
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0203_sa1-uen2UfE.jpg"
 ---
 
 ## 정규 학교를 다니지 못했지만 학력을 인정받고 싶으신가요? 검정고시가 그 해답입니다.

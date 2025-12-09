@@ -7,7 +7,7 @@ reading_time: "713줄"
 description: "고등학생을 위한 스트레스 관리 완전 가이드. 시험 불안부터 대인 관계까지 건강하게 스트레스 대처하는 방법."
 categories: ["고등"]
 tags: ["스트레스관리", "시험불안", "멘탈관리", "심리건강", "스트레스해소", "불안극복", "감정관리", "마음건강"]
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -63,7 +63,7 @@ sitemap:
 
 점진적 근육 이완도 효과적입니다. 손부터 다리까지 순서대로 힘을 주었다가 풀어줍니다.
 
-명상은 편안한 자세로 호흡에 집중하고 생각을 흘려보냅니다. 10~20분이면 마음이 안정됩니다.
+명상은 편안한 자세로 호흡에 집중하고 생각을 흘려보냅니다. 10-20분이면 마음이 안정됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

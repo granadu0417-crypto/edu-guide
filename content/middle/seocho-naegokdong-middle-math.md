@@ -12,7 +12,7 @@ keywords: ["서초구 중등수학", "내곡동 수학과외", "내곡중 수학
 
 tags:
   - naegok동
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 ---
 ## 서초구 내곡동 중학생, 수학 평행선에서 동위각과 엇각이 헷갈린다면
 
@@ -71,9 +71,9 @@ F, Z, U 모양으로 각의 위치를 익힙니다. 다양한 그림에서 각�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

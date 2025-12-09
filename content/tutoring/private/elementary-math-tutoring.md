@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 초등 수학 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0875__al2ZAOd5ZU.jpg"
 reading_time: 160줄
 ---
 
@@ -93,7 +93,7 @@ reading_time: 160줄
 
 **Q. 주 몇 회가 적당한가요?**
 
-주 1~2회가 적당합니다. 매일 복습과 연산 연습을 병행하세요.
+주 1-2회가 적당합니다. 매일 복습과 연산 연습을 병행하세요.
 
 ## 마무리
 

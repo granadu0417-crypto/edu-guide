@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0931_oTglG1D4hRA.jpg"
 ---
 ## 스스로 공부하는 아이로 키우고 싶으시다면
 

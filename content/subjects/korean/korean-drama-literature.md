@@ -12,7 +12,7 @@ tags:
 - 대사
 - 문학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0446_xcvXS6wDCAY.jpg"
 ---
 
 ## 희곡이 다른 문학과 뭐가 다른지 모르겠다고요? 무대 공연을 전제로 쓰인 글입니다.

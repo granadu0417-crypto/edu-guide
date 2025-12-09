@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 ---
 
 ## 봉건제와 교회가 헷갈리고 십자군 전쟁이 복잡하다고요? 서로마 제국 멸망부터 시작하면 됩니다.
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 ## 십자군 전쟁
 
-11~13세기 성지 예루살렘 탈환을 위한 전쟁입니다. 총 8차례에 걸쳐 진행되었으나 최종적으로 실패했습니다. 그러나 동서 교류가 활발해지고 상업이 발달했습니다. 교황권은 약화되고 왕권이 강화되는 계기가 되었습니다.
+11-13세기 성지 예루살렘 탈환을 위한 전쟁입니다. 총 8차례에 걸쳐 진행되었으나 최종적으로 실패했습니다. 그러나 동서 교류가 활발해지고 상업이 발달했습니다. 교황권은 약화되고 왕권이 강화되는 계기가 되었습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

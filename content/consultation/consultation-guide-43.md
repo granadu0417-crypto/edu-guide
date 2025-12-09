@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 ---
 
 ## 중간고사 끝나면 바로 기말고사인데, 내신은 어떻게 관리해야 성적이 오르나요?

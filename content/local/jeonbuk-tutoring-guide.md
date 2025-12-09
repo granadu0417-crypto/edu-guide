@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "전북도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 전북대·원광대 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["전북과외", "과외", "전북교육", "전주과외", "익산과외", "전북대과외", "원광대과외", "전남대과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 ---
 
 ## 전북에서 괜찮은 과외 선생님 구하기 힘드시죠? 전북대생이 좋은지 원광대생이 좋은지도 고민이시고요.

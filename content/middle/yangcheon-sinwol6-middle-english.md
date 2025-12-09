@@ -18,7 +18,7 @@ tags:
   - 강신중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0273_t3oZpcij_O4.jpg"
 
 ---
 ## 양천구 신월6동 중학생, 등급 향상이 절실하다면

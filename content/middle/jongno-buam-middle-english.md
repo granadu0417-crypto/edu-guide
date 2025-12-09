@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0793_aj3C4f6T8fA.jpg"
 ---
 ## 종로구 부암동 중학생, 영어 조동사가 헷갈린다면
 
@@ -80,9 +80,9 @@ can, will, must, should가 각각 어떻게 다른지, 과거형은 어떻게 �
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -103,7 +103,7 @@ can, will, must, should가 각각 어떻게 다른지, 과거형은 어떻게 �
 
 **Q. should have p.p.는 무슨 뜻인가요?**
 
-과거에 하지 않은 것에 대한 후회나 비난을 나타냅니다. "~했어야 했는데 (안 했다)"의 의미입니다.
+과거에 하지 않은 것에 대한 후회나 비난을 나타냅니다. "-했어야 했는데 (안 했다)"의 의미입니다.
 
 ## 마무리
 

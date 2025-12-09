@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 ---
 
 ## 여당과 야당의 역할이 헷갈리고 정당 제도가 복잡하다고요? 정당의 기능과 의의부터 이해하면 됩니다.

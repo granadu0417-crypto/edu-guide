@@ -19,7 +19,7 @@ tags:
 - 영어문법
 - 영어독해
 - 세곡자연환경
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0612_HgBtIU21To4.jpg"
 
 ---
 ## 강남구 세곡동 중학생, 영어 to부정사와 동명사가 헷갈린다면
@@ -79,9 +79,9 @@ to부정사와 동명사는 문맥에서 의미를 파악하는 것이 핵심입
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -98,7 +98,7 @@ to부정사와 동명사는 문맥에서 의미를 파악하는 것이 핵심입
 
 **Q. stop to do와 stop doing의 차이가 뭔가요?**
 
-stop to do는 '~하기 위해 멈추다', stop doing은 '~하는 것을 멈추다'입니다. 의미가 완전히 다릅니다.
+stop to do는 '-하기 위해 멈추다', stop doing은 '-하는 것을 멈추다'입니다. 의미가 완전히 다릅니다.
 
 **Q. 동명사와 현재분사는 어떻게 구분하나요?**
 

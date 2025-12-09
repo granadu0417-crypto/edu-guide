@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0638_44yHbssvRDI.jpg"
 ---
 ## 고등학생이 되면 뭐가 달라지나요? 중학교 때처럼 하면 안 되나요?
 
@@ -110,7 +110,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 **Q. 하루에 얼마나 공부해야 하나요?**
 
-고1은 학교 수업 외 3~4시간이면 됩니다. 시간보다 집중도가 중요합니다.
+고1은 학교 수업 외 3-4시간이면 됩니다. 시간보다 집중도가 중요합니다.
 
 ## 마무리
 

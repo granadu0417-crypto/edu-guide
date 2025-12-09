@@ -19,7 +19,7 @@ tags:
   - 문래중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0308_ZnuhSdvBqzU.jpg"
 
 ---
 ## 영등포구 영등포본동 중학생, 수학 성적이 걱정된다면

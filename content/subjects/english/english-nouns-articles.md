@@ -15,7 +15,7 @@ tags:
 - a
 - the
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0396_SYTO3xs06fU.jpg"
 ---
 
 ## a와 the를 언제 써야 하는지 모르겠다고요? 가산명사와 불가산명사 구별도 어렵죠.

@@ -9,7 +9,7 @@ regions:
 cities:
   - 경기도
 tags: ["경기도", "분당", "평촌", "일산", "동탄", "학군", "교육환경", "신도시", "도서관"]
-featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 ---
 
 경기도는 서울 인접 지역을 중심으로 우수한 교육 환경을 갖춘 도시들이 많습니다. 1기 신도시부터 3기 신도시까지, 각 지역의 특성과 교육 인프라를 상세히 살펴보겠습니다.
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=
 ```
 분당도서관:
 - 위치: 분당구 수내동
-- 규모: 지하 1층~지상 3층
+- 규모: 지하 1층-지상 3층
 - 좌석: 약 800석
 - 장서: 약 30만 권
 
@@ -771,7 +771,7 @@ featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=
 - 학부모 네트워크 형성
 - 지역 정보 수집
 
-**6개월~1년**
+**6개월-1년**
 - 학습 패턴 확립
 - 사교육 필요성 판단
 - 진로 계획 수립

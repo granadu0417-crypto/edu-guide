@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 ---
 
 ## 과외 선생님이랑 뭘 얘기해야 할지 모르겠어요. 부모로서 어떻게 참여해야 하나요?

@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 ---
 
 ## 과외를 처음 해보는데 첫 수업에서 뭘 해야 하나요? 긴장되네요.

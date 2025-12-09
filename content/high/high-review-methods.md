@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 과학적 복습 전략. 망각곡선 극복부터 간격 반복, 능동적 회상까지. 적은 시간으로 최대 효과를 내는 완벽한 복습 시스템."
 tags: ["고등복습법", "복습전략", "망각곡선", "간격반복", "학습효율", "내신대비", "수능준비", "성적향상"]
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 ---
 
 ## 분명히 배웠는데 시험 때는 기억이 안 나요. 복습해도 금방 까먹는데 어떻게 해야 제대로 기억이 남나요?

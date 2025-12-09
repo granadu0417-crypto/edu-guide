@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 ---
 ## 중학교 가기 전에 초등 과정을 완벽히 정리하셨나요?
 
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분수와 소수 연산을 집중 점검합니다. 이게 안 되면 중학교 수학이 안 됩니다. 부족하면 4~5학년 내용까지 돌아가서 다시 잡습니다.
+분수와 소수 연산을 집중 점검합니다. 이게 안 되면 중학교 수학이 안 됩니다. 부족하면 4-5학년 내용까지 돌아가서 다시 잡습니다.
 </div>
 
 ## 6학년의 특징과 대응

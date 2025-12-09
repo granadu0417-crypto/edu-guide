@@ -18,7 +18,7 @@ tags:
   - 문래중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0289_3S0Ucv4BDCk.jpg"
 
 ---
 ## 영등포구 문래동 중학생, 영어 흥미가 떨어졌다면

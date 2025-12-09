@@ -11,7 +11,7 @@ tags:
 - 리얼리즘
 - 모더니즘
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0464_NIJuEQw0RKg.jpg"
 ---
 
 ## 리얼리즘, 모더니즘이 뭔지 헷갈린다고요? 각 사조의 핵심 특징을 알면 구분됩니다.

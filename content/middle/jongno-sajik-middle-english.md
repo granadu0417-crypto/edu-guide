@@ -19,23 +19,23 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0819_HoTwXjYbIY4.jpg"
 
 ---
 ## 종로구 사직동 중학생, 영어 강조구문이 어렵다면
 
-It is ~ that 강조구문에서 어떤 것을 강조하는지, do/does/did 강조는 어떻게 쓰는지 모르겠나요? 사직동은 사직단과 경복궁 사이에 위치한 유서 깊은 지역입니다. 정부 중앙청사와 가까워 교육열이 높고 경신중, 동성중, 중앙중 학생들이 열심히 영어 실력을 키우고 있습니다.
+It is - that 강조구문에서 어떤 것을 강조하는지, do/does/did 강조는 어떻게 쓰는지 모르겠나요? 사직동은 사직단과 경복궁 사이에 위치한 유서 깊은 지역입니다. 정부 중앙청사와 가까워 교육열이 높고 경신중, 동성중, 중앙중 학생들이 열심히 영어 실력을 키우고 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 강조구문 이해 수준을 진단합니다. It is ~ that 구문, do/does/did 강조, very/the very 사용을 체계적으로 훈련합니다.
+첫 수업에서 강조구문 이해 수준을 진단합니다. It is - that 구문, do/does/did 강조, very/the very 사용을 체계적으로 훈련합니다.
 </div>
 
 ## 강조구문이 어려운 이유
 
-강조구문은 문장의 특정 부분을 강조하는 표현입니다. It is [강조할 부분] that ~으로 주어, 목적어, 부사(구)를 강조합니다. 동사는 do/does/did + 동사원형으로 강조합니다. 문제는 강조구문과 가주어 구문을 혼동한다는 것입니다.
+강조구문은 문장의 특정 부분을 강조하는 표현입니다. It is [강조할 부분] that -으로 주어, 목적어, 부사(구)를 강조합니다. 동사는 do/does/did + 동사원형으로 강조합니다. 문제는 강조구문과 가주어 구문을 혼동한다는 것입니다.
 
-강조구문을 구분하려면 It is ~ that을 빼고도 문장이 완전한지 확인하세요. 완전하면 강조구문, 불완전하면 가주어 구문입니다.
+강조구문을 구분하려면 It is - that을 빼고도 문장이 완전한지 확인하세요. 완전하면 강조구문, 불완전하면 가주어 구문입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -70,7 +70,7 @@ It is ~ that 강조구문에서 어떤 것을 강조하는지, do/does/did 강�
 
 중1은 기본 문장 구조를 배우는 시기입니다. 문장 성분의 이해, 기본 구문을 익힙니다. 강조구문을 배우기 전 기초를 다집니다.
 
-중2는 강조구문을 본격적으로 배우는 시기입니다. It is ~ that 구문, do 강조를 익힙니다. 다양한 표현을 연습합니다.
+중2는 강조구문을 본격적으로 배우는 시기입니다. It is - that 구문, do 강조를 익힙니다. 다양한 표현을 연습합니다.
 
 중3은 강조구문을 완성하는 시기입니다. 복잡한 문장에서의 강조, 다른 구문과의 구별을 익힙니다. 고등학교 영어 문법을 미리 경험합니다.
 
@@ -81,9 +81,9 @@ It is ~ that 강조구문에서 어떤 것을 강조하는지, do/does/did 강�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -94,7 +94,7 @@ It is ~ that 강조구문에서 어떤 것을 강조하는지, do/does/did 강�
 
 ## 자주 묻는 질문
 
-**Q. It is ~ that 강조구문 예시는요?**
+**Q. It is - that 강조구문 예시는요?**
 
 I met Tom yesterday. → It was Tom that I met yesterday. (목적어 강조) → It was yesterday that I met Tom. (부사 강조)
 
@@ -104,7 +104,7 @@ I met Tom yesterday. → It was Tom that I met yesterday. (목적어 강조) →
 
 **Q. 강조구문과 가주어 구문은 어떻게 구별하나요?**
 
-It is ~ that을 빼고 문장이 완전하면 강조구문입니다. It is important that you study.(가주어) vs It was Tom that I met.(강조)
+It is - that을 빼고 문장이 완전하면 강조구문입니다. It is important that you study.(가주어) vs It was Tom that I met.(강조)
 
 ## 마무리
 

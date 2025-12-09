@@ -14,7 +14,7 @@ tags:
 - 수능국어
 - 고전문학학습
 - 소설
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0436_kw0z6RyvC0s.jpg"
 ---
 
 ## 고전문학 읽으면 무슨 말인지 모르겠다고요? 시대별 특징을 알면 해석이 쉬워집니다.
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 ## 수능 출제 경향
 
-수능 문학에서 고전문학은 매년 2~3문제 출제됩니다. 작품의 내용 이해, 표현 기법 분석, 외적 준거에 따른 감상이 주요 유형입니다. 낯선 작품이 나와도 기본 분석 능력이 있으면 해결할 수 있습니다. 기출 분석을 통해 출제 패턴을 익히세요.
+수능 문학에서 고전문학은 매년 2-3문제 출제됩니다. 작품의 내용 이해, 표현 기법 분석, 외적 준거에 따른 감상이 주요 유형입니다. 낯선 작품이 나와도 기본 분석 능력이 있으면 해결할 수 있습니다. 기출 분석을 통해 출제 패턴을 익히세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

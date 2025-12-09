@@ -19,7 +19,7 @@ tags:
   - 문래중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0307_eKRxDhh6meI.jpg"
 
 ---
 ## 영등포구 영등포본동 중학생, 영어 성적이 걱정된다면

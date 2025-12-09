@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 학생부 완벽 관리 전략 | 세특 작성, 창체 관리, 진로 일관성, 학년별 전략, 교사 소통법 [2025년]"
 tags: ["학생부", "생기부", "세특", "창체", "학생부종합", "진로일관성", "비교과활동", "독서활동", "고등학생"]
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 ---
 
 ## 학생부 어떻게 관리해야 하는지 감도 안 오시죠? 세특이랑 창체는 뭐가 다른 건가요?

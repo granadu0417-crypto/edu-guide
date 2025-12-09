@@ -17,7 +17,7 @@ tags:
 - 입학준비
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0525_je240KkJIuA.jpg"
 ---
 
 ## 영재교육원에 보내고 싶은데 어떻게 준비해야 하는지 모르겠다고요? 일반 학원으로는 안 될 것 같다고 느끼시죠.

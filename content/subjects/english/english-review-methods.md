@@ -13,7 +13,7 @@ tags:
 - 기억
 - 학습법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0409_DHk_mju83z0.jpg"
 ---
 
 ## 배운 것을 금방 잊어버린다고요? 복습을 어떻게 해야 할지 모르겠다고요.
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 **Q. 복습 시간이 부족해요.**
 
-짧게 자주 하세요. 하루 10~20분이면 충분합니다.
+짧게 자주 하세요. 하루 10-20분이면 충분합니다.
 
 **Q. 그냥 읽기만 하면 안 되나요?**
 

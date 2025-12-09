@@ -12,7 +12,7 @@ tags:
 - 작문
 - 첨삭
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0449_iFLzEx6RNmI.jpg"
 ---
 
 ## 글쓰기만 하면 뭘 써야 할지 모르겠다고요? 논술의 틀을 배우면 달라집니다.

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등 과학탐구 영역(물리, 화학, 생명과학, 지구과학) 완벽 대비 전략. 과목 선택부터 개념 정립, 킬러 문항 대비, 실전 모의고사까지 과탐 1등급 로드맵."
 tags: ["과학탐구", "과탐과외", "물리과외", "화학과외", "생명과학", "지구과학", "이과과외", "과학공부"]
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0690_t_0zK-Nz_lQ.jpg"
 ---
 
 ## 과탐 어떤 과목을 선택해야 할지 모르겠어요. 물리는 어렵고 지구과학은 쉽다는데 뭘 선택하는 게 유리한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 {{< cta-dual type="final" >}}
 
-물리는 그림을 그리며 상황을 파악하는 연습이 필수입니다. 개념 이해에 2~3개월, 기출 분석에 2~3개월, 킬러 대비에 1~2개월이 필요합니다.
+물리는 그림을 그리며 상황을 파악하는 연습이 필수입니다. 개념 이해에 2-3개월, 기출 분석에 2-3개월, 킬러 대비에 1-2개월이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

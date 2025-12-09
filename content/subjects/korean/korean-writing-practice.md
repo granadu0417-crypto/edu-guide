@@ -10,7 +10,7 @@ tags:
 - 글쓰기
 - 작문
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0501_9x-E8o8SaNY.jpg"
 ---
 
 ## 글쓰기가 어렵고 뭘 어떻게 써야 할지 모르겠다고요? 훈련 방법이 있습니다.

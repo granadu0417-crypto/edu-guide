@@ -19,7 +19,7 @@ tags:
   - 영신고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0118_j9jZSqfH5YI.jpg"
 
 ---
 ## 영등포구 도림동 고등학생, 기초 개념이 흔들린다면
@@ -117,9 +117,9 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 영등포구 도림동 고등학생 수학과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 기준 25만원에서 35만원, 주2회 기준 42만원에서 58만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 30만원에서 42만원, 주2회 기준 50만원에서 70만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -132,7 +132,7 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 **Q. 내신과 수능 중 어떤 것을 먼저 준비해야 하나요?**
 
-학년에 따라 다릅니다. 고1~2는 내신에 집중하면서 수능 감각을 유지하고, 고3은 내신과 수능을 병행합니다.
+학년에 따라 다릅니다. 고1-2는 내신에 집중하면서 수능 감각을 유지하고, 고3은 내신과 수능을 병행합니다.
 
 **Q. 수학 기초가 많이 부족한데 따라갈 수 있을까요?**
 

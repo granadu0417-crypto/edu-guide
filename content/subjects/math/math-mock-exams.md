@@ -15,7 +15,7 @@ tags:
 - 수능준비
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 ---
 
 ## 모의고사 볼 때마다 시간이 부족하다고요? 평소에는 푸는 문제도 시험장만 가면 안 풀린다고 느끼시죠.

@@ -12,7 +12,7 @@ tags:
 - 수능영어
 - 내신영어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0405_KXtTWJZgw8g.jpg"
 ---
 
 ## 영어 독해 지문이 너무 길다고요? 시간 안에 못 푼다고요.
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=
 
 ## 마무리
 
-영어 독해 정복의 핵심은 체계적인 전략과 꾸준한 연습입니다. 유형별 접근법을 익히고 매일 2~3개 지문을 읽으세요.
+영어 독해 정복의 핵심은 체계적인 전략과 꾸준한 연습입니다. 유형별 접근법을 익히고 매일 2-3개 지문을 읽으세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

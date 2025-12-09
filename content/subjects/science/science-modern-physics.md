@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 ---
 
 ## 상대성이론과 양자역학이 추상적이고 이해하기 어렵다고요? 고전물리의 한계부터 시작하면 됩니다.

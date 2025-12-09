@@ -12,7 +12,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 ---
 
 ## 중학교 내신은 수능에 직접 안 들어가는데, 왜 중요한가요?
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=
 
 **Q. 중등 과외 주 몇 회가 적당한가요?**
 
-주 1~2회가 일반적입니다. 시험 기간에는 늘리고, 평소에는 유지하면 됩니다.
+주 1-2회가 일반적입니다. 시험 기간에는 늘리고, 평소에는 유지하면 됩니다.
 
 **Q. 선행은 얼마나 해야 하나요?**
 

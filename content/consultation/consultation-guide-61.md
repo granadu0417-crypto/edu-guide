@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0085_SrJuOjX2qso.jpg"
 ---
 
 ## 공부는 하는데 어디로 가는지 모르겠어요. 뭘 해야 하는지, 어떤 순서로 해야 하는지 막막합니다.

@@ -18,7 +18,7 @@ tags:
   - 당산중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0285_kHWqxJXkEio.jpg"
 
 ---
 ## 영등포구 당산2동 중학생, 독해 속도가 느리다면

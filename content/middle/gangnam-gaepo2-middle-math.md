@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 개포주거단지
-featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0595_Os3OAZ30Og0.jpg"
 
 ---
 ## 강남구 개포2동 중학생, 수학 인수분해가 안 된다면
@@ -80,9 +80,9 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -95,7 +95,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 
 **Q. 인수분해 공식이 너무 많아요.**
 
-기본 공식 4~5개를 완벽히 익히세요. 공통인수, 완전제곱식, 합차 공식, x²+(a+b)x+ab 형태만 확실히 해도 대부분 풀 수 있습니다.
+기본 공식 4-5개를 완벽히 익히세요. 공통인수, 완전제곱식, 합차 공식, x²+(a+b)x+ab 형태만 확실히 해도 대부분 풀 수 있습니다.
 
 **Q. 어떤 공식을 적용해야 할지 모르겠어요.**
 

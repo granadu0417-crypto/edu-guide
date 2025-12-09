@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0965_z1d-LP8sjuI.jpg"
 ---
 
 ## 과외를 받는데 성적이 안 올라요. 뭐가 문제일까요? 돈만 쓰고 있는 것 같아요.

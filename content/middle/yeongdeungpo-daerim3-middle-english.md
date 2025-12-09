@@ -19,7 +19,7 @@ tags:
   - 영남중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0281_F8DmZwGFPwo.jpg"
 
 ---
 ## 영등포구 대림3동 중학생, 혼자 공부가 어렵다면

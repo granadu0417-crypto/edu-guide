@@ -13,7 +13,7 @@ tags:
 - 발음
 - 자신감
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 ---
 
 ## 영어로 말하려고 하면 긴장된다고요? 문법은 아는데 막상 말이 안 나온다고요.
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=
 
 ## 실전 회화 연습
 
-자기소개부터 시작하세요. 이름, 학년, 취미를 2~3문장으로 말합니다. 일상 대화는 인사, 날씨, 감사 표현을 연습합니다. 학교생활 관련 표현도 익히세요. 반복해서 연습하면 자연스럽게 나옵니다.
+자기소개부터 시작하세요. 이름, 학년, 취미를 2-3문장으로 말합니다. 일상 대화는 인사, 날씨, 감사 표현을 연습합니다. 학교생활 관련 표현도 익히세요. 반복해서 연습하면 자연스럽게 나옵니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=
 
 **Q. 말하기 자신감이 생기는 데 얼마나 걸리나요?**
 
-일반적으로 2~3개월이면 변화를 느낍니다. 꾸준함과 적극적인 참여가 중요합니다.
+일반적으로 2-3개월이면 변화를 느낍니다. 꾸준함과 적극적인 참여가 중요합니다.
 
 **Q. 발음이 안 좋은데 회화가 가능한가요?**
 

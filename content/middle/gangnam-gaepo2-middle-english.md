@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 개포주거단지
-featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0594_ecELcxmJTk4.jpg"
 
 ---
 ## 강남구 개포2동 중학생, 영어 to부정사 용법이 헷갈린다면
@@ -71,7 +71,7 @@ to부정사는 문장에서의 역할을 이해하는 것이 핵심입니다. �
 
 중2는 to부정사가 본격적으로 등장하는 시기입니다. 세 가지 용법을 구분하는 방법을 배웁니다. to부정사를 사용한 문장을 쓰는 연습을 합니다.
 
-중3은 고급 to부정사 표현을 익히는 시기입니다. too~to, enough to, seem to 등 관용 표현을 배웁니다. 고등학교 영어 문법을 미리 경험합니다.
+중3은 고급 to부정사 표현을 익히는 시기입니다. too-to, enough to, seem to 등 관용 표현을 배웁니다. 고등학교 영어 문법을 미리 경험합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -80,9 +80,9 @@ to부정사는 문장에서의 역할을 이해하는 것이 핵심입니다. �
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

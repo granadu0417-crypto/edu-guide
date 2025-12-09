@@ -10,7 +10,7 @@ tags:
 - DNA
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0590_HjxXBQ4MKD8.jpg"
 ---
 
 ## DNA가 복잡하고 유전자 발현이 이해가 안 된다고요? 구조부터 차근차근 정리하면 됩니다.

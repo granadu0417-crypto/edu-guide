@@ -19,12 +19,12 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0855_eeGPD_ESYMA.jpg"
 
 ---
 ## 중구 약수동 중학생, 영어 관계대명사 what이 어렵다면
 
-What he said is true에서 what이 왜 "~한 것"으로 해석되는지, which와 어떻게 다른지 모르겠나요? 약수동은 약수터가 있던 것에서 이름이 유래한 역사적인 동네입니다. 약수역을 통해 교통이 편리하고 장충중, 대경중, 장원중 학생들이 열심히 영어 실력을 키우고 있습니다.
+What he said is true에서 what이 왜 "-한 것"으로 해석되는지, which와 어떻게 다른지 모르겠나요? 약수동은 약수터가 있던 것에서 이름이 유래한 역사적인 동네입니다. 약수역을 통해 교통이 편리하고 장충중, 대경중, 장원중 학생들이 열심히 영어 실력을 키우고 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -81,9 +81,9 @@ what절이 문장에서 어떤 역할을 하는지 분석합니다. what을 the 
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -98,9 +98,9 @@ what절이 문장에서 어떤 역할을 하는지 분석합니다. what을 the 
 
 which 앞에는 선행사가 있고, what은 선행사를 포함합니다. the book which I read vs what I read (내가 읽은 것)
 
-**Q. what이 항상 "~한 것"으로 해석되나요?**
+**Q. what이 항상 "-한 것"으로 해석되나요?**
 
-명사절을 이끌 때 "~한 것/~하는 것"으로 해석됩니다. 의문사로 쓰이면 "무엇"입니다. 문맥으로 구분합니다.
+명사절을 이끌 때 "-한 것/-하는 것"으로 해석됩니다. 의문사로 쓰이면 "무엇"입니다. 문맥으로 구분합니다.
 
 **Q. what절은 문장에서 어떤 역할을 하나요?**
 

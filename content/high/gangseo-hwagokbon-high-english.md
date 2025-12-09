@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0484_e3R4lxISkeA.jpg"
 ---
 
 영어 단어는 열심히 외우는데, 독해가 안 되시나요?
@@ -83,7 +83,7 @@ featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=
 
 ### 듣기 유지
 
-수능 듣기 비중이 큽니다. 매일 10~15분이라도 영어를 들어서 감을 유지하세요.
+수능 듣기 비중이 큽니다. 매일 10-15분이라도 영어를 들어서 감을 유지하세요.
 
 ## 학년별 학습 전략
 
@@ -110,9 +110,9 @@ featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=
 
 화곡본동 고등 영어과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 52만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 28만원에서 38만원, 주2회 기준 45만원에서 62만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

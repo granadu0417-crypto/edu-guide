@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0716_tgANYv9U10Q.jpg"
 ---
 
 풀이 시간이 자꾸 오래 걸린다면? 빠른 풀이 전략 훈련이 필요합니다.
@@ -38,7 +38,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 ### 내신 수학의 치열한 경쟁
 
-고등학교 내신은 1~2문제로 등급이 결정됩니다. 상위권 변별 문제, 시간 부족하게 출제되는 시험, 계산 실수 유발 문제, 복합 개념 응용 문제 등 100점 맞기가 매우 어렵습니다.
+고등학교 내신은 1-2문제로 등급이 결정됩니다. 상위권 변별 문제, 시간 부족하게 출제되는 시험, 계산 실수 유발 문제, 복합 개념 응용 문제 등 100점 맞기가 매우 어렵습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -130,9 +130,9 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 창신2동 고등 수학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 25만원에서 35만원, 주2회 기준 42만원에서 58만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 30만원에서 42만원, 주2회 기준 50만원에서 70만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -147,7 +147,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 **Q. 내신과 수능 중 어떤 것을 먼저 준비해야 하나요?**
 
-고1~2는 내신 위주로, 고3은 내신과 수능을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능 개념과 기출 분석에 집중합니다.
+고1-2는 내신 위주로, 고3은 내신과 수능을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능 개념과 기출 분석에 집중합니다.
 
 **Q. 학원과 과외 중 어떤 것이 좋나요?**
 

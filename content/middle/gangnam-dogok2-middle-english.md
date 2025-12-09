@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 도곡타워팰리스
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0590_HjxXBQ4MKD8.jpg"
 
 ---
 ## 강남구 도곡2동 중학생, 영어 접속사가 헷갈린다면
@@ -80,9 +80,9 @@ and, but, so는 알겠는데 when, if, because가 나오면 문장이 안 읽히
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -99,7 +99,7 @@ and, but, so는 알겠는데 when, if, because가 나오면 문장이 안 읽히
 
 **Q. when과 if 중 뭘 써야 할지 모르겠어요.**
 
-when은 시간, if는 조건입니다. 문맥에서 "~할 때"인지 "~한다면"인지 파악하면 구분할 수 있습니다.
+when은 시간, if는 조건입니다. 문맥에서 "-할 때"인지 "-한다면"인지 파악하면 구분할 수 있습니다.
 
 **Q. 접속사가 들어간 문장이 길어지면 해석이 안 돼요.**
 

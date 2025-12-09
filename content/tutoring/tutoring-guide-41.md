@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 ---
 
 ## 처음 과외를 시작하는데 뭐부터 해야 할지 모르겠어요. 어디서부터 시작하나요?
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 **Q. 과외를 시작하면 바로 효과가 나나요?**
 
-보통 1~2개월 후부터 변화가 보입니다. 처음에는 기초를 잡는 시간이 필요합니다. 너무 급하게 결과를 기대하면 실망합니다.
+보통 1-2개월 후부터 변화가 보입니다. 처음에는 기초를 잡는 시간이 필요합니다. 너무 급하게 결과를 기대하면 실망합니다.
 
 **Q. 주 몇 회가 적당한가요?**
 

@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 초등 영어 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 검증된 선생님과 함께하는 1:1 맞춤 학습으로 실력을 향상시키세요.
 
-featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0874_ixyelAnYEMU.jpg"
 reading_time: 160줄
 ---
 
@@ -93,7 +93,7 @@ reading_time: 160줄
 
 **Q. 주 몇 회가 적당한가요?**
 
-주 2~3회가 적당합니다. 매일 조금씩 영어에 노출되는 게 좋습니다.
+주 2-3회가 적당합니다. 매일 조금씩 영어에 노출되는 게 좋습니다.
 
 ## 마무리
 

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 학습 전략 완벽 수립 가이드 | 목표 설정, 시간 관리, 내신·수능 통합 전략, 학년별 맞춤 플랜 [2025년]"
 tags: ["학습전략", "학습계획", "시간관리", "내신전략", "수능전략", "비교과전략", "목표설정", "고등학생"]
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 ---
 
 ## 열심히 공부하는데 성적이 안 올라요. 하루 종일 책상에 앉아 있는데 왜 실력이 안 느나요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 {{< cta-dual type="final" >}}
 
-집중 블록과 분산 블록을 나누세요. 어려운 과목은 2~3시간 집중해서 공부하고 암기 과목은 30분~1시간씩 분산해서 학습하세요. 스마트폰은 공부 중 비행기 모드로 설정하세요.
+집중 블록과 분산 블록을 나누세요. 어려운 과목은 2-3시간 집중해서 공부하고 암기 과목은 30분-1시간씩 분산해서 학습하세요. 스마트폰은 공부 중 비행기 모드로 설정하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -44,9 +44,9 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 ## 내신과 수능 통합 전략
 
-고1~고2 1학기는 내신 70% 수능 30%로 배분하세요. 내신 공부가 수능 기초가 됩니다. 고2 여름방학부터는 균형을 맞추고 고3 2학기는 수능에 집중하세요.
+고1-고2 1학기는 내신 70% 수능 30%로 배분하세요. 내신 공부가 수능 기초가 됩니다. 고2 여름방학부터는 균형을 맞추고 고3 2학기는 수능에 집중하세요.
 
-내신 기간에도 수능 감을 잃지 않도록 매일 1~2시간은 수능 공부를 하세요. 시험 직후에는 바로 수능 모드로 전환해야 합니다.
+내신 기간에도 수능 감을 잃지 않도록 매일 1-2시간은 수능 공부를 하세요. 시험 직후에는 바로 수능 모드로 전환해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 **Q. 약점 과목과 강점 과목 중 어디에 시간을 더 투자해야 하나요?**
 
-등급 향상 여지가 큰 쪽에 투자하세요. 일반적으로 3~4등급 약점 과목을 2등급으로 올리는 것이 1등급 강점 과목을 유지하는 것보다 효과적입니다.
+등급 향상 여지가 큰 쪽에 투자하세요. 일반적으로 3-4등급 약점 과목을 2등급으로 올리는 것이 1등급 강점 과목을 유지하는 것보다 효과적입니다.
 
 **Q. 계획을 세워도 실천이 안 됩니다.**
 

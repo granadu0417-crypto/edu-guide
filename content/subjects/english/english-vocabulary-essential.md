@@ -14,7 +14,7 @@ tags:
 - vocabulary
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0422_1T3Ng46czSw.jpg"
 ---
 
 ## 단어를 외워도 자꾸 까먹는다고요? 암기법이 문제입니다.

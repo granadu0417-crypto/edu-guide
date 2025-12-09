@@ -13,7 +13,7 @@ tags:
 - 논리
 - 연결어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0412_BlIhVfXbi9s.jpg"
 ---
 
 ## 문장 순서를 어떻게 맞춰야 할지 모르겠다고요? 시간이 너무 오래 걸린다고요.

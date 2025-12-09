@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 ---
 ## 공부는 하는데 성적이 안 오른다면, 습관이 문제입니다
 
@@ -114,7 +114,7 @@ featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=
 
 **Q. 공부 시간은 얼마나 해야 하나요?**
 
-고1은 하루 3~4시간이면 충분합니다. 중요한 건 시간보다 집중도입니다.
+고1은 하루 3-4시간이면 충분합니다. 중요한 건 시간보다 집중도입니다.
 
 ## 마무리
 

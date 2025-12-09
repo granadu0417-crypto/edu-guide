@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 천호대교
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0211__1gBVgy8gIU.jpg"
 
 ---
 ## 송파구 풍납1동 중학생, 영어 비교급과 최상급 표현이 헷갈린다면
@@ -79,9 +79,9 @@ taller than과 as tall as의 차이는 뭔지, more beautiful과 beautifuler 중
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -100,9 +100,9 @@ taller than과 as tall as의 차이는 뭔지, more beautiful과 beautifuler 중
 
 아니요, 비교급 앞에는 much, even, still, far 등을 씁니다. very는 원급 앞에 씁니다.
 
-**Q. as ~ as 구문은 뭔가요?**
+**Q. as - as 구문은 뭔가요?**
 
-"~만큼 ~하다"라는 동등 비교입니다. as tall as는 "~만큼 키가 크다"입니다.
+"-만큼 -하다"라는 동등 비교입니다. as tall as는 "-만큼 키가 크다"입니다.
 
 ## 마무리
 

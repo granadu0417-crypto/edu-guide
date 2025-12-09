@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0108_AsPbtcPqgfY.jpg"
 ---
 ## 6학년 2학기, 중학교 예습을 시작할 타이밍입니다
 

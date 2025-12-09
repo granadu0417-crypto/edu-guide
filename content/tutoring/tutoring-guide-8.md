@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_1000_SqS3dho7PIU.jpg"
 ---
 
 ## 사회는 외울 게 너무 많아요. 다 외웠는데 시험 때 헷갈려요. 효율적으로 공부하는 방법이 있나요?
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-사회는 주 1~2회로도 충분합니다. 대신 수업 사이에 복습과 암기를 꾸준히 해야 합니다.
+사회는 주 1-2회로도 충분합니다. 대신 수업 사이에 복습과 암기를 꾸준히 해야 합니다.
 
 **Q. 사회도 기출문제를 풀어야 하나요?**
 

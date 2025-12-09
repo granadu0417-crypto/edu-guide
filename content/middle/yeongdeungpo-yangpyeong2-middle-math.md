@@ -19,7 +19,7 @@ tags:
   - 양화중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0306_usdlEYpKueY.jpg"
 
 ---
 ## 영등포구 양평2동 중학생, 서술형 대비가 필요하다면

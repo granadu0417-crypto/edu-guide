@@ -11,7 +11,7 @@ tags:
 - 중심내용
 - 주제파악
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0467_1ixT36dfuSQ.jpg"
 ---
 
 ## 글의 요지를 찾는 게 어렵다고요? 중심 문장을 찾는 방법이 있습니다.

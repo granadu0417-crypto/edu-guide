@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 ---
 ## 강동구 길동 중학생, 영어 조동사 will, can, may가 헷갈린다면
 
@@ -78,9 +78,9 @@ can과 may의 차이, will과 be going to의 차이가 뭔지 모르겠나요? �
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -93,7 +93,7 @@ can과 may의 차이, will과 be going to의 차이가 뭔지 모르겠나요? �
 
 **Q. can과 may의 차이는 뭔가요?**
 
-can은 '~할 수 있다'(능력), '~해도 된다'(허락), may는 '~해도 좋다'(허락), '~일지도 모른다'(추측)의 의미입니다. 허락의 의미로 쓸 때 may가 더 격식체입니다.
+can은 '-할 수 있다'(능력), '-해도 된다'(허락), may는 '-해도 좋다'(허락), '-일지도 모른다'(추측)의 의미입니다. 허락의 의미로 쓸 때 may가 더 격식체입니다.
 
 **Q. will과 be going to의 차이는 뭔가요?**
 

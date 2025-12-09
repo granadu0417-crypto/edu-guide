@@ -15,7 +15,7 @@ tags:
 - 중2학년
 - 중등교육
 - 중학교
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0927_iMfG5py52LA.jpg"
 ---
 ## 일반고, 자사고, 특목고 중에 어디가 좋을까요?
 

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 신일고
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 ---
 
 수학 문제를 풀 때 어디서부터 손을 대야 할지 막막하신가요?
@@ -139,9 +139,9 @@ featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=
 
 송중동 고등 수학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 25만원에서 35만원, 주2회 기준 42만원에서 58만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 30만원에서 42만원, 주2회 기준 50만원에서 70만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -168,7 +168,7 @@ featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=
 
 **Q. 시험 기간에 수업을 늘릴 수 있나요?**
 
-물론입니다. 시험 2~3주 전부터 수업 횟수를 늘려 집중적으로 대비하는 학생들이 많습니다. 시험 일정에 맞춰 유연하게 조정 가능합니다.
+물론입니다. 시험 2-3주 전부터 수업 횟수를 늘려 집중적으로 대비하는 학생들이 많습니다. 시험 일정에 맞춰 유연하게 조정 가능합니다.
 
 ## 송중동에서 수학 과외를 찾고 계신다면
 

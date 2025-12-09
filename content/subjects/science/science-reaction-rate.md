@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 ---
 
 ## 반응 속도 그래프 해석이 어렵고 촉매 작용이 헷갈린다고요? 충돌 이론부터 이해하면 됩니다.

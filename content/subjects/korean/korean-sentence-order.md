@@ -10,7 +10,7 @@ tags:
 - 순서배열
 - 논리흐름
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0491_zcZRmq775OY.jpg"
 ---
 
 ## 순서 배열 문제에서 시간만 날리고 있다고요? 논리의 흐름을 찾는 방법이 있습니다.

@@ -14,7 +14,7 @@ tags:
 - prefix
 - suffix
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0427_hhUx08PuYpc.jpg"
 ---
 
 ## 단어가 너무 많아서 끝이 없다고요? 어근을 알면 한 번에 여러 개를 외울 수 있습니다.
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 ## 핵심 어근 예시
 
-port는 운반입니다. transport는 건너서 운반, export는 밖으로 운반, import는 안으로 운반입니다. spect는 보다입니다. inspect는 안을 보다, respect는 다시 보다, suspect는 아래서 보다입니다. 어근 하나로 5~10개 단어를 한 번에 외울 수 있습니다.
+port는 운반입니다. transport는 건너서 운반, export는 밖으로 운반, import는 안으로 운반입니다. spect는 보다입니다. inspect는 안을 보다, respect는 다시 보다, suspect는 아래서 보다입니다. 어근 하나로 5-10개 단어를 한 번에 외울 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -48,7 +48,7 @@ un-, in-, dis-는 부정입니다. happy가 unhappy로, possible이 impossible�
 
 ## 모르는 단어 유추하기
 
-spectator를 몰라도 spect가 보다, -ator가 ~하는 사람이란 걸 알면 관중이라고 추측할 수 있습니다. 어근을 알면 시험에서 모르는 단어가 나와도 당황하지 않습니다. 유추 능력이 생기면 독해 실력도 함께 올라갑니다.
+spectator를 몰라도 spect가 보다, -ator가 -하는 사람이란 걸 알면 관중이라고 추측할 수 있습니다. 어근을 알면 시험에서 모르는 단어가 나와도 당황하지 않습니다. 유추 능력이 생기면 독해 실력도 함께 올라갑니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -57,7 +57,7 @@ spectator를 몰라도 spect가 보다, -ator가 ~하는 사람이란 걸 알면
 
 ## 학습 순서
 
-처음에는 쉬운 어근 10개부터 시작하세요. act, port, dict 같은 것부터 익히세요. 중급은 spect, struct, form을, 고급은 rupt, tract, pend를 배우세요. 하루 2~3개씩 한 달이면 50개를 마스터할 수 있습니다.
+처음에는 쉬운 어근 10개부터 시작하세요. act, port, dict 같은 것부터 익히세요. 중급은 spect, struct, form을, 고급은 rupt, tract, pend를 배우세요. 하루 2-3개씩 한 달이면 50개를 마스터할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -72,7 +72,7 @@ spectator를 몰라도 spect가 보다, -ator가 ~하는 사람이란 걸 알면
 
 **Q. 어근으로 모든 단어를 설명할 수 있나요?**
 
-아니요, 약 60~70%만 가능합니다. 기본 단어는 그냥 외워야 합니다.
+아니요, 약 60-70%만 가능합니다. 기본 단어는 그냥 외워야 합니다.
 
 **Q. 어근을 먼저 외워야 하나요?**
 
@@ -80,7 +80,7 @@ spectator를 몰라도 spect가 보다, -ator가 ~하는 사람이란 걸 알면
 
 ## 마무리
 
-어근은 영어 단어 정복의 마스터 키입니다. 핵심 어근 50개만 완벽히 익히면 수백 개 단어를 쉽게 외울 수 있습니다. 하루 2~3개씩 꾸준히 학습하세요.
+어근은 영어 단어 정복의 마스터 키입니다. 핵심 어근 50개만 완벽히 익히면 수백 개 단어를 쉽게 외울 수 있습니다. 하루 2-3개씩 꾸준히 학습하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

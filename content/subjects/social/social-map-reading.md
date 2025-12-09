@@ -16,7 +16,7 @@ tags:
 - 지리과외
 - 등고선
 - 사회
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0686_BlCJi8walFQ.jpg"
 ---
 
 ## 등고선과 축척이 어렵고 지도 기호가 복잡하다고요? 지도의 기본 요소부터 익히면 됩니다.

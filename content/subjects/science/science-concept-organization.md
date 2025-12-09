@@ -1,5 +1,5 @@
 ---
-title: 과학 개념 정리 완벽 정리 | 암기~이해 2025 완벽 가이드 - 성공적인 전략과 노하우
+title: 과학 개념 정리 완벽 정리 | 암기-이해 2025 완벽 가이드 - 성공적인 전략과 노하우
 date: 2025-01-26
 reading_time: 160줄
 description: 과학 개념을 체계적으로 정리하는 완벽한 방법을 소개합니다.
@@ -10,7 +10,7 @@ tags:
 - 과학공부법
 - 개념정리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0587_uSoXP5XLC8g.jpg"
 ---
 
 ## 과학 개념이 정리가 안 되고 시험 때마다 새로운 것 같다고요? 체계적인 정리 방법이 있습니다.

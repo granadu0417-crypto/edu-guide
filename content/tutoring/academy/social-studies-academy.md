@@ -14,7 +14,7 @@ tags:
 - 그룹학습
 description: 사회탐구 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 전문 강사진과 함께하는 체계적인 학습으로 실력을 키우세요.
 
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0777_LJ2ksdahQZ8.jpg"
 reading_time: 160줄
 ---
 
@@ -103,7 +103,7 @@ reading_time: 160줄
 
 **Q. 사탐 공부 시간은 얼마나?**
 
-하루 1~2시간이면 충분합니다. 국수영보다 적게 투자하고, 효율적으로 공부하세요.
+하루 1-2시간이면 충분합니다. 국수영보다 적게 투자하고, 효율적으로 공부하세요.
 
 **Q. 과외가 꼭 필요한가요?**
 

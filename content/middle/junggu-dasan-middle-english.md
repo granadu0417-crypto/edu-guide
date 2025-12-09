@@ -19,7 +19,7 @@ tags:
 - 장충중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0829_XxlZrSiPwpU.jpg"
 
 ---
 ## 중구 다산동 중학생, 영어 가주어 it 구문이 어렵다면
@@ -28,7 +28,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 가주어 it 구문의 이해 수준을 진단합니다. It ~ to 구문, It ~ that 구문, 진주어 파악을 체계적으로 훈련합니다.
+첫 수업에서 가주어 it 구문의 이해 수준을 진단합니다. It - to 구문, It - that 구문, 진주어 파악을 체계적으로 훈련합니다.
 </div>
 
 ## 가주어 it 구문이 어려운 이유
@@ -70,7 +70,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 중1은 기본 문장 구조를 배우는 시기입니다. 주어, 동사, 목적어, 보어의 위치를 익힙니다. 가주어를 배우기 전 기초를 다집니다.
 
-중2는 가주어 it 구문을 배우기 시작하는 시기입니다. It ~ to 구문, It ~ that 구문을 익힙니다. 다양한 표현을 연습합니다.
+중2는 가주어 it 구문을 배우기 시작하는 시기입니다. It - to 구문, It - that 구문을 익힙니다. 다양한 표현을 연습합니다.
 
 중3은 it 구문을 완성하는 시기입니다. 가목적어 it, 강조 구문과의 구별을 익힙니다. 고등학교 영어 문법을 미리 경험합니다.
 
@@ -81,9 +81,9 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -98,7 +98,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 가주어 it 뒤에는 to부정사나 that절(진주어)이 있습니다. 대명사 it은 앞에 나온 명사를 가리킵니다.
 
-**Q. It ~ to 구문 예시를 알려주세요.**
+**Q. It - to 구문 예시를 알려주세요.**
 
 It is easy to learn English. (영어를 배우는 것은 쉽다) 여기서 진주어는 to learn English입니다.
 

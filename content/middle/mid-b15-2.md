@@ -14,7 +14,7 @@ tags:
 - 중전학년
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 ---
 ## 학원 없으면 공부를 못하는 아이, 걱정되시죠?
 
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 주간 단위로 계획을 세우세요. 이번 주에 해야 할 일을 정하고 요일별로 나눕니다. 매일 할 양이 너무 많지 않게 적절히 배분합니다.
 
-계획은 구체적으로 적어야 합니다. 수학 공부하기 대신 수학 문제집 20~25페이지 풀기처럼 적습니다. 구체적이어야 했는지 안 했는지 알 수 있습니다.
+계획은 구체적으로 적어야 합니다. 수학 공부하기 대신 수학 문제집 20-25페이지 풀기처럼 적습니다. 구체적이어야 했는지 안 했는지 알 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

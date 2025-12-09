@@ -19,7 +19,7 @@ tags:
 - 영어문법
 - 영어독해
 - 수서교통요지
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 
 ---
 ## 강남구 수서동 중학생, 영어 분사 구문이 복잡하다면
@@ -79,9 +79,9 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -98,7 +98,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 **Q. 분사 구문의 의미를 어떻게 구분하나요?**
 
-문맥에서 판단합니다. '~하면서'(동시동작), '~하므로'(이유), '~했을 때'(시간) 등 여러 의미가 가능하므로 앞뒤 문맥을 보고 결정합니다.
+문맥에서 판단합니다. '-하면서'(동시동작), '-하므로'(이유), '-했을 때'(시간) 등 여러 의미가 가능하므로 앞뒤 문맥을 보고 결정합니다.
 
 **Q. Being이나 Having been은 왜 생략되나요?**
 

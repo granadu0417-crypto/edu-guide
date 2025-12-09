@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 ---
 ## 고1 때부터 비교과 해야 한다는데, 뭘 어디서부터 시작해야 하나요?
 
@@ -110,7 +110,7 @@ featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=
 
 **Q. 비교과 활동은 몇 개가 적당한가요?**
 
-개수보다 깊이입니다. 2~3개를 깊이 있게 하는 게 많이 하는 것보다 낫습니다.
+개수보다 깊이입니다. 2-3개를 깊이 있게 하는 게 많이 하는 것보다 낫습니다.
 
 ## 마무리
 

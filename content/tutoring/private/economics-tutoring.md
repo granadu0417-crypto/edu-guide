@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 경제 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0873_jBSTNenQxok.jpg"
 reading_time: 160줄
 ---
 
@@ -89,7 +89,7 @@ reading_time: 160줄
 
 **Q. 과외는 주 몇 회가 좋나요?**
 
-주 1~2회가 적당합니다. 나머지 시간에 복습과 문제 풀이를 혼자 해야 합니다.
+주 1-2회가 적당합니다. 나머지 시간에 복습과 문제 풀이를 혼자 해야 합니다.
 
 **Q. 경제 기초가 없어도 되나요?**
 

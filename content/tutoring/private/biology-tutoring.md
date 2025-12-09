@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 생명과학 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 맞춤형 커리큘럼과 체계적인 학습 관리로 목표를 달성하세요.
 
-featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0865_WnTlsTV1mVE.jpg"
 reading_time: 160줄
 ---
 
@@ -95,7 +95,7 @@ reading_time: 160줄
 
 **Q. 과외는 주 몇 회가 좋나요?**
 
-주 1~2회가 적당합니다. 나머지 시간에 복습과 문제 풀이를 혼자 해야 합니다.
+주 1-2회가 적당합니다. 나머지 시간에 복습과 문제 풀이를 혼자 해야 합니다.
 
 ## 마무리
 

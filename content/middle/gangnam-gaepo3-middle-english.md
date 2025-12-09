@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 개포주거단지
-featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0596_yCNVmUwMcjg.jpg"
 
 ---
 ## 강남구 개포3동 중학생, 영어 분사가 형용사인지 동사인지 헷갈린다면
@@ -80,9 +80,9 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -95,7 +95,7 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 **Q. 현재분사와 과거분사 중 뭘 써야 할지 모르겠어요.**
 
-수식받는 명사가 ~하는 것이면 현재분사, ~당하는 것이면 과거분사입니다. 능동과 수동의 관계를 생각하세요.
+수식받는 명사가 -하는 것이면 현재분사, -당하는 것이면 과거분사입니다. 능동과 수동의 관계를 생각하세요.
 
 **Q. interesting과 interested는 어떻게 다른가요?**
 

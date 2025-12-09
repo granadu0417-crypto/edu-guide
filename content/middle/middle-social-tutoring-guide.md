@@ -11,7 +11,7 @@ tags:
 - 내신사회
 - 역사
 - 지리
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 ---
 ## 외운 건 많은데 시험만 보면 다 헷갈린다고요?
 

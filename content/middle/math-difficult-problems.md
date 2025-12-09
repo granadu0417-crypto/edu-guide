@@ -20,7 +20,7 @@ tags:
 - 시험대비
 - 학원
 - 과외
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0922_OmCH8sh_UcM.jpg"
 description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 내신 시험 준비 전략을 마스터하세요. 학교 적응부터 공부 방법까지, 성공적인
   중학 생활을 위한 완벽 가이드를 제공합니다 중학생 내신 관리부터 자기주도 학습 능력 향상까지 단계별 학습 전략을 안내합니다. 학년별 특성에 맞는
   구체적인 학습 방법을 제시합니다.

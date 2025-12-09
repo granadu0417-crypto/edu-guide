@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0173_yioua5jPPjc.jpg"
 ---
 ## 외울 게 너무 많은데 다 까먹어요. 암기 잘하는 방법 없나요?
 

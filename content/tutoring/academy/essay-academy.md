@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 논술 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 학년별 맞춤 커리큘럼과 체계적인 관리 시스템을 소개합니다.
 
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0736_C5i_aEPKlbA.jpg"
 reading_time: 160줄
 ---
 
@@ -97,7 +97,7 @@ reading_time: 160줄
 
 **Q. 대학별로 준비해야 하나요?**
 
-네, 대학마다 논술 유형이 다릅니다. 목표 대학 2~3개를 정하고 집중적으로 준비하세요.
+네, 대학마다 논술 유형이 다릅니다. 목표 대학 2-3개를 정하고 집중적으로 준비하세요.
 
 **Q. 첨삭을 많이 받으면 되나요?**
 

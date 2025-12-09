@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 시험준비
-featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 ---
 ## 고2인데 입시 준비를 아직 안 했어요. 너무 늦은 건 아니겠죠?
 

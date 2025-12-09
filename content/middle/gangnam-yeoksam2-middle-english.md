@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 역삼IT금융
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0620_nzhG0jElDfs.jpg"
 
 ---
 ## 강남구 역삼2동 중학생, 영어 현재완료 시제가 헷갈린다면
@@ -80,9 +80,9 @@ have p.p.가 과거인지 현재인지 구분이 안 되나요? 역삼2동은 �
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

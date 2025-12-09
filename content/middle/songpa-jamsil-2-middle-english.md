@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 
 ---
 ## 송파구 잠실2동 중학생, 영어 원급·비교급·최상급 쓰임이 헷갈린다면
@@ -56,7 +56,7 @@ as tall as, taller than, the tallest가 각각 언제 쓰이는지, more를 붙�
 
 ## 1:1 영어 과외의 강점
 
-학원에서는 규칙만 빠르게 알려줍니다. 하지만 비교급 강조 표현(much, even, far)이나 배수 표현(twice as ~ as)을 이해하지 못하면 계속 틀립니다. 1:1 과외는 학생이 비교 표현의 원리를 이해하도록 돕습니다.
+학원에서는 규칙만 빠르게 알려줍니다. 하지만 비교급 강조 표현(much, even, far)이나 배수 표현(twice as - as)을 이해하지 못하면 계속 틀립니다. 1:1 과외는 학생이 비교 표현의 원리를 이해하도록 돕습니다.
 
 비교 표현은 고등학교 영어에서도 핵심 문법입니다. 과외에서는 학생이 비교 표현을 정확히 사용하고 해석하는 연습을 합니다.
 
@@ -80,9 +80,9 @@ as tall as, taller than, the tallest가 각각 언제 쓰이는지, more를 붙�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -103,7 +103,7 @@ good-better-best, bad-worse-worst, many/much-more-most 등이 있습니다.
 
 **Q. 원급 비교는 어떻게 쓰나요?**
 
-as + 원급 + as 형태로 씁니다. "as tall as"는 "~만큼 키가 큰"이라는 뜻입니다.
+as + 원급 + as 형태로 씁니다. "as tall as"는 "-만큼 키가 큰"이라는 뜻입니다.
 
 ## 마무리
 

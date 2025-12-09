@@ -20,12 +20,12 @@ tags:
   - 영어문법
   - 영어독해
   - 잠실새내역
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0187_xHoqN_vAYR0.jpg"
 
 ---
-## 송파구 잠실3동 중학생, 영어 It~that 강조구문이 헷갈린다면
+## 송파구 잠실3동 중학생, 영어 It-that 강조구문이 헷갈린다면
 
-It was Tom that broke the window에서 It~that은 왜 쓰는지, 가주어 It과 강조구문 It은 어떻게 다른지 모르겠나요? 잠실3동은 2호선 잠실새내역 인근의 주거 중심 지역입니다. 올림픽공원과 가까운 쾌적한 환경에서 잠실중, 신천중 학생들이 꾸준히 영어 실력을 키우고 있습니다.
+It was Tom that broke the window에서 It-that은 왜 쓰는지, 가주어 It과 강조구문 It은 어떻게 다른지 모르겠나요? 잠실3동은 2호선 잠실새내역 인근의 주거 중심 지역입니다. 올림픽공원과 가까운 쾌적한 환경에서 잠실중, 신천중 학생들이 꾸준히 영어 실력을 키우고 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -34,13 +34,13 @@ It was Tom that broke the window에서 It~that은 왜 쓰는지, 가주어 It과
 
 ## 강조구문이 어려운 이유
 
-강조구문 It is ~ that은 특정 요소를 강조하는 문장입니다. Tom broke the window에서 Tom을 강조하면 It was Tom that broke the window가 됩니다. 문제는 가주어 It과 구분이 어렵다는 것입니다.
+강조구문 It is - that은 특정 요소를 강조하는 문장입니다. Tom broke the window에서 Tom을 강조하면 It was Tom that broke the window가 됩니다. 문제는 가주어 It과 구분이 어렵다는 것입니다.
 
-강조구문을 구분하려면 It~that을 빼보면 됩니다. 빼도 문장이 완전하면 강조구문, 빼면 문장이 불완전하면 가주어 구문입니다. 이 방법으로 구분합니다.
+강조구문을 구분하려면 It-that을 빼보면 됩니다. 빼도 문장이 완전하면 강조구문, 빼면 문장이 불완전하면 가주어 구문입니다. 이 방법으로 구분합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가주어 구문과 강조구문의 차이를 명확히 이해합니다. It~that 빼기 테스트를 연습합니다.
+가주어 구문과 강조구문의 차이를 명확히 이해합니다. It-that 빼기 테스트를 연습합니다.
 </div>
 
 ## 잠실중·신천중 영어 시험의 특징
@@ -71,7 +71,7 @@ It was Tom that broke the window에서 It~that은 왜 쓰는지, 가주어 It과
 
 중2는 문장 변환을 배우는 시기입니다. 의문문, 부정문, 수동태 변환을 익힙니다. 문장 구조 감각을 키웁니다.
 
-중3은 강조구문을 배우는 시기입니다. It~that 강조구문, 도치 구문을 익힙니다. 고등학교 영어 문법을 미리 경험합니다.
+중3은 강조구문을 배우는 시기입니다. It-that 강조구문, 도치 구문을 익힙니다. 고등학교 영어 문법을 미리 경험합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -80,9 +80,9 @@ It was Tom that broke the window에서 It~that은 왜 쓰는지, 가주어 It과
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -95,7 +95,7 @@ It was Tom that broke the window에서 It~that은 왜 쓰는지, 가주어 It과
 
 **Q. 강조구문과 가주어 구문은 어떻게 구별하나요?**
 
-It~that을 빼보세요. 빼도 문장이 완전하면 강조구문, 불완전하면 가주어 구문입니다.
+It-that을 빼보세요. 빼도 문장이 완전하면 강조구문, 불완전하면 가주어 구문입니다.
 
 **Q. 강조구문에서 that 대신 쓸 수 있는 것은요?**
 

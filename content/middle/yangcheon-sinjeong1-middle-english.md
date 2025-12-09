@@ -18,7 +18,7 @@ tags:
   - 신서중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0251_5DBwlGL4978.jpg"
 
 ---
 ## 양천구 신정1동 중학생, 문법이 헷갈린다면

@@ -15,7 +15,7 @@ tags:
 - 실험기록
 - 과학적사고
 - 과학
-featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0620_nzhG0jElDfs.jpg"
 ---
 
 ## 과학 관찰이 무엇인지 모르겠고 기록 방법이 막막하다고요? 오감 활용부터 시작하면 됩니다.

@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 시험준비
-featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 ---
 ## 면접이 너무 무서워요. 뭘 물어볼지도 모르겠고, 어떻게 대답해야 할지도 모르겠어요
 
@@ -102,7 +102,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=120
 
 **Q. 면접 준비는 언제부터 해야 하나요?**
 
-서류 합격 발표 후 바로 시작하세요. 보통 2~3주 정도 시간이 있습니다. 그 시간을 최대한 활용하세요.
+서류 합격 발표 후 바로 시작하세요. 보통 2-3주 정도 시간이 있습니다. 그 시간을 최대한 활용하세요.
 
 **Q. 압박 면접이 나오면 어떡하나요?**
 

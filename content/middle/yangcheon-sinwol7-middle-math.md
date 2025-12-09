@@ -19,7 +19,7 @@ tags:
   - 양서중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0276_CBztr5_8Hso.jpg"
 
 ---
 ## 양천구 신월7동 중학생, 체계적 학습이 필요하다면

@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 ---
 
 ## 같은 시간 과외받는데 왜 누구는 오르고 누구는 안 오르나요? 뭐가 다른 건가요?
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=
 
 **Q. 효과가 언제부터 나야 정상인가요?**
 
-1~2개월 후부터 변화가 보여야 합니다. 3개월이 지나도 변화가 없으면 점검이 필요합니다.
+1-2개월 후부터 변화가 보여야 합니다. 3개월이 지나도 변화가 없으면 점검이 필요합니다.
 
 **Q. 수업 시간을 늘리면 효과가 커지나요?**
 

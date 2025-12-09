@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0990_S8qw5hyFoo8.jpg"
 ---
 
 ## 온라인 과외로도 집중이 가능한가요? 화상으로 하면 효과가 떨어지지 않나요?

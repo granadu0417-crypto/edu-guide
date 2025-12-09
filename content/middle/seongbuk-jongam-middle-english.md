@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 
 ---
 ## 성북구 종암동 중학생, 시험 점수가 불안정하다면
@@ -117,9 +117,9 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 성북구 종암동 중학생 영어과외 수업료는 다음과 같습니다.
 
-**중1~2**는 주1회 기준 17만원에서 24만원, 주2회 기준 30만원에서 42만원 선입니다.
+**중1-2**는 주1회 기준 17만원 -  24만원, 주2회 기준 30만원 -  42만원 선입니다.
 
-**중3**은 주1회 기준 19만원에서 26만원, 주2회 기준 34만원에서 48만원이 일반적입니다.
+**중3**은 주1회 기준 19만원 -  26만원, 주2회 기준 34만원 -  48만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

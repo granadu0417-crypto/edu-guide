@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 ---
 ## 모의고사 점수랑 실제 수능 점수가 다르다는데, 어떻게 활용해야 하나요?
 
@@ -92,7 +92,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 **Q. 모의고사는 얼마나 자주 봐야 하나요?**
 
-학교에서 치르는 것 외에 혼자서도 한 달에 1~2회 정도 풀어보세요. 실전 감각 유지가 중요합니다.
+학교에서 치르는 것 외에 혼자서도 한 달에 1-2회 정도 풀어보세요. 실전 감각 유지가 중요합니다.
 
 **Q. 오답 분석 어떻게 해요?**
 

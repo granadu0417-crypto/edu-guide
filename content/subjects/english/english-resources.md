@@ -13,12 +13,12 @@ tags:
 - resources
 - 추천
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0408_ecUurQklEtk.jpg"
 ---
 
 ## 어떤 자료로 공부해야 좋을지 모르겠다고요? 자료가 너무 많아서 선택이 어렵다고요.
 
-올바른 자료 선택이 효율적 학습의 시작입니다. 자신의 목적과 레벨에 맞는 자료를 고르고, 2~3개에 집중하세요. 너무 많은 자료는 오히려 독이 됩니다.
+올바른 자료 선택이 효율적 학습의 시작입니다. 자신의 목적과 레벨에 맞는 자료를 고르고, 2-3개에 집중하세요. 너무 많은 자료는 오히려 독이 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -56,7 +56,7 @@ EBS는 수능 중심 무료 강의를 제공합니다. BBC Learning English와 V
 
 ## 자료 활용 전략
 
-한꺼번에 많은 자료를 사지 마세요. 2~3개를 완전히 마스터하는 것이 10개를 조금씩 보는 것보다 낫습니다. 교재는 기본으로, 앱은 보조로, 영상은 재미로 병행하세요. 매일 루틴을 만들어 활용하세요.
+한꺼번에 많은 자료를 사지 마세요. 2-3개를 완전히 마스터하는 것이 10개를 조금씩 보는 것보다 낫습니다. 교재는 기본으로, 앱은 보조로, 영상은 재미로 병행하세요. 매일 루틴을 만들어 활용하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -71,7 +71,7 @@ EBS는 수능 중심 무료 강의를 제공합니다. BBC Learning English와 V
 
 **Q. 자료를 몇 개나 써야 하나요?**
 
-2~3개면 충분합니다. 너무 많으면 오히려 비효율적입니다.
+2-3개면 충분합니다. 너무 많으면 오히려 비효율적입니다.
 
 **Q. 교재는 어떤 것이 좋나요?**
 

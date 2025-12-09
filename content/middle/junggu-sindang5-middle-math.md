@@ -20,7 +20,7 @@ tags:
   - 장원중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0852_FqJXv_wO-GY.jpg"
 
 ---
 ## 중구 신당5동 중학생, 수학 부등식의 해집합이 어렵다면
@@ -82,9 +82,9 @@ x > 3의 해를 수직선에 나타낼 때, 왜 빈 원을 쓰는지, 해집합�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

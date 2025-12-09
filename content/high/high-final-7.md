@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 ---
 ## 탐구 과목을 어떻게 선택해야 할지 모르겠어요. 뭘 골라야 유리한 건가요?
 

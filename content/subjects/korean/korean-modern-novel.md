@@ -11,7 +11,7 @@ tags:
 - 서사구조
 - 소설분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0471_NYHwFg-a9xI.jpg"
 ---
 
 ## 현대소설 지문이 길어서 읽기 힘들다고요? 핵심을 파악하는 방법이 있습니다.

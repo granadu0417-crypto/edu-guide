@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 개포주거단지
-featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0598_HEL6Cx3pDwE.jpg"
 
 ---
 ## 강남구 개포4동 중학생, 영어 동명사와 to부정사 구분이 안 된다면
@@ -80,9 +80,9 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -95,11 +95,11 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 **Q. 동명사만 쓰는 동사와 to부정사만 쓰는 동사를 어떻게 외우나요?**
 
-대표적인 동사 5~10개씩 예문과 함께 외우세요. enjoy -ing, want to처럼 덩어리로 기억하면 효과적입니다.
+대표적인 동사 5-10개씩 예문과 함께 외우세요. enjoy -ing, want to처럼 덩어리로 기억하면 효과적입니다.
 
 **Q. stop -ing와 stop to의 차이가 뭔가요?**
 
-stop -ing는 ~하던 것을 멈추다, stop to는 ~하기 위해 멈추다입니다. 의미가 완전히 다르니 주의하세요.
+stop -ing는 -하던 것을 멈추다, stop to는 -하기 위해 멈추다입니다. 의미가 완전히 다르니 주의하세요.
 
 **Q. like는 둘 다 되는데 차이가 있나요?**
 

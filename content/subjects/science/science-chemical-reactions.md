@@ -10,7 +10,7 @@ tags:
 - 화학 반응
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0582_gjx4NNYyB00.jpg"
 ---
 
 ## 화학 반응식 균형 맞추기가 어렵고 양적 관계가 복잡하다고요? 반응의 원리를 알면 풀립니다.

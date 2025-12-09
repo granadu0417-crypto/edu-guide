@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0992_pXjgGTV-NgE.jpg"
 ---
 
 ## 친구랑 같이 과외받으면 비용도 절반인데, 효과도 절반인가요?
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 **Q. 그룹은 최대 몇 명이 좋나요?**
 
-2~3명이 적당합니다. 4명 이상이면 학원이랑 비슷해집니다. 개인 맞춤 효과가 떨어집니다.
+2-3명이 적당합니다. 4명 이상이면 학원이랑 비슷해집니다. 개인 맞춤 효과가 떨어집니다.
 
 **Q. 친구랑 사이가 안 좋아지면 어떡하나요?**
 

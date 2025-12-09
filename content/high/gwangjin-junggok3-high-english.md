@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0608_SS-r7BvCqTY.jpg"
 ---
 
 독해 속도가 느려서 시간이 부족한 경험, 있으신가요? 빠르게 읽으면서 정확도를 유지하는 훈련이 필요합니다.
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 ### 한두 문제가 등급을 결정합니다
 
-내신에서는 1~2문제로 등급이 바뀝니다. 교과서 암기는 기본이고, 외부 지문 독해력도 필요합니다. 서술형 비중이 높아 영작 실력까지 요구됩니다.
+내신에서는 1-2문제로 등급이 바뀝니다. 교과서 암기는 기본이고, 외부 지문 독해력도 필요합니다. 서술형 비중이 높아 영작 실력까지 요구됩니다.
 
 ## 중곡3동 고등학교 영어 내신 특징
 
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 ### 어휘가 기초
 
-고등학교 3년간 필요한 어휘는 5,000~6,000개입니다. 어휘력이 부족하면 독해 속도가 느려지고, 빈칸 추론에서 막힙니다.
+고등학교 3년간 필요한 어휘는 5,000-6,000개입니다. 어휘력이 부족하면 독해 속도가 느려지고, 빈칸 추론에서 막힙니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -125,9 +125,9 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 중곡3동 고등 영어과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 52만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 28만원에서 38만원, 주2회 기준 45만원에서 62만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -142,7 +142,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 **Q. 내신과 수능, 뭘 먼저?**
 
-고1~2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
+고1-2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
 
 **Q. 단어가 안 외워져요.**
 

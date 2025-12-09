@@ -15,7 +15,7 @@ tags:
 - infinitive
 - gerund
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 ---
 
 ## to V와 V-ing 중 뭘 써야 하는지 모르겠다고요? remember to call과 remember calling이 다르다는데 헷갈리시죠.
@@ -58,7 +58,7 @@ remember to V는 할 것을 기억하다(미래)이고, remember V-ing는 한 �
 
 ## 관용표현
 
-look forward to V-ing는 기대하다입니다. 여기서 to는 전치사라서 동명사가 옵니다. be used to V-ing도 마찬가지입니다. too ~ to V는 너무 ~해서 못하다, enough to V는 ~할 만큼 충분히입니다. cannot help V-ing는 하지 않을 수 없다입니다.
+look forward to V-ing는 기대하다입니다. 여기서 to는 전치사라서 동명사가 옵니다. be used to V-ing도 마찬가지입니다. too - to V는 너무 -해서 못하다, enough to V는 -할 만큼 충분히입니다. cannot help V-ing는 하지 않을 수 없다입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

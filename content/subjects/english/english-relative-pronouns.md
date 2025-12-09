@@ -14,7 +14,7 @@ tags:
 - which
 - that
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0407_gssFw-w4II0.jpg"
 ---
 
 ## who, which, that을 언제 쓰는지 헷갈리시죠? 관계대명사와 관계부사 차이가 뭔가요.

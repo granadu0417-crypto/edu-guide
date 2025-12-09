@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 ---
 ## 서술형 문제가 배점이 높은데 뭘 어떻게 써야 점수를 받나요?
 

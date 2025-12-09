@@ -10,7 +10,7 @@ tags:
 - 수능국어
 - 대학수학능력시험
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0443_Hb6uWq0i4MI.jpg"
 ---
 
 ## 수능 국어가 너무 어렵다고요? 전략적으로 접근하면 고득점이 가능합니다.
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 ## 시간 관리 전략
 
-수능 국어는 시간이 부족한 과목입니다. 독서 30~35분, 문학 25~30분, 선택과목 15~20분으로 배분하세요. 어려운 문제는 표시하고 넘어간 후 나중에 풀어야 합니다. 실전 모의고사로 시간 감각을 익히세요.
+수능 국어는 시간이 부족한 과목입니다. 독서 30-35분, 문학 25-30분, 선택과목 15-20분으로 배분하세요. 어려운 문제는 표시하고 넘어간 후 나중에 풀어야 합니다. 실전 모의고사로 시간 감각을 익히세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

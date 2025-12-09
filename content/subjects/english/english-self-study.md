@@ -13,7 +13,7 @@ tags:
 - self-study
 - 혼자
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0410_ZG4Y6lLPARw.jpg"
 ---
 
 ## 혼자서 영어 공부하려니 막막하시죠? 어디서부터 시작해야 할지 모르겠다고요.
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 **Q. 하루에 몇 시간이 적당한가요?**
 
-2~3시간이 적당합니다. 너무 무리하면 지속하기 어렵습니다.
+2-3시간이 적당합니다. 너무 무리하면 지속하기 어렵습니다.
 
 **Q. 동기가 안 생겨요.**
 

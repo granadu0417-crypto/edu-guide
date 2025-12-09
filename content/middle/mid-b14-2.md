@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 ---
 ## 국어, 영어, 수학 다 잘하고 싶은데 시간이 부족해요
 

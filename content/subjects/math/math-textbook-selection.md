@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 기초
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0563_Vdoz_CbxB4g.jpg"
 ---
 
 ## 문제집이 너무 많아서 뭘 사야 할지 모르겠다고요? 어떤 게 내 수준에 맞는지 헷갈리시죠.

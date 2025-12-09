@@ -7,7 +7,7 @@ reading_time: "726줄"
 description: "고등학생을 위한 포트폴리오 구축 완전 가이드. 생활기록부 관리, 비교과 활동, 자기소개서까지 대입 포트폴리오 전략."
 categories: ["고등"]
 tags: ["포트폴리오", "생기부관리", "비교과활동", "자소서", "학생부", "대입준비", "진로활동", "동아리활동"]
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -63,7 +63,7 @@ sitemap:
 
 진로 활동은 필수입니다. 대학 방문, 직업 체험, 멘토링 등을 경험하세요. 진로 독서도 연간 10권 이상 하면 좋습니다.
 
-봉사 활동은 양보다 질입니다. 정기적으로 1~2년 지속한 봉사가 일회성 봉사 여러 개보다 낫습니다. 전공과 연계되면 더 좋습니다.
+봉사 활동은 양보다 질입니다. 정기적으로 1-2년 지속한 봉사가 일회성 봉사 여러 개보다 낫습니다. 전공과 연계되면 더 좋습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -101,7 +101,7 @@ sitemap:
 
 **Q. 비교과 활동은 얼마나 해야 하나요?**
 
-양보다 질입니다. 의미 있는 활동 5~10개가 형식적인 활동 30개보다 낫습니다.
+양보다 질입니다. 의미 있는 활동 5-10개가 형식적인 활동 30개보다 낫습니다.
 
 **Q. 진로가 바뀌면 불리한가요?**
 

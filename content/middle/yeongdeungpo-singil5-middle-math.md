@@ -18,7 +18,7 @@ tags:
   - 대영중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0298_YRMWVcdyhmI.jpg"
 
 ---
 ## 영등포구 신길5동 중학생, 심화 문제가 안 풀린다면

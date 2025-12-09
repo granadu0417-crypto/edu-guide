@@ -10,7 +10,7 @@ tags:
 - 높임법
 - 문법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0459_Sk9JF1KDz6M.jpg"
 ---
 
 ## 높임법 종류가 헷갈린다고요? 높이는 대상에 따라 구분하면 간단합니다.

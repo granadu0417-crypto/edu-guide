@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 ---
 ## 시험 1주 전인데 모의고사를 활용해서 실전 감각을 키우려면 어떻게 해야 하나요?
 

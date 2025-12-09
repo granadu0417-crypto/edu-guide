@@ -18,7 +18,7 @@ tags:
   - 신서고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 ---
 ## 양천구 신정6동 고등학생, 실력이 정체되어 있다면
@@ -107,9 +107,9 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 양천구 신정6동 고등학생 영어과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 52만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 28만원에서 38만원, 주2회 기준 45만원에서 62만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -122,7 +122,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 **Q. 내신과 수능 중 어떤 것을 먼저 준비해야 하나요?**
 
-학년에 따라 다릅니다. 고1~2는 내신에 집중하면서 수능 감각을 유지하고, 고3은 내신과 수능을 병행합니다.
+학년에 따라 다릅니다. 고1-2는 내신에 집중하면서 수능 감각을 유지하고, 고3은 내신과 수능을 병행합니다.
 
 **Q. 영어 기초가 많이 부족한데 따라갈 수 있을까요?**
 

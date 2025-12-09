@@ -22,7 +22,7 @@ tags:
   - 신반포역
   - 고속터미널역
   - 반포한강공원
-featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 ---
 ## 서초구 반포2동 중학생, 수학 인수분해가 잘 안 된다면
 
@@ -81,9 +81,9 @@ x² + 5x + 6을 (x + 2)(x + 3)으로 바꿔야 하는데, 어떤 두 수를 찾�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -96,7 +96,7 @@ x² + 5x + 6을 (x + 2)(x + 3)으로 바꿔야 하는데, 어떤 두 수를 찾�
 
 **Q. 인수분해 공식은 몇 개나 외워야 하나요?**
 
-기본 공식 4~5개를 확실히 외우세요. a² ± 2ab + b², a² - b², x² + (a+b)x + ab, acx² + (ad+bc)x + bd 등입니다.
+기본 공식 4-5개를 확실히 외우세요. a² ± 2ab + b², a² - b², x² + (a+b)x + ab, acx² + (ad+bc)x + bd 등입니다.
 
 **Q. 공통인수를 먼저 찾아야 하나요?**
 

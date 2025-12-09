@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0843_hQQbrgB-mfs.jpg"
 
 ---
 ## 중구 중림동 중학생, 영어 명사절이 어렵다면
@@ -81,9 +81,9 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -104,7 +104,7 @@ that은 접속사로 뒤에 완전한 문장이 오고, what은 관계대명사�
 
 **Q. if와 whether는 같은 의미인가요?**
 
-둘 다 "~인지 아닌지"를 뜻하지만, whether는 or not과 함께 쓸 수 있고 주어 자리에도 올 수 있습니다.
+둘 다 "-인지 아닌지"를 뜻하지만, whether는 or not과 함께 쓸 수 있고 주어 자리에도 올 수 있습니다.
 
 ## 마무리
 

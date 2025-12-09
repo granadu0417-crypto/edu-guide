@@ -14,7 +14,7 @@ tags:
 - 복습
 - 기억법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0425_7tEQ-jnx9-o.jpg"
 ---
 
 ## 오늘 외운 단어를 내일이면 까먹는다고요? 암기법을 바꿔야 합니다.
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 ## 학습 환경
 
-오전 6~9시와 저녁 8~10시가 암기에 좋습니다. 취침 전 복습하면 수면 중에 정리됩니다. 휴대폰은 멀리 두고 25분 집중, 5분 휴식 패턴으로 학습하세요. 집중 환경을 만드는 것이 중요합니다.
+오전 6-9시와 저녁 8-10시가 암기에 좋습니다. 취침 전 복습하면 수면 중에 정리됩니다. 휴대폰은 멀리 두고 25분 집중, 5분 휴식 패턴으로 학습하세요. 집중 환경을 만드는 것이 중요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 **Q. 하루에 몇 개씩 외워야 하나요?**
 
-수준에 따라 다릅니다. 초급 20~30개, 중급 40~50개가 적당합니다. 양보다 질이 중요합니다.
+수준에 따라 다릅니다. 초급 20-30개, 중급 40-50개가 적당합니다. 양보다 질이 중요합니다.
 
 **Q. 외워도 자꾸 까먹어요.**
 

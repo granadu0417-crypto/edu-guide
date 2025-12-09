@@ -14,7 +14,7 @@ tags:
 - 듣기훈련
 - 청취력
 - 발음
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0385_OL5FSVty0IE.jpg"
 ---
 
 ## 영어가 안 들린다고요? 들리는 대로 받아쓰면 다 틀리시죠.
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 **Q. 듣기 실력을 어떻게 키우나요?**
 
-매일 10~30분씩 꾸준히 들으세요. 받아쓰기를 병행하면 더 효과적입니다.
+매일 10-30분씩 꾸준히 들으세요. 받아쓰기를 병행하면 더 효과적입니다.
 
 **Q. 단어는 아는데 문장이 안 들려요.**
 

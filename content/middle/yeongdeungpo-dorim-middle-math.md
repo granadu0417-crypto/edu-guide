@@ -19,7 +19,7 @@ tags:
   - 영남중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0288_jJFrkJP_-RA.jpg"
 
 ---
 ## 영등포구 도림동 중학생, 기초부터 다시 잡고 싶다면

@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 역삼비즈니스
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0618_hzYlOPm3frA.jpg"
 
 ---
 ## 강남구 역삼1동 중학생, 영어 접속사 사용이 헷갈린다면
@@ -80,9 +80,9 @@ and, but, so, because를 어디에 써야 할지 모르겠나요? 역삼1동은 
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -95,7 +95,7 @@ and, but, so, because를 어디에 써야 할지 모르겠나요? 역삼1동은 
 
 **Q. because와 so의 차이가 뭔가요?**
 
-because는 원인을 나타내고 ~때문에라는 뜻, so는 결과를 나타내고 그래서라는 뜻입니다. I was tired, so I went to bed.와 I went to bed because I was tired.는 같은 의미입니다.
+because는 원인을 나타내고 -때문에라는 뜻, so는 결과를 나타내고 그래서라는 뜻입니다. I was tired, so I went to bed.와 I went to bed because I was tired.는 같은 의미입니다.
 
 **Q. although와 but은 어떻게 다른가요?**
 

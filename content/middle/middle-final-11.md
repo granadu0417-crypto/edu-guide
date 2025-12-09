@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 ---
 ## 자유학년제, 공부 안 해도 되는 거 아닌가요?
 

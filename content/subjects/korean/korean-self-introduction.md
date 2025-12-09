@@ -11,7 +11,7 @@ tags:
 - 자소서
 - 대입
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0488_ls5wepv5pW4.jpg"
 ---
 
 ## 자기소개서 어떻게 써야 할지 막막하다고요? 나만의 이야기를 찾으면 됩니다.

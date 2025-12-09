@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 ---
 
 ## 영어 단어는 외우는데 문장이 안 만들어져요. 회화도 되고 시험도 잘 보려면 어떻게 해야 하나요?
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-영어는 주 2~3회 추천합니다. 대신 수업 없는 날에도 매일 조금씩 해야 합니다.
+영어는 주 2-3회 추천합니다. 대신 수업 없는 날에도 매일 조금씩 해야 합니다.
 
 **Q. 영어 과외와 학원 병행해도 되나요?**
 

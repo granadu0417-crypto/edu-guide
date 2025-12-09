@@ -12,7 +12,7 @@ tags:
 - 수능
 - 시험대비
 - 시험전략
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 ---
 ## 영어 시험에서 독해랑 문법 비중이 어떻게 되나요? 어디에 집중해야 할까요?
 

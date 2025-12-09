@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0676_ggeZ9oyI-PE.jpg"
 ---
 
 ## 증기기관과 공장제가 복잡하고 사회 변화가 헷갈린다고요? 영국에서 시작된 변화를 순서대로 따라가면 됩니다.

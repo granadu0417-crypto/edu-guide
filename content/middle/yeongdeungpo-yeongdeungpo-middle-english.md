@@ -18,7 +18,7 @@ tags:
   - 영원중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0309_YxMOhGgIfMg.jpg"
 
 ---
 ## 영등포구 영등포동 중학생, 영어가 어려워지기 시작했다면

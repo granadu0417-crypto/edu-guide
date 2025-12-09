@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 
 ---
 ## 구로구 오류1동 중학생, 함수가 나오면서 수학이 싫어졌나요?
@@ -156,9 +156,9 @@ featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=
 
 구로구 오류1동 중학생 수학과외 수업료는 다음과 같습니다.
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

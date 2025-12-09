@@ -12,7 +12,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 ---
 
 ## 국어 점수가 안 오르는 이유가 독해력 때문이라는데, 독해력은 어떻게 키우나요?
@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 **Q. 얼마나 걸려요?**
 
-사람마다 다릅니다. 꾸준히 하면 2~3개월 후부터 변화가 느껴집니다. 급하게 생각하면 지칩니다. 꾸준함이 답입니다.
+사람마다 다릅니다. 꾸준히 하면 2-3개월 후부터 변화가 느껴집니다. 급하게 생각하면 지칩니다. 꾸준함이 답입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

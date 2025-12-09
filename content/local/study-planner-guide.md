@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "학습 플래너 완벽 가이드 | 학습 계획 세우는 법·시간 관리 기법·학년별 플래너 작성·디지털·아날로그 도구·실천 방법까지 상세 안내"
 tags: ["학습플래너", "공부계획", "시간관리", "학습계획", "스터디플래너", "공부스케줄", "학습관리", "자기주도학습", "목표설정"]
-featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 ---
 
 ## 공부 계획은 매번 세우는데 왜 작심삼일로 끝날까요? 어떻게 해야 꾸준히 실천할 수 있는지 고민이시죠.

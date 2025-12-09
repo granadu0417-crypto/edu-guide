@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 ---
 
 ## 온라인 과외, 정말 대면만큼 집중이 될까요? 화면으로 공부가 되나요?
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 **Q. 온라인 과외 주 몇 회가 좋나요?**
 
-대면과 같습니다. 주 1~2회가 일반적입니다. 온라인이라고 더 많이 할 필요는 없습니다.
+대면과 같습니다. 주 1-2회가 일반적입니다. 온라인이라고 더 많이 할 필요는 없습니다.
 
 **Q. 집에서 집중이 안 되면 어떡하나요?**
 

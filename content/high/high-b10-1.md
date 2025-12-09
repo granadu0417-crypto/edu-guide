@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 ---
 ## 중학교 때 공부 안 해도 잘 나왔는데, 고등학교는 왜 이렇게 어려운가요?
 
@@ -100,7 +100,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 **Q. 학원을 많이 다녀야 하나요?**
 
-많이 다닌다고 성적이 오르지 않습니다. 자습 시간이 확보되어야 합니다. 학원은 2~3개면 충분합니다.
+많이 다닌다고 성적이 오르지 않습니다. 자습 시간이 확보되어야 합니다. 학원은 2-3개면 충분합니다.
 
 **Q. 고1 내신이 망하면 대학 못 가나요?**
 

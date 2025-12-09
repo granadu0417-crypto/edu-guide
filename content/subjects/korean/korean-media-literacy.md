@@ -11,7 +11,7 @@ tags:
 - 비판적사고
 - 뉴스분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0468_e6Ll0uFtc1Q.jpg"
 ---
 
 ## 가짜뉴스를 어떻게 구별해야 할지 모르겠다고요? 비판적 읽기 방법이 있습니다.

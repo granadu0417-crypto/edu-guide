@@ -11,7 +11,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 ---
 ## 서술형 문제만 보면 머리가 하얘진다고요?
 

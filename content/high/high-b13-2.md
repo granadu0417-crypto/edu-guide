@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 ---
 ## 생기부가 중요하다는 건 알겠는데, 뭘 어떻게 채워야 하는 건지 모르겠어요
 
@@ -102,7 +102,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 **Q. 비교과 활동은 몇 개가 적당한가요?**
 
-개수보다 깊이입니다. 의미 있는 활동 3~4개가 잡다한 활동 10개보다 낫습니다.
+개수보다 깊이입니다. 의미 있는 활동 3-4개가 잡다한 활동 10개보다 낫습니다.
 
 **Q. 진로가 바뀌면 어떡하나요?**
 

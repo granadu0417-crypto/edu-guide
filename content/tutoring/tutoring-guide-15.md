@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 ---
 
 ## 과외비가 얼마나 하나요? 적정한 가격인지 모르겠어요.

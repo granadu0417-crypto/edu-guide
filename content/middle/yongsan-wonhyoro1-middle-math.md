@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "용산구 원효로1동 중학생을 위한 수학과외입니다. 선린중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0338_w7KukacxiRg.jpg"
 ---
 
 ## 중학교 수학, 지금이 골든타임입니다
@@ -86,9 +86,9 @@ featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=
 
 수학 과외 비용은 수업 횟수와 시간에 따라 달라집니다.
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

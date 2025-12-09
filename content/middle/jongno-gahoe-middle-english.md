@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0803_81-Sn_ab6IQ.jpg"
 
 ---
 ## 종로구 가회동 중학생, 영어 대명사가 헷갈린다면
@@ -81,9 +81,9 @@ it과 they는 언제 쓰는지, this와 that은 어떻게 다른지, 재귀대�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -96,7 +96,7 @@ it과 they는 언제 쓰는지, this와 that은 어떻게 다른지, 재귀대�
 
 **Q. I, my, me, mine은 어떻게 다른가요?**
 
-I는 주격(주어), my는 소유격(~의), me는 목적격(목적어), mine은 소유대명사(~의 것)입니다. I love my dog. Give it to me. This is mine.
+I는 주격(주어), my는 소유격(-의), me는 목적격(목적어), mine은 소유대명사(-의 것)입니다. I love my dog. Give it to me. This is mine.
 
 **Q. 재귀대명사는 언제 쓰나요?**
 

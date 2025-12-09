@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0518_HjOTzLVirtQ.jpg"
 ---
 
 ## 미분 공식은 다 외웠는데 문제에 적용이 안 된다고요? 극값이랑 최댓값이 뭐가 다른지 헷갈리시죠.

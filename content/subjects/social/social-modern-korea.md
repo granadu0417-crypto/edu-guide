@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0690_t_0zK-Nz_lQ.jpg"
 ---
 
 ## 민주화 운동과 경제 성장이 헷갈리고 정권별 특징이 복잡하다고요? 정부 수립부터 순서대로 따라가면 됩니다.

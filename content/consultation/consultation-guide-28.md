@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습방법
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 ---
 
 ## 국어, 영어, 수학 공부법이 다 다른가요? 과목마다 어떻게 공부해야 하나요?

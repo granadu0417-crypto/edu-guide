@@ -11,7 +11,7 @@ tags:
 - 초등1학년
 - 초등교육
 - 초등학습
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"
 ---
 ## 학교에서 친구가 없다고 하는 아이, 어떻게 도와줘야 할까요?
 

@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 모의고사
 - 수능
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 ---
 ## 모의고사 등급이 오락가락해요. 어떻게 해야 안정적인 등급이 나올까요?
 
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 ## 등급 안정화 방법
 
-기본 문제를 확실히 맞추세요. 1~2등급을 가르는 건 어려운 문제가 아니라 기본 문제입니다.
+기본 문제를 확실히 맞추세요. 1-2등급을 가르는 건 어려운 문제가 아니라 기본 문제입니다.
 
 약점을 집중 공략하세요. 모의고사마다 틀리는 유형이 있습니다. 그 유형을 집중 훈련하세요.
 

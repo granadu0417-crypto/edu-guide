@@ -19,7 +19,7 @@ tags:
   - 상문고
   - 서초고
   - 양재고
-featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0904_bVCQkqzMZFA.jpg"
 ---
 
 지문은 다 읽었는데 요지가 헷갈린다면? 주제문 찾는 훈련이 필요합니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=
 
 ### 한 문제가 등급을 바꿉니다
 
-내신에서는 1~2문제로 등급이 바뀝니다. 교과서 암기는 기본이고, 외부 지문 독해력도 필요합니다. 서술형 비중이 높아 영작 실력까지 요구됩니다.
+내신에서는 1-2문제로 등급이 바뀝니다. 교과서 암기는 기본이고, 외부 지문 독해력도 필요합니다. 서술형 비중이 높아 영작 실력까지 요구됩니다.
 
 ## 서초동 고등학교 영어 내신 특징
 
@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=
 
 ### 어휘가 기초
 
-고등학교 3년간 필요한 어휘는 5,000~6,000개입니다. 어휘력이 부족하면 독해 속도가 느려지고, 빈칸 추론에서 막힙니다.
+고등학교 3년간 필요한 어휘는 5,000-6,000개입니다. 어휘력이 부족하면 독해 속도가 느려지고, 빈칸 추론에서 막힙니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -135,9 +135,9 @@ featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=
 
 서초동 고등 영어과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 52만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 28만원에서 38만원, 주2회 기준 45만원에서 62만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -152,7 +152,7 @@ featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=
 
 **Q. 내신과 수능, 뭘 먼저?**
 
-고1~2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
+고1-2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
 
 **Q. 단어가 안 외워져요.**
 

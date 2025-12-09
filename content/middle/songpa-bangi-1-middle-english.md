@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 올림픽공원
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0171_OMI1l9aXsrA.jpg"
 
 ---
 ## 송파구 방이1동 중학생, 영어 조동사의 의미 구별이 헷갈린다면
@@ -80,9 +80,9 @@ can, may, must, should는 어떻게 다른지, must와 have to는 왜 같은 뜻
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -95,7 +95,7 @@ can, may, must, should는 어떻게 다른지, must와 have to는 왜 같은 뜻
 
 **Q. must와 have to의 차이는 뭔가요?**
 
-긍정문에서는 비슷하지만, 부정문이 다릅니다. must not(금지: ~하면 안 된다), don't have to(불필요: ~할 필요 없다).
+긍정문에서는 비슷하지만, 부정문이 다릅니다. must not(금지: -하면 안 된다), don't have to(불필요: -할 필요 없다).
 
 **Q. can과 be able to는 같은 건가요?**
 
@@ -103,7 +103,7 @@ can, may, must, should는 어떻게 다른지, must와 have to는 왜 같은 뜻
 
 **Q. should have p.p.는 무슨 뜻인가요?**
 
-과거에 ~했어야 했다(하지 않은 것에 대한 후회)입니다. You should have studied harder.
+과거에 -했어야 했다(하지 않은 것에 대한 후회)입니다. You should have studied harder.
 
 ## 마무리
 

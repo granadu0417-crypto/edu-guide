@@ -13,7 +13,7 @@ tags:
 - 창의력
 - 초등1학년
 - 초등교육
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 ---
 ## 내년에 초등학교 들어가는데, 뭘 준비해야 할지 막막하시죠?
 
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 생활 습관으로는 혼자 화장실 가기, 손 씻기, 가방 챙기기, 신발 신기가 되어야 합니다.
 
-학습 준비로는 자기 이름 읽고 쓰기, 간단한 단어 읽기, 1~20 세기가 필요합니다.
+학습 준비로는 자기 이름 읽고 쓰기, 간단한 단어 읽기, 1-20 세기가 필요합니다.
 
 사회성으로는 친구와 놀기, 차례 지키기, 도움 요청하기를 할 수 있어야 합니다.
 

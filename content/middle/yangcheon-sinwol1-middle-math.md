@@ -18,7 +18,7 @@ tags:
   - 신원중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0264_NKr9f2t8Lgk.jpg"
 
 ---
 ## 양천구 신월1동 중학생, 수포자가 될 것 같다면

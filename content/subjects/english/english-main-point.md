@@ -14,7 +14,7 @@ tags:
 - claim
 - reading
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 ---
 
 ## 필자가 하고 싶은 말이 뭔지 모르겠다고요? 선택지가 다 맞는 것 같으시죠.

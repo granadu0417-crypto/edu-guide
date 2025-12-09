@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "강원도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 강원대·연세대 원주 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["강원과외", "과외", "강원교육", "춘천과외", "원주과외", "강릉과외", "강원대과외", "연세대원주과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 ---
 
 ## 강원도에서 과외 선생님 구하기 어렵지 않나요? 춘천이나 원주 말고는 선택지가 없는 것 같죠.

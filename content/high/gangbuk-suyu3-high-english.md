@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 ---
 
 긴 문장만 나오면 해석이 뒤죽박죽되나요?
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 ### 긴 문장 해석
 
-고등 영어에는 한 문장이 3~4줄인 경우도 많습니다. 구조를 모르면 해석이 불가능합니다. 구조를 알면 어떤 문장도 읽을 수 있습니다.
+고등 영어에는 한 문장이 3-4줄인 경우도 많습니다. 구조를 모르면 해석이 불가능합니다. 구조를 알면 어떤 문장도 읽을 수 있습니다.
 
 ### 정확한 해석
 
@@ -116,9 +116,9 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 수유3동 고등 영어과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 52만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 28만원에서 38만원, 주2회 기준 45만원에서 62만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

@@ -11,7 +11,7 @@ tags:
 - 고전시가
 - 문학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 ---
 
 ## 가사가 시인지 산문인지 헷갈린다고요? 둘의 특징을 모두 가진 장르입니다.

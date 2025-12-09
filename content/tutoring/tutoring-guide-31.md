@@ -11,7 +11,7 @@ tags:
 - 수능
 - 학부모가이드
 - 학습가이드
-featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 ---
 
 ## 수능이랑 내신이랑 어떻게 둘 다 준비하나요? 시간이 없어요.
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 **Q. 고등 과외 주 몇 회가 적당한가요?**
 
-주 2~3회가 일반적입니다. 과목 수와 학년에 따라 조절하세요. 시험 기간에는 늘릴 수 있습니다.
+주 2-3회가 일반적입니다. 과목 수와 학년에 따라 조절하세요. 시험 기간에는 늘릴 수 있습니다.
 
 **Q. 고3은 언제부터 수능에 올인해야 하나요?**
 

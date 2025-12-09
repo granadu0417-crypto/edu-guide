@@ -7,7 +7,7 @@ reading_time: "911줄"
 description: "고등학생을 위한 수시 전형 완전 정복 가이드. 학생부종합, 학생부교과, 논술까지 전형별 준비 전략과 합격 로드맵."
 categories: ["고등"]
 tags: ["수시전형", "학생부종합", "학생부교과", "논술전형", "대입전략", "입시준비", "생기부", "자소서"]
-featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0648_onxFGIkDvcI.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -36,7 +36,7 @@ sitemap:
 
 ## 학생부교과전형
 
-교과전형은 내신이 전부입니다. 비교과는 거의 반영하지 않습니다. 1~2등급을 유지해야 합니다.
+교과전형은 내신이 전부입니다. 비교과는 거의 반영하지 않습니다. 1-2등급을 유지해야 합니다.
 
 모든 과목을 고르게 관리해야 합니다. 한 과목이라도 낮으면 평균이 떨어집니다.
 

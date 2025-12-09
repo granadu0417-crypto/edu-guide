@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 ---
 
 ## 과외를 같이 받으면 더 싸다고 하는데, 친구랑 같이 해도 괜찮을까요?
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=120
 
 **Q. 그룹 과외는 몇 명이 적당한가요?**
 
-2~3명이 적당합니다. 4명 이상이면 학원이랑 비슷해집니다. 개인 케어가 어려워집니다.
+2-3명이 적당합니다. 4명 이상이면 학원이랑 비슷해집니다. 개인 케어가 어려워집니다.
 
 **Q. 친한 친구랑 하면 떠들지 않나요?**
 

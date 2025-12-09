@@ -15,7 +15,7 @@ tags:
 - must
 - should
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0393_wFpe6LYz27c.jpg"
 ---
 
 ## can과 be able to 차이가 뭐냐고요? must와 have to는 언제 쓰냐고요.
@@ -58,7 +58,7 @@ must는 95% 확신입니다. He must be tired는 틀림없이 피곤하다입니
 
 ## 조동사 + have p.p.
 
-과거 추측입니다. must have p.p.는 틀림없이 ~했다입니다. may have p.p.는 ~했을지도입니다. 과거 후회는 should have p.p.입니다. You should have studied harder는 더 열심히 공부했어야 했다(안 했다)입니다.
+과거 추측입니다. must have p.p.는 틀림없이 -했다입니다. may have p.p.는 -했을지도입니다. 과거 후회는 should have p.p.입니다. You should have studied harder는 더 열심히 공부했어야 했다(안 했다)입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -73,7 +73,7 @@ must는 화자의 의지, have to는 외부 규칙입니다. 부정도 다릅니
 
 **Q. should have p.p.는 무슨 뜻인가요?**
 
-~했어야 했는데 안 했다는 과거 후회입니다.
+-했어야 했는데 안 했다는 과거 후회입니다.
 
 **Q. can't와 must not의 차이는요?**
 

@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 토익 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 전문 선생님 매칭과 효과적인 학습 관리 전략을 제공합니다.
 
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0925_RpxgkJRqg5I.jpg"
 reading_time: 160줄
 ---
 
@@ -91,7 +91,7 @@ LC, RC 영역별 전략을 가르칩니다. 파트별 접근법을 익혀 효율
 
 **Q. 시험 전 단기 과외도 되나요?**
 
-됩니다. 2주~1개월 단기 집중 과정도 있습니다.
+됩니다. 2주-1개월 단기 집중 과정도 있습니다.
 
 **Q. LC랑 RC 중 뭘 먼저 해야 하나요?**
 

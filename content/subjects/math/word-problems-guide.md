@@ -1,5 +1,5 @@
 ---
-title: 수학 문장제 정복 추천 방법 | 초등~고등 완벽 가이드 - 성공적인 학습법과 활용 전략
+title: 수학 문장제 정복 추천 방법 | 초등-고등 완벽 가이드 - 성공적인 학습법과 활용 전략
 date: 2025-01-24
 reading_time: "160줄"
 description: 수학 문장제를 쉽게 푸는 방법과 실전 팁을 학년별로 정리했습니다. 유형별 풀이 전략, 실전 예시, 흔한 실수 해결법 포함 과목별
@@ -16,7 +16,7 @@ tags:
 - 계산
 - 그래프
 - 연산
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0572_xoCrMyMFt7s.jpg"
 ---
 
 ## 문장제만 나오면 머리가 하얘진다고요? 문제는 이해하겠는데 식을 세우는 게 막막하시죠.

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 과학 완벽 이해 전략 | 1:1 맞춤 지도, 개념·실험·탐구 [2025년]"
 tags: ["중학생", "과학", "실험", "탐구", "이해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 ---
 
 ## 과학 공부를 어떻게 해야 할지 막막해요. 외워야 하나요 이해해야 하나요?

@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 국어 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0895_l9kJdwjG2qI.jpg"
 reading_time: 160줄
 ---
 
@@ -91,7 +91,7 @@ reading_time: 160줄
 
 **Q. 국어 과외 주 몇 회가 좋나요?**
 
-주 1~2회가 적당합니다. 혼자 지문 읽고 문제 푸는 시간도 필요합니다.
+주 1-2회가 적당합니다. 혼자 지문 읽고 문제 푸는 시간도 필요합니다.
 
 **Q. 문법이 너무 헷갈려요**
 

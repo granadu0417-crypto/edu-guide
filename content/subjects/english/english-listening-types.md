@@ -13,7 +13,7 @@ tags:
 - 전략
 - listening
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 ---
 
 ## 수능 듣기 유형이 17개나 되는데 어떻게 외우냐고요? 패턴만 알면 됩니다.
@@ -25,16 +25,16 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 17개 유형을 하나씩 분석합니다. 유형별 키워드와 공략법을 정리합니다.
 </div>
 
-## 유형 1~3: 목적·의견·관계
+## 유형 1-3: 목적·의견·관계
 
 목적 파악은 I'm calling to, I'm here to에 집중합니다. 첫 인사 직후와 마지막 요청이 핵심입니다. 의견 파악은 I think, In my opinion, I believe가 나오면 그것이 답입니다. 관계 파악은 호칭과 직업 단어를 들으세요. homework는 교사-학생, symptoms는 의사-환자입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형 1~3을 기출 문제로 연습합니다. 키워드 찾는 감을 익힙니다.
+유형 1-3을 기출 문제로 연습합니다. 키워드 찾는 감을 익힙니다.
 </div>
 
-## 유형 4~8: 세부 정보
+## 유형 4-8: 세부 정보
 
 장소 파악은 장소 관련 단어를 듣습니다. library, borrow가 나오면 도서관입니다. 할 일 파악은 I will, I'm going to, Let me에 집중합니다. 마지막 발언이 중요합니다. 이유는 because, since, The reason is를 들으세요. 요청은 Can you, Could you, Please가 신호입니다.
 
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 세부 정보 유형을 집중 훈련합니다. 미래 표현, 이유 표현을 확실히 구분합니다.
 </div>
 
-## 유형 9~11: 숫자 정보
+## 유형 9-11: 숫자 정보
 
 가격 문제는 정가, 할인율, 개수를 메모합니다. 20% off는 0.8을 곱하세요. 첫 번째 숫자가 아니라 최종 금액이 답입니다. 시간 문제는 quarter past가 15분, half past가 30분입니다. 모든 숫자는 들으면서 바로 적어야 합니다.
 
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 숫자 유형만 모아서 훈련합니다. 메모법과 계산법을 확실히 익힙니다.
 </div>
 
-## 유형 12~17: 담화·응답
+## 유형 12-17: 담화·응답
 
 언급 안 된 것은 소거법입니다. 선택지를 미리 읽고 나온 것을 체크합니다. 안내 방송은 Attention please, We'd like to announce가 신호입니다. 상황 응답은 축하, 위로, 제안 표현을 익히세요. Congratulations, I'm sorry to hear that, Why don't you가 대표적입니다.
 

@@ -10,7 +10,7 @@ tags:
 - 요약하기
 - 요약
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0497_7QpWUqc9ahw.jpg"
 ---
 
 ## 요약문 쓰기가 어렵고 핵심만 뽑아내기 힘들다고요? 방법을 알면 됩니다.

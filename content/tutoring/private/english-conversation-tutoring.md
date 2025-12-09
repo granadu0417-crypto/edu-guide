@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 영어 회화 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 검증된 선생님과 함께하는 1:1 맞춤 학습으로 실력을 향상시키세요.
 
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0877_SjwHMCqT-1M.jpg"
 reading_time: 160줄
 ---
 
@@ -89,7 +89,7 @@ reading_time: 160줄
 
 **Q. 주 몇 회가 적당한가요?**
 
-주 2~3회가 적당합니다. 자주 말해야 늡니다.
+주 2-3회가 적당합니다. 자주 말해야 늡니다.
 
 **Q. 화상 수업도 효과가 있나요?**
 

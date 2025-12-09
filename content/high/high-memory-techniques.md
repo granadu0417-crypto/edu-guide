@@ -7,7 +7,7 @@ reading_time: "611줄"
 description: "고등학생을 위한 과학적 암기 기법. 망각곡선 극복부터 연상법, 청킹, 스토리텔링까지. 적은 시간으로 오래 기억하는 암기 시스템."
 categories: ["고등"]
 tags: ["고등암기법", "기억력향상", "암기전략", "학습효율", "시험대비", "장기기억", "수능암기", "내신암기"]
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0673_MZxqc6n9qCw.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

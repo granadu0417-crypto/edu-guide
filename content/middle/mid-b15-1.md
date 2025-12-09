@@ -14,7 +14,7 @@ tags:
 - 중전학년
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 ---
 ## 뭘 해야 할지 모르겠어요, 라는 말이 걱정되시나요?
 

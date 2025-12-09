@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 ---
 
 ## 예습을 해야 수업을 잘 따라간다던데, 무엇을 어떻게 미리 봐야 하는지 모르겠어요.

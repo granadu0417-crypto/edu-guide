@@ -12,7 +12,7 @@ keywords: ["서초구 중등영어", "내곡동 영어과외", "내곡중 내신
 
 tags:
   - naegok동
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 ---
 ## 서초구 내곡동 중학생, 영어 가정법이 헷갈린다면
 
@@ -71,9 +71,9 @@ If I were you, I would...에서 왜 was가 아니라 were를 쓰는지, 가정�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

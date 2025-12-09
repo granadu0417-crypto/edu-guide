@@ -12,7 +12,7 @@ tags:
 - presentation
 - speaking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0402_MChSQHxGZrQ.jpg"
 ---
 
 ## 영어 발표를 앞두고 막막하시죠? 뭐라고 시작해야 할지 모르겠다고요.

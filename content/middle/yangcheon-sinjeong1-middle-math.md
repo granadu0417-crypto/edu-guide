@@ -18,7 +18,7 @@ tags:
   - 신서중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0252_UA6h1Cs--mM.jpg"
 
 ---
 ## 양천구 신정1동 중학생, 계산 실수가 많다면

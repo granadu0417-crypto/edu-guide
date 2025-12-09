@@ -131,6 +131,35 @@ img, video, iframe {
     border-radius: 8px;
 }
 
+/* 헤더 액션 영역 (검색 + 사용자 카운터) */
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.search-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background: #f1f3f4;
+    border-radius: 50%;
+    color: var(--text-secondary);
+    transition: all 0.2s ease;
+}
+
+.search-btn:hover {
+    background: var(--primary-color);
+    color: white;
+}
+
+.search-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
 .main-nav ul {
     display: flex;
     list-style: none;
@@ -706,6 +735,19 @@ a:hover {
     /* 누적 사용자 통계 숨기기 (모바일) */
     .usage-counter {
         display: none !important;
+    }
+
+    /* 모바일 헤더 액션 */
+    .header-actions {
+        position: absolute;
+        right: 60px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .search-btn {
+        width: 36px;
+        height: 36px;
     }
 
     /* 햄버거 메뉴 버튼 */

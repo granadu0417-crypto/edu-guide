@@ -9,7 +9,7 @@ regions:
 cities:
   - 안성시
 tags: ["안성교육", "안성학원", "안성과외", "안성입시", "경기남부교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0214_d2ghfhU7Az8.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -81,7 +81,7 @@ sitemap:
 
 ### 초등학생
 
-초등 저학년(1~3학년)은 학습 습관을 기르고 기초를 다지는 시기입니다. 공부에 대한 흥미를 키우는 것이 가장 중요합니다. 고학년(4~6학년)부터는 중등 과정을 대비한 선행 학습을 시작해야 합니다.
+초등 저학년(1-3학년)은 학습 습관을 기르고 기초를 다지는 시기입니다. 공부에 대한 흥미를 키우는 것이 가장 중요합니다. 고학년(4-6학년)부터는 중등 과정을 대비한 선행 학습을 시작해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -90,7 +90,7 @@ sitemap:
 
 ### 중학생
 
-중1~2학년은 내신의 기반을 다지면서 적절한 선행을 병행해야 합니다. 중3은 내신 관리가 최우선이며, 고등 과정 선행과 입시 준비를 병행해야 합니다.
+중1-2학년은 내신의 기반을 다지면서 적절한 선행을 병행해야 합니다. 중3은 내신 관리가 최우선이며, 고등 과정 선행과 입시 준비를 병행해야 합니다.
 
 ### 고등학생
 

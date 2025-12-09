@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 ---
 
 ## 분명히 공부했는데 며칠 지나면 다 잊어버려요. 복습은 언제, 어떻게 해야 효과가 있나요?

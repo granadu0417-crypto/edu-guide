@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 ---
 
 ## 세포호흡 단계가 복잡하고 ATP 생성 과정이 이해 안 된다고요? 포도당 분해의 흐름부터 따라가면 됩니다.

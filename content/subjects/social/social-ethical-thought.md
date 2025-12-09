@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 ---
 
 ## 동양 사상과 서양 사상의 비교가 어렵고 사상가 구분이 헷갈린다고요? 윤리적 질문의 핵심부터 파악하면 됩니다.

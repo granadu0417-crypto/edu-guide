@@ -11,7 +11,7 @@ tags:
 - 초등1학년
 - 초등교육
 - 초등학습
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0123_dg3OIYUL2WQ.jpg"
 ---
 ## 공부는 재미없는 거라고 생각하는 아이, 1학년 때부터 그러면 안 되겠죠?
 

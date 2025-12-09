@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 ---
 ## 국어 지문, 읽어도 무슨 소리인지 모르겠다고요?
 

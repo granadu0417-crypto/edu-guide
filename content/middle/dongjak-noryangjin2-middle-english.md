@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 
 ---
 ## 동작구 노량진2동 중학생, 단어는 외워도 문장이 해석이 안 되나요?
@@ -144,9 +144,9 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 동작구 노량진2동 중학생 영어과외 수업료는 다음과 같습니다.
 
-**중1~2**는 주1회 기준 17만원에서 24만원, 주2회 기준 30만원에서 42만원 선입니다.
+**중1-2**는 주1회 기준 17만원 -  24만원, 주2회 기준 30만원 -  42만원 선입니다.
 
-**중3**은 주1회 기준 19만원에서 26만원, 주2회 기준 34만원에서 48만원이 일반적입니다.
+**중3**은 주1회 기준 19만원 -  26만원, 주2회 기준 34만원 -  48만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

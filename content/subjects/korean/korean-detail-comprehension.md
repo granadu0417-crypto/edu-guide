@@ -11,7 +11,7 @@ tags:
 - 사실관계
 - 정보파악
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0445_5bYxXawHOQg.jpg"
 ---
 
 ## 지문 읽어도 세부 내용이 기억 안 난다고요? 정보를 구조화해서 파악하면 됩니다.

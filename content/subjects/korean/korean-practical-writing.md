@@ -11,7 +11,7 @@ tags:
 - 공문서
 - 이메일
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0480_Xte1LQ7KjtQ.jpg"
 ---
 
 ## 공문서, 이메일 쓰기가 막막하다고요? 실용문의 형식을 알면 쉽습니다.

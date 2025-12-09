@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0913_GDbkqAHjDRY.jpg"
 
 ---
 ## 서대문구 북가좌1동 고등학생, 내신 등급이 떨어졌다면
@@ -112,9 +112,9 @@ featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=
 
 서대문구 북가좌1동 고등학생 수학과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 기준 25만원에서 35만원, 주2회 기준 42만원에서 58만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 30만원에서 42만원, 주2회 기준 50만원에서 70만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -127,7 +127,7 @@ featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=
 
 **Q. 내신과 수능 중 어떤 것을 먼저 준비해야 하나요?**
 
-고1~2는 내신 위주로, 고3은 내신과 수능을 병행합니다. 학생의 목표와 현재 상황에 따라 비중을 조절합니다.
+고1-2는 내신 위주로, 고3은 내신과 수능을 병행합니다. 학생의 목표와 현재 상황에 따라 비중을 조절합니다.
 
 **Q. 학원과 과외를 병행해도 되나요?**
 

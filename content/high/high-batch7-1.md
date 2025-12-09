@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 ---
 ## 고등학교 입학하고 처음 맞는 중간고사, 얼마나 준비해야 할지 감이 안 잡히시죠?
 
@@ -105,7 +105,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 **Q. 하루에 몇 시간 공부해야 하나요?**
 
-고1은 학교 수업 외에 3~4시간이면 됩니다. 시간보다 집중도가 중요합니다.
+고1은 학교 수업 외에 3-4시간이면 됩니다. 시간보다 집중도가 중요합니다.
 
 **Q. 내신과 수능 중 뭐가 더 중요한가요?**
 

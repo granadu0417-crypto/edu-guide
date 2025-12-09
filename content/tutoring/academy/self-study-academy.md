@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 학원 유형별 특징. 장단점, 선택 기준, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 핵심 전략으로 성공의 길을 열어가세요.
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0772_vlFHQPTCsHA.jpg"
 reading_time: 160줄
 ---
 
@@ -83,7 +83,7 @@ reading_time: 160줄
 
 비용 효율이 좋습니다. 수업 학원 여러 개 다니는 것보다 자율학습 학원에 과외 병행이 비용이 적게 들 수 있습니다. 비용 대비 효과가 좋습니다.
 
-역할 분담이 명확합니다. 자율학습 학원에서 매일 자습, 과외에서 주 1~2회 심화. 겹치지 않아서 효율적입니다.
+역할 분담이 명확합니다. 자율학습 학원에서 매일 자습, 과외에서 주 1-2회 심화. 겹치지 않아서 효율적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

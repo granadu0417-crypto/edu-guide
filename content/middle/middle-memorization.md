@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 암기 완벽 마스터 전략 | 1:1 맞춤 지도, 이해·반복·연상 [2025년]"
 tags: ["중학생", "암기", "기억력", "복습", "학습법", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0974_U2eUlPEKIgU.jpg"
 ---
 
 ## 외우기만 하면 금방 까먹어요. 오래 기억하는 방법이 뭐예요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=
 
 영어 단어는 어원으로 분해하고 예문과 함께 외웁니다. 하루 30개씩 매일 반복하는 게 중요합니다. 역사는 시대별 흐름을 먼저 파악하고 중요 사건만 스토리로 연결합니다. 모든 연도를 외우려고 하지 마세요.
 
-과학 용어는 개념을 먼저 이해하고 그림으로 시각화합니다. 실험과 연결하면 오래 기억됩니다. 수학 공식은 유도 과정을 이해하고 문제에 적용하면서 자연스럽게 외워집니다. 핵심 공식 10~15개만 완벽히 외우세요.
+과학 용어는 개념을 먼저 이해하고 그림으로 시각화합니다. 실험과 연결하면 오래 기억됩니다. 수학 공식은 유도 과정을 이해하고 문제에 적용하면서 자연스럽게 외워집니다. 핵심 공식 10-15개만 완벽히 외우세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

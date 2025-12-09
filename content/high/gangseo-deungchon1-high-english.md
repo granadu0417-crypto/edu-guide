@@ -18,7 +18,7 @@ tags:
   - 등촌고
   - 경복여고
   - 영일고
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0454_Yi9-QIObQ1o.jpg"
 ---
 
 같은 강서구인데 학교마다 시험이 왜 이렇게 다를까요?
@@ -116,9 +116,9 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 
 등촌1동 고등 영어과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 52만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 28만원에서 38만원, 주2회 기준 45만원에서 62만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -145,7 +145,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 
 **Q. 시험 기간에만 수업받을 수 있나요?**
 
-가능합니다. 시험 2~3주 전 집중 수업을 원하시는 분도 많습니다.
+가능합니다. 시험 2-3주 전 집중 수업을 원하시는 분도 많습니다.
 
 ## 등촌1동에서 영어 과외를 고민하시는 분들께
 

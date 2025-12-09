@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 ---
 
 ## 생명 윤리와 환경 윤리가 헷갈리고 현대 윤리 문제가 복잡하다고요? 윤리적 판단의 기준부터 이해하면 됩니다.

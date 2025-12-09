@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 관리형 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 학원 선택 기준과 효율적인 활용법을 상세히 설명합니다.
 
-featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0757_LK4sk81TZh8.jpg"
 reading_time: 270줄
 ---
 

@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 올림픽공원
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0173_yioua5jPPjc.jpg"
 
 ---
 ## 송파구 방이2동 중학생, 영어 목적어로 쓰이는 명사절이 헷갈린다면
@@ -36,7 +36,7 @@ I think that he is honest에서 that he is honest가 왜 목적어인지, that�
 
 명사절은 문장에서 명사 역할을 하는 절입니다. 주어, 목적어, 보어 자리에 올 수 있습니다. 문제는 that, what, whether 등 다양한 접속사가 명사절을 이끌고 각각 쓰임이 다르다는 것입니다.
 
-명사절을 이해하려면 각 접속사의 역할을 알아야 합니다. that은 ~라는 것, what은 ~하는 것, whether/if는 ~인지 아닌지를 뜻합니다. I know that he came(그가 왔다는 것) vs I know what he said(그가 말한 것).
+명사절을 이해하려면 각 접속사의 역할을 알아야 합니다. that은 -라는 것, what은 -하는 것, whether/if는 -인지 아닌지를 뜻합니다. I know that he came(그가 왔다는 것) vs I know what he said(그가 말한 것).
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -80,9 +80,9 @@ that절, what절, whether절의 차이를 익힙니다. 문장에서 명사절�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -103,7 +103,7 @@ that은 완전한 절 앞에, what은 불완전한 절 앞에 옵니다. I know 
 
 **Q. whether와 if의 차이는요?**
 
-둘 다 ~인지 아닌지의 뜻이지만, 주어 명사절이나 전치사 뒤에서는 whether만 씁니다.
+둘 다 -인지 아닌지의 뜻이지만, 주어 명사절이나 전치사 뒤에서는 whether만 씁니다.
 
 ## 마무리
 

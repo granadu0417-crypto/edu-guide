@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0825_cuvK4j-qXIs.jpg"
 
 ---
 ## 종로구 숭인2동 중학생, 영어 명령문과 감탄문이 헷갈린다면
@@ -83,9 +83,9 @@ Be quiet!은 알겠는데, How beautiful!과 What a beautiful day!는 어떻게 
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -98,7 +98,7 @@ Be quiet!은 알겠는데, How beautiful!과 What a beautiful day!는 어떻게 
 
 **Q. 명령문의 부정형은 어떻게 만드나요?**
 
-Don't + 동사원형입니다. Don't be late. Don't open the door. Be동사도 Don't be ~로 씁니다.
+Don't + 동사원형입니다. Don't be late. Don't open the door. Be동사도 Don't be -로 씁니다.
 
 **Q. How 감탄문과 What 감탄문은 어떻게 구분하나요?**
 
@@ -106,7 +106,7 @@ Don't + 동사원형입니다. Don't be late. Don't open the door. Be동사도 D
 
 **Q. Let's로 시작하는 문장은 명령문인가요?**
 
-청유문이라고 부릅니다. "~하자"는 의미로 Let's + 동사원형입니다. Let's go! Let's study together!
+청유문이라고 부릅니다. "-하자"는 의미로 Let's + 동사원형입니다. Let's go! Let's study together!
 
 ## 마무리
 

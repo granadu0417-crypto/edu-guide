@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 마천역
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0184_0QuFmCS8K24.jpg"
 
 ---
 ## 송파구 거여2동 중학생, 수학 도수분포와 상대도수가 헷갈린다면
@@ -79,9 +79,9 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -94,7 +94,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 **Q. 계급의 크기는 어떻게 정하나요?**
 
-자료의 범위를 5~10개 계급으로 나눌 수 있도록 정합니다. 너무 크거나 작으면 분포를 파악하기 어렵습니다.
+자료의 범위를 5-10개 계급으로 나눌 수 있도록 정합니다. 너무 크거나 작으면 분포를 파악하기 어렵습니다.
 
 **Q. 상대도수는 왜 필요한가요?**
 

@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 기초
 - 과외
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0421_InbrvPARzM4.jpg"
 ---
 
 ## 직역하면 이상해지고 의역하면 뜻이 달라진다고요? 번역의 균형을 찾아야 합니다.

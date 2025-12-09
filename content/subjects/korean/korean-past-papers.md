@@ -11,7 +11,7 @@ tags:
 - 기출분석
 - 수능대비
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0478_CjZDX_61LyA.jpg"
 ---
 
 ## 기출 문제를 어떻게 활용해야 할지 모르겠다고요? 효과적인 분석법이 있습니다.
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 **Q. 기출은 몇 년치를 풀어야 하나요?**
 
-최근 5~7개년을 반복해서 푸세요. 오래된 기출보다 최근 경향 파악이 중요합니다.
+최근 5-7개년을 반복해서 푸세요. 오래된 기출보다 최근 경향 파악이 중요합니다.
 
 **Q. 기출만 풀면 되나요?**
 

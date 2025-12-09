@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 ---
 ## 수능까지 365일, 아직 늦지 않았습니다. 문제는 어디서부터 시작하느냐입니다.
 
@@ -94,7 +94,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 **Q. 지금부터 등급을 올릴 수 있나요?**
 
-가능합니다. 3월에서 수능까지 2~3등급 올린 학생들 많습니다. 중요한 건 방법과 꾸준함입니다.
+가능합니다. 3월에서 수능까지 2-3등급 올린 학생들 많습니다. 중요한 건 방법과 꾸준함입니다.
 
 **Q. 내신은 포기해야 하나요?**
 

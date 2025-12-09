@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 ---
 
 ## 해류의 흐름이 복잡하고 조석 현상이 헷갈린다고요? 바닷물의 특성부터 이해하면 됩니다.
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 **Q. 대조와 소조는 언제 일어나나요?**
 
-대조는 삭·망(음력 1일, 15일), 소조는 상현·하현(음력 7~8일, 22~23일)입니다.
+대조는 삭·망(음력 1일, 15일), 소조는 상현·하현(음력 7-8일, 22-23일)입니다.
 
 **Q. 엘니뇨가 뭔가요?**
 

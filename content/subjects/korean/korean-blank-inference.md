@@ -11,7 +11,7 @@ tags:
 - 문맥파악
 - 1:1과외
 - 독해
-featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 ---
 
 ## 빈칸에 들어갈 말을 고르는 게 어렵다고요? 문맥을 읽는 눈을 키워야 합니다.
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=
 
 ## 시험 대비
 
-수능에서 빈칸 추론은 매년 2~3문항 출제됩니다. 시간을 많이 쓰지 말고 문맥을 빠르게 파악하세요. 내신에서는 교과서 지문의 핵심 내용을 정확히 이해하는 것이 중요합니다. 빈칸 위치에 따른 유형별 접근법을 익히세요.
+수능에서 빈칸 추론은 매년 2-3문항 출제됩니다. 시간을 많이 쓰지 말고 문맥을 빠르게 파악하세요. 내신에서는 교과서 지문의 핵심 내용을 정확히 이해하는 것이 중요합니다. 빈칸 위치에 따른 유형별 접근법을 익히세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 시험 완벽 대비 전략 | 과목별 공부법, 시험 기간별 전략, 당일 준비, 오답 노트 활용 [2025년]"
 tags: ["중학생", "시험대비", "내신시험", "중간고사", "기말고사", "과목별공부법", "시험전략"]
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 ---
 
 ## 시험 준비가 너무 막막해요. 어디서부터 시작해야 하는지 모르겠어요

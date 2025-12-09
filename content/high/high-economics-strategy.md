@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 경제 완전 정복 가이드. 미시경제부터 거시경제, 국제경제까지 개념 이해와 실생활 적용. 수능 만점을 위한 체계적 접근법."
 tags: ["고등경제", "경제학습법", "수능경제", "미시경제", "거시경제", "사회탐구", "경제개념", "경제시사"]
-featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0650_viY-ACkx2iE.jpg"
 ---
 
 ## 경제가 어렵고 복잡하게 느껴져요. 그래프도 많고 용어도 어렵고 어떻게 공부하나요?
