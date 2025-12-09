@@ -78,7 +78,7 @@ The book which I bought yesterday와 When I arrived home에서 which절과 when�
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원~32만원, 주2회 29만원~47만원 선입니다.
+**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
 
 
 

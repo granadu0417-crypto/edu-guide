@@ -118,9 +118,9 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 성동구 성수1가1동 고등학생 수학과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 25만원~36만원, 주2회 33만원~53만원 선입니다.
+**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
 
-**고3**은 주1회 28만원~40만원, 주2회 37만원~59만원이 일반적입니다.
+**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

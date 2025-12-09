@@ -83,7 +83,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 - 영작문 기초 다지기
 - 중등 대비 어휘력 확장
 
-초등 영어과외 비용은 주 1회 기준 약 12만원~ 22만원, 주 2회 기준 약 25만원~ 38만원 선입니다.
+초등 영어과외 비용은 주 1회 기준 약 12만원 ~  22만원, 주 2회 기준 약 25만원 ~  38만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -111,7 +111,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 - 내신과 수능의 차이 이해
 - 특목고 진학 대비(필요시)
 
-중학생 영어과외 비용은 주 1회 기준 약 22만원~ 32만원, 주 2회 기준 약 30만원~ 48만원 선입니다.
+중학생 영어과외 비용은 주 1회 기준 약 22만원 ~  32만원, 주 2회 기준 약 30만원 ~  48만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -140,7 +140,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 - 시간 관리와 실수 최소화
 - 최신 출제 경향 파악
 
-고등학생 영어과외 비용은 주 1회 기준 약 25만원~ 36만원, 주 2회 기준 약 33만원~ 53만원 선입니다. 고3의 경우 주 1회 28만원~ 40만원, 주 2회 37만원~ 59만원으로 집중 관리가 가능합니다.
+고등학생 영어과외 비용은 주 1회 기준 약 25만원 ~  36만원, 주 2회 기준 약 33만원 ~  53만원 선입니다. 고3의 경우 주 1회 28만원 ~  40만원, 주 2회 37만원 ~  59만원으로 집중 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 중등 수학 기초 다지기
 - 학습 습관 확립
 
-초등 수학과외 비용은 주 1회 기준 약 12만원~ 20만원, 주 2회 기준 약 22만원~ 35만원 선입니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원 ~  20만원, 주 2회 기준 약 22만원 ~  35만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -109,7 +109,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 고등 학습 패턴 적응
 - 자기주도 학습 능력 배양
 
-중학생 수학과외 비용은 주 1회 기준 약 20만원~ 30만원, 주 2회 기준 약 28만원~ 45만원 선입니다.
+중학생 수학과외 비용은 주 1회 기준 약 20만원 ~  30만원, 주 2회 기준 약 28만원 ~  45만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -138,7 +138,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 시간 관리 전략
 - 모의고사 반복 풀이
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원~ 36만원, 주 2회 기준 약 33만원~ 53만원 선입니다. 고3의 경우 주 1회 28만원~ 40만원, 주 2회 37만원~ 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원 ~  36만원, 주 2회 기준 약 33만원 ~  53만원 선입니다. 고3의 경우 주 1회 28만원 ~  40만원, 주 2회 37만원 ~  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
