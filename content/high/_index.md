@@ -11,82 +11,47 @@ tags:
 - 수능
 - 대입
 - 입시전략
-featured_image: https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
 ---
 
 ## 고등학생 입시 가이드
 
-고등학교 3년은 **대학 입시**를 준비하는 시기입니다. 내신, 수능, 비교과 활동을 균형있게 관리하며 목표 대학 합격을 향해 나아가야 합니다.
+고등학교 3년은 대학 입시를 준비하는 시기입니다. 내신, 수능, 비교과 활동을 균형있게 관리하며 목표 대학 합격을 향해 나아가야 합니다.
 
-## 📚 학년별 전략
+## 학년별 전략
 
-### 고1 - 기초 다지기
-- [고1 내신 전략](/high/high-b9-1/) - 고등 첫 시험 대비
-- [고1 학습 습관](/high/high-b9-2/) - 고등 공부법 정착
-- [생기부 관리 시작](/high/high-b9-3/) - 학생부 첫 단추
+고1은 기초를 다지는 시기입니다. [고1 내신 전략](/high/high-b9-1/)에서 고등 첫 시험을 대비하고, [고1 학습 습관](/high/high-b9-2/)으로 고등 공부법을 정착시키며, [생기부 관리](/high/high-b9-3/)로 학생부 첫 단추를 꿰세요.
 
-### 고2 - 진로 확정
-- [고2 학습 로드맵](/high/high-b10-1/) - 진로 확정과 준비
-- [고2 학생부](/high/high-b10-2/) - 심화 활동 전략
-- [모의고사 대비](/high/high-b10-3/) - 수능 감각 유지
+고2는 진로를 확정하는 시기입니다. [고2 학습 로드맵](/high/high-b10-1/)으로 진로를 확정하고, [고2 학생부](/high/high-b10-2/)에서 심화 활동 전략을 세우며, [모의고사 대비](/high/high-b10-3/)로 수능 감각을 유지하세요.
 
-### 고3 - 입시 최종 준비
-- [수능 D-365](/high/high-b11-1/) - 입시 최종 전략
-- [수시 vs 정시](/high/high-b11-2/) - 전형 선택
-- [면접 준비](/high/high-b11-3/) - 대학별 면접 대비
+고3은 입시 최종 준비 시기입니다. [수능 D-365](/high/high-b11-1/)로 입시 최종 전략을 세우고, [수시 vs 정시](/high/high-b11-2/)에서 전형을 선택하며, [면접 준비](/high/high-b11-3/)로 대학별 면접에 대비하세요.
 
-## 📖 수능 과목별 전략
+## 수능 과목별 전략
 
-### 국어
-- [수능 국어](/high/korean-reading-strategy/) - 화법작문문학독해
-- [독해 전략](/high/korean-reading-strategy/) - 비문학 정복
+국어는 [수능 국어](/high/korean-reading-strategy/)에서 화법, 작문, 문학, 독해를 다루고, [독해 전략](/high/korean-reading-strategy/)으로 비문학을 정복하세요.
 
-### 수학
-- [수능 수학](/high/math-strategy/) - 미적분과 확률통계
-- [수학 실전](/high/math-strategy/) - 킬러 문항 대비
+수학은 [수능 수학](/high/math-strategy/)에서 미적분과 확률통계를 마스터하고, [수학 실전](/high/math-strategy/)으로 킬러 문항에 대비하세요.
 
-### 영어
-- [수능 영어](/high/english-strategy/) - 절대평가 1등급
-- [영어 독해](/high/english-strategy/) - 빠르고 정확한 독해
+영어는 [수능 영어](/high/english-strategy/)로 절대평가 1등급을 목표로 하고, [영어 독해](/high/english-strategy/)에서 빠르고 정확한 독해법을 익히세요.
 
-## 🎯 입시 전형별 가이드
+## 입시 전형별 가이드
 
-### 수시
-- [학생부종합](/high/admissions-strategy/) - 생기부 완성 전략
-- [학생부교과](/high/school-record-management/) - 내신 관리법
-- [논술](/high/admissions-strategy/) - 논리적 글쓰기
+수시에서 [학생부종합](/high/admissions-strategy/)으로 생기부 완성 전략을 세우고, [학생부교과](/high/school-record-management/)로 내신을 관리하며, [논술](/high/admissions-strategy/)로 논리적 글쓰기를 연습하세요.
 
-### 정시
-- [수능 전략](/high/suneung-d100-strategy/) - D-100 집중 전략
-- [모의고사 활용](/high/mock-exam-strategy/) - 실전 감각 유지
+정시에서 [수능 전략](/high/suneung-d100-strategy/)으로 D-100 집중 전략을 세우고, [모의고사 활용](/high/mock-exam-strategy/)으로 실전 감각을 유지하세요.
 
-## 💡 입시 전략
+## 입시 전략
 
-- [입시 전략](/high/admissions-strategy/) - 전형별 대비법
-- [진로와 학과](/high/career-major-guide/) - 학과 선택 가이드
-- [2026 수능 변화](/high/2026-suneung-changes/) - 최신 입시 정보
-- [온라인 강의](/high/online-lecture-guide/) - 효과적 활용법
-- [멘탈 관리](/high/mental-management/) - 입시 스트레스 대처
-- [학부모 지원](/high/parent-support-guide/) - 부모님 역할
+[입시 전략](/high/admissions-strategy/)에서 전형별 대비법을 확인하고, [진로와 학과](/high/career-major-guide/)로 학과를 선택하세요. [2026 수능 변화](/high/2026-suneung-changes/)에서 최신 입시 정보를 확인하고, [온라인 강의](/high/online-lecture-guide/)를 효과적으로 활용하세요. [멘탈 관리](/high/mental-management/)로 입시 스트레스에 대처하고, [학부모 지원](/high/parent-support-guide/)에서 부모님의 역할을 확인하세요.
 
-## 💡 고등 학습의 핵심
+## 고등 학습의 핵심
 
-### 1. 균형 잡힌 준비
-내신, 수능, 비교과 활동을 모두 챙겨야 합니다.
+첫째, 균형 잡힌 준비입니다. 내신, 수능, 비교과 활동을 모두 챙겨야 합니다.
 
-### 2. 장기적 계획
-3년 로드맵을 세우고 체계적으로 준비하세요.
+둘째, 장기적 계획입니다. 3년 로드맵을 세우고 체계적으로 준비하세요.
 
-### 3. 자기 관리
-시간 관리, 멘탈 관리가 성공의 열쇠입니다.
+셋째, 자기 관리입니다. 시간 관리, 멘탈 관리가 성공의 열쇠입니다.
 
-### 4. 정보 수집
-입시 정보를 꾸준히 업데이트하고 활용하세요.
+넷째, 정보 수집입니다. 입시 정보를 꾸준히 업데이트하고 활용하세요.
 
----
-
-**고등학교의 목표**
-
-목표 대학 합격을 위해 지금부터 체계적으로 준비하세요. 노력은 배신하지 않습니다!
-
-더 자세한 정보는 위의 카테고리별 가이드를 참고하세요!
+목표 대학 합격을 위해 지금부터 체계적으로 준비하세요. 노력은 배신하지 않습니다.

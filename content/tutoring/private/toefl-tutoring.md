@@ -14,71 +14,90 @@ tags:
 - 의대생과외
 description: 토플 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 검증된 선생님과 함께하는 1:1 맞춤 학습으로 실력을 향상시키세요.
 
-featured_image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop
-reading_time: 280줄
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+reading_time: 160줄
 ---
 
-## 토플 과외 - iBT 고득점 전문 선생님 찾기
+## 토플 점수가 안 올라요. 혼자 공부해서는 한계가 있을까요?
 
-과목별 1:1 과외 선생님을 찾는 방법과 효과적인 활용 전략을 안내합니다.
+학원도 다녀봤고 독학도 해봤는데 80점대에서 멈췄어요. 100점 이상 받으려면 어떻게 해야 하나요? 과외가 도움이 될까요?
 
-{{< cta-consultation message="과외 선생님 찾기, 무료 상담!" >}}
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+토플은 영역별로 접근 방법이 다릅니다. 약한 영역을 집중 공략해서 점수를 올립니다.
+</div>
 
-## 1. 과목별 과외의 효과
-- 개념 이해
-- 문제 풀이
-- 내신 대비
+## 토플이 왜 어렵나요?
 
-## 2. 선생님 선택 기준
-- 학력
-- 경력
-- 교습 스타일
+토플은 4개 영역을 모두 잘해야 합니다. Reading, Listening, Speaking, Writing 어느 하나도 소홀히 할 수 없습니다. 영역마다 필요한 능력이 다릅니다.
 
-## 3. 과외 형태
-- 방문 과외
-- 화상 과외
-- 그룹 과외
+특히 Speaking과 Writing이 어렵습니다. 한국 학생들은 읽기와 듣기는 잘하는 편인데, 말하기와 쓰기에서 점수를 잃습니다. 혼자 연습하기 어려운 영역입니다.
 
-## 4. 비용
-- 시간당: 3만-8만 원
-- 주 2-3회 기준
-- 학년·과목별 차이
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+Speaking과 Writing 중심으로 집중 지도합니다. 실전 연습과 피드백을 반복합니다.
+</div>
 
-## 5. 효과적 활용법
-- 목표 설정
-- 진도 관리
-- 피드백 활용
+## 과외가 학원보다 효과적인 이유는요?
 
-## 6. 선생님 찾는 방법
-- 플랫폼 활용
-- 지인 추천
-- 학원 추천
+토플 학원은 반 전체에 맞춰 수업합니다. 내 약점에 집중하기 어렵습니다. Reading이 90점인데 Reading 강의를 또 들어야 하는 경우도 있습니다.
 
-## 7. 계약 주의사항
-- 계약서 작성
-- 환불 규정
-- 개인정보 보호
+과외는 내 상황에 맞춥니다. Speaking만 집중적으로 연습하거나, Writing 첨삭을 많이 받거나, 필요한 부분만 공략할 수 있습니다.
 
-## 8. FAQ
-**Q1. 적합한 학생은?** A1. 개념 이해가 부족하거나 1:1 설명이 필요한 학생에게 적합합니다.
+{{< cta-dual type="final" >}}
 
-**Q2. 학원 vs 과외?** A2. 과외는 맞춤형, 학원은 커리큘럼이 장점입니다.
+## 어떤 선생님이 토플을 잘 가르치나요?
 
-**Q3. 선생님 교체?** A3. 불만족 시 플랫폼을 통해 교체 가능합니다.
+본인이 토플 고득점자여야 합니다. 최소 110점 이상을 받아본 선생님이면 좋습니다. 직접 고득점을 받은 경험이 있어야 노하우를 알려줄 수 있습니다.
 
-**Q4. 효과는?** A4. 1:1 맞춤 설명으로 단기간 성적 향상이 가능합니다.
+Speaking과 Writing 첨삭 경험이 중요합니다. 이 영역은 피드백이 핵심입니다. 어떤 표현이 좋고 어떤 구조로 말해야 하는지 구체적으로 알려줄 수 있어야 합니다.
 
-**Q5. 준비물은?** A5. 교재, 오답노트, 학습 자료를 준비하세요.
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+토플 고득점 경험과 지도 경력을 확인합니다. Speaking, Writing 전문 선생님을 연결합니다.
+</div>
 
+## 영역별로 어떻게 공부해야 하나요?
 
+Reading은 시간 관리가 핵심입니다. 지문을 빠르게 파악하고 문제 유형별로 접근해야 합니다. 어휘력도 기본입니다.
 
-## 📚 관련 가이드
+Listening은 노트 테이킹이 중요합니다. 강의 내용을 메모하면서 듣는 연습을 해야 합니다. Speaking과 Writing은 템플릿을 익히고 연습량을 늘려야 합니다.
 
-- [입시 컨설팅 과외 - 수시·정시 전문가 찾기](/tutoring/private/admission-consulting-tutoring/)
-- [미술 과외 - 입시·취미 전문 선생님 찾기](/tutoring/private/art-tutoring/)
-- [부산 방문 과외 - 해운대·수영 선생님 찾기](/tutoring/private/busan-visiting-tutoring/)
-- [코딩 과외 - 파이썬·자바 프로그래밍 선생님](/tutoring/private/coding-tutoring/)
-- [대치 방문 과외 - 입시 전문 선생님 찾기](/tutoring/private/daechi-visiting-tutoring/)
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+영역별 전략을 가르칩니다. 특히 약한 영역에 시간을 더 할애합니다.
+</div>
 
-{{< cta-consultation-final >}}
+## 얼마나 공부하면 목표 점수를 받을 수 있나요?
+
+현재 점수와 목표 점수 차이에 따라 다릅니다. 10-20점 올리는 건 1-2개월, 30점 이상 올리려면 3개월 이상 필요합니다.
+
+매일 꾸준히 공부해야 합니다. 일주일에 몰아서 하는 것보다 매일 조금씩 하는 게 효과적입니다. 특히 Speaking은 매일 말하는 연습이 중요합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+목표 점수와 기간에 맞춰 학습 계획을 세웁니다. 매일 과제를 드리고 체크합니다.
+</div>
+
+## 자주 묻는 질문
+
+**Q. 온라인 과외도 괜찮나요?**
+
+네, 토플은 온라인 과외가 효과적입니다. Speaking 연습을 화상으로 충분히 할 수 있습니다.
+
+**Q. 원어민 선생님이 더 좋나요?**
+
+Speaking 교정에는 도움이 되지만, 시험 전략은 한국인 선생님이 더 잘 알려줍니다.
+
+**Q. 모의고사는 자주 봐야 하나요?**
+
+주 1회 정도 실전처럼 연습하면 좋습니다. 시간 관리 감각을 익힐 수 있습니다.
+
+**Q. 독학이랑 병행해도 되나요?**
+
+네, 과외에서 방향을 잡고 독학으로 연습량을 채우면 효과적입니다.
+
+## 마무리
+
+토플 과외는 약한 영역을 집중 공략해서 점수를 올리는 효율적인 방법입니다. Speaking과 Writing 피드백을 충분히 받으세요. 목표 점수를 향해 체계적으로 준비하면 결과가 따라옵니다.
 

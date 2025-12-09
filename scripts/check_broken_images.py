@@ -1,138 +1,123 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-카테고리별 깨진 featured_image 체크
+이미지 URL 실제 접근 가능 여부 검사
+- HTTP HEAD 요청으로 실제 확인
+- 깨진 이미지 목록 출력
 """
 
-from pathlib import Path
 import re
-from collections import Counter
+import urllib.request
+import urllib.error
+import ssl
+from pathlib import Path
+from collections import defaultdict
+import concurrent.futures
 
-def extract_featured_image(file_path):
-    """파일에서 featured_image URL 추출"""
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+# SSL 인증서 검증 비활성화 (일부 환경에서 필요)
+ssl_context = ssl.create_default_context()
+ssl_context.check_hostname = False
+ssl_context.verify_mode = ssl.CERT_NONE
 
-        if not content.startswith('---'):
-            return None
+def extract_image_urls():
+    """모든 md 파일에서 featured_image URL 추출"""
+    content_dir = Path('/home/user/edu-guide/content')
+    folders = ['high', 'middle', 'local', 'tutoring', 'subjects', 'elementary', 'exam', 'consultation']
 
-        parts = content.split('---', 2)
-        if len(parts) < 3:
-            return None
+    url_to_files = defaultdict(list)
 
-        front_matter = parts[1]
-
-        # Featured Image 추출
-        img_match = re.search(r'^featured_image:\s*(.+)', front_matter, re.MULTILINE)
-        if img_match:
-            return img_match.group(1).strip()
-
-        return None
-
-    except Exception as e:
-        return None
-
-def check_image_url(url):
-    """이미지 URL이 유효한지 체크 (기본 검증만)"""
-    if not url or url == '':
-        return False, "URL 없음"
-
-    # 기본 URL 형식 체크
-    if not url.startswith(('http://', 'https://', '/')):
-        return False, f"잘못된 URL 형식: {url[:50]}"
-
-    # Unsplash URL 형식 체크
-    if 'unsplash.com' in url:
-        if 'w=1200' not in url or 'h=630' not in url:
-            return False, "Unsplash URL 파라미터 누락"
-
-    return True, "정상"
-
-def main():
-    content_dir = Path('content')
-
-    print("🖼️  카테고리별 이미지 상태 체크 시작...\n")
-
-    category_stats = {}
-    broken_files = {}
-
-    categories = ['elementary', 'middle', 'high', 'exam', 'tutoring', 'consultation', 'local', 'subjects']
-
-    for category in categories:
-        category_path = content_dir / category
-        if not category_path.exists():
+    for folder in folders:
+        folder_path = content_dir / folder
+        if not folder_path.exists():
             continue
 
-        total = 0
-        broken = 0
-        no_image = 0
-        broken_list = []
-
-        for md_file in category_path.rglob('*.md'):
-            total += 1
-
-            img_url = extract_featured_image(md_file)
-
-            if not img_url:
-                no_image += 1
-                broken += 1
-                rel_path = str(md_file.relative_to(content_dir))
-                broken_list.append((rel_path, "이미지 없음"))
+        for md_file in folder_path.glob('*.md'):
+            if md_file.stem == '_index':
                 continue
+            try:
+                with open(md_file, 'r', encoding='utf-8') as f:
+                    content = f.read()
 
-            # URL 체크 (Unsplash만)
-            is_valid, reason = check_image_url(img_url)
+                match = re.search(r'featured_image:\s*["\']?(https://[^"\'\n]+)', content)
+                if match:
+                    url = match.group(1).strip()
+                    url_to_files[url].append(str(md_file))
+            except Exception as e:
+                print(f"Error reading {md_file}: {e}")
 
-            if not is_valid:
-                broken += 1
-                rel_path = str(md_file.relative_to(content_dir))
-                broken_list.append((rel_path, reason))
+    return url_to_files
 
-        category_stats[category] = {
-            'total': total,
-            'broken': broken,
-            'no_image': no_image
-        }
+def check_url(url, timeout=15):
+    """URL이 유효한지 확인"""
+    try:
+        req = urllib.request.Request(url, method='HEAD')
+        req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
+        with urllib.request.urlopen(req, timeout=timeout, context=ssl_context) as response:
+            return response.status == 200, response.status
+    except urllib.error.HTTPError as e:
+        return False, e.code
+    except urllib.error.URLError as e:
+        return False, str(e.reason)[:30]
+    except Exception as e:
+        return False, str(e)[:30]
 
-        if broken_list:
-            broken_files[category] = broken_list
+def check_single_url(args):
+    """단일 URL 검사 (병렬 처리용)"""
+    url, files = args
+    is_valid, status = check_url(url)
+    photo_match = re.search(r'photo-[\w-]+', url)
+    photo_id = photo_match.group(0) if photo_match else "unknown"
+    return url, files, is_valid, status, photo_id
 
-    # 출력
-    print("=" * 80)
-    print("📊 카테고리별 이미지 상태")
-    print("=" * 80)
+def main():
+    print("이미지 URL 추출 중...")
+    url_to_files = extract_image_urls()
 
-    total_files = 0
-    total_broken = 0
+    print(f"총 {len(url_to_files)}개의 고유 이미지 URL 발견")
+    print("=" * 60)
 
-    for category in sorted(category_stats.keys()):
-        stats = category_stats[category]
-        total_files += stats['total']
-        total_broken += stats['broken']
+    broken_images = []
+    valid_count = 0
 
-        status = "✅" if stats['broken'] == 0 else "❌"
-        print(f"{status} {category:15s}: 전체 {stats['total']:3d}개 | 깨진 이미지 {stats['broken']:3d}개 | 이미지 없음 {stats['no_image']:3d}개")
+    print("\n이미지 URL 유효성 검사 중... (시간이 걸릴 수 있습니다)")
 
-    print("=" * 80)
-    print(f"합계: 전체 {total_files}개 | 깨진 이미지 {total_broken}개")
-    print("=" * 80)
+    # 병렬로 URL 검사
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        futures = {executor.submit(check_single_url, (url, files)): url
+                   for url, files in url_to_files.items()}
 
-    # 깨진 파일 상세 출력
-    if broken_files:
-        print("\n❌ 깨진 이미지 파일 목록:\n")
-        for category in sorted(broken_files.keys()):
-            if broken_files[category]:
-                print(f"\n📁 {category} ({len(broken_files[category])}개)")
-                print("-" * 80)
-                for file_path, reason in broken_files[category][:10]:  # 최대 10개만 표시
-                    print(f"  - {file_path}")
-                    print(f"    사유: {reason}")
+        for i, future in enumerate(concurrent.futures.as_completed(futures)):
+            url, files, is_valid, status, photo_id = future.result()
 
-                if len(broken_files[category]) > 10:
-                    print(f"  ... 외 {len(broken_files[category]) - 10}개 더")
+            if is_valid:
+                valid_count += 1
+            else:
+                broken_images.append((url, files, photo_id, status))
 
-    print("\n" + "=" * 80)
+            # 진행 상황 (20개마다)
+            if (i + 1) % 20 == 0:
+                print(f"  진행: {i + 1}/{len(url_to_files)}")
+
+    print("\n" + "=" * 60)
+    print(f"검사 완료: 유효 {valid_count}개, 깨진 이미지 {len(broken_images)}개")
+
+    if broken_images:
+        print("\n=== 깨진 이미지 목록 ===")
+        for url, files, photo_id, status in sorted(broken_images, key=lambda x: len(x[1]), reverse=True):
+            print(f"\n❌ {photo_id} (상태: {status})")
+            print(f"   URL: {url}")
+            print(f"   사용 파일 ({len(files)}개):")
+            for f in files[:5]:
+                rel_path = f.replace('/home/user/edu-guide/', '')
+                print(f"     - {rel_path}")
+            if len(files) > 5:
+                print(f"     ... 외 {len(files) - 5}개")
+
+        # 총 영향받는 파일 수
+        total_affected = sum(len(files) for _, files, _, _ in broken_images)
+        print(f"\n총 영향받는 파일: {total_affected}개")
+    else:
+        print("\n✅ 모든 이미지가 유효합니다!")
 
 if __name__ == '__main__':
     main()

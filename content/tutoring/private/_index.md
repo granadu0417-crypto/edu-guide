@@ -8,7 +8,7 @@ keywords:
 - 그룹 과외
 - 온라인 과외
 - 과외 선생님
-featured_image: https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
 ---
 
 ## 과외 찾기

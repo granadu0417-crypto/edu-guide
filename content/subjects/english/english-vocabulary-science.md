@@ -1,0 +1,72 @@
+---
+title: "영어 과학 주제 어휘 완벽 정리 | 1:1 영어 과외"
+date: 2025-01-29
+categories:
+- 과목
+reading_time: "160줄"
+description: "영어 과학 주제 어휘 완벽 정복 | 물리·화학·생물·지구과학 필수 어휘, 1:1 맞춤 어휘 지도 [2025년]"
+tags: ["영어", "어휘", "과학", "science vocabulary", "수능", "독해", "1:1과외"]
+featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+---
+
+## 과학 지문에 나오는 영어 단어가 너무 어렵다고요? 전문 용어 때문에 지문을 이해 못 한다고 느끼시죠.
+
+과학 어휘는 주제별 묶음 학습으로 반드시 정복할 수 있습니다. 수능 영어 지문에서 과학 기술 25%, 생물 의학 15%, 환경 10%로 전체의 50% 이상이 과학 관련입니다. 연구 관련 동사로 study, research, investigate, analyze, demonstrate가 자주 나오고 결과 관련 명사로 result, outcome, finding, conclusion, evidence가 필수입니다. 핵심 어휘 100개만 알면 대부분의 과학 지문을 이해할 수 있습니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+수능 빈출 과학 어휘를 주제별로 정리합니다. 효율적인 학습 순서를 제시합니다.
+</div>
+
+## 분야별 핵심 어휘
+
+물리학은 motion 운동, velocity 속도, force 힘, energy 에너지, gravity 중력입니다. 전기 관련으로 current 전류, voltage 전압, circuit 회로입니다. 화학은 element 원소, atom 원자, molecule 분자, reaction 반응, compound 화합물입니다. 생물학은 cell 세포, organism 유기체, gene 유전자, evolution 진화, ecosystem 생태계입니다. 지구과학은 atmosphere 대기, climate 기후, erosion 침식, volcano 화산입니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+물리 화학 생물 지구과학으로 분류하여 학습합니다. 연관 단어를 함께 외워 효율을 높입니다.
+</div>
+
+## 과학 지문 독해 팁
+
+과학 지문은 수동태가 70%입니다. The experiment was conducted처럼 능동보다 수동이 많습니다. 인과관계 표현으로 원인은 because, due to, as a result of이고 결과는 therefore, thus, consequently입니다. 순서 표현으로 First, Second, Finally가 있고 대조 표현으로 However, In contrast, On the other hand가 있습니다. 예시 표현으로 For example, Such as, For instance를 찾아보세요.
+
+{{< cta-dual type="final" >}}
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+과학 지문의 구조와 연결어를 분석합니다. 지문 유형별 독해 전략을 가르칩니다.
+</div>
+
+## 효과적인 학습법
+
+어근을 활용하면 쉬워집니다. photo 빛 + synthesis 합성 = photosynthesis 광합성, bio 생명 + logy 학문 = biology 생물학입니다. 어근을 알면 모르는 용어도 유추 가능합니다. 문맥 학습으로 문장과 함께 외웁니다. Plants produce oxygen through photosynthesis처럼 예문으로 외우면 실전 독해에 도움됩니다. 시각화로 세포 구조 그림에 부위별 영어 이름을 표시하면 오래 기억됩니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+어근 학습과 문맥 학습을 병행합니다. 실전 지문으로 적용 연습을 합니다.
+</div>
+
+## 자주 묻는 질문
+
+**Q. 과학 어휘는 어떻게 외우나요?**
+
+주제별로 묶어서 외우세요. 물리 화학 생물 지구과학으로 분류하고 연관 단어를 함께 외우면 체계적으로 암기됩니다.
+
+**Q. 모든 과학 용어를 외워야 하나요?**
+
+아니요, 빈출 100개면 충분합니다. 핵심 용어만 완벽히 익히면 대부분의 과학 지문을 이해할 수 있습니다.
+
+**Q. 과학 지문이 왜 어렵나요?**
+
+전문 용어와 수동태가 많기 때문입니다. 핵심 어휘만 알면 구조는 단순합니다.
+
+## 마무리
+
+과학 어휘는 주제별로 체계적으로 정리하면 쉽게 정복할 수 있습니다. 매일 10개씩 10일이면 100개를 마스터할 수 있습니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+과학 어휘 전문 1:1 과외로 효율적으로 학습합니다. 실전 지문으로 연습하여 빠르게 실력을 향상시킵니다.
+</div>
+

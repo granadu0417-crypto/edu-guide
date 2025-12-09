@@ -2,7 +2,7 @@
 title: 서울 지역 교육정보
 description: 서울 25개 자치구별 교육 환경과 학원 정보를 한눈에 확인하세요. 강남, 송파, 노원 등 지역별 특성에 맞는 최적의 학습 환경을
   찾아드립니다. 우리 동네 최고의 교육 시설과 과외 정보를 제공합니다 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다.
-featured_image: https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1200&h=630&fit=crop"
 tags:
 - 가이드
 - 교육정보
@@ -16,63 +16,106 @@ tags:
 
 서울은 대한민국 교육의 중심지로, **25개 자치구마다 고유한 교육 환경**을 가지고 있습니다. 우리 동네에 최적화된 학습 전략을 찾아보세요.
 
-## 📍 서울 주요 교육 특구
+## 📍 서울 25개 자치구 선택
 
-### 강남구 (대치동, 압구정동)
-**대한민국 교육 1번지**로 불리는 강남구는 최고의 교육 인프라를 자랑합니다.
+원하는 자치구를 클릭하여 해당 지역의 교육 정보를 확인하세요.
 
-**교육 특징:**
+<style>
+.district-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 12px;
+  margin: 30px 0;
+  padding: 0;
+}
+
+.district-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 12px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 15px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.25);
+  text-align: center;
+  min-height: 60px;
+}
+
+.district-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+.district-btn:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 768px) {
+  .district-grid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+  }
+
+  .district-btn {
+    padding: 14px 8px;
+    font-size: 14px;
+    min-height: 55px;
+  }
+}
+</style>
+
+<div class="district-grid">
+  <a href="/cities/강남구/" class="district-btn">강남구</a>
+  <a href="/cities/강동구/" class="district-btn">강동구</a>
+  <a href="/cities/강북구/" class="district-btn">강북구</a>
+  <a href="/cities/강서구/" class="district-btn">강서구</a>
+  <a href="/cities/관악구/" class="district-btn">관악구</a>
+  <a href="/cities/광진구/" class="district-btn">광진구</a>
+  <a href="/cities/구로구/" class="district-btn">구로구</a>
+  <a href="/cities/금천구/" class="district-btn">금천구</a>
+  <a href="/cities/노원구/" class="district-btn">노원구</a>
+  <a href="/cities/도봉구/" class="district-btn">도봉구</a>
+  <a href="/cities/동대문구/" class="district-btn">동대문구</a>
+  <a href="/cities/동작구/" class="district-btn">동작구</a>
+  <a href="/cities/마포구/" class="district-btn">마포구</a>
+  <a href="/cities/서대문구/" class="district-btn">서대문구</a>
+  <a href="/cities/서초구/" class="district-btn">서초구</a>
+  <a href="/cities/성동구/" class="district-btn">성동구</a>
+  <a href="/cities/성북구/" class="district-btn">성북구</a>
+  <a href="/cities/송파구/" class="district-btn">송파구</a>
+  <a href="/cities/양천구/" class="district-btn">양천구</a>
+  <a href="/cities/영등포구/" class="district-btn">영등포구</a>
+  <a href="/cities/용산구/" class="district-btn">용산구</a>
+  <a href="/cities/은평구/" class="district-btn">은평구</a>
+  <a href="/cities/종로구/" class="district-btn">종로구</a>
+  <a href="/cities/중구/" class="district-btn">중구</a>
+  <a href="/cities/중랑구/" class="district-btn">중랑구</a>
+</div>
+
+## 🏫 서울 교육 환경 특징
+
+### 강남권 (강남·서초·송파·강동)
 - 대형 입시학원 밀집 지역
-- 프리미엄 1:1 과외 활성화
-- 수능 및 내신 전문 학원 다수
-- 24시간 스터디카페 운영
+- 프리미엄 교육 서비스
+- 최신 교육 트렌드 반영
 
-**추천 학습 전략**: 내신과 수능을 동시에 준비할 수 있는 체계적 커리큘럼
-
-### 송파구 (잠실동, 가락동)
-강남에 이은 교육 강자로, **균형 잡힌 교육 환경**을 제공합니다.
-
-**교육 특징:**
-- 중대형 학원 다수
-- 합리적 가격의 우수한 교육 시설
-- 신규 학원 지속적 유입
-- 학부모 커뮤니티 활성화
-
-**추천 학습 전략**: 학원과 과외를 병행한 맞춤형 학습
-
-### 노원구 (중계동)
-**서울 북부 최대 교육 특구**로 실속형 교육의 메카입니다.
-
-**교육 특징:**
-- 가성비 좋은 중소형 학원
-- 과목별 전문 학원 밀집
-- 경쟁력 있는 과외 시장
-- 독서실 및 스터디카페 다수
-
-**추천 학습 전략**: 과목별 전문 학원 활용으로 효율적 학습
-
-## 🏫 자치구별 교육 환경
-
-### 강북권
-**노원구**, **강북구**, **도봉구**, **성북구**, **중랑구**, **동대문구**
+### 강북권 (노원·강북·도봉·성북·중랑·동대문)
 - 중소형 학원 중심의 실속형 교육
 - 과목별 전문 학원 발달
 - 합리적 가격의 양질의 교육
 
-### 강남권
-**강남구**, **서초구**, **송파구**, **강동구**
-- 대형 입시학원 밀집
-- 프리미엄 교육 서비스
-- 최신 교육 트렌드 반영
-
-### 강서권
-**강서구**, **양천구**, **구로구**, **금천구**, **영등포구**, **동작구**, **관악구**
+### 강서권 (강서·양천·구로·금천·영등포·동작·관악)
 - 균형 잡힌 교육 인프라
 - 지역 밀착형 학원 운영
 - 다양한 가격대의 교육 서비스
 
-### 도심권
-**종로구**, **중구**, **용산구**, **마포구**, **서대문구**, **은평구**
+### 도심권 (종로·중구·용산·마포·서대문·은평)
 - 전통적 교육 환경
 - 대학가 인근 교육 시설
 - 소수정예 학원 특화

@@ -3,7 +3,7 @@ title: 경기도 지역 교육정보
 description: 경기도 31개 시군별 교육 환경과 학원 정보를 한눈에 확인하세요. 분당, 일산, 평촌, 수지 등 지역별 특성에 맞는 최적의
   학습 환경을 찾아드립니다. 수도권 최대 교육 인프라를 활용한 학습 전략을 제시합니다 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을
   찾아드립니다.
-featured_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
 tags:
 - 가이드
 - 교육정보
@@ -17,51 +17,102 @@ tags:
 
 경기도는 대한민국 **최대 규모의 교육 인프라**를 보유한 지역으로, **31개 시군마다 독특한 교육 환경**을 가지고 있습니다. 우리 지역에 최적화된 학습 전략을 찾아보세요.
 
-## 📍 경기도 주요 교육 특구
+## 📍 경기도 시/군 선택
+
+원하는 지역을 클릭하여 해당 지역의 교육 정보를 확인하세요.
+
+<style>
+.gyeonggi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 12px;
+  margin: 30px 0;
+  padding: 0;
+}
+
+.gyeonggi-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 12px;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 15px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(240, 147, 251, 0.25);
+  text-align: center;
+  min-height: 60px;
+}
+
+.gyeonggi-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(240, 147, 251, 0.4);
+  background: linear-gradient(135deg, #f5576c 0%, #f093fb 100%);
+}
+
+.gyeonggi-btn:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 768px) {
+  .gyeonggi-grid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 10px;
+  }
+
+  .gyeonggi-btn {
+    padding: 14px 8px;
+    font-size: 14px;
+    min-height: 55px;
+  }
+}
+</style>
+
+<div class="gyeonggi-grid">
+  <a href="/cities/고양시/" class="gyeonggi-btn">고양시</a>
+  <a href="/cities/광명시/" class="gyeonggi-btn">광명시</a>
+  <a href="/cities/광주시/" class="gyeonggi-btn">광주시</a>
+  <a href="/cities/구리시/" class="gyeonggi-btn">구리시</a>
+  <a href="/cities/군포시/" class="gyeonggi-btn">군포시</a>
+  <a href="/cities/김포시/" class="gyeonggi-btn">김포시</a>
+  <a href="/cities/남양주시/" class="gyeonggi-btn">남양주시</a>
+  <a href="/cities/부천시/" class="gyeonggi-btn">부천시</a>
+  <a href="/cities/분당구/" class="gyeonggi-btn">분당구</a>
+  <a href="/cities/성남시/" class="gyeonggi-btn">성남시</a>
+  <a href="/cities/수원시/" class="gyeonggi-btn">수원시</a>
+  <a href="/cities/시흥시/" class="gyeonggi-btn">시흥시</a>
+  <a href="/cities/안산시/" class="gyeonggi-btn">안산시</a>
+  <a href="/cities/안성시/" class="gyeonggi-btn">안성시</a>
+  <a href="/cities/안양시/" class="gyeonggi-btn">안양시</a>
+  <a href="/cities/양주시/" class="gyeonggi-btn">양주시</a>
+  <a href="/cities/오산시/" class="gyeonggi-btn">오산시</a>
+  <a href="/cities/용인시/" class="gyeonggi-btn">용인시</a>
+  <a href="/cities/의정부시/" class="gyeonggi-btn">의정부시</a>
+  <a href="/cities/이천시/" class="gyeonggi-btn">이천시</a>
+  <a href="/cities/일산/" class="gyeonggi-btn">일산</a>
+  <a href="/cities/파주시/" class="gyeonggi-btn">파주시</a>
+  <a href="/cities/평촌/" class="gyeonggi-btn">평촌</a>
+  <a href="/cities/평택시/" class="gyeonggi-btn">평택시</a>
+  <a href="/cities/하남시/" class="gyeonggi-btn">하남시</a>
+  <a href="/cities/화성시/" class="gyeonggi-btn">화성시</a>
+</div>
+
+## 🏫 경기도 주요 교육 특구
 
 ### 분당구 (성남시)
-**강남을 잇는 교육 1번지**로 수준 높은 교육 환경을 자랑합니다.
+**강남을 잇는 교육 1번지** - 판교 테크노밸리 배경의 높은 교육열, 대형 입시학원 밀집
 
-**교육 특징:**
-- 판교 테크노밸리 배경의 높은 교육열
-- 대형 입시학원 및 프리미엄 과외 활성화
-- STEM 교육 특화 프로그램 다수
-- 24시간 운영 스터디카페 인프라
+### 일산 (고양시)
+**서울 강북권 최고 교육 특구** - 마두역/주엽역 중심 학원가, 균형 잡힌 교육 환경
 
-**추천 학습 전략**: 내신과 비교과를 동시에 준비하는 종합 전략
+### 평촌 (안양시)
+**검증된 입시 실적** - 전통적 학원가의 체계적 커리큘럼, 안정적 교육 커뮤니티
 
-### 일산동구/서구 (고양시)
-**서울 강북권 최고 교육 특구**로 균형 잡힌 교육 환경을 제공합니다.
-
-**교육 특징:**
-- 대형 아파트 단지 중심의 학원가 형성
-- 합리적 가격의 우수한 교육 서비스
-- 마두역/주엽역 중심 학원 밀집
-- 영어 회화 및 코딩 교육 특화
-
-**추천 학습 전략**: 학원과 온라인 강의 병행으로 효율성 극대화
-
-### 평촌동 (안양시)
-**안양 과천 교육의 중심**으로 검증된 입시 실적을 보유합니다.
-
-**교육 특징:**
-- 오래된 학원가의 체계적 커리큘럼
-- 수능 및 내신 전문 학원 다수
-- 중소형 학원의 밀착 관리
-- 안정적인 교육 커뮤니티
-
-**추천 학습 전략**: 과목별 전문 학원 활용한 맞춤형 학습
-
-### 수지구 (용인시)
-**신흥 교육 강자**로 빠르게 성장하는 지역입니다.
-
-**교육 특징:**
-- 신규 대형 학원 지속 유입
-- 최신 교육 트렌드 빠른 도입
-- 영재교육 및 특목고 대비 활성화
-- 학부모 교육 정보 커뮤니티 활발
-
-**추천 학습 전략**: 선행학습과 심화학습 균형
+### 수원/용인
+**경기 남부 교육 중심** - 신규 대형 학원 유입, 최신 교육 트렌드 빠른 도입
 
 ## 🏫 권역별 교육 환경
 

@@ -108,29 +108,11 @@ title = "과외를부탁해"
     url = "/exam/"
     weight = 4
 
-  # 지역정보 (드롭다운)
+  # 지역정보 (단독 메뉴 - /cities/로 연결)
   [[menu.main]]
     name = "지역정보"
-    identifier = "local"
+    url = "/cities/"
     weight = 5
-
-  [[menu.main]]
-    name = "서울"
-    parent = "local"
-    url = "/local/seoul/"
-    weight = 1
-
-  [[menu.main]]
-    name = "경기"
-    parent = "local"
-    url = "/local/gyeonggi/"
-    weight = 2
-
-  [[menu.main]]
-    name = "전체 지역"
-    parent = "local"
-    url = "/local/"
-    weight = 3
 
   # 무료 상담 (단독 메뉴)
   [[menu.main]]
@@ -143,6 +125,7 @@ title = "과외를부탁해"
   tag = "tags"
   grade = "grades"
   region = "regions"
+  city = "cities"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -156,3 +139,4 @@ title = "과외를부탁해"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # HTML 렌더링 허용 (상담 페이지 등에서 필요)
+

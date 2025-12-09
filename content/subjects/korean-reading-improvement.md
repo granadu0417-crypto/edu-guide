@@ -16,7 +16,7 @@ tags:
 - 국어공부
 - 비문학
 - 기초
-featured_image: https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop
+featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
 draft: false
 ---
 
