@@ -86,9 +86,9 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 수학 과외 비용은 수업 횟수와 시간에 따라 달라집니다.
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만~32만원, 주2회 29만~47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

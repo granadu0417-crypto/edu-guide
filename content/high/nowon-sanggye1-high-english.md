@@ -90,9 +90,9 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 ## 수업료 안내
 
-**고1~2**는 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 52만원 선입니다.
+**고1~2**는 주1회 25만~36만원, 주2회 33만~53만원 선입니다.
 
-**고3**은 주1회 기준 28만원에서 38만원, 주2회 기준 45만원에서 62만원이 일반적입니다.
+**고3**은 주1회 28만~40만원, 주2회 37만~59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
