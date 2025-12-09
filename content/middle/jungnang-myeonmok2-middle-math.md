@@ -14,7 +14,7 @@ tags:
   - 중학교수학과외
   - 내신대비
 description: "중랑구 면목2동 중학생을 위한 1:1 맞춤 수학과외. 중랑구 관내 학교 내신 완벽 대비, 개념 이해부터 심화 문제까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1679188138635-5s3u1t4q6r82?w=1200&h=630&fit=crop"
 ---
 
 수학 성적이 오르지 않아 고민이신가요? 중학교 때 잡아야 합니다.

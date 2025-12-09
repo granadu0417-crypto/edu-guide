@@ -19,7 +19,7 @@ tags:
   - 대영중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1877188356713-3i1k9j2g4h60?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 신길7동 중학생, 단어 암기가 안 된다면

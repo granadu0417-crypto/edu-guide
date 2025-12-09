@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1862188340268-8t6v4u7r9s15?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 교남동 중학생, 영어 형용사와 부사가 헷갈린다면

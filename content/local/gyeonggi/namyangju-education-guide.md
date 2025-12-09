@@ -9,7 +9,7 @@ regions:
 cities:
   - 남양주시
 tags: ["남양주교육", "남양주학원", "남양주과외", "다산신도시학원", "남양주입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1556155092-8707de31f9c4?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

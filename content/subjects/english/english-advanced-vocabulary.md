@@ -11,7 +11,7 @@ tags:
 - 어휘
 - 1등급
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1874188353480-0f8h6g9d1e37?w=1200&h=630&fit=crop"
 ---
 
 ## 기본 단어는 아는데 지문에 모르는 단어가 자꾸 나온다고요? 1등급을 위한 고급 어휘가 부족하다고 느끼시죠.

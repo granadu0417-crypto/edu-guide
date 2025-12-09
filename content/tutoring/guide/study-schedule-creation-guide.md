@@ -14,7 +14,7 @@ tags:
 - 영어
 description: 학원과 과외 시간표 작성의 모든 것. 효율적인 시간 배분, 과목별 학습 시간, 휴식 시간 관리 전략을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1877188356713-3i1k9j2g4h60?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

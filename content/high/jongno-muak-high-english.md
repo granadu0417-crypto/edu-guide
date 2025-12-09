@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1826188300602-2j0l8k1h3i59?w=1200&h=630&fit=crop"
 ---
 
 추상적인 지문이 나오면 이해가 안 된다면? 추상 독해력 훈련이 필요합니다.

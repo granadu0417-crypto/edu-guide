@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "부모 코칭의 모든 것 - 자녀와의 효과적인 소통법, 학습지도 전략, 정서적 지원 방법, 성장 마인드셋 형성까지 전문가 노하우를 담은 실전 가이드입니다."
 tags: ["부모코칭", "자녀교육", "부모역할", "학습코칭", "소통법", "양육전략", "교육상담", "가정교육", "과외선택", "학부모교육"]
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596622984703-6b1833c3ff7e?w=1200&h=630&fit=crop"
 ---
 
 ## 아이한테 공부하라고 말하면 자꾸 싸우게 되시죠? 잔소리 없이 공부시키는 방법이 뭔지 모르겠다고요.

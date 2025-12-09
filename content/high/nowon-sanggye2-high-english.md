@@ -19,7 +19,7 @@ tags:
   - 수락고
   - 영어문법
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1834188309480-0r8t6s9p1q37?w=1200&h=630&fit=crop"
 
 ---
 ## 상계2동 고등학생, 영어 독해가 막힌다면

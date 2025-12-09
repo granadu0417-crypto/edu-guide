@@ -19,7 +19,7 @@ tags:
   - 대영중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1652095279611-9f4c3a3e7ab6?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 신길3동 중학생, 학원 효과가 없었다면

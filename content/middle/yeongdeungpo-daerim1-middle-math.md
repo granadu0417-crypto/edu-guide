@@ -18,7 +18,7 @@ tags:
   - 대림중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1859188336935-5q3s1r4o6p82?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 대림1동 중학생, 함수 개념이 헷갈린다면

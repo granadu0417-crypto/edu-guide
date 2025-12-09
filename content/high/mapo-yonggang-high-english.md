@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1536337005238-94b997371b40?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 용강동 고등학생, 독해가 안 되는 이유를 모르겠다면

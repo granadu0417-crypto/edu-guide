@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1872188351268-8d6f4e7b9c15?w=1200&h=630&fit=crop"
 ---
 
 증명 문제에서 논리가 막힌다면? 수학적 논증력이 필요합니다.

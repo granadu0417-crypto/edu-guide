@@ -17,7 +17,7 @@ tags:
   - 삼성고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1692188153068-8f6h4g7d9e15?w=1200&h=630&fit=crop"
 ---
 
 영어 독해와 문법을 따로 공부하면 시간이 오래 걸립니다. 함께 배우면 더 효율적입니다.

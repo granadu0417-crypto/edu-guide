@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1746188212602-2h0j8i1f3g59?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 망원2동 중학생, 수학을 포기하고 싶다면

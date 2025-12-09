@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1551361415-69c87624334f?w=1200&h=630&fit=crop"
 ---
 
 ## 수학 공부할 의욕이 전혀 안 생긴다고요? 왜 수학을 해야 하는지 이유를 모르겠다고 느끼시죠.

@@ -8,7 +8,7 @@ regions:
 cities:
   - 강서구
 tags: ["강서구", "수학과외", "목동", "화곡동", "염창동", "수학", "과외", "목동학원가", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&h=630&fit=crop"
 ---
 
 "목동 학원가가 있으니까 과외는 필요 없겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 그렇게 생각하실 수 있어요.
 하지만 **학원과 과외는 역할이 다릅니다.** 학원에서 배운 내용을 과외로 보완하면 시너지가 나요.
 
-![강서구 수학과외](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=600&fit=crop)
+![강서구 수학과외](https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=600&fit=crop)
 
 ## 강서구 수학 교육, 어떤 특징이 있나요?
 

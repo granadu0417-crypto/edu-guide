@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902002002008-b9c0d1e2f3a4?w=1200&h=630&fit=crop"
 ---
 
 ## 냉전과 세계화가 헷갈리고 국제 질서가 복잡하다고요? 2차 세계대전 이후부터 정리하면 됩니다.

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1822188296268-8f6h4g7d9e15?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 상암동 중학생, 본문 암기가 안 된다면

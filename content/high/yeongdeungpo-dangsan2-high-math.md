@@ -19,7 +19,7 @@ tags:
   - 선유고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1685188145291-1y9a7z0w2x48?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 당산2동 고등학생, 킬러문항에서 막힌다면

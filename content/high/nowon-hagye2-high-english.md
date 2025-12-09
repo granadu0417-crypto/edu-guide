@@ -17,7 +17,7 @@ tags:
   - 광운대부고
   - 내신특화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=630&fit=crop"
 
 ---
 ## 하계2동 고등학생, 학교 시험에 맞춘 영어 대비가 필요하다면

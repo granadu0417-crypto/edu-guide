@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1850188327046-6h4j2i5f7g93?w=1200&h=630&fit=crop"
 ---
 ## 중학교 공부, 어떻게 시작해야 할지 막막하시죠?
 

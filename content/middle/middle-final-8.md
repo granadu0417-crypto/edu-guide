@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1873188352379-9e7g5f8c0d26?w=1200&h=630&fit=crop"
 ---
 ## 역사 연대와 인물, 다 외워야 하나요?
 

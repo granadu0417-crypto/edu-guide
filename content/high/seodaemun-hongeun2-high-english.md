@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 
 ---
 ## 서대문구 홍은2동 고등학생, EBS 연계가 어렵다면

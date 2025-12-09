@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "용산구 이촌2동 고등학생을 위한 영어과외입니다. 중경고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1873188352379-9e7g5f8c0d26?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 때문에 대학이 걱정되시나요?

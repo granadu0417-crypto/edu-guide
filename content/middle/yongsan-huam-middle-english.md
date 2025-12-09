@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "용산구 후암동 중학생을 위한 영어과외입니다. 용산중·보성여중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902001001009-c9d0e1f2a3b4?w=1200&h=630&fit=crop"
 ---
 
 ## 영어, 포기하기엔 아직 이릅니다

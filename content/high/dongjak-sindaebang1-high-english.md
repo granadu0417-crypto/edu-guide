@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1692188153068-8f6h4g7d9e15?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 신대방1동 고등학생, 독해가 안 되는 이유를 모르겠다면

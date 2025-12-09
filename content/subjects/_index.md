@@ -11,7 +11,7 @@ tags:
   - 수학
   - 과학
   - 사회
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?w=1200&h=630&fit=crop"
 ---
 
 ## 과목별 공부법

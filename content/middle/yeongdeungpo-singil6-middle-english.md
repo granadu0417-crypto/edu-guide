@@ -19,7 +19,7 @@ tags:
   - 신길중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1701188163057-7o5q3p6m8n04?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 신길6동 중학생, 듣기 점수가 안 나온다면

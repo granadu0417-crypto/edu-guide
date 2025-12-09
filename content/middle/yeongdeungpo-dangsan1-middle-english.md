@@ -19,7 +19,7 @@ tags:
   - 양화중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1550432163-9cb326104944?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 당산1동 중학생, 특목고 진학을 꿈꾼다면

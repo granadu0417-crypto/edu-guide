@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1555992336-fb0d29498b13?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 숭인1동 중학생, 수학 정수와 유리수가 어렵다면

@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["영등포구", "영어과외", "여의도", "당산동", "영등포동", "영어", "과외", "여의도금융가", "내신영어", "수능영어"]
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1644026593474-cd52a3e7d0be?w=1200&h=630&fit=crop"
 ---
 
 "여의도에 외국계 회사가 많은데, 원어민 과외도 구할 수 있나요?"

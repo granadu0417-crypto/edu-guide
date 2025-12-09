@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 왕십리2동 고등학생, 영어가 갑자기 어려워졌다면

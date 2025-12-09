@@ -21,7 +21,7 @@ tags:
   - 영어독해
   - 신반포역
   - 고속터미널역
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1868188346824-4z2b0a3x5y71?w=1200&h=630&fit=crop"
 ---
 ## 서초구 잠원동 중학생, 영어 간접의문문이 헷갈린다면
 

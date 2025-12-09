@@ -12,7 +12,7 @@ tags:
 - 의식요
 - 문학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1863188341379-9u7w5v8s0t26?w=1200&h=630&fit=crop"
 ---
 
 ## 민요가 구비문학에서 왜 중요한지 모르겠다고요? 서민의 삶과 정서가 담긴 노래입니다.

@@ -10,7 +10,7 @@ tags:
 - 세포
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1875188354591-1g9i7h0e2f48?w=1200&h=630&fit=crop"
 ---
 
 ## 세포소기관이 다 비슷해 보이고 기능이 헷갈린다고요? 기능별로 정리하면 명확해집니다.

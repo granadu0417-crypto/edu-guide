@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1612011213103-e3629ccb8b4c?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 숭인1동 중학생, 영어 부정대명사가 헷갈린다면

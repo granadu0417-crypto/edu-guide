@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 상봉2동 중학생을 위한 1:1 맞춤 영어과외. 상봉중 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1585155770913-5bde2a9d5e94?w=1200&h=630&fit=crop"
 ---
 
 영어 듣기는 되는데 문법이 약하다면? 지금 바로 보완해야 합니다.

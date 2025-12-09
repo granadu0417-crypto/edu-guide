@@ -7,7 +7,7 @@ lastmod: 2025-01-18
 reading_time: "713줄"
 draft: false
 description: "고등학생 수능 만점을 위한 완벽 과외 전략. 국어, 수학, 영어, 탐구 과목별 수능 대비법부터 기출 분석, 킬러 문항 정복, 실전 감각까지. 정시 전형 목표 학생을 위한 수능 과외 완벽 가이드."
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1878188357824-4j2l0k3h5i71?w=1200&h=630&fit=crop"
 tags: ["수능과외", "정시대비", "수능만점", "기출분석", "킬러문항", "모의고사", "수능전략", "고3과외", "입시과외"]
 categories: ["고등"]
 sitemap:

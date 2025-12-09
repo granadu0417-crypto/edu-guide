@@ -19,7 +19,7 @@ tags:
 - 영어문법
 - 영어독해
 - 수서교통요지
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1873188352379-9e7g5f8c0d26?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 수서동 중학생, 영어 분사 구문이 복잡하다면

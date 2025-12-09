@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["홍대", "영어과외", "원어민과외", "홍익대", "카페영어", "영어회화", "마포구"]
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1569012871812-f38ee64cd54c?w=1200&h=630&fit=crop"
 ---
 
 "홍대에 원어민이 정말 많은데, 영어 교육에 활용할 수 있을까요?"

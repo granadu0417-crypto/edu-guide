@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1745188211591-1g9i7h0e2f48?w=1200&h=630&fit=crop"
 
 ---
 ## 관악구 대학동 중학생, 수학 때문에 전체 성적이 발목 잡히나요?

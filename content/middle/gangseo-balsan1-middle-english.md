@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1874188353480-0f8h6g9d1e37?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 발산1동 중학생, 영어 점수가 80점대에서 안 오르나요?

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 옥수동 중학생, 영어 공부법을 모르겠다면

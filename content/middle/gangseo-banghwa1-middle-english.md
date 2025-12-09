@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1856188333602-2n0p8o1l3m59?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 방화1동 중학생, 영어 지문이 길어지니 읽기 싫어하나요?

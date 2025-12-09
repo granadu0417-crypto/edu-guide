@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 망원1동 고등학생, 빈칸 추론이 어렵다면

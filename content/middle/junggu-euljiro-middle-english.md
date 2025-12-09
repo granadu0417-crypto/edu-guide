@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1881188361157-7m5o3n6k8l04?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 을지로동 중학생, 영어 지각동사가 헷갈린다면

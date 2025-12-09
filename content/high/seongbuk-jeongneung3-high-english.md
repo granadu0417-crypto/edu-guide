@@ -19,7 +19,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 정릉3동 고등학생, 성적이 멈춰 있다면

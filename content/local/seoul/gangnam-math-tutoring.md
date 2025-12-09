@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=
 
 강남구에서 수학과외를 알아보시는 학부모님들의 공통된 고민입니다. 정답부터 말씀드리면, 아이의 현재 수준과 학습 성향에 따라 완전히 달라집니다.
 
-![강남구 수학교육](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=600&fit=crop)
+![강남구 수학교육](https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=600&fit=crop)
 
 ## 강남구, 왜 수학 교육의 메카일까요?
 

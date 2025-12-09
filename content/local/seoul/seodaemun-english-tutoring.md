@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["서대문구", "영어과외", "신촌", "연희동", "홍은동", "영어", "과외", "연세대", "이화여대", "내신영어", "수능영어"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
 ---
 
 "연대 앞이니까 영어과외 선생님 많겠죠?"

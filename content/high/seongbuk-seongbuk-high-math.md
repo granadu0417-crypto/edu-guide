@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 성북동 고등학생, 수학 성적 향상이 필요하다면

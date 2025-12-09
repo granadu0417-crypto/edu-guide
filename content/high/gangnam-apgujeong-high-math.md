@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 압구정고
   - 현대고
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1640067580315-d9be3b09c6d3?w=1200&h=630&fit=crop"
 ---
 
 경시대회 수준 문제까지 대비해야 한다면? 최상위권 심화 훈련이 필요합니다.

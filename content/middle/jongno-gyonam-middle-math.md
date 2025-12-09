@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1772188241268-8h6j4i7f9g15?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 교남동 중학생, 수학 경우의 수가 헷갈린다면

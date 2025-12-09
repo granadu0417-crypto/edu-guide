@@ -14,7 +14,7 @@ tags:
 - 킬러문제
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=630&fit=crop"
 ---
 
 ## 미적분 킬러가 도저히 안 풀린다고요? 시간은 항상 부족하고 1등급이 나올 것 같지 않다고 느끼시죠.

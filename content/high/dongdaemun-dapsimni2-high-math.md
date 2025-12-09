@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서울정화고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1740188206046-6b4d2c5z7a93?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 답십리2동 고등학생, 수학 때문에 전체 성적이 발목 잡히나요?

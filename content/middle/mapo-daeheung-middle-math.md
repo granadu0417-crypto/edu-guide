@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1689188149735-5c3e1d4a6b82?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 대흥동 중학생, 선행보다 현행이 중요하다면

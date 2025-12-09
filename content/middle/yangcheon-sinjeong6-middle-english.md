@@ -18,7 +18,7 @@ tags:
   - 목일중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1863188341379-9u7w5v8s0t26?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정6동 중학생, 상위권 도약이 필요하다면

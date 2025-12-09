@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1741188207157-7c5e3d6a8b04?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 망원2동 고등학생, 미적분이 어렵다면

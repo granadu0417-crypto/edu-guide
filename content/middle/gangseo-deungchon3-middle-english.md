@@ -21,7 +21,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 등촌3동 중학생, 영어 시험 시간이 항상 부족한가요?

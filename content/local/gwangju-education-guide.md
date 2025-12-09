@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "광주시의 학원, 과외, 교육 환경을 완벽 분석합니다. 전남대, GIST 과외부터 수완지구·첨단지구 학원가까지, 예술·교육 도시 광주의 맞춤 정보를 제공합니다."
 tags: ["광주교육", "광주학원", "광주과외", "전남대과외", "GIST과외", "수완지구학원", "첨단지구학원", "봉선동학원", "예술교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1900188382046-6f4h2g5d7e93?w=1200&h=630&fit=crop"
 ---
 
 ## 광주에서 아이 교육 어떻게 시작해야 할까요? 수완지구가 좋다던데 봉선동과 뭐가 다른지 궁금하시죠.

@@ -9,7 +9,7 @@ regions:
 cities:
   - 파주시
 tags: ["파주교육", "파주학원", "파주과외", "운정학원", "파주입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

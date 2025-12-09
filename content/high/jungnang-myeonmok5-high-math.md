@@ -15,7 +15,7 @@ tags:
   - 수능수학
   - 내신대비
 description: "중랑구 면목5동 고등학생을 위한 1:1 맞춤 수학과외. 중랑구 관내 고등학교 내신 완벽 대비, 수능 수학까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1776188245602-2l0n8m1j3k59?w=1200&h=630&fit=crop"
 ---
 
 수포자가 되기 전에, 지금 잡아야 합니다. 고등 수학은 시간이 생명입니다.

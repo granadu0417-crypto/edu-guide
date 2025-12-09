@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1837188312713-3u1w9v2s4t60?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 상월곡동 중학생, 기말고사를 앞두고 있다면

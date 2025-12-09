@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1879188358935-5k3m1l4i6j82?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 용답동 고등학생, 등급이 오르락내리락한다면

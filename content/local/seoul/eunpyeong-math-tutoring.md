@@ -8,7 +8,7 @@ regions:
 cities:
   - 은평구
 tags: ["은평구", "수학과외", "불광동", "응암동", "녹번동", "수학", "과외", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1490633874781-1c63cc424610?w=1200&h=630&fit=crop"
 ---
 
 "은평구는 조용한 주거 지역이라 과외 선생님 찾기 어렵겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 많이들 걱정하시는데요.
 **불광동 학원가가 꽤 탄탄합니다.** 주거 환경이 안정적이어서 장기적인 학습에 오히려 좋아요.
 
-![은평구 수학과외](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=600&fit=crop)
+![은평구 수학과외](https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=600&fit=crop)
 
 ## 은평구 수학 교육, 어떤 특징이 있나요?
 

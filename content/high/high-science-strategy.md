@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등 과학탐구 영역(물리, 화학, 생명과학, 지구과학) 완벽 대비 전략. 과목 선택부터 개념 정립, 킬러 문항 대비, 실전 모의고사까지 과탐 1등급 로드맵."
 tags: ["과학탐구", "과탐과외", "물리과외", "화학과외", "생명과학", "지구과학", "이과과외", "과학공부"]
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1703188165279-9q7s5r8o0p26?w=1200&h=630&fit=crop"
 ---
 
 ## 과탐 어떤 과목을 선택해야 할지 모르겠어요. 물리는 어렵고 지구과학은 쉽다는데 뭘 선택하는 게 유리한가요?

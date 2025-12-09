@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "전남도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 광주 대학생 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["전남과외", "과외", "전남교육", "순천과외", "여수과외", "목포과외", "전남대과외", "조선대과외", "순천대과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1840188316046-6x4z2y5v7w93?w=1200&h=630&fit=crop"
 ---
 
 ## 전남에서 실력 있는 과외 선생님 찾기 어렵지 않나요? 광주까지 가야 하는지 지역 대학생으로 충분한지 궁금하시죠.

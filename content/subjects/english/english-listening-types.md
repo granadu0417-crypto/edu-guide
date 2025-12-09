@@ -13,7 +13,7 @@ tags:
 - 전략
 - listening
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1856188333602-2n0p8o1l3m59?w=1200&h=630&fit=crop"
 ---
 
 ## 수능 듣기 유형이 17개나 되는데 어떻게 외우냐고요? 패턴만 알면 됩니다.

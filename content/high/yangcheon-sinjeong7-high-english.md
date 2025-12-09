@@ -18,7 +18,7 @@ tags:
   - 목동고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정7동 고등학생, 학원에서 효과를 못 봤다면

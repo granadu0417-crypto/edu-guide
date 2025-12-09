@@ -19,7 +19,7 @@ tags:
   - 양강중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1858188335824-4p2r0q3n5o71?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신월5동 중학생, 함수가 이해 안 된다면

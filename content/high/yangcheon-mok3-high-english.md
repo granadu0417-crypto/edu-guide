@@ -19,7 +19,7 @@ tags:
   - 진명여고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1873188352379-9e7g5f8c0d26?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 목3동 고등학생, 내신 등급이 불안하다면

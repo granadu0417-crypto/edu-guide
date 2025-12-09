@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1534312527009-56c7016453e6?w=1200&h=630&fit=crop"
 
 ---
 ## 서대문구 신촌동 고등학생, 독해가 안 되는 이유를 모르겠다면

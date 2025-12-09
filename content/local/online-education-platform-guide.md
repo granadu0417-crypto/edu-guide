@@ -17,7 +17,7 @@ tags:
 - 강동
 - 강북
 - 강서
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827?w=1200&h=630&fit=crop"
 ---
 
 ## 무료로 이용할 수 있는 온라인 강의 사이트가 있다던데, 어떤 것들이 있고 어떻게 활용하나요?

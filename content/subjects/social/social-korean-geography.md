@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1808188280824-4r2t0s3p5q71?w=1200&h=630&fit=crop"
 ---
 
 ## 한반도 지형과 기후가 복잡하고 지역별 특성이 헷갈린다고요? 국토의 위치와 영역부터 파악하면 됩니다.

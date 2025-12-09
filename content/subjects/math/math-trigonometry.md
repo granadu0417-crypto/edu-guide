@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 함수
 - 과외
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1858188335824-4p2r0q3n5o71?w=1200&h=630&fit=crop"
 ---
 
 ## sin, cos, tan이 도대체 뭔지 모르겠다고요? 삼각함수 공식이 너무 많아서 외워지지 않는다고 느끼시죠.

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1716188179602-2d0f8e1b3c59?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 사당1동 중학생, 선행은 했는데 정작 내신 성적이 안 나오나요?

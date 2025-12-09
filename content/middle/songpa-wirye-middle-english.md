@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 위례신사역
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1792188263268-8b6d4c7z9a15?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 위례동 중학생, 영어 접속사의 종류와 쓰임이 헷갈린다면

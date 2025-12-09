@@ -17,7 +17,7 @@ tags:
   - 청원고
   - 용화여고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1640067580315-d9be3b09c6d3?w=1200&h=630&fit=crop"
 
 ---
 ## 상계9동 고등학생, 수학 내신과 수능을 함께 준비하고 싶다면

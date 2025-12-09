@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["중랑구", "수학과외", "면목동", "망우동", "상봉동", "수학", "과외", "중랑천", "내신수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531746790095-6421d761a76a?w=1200&h=630&fit=crop"
 ---
 
 "수학 학원을 다니는데 물어볼 사람이 없어요."

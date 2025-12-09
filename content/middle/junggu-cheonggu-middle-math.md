@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1746188212602-2h0j8i1f3g59?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 청구동 중학생, 수학 대푯값과 산포도가 헷갈린다면

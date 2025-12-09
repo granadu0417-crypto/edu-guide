@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1886188366602-2r0t8s1p3q59?w=1200&h=630&fit=crop"
 
 ---
 ## 강동구 상일2동 중학생, 수학 시험 시간이 항상 부족하다면

@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 서울외국어고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1702188164168-8p6r4q7n9o15?w=1200&h=630&fit=crop"
 
 ---
 ## 창2동 고등학생, 수학 포기를 고민하고 있지는 않나요?

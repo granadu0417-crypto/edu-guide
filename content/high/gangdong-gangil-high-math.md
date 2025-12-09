@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강동고
   - 한영외고
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1872188351268-8d6f4e7b9c15?w=1200&h=630&fit=crop"
 ---
 
 계산은 맞는데 단위나 조건에서 틀린다면? 꼼꼼함 훈련이 필요합니다.

@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["마포구", "과학과외", "홍대", "공덕동", "상암동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
 ---
 
 "홍대 근처에 명문대 대학생이 많은데, 과학 과외 선생님도 찾을 수 있나요?"

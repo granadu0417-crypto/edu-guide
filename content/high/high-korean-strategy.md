@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 국어 영역 완벽 정복 전략 | 수능 국어 독서·문학·화작·언매 영역별 맞춤 과외 로드맵 + 1등급 비법 [2025년]"
 tags: ["국어과외", "수능국어", "국어독서", "국어문학", "국어문법", "화법과작문", "언어와매체", "국어1등급", "고등국어", "내신국어"]
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902001001003-c3d4e5f6a7b8?w=1200&h=630&fit=crop"
 ---
 
 ## 국어는 감으로 푸는 거 아닌가요? 독서 지문이 너무 어렵고 시간도 부족해요. 국어 성적을 어떻게 올려야 하나요?

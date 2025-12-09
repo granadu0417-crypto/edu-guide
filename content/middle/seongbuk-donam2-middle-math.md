@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1690188150846-6d4f2e5b7c93?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 돈암2동 중학생, 수학 공부 방향이 안 잡힌다면

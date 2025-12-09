@@ -11,7 +11,7 @@ tags:
 - 연어
 - collocation
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1762188230268-8x6z4y7v9w15?w=1200&h=630&fit=crop"
 ---
 
 ## Do homework인지 make homework인지 헷갈린다고요? 단어는 아는데 조합이 어색하다고 느끼시죠.

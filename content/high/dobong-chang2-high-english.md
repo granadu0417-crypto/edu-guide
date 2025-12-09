@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 서울외국어고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1617104678098-de229db51175?w=1200&h=630&fit=crop"
 
 ---
 ## 창2동 고등학생, 긴 문장만 나오면 해석이 꼬이나요?

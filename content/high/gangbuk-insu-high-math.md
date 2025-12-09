@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?w=1200&h=630&fit=crop"
 ---
 
 수학 공부를 시작은 하는데 끝까지 못 하겠나요?

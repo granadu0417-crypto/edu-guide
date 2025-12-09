@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
 
 ---
 ## 서대문구 충현동 고등학생, 영어 성적이 오르지 않는다면

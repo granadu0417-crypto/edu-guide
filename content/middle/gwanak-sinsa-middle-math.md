@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1727188191713-3o1q9p2m4n60?w=1200&h=630&fit=crop"
 
 ---
 ## 관악구 신사동 중학생, 서술형 문제에서 점수를 많이 잃나요?

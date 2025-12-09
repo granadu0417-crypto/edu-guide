@@ -9,7 +9,7 @@ regions:
 cities:
   - 성남시
 tags: ["성남영어과외", "분당영어과외", "성남초등영어", "성남중등영어", "성남고등영어", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

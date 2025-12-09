@@ -11,7 +11,7 @@ tags:
 - 1:1과외
 - 중1학습
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902002002002-b3c4d5e6f7a8?w=1200&h=630&fit=crop"
 ---
 ## 초등학교 때 100점 맞던 아이가 왜 갑자기 70점을 받아올까요?
 

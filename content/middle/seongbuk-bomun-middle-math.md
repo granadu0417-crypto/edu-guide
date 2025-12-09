@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1561065091-89d1b6f4c57e?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 보문동 중학생, 서술형 문제가 어렵다면

@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 역삼IT금융
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1827188301713-3k1m9l2i4j60?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 역삼2동 중학생, 영어 현재완료 시제가 헷갈린다면

@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["강남구", "과학과외", "대치동", "역삼동", "삼성동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1862188340268-8t6v4u7r9s15?w=1200&h=630&fit=crop"
 ---
 
 "대치동에서 과학 과외 선생님을 찾으려면 어떻게 해야 하나요?"

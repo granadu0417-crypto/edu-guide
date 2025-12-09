@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1659180619874-5f1e3c4f6b2d?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 청구동 중학생, 영어 의문사가 헷갈린다면

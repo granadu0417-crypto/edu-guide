@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 올림픽공원
-featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902004004008-b1c2d3e4f5a6?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 방이1동 중학생, 수학 원과 부채꼴의 호와 넓이가 헷갈린다면

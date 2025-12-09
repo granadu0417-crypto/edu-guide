@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 동국대사범대부속고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1767188235713-3c1e9d2a4b60?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 장안1동 고등학생, 함수가 나오면서 수학이 싫어졌나요?

@@ -8,7 +8,7 @@ regions:
 cities:
   - 강동구
 tags: ["강동구", "수학과외", "고덕동", "명일동", "천호동", "수학", "과외", "초등수학", "중등수학", "고등수학", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1490633874781-1c63cc424610?w=1200&h=630&fit=crop"
 ---
 
 "강동구 수학과외, 송파구랑 비교하면 어때요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 많이들 물어보시는 부분입니다.
 솔직히 말씀드리면, **강동구는 송파구보다 경쟁이 덜 치열합니다.** 그래서 오히려 아이가 자기 페이스대로 공부할 수 있어요.
 
-![강동구 수학과외](https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=600&fit=crop)
+![강동구 수학과외](https://images.unsplash.com/photo-1675188134191-1o9q7p0m2n48?w=1200&h=600&fit=crop)
 
 ## 강동구 수학 교육, 어떤 특징이 있나요?
 

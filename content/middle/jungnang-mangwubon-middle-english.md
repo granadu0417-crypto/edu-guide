@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 망우본동 중학생을 위한 1:1 맞춤 영어과외. 동원중, 봉화중 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1790188261046-6z4b2a5x7y93?w=1200&h=630&fit=crop"
 ---
 
 동원중, 봉화중 영어 내신 완벽 대비! 학교별 기출 분석으로 준비합니다.

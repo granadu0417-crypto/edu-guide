@@ -18,7 +18,7 @@ tags:
   - 동일여고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1758188225824-4t2v0u3r5s71?w=1200&h=630&fit=crop"
 ---
 
 수학 점수가 들쑥날쑥하다면, 개념이 완전히 잡히지 않은 것입니다.

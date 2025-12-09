@@ -10,7 +10,7 @@ tags:
 - 전기화학
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1857188334713-3o1q9p2m4n60?w=1200&h=630&fit=crop"
 ---
 
 ## 화학 전지와 전기 분해가 헷갈리고 양극 음극 구분이 안 된다고요? 전자의 이동을 따라가면 됩니다.

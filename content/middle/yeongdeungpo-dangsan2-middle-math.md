@@ -18,7 +18,7 @@ tags:
   - 당산중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1691188151957-7e5g3f6c8d04?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 당산2동 중학생, 문제 풀이가 막힌다면

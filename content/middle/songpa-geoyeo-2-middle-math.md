@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 마천역
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1670188128646-6j4l2k5h7i93?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 거여2동 중학생, 수학 도수분포와 상대도수가 헷갈린다면

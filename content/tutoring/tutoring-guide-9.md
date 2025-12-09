@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1721188185157-7i5k3j6g8h04?w=1200&h=630&fit=crop"
 ---
 
 ## 초등학생인데 벌써 과외가 필요할까요? 학원만 보내면 되는 거 아닌가요?

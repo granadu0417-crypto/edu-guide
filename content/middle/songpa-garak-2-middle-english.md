@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 가락시장역
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1838188313824-4v2x0w3t5u71?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 가락2동 중학생, 영어 관계대명사 who, which, that의 구별이 헷갈린다면

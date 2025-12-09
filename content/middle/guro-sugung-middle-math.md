@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1855188332591-1m9o7n0k2l48?w=1200&h=630&fit=crop"
 
 ---
 ## 구로구 수궁동 중학생, 수학 학원을 여러 번 옮겼는데 소용없나요?

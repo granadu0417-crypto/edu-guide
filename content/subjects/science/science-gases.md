@@ -10,7 +10,7 @@ tags:
 - 기체
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1551361415-69c87624334f?w=1200&h=630&fit=crop"
 ---
 
 ## 보일 샤를 법칙이 혼란스럽고 이상 기체 방정식이 어렵다고요? 기체의 성질부터 이해하면 됩니다.

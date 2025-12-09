@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["대치동", "학원가", "강남교육", "입시학원", "과외", "교육특구"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
 ---
 
 "대치동에 가면 정말 성적이 오를까?"

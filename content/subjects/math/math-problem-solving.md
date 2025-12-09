@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1551361415-69c87624334f?w=1200&h=630&fit=crop"
 ---
 
 ## 문제만 보면 어디서부터 시작해야 할지 모르겠다고요? 시간은 오래 걸리고 자꾸 막힌다고 느끼시죠.

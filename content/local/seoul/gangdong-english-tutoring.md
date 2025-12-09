@@ -8,7 +8,7 @@ regions:
 cities:
   - 강동구
 tags: ["강동구", "영어과외", "고덕동", "명일동", "천호동", "영어", "과외", "영어회화", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1885188365591-1q9s7r0o2p48?w=1200&h=630&fit=crop"
 ---
 
 "송파구 옆이니까 영어 교육도 비슷할까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 많이들 물어보시는 부분입니다.
 솔직히 말씀드리면, **강동구는 강동구만의 장점이 있습니다.** 송파구보다 경쟁이 덜 치열하면서도, 건국대가 가까워서 검증된 대학생 선생님을 만나기 좋아요.
 
-![강동구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![강동구 영어과외](https://images.unsplash.com/photo-1846188322602-2d0f8e1b3c59?w=1200&h=600&fit=crop)
 
 ## 강동구 영어 교육, 어떤 특징이 있나요?
 

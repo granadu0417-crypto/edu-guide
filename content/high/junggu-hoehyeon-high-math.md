@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902001001005-e5f6a7b8c9d0?w=1200&h=630&fit=crop"
 ---
 
 서술형에서 점수를 많이 잃는다면? 풀이 과정 작성법을 배워야 합니다.

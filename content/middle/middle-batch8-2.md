@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902002002001-a2b3c4d5e6f7?w=1200&h=630&fit=crop"
 ---
 ## 우리 아이가 갑자기 달라졌어요
 

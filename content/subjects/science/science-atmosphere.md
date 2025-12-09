@@ -10,7 +10,7 @@ tags:
 - 대기
 - 지구과학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003007-a9b0c1d2e3f4?w=1200&h=630&fit=crop"
 ---
 
 ## 대기의 구조와 기상 현상이 복잡하다고요? 층별 특징을 알면 이해됩니다.

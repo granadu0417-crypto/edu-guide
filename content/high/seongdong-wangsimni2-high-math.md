@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1674188133080-0n8p6o9l1m37?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 왕십리2동 고등학생, 수학이 갑자기 어려워졌다면

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 독해력 완벽 향상 비법 | 1:1 맞춤 지도, 비문학·문학·분석 [2025년]"
 tags: ["중학생", "독해력", "비문학", "문학", "분석", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1828188302824-4l2n0m3j5k71?w=1200&h=630&fit=crop"
 ---
 
 ## 글을 읽어도 무슨 말인지 모르겠어요. 독해력은 어떻게 키우나요?

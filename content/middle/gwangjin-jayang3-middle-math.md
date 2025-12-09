@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003005-e7f8a9b0c1d2?w=1200&h=630&fit=crop"
 ---
 ## 광진구 자양3동 중학생, 수학 연립방정식이 복잡하다면
 

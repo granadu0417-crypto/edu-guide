@@ -18,7 +18,7 @@ tags:
   - 영원중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1681188140857-7u5w3v6s8t04?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 영등포동 중학생, 수학이 어려워지기 시작했다면

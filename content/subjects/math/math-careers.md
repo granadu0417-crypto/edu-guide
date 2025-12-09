@@ -12,7 +12,7 @@ tags:
 - 1:1과외
 - 이공계
 - 수학전공
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1864188342480-0v8x6w9t1u37?w=1200&h=630&fit=crop"
 ---
 
 ## 수학을 잘하면 어떤 일을 할 수 있을까요? 수학 좋아하는데 진로를 어떻게 정해야 할지 모르겠다고요.

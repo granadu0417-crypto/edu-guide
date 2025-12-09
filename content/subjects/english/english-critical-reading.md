@@ -10,7 +10,7 @@ tags:
 - 비판적독해
 - 논리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1602052577122-f73b9710adba?w=1200&h=630&fit=crop"
 ---
 
 ## 글 내용은 이해하는데 논리 구조는 모르겠다고요? 주장과 근거를 구분하기 어렵다고요.

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1868188346824-4z2b0a3x5y71?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 합정동 중학생, 듣기가 안 들린다면

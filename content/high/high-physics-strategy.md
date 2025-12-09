@@ -7,7 +7,7 @@ reading_time: "907줄"
 description: "고등학생을 위한 물리 완전 정복 가이드. 역학부터 전자기까지 개념 이해와 문제풀이 전략. 수능 만점을 위한 체계적 접근법."
 categories: ["고등"]
 tags: ["고등물리", "물리학습법", "수능물리", "물리문제풀이", "역학", "전자기", "과학탐구", "물리개념"]
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1888188368824-4t2v0u3r5s71?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
 ---
 
 ## 핵반응 방정식이 복잡하고 방사선 종류가 헷갈린다고요? 원자핵의 구조부터 이해하면 됩니다.

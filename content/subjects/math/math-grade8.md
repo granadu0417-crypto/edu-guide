@@ -14,7 +14,7 @@ tags:
 - 부등식
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1647007295031-81f4ec3b1c6e?w=1200&h=630&fit=crop"
 ---
 
 ## 중2 되니까 수학이 갑자기 어려워졌다고요? 일차함수가 뭔지 모르겠고 확률 문제가 헷갈린다고 느끼시죠.

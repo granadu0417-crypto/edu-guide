@@ -18,7 +18,7 @@ tags:
   - 강서고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1665188123091-1e9g7f0c2d48?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 목4동 고등학생, 수능 수학이 걱정된다면

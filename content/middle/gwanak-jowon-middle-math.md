@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1658172197763-f2a3c2d1e6a0?w=1200&h=630&fit=crop"
 
 ---
 ## 관악구 조원동 중학생, 계산 실수가 너무 잦아서 걱정되나요?

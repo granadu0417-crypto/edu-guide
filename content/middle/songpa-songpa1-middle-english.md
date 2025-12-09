@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 송파나루역
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 송파1동 중학생, 영어 to부정사의 용법이 헷갈린다면

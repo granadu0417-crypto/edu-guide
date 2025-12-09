@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["용산구", "영어과외", "한남동", "이촌동", "용산동", "영어", "과외", "국제학교", "원어민", "입시영어"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 ---
 
 "한남동에 국제학교가 많은데, 원어민 과외도 구할 수 있나요?"

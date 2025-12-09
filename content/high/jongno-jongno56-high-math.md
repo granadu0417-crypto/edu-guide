@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902001001004-d4e5f6a7b8c9?w=1200&h=630&fit=crop"
 ---
 
 수열 문제에서 규칙을 못 찾겠다면? 패턴 인식력 훈련이 필요합니다.

@@ -16,11 +16,11 @@ tags:
 - 국어공부
 - 비문학
 - 기초
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1639064607632-d75ce59c3d4b?w=1200&h=630&fit=crop"
 draft: false
 ---
 
-![독서하는 학생](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=400&fit=crop)
+![독서하는 학생](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop)
 *체계적인 독해력 훈련이 모든 과목 성적을 올립니다*
 
 ## 왜 독해력이 중요한가?

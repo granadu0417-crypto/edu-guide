@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "은평구 구산동 중학생을 위한 수학과외입니다. 구산중·은평중·예일여중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003001-a3b4c5d6e7f8?w=1200&h=630&fit=crop"
 ---
 
 ## 내 아이 수학, 왜 안 오를까요?

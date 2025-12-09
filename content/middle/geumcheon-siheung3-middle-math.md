@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1717188180713-3e1g9f2c4d60?w=1200&h=630&fit=crop"
 
 ---
 ## 금천구 시흥3동 중학생, 선행은 했는데 정작 내신 성적이 안 나오나요?

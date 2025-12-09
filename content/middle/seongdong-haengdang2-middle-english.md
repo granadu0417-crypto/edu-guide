@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1624028522775-b3e0e3e3a4a1?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 행당2동 중학생, 내신 영어가 어렵다면

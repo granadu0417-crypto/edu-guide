@@ -8,7 +8,7 @@ regions:
 cities:
   - 강서구
 tags: ["강서구", "영어과외", "목동", "화곡동", "염창동", "영어", "과외", "목동학원가", "영어회화", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1643021456787-8c4ad7e7e9fa?w=1200&h=630&fit=crop"
 ---
 
 "목동 학원가가 있으니까 과외는 필요 없겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 그렇게 생각하실 수 있어요.
 하지만 **학원과 과외는 역할이 다릅니다.** 목동 학원가에서 배운 내용을 개인 과외로 보완하면 시너지가 나요.
 
-![강서구 영어과외](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=600&fit=crop)
+![강서구 영어과외](https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=600&fit=crop)
 
 ## 강서구 영어 교육, 어떤 특징이 있나요?
 

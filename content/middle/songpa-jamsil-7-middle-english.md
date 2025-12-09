@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1865188343591-1w9y7x0u2v48?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 잠실7동 중학생, 영어 5형식 문장과 목적격 보어가 헷갈린다면

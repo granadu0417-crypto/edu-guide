@@ -9,7 +9,7 @@ regions:
 cities:
   - 파주시
 tags: ["파주과학과외", "운정과학과외", "파주물리과외", "파주화학과외", "파주생명과학과외", "운정과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1860188338046-6r4t2s5p7q93?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

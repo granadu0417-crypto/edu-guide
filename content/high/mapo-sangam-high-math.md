@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1853188330379-9k7m5l8i0j26?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 상암동 고등학생, 시간이 부족하다면

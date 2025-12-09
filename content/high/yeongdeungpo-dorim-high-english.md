@@ -19,7 +19,7 @@ tags:
   - 영신고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902004004001-a4b5c6d7e8f9?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 도림동 고등학생, 어휘력이 부족하다면

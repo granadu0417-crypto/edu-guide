@@ -9,7 +9,7 @@ regions:
 cities:
   - 고양시
 tags: ["고양영어과외", "일산영어과외", "고양초등영어", "고양중등영어", "고양고등영어", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

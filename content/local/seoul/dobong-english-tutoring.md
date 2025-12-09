@@ -8,7 +8,7 @@ regions:
 cities:
   - 도봉구
 tags: ["도봉구", "영어과외", "창동", "방학동", "쌍문동", "영어", "과외", "창동신도시", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1641154748135-8032a61a3f80?w=1200&h=630&fit=crop"
 ---
 
 "도봉구에서도 좋은 영어 선생님 만날 수 있을까요?"

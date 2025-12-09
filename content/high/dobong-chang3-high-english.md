@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 서울외국어고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=1200&h=630&fit=crop"
 
 ---
 ## 창3동 고등학생, 수능 영어 고난도 유형에서 매번 틀리나요?

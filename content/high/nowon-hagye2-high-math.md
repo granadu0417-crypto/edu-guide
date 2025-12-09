@@ -17,7 +17,7 @@ tags:
   - 광운대부고
   - 맞춤커리큘럼
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580894742597-87bc8789db3d?w=1200&h=630&fit=crop"
 
 ---
 ## 하계2동 고등학생, 나만의 수학 커리큘럼이 필요하다면

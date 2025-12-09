@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1889188369935-5u3w1v4s6t82?w=1200&h=630&fit=crop"
 ---
 
 방학에 선행했는데 효과가 없다면? 복습이 부족한 것입니다.

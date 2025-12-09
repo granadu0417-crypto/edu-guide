@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 가락시장역
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1857188334713-3o1q9p2m4n60?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 가락1동 중학생, 수학 다항식의 곱셈이 복잡하게 느껴진다면

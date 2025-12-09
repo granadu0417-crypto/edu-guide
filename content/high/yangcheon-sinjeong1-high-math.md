@@ -19,7 +19,7 @@ tags:
   - 양천고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1705188167491-1s9u7t0q2r48?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정1동 고등학생, 개념은 아는데 문제가 안 풀린다면

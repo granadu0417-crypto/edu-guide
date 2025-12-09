@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1771188240157-7g5i3h6e8f04?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 화곡8동 중학생, 함수가 나오면서 수학이 싫어졌나요?

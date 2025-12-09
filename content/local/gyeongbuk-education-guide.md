@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "경북도의 교육 환경을 완벽 분석합니다. 포항·구미·경주 학원가부터 대구 접근성, POSTECH 과외, 온라인 교육 전략까지 경북 지역 맞춤 교육 정보를 제공합니다."
 tags: ["경북교육", "경북학원", "경북과외", "포항학원", "구미학원", "경주학원", "대구접근성", "경북대과외", "POSTECH과외", "포항공대과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1854188331480-0l8n6m9j1k37?w=1200&h=630&fit=crop"
 ---
 
 ## 경북도에서 아이 교육 어떻게 시켜야 할까요? 대구까지 가야 하나 포항에서도 가능한지 궁금하시죠.

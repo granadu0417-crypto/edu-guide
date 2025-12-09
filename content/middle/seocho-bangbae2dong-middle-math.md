@@ -22,7 +22,7 @@ tags:
   - 이수역
   - 방배역
   - 낙성대역
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1887188367713-3s1u9t2q4r60?w=1200&h=630&fit=crop"
 ---
 ## 서초구 방배2동 중학생, 수학 일차함수의 기울기와 y절편이 헷갈린다면
 

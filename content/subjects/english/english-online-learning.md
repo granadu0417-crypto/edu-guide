@@ -13,7 +13,7 @@ tags:
 - e-learning
 - 디지털
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 ---
 
 ## 온라인으로 영어 공부해도 효과가 있냐고요? 어떤 사이트를 써야 할지 모르겠다고요.

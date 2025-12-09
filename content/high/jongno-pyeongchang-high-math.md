@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1854188331480-0l8n6m9j1k37?w=1200&h=630&fit=crop"
 ---
 
 도형과 함수 연결이 잘 안 된다면? 기하 통합 사고력이 필요합니다.

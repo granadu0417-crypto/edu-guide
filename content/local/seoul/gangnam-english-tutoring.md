@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 강남구에서 아이 영어과외를 알아보시는 학부모님들이 가장 많이 하시는 질문입니다. 정답은 아이의 학년과 현재 실력, 그리고 목표에 따라 완전히 달라집니다.
 
-![강남구 영어교육](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![강남구 영어교육](https://images.unsplash.com/photo-1846188322602-2d0f8e1b3c59?w=1200&h=600&fit=crop)
 
 ## 강남구, 왜 영어교육의 중심지일까요?
 
@@ -93,7 +93,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 헷갈리는 문법도 쉽게! 개념을 이해하고 문제에 적용하는 훈련까지, 빈틈없이 채워갑니다.
 </div>
 
-![영어 학습](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=600&fit=crop)
+![영어 학습](https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=1200&h=600&fit=crop)
 
 ### 고등학생 영어과외
 

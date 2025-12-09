@@ -19,7 +19,7 @@ tags:
   - 신길중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1775188244591-1k9m7l0i2j48?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 신길6동 중학생, 시험 시간이 부족하다면

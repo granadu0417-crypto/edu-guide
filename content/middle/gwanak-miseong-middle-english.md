@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1790188261046-6z4b2a5x7y93?w=1200&h=630&fit=crop"
 
 ---
 ## 관악구 미성동 중학생, 영어 학원 숙제만 하다가 시간이 다 가나요?

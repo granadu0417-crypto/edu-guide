@@ -15,7 +15,7 @@ tags:
 - 확률
 - 통계
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1798188269824-4h2j0i3f5g71?w=1200&h=630&fit=crop"
 ---
 
 ## 순열과 조합이 도대체 뭐가 다른 건지 모르겠다고요? 경우의 수를 세다가 자꾸 빠뜨리거나 중복으로 세는 실수를 하시죠.

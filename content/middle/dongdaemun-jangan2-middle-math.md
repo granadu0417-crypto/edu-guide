@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1813188286379-9w7y5x8u0v26?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 장안2동 중학생, 기초부터 다시 잡아야 할 것 같나요?

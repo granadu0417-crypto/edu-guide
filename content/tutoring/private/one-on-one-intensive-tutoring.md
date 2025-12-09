@@ -14,7 +14,7 @@ tags:
 - 노원
 - 의대생과외
 description: 1대1 집중 과외의 모든 것. 완전 맞춤형 학습 전략과 효과적인 관리 시스템을 안내합니다. 개인별 학습 진단과 맞춤형 지도로 빠른 성과를 만들어보세요.
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1818188291824-4b2d0c3z5a71?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

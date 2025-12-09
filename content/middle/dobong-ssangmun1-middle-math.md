@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
 
 ---
 ## 도봉구 쌍문1동 중학생, 수학 성적이 오르락내리락 불안정한가요?

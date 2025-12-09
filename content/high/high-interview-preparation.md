@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 대입 면접 완전 정복 가이드. 서류 기반, 제시문 기반, 인성 면접까지 유형별 준비 전략과 실전 노하우."
 tags: ["대입면접", "면접준비", "서류면접", "제시문면접", "면접전략", "입시면접", "면접질문", "면접답변"]
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1866188344602-2x0z8y1v3w59?w=1200&h=630&fit=crop"
 ---
 
 ## 면접이 다가오는데 말을 제대로 못할까봐 너무 걱정돼요. 긴장하면 머리가 하얘지는데 어떻게 준비하나요?

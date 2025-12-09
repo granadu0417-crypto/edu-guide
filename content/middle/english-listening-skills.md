@@ -14,7 +14,7 @@ tags:
 - 쓰기
 - 중등교육
 - 중학교
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1761188229157-7w5y3x6u8v04?w=1200&h=630&fit=crop"
 ---
 ## 영어 듣기, 분명 들었는데 왜 기억이 안 날까요?
 

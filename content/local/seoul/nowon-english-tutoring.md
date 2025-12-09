@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["노원구", "영어과외", "중계동", "상계동", "하계동", "영어", "과외", "교육1번지", "내신영어", "수능영어"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
 ---
 
 "중계동 학원가가 유명한데, 영어는 학원이 나을까요 과외가 나을까요?"

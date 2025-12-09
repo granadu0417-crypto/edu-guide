@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1653056799398-b9c3e6eb8d22?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 망원1동 고등학생, 모의고사 등급이 안 오른다면

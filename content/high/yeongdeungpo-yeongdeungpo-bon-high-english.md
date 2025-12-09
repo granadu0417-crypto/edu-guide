@@ -19,7 +19,7 @@ tags:
   - 선유고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1608970057135-40c5d28f0a28?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 영등포본동 고등학생, 영어 성적이 오르지 않는다면

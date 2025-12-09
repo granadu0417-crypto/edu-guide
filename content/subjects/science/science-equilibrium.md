@@ -10,7 +10,7 @@ tags:
 - 화학 평형
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
 ---
 
 ## 평형 상수 계산이 어렵고 르샤틀리에 원리 적용이 헷갈린다고요? 평형의 본질을 이해하면 풀립니다.

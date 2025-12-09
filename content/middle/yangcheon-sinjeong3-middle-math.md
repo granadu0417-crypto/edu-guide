@@ -18,7 +18,7 @@ tags:
   - 금옥중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1720188184046-6h4j2i5f7g93?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정3동 중학생, 수학 자신감이 떨어졌다면

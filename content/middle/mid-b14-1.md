@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1777188246713-3m1o9n2k4l60?w=1200&h=630&fit=crop"
 ---
 ## 공부 습관이 없으면 성적은 오르지 않습니다
 

@@ -9,7 +9,7 @@ regions:
 cities:
   - 광명시
 tags: ["광명영어과외", "광명초등영어", "광명중등영어", "광명고등영어", "광명영어학원", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

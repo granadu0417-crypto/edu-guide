@@ -15,7 +15,7 @@ tags:
 description: 학원과 1:1 과외 효과 평가 방법. 성과 측정 지표, 평가 주기, 개선 전략, 학원·과외 변경 판단 기준을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

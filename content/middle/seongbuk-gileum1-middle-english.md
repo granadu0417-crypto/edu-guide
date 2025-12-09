@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1637180595839-0d3d7e3f8e7a?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 길음1동 중학생, 고등 영어가 걱정된다면

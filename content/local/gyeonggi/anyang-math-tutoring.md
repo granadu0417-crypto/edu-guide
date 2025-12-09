@@ -9,7 +9,7 @@ regions:
 cities:
   - 안양시
 tags: ["안양수학과외", "평촌수학과외", "안양초등수학", "안양중등수학", "안양고등수학", "평촌학원"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

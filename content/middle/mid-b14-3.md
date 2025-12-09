@@ -15,7 +15,7 @@ tags:
 - 자기주도학습
 - 중6학년
 - 중등교육
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003006-f8a9b0c1d2e3?w=1200&h=630&fit=crop"
 ---
 ## 이제 진짜 고등학교 입시가 시작됩니다
 

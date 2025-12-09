@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003003-c5d6e7f8a9b0?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 화곡4동 중학생, 영어 서술형에서 감점이 많나요?

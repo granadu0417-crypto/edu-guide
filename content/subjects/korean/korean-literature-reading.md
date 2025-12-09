@@ -11,7 +11,7 @@ tags:
 - 시감상
 - 소설분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1647007295031-81f4ec3b1c6e?w=1200&h=630&fit=crop"
 ---
 
 ## 문학 지문이 길어서 시간이 부족하다고요? 효율적인 독해 전략이 있습니다.

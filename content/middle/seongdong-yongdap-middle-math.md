@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1882188362268-8n6p4o7l9m15?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 용답동 중학생, 문제 풀이가 느리다면

@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1668188126424-4h2j0i3f5g71?w=1200&h=630&fit=crop"
 ---
 ## 종로구 창신1동 중학생, 수학 원의 성질이 복잡하다면
 

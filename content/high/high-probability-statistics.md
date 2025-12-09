@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 확률과 통계 완전 정복 가이드. 경우의 수, 확률, 통계의 개념과 계산. 수능 만점을 위한 체계적 접근법."
 tags: ["고등확률통계", "확률통계학습법", "수능확률통계", "경우의수", "확률", "통계", "수학", "확통개념"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?w=1200&h=630&fit=crop"
 ---
 
 ## 확률과 통계는 쉽다고 해서 선택했는데 생각보다 헷갈리고 실수가 많아요. 어떻게 공부해야 하나요?

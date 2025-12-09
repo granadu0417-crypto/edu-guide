@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 사당5동 중학생, 영어 자신감이 점점 없어지고 있나요?

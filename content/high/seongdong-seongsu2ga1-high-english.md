@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1695188156391-1i9k7j0g2h48?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 성수2가1동 고등학생, 모의고사 등급이 안 나온다면

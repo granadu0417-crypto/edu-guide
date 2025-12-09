@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1812188285268-8v6x4w7t9u15?w=1200&h=630&fit=crop"
 
 ---
 ## 도봉구 도봉2동 중학생, 기초부터 다시 잡아야 할 것 같나요?

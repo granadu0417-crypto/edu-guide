@@ -16,7 +16,7 @@ tags:
 - 계산
 - 그래프
 - 연산
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1780188250046-6p4r2q5n7o93?w=1200&h=630&fit=crop"
 ---
 
 ## 문장제만 나오면 머리가 하얘진다고요? 문제는 이해하겠는데 식을 세우는 게 막막하시죠.

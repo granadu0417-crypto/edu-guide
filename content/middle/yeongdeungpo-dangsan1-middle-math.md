@@ -19,7 +19,7 @@ tags:
   - 양화중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1671188129757-7k5m3l6i8j04?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 당산1동 중학생, 특목고 진학을 꿈꾼다면

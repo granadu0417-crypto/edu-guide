@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 신당동 중학생, 영어 too...to / enough to 구문이 어렵다면

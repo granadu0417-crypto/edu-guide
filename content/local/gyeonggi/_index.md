@@ -3,7 +3,7 @@ title: 경기도 지역 교육정보
 description: 경기도 31개 시군별 교육 환경과 학원 정보를 한눈에 확인하세요. 분당, 일산, 평촌, 수지 등 지역별 특성에 맞는 최적의
   학습 환경을 찾아드립니다. 수도권 최대 교육 인프라를 활용한 학습 전략을 제시합니다 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을
   찾아드립니다.
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1619410283995-43d9134e7656?w=1200&h=630&fit=crop"
 tags:
 - 가이드
 - 교육정보

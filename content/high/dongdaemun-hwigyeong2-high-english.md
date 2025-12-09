@@ -18,7 +18,7 @@ tags:
   - 휘경여고
   - 휘봉고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1617104678098-de229db51175?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 휘경2동 고등학생, 영어 때문에 전체 등급이 낮아지고 있나요?

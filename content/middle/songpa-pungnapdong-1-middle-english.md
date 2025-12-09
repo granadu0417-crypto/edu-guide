@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 천호대교
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 풍납1동 중학생, 영어 비교급과 최상급 표현이 헷갈린다면

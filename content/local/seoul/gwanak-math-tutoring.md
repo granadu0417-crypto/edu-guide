@@ -8,7 +8,7 @@ regions:
 cities:
   - 관악구
 tags: ["관악구", "수학과외", "신림동", "봉천동", "남현동", "수학", "과외", "서울대", "내신수학", "수능수학", "1:1과외", "수학과", "수리과학부"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
 ---
 
 "서울대 수학과 학생한테 과외 받으면 정말 효과 있을까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 정답은 **"그 선생님이 잘 가르치는지에 달렸다"**입니다.
 서울대 수학과라고 다 잘 가르치는 건 아니에요. 하지만 잘 가르치는 서울대생을 만나면? 최고의 선택이 됩니다.
 
-![관악구 수학과외](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=600&fit=crop)
+![관악구 수학과외](https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=600&fit=crop)
 
 ## 관악구 수학 교육, 뭐가 특별할까요?
 

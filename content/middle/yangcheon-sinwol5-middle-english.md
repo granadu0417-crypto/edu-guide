@@ -19,7 +19,7 @@ tags:
   - 양강중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1823188297379-9g7i5h8e0f26?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신월5동 중학생, 독해 정확도가 낮다면

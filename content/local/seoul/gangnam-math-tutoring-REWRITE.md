@@ -9,7 +9,7 @@ regions:
 cities:
   - 강남구
 tags: ["강남구", "수학과외", "대치동", "압구정", "청담", "수학", "과외후기", "초등수학", "중등수학", "고등수학", "수능수학", "학부모후기"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&h=630&fit=crop"
 ---
 
 강남에서 아이 키우는 학부모라면 한 번쯤 고민하셨죠? "우리 애, 수학 과외 시켜야 할까?"
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 그래서 오늘은 제가 직접 겪은 시행착오와, 주변 학부모들한테 들은 리얼 후기를 가감 없이 공유하려고 해요.
 
-![강남구 수학교육](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=600&fit=crop)
+![강남구 수학교육](https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=600&fit=crop)
 
 ## 솔직히 대치동 수학과외, 정말 다를까요?
 
@@ -136,7 +136,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 {{< cta-dual type="inline" >}}
 
-![대치동 학원가](https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=600&fit=crop)
+![대치동 학원가](https://images.unsplash.com/photo-1902004004004-d7e8f9a0b1c2?w=1200&h=600&fit=crop)
 
 ## 학원 vs 과외, 뭐가 나을까요?
 

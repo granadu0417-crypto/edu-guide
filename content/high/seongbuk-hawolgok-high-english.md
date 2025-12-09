@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1751188218157-7m5o3n6k8l04?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 하월곡동 고등학생, 실전 감각이 부족하다면

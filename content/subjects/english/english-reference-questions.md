@@ -13,7 +13,7 @@ tags:
 - reference
 - pronoun
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 ---
 
 ## it이 무엇을 가리키는지 모르겠다고요? 대명사가 여러 개면 헷갈리시죠.

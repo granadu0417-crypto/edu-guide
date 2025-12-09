@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 사당3동 고등학생, EBS 연계가 어렵다면

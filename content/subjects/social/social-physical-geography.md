@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1589391886645-d51941baf7fb?w=1200&h=630&fit=crop"
 ---
 
 ## 산지와 평야가 어떻게 만들어지는지 어렵고 지형 특성이 복잡하다고요? 내적 작용과 외적 작용부터 구분하면 됩니다.

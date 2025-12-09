@@ -8,7 +8,7 @@ regions:
 cities:
   - 구로구
 tags: ["구로구", "영어과외", "가산동", "신도림", "구로동", "영어", "과외", "가산디지털단지", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
 ---
 
 "IT 업계 학부모들은 영어 교육 어떻게 시키나요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 가산디지털단지 인근이라 **실용 영어**에 대한 관심이 높습니다.
 하지만 입시 영어도 놓칠 수 없죠. **둘 다 잡는** 방법이 있습니다.
 
-![구로구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![구로구 영어과외](https://images.unsplash.com/photo-1847188323713-3e1g9f2c4d60?w=1200&h=600&fit=crop)
 
 ## 구로구 영어 교육, 어떤 특징이 있나요?
 

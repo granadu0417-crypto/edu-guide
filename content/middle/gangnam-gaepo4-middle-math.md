@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 개포주거단지
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1886188366602-2r0t8s1p3q59?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 개포4동 중학생, 수학 일차함수 그래프가 어렵다면

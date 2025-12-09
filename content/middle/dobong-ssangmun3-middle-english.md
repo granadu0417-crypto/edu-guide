@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
 
 ---
 ## 도봉구 쌍문3동 중학생, 문법 규칙이 너무 많아 헷갈리나요?

@@ -10,7 +10,7 @@ tags:
 - 어휘력
 - 어휘
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1564679172142-d83ff32c2f1e?w=1200&h=630&fit=crop"
 ---
 
 ## 어휘력이 부족해서 독해가 안 된다고요? 체계적으로 늘리면 됩니다.

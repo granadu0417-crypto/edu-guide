@@ -19,7 +19,7 @@ tags:
   - 상문고
   - 서초고
   - 양재고
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1758188225824-4t2v0u3r5s71?w=1200&h=630&fit=crop"
 ---
 
 준킬러 문제에서 막힌다면? 킬러로 가기 전 중간 단계 훈련이 필요합니다.

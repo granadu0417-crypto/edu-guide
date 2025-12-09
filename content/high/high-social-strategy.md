@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 사회탐구 영역 완벽 공략 전략 | 한국사·생활과윤리·사회문화·정치와법·경제·세계사·세계지리 과목별 맞춤 과외 로드맵 [2025년]"
 tags: ["사회탐구", "사탐과외", "한국사과외", "생활과윤리", "사회문화", "정치와법", "경제과외", "세계사", "세계지리", "수능사탐", "사탐선택", "고등사회", "내신사회"]
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1554118879-bdb1043d9a95?w=1200&h=630&fit=crop"
 ---
 
 ## 사탐은 그냥 외우면 되는 거 아닌가요? 공부해도 성적이 안 오르고 자료 해석 문제가 너무 어려워요.

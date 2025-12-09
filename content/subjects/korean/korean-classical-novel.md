@@ -11,7 +11,7 @@ tags:
 - 영웅소설
 - 판소리계소설
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1884188364480-0p8r6q9n1o37?w=1200&h=630&fit=crop"
 ---
 
 ## 고전소설이 너무 낯설고 어렵다고요? 유형별 특징을 알면 분석이 쉬워집니다.

@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902001001004-d4e5f6a7b8c9?w=1200&h=630&fit=crop"
 ---
 
 공식은 다 아는데 어디에 적용할지 모르겠다면? 문제 유형 파악 능력이 필요합니다.

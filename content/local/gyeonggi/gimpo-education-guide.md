@@ -9,7 +9,7 @@ regions:
 cities:
   - 김포시
 tags: ["김포교육", "김포학원", "김포과외", "한강신도시학원", "장기동학원", "김포입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

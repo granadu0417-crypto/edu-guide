@@ -10,7 +10,7 @@ tags:
 - 자기
 - 물리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902002002006-f7a8b9c0d1e2?w=1200&h=630&fit=crop"
 ---
 
 ## 자기장 방향 판단이 어렵고 전자기 유도가 복잡하다고요? 오른손 법칙부터 정리하면 됩니다.

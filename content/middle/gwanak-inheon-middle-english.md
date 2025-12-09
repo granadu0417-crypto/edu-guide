@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1572177812156-58036aae439c?w=1200&h=630&fit=crop"
 
 ---
 ## 관악구 인헌동 중학생, 중학교 영어가 생각보다 어려운가요?

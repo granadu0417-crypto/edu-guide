@@ -12,7 +12,7 @@ tags:
 - 체험
 - 문학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=1200&h=630&fit=crop"
 ---
 
 ## 수필이 뭘 분석해야 하는지 모르겠다고요? 글쓴이의 체험과 성찰을 따라가면 됩니다.

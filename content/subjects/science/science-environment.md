@@ -10,7 +10,7 @@ tags:
 - 환경과학
 - 환경
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1807188279713-3q1s9r2o4p60?w=1200&h=630&fit=crop"
 ---
 
 ## 환경 문제의 원인과 해결책이 복잡하게 느껴지나요? 인간 활동과 생태계의 관계로 정리하면 쉬워집니다.

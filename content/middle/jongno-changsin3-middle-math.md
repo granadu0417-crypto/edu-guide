@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1718188181824-4f2h0g3d5e71?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 창신3동 중학생, 수학 유리수와 순환소수가 헷갈린다면

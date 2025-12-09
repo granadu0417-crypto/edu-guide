@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1861188339157-7s5u3t6q8r04?w=1200&h=630&fit=crop"
 ---
 ## 과학, 외울 게 너무 많아서 포기하고 싶다고요?
 

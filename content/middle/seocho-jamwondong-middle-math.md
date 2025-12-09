@@ -21,7 +21,7 @@ tags:
   - 문제풀이
   - 신반포역
   - 고속터미널역
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003006-f8a9b0c1d2e3?w=1200&h=630&fit=crop"
 ---
 ## 서초구 잠원동 중학생, 수학 정비례와 반비례가 헷갈린다면
 

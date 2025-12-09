@@ -9,7 +9,7 @@ regions:
 cities:
   - 하남시
 tags: ["하남교육", "하남학원", "하남과외", "미사학원", "감일신도시교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

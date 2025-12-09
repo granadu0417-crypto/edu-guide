@@ -11,7 +11,7 @@ tags:
 - 5등급
 - 중등과외
 - 등급올리기
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1849188325935-5g3i1h4e6f82?w=1200&h=630&fit=crop"
 ---
 ## 기초가 없어서 뭘 해도 안 된다고요?
 

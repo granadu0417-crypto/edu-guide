@@ -8,7 +8,7 @@ regions:
 cities:
   - 도봉구
 tags: ["도봉구", "수학과외", "창동", "방학동", "쌍문동", "수학", "과외", "창동신도시", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=1200&h=630&fit=crop"
 ---
 
 "도봉구에서도 좋은 수학 선생님 만날 수 있을까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 많이들 걱정하시는 부분입니다.
 솔직히 말씀드리면, **고려대와 서울과기대가 가까워서 오히려 좋은 선생님 찾기 쉽습니다.** 방학동 학원가도 잘 발달되어 있어요.
 
-![도봉구 수학과외](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=600&fit=crop)
+![도봉구 수학과외](https://images.unsplash.com/photo-1900188382046-6f4h2g5d7e93?w=1200&h=600&fit=crop)
 
 ## 도봉구 수학 교육, 어떤 특징이 있나요?
 

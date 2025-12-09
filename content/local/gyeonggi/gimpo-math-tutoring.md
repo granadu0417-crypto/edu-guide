@@ -9,7 +9,7 @@ regions:
 cities:
   - 김포시
 tags: ["김포수학과외", "김포초등수학", "김포중등수학", "김포고등수학", "김포수학학원", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

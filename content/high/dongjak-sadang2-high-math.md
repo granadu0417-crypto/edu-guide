@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1731188196157-7s5u3t6q8r04?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 사당2동 고등학생, 킬러 문항이 막힌다면

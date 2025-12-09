@@ -9,7 +9,7 @@ regions:
 cities:
   - 화성시
 tags: ["화성교육", "화성학원", "화성과외", "동탄학원가", "동탄교육"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1556155092-8707de31f9c4?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

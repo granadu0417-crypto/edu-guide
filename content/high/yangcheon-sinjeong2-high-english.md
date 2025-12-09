@@ -18,7 +18,7 @@ tags:
   - 신목고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1568702846914-96b305d2ead1?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정2동 고등학생, 듣기가 안 된다면

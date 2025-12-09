@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["성북구", "영어과외", "정릉동", "길음동", "석관동", "영어", "과외", "고려대", "국민대", "내신영어", "수능영어"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
 ---
 
 "고려대가 가까우니까 영어 잘 가르치는 선생님 많겠죠?"

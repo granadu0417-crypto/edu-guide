@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 재수생을 위한 학원과 1:1 과외 선택 전략. 재수 학원, 독학 재수, 반수, 1:1 과외 활용 방법을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

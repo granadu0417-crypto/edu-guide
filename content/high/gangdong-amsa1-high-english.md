@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강동고
   - 한영외고
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1832188307268-8p6r4q7n9o15?w=1200&h=630&fit=crop"
 ---
 
 긴 지문을 읽다가 앞 내용을 잊어버린다면? 지문 구조화 훈련이 필요합니다.

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1657180619963-1e5b2c5f8c0a?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 화곡6동 중학생, 계산 실수가 너무 잦아서 걱정되나요?

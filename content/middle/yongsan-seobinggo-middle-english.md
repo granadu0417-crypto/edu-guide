@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "용산구 서빙고동 중학생을 위한 영어과외입니다. 한강중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003007-a9b0c1d2e3f4?w=1200&h=630&fit=crop"
 ---
 
 ## 영어, 기초부터 다시 해볼까요?

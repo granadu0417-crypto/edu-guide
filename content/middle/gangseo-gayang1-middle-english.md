@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1855188332591-1m9o7n0k2l48?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 가양1동 중학생, 리스닝은 되는데 독해에서 점수를 잃나요?

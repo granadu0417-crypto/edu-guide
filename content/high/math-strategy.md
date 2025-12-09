@@ -13,7 +13,7 @@ tags:
 - 도형
 - 수능
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=1200&h=630&fit=crop"
 ---
 ## 수학은 공식만 외우면 되는 거 아닌가요? 왜 성적이 안 오를까요?
 

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 건대부고
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1693188154179-9g7i5h8e0f26?w=1200&h=630&fit=crop"
 ---
 
 문장은 해석했는데 문제의 의도를 파악하기 어려운 경험, 있으신가요? 해석과 문제 풀이는 다른 능력입니다.

@@ -19,7 +19,7 @@ tags:
   - 선유고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1619410283995-43d9134e7656?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 양평1동 고등학생, 문법 적용이 안 된다면

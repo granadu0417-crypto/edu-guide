@@ -19,7 +19,7 @@ tags:
   - 윤중중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 여의동 중학생, 내신 관리가 필요하다면

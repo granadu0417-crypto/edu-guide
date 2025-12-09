@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1884188364480-0p8r6q9n1o37?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 왕십리도선동 고등학생, 영어 성적이 안 오른다면

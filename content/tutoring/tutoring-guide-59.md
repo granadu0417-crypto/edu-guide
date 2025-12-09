@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1671188129757-7k5m3l6i8j04?w=1200&h=630&fit=crop"
 ---
 
 ## 과외 선생님과 어떻게 소통해야 하나요? 너무 자주 연락하면 부담스러울까요?

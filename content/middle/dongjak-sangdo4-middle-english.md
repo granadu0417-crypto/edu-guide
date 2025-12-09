@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1570063578733-6a33b69d1439?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 상도4동 중학생, 중학교 영어가 생각보다 어려운가요?

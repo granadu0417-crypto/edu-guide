@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 단어는 외우는데 문장이 안 만들어져요. 회화도 되고 시험도 잘 보려면 어떻게 해야 하나요?

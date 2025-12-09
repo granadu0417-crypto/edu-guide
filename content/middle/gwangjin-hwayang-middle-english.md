@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1896188377602-2b0d8c1z3a59?w=1200&h=630&fit=crop"
 ---
 ## 광진구 화양동 중학생, 영어 접속사가 헷갈린다면
 

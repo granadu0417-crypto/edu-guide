@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902002002007-a8b9c0d1e2f3?w=1200&h=630&fit=crop"
 ---
 
 ## 농업, 공업, 서비스업의 구분이 복잡하고 산업 입지가 어렵다고요? 산업 발달 단계부터 이해하면 됩니다.

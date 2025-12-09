@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1729188193935-5q3s1r4o6p82?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 정릉3동 중학생, 학원에서 효과를 못 봤다면

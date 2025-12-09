@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 면목7동 중학생을 위한 1:1 맞춤 영어과외. 중랑구 관내 학교 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1622306770899-b0524a5c8b14?w=1200&h=630&fit=crop"
 ---
 
 중학교 영어의 핵심은 문법입니다. 기초부터 탄탄히 잡아드립니다.

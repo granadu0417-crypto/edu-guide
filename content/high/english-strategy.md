@@ -15,7 +15,7 @@ tags:
 - 듣기
 - 수능
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
 ---
 ## 영어 절대평가라 쉬운 줄 알았는데 왜 이렇게 어려운 거죠?
 

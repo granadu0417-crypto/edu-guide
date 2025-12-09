@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 창덕여고
   - 서울체육고
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1872188351268-8d6f4e7b9c15?w=1200&h=630&fit=crop"
 ---
 
 선지 분석에서 자꾸 헷갈린다면? 선지 비교 분석력이 필요합니다.

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세화여고
   - 동덕여고
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1872188351268-8d6f4e7b9c15?w=1200&h=630&fit=crop"
 ---
 
 글의 흐름을 놓친다면? 접속사와 연결어 분석 훈련이 필요합니다.

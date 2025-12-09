@@ -11,7 +11,7 @@ tags:
 - 문학
 - 인물분석
 - 주제파악
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1796188267602-2f0h8g1d3e59?w=1200&h=630&fit=crop"
 ---
 
 ## 소설을 읽어도 뭘 분석해야 할지 모르겠다고요? 체계적인 분석 방법이 있습니다.

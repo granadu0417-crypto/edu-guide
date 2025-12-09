@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["노원구", "수학과외", "중계동", "상계동", "하계동", "수학", "과외", "교육1번지", "내신수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1885188365591-1q9s7r0o2p48?w=1200&h=630&fit=crop"
 ---
 
 "중계동 학원에 보내고 있는데, 수학 성적이 안 올라요."

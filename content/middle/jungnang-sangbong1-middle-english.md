@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 상봉1동 중학생을 위한 1:1 맞춤 영어과외. 신현중 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573164574001-518958d9baa2?w=1200&h=630&fit=crop"
 ---
 
 상봉1동 중학생을 위한 1:1 맞춤 영어 과외를 소개합니다.

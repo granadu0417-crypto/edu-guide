@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "진로상담 완벽 가이드 | 청소년 진로탐색·진로검사 종류·상담 받는 방법·학년별 진로준비·진학 전략까지 상세 안내"
 tags: ["진로상담", "진로탐색", "진로검사", "커리어코칭", "청소년진로", "직업탐색", "대학진학", "진로교육"]
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1802188274268-8l6n4m7j9k15?w=1200&h=630&fit=crop"
 ---
 
 ## 아이가 뭘 좋아하는지 모르겠어요. 진로를 정하지 못해서 공부에 동기가 없는 것 같은데 어떻게 해야 하나요?

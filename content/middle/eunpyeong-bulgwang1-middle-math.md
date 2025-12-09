@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "은평구 불광1동 중학생을 위한 수학과외입니다. 불광중·연신중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1645134957026-6e5a75f3b9ea?w=1200&h=630&fit=crop"
 ---
 
 ## 수학 성적, 왜 제자리일까요?

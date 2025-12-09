@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 시험을 망쳤을 때 대처 방법. 원인 분석, 긴급 복구 전략, 학원과 1:1 과외 활용, 멘탈 관리 방법을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1688188148624-4b2d0c3z5a71?w=1200&h=630&fit=crop"
 
 ---
 ## 구로구 구로4동 중학생, 수학 공부 시간은 많은데 성적은 그대로인가요?

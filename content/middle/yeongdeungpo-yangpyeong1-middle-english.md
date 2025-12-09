@@ -19,7 +19,7 @@ tags:
   - 양화중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1625132156666-0fd6d7e63a2d?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 양평1동 중학생, 문법 적용이 안 된다면

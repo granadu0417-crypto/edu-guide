@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1875188354591-1g9i7h0e2f48?w=1200&h=630&fit=crop"
 ---
 
 ## 민법과 형법의 차이가 헷갈리고 법적 절차가 복잡하다고요? 법의 종류와 역할부터 정리하면 됩니다.

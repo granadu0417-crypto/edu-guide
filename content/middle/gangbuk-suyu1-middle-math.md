@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1735188200591-1w9y7x0u2v48?w=1200&h=630&fit=crop"
 
 ---
 ## 강북구 수유1동 중학생, 문제집은 많이 풀었는데 실력이 안 느나요?

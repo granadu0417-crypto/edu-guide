@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["양천구", "과학과외", "신정동", "목동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902004004005-e8f9a0b1c2d3?w=1200&h=630&fit=crop"
 ---
 
 "과학 과목, 혼자 공부하기 너무 어려워요!"

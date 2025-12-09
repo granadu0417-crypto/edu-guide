@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1574169208507-84376144848b?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 응봉동 중학생, 영어 자신감이 없다면

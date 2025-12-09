@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003002-b4c5d6e7f8a9?w=1200&h=630&fit=crop"
 
 ---
 ## 강북구 수유1동 중학생, 영어 서술형에서 감점이 많나요?

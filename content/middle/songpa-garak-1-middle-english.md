@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 가락시장역
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 가락1동 중학생, 영어 분사의 형용사적 용법이 헷갈린다면

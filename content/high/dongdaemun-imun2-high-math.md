@@ -18,7 +18,7 @@ tags:
   - 경희고
   - 경희여고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1712188175268-8z6b4a7x9y15?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 이문2동 고등학생, 선행은 했는데 정작 내신 성적이 안 나오나요?

@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1857188334713-3o1q9p2m4n60?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 월곡2동 중학생, 문제 풀이가 느리다면

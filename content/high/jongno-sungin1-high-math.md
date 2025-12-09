@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1672188130868-8l6n4m7j9k15?w=1200&h=630&fit=crop"
 ---
 
 계산은 맞았는데 풀이 방향이 달랐던 경험, 있으신가요? 문제 해석 능력이 부족한 것입니다.

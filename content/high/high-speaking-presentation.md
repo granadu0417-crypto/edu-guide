@@ -7,7 +7,7 @@ reading_time: "744줄"
 description: "고등학생을 위한 발표와 토론 완전 정복 가이드. 준비부터 실전까지 발표 불안 극복과 설득력 있는 표현 전략."
 categories: ["고등"]
 tags: ["발표", "토론", "프레젠테이션", "말하기", "발표불안", "토론기술", "의사소통", "표현력"]
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1712188175268-8z6b4a7x9y15?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

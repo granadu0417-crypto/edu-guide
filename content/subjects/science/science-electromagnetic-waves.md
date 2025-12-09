@@ -10,7 +10,7 @@ tags:
 - 전자기파
 - 물리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1807188279713-3q1s9r2o4p60?w=1200&h=630&fit=crop"
 ---
 
 ## 전자기파 스펙트럼이 복잡하고 종류별 특성이 헷갈린다고요? 파장과 진동수로 정리하면 명확해집니다.

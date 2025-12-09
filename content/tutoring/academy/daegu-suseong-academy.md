@@ -14,7 +14,7 @@ tags:
 - 중등
 description: 대구 수성구 학원. 수학·영어 특화, 상위권, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의
   모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1871188350157-7c5e3d6a8b04?w=1200&h=630&fit=crop"
 reading_time: 280줄
 ---
 

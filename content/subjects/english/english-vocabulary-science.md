@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어 과학 주제 어휘 완벽 정복 | 물리·화학·생물·지구과학 필수 어휘, 1:1 맞춤 어휘 지도 [2025년]"
 tags: ["영어", "어휘", "과학", "science vocabulary", "수능", "독해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1864188342480-0v8x6w9t1u37?w=1200&h=630&fit=crop"
 ---
 
 ## 과학 지문에 나오는 영어 단어가 너무 어렵다고요? 전문 용어 때문에 지문을 이해 못 한다고 느끼시죠.

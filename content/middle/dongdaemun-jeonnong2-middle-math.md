@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1725188189591-1m9o7n0k2l48?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 전농2동 중학생, 서술형 문제에서 점수를 많이 잃나요?

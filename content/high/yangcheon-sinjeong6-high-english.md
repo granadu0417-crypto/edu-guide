@@ -18,7 +18,7 @@ tags:
   - 신서고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정6동 고등학생, 실력이 정체되어 있다면

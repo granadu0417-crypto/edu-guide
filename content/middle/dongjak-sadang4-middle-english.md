@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1597462036098-7ce66b1c43ad?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 사당4동 중학생, 영어 단어 암기가 너무 힘드나요?

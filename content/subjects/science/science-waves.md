@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902002002006-f7a8b9c0d1e2?w=1200&h=630&fit=crop"
 ---
 
 ## 파동의 간섭과 회절 현상이 복잡하고 공식이 많다고요? 파동의 기본 성질부터 정리하면 됩니다.

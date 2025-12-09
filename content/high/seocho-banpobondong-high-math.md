@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 반포고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902001001007-a7b8c9d0e1f2?w=1200&h=630&fit=crop"
 ---
 
 기출을 많이 풀어도 점수가 안 오른다면? 풀이 방식을 점검해야 합니다.

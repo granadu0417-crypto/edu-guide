@@ -11,7 +11,7 @@ tags:
 - 내신국어
 - 비문학
 - 독해력
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003006-f8a9b0c1d2e3?w=1200&h=630&fit=crop"
 ---
 ## 국어가 모든 과목의 기초라는 말, 사실일까요?
 

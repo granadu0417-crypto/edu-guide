@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["영등포구", "수학과외", "여의도", "당산동", "영등포동", "수학", "과외", "여의도금융가", "내신수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop"
 ---
 
 "여의도 금융가 학부모들은 어떻게 수학 교육을 시키나요?"

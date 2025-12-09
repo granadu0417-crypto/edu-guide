@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1867188345713-3y1a9z2w4x60?w=1200&h=630&fit=crop"
 ---
 
 단어는 외웠는데 문장 해석이 안 된다면? 문법 실력을 다져야 합니다.

@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 자율형공립고
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1853188330379-9k7m5l8i0j26?w=1200&h=630&fit=crop"
 ---
 
 영어 지문을 읽어도 무슨 말인지 모르겠다고요? 단어는 아는데 해석이 안 된다고요? 고등학교 영어가 어려운 이유가 있습니다.

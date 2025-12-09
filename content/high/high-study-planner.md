@@ -7,7 +7,7 @@ reading_time: "658줄"
 description: "고등학생을 위한 실전 학습 계획표 작성 가이드. 연간·월간·주간·일일 계획부터 실행력을 높이는 노하우까지. 계획만 세우지 않고 반드시 실천하는 방법."
 categories: ["고등"]
 tags: ["고등학습계획", "공부계획표", "목표설정", "플래너", "학습관리", "수능준비", "내신계획", "실행력"]
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1653056799398-b9c3e6eb8d22?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

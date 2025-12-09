@@ -18,7 +18,7 @@ tags:
   - 경희고
   - 경희여고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1536337005238-94b997371b40?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 회기동 고등학생, 영어 시험 시간이 항상 부족한가요?

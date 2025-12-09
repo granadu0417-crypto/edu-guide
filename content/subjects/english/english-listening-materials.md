@@ -13,7 +13,7 @@ tags:
 - 사이트
 - listening
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1625132156666-0fd6d7e63a2d?w=1200&h=630&fit=crop"
 ---
 
 ## 어떤 자료로 듣기 연습을 해야 하는지 모르겠다고요? 무료로도 충분합니다.

@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531591022136-eb8b0da1e6d0?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 마장동 고등학생, 내신이 걱정된다면

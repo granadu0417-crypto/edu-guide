@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 단대부고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1883188363379-9o7q5p8m0n26?w=1200&h=630&fit=crop"
 ---
 
 교과서 본문은 외웠는데 변형 문제에서 틀린다면? 변형 문제 대비가 필요합니다.

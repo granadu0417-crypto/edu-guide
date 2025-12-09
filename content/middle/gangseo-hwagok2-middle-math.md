@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 화곡2동 중학생, 중학교 올라오니 갑자기 수학이 어려워졌나요?

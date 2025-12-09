@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1715188178591-1c9e7d0a2b48?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 이문2동 중학생, 선행은 했는데 정작 내신 성적이 안 나오나요?

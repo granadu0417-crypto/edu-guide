@@ -14,7 +14,7 @@ tags:
 - 기하
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1858188335824-4p2r0q3n5o71?w=1200&h=630&fit=crop"
 ---
 
 ## 포물선이랑 타원이랑 쌍곡선이 다 비슷해 보인다고요? 초점이 뭔지 어디에 쓰는지 감이 안 오시죠.

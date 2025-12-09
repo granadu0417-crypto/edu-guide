@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 역삼비즈니스
-featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902001001008-b8c9d0e1f2a3?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 역삼1동 중학생, 수학 확률과 통계가 어렵다면

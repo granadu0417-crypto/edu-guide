@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "용산구 이촌2동 고등학생을 위한 수학과외입니다. 중경고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1874188353480-0f8h6g9d1e37?w=1200&h=630&fit=crop"
 ---
 
 ## 고등학교 수학, 어디서부터 손대야 할지 막막하다면

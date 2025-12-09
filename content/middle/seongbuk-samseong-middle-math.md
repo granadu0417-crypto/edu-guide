@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1680188139746-6t4v2u5r7s93?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 삼선동 중학생, 수학에 자신감이 없다면

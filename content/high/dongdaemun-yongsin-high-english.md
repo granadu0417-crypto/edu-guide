@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대광고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 용신동 고등학생, 영어 성적이 좀처럼 오르지 않나요?

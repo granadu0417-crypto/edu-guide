@@ -22,7 +22,7 @@ tags:
   - 영어독해
   - 교대역
   - 서초역
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902002002003-c4d5e6f7a8b9?w=1200&h=630&fit=crop"
 ---
 ## 서초구 서초동 중학생, 영어 관계대명사 계속적 용법이 헷갈린다면
 

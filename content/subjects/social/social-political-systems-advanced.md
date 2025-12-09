@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1875188354591-1g9i7h0e2f48?w=1200&h=630&fit=crop"
 ---
 
 ## 민주주의와 권위주의 체제가 헷갈리고 정치 제도 비교가 복잡하다고요? 정치 체제의 유형과 특징부터 정리하면 됩니다.

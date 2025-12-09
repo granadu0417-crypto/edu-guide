@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003004-d6e7f8a9b0c1?w=1200&h=630&fit=crop"
 
 ---
 ## 구로구 고척2동 중학생, 영어 서술형에서 감점이 많나요?

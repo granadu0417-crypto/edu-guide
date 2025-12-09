@@ -14,7 +14,7 @@ tags:
 - 과거완료
 - 미래시제
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1646128766968-7bae90b96b2e?w=1200&h=630&fit=crop"
 ---
 
 ## 현재완료를 언제 쓰는지 모르겠다고요? 과거시제와 뭐가 다른지 헷갈리시죠.

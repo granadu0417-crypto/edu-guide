@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1656091858256-7c8b8b5b8e61?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 답십리1동 중학생, 계산 실수가 너무 잦아서 걱정되나요?

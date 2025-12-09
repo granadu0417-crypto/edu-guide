@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1819188292935-5c3e1d4a6b82?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 송정동 고등학생, 서술형이 어렵다면

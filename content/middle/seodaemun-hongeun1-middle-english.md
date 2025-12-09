@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
 
 ---
 ## 서대문구 홍은1동 중학생, 서술형이 두렵다면

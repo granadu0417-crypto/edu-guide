@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1739188204935-5a3c1b4y6z82?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 잠실4동 중학생, 영어 수여동사와 4형식 문장이 헷갈린다면

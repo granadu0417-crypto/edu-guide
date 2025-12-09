@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1872188351268-8d6f4e7b9c15?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 월곡1동 고등학생, 빈칸추론이 어렵다면

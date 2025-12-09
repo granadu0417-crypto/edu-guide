@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1859188336935-5q3s1r4o6p82?w=1200&h=630&fit=crop"
 ---
 
 ## 처음 과외를 시작하려고 하는데, 뭘 어떻게 준비해야 할지 모르겠어요. 첫 수업 전에 뭘 해야 하나요?

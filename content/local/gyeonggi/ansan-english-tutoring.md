@@ -9,7 +9,7 @@ regions:
 cities:
   - 안산시
 tags: ["안산영어과외", "안산영어학원", "안산초등영어", "안산중등영어", "안산고등영어", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1874188353480-0f8h6g9d1e37?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

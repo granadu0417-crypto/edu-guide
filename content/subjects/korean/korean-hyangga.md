@@ -11,7 +11,7 @@ tags:
 - 신라가요
 - 불교
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902002002005-e6f7a8b9c0d1?w=1200&h=630&fit=crop"
 ---
 
 ## 향가가 뭐고 어떻게 공부해야 할지 모르겠다고요? 향찰 표기를 이해하면 됩니다.

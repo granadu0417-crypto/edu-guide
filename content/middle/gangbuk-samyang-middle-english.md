@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?w=1200&h=630&fit=crop"
 
 ---
 ## 강북구 삼양동 중학생, 영어 성적이 좀처럼 오르지 않나요?

@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1728188192824-4p2r0q3n5o71?w=1200&h=630&fit=crop"
 
 ---
 ## 종로구 청운효자동 중학생, 수학 삼각형의 합동 조건이 헷갈린다면

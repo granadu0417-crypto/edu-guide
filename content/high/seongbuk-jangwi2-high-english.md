@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1883188363379-9o7q5p8m0n26?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 장위2동 고등학생, 독해 정확도가 낮다면

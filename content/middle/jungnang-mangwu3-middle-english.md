@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 망우3동 중학생을 위한 1:1 맞춤 영어과외. 송곡여중, 혜원여중, 영란여중 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1698188159724-4l2n0m3j5k71?w=1200&h=630&fit=crop"
 ---
 
 송곡여중, 혜원여중, 영란여중 영어 시험 패턴을 꿰뚫고 있습니다.

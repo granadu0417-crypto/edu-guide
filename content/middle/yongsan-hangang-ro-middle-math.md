@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "용산구 한강로동 중학생을 위한 수학과외입니다. 용산중·보성여중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1575330116497-0d5a57d3c6d9?w=1200&h=630&fit=crop"
 ---
 
 ## 수학 성적, 왜 제자리일까요?

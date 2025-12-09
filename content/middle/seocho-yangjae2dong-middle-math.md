@@ -12,7 +12,7 @@ keywords: ["서초구 중등수학", "양재2동 수학과외", "언남중 수�
 
 tags:
   - yangjae2동
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1856188333602-2n0p8o1l3m59?w=1200&h=630&fit=crop"
 ---
 ## 서초구 양재2동 중학생, 수학 삼각형의 닮음 조건이 헷갈린다면
 

@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
 ---
 
 ## 루터와 칼뱅의 주장이 헷갈리고 종교개혁 전개가 복잡하다고요? 면벌부 판매와 루터의 반박부터 시작하면 됩니다.

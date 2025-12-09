@@ -19,7 +19,7 @@ tags:
 - 수학개념
 - 수학심화
 - 가로수길
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003002-b4c5d6e7f8a9?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 신사동 중학생, 수학 일차함수 그래프가 어렵다면

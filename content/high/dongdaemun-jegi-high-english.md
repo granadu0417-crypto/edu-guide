@@ -18,7 +18,7 @@ tags:
   - 대광고
   - 청량고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 제기동 고등학생, 단어는 외워도 문장이 해석이 안 되나요?

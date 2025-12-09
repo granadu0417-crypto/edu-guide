@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "광주 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 tags: ["광주영어과외", "광주과외", "영어과외", "광주교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1759188226935-5u3w1v4s6t82?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 단어는 외우는데 문장이 안 읽히나요? 듣기는 괜찮은데 말하기가 너무 어렵다고요.

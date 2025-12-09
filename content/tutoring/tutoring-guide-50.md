@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
 ---
 
 ## 중학교 내신이 고등학교에 영향이 있나요? 지금부터 관리해야 하나요?

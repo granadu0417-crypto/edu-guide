@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 역삼비즈니스
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1902003003003-c5d6e7f8a9b0?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 역삼1동 중학생, 영어 접속사 사용이 헷갈린다면

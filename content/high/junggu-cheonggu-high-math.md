@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1839188314935-5w3y1x4u6v82?w=1200&h=630&fit=crop"
 ---
 
 문제는 이해했는데 어디서 시작해야 할지 모르겠다면? 문제 분석 능력을 키워야 합니다.

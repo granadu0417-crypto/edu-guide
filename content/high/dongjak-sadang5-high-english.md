@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 사당5동 고등학생, 수능 영어 1등급을 원한다면
