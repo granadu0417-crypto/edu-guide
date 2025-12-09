@@ -78,28 +78,10 @@ title = "과외를부탁해"
     url = "/subjects/social/"
     weight = 5
 
-  # 학원·과외 (드롭다운)
+  # 학습플랜 (단독 메뉴)
   [[menu.main]]
-    name = "학원·과외"
-    identifier = "tutoring"
-    weight = 3
-
-  [[menu.main]]
-    name = "선택 가이드"
-    parent = "tutoring"
-    url = "/tutoring/guide/"
-    weight = 1
-
-  [[menu.main]]
-    name = "학원 찾기"
-    parent = "tutoring"
-    url = "/tutoring/academy/"
-    weight = 2
-
-  [[menu.main]]
-    name = "과외 찾기"
-    parent = "tutoring"
-    url = "/tutoring/private/"
+    name = "학습플랜"
+    url = "/tutoring/"
     weight = 3
 
   # 시험 대비 (단독 메뉴)
