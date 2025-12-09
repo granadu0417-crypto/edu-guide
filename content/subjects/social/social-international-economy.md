@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1864188342480-0v8x6w9t1u37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=1200&h=630&fit=crop"
 ---
 
 ## 무역과 환율이 복잡하고 국제기구 구분이 어렵다고요? 국가 간 교류의 기본부터 파악하면 됩니다.

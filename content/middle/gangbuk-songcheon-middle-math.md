@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1667188125313-3g1i9h2e4f60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
 
 ---
 ## 강북구 송천동 중학생, 시험만 보면 아는 문제도 틀리나요?

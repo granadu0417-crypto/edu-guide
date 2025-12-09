@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1902001001004-d4e5f6a7b8c9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
 ---
 
 영작 문제에서 자꾸 감점당한다면? 정확한 문장 구성 연습이 필요합니다.

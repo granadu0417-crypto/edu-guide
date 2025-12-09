@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 코엑스
-featured_image: "https://images.unsplash.com/photo-1895188376591-1a9c7b0y2z48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 삼성1동 중학생, 영어 5형식 문장이 헷갈린다면

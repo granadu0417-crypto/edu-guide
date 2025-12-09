@@ -14,7 +14,7 @@ tags:
 - 모의고사
 - 수능
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1899188380935-5e3g1f4c6d82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
 ---
 ## 수능 100일 남았는데, 지금부터 뭘 해야 하죠? 새로운 거 공부해도 되나요?
 

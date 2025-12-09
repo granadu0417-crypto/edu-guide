@@ -7,7 +7,7 @@ reading_time: "713줄"
 description: "고등학생을 위한 스트레스 관리 완전 가이드. 시험 불안부터 대인 관계까지 건강하게 스트레스 대처하는 방법."
 categories: ["고등"]
 tags: ["스트레스관리", "시험불안", "멘탈관리", "심리건강", "스트레스해소", "불안극복", "감정관리", "마음건강"]
-featured_image: "https://images.unsplash.com/photo-1731188196157-7s5u3t6q8r04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

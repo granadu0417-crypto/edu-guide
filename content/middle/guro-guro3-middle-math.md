@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1668188126424-4h2j0i3f5g71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
 
 ---
 ## 구로구 구로3동 중학생, 시험만 보면 아는 문제도 틀리나요?

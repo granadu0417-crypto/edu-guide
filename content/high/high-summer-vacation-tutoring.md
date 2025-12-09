@@ -7,7 +7,7 @@ reading_time: "1160줄"
 description: "고등 여름방학 과외, 어떻게 해야 할까요? 고1·고2·고3 학년별 맞춤 전략, 선행 vs 복습 균형, 약점 보완부터 수능 대비까지 완벽 가이드입니다."
 categories: ["고등학생", "과외"]
 tags: ["여름방학과외", "고등과외", "방학특강", "선행학습", "복습전략", "고1방학", "고2방학", "고3방학"]
-featured_image: "https://images.unsplash.com/photo-1810188283046-6t4v2u5r7s93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
 draft: false
 ---
 ## 방학인데 그냥 놀아도 되나요? 아니면 뭔가 해야 할까요?

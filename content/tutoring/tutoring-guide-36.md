@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1865188343591-1w9y7x0u2v48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
 ---
 
 ## 그냥 열심히 하면 되는 거 아닌가요? 왜 계획이 필요한 거예요?

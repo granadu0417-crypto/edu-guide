@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1804188276480-0n8p6o9l1m37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 화곡5동 중학생, 독해 지문을 읽어도 내용 파악이 안 되나요?

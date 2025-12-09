@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1897188378713-3c1e9d2a4b60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
 ---
 
 ## 숙제를 해도 효과가 없는 것 같아요. 그냥 시간만 낭비하는 건 아닌가요?

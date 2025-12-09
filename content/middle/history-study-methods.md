@@ -10,7 +10,7 @@ tags:
 - 중학교
 - 학습가이드
 - 학습방법
-featured_image: "https://images.unsplash.com/photo-1896188377602-2b0d8c1z3a59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=1200&h=630&fit=crop"
 ---
 ## 역사 시험, 외워도 외워도 끝이 없다고요?
 

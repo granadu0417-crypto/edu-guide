@@ -22,7 +22,7 @@ tags:
   - 신반포역
   - 고속터미널역
   - 반포한강공원
-featured_image: "https://images.unsplash.com/photo-1861188339157-7s5u3t6q8r04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
 ---
 ## 서초구 반포2동 중학생, 영어 동명사와 to부정사가 헷갈린다면
 

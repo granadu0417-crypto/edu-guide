@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 코엑스
-featured_image: "https://images.unsplash.com/photo-1841188317157-7y5a3z6w8x04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 삼성1동 중학생, 수학 삼각형의 합동 조건이 어렵다면

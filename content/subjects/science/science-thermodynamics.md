@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1799188270935-5i3k1j4g6h82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
 ---
 
 ## 열역학 법칙이 추상적이고 열 이동 원리가 복잡하다고요? 열과 온도의 차이부터 구분하면 됩니다.

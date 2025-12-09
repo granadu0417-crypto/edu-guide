@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "오답노트로 성적 올리는 완벽 가이드. 작성법, 활용법, 과외 연계 전략까지 모두 알려드립니다."
 tags: ["중등과외", "오답노트", "학습전략", "성적향상"]
-featured_image: "https://images.unsplash.com/photo-1854188331480-0l8n6m9j1k37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?w=1200&h=630&fit=crop"
 ---
 
 ## 오답노트가 진짜 효과가 있나요? 귀찮기만 하고 시간만 잡아먹는 것 같은데요

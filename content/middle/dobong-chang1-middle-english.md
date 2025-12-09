@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1752188219268-8n6p4o7l9m15?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
 
 ---
 ## 도봉구 창1동 중학생, 영어 공부 방법을 몰라 답답한가요?

@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1751188218157-7m5o3n6k8l04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 행당1동 고등학생, 독해가 느리다면

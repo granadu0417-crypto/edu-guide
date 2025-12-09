@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1821188295157-7e5g3f6c8d04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
 
 ---
 ## 구로구 항동 중학생, 문장 구조 파악이 안 돼서 해석이 어려운가요?

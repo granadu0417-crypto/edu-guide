@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 올림픽공원
-featured_image: "https://images.unsplash.com/photo-1829188303935-5m3o1n4k6l82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 방이2동 중학생, 영어 목적어로 쓰이는 명사절이 헷갈린다면

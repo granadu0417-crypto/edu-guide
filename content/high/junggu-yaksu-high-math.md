@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1723188187379-9k7m5l8i0j26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
 ---
 
 모의고사마다 점수 편차가 크다면? 컨디션 관리보다 실력 안정화가 먼저입니다.

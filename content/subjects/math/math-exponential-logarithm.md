@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1806188278602-2p0r8q1n3o59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1574169208507-84376144848b?w=1200&h=630&fit=crop"
 ---
 
 ## 지수법칙이 너무 많아서 헷갈린다고요? 로그가 뭔지 잘 모르겠고 밑 변환 공식이 복잡하게 느껴지시죠.

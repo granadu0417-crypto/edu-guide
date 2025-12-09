@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1678188137524-4r2t0s3p5q71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
 ---
 ## 종로구 부암동 중학생, 수학 통계 단원이 막막하다면
 

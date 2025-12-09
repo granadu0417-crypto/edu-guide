@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 심화
 - 과외
-featured_image: "https://images.unsplash.com/photo-1780188250046-6p4r2q5n7o93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=1200&h=630&fit=crop"
 ---
 
 ## 확률과 통계가 도대체 뭔지 감이 안 잡힌다고요? 경우의 수부터 헷갈리고 정규분포는 더 어렵게 느껴지시죠.

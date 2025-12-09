@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1893188374379-9y7a5z8w0x26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827?w=1200&h=630&fit=crop"
 ---
 ## 영어가 절대평가라서 쉽다고 했는데, 1등급이 왜 이렇게 어려워요?
 

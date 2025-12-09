@@ -19,7 +19,7 @@ tags:
   - 수락고
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1854188331480-0l8n6m9j1k37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?w=1200&h=630&fit=crop"
 
 ---
 ## 노원구 상계1동 고등학생, 영어 성적이 안 오른다면

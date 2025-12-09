@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 대치동학원가
-featured_image: "https://images.unsplash.com/photo-1803188275379-9m7o5n8k0l26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 대치4동 중학생, 영어 시제 문제가 헷갈린다면

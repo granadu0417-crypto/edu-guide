@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1648054003786-e7c7f2e5e4cc?w=
 
 과학 탐구 활동은 단순한 실험이 아닙니다. 스스로 질문하고, 설계하고, 실행하고, 분석하는 진짜 과학입니다. 이 글에서는 주제 선정부터 발표까지 성공적인 과학 탐구 활동을 위한 모든 과정을 단계별로 안내합니다.
 
-![과학 탐구 활동](https://images.unsplash.com/photo-1865188343591-1w9y7x0u2v48?w=1200&h=600&fit=crop)
+![과학 탐구 활동](https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=600&fit=crop)
 
 ## 과학 탐구 활동이 중요한 이유
 

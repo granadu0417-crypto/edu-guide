@@ -17,7 +17,7 @@ tags:
   - 경인고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1902001001002-b2c3d4e5f6a7?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 ---
 
 학원에서 열심히 하는데 영어 성적이 그대로라면, 학습 방법이 맞지 않는 것입니다.

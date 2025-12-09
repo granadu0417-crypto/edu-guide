@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1870188349046-6b4d2c5z7a93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1598025678451-af5c59b29c40?w=1200&h=630&fit=crop"
 ---
 
 ## 수요와 공급이 헷갈리고 가격 결정이 복잡하다고요? 시장의 기본 원리부터 이해하면 됩니다.

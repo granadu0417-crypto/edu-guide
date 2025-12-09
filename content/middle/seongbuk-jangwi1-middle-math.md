@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1881188361157-7m5o3n6k8l04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 장위1동 중학생, 수학 성적 올리고 싶다면

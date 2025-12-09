@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1874188353480-0f8h6g9d1e37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 약수동 중학생, 수학 연립방정식 가감법이 안 풀린다면

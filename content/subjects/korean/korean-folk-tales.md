@@ -12,7 +12,7 @@ tags:
 - 전설
 - 민담
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1857188334713-3o1q9p2m4n60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?w=1200&h=630&fit=crop"
 ---
 
 ## 신화, 전설, 민담이 뭐가 다른지 헷갈린다고요? 세 가지 구분법을 알면 간단합니다.

@@ -14,7 +14,7 @@ tags:
 - 사고력수학
 - 증명
 - 수학
-featured_image: "https://images.unsplash.com/photo-1857188334713-3o1q9p2m4n60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?w=1200&h=630&fit=crop"
 ---
 
 ## 수학이 너무 기계적으로 느껴진다고요? 공식만 외워서 푸니까 응용이 안 되고 생각하는 힘이 안 기른다고 느끼시죠.

@@ -18,7 +18,7 @@ tags:
   - 목일중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1730188195046-6r4t2s5p7q93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정6동 중학생, 상위권 도약이 필요하다면

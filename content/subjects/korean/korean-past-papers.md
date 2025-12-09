@@ -11,7 +11,7 @@ tags:
 - 기출분석
 - 수능대비
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1805188277591-1o9q7p0m2n48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
 ---
 
 ## 기출 문제를 어떻게 활용해야 할지 모르겠다고요? 효과적인 분석법이 있습니다.

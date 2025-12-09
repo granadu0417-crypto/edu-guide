@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 올림픽공원
-featured_image: "https://images.unsplash.com/photo-1902002002004-d5e6f7a8b9c0?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1618044733300-9472054094ee?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 방이1동 중학생, 영어 조동사의 의미 구별이 헷갈린다면

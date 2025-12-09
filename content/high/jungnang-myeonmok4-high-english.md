@@ -15,7 +15,7 @@ tags:
   - 수능영어
   - 영어내신
 description: "중랑구 면목4동 고등학생을 위한 1:1 맞춤 영어과외. 중랑구 관내 고등학교 내신 완벽 대비, 수능 영어까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1833188308379-9q7s5r8o0p26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1585155770913-5bde2a9d5e94?w=1200&h=630&fit=crop"
 ---
 
 고등학교 영어, 중학교와 다릅니다. 체계적인 학습이 필요합니다.

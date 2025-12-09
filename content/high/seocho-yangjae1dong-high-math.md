@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 양재고
   - 언남고
-featured_image: "https://images.unsplash.com/photo-1899188380935-5e3g1f4c6d82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
 ---
 
 계산 속도가 느려서 시간이 모자라다면? 연산 속도 훈련이 필요합니다.

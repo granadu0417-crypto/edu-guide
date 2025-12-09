@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1696188157502-2j0l8k1h3i59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
 
 ---
 ## 도봉구 도봉2동 중학생, 관계대명사가 나오면서 포기하고 싶어졌나요?

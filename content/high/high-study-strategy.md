@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 학습 전략 완벽 수립 가이드 | 목표 설정, 시간 관리, 내신·수능 통합 전략, 학년별 맞춤 플랜 [2025년]"
 tags: ["학습전략", "학습계획", "시간관리", "내신전략", "수능전략", "비교과전략", "목표설정", "고등학생"]
-featured_image: "https://images.unsplash.com/photo-1740188206046-6b4d2c5z7a93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517245386807-9b1e6d34b5ff?w=1200&h=630&fit=crop"
 ---
 
 ## 열심히 공부하는데 성적이 안 올라요. 하루 종일 책상에 앉아 있는데 왜 실력이 안 느나요?

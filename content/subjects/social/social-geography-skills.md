@@ -16,7 +16,7 @@ tags:
 - 산업
 - 지도읽기
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1902002002007-a8b9c0d1e2f3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1620325867502-221cfb5faa5f?w=1200&h=630&fit=crop"
 ---
 
 ## 지형, 기후, 인구, 산업이 따로 노는 것 같고 지도 읽기가 어렵다고요? 지리의 인과 관계부터 파악하면 됩니다.

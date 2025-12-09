@@ -13,7 +13,7 @@ tags:
 - 공부법
 - note-taking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1863188341379-9u7w5v8s0t26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 노트를 어떻게 정리해야 할지 모르겠다고요? 예쁘게만 쓰고 끝이죠.

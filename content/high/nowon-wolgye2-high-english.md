@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 내신특화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1902001001006-f6a7b8c9d0e1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
 
 ---
 ## 월계2동 고등학생, 학교 시험에 맞춘 영어 대비가 필요하다면

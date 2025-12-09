@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1837188312713-3u1w9v2s4t60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
 ---
 ## 아이가 공부를 안 하려고 해요, 사춘기일까요?
 

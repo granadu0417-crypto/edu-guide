@@ -19,7 +19,7 @@ tags:
   - 신길중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1748188214824-4j2l0k3h5i71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 신길4동 중학생, 수포자가 되기 싫다면

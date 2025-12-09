@@ -8,7 +8,7 @@ regions:
 cities:
   - 서초구
 tags: ["서초구", "수학과외", "반포동", "서초동", "방배동", "수학", "과외", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1840188316046-6x4z2y5v7w93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
 ---
 
 "서초구에서 수학 잘 가르치는 선생님 어디서 찾죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1840188316046-6x4z2y5v7w93?w=
 학부모님들이 가장 많이 하시는 질문입니다.
 솔직히 말씀드리면, **서초구는 좋은 선생님이 많습니다.** 문제는 우리 아이에게 맞는 선생님을 찾는 것이죠.
 
-![서초구 수학과외](https://images.unsplash.com/photo-1886188366602-2r0t8s1p3q59?w=1200&h=600&fit=crop)
+![서초구 수학과외](https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=600&fit=crop)
 
 ## 서초구 수학 교육, 뭐가 다를까요?
 

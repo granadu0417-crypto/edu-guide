@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1890188371046-6v4x2w5t7u93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1608970057135-40c5d28f0a28?w=1200&h=630&fit=crop"
 ---
 ## 중1 때 잘했는데 중2 되니까 성적이 떨어졌어요
 

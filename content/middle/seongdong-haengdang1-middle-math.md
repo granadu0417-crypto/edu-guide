@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1690188150846-6d4f2e5b7c93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 행당1동 중학생, 선행보다 현행이 중요하다면

@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1806188278602-2p0r8q1n3o59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1574169208507-84376144848b?w=1200&h=630&fit=crop"
 ---
 
 ## 적분이 도대체 뭔지 감이 안 잡힌다고요? 정적분이랑 부정적분이 뭐가 다른지 헷갈리시죠.

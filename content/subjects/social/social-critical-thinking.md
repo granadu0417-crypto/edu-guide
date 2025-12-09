@@ -15,7 +15,7 @@ tags:
 - 사고력훈련
 - 1:1과외
 - 심화학습
-featured_image: "https://images.unsplash.com/photo-1902002002006-f7a8b9c0d1e2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1619410283995-43d9134e7656?w=1200&h=630&fit=crop"
 ---
 
 ## 사회 과외로 비판적 사고력 완벽 정복하기

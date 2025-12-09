@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1876188355602-2h0j8i1f3g59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
 ---
 
 ## 1차 대전과 2차 대전의 원인이 헷갈리고 전쟁 결과가 복잡하다고요? 제국주의 경쟁과 민족주의부터 이해하면 됩니다.

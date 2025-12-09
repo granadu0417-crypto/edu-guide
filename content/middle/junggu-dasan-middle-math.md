@@ -19,7 +19,7 @@ tags:
 - 장충중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1772188241268-8h6j4i7f9g15?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531591022136-eb8b0da1e6d0?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 다산동 중학생, 수학 표본조사가 어렵다면

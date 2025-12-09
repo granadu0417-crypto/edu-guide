@@ -13,7 +13,7 @@ tags:
 - 비즈니스
 - 작문
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1891188372157-7w5y3x6u8v04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
 ---
 
 ## 비즈니스 이메일 첫 문장에서 막힌다고요? Dear로 시작해야 할지 Hello로 해야 할지 고민되시죠.

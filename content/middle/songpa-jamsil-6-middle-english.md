@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1661188119657-4b5f3d6e9c08?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 잠실6동 중학생, 영어 부정대명사 some, any, no 계열이 헷갈린다면

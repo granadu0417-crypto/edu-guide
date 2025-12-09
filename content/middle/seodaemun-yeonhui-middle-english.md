@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1756188223602-2r0t8s1p3q59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522542550221-31fd8575ffe4?w=1200&h=630&fit=crop"
 
 ---
 ## 서대문구 연희동 중학생, 독해가 느리다면

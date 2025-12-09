@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1744188210480-0f8h6g9d1e37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 화곡7동 중학생, 수학 때문에 전체 성적이 발목 잡히나요?

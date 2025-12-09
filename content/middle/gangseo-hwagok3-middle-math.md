@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1716188179602-2d0f8e1b3c59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 화곡3동 중학생, 선행은 했는데 정작 내신 성적이 안 나오나요?

@@ -20,7 +20,7 @@ tags:
   - 환일중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1902002002001-a2b3c4d5e6f7?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1615071024892-94b9bd8c9c5c?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 명동 중학생, 수학 다항식의 나눗셈이 어렵다면

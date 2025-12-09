@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1713188176379-9a7c5b8y0z26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
 
 ---
 ## 서대문구 홍제3동 고등학생, 개념이 흔들린다면

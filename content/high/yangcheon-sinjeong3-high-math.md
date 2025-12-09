@@ -19,7 +19,7 @@ tags:
   - 백암고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1714188177480-0b8d6c9z1a37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정3동 고등학생, 대입이 막막하다면

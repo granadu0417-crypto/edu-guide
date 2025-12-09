@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 내신수능
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1777188246713-3m1o9n2k4l60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?w=1200&h=630&fit=crop"
 
 ---
 ## 월계1동 고등학생, 영어 실력을 끌어올리고 싶다면

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "자사고 준비 과외의 모든 것을 알려드립니다. 시작 시기, 과목별 전략, 내신 관리부터 면접 준비까지 완벽 가이드."
 tags: ["중등과외", "자사고", "고입", "내신"]
-featured_image: "https://images.unsplash.com/photo-1795188266591-1e9g7f0c2d48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop"
 ---
 
 ## 자사고 진학을 목표로 하고 있어요. 과외로 준비할 수 있을까요?

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1836188311602-2t0v8u1r3s59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 염창동 중학생, 수학 성적이 오르락내리락 불안정한가요?

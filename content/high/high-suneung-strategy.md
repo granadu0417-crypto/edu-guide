@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 수능 완벽 대비 전략 | 시기별 전략, 영역별 공략법, D-100/D-30/당일 전략, 멘탈·컨디션 관리 [2025년]"
 tags: ["수능", "수능전략", "수능대비", "수능당일", "수능공부법", "고3", "고등학생"]
-featured_image: "https://images.unsplash.com/photo-1853188330379-9k7m5l8i0j26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
 ---
 
 ## 수능이 얼마 안 남았는데 뭐부터 해야 할지 모르겠어요. 기출만 풀면 되는 건가요, 아니면 새 문제도 풀어야 하나요?

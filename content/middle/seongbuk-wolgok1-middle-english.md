@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1876188355602-2h0j8i1f3g59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 월곡1동 중학생, 영어 포기를 생각한다면

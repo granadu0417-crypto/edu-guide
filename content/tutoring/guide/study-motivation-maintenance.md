@@ -15,7 +15,7 @@ tags:
 description: 학습 동기 유지 전략. 목표 설정, 슬럼프 극복, 1:1 과외 멘토링, 보상 시스템, 장기 동기 관리 방법을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: "https://images.unsplash.com/photo-1783188253379-9s7u5t8q0r26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1537420327992-d6e192287183?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

@@ -19,7 +19,7 @@ tags:
 - 영어문법
 - 영어독해
 - 가로수길
-featured_image: "https://images.unsplash.com/photo-1867188345713-3y1a9z2w4x60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496578664-db76b5bf3f63?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 신사동 중학생, 영어 수동태 문장이 복잡하다면

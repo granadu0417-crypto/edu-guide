@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1711188174157-7y5a3z6w8x04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
 ---
 
 ## 과학 개념은 이해했는데 시험에서 자료 해석 문제만 나오면 틀려요. 어떻게 해야 하나요?

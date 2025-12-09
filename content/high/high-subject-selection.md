@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 과목 선택 완벽 전략 | 계열별 과목 조합, 진로 연계 선택, 대학 권장 이수 과목, 학년별 로드맵, 1:1 맞춤 진로 상담 [2025년]"
 tags: ["과목선택", "진로상담", "선택과목", "이수과목", "계열선택", "인문계열", "자연계열", "과목조합", "대입준비", "학생부관리"]
-featured_image: "https://images.unsplash.com/photo-1860188338046-6r4t2s5p7q93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
 ---
 
 ## 고2 올라가면서 과목을 선택해야 하는데, 뭘 골라야 할지 너무 막막해요. 문과냐 이과냐부터 정해야 하나요?

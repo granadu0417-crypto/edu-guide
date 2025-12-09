@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1855188332591-1m9o7n0k2l48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 응봉동 중학생, 개념이 헷갈린다면

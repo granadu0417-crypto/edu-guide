@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1723188187379-9k7m5l8i0j26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
 
 ---
 ## 서대문구 홍은2동 고등학생, 수학 자신감을 되찾고 싶다면

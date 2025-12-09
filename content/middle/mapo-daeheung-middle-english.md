@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1755188222591-1q9s7r0o2p48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 대흥동 중학생, 독해가 느리다면

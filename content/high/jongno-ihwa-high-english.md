@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1866188344602-2x0z8y1v3w59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
 ---
 
 문장 삽입 문제에서 정답 위치를 못 찾겠다면? 논리적 연결 훈련이 필요합니다.

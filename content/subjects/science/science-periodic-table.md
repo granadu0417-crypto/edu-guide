@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1886188366602-2r0t8s1p3q59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
 ---
 
 ## 원소 기호 암기가 어렵고 주기적 성질이 복잡하다고요? 주기율표의 구조부터 이해하면 됩니다.

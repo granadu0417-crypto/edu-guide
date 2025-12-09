@@ -18,7 +18,7 @@ tags:
   - 신길중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1863188341379-9u7w5v8s0t26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 신길1동 중학생, 상위권으로 도약하고 싶다면

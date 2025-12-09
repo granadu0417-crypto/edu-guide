@@ -10,7 +10,7 @@ tags:
 - 원자 구조
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1875188354591-1g9i7h0e2f48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
 ---
 
 ## 원자 구조와 전자 배치가 어렵다고요? 기본 원리부터 접근하면 됩니다.

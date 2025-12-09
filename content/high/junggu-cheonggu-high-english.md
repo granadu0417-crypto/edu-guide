@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1893188374379-9y7a5z8w0x26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827?w=1200&h=630&fit=crop"
 ---
 
 문법은 아는데 독해가 안 된다면? 구문 분석 능력이 부족한 것입니다.

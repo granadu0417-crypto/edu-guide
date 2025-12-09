@@ -13,7 +13,7 @@ tags:
 - 생물
 - 그룹학습
 description: 전문 과정 학원. 단기 목표, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 전문가의 세심한 가이드로 시작하세요.
-featured_image: "https://images.unsplash.com/photo-1831188306157-7o5q3p6m8n04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1584430108633-a8da0b5eb7ee?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

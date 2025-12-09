@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1837188312713-3u1w9v2s4t60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
 ---
 ## 광진구 중곡4동 중학생, 영어 분사가 헷갈린다면
 

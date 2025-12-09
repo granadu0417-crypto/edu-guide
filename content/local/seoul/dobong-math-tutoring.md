@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=120
 많이들 걱정하시는 부분입니다.
 솔직히 말씀드리면, **고려대와 서울과기대가 가까워서 오히려 좋은 선생님 찾기 쉽습니다.** 방학동 학원가도 잘 발달되어 있어요.
 
-![도봉구 수학과외](https://images.unsplash.com/photo-1900188382046-6f4h2g5d7e93?w=1200&h=600&fit=crop)
+![도봉구 수학과외](https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=1200&h=600&fit=crop)
 
 ## 도봉구 수학 교육, 어떤 특징이 있나요?
 

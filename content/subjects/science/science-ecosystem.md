@@ -10,7 +10,7 @@ tags:
 - 생태계
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1885188365591-1q9s7r0o2p48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
 ---
 
 ## 먹이 사슬과 에너지 피라미드가 복잡하다고요? 흐름을 따라가면 이해됩니다.

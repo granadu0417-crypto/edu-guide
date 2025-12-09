@@ -12,7 +12,7 @@ tags:
 - 시제
 - 문장구조
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1842188318268-8z6b4a7x9y15?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
 ---
 
 ## 문법이 너무 헷갈려서 어디서부터 시작해야 할지 모르겠다고요? 배워도 금방 까먹으시죠.

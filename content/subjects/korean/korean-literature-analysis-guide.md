@@ -12,7 +12,7 @@ tags:
 - 시분석
 - 소설분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1763188231379-9y7a5z8w0x26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 ## 문학 작품을 어떻게 분석해야 할지 모르겠다고요? 장르별 분석법이 있습니다.

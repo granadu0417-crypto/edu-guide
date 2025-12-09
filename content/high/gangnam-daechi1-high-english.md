@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 중대부고
   - 단대부고
-featured_image: "https://images.unsplash.com/photo-1898188379824-4d2f0e3b5c71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
 ---
 
 지문 분석은 하는데 시간 내에 못 끝낸다면? 시간 배분 훈련이 필요합니다.

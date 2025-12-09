@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1734188199480-0v8x6w9t1u37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 전농1동 중학생, 문제집은 많이 풀었는데 실력이 안 느나요?

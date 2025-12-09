@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1743188209379-9e7g5f8c0d26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
 
 ---
 ## 동대문구 답십리2동 중학생, 수학 때문에 전체 성적이 발목 잡히나요?

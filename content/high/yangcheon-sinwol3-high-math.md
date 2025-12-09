@@ -19,7 +19,7 @@ tags:
   - 광영여고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1769188237935-5e3g1f4c6d82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신월3동 고등학생, 모의고사가 안 나온다면

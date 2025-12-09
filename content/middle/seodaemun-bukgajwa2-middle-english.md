@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1699188160835-5m3o1n4k6l82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
 
 ---
 ## 서대문구 북가좌2동 중학생, 시험 점수가 들쭉날쭉하다면

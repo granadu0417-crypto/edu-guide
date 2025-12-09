@@ -15,7 +15,7 @@ tags:
 description: 양천 초등학원 추천. 목동권 초등 전문 학원, 학년별 선택, 과목별 학원, 1:1 초등 과외를 안내합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 학부모님과 함께하는 효과적인 교육 방법을 안내합니다. 지금 바로 시작하세요. 학부모님과
   함께하는 효과적인 교육 방법을 안내합니다.
-featured_image: "https://images.unsplash.com/photo-1877188356713-3i1k9j2g4h60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

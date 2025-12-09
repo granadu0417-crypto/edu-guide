@@ -17,7 +17,7 @@ tags:
 - 수능사회
 description: 사회 전 영역을 체계적으로 정복하는 통합 가이드입니다. 역사, 지리, 정치, 경제, 사회·문화, 윤리의 핵심 개념과 효과적인
   학습 전략을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 사회 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요.
-featured_image: "https://images.unsplash.com/photo-1781188251157-7q5s3r6o8p04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
 reading_time: 648줄
 ---
 

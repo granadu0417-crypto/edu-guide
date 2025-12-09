@@ -14,7 +14,7 @@ tags:
   - 중학교수학과외
   - 내신대비
 description: "중랑구 상봉2동 중학생을 위한 1:1 맞춤 수학과외. 상봉중 내신 완벽 대비, 개념 이해부터 심화 문제까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1718188181824-4f2h0g3d5e71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop"
 ---
 
 중학교 수학이 어려워진 건 당연합니다. 초등학교와 차원이 다르니까요.

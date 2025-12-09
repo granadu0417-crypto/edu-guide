@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 중화2동 중학생을 위한 1:1 맞춤 영어과외. 중랑중 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1868188346824-4z2b0a3x5y71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596622984703-6b1833c3ff7e?w=1200&h=630&fit=crop"
 ---
 
 중랑중 영어 시험, 까다로운 문법 문제도 자신 있게 풀 수 있습니다.

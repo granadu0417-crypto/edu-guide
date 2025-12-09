@@ -17,7 +17,7 @@ tags:
   - 구로고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1872188351268-8d6f4e7b9c15?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
 ---
 
 수학을 포기하고 싶다면, 아직 방법을 못 찾은 것입니다.

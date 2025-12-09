@@ -17,7 +17,7 @@ tags:
 - 무료강의
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1875188354591-1g9i7h0e2f48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
 ---
 
 ## 온라인으로 수학 공부하려는데 어떤 사이트를 써야 할지 모르겠다고요? 무료도 있고 유료도 있는데 뭐가 좋은지 헷갈리시죠.

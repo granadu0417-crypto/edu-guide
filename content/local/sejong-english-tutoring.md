@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "세종 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 tags: ["세종영어과외", "세종과외", "영어과외", "세종교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1760188228046-6v4x2w5t7u93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 단어는 외우는데 문장이 안 읽힌다고요? 듣기나 말하기가 특히 어렵다면 1대1 과외가 답입니다.

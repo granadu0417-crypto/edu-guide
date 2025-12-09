@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1851188328157-7i5k3j6g8h04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
 ---
 
 ## 산화수 계산이 헷갈리고 전자 이동 판단이 어렵다고요? 산화와 환원의 정의부터 정리하면 됩니다.

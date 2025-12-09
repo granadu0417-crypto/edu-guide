@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1738188203824-4z2b0a3x5y71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 금호2·3가동 중학생, 수학 때문에 스트레스라면

@@ -14,7 +14,7 @@ tags:
 - 확률과통계
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1779188248935-5o3q1p4m6n82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1534312527009-56c7016453e6?w=1200&h=630&fit=crop"
 ---
 
 ## 수능까지 시간이 얼마 안 남았는데 점수가 안 오른다고요? 킬러 문제가 안 풀리고 시간도 부족하다고 느끼시죠.

@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "은평구 수색동 중학생을 위한 영어과외입니다. 증산중·연서중·상신중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1761188229157-7w5y3x6u8v04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 실력, 지금 바꿀 수 있습니다

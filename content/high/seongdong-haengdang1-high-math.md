@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1684188144180-0x8z6y9v1w37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 행당1동 고등학생, 킬러문항이 안 풀린다면

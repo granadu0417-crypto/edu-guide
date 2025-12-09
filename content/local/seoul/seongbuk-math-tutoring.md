@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["성북구", "수학과외", "정릉동", "길음동", "석관동", "수학", "과외", "고려대", "국민대", "내신수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1902004004005-e8f9a0b1c2d3?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200&h=630&fit=crop"
 ---
 
 "고려대, 국민대가 가까우니까 수학 잘 가르치는 선생님 많겠죠?"

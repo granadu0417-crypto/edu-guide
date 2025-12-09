@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1756188223602-2r0t8s1p3q59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522542550221-31fd8575ffe4?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 돈암2동 중학생, 독해 속도가 느리다면

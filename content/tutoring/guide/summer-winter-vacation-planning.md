@@ -15,7 +15,7 @@ tags:
 description: 방학 학습 계획 수립 전략. 학원 특강 vs 1:1 과외, 선행과 복습 균형, 방학별 전략을 제시합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
   정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1877188356713-3i1k9j2g4h60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

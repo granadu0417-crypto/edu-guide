@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 과외 선생님, 어떻게 선택해야 할까요? 면접 질문부터 체험 수업까지 완벽 선택 가이드입니다."
 tags: ["과외선생님", "선생님선택", "중등과외", "1:1과외", "과외면접"]
-featured_image: "https://images.unsplash.com/photo-1858188335824-4p2r0q3n5o71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
 ---
 
 ## 좋은 과외 선생님은 어떻게 찾나요? 어떤 기준으로 선택해야 하나요?

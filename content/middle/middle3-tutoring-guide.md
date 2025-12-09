@@ -12,7 +12,7 @@ tags:
 - 자사고
 - 내신관리
 - 1대1과외
-featured_image: "https://images.unsplash.com/photo-1902002002003-c4d5e6f7a8b9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1617104678098-de229db51175?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

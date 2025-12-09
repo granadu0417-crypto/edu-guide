@@ -9,7 +9,7 @@ regions:
 cities:
   - 경기도
 tags: ["경기국제학교", "국제학교입시", "경기교육", "국제학교준비"]
-featured_image: "https://images.unsplash.com/photo-1902004004002-b5c6d7e8f9a0?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1630330604825-f21b28ab2ccf?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

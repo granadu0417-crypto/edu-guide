@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학교 내신 관리 과외, 어떻게 해야 효과적일까요? 등급별 전략부터 시험 대비까지 완벽 가이드입니다."
 tags: ["내신과외", "내신관리", "중등내신", "1:1과외", "등급올리기", "시험대비"]
-featured_image: "https://images.unsplash.com/photo-1902002002002-b3c4d5e6f7a8?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1616088410192-e96ff9361f0c?w=1200&h=630&fit=crop"
 ---
 
 ## 내신 성적이 왜 이렇게 안 오를까요? 어떻게 해야 등급이 올라가요?

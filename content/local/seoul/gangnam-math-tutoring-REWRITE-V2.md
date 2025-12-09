@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=
 
 이제는 시간 관리가 핵심입니다. 30문제를 100분 안에 푸는 훈련이 필요하며, 아는 문제를 빠르고 정확하게 푸는 연습이 중요합니다.
 
-![대치동 학원가](https://images.unsplash.com/photo-1902004004004-d7e8f9a0b1c2?w=1200&h=600&fit=crop)
+![대치동 학원가](https://images.unsplash.com/photo-1632406898063-9d1a9a8e5f35?w=1200&h=600&fit=crop)
 
 ## 과외 선생님 선택 시 확인해야 할 5가지
 

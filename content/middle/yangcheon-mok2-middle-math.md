@@ -19,7 +19,7 @@ tags:
   - 양동중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1681188140857-7u5w3v6s8t04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 목2동 중학생, 수학이 점점 어려워진다면

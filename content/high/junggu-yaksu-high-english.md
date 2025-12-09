@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1732188197268-8t6v4u7r9s15?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
 ---
 
 긴 지문만 나오면 당황한다면? 단락별 요약 훈련이 필요합니다.

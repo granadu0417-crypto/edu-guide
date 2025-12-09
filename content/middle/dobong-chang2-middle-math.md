@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1706188168602-2t0v8u1r3s59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
 
 ---
 ## 도봉구 창2동 중학생, 수학 자신감이 바닥을 치고 있나요?

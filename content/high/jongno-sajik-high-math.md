@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1888188368824-4t2v0u3r5s71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
 ---
 
 지수함수와 로그함수가 너무 헷갈린다면? 지수로그 통합 훈련이 필요합니다.

@@ -16,7 +16,7 @@ tags:
 - 초등수학
 - 중학수학
 - 기초다지기
-featured_image: "https://images.unsplash.com/photo-1763188231379-9y7a5z8w0x26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
 ---
 
 ## 수학 기초가 부족한 것 같은데 어디서부터 시작해야 할지 모르겠다고요? 기초를 다시 잡고 싶은데 방법을 모르시죠.

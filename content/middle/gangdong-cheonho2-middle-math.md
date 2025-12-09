@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1856188333602-2n0p8o1l3m59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
 ---
 ## 강동구 천호2동 중학생, 수학 부등식의 해 집합이 헷갈린다면
 

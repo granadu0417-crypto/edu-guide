@@ -18,7 +18,7 @@ tags:
   - 재현고
   - 내신특화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1883188363379-9o7q5p8m0n26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?w=1200&h=630&fit=crop"
 
 ---
 ## 중계1동 고등학생, 학교별 영어 내신을 확실히 잡고 싶다면

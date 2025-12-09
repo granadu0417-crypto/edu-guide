@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "대구 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 tags: ["대구영어과외", "대구과외", "영어과외", "대구교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1743188209379-9e7g5f8c0d26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
 ---
 
 ## 영어 단어는 외우는데 문장이 안 읽혀요. 듣기는 괜찮은데 말하기가 너무 어렵고요. 어떻게 해야 할까요?

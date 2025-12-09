@@ -18,7 +18,7 @@ tags:
   - 신화중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1817188290713-3a1c9b2y4z60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신월4동 중학생, 도형 문제가 어렵다면

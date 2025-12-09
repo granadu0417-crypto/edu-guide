@@ -17,7 +17,7 @@ tags:
   - 경인고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1825188299591-1i9k7j0g2h48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
 ---
 
 내신 준비하느라 수능 준비할 시간이 없다면, 방법을 바꿔야 합니다.

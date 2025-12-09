@@ -18,7 +18,7 @@ tags:
   - 목동중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1856188333602-2n0p8o1l3m59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신정2동 중학생, 서술형이 어렵다면

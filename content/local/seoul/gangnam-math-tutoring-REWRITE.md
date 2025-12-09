@@ -136,7 +136,7 @@ featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=
 
 {{< cta-dual type="inline" >}}
 
-![대치동 학원가](https://images.unsplash.com/photo-1902004004004-d7e8f9a0b1c2?w=1200&h=600&fit=crop)
+![대치동 학원가](https://images.unsplash.com/photo-1632406898063-9d1a9a8e5f35?w=1200&h=600&fit=crop)
 
 ## 학원 vs 과외, 뭐가 나을까요?
 

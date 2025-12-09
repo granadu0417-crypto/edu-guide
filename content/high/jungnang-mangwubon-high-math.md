@@ -15,7 +15,7 @@ tags:
   - 수능수학
   - 내신대비
 description: "중랑구 망우본동 고등학생을 위한 1:1 맞춤 수학과외. 중랑구 관내 고등학교 내신 완벽 대비, 수능 수학까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1902001001005-e5f6a7b8c9d0?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
 ---
 
 망우본동 고등학생 여러분, 수학 때문에 고민이시라면 읽어보세요.

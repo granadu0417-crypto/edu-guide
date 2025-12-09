@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1883188363379-9o7q5p8m0n26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?w=1200&h=630&fit=crop"
 
 ---
 ## 성북구 성북동 고등학생, 영어 성적 향상이 필요하다면

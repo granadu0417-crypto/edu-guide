@@ -9,7 +9,7 @@ tags:
   - 과외
   - 선생님선택
   - 학습가이드
-featured_image: "https://images.unsplash.com/photo-1902001001010-d0e1f2a3b4c5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=630&fit=crop"
 ---
 
 ## 학원·과외 가이드

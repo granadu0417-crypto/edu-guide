@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1726188190602-2n0p8o1l3m59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 화곡5동 중학생, 서술형 문제에서 점수를 많이 잃나요?

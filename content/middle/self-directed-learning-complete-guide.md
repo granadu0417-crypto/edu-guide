@@ -11,7 +11,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습가이드
-featured_image: "https://images.unsplash.com/photo-1805188277591-1o9q7p0m2n48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
 ---
 ## 학원 다니면서 혼자 공부는 안 하는 아이, 괜찮은 걸까요?
 

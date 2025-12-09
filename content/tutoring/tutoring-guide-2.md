@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1809188281935-5s3u1t4q6r82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?w=1200&h=630&fit=crop"
 ---
 
 ## 과외 선생님을 어떻게 골라야 할지 모르겠어요. 유명하다고 다 좋은 건 아니잖아요.

@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 그룹 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 전문 선생님 매칭과 효과적인 학습 관리 전략을 제공합니다.
 
-featured_image: "https://images.unsplash.com/photo-1865188343591-1w9y7x0u2v48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

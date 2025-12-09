@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1687188147513-3a1c9b2y4z60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
 
 ---
 ## 강북구 삼각산동 중학생, 수학 공부 시간은 많은데 성적은 그대로인가요?

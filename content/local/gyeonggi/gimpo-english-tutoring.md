@@ -9,7 +9,7 @@ regions:
 cities:
   - 김포시
 tags: ["김포영어과외", "김포초등영어", "김포중등영어", "김포고등영어", "김포영어학원", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1885188365591-1q9s7r0o2p48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

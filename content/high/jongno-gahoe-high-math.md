@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1839188314935-5w3y1x4u6v82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
 ---
 
 계산 실수가 자꾸 반복된다면? 정확한 연산력 훈련이 필요합니다.

@@ -11,7 +11,7 @@ tags:
 - 스피드리딩
 - 읽기속도
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1797188268713-3g1i9h2e4f60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1572177812156-58036aae439c?w=1200&h=630&fit=crop"
 ---
 
 ## 지문 읽는 속도가 느려서 시간이 부족하다고요? 속독 기술을 익히면 됩니다.

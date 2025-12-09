@@ -10,7 +10,7 @@ tags:
 - 학습전략
 - 방학과외
 - 선행학습
-featured_image: "https://images.unsplash.com/photo-1661188119657-4b5f3d6e9c08?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
 ---
 ## 여름방학 40일, 놀기만 하면 2학기에 무너집니다
 

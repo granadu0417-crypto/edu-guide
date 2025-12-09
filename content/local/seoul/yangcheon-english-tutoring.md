@@ -9,7 +9,7 @@ regions:
 cities:
   - 양천구
 tags: ["양천구", "영어과외", "목동", "신정동", "신월동", "영어", "과외", "목동8학군", "영어회화", "토플", "수능영어"]
-featured_image: "https://images.unsplash.com/photo-1761188229157-7w5y3x6u8v04?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
 ---
 
 "목동은 학원이 유명한데, 영어과외도 괜찮을까요?"

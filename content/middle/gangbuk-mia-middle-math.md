@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1677188136413-3q1s9r2o4p60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
 
 ---
 ## 강북구 미아동 중학생, 중학교 수학, 어디서부터 잡아야 할지 모르겠나요?

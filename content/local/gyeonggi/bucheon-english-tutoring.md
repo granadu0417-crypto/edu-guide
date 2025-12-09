@@ -9,7 +9,7 @@ regions:
 cities:
   - 부천시
 tags: ["부천영어과외", "부천초등영어", "부천중등영어", "부천고등영어", "부천영어학원", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1885188365591-1q9s7r0o2p48?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

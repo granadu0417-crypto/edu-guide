@@ -13,7 +13,7 @@ tags:
 - 모의고사
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1834188309480-0r8t6s9p1q37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1586165368502-1bad197a6461?w=1200&h=630&fit=crop"
 ---
 ## 아이한테 뭐라고 말해야 할지 모르겠어요. 괜히 말 걸면 짜증만 내더라고요.
 

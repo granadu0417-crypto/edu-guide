@@ -8,7 +8,7 @@ keywords:
 - 학원 선택
 - 보습학원
 - 입시학원
-featured_image: "https://images.unsplash.com/photo-1852188329268-8j6l4k7h9i15?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1592267009768-8be2e0a86ed6?w=1200&h=630&fit=crop"
 ---
 
 ## 학원 찾기

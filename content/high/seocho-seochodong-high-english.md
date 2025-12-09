@@ -19,7 +19,7 @@ tags:
   - 상문고
   - 서초고
   - 양재고
-featured_image: "https://images.unsplash.com/photo-1902001001007-a7b8c9d0e1f2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1612011213103-e3629ccb8b4c?w=1200&h=630&fit=crop"
 ---
 
 지문은 다 읽었는데 요지가 헷갈린다면? 주제문 찾는 훈련이 필요합니다.

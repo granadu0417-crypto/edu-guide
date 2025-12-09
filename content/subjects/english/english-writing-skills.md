@@ -15,7 +15,7 @@ tags:
 - 문법
 - 표현
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1843188319379-9a7c5b8y0z26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
 ---
 
 ## 한국어로 생각한 걸 영어로 옮기기가 어렵다고요? 영어식 사고로 바꿔야 합니다.

@@ -19,7 +19,7 @@ tags:
   - 영등포여고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1879188358935-5k3m1l4i6j82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=1200&h=630&fit=crop"
 
 ---
 ## 영등포구 대림2동 고등학생, 등급이 오르락내리락한다면

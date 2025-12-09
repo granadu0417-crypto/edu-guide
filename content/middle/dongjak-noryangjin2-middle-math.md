@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1676188135302-2p0r8q1n3o59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1460518451285-97b6aa326961?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 노량진2동 중학생, 중학교 수학, 어디서부터 잡아야 할지 모르겠나요?

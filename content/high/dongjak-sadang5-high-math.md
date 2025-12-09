@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1740188206046-6b4d2c5z7a93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517245386807-9b1e6d34b5ff?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 사당5동 고등학생, 수학 때문에 대학이 걱정이라면

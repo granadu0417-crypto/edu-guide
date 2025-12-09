@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1764188232480-0z8b6a9x1y37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1526925539332-aa3b66e35444?w=1200&h=630&fit=crop"
 ---
 
 ## 속도와 가속도가 헷갈리고 등가속도 공식 적용이 어렵다고요? 변위부터 차근차근 정리하면 됩니다.

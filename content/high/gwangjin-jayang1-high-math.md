@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광양고
-featured_image: "https://images.unsplash.com/photo-1902001001002-b2c3d4e5f6a7?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
 ---
 
 문제를 풀다가 갑자기 막히는 경험, 왜 반복될까요? 개념의 연결고리가 끊어졌기 때문입니다.

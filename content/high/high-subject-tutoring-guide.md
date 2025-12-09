@@ -7,7 +7,7 @@ lastmod: 2025-01-15
 reading_time: "576줄"
 draft: false
 description: "고등학생 과외 과목 선택의 모든 것. 수학, 영어, 국어, 탐구 영역별 과외 필요성 진단부터 효과적인 학습 전략까지. 내신과 수능을 동시에 잡는 과목별 맞춤 과외 가이드."
-featured_image: "https://images.unsplash.com/photo-1767188235713-3c1e9d2a4b60?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
 tags: ["고등과외", "과목별과외", "수학과외", "영어과외", "국어과외", "탐구과외", "과외선택", "1:1과외", "내신관리", "수능대비"]
 categories: ["고등"]
 sitemap:

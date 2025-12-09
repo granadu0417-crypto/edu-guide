@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 잠실새내역
-featured_image: "https://images.unsplash.com/photo-1720188184046-6h4j2i5f7g93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 잠실3동 중학생, 수학 이차함수의 최댓값과 최솟값이 헷갈린다면

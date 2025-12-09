@@ -22,7 +22,7 @@ tags:
   - 신반포역
   - 강남역
   - 반포한강공원
-featured_image: "https://images.unsplash.com/photo-1842188318268-8z6b4a7x9y15?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
 ---
 ## 서초구 반포3동 중학생, 수학 이차함수의 그래프가 어렵다면
 

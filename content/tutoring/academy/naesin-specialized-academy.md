@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 내신 전문 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 학원 선택 기준과 효율적인 활용법을 상세히 설명합니다.
 
-featured_image: "https://images.unsplash.com/photo-1876188355602-2h0j8i1f3g59?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

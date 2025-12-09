@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1873188352379-9e7g5f8c0d26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=1200&h=630&fit=crop"
 
 ---
 ## 구로구 개봉1동 중학생, 독해 지문을 읽어도 내용 파악이 안 되나요?

@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["성동구", "영어과외", "성수동", "왕십리", "행당동", "금호동", "영어", "과외", "한양대", "실용영어", "입시영어"]
-featured_image: "https://images.unsplash.com/photo-1760188228046-6v4x2w5t7u93?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 "성수동에서 영어과외 구할 수 있나요? 입시 영어는 왕십리가 낫겠죠?"

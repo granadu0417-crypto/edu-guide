@@ -15,7 +15,7 @@ tags:
 - 실수방지
 - 1:1과외
 - 속도향상
-featured_image: "https://images.unsplash.com/photo-1869188347935-5a3c1b4y6z82?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1597462036098-7ce66b1c43ad?w=1200&h=630&fit=crop"
 ---
 
 ## 아는 문제인데 계산 실수로 자꾸 틀린다고요? 시간이 부족해서 뒷문제를 포기한 적도 있으시죠.

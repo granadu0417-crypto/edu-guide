@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 도곡타워팰리스
-featured_image: "https://images.unsplash.com/photo-1803188275379-9m7o5n8k0l26?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 도곡1동 중학생, 영어 서술형 영작이 안 된다면

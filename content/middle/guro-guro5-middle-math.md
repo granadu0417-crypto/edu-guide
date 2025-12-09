@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1708188170824-4v2x0w3t5u71?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
 
 ---
 ## 구로구 구로5동 중학생, 수학 자신감이 바닥을 치고 있나요?

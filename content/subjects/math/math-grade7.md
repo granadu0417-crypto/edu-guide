@@ -14,7 +14,7 @@ tags:
 - 유리수
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1844188320480-0b8d6c9z1a37?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1589391886645-d51941baf7fb?w=1200&h=630&fit=crop"
 ---
 
 ## 중학교 수학이 초등학교랑 완전 다르다고요? 음수가 뭔지도 모르겠고 문자를 쓰는 게 낯설게 느껴지시죠.
