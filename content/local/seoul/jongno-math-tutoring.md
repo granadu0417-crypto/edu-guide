@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["종로구", "수학과외", "평창동", "부암동", "삼청동", "수학", "과외", "명문교육", "내신수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1531746790095-6421d761a76a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---
 
 "수학이 너무 어려워요. 어디서부터 다시 해야 할지 모르겠어요."

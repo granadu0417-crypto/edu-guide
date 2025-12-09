@@ -14,7 +14,7 @@ tags:
   - 중학교수학과외
   - 내신대비
 description: "중랑구 망우3동 중학생을 위한 1:1 맞춤 수학과외. 송곡여중, 혜원여중, 영란여중 내신 완벽 대비, 개념 이해부터 심화 문제까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1531746790095-6421d761a76a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
 ---
 
 망우3동은 여학교가 많습니다. 송곡여중, 혜원여중, 영란여중 학생들의 수학 파트너가 되어드립니다.
