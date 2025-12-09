@@ -131,8 +131,11 @@ title = "과외를부탁해"
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
 
-# Sitemap 설정은 layouts/sitemap.xml에서 커스터마이징됨
-# 콘텐츠 유형별 우선순위 차별화, 불필요한 페이지 제외
+# Sitemap 설정
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 # Markdown 렌더링 설정
 [markup]
