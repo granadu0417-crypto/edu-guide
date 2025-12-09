@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1598025678451-af5c59b29c40?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
 ---
 
 ## 신경 전달 과정이 복잡하고 중추신경과 말초신경이 헷갈린다고요? 뉴런의 구조부터 시작하면 됩니다.

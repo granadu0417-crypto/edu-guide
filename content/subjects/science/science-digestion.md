@@ -10,7 +10,7 @@ tags:
 - 소화
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
 ---
 
 ## 소화 과정이 복잡하고 소화 효소가 다 헷갈린다고요? 경로와 기능으로 정리하면 됩니다.

@@ -13,7 +13,7 @@ tags:
 - TOEFL
 - IELTS
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
 ---
 
 ## 취업이나 유학을 위해 어떤 영어 시험을 봐야 하는지 모르겠다고요? TOEIC과 TOEFL 차이가 궁금하다고요.

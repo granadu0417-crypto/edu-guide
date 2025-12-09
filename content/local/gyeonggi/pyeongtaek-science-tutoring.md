@@ -9,7 +9,7 @@ regions:
 cities:
   - 평택시
 tags: ["평택과학과외", "고덕과학과외", "평택물리과외", "평택화학과외", "평택생명과학과외", "고덕과외"]
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

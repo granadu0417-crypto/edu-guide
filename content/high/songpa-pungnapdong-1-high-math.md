@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 풍납고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
 ---
 
 무한급수 개념이 추상적이라면? 급수 개념 시각화가 필요합니다.

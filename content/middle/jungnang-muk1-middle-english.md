@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 묵1동 중학생을 위한 1:1 맞춤 영어과외. 원묵중, 태릉중 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 ---
 
 묵1동 원묵중·태릉중 학생들, 영어 내신 1등급 도전해보세요.

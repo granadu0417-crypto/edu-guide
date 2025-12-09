@@ -27,7 +27,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 명동의 국제적인 분위기, 을지로의 비즈니스 환경, 남산 아래 조용한 주택가...
 서울 도심 한복판에서 우리 아이에게 딱 맞는 영어 교육, 충분히 가능합니다.
 
-![중구 영어교육](https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=600&fit=crop)
+![중구 영어교육](https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=600&fit=crop)
 
 ## 중구, 영어 공부하기 좋은 이유
 

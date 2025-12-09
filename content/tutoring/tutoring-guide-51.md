@@ -11,7 +11,7 @@ tags:
 - 수능
 - 학부모가이드
 - 학습가이드
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 ---
 
 ## 내신이랑 수능이랑 공부 방법이 다른데, 둘 다 어떻게 준비해야 하나요?

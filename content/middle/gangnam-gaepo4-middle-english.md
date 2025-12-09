@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 개포주거단지
-featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 개포4동 중학생, 영어 동명사와 to부정사 구분이 안 된다면

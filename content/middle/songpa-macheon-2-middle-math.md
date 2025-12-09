@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 마천역
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 마천2동 중학생, 수학 입체도형의 부피와 겉넓이가 헷갈린다면

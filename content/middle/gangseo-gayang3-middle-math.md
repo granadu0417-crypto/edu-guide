@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 
 ---
 ## 강서구 가양3동 중학생, 수학 문제집만 쌓여가고 실력은 제자리인가요?

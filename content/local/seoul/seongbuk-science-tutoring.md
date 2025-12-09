@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["성북구", "과학과외", "길음동", "안암동", "정릉동", "고려대", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
 ---
 
 "고려대 과학 전공자에게 직접 과외를 받을 수 있나요?"

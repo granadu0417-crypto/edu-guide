@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세화여고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 ---
 
 공식은 외웠는데 어디에 써야 할지 모르겠다면? 문제 분석력을 키워야 합니다.

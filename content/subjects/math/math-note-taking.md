@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
 ---
 
 ## 노트를 쓰기는 하는데 다시 안 보게 된다고요? 정리한 건 많은데 시험 때 하나도 기억이 안 난다고 느끼시죠.

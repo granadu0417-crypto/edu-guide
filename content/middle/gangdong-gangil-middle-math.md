@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 
 ---
 ## 강동구 강일동 중학생, 수학 선행을 했는데도 성적이 안 나온다면

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 영어 영역 완벽 정복 전략 | 수능 영어 독해·듣기·어휘·문법 영역별 맞춤 과외 로드맵 + 절대평가 1등급 전략 [2025년]"
 tags: ["영어과외", "수능영어", "영어독해", "영어듣기", "영어문법", "영어어휘", "영어1등급", "고등영어", "내신영어", "영어절대평가"]
-featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=630&fit=crop"
 ---
 
 ## 영어는 절대평가라 쉽다고 하는데 90점이 안 나와요. 어떻게 해야 1등급을 받을 수 있나요?

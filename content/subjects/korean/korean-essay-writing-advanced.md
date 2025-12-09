@@ -11,7 +11,7 @@ tags:
 - 논리
 - 논증
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
 ---
 
 ## 논술 시험지 앞에서 막막하다고요? 논리적 글쓰기에도 공식이 있습니다.

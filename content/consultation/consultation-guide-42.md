@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
 ---
 
 ## 아이가 뭘 좋아하는지, 뭘 잘하는지 도무지 모르겠어요. 진로를 어떻게 찾아줘야 하나요?

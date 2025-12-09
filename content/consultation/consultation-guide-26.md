@@ -12,7 +12,7 @@ tags:
 - 집중력
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
 ---
 
 ## 10분만 공부해도 딴 생각이 나요. 어떻게 하면 오래 집중할 수 있을까요?

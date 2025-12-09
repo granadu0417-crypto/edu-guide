@@ -21,7 +21,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
 
 ---
 ## 동작구 대방동 고등학생, 수포자가 되기 전에

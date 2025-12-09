@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 문정고
-featured_image: "https://images.unsplash.com/photo-1596496578664-db76b5bf3f63?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
 ---
 
 동의어 문제에서 자주 틀린다면? 어휘 뉘앙스 구별력이 필요합니다.

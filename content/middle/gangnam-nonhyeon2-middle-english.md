@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 학동역
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 
 ---
 ## 강남구 논현2동 중학생, 영어 관계대명사가 어렵다면

@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 대조동 고등학생을 위한 수학과외입니다. 동명여고·은평고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 ---
 
 ## 수학, 개념이 흔들리면 수능까지 영향 미칩니다

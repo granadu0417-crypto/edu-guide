@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강동고
   - 둔촌고
-featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
 ---
 
 공식을 외웠는데 언제 써야 할지 모른다면? 개념 연결 훈련이 필요합니다.

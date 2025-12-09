@@ -27,7 +27,7 @@ tags:
 - 공부법
 grades:
 - 중학생
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
 draft: false
 ---
 ## 초등 때 영어 잘했는데, 중학교 와서 갑자기 왜 안 되죠?

@@ -7,7 +7,7 @@ reading_time: "613줄"
 description: "고등학생을 위한 실전 글쓰기 전략. 서술형 답안 작성부터 논술, 자기소개서까지. 체계적인 구조와 설득력 있는 표현으로 고득점하는 법."
 categories: ["고등"]
 tags: ["고등글쓰기", "서술형", "논술", "작문", "자기소개서", "글쓰기전략", "논리적글쓰기", "설득력"]
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

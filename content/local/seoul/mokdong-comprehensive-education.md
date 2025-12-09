@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["목동", "학원가", "양천교육", "서울교육", "교육특구"]
-featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
 ---
 
 "목동 학원가, 대치동과 어떻게 다른가요?"

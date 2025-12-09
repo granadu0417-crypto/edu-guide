@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 ---
 ## 광진구 자양4동 중학생, 영어 수동태가 어렵다면
 

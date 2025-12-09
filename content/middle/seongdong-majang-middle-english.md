@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 
 ---
 ## 성동구 마장동 중학생, 문법이 헷갈린다면

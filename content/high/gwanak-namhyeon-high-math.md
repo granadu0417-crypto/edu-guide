@@ -16,7 +16,7 @@ tags:
   - 내신대비
   - 수능수학
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
 ---
 
 수학 때문에 대학 진학이 걱정되시나요? 지금부터 제대로 준비하면 충분히 따라잡을 수 있습니다.

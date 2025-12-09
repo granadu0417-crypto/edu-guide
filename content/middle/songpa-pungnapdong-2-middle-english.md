@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 천호대교
-featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 풍납2동 중학생, 영어 분사구문의 형태와 쓰임이 헷갈린다면

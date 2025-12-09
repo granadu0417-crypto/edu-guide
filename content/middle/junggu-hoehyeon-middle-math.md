@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
 
 ---
 ## 중구 회현동 중학생, 수학 삼각형의 외심과 내심이 어렵다면

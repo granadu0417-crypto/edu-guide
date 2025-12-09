@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 기출 문제 완벽 활용 전략 | 연도별·유형별 분석, N회독 전략, 영역별 활용법, 변형 문제 대비 [2025년]"
 tags: ["기출문제", "수능기출", "패턴분석", "유형정리", "N회독", "수능대비", "고등학생"]
-featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
 ---
 
 ## 기출문제만 풀면 수능 점수가 오르는 건가요? 몇 개년치를 풀어야 하고 어떻게 분석해야 효과가 있는지 모르겠어요.

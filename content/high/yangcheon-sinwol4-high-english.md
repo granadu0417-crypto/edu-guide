@@ -19,7 +19,7 @@ tags:
   - 광영여고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 
 ---
 ## 양천구 신월4동 고등학생, 빈칸추론이 어렵다면

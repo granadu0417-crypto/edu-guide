@@ -14,7 +14,7 @@ tags:
 - 수능
 - 수시
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
 ---
 ## 수시로 갈지 정시로 갈지, 아직도 결정을 못 했어요
 

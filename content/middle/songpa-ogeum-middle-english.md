@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 오금역
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 오금동 중학생, 영어 관계부사 where, when, why가 헷갈린다면

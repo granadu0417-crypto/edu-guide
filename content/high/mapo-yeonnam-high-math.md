@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 
 ---
 ## 마포구 연남동 고등학생, 내신 등급이 떨어졌다면

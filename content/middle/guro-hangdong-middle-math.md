@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
 
 ---
 ## 구로구 항동 중학생, 그래프 문제만 나오면 막막한가요?

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 창덕여고
   - 서울체육고
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
 ---
 
 모의고사 시간 안에 끝내지 못한다면? 시간 배분 전략이 필요합니다.

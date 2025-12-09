@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 석촌호수
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
 
 ---
 ## 송파구 삼전동 중학생, 영어 수동태의 다양한 형태가 헷갈린다면

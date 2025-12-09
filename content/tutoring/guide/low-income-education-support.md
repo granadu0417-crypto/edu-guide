@@ -14,7 +14,7 @@ tags:
 - 중등
 description: 저소득층 가정을 위한 교육 지원 총정리. 정부 지원, 무료·저비용 1:1 과외, 장학금, 성공 전략을 안내합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=630&fit=crop"
 reading_time: 160줄
 ---
 

@@ -18,7 +18,7 @@ tags:
   - 녹천중
   - 맞춤수업
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
 
 ---
 ## 월계3동 중학생, 나만의 수학 선생님이 필요하다면

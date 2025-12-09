@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 건대부고
-featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
 ---
 
 수학 문제를 풀다 보면 시간이 모자라는 경험, 해본 적 있으신가요? 속도와 정확성, 둘 다 잡아야 합니다.

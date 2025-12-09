@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
 ---
 
 ## 인문주의와 문예부흥이 헷갈리고 르네상스 배경이 복잡하다고요? 이탈리아에서 시작된 이유부터 이해하면 됩니다.

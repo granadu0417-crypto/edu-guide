@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 
 ---
 ## 관악구 신사동 중학생, 독해 지문을 읽어도 내용 파악이 안 되나요?

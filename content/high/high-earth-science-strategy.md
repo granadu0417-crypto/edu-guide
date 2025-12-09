@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 지구과학 완전 정복 가이드. 지구, 대기, 해양, 우주까지 개념 이해와 문제풀이 전략. 수능 만점을 위한 체계적 접근법."
 tags: ["고등지구과학", "지구과학학습법", "수능지구과학", "지질학", "기상", "천문학", "과학탐구", "지구과학개념"]
-featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
 ---
 
 ## 지구과학은 쉽다고 해서 선택했는데 천문 파트가 너무 어려워요. 어떻게 공부해야 하나요?

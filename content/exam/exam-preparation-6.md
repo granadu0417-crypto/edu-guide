@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
 ---
 ## 모의고사 점수가 들쭉날쭉해요. 실력인지 운인지 모르겠어요.
 
