@@ -10,7 +10,7 @@ tags:
   - 학습전략
   - 내신
   - 수능
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0144_Ams91Wo635s.jpg"
 ---
 
 ## 시험 대비 전략
