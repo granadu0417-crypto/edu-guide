@@ -909,5 +909,60 @@ find content -name "*.md" -exec sed -i 's/~/-/g' {} \;
 
 ---
 
+## 16. 깨진 이미지(액박) 수정 가이드
+
+> 사용자가 "이 URL 이미지 깨진 것 같아" 또는 "이 페이지 이미지가 안 떠"라고 하면 아래 절차를 따르세요.
+
+### 16-1. 문제 확인
+
+사용자가 알려준 페이지/URL에서 이미지 ID 추출:
+```bash
+# 페이지 제목으로 파일 찾기
+grep -rl "페이지제목" /home/user/edu-guide/content/
+
+# 해당 파일의 이미지 URL 확인
+grep "featured_image:" /home/user/edu-guide/content/[폴더]/[파일명].md
+```
+
+### 16-2. 영향받는 파일 수 확인
+
+```bash
+# 해당 이미지 ID가 사용된 모든 파일 찾기
+grep -rl "photo-[이미지ID]" /home/user/edu-guide/content/
+```
+
+### 16-3. 대체 이미지 선택
+
+사용 횟수가 적은 이미지로 교체 권장:
+```bash
+# 사용 횟수가 적은 이미지 확인
+grep -rh "featured_image:" /home/user/edu-guide/content/ | sort | uniq -c | sort -n | head -20
+```
+
+### 16-4. 일괄 교체
+
+```bash
+# 깨진 이미지를 새 이미지로 일괄 교체
+find /home/user/edu-guide/content -name "*.md" -exec sed -i 's/photo-[깨진이미지ID]/photo-[새이미지ID]/g' {} \;
+
+# 교체 확인
+grep -rl "photo-[깨진이미지ID]" /home/user/edu-guide/content/ | wc -l  # 0이어야 함
+grep -rl "photo-[새이미지ID]" /home/user/edu-guide/content/ | wc -l
+```
+
+### 16-5. 수정 이력
+
+| 날짜 | 깨진 이미지 ID | 대체 이미지 ID | 수정 파일 수 |
+|------|---------------|---------------|-------------|
+| 2025-12-09 | photo-1580894906475-403935091be2 | photo-1499750310107-5fef28a66643 | 14개 |
+
+### 16-6. 주의사항
+
+- Unsplash 이미지는 삭제되거나 접근 제한될 수 있음
+- 현재 환경에서는 외부 네트워크 접근 제한으로 자동 검증 불가
+- 사용자가 사이트에서 직접 확인 후 알려주면 수정
+
+---
+
 **마지막 업데이트**: 2025-12-09
 **작성자**: Claude Code

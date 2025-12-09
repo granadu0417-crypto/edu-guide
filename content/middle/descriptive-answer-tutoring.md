@@ -10,7 +10,7 @@ tags:
 - 중등과외
 - 시험대비
 - 답안작성
-featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
+featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
 ---
 ## 서술형 문제만 나오면 머리가 하얘지나요?
 
