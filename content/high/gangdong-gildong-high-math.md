@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 ### 내신 수학의 치열한 경쟁
 
-고등학교 내신은 1~2문제로 등급이 결정됩니다. 상위권 변별 문제, 시간 부족하게 출제되는 시험, 계산 실수 유발 문제, 복합 개념 응용 문제 등 100점 맞기가 매우 어렵습니다.
+고등학교 내신은 1-2문제로 등급이 결정됩니다. 상위권 변별 문제, 시간 부족하게 출제되는 시험, 계산 실수 유발 문제, 복합 개념 응용 문제 등 100점 맞기가 매우 어렵습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -125,9 +125,9 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 길동 고등 수학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

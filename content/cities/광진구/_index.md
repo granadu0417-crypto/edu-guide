@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 - [군자동 고등 영어과외](/high/gwangjin-gunja-high-english/)
 - [능동 고등 영어과외](/high/gwangjin-neungdong-high-english/)
 
-### 자양동 (자양1동~자양4동)
+### 자양동 (자양1동-자양4동)
 
 **광양고** 학생들이 거주하는 지역입니다.
 
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 - [자양3동 고등 영어과외](/high/gwangjin-jayang3-high-english/)
 - [자양4동 고등 영어과외](/high/gwangjin-jayang4-high-english/)
 
-### 구의동 (구의1동~구의3동)
+### 구의동 (구의1동-구의3동)
 
 **동국대부가람고** 학생들이 거주하는 지역입니다.
 
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 - [구의2동 고등 영어과외](/high/gwangjin-guui2-high-english/)
 - [구의3동 고등 영어과외](/high/gwangjin-guui3-high-english/)
 
-### 중곡동 (중곡1동~중곡4동)
+### 중곡동 (중곡1동-중곡4동)
 
 **대원고, 대원여고** 학생들이 거주하는 지역입니다.
 
@@ -202,13 +202,13 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 ### 고등학생
 
-**고1~2**: 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원
+**고1-2**: 주1회 25만원 - 36만원, 주2회 33만원 - 53만원
 
-**고3**: 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원
+**고3**: 주1회 28만원 - 40만원, 주2회 37만원 - 59만원
 
 ### 중학생
 
-**중학생**: 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원
+**중학생**: 주1회 22만원 - 32만원, 주2회 29만원 - 47만원
 
 {{< cta-dual type="final" >}}
 

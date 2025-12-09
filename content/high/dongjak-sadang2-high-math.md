@@ -115,16 +115,16 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 킬러 대비 전략이 다릅니다. 고1~2는 기본기 완성, 고3은 본격 킬러 훈련에 들어갑니다.
+학년별 킬러 대비 전략이 다릅니다. 고1-2는 기본기 완성, 고3은 본격 킬러 훈련에 들어갑니다.
 </div>
 
 ## 수업료 안내
 
 동작구 사당2동 고등학생 수학과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -145,7 +145,7 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 **Q. 킬러 훈련은 얼마나 걸리나요?**
 
-기본기가 갖춰져 있다면 3~6개월이면 감이 잡힙니다. 꾸준한 훈련이 필요합니다.
+기본기가 갖춰져 있다면 3-6개월이면 감이 잡힙니다. 꾸준한 훈련이 필요합니다.
 
 **Q. 수업은 어디서 진행하나요?**
 

@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 ## 종속접속사 - 시간과 이유
 
-시간 접속사로 when은 ~할 때, while은 ~하는 동안입니다. when은 시점이고 while은 기간입니다. When I arrived는 도착했을 때, While I was studying은 공부하는 동안입니다. 이유 접속사로 because는 ~때문에입니다. I'm happy because I passed. because와 so는 함께 쓸 수 없습니다.
+시간 접속사로 when은 -할 때, while은 -하는 동안입니다. when은 시점이고 while은 기간입니다. When I arrived는 도착했을 때, While I was studying은 공부하는 동안입니다. 이유 접속사로 because는 -때문에입니다. I'm happy because I passed. because와 so는 함께 쓸 수 없습니다.
 
 {{< cta-dual type="final" >}}
 
@@ -44,7 +44,7 @@ when과 while의 차이를 명확히 합니다. because + so 중복 오류를 �
 
 ## 종속접속사 - 조건과 양보
 
-조건 접속사 if는 만약 ~라면입니다. If it rains, I'll stay home. unless는 ~하지 않으면으로 if not과 같습니다. 양보 접속사 although와 though는 비록 ~하지만입니다. Although it was raining, we went out. although와 but은 함께 쓸 수 없습니다.
+조건 접속사 if는 만약 -라면입니다. If it rains, I'll stay home. unless는 -하지 않으면으로 if not과 같습니다. 양보 접속사 although와 though는 비록 -하지만입니다. Although it was raining, we went out. although와 but은 함께 쓸 수 없습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

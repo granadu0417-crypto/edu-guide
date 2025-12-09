@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 수학은 개념이 기본입니다. 공식만 외우면 안 됩니다. 왜 그런지 이해해야 응용이 됩니다. 개념부터 확실히 잡으세요.
 
-영어는 어휘가 기본입니다. 단어를 모르면 아무것도 못합니다. 매일 꾸준히 암기하세요. 하루 20~30개씩 외우면 됩니다.
+영어는 어휘가 기본입니다. 단어를 모르면 아무것도 못합니다. 매일 꾸준히 암기하세요. 하루 20-30개씩 외우면 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -106,7 +106,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 **Q. 하루에 몇 시간 공부해야 해요?**
 
-고1은 학교 수업 외에 3~4시간이면 됩니다. 시간보다 집중도가 중요합니다.
+고1은 학교 수업 외에 3-4시간이면 됩니다. 시간보다 집중도가 중요합니다.
 
 **Q. 진로를 꼭 지금 정해야 하나요?**
 

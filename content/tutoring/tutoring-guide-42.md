@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 아이 반응을 살피세요. 수업 끝나고 아이가 어땠는지 물어보세요. 편했는지, 설명이 이해됐는지, 또 받고 싶은지. 아이 반응이 가장 중요합니다.
 
-2~3주는 지켜보세요. 첫 수업 한 번으로 판단하기는 어렵습니다. 적어도 2~3주는 지켜보세요. 그래도 안 맞으면 그때 바꾸면 됩니다.
+2-3주는 지켜보세요. 첫 수업 한 번으로 판단하기는 어렵습니다. 적어도 2-3주는 지켜보세요. 그래도 안 맞으면 그때 바꾸면 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

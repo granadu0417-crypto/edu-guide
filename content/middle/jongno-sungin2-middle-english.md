@@ -83,7 +83,7 @@ Be quiet!은 알겠는데, How beautiful!과 What a beautiful day!는 어떻게 
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -98,7 +98,7 @@ Be quiet!은 알겠는데, How beautiful!과 What a beautiful day!는 어떻게 
 
 **Q. 명령문의 부정형은 어떻게 만드나요?**
 
-Don't + 동사원형입니다. Don't be late. Don't open the door. Be동사도 Don't be ~로 씁니다.
+Don't + 동사원형입니다. Don't be late. Don't open the door. Be동사도 Don't be -로 씁니다.
 
 **Q. How 감탄문과 What 감탄문은 어떻게 구분하나요?**
 
@@ -106,7 +106,7 @@ Don't + 동사원형입니다. Don't be late. Don't open the door. Be동사도 D
 
 **Q. Let's로 시작하는 문장은 명령문인가요?**
 
-청유문이라고 부릅니다. "~하자"는 의미로 Let's + 동사원형입니다. Let's go! Let's study together!
+청유문이라고 부릅니다. "-하자"는 의미로 Let's + 동사원형입니다. Let's go! Let's study together!
 
 ## 마무리
 

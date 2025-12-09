@@ -80,7 +80,7 @@ and, but, so, because를 어디에 써야 할지 모르겠나요? 역삼1동은 
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -95,7 +95,7 @@ and, but, so, because를 어디에 써야 할지 모르겠나요? 역삼1동은 
 
 **Q. because와 so의 차이가 뭔가요?**
 
-because는 원인을 나타내고 ~때문에라는 뜻, so는 결과를 나타내고 그래서라는 뜻입니다. I was tired, so I went to bed.와 I went to bed because I was tired.는 같은 의미입니다.
+because는 원인을 나타내고 -때문에라는 뜻, so는 결과를 나타내고 그래서라는 뜻입니다. I was tired, so I went to bed.와 I went to bed because I was tired.는 같은 의미입니다.
 
 **Q. although와 but은 어떻게 다른가요?**
 

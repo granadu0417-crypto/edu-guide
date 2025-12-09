@@ -57,7 +57,7 @@ taller, more beautiful, the tallest, the most beautiful처럼 언제 -er/-est를
 
 ## 1:1 영어 과외의 강점
 
-학원에서는 규칙만 빠르게 알려줍니다. 하지만 as ~ as 구문과 비교급의 차이, the + 비교급, the + 비교급 구문을 이해하지 못하면 계속 틀립니다. 1:1 과외는 학생이 비교 표현의 원리를 이해하도록 돕습니다.
+학원에서는 규칙만 빠르게 알려줍니다. 하지만 as - as 구문과 비교급의 차이, the + 비교급, the + 비교급 구문을 이해하지 못하면 계속 틀립니다. 1:1 과외는 학생이 비교 표현의 원리를 이해하도록 돕습니다.
 
 비교급은 고등학교 영어에서도 자주 나옵니다. 과외에서는 학생이 다양한 비교 표현을 정확히 사용하는 연습을 합니다.
 
@@ -81,7 +81,7 @@ taller, more beautiful, the tallest, the most beautiful처럼 언제 -er/-est를
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -102,9 +102,9 @@ taller, more beautiful, the tallest, the most beautiful처럼 언제 -er/-est를
 
 good-better-best, bad-worse-worst, many/much-more-most, little-less-least 등입니다.
 
-**Q. as ~ as는 어떻게 쓰나요?**
+**Q. as - as는 어떻게 쓰나요?**
 
-as + 원급 + as로 씁니다. He is as tall as me(그는 나만큼 키가 크다). 부정은 not as ~ as입니다.
+as + 원급 + as로 씁니다. He is as tall as me(그는 나만큼 키가 크다). 부정은 not as - as입니다.
 
 ## 마무리
 

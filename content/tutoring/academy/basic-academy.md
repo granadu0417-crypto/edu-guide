@@ -96,7 +96,7 @@ reading_time: 270줄
 
 **Q. 성적이 언제쯤 오르나요?**
 
-기초부터 다시 잡으면 최소 3~6개월은 걸립니다. 조급해하지 마세요. 꾸준히 하면 반드시 올라갑니다.
+기초부터 다시 잡으면 최소 3-6개월은 걸립니다. 조급해하지 마세요. 꾸준히 하면 반드시 올라갑니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

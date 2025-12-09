@@ -24,13 +24,13 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 ## 학년별 가이드
 
-### 저학년 (1~3학년)
+### 저학년 (1-3학년)
 
 [초등 1학년 학습 가이드](/elementary/elem-b9-1/)에서 학교 적응과 기초 학습 방법을 확인하세요.
 
 [초등 2학년 공부법](/elementary/elem-b9-2/)으로 기초를 다지고, [초등 3학년 학습 전략](/elementary/elem-b9-3/)으로 학습 습관을 형성합니다.
 
-### 고학년 (4~6학년)
+### 고학년 (4-6학년)
 
 [초등 4학년 공부 가이드](/elementary/elem-b10-1/)로 사고력을 키우고, [초등 5학년 학습법](/elementary/elem-b11-1/)으로 심화 학습을 진행합니다.
 
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 [시험 공부 계획](/elementary/exam-study-planning/)으로 효과적인 시험 준비 방법을 배웁니다.
 
-[고학년 학습 방법](/elementary/upper-grade-study-methods/)으로 4~6학년에 맞는 전략을 세웁니다.
+[고학년 학습 방법](/elementary/upper-grade-study-methods/)으로 4-6학년에 맞는 전략을 세웁니다.
 
 ## 초등 학습의 4가지 핵심
 

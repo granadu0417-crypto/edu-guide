@@ -1,5 +1,5 @@
 ---
-title: 과학 탐구 활동 추천 가이드 | 주제~발표 2025 완벽 가이드 - 성공적인 전략과 노하우
+title: 과학 탐구 활동 추천 가이드 | 주제-발표 2025 완벽 가이드 - 성공적인 전략과 노하우
 date: 2025-01-26
 reading_time: 807줄
 description: 과학 탐구 활동을 성공적으로 수행하는 완벽한 방법을 소개합니다. 주제 선정, 실험 설계, 데이터 분석, 보고서 작성, 발표까지
@@ -123,9 +123,9 @@ T (Time-bound): 기한 내
 - 왜 낙엽은 떨어지나?
 
 의문 갖기:
-- "~하면 어떻게 될까?"
-- "왜 ~할까?"
-- "어떻게 ~할까?"
+- "-하면 어떻게 될까?"
+- "왜 -할까?"
+- "어떻게 -할까?"
 
 예시:
 "왜 샴푸를 섞으면 거품이 생길까?"
@@ -813,7 +813,7 @@ T (Time-bound): 기한 내
 ## 📚 관련 가이드
 
 - [과학 실험보고서 vs 탐구활동 | 작성법 비교 2025](/subjects/science/science-experiment-report-guide/)
-- [과학 개념 정리 완벽 정리 | 암기~이해 2025](/subjects/science/science-concept-organization/)
+- [과학 개념 정리 완벽 정리 | 암기-이해 2025](/subjects/science/science-concept-organization/)
 - [과학 암기 고민? | 생물·지구과학 전략 솔루션 2025](/subjects/science/science-memorization-strategies/)
 - [과학 실험보고서 과외 | 작성법·분석법 완벽 마스터](/subjects/science/science-lab-report/)
 - [과학 통합 완성 가이드 - 물화생지 전 영역 정복](/subjects/science/science-integrated-mastery/)

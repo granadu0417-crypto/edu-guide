@@ -80,7 +80,7 @@ Do you know what time it is?에서 왜 what time is it이 아니라 what time it
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -103,7 +103,7 @@ Do you know what time it is?에서 왜 what time is it이 아니라 what time it
 
 **Q. if와 whether는 어떻게 다른가요?**
 
-둘 다 ~인지 아닌지의 뜻입니다. whether가 더 격식체이고, or not을 쓸 때는 whether를 씁니다.
+둘 다 -인지 아닌지의 뜻입니다. whether가 더 격식체이고, or not을 쓸 때는 whether를 씁니다.
 
 ## 마무리
 

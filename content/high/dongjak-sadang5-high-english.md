@@ -115,16 +115,16 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 1등급 전략이 다릅니다. 고1~2는 기초 완성, 고3은 실전 훈련으로 1등급을 확보합니다.
+학년별 1등급 전략이 다릅니다. 고1-2는 기초 완성, 고3은 실전 훈련으로 1등급을 확보합니다.
 </div>
 
 ## 수업료 안내
 
 동작구 사당5동 고등학생 영어과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

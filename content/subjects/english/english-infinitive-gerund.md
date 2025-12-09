@@ -58,7 +58,7 @@ remember to V는 할 것을 기억하다(미래)이고, remember V-ing는 한 �
 
 ## 관용표현
 
-look forward to V-ing는 기대하다입니다. 여기서 to는 전치사라서 동명사가 옵니다. be used to V-ing도 마찬가지입니다. too ~ to V는 너무 ~해서 못하다, enough to V는 ~할 만큼 충분히입니다. cannot help V-ing는 하지 않을 수 없다입니다.
+look forward to V-ing는 기대하다입니다. 여기서 to는 전치사라서 동명사가 옵니다. be used to V-ing도 마찬가지입니다. too - to V는 너무 -해서 못하다, enough to V는 -할 만큼 충분히입니다. cannot help V-ing는 하지 않을 수 없다입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

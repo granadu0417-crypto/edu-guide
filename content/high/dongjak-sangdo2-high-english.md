@@ -115,16 +115,16 @@ featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 중요한 문법이 다릅니다. 고1은 기본 문법, 고2~3은 심화 구문 위주로 정리합니다.
+학년별로 중요한 문법이 다릅니다. 고1은 기본 문법, 고2-3은 심화 구문 위주로 정리합니다.
 </div>
 
 ## 수업료 안내
 
 동작구 상도2동 고등학생 영어과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -141,7 +141,7 @@ featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=
 
 **Q. 문법 정리에 얼마나 걸리나요?**
 
-집중해서 하면 1~2개월이면 기본 문법이 정리됩니다. 심화 구문은 그 후에 차근차근 추가합니다.
+집중해서 하면 1-2개월이면 기본 문법이 정리됩니다. 심화 구문은 그 후에 차근차근 추가합니다.
 
 **Q. 문법만 잘하면 영어 성적이 오르나요?**
 

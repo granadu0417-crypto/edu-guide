@@ -56,7 +56,7 @@ Having p.p.는 주절보다 먼 과거를 나타냅니다. Having finished my ho
 
 ## 관용적 분사구문
 
-자주 쓰이는 표현은 암기하세요. generally speaking은 일반적으로 말하면, frankly speaking은 솔직히 말하면, judging from은 ~로 판단하건대, considering은 ~를 고려하면입니다. 시험에 자주 나옵니다.
+자주 쓰이는 표현은 암기하세요. generally speaking은 일반적으로 말하면, frankly speaking은 솔직히 말하면, judging from은 -로 판단하건대, considering은 -를 고려하면입니다. 시험에 자주 나옵니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

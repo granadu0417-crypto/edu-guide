@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -93,7 +93,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 **Q. stop to do와 stop doing은 뭐가 다른가요?**
 
-stop to do는 ~하기 위해 멈추다, stop doing은 ~하는 것을 멈추다입니다. 의미가 완전히 다릅니다.
+stop to do는 -하기 위해 멈추다, stop doing은 -하는 것을 멈추다입니다. 의미가 완전히 다릅니다.
 
 **Q. 전치사 뒤에는 왜 동명사가 오나요?**
 

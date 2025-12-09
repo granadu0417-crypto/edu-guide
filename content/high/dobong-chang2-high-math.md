@@ -136,9 +136,9 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 도봉구 창2동 고등 수학과외 비용입니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -153,7 +153,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 **Q. 내신과 수능 비중은요?**
 
-고1~2는 내신, 고3은 둘 다입니다.
+고1-2는 내신, 고3은 둘 다입니다.
 
 **Q. 학원과 과외 중 뭐가 나아요?**
 

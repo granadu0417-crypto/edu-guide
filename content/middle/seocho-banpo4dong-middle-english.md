@@ -37,7 +37,7 @@ when, if, because, although 뒤에 어떤 문장이 와야 하는지, 왜 접속
 
 접속사는 두 문장을 연결하는 역할을 합니다. when은 시간, if는 조건, because는 이유, although는 양보를 나타냅니다. 문제는 각 접속사의 의미와 쓰임을 정확히 구분하기 어렵다는 것입니다.
 
-접속사를 잘 쓰려면 각 접속사의 의미를 정확히 알아야 합니다. when(~할 때), if(만약 ~라면), because(~이기 때문에), although(비록 ~이지만). 접속사 뒤에는 반드시 주어 + 동사가 옵니다.
+접속사를 잘 쓰려면 각 접속사의 의미를 정확히 알아야 합니다. when(-할 때), if(만약 -라면), because(-이기 때문에), although(비록 -이지만). 접속사 뒤에는 반드시 주어 + 동사가 옵니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -81,7 +81,7 @@ when, if, because, although 뒤에 어떤 문장이 와야 하는지, 왜 접속
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -96,7 +96,7 @@ when, if, because, although 뒤에 어떤 문장이 와야 하는지, 왜 접속
 
 **Q. when과 if의 차이는 뭔가요?**
 
-when은 확실히 일어날 일(~할 때), if는 불확실한 조건(만약 ~라면)입니다. When I arrive, I'll call you / If I win, I'll be happy.
+when은 확실히 일어날 일(-할 때), if는 불확실한 조건(만약 -라면)입니다. When I arrive, I'll call you / If I win, I'll be happy.
 
 **Q. because와 because of의 차이는요?**
 

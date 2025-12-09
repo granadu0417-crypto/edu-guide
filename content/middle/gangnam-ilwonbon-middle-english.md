@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 중2는 비교급과 최상급이 본격적으로 등장하는 시기입니다. 규칙 변화와 불규칙 변화를 익히고, 다양한 비교 구문을 배웁니다.
 
-중3은 고급 비교 표현을 익히는 시기입니다. as~as 원급 비교, the 비교급 the 비교급 등 심화 구문을 배웁니다. 고등학교 영어 문법을 미리 경험합니다.
+중3은 고급 비교 표현을 익히는 시기입니다. as-as 원급 비교, the 비교급 the 비교급 등 심화 구문을 배웁니다. 고등학교 영어 문법을 미리 경험합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -102,7 +102,7 @@ good-better-best, bad-worse-worst, many/much-more-most 정도만 확실히 외�
 
 **Q. than과 as의 차이가 뭔가요?**
 
-than은 비교급과 함께 쓰이고 ~보다라는 뜻, as~as는 원급과 함께 쓰이고 ~만큼이라는 뜻입니다.
+than은 비교급과 함께 쓰이고 -보다라는 뜻, as-as는 원급과 함께 쓰이고 -만큼이라는 뜻입니다.
 
 ## 마무리
 

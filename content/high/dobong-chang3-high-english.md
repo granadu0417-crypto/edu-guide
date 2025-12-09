@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=
 
 ### 시간이 오래 걸린다
 
-한 문제에 3~4분을 쓰면 뒤에서 시간이 부족해집니다. 빠르게 풀면서도 정확해야 합니다.
+한 문제에 3-4분을 쓰면 뒤에서 시간이 부족해집니다. 빠르게 풀면서도 정확해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -132,9 +132,9 @@ featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=
 
 도봉구 창3동 고등 영어과외 비용입니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -157,7 +157,7 @@ featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=
 
 **Q. 1등급 받으려면 고난도를 다 맞아야 하나요?**
 
-1~2개 틀려도 1등급 가능합니다. 기본을 안 틀리는 게 더 중요합니다.
+1-2개 틀려도 1등급 가능합니다. 기본을 안 틀리는 게 더 중요합니다.
 
 **Q. 수업 장소는요?**
 

@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학의 경우 4~5학년 내용까지 거슬러 올라가 점검합니다. 분수, 소수가 안 되면 중학교 수학이 안 됩니다.
+수학의 경우 4-5학년 내용까지 거슬러 올라가 점검합니다. 분수, 소수가 안 되면 중학교 수학이 안 됩니다.
 </div>
 
 ## 6학년의 특징과 대응

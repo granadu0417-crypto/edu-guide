@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -100,7 +100,7 @@ every와 each는 개별적인 것 하나하나를 가리키므로 단수 취급�
 
 **Q. the number of와 a number of는 어떻게 다른가요?**
 
-the number of는 ~의 수라는 뜻으로 단수, a number of는 많은이라는 뜻으로 복수입니다. The number of students is 30. A number of students are absent.
+the number of는 -의 수라는 뜻으로 단수, a number of는 많은이라는 뜻으로 복수입니다. The number of students is 30. A number of students are absent.
 
 **Q. either A or B 뒤에는 어떤 동사가 오나요?**
 

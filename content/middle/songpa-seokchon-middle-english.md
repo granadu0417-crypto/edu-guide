@@ -35,7 +35,7 @@ I have lived here for 5 years.에서 왜 have lived를 쓰는지, have gone과 h
 
 현재완료는 have/has + p.p. 형태입니다. 과거에 시작된 일이 현재와 관련이 있을 때 씁니다. 문제는 과거 시제와의 구분이 헷갈린다는 것입니다.
 
-현재완료는 경험(~한 적이 있다), 완료(막 ~했다), 계속(~해 왔다), 결과(~해서 지금 ~하다)의 네 가지 의미로 쓰입니다. 어떤 의미인지 문맥에서 파악해야 합니다.
+현재완료는 경험(-한 적이 있다), 완료(막 -했다), 계속(-해 왔다), 결과(-해서 지금 -하다)의 네 가지 의미로 쓰입니다. 어떤 의미인지 문맥에서 파악해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -79,7 +79,7 @@ I have lived here for 5 years.에서 왜 have lived를 쓰는지, have gone과 h
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 

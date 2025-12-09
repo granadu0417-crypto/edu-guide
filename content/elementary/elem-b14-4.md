@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답이 없는 질문을 던집니다. 만약 ~라면 어떻게 될까? 같은 질문에 자유롭게 생각하도록 유도합니다.
+정답이 없는 질문을 던집니다. 만약 -라면 어떻게 될까? 같은 질문에 자유롭게 생각하도록 유도합니다.
 </div>
 
 ## 창의적 사고의 특징

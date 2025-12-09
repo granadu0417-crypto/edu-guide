@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 개화기 문학의 특징을 정리합니다. 신소설과 근대 문학의 연결점을 분석합니다.
 </div>
 
-## 1920~30년대
+## 1920-30년대
 
 1920년대는 동인지 시대로 낭만주의가 유행했습니다. 김소월, 한용운 등 대표 시인이 활동했습니다. 1930년대는 모더니즘과 리얼리즘이 대립했습니다. 이상, 김유정, 이효석 등이 이 시기 작가입니다.
 
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1920~30년대 문학의 다양성을 정리합니다. 사조별 대표 작품을 분석합니다.
+1920-30년대 문학의 다양성을 정리합니다. 사조별 대표 작품을 분석합니다.
 </div>
 
 ## 해방 이후

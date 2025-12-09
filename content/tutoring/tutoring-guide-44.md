@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 학교 진도와 분리해야 합니다. 학교에서는 현재 단원 나갑니다. 과외에서는 부족한 기초를 채웁니다. 둘이 같이 가면 둘 다 놓칩니다. 기초 채우는 시간을 따로 잡으세요.
 
-시간이 걸립니다. 1~2학년 치 기초를 한 달에 다 채울 수 없습니다. 조급해하지 마세요. 기초가 잡히면 그 위에 쌓는 건 빠릅니다. 처음만 참으세요.
+시간이 걸립니다. 1-2학년 치 기초를 한 달에 다 채울 수 없습니다. 조급해하지 마세요. 기초가 잡히면 그 위에 쌓는 건 빠릅니다. 처음만 참으세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

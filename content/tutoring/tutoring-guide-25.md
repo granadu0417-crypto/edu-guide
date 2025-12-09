@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 **Q. 영어 과외 효과가 언제 나타나나요?**
 
-꾸준히 하면 2~3개월 후부터 체감됩니다. 특히 듣기와 읽기에서 먼저 효과가 나타납니다.
+꾸준히 하면 2-3개월 후부터 체감됩니다. 특히 듣기와 읽기에서 먼저 효과가 나타납니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

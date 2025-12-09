@@ -38,7 +38,7 @@ at/on/in 시간 용법을 표로 정리합니다. 예문으로 구분 연습을 
 
 ## for/during/while과 by/until
 
-for + 기간은 for 3 hours, for a week입니다. during + 특정 기간은 during the summer, during the meeting입니다. while + 주어 + 동사는 while I was sleeping입니다. by는 마감(~까지 끝내기), until은 지속(~까지 계속)입니다. Finish by 5, Wait until 5입니다.
+for + 기간은 for 3 hours, for a week입니다. during + 특정 기간은 during the summer, during the meeting입니다. while + 주어 + 동사는 while I was sleeping입니다. by는 마감(-까지 끝내기), until은 지속(-까지 계속)입니다. Finish by 5, Wait until 5입니다.
 
 {{< cta-dual type="final" >}}
 
@@ -58,7 +58,7 @@ at/in/on 장소 용법을 정리합니다. 시간과 장소 용법을 통합해�
 
 ## 자주 혼동하는 전치사
 
-besides는 포함(~외에도), except는 제외(~을 빼고)입니다. on time은 정각, in time은 제시간입니다. made of는 원재료가 보이고, made from은 변형됩니다. through는 내부 통과, across는 표면 가로지름입니다.
+besides는 포함(-외에도), except는 제외(-을 빼고)입니다. on time은 정각, in time은 제시간입니다. made of는 원재료가 보이고, made from은 변형됩니다. through는 내부 통과, across는 표면 가로지름입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

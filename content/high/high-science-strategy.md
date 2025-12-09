@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 {{< cta-dual type="final" >}}
 
-물리는 그림을 그리며 상황을 파악하는 연습이 필수입니다. 개념 이해에 2~3개월, 기출 분석에 2~3개월, 킬러 대비에 1~2개월이 필요합니다.
+물리는 그림을 그리며 상황을 파악하는 연습이 필수입니다. 개념 이해에 2-3개월, 기출 분석에 2-3개월, 킬러 대비에 1-2개월이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

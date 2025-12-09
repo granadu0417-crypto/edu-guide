@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 ### 꾸준한 어휘 확장
 
-고등학교 3년간 익혀야 할 단어는 5,000~6,000개입니다. 어휘력이 부족하면 독해 속도가 느려지고 빈칸 추론에서 막힙니다.
+고등학교 3년간 익혀야 할 단어는 5,000-6,000개입니다. 어휘력이 부족하면 독해 속도가 느려지고 빈칸 추론에서 막힙니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -120,9 +120,9 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 군자동 고등 영어과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -137,7 +137,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 **Q. 내신과 수능 중 뭘 먼저 준비해야 하나요?**
 
-고1~2는 내신 위주로, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고 방학에는 수능 대비를 합니다.
+고1-2는 내신 위주로, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고 방학에는 수능 대비를 합니다.
 
 **Q. 단어 암기가 너무 힘들어요.**
 

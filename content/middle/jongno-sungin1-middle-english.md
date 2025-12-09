@@ -83,7 +83,7 @@ some과 any는 알겠는데, something과 anything, someone과 anyone은 어떻�
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -98,7 +98,7 @@ some과 any는 알겠는데, something과 anything, someone과 anyone은 어떻�
 
 **Q. some과 any는 어떻게 구분하나요?**
 
-기본적으로 some은 긍정문, any는 부정문/의문문에 씁니다. 단, 권유나 요청(Would you like some~?)에서는 some을 씁니다.
+기본적으로 some은 긍정문, any는 부정문/의문문에 씁니다. 단, 권유나 요청(Would you like some-?)에서는 some을 씁니다.
 
 **Q. one, another, the other의 차이는요?**
 

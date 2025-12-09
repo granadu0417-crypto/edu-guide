@@ -81,7 +81,7 @@ I like swimming과 I like to swim은 같은 의미인가요? enjoy 뒤에는 왜
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -104,7 +104,7 @@ want, hope, decide, expect, promise, plan 등입니다. 이 동사들 뒤에는 
 
 **Q. stop -ing와 stop to의 차이가 뭔가요?**
 
-stop -ing는 "~하는 것을 멈추다", stop to는 "~하기 위해 멈추다"입니다. He stopped smoking (담배를 끊었다) vs He stopped to smoke (담배 피우려고 멈췄다)
+stop -ing는 "-하는 것을 멈추다", stop to는 "-하기 위해 멈추다"입니다. He stopped smoking (담배를 끊었다) vs He stopped to smoke (담배 피우려고 멈췄다)
 
 ## 마무리
 

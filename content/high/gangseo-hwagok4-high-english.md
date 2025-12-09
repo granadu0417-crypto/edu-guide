@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 학습 계획을 조정합니다. 시험 2~3주 전부터 본격적으로 내신 대비에 들어갑니다.
+시험 일정에 맞춰 학습 계획을 조정합니다. 시험 2-3주 전부터 본격적으로 내신 대비에 들어갑니다.
 </div>
 
 ## 영어 학습의 기본
@@ -110,9 +110,9 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 
 화곡4동 고등 영어과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

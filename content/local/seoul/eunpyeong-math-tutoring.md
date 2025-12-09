@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 ### 초등학생 - 수학이랑 친해지는 시간
 
-**저학년(1~3학년): "수학 재밌다!"가 목표**
+**저학년(1-3학년): "수학 재밌다!"가 목표**
 
 이 시기에 무리하게 진도 빼면 수학을 싫어하게 됩니다.
 **놀이처럼 수학을 접하는** 게 최고예요.
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 수학적 호기심 자극
 - 재미있는 수학 경험 쌓기
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 수학이 확 어려워집니다.
 미리 **분수, 소수, 도형 개념**을 완벽히 잡아두세요.
@@ -82,7 +82,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 문제 해결 전략 체계적 훈련
 - 중등 대비 기초 다지기
 
-초등 수학과외 비용은 주 1회 기준 약 12만원 ~  20만원, 주 2회 기준 약 22만원 ~  35만원 선입니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원 -  20만원, 주 2회 기준 약 22만원 -  35만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -91,7 +91,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 ### 중학생 - 고등 수학의 기초를 다지는 시기
 
-**중1~중2: 수학의 뼈대를 세우세요**
+**중1-중2: 수학의 뼈대를 세우세요**
 
 중학교 수학을 대충 넘기면 고등 수학이 안 됩니다.
 **방정식과 함수**가 핵심이에요.
@@ -110,7 +110,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 고등 선행은 중등 이해 후 진행
 - 수능 기초 핵심 개념 정리
 
-중학생 수학과외 비용은 주 1회 기준 약 20만원 ~  30만원, 주 2회 기준 약 28만원 ~  45만원 선입니다.
+중학생 수학과외 비용은 주 1회 기준 약 20만원 -  30만원, 주 2회 기준 약 28만원 -  45만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -119,7 +119,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 수학은 중등과 차원이 다릅니다.
 개념 하나 놓치면 다음 단원 전체가 안 돼요.
@@ -139,7 +139,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 최신 출제 경향 파악
 - 취약 유형 체계적 보완
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원 ~  36만원, 주 2회 기준 약 33만원 ~  53만원 선입니다. 고3의 경우 주 1회 28만원 ~  40만원, 주 2회 37만원 ~  59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

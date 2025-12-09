@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 ## I wish / as if 가정법
 
-I wish + 과거형은 현재 이룰 수 없는 소망입니다. I wish I were rich는 부자가 아니라서 아쉽다는 뜻입니다. I wish + had p.p.는 과거에 이루지 못한 소망입니다. as if + 과거형은 마치 ~인 것처럼이라는 뜻입니다.
+I wish + 과거형은 현재 이룰 수 없는 소망입니다. I wish I were rich는 부자가 아니라서 아쉽다는 뜻입니다. I wish + had p.p.는 과거에 이루지 못한 소망입니다. as if + 과거형은 마치 -인 것처럼이라는 뜻입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -56,7 +56,7 @@ I wish, as if 용법을 체계적으로 정리합니다. 실전 예문으로 연
 
 ## if 생략 도치와 기타 표현
 
-If를 생략하면 주어와 동사가 도치됩니다. Were I you는 If I were you와 같습니다. Had I known은 If I had known과 같습니다. without, but for도 가정법을 만듭니다. It's time + 과거형은 ~할 시간이다라는 뜻입니다.
+If를 생략하면 주어와 동사가 도치됩니다. Were I you는 If I were you와 같습니다. Had I known은 If I had known과 같습니다. without, but for도 가정법을 만듭니다. It's time + 과거형은 -할 시간이다라는 뜻입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

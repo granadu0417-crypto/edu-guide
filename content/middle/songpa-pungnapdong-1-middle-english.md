@@ -79,7 +79,7 @@ taller than과 as tall as의 차이는 뭔지, more beautiful과 beautifuler 중
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -100,9 +100,9 @@ taller than과 as tall as의 차이는 뭔지, more beautiful과 beautifuler 중
 
 아니요, 비교급 앞에는 much, even, still, far 등을 씁니다. very는 원급 앞에 씁니다.
 
-**Q. as ~ as 구문은 뭔가요?**
+**Q. as - as 구문은 뭔가요?**
 
-"~만큼 ~하다"라는 동등 비교입니다. as tall as는 "~만큼 키가 크다"입니다.
+"-만큼 -하다"라는 동등 비교입니다. as tall as는 "-만큼 키가 크다"입니다.
 
 ## 마무리
 

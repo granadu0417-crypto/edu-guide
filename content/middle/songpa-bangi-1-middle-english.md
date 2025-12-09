@@ -80,7 +80,7 @@ can, may, must, should는 어떻게 다른지, must와 have to는 왜 같은 뜻
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -95,7 +95,7 @@ can, may, must, should는 어떻게 다른지, must와 have to는 왜 같은 뜻
 
 **Q. must와 have to의 차이는 뭔가요?**
 
-긍정문에서는 비슷하지만, 부정문이 다릅니다. must not(금지: ~하면 안 된다), don't have to(불필요: ~할 필요 없다).
+긍정문에서는 비슷하지만, 부정문이 다릅니다. must not(금지: -하면 안 된다), don't have to(불필요: -할 필요 없다).
 
 **Q. can과 be able to는 같은 건가요?**
 
@@ -103,7 +103,7 @@ can, may, must, should는 어떻게 다른지, must와 have to는 왜 같은 뜻
 
 **Q. should have p.p.는 무슨 뜻인가요?**
 
-과거에 ~했어야 했다(하지 않은 것에 대한 후회)입니다. You should have studied harder.
+과거에 -했어야 했다(하지 않은 것에 대한 후회)입니다. You should have studied harder.
 
 ## 마무리
 

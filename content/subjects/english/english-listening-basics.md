@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 ## 듣기가 어려운 이유
 
-연음 때문입니다. Check it out은 체킷아웃처럼 한 단어로 들립니다. 탈락 때문입니다. want to는 wanna, going to는 gonna로 발음됩니다. 약화 때문입니다. 강세 없는 부분은 아주 작게 발음됩니다. 속도 때문입니다. 원어민은 분당 150~180단어를 말합니다.
+연음 때문입니다. Check it out은 체킷아웃처럼 한 단어로 들립니다. 탈락 때문입니다. want to는 wanna, going to는 gonna로 발음됩니다. 약화 때문입니다. 강세 없는 부분은 아주 작게 발음됩니다. 속도 때문입니다. 원어민은 분당 150-180단어를 말합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

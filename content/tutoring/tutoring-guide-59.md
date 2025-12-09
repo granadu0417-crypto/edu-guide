@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 중요한 건 바로 연락하세요. 시험 일정, 아이 컨디션 문제, 수업 변경 등. 이런 건 미루지 말고 바로 말씀하세요. 나중에 하면 늦습니다.
 
-월 1회 정도 깊은 대화를 하세요. 전화로 10~15분 정도. 한 달 동안 어땠는지, 다음 달은 어떻게 할 건지. 정기적으로 점검하세요.
+월 1회 정도 깊은 대화를 하세요. 전화로 10-15분 정도. 한 달 동안 어땠는지, 다음 달은 어떻게 할 건지. 정기적으로 점검하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

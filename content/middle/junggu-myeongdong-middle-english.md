@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=
 ---
 ## 중구 명동 중학생, 영어 원급 비교가 어렵다면
 
-She is as tall as her mother에서 as...as가 왜 "~만큼 ...한"이라는 뜻인지, 부정문에서는 어떻게 해석하는지 모르겠나요? 명동은 대한민국 최대 상권이자 관광 명소입니다. 명동역과 을지로입구역을 통해 교통이 매우 편리하고 덕수중, 장원중, 환일중 학생들이 열심히 영어 실력을 키우고 있습니다.
+She is as tall as her mother에서 as...as가 왜 "-만큼 ...한"이라는 뜻인지, 부정문에서는 어떻게 해석하는지 모르겠나요? 명동은 대한민국 최대 상권이자 관광 명소입니다. 명동역과 을지로입구역을 통해 교통이 매우 편리하고 덕수중, 장원중, 환일중 학생들이 열심히 영어 실력을 키우고 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -36,7 +36,7 @@ She is as tall as her mother에서 as...as가 왜 "~만큼 ...한"이라는 뜻�
 
 원급 비교는 두 대상이 같은 정도임을 나타냅니다. as + 형용사/부사 + as 형태를 사용합니다. 문제는 부정형에서 해석이 달라진다는 것입니다.
 
-원급 비교를 이해하려면 as의 역할을 알아야 합니다. 첫 번째 as는 "같은 정도로", 두 번째 as는 "~처럼"의 의미입니다. He is not as tall as his brother는 "그는 형만큼 키가 크지 않다"로 해석합니다.
+원급 비교를 이해하려면 as의 역할을 알아야 합니다. 첫 번째 as는 "같은 정도로", 두 번째 as는 "-처럼"의 의미입니다. He is not as tall as his brother는 "그는 형만큼 키가 크지 않다"로 해석합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -82,7 +82,7 @@ She is as tall as her mother에서 as...as가 왜 "~만큼 ...한"이라는 뜻�
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -97,7 +97,7 @@ She is as tall as her mother에서 as...as가 왜 "~만큼 ...한"이라는 뜻�
 
 **Q. 원급 비교와 비교급의 차이가 뭔가요?**
 
-원급 비교(as...as)는 두 대상이 같은 정도임을 나타내고, 비교급(-er/more)은 한쪽이 더 ~함을 나타냅니다.
+원급 비교(as...as)는 두 대상이 같은 정도임을 나타내고, 비교급(-er/more)은 한쪽이 더 -함을 나타냅니다.
 
 **Q. 배수 표현은 어떻게 쓰나요?**
 

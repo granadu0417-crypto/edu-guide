@@ -153,9 +153,9 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 강북구 미아동 중학생 영어과외 수업료는 다음과 같습니다.
 
-**중1~2**는 주1회 기준 17만원 ~  24만원, 주2회 기준 30만원 ~  42만원 선입니다.
+**중1-2**는 주1회 기준 17만원 -  24만원, 주2회 기준 30만원 -  42만원 선입니다.
 
-**중3**은 주1회 기준 19만원 ~  26만원, 주2회 기준 34만원 ~  48만원이 일반적입니다.
+**중3**은 주1회 기준 19만원 -  26만원, 주2회 기준 34만원 -  48만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

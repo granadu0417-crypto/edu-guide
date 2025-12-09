@@ -34,7 +34,7 @@ when, while, if, because 중 언제 뭘 써야 할지 모르겠나요? 화양동
 
 접속사는 문장과 문장을 연결합니다. 등위접속사(and, but, or)는 대등한 관계, 종속접속사(when, because, if)는 주절과 종속절을 연결합니다. 문제는 종속접속사의 의미 차이가 헷갈린다는 것입니다.
 
-접속사를 잘 쓰려면 각 접속사의 의미를 정확히 알아야 합니다. when(~할 때), while(~하는 동안), before(~하기 전에), after(~한 후에), because(~이기 때문에), if(만약 ~라면), although(비록 ~지만) 등을 구분합니다.
+접속사를 잘 쓰려면 각 접속사의 의미를 정확히 알아야 합니다. when(-할 때), while(-하는 동안), before(-하기 전에), after(-한 후에), because(-이기 때문에), if(만약 -라면), although(비록 -지만) 등을 구분합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -78,7 +78,7 @@ when, while, if, because 중 언제 뭘 써야 할지 모르겠나요? 화양동
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -93,7 +93,7 @@ when, while, if, because 중 언제 뭘 써야 할지 모르겠나요? 화양동
 
 **Q. when과 while의 차이가 뭔가요?**
 
-when은 "~할 때" 순간적인 시점, while은 "~하는 동안" 지속적인 시간입니다. When I arrived, she left.는 내가 도착했을 때 그녀가 떠났습니다. While I was studying, she called.은 내가 공부하는 동안 그녀가 전화했습니다.
+when은 "-할 때" 순간적인 시점, while은 "-하는 동안" 지속적인 시간입니다. When I arrived, she left.는 내가 도착했을 때 그녀가 떠났습니다. While I was studying, she called.은 내가 공부하는 동안 그녀가 전화했습니다.
 
 **Q. because와 because of의 차이가 뭔가요?**
 
@@ -101,7 +101,7 @@ because 뒤에는 주어+동사가, because of 뒤에는 명사가 옵니다. Be
 
 **Q. if와 whether의 차이가 뭔가요?**
 
-조건의 if는 "만약 ~라면", 명사절의 whether/if는 "~인지 아닌지"입니다. If you come, I will be happy. I don't know whether he will come.
+조건의 if는 "만약 -라면", 명사절의 whether/if는 "-인지 아닌지"입니다. If you come, I will be happy. I don't know whether he will come.
 
 ## 마무리
 

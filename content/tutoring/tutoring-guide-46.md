@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 **Q. 얼마나 걸려요?**
 
-사람마다 다릅니다. 꾸준히 하면 2~3개월 후부터 변화가 느껴집니다. 급하게 생각하면 지칩니다. 꾸준함이 답입니다.
+사람마다 다릅니다. 꾸준히 하면 2-3개월 후부터 변화가 느껴집니다. 급하게 생각하면 지칩니다. 꾸준함이 답입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

@@ -63,7 +63,7 @@ sitemap:
 
 점진적 근육 이완도 효과적입니다. 손부터 다리까지 순서대로 힘을 주었다가 풀어줍니다.
 
-명상은 편안한 자세로 호흡에 집중하고 생각을 흘려보냅니다. 10~20분이면 마음이 안정됩니다.
+명상은 편안한 자세로 호흡에 집중하고 생각을 흘려보냅니다. 10-20분이면 마음이 안정됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

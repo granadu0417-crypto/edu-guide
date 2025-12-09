@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=120
 
 풀이 과정을 논리적으로 서술하세요. 답만 쓰면 안 됩니다. 왜 이렇게 풀었는지 설명해야 합니다.
 
-시간 관리가 중요합니다. 보통 2~3문제를 100분 안에 풀어야 합니다. 한 문제에 너무 오래 붙잡히면 안 됩니다.
+시간 관리가 중요합니다. 보통 2-3문제를 100분 안에 풀어야 합니다. 한 문제에 너무 오래 붙잡히면 안 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

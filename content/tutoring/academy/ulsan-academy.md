@@ -33,7 +33,7 @@ reading_time: 160줄
 
 남구에도 학원이 많습니다. 삼산동과 함께 울산의 교육 중심지입니다. 접근성이 좋고, 다양한 유형의 학원이 있습니다.
 
-비용이 합리적입니다. 서울 대비 30~40% 정도 저렴합니다. 같은 비용으로 더 많은 수업을 받을 수 있습니다.
+비용이 합리적입니다. 서울 대비 30-40% 정도 저렴합니다. 같은 비용으로 더 많은 수업을 받을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

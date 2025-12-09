@@ -115,16 +115,16 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 필수 어휘량이 다릅니다. 고1은 기본 3000개, 고2~3은 심화 어휘까지 확장합니다.
+학년별로 필수 어휘량이 다릅니다. 고1은 기본 3000개, 고2-3은 심화 어휘까지 확장합니다.
 </div>
 
 ## 수업료 안내
 
 동작구 상도3동 고등학생 영어과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -141,7 +141,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 **Q. 하루에 몇 개씩 외워야 하나요?**
 
-학생마다 다르지만 하루 30~50개가 적당합니다. 너무 많으면 오히려 효율이 떨어집니다.
+학생마다 다르지만 하루 30-50개가 적당합니다. 너무 많으면 오히려 효율이 떨어집니다.
 
 **Q. 어휘만 늘리면 성적이 오르나요?**
 

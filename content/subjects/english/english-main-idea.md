@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 ## 마무리
 
-영어 주제 찾기는 첫 문장, 키워드, 마지막 문장에 집중하면 쉽게 정복할 수 있습니다. 매일 5~10문제씩 연습하고 오답을 분석하세요.
+영어 주제 찾기는 첫 문장, 키워드, 마지막 문장에 집중하면 쉽게 정복할 수 있습니다. 매일 5-10문제씩 연습하고 오답을 분석하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

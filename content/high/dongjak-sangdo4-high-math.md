@@ -115,16 +115,16 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 실력 향상 전략이 다릅니다. 고1은 기초 다지기, 고2~3은 약점 보완으로 실력을 끌어올립니다.
+학년별로 실력 향상 전략이 다릅니다. 고1은 기초 다지기, 고2-3은 약점 보완으로 실력을 끌어올립니다.
 </div>
 
 ## 수업료 안내
 
 동작구 상도4동 고등학생 수학과외 수업료는 다음과 같습니다.
 
-**고1~2**는 주1회 25만원 ~ 36만원, 주2회 33만원 ~ 53만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 28만원 ~ 40만원, 주2회 37만원 ~ 59만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -141,7 +141,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 **Q. 실력이 오르려면 얼마나 걸리나요?**
 
-원인에 따라 다르지만, 방법이 맞으면 1~2개월 안에 변화가 느껴집니다.
+원인에 따라 다르지만, 방법이 맞으면 1-2개월 안에 변화가 느껴집니다.
 
 **Q. 기초가 없어서 안 오르는 건가요?**
 

@@ -121,7 +121,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 ```
 한반도 주요 산맥:
-- 백두대간: 백두산~지리산
+- 백두대간: 백두산-지리산
 - 태백산맥: 동해안 따라
 - 소백산맥: 서남쪽으로
 → 직접 그려보며 위치 암기
@@ -703,7 +703,7 @@ Day 31: 복습 (1개월 후)
 - [과학 암기 고민? | 생물·지구과학 전략 솔루션 2025](/subjects/science/science-memorization-strategies/)
 - [사회 지리 vs 역사 학습 | 자연·인문 비교 2025](/subjects/social/social-geography-mastery/)
 - [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
-- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
+- [국어 독해력 5단계 추천 전략 | 초등-고등](/subjects/korean-reading-improvement/)
 
 {{< cta-consultation-final >}}
 

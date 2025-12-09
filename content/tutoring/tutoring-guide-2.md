@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 목표에 맞는 선생님을 찾으세요. 내신 위주면 학교 시험 분석을 잘하는 선생님이 좋습니다. 수능 위주면 수능 지도 경험이 풍부한 선생님이 좋습니다.
 
-첫 수업 후 판단하세요. 첫 상담만으로 다 알 수 없습니다. 1~2회 수업 후 아이에게 물어보세요. 설명이 이해가 되는지, 질문하기 편한지 확인하세요.
+첫 수업 후 판단하세요. 첫 상담만으로 다 알 수 없습니다. 1-2회 수업 후 아이에게 물어보세요. 설명이 이해가 되는지, 질문하기 편한지 확인하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 **Q. 첫 수업 후 마음에 안 들면요?**
 
-바로 바꾸셔도 됩니다. 다만 1~2회는 적응 기간으로 보세요. 그래도 안 맞으면 바꾸는 게 맞습니다.
+바로 바꾸셔도 됩니다. 다만 1-2회는 적응 기간으로 보세요. 그래도 안 맞으면 바꾸는 게 맞습니다.
 
 **Q. 남자 선생님 vs 여자 선생님?**
 
@@ -82,7 +82,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 **Q. 온라인으로도 선생님 면접이 되나요?**
 
-됩니다. 화상으로 첫 상담 후 1~2회 시범 수업을 해보세요.
+됩니다. 화상으로 첫 상담 후 1-2회 시범 수업을 해보세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

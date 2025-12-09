@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 비문학은 30분입니다. 세 지문에 각 10분씩 배분합니다. 시간이 오래 걸리는 지문은 건너뛰고 나중에 풉니다.
 
-문학은 25분입니다. 네 작품에 각 6~7분씩 배분합니다. 익숙한 작품이 나오면 빠르게 풀 수 있습니다.
+문학은 25분입니다. 네 작품에 각 6-7분씩 배분합니다. 익숙한 작품이 나오면 빠르게 풀 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

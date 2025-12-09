@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 ## 수업료 안내
 
-**중학생**은 주1회 22만원 ~ 32만원, 주2회 29만원 ~ 47만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
 
 
@@ -101,7 +101,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 **Q. if와 whether의 차이는 뭔가요?**
 
-둘 다 '~인지 아닌지'의 의미로 쓰입니다. whether는 격식체이고, "or not"과 함께 쓸 때는 whether만 가능합니다. "whether or not"은 되지만 "if or not"은 안 됩니다.
+둘 다 '-인지 아닌지'의 의미로 쓰입니다. whether는 격식체이고, "or not"과 함께 쓸 때는 whether만 가능합니다. "whether or not"은 되지만 "if or not"은 안 됩니다.
 
 ## 마무리
 
