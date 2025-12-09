@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "용산구 서빙고동 고등학생을 위한 수학과외입니다. 중경고·용산고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 ---
 
 ## 수학 자신감이 사라졌나요?

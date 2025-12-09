@@ -13,7 +13,7 @@ tags:
 - 멘탈
 - 긴장
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0372_5fNmWej4tAA.jpg"
 ---
 
 ## 평소엔 잘 푸는데 시험만 보면 머리가 하얘진다고요? 긴장해서 아는 것도 틀리시죠.

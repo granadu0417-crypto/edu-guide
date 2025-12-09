@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 도봉고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0235_g4VGQWl8QDU.jpg"
 
 ---
 ## 도봉1동 고등학생, 영어 공부 시간은 많은데 성적은 그대로인가요?

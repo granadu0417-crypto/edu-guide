@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0950_bFMmD2yufEI.jpg"
 
 ---
 ## 성북구 길음2동 고등학생, 고3인데 급하다면

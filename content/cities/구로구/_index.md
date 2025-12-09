@@ -17,7 +17,7 @@ tags:
   - 중등과외
   - 내신관리
   - 수능대비
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0008_aHO7WtEUmTw.jpg"
 ---
 
 ## 구로구 고등학생 과외 안내

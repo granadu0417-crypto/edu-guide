@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0707_0hWNJP-hMOE.jpg"
 ---
 
 ## 동남아 국가들의 역사가 헷갈리고 식민 지배 영향이 복잡하다고요? 각 국가의 위치와 문화부터 정리하면 됩니다.

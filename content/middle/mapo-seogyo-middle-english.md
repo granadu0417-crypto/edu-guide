@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0908_9Z-hM-DN-70.jpg"
 
 ---
 ## 마포구 서교동 중학생, 서술형이 두렵다면

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0475_vlBBuF3Twhk.jpg"
 
 ---
 ## 동작구 신대방2동 중학생, 영어 점수가 80점대에서 안 오르나요?

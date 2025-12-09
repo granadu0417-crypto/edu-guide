@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광양고
-featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0601__wyVfU61VPk.jpg"
 ---
 
 비슷한 문제인데 풀이 방법을 모르겠다는 경험, 있으신가요? 유형 분석이 부족하기 때문입니다.

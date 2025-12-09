@@ -19,7 +19,7 @@ tags:
 - 영어문법
 - 영어독해
 - 로데오거리
-featured_image: "https://images.unsplash.com/photo-1634228773762-dfb2e9a6c1e7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0578_EhTcC9sYXsw.jpg"
 
 ---
 ## 강남구 압구정동 중학생, 영어 외부 지문이 나오면 못 풀겠다면

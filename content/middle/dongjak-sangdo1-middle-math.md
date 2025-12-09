@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0466_KSt0_N9TP08.jpg"
 
 ---
 ## 동작구 상도1동 중학생, 시험만 보면 아는 문제도 틀리나요?

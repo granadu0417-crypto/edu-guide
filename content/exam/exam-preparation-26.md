@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 ---
 ## 모의고사 점수랑 실제 수능 점수가 다르다는데, 어떻게 활용해야 하나요?
 

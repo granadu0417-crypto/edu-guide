@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0611_28TnM-iVMHw.jpg"
 ---
 
 문제를 풀다가 자주 막히는 부분이 있으신가요? 그곳이 바로 개념의 구멍입니다.

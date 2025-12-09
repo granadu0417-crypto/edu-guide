@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 ---
 ## 모의고사에서 실전 감각을 유지하려면 어떻게 해야 하나요? 계속 점수가 오르락내리락해요.
 

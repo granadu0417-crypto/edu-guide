@@ -17,7 +17,7 @@ tags:
   - 구현고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0524_C9X7scal6Jo.jpg"
 ---
 
 같은 영어 수업을 들어도 성적이 다른 이유가 있습니다. 나에게 맞는 수업인지가 중요합니다.

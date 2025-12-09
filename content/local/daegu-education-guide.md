@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "대구시의 학원, 과외, 교육 환경을 완벽 분석합니다. 수성구 학원가, 경북대 과외 등 대구 지역 학부모를 위한 맞춤 교육 정보를 제공합니다."
 tags: ["대구교육", "대구학원", "대구과외", "수성구학원", "경북대과외", "범어동학원", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1655132813489-c0c5d0e7da5d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0190_uIJ_SJpp-Fw.jpg"
 ---
 
 ## 대구에서 아이 교육 어떻게 해야 하나요? 수성구가 좋다고 하는데 다른 지역과 뭐가 다른가요?

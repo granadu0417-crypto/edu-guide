@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 위례고
   - 위례한빛고
-featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0069_wWgfpLY7Ims.jpg"
 ---
 
 정규분포와 확률 연결이 어렵다면? 통계적 사고력이 필요합니다.

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 마천역
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0200_LGkyjQQIM_o.jpg"
 
 ---
 ## 송파구 마천1동 중학생, 수학 유리수와 순환소수의 변환이 헷갈린다면

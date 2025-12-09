@@ -18,7 +18,7 @@ tags:
   - 을지중
   - 맞춤수업
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1617104678098-de229db51175?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0008_aHO7WtEUmTw.jpg"
 
 ---
 ## 중계4동 중학생, 나에게 맞는 수학 수업이 필요하다면

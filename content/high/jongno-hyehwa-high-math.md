@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0726_7_bz84zOU7g.jpg"
 ---
 
 모의고사마다 점수가 들쭉날쭉하다면? 실력 안정화 훈련이 필요합니다.

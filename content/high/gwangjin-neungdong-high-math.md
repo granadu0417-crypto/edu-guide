@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 건대부고
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0613_7o7DqXJArf4.jpg"
 ---
 
 풀이 과정은 맞는 것 같은데 답이 다른 경험, 있으신가요? 계산 실수가 아니라 개념 적용의 문제입니다.

@@ -17,7 +17,7 @@ tags:
 - 강동
 - 강북
 - 강서
-featured_image: "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0199_i5nMmbr8JYg.jpg"
 ---
 
 ## 형편이 어려운데 아이 교육비 지원받을 수 있는 제도가 있나요? 어떻게 신청하나요?

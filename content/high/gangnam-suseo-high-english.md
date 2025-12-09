@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 보성고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0440_wJ7yGwz2-00.jpg"
 ---
 
 고난도 외부 지문에서 막힌다면? 비연계 지문 독해력 강화가 필요합니다.

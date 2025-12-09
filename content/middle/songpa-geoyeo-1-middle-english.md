@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 마천역
-featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 ---
 ## 송파구 거여1동 중학생, 영어 동사의 형태 변화가 헷갈린다면

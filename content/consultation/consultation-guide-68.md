@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습방법
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0092_JexAuNCfefs.jpg"
 ---
 
 ## 수학은 그나마 괜찮은데 영어가 안 돼요. 과목마다 공부법이 다른 건가요?

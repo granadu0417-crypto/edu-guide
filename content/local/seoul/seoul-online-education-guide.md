@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["온라인교육", "인터넷강의", "화상과외", "AI학습", "EBS", "메가스터디", "온라인학습", "서울교육"]
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 ---
 
 "학원비 부담되는데, 온라인으로도 효과 볼 수 있을까요?"

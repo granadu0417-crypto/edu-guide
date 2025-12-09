@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 
 ---
 ## 성북구 동선동 중학생, 내신 성적을 높이고 싶다면

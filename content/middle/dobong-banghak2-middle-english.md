@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1596622984703-6b1833c3ff7e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0393_wFpe6LYz27c.jpg"
 
 ---
 ## 도봉구 방학2동 중학생, 영어 단어 암기가 너무 힘드나요?

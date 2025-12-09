@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1574169208507-84376144848b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0094_f1YfrZ1o2r8.jpg"
 
 ---
 ## 성북구 보문동 중학생, 영어 자신감이 없다면

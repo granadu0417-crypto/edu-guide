@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 ---
 
 글의 분위기나 어조 파악이 어렵다면? 어조 분석력이 필요합니다.

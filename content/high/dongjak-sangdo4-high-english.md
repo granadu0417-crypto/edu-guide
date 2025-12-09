@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0299_djDgVMWd04E.jpg"
 
 ---
 ## 동작구 상도4동 고등학생, 내신과 수능 영어가 다르게 느껴진다면

@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 역삼IT금융
-featured_image: "https://images.unsplash.com/photo-1623193811728-d1e2b5d3b4e2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 ---
 ## 강남구 역삼2동 중학생, 수학 원의 성질이 복잡하다면

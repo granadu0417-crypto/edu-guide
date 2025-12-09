@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "용산구 용산2가동 중학생을 위한 수학과외입니다. 용산중·보성여중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1646128766968-7bae90b96b2e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0344_qx-gV45_8-A.jpg"
 ---
 
 ## 수학, 개념이 흔들리면 다 무너집니다

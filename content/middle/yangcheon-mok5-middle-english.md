@@ -20,7 +20,7 @@ tags:
   - 월촌중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0249_W3DgUAEzojE.jpg"
 
 ---
 ## 양천구 목5동 중학생, 독해가 느리다면

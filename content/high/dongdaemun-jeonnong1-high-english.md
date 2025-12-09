@@ -18,7 +18,7 @@ tags:
   - 해성여고
   - 청량고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0269_XckdW-FViuM.jpg"
 
 ---
 ## 동대문구 전농1동 고등학생, 영어 서술형에서 감점이 많나요?

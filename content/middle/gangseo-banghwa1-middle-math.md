@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 ---
 ## 강서구 방화1동 중학생, 수학 점수 80점의 벽을 못 넘고 있나요?

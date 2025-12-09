@@ -17,7 +17,7 @@ tags:
   - 중등과외
   - 내신관리
   - 수능대비
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0021_1KNAPQ9Oq6k.jpg"
 ---
 
 ## 영등포구 고등학생 과외 안내

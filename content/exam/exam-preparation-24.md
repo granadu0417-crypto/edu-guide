@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0162__JZuBu_CEII.jpg"
 ---
 ## 시험장에만 들어가면 머리가 하얘져요. 긴장을 어떻게 풀어야 하나요?
 

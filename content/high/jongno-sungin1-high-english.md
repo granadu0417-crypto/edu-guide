@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1522542550221-31fd8575ffe4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0741_06CE33PclHg.jpg"
 ---
 
 지문은 해석했는데 선지가 모두 비슷해 보이는 경험, 있으신가요? 논리적 판단 훈련이 필요합니다.

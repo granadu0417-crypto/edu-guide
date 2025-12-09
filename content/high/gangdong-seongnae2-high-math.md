@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 성내고
   - 길동고
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0399_p74ndnYWRY4.jpg"
 ---
 
 수학 개념끼리 연결이 안 된다면? 통합적 사고 훈련이 필요합니다.

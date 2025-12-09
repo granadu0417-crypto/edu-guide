@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["은평구", "과학과외", "연신내", "불광동", "응암동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0317_8eSrC43qdro.jpg"
 ---
 
 "과학은 혼자 공부하기 너무 어려운데, 과외가 효과 있을까요?"

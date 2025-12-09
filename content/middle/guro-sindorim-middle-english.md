@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0717__P9fwHnwhcA.jpg"
 
 ---
 ## 구로구 신도림동 중학생, 영어 성적이 좀처럼 오르지 않나요?

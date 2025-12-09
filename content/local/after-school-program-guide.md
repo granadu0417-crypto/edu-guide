@@ -15,7 +15,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 ---
 
 ## 맞벌이 가정인데 아이 방과후 시간이 걱정됩니다. 방과후학교와 돌봄교실은 어떻게 다른가요?

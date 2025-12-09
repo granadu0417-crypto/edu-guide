@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1517245386807-9b1e6d34b5ff?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0764_H6A0DB8BJdU.jpg"
 ---
 
 수학 공부 시간은 많은데 성적이 안 오른다면? 학습 방법을 점검해야 합니다.

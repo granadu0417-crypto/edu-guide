@@ -11,7 +11,7 @@ tags:
 - 물리공식
 - 화학공식
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0603_Mux4hASIqhc.jpg"
 ---
 
 ## 과학 공식이 너무 많아서 헷갈리고 외워도 금방 잊어버린다고요? 이해가 먼저입니다.

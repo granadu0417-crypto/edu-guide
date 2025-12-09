@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 일원주거단지
-featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0601__wyVfU61VPk.jpg"
 
 ---
 ## 강남구 일원1동 중학생, 수학 이차방정식 근의 공식이 어렵다면

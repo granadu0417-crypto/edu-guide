@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 송파고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 ---
 
 이차방정식 판별식이 헷갈린다면? 판별식 활용력이 필요합니다.

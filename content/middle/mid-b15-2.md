@@ -14,7 +14,7 @@ tags:
 - 중전학년
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 ---
 ## 학원 없으면 공부를 못하는 아이, 걱정되시죠?
 

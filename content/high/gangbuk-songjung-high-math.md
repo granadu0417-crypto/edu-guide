@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 신일고
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 ---
 
 수학 문제를 풀 때 어디서부터 손을 대야 할지 막막하신가요?

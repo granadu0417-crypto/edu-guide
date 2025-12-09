@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0156_Dt71N8C-8Uw.jpg"
 ---
 ## 사회는 외울 게 너무 많아서 시험 때마다 헷갈려요. 효율적으로 외우는 방법 없나요?
 

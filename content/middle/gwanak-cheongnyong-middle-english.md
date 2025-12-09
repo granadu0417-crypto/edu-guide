@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0723_b8h25oRs89Y.jpg"
 
 ---
 ## 관악구 청룡동 중학생, 영어 시험 시간이 항상 부족한가요?

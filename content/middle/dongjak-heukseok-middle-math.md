@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0450_RvPiAVE-zWo.jpg"
 
 ---
 ## 동작구 흑석동 중학생, 개념은 아는 것 같은데 응용이 안 되나요?

@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "용산구 한강로동 중학생을 위한 영어과외입니다. 용산중·보성여중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0317_8eSrC43qdro.jpg"
 ---
 
 ## 영어 성적이 정체되어 있나요?

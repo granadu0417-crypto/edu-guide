@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서울정화고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0249_W3DgUAEzojE.jpg"
 
 ---
 ## 동대문구 답십리1동 고등학생, 영어 단어 암기가 너무 힘드나요?

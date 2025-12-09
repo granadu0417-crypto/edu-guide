@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0131_jfnUC7s3iuw.jpg"
 ---
 ## 4학년, 공부량이 확 늘어서 당황스러우시죠?
 

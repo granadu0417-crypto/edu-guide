@@ -19,7 +19,7 @@ tags:
   - 내신대비
   - 수능대비
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0865_WnTlsTV1mVE.jpg"
 
 ---
 ## 상계3·4동 고등학생, 영어 학습 관리가 필요하다면

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 창동고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0233_A6YXVe6Qcnw.jpg"
 
 ---
 ## 창5동 고등학생, 영어 서술형에서 점수를 많이 잃나요?

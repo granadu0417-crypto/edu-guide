@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 응암3동 고등학생을 위한 수학과외입니다. 충암고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0317_8eSrC43qdro.jpg"
 ---
 
 ## 수학, 공식만 외워서는 수능 못 봅니다

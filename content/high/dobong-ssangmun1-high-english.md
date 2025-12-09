@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 서라벌고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0239_qgzeWrw4tEs.jpg"
 
 ---
 ## 쌍문1동 고등학생, 영어 성적이 더 이상 오르지 않나요?

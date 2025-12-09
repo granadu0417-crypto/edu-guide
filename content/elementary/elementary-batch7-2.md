@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 ---
 ## 받아쓰기와 구구단, 2학년의 핵심 두 가지입니다
 

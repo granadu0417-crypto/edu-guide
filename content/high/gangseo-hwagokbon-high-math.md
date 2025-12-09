@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 ---
 
 수학이 어렵게 느껴지는 순간이 있습니다. 개념은 아는 것 같은데 문제가 안 풀릴 때입니다.

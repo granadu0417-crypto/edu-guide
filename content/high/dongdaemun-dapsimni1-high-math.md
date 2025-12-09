@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서울정화고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1652095279611-9f4c3a3e7ab6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0250_ZxCQBcEK0IU.jpg"
 
 ---
 ## 동대문구 답십리1동 고등학생, 계산 실수가 너무 잦아서 걱정되나요?

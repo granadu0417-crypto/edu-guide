@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0814_NjSjs2Qd8dA.jpg"
 
 ---
 ## 종로구 종로56가동 중학생, 수학 문자와 식의 계산이 헷갈린다면

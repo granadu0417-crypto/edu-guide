@@ -16,7 +16,7 @@ tags:
 - 수능영어
 - 1:1과외
 - 강남과외
-featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 ---
 
 "우리 아이 영어, 회화부터 시작해야 할까요? 문법부터 잡아야 할까요?"

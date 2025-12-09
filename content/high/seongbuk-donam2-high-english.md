@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 ---
 ## 성북구 돈암2동 고등학생, 독해 속도가 느리다면

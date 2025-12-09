@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 국어 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 검증된 학원 정보와 1:1 과외 병행 전략을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0754_sUU5rv3n9sw.jpg"
 reading_time: 160줄
 ---
 

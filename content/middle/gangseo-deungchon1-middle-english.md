@@ -21,7 +21,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0630_D9ZYbb_Kjic.jpg"
 
 ---
 ## 강서구 등촌1동 중학생, 단어는 외워도 문장이 해석이 안 되나요?

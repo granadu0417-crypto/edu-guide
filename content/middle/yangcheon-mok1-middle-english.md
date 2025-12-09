@@ -18,7 +18,7 @@ tags:
   - 목운중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1615071024892-94b9bd8c9c5c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0241_Z44qEGdwaIo.jpg"
 
 ---
 ## 양천구 목1동 중학생, 영어 성적이 정체되어 있다면

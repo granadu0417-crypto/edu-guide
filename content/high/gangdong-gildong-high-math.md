@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 배재고
   - 한영고
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 ---
 
 답은 맞는데 풀이 과정에서 감점당한다면? 서술형 작성법 훈련이 필요합니다.

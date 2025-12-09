@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0744_ySZdYkPGEbs.jpg"
 ---
 
 풀이는 맞았는데 계산 실수로 틀린 경험, 있으신가요? 꼼꼼한 검산 습관이 필요합니다.

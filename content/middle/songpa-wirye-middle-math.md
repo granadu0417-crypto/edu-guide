@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 위례신사역
-featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0224_0RRKNIlgRZA.jpg"
 
 ---
 ## 송파구 위례동 중학생, 수학 인수분해가 헷갈린다면

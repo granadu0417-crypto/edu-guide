@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0773_O6gGWPHv_HE.jpg"
 ---
 ## 광진구 자양1동 중학생, 영어 문장의 5형식이 헷갈린다면
 

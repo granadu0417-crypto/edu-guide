@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0060_7ebCN7FwH3g.jpg"
 ---
 
 ## 인강을 틀어놓으면 5분도 안 돼서 다른 창을 열어요. 온라인 수업은 어떻게 들어야 효과가 있나요?

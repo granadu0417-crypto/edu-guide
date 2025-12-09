@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0718_9amdMcLR87A.jpg"
 ---
 
 공식은 외웠는데 언제 쓸지 모르겠다면? 공식 적용 훈련이 필요합니다.

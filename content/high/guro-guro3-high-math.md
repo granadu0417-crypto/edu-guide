@@ -17,7 +17,7 @@ tags:
   - 구로고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0529_5uhOqA194JQ.jpg"
 ---
 
 수학 시험 보고 나면 아는 문제를 틀렸다는 생각이 드시나요? 실수가 아니라 실력입니다.

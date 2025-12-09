@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0279_1NyLgQ8QfgQ.jpg"
 
 ---
 ## 동작구 노량진1동 고등학생, 영어 성적이 오르지 않는다면

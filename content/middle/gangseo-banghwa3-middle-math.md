@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 
 ---
 ## 강서구 방화3동 중학생, 수학 포기를 생각해본 적 있나요?

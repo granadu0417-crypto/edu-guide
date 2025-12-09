@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 ---
 
 ## 시험 전날 잠이 안 와요. 긴장되고 불안해서 아무것도 손에 안 잡혀요.

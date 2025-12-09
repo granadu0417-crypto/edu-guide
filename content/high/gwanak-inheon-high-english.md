@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 내신수능병행
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0554_eqtDywtlAzY.jpg"
 ---
 
 내신과 수능, 둘 다 잡아야 하는데 시간은 부족합니다. 효율적으로 공부하는 방법이 필요합니다.

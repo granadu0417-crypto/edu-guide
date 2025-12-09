@@ -9,7 +9,7 @@ regions:
 cities:
   - 용인시
 tags: ["용인교육", "용인학원", "용인과외", "수지학원", "기흥학원", "용인입시"]
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0276_CBztr5_8Hso.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

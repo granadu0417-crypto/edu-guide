@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1645134957026-6e5a75f3b9ea?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0936_e6Tlkz966g8.jpg"
 ---
 ## 어떤 고등학교를 가야 대학 입시에 유리할까요?
 

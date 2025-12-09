@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "과외를 시작하는 학생과 부모님이 흔히 저지르는 실수와 해결 방법. 시행착오를 줄이고 과외 효과를 극대화하세요."
 tags: ["중등과외", "1:1과외", "학습전략", "과외선택", "학습효율"]
-featured_image: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0229_ib4VRerGeDA.jpg"
 ---
 
 ## 과외를 시작했는데 효과가 없는 것 같아요. 뭘 잘못하고 있는 걸까요?

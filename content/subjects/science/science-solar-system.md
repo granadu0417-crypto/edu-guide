@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0636_GaUM9PSNcH4.jpg"
 ---
 
 ## 행성 순서 암기는 되는데 특징 비교가 어렵다고요? 지구형 행성과 목성형 행성 구분부터 시작하면 됩니다.

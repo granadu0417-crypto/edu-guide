@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0566_jiCEld2Ed50.jpg"
 
 ---
 ## 강동구 명일2동 중학생, 영어 문법은 아는데 문장에서 적용이 안 된다면

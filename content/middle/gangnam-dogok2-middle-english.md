@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 도곡타워팰리스
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0590_HjxXBQ4MKD8.jpg"
 
 ---
 ## 강남구 도곡2동 중학생, 영어 접속사가 헷갈린다면

@@ -8,7 +8,7 @@ regions:
 cities:
   - 서초구
 tags: ["서초구", "영어과외", "반포동", "서초동", "방배동", "영어", "과외", "영어회화", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 ---
 
 "우리 아이 영어, 회화도 중요하고 내신도 챙겨야 하는데..."

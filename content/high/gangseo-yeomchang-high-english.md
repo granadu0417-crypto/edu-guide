@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 등촌고
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0490_pGnXCqKNhYA.jpg"
 ---
 
 영어 공부 방법을 모르겠다고요?

@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "울산시의 학원, 과외, 교육 환경을 완벽 분석합니다. 산업도시 울산의 삼산동 학원가부터 울산대·UNIST 과외, 부산 접근성까지 맞춤 교육 정보를 제공합니다."
 tags: ["울산교육", "울산학원", "울산과외", "삼산동학원", "울산대과외", "UNIST과외", "산업도시교육", "현대중공업", "부산접근성", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 ---
 
 ## 울산에서 아이 교육 어떻게 시키면 좋을까요? 대전이나 부산보다 학원이 적어서 걱정되시죠.

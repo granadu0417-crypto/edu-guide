@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 송파고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0067_4-EeTnaC1S4.jpg"
 ---
 
 연립방정식이 복잡하게 느껴진다면? 연립방정식 풀이 전략이 필요합니다.

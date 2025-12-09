@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 갈현1동 고등학생을 위한 수학과외입니다. 선정고·대성고·숭실고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 ---
 
 ## 명문 사립 내신, 만만치 않습니다

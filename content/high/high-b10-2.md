@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 ---
 ## 아직 학과를 못 정했다면, 고2 끝나기 전에 꼭 정해야 합니다
 

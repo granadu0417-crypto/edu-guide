@@ -14,7 +14,7 @@ tags:
 - 함수변환
 - 함수의응용
 - 함수
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0523_ix9I7kfMpcc.jpg"
 ---
 
 ## 함수가 도대체 뭔지 감이 안 잡힌다고요? 그래프를 어떻게 그려야 하는지 막막하시죠.

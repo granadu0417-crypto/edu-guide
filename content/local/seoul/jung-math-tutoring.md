@@ -18,7 +18,7 @@ tags:
 - 수능수학
 - 1:1과외
 - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 ---
 
 "우리 아이 수학 성적, 어떻게 하면 올릴 수 있을까요?"

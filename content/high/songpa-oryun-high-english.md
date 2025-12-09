@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 오륜고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 ---
 
 요약문 빈칸 채우기가 어렵다면? 핵심 단어 추출력이 필요합니다.

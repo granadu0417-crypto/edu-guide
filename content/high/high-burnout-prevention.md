@@ -7,7 +7,7 @@ reading_time: "731줄"
 description: "고등학생을 위한 번아웃 예방 완전 가이드. 조기 징후 발견부터 회복까지 지속 가능한 학습을 위한 실전 전략."
 categories: ["고등"]
 tags: ["번아웃", "번아웃예방", "소진예방", "학습지속력", "멘탈관리", "에너지관리", "회복", "균형"]
-featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0642_ID1yWa1Wpx0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 
 ---
 ## 강동구 암사3동 중학생, 영어 독해가 느려서 시간이 부족하다면

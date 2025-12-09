@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0731_Byse7KYCh4M.jpg"
 ---
 
 어법 문제에서 늘 한두 개씩 틀린다면? 정밀 어법 훈련이 필요합니다.

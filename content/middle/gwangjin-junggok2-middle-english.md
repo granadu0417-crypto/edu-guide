@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0783__9xRHrMOjeg.jpg"
 ---
 ## 광진구 중곡2동 중학생, 영어 동명사가 헷갈린다면
 

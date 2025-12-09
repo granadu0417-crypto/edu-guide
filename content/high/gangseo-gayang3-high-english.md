@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 세현고
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0464_NIJuEQw0RKg.jpg"
 ---
 
 영어, 어디서부터 잡아야 할지 모르겠나요?

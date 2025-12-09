@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 자율형공립고
-featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0545_6cSii5M3GBw.jpg"
 ---
 
 수학 성적표를 받아들고 한숨부터 나오시나요? 보라매동 학부모님들이 가장 많이 하시는 고민입니다.

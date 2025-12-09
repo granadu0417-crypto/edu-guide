@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 
 ---
 ## 성북구 상월곡동 중학생, 기말고사를 앞두고 있다면

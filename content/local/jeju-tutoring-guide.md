@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "제주도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 제주대 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["제주과외", "과외", "제주교육", "제주시과외", "서귀포과외", "제주대과외", "화상과외", "온라인과외"]
-featured_image: "https://images.unsplash.com/photo-1570063578733-6a33b69d1439?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0288_jJFrkJP_-RA.jpg"
 ---
 
 ## 제주도에서 과외 선생님 구하기 어렵지 않나요? 화상 과외가 효과가 있을지 궁금하시죠.

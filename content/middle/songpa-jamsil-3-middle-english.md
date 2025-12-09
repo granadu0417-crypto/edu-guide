@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 잠실새내역
-featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0187_xHoqN_vAYR0.jpg"
 
 ---
 ## 송파구 잠실3동 중학생, 영어 It-that 강조구문이 헷갈린다면

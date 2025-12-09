@@ -15,7 +15,7 @@ tags:
   - 수능수학
   - 내신대비
 description: "중랑구 중화1동 고등학생을 위한 1:1 맞춤 수학과외. 중화고 내신 완벽 대비, 수능 수학까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0776_xO-3DzLajuo.jpg"
 ---
 
 중화고 내신부터 수능까지, 체계적인 수학 학습이 필요합니다.

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 가락고
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0023_I_LxDFIIRIA.jpg"
 ---
 
 적분 문제에서 범위 설정이 어렵다면? 적분 영역 분석력이 필요합니다.

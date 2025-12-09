@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 자기소개서 완벽 작성 전략 | 소재 발굴, 스토리 구성, 문항별 작성법, 효과적인 표현, 첨삭 방법, 1:1 맞춤 첨삭 지도 [2025년]"
 tags: ["자기소개서", "자소서작성", "대입자소서", "학생부종합", "스토리텔링", "첨삭", "소재발굴", "진정성", "전공적합성", "자기주도성", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0680_ZPkG0EdWQa8.jpg"
 ---
 
 ## 자기소개서 쓰라는데 뭘 써야 할지 모르겠어요. 특별한 경험도 없고 글도 잘 못 쓰는데 어떻게 해야 하나요?

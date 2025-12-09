@@ -13,7 +13,7 @@ tags:
 - 협업
 - study group
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 ---
 
 ## 혼자 공부하기 외롭다고요? 스터디를 만들어도 흐지부지된다고요.

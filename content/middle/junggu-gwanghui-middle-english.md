@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0835_h_nWAOzgq3E.jpg"
 
 ---
 ## 중구 광희동 중학생, 영어 분사구문이 어렵다면

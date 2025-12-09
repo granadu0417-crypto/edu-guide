@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠신고
-featured_image: "https://images.unsplash.com/photo-1582201942988-13e60e4556ee?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 ---
 
 지시어가 가리키는 대상을 못 찾겠다면? 대명사 추적력이 필요합니다.

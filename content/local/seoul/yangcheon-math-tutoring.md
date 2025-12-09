@@ -9,7 +9,7 @@ regions:
 cities:
   - 양천구
 tags: ["양천구", "수학과외", "목동", "신정동", "신월동", "수학", "과외", "목동8학군", "내신수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0371_w9i7wMaM3EE.jpg"
 ---
 
 "목동 학원가가 유명한데, 수학은 학원이 나을까요 과외가 나을까요?"

@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0494_cIOo7AXHiZ4.jpg"
 ---
 
 영어 공부를 꾸준히 하는데 성적이 안 오르면, 학습 관리가 필요합니다.

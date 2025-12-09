@@ -14,7 +14,7 @@ tags:
 - 수능국어
 - 고전문학학습
 - 소설
-featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0436_kw0z6RyvC0s.jpg"
 ---
 
 ## 고전문학 읽으면 무슨 말인지 모르겠다고요? 시대별 특징을 알면 해석이 쉬워집니다.

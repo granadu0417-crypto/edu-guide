@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0577_Kn_l9o5220Y.jpg"
 ---
 ## 강동구 성내3동 중학생, 수학 대푯값 계산이 헷갈린다면
 

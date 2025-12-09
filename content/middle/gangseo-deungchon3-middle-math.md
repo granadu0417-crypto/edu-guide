@@ -21,7 +21,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 ---
 ## 강서구 등촌3동 중학생, 시험만 보면 아는 문제도 틀리나요?

@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0728_KigTvXqetXA.jpg"
 ---
 
 미적분 개념이 추상적이라 이해가 안 된다면? 시각화 학습이 필요합니다.

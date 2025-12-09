@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠신고
-featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 ---
 
 확률과 통계 문제에서 경우의 수가 안 맞는다면? 조합적 사고력이 필요합니다.

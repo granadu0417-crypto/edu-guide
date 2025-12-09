@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0477_PL3jwQzb1Lk.jpg"
 ---
 
 같은 유형의 문제를 계속 틀리시나요?

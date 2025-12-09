@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 ---
 
 ## 분명히 공부했는데 시험 때 생각이 안 나요. 복습을 제대로 하는 방법이 있나요?

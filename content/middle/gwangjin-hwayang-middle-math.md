@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0772_vlFHQPTCsHA.jpg"
 ---
 ## 광진구 화양동 중학생, 수학 확률 계산이 복잡하다면
 

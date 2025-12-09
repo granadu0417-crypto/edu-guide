@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 청량고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0248_Zq_SrKafrFs.jpg"
 
 ---
 ## 동대문구 청량리동 고등학생, 개념은 아는 것 같은데 응용이 안 되나요?

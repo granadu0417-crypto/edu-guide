@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0469_GCoGY0_IBts.jpg"
 ---
 
 문제를 풀다가 막히면 어떻게 하시나요?

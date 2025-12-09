@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 한서고
   - 동양고
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0451_eB51IYKpYoQ.jpg"
 ---
 
 어려운 문제만 나오면 손을 못 대시나요?

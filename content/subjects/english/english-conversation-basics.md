@@ -10,7 +10,7 @@ tags:
 - 회화
 - 기초
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 ---
 
 ## 영어로 말하려면 머리가 하얘진다고요? 문법은 아는데 막상 입이 안 떨어진다고요.

@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 ---
 ## 과목마다 공부 방법이 달라야 한다는데, 어떻게 다르게 준비해야 하나요?
 

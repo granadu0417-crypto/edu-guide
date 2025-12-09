@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광양고
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0600_4bF980HkVWA.jpg"
 ---
 
 문장 삽입 문제에서 자주 틀리시나요? 글의 논리 구조를 파악하는 연습이 필요합니다.

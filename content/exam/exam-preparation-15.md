@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 ---
 ## 수학 개념은 아는데 문제만 보면 손이 안 움직여요. 왜 그런 거죠?
 

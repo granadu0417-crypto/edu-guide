@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0918_QSqphOrPako.jpg"
 
 ---
 ## 마포구 연남동 중학생, 영어 기초가 부족하다면

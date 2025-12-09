@@ -13,7 +13,7 @@ tags:
 - memory
 - 학습법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0392_Quy_k-l8zRY.jpg"
 ---
 
 ## 외워도 금방 잊어버린다고요? 어제 외운 단어가 생각 안 나시죠.

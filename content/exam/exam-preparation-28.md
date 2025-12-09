@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 중간고사
-featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 ---
 ## 중간고사가 첫 시험이라 감이 안 잡혀요. 어떻게 준비해야 하나요?
 

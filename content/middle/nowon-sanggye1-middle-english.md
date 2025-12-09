@@ -19,7 +19,7 @@ tags:
   - 노일중
   - 영어문법
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0011_Qy7OZf0FUTA.jpg"
 
 ---
 ## 노원구 상계1동 중학생, 영어 성적이 안 오른다면

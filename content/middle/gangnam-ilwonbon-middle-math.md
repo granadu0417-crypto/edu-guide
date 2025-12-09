@@ -19,7 +19,7 @@ tags:
 - 수학개념
 - 수학심화
 - 일원주거단지
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0603_Mux4hASIqhc.jpg"
 
 ---
 ## 강남구 일원본동 중학생, 수학 피타고라스 정리 응용이 어렵다면

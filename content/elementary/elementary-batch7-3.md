@@ -11,7 +11,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 ---
 ## 예습하고 복습하면 성적이 올라간다, 말은 쉬운데 실천이 어렵죠?
 

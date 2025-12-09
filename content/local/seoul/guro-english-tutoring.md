@@ -8,7 +8,7 @@ regions:
 cities:
   - 구로구
 tags: ["구로구", "영어과외", "가산동", "신도림", "구로동", "영어", "과외", "가산디지털단지", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0332_S4-PeFaWY7c.jpg"
 ---
 
 "IT 업계 학부모들은 영어 교육 어떻게 시키나요?"

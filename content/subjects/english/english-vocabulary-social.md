@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어 사회 주제 어휘 완벽 정복 | 정치·경제·문화·교육 필수 어휘, 1:1 맞춤 어휘 지도 [2025년]"
 tags: ["영어", "어휘", "사회", "social vocabulary", "수능", "독해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0424_B4GwdlgTh5Y.jpg"
 ---
 
 ## 사회 지문에 나오는 정치·경제 용어가 이해 안 된다고요? 문화와 교육 관련 단어가 낯설어서 지문 파악이 어렵다고 느끼시죠.

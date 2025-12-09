@@ -7,7 +7,7 @@ reading_time: "830줄"
 description: "고등학생을 위한 화학 완전 정복 가이드. 원자부터 유기화학까지 개념 이해와 계산 전략. 수능 만점을 위한 체계적 학습법."
 categories: ["고등"]
 tags: ["고등화학", "화학학습법", "수능화학", "화학계산", "원자구조", "화학반응", "과학탐구", "화학개념"]
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0645_-8atMWER8bI.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

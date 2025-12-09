@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0277_WQl_OMbF6nA.jpg"
 
 ---
 ## 동작구 흑석동 고등학생, 독해는 되는데 문제가 안 풀리나요?

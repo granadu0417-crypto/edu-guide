@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 동국대사범대부속고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0265_SjCIQldQTsE.jpg"
 
 ---
 ## 동대문구 장안2동 고등학생, 관계대명사가 나오면서 포기하고 싶어졌나요?

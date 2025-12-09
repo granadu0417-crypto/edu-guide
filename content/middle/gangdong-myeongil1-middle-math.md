@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0565_u7i3ZvZOEUM.jpg"
 
 ---
 ## 강동구 명일1동 중학생, 수학 계산은 되는데 문장제가 안 풀린다면

@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0727_ArH3dtoDQc0.jpg"
 
 ---
 ## 관악구 은천동 중학생, 단어는 외워도 문장이 해석이 안 되나요?

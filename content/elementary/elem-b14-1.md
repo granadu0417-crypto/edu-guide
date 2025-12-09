@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 ---
 ## 지금 만드는 습관이 중학교, 고등학교까지 갑니다
 

@@ -8,7 +8,7 @@ regions:
 cities:
   - 송파구
 tags: ["송파구", "영어과외", "잠실", "가락동", "문정동", "영어", "과외", "8학군", "영어회화", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1644026593474-cd52a3e7d0be?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 ---
 
 "8학군인데 영어 수준이 높지 않을까요?"

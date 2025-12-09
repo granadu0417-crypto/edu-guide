@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0799_qjJvPFepEIM.jpg"
 
 ---
 ## 종로구 창신3동 중학생, 영어 전치사가 헷갈린다면

@@ -17,7 +17,7 @@ tags:
   - 광운대부고
   - 내신수능
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0847_Zck1ap7muew.jpg"
 
 ---
 ## 하계1동 고등학생, 영어 1등급을 향해 달리고 싶다면

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0149_k7ZZmjTBsms.jpg"
 
 ---
 ## 성동구 마장동 중학생, 내신 성적을 올리고 싶다면

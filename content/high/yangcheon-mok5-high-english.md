@@ -19,7 +19,7 @@ tags:
   - 한가람고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0079_r6iOdqrV1z4.jpg"
 
 ---
 ## 양천구 목5동 고등학생, 독해가 느리다면

@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0091_jugJ0wmZ7wk.jpg"
 
 ---
 ## 서대문구 연희동 중학생, 선행보다 현행이 중요하다면

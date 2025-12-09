@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0743_yCjGVz8ToCM.jpg"
 
 ---
 ## 관악구 난곡동 중학생, 관계대명사가 나오면서 포기하고 싶어졌나요?

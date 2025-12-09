@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 ---
 ## 사회는 개념이 비슷비슷해서 헷갈려요. 어떻게 구분해서 외우나요?
 

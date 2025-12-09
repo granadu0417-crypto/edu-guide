@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0645_-8atMWER8bI.jpg"
 
 ---
 ## 강서구 화곡1동 중학생, 수학 자신감이 바닥을 치고 있나요?

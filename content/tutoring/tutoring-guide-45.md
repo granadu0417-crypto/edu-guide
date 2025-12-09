@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 ---
 
 ## 영어는 회화도 중요하고 문법도 중요한데, 어느 걸 먼저 해야 하나요?

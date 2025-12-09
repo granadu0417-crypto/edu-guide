@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 풍납고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1612011213103-e3629ccb8b4c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 ---
 
 공간도형이 머릿속에 안 그려진다면? 공간 시각화 능력이 필요합니다.

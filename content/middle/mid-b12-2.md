@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0932_C9pamXRgk14.jpg"
 ---
 ## 아이가 꿈이 없다고 해요, 괜찮을까요?
 

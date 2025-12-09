@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1554120267-75d00e15a60c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0771_R5dKk1oXPAM.jpg"
 ---
 
 순서 배열 문제에서 자주 틀린다면? 논리 연결어 훈련이 필요합니다.

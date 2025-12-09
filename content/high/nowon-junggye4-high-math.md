@@ -17,7 +17,7 @@ tags:
   - 대진고
   - 개념실전
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 
 ---
 ## 중계4동 고등학생, 수학 개념부터 실전까지 완벽하게

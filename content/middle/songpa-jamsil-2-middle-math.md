@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 
 ---
 ## 송파구 잠실2동 중학생, 수학 부등식의 성질과 해가 헷갈린다면

@@ -8,7 +8,7 @@ regions:
 cities:
   - 금천구
 tags: ["금천구", "영어과외", "독산동", "시흥동", "가산동", "영어", "과외", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0330_K0ubXXQqR-E.jpg"
 ---
 
 "독산·시흥 지역에서도 양질의 영어 교육 받을 수 있나요?"

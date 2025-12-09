@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0719_ycaYQ9qn2pE.jpg"
 ---
 
 빈칸 문제에서 선택지가 다 비슷해 보인다면? 핵심 논리 파악력이 필요합니다.

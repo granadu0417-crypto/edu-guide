@@ -18,7 +18,7 @@ tags:
   - 한천중
   - 내신관리
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0997_md36JWJzrTk.jpg"
 
 ---
 ## 공릉2동 중학생, 영어 내신 관리가 필요하다면

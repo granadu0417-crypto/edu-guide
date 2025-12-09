@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 ---
 
 ## 유기 화합물 명명법이 복잡하고 반응 예측이 어렵다고요? 탄소 결합의 특성부터 정리하면 됩니다.

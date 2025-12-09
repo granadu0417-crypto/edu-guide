@@ -9,7 +9,7 @@ tags:
 - 학습전략
 - 중등과외
 - 성적향상
-featured_image: "https://images.unsplash.com/photo-1568702846914-96b305d2ead1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 ---
 ## 같은 선생님인데 왜 친구는 오르고 저는 안 오르죠?
 

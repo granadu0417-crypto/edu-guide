@@ -18,7 +18,7 @@ tags:
   - 한천중
   - 실력향상
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0995_L5WJmPsFkHg.jpg"
 
 ---
 ## 공릉1동 중학생, 영어 실력 향상을 원한다면

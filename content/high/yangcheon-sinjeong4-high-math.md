@@ -19,7 +19,7 @@ tags:
   - 백암고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 
 ---
 ## 양천구 신정4동 고등학생, 기초가 흔들린다면

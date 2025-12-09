@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세화여고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0892_MbfoexSDPx0.jpg"
 ---
 
 모의고사 등급이 제자리라면? 취약 유형 집중 공략이 필요합니다.

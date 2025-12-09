@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0475_vlBBuF3Twhk.jpg"
 ---
 
 시험 때만 벼락치기 하고 계신가요?

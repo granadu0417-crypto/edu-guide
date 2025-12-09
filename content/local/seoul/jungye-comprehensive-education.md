@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["중계동", "학원가", "노원교육", "서울교육", "교육특구"]
-featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 ---
 
 "중계동 학원, 가성비 최고라던데 사실인가요?"

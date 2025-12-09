@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0801_RQjVO9KFMUg.jpg"
 
 ---
 ## 종로구 청운효자동 중학생, 영어 수일치가 헷갈린다면

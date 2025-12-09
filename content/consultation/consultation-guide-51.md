@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 ---
 
 ## 공부를 안 하는 것도 아닌데 성적이 제자리예요. 노력하는 만큼 결과가 안 나오니 답답합니다.

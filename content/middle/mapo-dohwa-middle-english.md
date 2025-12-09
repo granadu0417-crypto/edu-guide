@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0894_jvitXXO6KdM.jpg"
 
 ---
 ## 마포구 도화동 중학생, 문법이 헷갈린다면

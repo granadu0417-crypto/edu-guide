@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0795_6SDyqhHb4rg.jpg"
 ---
 ## 종로구 창신1동 중학생, 영어 시제가 헷갈린다면
 

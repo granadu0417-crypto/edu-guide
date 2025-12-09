@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0570_ZsWaYLImZFs.jpg"
 ---
 
 영어 시험을 볼 때 시간이 부족하다면, 독해 속도를 높여야 합니다.

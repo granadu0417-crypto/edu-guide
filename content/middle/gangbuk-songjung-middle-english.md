@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0530_yAzSi3ZXJ64.jpg"
 
 ---
 ## 강북구 송중동 중학생, 문법 규칙이 너무 많아 헷갈리나요?

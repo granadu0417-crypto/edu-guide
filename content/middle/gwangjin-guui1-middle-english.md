@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0763_-lulun7F32c.jpg"
 ---
 ## 광진구 구의1동 중학생, 영어 to부정사의 용법이 헷갈린다면
 

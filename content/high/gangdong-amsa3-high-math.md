@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강동고
   - 천호고
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 ---
 
 쉬운 문제는 풀지만 심화에서 막힌다면? 사고력 확장 훈련이 필요합니다.

@@ -7,7 +7,7 @@ reading_time: "643줄"
 description: "고등학생을 위한 체계적인 독해력 향상 가이드. 구조 파악부터 속독, 핵심 정보 추출까지. 국어·영어 독해 점수를 동시에 올리는 실전 전략."
 categories: ["고등"]
 tags: ["고등독해력", "독해전략", "속독", "국어독해", "영어독해", "수능국어", "수능영어", "독해력향상"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0685_r6zeytfsEIs.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

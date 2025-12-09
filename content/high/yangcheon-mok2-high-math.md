@@ -19,7 +19,7 @@ tags:
   - 강서고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 ---
 ## 양천구 목2동 고등학생, 수학이 급격히 어려워졌다면

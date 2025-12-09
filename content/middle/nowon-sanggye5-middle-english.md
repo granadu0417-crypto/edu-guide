@@ -18,7 +18,7 @@ tags:
   - 노일중
   - 영어기초
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0019_PZAVhoJMWd4.jpg"
 
 ---
 ## 상계5동 중학생, 영어 기초부터 다시 잡고 싶다면

@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1632406898063-9d1a9a8e5f35?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0395__vosoOa-lD4.jpg"
 
 ---
 ## 도봉구 방학3동 중학생, 영어 자신감이 점점 없어지고 있나요?

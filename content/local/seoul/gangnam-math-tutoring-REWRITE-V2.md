@@ -9,7 +9,7 @@ regions:
 cities:
   - 강남구
 tags: ["강남구", "수학과외", "대치동", "압구정", "청담", "수학", "과외선택", "초등수학", "중등수학", "고등수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0324_QBqVONlhr1Y.jpg"
 ---
 
 강남구에서 수학과외를 알아보는 학부모님들이 가장 많이 하시는 질문이 있습니다. "어떤 선생님이 우리 아이에게 맞을까요?"

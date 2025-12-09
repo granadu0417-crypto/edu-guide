@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0716_tgANYv9U10Q.jpg"
 
 ---
 ## 구로구 오류2동 중학생, 기초부터 다시 잡아야 할 것 같나요?

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 오금고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 ---
 
 지수방정식이 까다롭다면? 지수 성질 체계화가 필요합니다.

@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0160_AD7mteun_Qs.jpg"
 ---
 ## 시험이 일주일 남았는데 아직 준비가 부족해요. 지금부터 뭘 해야 하나요?
 

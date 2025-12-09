@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0636_GaUM9PSNcH4.jpg"
 ---
 ## 내신도 해야 하고, 수능도 준비해야 하고, 비교과도 해야 하는데 뭐부터 해야 할지 모르겠어요
 

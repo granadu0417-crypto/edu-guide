@@ -26,7 +26,7 @@ tags:
 - 학습법
 grades:
 - 초등학생
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0133_xY83U6AHXP4.jpg"
 draft: false
 ---
 ## 수학만 나오면 싫다고 하는 아이, 어떻게 해야 할까요?

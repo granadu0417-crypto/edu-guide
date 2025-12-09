@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 서울외국어고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0225_gwfNqfPx9sg.jpg"
 
 ---
 ## 창1동 고등학생, 영어 공부를 어디서부터 시작해야 할지 모르겠나요?

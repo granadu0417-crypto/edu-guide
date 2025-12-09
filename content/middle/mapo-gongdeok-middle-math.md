@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0897_f6PLZoNXweA.jpg"
 
 ---
 ## 마포구 공덕동 중학생, 수학 성적이 고민이라면

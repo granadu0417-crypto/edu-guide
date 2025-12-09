@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 가락고
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0021_1KNAPQ9Oq6k.jpg"
 ---
 
 미분 계산은 맞는데 활용이 안 된다면? 미분 응용력 훈련이 필요합니다.

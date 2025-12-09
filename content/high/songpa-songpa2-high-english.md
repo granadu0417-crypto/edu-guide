@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 송파고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0066_s9CC2SKySJM.jpg"
 ---
 
 관계대명사와 관계부사가 헷갈린다면? 관계사 구별력이 필요합니다.

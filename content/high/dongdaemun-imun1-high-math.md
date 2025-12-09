@@ -18,7 +18,7 @@ tags:
   - 경희고
   - 경희여고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1554118879-bdb1043d9a95?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0260_Wbdfy1HkLY8.jpg"
 
 ---
 ## 동대문구 이문1동 고등학생, 중학교 올라오니 갑자기 수학이 어려워졌나요?

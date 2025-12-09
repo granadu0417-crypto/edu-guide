@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0715_4fR4tXpSSkU.jpg"
 ---
 
 문법 문제에서 자꾸 실수한다면? 문법 정확도 훈련이 필요합니다.

@@ -14,7 +14,7 @@ tags:
 - time
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0420_kGUmNEYaSMY.jpg"
 ---
 
 ## 시간이 부족해서 뒷문제를 못 풀었다고요? 시간 관리가 문제입니다.

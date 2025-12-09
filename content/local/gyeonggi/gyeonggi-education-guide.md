@@ -9,7 +9,7 @@ regions:
 cities:
   - 경기도
 tags: ["경기도", "분당", "평촌", "일산", "동탄", "학군", "교육환경", "신도시", "도서관"]
-featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 ---
 
 경기도는 서울 인접 지역을 중심으로 우수한 교육 환경을 갖춘 도시들이 많습니다. 1기 신도시부터 3기 신도시까지, 각 지역의 특성과 교육 인프라를 상세히 살펴보겠습니다.

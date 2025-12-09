@@ -19,7 +19,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 
 ---
 ## 성북구 정릉2동 고등학생, 단어 암기가 안 된다면

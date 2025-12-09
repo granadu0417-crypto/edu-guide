@@ -17,7 +17,7 @@ tags:
   - 구로고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 ---
 
 영어 공부를 꾸준히 하는데도 성적이 그대로라면, 학습 방법을 점검해야 합니다.

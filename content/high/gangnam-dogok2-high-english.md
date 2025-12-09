@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 ---
 
 순서 배열과 문장 삽입에서 틀린다면? 논리적 글 구조 파악 훈련이 필요합니다.

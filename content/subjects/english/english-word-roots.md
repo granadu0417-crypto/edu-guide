@@ -14,7 +14,7 @@ tags:
 - prefix
 - suffix
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0427_hhUx08PuYpc.jpg"
 ---
 
 ## 단어가 너무 많아서 끝이 없다고요? 어근을 알면 한 번에 여러 개를 외울 수 있습니다.

@@ -10,7 +10,7 @@ tags:
 - 기후
 - 지구과학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0585_okUVwmx7n2I.jpg"
 ---
 
 ## 기후와 날씨의 차이가 뭔지 모르겠고 기후 변화 원인이 복잡하다고요? 개념부터 정리하면 명확해집니다.

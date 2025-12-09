@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 가락시장역
-featured_image: "https://images.unsplash.com/photo-1608970057135-40c5d28f0a28?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 ---
 ## 송파구 가락2동 중학생, 수학 이차방정식의 판별식이 어렵게 느껴진다면

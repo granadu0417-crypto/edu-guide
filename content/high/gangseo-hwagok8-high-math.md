@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 ---
 
 시험 시간이 항상 부족하시나요?

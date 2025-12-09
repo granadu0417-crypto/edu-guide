@@ -18,7 +18,7 @@ tags:
   - 을지중
   - 내신대비
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0010_quZwYcr1upY.jpg"
 
 ---
 ## 중계본동 중학생, 수학 성적 올리고 싶다면 읽어보세요

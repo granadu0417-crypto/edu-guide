@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0417_ObTfaF2hngw.jpg"
 ---
 
 쉬운 문제는 맞는데 어려운 문제를 아예 못 건드린다면? 고난도 접근법 훈련이 필요합니다.

@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 
 ---
 ## 성북구 안암동 고등학생, 문법 적용이 어렵다면

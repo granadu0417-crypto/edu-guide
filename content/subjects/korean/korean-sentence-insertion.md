@@ -10,7 +10,7 @@ tags:
 - 문장삽입
 - 흐름파악
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0490_pGnXCqKNhYA.jpg"
 ---
 
 ## 문장 삽입 문제가 자꾸 틀린다고요? 글의 흐름을 읽는 방법이 있습니다.

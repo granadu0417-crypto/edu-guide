@@ -22,7 +22,7 @@ tags:
   - 양재역
   - 양재시민의숲역
   - 매봉역
-featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0060_7ebCN7FwH3g.jpg"
 ---
 ## 서초구 양재1동 중학생, 영어 문장의 5형식이 헷갈린다면
 

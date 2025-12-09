@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 한영고
   - 상일여고
-featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0393_wFpe6LYz27c.jpg"
 ---
 
 모의고사와 내신 성적 차이가 크다면? 시험 유형별 맞춤 전략이 필요합니다.

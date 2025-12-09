@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습가이드
-featured_image: "https://images.unsplash.com/?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 ---
 ## 실험 보고서, 뭘 어떻게 써야 하는지 모르겠다고요?
 

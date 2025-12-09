@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 증산동 고등학생을 위한 수학과외입니다. 은평고·예일여고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0325_wUU86kym4EA.jpg"
 ---
 
 ## 예일여고 학생들의 수학 고민, 해결해 드립니다

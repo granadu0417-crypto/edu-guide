@@ -17,7 +17,7 @@ tags:
   - 삼성고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0575_Im7lZjxeLhg.jpg"
 ---
 
 모든 학생에게 같은 수업을 하면 효과가 떨어집니다. 나에게 맞는 수업이 필요합니다.

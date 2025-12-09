@@ -18,7 +18,7 @@ tags:
   - 염광여고
   - 내신수능
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0843_hQQbrgB-mfs.jpg"
 
 ---
 ## 공릉1동 고등학생, 영어 1등급이 목표라면

@@ -15,7 +15,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1526925539332-aa3b66e35444?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 ---
 
 ## 시간을 많이 쓰는데 성적이 안 올라요? 시험 때마다 시간이 부족하다고 느끼시죠.

@@ -17,7 +17,7 @@ tags:
 - 교육정보
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0547_TJxotQTUr8o.jpg"
 ---
 
 ## 아이 수학 성적이 걱정되는데 어떻게 도와줘야 할지 모르겠다고요? 직접 가르치자니 싸우게 되고 막막하시죠.

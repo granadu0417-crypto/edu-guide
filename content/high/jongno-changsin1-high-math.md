@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 ---
 
 기본 문제는 맞는데 심화에서 막힌다면? 응용력 강화 훈련이 필요합니다.

@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0739_brgSSy5sAM0.jpg"
 ---
 
 글의 목적이나 분위기 문제에서 자주 틀린다면? 맥락 파악력 훈련이 필요합니다.

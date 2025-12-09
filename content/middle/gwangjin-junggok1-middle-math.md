@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0782_lQGJCMY5qcM.jpg"
 ---
 ## 광진구 중곡1동 중학생, 수학 일차함수 그래프가 헷갈린다면
 

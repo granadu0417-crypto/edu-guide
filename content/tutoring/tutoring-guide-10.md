@@ -12,7 +12,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1639064607632-d75ce59c3d4b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 ---
 
 ## 중학교 내신이 중요하다는데, 과외가 정말 도움이 될까요?

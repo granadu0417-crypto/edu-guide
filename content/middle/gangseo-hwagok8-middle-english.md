@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0658_e_RpjNyMgEM.jpg"
 
 ---
 ## 강서구 화곡8동 중학생, 영어 학원 숙제만 하다가 시간이 다 가나요?

@@ -16,7 +16,7 @@ tags:
 - 고등수학
 - 수능수학
 - 수학원리
-featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0515_MRQFatc33cw.jpg"
 ---
 
 ## 공식은 다 외웠는데 문제에 적용이 안 된다고요? 개념을 어떻게 이해해야 하는지 모르겠다고 느끼시죠.

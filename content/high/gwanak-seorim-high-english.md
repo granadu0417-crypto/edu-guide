@@ -17,7 +17,7 @@ tags:
   - 삼성고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0574_8vn4KvfU640.jpg"
 ---
 
 영어 공부를 열심히 하는데 성적이 안 오른다면, 방법을 바꿔야 할 때입니다.

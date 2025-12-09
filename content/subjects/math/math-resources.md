@@ -17,7 +17,7 @@ tags:
 - 참고서
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0554_eqtDywtlAzY.jpg"
 ---
 
 ## 수학 교재가 너무 많아서 뭘 골라야 할지 모르겠다고요? 인강도 앱도 많은데 어떤 게 효과 있는지 궁금하시죠.

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0413_HaU6PimvBQw.jpg"
 
 ---
 ## 도봉구 쌍문2동 중학생, 단어는 외워도 문장이 해석이 안 되나요?

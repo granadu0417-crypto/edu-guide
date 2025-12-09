@@ -13,7 +13,7 @@ tags:
 - 발음
 - 자신감
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 ---
 
 ## 영어로 말하려고 하면 긴장된다고요? 문법은 아는데 막상 말이 안 나온다고요.

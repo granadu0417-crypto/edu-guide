@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "은평구 불광2동 중학생을 위한 수학과외입니다. 불광중·연신중·연천중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1570063578733-6a33b69d1439?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 ---
 
 ## 중학교 수학, 고등학교의 기초입니다

@@ -20,7 +20,7 @@ tags:
   - 개원중
   - 영어문법
   - GBC
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0610__DuPFcCEYA0.jpg"
 
 ---
 ## 강남구 삼성2동 중학생, 영어 시제 일치가 어렵다면

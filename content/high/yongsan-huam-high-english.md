@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "용산구 후암동 고등학생을 위한 영어과외입니다. 용산고·보성여고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 ---
 
 ## 영어 포기는 아직 이릅니다

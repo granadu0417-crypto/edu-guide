@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0760_gKUC4TMhOiY.jpg"
 
 ---
 ## 관악구 신원동 중학생, 수학 점수 80점의 벽을 못 넘고 있나요?

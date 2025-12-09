@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1597462036098-7ce66b1c43ad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 
 ---
 ## 강북구 수유3동 중학생, 영어 단어 암기가 너무 힘드나요?

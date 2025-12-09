@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0560_nqI3t8M3qcI.jpg"
 ---
 
 영어 공부를 열심히 하는데 성적이 안 오른다면, 공부 방법을 점검해 봐야 합니다.

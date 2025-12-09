@@ -9,7 +9,7 @@ regions:
 cities:
   - 강남구
 tags: ["강남구", "수학과외", "대치동", "압구정", "청담", "수학", "과외후기", "초등수학", "중등수학", "고등수학", "수능수학", "학부모후기"]
-featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0325_wUU86kym4EA.jpg"
 ---
 
 강남에서 아이 키우는 학부모라면 한 번쯤 고민하셨죠? "우리 애, 수학 과외 시켜야 할까?"

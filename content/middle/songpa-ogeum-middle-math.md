@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 오금역
-featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 
 ---
 ## 송파구 오금동 중학생, 수학 닮음비와 넓이비 관계가 헷갈린다면

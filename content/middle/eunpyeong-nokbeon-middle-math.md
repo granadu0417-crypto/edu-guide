@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "은평구 녹번동 중학생을 위한 수학과외입니다. 불광중·연신중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0503_9o8YdYGTT64.jpg"
 ---
 
 ## 연신내 학원가, 그래도 성적이 안 오른다면?

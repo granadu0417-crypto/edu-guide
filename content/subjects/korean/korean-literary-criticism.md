@@ -11,7 +11,7 @@ tags:
 - 비평이론
 - 문학해석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1563089145-599997674d42?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0463_Y1f0_a_IvSo.jpg"
 ---
 
 ## 문학 비평이 뭔지 감이 안 온다고요? 비평의 관점을 알면 이해가 쉬워집니다.

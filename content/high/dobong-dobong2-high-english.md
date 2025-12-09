@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 도봉고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0237_AfSVEnEj4K0.jpg"
 
 ---
 ## 도봉2동 고등학생, 관계대명사만 나오면 문장이 꼬이나요?

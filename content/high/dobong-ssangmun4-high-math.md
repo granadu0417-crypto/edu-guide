@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 서라벌고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0246_K71qn-MApdk.jpg"
 
 ---
 ## 쌍문4동 고3, 수능까지 시간이 얼마 안 남았는데 어떻게 해야 하나요?

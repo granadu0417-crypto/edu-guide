@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1634228773762-dfb2e9a6c1e7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0441_zMi-TPQlmeA.jpg"
 
 ---
 ## 동대문구 전농1동 중학생, 영어 서술형에서 감점이 많나요?

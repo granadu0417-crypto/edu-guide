@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 서라벌고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0245_Uqhxxg6LHuw.jpg"
 
 ---
 ## 도봉구 쌍문4동 고등학생, 영어 시험 시간이 항상 부족한가요?

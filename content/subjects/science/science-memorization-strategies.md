@@ -18,7 +18,7 @@ tags:
 - 과학용어
 - 개념암기
 - 장기기억
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 ---
 
 과학 암기 과목은 단순 암기가 아닙니다. 이해와 암기를 함께해야 진짜 실력이 됩니다. 이 글에서는 생물, 지구과학 등 암기가 많은 과학 과목을 효과적으로 정복하는 모든 전략을 안내합니다.

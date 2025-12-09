@@ -19,7 +19,7 @@ tags:
 - 강동
 - 강북
 - 강서
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0301_NwM9eZzpBPM.jpg"
 ---
 
 ## 학원이 너무 많아서 어떤 학원을 보내야 할지 모르겠어요. 우리 아이에게 맞는 학원은 어떻게 찾나요?

@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0743_yCjGVz8ToCM.jpg"
 ---
 
 지문은 다 읽었는데 시간이 부족한 경험, 있으신가요? 속독 능력을 키워야 합니다.

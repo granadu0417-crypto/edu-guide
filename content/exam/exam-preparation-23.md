@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0161_GMY1JbRHlB0.jpg"
 ---
 ## 내일이 시험인데 긴장돼서 잠이 안 와요. 어떻게 해야 하죠?
 

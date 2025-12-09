@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 개념실전
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0880_C4EphYa7EDA.jpg"
 
 ---
 ## 월계3동 고등학생, 수학 개념과 실전 모두 잡고 싶다면

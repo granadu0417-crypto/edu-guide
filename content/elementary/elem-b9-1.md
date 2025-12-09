@@ -13,7 +13,7 @@ tags:
 - 창의력
 - 초등1학년
 - 초등교육
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 ---
 ## 내년에 초등학교 들어가는데, 뭘 준비해야 할지 막막하시죠?
 

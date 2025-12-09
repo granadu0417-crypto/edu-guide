@@ -19,7 +19,7 @@ tags:
   - 윤중중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0312_WIF-497cRec.jpg"
 
 ---
 ## 영등포구 여의동 중학생, 내신 관리가 필요하다면

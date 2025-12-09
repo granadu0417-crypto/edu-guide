@@ -18,7 +18,7 @@ tags:
   - 한천중
   - 맞춤수업
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0998_ppeg9hVJvUc.jpg"
 
 ---
 ## 공릉2동 중학생, 나에게 맞는 수학 공부가 필요하다면

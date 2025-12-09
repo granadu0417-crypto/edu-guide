@@ -8,7 +8,7 @@ regions:
 cities:
   - 강북구
 tags: ["강북구", "수학과외", "수유동", "미아동", "번동", "수학", "과외", "국민대", "성신여대", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1490633874781-1c63cc424610?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 ---
 
 "강북구에서 수학 잘하는 선생님 만나기 어렵겠죠?"

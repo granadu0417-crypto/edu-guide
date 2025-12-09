@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0472_YQeaFRCB7f0.jpg"
 ---
 
 내신과 수능, 둘 다 잡을 수 있을까요?

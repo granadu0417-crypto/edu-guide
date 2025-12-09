@@ -19,7 +19,7 @@ tags:
   - 선유고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0140__PXtCCQ4Dj0.jpg"
 
 ---
 ## 영등포구 영등포동 고등학생, 수학이 급격히 힘들어졌다면

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서문여고
   - 서울고
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0886_UyVbyimlAgE.jpg"
 ---
 
 빈칸 추론 정답률이 낮다면? 문맥 추론 능력을 길러야 합니다.

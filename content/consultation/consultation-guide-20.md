@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 ---
 
 ## 주변에서 다들 학원 보내는데, 우리 아이한테 맞는 학원은 어떻게 찾을 수 있을까요?

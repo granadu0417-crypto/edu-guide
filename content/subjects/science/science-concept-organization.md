@@ -10,7 +10,7 @@ tags:
 - 과학공부법
 - 개념정리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0587_uSoXP5XLC8g.jpg"
 ---
 
 ## 과학 개념이 정리가 안 되고 시험 때마다 새로운 것 같다고요? 체계적인 정리 방법이 있습니다.

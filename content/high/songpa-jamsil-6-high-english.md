@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 ---
 
 논리적 흐름 문제에서 자주 틀린다면? 텍스트 구조 분석력이 필요합니다.

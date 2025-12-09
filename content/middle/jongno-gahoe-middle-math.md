@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0804_phwRbHF6T8Q.jpg"
 
 ---
 ## 종로구 가회동 중학생, 수학 다항식의 곱셈이 어렵다면

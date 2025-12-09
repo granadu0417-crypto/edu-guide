@@ -12,7 +12,7 @@ keywords: ["서초구 중등영어", "내곡동 영어과외", "내곡중 내신
 
 tags:
   - naegok동
-featured_image: "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 ---
 ## 서초구 내곡동 중학생, 영어 가정법이 헷갈린다면
 

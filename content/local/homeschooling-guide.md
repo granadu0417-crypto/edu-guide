@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "홈스쿨링(재택 교육) 완벽 가이드입니다. 법적 지위, 장단점, 시작 방법, 교육과정 구성, 학력 인정, 검정고시까지 홈스쿨링의 모든 것을 안내합니다."
 tags: ["홈스쿨링", "재택교육", "대안교육", "검정고시", "홈스쿨교육과정", "자녀교육", "언스쿨링", "홈에듀케이션"]
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 ---
 
 ## 학교를 안 보내도 괜찮을까요? 홈스쿨링을 고민하지만 어디서부터 시작해야 할지 막막하시죠.

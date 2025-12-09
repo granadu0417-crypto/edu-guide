@@ -18,7 +18,7 @@ tags:
   - 봉영여중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1602052577122-f73b9710adba?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0261_7yNQAt5Gw2A.jpg"
 
 ---
 ## 양천구 신정7동 중학생, 학원에서 효과를 못 봤다면

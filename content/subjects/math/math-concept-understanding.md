@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0516_q1ipmLsJJsk.jpg"
 ---
 
 ## 개념을 읽어도 무슨 말인지 모르겠다고요? 공식만 외워서는 왜 이해가 안 되는지 답답하시죠.

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 과외와 학원, 어느 것이 더 좋을까요? 내신·수능·수시·정시별 장단점부터 선택 기준까지 완벽 비교 가이드입니다."
 tags: ["고등과외", "고등학원", "과외vs학원", "1:1과외", "학원선택", "내신관리", "수능대비"]
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 ---
 
 ## 고등학교 가니까 학원도 다니고 과외도 받으라는데, 둘 다 하면 비용도 시간도 너무 많이 들어요. 어떻게 해야 하나요?

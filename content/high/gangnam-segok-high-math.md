@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세곡고
   - 보성고
-featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0437_VieM9BdZKFo.jpg"
 ---
 
 시험 시간 내에 다 못 푼다면? 시간 배분 전략 훈련이 필요합니다.

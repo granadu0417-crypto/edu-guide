@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0070_zFSo6bnZJTw.jpg"
 
 ---
 ## 서대문구 천연동 중학생, 영어가 어렵게 느껴진다면

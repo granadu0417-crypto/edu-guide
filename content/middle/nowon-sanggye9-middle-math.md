@@ -18,7 +18,7 @@ tags:
   - 청원중
   - 학습관리
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 
 ---
 ## 상계9동 중학생, 수학 공부를 체계적으로 하고 싶다면

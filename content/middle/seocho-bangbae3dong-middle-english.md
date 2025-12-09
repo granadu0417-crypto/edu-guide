@@ -22,7 +22,7 @@ tags:
   - 이수역
   - 방배역
   - 낙성대역
-featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 ---
 ## 서초구 방배3동 중학생, 영어 관계부사가 어렵다면
 

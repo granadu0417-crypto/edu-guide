@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0735_2LJ4rqK2qfU.jpg"
 ---
 
 듣기는 만점인데 독해에서 점수가 떨어진다면? 읽기 집중력 훈련이 필요합니다.

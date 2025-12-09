@@ -16,7 +16,7 @@ tags:
 - 데이터분석
 - 과학탐구
 - 과학
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0611_28TnM-iVMHw.jpg"
 ---
 
 ## 실험 보고서 작성이 막막하고 고찰 부분이 특히 어렵다고요? 실험의 흐름을 따라가면 됩니다.

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0729_55kahJHpI7M.jpg"
 
 ---
 ## 관악구 행운동 중학생, 영어 공부 방법을 몰라 답답한가요?

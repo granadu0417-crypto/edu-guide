@@ -19,7 +19,7 @@ tags:
 - 영어문법
 - 영어독해
 - 일원주거단지
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0602_xFnsab9WOd4.jpg"
 
 ---
 ## 강남구 일원본동 중학생, 영어 비교급과 최상급이 헷갈린다면

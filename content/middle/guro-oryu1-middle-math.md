@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 
 ---
 ## 구로구 오류1동 중학생, 함수가 나오면서 수학이 싫어졌나요?

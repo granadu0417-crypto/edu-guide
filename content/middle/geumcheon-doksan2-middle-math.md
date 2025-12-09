@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0671_ORzZtY2i50k.jpg"
 
 ---
 ## 금천구 독산2동 중학생, 개념은 아는 것 같은데 응용이 안 되나요?

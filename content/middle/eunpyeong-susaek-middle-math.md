@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "은평구 수색동 중학생을 위한 수학과외입니다. 증산중·연서중·상신중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0509_AvmWvuseawE.jpg"
 ---
 
 ## 수학 기초가 부족하다고 느끼신다면

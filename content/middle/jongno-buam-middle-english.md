@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0793_aj3C4f6T8fA.jpg"
 ---
 ## 종로구 부암동 중학생, 영어 조동사가 헷갈린다면
 

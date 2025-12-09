@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 ---
 
 ## 온라인 수업만 들으면 집중을 못 하고 다른 짓만 해요. 원격 학습 효과를 어떻게 높일 수 있을까요?

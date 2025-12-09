@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1558403194-611308249627?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0432_q10VITrVYUM.jpg"
 
 ---
 ## 동대문구 이문1동 중학생, 중학교 올라오니 갑자기 수학이 어려워졌나요?

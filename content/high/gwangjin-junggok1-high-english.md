@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0604_fvT3t9iOaJI.jpg"
 ---
 
 지문은 읽었는데 문제를 풀면 헷갈리는 경험, 있으신가요? 정답 근거를 찾는 훈련이 필요합니다.

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 창동고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 
 ---
 ## 창4동 고등학생, 영어 본문 암기가 힘드나요?

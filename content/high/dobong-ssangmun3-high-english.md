@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 서라벌고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0243_M6EjyS2K7tU.jpg"
 
 ---
 ## 쌍문3동 고등학생, 문법 규칙이 너무 많아서 헷갈리나요?

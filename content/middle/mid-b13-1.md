@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0934_5uDpj9z3WsY.jpg"
 ---
 ## 성적이 오르지 않아 답답하시죠?
 

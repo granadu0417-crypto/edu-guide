@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0645_-8atMWER8bI.jpg"
 ---
 
 ## 절대왕정 시대 국왕들이 헷갈리고 각국 상황 비교가 어렵다고요? 왕권 강화의 배경부터 이해하면 됩니다.

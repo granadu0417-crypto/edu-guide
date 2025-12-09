@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "용산구 용문동 고등학생을 위한 수학과외입니다. 성심여고·배문고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 ---
 
 ## 내신과 수능, 둘 다 잡아야 합니다

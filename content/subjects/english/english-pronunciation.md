@@ -13,7 +13,7 @@ tags:
 - 강세
 - 억양
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1550432163-9cb326104944?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0404_WzhRnBQY9es.jpg"
 ---
 
 ## R과 L 발음 구별이 안 된다고요? 연음이 뭔지 모르겠다고요.

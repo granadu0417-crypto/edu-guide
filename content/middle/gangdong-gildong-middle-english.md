@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 ---
 ## 강동구 길동 중학생, 영어 조동사 will, can, may가 헷갈린다면
 

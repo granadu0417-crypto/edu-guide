@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "용산구 원효로2동 중학생을 위한 영어과외입니다. 성심여중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0339_1_CMoFsPfso.jpg"
 ---
 
 ## 중학교 영어 내신, 확실히 잡아드립니다

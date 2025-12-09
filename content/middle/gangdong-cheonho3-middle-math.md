@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0551_kZO9xqmO_TA.jpg"
 ---
 ## 강동구 천호3동 중학생, 수학 도형의 넓이 공식이 안 외워진다면
 

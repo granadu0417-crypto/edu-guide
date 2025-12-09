@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0655_mNY_-DvKisc.jpg"
 ---
 ## 고등학교 들어오니까 뭐가 뭔지 모르겠어요. 어디서부터 시작해야 하나요?
 

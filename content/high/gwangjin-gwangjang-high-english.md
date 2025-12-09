@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광남고
-featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0592_OJRjokMYr2k.jpg"
 ---
 
 영어 지문이 길어지면 집중이 흐트러지나요? 훈련 방식을 바꾸면 달라집니다.

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 신일고
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 ---
 
 해석은 되는데 빈칸 문제가 안 풀리시나요?

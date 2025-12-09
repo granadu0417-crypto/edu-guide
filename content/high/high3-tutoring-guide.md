@@ -7,7 +7,7 @@ reading_time: "1017줄"
 description: "고3 과외, 어떻게 해야 할까요? 수능 D-Day까지 시기별 전략, 정시·수시 병행, 멘탈 관리부터 마지막 스퍼트까지 완벽 가이드입니다."
 categories: ["고등학생", "과외"]
 tags: ["고3과외", "수험생과외", "수능과외", "정시대비", "수시원서", "재수생", "N수생"]
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0710_N-2rrerXzxw.jpg"
 draft: false
 ---
 ## 고3인데 성적이 안 오르고 시간만 가요. 지금이라도 과외 시작하면 효과 있을까요?

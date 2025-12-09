@@ -10,7 +10,7 @@ tags:
 - 수능국어
 - 대학수학능력시험
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0443_Hb6uWq0i4MI.jpg"
 ---
 
 ## 수능 국어가 너무 어렵다고요? 전략적으로 접근하면 고득점이 가능합니다.

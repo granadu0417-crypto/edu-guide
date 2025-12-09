@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 개포주거단지
-featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0592_OJRjokMYr2k.jpg"
 
 ---
 ## 강남구 개포1동 중학생, 영어 관계대명사가 어렵다면

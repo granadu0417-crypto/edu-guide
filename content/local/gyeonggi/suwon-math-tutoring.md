@@ -9,7 +9,7 @@ regions:
 cities:
   - 수원시
 tags: ["수원수학과외", "매산로수학과외", "수원초등수학", "수원중등수학", "수원고등수학", "경기수학과외"]
-featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0269_XckdW-FViuM.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

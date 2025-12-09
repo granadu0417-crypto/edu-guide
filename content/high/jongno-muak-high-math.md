@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0734_C7eQtdkINpc.jpg"
 ---
 
 삼각함수 공식이 자꾸 헷갈린다면? 삼각함수 체계화 훈련이 필요합니다.

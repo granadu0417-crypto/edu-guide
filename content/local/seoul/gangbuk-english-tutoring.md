@@ -8,7 +8,7 @@ regions:
 cities:
   - 강북구
 tags: ["강북구", "영어과외", "수유동", "미아동", "번동", "영어", "과외", "국민대", "성신여대", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 ---
 
 "강북구에서 영어 잘하는 선생님 만나기 어렵겠죠?"

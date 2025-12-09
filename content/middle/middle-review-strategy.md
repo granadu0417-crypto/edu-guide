@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 복습 완벽 전략 | 1:1 맞춤 지도, 당일·주간·월간 복습 [2025년]"
 tags: ["중학생", "복습", "반복학습", "효율", "기억", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 ---
 
 ## 복습을 해야 한다는 건 알지만 어떻게 해야 효율적인지 모르겠어요

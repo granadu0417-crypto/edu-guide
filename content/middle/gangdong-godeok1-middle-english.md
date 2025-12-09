@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0560_nqI3t8M3qcI.jpg"
 
 ---
 ## 강동구 고덕1동 중학생, 영어 시험만 보면 긴장돼서 실수한다면

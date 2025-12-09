@@ -18,7 +18,7 @@ tags:
   - 영등포여고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0123_dg3OIYUL2WQ.jpg"
 
 ---
 ## 영등포구 신길3동 고등학생, 학원에서 효과가 없었다면

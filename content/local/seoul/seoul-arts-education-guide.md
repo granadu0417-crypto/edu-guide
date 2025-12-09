@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["예체능교육", "음악학원", "미술학원", "체육학원", "예술고", "예체능입시", "특기", "서울교육"]
-featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0364_5QgIuuBxKwM.jpg"
 ---
 
 "우리 아이 예체능 재능을 키워주고 싶은데, 어디서부터 시작해야 할까요?"

@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 ---
 ## 성북구 장위3동 고등학생, 문장 해석이 어렵다면

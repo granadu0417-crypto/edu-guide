@@ -19,7 +19,7 @@ tags:
   - 영남중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 
 ---
 ## 영등포구 대림3동 중학생, 혼자 공부가 어렵다면

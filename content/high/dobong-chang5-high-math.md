@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 창동고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0234_wX5DqDi3iE4.jpg"
 
 ---
 ## 창5동 고등학생, 기본 문제는 되는데 심화가 안 풀리나요?

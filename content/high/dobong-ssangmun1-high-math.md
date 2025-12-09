@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 서라벌고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 
 ---
 ## 쌍문1동 고등학생, 내신이랑 수능 둘 다 잡을 수 있을까요?

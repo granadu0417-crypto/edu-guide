@@ -10,7 +10,7 @@ tags:
 - 로마자
 - 표기법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 ---
 
 ## 로마자 표기법이 헷갈리고 규칙이 복잡하다고요? 원리를 알면 명확해집니다.

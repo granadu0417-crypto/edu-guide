@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 ---
 
 ## 해류의 흐름이 복잡하고 조석 현상이 헷갈린다고요? 바닷물의 특성부터 이해하면 됩니다.

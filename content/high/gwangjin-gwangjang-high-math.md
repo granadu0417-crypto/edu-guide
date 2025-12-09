@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광남고
-featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0593_gkiZ-F3yPiY.jpg"
 ---
 
 공부 시간은 늘었는데 점수는 그대로인가요? 수학은 효율적인 방법이 필요합니다.

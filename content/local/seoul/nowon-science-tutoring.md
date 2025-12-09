@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["노원구", "과학과외", "중계동", "상계동", "하계동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0353_OspMUpCBeqQ.jpg"
 ---
 
 "과학 과외, 비용 부담 없이 좋은 선생님 찾을 수 있을까요?"

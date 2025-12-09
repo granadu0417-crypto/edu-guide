@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 천호고
   - 강동고
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 ---
 
 선생님 설명은 알겠는데 혼자 못 푼다면? 자기주도 문제 해결력 훈련이 필요합니다.

@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 송파나루역
-featured_image: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0221_PYVZPTgXBZ0.jpg"
 
 ---
 ## 송파구 송파2동 중학생, 영어 동명사의 용법이 헷갈린다면

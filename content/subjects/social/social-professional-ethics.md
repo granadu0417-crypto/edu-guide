@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0700_Zww0wvbcy8Y.jpg"
 ---
 
 ## 직업인의 책임과 윤리가 헷갈리고 직업윤리 문제가 복잡하다고요? 직업의 의미와 직업윤리의 원칙부터 파악하면 됩니다.

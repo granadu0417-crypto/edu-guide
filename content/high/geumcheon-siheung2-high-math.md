@@ -18,7 +18,7 @@ tags:
   - 동일여고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0505_ymVaGKsBQXM.jpg"
 ---
 
 개념은 아는 것 같은데 문제가 안 풀린다면, 개념을 적용하는 연습이 부족한 것입니다.

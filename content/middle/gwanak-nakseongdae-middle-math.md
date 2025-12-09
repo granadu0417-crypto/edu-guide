@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0740_b28quyxFrI0.jpg"
 
 ---
 ## 관악구 낙성대동 중학생, 수학 자신감이 바닥을 치고 있나요?

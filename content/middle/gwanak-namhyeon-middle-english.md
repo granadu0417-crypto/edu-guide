@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0741_06CE33PclHg.jpg"
 
 ---
 ## 관악구 남현동 중학생, 리스닝은 되는데 독해에서 점수를 잃나요?

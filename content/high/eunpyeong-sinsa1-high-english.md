@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "은평구 신사1동 고등학생을 위한 영어과외입니다. 은평고·예일여고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0330_K0ubXXQqR-E.jpg"
 ---
 
 ## 은평고 영어 내신, 확실히 잡아드립니다

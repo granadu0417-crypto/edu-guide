@@ -19,7 +19,7 @@ tags:
 - 수학개념
 - 수학심화
 - 수서교통요지
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 
 ---
 ## 강남구 수서동 중학생, 수학 이차함수 그래프의 꼭짓점이 헷갈린다면

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 마천역
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 ---
 ## 송파구 거여1동 중학생, 수학 지수법칙이 헷갈린다면

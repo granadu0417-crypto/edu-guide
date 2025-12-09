@@ -18,7 +18,7 @@ tags:
   - 영남중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1602052577122-f73b9710adba?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0280_2eM_-v2o0Ik.jpg"
 
 ---
 ## 영등포구 대림2동 중학생, 다음 시험에 승부를 걸어야 한다면

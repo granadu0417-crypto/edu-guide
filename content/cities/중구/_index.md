@@ -17,7 +17,7 @@ tags:
   - 중등과외
   - 내신관리
   - 수능대비
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 ---
 
 ## 중구 고등학생 과외 안내

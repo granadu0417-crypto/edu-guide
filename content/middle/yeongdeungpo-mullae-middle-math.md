@@ -18,7 +18,7 @@ tags:
   - 문래중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 
 ---
 ## 영등포구 문래동 중학생, 수학 흥미가 떨어졌다면

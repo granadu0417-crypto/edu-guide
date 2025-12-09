@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 
 ---
 ## 성북구 삼선동 고등학생, 수학이 갑자기 버거워졌다면

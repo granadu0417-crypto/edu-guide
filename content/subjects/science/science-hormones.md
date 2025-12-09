@@ -10,7 +10,7 @@ tags:
 - 호르몬
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 ---
 
 ## 호르몬 종류가 많아서 헷갈리고 피드백 조절이 어렵다고요? 분비 기관별로 정리하면 됩니다.

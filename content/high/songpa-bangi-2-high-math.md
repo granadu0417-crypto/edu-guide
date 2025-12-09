@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 창덕여고
   - 서울체육고
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0019_PZAVhoJMWd4.jpg"
 ---
 
 함수 그래프 그리기가 막막하다면? 그래프 직관력 훈련이 필요합니다.

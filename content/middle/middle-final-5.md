@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 ---
 ## 수학은 어디서부터 무너지기 시작했을까요?
 

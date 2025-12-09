@@ -15,7 +15,7 @@ tags:
 - infinitive
 - gerund
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 ---
 
 ## to V와 V-ing 중 뭘 써야 하는지 모르겠다고요? remember to call과 remember calling이 다르다는데 헷갈리시죠.

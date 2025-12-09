@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1531591022136-eb8b0da1e6d0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0946_E6rHg7X5Ybg.jpg"
 
 ---
 ## 성북구 동선동 고등학생, 내신 등급이 떨어졌다면

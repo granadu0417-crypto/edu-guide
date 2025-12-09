@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0457_5KPA4nFtHbU.jpg"
 
 ---
 ## 동작구 사당2동 중학생, 영어 서술형에서 감점이 많나요?

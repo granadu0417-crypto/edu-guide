@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세화고
   - 반포고
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0901__E9nefvfSSE.jpg"
 ---
 
 쉬운 문제에서 점수를 잃는다면? 실수 방지 체크리스트를 만들어야 합니다.

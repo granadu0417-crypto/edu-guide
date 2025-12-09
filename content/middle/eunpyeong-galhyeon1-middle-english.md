@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "은평구 갈현1동 중학생을 위한 영어과외입니다. 선정중·대성중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0492_4nKOEAQaTgA.jpg"
 ---
 
 ## 명문 사립 영어, 준비되셨나요?

@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0844_rKuWB69j9W8.jpg"
 
 ---
 ## 중구 중림동 중학생, 수학 등식의 변형이 어렵다면

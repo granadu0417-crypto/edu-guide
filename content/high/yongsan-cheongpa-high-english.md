@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "용산구 청파동 고등학생을 위한 영어과외입니다. 신광여고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0145_eKBWFd47Lg8.jpg"
 ---
 
 ## 영어 성적 정체기를 겪고 계신가요?

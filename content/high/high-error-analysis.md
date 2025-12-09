@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 체계적인 오답 분석 시스템. 단순 정답 확인을 넘어 틀린 이유 분석부터 유사 문제 정복까지. 오답 노트로 약점을 강점으로 바꾸는 전략."
 tags: ["고등오답분석", "오답노트", "문제풀이전략", "성적향상", "학습전략", "수능대비", "내신대비", "약점극복"]
-featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0652_xNkrL_dc9oc.jpg"
 ---
 
 ## 같은 유형 문제를 또 틀렸어요. 분명히 공부했는데 왜 계속 틀리는 걸까요?

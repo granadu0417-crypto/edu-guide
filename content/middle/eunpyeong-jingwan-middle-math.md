@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "은평구 진관동 중학생을 위한 수학과외입니다. 진관중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1590402494610-2c378a9114c6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0501_9x-E8o8SaNY.jpg"
 ---
 
 ## 은평뉴타운의 교육열, 수학으로 시작합니다

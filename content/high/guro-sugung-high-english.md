@@ -18,7 +18,7 @@ tags:
   - 우신고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0542_u0zTce7KNlY.jpg"
 ---
 
 영어 지문이 길어지면 집중력이 떨어진다면, 독해 훈련이 필요합니다.

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0754_sUU5rv3n9sw.jpg"
 
 ---
 ## 관악구 서원동 중학생, 그래프 문제만 나오면 막막한가요?

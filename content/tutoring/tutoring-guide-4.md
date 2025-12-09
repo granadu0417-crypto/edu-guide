@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0976_uwNceBkSV3U.jpg"
 ---
 
 ## 수학 공식은 알겠는데 문제가 안 풀려요. 과외를 받으면 나아질까요?

@@ -17,7 +17,7 @@ tags:
   - 삼성고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0577_Kn_l9o5220Y.jpg"
 ---
 
 수학 시험을 보고 나면 아는 문제를 틀렸다는 생각이 드시나요? 실수가 아니라 실력 문제입니다.

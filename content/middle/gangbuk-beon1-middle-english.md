@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1620325867502-221cfb5faa5f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0514_M3lq6tdHMj8.jpg"
 
 ---
 ## 강북구 번1동 중학생, 영어 때문에 전체 등급이 낮아지고 있나요?

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0359_3Qys6LzrXu0.jpg"
 ---
 
 시험 범위는 다 공부했는데 왜 예상 못한 문제가 나올까요?

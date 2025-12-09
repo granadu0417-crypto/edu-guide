@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 성내고
   - 천호고
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0397_omeaHbEFlN4.jpg"
 ---
 
 쉬운 계산에서 실수가 잦다면? 연산 정확도 훈련이 필요합니다.

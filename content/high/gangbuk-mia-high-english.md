@@ -19,7 +19,7 @@ tags:
   - 솔샘고
   - 신일고
   - 창문여고
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 ---
 
 단어는 열심히 외우는데 왜 독해가 안 될까요?

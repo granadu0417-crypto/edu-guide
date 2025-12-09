@@ -19,7 +19,7 @@ tags:
   - 대영중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0302_PIOBX4_B9XU.jpg"
 
 ---
 ## 영등포구 신길7동 중학생, 도형 파트가 어렵다면

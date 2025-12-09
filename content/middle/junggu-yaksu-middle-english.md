@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0855_eeGPD_ESYMA.jpg"
 
 ---
 ## 중구 약수동 중학생, 영어 관계대명사 what이 어렵다면

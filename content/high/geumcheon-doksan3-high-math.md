@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0497_7QpWUqc9ahw.jpg"
 ---
 
 문제를 보면 어떻게 풀어야 할지 막막하다면, 접근법을 모르는 것입니다.

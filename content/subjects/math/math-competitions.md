@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "국내외 주요 수학 대회를 총정리했습니다. 대회 정보부터 준비 전략까지, 1:1 과외 전문가가 알려드리는 수학 대회 완벽 가이드입니다."
 tags: ["수학대회", "경시대회", "올림피아드", "1:1과외", "수상전략", "대회정보", "입시스펙"]
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0512_3Oo24ExxTn8.jpg"
 ---
 
 ## 수학 대회에 도전하고 싶은데 어떤 대회가 있는지 모르겠다고요? 준비는 어떻게 해야 하는지도 궁금하시죠.

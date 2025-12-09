@@ -15,7 +15,7 @@ tags:
   - 수능수학
   - 내신대비
 description: "중랑구 면목3·8동 고등학생을 위한 1:1 맞춤 수학과외. 면목고 내신 완벽 대비, 수능 수학까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0790_JeInkKlI2Po.jpg"
 ---
 
 면목고 수학 내신, 어렵기로 유명합니다. 철저한 대비가 필요합니다.

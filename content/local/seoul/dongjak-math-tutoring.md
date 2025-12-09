@@ -8,7 +8,7 @@ regions:
 cities:
   - 동작구
 tags: ["동작구", "수학과외", "사당동", "노량진", "상도동", "수학", "과외", "중앙대", "숭실대", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1460518451285-97b6aa326961?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0314_BcEmfG0xKrc.jpg"
 ---
 
 "노량진 학원가가 가까우니까 과외 안 해도 되겠죠?"

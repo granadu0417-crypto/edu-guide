@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 천호고
   - 성내고
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0371_w9i7wMaM3EE.jpg"
 ---
 
 시험지를 받으면 머리가 새하얘진다면? 실전 심리 훈련이 필요합니다.

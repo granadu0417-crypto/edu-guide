@@ -11,7 +11,7 @@ tags:
 - 실전연습
 - 수능대비
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0469_GCoGY0_IBts.jpg"
 ---
 
 ## 모의고사 점수가 들쭉날쭉하다고요? 효과적인 활용 방법이 있습니다.

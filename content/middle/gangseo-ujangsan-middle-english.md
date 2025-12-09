@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0664_k60YOEjB75k.jpg"
 
 ---
 ## 강서구 우장산동 중학생, 관계대명사가 나오면서 포기하고 싶어졌나요?

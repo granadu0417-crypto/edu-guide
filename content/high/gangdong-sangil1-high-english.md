@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 한영고
   - 상일여고
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0392_Quy_k-l8zRY.jpg"
 ---
 
 가정법이 헷갈린다면? 가정법 완벽 정리가 필요합니다.

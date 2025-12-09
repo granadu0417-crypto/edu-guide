@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "은평구 대조동 중학생을 위한 영어과외입니다. 동명여중·구산중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0484_e3R4lxISkeA.jpg"
 ---
 
 ## 영어 자신감을 키워드립니다

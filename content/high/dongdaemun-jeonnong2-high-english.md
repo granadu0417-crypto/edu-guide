@@ -18,7 +18,7 @@ tags:
   - 해성여고
   - 청량고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0271_CL9OLZqPdus.jpg"
 
 ---
 ## 동대문구 전농2동 고등학생, 독해 지문을 읽어도 내용 파악이 안 되나요?

@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0948_FG15xOczy78.jpg"
 ---
 ## 3년 안에 대학이 결정됩니다, 중학교가 그 시작입니다
 

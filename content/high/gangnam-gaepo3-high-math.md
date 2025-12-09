@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0421_InbrvPARzM4.jpg"
 ---
 
 문제를 끝까지 읽지 않고 풀어서 틀린다면? 문제 파악력 훈련이 필요합니다.

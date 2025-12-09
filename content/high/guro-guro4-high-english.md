@@ -17,7 +17,7 @@ tags:
   - 구로고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0530_yAzSi3ZXJ64.jpg"
 ---
 
 영어 지문을 읽는데 시간이 오래 걸린다면, 독해 훈련이 필요합니다.

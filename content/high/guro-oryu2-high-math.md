@@ -16,7 +16,7 @@ tags:
   - 고척고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 ---
 
 다른 학생과 같은 수업을 받을 필요가 없습니다. 나에게 맞는 수업이 필요합니다.

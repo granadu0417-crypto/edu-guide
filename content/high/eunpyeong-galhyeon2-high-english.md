@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "은평구 갈현2동 고등학생을 위한 영어과외입니다. 선정고·대성고·숭실고·선일여고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 ---
 
 ## 수능 영어 1등급, 전략이 필요합니다

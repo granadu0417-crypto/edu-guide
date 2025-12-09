@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0722_pMLCmgTNi_4.jpg"
 
 ---
 ## 관악구 보라매동 중학생, 수학 성적이 오르락내리락 불안정한가요?

@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 ---
 
 문법과 독해를 따로 공부하고 계신가요? 함께 공부하면 훨씬 효율적입니다.

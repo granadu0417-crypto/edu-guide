@@ -11,7 +11,7 @@ tags:
 - 연산
 - 읽기
 - 자기주도학습
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 ---
 ## 숙제하라고 안 해도 스스로 하는 아이, 어떻게 만들까요?
 

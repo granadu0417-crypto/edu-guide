@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0813_c7TQmOOaKbM.jpg"
 
 ---
 ## 종로구 종로56가동 중학생, 영어 병렬구조가 어렵다면

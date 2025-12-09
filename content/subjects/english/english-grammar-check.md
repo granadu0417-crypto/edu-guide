@@ -13,7 +13,7 @@ tags:
 - grammar
 - 오류
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 ---
 
 ## 영어 글을 쓰면 매번 같은 실수를 반복한다고요? 뭐가 틀렸는지 모르겠다는 피드백을 받으시죠.

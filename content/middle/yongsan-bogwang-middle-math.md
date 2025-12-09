@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "용산구 보광동 중학생을 위한 수학과외입니다. 오산중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0314_BcEmfG0xKrc.jpg"
 ---
 
 ## 중학교 수학이 어렵다고요?

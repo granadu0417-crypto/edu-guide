@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0547_TJxotQTUr8o.jpg"
 
 ---
 ## 강동구 천호1동 중학생, 수학 공부 시간은 많은데 성적이 안 오른다면

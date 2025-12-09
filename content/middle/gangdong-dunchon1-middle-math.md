@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0553_W0ylMM-xED0.jpg"
 ---
 ## 강동구 둔촌1동 중학생, 수학 소인수분해가 어렵다면
 

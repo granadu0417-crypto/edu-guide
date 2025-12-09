@@ -17,7 +17,7 @@ tags:
   - 구현고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0525_je240KkJIuA.jpg"
 ---
 
 수학 문제를 보면 어디서부터 풀어야 할지 막막하신가요? 문제를 보는 눈을 키워드리겠습니다.

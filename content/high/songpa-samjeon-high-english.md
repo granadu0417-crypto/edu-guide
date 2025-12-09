@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 삼전고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0060_7ebCN7FwH3g.jpg"
 ---
 
 밑줄 친 부분의 의미 파악이 어렵다면? 맥락 속 의미 해석력이 필요합니다.

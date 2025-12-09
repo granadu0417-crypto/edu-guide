@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 명일고
   - 강동고
-featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 ---
 
 수학 공부 자체가 싫어졌다면? 학습 동기 부여가 필요합니다.

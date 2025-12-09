@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 창동고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0232_mN3PsFWbmIE.jpg"
 
 ---
 ## 창4동 고등학생, 공부 계획은 세우는데 실천이 안 되나요?

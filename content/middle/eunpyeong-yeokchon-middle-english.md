@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "은평구 역촌동 중학생을 위한 영어과외입니다. 연서중·증산중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0510_-TbiGrjeujE.jpg"
 ---
 
 ## 영어 점수 향상, 방법이 있습니다

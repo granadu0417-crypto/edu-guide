@@ -12,7 +12,7 @@ tags:
 - 수능
 - 학부모가이드
 - 학습가이드
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 ---
 
 ## 내신과 수능 둘 다 해야 하는데, 과외로 뭘 집중해야 하나요?

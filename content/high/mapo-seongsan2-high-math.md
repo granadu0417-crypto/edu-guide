@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0831_zeH-ljawHtg.jpg"
 
 ---
 ## 마포구 성산2동 고등학생, 기출 분석이 안 된다면

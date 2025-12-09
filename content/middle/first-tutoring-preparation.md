@@ -9,7 +9,7 @@ tags:
 - 과외준비
 - 중등과외
 - 과외시작
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0513_MiZd3-92iDE.jpg"
 ---
 ## 처음 과외를 시작하는데, 뭘 준비해야 할지 모르겠다고요?
 

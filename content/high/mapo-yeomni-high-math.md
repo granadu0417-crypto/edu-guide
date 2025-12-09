@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0835_h_nWAOzgq3E.jpg"
 
 ---
 ## 마포구 염리동 고등학생, 내신과 수능 둘 다 잡으려면

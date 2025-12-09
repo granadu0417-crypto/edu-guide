@@ -18,7 +18,7 @@ tags:
   - 해성여고
   - 청량고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0272_8gAbl776pc0.jpg"
 
 ---
 ## 동대문구 전농2동 고등학생, 서술형 문제에서 점수를 많이 잃나요?

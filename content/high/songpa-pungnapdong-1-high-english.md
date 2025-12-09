@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 풍납고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 ---
 
 지문의 세부 내용 파악이 어렵다면? 정보 추출력이 필요합니다.

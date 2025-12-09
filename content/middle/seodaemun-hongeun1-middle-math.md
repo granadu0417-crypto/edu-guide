@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 ---
 ## 서대문구 홍은1동 중학생, 수학 때문에 스트레스라면

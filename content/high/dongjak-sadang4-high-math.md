@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1652095279611-9f4c3a3e7ab6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 
 ---
 ## 동작구 사당4동 고등학생, 수학 성적이 떨어졌다면

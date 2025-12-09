@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 배재고
   - 광문고
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 ---
 
 문제를 읽어도 무슨 말인지 모른다면? 문제 해석력 훈련이 필요합니다.

@@ -18,7 +18,7 @@ tags:
   - 휘경여고
   - 휘봉고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0256_R4NwEos-aWk.jpg"
 
 ---
 ## 동대문구 휘경1동 고등학생, 수학 공부 시간은 많은데 성적은 그대로인가요?

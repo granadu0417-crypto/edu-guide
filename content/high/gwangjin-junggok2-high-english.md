@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0606_o9ViSvYOxNM.jpg"
 ---
 
 해석은 되는데 정답을 고르기 어려운 이유, 궁금하시죠? 문제 풀이 기술이 부족하기 때문입니다.

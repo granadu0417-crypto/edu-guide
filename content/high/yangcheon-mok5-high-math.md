@@ -19,7 +19,7 @@ tags:
   - 한가람고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0080_wwy-z7NPTTM.jpg"
 
 ---
 ## 양천구 목5동 고등학생, 킬러문항이 안 풀린다면

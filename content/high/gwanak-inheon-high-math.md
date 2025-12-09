@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 실력향상
-featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0555_KhZcK8J-py0.jpg"
 ---
 
 수학 점수가 들쭉날쭉하다면, 실력이 아직 완전하지 않다는 신호입니다. 기복을 없애야 합니다.

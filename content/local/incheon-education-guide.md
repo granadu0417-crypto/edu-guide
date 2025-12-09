@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "인천시의 학원, 과외, 교육 환경을 완벽 분석합니다. 송도·청라 신도시부터 인하대·인천대 과외까지, 수도권 접근성을 활용한 맞춤 교육 정보를 제공합니다."
 tags: ["인천교육", "인천학원", "인천과외", "송도학원", "청라학원", "인하대과외", "인천대과외", "수도권교육", "신도시학원", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0283_ijhzqAm3N1Y.jpg"
 ---
 
 ## 인천에서 아이 교육 어떻게 해야 할까요? 송도가 좋다던데 부평이랑 뭐가 다른지 궁금하시죠.

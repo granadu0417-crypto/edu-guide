@@ -17,7 +17,7 @@ tags:
   - 경인고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0515_MRQFatc33cw.jpg"
 ---
 
 수학을 아무리 해도 실력이 제자리라면, 공부 방법을 바꿔야 합니다.

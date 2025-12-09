@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0155_WE_Kv_ZB1l0.jpg"
 ---
 ## 과학 공식이 헷갈려서 실험 문제만 나오면 틀려요. 어떻게 정리해야 하나요?
 

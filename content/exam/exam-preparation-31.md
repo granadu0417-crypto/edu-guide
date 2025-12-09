@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 ---
 ## 객관식 문제에서 두 개 중에 하나가 맨날 헷갈려요. 어떻게 골라야 하죠?
 

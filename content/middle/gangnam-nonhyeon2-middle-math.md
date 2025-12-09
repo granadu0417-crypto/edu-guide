@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 학동역
-featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 
 ---
 ## 강남구 논현2동 중학생, 수학 제곱근 계산이 복잡하다면

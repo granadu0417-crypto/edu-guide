@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 ---
 ## 강서구 화곡2동 중학생, 중학교 영어가 생각보다 어려운가요?

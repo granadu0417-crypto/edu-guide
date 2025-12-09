@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0298_YRMWVcdyhmI.jpg"
 
 ---
 ## 동작구 상도3동 고등학생, 내신과 수능 둘 다 잡으려면

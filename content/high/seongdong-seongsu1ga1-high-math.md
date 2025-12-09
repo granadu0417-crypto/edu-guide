@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 ---
 ## 성동구 성수1가1동 고등학생, 수포자가 될 것 같다면

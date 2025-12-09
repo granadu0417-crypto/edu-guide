@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 문제 풀이 완벽 마스터 전략 | 1:1 맞춤 지도, 문제풀이, 전략, 유형 [2025년]"
 tags: ["중학생", "문제풀이", "전략", "유형", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1616088410192-e96ff9361f0c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 ---
 
 ## 개념은 아는 것 같은데 막상 문제를 풀면 안 풀려요. 왜 그런 거예요?

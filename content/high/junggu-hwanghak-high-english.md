@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0757_LK4sk81TZh8.jpg"
 ---
 
 듣기에서 자꾸 실수한다면? 집중력 훈련이 필요합니다.

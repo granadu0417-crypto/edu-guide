@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0832_sn8Pbp_X0wE.jpg"
 
 ---
 ## 마포구 신수동 고등학생, 내신과 수능 영어가 다르게 느껴진다면

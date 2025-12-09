@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 ---
 ## 성북구 석관동 고등학생, 등급 도약이 필요하다면

@@ -6,7 +6,7 @@ description: 수학 개념 이해부터 문제 풀이 전략까지, 수학 실�
 categories:
 - 수학
 - 학습법
-featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0502_02z1I7gv4ao.jpg"
 tags:
 - 수학
 - 개념

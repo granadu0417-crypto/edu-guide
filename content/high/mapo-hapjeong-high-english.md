@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0816_WFSRs3qGdC8.jpg"
 
 ---
 ## 마포구 합정동 고등학생, EBS 연계가 어렵다면

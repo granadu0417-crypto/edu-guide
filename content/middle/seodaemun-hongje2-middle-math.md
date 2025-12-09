@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1561065091-89d1b6f4c57e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 ---
 ## 서대문구 홍제2동 중학생, 개념이 헷갈린다면

@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 ---
 
 ## 수업 시간에 열심히 필기하는데, 나중에 보면 뭔 소린지 모르겠어요. 필기는 어떻게 해야 하나요?

@@ -9,7 +9,7 @@ regions:
 cities:
   - 화성시
 tags: ["화성과학과외", "동탄과학과외", "화성물리과외", "화성화학과외", "화성생명과학과외", "동탄과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0245_Uqhxxg6LHuw.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

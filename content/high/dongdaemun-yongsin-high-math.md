@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대광고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0274_Njj5a0gvTu4.jpg"
 
 ---
 ## 동대문구 용신동 고등학생, 수학 성적이 오르락내리락 불안정한가요?

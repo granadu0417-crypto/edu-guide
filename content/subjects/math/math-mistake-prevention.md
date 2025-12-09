@@ -16,7 +16,7 @@ tags:
 - 수학만점
 - 실수방지
 - 수학정확도
-featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0540_FHFfHWWzbCc.jpg"
 ---
 
 ## 시험 끝나고 답지 보면서 이거 알았는데 하며 후회한 적 있으시죠? 실수만 안 했으면 점수가 훨씬 높았을 텐데 싶은 적 많죠.

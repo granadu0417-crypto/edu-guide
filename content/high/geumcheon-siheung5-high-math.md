@@ -18,7 +18,7 @@ tags:
   - 동일여고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0511_SZW4OQA_lME.jpg"
 ---
 
 혼자 공부하다 보면 방향을 잃기 쉽습니다. 체계적인 관리가 필요합니다.

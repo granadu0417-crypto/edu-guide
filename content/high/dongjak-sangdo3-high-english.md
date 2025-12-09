@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1617104678098-de229db51175?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0297_9fyvN-6aiJg.jpg"
 
 ---
 ## 동작구 상도3동 고등학생, 어휘가 부족하다면

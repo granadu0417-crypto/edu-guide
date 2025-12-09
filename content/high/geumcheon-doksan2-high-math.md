@@ -16,7 +16,7 @@ tags:
   - 독산고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 ---
 
 다른 학생과 같은 진도로 나갈 필요가 없습니다. 나에게 맞는 수업이 필요합니다.

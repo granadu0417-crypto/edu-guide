@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0712_RZgDCQA1g60.jpg"
 ---
 
 개념은 알겠는데 응용이 안 된다면? 개념 적용력 훈련이 필요합니다.

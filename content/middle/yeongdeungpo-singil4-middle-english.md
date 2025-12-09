@@ -19,7 +19,7 @@ tags:
   - 신길중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1639064607632-d75ce59c3d4b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0295_IJrIeCs3D4g.jpg"
 
 ---
 ## 영등포구 신길4동 중학생, 영포자가 되기 싫다면

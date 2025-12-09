@@ -13,7 +13,7 @@ tags:
 - 문맥
 - 연결어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0411_5ibMJiDCEss.jpg"
 ---
 
 ## 문장을 어디에 넣어야 할지 모르겠다고요? 모든 위치가 다 맞는 것 같다고요.

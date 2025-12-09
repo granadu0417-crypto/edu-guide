@@ -19,7 +19,7 @@ tags:
   - 대영고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0130_lUaaKCUANVI.jpg"
 
 ---
 ## 영등포구 신길6동 고등학생, 모의고사 등급이 안 나온다면

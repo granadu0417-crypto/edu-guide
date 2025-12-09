@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서울정화고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0251_5DBwlGL4978.jpg"
 
 ---
 ## 동대문구 답십리2동 고등학생, 영어 자신감이 점점 없어지고 있나요?

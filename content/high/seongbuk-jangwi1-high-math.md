@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1602052577122-f73b9710adba?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 
 ---
 ## 성북구 장위1동 고등학생, 성적 변동이 심하다면

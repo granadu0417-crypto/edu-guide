@@ -18,7 +18,7 @@ tags:
   - 양동중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0245_Uqhxxg6LHuw.jpg"
 
 ---
 ## 양천구 목3동 중학생, 내신 준비가 막막하다면

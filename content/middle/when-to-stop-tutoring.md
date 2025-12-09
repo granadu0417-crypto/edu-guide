@@ -9,7 +9,7 @@ tags:
 - 중등과외
 - 과외종료
 - 자기주도학습
-featured_image: "https://images.unsplash.com/photo-1618044733300-9472054094ee?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0239_qgzeWrw4tEs.jpg"
 ---
 ## 과외, 언제까지 해야 하는 건가요?
 

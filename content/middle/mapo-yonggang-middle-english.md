@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1548102245-c79dbcfa9f92?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0920__HuCXV2qpOo.jpg"
 
 ---
 ## 마포구 용강동 중학생, 단어 암기가 안 된다면

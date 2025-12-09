@@ -8,7 +8,7 @@ regions:
 cities:
   - 관악구
 tags: ["관악구", "수학과외", "신림동", "봉천동", "남현동", "수학", "과외", "서울대", "내신수학", "수능수학", "1:1과외", "수학과", "수리과학부"]
-featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0335_R8NrET268eA.jpg"
 ---
 
 "서울대 수학과 학생한테 과외 받으면 정말 효과 있을까요?"

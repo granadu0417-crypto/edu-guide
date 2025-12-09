@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 천호대교
-featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0212_mi13tiWIJk0.jpg"
 
 ---
 ## 송파구 풍납1동 중학생, 수학 좌표평면과 일차함수 그래프가 헷갈린다면

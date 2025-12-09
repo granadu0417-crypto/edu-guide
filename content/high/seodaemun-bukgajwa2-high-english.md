@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0914_MkstoewsiPY.jpg"
 
 ---
 ## 서대문구 북가좌2동 고등학생, 영어 포기를 고민한다면

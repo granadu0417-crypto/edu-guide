@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 청담고
   - 현대고
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0404_WzhRnBQY9es.jpg"
 ---
 
 EBS 연계 지문만 보면 자신 있는데 처음 보는 지문에서 흔들린다면? 응용력 훈련이 필요합니다.

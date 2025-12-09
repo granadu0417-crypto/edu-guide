@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0809_h91Zt0qVPcM.jpg"
 
 ---
 ## 마포구 아현동 고등학생, 수학 때문에 대학이 걱정이라면

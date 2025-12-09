@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0447_Zi-DtaEM-gg.jpg"
 
 ---
 ## 동작구 대방동 중학생, 영어 학원 숙제만 하다가 시간이 다 가나요?

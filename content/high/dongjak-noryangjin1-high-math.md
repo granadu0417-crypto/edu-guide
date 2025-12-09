@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0280_2eM_-v2o0Ik.jpg"
 
 ---
 ## 동작구 노량진1동 고등학생, 수학 성적이 떨어졌다면

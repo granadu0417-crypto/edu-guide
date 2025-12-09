@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "용산구 이촌1동 중학생을 위한 수학과외입니다. 용강중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0326_n9AaeihA9HI.jpg"
 ---
 
 ## 중학교 수학, 공식 암기로는 부족합니다

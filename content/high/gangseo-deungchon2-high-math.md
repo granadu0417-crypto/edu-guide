@@ -18,7 +18,7 @@ tags:
   - 등촌고
   - 경복여고
   - 영일고
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0457_5KPA4nFtHbU.jpg"
 ---
 
 기본 문제는 풀겠는데 심화만 나오면 막히나요?

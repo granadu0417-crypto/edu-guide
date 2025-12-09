@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["서대문구", "수학과외", "신촌", "연희동", "홍은동", "수학", "과외", "연세대", "이화여대", "내신수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0358_smgTvepind4.jpg"
 ---
 
 "연대, 이대 앞이니까 수학 잘 가르치는 선생님 많겠죠?"

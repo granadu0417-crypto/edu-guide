@@ -15,7 +15,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: "https://images.unsplash.com/photo-1632406898063-9d1a9a8e5f35?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0198_vdXMSiX-n6M.jpg"
 ---
 
 ## 아이가 학교에서 힘들어하는데 어디서 상담을 받아야 할지 모르겠어요. 무료로 전문 상담을 받을 수 있는 곳이 있나요?

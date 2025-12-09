@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0816_WFSRs3qGdC8.jpg"
 
 ---
 ## 종로구 무악동 중학생, 수학 좌표평면과 그래프가 어렵다면

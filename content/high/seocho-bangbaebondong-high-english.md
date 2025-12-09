@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 서문여고
   - 동덕여고
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0890_6kQCkyNW3gY.jpg"
 ---
 
 지문은 해석했는데 답이 자꾸 틀린다면? 선택지 분석력을 훈련해야 합니다.

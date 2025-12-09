@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0836_EHfiW-cV0ls.jpg"
 
 ---
 ## 중구 광희동 중학생, 수학 상관관계가 어렵다면

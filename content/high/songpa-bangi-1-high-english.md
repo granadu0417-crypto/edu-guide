@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 창덕여고
   - 서울체육고
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0016_6RTM8EsD1T8.jpg"
 ---
 
 지문은 읽었는데 문제가 안 풀린다면? 문제 분석력 훈련이 필요합니다.

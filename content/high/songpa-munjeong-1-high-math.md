@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 문정고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0049_HXhl_vAoiMw.jpg"
 ---
 
 이차함수와 부등식 연결이 어렵다면? 함수 부등식 통합력이 필요합니다.

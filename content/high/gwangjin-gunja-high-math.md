@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 건대부고
-featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0585_okUVwmx7n2I.jpg"
 ---
 
 수학 성적이 갑자기 떨어졌나요? 고등학교 수학은 중학교와 차원이 다릅니다.

@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1534312527009-56c7016453e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0942_1VqHRwxcCCw.jpg"
 
 ---
 ## 성북구 돈암1동 고등학생, 수능 영어가 걱정된다면

@@ -12,7 +12,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0132_QhdiNLAOz-4.jpg"
 ---
 ## 왜 그래를 입에 달고 사는 아이, 과학적 사고력으로 키우세요
 

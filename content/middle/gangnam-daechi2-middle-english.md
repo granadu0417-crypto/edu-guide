@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 대치동타워팰리스
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0584_TLAuf1Z3VG8.jpg"
 
 ---
 ## 강남구 대치2동 중학생, 영어 본문 변형 문제가 어렵다면

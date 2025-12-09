@@ -18,7 +18,7 @@ tags:
   - 봉영여중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0262_qDgTQOYk6B8.jpg"
 
 ---
 ## 양천구 신정7동 중학생, 학원에서 효과를 못 봤다면

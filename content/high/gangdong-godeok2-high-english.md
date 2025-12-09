@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 배재고
   - 광문고
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0386_cEiCBMK_Ob8.jpg"
 ---
 
 분사구문이 나오면 해석이 어렵다면? 분사구문 완벽 정복이 필요합니다.

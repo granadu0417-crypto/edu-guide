@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 ---
 
 ## 처음 과외를 시작하는데 뭐부터 해야 할지 모르겠어요. 어디서부터 시작하나요?

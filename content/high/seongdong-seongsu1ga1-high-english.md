@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1630330604825-f21b28ab2ccf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_1000_SqS3dho7PIU.jpg"
 
 ---
 ## 성동구 성수1가1동 고등학생, 영포자가 될 것 같다면

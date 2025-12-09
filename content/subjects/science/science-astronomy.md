@@ -10,7 +10,7 @@ tags:
 - 천문학
 - 지구과학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1648054003786-e7c7f2e5e4cc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0575_Im7lZjxeLhg.jpg"
 ---
 
 ## 별과 은하가 다 비슷해 보이고 구분이 안 된다고요? 체계적으로 접근하면 됩니다.

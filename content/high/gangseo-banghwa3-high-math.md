@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 한서고
   - 동양고
-featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 ---
 
 학원에서 질문할 기회가 없으셨나요?

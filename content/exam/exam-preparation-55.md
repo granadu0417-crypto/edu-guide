@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 ---
 ## 수학 문제 유형이 너무 다양해요. 어떤 유형부터 공부해야 하나요?
 

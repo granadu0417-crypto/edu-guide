@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 
 ---
 ## 도봉구 방학1동 중학생, 독해 지문을 읽어도 내용 파악이 안 되나요?

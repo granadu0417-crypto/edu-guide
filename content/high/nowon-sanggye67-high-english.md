@@ -18,7 +18,7 @@ tags:
   - 노원고
   - 개념부터실전
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0869_IBCrGev2Dck.jpg"
 
 ---
 ## 상계6·7동 고등학생, 영어를 제대로 공부하고 싶다면

@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1658172197763-f2a3c2d1e6a0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0803_81-Sn_ab6IQ.jpg"
 
 ---
 ## 종로구 가회동 중학생, 영어 대명사가 헷갈린다면

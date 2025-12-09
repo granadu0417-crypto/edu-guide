@@ -17,7 +17,7 @@ tags:
 - 특수교육
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 ---
 
 ## 아이가 수학을 유독 어려워한다고요? 게으른 게 아닌 것 같은데 뭐가 문제인지 모르겠다고 느끼시죠.

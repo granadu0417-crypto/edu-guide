@@ -10,7 +10,7 @@ tags:
 - 화학 결합
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 ---
 
 ## 이온결합, 공유결합, 금속결합이 다 헷갈리고 구분이 안 된다고요? 원자의 전자 이동으로 이해하면 됩니다.

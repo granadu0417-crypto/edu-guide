@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 문정고
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 ---
 
 주제문을 찾는 게 어렵다면? 글의 핵심 파악력이 필요합니다.

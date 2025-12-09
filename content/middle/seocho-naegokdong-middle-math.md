@@ -12,7 +12,7 @@ keywords: ["서초구 중등수학", "내곡동 수학과외", "내곡중 수학
 
 tags:
   - naegok동
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 ---
 ## 서초구 내곡동 중학생, 수학 평행선에서 동위각과 엇각이 헷갈린다면
 

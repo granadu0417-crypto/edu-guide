@@ -20,7 +20,7 @@ tags:
   - 장원중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0851_e3aA8wXfIPk.jpg"
 
 ---
 ## 중구 신당5동 중학생, 영어 현재분사와 과거분사가 헷갈린다면

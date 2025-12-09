@@ -18,7 +18,7 @@ tags:
   - 염광여고
   - 내신특화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0845_EovEY0OePp0.jpg"
 
 ---
 ## 공릉2동 고등학생, 학교별 영어 내신을 확실히 잡고 싶다면

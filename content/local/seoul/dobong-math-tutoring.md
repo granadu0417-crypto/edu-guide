@@ -8,7 +8,7 @@ regions:
 cities:
   - 도봉구
 tags: ["도봉구", "수학과외", "창동", "방학동", "쌍문동", "수학", "과외", "창동신도시", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 ---
 
 "도봉구에서도 좋은 수학 선생님 만날 수 있을까요?"

@@ -18,7 +18,7 @@ tags:
   - 동일여고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0507_F8sCVSW4t4E.jpg"
 ---
 
 같은 개념도 학교마다 출제 방식이 다릅니다. 학교에 맞춘 준비가 필요합니다.

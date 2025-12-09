@@ -9,7 +9,7 @@ regions:
 cities:
   - 광주시
 tags: ["광주교육", "광주학원", "광주과외", "경기광주입시", "경기남부교육"]
-featured_image: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

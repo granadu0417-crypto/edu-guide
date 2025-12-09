@@ -10,7 +10,7 @@ tags:
 - 생물 다양성
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0578_EhTcC9sYXsw.jpg"
 ---
 
 ## 생물 다양성이 왜 중요한지 모르겠고 분류 체계가 복잡하다고요? 단계별로 접근하면 됩니다.

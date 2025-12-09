@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0985_kGZjnKp7KLQ.jpg"
 ---
 
 ## 사회는 외울 게 많은데, 과외하면 암기에 도움이 되나요?

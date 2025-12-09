@@ -19,7 +19,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894742597-87bc8789db3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0960_f2lCwI0V1BM.jpg"
 
 ---
 ## 성북구 정릉1동 고등학생, 대입 준비가 막막하다면

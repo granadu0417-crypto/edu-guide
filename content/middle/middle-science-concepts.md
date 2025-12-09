@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 과학 개념 완벽 정리 전략 | 1:1 맞춤 지도, 물리·화학·생물·지구과학 [2025년]"
 tags: ["중학생", "과학", "개념", "정리", "이해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 ---
 
 ## 과학 개념이 너무 많고 복잡해요. 어떻게 정리해야 하나요?

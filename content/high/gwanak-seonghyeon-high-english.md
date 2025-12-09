@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0572_xoCrMyMFt7s.jpg"
 ---
 
 영어 지문이 길어지니까 읽다가 지치시나요? 앞에서 읽은 내용이 뒤로 가면 기억이 안 나죠.

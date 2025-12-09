@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광양고
-featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0599_FqsWZU0dXDk.jpg"
 ---
 
 쉬운 문제에서 실수하는 경험, 왜 생길까요? 속도와 정확성의 균형이 필요합니다.

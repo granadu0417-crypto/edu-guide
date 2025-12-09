@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 일원고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0427_hhUx08PuYpc.jpg"
 ---
 
 지수함수와 로그함수에서 막힌다면? 초월함수 집중 훈련이 필요합니다.

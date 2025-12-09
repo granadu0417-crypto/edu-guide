@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0911_ny-PR9SVDeE.jpg"
 
 ---
 ## 서대문구 북아현동 고등학생, 수포자가 되기 전에

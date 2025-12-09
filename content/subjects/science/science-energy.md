@@ -10,7 +10,7 @@ tags:
 - 에너지
 - 물리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0596_yCNVmUwMcjg.jpg"
 ---
 
 ## 운동 에너지와 위치 에너지 계산이 헷갈리고 에너지 보존이 어렵다고요? 일과 에너지의 관계를 이해하면 됩니다.

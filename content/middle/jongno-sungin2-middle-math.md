@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0826_RkdEJR2z6pM.jpg"
 
 ---
 ## 종로구 숭인2동 중학생, 수학 일차방정식 풀이가 어렵다면

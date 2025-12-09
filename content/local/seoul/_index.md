@@ -2,7 +2,7 @@
 title: 서울 지역 교육정보
 description: 서울 25개 자치구별 교육 환경과 학원 정보를 한눈에 확인하세요. 강남, 송파, 노원 등 지역별 특성에 맞는 최적의 학습 환경을
   찾아드립니다. 우리 동네 최고의 교육 시설과 과외 정보를 제공합니다 지역별 교육 환경과 학원 정보를 바탕으로 최적의 학습 환경을 찾아드립니다.
-featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0307_eKRxDhh6meI.jpg"
 tags:
 - 가이드
 - 교육정보

@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 불광1동 고등학생을 위한 수학과외입니다. 은평고·예일여고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0307_eKRxDhh6meI.jpg"
 ---
 
 ## 고등학교 수학, 중학교와 차원이 다릅니다

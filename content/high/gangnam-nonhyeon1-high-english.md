@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 영동고
   - 진선여고
-featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0428_s5vr9TVunR8.jpg"
 ---
 
 가정법과 도치 구문에서 틀린다면? 심화 문법 완성이 필요합니다.

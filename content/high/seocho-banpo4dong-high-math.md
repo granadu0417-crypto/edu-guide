@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세화여고
   - 동덕여고
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0897_f6PLZoNXweA.jpg"
 ---
 
 시험 문제가 새로운 유형이면 당황한다면? 문제 유형 분류 훈련이 필요합니다.

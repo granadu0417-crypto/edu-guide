@@ -8,7 +8,7 @@ regions:
 cities:
   - 광진구
 tags: ["광진구", "영어과외", "건대입구", "구의동", "자양동", "광장동", "영어", "과외", "건국대", "내신영어", "수능영어", "1:1과외", "영문과"]
-featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 ---
 
 "건대 근처라서 대학생 과외 쉽게 구할 수 있다는데, 믿을 만할까요?"

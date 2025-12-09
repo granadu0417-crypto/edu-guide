@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0807_rn3_rMLhNLc.jpg"
 
 ---
 ## 종로구 혜화동 중학생, 영어 동사의 종류가 헷갈린다면

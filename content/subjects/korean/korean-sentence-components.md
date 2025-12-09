@@ -10,7 +10,7 @@ tags:
 - 문장성분
 - 문법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1550432163-9cb326104944?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0489_-onz_n4DUes.jpg"
 ---
 
 ## 주어, 서술어, 목적어 구분이 헷갈린다고요? 역할을 이해하면 쉬워집니다.

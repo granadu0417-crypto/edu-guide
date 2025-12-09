@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0473_vcSyYj_r5ck.jpg"
 
 ---
 ## 동작구 신대방1동 중학생, 관계대명사가 나오면서 포기하고 싶어졌나요?

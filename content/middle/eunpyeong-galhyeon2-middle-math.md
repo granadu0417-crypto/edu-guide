@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "은평구 갈현2동 중학생을 위한 수학과외입니다. 선정중·대성중·숭실중·선일여중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 ---
 
 ## 수학을 포기하기엔 아직 이릅니다

@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0622_dulf1PvYhVg.jpg"
 ---
 ## 기초는 끝났는데, 심화로 넘어가니까 막히기 시작했어요
 

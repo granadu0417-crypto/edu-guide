@@ -8,7 +8,7 @@ regions:
 cities:
   - 강동구
 tags: ["강동구", "수학과외", "고덕동", "명일동", "천호동", "수학", "과외", "초등수학", "중등수학", "고등수학", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1490633874781-1c63cc424610?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0321_NItozEcUPrw.jpg"
 ---
 
 "강동구 수학과외, 송파구랑 비교하면 어때요?"

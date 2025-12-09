@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0183_5NKadumpkhc.jpg"
 ---
 ## 시험이 내일인데 밤새 공부해야 할까요? 전날에는 어떻게 해야 하나요?
 

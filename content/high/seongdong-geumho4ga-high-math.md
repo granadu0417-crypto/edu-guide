@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0989_dN3r0Z84qGc.jpg"
 
 ---
 ## 성동구 금호4가동 고등학생, 실력이 정체되어 있다면

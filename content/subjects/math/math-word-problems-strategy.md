@@ -16,7 +16,7 @@ tags:
 - 내신수학
 - 서술형전략
 - 수학
-featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0569_sG2EggQLl14.jpg"
 ---
 
 ## 서술형 문제만 보면 막막하다고요? 풀이 과정을 어떻게 써야 점수를 받는지 모르겠다고 느끼시죠.

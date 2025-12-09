@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0574_8vn4KvfU640.jpg"
 ---
 ## 강동구 성내2동 중학생, 영어 수동태 문장이 헷갈린다면
 

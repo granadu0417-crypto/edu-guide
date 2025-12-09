@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1568702846914-96b305d2ead1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 
 ---
 ## 성북구 보문동 고등학생, 듣기 점수가 안 나온다면

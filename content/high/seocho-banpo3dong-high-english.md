@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 세화여고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0894_jvitXXO6KdM.jpg"
 ---
 
 듣기는 잘 하는데 독해에서 시간이 부족하다면? 속독 훈련이 필요합니다.

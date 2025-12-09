@@ -18,7 +18,7 @@ tags:
   - 재현고
   - 내신수능
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894742597-87bc8789db3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0858_KHq-VVh9C8w.jpg"
 
 ---
 ## 중계본동 고등학생, 수학 때문에 고민이라면

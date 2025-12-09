@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 학습 습관 완벽 정착 전략 | 1:1 맞춤 지도, 자기주도·시간관리·복습 [2025년]"
 tags: ["중학생", "학습습관", "자기주도학습", "시간관리", "복습", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 ---
 
 ## 공부 습관이 안 잡혀요. 매일 앉아 있는 시간은 긴데 성적은 그대로예요.

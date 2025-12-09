@@ -15,7 +15,7 @@ tags:
   - 수능영어
   - 영어내신
 description: "중랑구 망우3동 고등학생을 위한 1:1 맞춤 영어과외. 송곡고, 송곡여고, 혜원여고 내신 완벽 대비, 수능 영어까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1602052577122-f73b9710adba?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0779_Q7ngZ0oKIfc.jpg"
 ---
 
 송곡고, 송곡여고, 혜원여고 영어 시험 패턴을 완벽 분석합니다.

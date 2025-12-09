@@ -11,7 +11,7 @@ tags:
 - 형용사
 - 부사
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 ---
 
 ## 형용사랑 부사가 매번 헷갈린다고요? good이랑 well 중에 뭘 써야 하는지 모르겠다고요.

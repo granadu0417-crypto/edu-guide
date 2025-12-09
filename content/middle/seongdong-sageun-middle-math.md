@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 
 ---
 ## 성동구 사근동 중학생, 수학 기초가 흔들린다면

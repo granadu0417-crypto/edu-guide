@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 동덕여고
   - 서문여고
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 ---
 
 계산은 맞는데 과정 점수를 못 받는다면? 서술형 풀이 작성법을 배워야 합니다.

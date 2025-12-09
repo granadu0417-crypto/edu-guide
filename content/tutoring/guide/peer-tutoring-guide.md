@@ -14,7 +14,7 @@ tags:
 - 사회
 description: 친구와 함께하는 학습 전략. 또래 학습 효과, 스터디 그룹 구성, 1:1 과외와 병행, 성공 전략을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1627032573589-eb31b2f14d4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0833_NoFtd1FtntI.jpg"
 reading_time: 160줄
 ---
 

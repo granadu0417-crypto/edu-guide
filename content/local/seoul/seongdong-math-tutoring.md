@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["성동구", "수학과외", "성수동", "왕십리", "행당동", "금호동", "수학", "과외", "한양대", "창의수학", "내신수학"]
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 ---
 
 "왕십리에 한양대가 있으니까 수학 잘 가르치는 선생님 많겠죠?"

@@ -13,7 +13,7 @@ tags:
 - 기억
 - 학습법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0409_DHk_mju83z0.jpg"
 ---
 
 ## 배운 것을 금방 잊어버린다고요? 복습을 어떻게 해야 할지 모르겠다고요.

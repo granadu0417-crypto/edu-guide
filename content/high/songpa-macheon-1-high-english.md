@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 마천고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 ---
 
 필자의 주장 문제에서 헷갈린다면? 논지 파악력이 필요합니다.

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 어휘력 완벽 확장 전략 | 1:1 맞춤 지도, 한자·어원·문맥 [2025년]"
 tags: ["중학생", "어휘력", "한자", "어원", "독해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0990_S8qw5hyFoo8.jpg"
 ---
 
 ## 어휘력이 부족해서 교과서 읽어도 무슨 말인지 모르겠어요. 어떻게 키우나요?

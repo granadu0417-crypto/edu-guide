@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 반포고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0898_mRZqHGcILP0.jpg"
 ---
 
 수행평가에서 점수를 잃는다면? 에세이 작성 전략을 익혀야 합니다.

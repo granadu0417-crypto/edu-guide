@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0721_CwC_2MmMdhA.jpg"
 ---
 
 어휘는 아는데 문맥에서 의미가 안 통한다면? 문맥 추론력 훈련이 필요합니다.

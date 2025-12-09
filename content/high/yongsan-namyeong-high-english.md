@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "용산구 남영동 고등학생을 위한 영어과외입니다. 신광여고·배문고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0163_ywqa9IZB-dU.jpg"
 ---
 
 ## 고등학교 영어, 기초부터 다시 해도 됩니다

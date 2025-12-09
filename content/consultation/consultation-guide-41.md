@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0063_v7FT5ngIEfA.jpg"
 ---
 
 ## 공부는 열심히 하는데 어디로 가고 있는지 모르겠어요. 뭘 위해 공부하는 건지 방향을 잡고 싶어요.

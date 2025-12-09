@@ -19,7 +19,7 @@ tags:
   - 영남중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0287_XkKCui44iM0.jpg"
 
 ---
 ## 영등포구 도림동 중학생, 기초부터 다시 잡고 싶다면

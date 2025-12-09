@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 도봉고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0224_0RRKNIlgRZA.jpg"
 
 ---
 ## 방학3동 고등학생, 시험만 보면 아는 문제도 틀리나요?

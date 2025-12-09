@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0709_qODdqdGXWsI.jpg"
 ---
 
 ## 수출과 수입이 헷갈리고 무역 이론이 복잡하다고요? 비교 우위 원리부터 이해하면 됩니다.

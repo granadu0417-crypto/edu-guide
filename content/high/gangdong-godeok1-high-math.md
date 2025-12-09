@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 배재고
   - 광문고
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0385_OL5FSVty0IE.jpg"
 ---
 
 시험 범위가 넓어지면 성적이 떨어진다면? 종합적 복습 전략이 필요합니다.

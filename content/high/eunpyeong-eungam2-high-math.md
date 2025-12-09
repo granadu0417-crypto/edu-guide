@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 응암2동 고등학생을 위한 수학과외입니다. 충암고·예일여고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0315_qnt0fP8Uphw.jpg"
 ---
 
 ## 수학 때문에 대학이 걱정되시나요?

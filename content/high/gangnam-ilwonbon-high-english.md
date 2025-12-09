@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 일원고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0426_Zg9R__O-8fM.jpg"
 ---
 
 빈칸 추론 문제만 나오면 틀린다면? 논리적 추론력 강화가 필요합니다.

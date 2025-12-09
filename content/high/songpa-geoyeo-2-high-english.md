@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 문정고
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 ---
 
 문맥상 어휘 의미 파악이 어렵다면? 문맥 추론력 훈련이 필요합니다.

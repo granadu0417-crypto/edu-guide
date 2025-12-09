@@ -21,7 +21,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 
 ---
 ## 강서구 등촌1동 중학생, 중학교 수학, 어디서부터 잡아야 할지 모르겠나요?

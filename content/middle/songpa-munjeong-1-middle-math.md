@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 문정역
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 
 ---
 ## 송파구 문정1동 중학생, 수학 다항식의 덧셈과 뺄셈이 헷갈린다면

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 도봉고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 
 ---
 ## 도봉1동 고등학생, 고1 때 놓친 부분이 지금까지 발목을 잡나요?

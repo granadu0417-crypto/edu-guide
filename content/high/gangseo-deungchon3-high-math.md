@@ -18,7 +18,7 @@ tags:
   - 등촌고
   - 경복여고
   - 영일고
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0459_Sk9JF1KDz6M.jpg"
 ---
 
 학원에서는 질문하기가 어려우셨나요?

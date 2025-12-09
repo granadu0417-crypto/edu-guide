@@ -11,7 +11,7 @@ tags:
 - 비문학독해
 - 문단분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 ---
 
 ## 독해력이 부족해서 성적이 안 오른다고요? 문단 분석부터 시작하세요.

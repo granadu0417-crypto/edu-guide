@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 오금고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 ---
 
 글의 순서 문제에서 틀린다면? 논리적 연결 훈련이 필요합니다.

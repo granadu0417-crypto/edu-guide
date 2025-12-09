@@ -19,7 +19,7 @@ tags:
   - 양동중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0243_M6EjyS2K7tU.jpg"
 
 ---
 ## 양천구 목2동 중학생, 영어가 점점 어려워진다면

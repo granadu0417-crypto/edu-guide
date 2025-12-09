@@ -12,7 +12,7 @@ tags:
 - 국어공부법
 - 비문학
 - 문학
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0482_jCIMcOpFHig.jpg"
 ---
 
 ## 글을 읽어도 무슨 말인지 모르겠다고요? 독해의 기술을 익히면 됩니다.

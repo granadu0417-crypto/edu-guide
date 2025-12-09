@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 대원고
   - 대원여고
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0608_SS-r7BvCqTY.jpg"
 ---
 
 독해 속도가 느려서 시간이 부족한 경험, 있으신가요? 빠르게 읽으면서 정확도를 유지하는 훈련이 필요합니다.

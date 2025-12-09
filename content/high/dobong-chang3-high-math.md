@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 서울외국어고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0230_5pQN_nlRbN4.jpg"
 
 ---
 ## 창3동 고등학생, 계산은 맞는데 답이 자꾸 틀리나요?

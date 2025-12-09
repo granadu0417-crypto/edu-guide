@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 대치동학원가
-featured_image: "https://images.unsplash.com/photo-1598518619776-eae3f8a34eac?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0587_uSoXP5XLC8g.jpg"
 
 ---
 ## 강남구 대치4동 중학생, 수학 함수 그래프가 어렵다면

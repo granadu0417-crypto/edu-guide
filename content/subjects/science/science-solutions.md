@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1528979255245-e58f16e21e58?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 ---
 
 ## 농도 계산이 복잡하고 용해도 곡선 해석이 어렵다고요? 용질과 용매의 관계부터 정리하면 됩니다.

@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 ---
 ## 수능까지 365일, 아직 늦지 않았습니다. 문제는 어디서부터 시작하느냐입니다.
 

@@ -19,7 +19,7 @@ tags:
   - 노일중
   - 영어내신
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0015_yyX0b05Gl-U.jpg"
 
 ---
 ## 상계2동 중학생, 영어 문법이 헷갈린다면

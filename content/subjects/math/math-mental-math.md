@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1626178793926-22b28830aa30?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 ---
 
 ## 수학 문제 풀 때 계산이 너무 느리다고요? 암산이 안 돼서 계산기 없으면 불안하다고 느끼시죠.

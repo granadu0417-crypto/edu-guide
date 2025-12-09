@@ -18,7 +18,7 @@ tags:
   - 청원고
   - 기초부터심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0862_RlVvZ8YGbfE.jpg"
 
 ---
 ## 상계10동 고등학생, 수학 기초부터 심화까지 제대로 배우고 싶다면

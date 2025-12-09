@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 맞춤커리큘럼
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0551_kZO9xqmO_TA.jpg"
 ---
 
 "수학, 포기할까요?" 이 말씀을 하시는 학부모님을 자주 만납니다. 아직 포기하실 때가 아닙니다.

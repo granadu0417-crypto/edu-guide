@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 학원 유형별 특징. 장단점, 선택 기준, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 맞춤형 전략으로 목표를 달성하세요.
-featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0755_AQdkHBSkilI.jpg"
 reading_time: 270줄
 ---
 

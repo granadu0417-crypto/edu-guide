@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0546_O5EMzfdxedg.jpg"
 
 ---
 ## 강동구 천호1동 중학생, 영어 점수는 나오는데 실력이 안 느는 것 같다면

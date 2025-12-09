@@ -8,7 +8,7 @@ regions:
 cities:
   - 강서구
 tags: ["강서구", "영어과외", "목동", "화곡동", "염창동", "영어", "과외", "목동학원가", "영어회화", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1643021456787-8c4ad7e7e9fa?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0328_RCOwINCGhj0.jpg"
 ---
 
 "목동 학원가가 있으니까 과외는 필요 없겠죠?"

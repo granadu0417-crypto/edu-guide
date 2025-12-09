@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 ---
 
 ## 봉건제와 교회가 헷갈리고 십자군 전쟁이 복잡하다고요? 서로마 제국 멸망부터 시작하면 됩니다.

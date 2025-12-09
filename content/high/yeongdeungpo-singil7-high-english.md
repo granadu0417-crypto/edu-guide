@@ -19,7 +19,7 @@ tags:
   - 장훈고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0131_jfnUC7s3iuw.jpg"
 
 ---
 ## 영등포구 신길7동 고등학생, 빈칸추론이 어렵다면

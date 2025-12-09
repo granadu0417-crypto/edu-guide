@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0129_5YtsX8-uoPI.jpg"
 
 ---
 ## 성북구 석관동 중학생, 중간고사가 걱정된다면

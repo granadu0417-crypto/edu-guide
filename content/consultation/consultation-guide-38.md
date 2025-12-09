@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 ---
 
 ## 서점에 가면 문제집이 수백 권인데, 우리 아이한테 맞는 건 어떻게 골라야 하나요?

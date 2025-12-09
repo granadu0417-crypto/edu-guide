@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 ---
 ## 강서구 화곡본동 중학생, 수학 공부 시간은 많은데 성적은 그대로인가요?

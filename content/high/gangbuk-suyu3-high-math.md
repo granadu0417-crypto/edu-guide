@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 혜화여고
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 ---
 
 문제만 많이 풀면 수학 성적이 오를까요?

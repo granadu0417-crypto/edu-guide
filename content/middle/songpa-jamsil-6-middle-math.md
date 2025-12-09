@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0192_bCx6LpXL1oE.jpg"
 
 ---
 ## 송파구 잠실6동 중학생, 수학 원의 중심각과 원주각이 헷갈린다면

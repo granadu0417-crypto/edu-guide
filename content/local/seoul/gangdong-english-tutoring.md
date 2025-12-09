@@ -8,7 +8,7 @@ regions:
 cities:
   - 강동구
 tags: ["강동구", "영어과외", "고덕동", "명일동", "천호동", "영어", "과외", "영어회화", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 ---
 
 "송파구 옆이니까 영어 교육도 비슷할까요?"

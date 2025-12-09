@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1460518451285-97b6aa326961?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 
 ---
 ## 도봉구 쌍문2동 중학생, 중학교 수학, 어디서부터 잡아야 할지 모르겠나요?

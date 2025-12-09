@@ -18,7 +18,7 @@ tags:
   - 휘경여고
   - 휘봉고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0258_K-g-Kt1vAHs.jpg"
 
 ---
 ## 동대문구 휘경2동 고등학생, 수학 자신감이 바닥을 치고 있나요?

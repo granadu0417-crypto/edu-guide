@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0723_b8h25oRs89Y.jpg"
 ---
 
 글의 주제는 알겠는데 요지가 뭔지 모르겠다면? 핵심 요지 파악력이 필요합니다.

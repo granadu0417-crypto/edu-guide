@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0473_vcSyYj_r5ck.jpg"
 ---
 
 같은 설명을 들어도 이해 속도가 다릅니다.

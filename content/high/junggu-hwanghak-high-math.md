@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0758_vmB3SlgewwM.jpg"
 ---
 
 쉬운 문제에서 실수가 잦다면? 계산 습관을 고쳐야 합니다.

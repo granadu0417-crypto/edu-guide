@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 
 ---
 ## 성북구 정릉4동 중학생, 영어 공부법을 모르겠다면

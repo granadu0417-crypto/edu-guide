@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 성내고
   - 둔촌고
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0401_e_0aPdC-UzQ.jpg"
 ---
 
 문제집은 많이 풀었는데 성적이 안 오른다면? 효과적인 학습법 점검이 필요합니다.

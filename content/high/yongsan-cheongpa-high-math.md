@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "용산구 청파동 고등학생을 위한 수학과외입니다. 신광여고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0146_Y-JCyxFMXbc.jpg"
 ---
 
 ## 수학 성적 정체기를 겪고 계신가요?

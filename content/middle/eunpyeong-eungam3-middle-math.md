@@ -16,7 +16,7 @@ tags:
   - 수학내신
   - 중등수학과외
 description: "은평구 응암3동 중학생을 위한 수학과외입니다. 충암중 내신 대비와 수학 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0491_zcZRmq775OY.jpg"
 ---
 
 ## 수학, 개념 없이 문제만 풀면 한계가 옵니다

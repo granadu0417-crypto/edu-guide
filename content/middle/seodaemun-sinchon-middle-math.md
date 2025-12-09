@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 ---
 ## 서대문구 신촌동 중학생, 수학 기초가 흔들린다면

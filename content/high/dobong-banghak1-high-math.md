@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 도봉고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0220_1GHqOftzYo0.jpg"
 
 ---
 ## 방학1동 고등학생, 수학 문제집만 쌓여가고 있지 않나요?

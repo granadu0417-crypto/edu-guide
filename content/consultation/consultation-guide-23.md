@@ -11,7 +11,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 ---
 
 ## 시험 기간에 열심히 공부하는데도 등급이 안 오르는 이유가 뭘까요?

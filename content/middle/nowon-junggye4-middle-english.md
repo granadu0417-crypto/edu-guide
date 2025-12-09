@@ -18,7 +18,7 @@ tags:
   - 을지중
   - 내신관리
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0007_cUgR2cYQzec.jpg"
 
 ---
 ## 중계4동 중학생, 영어 내신을 확실히 관리하고 싶다면

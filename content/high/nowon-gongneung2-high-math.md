@@ -18,7 +18,7 @@ tags:
   - 염광여고
   - 맞춤커리큘럼
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1534312527009-56c7016453e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0846__-WZZhP_J8U.jpg"
 
 ---
 ## 공릉2동 고등학생, 나만의 수학 커리큘럼이 필요하다면

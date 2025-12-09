@@ -19,7 +19,7 @@ tags:
   - 대영중
   - 영어문법
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1602052577122-f73b9710adba?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0293_ZDlJ7R4F6Yg.jpg"
 
 ---
 ## 영등포구 신길3동 중학생, 학원 효과가 없었다면

@@ -16,7 +16,7 @@ tags:
 description: 초등학생 자녀를 위한 학원과 과외 선택의 모든 것. 학년별 특성, 학습 유형, 과목별 추천, 효과적인 선택 기준까지 완벽 가이드입니다
   과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 학부모님과 함께하는 효과적인 교육 방법을 안내합니다. 지금 바로
   시작하세요.
-featured_image: "https://images.unsplash.com/photo-1592267009768-8be2e0a86ed6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0803_81-Sn_ab6IQ.jpg"
 reading_time: 160줄
 ---
 

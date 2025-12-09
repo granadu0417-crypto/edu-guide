@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0730_l3N9Q27zULw.jpg"
 ---
 
 확률과 통계가 너무 헷갈린다면? 경우의 수 체계화 훈련이 필요합니다.

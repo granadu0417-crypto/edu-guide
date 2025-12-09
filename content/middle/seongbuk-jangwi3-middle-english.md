@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0112_1ZYJqPwh-PI.jpg"
 
 ---
 ## 성북구 장위3동 중학생, 영어가 재미없다면

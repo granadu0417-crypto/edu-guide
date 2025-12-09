@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0930_bOrjvtn7aY0.jpg"
 
 ---
 ## 서대문구 남가좌1동 고등학생, 빈칸 추론이 어렵다면

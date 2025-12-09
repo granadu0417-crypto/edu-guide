@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0708_lP8sahz2M84.jpg"
 ---
 
 ## 고구려, 백제, 신라 특징이 헷갈리고 삼국 관계가 복잡하다고요? 각 나라의 건국과 발전부터 정리하면 됩니다.

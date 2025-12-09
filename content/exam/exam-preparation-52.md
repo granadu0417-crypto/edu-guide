@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0193_WC7KIHo13Fc.jpg"
 ---
 ## 시험 시간 안에 다 못 풀어요. 시간 배분 어떻게 하면 좋을까요?
 

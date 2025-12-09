@@ -16,7 +16,7 @@ tags:
 - 변인통제
 - 실전전략
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 ---
 
 ## 과학 탐구 문제 풀이가 막막하고 실험 설계가 어렵다고요? 변인 통제의 기본부터 시작하면 됩니다.

@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 보성고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0441_zMi-TPQlmeA.jpg"
 ---
 
 벡터와 공간도형이 너무 어렵다면? 공간 벡터 집중 훈련이 필요합니다.

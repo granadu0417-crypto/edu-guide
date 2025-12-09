@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어 발음 과외로 원어민 발음, 억양, 음성학까지 완벽 교정 | 1:1 맞춤 훈련 [2025년]"
 tags: ["영어과외", "발음교정", "원어민발음", "억양", "음성학", "R발음", "L발음", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0403_Cecb0_8Hx-o.jpg"
 ---
 
 ## 영어 발음이 한국식처럼 들린다고요? R과 L 구분이 어렵고 TH 발음이 어색하다고 느끼시죠.

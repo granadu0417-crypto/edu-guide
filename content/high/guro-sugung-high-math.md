@@ -18,7 +18,7 @@ tags:
   - 우신고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0543_Cq9slNxV8YU.jpg"
 ---
 
 고등학교 수학, 혼자 하기 힘들다면 도움을 받으세요.

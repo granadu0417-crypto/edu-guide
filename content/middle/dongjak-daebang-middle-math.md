@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1531498681071-7f26e33bf85a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0448_2THdTdKs0yU.jpg"
 
 ---
 ## 동작구 대방동 중학생, 함수가 나오면서 수학이 싫어졌나요?

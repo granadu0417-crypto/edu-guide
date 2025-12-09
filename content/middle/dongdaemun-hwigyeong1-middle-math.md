@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0428_s5vr9TVunR8.jpg"
 
 ---
 ## 동대문구 휘경1동 중학생, 수학 공부 시간은 많은데 성적은 그대로인가요?

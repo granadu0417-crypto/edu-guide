@@ -22,7 +22,7 @@ tags:
   - 영어독해
   - 구반포역
   - 신반포역
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 ---
 ## 서초구 반포본동 중학생, 영어 비교급과 최상급이 헷갈린다면
 

@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 ---
 ## 송파구 잠실본동 중학생, 수학 경우의 수와 확률이 헷갈린다면

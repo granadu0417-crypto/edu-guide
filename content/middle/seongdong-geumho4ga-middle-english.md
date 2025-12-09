@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0142_duPw_zX-A7I.jpg"
 
 ---
 ## 성동구 금호4가동 중학생, 듣기가 안 들린다면

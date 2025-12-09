@@ -18,7 +18,7 @@ tags:
   - 녹천중
   - 내신관리
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 
 ---
 ## 월계1동 중학생, 영어 내신 관리가 필요하다면

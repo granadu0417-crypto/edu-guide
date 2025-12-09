@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강남서초고
   - 중동고
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0442_lbO1iCnbTW0.jpg"
 ---
 
 문법은 아는데 독해에 적용이 안 된다면? 문법 활용력 향상이 필요합니다.

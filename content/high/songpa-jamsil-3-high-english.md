@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 ---
 
 요지 파악은 되는데 주제가 헷갈린다면? 핵심 개념 추출력이 필요합니다.

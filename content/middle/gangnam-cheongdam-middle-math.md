@@ -19,7 +19,7 @@ tags:
 - 수학개념
 - 수학심화
 - 명품거리
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 
 ---
 ## 강남구 청담동 중학생, 수학 증명 문제가 막막하다면

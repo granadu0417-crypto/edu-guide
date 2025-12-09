@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "용산구 용문동 중학생을 위한 영어과외입니다. 선린중·성심여중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 ---
 
 ## 영어 실력, 지금 바꿀 수 있습니다

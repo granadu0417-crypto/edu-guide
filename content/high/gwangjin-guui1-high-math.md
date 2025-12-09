@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 동국대부가람고
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0587_uSoXP5XLC8g.jpg"
 ---
 
 고등학교 수학에서 막막함을 느끼시나요? 개념이 쌓이지 않으면 점수도 오르지 않습니다.

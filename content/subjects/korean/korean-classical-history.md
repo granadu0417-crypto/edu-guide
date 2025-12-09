@@ -13,7 +13,7 @@ tags:
 - 1:1과외
 - 문학
 - 고전문학
-featured_image: "https://images.unsplash.com/photo-1646128766968-7bae90b96b2e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0435_frGVCVssDkI.jpg"
 ---
 
 ## 고전문학이 시대별로 어떻게 달라지는지 모르겠다고요? 흐름을 알면 이해가 쉬워집니다.

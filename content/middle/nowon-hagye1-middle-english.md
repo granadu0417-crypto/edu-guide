@@ -18,7 +18,7 @@ tags:
   - 중원중
   - 문법독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0999_-IcHDTruvBA.jpg"
 
 ---
 ## 하계1동 중학생, 영어 문법과 독해를 한 번에 잡고 싶다면

@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 대치동타워팰리스
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0585_okUVwmx7n2I.jpg"
 
 ---
 ## 강남구 대치2동 중학생, 수학 계산 실수가 자꾸 나온다면

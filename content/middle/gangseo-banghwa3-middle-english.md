@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 ---
 ## 강서구 방화3동 중학생, 영어 공부를 어디서부터 시작해야 할지 모르겠나요?

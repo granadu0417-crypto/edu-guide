@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강남역
-featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0604_fvT3t9iOaJI.jpg"
 
 ---
 ## 강남구 논현1동 중학생, 영어 가정법 문장이 복잡하다면

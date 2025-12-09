@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 ---
 
 긴 문장 해석이 어렵다면? 복합 구문 분석력이 필요합니다.

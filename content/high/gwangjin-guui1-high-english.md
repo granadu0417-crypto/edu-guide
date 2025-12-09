@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 동국대부가람고
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0586_pMnw5BSZYsA.jpg"
 ---
 
 긴 지문을 읽어도 무슨 말인지 모르겠다고요? 고등 영어는 방법이 달라야 합니다.

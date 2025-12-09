@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0556_qB0erAjz70U.jpg"
 
 ---
 ## 강동구 강일동 중학생, 영어를 잘하고 싶은데 어디서부터 시작해야 할지 모르겠다면

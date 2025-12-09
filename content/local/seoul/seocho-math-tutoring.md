@@ -8,7 +8,7 @@ regions:
 cities:
   - 서초구
 tags: ["서초구", "수학과외", "반포동", "서초동", "방배동", "수학", "과외", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 ---
 
 "서초구에서 수학 잘 가르치는 선생님 어디서 찾죠?"

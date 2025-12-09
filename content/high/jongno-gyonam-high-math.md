@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0724_VDow9qDDMKc.jpg"
 ---
 
 서술형에서 풀이 과정 점수가 자꾸 깎인다면? 논리적 서술력 훈련이 필요합니다.

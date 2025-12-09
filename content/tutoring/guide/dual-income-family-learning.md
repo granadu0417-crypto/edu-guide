@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 맞벌이 가정의 학습 관리 전략. 1:1 과외 활용, 시간 관리, 소통 방법, 효율적 학습 지원을 안내합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0801_RQjVO9KFMUg.jpg"
 reading_time: 160줄
 ---
 

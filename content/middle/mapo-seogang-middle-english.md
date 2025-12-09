@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1585155770913-5bde2a9d5e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0906_fvaB1MK6NxM.jpg"
 
 ---
 ## 마포구 서강동 중학생, 학원 영어가 안 맞다면

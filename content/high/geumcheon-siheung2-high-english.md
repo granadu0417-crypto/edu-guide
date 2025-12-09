@@ -18,7 +18,7 @@ tags:
   - 동일여고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0504_P7yu-JaYm64.jpg"
 ---
 
 어휘를 열심히 외우는데 독해가 안 된다면, 공부 방법을 바꿔야 합니다.

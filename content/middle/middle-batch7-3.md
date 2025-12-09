@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 ---
 ## 고등학교 입학까지 남은 시간, 어떻게 쓰시겠습니까?
 

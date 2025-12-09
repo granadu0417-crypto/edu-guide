@@ -22,7 +22,7 @@ tags:
   - 사당역
   - 방배역
   - 이수역
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 ---
 ## 서초구 방배4동 중학생, 수학 피타고라스 정리 활용이 어렵다면
 

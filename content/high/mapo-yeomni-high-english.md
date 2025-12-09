@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1618044733300-9472054094ee?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0834_B6yDtYs2IgY.jpg"
 
 ---
 ## 마포구 염리동 고등학생, 어휘가 부족하다면

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 신일고
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 ---
 
 영어 공부를 하긴 하는데, 성적이 왜 안 오를까요?

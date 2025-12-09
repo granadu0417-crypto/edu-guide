@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0411_5ibMJiDCEss.jpg"
 
 ---
 ## 도봉구 쌍문1동 중학생, 영어 성적이 좀처럼 오르지 않나요?

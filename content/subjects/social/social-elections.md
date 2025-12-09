@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 ---
 
 ## 선거 제도 종류가 많고 선거 원칙이 헷갈린다고요? 선거의 기본 원리부터 정리하면 됩니다.

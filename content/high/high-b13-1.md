@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0624_63QhquTNx-4.jpg"
 ---
 ## 모든 과목이 다 중요하다는데, 시간은 한정되어 있잖아요
 

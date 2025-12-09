@@ -21,7 +21,7 @@ tags:
   - 중앙중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0825_cuvK4j-qXIs.jpg"
 
 ---
 ## 종로구 숭인2동 중학생, 영어 명령문과 감탄문이 헷갈린다면

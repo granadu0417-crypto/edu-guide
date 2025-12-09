@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 
 ---
 ## 성북구 하월곡동 중학생, 수학 점수가 들쭉날쭉하다면

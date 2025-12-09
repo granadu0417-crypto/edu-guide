@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0014_cRR-aTdLAu4.jpg"
 
 ---
 ## 성동구 용답동 고등학생, 등급이 오르락내리락한다면

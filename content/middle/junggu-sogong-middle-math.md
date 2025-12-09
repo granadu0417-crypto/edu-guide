@@ -19,7 +19,7 @@ tags:
 - 환일중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1585155770913-5bde2a9d5e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0854_V0ogk2x_WdA.jpg"
 
 ---
 ## 중구 소공동 중학생, 수학 함수의 그래프 해석이 어렵다면

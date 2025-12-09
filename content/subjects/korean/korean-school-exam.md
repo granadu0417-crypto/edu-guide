@@ -10,7 +10,7 @@ tags:
 - 내신
 - 학교시험
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0487_P3p-Vf4Gxko.jpg"
 ---
 
 ## 국어 내신 어떻게 준비해야 하는지 막막하다고요? 학교별 출제 패턴을 알면 됩니다.

@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 ---
 ## 시험 기간만 되면 너무 힘들다고요?
 

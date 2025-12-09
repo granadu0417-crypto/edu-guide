@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 천호고
   - 강동고
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0374_hMFkHxwP4ZU.jpg"
 ---
 
 지문 해석은 되는데 답 고르기가 어렵다면? 선지 분석력 훈련이 필요합니다.

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0479_cHBdiSTqgN8.jpg"
 ---
 
 공식은 외웠는데 왜 그런지는 모르시나요?

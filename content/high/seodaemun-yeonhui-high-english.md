@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0936_e6Tlkz966g8.jpg"
 
 ---
 ## 서대문구 연희동 고등학생, 문법이 헷갈린다면

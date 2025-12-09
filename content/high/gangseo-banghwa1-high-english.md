@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 한서고
   - 동양고
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0448_2THdTdKs0yU.jpg"
 ---
 
 영어 지문을 읽어도 무슨 말인지 모르겠나요?

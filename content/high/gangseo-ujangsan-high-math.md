@@ -18,7 +18,7 @@ tags:
   - 수명고
   - 명덕고
   - 명덕여고
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0489_-onz_n4DUes.jpg"
 ---
 
 수학 때문에 대학 진학이 걱정되시나요?

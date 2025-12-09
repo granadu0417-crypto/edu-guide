@@ -19,7 +19,7 @@ tags:
   - 선유고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0119_u-05DwhpE4w.jpg"
 
 ---
 ## 영등포구 문래동 고등학생, 대입 준비가 걱정된다면

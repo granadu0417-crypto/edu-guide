@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0426_Zg9R__O-8fM.jpg"
 
 ---
 ## 동대문구 회기동 중학생, 시험만 보면 아는 문제도 틀리나요?

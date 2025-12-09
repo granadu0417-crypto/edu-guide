@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0476_FMlWDLErXzA.jpg"
 ---
 
 영어 실력이 제자리인 것 같나요?

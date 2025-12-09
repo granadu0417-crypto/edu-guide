@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0730_l3N9Q27zULw.jpg"
 
 ---
 ## 관악구 행운동 중학생, 수학 공부 시간은 많은데 성적은 그대로인가요?

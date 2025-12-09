@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0418_vqNYSTwcTW8.jpg"
 ---
 
 어휘는 열심히 외웠는데 독해가 안 된다면? 구문 분석 능력 향상이 필요합니다.

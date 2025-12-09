@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광양고
-featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0596_yCNVmUwMcjg.jpg"
 ---
 
 순서 배열 문제에서 자주 실수하시나요? 글의 논리 흐름을 파악하는 훈련이 필요합니다.

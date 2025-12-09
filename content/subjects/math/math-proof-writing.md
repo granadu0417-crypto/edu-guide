@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 추론
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0552_QAwSbedbHD0.jpg"
 ---
 
 ## 증명 문제만 나오면 막막하다고요? 어디서부터 시작해야 할지도 모르겠고 논리적으로 쓰는 게 어렵다고 느끼시죠.

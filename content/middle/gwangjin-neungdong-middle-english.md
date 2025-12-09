@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0789_by0jdgv_gTg.jpg"
 ---
 ## 광진구 능동 중학생, 영어 가정법이 어렵다면
 

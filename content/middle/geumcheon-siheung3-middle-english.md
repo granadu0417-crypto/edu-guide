@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1584430108633-a8da0b5eb7ee?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 
 ---
 ## 금천구 시흥3동 중학생, 문법은 외웠는데 적용이 안 되나요?

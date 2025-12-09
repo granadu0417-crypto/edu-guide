@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0745_Mn4_KuFSpe4.jpg"
 
 ---
 ## 관악구 난향동 중학생, 영어 점수가 80점대에서 안 오르나요?

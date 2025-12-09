@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 한서고
   - 동양고
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 ---
 
 영어 공부 계획을 세워도 안 지켜지나요?

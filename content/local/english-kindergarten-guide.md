@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어유치원 완벽 가이드 | 영어유치원 종류·선택 기준·입학 준비·커리큘럼·적응 방법·장단점·주의사항까지 상세 안내"
 tags: ["영어유치원", "유아영어교육", "조기영어", "영어교육", "유치원선택", "유아교육", "이중언어", "영어몰입"]
-featured_image: "https://images.unsplash.com/photo-1586165368502-1bad197a6461?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0200_LGkyjQQIM_o.jpg"
 ---
 
 ## 영어유치원 보내야 할까요? 우리 아이에게 맞는지 고민이시죠.

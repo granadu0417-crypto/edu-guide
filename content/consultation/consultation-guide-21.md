@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 ---
 
 ## 공부 계획은 매번 세우는데 왜 항상 작심삼일일까요? 실천 가능한 계획은 어떻게 세우나요?

@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0933_jzcXsWmvKlw.jpg"
 ---
 ## 중학교 끝나면 끝인 게 아닙니다, 고등학교가 기다리고 있습니다
 

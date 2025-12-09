@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 ---
 ## 1학년부터 6학년까지, 학년마다 뭐가 중요할까요?
 

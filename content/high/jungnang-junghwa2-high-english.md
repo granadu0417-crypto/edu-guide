@@ -15,7 +15,7 @@ tags:
   - 수능영어
   - 영어내신
 description: "중랑구 중화2동 고등학생을 위한 1:1 맞춤 영어과외. 중랑구 관내 고등학교 내신 완벽 대비, 수능 영어까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0777_LJ2ksdahQZ8.jpg"
 ---
 
 고등학교 영어 성적이 제자리라면, 방법을 바꿔보세요.

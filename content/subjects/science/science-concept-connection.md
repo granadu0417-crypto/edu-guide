@@ -10,7 +10,7 @@ tags:
 - 통합과학
 - 융합과학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0586_pMnw5BSZYsA.jpg"
 ---
 
 ## 과학 과목들이 따로따로 노는 것 같고 연결이 안 된다고요? 통합적 시각을 기르면 됩니다.

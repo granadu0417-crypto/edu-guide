@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1554118879-bdb1043d9a95?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0300_CtKO4NGiEhE.jpg"
 
 ---
 ## 동작구 상도4동 고등학생, 수학 실력이 오르지 않는다면

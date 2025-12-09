@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 명일고
   - 강동고
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 ---
 
 내신 서술형에서 감점이 많다면? 영작 정확도 훈련이 필요합니다.

@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0899_HssMuggJe98.jpg"
 
 ---
 ## 마포구 합정동 중학생, 실력이 제자리라면

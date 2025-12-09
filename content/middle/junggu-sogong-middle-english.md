@@ -19,7 +19,7 @@ tags:
 - 환일중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1572177812156-58036aae439c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0853_fx8l015fEBs.jpg"
 
 ---
 ## 중구 소공동 중학생, 영어 동명사와 부정사가 헷갈린다면

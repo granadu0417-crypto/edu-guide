@@ -16,7 +16,7 @@ tags:
 - 인과관계
 - 역사분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0672_z8XO8BfqpYc.jpg"
 ---
 
 ## 역사가 암기 과목처럼 느껴지고 사료 해석이 막막하다고요? 사건의 인과 관계부터 찾으면 됩니다.

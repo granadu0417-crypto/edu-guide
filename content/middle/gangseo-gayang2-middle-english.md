@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1587134160474-cd8cd6bb5f9f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0638_44yHbssvRDI.jpg"
 
 ---
 ## 강서구 가양2동 중학생, 영어 때문에 고등학교 준비가 걱정되나요?

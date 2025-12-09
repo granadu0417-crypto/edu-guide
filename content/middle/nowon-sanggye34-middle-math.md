@@ -18,7 +18,7 @@ tags:
   - 온곡중
   - 내신관리
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0018_MAtFlkixDf4.jpg"
 
 ---
 ## 상계3·4동 중학생, 수학 시험 점수가 안 나온다면

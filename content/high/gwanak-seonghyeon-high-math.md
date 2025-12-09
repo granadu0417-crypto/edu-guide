@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 개념완성
-featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0573_Xj4mcAdRHJ8.jpg"
 ---
 
 수학 문제를 보면 어디서부터 시작해야 할지 모르겠다는 학생들이 많습니다. 풀이 방향을 못 잡는 거죠.

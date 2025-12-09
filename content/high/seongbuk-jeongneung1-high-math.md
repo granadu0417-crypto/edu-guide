@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0961_QfrTfjHzQIU.jpg"
 
 ---
 ## 성북구 정릉1동 고등학생, 대입 준비가 막막하다면

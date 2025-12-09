@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1597462036098-7ce66b1c43ad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0559_lJl75Qah5vc.jpg"
 ---
 ## 강동구 길동 중학생, 수학 제곱근 계산이 어렵다면
 

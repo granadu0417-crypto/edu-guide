@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0713_9FwZsKFnZ9c.jpg"
 
 ---
 ## 구로구 오류1동 중학생, 영어 학원 숙제만 하다가 시간이 다 가나요?

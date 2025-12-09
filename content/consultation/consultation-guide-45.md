@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0067_4-EeTnaC1S4.jpg"
 ---
 
 ## 할 일은 많은데 시간이 모자라요. 학교, 학원, 숙제, 수면까지... 하루 24시간이 부족해요.

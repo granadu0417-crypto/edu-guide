@@ -10,7 +10,7 @@ tags:
 - 발생
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0588_CzShzocZtW0.jpg"
 ---
 
 ## 발생 과정이 복잡하고 용어가 많아서 헷갈린다고요? 단계별로 정리하면 명확해집니다.

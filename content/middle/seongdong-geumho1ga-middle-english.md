@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1586165368502-1bad197a6461?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0138_ToXcOYNaqzo.jpg"
 
 ---
 ## 성동구 금호1가동 중학생, 학원 영어가 안 맞다면

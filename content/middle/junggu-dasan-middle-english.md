@@ -19,7 +19,7 @@ tags:
 - 장충중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0829_XxlZrSiPwpU.jpg"
 
 ---
 ## 중구 다산동 중학생, 영어 가주어 it 구문이 어렵다면

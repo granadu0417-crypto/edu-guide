@@ -9,7 +9,7 @@ regions:
 cities:
   - 안양시
 tags: ["안양영어과외", "평촌영어과외", "안양초등영어", "안양중등영어", "안양고등영어", "평촌학원"]
-featured_image: "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0215_RYLS_8oj5jQ.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

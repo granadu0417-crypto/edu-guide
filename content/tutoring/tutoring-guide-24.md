@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 ---
 
 ## 수학 과외를 시작하려는데, 개념이 먼저인가요 문제 풀이가 먼저인가요?

@@ -17,7 +17,7 @@ tags:
 - 입시
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0553_W0ylMM-xED0.jpg"
 ---
 
 ## 작년에도 수학 때문에 원하는 대학에 못 갔다고요? 올해는 절대 실패할 수 없다는 압박감에 숨이 막힌다고 느끼시죠.

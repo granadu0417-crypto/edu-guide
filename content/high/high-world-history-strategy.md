@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 세계사 완전 정복 가이드. 고대문명부터 현대사까지 역사의 흐름과 맥락 이해. 수능 만점을 위한 체계적 학습법."
 tags: ["고등세계사", "세계사학습법", "수능세계사", "역사공부", "문명사", "사회탐구", "역사암기", "세계사개념"]
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0706_D-4Wg5l8Hks.jpg"
 ---
 
 ## 세계사가 너무 복잡해요. 로마랑 그리스랑 뭐가 다른 건지, 중세랑 근대랑 어떻게 구분하는지 모르겠어요.

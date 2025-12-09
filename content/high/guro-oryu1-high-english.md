@@ -16,7 +16,7 @@ tags:
   - 고척고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 ---
 
 영어 성적이 오르락내리락한다면, 실력이 완전히 잡히지 않은 것입니다.

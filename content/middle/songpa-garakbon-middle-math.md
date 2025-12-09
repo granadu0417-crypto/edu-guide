@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 가락시장역
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0180_HZhPIqXdwYI.jpg"
 
 ---
 ## 송파구 가락본동 중학생, 수학 대푯값의 선택이 어렵게 느껴진다면

@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0776_xO-3DzLajuo.jpg"
 ---
 ## 광진구 자양2동 중학생, 수학 일차부등식이 헷갈린다면
 

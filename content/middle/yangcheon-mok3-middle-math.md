@@ -18,7 +18,7 @@ tags:
   - 양동중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0246_K71qn-MApdk.jpg"
 
 ---
 ## 양천구 목3동 중학생, 내신 준비가 막막하다면

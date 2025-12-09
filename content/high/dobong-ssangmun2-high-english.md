@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 서라벌고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0241_Z44qEGdwaIo.jpg"
 
 ---
 ## 쌍문2동 고등학생, 단어는 다 아는데 문장이 해석이 안 되나요?

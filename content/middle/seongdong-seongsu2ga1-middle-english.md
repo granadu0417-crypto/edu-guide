@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 
 ---
 ## 성동구 성수2가1동 중학생, 시험 점수가 들쭉날쭉하다면

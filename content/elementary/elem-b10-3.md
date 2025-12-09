@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 ---
 ## 4학년이 되면서 갑자기 과목이 많아졌죠?
 

@@ -18,7 +18,7 @@ tags:
   - 진명여고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1526925539332-aa3b66e35444?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0072_oikrPWDdbF4.jpg"
 
 ---
 ## 양천구 목1동 고등학생, 수학 성적 향상이 시급하다면

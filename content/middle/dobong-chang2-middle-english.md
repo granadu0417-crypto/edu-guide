@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1619410283995-43d9134e7656?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0399_p74ndnYWRY4.jpg"
 
 ---
 ## 도봉구 창2동 중학생, 영어 때문에 전체 등급이 낮아지고 있나요?

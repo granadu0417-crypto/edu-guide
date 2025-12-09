@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0769_hMGhFaFMG2I.jpg"
 ---
 ## 광진구 광장동 중학생, 영어 비교급과 최상급이 헷갈린다면
 

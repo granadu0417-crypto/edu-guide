@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0417_ObTfaF2hngw.jpg"
 
 ---
 ## 도봉구 쌍문4동 중학생, 영어 시험 시간이 항상 부족한가요?

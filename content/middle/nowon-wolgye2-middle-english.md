@@ -18,7 +18,7 @@ tags:
   - 녹천중
   - 문법독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 
 ---
 ## 월계2동 중학생, 영어 점수를 올리고 싶다면

@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0161_GMY1JbRHlB0.jpg"
 
 ---
 ## 성동구 성수2가3동 중학생, 계산 실수가 잦다면

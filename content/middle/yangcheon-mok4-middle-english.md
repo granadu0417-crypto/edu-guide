@@ -18,7 +18,7 @@ tags:
   - 영도중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0247_eIhFwKh20zY.jpg"
 
 ---
 ## 양천구 목4동 중학생, 고입이 걱정된다면

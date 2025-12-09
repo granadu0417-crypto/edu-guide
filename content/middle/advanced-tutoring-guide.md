@@ -10,7 +10,7 @@ tags:
 - 경시대회
 - 중등과외
 - 영재교육
-featured_image: "https://images.unsplash.com/photo-1587134160474-cd8cd6bb5f9f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0386_cEiCBMK_Ob8.jpg"
 ---
 ## 이미 1등급인데 과외가 필요할까요?
 

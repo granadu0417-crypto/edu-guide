@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 동국대사범대부속고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0263_7Wf684C9nwU.jpg"
 
 ---
 ## 동대문구 장안1동 고등학생, 영어 학원 숙제만 하다가 시간이 다 가나요?

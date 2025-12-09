@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 ---
 ## 예체능 이론 시험이 생각보다 어려워요. 어떻게 준비해야 하나요?
 

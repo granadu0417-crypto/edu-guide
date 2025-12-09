@@ -9,7 +9,7 @@ regions:
 cities:
   - 부천시
 tags: ["부천교육", "부천학원", "부천과외", "중동학원가", "상동학원", "부천입시"]
-featured_image: "https://images.unsplash.com/photo-1528979255245-e58f16e21e58?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0218_iuV2js-pJLw.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

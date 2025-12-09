@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 독해문법
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0550_6NbSIxwZ3_4.jpg"
 ---
 
 영어 성적이 생각처럼 오르지 않아 답답하시죠? 공부를 안 하는 게 아닌데 성적이 제자리인 경우가 많습니다.

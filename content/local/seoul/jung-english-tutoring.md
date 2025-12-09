@@ -18,7 +18,7 @@ tags:
 - 수능영어
 - 영어회화
 - 내신영어
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 ---
 
 "우리 아이 영어, 어떻게 해야 진짜 실력이 늘까요?"

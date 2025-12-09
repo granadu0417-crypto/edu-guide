@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 시험준비
-featured_image: "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 ---
 ## 면접이 너무 무서워요. 뭘 물어볼지도 모르겠고, 어떻게 대답해야 할지도 모르겠어요
 

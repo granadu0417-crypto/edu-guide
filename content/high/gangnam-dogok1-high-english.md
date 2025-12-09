@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0412_BlIhVfXbi9s.jpg"
 ---
 
 듣기는 만점인데 독해에서 점수가 깎인다면? 독해 정확도 향상이 필요합니다.

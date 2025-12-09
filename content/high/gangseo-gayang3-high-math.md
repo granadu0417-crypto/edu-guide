@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 세현고
-featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0465_Wh6zKRoLnrE.jpg"
 ---
 
 수학 성적이 제자리인가요?

@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 ---
 
 ## 기본권 종류가 헷갈리고 헌법 조문 암기가 어렵다고요? 헌법의 기본 원리부터 이해하면 됩니다.

@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 ---
 ## 중학교 가기 전에 초등 과정을 완벽히 정리하셨나요?
 

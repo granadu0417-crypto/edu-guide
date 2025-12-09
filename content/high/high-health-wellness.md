@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 건강 관리 완전 가이드. 수면, 운동, 영양, 자세까지 성적과 건강을 모두 잡는 실천 전략."
 tags: ["건강관리", "수면", "운동", "영양", "체력관리", "건강습관", "바른자세", "면역력"]
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"
 ---
 
 ## 공부하느라 잠도 못 자고 밥도 제대로 못 먹어요. 몸이 안 좋아지는 것 같은데 성적도 잡고 건강도 챙길 수 있나요?

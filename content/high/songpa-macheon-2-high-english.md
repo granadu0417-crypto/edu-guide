@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 마천고
   - 잠실고
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0046_sjkXYJYrU5g.jpg"
 ---
 
 함축적 의미 파악이 어렵다면? 비유적 표현 이해력이 필요합니다.

@@ -19,7 +19,7 @@ tags:
   - 선유고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1569012871812-f38ee64cd54c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0135_i3rBo3b9QbA.jpg"
 
 ---
 ## 영등포구 양평2동 고등학생, 듣기 점수가 안 나온다면

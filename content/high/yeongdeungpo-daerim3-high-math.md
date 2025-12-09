@@ -19,7 +19,7 @@ tags:
   - 영신고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0112_1ZYJqPwh-PI.jpg"
 
 ---
 ## 영등포구 대림3동 고등학생, 체계적 관리가 필요하다면

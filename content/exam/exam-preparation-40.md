@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0180_HZhPIqXdwYI.jpg"
 ---
 ## 예체능 내신도 성적에 들어가는데 실기랑 이론 어떻게 준비해야 하나요?
 

@@ -18,7 +18,7 @@ tags:
   - 중원중
   - 내신대비
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 
 ---
 ## 하계2동 중학생, 수학 내신 점수를 확실히 올리고 싶다면

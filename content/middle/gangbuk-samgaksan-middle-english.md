@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0524_C9X7scal6Jo.jpg"
 
 ---
 ## 강북구 삼각산동 중학생, 영어 공부 방법을 몰라 답답한가요?

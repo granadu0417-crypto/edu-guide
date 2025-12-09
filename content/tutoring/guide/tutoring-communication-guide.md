@@ -14,7 +14,7 @@ tags:
 - 중등
 description: 효과적인 소통 전략. 선생님과의 소통 방법, 학부모의 역할, 학생의 책임, 피드백 주고받기 방법을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 reading_time: 160줄
 ---
 

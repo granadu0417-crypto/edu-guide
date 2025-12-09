@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 대치동학원가
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0582_gjx4NNYyB00.jpg"
 
 ---
 ## 강남구 대치1동 중학생, 영어 독해 속도가 안 나온다면

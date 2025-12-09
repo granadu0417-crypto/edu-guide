@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0827_BUiSpTOqM14.jpg"
 
 ---
 ## 마포구 서교동 고등학생, 킬러 문항이 막힌다면

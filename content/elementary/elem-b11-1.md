@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 ---
 ## 4학년까지는 쉬웠는데, 5학년 되니까 갑자기 어렵다고요?
 

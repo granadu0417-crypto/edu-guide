@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 
 ---
 ## 강서구 방화2동 중학생, 방정식이 나오면서 수학이 어려워졌나요?

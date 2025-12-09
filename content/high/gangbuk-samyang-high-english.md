@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 신일고
   - 영훈고
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 ---
 
 영어 지문이 눈에 안 들어온다고요? 읽어도 무슨 말인지 모르겠다고요?

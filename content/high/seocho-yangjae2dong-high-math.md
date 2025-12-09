@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 언남고
   - 양재고
-featured_image: "https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0909_LXDFEdtEGUQ.jpg"
 ---
 
 풀이 방향은 맞는데 결과가 틀린다면? 계산 검증 습관을 들여야 합니다.

@@ -16,7 +16,7 @@ tags:
   - 영어내신
   - 중등영어과외
 description: "은평구 진관동 중학생을 위한 영어과외입니다. 진관중 내신 대비와 영어 실력 향상을 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0500_UqTrGSohyCs.jpg"
 ---
 
 ## 하나고 진학을 꿈꾼다면 영어부터

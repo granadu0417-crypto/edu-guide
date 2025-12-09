@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["중랑구", "영어과외", "면목동", "망우동", "상봉동", "영어", "과외", "중랑천", "내신영어", "수능영어"]
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0344_qx-gV45_8-A.jpg"
 ---
 
 "영어 학원은 다녔는데 성적이 안 올라요."

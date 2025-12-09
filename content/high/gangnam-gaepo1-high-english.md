@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 개포고
   - 대진고
-featured_image: "https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0416_ti4kGLkGgmU.jpg"
 ---
 
 긴 지문 중간에서 집중력이 떨어진다면? 지문 분석 전략 훈련이 필요합니다.

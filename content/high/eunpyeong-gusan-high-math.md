@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 구산동 고등학생을 위한 수학과외입니다. 은평고·예일여고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 ---
 
 ## 수학 성적이 떨어졌다면 이유가 있습니다

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1548102245-c79dbcfa9f92?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 ---
 ## 성북구 돈암1동 중학생, 단어 암기가 어렵다면

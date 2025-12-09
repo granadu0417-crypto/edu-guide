@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 일원주거단지
-featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0600_4bF980HkVWA.jpg"
 
 ---
 ## 강남구 일원1동 중학생, 영어 수동태 문장이 헷갈린다면

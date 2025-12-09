@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 도봉고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0238_1jF-rt6MokU.jpg"
 
 ---
 ## 도봉2동 고등학생, 수학 공부에 의욕이 없어졌나요?

@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 건대부고
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0594_ecELcxmJTk4.jpg"
 ---
 
 빈칸 추론 문제에서 자주 틀리시나요? 논리적 사고와 어휘력이 함께 필요합니다.

@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 신사1동 고등학생을 위한 수학과외입니다. 은평고·예일여고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0331_QcyenJDqDzw.jpg"
 ---
 
 ## 은평고 내신, 어떻게 대비할까요?

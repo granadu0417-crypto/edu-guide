@@ -9,7 +9,7 @@ regions:
 cities:
   - 수원시
 tags: ["수원교육", "수원학원", "수원과외", "영통학원", "매탄학원", "수원입시"]
-featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0267_TSRMOX6FV3A.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

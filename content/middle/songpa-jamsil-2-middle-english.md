@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 
 ---
 ## 송파구 잠실2동 중학생, 영어 원급·비교급·최상급 쓰임이 헷갈린다면

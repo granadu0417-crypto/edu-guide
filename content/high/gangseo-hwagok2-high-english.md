@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화곡고
-featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0470_6N5XRJSiE64.jpg"
 ---
 
 긴 영어 지문만 보면 막막하시나요?

@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 도봉고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0219_ms9jkviZ_X8.jpg"
 
 ---
 ## 방학1동 고등학생, 영어 지문을 읽어도 무슨 말인지 모르겠나요?

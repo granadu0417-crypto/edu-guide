@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1570063578733-6a33b69d1439?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0431_505eectW54k.jpg"
 
 ---
 ## 동대문구 이문1동 중학생, 중학교 영어가 생각보다 어려운가요?

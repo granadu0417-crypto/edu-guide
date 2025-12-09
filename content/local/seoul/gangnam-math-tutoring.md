@@ -18,7 +18,7 @@ tags:
 - 수능수학
 - 1:1과외
 - 강남과외
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0326_n9AaeihA9HI.jpg"
 ---
 
 "우리 아이, 수학 선행이 필요할까요? 개념부터 잡아야 할까요?"

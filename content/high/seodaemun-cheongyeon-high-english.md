@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0916_yvTRTEnoL1k.jpg"
 
 ---
 ## 서대문구 천연동 고등학생, 수능 영어 1등급을 원한다면

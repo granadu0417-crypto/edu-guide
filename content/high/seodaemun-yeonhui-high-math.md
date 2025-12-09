@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0937_LLfRMRT-9AY.jpg"
 
 ---
 ## 서대문구 연희동 고등학생, 수학 1등급을 원한다면

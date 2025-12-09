@@ -16,7 +16,7 @@ tags:
   - 고척고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0537_Gao5bjSywkE.jpg"
 ---
 
 수학 공부를 열심히 하는데 성적이 그대로라면, 학습 방법을 점검해야 합니다.

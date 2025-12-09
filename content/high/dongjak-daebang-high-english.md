@@ -21,7 +21,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0275_2N518py2mrQ.jpg"
 
 ---
 ## 동작구 대방동 고등학생, 영어 때문에 대학이 걱정이라면

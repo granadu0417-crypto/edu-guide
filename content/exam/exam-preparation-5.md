@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0190_uIJ_SJpp-Fw.jpg"
 ---
 ## 우리 학교 선생님 시험 문제 스타일이 다 다른데, 어떻게 준비해야 해요?
 

@@ -19,7 +19,7 @@ tags:
   - 대영고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1564679172142-d83ff32c2f1e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 
 ---
 ## 영등포구 신길5동 고등학생, 고3인데 급하다면

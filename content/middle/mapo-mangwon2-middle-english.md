@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0902_MCzoo60m-Nw.jpg"
 
 ---
 ## 마포구 망원2동 중학생, 고등 영어가 걱정된다면

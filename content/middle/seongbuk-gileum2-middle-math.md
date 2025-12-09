@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0105_R6_QCg7DwKg.jpg"
 
 ---
 ## 성북구 길음2동 중학생, 시험 불안이 있다면

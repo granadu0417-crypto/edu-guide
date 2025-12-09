@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0554_eqtDywtlAzY.jpg"
 ---
 ## 강동구 둔촌2동 중학생, 영어 간접의문문이 복잡하다면
 

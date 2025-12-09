@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 ---
 ## 중학교 때 공부 안 해도 잘 나왔는데, 고등학교는 왜 이렇게 어려운가요?
 

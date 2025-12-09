@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 서울외국어고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0226_9eppPl9-5T8.jpg"
 
 ---
 ## 창1동 고등학생, 수학 때문에 잠을 제대로 못 자고 있나요?

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0890_6kQCkyNW3gY.jpg"
 
 ---
 ## 마포구 아현동 중학생, 영어가 어렵게 느껴진다면

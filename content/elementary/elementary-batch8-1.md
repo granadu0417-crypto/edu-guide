@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 ---
 ## 처음 학교 가는 아이, 뭐부터 챙겨야 할지 막막하시죠?
 

@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 
 ---
 ## 구로구 개봉3동 중학생, 영어 자신감이 점점 없어지고 있나요?

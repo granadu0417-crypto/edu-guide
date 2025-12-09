@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 
 ---
 ## 강서구 가양1동 중학생, 혼자 공부하려니 어디서부터 시작해야 할지 모르겠나요?

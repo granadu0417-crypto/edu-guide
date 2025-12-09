@@ -18,7 +18,7 @@ tags:
   - 염광여고
   - 내신수능
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0844_rKuWB69j9W8.jpg"
 
 ---
 ## 공릉1동 고등학생, 수학 고득점을 목표로 한다면

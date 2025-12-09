@@ -8,7 +8,7 @@ regions:
 cities:
   - 관악구
 tags: ["관악구", "영어과외", "신림동", "봉천동", "남현동", "영어", "과외", "서울대", "내신영어", "수능영어", "1:1과외", "영문과", "영어교육과"]
-featured_image: "https://images.unsplash.com/photo-1643021456787-8c4ad7e7e9fa?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 ---
 
 "서울대 영문과 학생한테 과외 받으면 정말 효과 있을까요?"

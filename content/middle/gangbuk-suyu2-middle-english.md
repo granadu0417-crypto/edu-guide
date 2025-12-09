@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0534_EihY2efxBPE.jpg"
 
 ---
 ## 강북구 수유2동 중학생, 독해 지문을 읽어도 내용 파악이 안 되나요?

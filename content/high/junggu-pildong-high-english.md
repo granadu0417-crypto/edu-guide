@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1522542550221-31fd8575ffe4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0765_UStQpco0TWo.jpg"
 ---
 
 문법 문제는 맞는데 독해가 안 된다면? 구문 분석력을 키워야 합니다.

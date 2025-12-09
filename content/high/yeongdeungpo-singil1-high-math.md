@@ -19,7 +19,7 @@ tags:
   - 영신고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 
 ---
 ## 영등포구 신길1동 고등학생, 실력 정체가 답답하다면

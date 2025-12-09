@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 
 ---
 ## 강서구 마곡동 중학생, 영어 성적이 오르락내리락 불안정한가요?

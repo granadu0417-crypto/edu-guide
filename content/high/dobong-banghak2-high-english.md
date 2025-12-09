@@ -18,7 +18,7 @@ tags:
   - 창동고
   - 도봉고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0221_PYVZPTgXBZ0.jpg"
 
 ---
 ## 방학2동 고등학생, 단어 외워도 금방 까먹나요?

@@ -19,7 +19,7 @@ tags:
   - 수락고
   - 수학개념
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0864_WIdhvewqlOo.jpg"
 
 ---
 ## 상계2동 고등학생, 수학 개념이 흔들린다면

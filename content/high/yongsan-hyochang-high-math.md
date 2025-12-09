@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "용산구 효창동 고등학생을 위한 수학과외입니다. 배문고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0154_TOBRTuE_uXA.jpg"
 ---
 
 ## 수학, 혼자 하기엔 한계가 있습니다

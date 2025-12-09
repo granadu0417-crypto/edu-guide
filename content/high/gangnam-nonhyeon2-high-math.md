@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 영동고
   - 진선여고
-featured_image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0431_505eectW54k.jpg"
 ---
 
 미적분 시작부터 벽에 부딪혔다면? 미적분 기초 다지기가 필요합니다.

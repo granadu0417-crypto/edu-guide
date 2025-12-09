@@ -18,7 +18,7 @@ tags:
   - 신원중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1638131467178-7a02c0a48d96?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0263_7Wf684C9nwU.jpg"
 
 ---
 ## 양천구 신월1동 중학생, 영포자가 될 것 같다면

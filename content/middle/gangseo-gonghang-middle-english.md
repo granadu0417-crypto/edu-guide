@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0642_ID1yWa1Wpx0.jpg"
 
 ---
 ## 강서구 공항동 중학생, 문장 구조 파악이 안 돼서 해석이 어려운가요?

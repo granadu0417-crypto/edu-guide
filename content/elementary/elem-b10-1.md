@@ -13,7 +13,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0099_CAtC53bw-Ko.jpg"
 ---
 ## 3학년까지는 외워서 풀었는데, 4학년부터 안 통하네요?
 

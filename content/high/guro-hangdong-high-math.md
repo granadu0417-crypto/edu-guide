@@ -16,7 +16,7 @@ tags:
   - 유한공고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0535_Yf4c93bRNgc.jpg"
 ---
 
 수학 기초가 부족해도 지금부터 시작하면 됩니다.

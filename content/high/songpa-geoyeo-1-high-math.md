@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 문정고
-featured_image: "https://images.unsplash.com/photo-1523289333742-be1143f6b766?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 ---
 
 도형 문제에서 보조선을 못 긋는다면? 기하 직관력 훈련이 필요합니다.

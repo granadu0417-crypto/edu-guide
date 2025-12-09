@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 킬러문항
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 ---
 ## 성북구 보문동 고등학생, 시간 관리가 안 된다면

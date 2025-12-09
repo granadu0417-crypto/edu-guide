@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 맞춤커리큘럼
-featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 ---
 
 같은 수학 수업을 들어도 성적이 다른 이유가 있습니다. 나에게 맞는 방법으로 공부하고 있는지가 중요합니다.

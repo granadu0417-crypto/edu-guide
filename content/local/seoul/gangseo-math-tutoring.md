@@ -8,7 +8,7 @@ regions:
 cities:
   - 강서구
 tags: ["강서구", "수학과외", "목동", "화곡동", "염창동", "수학", "과외", "목동학원가", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0329_nyZauHXn3P0.jpg"
 ---
 
 "목동 학원가가 있으니까 과외는 필요 없겠죠?"

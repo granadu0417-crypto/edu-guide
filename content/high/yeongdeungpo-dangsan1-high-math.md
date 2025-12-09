@@ -19,7 +19,7 @@ tags:
   - 선유고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 ---
 ## 영등포구 당산1동 고등학생, 수능 수학이 두렵다면

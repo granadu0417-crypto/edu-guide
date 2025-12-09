@@ -8,7 +8,7 @@ regions:
 cities:
   - 금천구
 tags: ["금천구", "수학과외", "독산동", "시흥동", "가산동", "수학", "과외", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0331_QcyenJDqDzw.jpg"
 ---
 
 "독산·시흥 지역에서도 체계적인 수학 교육 받을 수 있나요?"

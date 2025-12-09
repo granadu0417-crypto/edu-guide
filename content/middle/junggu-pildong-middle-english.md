@@ -20,7 +20,7 @@ tags:
   - 대경중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1612011213103-e3629ccb8b4c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0847_Zck1ap7muew.jpg"
 
 ---
 ## 중구 필동 중학생, 영어 부사절이 어렵다면

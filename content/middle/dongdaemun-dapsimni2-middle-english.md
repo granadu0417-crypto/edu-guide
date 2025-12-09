@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0423_4OdjDeB78GM.jpg"
 
 ---
 ## 동대문구 답십리2동 중학생, 영어 자신감이 점점 없어지고 있나요?

@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 ---
 ## 성북구 장위3동 중학생, 선행보다 현행이 중요하다면

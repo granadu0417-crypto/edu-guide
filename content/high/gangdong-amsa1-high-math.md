@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강동고
   - 한영외고
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 ---
 
 함수 그래프를 보고도 식을 세우지 못한다면? 그래프 해석력 훈련이 필요합니다.

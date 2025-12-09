@@ -14,7 +14,7 @@ tags:
 - 독해력
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 ---
 ## 국어 등급이 안 나와요. 비문학도 어렵고 문학도 어렵고 다 어려워요.
 

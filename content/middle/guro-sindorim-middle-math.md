@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0718_9amdMcLR87A.jpg"
 
 ---
 ## 구로구 신도림동 중학생, 수학 성적이 오르락내리락 불안정한가요?

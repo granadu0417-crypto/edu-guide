@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0811_9f838SoA-f0.jpg"
 
 ---
 ## 마포구 대흥동 고등학생, 수학 1등급을 원한다면

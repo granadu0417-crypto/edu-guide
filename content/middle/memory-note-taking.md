@@ -10,7 +10,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습방법
-featured_image: "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0924_etj-QYTuSjQ.jpg"
 ---
 ## 외워도 외워도 시험장만 가면 하얘진다고요?
 

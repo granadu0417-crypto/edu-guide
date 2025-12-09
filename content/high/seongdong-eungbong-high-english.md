@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1568702846914-96b305d2ead1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 
 ---
 ## 성동구 응봉동 고등학생, 듣기가 안 된다면

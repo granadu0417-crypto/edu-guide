@@ -17,7 +17,7 @@ tags:
   - 구로고
   - 내신대비
   - 수능수학
-featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0531_XElzSkhBd4g.jpg"
 ---
 
 수학 공부를 많이 하는데 성적이 안 오른다면, 방법이 잘못된 것입니다.

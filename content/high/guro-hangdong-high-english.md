@@ -16,7 +16,7 @@ tags:
   - 유한공고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0534_EihY2efxBPE.jpg"
 ---
 
 영어가 어렵게 느껴져도 기초부터 시작하면 됩니다.

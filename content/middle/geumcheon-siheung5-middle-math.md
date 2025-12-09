@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 ---
 ## 금천구 시흥5동 중학생, 서술형 문제에서 점수를 많이 잃나요?

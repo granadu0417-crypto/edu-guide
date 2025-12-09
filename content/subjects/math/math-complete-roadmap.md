@@ -16,7 +16,7 @@ tags:
 - 기하
 - 확률과통계
 description: 수학 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 기초 개념부터 고난도 문제 풀이까지, 효과적인 학습 전략과 로드맵을 제시합니다.
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0513_MiZd3-92iDE.jpg"
 ---
 
 ## 수학 공부를 어디서부터 시작해야 할지 막막하시죠? 기초부터 심화까지 체계적인 로드맵이 필요하다고 느끼시고요.

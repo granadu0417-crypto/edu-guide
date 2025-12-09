@@ -16,7 +16,7 @@ tags:
 - 논술대비
 - 비판적사고
 - 사회
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0656_Stdn0PNUyHM.jpg"
 ---
 
 **"뉴스가 어려워요!"** 체계적 분석으로 시사 이슈를 완벽히 이해할 수 있습니다.

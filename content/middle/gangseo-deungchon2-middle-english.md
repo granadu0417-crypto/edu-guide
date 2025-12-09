@@ -21,7 +21,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 ---
 ## 강서구 등촌2동 중학생, 문법 규칙이 너무 많아 헷갈리나요?

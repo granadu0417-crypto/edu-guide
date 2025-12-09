@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0910_dxiR7ZvSND8.jpg"
 
 ---
 ## 마포구 성산1동 중학생, 시험 점수가 들쭉날쭉하다면

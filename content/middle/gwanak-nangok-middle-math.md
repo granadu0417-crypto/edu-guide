@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0744_ySZdYkPGEbs.jpg"
 
 ---
 ## 관악구 난곡동 중학생, 기초부터 다시 잡아야 할 것 같나요?

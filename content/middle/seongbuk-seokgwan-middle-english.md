@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 
 ---
 ## 성북구 석관동 중학생, 중간고사 영어가 걱정이라면

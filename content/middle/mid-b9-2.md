@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0943_HdVeYMcIzfw.jpg"
 ---
 ## 중2병이라고 무시하지 마세요, 이 시기가 가장 중요합니다
 

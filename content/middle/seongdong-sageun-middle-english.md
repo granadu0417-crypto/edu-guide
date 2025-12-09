@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 
 ---
 ## 성동구 사근동 중학생, 단어 암기가 안 된다면

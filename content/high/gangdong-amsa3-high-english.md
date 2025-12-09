@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강동고
   - 천호고
-featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 ---
 
 빈칸 추론에서 자주 틀린다면? 논리적 추론 훈련이 필요합니다.

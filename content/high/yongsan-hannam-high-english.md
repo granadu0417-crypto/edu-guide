@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "용산구 한남동 고등학생을 위한 영어과외입니다. 오산고·중경고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0149_k7ZZmjTBsms.jpg"
 ---
 
 ## 영어, 단어만 외워서는 수능 못 봅니다

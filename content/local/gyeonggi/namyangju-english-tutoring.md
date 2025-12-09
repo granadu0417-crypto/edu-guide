@@ -9,7 +9,7 @@ regions:
 cities:
   - 남양주시
 tags: ["남양주영어과외", "다산영어과외", "남양주초등영어", "남양주중등영어", "남양주고등영어", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0249_W3DgUAEzojE.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 서라벌고
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0242_UlHSF20AHu0.jpg"
 
 ---
 ## 쌍문2동 고등학생, 진도는 나가는데 실력이 안 느는 느낌이신가요?

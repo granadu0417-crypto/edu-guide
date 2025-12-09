@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능수학
   - 기초심화
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 ---
 
 수학 점수가 안 오른다고 포기하지 마세요. 방법을 바꾸면 달라집니다.

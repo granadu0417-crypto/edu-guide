@@ -10,7 +10,7 @@ tags:
 - 2:1과외
 - 중등과외
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 ---
 ## 친구랑 같이 과외 받으면 비용도 아끼고 좋지 않을까요?
 

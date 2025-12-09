@@ -13,7 +13,7 @@ tags:
 - 생물
 - 학습환경
 description: 지역별 방문 과외 선생님 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 입증된 시스템으로 목표에 도달하세요.
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0879_5RkPbcmo7r8.jpg"
 reading_time: 160줄
 ---
 

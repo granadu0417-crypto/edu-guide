@@ -18,7 +18,7 @@ tags:
   - 목동중
   - 영어문법
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1575330116497-0d5a57d3c6d9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0253_HutHldnEX9M.jpg"
 
 ---
 ## 양천구 신정2동 중학생, 서술형이 어렵다면

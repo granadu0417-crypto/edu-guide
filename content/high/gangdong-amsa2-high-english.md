@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 강동고
   - 둔촌고
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 ---
 
 단어는 아는데 해석이 매끄럽지 않다면? 구문 분석력 훈련이 필요합니다.

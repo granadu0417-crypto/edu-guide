@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0819_HoTwXjYbIY4.jpg"
 
 ---
 ## 종로구 사직동 중학생, 영어 강조구문이 어렵다면

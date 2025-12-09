@@ -18,7 +18,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0721_CwC_2MmMdhA.jpg"
 
 ---
 ## 관악구 보라매동 중학생, 영어 성적이 좀처럼 오르지 않나요?

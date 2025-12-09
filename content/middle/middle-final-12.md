@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 ---
 ## 책 읽으라고 해도 안 읽는 아이, 어떻게 해야 할까요?
 

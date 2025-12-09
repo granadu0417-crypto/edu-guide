@@ -17,7 +17,7 @@ tags:
   - 구현고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 ---
 
 영어 독해와 문법을 따로 공부하고 계신가요? 함께 배우면 더 효율적입니다.

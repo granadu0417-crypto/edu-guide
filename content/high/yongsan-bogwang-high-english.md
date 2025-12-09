@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "용산구 보광동 고등학생을 위한 영어과외입니다. 오산고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0143_bZqitd_ae0A.jpg"
 ---
 
 ## 고등학교 영어가 버겁다고요?

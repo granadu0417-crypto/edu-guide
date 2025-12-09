@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0786_cuqp2Jzz_lY.jpg"
 ---
 ## 광진구 중곡3동 중학생, 수학 이차방정식 풀이가 막막하다면
 

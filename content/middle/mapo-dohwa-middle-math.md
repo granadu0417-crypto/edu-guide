@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0895_l9kJdwjG2qI.jpg"
 
 ---
 ## 마포구 도화동 중학생, 내신 성적을 올리고 싶다면

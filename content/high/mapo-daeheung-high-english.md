@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0810_rtBufpeb828.jpg"
 
 ---
 ## 마포구 대흥동 고등학생, 문법이 헷갈린다면

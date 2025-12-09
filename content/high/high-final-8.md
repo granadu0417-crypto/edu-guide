@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0666_e1JRrh9sb-I.jpg"
 ---
 ## 학종으로 대학 가고 싶은데, 생기부를 어떻게 채워야 하는 건지 모르겠어요.
 

@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 
 ---
 ## 강동구 명일1동 중학생, 영어 어휘력이 부족해서 독해가 안 된다면

@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1565688534245-05d6b5be184a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0435_frGVCVssDkI.jpg"
 
 ---
 ## 동대문구 장안1동 중학생, 영어 학원 숙제만 하다가 시간이 다 가나요?

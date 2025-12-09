@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 상일여고
   - 상일미디어고
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 ---
 
 독해 속도가 느려서 시간이 부족하다면? 속독 훈련이 필요합니다.

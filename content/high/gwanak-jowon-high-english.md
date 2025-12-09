@@ -17,7 +17,7 @@ tags:
   - 내신대비
   - 수능영어
   - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0556_qB0erAjz70U.jpg"
 ---
 
 영어 성적이 오르락내리락한다면, 실력이 아직 완전히 정착되지 않은 것입니다. 기초부터 다시 점검해야 합니다.

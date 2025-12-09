@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 잠실고
   - 잠일고
-featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 ---
 
 벡터 연산이 복잡하게 느껴진다면? 벡터 직관력 훈련이 필요합니다.

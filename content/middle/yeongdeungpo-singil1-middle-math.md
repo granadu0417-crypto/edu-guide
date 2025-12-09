@@ -18,7 +18,7 @@ tags:
   - 신길중
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0292_OCIicZ3Tfco.jpg"
 
 ---
 ## 영등포구 신길1동 중학생, 상위권으로 도약하고 싶다면

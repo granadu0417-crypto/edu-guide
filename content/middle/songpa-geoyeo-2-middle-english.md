@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 마천역
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0183_5NKadumpkhc.jpg"
 
 ---
 ## 송파구 거여2동 중학생, 영어 능동태와 수동태 변환이 헷갈린다면

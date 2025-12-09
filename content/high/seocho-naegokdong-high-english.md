@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 언남고
   - 서울세종고
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0902_MCzoo60m-Nw.jpg"
 ---
 
 듣기는 잘 맞는데 독해에서 틀린다면? 지문 분석력 훈련이 필요합니다.

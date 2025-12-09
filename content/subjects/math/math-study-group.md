@@ -15,7 +15,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 ---
 
 ## 혼자 공부하면 의지가 안 생긴다고요? 같이 공부할 친구를 찾고 싶은데 어떻게 스터디를 만들어야 할지 모르겠다고 느끼시죠.

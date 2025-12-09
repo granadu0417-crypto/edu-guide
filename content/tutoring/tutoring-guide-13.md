@@ -12,7 +12,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 ---
 
 ## 방문 과외를 받으려면 집에 뭘 준비해야 하나요? 어떤 환경이 좋을까요?

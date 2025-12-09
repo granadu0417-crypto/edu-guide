@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 
 ---
 ## 강동구 암사1동 중학생, 수학 기초가 흔들리고 있다면

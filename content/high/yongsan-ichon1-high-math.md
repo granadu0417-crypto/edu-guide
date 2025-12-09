@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "용산구 이촌1동 고등학생을 위한 수학과외입니다. 중경고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0156_Dt71N8C-8Uw.jpg"
 ---
 
 ## 수학, 개념이 흔들리면 수능까지 영향 미칩니다

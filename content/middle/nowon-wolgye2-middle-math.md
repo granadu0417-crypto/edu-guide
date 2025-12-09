@@ -18,7 +18,7 @@ tags:
   - 녹천중
   - 개념심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 
 ---
 ## 월계2동 중학생, 수학 개념이 명확하지 않다면

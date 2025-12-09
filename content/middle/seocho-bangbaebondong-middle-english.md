@@ -22,7 +22,7 @@ tags:
   - 영어독해
   - 방배역
   - 이수역
-featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 ---
 ## 서초구 방배본동 중학생, 영어 to부정사의 세 가지 용법이 헷갈린다면
 

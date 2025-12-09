@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 강동송파교육지원청
-featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0576_2NgEKWkV5Nk.jpg"
 ---
 ## 강동구 성내3동 중학생, 영어 분사 구문이 어렵다면
 

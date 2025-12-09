@@ -19,7 +19,7 @@ tags:
 - 중앙중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0817_3K-WVyZmUd8.jpg"
 
 ---
 ## 종로구 평창동 중학생, 영어 가산명사와 불가산명사가 헷갈린다면

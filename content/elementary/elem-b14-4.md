@@ -11,7 +11,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0118_j9jZSqfH5YI.jpg"
 ---
 ## 정답은 하나지만 풀이법은 여러 개입니다
 

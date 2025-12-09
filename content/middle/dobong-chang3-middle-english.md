@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1569012871812-f38ee64cd54c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0401_e_0aPdC-UzQ.jpg"
 
 ---
 ## 도봉구 창3동 중학생, 중학교 영어가 생각보다 어려운가요?

@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0912_YyzzcE13TKQ.jpg"
 
 ---
 ## 마포구 성산2동 중학생, 영어 포기를 고민한다면

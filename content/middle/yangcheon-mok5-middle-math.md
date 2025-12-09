@@ -20,7 +20,7 @@ tags:
   - 월촌중
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0250_ZxCQBcEK0IU.jpg"
 
 ---
 ## 양천구 목5동 중학생, 문제 응용이 안 된다면

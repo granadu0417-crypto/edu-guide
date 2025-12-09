@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 일원고
   - 세화고
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0425_7tEQ-jnx9-o.jpg"
 ---
 
 확률과 통계가 특히 어렵다면? 확통 집중 보완이 필요합니다.

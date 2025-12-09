@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0285_kHWqxJXkEio.jpg"
 
 ---
 ## 동작구 사당2동 고등학생, 영어 자신감이 없다면

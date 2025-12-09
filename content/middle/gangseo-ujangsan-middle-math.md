@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 
 ---
 ## 강서구 우장산동 중학생, 기초부터 다시 잡아야 할 것 같나요?

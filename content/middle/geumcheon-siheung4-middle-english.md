@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1624028522775-b3e0e3e3a4a1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0684_A7Dw7hIj5uU.jpg"
 
 ---
 ## 금천구 시흥4동 중학생, 영어 서술형에서 감점이 많나요?

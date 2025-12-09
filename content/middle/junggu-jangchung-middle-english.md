@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0841_mESBBxizd4c.jpg"
 
 ---
 ## 중구 장충동 중학생, 영어 관계대명사의 계속적 용법이 어렵다면

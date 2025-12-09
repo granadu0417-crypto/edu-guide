@@ -18,7 +18,7 @@ tags:
   - 청원중
   - 독해문법
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0023_I_LxDFIIRIA.jpg"
 
 ---
 ## 상계8동 중학생, 영어 독해와 문법을 완성하고 싶다면

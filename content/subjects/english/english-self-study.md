@@ -13,7 +13,7 @@ tags:
 - self-study
 - 혼자
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0410_ZG4Y6lLPARw.jpg"
 ---
 
 ## 혼자서 영어 공부하려니 막막하시죠? 어디서부터 시작해야 할지 모르겠다고요.

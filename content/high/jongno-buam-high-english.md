@@ -18,7 +18,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0711_pvHma684eEI.jpg"
 ---
 
 구문은 아는데 해석이 매끄럽지 않다면? 구문 독해력 훈련이 필요합니다.

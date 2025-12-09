@@ -18,7 +18,7 @@ tags:
   - 영신고
   - 여의도학군
   - 남부교육지원청
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 
 ---
 ## 영등포구 신길4동 고등학생, 수포자 직전이라면

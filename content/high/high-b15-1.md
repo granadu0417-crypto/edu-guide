@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0630_D9ZYbb_Kjic.jpg"
 ---
 ## 아직 뭘 하고 싶은지 모르겠어요. 고1인데 진로를 안 정하면 안 되나요?
 

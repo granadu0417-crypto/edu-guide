@@ -16,7 +16,7 @@ tags:
   - 수능영어
   - 고등영어과외
 description: "용산구 용문동 고등학생을 위한 영어과외입니다. 성심여고·배문고 내신 대비와 수능 영어 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0171_OMI1l9aXsrA.jpg"
 ---
 
 ## 내신과 수능 영어, 둘 다 잡아야 합니다

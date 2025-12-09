@@ -10,7 +10,7 @@ tags:
 - 전기
 - 물리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0593_gkiZ-F3yPiY.jpg"
 ---
 
 ## 전류, 전압, 저항 관계가 헷갈리고 회로 계산이 어렵다고요? 옴의 법칙으로 모두 연결됩니다.

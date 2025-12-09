@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 동국대부가람고
-featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0589_Lq1DhxAmeok.jpg"
 ---
 
 문제 풀이가 막히면 점점 자신감도 떨어집니다. 수학은 방법을 바꿔야 달라집니다.

@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0392_Quy_k-l8zRY.jpg"
 
 ---
 ## 도봉구 방학1동 중학생, 서술형 문제에서 점수를 많이 잃나요?

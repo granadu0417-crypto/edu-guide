@@ -18,7 +18,7 @@ tags:
   - 경희고
   - 경희여고
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0254_Ybyi_hf9YtU.jpg"
 
 ---
 ## 동대문구 회기동 고등학생, 시험만 보면 아는 문제도 틀리나요?

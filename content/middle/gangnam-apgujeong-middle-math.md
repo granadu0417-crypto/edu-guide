@@ -19,7 +19,7 @@ tags:
 - 수학개념
 - 수학심화
 - 로데오거리
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0579_N9wfSgiVNO4.jpg"
 
 ---
 ## 강남구 압구정동 중학생, 수학 심화 문제에서 막힌다면

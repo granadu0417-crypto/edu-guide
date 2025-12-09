@@ -20,7 +20,7 @@ tags:
   - 영어문법
   - 영어독해
   - 잠실역
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0195_h3BWE-uMJUY.jpg"
 
 ---
 ## 송파구 잠실본동 중학생, 영어 전치사 in, on, at 쓰임이 헷갈린다면

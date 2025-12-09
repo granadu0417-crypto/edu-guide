@@ -19,7 +19,7 @@ tags:
   - 광영여고
   - 목동학군
   - 강서양천교육지원청
-featured_image: "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0104_N_aihp118p8.jpg"
 
 ---
 ## 양천구 신월6동 고등학생, 등급이 불안정하다면

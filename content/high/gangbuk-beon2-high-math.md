@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 신일고
-featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 ---
 
 개념은 알겠는데 심화 문제가 안 풀린다고요?

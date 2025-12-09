@@ -20,7 +20,7 @@ tags:
   - 수학심화
   - 오금역
   - 방이역
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 
 ---
 ## 송파구 오륜동 중학생, 수학 제곱근과 무리수의 개념이 헷갈린다면

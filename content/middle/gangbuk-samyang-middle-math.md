@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 성북강북교육지원청
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0527_8ZLJaXp8Yvo.jpg"
 
 ---
 ## 강북구 삼양동 중학생, 수학 성적이 오르락내리락 불안정한가요?

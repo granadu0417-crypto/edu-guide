@@ -18,7 +18,7 @@ tags:
   - 동일여고
   - 내신대비
   - 수능영어
-featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0506_RlC1eHzJOFI.jpg"
 ---
 
 학원에서 열심히 하는데 영어 성적이 그대로라면, 학습 방법이 맞지 않는 것입니다.

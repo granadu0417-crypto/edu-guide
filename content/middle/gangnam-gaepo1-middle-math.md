@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 개포주거단지
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0593_gkiZ-F3yPiY.jpg"
 
 ---
 ## 강남구 개포1동 중학생, 수학 도형의 닮음이 헷갈린다면

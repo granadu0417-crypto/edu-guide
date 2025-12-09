@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 압구정고
   - 현대고
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0402_MChSQHxGZrQ.jpg"
 ---
 
 서술형 영작에서 점수가 깎인다면? 정확한 작문 훈련이 필요합니다.

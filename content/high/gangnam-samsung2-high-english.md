@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 휘문고
   - 중대부고
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0434_s1jiWXu6lHU.jpg"
 ---
 
 내신 영작에서 계속 감점당한다면? 영작 실력 집중 향상이 필요합니다.

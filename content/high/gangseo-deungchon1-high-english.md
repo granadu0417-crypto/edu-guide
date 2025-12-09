@@ -18,7 +18,7 @@ tags:
   - 등촌고
   - 경복여고
   - 영일고
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0454_Yi9-QIObQ1o.jpg"
 ---
 
 같은 강서구인데 학교마다 시험이 왜 이렇게 다를까요?

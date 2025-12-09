@@ -20,7 +20,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1654059802399-9a5f6a9d8f26?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0931_oTglG1D4hRA.jpg"
 
 ---
 ## 서대문구 남가좌1동 고등학생, 모의고사 등급이 안 오른다면

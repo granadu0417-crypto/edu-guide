@@ -18,7 +18,7 @@ tags:
   - 선덕고
   - 독해문법
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0879_5RkPbcmo7r8.jpg"
 
 ---
 ## 월계3동 고등학생, 영어 독해와 문법을 완성하고 싶다면

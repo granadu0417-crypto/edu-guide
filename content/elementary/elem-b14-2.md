@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0116_h0tMHMyfr9A.jpg"
 ---
 ## 매일 같은 시간에 책상에 앉는 것, 생각보다 어렵죠?
 

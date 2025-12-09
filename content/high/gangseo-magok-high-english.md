@@ -16,7 +16,7 @@ tags:
   - 내신관리
   - 수능대비
   - 공항고
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0486_-hgJu2ykh4E.jpg"
 ---
 
 영어 공부, 해야 하는 건 알겠는데 손이 안 가시나요?

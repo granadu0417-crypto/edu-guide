@@ -16,7 +16,7 @@ tags:
   - 수능수학
   - 고등수학과외
 description: "은평구 역촌동 고등학생을 위한 수학과외입니다. 은평고·충암고 내신 대비와 수능 수학 준비를 위한 1:1 맞춤 수업을 제공합니다."
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 ---
 
 ## 수학 자신감이 사라졌나요?

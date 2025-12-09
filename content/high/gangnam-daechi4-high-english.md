@@ -17,7 +17,7 @@ tags:
   - 수능대비
   - 휘문고
   - 보성고
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0410_ZG4Y6lLPARw.jpg"
 ---
 
 외부 지문이 나오면 당황한다면? 비연계 독해력 강화가 필요합니다.

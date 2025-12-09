@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 중등교육
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0477_PL3jwQzb1Lk.jpg"
 ---
 ## 영어 문법, 암기만 해서는 한계가 있다고요?
 

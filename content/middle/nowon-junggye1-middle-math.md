@@ -18,7 +18,7 @@ tags:
   - 을지중
   - 개념심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0004_TtAHLsnbz3o.jpg"
 
 ---
 ## 중계1동 중학생, 수학 개념부터 확실히 잡고 싶다면

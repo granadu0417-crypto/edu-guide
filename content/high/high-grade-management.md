@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 내신 완벽 관리 전략 | 등급별 관리법, 과목별 전략, 장기 계획, 일상 학습, 시험 대비, 성적 분석, 1:1 맞춤 컨설팅 [2025년]"
 tags: ["내신관리", "성적향상", "등급올리기", "학습계획", "과목별전략", "시험대비", "복습전략", "내신등급", "학생부", "대입전략", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0668_adQAb-L-YkE.jpg"
 ---
 
 ## 열심히 공부하는데 성적이 오르지 않아요. 등급이 고정된 것 같은데 어떻게 하면 올릴 수 있나요?

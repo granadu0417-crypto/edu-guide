@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 서부교육지원청
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 
 ---
 ## 서대문구 북아현동 중학생, 내신 성적을 올리고 싶다면

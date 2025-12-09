@@ -13,7 +13,7 @@ tags:
 - 수능
 - 시험
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 ---
 
 ## 듣기만 하면 집중력이 금방 떨어진다고요? 작은 팁들이 큰 점수 차이를 만듭니다.

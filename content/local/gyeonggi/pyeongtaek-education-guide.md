@@ -9,7 +9,7 @@ regions:
 cities:
   - 평택시
 tags: ["평택교육", "평택학원", "평택과외", "고덕신도시", "평택입시"]
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0257_BwfPPJZAWms.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

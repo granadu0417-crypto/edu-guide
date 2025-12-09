@@ -18,7 +18,7 @@ tags:
   - 등촌고
   - 경복여고
   - 영일고
-featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0455_Er2WhilcPMs.jpg"
 ---
 
 개념은 아는 것 같은데 시험만 보면 점수가 안 나오나요?

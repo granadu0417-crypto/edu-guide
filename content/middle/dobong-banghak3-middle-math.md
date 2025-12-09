@@ -19,7 +19,7 @@ tags:
   - 수학개념
   - 수학심화
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0396_SYTO3xs06fU.jpg"
 
 ---
 ## 도봉구 방학3동 중학생, 수학 때문에 전체 성적이 발목 잡히나요?

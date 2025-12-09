@@ -18,7 +18,7 @@ tags:
   - 을지중
   - 문법독해
   - 북부교육지원청
-featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0003_WIRvXd1PYlg.jpg"
 
 ---
 ## 중계1동 중학생, 영어 문법이 어렵게 느껴진다면

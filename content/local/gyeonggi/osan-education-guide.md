@@ -9,7 +9,7 @@ regions:
 cities:
   - 오산시
 tags: ["오산교육", "오산학원", "오산과외", "오산입시", "경기남부교육"]
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0251_5DBwlGL4978.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 ---
 ## 수능이 다가오는데 합격 전략이 없어요. 어떤 대학을 어떻게 지원해야 하나요?
 

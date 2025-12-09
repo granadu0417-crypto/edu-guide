@@ -20,7 +20,7 @@ tags:
   - 영어독해
   - 영어문법
   - 동부교육지원청
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 
 ---
 ## 성북구 종암동 고등학생, 모의고사 성적이 불안하다면

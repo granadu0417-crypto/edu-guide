@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0960_f2lCwI0V1BM.jpg"
 ---
 ## 봉사활동, 시간만 채우면 되는 거 아닌가요?
 

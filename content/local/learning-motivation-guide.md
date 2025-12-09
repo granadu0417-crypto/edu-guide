@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "학습동기 부여 완벽 가이드 | 내재적·외재적 동기·목표설정·성취감·칭찬 방법·슬럼프 극복·학년별 동기부여 전략"
 tags: ["학습동기", "공부동기", "동기부여", "목표설정", "성취감", "칭찬", "슬럼프", "학습의욕"]
-featured_image: "https://images.unsplash.com/photo-1631558541236-22f0d70e9e18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0293_ZDlJ7R4F6Yg.jpg"
 ---
 
 ## 아이가 공부에 흥미가 없어서 걱정이시죠? 아무리 말해도 의욕이 안 생기는 것 같아 답답하시고요.

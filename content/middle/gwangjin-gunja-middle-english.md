@@ -19,7 +19,7 @@ tags:
   - 영어문법
   - 영어독해
   - 성동광진교육지원청
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0761_H9t723yPjYI.jpg"
 ---
 ## 광진구 군자동 중학생, 영어 현재완료 시제가 헷갈린다면
 

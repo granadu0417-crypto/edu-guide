@@ -18,7 +18,7 @@ tags:
   - 수학개념
   - 수학심화
   - 동작관악교육지원청
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 ---
 ## 관악구 신림동 중학생, 문제집은 많이 풀었는데 실력이 안 느나요?
