@@ -1,6 +1,8 @@
 ---
 title: "도봉구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/도봉구/
 description: "도봉구 중등·고등 수학·영어 과외. 창동고, 도봉고, 선덕고, 덕성여고 등 도봉구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 regions:

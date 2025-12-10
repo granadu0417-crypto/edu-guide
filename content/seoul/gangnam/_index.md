@@ -1,6 +1,8 @@
 ---
 title: "강남구 과외 | 대치·압구정·청담 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/강남구/
 description: "강남구 중등·고등 수학·영어 과외. 휘문고, 단대부고, 숙명여고, 중동고, 대명중, 은광중 등 강남권 학교 내신 완벽 대비."
 featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 regions:

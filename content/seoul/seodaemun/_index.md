@@ -1,6 +1,8 @@
 ---
 title: "서대문구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/서대문구/
 description: "서대문구 중등·고등 수학·영어 과외. 이화여고, 대신고, 명지고, 서대문고 등 서대문구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 regions:

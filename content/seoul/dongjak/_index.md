@@ -1,6 +1,8 @@
 ---
 title: "동작구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/동작구/
 description: "동작구 중등·고등 수학·영어 과외. 숭실고, 동작고, 중앙대부고, 노량진고 등 동작구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0033_AiCJW1QhLB0.jpg"
 regions:

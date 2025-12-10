@@ -1,6 +1,8 @@
 ---
 title: "동대문구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/동대문구/
 description: "동대문구 중등·고등 수학·영어 과외. 경희고, 휘경여고, 장안고, 청량고 등 동대문구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 regions:

@@ -1,6 +1,8 @@
 ---
 title: "용산구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/용산구/
 description: "용산구 중등·고등 수학·영어 과외. 용산고, 선린인고, 중경고, 배문고 등 용산구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 regions:

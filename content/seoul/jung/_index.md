@@ -1,6 +1,8 @@
 ---
 title: "중구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/중구/
 description: "중구 중등·고등 수학·영어 과외. 장충고, 동국대부고, 중앙여고, 동대부고 등 중구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 regions:

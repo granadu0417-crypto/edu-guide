@@ -1,6 +1,8 @@
 ---
 title: "은평구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/은평구/
 description: "은평구 중등·고등 수학·영어 과외. 은평고, 대성고, 불광고, 진관고 등 은평구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 regions:

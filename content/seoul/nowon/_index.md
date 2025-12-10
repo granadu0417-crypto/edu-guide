@@ -1,6 +1,8 @@
 ---
 title: "노원구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/노원구/
 description: "노원구 중등·고등 수학·영어 과외. 대진고, 재현고, 청원고, 서라벌고 등 노원구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 regions:

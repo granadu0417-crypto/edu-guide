@@ -1,6 +1,8 @@
 ---
 title: "송파구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/송파구/
 description: "송파구 중등·고등 수학·영어 과외. 잠실고, 잠일고, 방산고, 잠신고 등 송파구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0022_0nyR0Aw5fCA.jpg"
 regions:

@@ -1,6 +1,8 @@
 ---
 title: "구로구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
+aliases:
+  - /cities/구로구/
 description: "구로구 중등·고등 수학·영어 과외. 구로고, 고척고, 세곡고, 신도림고 등 구로구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 regions:
