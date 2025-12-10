@@ -15,7 +15,7 @@ tags:
 description: 종합 학원 선택의 모든 것. 단과 학원과의 차이, 효과적인 종합 학원 선택 기준, 1:1 과외 병행 전략을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 reading_time: 160줄
 ---
 

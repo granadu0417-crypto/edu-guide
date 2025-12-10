@@ -12,7 +12,7 @@ tags:
   - 영재수업
   - 심화학습
   - 창의력교육
-featured_image: "/images/edu_0112_OyCl7Y4y0Bk.jpg"
+featured_image: "/images/edu_0112_1ZYJqPwh-PI.jpg"
 ---
 
 우리 아이가 영재인 것 같습니다. 다른 아이들보다 뭔가 다릅니다. 어떻게 키워야 할지 모르겠습니다. 영재교육이 필요합니다. 영재성을 제대로 키워야 재능이 꽃핍니다.

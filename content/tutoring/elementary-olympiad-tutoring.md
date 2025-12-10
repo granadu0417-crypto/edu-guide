@@ -12,7 +12,7 @@ tags:
   - 영재교육원
   - KMO
   - 수학심화
-featured_image: "/images/edu_0020_3GCoTkqS2RU.jpg"
+featured_image: "/images/edu_0020_604JVKk-WZM.jpg"
 ---
 
 수학을 좋아하는 아이, 더 깊이 배우고 싶어 합니다. 교과 수학은 쉬운데 뭔가 재미없다고 느낍니다. 올림피아드는 수학적 재능이 있는 아이들이 더 높은 도전을 할 수 있는 무대입니다.

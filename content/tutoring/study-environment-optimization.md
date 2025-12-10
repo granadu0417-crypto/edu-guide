@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 최적의 학습 환경 조성 전략. 집, 독서실, 스터디카페 비교, 공부방 꾸미기, 집중력 향상 방법을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0234_wX5DqDi3iE4.jpg"
 reading_time: 160줄
 ---
 

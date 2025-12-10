@@ -15,7 +15,7 @@ tags:
 description: 영재 학생을 위한 맞춤 교육 전략. 심화 학습, 1:1 과외 활용, 특목고 준비, 영재원, 경시대회 전략을 제시합니다 과외
   선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을
   경험하세요.
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 reading_time: 160줄
 ---
 

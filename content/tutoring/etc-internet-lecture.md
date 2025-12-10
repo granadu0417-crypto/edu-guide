@@ -12,7 +12,7 @@ tags:
   - 인강활용
   - 자기주도학습
   - 인강추천
-featured_image: "/images/edu_0098_n8Qb1ZAkK88.jpg"
+featured_image: "/images/edu_0098_gCWabF9Z9pI.jpg"
 ---
 
 인강을 듣고 있습니다. 그런데 효과가 없는 것 같습니다. 듣기만 하고 끝납니다. 인강은 활용법이 중요합니다. 제대로 활용하면 학원 못지않은 효과를 볼 수 있습니다.

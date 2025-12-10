@@ -12,7 +12,7 @@ tags:
   - 과외준비
   - 과외팁
   - 과외방법
-featured_image: "/images/edu_0128_saeUdAxh09c.jpg"
+featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 ---
 
 처음으로 과외를 받게 됐습니다. 어떻게 해야 할지 모르겠습니다. 긴장됩니다. 처음이라 걱정할 필요 없습니다. 몇 가지만 알면 과외를 잘 활용할 수 있습니다.

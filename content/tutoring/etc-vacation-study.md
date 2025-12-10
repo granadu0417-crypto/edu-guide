@@ -12,7 +12,7 @@ tags:
   - 겨울방학
   - 여름방학
   - 방학학습
-featured_image: "/images/edu_0111_5mZ_M06Fc9g.jpg"
+featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 ---
 
 방학이 다가옵니다. 놀기만 할 것 같습니다. 그러다 방학이 끝납니다. 방학이 기회입니다. 학기 중에 못한 것을 할 수 있습니다. 잘 활용하면 크게 도약할 수 있습니다.

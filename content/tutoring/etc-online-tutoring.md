@@ -12,7 +12,7 @@ tags:
   - 1대1과외
   - 인터넷과외
   - 비대면학습
-featured_image: "/images/edu_0094_xLhKkk2tKkA.jpg"
+featured_image: "/images/edu_0094_f1YfrZ1o2r8.jpg"
 ---
 
 과외를 받고 싶은데 시간이 없습니다. 학원 다닐 시간도 부족합니다. 집에서 편하게 공부하고 싶습니다. 온라인 과외가 답입니다. 시간과 장소의 제약 없이 1:1 맞춤 수업을 받을 수 있습니다.

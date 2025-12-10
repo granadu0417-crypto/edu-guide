@@ -12,7 +12,7 @@ tags:
   - 미분적분
   - 선택과목
   - 수학심화
-featured_image: "/images/edu_0050_Mv9hjnEUHR4.jpg"
+featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 ---
 
 미적분이 어렵습니다. 개념이 추상적이고 계산이 복잡합니다. 수능 선택과목 중 난이도가 높기로 유명합니다. 하지만 개념을 제대로 이해하면 미적분도 정복할 수 있습니다.

@@ -15,7 +15,7 @@ tags:
 description: 장기 학습 계획 수립의 모든 것. 6개월-3년 단위 계획, 학원과 1:1 과외 활용, 지속 가능한 성적 관리 비법을 제시합니다
   과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤
   학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0154_TOBRTuE_uXA.jpg"
 reading_time: 160줄
 ---
 

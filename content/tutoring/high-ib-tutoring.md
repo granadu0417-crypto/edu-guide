@@ -12,7 +12,7 @@ tags:
   - IB대비
   - HL과목
   - SL과목
-featured_image: "/images/edu_0092_V75YEqJp4pE.jpg"
+featured_image: "/images/edu_0092_JexAuNCfefs.jpg"
 ---
 
 IB 디플로마를 준비하고 있습니다. HL 과목이 어렵습니다. IA도 써야 하고, EE도 준비해야 합니다. IB는 균형 잡힌 교육 과정입니다. 체계적으로 준비하면 45점 만점에 도전할 수 있습니다.

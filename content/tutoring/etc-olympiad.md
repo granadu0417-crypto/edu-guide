@@ -12,7 +12,7 @@ tags:
   - KMO
   - KPhO
   - 경시대회
-featured_image: "/images/edu_0113_em37kS8WJJQ.jpg"
+featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 ---
 
 올림피아드에 도전하고 싶습니다. 어디서부터 시작해야 할지 모르겠습니다. 문제가 너무 어렵습니다. 올림피아드는 특별한 준비가 필요합니다. 체계적으로 대비하면 수상도 가능합니다.

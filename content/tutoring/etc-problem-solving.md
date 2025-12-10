@@ -12,7 +12,7 @@ tags:
   - 분석력
   - 논리적사고
   - 해결전략
-featured_image: "/images/edu_0120_dk7v-Z_m7C0.jpg"
+featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 ---
 
 문제가 있으면 막막합니다. 어디서부터 시작해야 할지 모르겠습니다. 문제 해결이 어렵습니다. 문제 해결에도 방법이 있습니다. 체계적으로 접근하면 어떤 문제도 풀 수 있습니다.

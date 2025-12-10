@@ -12,7 +12,7 @@ tags:
   - 외국어교육
   - 일본어회화
   - 제2외국어
-featured_image: "/images/edu_0017_jq2wCnkQtDU.jpg"
+featured_image: "/images/edu_0017_iNrPyufE9zE.jpg"
 ---
 
 일본 애니메이션이나 게임을 좋아하는 아이들이 많습니다. 좋아하는 것으로 언어를 배우면 재미있고 효과도 좋습니다. 초등학교 때 일본어를 시작하면 중고등학교 제2외국어 선택에도 유리합니다.

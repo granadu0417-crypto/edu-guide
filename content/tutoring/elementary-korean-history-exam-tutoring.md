@@ -12,7 +12,7 @@ tags:
   - 역사시험
   - 한국사공부
   - 자격시험
-featured_image: "/images/edu_0024_IbwVyNhP8jE.jpg"
+featured_image: "/images/edu_0024_zgq9OXecyqI.jpg"
 ---
 
 한국사능력검정시험에 도전하려는 초등학생이 늘고 있습니다. 초등학생도 도전할 수 있고, 합격하면 큰 성취감을 얻습니다. 체계적으로 준비하면 충분히 합격할 수 있습니다.

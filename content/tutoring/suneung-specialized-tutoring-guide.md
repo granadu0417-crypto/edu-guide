@@ -15,7 +15,7 @@ tags:
 description: 수능 전문 과외 선택의 모든 것. 수능 성적 향상을 위한 과외 선택법, 과목별 추천 전략, 효과적인 수능 준비 방법을 안내합니다
   과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤
   학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0242_UlHSF20AHu0.jpg"
 reading_time: 160줄
 ---
 

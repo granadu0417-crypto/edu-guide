@@ -12,7 +12,7 @@ tags:
   - 2인과외
   - 3인과외
   - 그룹수업
-featured_image: "/images/edu_0096_Oalh2MojUuk.jpg"
+featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 ---
 
 1:1 과외는 부담됩니다. 학원은 너무 많은 인원입니다. 중간이 없을까요? 그룹 과외가 있습니다. 2-4명의 소수정예로 효율적인 수업을 받을 수 있습니다.

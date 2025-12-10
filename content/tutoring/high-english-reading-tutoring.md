@@ -12,7 +12,7 @@ tags:
   - 영어지문
   - 빠른독해
   - 독해전략
-featured_image: "/images/edu_0045_QDq3YliZg48.jpg"
+featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 ---
 
 영어 지문을 읽는 데 시간이 너무 오래 걸립니다. 한 문장씩 꼼꼼히 읽다 보면 시간이 부족합니다. 그렇다고 빠르게 읽으면 내용이 머리에 안 들어옵니다. 빠르고 정확하게 읽는 방법이 있습니다.

@@ -12,7 +12,7 @@ tags:
   - 계획세우기
   - 학습관리
   - 시간관리
-featured_image: "/images/edu_0102_5fNmWej4tAA.jpg"
+featured_image: "/images/edu_0102_x7ZD34QEQyM.jpg"
 ---
 
 계획 없이 공부합니다. 그날그날 하고 싶은 것만 합니다. 시험이 다가와도 뭘 해야 할지 모릅니다. 플래너가 필요합니다. 계획을 세우고 실천하면 공부 효율이 달라집니다.

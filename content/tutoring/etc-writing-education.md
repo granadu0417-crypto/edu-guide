@@ -12,7 +12,7 @@ tags:
   - 창의글쓰기
   - 작문
   - 표현력
-featured_image: "/images/edu_0115_s9CC2SKySJM.jpg"
+featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 ---
 
 글쓰기가 어렵습니다. 머릿속에 생각은 있는데 글로 못 씁니다. 글이 막힙니다. 글쓰기는 연습입니다. 꾸준히 쓰면 누구나 잘 쓸 수 있습니다.

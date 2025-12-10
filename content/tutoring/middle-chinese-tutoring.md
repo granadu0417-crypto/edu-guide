@@ -12,7 +12,7 @@ tags:
   - 중국어내신
   - 성조
   - 중학중국어
-featured_image: "/images/edu_0032_oGv9xIl7DkY.jpg"
+featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 ---
 
 중국어, 제2외국어로 선택했는데 성조가 너무 어렵습니다. 같은 발음인데 톤에 따라 뜻이 완전히 달라지니 혼란스럽습니다. 하지만 제대로 배우면 내신도 잡고 HSK 자격증까지 얻을 수 있습니다. 두 마리 토끼를 한 번에 잡는 방법을 알려드리겠습니다.

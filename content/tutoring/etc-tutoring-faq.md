@@ -12,7 +12,7 @@ tags:
   - 과외정보
   - 과외안내
   - 과외상식
-featured_image: "/images/edu_0130_mblRP7b3Ubo.jpg"
+featured_image: "/images/edu_0130_lUaaKCUANVI.jpg"
 ---
 
 과외에 대해 궁금한 것이 많습니다. 비용은 얼마인지, 몇 회가 적당한지, 효과가 있는지 모르겠습니다. 자주 묻는 질문들을 모았습니다. 과외에 대한 궁금증을 해결해드립니다.

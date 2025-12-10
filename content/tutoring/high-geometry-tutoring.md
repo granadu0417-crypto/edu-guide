@@ -12,7 +12,7 @@ tags:
   - 이차곡선
   - 수능기하
   - 수학선택
-featured_image: "/images/edu_0052_s9CC2SKySJM.jpg"
+featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 ---
 
 기하를 선택했는데 어렵습니다. 공간 도형이 머릿속에 안 그려집니다. 벡터 계산도 복잡합니다. 기하는 공간 감각이 필요합니다. 연습하면 머릿속에 그림이 그려집니다.

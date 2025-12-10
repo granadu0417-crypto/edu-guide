@@ -12,7 +12,7 @@ tags:
   - 시간활용
   - 집중력
   - 시간낭비
-featured_image: "/images/edu_0103_hes6nUC1MVc.jpg"
+featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 ---
 
 시간이 없습니다. 학교, 학원, 숙제로 하루가 끝납니다. 공부할 시간이 부족합니다. 시간 관리가 필요합니다. 같은 24시간을 어떻게 쓰느냐에 따라 결과가 달라집니다.

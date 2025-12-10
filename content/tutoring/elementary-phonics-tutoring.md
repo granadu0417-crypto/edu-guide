@@ -12,7 +12,7 @@ tags:
   - 영어기초
   - 영어발음
   - 리딩기초
-featured_image: "/images/edu_0021_JNZRnMFk2Z8.jpg"
+featured_image: "/images/edu_0021_1KNAPQ9Oq6k.jpg"
 ---
 
 초등학교에 들어갔는데 영어를 읽지 못해서 걱정이신가요? 파닉스는 영어 읽기의 기초입니다. 글자와 소리의 관계를 알면 처음 보는 단어도 읽을 수 있습니다. 늦었다고 생각하지 마세요. 지금 시작해도 충분합니다.

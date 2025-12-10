@@ -12,7 +12,7 @@ tags:
   - 점수향상
   - 성적상승
   - 학업성취
-featured_image: "/images/edu_0126_ORDz1m1-q0I.jpg"
+featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 ---
 
 성적이 안 오릅니다. 열심히 하는데 제자리입니다. 어떻게 해야 올릴 수 있을까요? 성적 향상에도 전략이 있습니다. 원인을 파악하고 맞춤 전략을 세우면 성적이 오릅니다.

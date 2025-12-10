@@ -12,7 +12,7 @@ tags:
   - 스트레스해소
   - 정신건강
   - 학습스트레스
-featured_image: "/images/edu_0124_tHkJAMcO3QE.jpg"
+featured_image: "/images/edu_0124_NsPDiPFTp4c.jpg"
 ---
 
 스트레스가 너무 많습니다. 시험 때문에, 성적 때문에 힘듭니다. 공부가 싫어집니다. 스트레스 관리가 필요합니다. 적절히 해소하면 더 잘 공부할 수 있습니다.

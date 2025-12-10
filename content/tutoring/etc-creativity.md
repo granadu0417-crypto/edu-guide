@@ -12,7 +12,7 @@ tags:
   - 발상전환
   - 창의훈련
   - 아이디어
-featured_image: "/images/edu_0119_1-aA2Fadydc.jpg"
+featured_image: "/images/edu_0119_u-05DwhpE4w.jpg"
 ---
 
 정해진 답만 찾습니다. 다르게 생각을 못합니다. 창의력이 부족한 것 같습니다. 창의력은 타고나는 게 아닙니다. 훈련으로 키울 수 있습니다.

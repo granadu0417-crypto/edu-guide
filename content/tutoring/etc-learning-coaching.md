@@ -12,7 +12,7 @@ tags:
   - 공부법
   - 학습컨설팅
   - 맞춤코칭
-featured_image: "/images/edu_0100_5siQcvSxCP8.jpg"
+featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 ---
 
 열심히 공부하는데 성적이 안 옵니다. 공부 시간은 많은데 효과가 없습니다. 방법이 잘못된 건 아닐까요? 학습코칭이 필요합니다. 공부 방법부터 바꿔야 성적이 오릅니다.

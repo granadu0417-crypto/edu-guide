@@ -15,7 +15,7 @@ tags:
 description: 관리형 학원 선택의 모든 것. 관리형 vs 자율형 비교, 효과적인 학습 관리 시스템, 성공적인 학원 선택 전략을 제시합니다
   과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤
   학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 reading_time: 160줄
 ---
 

@@ -12,7 +12,7 @@ tags:
   - 코넬필기법
   - 수업필기
   - 필기전략
-featured_image: "/images/edu_0106_HH4WBGNyltc.jpg"
+featured_image: "/images/edu_0106_gTpdbw9E3Gg.jpg"
 ---
 
 필기를 안 합니다. 그냥 듣기만 합니다. 필기해도 나중에 안 봅니다. 필기는 학습의 핵심입니다. 제대로 필기하면 이해도와 기억력이 높아집니다.

@@ -12,7 +12,7 @@ tags:
   - 보고서작성
   - PPT제작
   - 중학수행평가
-featured_image: "/images/edu_0037_4-EeTnaC1S4.jpg"
+featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 ---
 
 수행평가가 부담됩니다. 발표는 긴장되고, 보고서는 어떻게 써야 할지 모르겠고, PPT는 만들기 어렵습니다. 지필고사만큼 중요한 수행평가, 제대로 준비하면 성적을 확 올릴 수 있습니다.

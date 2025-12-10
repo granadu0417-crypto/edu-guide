@@ -12,7 +12,7 @@ tags:
   - 확률
   - 통계
   - 수학선택
-featured_image: "/images/edu_0051_jCIMcOpFHig.jpg"
+featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 ---
 
 확률과 통계를 선택했는데 생각보다 어렵습니다. 경우의 수에서 막히고, 확률 계산에서 헷갈리고, 통계 문제는 손도 못 댑니다. 확통은 개념을 정확히 잡으면 풀립니다.

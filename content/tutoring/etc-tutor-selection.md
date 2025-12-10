@@ -12,7 +12,7 @@ tags:
   - 좋은선생님
   - 선생님찾기
   - 과외선택
-featured_image: "/images/edu_0129_5fNmWej4tAA.jpg"
+featured_image: "/images/edu_0129_5YtsX8-uoPI.jpg"
 ---
 
 과외 선생님을 찾고 있습니다. 어떤 선생님이 좋은지 모르겠습니다. 선택이 어렵습니다. 선생님 선택이 중요합니다. 좋은 선생님을 만나면 성적이 달라집니다.

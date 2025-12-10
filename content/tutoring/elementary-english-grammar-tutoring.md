@@ -12,7 +12,7 @@ tags:
   - 문법정리
   - 영어기초
   - 중학대비
-featured_image: "/images/edu_0023_pLMc4CnbN04.jpg"
+featured_image: "/images/edu_0023_I_LxDFIIRIA.jpg"
 ---
 
 영어 문법이 헷갈리기 시작했나요? 초등 고학년부터 문법이 본격적으로 나옵니다. 문법을 모르면 중학교 영어가 어려워집니다. 지금 기초를 잡아두면 나중에 편합니다.

@@ -12,7 +12,7 @@ tags:
   - 작품해석
   - 시감상
   - 소설분석
-featured_image: "/images/edu_0041_YLSwjSy7stw.jpg"
+featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 ---
 
 문학이 감으로 푸는 과목이라고요? 그래서 어떻게 공부해야 할지 모르겠다고요? 문학도 방법이 있습니다. 작품을 해석하는 틀을 갖추면 처음 보는 작품도 분석할 수 있습니다. 감이 아닌 실력으로 푸는 문학을 알려드리겠습니다.

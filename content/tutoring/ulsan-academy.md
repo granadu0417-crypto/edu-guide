@@ -14,7 +14,7 @@ tags:
 - 초등
 description: 울산 학원 추천. 삼산·남구, 합리적 비용, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의
   모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1590402494610-2c378a9114c6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0255_akocAO9QCHM.jpg"
 reading_time: 160줄
 ---
 

@@ -12,7 +12,7 @@ tags:
   - 학습진단
   - 교육상담
   - 학습문제
-featured_image: "/images/edu_0127_8CqDvPuo_kI.jpg"
+featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 ---
 
 공부 고민이 있습니다. 누구에게 물어봐야 할지 모르겠습니다. 어디서부터 시작해야 할지 모르겠습니다. 학습 상담이 필요합니다. 전문가와 상담하면 방향을 찾을 수 있습니다.

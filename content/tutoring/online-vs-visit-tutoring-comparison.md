@@ -14,7 +14,7 @@ tags:
 - 과외선택
 description: 온라인 과외와 방문 과외의 모든 것을 비교 분석합니다. 장단점, 과목별 적합도, 효과적인 선택 기준을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 reading_time: 160줄
 ---
 

@@ -12,7 +12,7 @@ tags:
   - 영어1등급
   - 영어독해
   - 영어내신
-featured_image: "/images/edu_0043_tG36rvCeqng.jpg"
+featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 ---
 
 수능 영어 절대평가라 쉽다고요? 1등급은 여전히 어렵습니다. 90점 이상을 받아야 하는데 빈칸, 순서, 삽입 문제에서 무너지는 학생이 많습니다. 영어 1등급, 체계적으로 준비하면 가능합니다.

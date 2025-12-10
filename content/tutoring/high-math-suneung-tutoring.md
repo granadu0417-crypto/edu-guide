@@ -12,7 +12,7 @@ tags:
   - 수학개념
   - 수학심화
   - 수학등급
-featured_image: "/images/edu_0047_k0KRNtqcjfw.jpg"
+featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 ---
 
 수능 수학이 두렵습니다. 개념은 알 것 같은데 문제가 안 풀립니다. 시간은 부족하고 킬러 문제는 손도 못 댑니다. 수학은 개념이 기본입니다. 개념을 제대로 잡고 심화로 올라가면 등급이 오릅니다.

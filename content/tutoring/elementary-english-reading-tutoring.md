@@ -12,7 +12,7 @@ tags:
   - 리딩수업
   - 영어독해
   - 영어책읽기
-featured_image: "/images/edu_0022_HFUHoMq9RyQ.jpg"
+featured_image: "/images/edu_0022_0nyR0Aw5fCA.jpg"
 ---
 
 파닉스는 뗐는데 그다음엔 뭘 해야 할까요? 리딩입니다. 영어책을 읽으면서 어휘, 문법, 표현을 자연스럽게 익힙니다. 리딩이 되면 영어 실력이 폭발적으로 늡니다.

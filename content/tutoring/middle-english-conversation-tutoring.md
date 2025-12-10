@@ -12,7 +12,7 @@ tags:
   - 영어말하기
   - 영어발표
   - 중학영어
-featured_image: "/images/edu_0033_LXy2DOOxESQ.jpg"
+featured_image: "/images/edu_0033_AiCJW1QhLB0.jpg"
 ---
 
 영어 시험은 괜찮은데 말하기가 안 됩니다. 수행평가에서 발표를 해야 하는데 긴장되고 입이 안 떨어집니다. 문법도 알고 단어도 아는데 막상 말을 하려면 버벅거립니다. 말하기는 연습입니다. 충분히 연습하면 자신있게 할 수 있습니다.

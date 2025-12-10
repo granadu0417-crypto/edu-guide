@@ -12,7 +12,7 @@ tags:
   - 몰입학습
   - 주의집중
   - 집중훈련
-featured_image: "/images/edu_0104_2FPjlAyMQTA.jpg"
+featured_image: "/images/edu_0104_N_aihp118p8.jpg"
 ---
 
 집중이 안 됩니다. 책상에 앉아도 딴생각이 납니다. 10분도 못 앉아 있습니다. 집중력은 훈련입니다. 원인을 찾고 해결하면 집중력이 높아집니다.

@@ -12,7 +12,7 @@ tags:
   - 지문분석
   - 독해력
   - 수능국어
-featured_image: "/images/edu_0042_AJYhP_fAkSk.jpg"
+featured_image: "/images/edu_0042_PLeMfbzWA90.jpg"
 ---
 
 수능 국어에서 비문학이 가장 어렵습니다. 지문이 길고 내용이 생소하고 시간은 부족합니다. 읽어도 머리에 안 들어오고, 문제를 풀면 헷갈립니다. 비문학은 기술입니다. 읽는 방법과 푸는 방법을 알면 정복할 수 있습니다.

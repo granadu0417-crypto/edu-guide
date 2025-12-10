@@ -16,7 +16,7 @@ tags:
 - 프랜차이즈학원
 - 학원고르기
 - 학원
-featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 ---
 
 ## 대형 학원이 좋다는 말도 있고, 소형 학원이 더 낫다는 말도 있어요. 우리 아이한테는 뭐가 맞을까요?

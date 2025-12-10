@@ -12,7 +12,7 @@ tags:
   - 고난도수학
   - 수능수학
   - 문제해결력
-featured_image: "/images/edu_0049_YWF-ObzeD6g.jpg"
+featured_image: "/images/edu_0049_HXhl_vAoiMw.jpg"
 ---
 
 수학 개념은 아는데 문제가 안 풀립니다. 특히 킬러 문항은 손도 못 댑니다. 개념을 알아도 적용이 안 됩니다. 문제 풀이는 따로 훈련해야 합니다. 킬러 문항도 방법이 있습니다.

@@ -14,7 +14,7 @@ tags:
 - 영어
 description: 강남 영어학원 추천. 토플·텝스·수능 전문 학원 비교, 선택 기준, 1:1 영어 과외 병행 전략을 안내합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 reading_time: 160줄
 ---
 

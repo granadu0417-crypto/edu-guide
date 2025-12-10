@@ -12,7 +12,7 @@ tags:
   - 오답관리
   - 문제풀이
   - 실력향상
-featured_image: "/images/edu_0107_Nyvq2juw4_o.jpg"
+featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 ---
 
 같은 실수를 반복합니다. 틀린 문제를 또 틀립니다. 왜 틀렸는지 모릅니다. 오답노트가 필요합니다. 틀린 이유를 분석하면 같은 실수를 하지 않습니다.

@@ -12,7 +12,7 @@ tags:
   - 외우기
   - 기억술
   - 암기방법
-featured_image: "/images/edu_0105_nGrfKmtwv24.jpg"
+featured_image: "/images/edu_0105_R6_QCg7DwKg.jpg"
 ---
 
 외워도 까먹습니다. 열심히 외웠는데 다음 날 기억이 안 납니다. 암기가 안 됩니다. 암기에도 방법이 있습니다. 올바른 방법으로 외우면 오래 기억됩니다.

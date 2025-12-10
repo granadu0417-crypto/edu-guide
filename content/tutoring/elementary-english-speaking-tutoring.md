@@ -12,7 +12,7 @@ tags:
   - 말하기수업
   - 수행평가
   - 영어발표력
-featured_image: "/images/edu_0025_Tj2-y4PrSlM.jpg"
+featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 ---
 
 요즘 학교에서 영어 발표를 많이 시킵니다. 수행평가로 영어 스피치를 해야 하는데 아이가 너무 긴장합니다. 영어 스피킹은 실력과 자신감, 둘 다 필요합니다. 1:1로 충분히 연습하면 자신있게 발표할 수 있습니다.

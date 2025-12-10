@@ -12,7 +12,7 @@ tags:
   - 알고리즘
   - 코딩대회
   - 중학코딩
-featured_image: "/images/edu_0036_WE_Kv_ZB1l0.jpg"
+featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 ---
 
 정보 교과가 정규 과목이 됐습니다. 코딩을 배워야 하는 시대입니다. 학교에서 배우는 시간은 적고, 혼자 공부하기는 어렵습니다. 알고리즘 사고력을 키우고 대회까지 준비하고 싶다면 체계적인 수업이 필요합니다.

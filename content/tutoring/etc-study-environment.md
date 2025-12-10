@@ -12,7 +12,7 @@ tags:
   - 공부방
   - 환경조성
   - 학습공간
-featured_image: "/images/edu_0122_-2vD8lIhdnw.jpg"
+featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 ---
 
 공부하려고 앉으면 집중이 안 됩니다. 주변이 산만합니다. 환경이 문제일 수 있습니다. 학습 환경은 성적에 영향을 미칩니다. 좋은 환경을 만들면 집중력이 높아집니다.

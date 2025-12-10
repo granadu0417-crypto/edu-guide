@@ -12,7 +12,7 @@ tags:
   - 물리개념
   - 과학탐구
   - 물리문제풀이
-featured_image: "/images/edu_0053_MuEJz6ejxFs.jpg"
+featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 ---
 
 물리가 어렵습니다. 개념은 알겠는데 문제에 적용이 안 됩니다. 공식을 외워도 언제 쓰는지 모르겠습니다. 물리는 원리입니다. 원리를 이해하면 문제가 풀립니다.

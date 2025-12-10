@@ -15,7 +15,7 @@ tags:
 description: 독학과 학원·1:1 과외 비교. 각각의 장단점, 적합한 학생 유형, 병행 전략, 성공 방법을 제시합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
   정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 reading_time: 160줄
 ---
 

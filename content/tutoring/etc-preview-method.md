@@ -12,7 +12,7 @@ tags:
   - 사전학습
   - 예습복습
   - 학습준비
-featured_image: "/images/edu_0109_MGaFENpDCsw.jpg"
+featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 ---
 
 수업을 들어도 무슨 말인지 모르겠습니다. 처음 듣는 내용이라 어렵습니다. 따라가기 힘듭니다. 예습이 필요합니다. 미리 한 번 보면 수업이 달라집니다.

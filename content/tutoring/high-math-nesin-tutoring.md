@@ -12,7 +12,7 @@ tags:
   - 학교기출
   - 수학시험
   - 내신대비
-featured_image: "/images/edu_0048_ZI1PBKK-jDI.jpg"
+featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 ---
 
 수학 내신이 안 오릅니다. 열심히 했는데 1등급이 안 나옵니다. 학교 시험은 수능과 다릅니다. 선생님 스타일에 맞춰야 합니다. 기출 분석과 학교별 대비가 내신 1등급의 비결입니다.

@@ -14,7 +14,7 @@ tags:
 - 과외추천
 description: 1:1 과외의 장점과 단점을 완벽 분석합니다. 효과적인 활용법, 선생님 선택법, 성공 사례까지 모든 것을 담았습니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 reading_time: 160줄
 ---
 

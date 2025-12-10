@@ -15,7 +15,7 @@ tags:
 description: 서초 영재교육 학원 추천. 과학고·영재학교 입시 대비, 영재교육원 준비, 1:1 심화 과외를 안내합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
   정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1552581234-26160f608093?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0211__1gBVgy8gIU.jpg"
 reading_time: 160줄
 ---
 

@@ -16,7 +16,7 @@ tags:
 - 인터넷강의
 - 화상과외장단점
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 reading_time: 160줄
 ---
 

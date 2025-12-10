@@ -12,7 +12,7 @@ tags:
   - 학습습관
   - 자율학습
   - 자기관리
-featured_image: "/images/edu_0099_s9CC2SKySJM.jpg"
+featured_image: "/images/edu_0099_CAtC53bw-Ko.jpg"
 ---
 
 혼자 공부가 안 됩니다. 누가 시켜야 합니다. 계획을 세워도 지키지 못합니다. 자기주도학습은 훈련입니다. 스스로 계획하고 실천하는 힘을 기를 수 있습니다.

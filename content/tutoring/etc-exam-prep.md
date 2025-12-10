@@ -12,7 +12,7 @@ tags:
   - 중간고사
   - 기말고사
   - 시험전략
-featured_image: "/images/edu_0110_KE0nC8-58MQ.jpg"
+featured_image: "/images/edu_0110_GWtB5_Ack7M.jpg"
 ---
 
 시험이 다가옵니다. 뭐부터 해야 할지 모르겠습니다. 시간이 부족합니다. 불안합니다. 시험 대비에도 전략이 있습니다. 계획적으로 준비하면 시험 성적이 달라집니다.

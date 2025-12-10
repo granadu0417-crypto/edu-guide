@@ -12,7 +12,7 @@ tags:
   - 코딩기초
   - 파이썬문법
   - 중학파이썬
-featured_image: "/images/edu_0038_Y9kOsyoWyaU.jpg"
+featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 ---
 
 파이썬을 배우고 싶은데 어디서부터 시작해야 할지 모르겠습니다. 학교에서 배우는 시간은 짧고, 혼자 공부하기는 막막합니다. 파이썬은 배우기 쉬운 언어라고 하는데, 기초를 제대로 잡으면 정말 쉽습니다.

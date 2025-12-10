@@ -16,7 +16,7 @@ tags:
 - 그룹학습
 - 학습환경
 - 노원
-featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0004_TtAHLsnbz3o.jpg"
 ---
 
 ## 학원을 보내야 할까요, 과외를 시켜야 할까요?

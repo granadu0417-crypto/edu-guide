@@ -14,7 +14,7 @@ tags:
 - 초등
 description: 건강한 학습 습관 형성 전략. 일일 루틴, 시간 관리, 효과적 학습법, 1:1 과외 활용 방법을 안내합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 reading_time: 160줄
 ---
 

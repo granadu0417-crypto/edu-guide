@@ -12,7 +12,7 @@ tags:
   - 역사흐름
   - 한능검
   - 중학한국사
-featured_image: "/images/edu_0028_dZxQn4VEv2M.jpg"
+featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 ---
 
 한국사가 어렵다고요? 연도와 사건이 머릿속에서 엉킨다고요? 그건 흐름 없이 낱개로 외우려고 해서 그렇습니다. 역사는 이어지는 이야기입니다. 앞의 사건이 뒤의 사건을 만들어냅니다. 흐름을 잡으면 외울 것이 확 줄어듭니다.

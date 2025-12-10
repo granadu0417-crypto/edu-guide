@@ -12,7 +12,7 @@ tags:
   - 자기동기
   - 목표의식
   - 의욕향상
-featured_image: "/images/edu_0123_RiDxDgHg7pg.jpg"
+featured_image: "/images/edu_0123_dg3OIYUL2WQ.jpg"
 ---
 
 공부하기 싫습니다. 왜 공부해야 하는지 모르겠습니다. 의욕이 없습니다. 동기 부여가 필요합니다. 왜 공부하는지 알면 스스로 하게 됩니다.

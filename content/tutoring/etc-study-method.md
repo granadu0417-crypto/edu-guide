@@ -12,7 +12,7 @@ tags:
   - 공부법
   - 학습전략
   - 공부요령
-featured_image: "/images/edu_0125_QR-XQbUVC1s.jpg"
+featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 ---
 
 열심히 공부하는데 성적이 안 옵니다. 시간은 많이 쓰는데 효과가 없습니다. 방법이 잘못된 건 아닐까요? 공부에도 방법이 있습니다. 효과적인 방법으로 하면 같은 시간에 더 많이 배웁니다.

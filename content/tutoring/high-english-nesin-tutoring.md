@@ -12,7 +12,7 @@ tags:
   - 영어내신1등급
   - 교과서분석
   - 영어시험
-featured_image: "/images/edu_0044_LjqARs-eih4.jpg"
+featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 ---
 
 영어 내신이 안 오릅니다. 수능 공부는 열심히 했는데 내신 시험에서 점수가 안 나옵니다. 학교 선생님이 내는 문제는 뭔가 다릅니다. 내신은 학교에 맞춰야 합니다. 기출 분석이 답입니다.

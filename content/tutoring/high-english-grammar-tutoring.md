@@ -12,7 +12,7 @@ tags:
   - 영어문법
   - 문법정리
   - 고등영어
-featured_image: "/images/edu_0046_xekxE_VR0Ec.jpg"
+featured_image: "/images/edu_0046_sjkXYJYrU5g.jpg"
 ---
 
 문법을 공부해도 문제에 적용이 안 됩니다. 문법책은 두껍고 외울 것은 많은데 시험에는 일부만 나옵니다. 수능에 나오는 문법 포인트만 확실히 정리하면 효율적입니다.

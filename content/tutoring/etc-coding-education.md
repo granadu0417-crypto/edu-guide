@@ -12,7 +12,7 @@ tags:
   - 파이썬
   - 스크래치
   - SW교육
-featured_image: "/images/edu_0118_Im7lZjxeLhg.jpg"
+featured_image: "/images/edu_0118_j9jZSqfH5YI.jpg"
 ---
 
 코딩을 배우고 싶습니다. 학교에서도 코딩을 합니다. 미래에 필요하다고 합니다. 코딩은 미래의 언어입니다. 어릴 때부터 배우면 논리력과 창의력이 길러집니다.

@@ -12,7 +12,7 @@ tags:
   - 프레젠테이션
   - 자신감
   - 발표훈련
-featured_image: "/images/edu_0116_7_kRuX1hSXM.jpg"
+featured_image: "/images/edu_0116_h0tMHMyfr9A.jpg"
 ---
 
 발표가 무섭습니다. 사람들 앞에 서면 긴장됩니다. 말이 안 나옵니다. 발표력은 훈련입니다. 연습하면 자신있게 말할 수 있습니다.

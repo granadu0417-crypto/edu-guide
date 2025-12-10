@@ -14,7 +14,7 @@ tags:
 - 초등
 description: 용인 학원 추천. 수지·죽전·동백 지역, 과목별, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의
   모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0263_7Wf684C9nwU.jpg"
 reading_time: 160줄
 ---
 

@@ -12,7 +12,7 @@ tags:
   - 디베이트
   - 논증
   - 비판적사고
-featured_image: "/images/edu_0117_f4pUuCc3M0g.jpg"
+featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 ---
 
 토론이 어렵습니다. 할 말이 있는데 정리가 안 됩니다. 상대방 말에 반박을 못 합니다. 토론은 기술입니다. 배우고 연습하면 논리적으로 주장할 수 있습니다.

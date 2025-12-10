@@ -12,7 +12,7 @@ tags:
   - 진로멘토링
   - 학습멘토링
   - 롤모델
-featured_image: "/images/edu_0101_N_aihp118p8.jpg"
+featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 ---
 
 롤모델이 없습니다. 어떻게 공부해야 할지 모르겠습니다. 대학 가면 뭘 해야 하는지도 모릅니다. 멘토가 필요합니다. 먼저 경험한 선배에게 배우면 시행착오를 줄일 수 있습니다.

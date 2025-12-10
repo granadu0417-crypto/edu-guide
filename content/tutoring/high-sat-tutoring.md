@@ -12,7 +12,7 @@ tags:
   - SAT고득점
   - 미국대학입시
   - SAT전략
-featured_image: "/images/edu_0093_WE_Kv_ZB1l0.jpg"
+featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 ---
 
 SAT를 준비하고 있습니다. 미국 대학 입시에 SAT 점수가 필요합니다. 어떻게 공부해야 높은 점수가 나올지 모르겠습니다. SAT는 전략입니다. 영역별 특성을 파악하고 체계적으로 준비하면 고득점이 가능합니다.

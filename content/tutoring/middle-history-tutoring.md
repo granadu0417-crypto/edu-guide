@@ -12,7 +12,7 @@ tags:
   - 역사공부법
   - 세계사
   - 중학역사
-featured_image: "/images/edu_0027_IuLgi9PWETU.jpg"
+featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 ---
 
 역사 과목이 만만치 않습니다. 외울 것이 너무 많고 연도와 사건이 뒤섞여서 혼란스럽습니다. 그런데 단순 암기로 역사를 공부하면 금방 잊어버립니다. 흐름을 이해하고 맥락을 잡으면 암기량이 확 줄어듭니다.

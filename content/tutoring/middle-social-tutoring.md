@@ -12,7 +12,7 @@ tags:
   - 서술형대비
   - 사회공부법
   - 중학사회
-featured_image: "/images/edu_0029_lBhhnhndpE0.jpg"
+featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 ---
 
 사회 과목이 골치 아픕니다. 외울 것도 많고 서술형에서 점수가 깎입니다. 개념이 추상적이라 이해가 잘 안 된다고요? 제대로 정리하면 사회도 만만해집니다. 개념을 확실히 잡고 서술형까지 대비하면 내신 걱정이 사라집니다.

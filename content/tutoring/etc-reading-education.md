@@ -12,7 +12,7 @@ tags:
   - 독서습관
   - 독후활동
   - 독서토론
-featured_image: "/images/edu_0114_6Dv3pe-JnSg.jpg"
+featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 ---
 
 아이가 책을 안 읽습니다. 스마트폰만 봅니다. 책을 좋아하게 하고 싶습니다. 독서교육이 필요합니다. 책 읽는 습관을 만들면 평생의 자산이 됩니다.

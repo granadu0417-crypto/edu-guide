@@ -12,7 +12,7 @@ tags:
   - 영어발음
   - 스피킹연습
   - 중학영어
-featured_image: "/images/edu_0039_IB5bld4xp3Y.jpg"
+featured_image: "/images/edu_0039_90ctJcyrRLs.jpg"
 ---
 
 영어 시험 점수는 좋은데 말을 못 합니다. 원어민이 말을 걸면 얼어버립니다. 머릿속에서 문장이 만들어지지 않습니다. 영어 말하기는 따로 연습해야 합니다. 충분히 연습하면 원어민 앞에서도 당당하게 말할 수 있습니다.

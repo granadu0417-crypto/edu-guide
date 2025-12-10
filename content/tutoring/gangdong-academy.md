@@ -15,7 +15,7 @@ tags:
 description: 강동 학원 추천. 고덕·명일·천호 지역별 학원, 과목별 선택, 1:1 과외 병행을 안내합니다 과외 선택부터 효과적인 활용까지,
   1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
   현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 reading_time: 160줄
 ---
 

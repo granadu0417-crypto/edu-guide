@@ -12,7 +12,7 @@ tags:
   - 성조
   - 외국어교육
   - 제2외국어
-featured_image: "/images/edu_0018_nDfU8rJbycM.jpg"
+featured_image: "/images/edu_0018_MAtFlkixDf4.jpg"
 ---
 
 중국어는 세계에서 가장 많은 사람이 쓰는 언어입니다. 미래를 생각하면 영어 다음으로 배워둘 가치가 있습니다. 초등학교 때 시작하면 어려운 성조도 자연스럽게 익힐 수 있습니다.

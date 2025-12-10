@@ -12,7 +12,7 @@ tags:
   - 홈과외
   - 개인과외
   - 맞춤과외
-featured_image: "/images/edu_0095_8CqDvPuo_kI.jpg"
+featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 ---
 
 학원 다니기 싫습니다. 이동 시간이 아깝습니다. 집에서 편하게 공부하고 싶습니다. 방문 과외가 답입니다. 선생님이 집으로 오셔서 1:1로 가르쳐주십니다.

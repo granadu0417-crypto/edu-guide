@@ -12,7 +12,7 @@ tags:
   - 간격반복
   - 효과적복습
   - 학습복습
-featured_image: "/images/edu_0108_1K9T5YiZ2WU.jpg"
+featured_image: "/images/edu_0108_AsPbtcPqgfY.jpg"
 ---
 
 배워도 까먹습니다. 수업 들으면 이해했는데, 다음 날 모릅니다. 복습을 안 합니다. 복습이 핵심입니다. 배운 것을 오래 기억하려면 복습이 필수입니다.

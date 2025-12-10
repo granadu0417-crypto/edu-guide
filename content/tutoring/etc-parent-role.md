@@ -12,7 +12,7 @@ tags:
   - 학습지원
   - 부모코칭
   - 자녀학습
-featured_image: "/images/edu_0121_1-aA2Fadydc.jpg"
+featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"
 ---
 
 아이 공부를 어떻게 도와줘야 할지 모르겠습니다. 너무 간섭하면 안 되고, 방치해도 안 됩니다. 부모의 역할이 고민됩니다. 부모의 역할은 중요합니다. 올바른 지원이 아이의 학습을 바꿉니다.

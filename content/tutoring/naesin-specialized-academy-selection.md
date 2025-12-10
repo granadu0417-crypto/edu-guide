@@ -14,7 +14,7 @@ tags:
 - 학원선택
 description: 내신 전문 학원 선택의 모든 것. 학교별 맞춤 대비, 효과적인 내신 관리 전략, 성적 향상 비법을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 reading_time: 160줄
 ---
 

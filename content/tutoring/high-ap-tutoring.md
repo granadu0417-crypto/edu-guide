@@ -12,7 +12,7 @@ tags:
   - AP대비
   - AP고득점
   - 미국대학
-featured_image: "/images/edu_0091_QckxruozjRg.jpg"
+featured_image: "/images/edu_0091_jugJ0wmZ7wk.jpg"
 ---
 
 AP 시험을 준비하고 있습니다. 미국 대학 입시에 AP 점수가 필요합니다. 어떤 과목을 선택하고 어떻게 준비해야 할지 모르겠습니다. AP는 미국 대학 수준의 과목입니다. 체계적으로 준비하면 5점 만점을 받을 수 있습니다.

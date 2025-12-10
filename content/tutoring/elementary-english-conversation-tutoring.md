@@ -12,7 +12,7 @@ tags:
   - 스피킹
   - 영어교육
   - 회화연습
-featured_image: "/images/edu_0019_sBkMw5drvwI.jpg"
+featured_image: "/images/edu_0019_PZAVhoJMWd4.jpg"
 ---
 
 문법은 아는데 말이 안 나온다는 아이들이 많습니다. 학교 영어 시험은 잘 보는데 외국인 앞에서는 한마디도 못합니다. 영어회화는 말하기 연습이 필수입니다. 1:1 과외로 충분히 말하는 연습을 해야 입이 트입니다.

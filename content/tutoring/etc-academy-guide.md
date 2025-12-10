@@ -12,7 +12,7 @@ tags:
   - 학원고르기
   - 학원상담
   - 학원가이드
-featured_image: "/images/edu_0097_WE_Kv_ZB1l0.jpg"
+featured_image: "/images/edu_0097_CV3nkG7XIwg.jpg"
 ---
 
 학원을 보내야 할 것 같습니다. 어떤 학원이 좋은지 모르겠습니다. 주변에 학원이 너무 많습니다. 학원 선택은 신중해야 합니다. 아이에게 맞는 학원을 찾는 것이 중요합니다.

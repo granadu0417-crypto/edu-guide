@@ -15,7 +15,7 @@ tags:
 description: 평촌 학원가 완전 가이드. 인덕원·범계 지역, 과목별 학원, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1
   맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한
   선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0199_i5nMmbr8JYg.jpg"
 reading_time: 165줄
 ---
 

@@ -12,7 +12,7 @@ tags:
   - 실험원리
   - 과학공부법
   - 중학과학
-featured_image: "/images/edu_0030_qWwpHwip31M.jpg"
+featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 ---
 
 과학 시험이 어렵습니다. 개념도 많고 실험도 외워야 하고, 그래프 해석도 해야 합니다. 대충 외워서는 응용 문제를 못 풀어요. 원리를 이해해야 어떤 문제가 나와도 풀 수 있습니다.

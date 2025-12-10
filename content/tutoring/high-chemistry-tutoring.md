@@ -12,7 +12,7 @@ tags:
   - 화학반응식
   - 과학탐구
   - 화학문제풀이
-featured_image: "/images/edu_0054_MEL-jJnm7RQ.jpg"
+featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 ---
 
 화학이 어렵습니다. 반응식이 복잡하고 계산이 많습니다. 개념은 알겠는데 문제에서 적용이 안 됩니다. 화학은 입자적 관점이 핵심입니다. 원자와 분자의 세계를 이해하면 풀립니다.
