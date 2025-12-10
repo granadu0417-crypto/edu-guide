@@ -14,7 +14,7 @@ tags:
   - 중학교수학과외
   - 내신대비
 description: "중랑구 면목4동 중학생을 위한 1:1 맞춤 수학과외. 용마중 내신 완벽 대비, 개념 이해부터 심화 문제까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0793_aj3C4f6T8fA.jpg"
 ---
 
 중학교 수학은 고등학교를 위한 디딤돌입니다. 용마중 학생들의 수학 실력 향상을 도와드립니다.

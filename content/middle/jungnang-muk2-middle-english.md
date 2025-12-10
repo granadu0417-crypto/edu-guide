@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 묵2동 중학생을 위한 1:1 맞춤 영어과외. 중랑구 관내 학교 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0501_7QRM2qNsQGk.jpg"
 ---
 
 영어는 언어입니다. 매일 꾸준히 하면 반드시 늡니다.

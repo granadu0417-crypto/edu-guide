@@ -14,7 +14,7 @@ tags:
   - 중학교수학과외
   - 내신대비
 description: "중랑구 신내2동 중학생을 위한 1:1 맞춤 수학과외. 중랑구 관내 학교 내신 완벽 대비, 개념 이해부터 심화 문제까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0857_NIdp9nL9JAg.jpg"
 ---
 
 신내2동 중학생 학부모님, 아이의 수학 기초가 걱정되신다면 지금 시작하세요.

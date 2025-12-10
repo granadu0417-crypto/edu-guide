@@ -16,7 +16,7 @@ featured_image: "/images/edu_0333_6CQy1skIbRs.jpg"
 가산디지털단지 인근은 **논리적 사고력**을 중시하는 IT 업계 학부모가 많습니다.
 그래서 **성과 중심의 효율적인 수학 교육**이 발달했어요.
 
-![구로구 수학과외](https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=600&fit=crop)
+![구로구 수학과외](/images/edu_0287_XkKCui44iM0.jpg)
 
 ## 구로구 수학 교육, 어떤 특징이 있나요?
 

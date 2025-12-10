@@ -16,7 +16,7 @@ featured_image: "/images/edu_0329_nyZauHXn3P0.jpg"
 그렇게 생각하실 수 있어요.
 하지만 **학원과 과외는 역할이 다릅니다.** 학원에서 배운 내용을 과외로 보완하면 시너지가 나요.
 
-![강서구 수학과외](https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=600&fit=crop)
+![강서구 수학과외](/images/edu_0283_ijhzqAm3N1Y.jpg)
 
 ## 강서구 수학 교육, 어떤 특징이 있나요?
 

@@ -15,7 +15,7 @@ tags:
   - 수능수학
   - 내신대비
 description: "중랑구 면목2동 고등학생을 위한 1:1 맞춤 수학과외. 중랑구 관내 고등학교 내신 완벽 대비, 수능 수학까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 ---
 
 수학 성적이 갑자기 떨어졌나요? 고등학교에 와서 그런 학생이 많습니다.

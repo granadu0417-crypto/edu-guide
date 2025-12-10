@@ -16,7 +16,7 @@ featured_image: "/images/edu_0314_BcEmfG0xKrc.jpg"
 그렇게 생각하실 수 있어요.
 하지만 **학원과 과외는 역할이 다릅니다.** 학원에서 못 따라가는 부분을 과외로 잡아주면 시너지가 나요.
 
-![동작구 수학과외](https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=600&fit=crop)
+![동작구 수학과외](/images/edu_0888_eEDbpbsBudE.jpg)
 
 ## 동작구 수학 교육, 어떤 특징이 있나요?
 

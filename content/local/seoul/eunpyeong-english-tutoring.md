@@ -16,7 +16,7 @@ featured_image: "/images/edu_0315_qnt0fP8Uphw.jpg"
 그렇게 생각하실 수 있어요.
 하지만 **불광동 학원가가 생각보다 탄탄합니다.** 주거 환경도 안정적이어서 장기적인 학습에 좋아요.
 
-![은평구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![은평구 영어과외](/images/edu_0266_0pjqSMqYlyU.jpg)
 
 ## 은평구 영어 교육, 어떤 특징이 있나요?
 

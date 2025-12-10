@@ -16,7 +16,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 정답은 **"그 선생님이 잘 가르치는지에 달렸다"**입니다.
 서울대생이라고 다 잘 가르치는 건 아니에요. 하지만 잘 가르치는 서울대생을 만나면? 최고의 선택이 됩니다.
 
-![관악구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![관악구 영어과외](/images/edu_0288_jJFrkJP_-RA.jpg)
 
 ## 관악구 영어 교육, 뭐가 특별할까요?
 

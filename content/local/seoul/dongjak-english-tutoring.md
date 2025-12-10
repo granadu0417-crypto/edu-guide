@@ -16,7 +16,7 @@ featured_image: "/images/edu_0313_EhGw-i_Eamg.jpg"
 맞습니다.
 솔직히 말씀드리면, **동작구는 영어과외 하기에 좋은 환경**입니다. 중앙대 영문과, 국제학부 학생들이 많아요. 노량진 학원가도 가까워서 입시 정보도 빨라요.
 
-![동작구 영어과외](https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=600&fit=crop)
+![동작구 영어과외](/images/edu_0887_qSV6pnnd14s.jpg)
 
 ## 동작구 영어 교육, 어떤 특징이 있나요?
 

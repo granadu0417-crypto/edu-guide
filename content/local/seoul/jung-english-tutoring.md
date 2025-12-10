@@ -27,7 +27,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 명동의 국제적인 분위기, 을지로의 비즈니스 환경, 남산 아래 조용한 주택가...
 서울 도심 한복판에서 우리 아이에게 딱 맞는 영어 교육, 충분히 가능합니다.
 
-![중구 영어교육](https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=600&fit=crop)
+![중구 영어교육](/images/edu_0292_OCIicZ3Tfco.jpg)
 
 ## 중구, 영어 공부하기 좋은 이유
 
@@ -96,7 +96,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 중학교 영어의 기초가 되는 **핵심 문법과 어휘**를 잡는 시기입니다.
 이때 기초가 흔들리면 중등 영어가 힘들어집니다.
 
-![영어 학습](https://images.unsplash.com/photo-1643021456787-8c4ad7e7e9fa?w=1200&h=600&fit=crop)
+![영어 학습](/images/edu_0293_ZDlJ7R4F6Yg.jpg)
 
 - 기초 문법(be동사, 일반동사, 시제) 정확히
 - 독해 기초 다지기 - 짧은 지문부터 시작

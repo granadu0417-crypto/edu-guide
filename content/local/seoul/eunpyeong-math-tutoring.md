@@ -16,7 +16,7 @@ featured_image: "/images/edu_0316_peurcQboBlg.jpg"
 많이들 걱정하시는데요.
 **불광동 학원가가 꽤 탄탄합니다.** 주거 환경이 안정적이어서 장기적인 학습에 오히려 좋아요.
 
-![은평구 수학과외](https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=600&fit=crop)
+![은평구 수학과외](/images/edu_0267_TSRMOX6FV3A.jpg)
 
 ## 은평구 수학 교육, 어떤 특징이 있나요?
 

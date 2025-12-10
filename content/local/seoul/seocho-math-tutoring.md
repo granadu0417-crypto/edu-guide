@@ -16,7 +16,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 학부모님들이 가장 많이 하시는 질문입니다.
 솔직히 말씀드리면, **서초구는 좋은 선생님이 많습니다.** 문제는 우리 아이에게 맞는 선생님을 찾는 것이죠.
 
-![서초구 수학과외](https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=600&fit=crop)
+![서초구 수학과외](/images/edu_0297_9fyvN-6aiJg.jpg)
 
 ## 서초구 수학 교육, 뭐가 다를까요?
 

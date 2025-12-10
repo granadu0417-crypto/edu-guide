@@ -15,7 +15,7 @@ tags:
   - 수능수학
   - 내신대비
 description: "중랑구 면목7동 고등학생을 위한 1:1 맞춤 수학과외. 중랑구 관내 고등학교 내신 완벽 대비, 수능 수학까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 ---
 
 고등학교 수학, 혼자 하기엔 너무 어렵습니다. 함께 시작하세요.

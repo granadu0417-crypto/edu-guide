@@ -16,7 +16,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 많이들 물어보시는 부분입니다.
 솔직히 말씀드리면, **강동구는 강동구만의 장점이 있습니다.** 송파구보다 경쟁이 덜 치열하면서도, 건국대가 가까워서 검증된 대학생 선생님을 만나기 좋아요.
 
-![강동구 영어과외](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=600&fit=crop)
+![강동구 영어과외](/images/edu_0270_dUEys4mnoK4.jpg)
 
 ## 강동구 영어 교육, 어떤 특징이 있나요?
 

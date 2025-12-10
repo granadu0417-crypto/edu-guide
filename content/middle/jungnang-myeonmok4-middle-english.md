@@ -14,7 +14,7 @@ tags:
   - 중학교영어과외
   - 영어내신
 description: "중랑구 면목4동 중학생을 위한 1:1 맞춤 영어과외. 용마중 내신 완벽 대비, 문법·독해·어휘 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0792_pwcKF7L4-no.jpg"
 ---
 
 용마중 영어 내신, 어렵지 않습니다. 핵심만 짚어드립니다.

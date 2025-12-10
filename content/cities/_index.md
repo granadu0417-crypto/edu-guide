@@ -11,7 +11,7 @@ tags:
   - 지역별과외
   - 수학과외
   - 영어과외
-featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0345_cay5tCQkZN0.jpg"
 ---
 
 <style>

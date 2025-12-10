@@ -23,7 +23,7 @@ featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 
 과학 암기 과목은 단순 암기가 아닙니다. 이해와 암기를 함께해야 진짜 실력이 됩니다. 이 글에서는 생물, 지구과학 등 암기가 많은 과학 과목을 효과적으로 정복하는 모든 전략을 안내합니다.
 
-![과학 암기 전략](https://images.unsplash.com/photo-1589395937527-f9d5b2a9c1f9?w=1200&h=600&fit=crop)
+![과학 암기 전략](/images/edu_0304_X916crnB9NM.jpg)
 
 ## 과학 암기 과목의 특징
 

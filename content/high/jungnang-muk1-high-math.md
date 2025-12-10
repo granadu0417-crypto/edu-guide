@@ -15,7 +15,7 @@ tags:
   - 수능수학
   - 내신대비
 description: "중랑구 묵1동 고등학생을 위한 1:1 맞춤 수학과외. 원묵고, 태릉고 내신 완벽 대비, 수능 수학까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0356_Eerotju7VgI.jpg"
 ---
 
 원묵고, 태릉고 학생들! 중랑구 최고 학군에서 수학 1등급 도전하세요.

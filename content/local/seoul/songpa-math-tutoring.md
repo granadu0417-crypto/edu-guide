@@ -16,7 +16,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 송파구 학부모님들이 많이 걱정하시는 부분입니다.
 솔직히 말씀드리면, **8학군이라고 다 잘하는 건 아닙니다.** 오히려 분위기에 휩쓸려 기초 없이 선행만 하다가 수학을 포기하는 아이들도 있어요.
 
-![송파구 수학과외](https://images.unsplash.com/photo-1582201942988-13e60e4556ee?w=1200&h=600&fit=crop)
+![송파구 수학과외](/images/edu_0299_djDgVMWd04E.jpg)
 
 ## 송파구 수학 교육, 어떤 특징이 있나요?
 

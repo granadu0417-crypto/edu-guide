@@ -16,7 +16,7 @@ featured_image: "/images/edu_0328_RCOwINCGhj0.jpg"
 그렇게 생각하실 수 있어요.
 하지만 **학원과 과외는 역할이 다릅니다.** 목동 학원가에서 배운 내용을 개인 과외로 보완하면 시너지가 나요.
 
-![강서구 영어과외](https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=600&fit=crop)
+![강서구 영어과외](/images/edu_0282_g1Kr4Ozfoac.jpg)
 
 ## 강서구 영어 교육, 어떤 특징이 있나요?
 

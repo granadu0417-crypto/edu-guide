@@ -14,7 +14,7 @@ tags:
   - 중학교수학과외
   - 내신대비
 description: "중랑구 묵1동 중학생을 위한 1:1 맞춤 수학과외. 원묵중, 태릉중 내신 완벽 대비, 개념 이해부터 심화 문제까지 체계적으로 지도합니다."
-featured_image: "https://images.unsplash.com/photo-1659180619874-5f1e3c4f6b2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0785_WIT_bQPUrvg.jpg"
 ---
 
 묵1동은 중랑구에서 학교가 가장 많은 지역입니다. 경쟁도 치열하죠.

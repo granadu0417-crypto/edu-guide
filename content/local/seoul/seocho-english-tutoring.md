@@ -16,7 +16,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 서초구 학부모님들이 가장 많이 하시는 고민입니다.
 솔직히 말씀드리면, **둘 다 잡으려면 전략이 필요합니다.**
 
-![서초구 영어과외](https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=600&fit=crop)
+![서초구 영어과외](/images/edu_0296_1K9T5YiZ2WU.jpg)
 
 ## 서초구 영어 교육, 뭐가 다를까요?
 

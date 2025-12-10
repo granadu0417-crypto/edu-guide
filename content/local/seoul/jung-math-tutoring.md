@@ -27,7 +27,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 명동의 번화한 거리, 을지로의 활기찬 분위기, 남산 아래 조용한 주택가...
 서울 한복판이지만 우리 아이에게 딱 맞는 수학 교육, 충분히 가능합니다.
 
-![중구 교육환경](https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=600&fit=crop)
+![중구 교육환경](/images/edu_0294_-uHVRvDr7pg.jpg)
 
 ## 중구, 수학 공부하기 좋은 이유
 
@@ -96,7 +96,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 중학교 수학의 기초가 되는 **핵심 개념**을 확실히 잡는 시기입니다.
 분수, 소수, 비율... 여기서 흔들리면 중등 수학이 힘들어집니다.
 
-![수학 학습](https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=600&fit=crop)
+![수학 학습](/images/edu_0295_IJrIeCs3D4g.jpg)
 
 - 분수·소수 연산 완벽 마스터
 - 도형의 넓이, 부피 개념 정확히 이해

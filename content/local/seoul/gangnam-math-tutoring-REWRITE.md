@@ -18,7 +18,7 @@ featured_image: "/images/edu_0325_wUU86kym4EA.jpg"
 
 그래서 오늘은 제가 직접 겪은 시행착오와, 주변 학부모들한테 들은 리얼 후기를 가감 없이 공유하려고 해요.
 
-![강남구 수학교육](https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=600&fit=crop)
+![강남구 수학교육](/images/edu_0277_WQl_OMbF6nA.jpg)
 
 ## 솔직히 대치동 수학과외, 정말 다를까요?
 
@@ -136,7 +136,7 @@ featured_image: "/images/edu_0325_wUU86kym4EA.jpg"
 
 {{< cta-dual type="inline" >}}
 
-![대치동 학원가](https://images.unsplash.com/photo-1632406898063-9d1a9a8e5f35?w=1200&h=600&fit=crop)
+![대치동 학원가](/images/edu_0278_h6pUcouJ9BA.jpg)
 
 ## 학원 vs 과외, 뭐가 나을까요?
 

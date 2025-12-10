@@ -16,7 +16,7 @@ featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 송파구 학부모님들이 많이 걱정하시는 부분입니다.
 솔직히 말씀드리면, **8학군이라고 다 잘하는 건 아닙니다.** 오히려 기초가 부족한 채 경쟁만 하다가 영어를 포기하는 아이들도 있어요.
 
-![송파구 영어과외](https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=600&fit=crop)
+![송파구 영어과외](/images/edu_0298_YRMWVcdyhmI.jpg)
 
 ## 송파구 영어 교육, 어떤 특징이 있나요?
 

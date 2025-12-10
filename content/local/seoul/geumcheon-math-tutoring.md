@@ -16,7 +16,7 @@ featured_image: "/images/edu_0331_QcyenJDqDzw.jpg"
 물론입니다. 금천구는 **안정적인 주거 환경**에서 꾸준한 수학 학습이 가능한 지역이에요.
 독산동 학원가와 개인 과외를 조합하면 최고의 효과를 볼 수 있습니다.
 
-![금천구 수학과외](https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=600&fit=crop)
+![금천구 수학과외](/images/edu_0285_kHWqxJXkEio.jpg)
 
 ## 금천구 수학 교육, 어떤 특징이 있나요?
 

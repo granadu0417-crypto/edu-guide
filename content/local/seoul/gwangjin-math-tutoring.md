@@ -16,7 +16,7 @@ featured_image: "/images/edu_0338_w7KukacxiRg.jpg"
 **건국대 수학과 학생이라고 다 잘 가르치는 건 아니에요.**
 하지만 잘 가르치는 건대 수학과 학생을 만나면? 최고의 선택이 됩니다.
 
-![광진구 수학과외](https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&h=600&fit=crop)
+![광진구 수학과외](/images/edu_0291_VMPhyAoVqqk.jpg)
 
 ## 광진구 수학 교육, 어떤 특징이 있나요?
 

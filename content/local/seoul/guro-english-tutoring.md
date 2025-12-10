@@ -16,7 +16,7 @@ featured_image: "/images/edu_0332_S4-PeFaWY7c.jpg"
 가산디지털단지 인근이라 **실용 영어**에 대한 관심이 높습니다.
 하지만 입시 영어도 놓칠 수 없죠. **둘 다 잡는** 방법이 있습니다.
 
-![구로구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![구로구 영어과외](/images/edu_0286_oLFD6zMxdOY.jpg)
 
 ## 구로구 영어 교육, 어떤 특징이 있나요?
 

@@ -16,7 +16,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 **건국대 영문과 학생이라고 다 잘 가르치는 건 아니에요.**
 하지만 잘 가르치는 건대 영문과 학생을 만나면? 최고의 선택이 됩니다.
 
-![광진구 영어과외](https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=600&fit=crop)
+![광진구 영어과외](/images/edu_0290_Bys31wQcP4Q.jpg)
 
 ## 광진구 영어 교육, 어떤 특징이 있나요?
 
