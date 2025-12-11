@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-taepyeong2-high-english/
 title: "성남시 수정구 태평2동 고등 영어과외 | 태원고·성남여고·성일고 내신·수능 대비"
 date: 2025-01-15
 categories:

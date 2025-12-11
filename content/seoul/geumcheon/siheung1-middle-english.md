@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung1-middle-english/
 title: "금천구 시흥1동 중등 영어과외 | 시흥중·문일중 기초부터 심화까지"
 date: 2025-01-29
 categories:

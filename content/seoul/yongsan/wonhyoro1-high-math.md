@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-wonhyoro1-high-math/
 title: "용산구 원효로1동 고등 수학과외 | 성심여고·배문고 개념 완성 수업"
 date: 2025-05-15
 categories:

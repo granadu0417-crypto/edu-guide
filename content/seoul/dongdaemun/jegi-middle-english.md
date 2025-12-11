@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-jegi-middle-english/
 title: "동대문구 제기동 중등 영어과외 | 성일중·정화여중 독해·문법 완성"
 date: 2025-01-29
 categories:

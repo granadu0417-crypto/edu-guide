@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye34-high-english/
 title: 노원구 상계3·4동 고등 영어과외 | 청원고·청원여고 체계적 학습 관리
 date: 2025-01-29
 categories:

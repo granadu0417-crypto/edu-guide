@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-samsong-middle-math/
 title: "고양시 덕양구 삼송동 중등 수학과외 | 삼송중 수학 흥미 찾기"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sangdo2-middle-english/
 title: "동작구 상도2동 중등 영어과외 | 강현중·상현중 기초부터 심화까지"
 date: 2025-01-29
 categories:

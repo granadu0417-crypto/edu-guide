@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-ichon2-middle-english/
 title: "용산구 이촌2동 중등 영어과외 | 용강중 체계적 영어 학습"
 date: 2025-05-15
 categories:

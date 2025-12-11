@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jangwi2-middle-english/
 title: "성북구 장위2동 중등 영어과외 | 장위중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

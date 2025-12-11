@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-dobong1-middle-math/
 title: "도봉구 도봉1동 중등 수학과외 | 도봉중·북서울중 개념부터 실전까지"
 date: 2025-01-29
 categories:

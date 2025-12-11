@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol2-middle-english/
 title: "양천구 신월2동 중등 영어과외 | 신남중 내신·특목 대비"
 date: 2025-01-29
 categories:

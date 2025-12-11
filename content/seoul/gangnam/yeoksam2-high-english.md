@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-역삼2-high-english/
 title: "강남구 역삼2동 고등 영어과외 | 언주고·강남서초고 실력 향상 수업"
 date: 2025-01-28
 categories:

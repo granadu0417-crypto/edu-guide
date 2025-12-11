@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-hyangdong-high-english/
 title: "고양시 덕양구 향동동 고등 영어과외 | 향동고 맞춤형 학습 설계"
 date: 2025-01-15
 categories:

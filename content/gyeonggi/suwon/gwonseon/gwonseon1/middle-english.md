@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-gwonseon1-middle-english/
 title: "수원시 권선구 권선1동 중등 영어과외 | 권선중·곡선중·세류중 내신 완벽 대비"
 date: 2025-01-15
 categories:

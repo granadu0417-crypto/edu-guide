@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-둔촌1-high-math/
 title: "강동구 둔촌1동 고등 수학과외 | 둔촌고·성내고 개념부터 심화까지"
 date: 2025-01-28
 categories:

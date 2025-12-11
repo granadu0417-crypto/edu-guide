@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-munjeong-1-middle-english/
 title: 송파구 문정1동 중등 영어과외 - 문정중·잠실중 내신 전문
 date: 2025-01-29
 categories:

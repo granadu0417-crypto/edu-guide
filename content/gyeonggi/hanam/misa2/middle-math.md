@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hanam-misa2-middle-math/
 title: "하남시 미사2동 중등 수학과외 | 하남중·미사중·위례중 내신 완벽 대비"
 date: 2025-01-15
 categories:

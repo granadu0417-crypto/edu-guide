@@ -13,21 +13,6 @@ cities:
 tags:
   - 동대문구영어과외
   - 동대문구중등영어
-aliases:
-  - /middle/dongdaemun-cheongnyangni-middle-english/
-  - /middle/dongdaemun-dapsimni1-middle-english/
-  - /middle/dongdaemun-dapsimni2-middle-english/
-  - /middle/dongdaemun-hoegi-middle-english/
-  - /middle/dongdaemun-hwigyeong1-middle-english/
-  - /middle/dongdaemun-hwigyeong2-middle-english/
-  - /middle/dongdaemun-imun1-middle-english/
-  - /middle/dongdaemun-imun2-middle-english/
-  - /middle/dongdaemun-jangan1-middle-english/
-  - /middle/dongdaemun-jangan2-middle-english/
-  - /middle/dongdaemun-jegi-middle-english/
-  - /middle/dongdaemun-jeonnong1-middle-english/
-  - /middle/dongdaemun-jeonnong2-middle-english/
-  - /middle/dongdaemun-yongsin-middle-english/
 ---
 
 동대문구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

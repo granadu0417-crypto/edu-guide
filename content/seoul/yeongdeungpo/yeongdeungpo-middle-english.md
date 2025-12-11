@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yeongdeungpo-middle-english/
 title: "영등포구 영등포동 중등 영어과외 | 영원중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

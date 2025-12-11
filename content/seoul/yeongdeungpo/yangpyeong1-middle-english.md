@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yangpyeong1-middle-english/
 title: "영등포구 양평1동 중등 영어과외 | 선유중·양화중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

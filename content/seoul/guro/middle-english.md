@@ -13,23 +13,6 @@ cities:
 tags:
   - 구로구영어과외
   - 구로구중등영어
-aliases:
-  - /middle/guro-gaebong1-middle-english/
-  - /middle/guro-gaebong2-middle-english/
-  - /middle/guro-gaebong3-middle-english/
-  - /middle/guro-garibong-middle-english/
-  - /middle/guro-gocheok1-middle-english/
-  - /middle/guro-gocheok2-middle-english/
-  - /middle/guro-guro1-middle-english/
-  - /middle/guro-guro2-middle-english/
-  - /middle/guro-guro3-middle-english/
-  - /middle/guro-guro4-middle-english/
-  - /middle/guro-guro5-middle-english/
-  - /middle/guro-hangdong-middle-english/
-  - /middle/guro-oryu1-middle-english/
-  - /middle/guro-oryu2-middle-english/
-  - /middle/guro-sindorim-middle-english/
-  - /middle/guro-sugung-middle-english/
 ---
 
 구로구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

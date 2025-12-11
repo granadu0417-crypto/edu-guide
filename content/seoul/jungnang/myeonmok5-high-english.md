@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/jungnang-myeonmok5-high-english/
 title: "중랑구 면목5동 고등 영어과외 | 중랑구 관내 고등학교 내신·수능 대비"
 date: 2025-12-08
 categories:

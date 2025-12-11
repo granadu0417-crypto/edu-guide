@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hwaseong-donghwa-middle-english/
 title: "화성시 봉담읍 중등 영어과외 | 봉담중·화성중·동탄중 내신 완벽 대비"
 date: 2025-01-15
 categories:

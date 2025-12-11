@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sindaebang2-middle-english/
 title: "동작구 신대방2동 중등 영어과외 | 문창중 학교별 내신 특화"
 date: 2025-01-29
 categories:

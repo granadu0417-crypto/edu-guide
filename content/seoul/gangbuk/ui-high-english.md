@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-우이-high-english/
 title: "강북구 우이동 고등 영어과외 | 혜화여고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

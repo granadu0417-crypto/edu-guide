@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-능-high-english/
 title: "광진구 능동 고등 영어과외 | 건대부고 내신·수능 대비"
 date: 2025-01-28
 categories:

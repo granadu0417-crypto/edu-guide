@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-송천-high-math/
 title: "강북구 송천동 고등 수학과외 | 영훈고 실력 향상 비결"
 date: 2025-01-28
 categories:

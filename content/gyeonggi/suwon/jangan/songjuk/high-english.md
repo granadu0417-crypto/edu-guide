@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-songjuk-high-english/
 title: "수원시 장안구 송죽동 고등 영어과외 | 경기과학고·수성고·율전고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -9,9 +9,6 @@ tags:
   - 전북과외
   - 전북수학과외
   - 전북영어과외
-aliases:
-  - /local/jeonbuk-education-guide/
-  - /local/jeonbuk-tutoring-guide/
 ---
 
 ## 전북특별자치도 과외 안내

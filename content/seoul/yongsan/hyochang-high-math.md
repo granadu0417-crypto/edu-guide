@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-hyochang-high-math/
 title: "용산구 효창동 고등 수학과외 | 배문고 수학 자신감 향상"
 date: 2025-05-15
 categories:

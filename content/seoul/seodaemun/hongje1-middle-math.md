@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongje1-middle-math/
 title: "서대문구 홍제1동 중등 수학과외 | 인왕중 개념부터 실전까지"
 date: 2025-01-29
 categories:

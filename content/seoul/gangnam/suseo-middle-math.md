@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-suseo-middle-math/
 title: 강남구 수서동 중등 수학과외 - 수서중·일원중 맞춤 관리
 date: 2025-01-28
 categories:

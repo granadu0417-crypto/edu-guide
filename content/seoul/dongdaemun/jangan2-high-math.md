@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-장안2-high-math/
 title: "동대문구 장안2동 고등 수학과외 | 동국대사범대부속고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

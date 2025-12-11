@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-seonsa-middle-math/
 title: "고양시 일산동구 선사동 중등 수학과외 | 선사중 개념부터 심화까지"
 date: 2025-01-15
 categories:

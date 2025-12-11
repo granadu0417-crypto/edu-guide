@@ -9,9 +9,6 @@ tags:
   - 경북과외
   - 경북수학과외
   - 경북영어과외
-aliases:
-  - /local/gyeongbuk-education-guide/
-  - /local/gyeongbuk-tutoring-guide/
 ---
 
 ## 경상북도 과외 안내

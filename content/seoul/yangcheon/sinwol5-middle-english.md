@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol5-middle-english/
 title: "양천구 신월5동 중등 영어과외 | 신월중·양강중 학교별 내신 특화"
 date: 2025-01-29
 categories:

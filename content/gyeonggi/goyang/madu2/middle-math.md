@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-madu2-middle-math/
 title: "고양시 일산동구 마두2동 중등 수학과외 | 마두중 중학 수학 완성"
 date: 2025-01-15
 categories:

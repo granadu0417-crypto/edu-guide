@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-garak-2-middle-math/
 title: 송파구 가락2동 중등 수학과외 - 가락중 맞춤 관리
 date: 2025-01-29
 categories:

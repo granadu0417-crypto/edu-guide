@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-deungchon2-middle-english/
 title: "강서구 등촌2동 중등 영어과외 | 등촌중·등명중·등원중 내신 완벽 대비"
 date: 2025-01-29
 categories:

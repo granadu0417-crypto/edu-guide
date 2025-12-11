@@ -13,34 +13,6 @@ cities:
 tags:
   - 송파구수학과외
   - 송파구중등수학
-aliases:
-  - /middle/songpa-bangi-1-middle-math/
-  - /middle/songpa-bangi-2-middle-math/
-  - /middle/songpa-garak-1-middle-math/
-  - /middle/songpa-garak-2-middle-math/
-  - /middle/songpa-garakbon-middle-math/
-  - /middle/songpa-geoyeo-1-middle-math/
-  - /middle/songpa-geoyeo-2-middle-math/
-  - /middle/songpa-jamsil-2-middle-math/
-  - /middle/songpa-jamsil-3-middle-math/
-  - /middle/songpa-jamsil-4-middle-math/
-  - /middle/songpa-jamsil-6-middle-math/
-  - /middle/songpa-jamsil-7-middle-math/
-  - /middle/songpa-jamsilbon-middle-math/
-  - /middle/songpa-jangji-middle-math/
-  - /middle/songpa-macheon-1-middle-math/
-  - /middle/songpa-macheon-2-middle-math/
-  - /middle/songpa-munjeong-1-middle-math/
-  - /middle/songpa-munjeong-2-middle-math/
-  - /middle/songpa-ogeum-middle-math/
-  - /middle/songpa-oryun-middle-math/
-  - /middle/songpa-pungnapdong-1-middle-math/
-  - /middle/songpa-pungnapdong-2-middle-math/
-  - /middle/songpa-samjeon-middle-math/
-  - /middle/songpa-seokchon-middle-math/
-  - /middle/songpa-songpa1-middle-math/
-  - /middle/songpa-songpa2-middle-math/
-  - /middle/songpa-wirye-middle-math/
 ---
 
 송파구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

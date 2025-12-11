@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-seongnae1-middle-english/
 title: 강동구 성내1동 중등 영어과외 - 성내중·천호중 내신 완성
 date: 2025-01-29
 categories:

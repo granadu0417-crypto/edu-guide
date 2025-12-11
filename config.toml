@@ -138,12 +138,15 @@ title = "과외를부탁해"
     url = "/consultation/"
     weight = 6
 
+# Taxonomies 비활성화 (파일 수 최적화)
+# 기존: categories, tags, grades, regions, cities → 수천 개 페이지 생성
+# 변경: 모두 비활성화 → 개별 글만 유지
 [taxonomies]
-  category = "categories"
-  tag = "tags"
-  grade = "grades"
-  region = "regions"
-  city = "cities"
+  # 모두 비활성화
+
+# 페이지네이션 설정 (목록 페이지 수 최소화)
+[pagination]
+  pagerSize = 1000
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

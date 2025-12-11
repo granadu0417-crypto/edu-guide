@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-가산-high-english/
 title: "금천구 가산동 고등 영어과외 | 독산고 기초부터 심화까지"
 date: 2025-01-28
 categories:

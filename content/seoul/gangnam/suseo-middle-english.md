@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-suseo-middle-english/
 title: 강남구 수서동 중등 영어과외 - 수서중·일원중 내신 전문
 date: 2025-01-28
 categories:

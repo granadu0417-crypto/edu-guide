@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-imae1-high-english/
 title: "성남시 분당구 이매1동 고등 영어과외 | 이매고·분당고·성남외고 내신·수능 대비"
 date: 2025-01-15
 categories:

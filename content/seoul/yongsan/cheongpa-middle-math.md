@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-cheongpa-middle-math/
 title: "용산구 청파동 중등 수학과외 | 신광여중 학교 시험 완벽 대비"
 date: 2025-05-15
 categories:

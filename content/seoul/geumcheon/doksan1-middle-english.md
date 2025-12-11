@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-doksan1-middle-english/
 title: "금천구 독산1동 중등 영어과외 | 가산중·난곡중·문성중 독해·문법 완성"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-deogi-middle-math/
 title: "고양시 일산서구 덕이동 중등 수학과외 | 덕이중 수학 실력 향상"
 date: 2025-01-15
 categories:

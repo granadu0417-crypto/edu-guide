@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-sinheung2-middle-english/
 title: "성남시 수정구 신흥2동 중등 영어과외 | 성남중·태원중·성남여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye34-middle-english/
 title: 노원구 상계3·4동 중등 영어과외 | 상경중·온곡중 1:1 맞춤 수업
 date: 2025-01-29
 categories:

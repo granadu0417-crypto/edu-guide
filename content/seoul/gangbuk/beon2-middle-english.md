@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-beon2-middle-english/
 title: "강북구 번2동 중등 영어과외 | 번동중 독해·문법 완성"
 date: 2025-01-29
 categories:

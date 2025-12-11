@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/anyang-dalsan-high-english/
 title: "안양시 동안구 달산동 고등 영어과외 | 평촌고·범계고·안양외고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-방화1-high-math/
 title: "강서구 방화1동 고등 수학과외 | 한서고·동양고 내신 1등급 전략"
 date: 2025-01-28
 categories:

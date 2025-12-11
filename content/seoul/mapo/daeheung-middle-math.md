@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-daeheung-middle-math/
 title: "마포구 대흥동 중등 수학과외 | 숭문중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

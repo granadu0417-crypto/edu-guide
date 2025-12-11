@@ -9,9 +9,6 @@ tags:
   - 강원과외
   - 강원수학과외
   - 강원영어과외
-aliases:
-  - /local/gangwon-education-guide/
-  - /local/gangwon-tutoring-guide/
 ---
 
 ## 강원특별자치도 과외 안내

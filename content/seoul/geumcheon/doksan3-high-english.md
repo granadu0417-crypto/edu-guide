@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-독산3-high-english/
 title: "금천구 독산3동 고등 영어과외 | 독산고 독해부터 문법까지"
 date: 2025-01-28
 categories:

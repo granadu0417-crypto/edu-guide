@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-cheongdam-middle-math/
 title: 강남구 청담동 중등 수학과외 - 청담중·압구정중 맞춤 관리
 date: 2025-01-28
 categories:

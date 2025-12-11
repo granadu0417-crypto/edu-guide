@@ -13,27 +13,6 @@ cities:
 tags:
   - 관악구영어과외
   - 관악구고등영어
-aliases:
-  - /high/gwanak-boramae-high-english/
-  - /high/gwanak-cheongnyong-high-english/
-  - /high/gwanak-daehak-high-english/
-  - /high/gwanak-euncheon-high-english/
-  - /high/gwanak-haengun-high-english/
-  - /high/gwanak-inheon-high-english/
-  - /high/gwanak-jowon-high-english/
-  - /high/gwanak-jungang-high-english/
-  - /high/gwanak-miseong-high-english/
-  - /high/gwanak-nakseongdae-high-english/
-  - /high/gwanak-namhyeon-high-english/
-  - /high/gwanak-nangok-high-english/
-  - /high/gwanak-nanhyang-high-english/
-  - /high/gwanak-samseong-high-english/
-  - /high/gwanak-seonghyeon-high-english/
-  - /high/gwanak-seorim-high-english/
-  - /high/gwanak-seowon-high-english/
-  - /high/gwanak-sillim-high-english/
-  - /high/gwanak-sinsa-high-english/
-  - /high/gwanak-sinwon-high-english/
 ---
 
 관악구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

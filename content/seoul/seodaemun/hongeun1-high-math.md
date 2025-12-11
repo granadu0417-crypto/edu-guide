@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-홍은1-high-math/
 title: "서대문구 홍은1동 고등 수학과외 | 명지고 수학 자신감 회복"
 date: 2025-01-28
 categories:

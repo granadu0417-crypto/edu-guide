@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/jungnang-sangbong1-high-english/
 title: "중랑구 상봉1동 고등 영어과외 | 신현고 내신·수능 대비"
 date: 2025-12-08
 categories:

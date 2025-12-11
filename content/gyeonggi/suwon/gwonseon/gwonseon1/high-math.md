@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-gwonseon1-high-math/
 title: "수원시 권선구 권선1동 고등 수학과외 | 권선고·곡선고·세류고 내신·수능 대비"
 date: 2025-01-15
 categories:

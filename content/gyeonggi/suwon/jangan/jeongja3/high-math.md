@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-jeongja3-high-math/
 title: "수원시 장안구 정자3동 고등 수학과외 | 정자고·율전고·장안고 내신·수능 대비"
 date: 2025-01-15
 categories:

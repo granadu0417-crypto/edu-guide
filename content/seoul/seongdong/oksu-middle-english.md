@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-oksu-middle-english/
 title: "성동구 옥수동 중등 영어과외 | 옥정중 체계적 학습 관리"
 date: 2025-01-29
 categories:

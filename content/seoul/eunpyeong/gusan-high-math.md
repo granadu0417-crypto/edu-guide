@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-gusan-high-math/
 title: "은평구 구산동 고등 수학과외 | 은평고·예일여고 1:1 맞춤 커리큘럼"
 date: 2025-05-20
 categories:

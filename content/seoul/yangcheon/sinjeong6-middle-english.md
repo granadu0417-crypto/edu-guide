@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinjeong6-middle-english/
 title: "양천구 신정6동 중등 영어과외 | 목일중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

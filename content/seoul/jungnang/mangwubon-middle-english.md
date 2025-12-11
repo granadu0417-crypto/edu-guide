@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-mangwubon-middle-english/
 title: "중랑구 망우본동 중등 영어과외 | 동원중, 봉화중 내신 완벽 대비"
 date: 2025-12-08
 categories:

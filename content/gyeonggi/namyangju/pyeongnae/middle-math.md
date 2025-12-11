@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/namyangju-pyeongnae-middle-math/
 title: "남양주시 평내동 중등 수학과외 | 동화중·남양주중·호평중 내신 완벽 대비"
 date: 2025-01-15
 categories:

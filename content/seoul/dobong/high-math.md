@@ -13,21 +13,6 @@ cities:
 tags:
   - 도봉구수학과외
   - 도봉구고등수학
-aliases:
-  - /high/dobong-banghak1-high-math/
-  - /high/dobong-banghak2-high-math/
-  - /high/dobong-banghak3-high-math/
-  - /high/dobong-chang1-high-math/
-  - /high/dobong-chang2-high-math/
-  - /high/dobong-chang3-high-math/
-  - /high/dobong-chang4-high-math/
-  - /high/dobong-chang5-high-math/
-  - /high/dobong-dobong1-high-math/
-  - /high/dobong-dobong2-high-math/
-  - /high/dobong-ssangmun1-high-math/
-  - /high/dobong-ssangmun2-high-math/
-  - /high/dobong-ssangmun3-high-math/
-  - /high/dobong-ssangmun4-high-math/
 ---
 
 도봉구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

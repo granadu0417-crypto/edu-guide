@@ -13,25 +13,6 @@ cities:
 tags:
   - 영등포구수학과외
   - 영등포구고등수학
-aliases:
-  - /high/yeongdeungpo-daerim1-high-math/
-  - /high/yeongdeungpo-daerim2-high-math/
-  - /high/yeongdeungpo-daerim3-high-math/
-  - /high/yeongdeungpo-dangsan1-high-math/
-  - /high/yeongdeungpo-dangsan2-high-math/
-  - /high/yeongdeungpo-dorim-high-math/
-  - /high/yeongdeungpo-mullae-high-math/
-  - /high/yeongdeungpo-singil1-high-math/
-  - /high/yeongdeungpo-singil3-high-math/
-  - /high/yeongdeungpo-singil4-high-math/
-  - /high/yeongdeungpo-singil5-high-math/
-  - /high/yeongdeungpo-singil6-high-math/
-  - /high/yeongdeungpo-singil7-high-math/
-  - /high/yeongdeungpo-yangpyeong1-high-math/
-  - /high/yeongdeungpo-yangpyeong2-high-math/
-  - /high/yeongdeungpo-yeongdeungpo-high-math/
-  - /high/yeongdeungpo-yeongdeungpo-bon-high-math/
-  - /high/yeongdeungpo-yeui-high-math/
 ---
 
 영등포구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

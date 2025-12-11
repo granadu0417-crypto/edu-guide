@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-gonghang-middle-english/
 title: "강서구 공항동 중등 영어과외 | 공항중·송정중·마곡하늬중 내신 완벽 대비"
 date: 2025-01-29
 categories:

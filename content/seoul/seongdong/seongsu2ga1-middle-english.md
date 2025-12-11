@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-seongsu2ga1-middle-english/
 title: "성동구 성수2가1동 중등 영어과외 | 성원중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

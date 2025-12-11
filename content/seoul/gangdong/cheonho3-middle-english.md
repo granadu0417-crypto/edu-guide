@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-cheonho3-middle-english/
 title: 강동구 천호3동 중등 영어과외 - 천호중·강동중 내신 완성
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-gongneung2-middle-english/
 title: 노원구 공릉2동 중등 영어과외 | 공릉중·태릉중·한천중 내신 맞춤 관리
 date: 2025-01-29
 categories:

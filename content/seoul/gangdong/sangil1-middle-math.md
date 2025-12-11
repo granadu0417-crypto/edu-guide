@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-sangil1-middle-math/
 title: 강동구 상일1동 중등 수학과외 - 상일중·상일여중 맞춤 관리
 date: 2025-01-29
 categories:

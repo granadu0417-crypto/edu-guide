@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/ansan-bono3-high-english/
 title: "안산시 상록구 본오3동 고등 영어과외 | 성포고·안산고·상록고 내신·수능 대비"
 date: 2025-01-15
 categories:

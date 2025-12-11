@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/uijeongbu-hoewon2-middle-math/
 title: "의정부시 호원2동 중등 수학과외 | 의정부중·경민중·효자중 내신 완벽 대비"
 date: 2025-01-15
 categories:

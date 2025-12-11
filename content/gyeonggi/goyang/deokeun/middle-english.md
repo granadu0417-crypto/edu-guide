@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-deokeun-middle-english/
 title: "고양시 덕양구 덕은동 중등 영어과외 | 덕은중 기초 탄탄 프로그램"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/pyeongtaek-junang-middle-math/
 title: "평택시 중앙동 중등 수학과외 | 평택중·평택여중·세교중 내신 완벽 대비"
 date: 2025-01-15
 categories:

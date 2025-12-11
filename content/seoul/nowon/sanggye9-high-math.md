@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye9-high-math/
 title: 노원구 상계9동 고등 수학과외 | 수락고·청원고·용화여고 내신·수능 대비
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/paju-geumchon2-middle-math/
 title: "파주시 금촌2동 중등 수학과외 | 금촌중·파주중·문산중 내신 완벽 대비"
 date: 2025-01-15
 categories:

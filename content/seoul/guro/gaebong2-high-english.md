@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-개봉2-high-english/
 title: "구로구 개봉2동 고등 영어과외 | 고척고·경인고 독해·문법 완성"
 date: 2025-01-28
 categories:

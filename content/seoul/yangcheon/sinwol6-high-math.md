@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신월6-high-math/
 title: "양천구 신월6동 고등 수학과외 | 광영고·광영여고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

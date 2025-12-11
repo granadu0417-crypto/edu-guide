@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-myeonmok5-middle-english/
 title: "중랑구 면목5동 중등 영어과외 | 중랑구 관내 학교 내신 완벽 대비"
 date: 2025-12-08
 categories:

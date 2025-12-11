@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-junggye4-high-math/
 title: 노원구 중계4동 고등 수학과외 | 서라벌고·대진고 개념부터 실전까지
 date: 2025-01-29
 categories:

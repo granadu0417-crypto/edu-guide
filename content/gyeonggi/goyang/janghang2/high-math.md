@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-janghang2-high-math/
 title: "고양시 일산동구 장항2동 고등 수학과외 | 중산고 개념부터 킬러까지"
 date: 2025-01-15
 categories:

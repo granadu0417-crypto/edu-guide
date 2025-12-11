@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gimpo-hangang-high-english/
 title: "김포시 한강로 고등 영어과외 | 김포제일고·김포고·양곡고 내신·수능 대비"
 date: 2025-01-15
 categories:

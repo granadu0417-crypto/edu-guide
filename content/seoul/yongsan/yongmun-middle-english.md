@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-yongmun-middle-english/
 title: "용산구 용문동 중등 영어과외 | 선린중·성심여중 체계적 문법 학습"
 date: 2025-05-15
 categories:

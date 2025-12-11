@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-geumho4ga-middle-english/
 title: "성동구 금호4가동 중등 영어과외 | 옥정중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

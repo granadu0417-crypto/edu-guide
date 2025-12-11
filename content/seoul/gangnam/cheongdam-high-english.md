@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-청담-high-english/
 title: "강남구 청담동 고등 영어과외 | 청담고·현대고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

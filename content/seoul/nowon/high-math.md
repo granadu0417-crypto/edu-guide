@@ -13,26 +13,6 @@ cities:
 tags:
   - 노원구수학과외
   - 노원구고등수학
-aliases:
-  - /high/nowon-gongneung1-high-math/
-  - /high/nowon-gongneung2-high-math/
-  - /high/nowon-hagye1-high-math/
-  - /high/nowon-hagye2-high-math/
-  - /high/nowon-junggye1-high-math/
-  - /high/nowon-junggye23-high-math/
-  - /high/nowon-junggye4-high-math/
-  - /high/nowon-junggyebon-high-math/
-  - /high/nowon-sanggye1-high-math/
-  - /high/nowon-sanggye10-high-math/
-  - /high/nowon-sanggye2-high-math/
-  - /high/nowon-sanggye34-high-math/
-  - /high/nowon-sanggye5-high-math/
-  - /high/nowon-sanggye67-high-math/
-  - /high/nowon-sanggye8-high-math/
-  - /high/nowon-sanggye9-high-math/
-  - /high/nowon-wolgye1-high-math/
-  - /high/nowon-wolgye2-high-math/
-  - /high/nowon-wolgye3-high-math/
 ---
 
 노원구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-cheongyeon-middle-math/
 title: "서대문구 천연동 중등 수학과외 | 동명여중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jangwi1-middle-english/
 title: "성북구 장위1동 중등 영어과외 | 장위중 독해·문법 완성"
 date: 2025-01-29
 categories:

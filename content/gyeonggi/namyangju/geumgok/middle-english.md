@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/namyangju-geumgok-middle-english/
 title: "남양주시 금곡동 중등 영어과외 | 남양주중·동화중·호평중 내신 완벽 대비"
 date: 2025-01-15
 categories:

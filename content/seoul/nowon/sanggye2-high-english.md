@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye2-high-english/
 title: 노원구 상계2동 고등 영어과외 | 노원고·수락고 독해·문법 완성
 date: 2025-01-29
 categories:

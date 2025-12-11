@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-mok1-middle-math/
 title: "양천구 목1동 중등 수학과외 | 목운중 내신·특목 대비"
 date: 2025-01-29
 categories:

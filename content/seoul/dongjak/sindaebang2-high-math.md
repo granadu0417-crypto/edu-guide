@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-신대방2-high-math/
 title: "동작구 신대방2동 고등 수학과외 | 수도여고·숭의여고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

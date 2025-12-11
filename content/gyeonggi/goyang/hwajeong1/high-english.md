@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-hwajeong1-high-english/
 title: "고양시 덕양구 화정1동 고등 영어과외 | 화정고 개별 맞춤 수업"
 date: 2025-01-15
 categories:

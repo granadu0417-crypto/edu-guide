@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-eungam1-high-math/
 title: "은평구 응암1동 고등 수학과외 | 충암고·은평고 학교별 맞춤 수업"
 date: 2025-05-20
 categories:

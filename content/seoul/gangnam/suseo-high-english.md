@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-수서-high-english/
 title: "강남구 수서동 고등 영어과외 | 보성고·세화고 기초부터 심화까지"
 date: 2025-01-28
 categories:

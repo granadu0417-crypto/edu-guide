@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-보문-high-english/
 title: "성북구 보문동 고등 영어과외 | 대광고·성신여고 독해부터 문법까지"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-apgujeong-middle-english/
 title: 강남구 압구정동 중등 영어과외 - 압구정중·신구중 내신 전문
 date: 2025-01-28
 categories:

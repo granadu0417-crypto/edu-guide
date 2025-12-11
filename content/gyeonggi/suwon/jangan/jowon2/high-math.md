@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-jowon2-high-math/
 title: "수원시 장안구 조원2동 고등 수학과외 | 수원외고·장안고·수일여고 내신·수능 대비"
 date: 2025-01-15
 categories:

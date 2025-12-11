@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-paldal-high-english/
 title: "수원시 팔달구 팔달동 고등 영어과외 | 수원고·삼일상고·매향여고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -13,21 +13,6 @@ cities:
 tags:
   - 동대문구영어과외
   - 동대문구고등영어
-aliases:
-  - /high/dongdaemun-cheongnyangni-high-english/
-  - /high/dongdaemun-dapsimni1-high-english/
-  - /high/dongdaemun-dapsimni2-high-english/
-  - /high/dongdaemun-hoegi-high-english/
-  - /high/dongdaemun-hwigyeong1-high-english/
-  - /high/dongdaemun-hwigyeong2-high-english/
-  - /high/dongdaemun-imun1-high-english/
-  - /high/dongdaemun-imun2-high-english/
-  - /high/dongdaemun-jangan1-high-english/
-  - /high/dongdaemun-jangan2-high-english/
-  - /high/dongdaemun-jegi-high-english/
-  - /high/dongdaemun-jeonnong1-high-english/
-  - /high/dongdaemun-jeonnong2-high-english/
-  - /high/dongdaemun-yongsin-high-english/
 ---
 
 동대문구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

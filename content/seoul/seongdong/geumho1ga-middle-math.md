@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-geumho1ga-middle-math/
 title: "성동구 금호1가동 중등 수학과외 | 광희중·옥정중 체계적 학습 관리"
 date: 2025-01-29
 categories:

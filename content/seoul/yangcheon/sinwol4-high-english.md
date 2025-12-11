@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신월4-high-english/
 title: "양천구 신월4동 고등 영어과외 | 광영고·광영여고 문법 패턴 완성"
 date: 2025-01-28
 categories:

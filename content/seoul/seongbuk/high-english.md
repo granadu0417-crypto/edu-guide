@@ -13,29 +13,6 @@ cities:
 tags:
   - 성북구영어과외
   - 성북구고등영어
-aliases:
-  - /high/seongbuk-anam-high-english/
-  - /high/seongbuk-bomun-high-english/
-  - /high/seongbuk-donam1-high-english/
-  - /high/seongbuk-donam2-high-english/
-  - /high/seongbuk-dongseon-high-english/
-  - /high/seongbuk-gileum1-high-english/
-  - /high/seongbuk-gileum2-high-english/
-  - /high/seongbuk-hawolgok-high-english/
-  - /high/seongbuk-jangwi1-high-english/
-  - /high/seongbuk-jangwi2-high-english/
-  - /high/seongbuk-jangwi3-high-english/
-  - /high/seongbuk-jeongneung1-high-english/
-  - /high/seongbuk-jeongneung2-high-english/
-  - /high/seongbuk-jeongneung3-high-english/
-  - /high/seongbuk-jeongneung4-high-english/
-  - /high/seongbuk-jongam-high-english/
-  - /high/seongbuk-samseong-high-english/
-  - /high/seongbuk-sangwolgok-high-english/
-  - /high/seongbuk-seokgwan-high-english/
-  - /high/seongbuk-seongbuk-high-english/
-  - /high/seongbuk-wolgok1-high-english/
-  - /high/seongbuk-wolgok2-high-english/
 ---
 
 성북구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

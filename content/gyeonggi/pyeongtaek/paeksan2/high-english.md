@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/pyeongtaek-paeksan2-high-english/
 title: "평택시 비전2동 고등 영어과외 | 평택고·세교고·송탄고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-홍제1-high-english/
 title: "서대문구 홍제1동 고등 영어과외 | 인창고 어휘력 향상"
 date: 2025-01-28
 categories:

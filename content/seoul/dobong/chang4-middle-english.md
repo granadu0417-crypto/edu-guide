@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang4-middle-english/
 title: "도봉구 창4동 중등 영어과외 | 창북중 학교별 내신 특화"
 date: 2025-01-29
 categories:

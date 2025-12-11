@@ -9,9 +9,6 @@ tags:
   - 제주과외
   - 제주수학과외
   - 제주영어과외
-aliases:
-  - /local/jeju-education-guide/
-  - /local/jeju-tutoring-guide/
 ---
 
 ## 제주특별자치도 과외 안내

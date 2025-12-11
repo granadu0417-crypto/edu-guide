@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-daerim1-middle-math/
 title: "영등포구 대림1동 중등 수학과외 | 대림중 체계적 학습 관리"
 date: 2025-01-29
 categories:

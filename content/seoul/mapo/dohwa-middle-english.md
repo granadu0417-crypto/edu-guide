@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-dohwa-middle-english/
 title: "마포구 도화동 중등 영어과외 | 아현중·신수중 체계적 학습 관리"
 date: 2025-01-29
 categories:

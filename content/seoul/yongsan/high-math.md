@@ -13,23 +13,6 @@ cities:
 tags:
   - 용산구수학과외
   - 용산구고등수학
-aliases:
-  - /high/yongsan-bogwang-high-math/
-  - /high/yongsan-cheongpa-high-math/
-  - /high/yongsan-hangang-ro-high-math/
-  - /high/yongsan-hannam-high-math/
-  - /high/yongsan-huam-high-math/
-  - /high/yongsan-hyochang-high-math/
-  - /high/yongsan-ichon1-high-math/
-  - /high/yongsan-ichon2-high-math/
-  - /high/yongsan-itaewon1-high-math/
-  - /high/yongsan-itaewon2-high-math/
-  - /high/yongsan-namyeong-high-math/
-  - /high/yongsan-seobinggo-high-math/
-  - /high/yongsan-wonhyoro1-high-math/
-  - /high/yongsan-wonhyoro2-high-math/
-  - /high/yongsan-yongmun-high-math/
-  - /high/yongsan-yongsan2ga-high-math/
 ---
 
 용산구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

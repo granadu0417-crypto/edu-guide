@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-oksu-middle-math/
 title: "성동구 옥수동 중등 수학과외 | 옥정중 기초부터 심화까지"
 date: 2025-01-29
 categories:

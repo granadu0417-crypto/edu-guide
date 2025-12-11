@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡본-high-math/
 title: "강서구 화곡본동 고등 수학과외 | 화곡고 킬러문항 특화"
 date: 2025-01-28
 categories:

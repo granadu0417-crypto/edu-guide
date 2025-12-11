@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-yeogwol-high-math/
 title: "부천시 역곡동 고등 수학과외 | 역곡고·부천고·부천여고 내신·수능 대비"
 date: 2025-01-15
 categories:

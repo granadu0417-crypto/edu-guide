@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-조원-high-math/
 title: "관악구 조원동 고등 수학과외 | 남강고 개념부터 심화까지"
 date: 2025-01-28
 categories:

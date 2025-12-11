@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/siheung-eunhae-high-english/
 title: "시흥시 은행동 고등 영어과외 | 능곡고·시흥고·소래고 내신·수능 대비"
 date: 2025-01-15
 categories:

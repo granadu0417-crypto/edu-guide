@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-nokbeon-middle-english/
 title: "은평구 녹번동 중등 영어과외 | 불광중·연신중 체계적 문법 학습"
 date: 2025-05-20
 categories:

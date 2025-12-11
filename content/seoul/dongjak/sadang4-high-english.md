@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-사당4-high-english/
 title: "동작구 사당4동 고등 영어과외 | 동작고·경문고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

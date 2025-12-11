@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-난향-high-english/
 title: "관악구 난향동 고등 영어과외 | 남강고 내신 1등급 전략"
 date: 2025-01-28
 categories:

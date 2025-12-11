@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-unjung1-high-english/
 title: "성남시 분당구 운중동 고등 영어과외 | 늘푸른고·분당고·성남외고 내신·수능 대비"
 date: 2025-01-15
 categories:

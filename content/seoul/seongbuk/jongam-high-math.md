@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-종암-high-math/
 title: "성북구 종암동 고등 수학과외 | 대광고·성북고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

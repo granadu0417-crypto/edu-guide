@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-우장산-high-english/
 title: "강서구 우장산동 고등 영어과외 | 수명고·명덕고·명덕여고 수능 고득점 전략"
 date: 2025-01-28
 categories:

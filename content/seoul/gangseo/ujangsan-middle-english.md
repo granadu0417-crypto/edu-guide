@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-ujangsan-middle-english/
 title: "강서구 우장산동 중등 영어과외 | 덕원중·수명중 내신 완벽 대비"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yeui-middle-math/
 title: "영등포구 여의동 중등 수학과외 | 여의도중·윤중중 기초부터 심화까지"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-성수1가1-high-math/
 title: "성동구 성수1가1동 고등 수학과외 | 경일고·성수고 개념부터 심화까지"
 date: 2025-01-28
 categories:

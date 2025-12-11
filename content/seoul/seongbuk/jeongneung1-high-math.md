@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-정릉1-high-math/
 title: "성북구 정릉1동 고등 수학과외 | 홍익대사대부고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

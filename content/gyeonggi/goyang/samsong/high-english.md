@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-samsong-high-english/
 title: "고양시 덕양구 삼송동 고등 영어과외 | 고양고 성적 향상 프로젝트"
 date: 2025-01-15
 categories:

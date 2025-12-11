@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil6-middle-math/
 title: "영등포구 신길6동 중등 수학과외 | 대영중·신길중 개념부터 실전까지"
 date: 2025-01-29
 categories:

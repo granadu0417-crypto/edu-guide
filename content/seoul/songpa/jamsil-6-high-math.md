@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-잠실6-high-math/
 title: "송파구 잠실6동 고등 수학과외 | 잠실고·잠일고 실력 향상 비결"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung3-middle-math/
 title: "금천구 시흥3동 중등 수학과외 | 시흥중·동일중 체계적 학습 관리"
 date: 2025-01-29
 categories:

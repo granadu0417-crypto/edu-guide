@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-nokbeon-high-math/
 title: "은평구 녹번동 고등 수학과외 | 은평고·예일여고 단계별 실력 향상"
 date: 2025-05-20
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gimpo-janggi-high-english/
 title: "김포시 장기동 고등 영어과외 | 양곡고·김포고·김포제일고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gimpo-tongjin-high-english/
 title: "김포시 통진읍 고등 영어과외 | 김포고·양곡고·김포제일고 내신·수능 대비"
 date: 2025-01-15
 categories:

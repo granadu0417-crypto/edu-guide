@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-평창-high-math/
 title: "종로구 평창동 고등 수학과외 | 경복고·동성고·중앙고 목표 등급 달성"
 date: 2025-01-28
 categories:

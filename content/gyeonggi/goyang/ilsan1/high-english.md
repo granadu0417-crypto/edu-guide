@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-ilsan1-high-english/
 title: "고양시 일산서구 일산1동 고등 영어과외 | 일산고 영어 자신감 회복"
 date: 2025-01-15
 categories:

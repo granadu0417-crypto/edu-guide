@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-sangwolgok-middle-english/
 title: "성북구 상월곡동 중등 영어과외 | 동구여중·한성여중 내신 완벽 대비"
 date: 2025-01-29
 categories:

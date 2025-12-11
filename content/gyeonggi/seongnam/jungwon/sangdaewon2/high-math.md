@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-sangdaewon2-high-math/
 title: "성남시 중원구 상대원2동 고등 수학과외 | 성남고·성일고·성남여고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-buheung-middle-english/
 title: "안양시 동안구 부흥동 중등 영어과외 | 평촌중·범계중·부흥중 내신 완벽 대비"
 date: 2025-01-15
 categories:

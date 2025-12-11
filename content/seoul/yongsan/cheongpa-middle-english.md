@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-cheongpa-middle-english/
 title: "용산구 청파동 중등 영어과외 | 신광여중 독해·문법 마스터"
 date: 2025-05-15
 categories:

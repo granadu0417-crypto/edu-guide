@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-sangwolgok-middle-math/
 title: "성북구 상월곡동 중등 수학과외 | 동구여중·한성여중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

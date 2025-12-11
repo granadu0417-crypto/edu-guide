@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-bulgwang1-middle-math/
 title: "은평구 불광1동 중등 수학과외 | 불광중·연신중 내신 완벽 대비"
 date: 2025-05-20
 categories:

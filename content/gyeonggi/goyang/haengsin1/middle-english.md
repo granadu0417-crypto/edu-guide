@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-haengsin1-middle-english/
 title: "고양시 덕양구 행신1동 중등 영어과외 | 행신중 기출 완벽 분석"
 date: 2025-01-15
 categories:

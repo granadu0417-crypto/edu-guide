@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-bogwang-high-math/
 title: "용산구 보광동 고등 수학과외 | 오산고 민족학교 전통 계승"
 date: 2025-05-15
 categories:

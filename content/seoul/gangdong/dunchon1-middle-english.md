@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-dunchon1-middle-english/
 title: 강동구 둔촌1동 중등 영어과외 - 둔촌중·성내중 내신 완성
 date: 2025-01-29
 categories:

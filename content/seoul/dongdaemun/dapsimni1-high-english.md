@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-답십리1-high-english/
 title: "동대문구 답십리1동 고등 영어과외 | 서울정화고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

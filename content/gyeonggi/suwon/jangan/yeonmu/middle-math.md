@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-yeonmu-middle-math/
 title: "수원시 장안구 연무동 중등 수학과외 | 수성중·장안중·삼일공중 내신 완벽 대비"
 date: 2025-01-15
 categories:

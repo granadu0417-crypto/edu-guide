@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sindaebang1-middle-math/
 title: "동작구 신대방1동 중등 수학과외 | 문창중 실력 향상 수업"
 date: 2025-01-29
 categories:

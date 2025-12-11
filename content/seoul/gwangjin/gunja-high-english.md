@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-군자-high-english/
 title: "광진구 군자동 고등 영어과외 | 건대부고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

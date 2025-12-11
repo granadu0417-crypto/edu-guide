@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-suyu3-middle-math/
 title: "강북구 수유3동 중등 수학과외 | 강북중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

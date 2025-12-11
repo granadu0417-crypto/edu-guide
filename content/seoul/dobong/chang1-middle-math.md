@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang1-middle-math/
 title: "도봉구 창1동 중등 수학과외 | 창일중·노곡중 기초부터 심화까지"
 date: 2025-01-29
 categories:

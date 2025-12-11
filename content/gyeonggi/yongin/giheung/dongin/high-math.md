@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-dongin-high-math/
 title: "용인시 기흥구 동인동 고등 수학과외 | 용인고·기흥고·구성고 내신·수능 대비"
 date: 2025-01-15
 categories:

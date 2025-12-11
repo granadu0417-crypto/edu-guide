@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-bangbae3dong-middle-math/
 title: 서초구 방배3동 중등 수학과외 - 이수중·서문여중 맞춤 관리
 date: 2025-01-22
 categories:

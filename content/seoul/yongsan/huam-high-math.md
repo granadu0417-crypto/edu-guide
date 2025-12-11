@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-huam-high-math/
 title: "용산구 후암동 고등 수학과외 | 용산고·보성여고 개별 맞춤 지도"
 date: 2025-05-15
 categories:

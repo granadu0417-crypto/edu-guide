@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-사근-high-math/
 title: "성동구 사근동 고등 수학과외 | 한양대부고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-ichon1-middle-english/
 title: "용산구 이촌1동 중등 영어과외 | 용강중 내신·회화 병행"
 date: 2025-05-15
 categories:

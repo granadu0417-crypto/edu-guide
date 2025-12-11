@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-wolgye1-high-math/
 title: 노원구 월계1동 고등 수학과외 | 을지대부고·혜화여고·선덕고 내신·수능 대비
 date: 2025-01-29
 categories:

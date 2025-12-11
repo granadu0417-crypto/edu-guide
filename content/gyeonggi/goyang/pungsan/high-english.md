@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-pungsan-high-english/
 title: "고양시 일산동구 풍산동 고등 영어과외 | 대진고 1등급 도전 커리큘럼"
 date: 2025-01-15
 categories:

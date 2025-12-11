@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-namgajwa1-middle-english/
 title: "서대문구 남가좌1동 중등 영어과외 | 연희중·연북중 체계적 학습 관리"
 date: 2025-01-29
 categories:

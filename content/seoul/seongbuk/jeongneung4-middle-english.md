@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jeongneung4-middle-english/
 title: "성북구 정릉4동 중등 영어과외 | 북악중·숭곡중 체계적 학습 관리"
 date: 2025-01-29
 categories:

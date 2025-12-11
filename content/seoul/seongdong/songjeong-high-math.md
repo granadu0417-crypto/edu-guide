@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-송정-high-math/
 title: "성동구 송정동 고등 수학과외 | 성수고·경일고 실력 향상 수업"
 date: 2025-01-28
 categories:

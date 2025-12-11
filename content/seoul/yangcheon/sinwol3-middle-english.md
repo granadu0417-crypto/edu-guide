@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol3-middle-english/
 title: "양천구 신월3동 중등 영어과외 | 신남중·신화중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

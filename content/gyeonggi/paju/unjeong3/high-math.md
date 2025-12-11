@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/paju-unjeong3-high-math/
 title: "파주시 운정3동 고등 수학과외 | 운정고·금촌고·파주고 내신·수능 대비"
 date: 2025-01-15
 categories:

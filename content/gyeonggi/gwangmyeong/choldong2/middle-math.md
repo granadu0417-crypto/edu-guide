@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangmyeong-choldong2-middle-math/
 title: "광명시 철산2동 중등 수학과외 | 광명중·광명북중·진성중 내신 완벽 대비"
 date: 2025-01-15
 categories:

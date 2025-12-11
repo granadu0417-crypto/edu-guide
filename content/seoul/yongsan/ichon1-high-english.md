@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-ichon1-high-english/
 title: "용산구 이촌1동 고등 영어과외 | 중경고 독해·문법 마스터"
 date: 2025-05-15
 categories:

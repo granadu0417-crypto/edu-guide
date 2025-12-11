@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-geumgok-high-math/
 title: "성남시 분당구 금곡동 고등 수학과외 | 분당고·분당영덕여고·성남외고 내신·수능 대비"
 date: 2025-01-15
 categories:

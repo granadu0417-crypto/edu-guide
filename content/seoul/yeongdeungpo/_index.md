@@ -1,8 +1,6 @@
 ---
 title: "영등포구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
-aliases:
-  - /cities/영등포구/
 description: "영등포구 중등·고등 수학·영어 과외. 영등포고, 여의도고, 당산고, 대림고 등 영등포구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0587_uSoXP5XLC8g.jpg"
 regions:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-yangji-middle-math/
 title: "성남시 수정구 양지동 중등 수학과외 | 성남중·복정중·성남여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

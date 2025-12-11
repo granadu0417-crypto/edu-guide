@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-woncheon-high-english/
 title: "수원시 영통구 원천동 고등 영어과외 | 아주대부고·효원고·영통고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-seongsu2ga3-middle-math/
 title: "성동구 성수2가3동 중등 수학과외 | 성원중 실력 향상 수업"
 date: 2025-01-29
 categories:

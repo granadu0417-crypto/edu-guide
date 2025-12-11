@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gwangmyeong-gwangmyeong2-high-english/
 title: "광명시 광명2동 고등 영어과외 | 광명북고·광명고·진성고 내신·수능 대비"
 date: 2025-01-15
 categories:

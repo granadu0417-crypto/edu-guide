@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gimpo-gimpo1-middle-english/
 title: "김포시 김포1동 중등 영어과외 | 김포중·김포제일중·양곡중 내신 완벽 대비"
 date: 2025-01-15
 categories:

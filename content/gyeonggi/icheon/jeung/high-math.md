@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/icheon-jeung-high-math/
 title: "이천시 증포동 고등 수학과외 | 이현고·이천고·이천제일고 내신·수능 대비"
 date: 2025-01-15
 categories:

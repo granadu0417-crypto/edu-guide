@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-wolgye2-middle-math/
 title: 노원구 월계2동 중등 수학과외 | 월계중·화랑중·녹천중 개념부터 심화까지
 date: 2025-01-29
 categories:

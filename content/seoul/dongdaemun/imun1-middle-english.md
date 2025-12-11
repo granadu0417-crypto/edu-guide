@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-imun1-middle-english/
 title: "동대문구 이문1동 중등 영어과외 | 경희중·경희여중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

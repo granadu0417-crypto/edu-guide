@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guri-galmaok-middle-math/
 title: "구리시 갈매동 중등 수학과외 | 구리중·인창중·동구중 내신 완벽 대비"
 date: 2025-01-15
 categories:

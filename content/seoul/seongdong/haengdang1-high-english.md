@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-행당1-high-english/
 title: "성동구 행당1동 고등 영어과외 | 무학여고·한양대부고 내신 완벽 분석"
 date: 2025-01-28
 categories:

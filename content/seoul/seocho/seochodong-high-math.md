@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-서초-high-math/
 title: "서초구 서초동 고등 수학과외 | 서울고·상문고·서초고·양재고 전문 선생님과 함께"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-itaewon2-middle-english/
 title: "용산구 이태원2동 중등 영어과외 | 오산중·한강중 독해력 강화"
 date: 2025-05-15
 categories:

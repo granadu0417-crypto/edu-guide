@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-mangwon1-middle-math/
 title: "마포구 망원1동 중등 수학과외 | 성산중·성사중 기초부터 심화까지"
 date: 2025-01-29
 categories:

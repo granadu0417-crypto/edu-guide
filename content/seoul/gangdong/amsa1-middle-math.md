@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-amsa1-middle-math/
 title: 강동구 암사1동 중등 수학과외 - 암사중·강일중 맞춤 관리
 date: 2025-01-29
 categories:

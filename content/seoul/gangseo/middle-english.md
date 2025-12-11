@@ -13,30 +13,6 @@ cities:
 tags:
   - 강서구영어과외
   - 강서구중등영어
-aliases:
-  - /middle/gangseo-balsan1-middle-english/
-  - /middle/gangseo-banghwa1-middle-english/
-  - /middle/gangseo-banghwa2-middle-english/
-  - /middle/gangseo-banghwa3-middle-english/
-  - /middle/gangseo-deungchon1-middle-english/
-  - /middle/gangseo-deungchon2-middle-english/
-  - /middle/gangseo-deungchon3-middle-english/
-  - /middle/gangseo-gayang1-middle-english/
-  - /middle/gangseo-gayang2-middle-english/
-  - /middle/gangseo-gayang3-middle-english/
-  - /middle/gangseo-gonghang-middle-english/
-  - /middle/gangseo-hwagok1-middle-english/
-  - /middle/gangseo-hwagok2-middle-english/
-  - /middle/gangseo-hwagok3-middle-english/
-  - /middle/gangseo-hwagok4-middle-english/
-  - /middle/gangseo-hwagok5-middle-english/
-  - /middle/gangseo-hwagok6-middle-english/
-  - /middle/gangseo-hwagok7-middle-english/
-  - /middle/gangseo-hwagok8-middle-english/
-  - /middle/gangseo-hwagokbon-middle-english/
-  - /middle/gangseo-magok-middle-english/
-  - /middle/gangseo-ujangsan-middle-english/
-  - /middle/gangseo-yeomchang-middle-english/
 ---
 
 강서구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

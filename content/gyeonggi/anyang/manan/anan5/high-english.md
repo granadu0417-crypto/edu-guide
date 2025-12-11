@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/anyang-anan5-high-english/
 title: "안양시 만안구 안양5동 고등 영어과외 | 신성고·안양고·백영고 내신·수능 대비"
 date: 2025-01-15
 categories:

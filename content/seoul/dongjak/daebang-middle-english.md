@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-daebang-middle-english/
 title: "동작구 대방동 중등 영어과외 | 대방중·강남중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

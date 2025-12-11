@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-sinsu-middle-math/
 title: "마포구 신수동 중등 수학과외 | 신수중 실력 향상 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-개봉3-high-english/
 title: "구로구 개봉3동 고등 영어과외 | 고척고·경인고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

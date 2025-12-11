@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-중앙-high-english/
 title: "관악구 중앙동 고등 영어과외 | 문영여고 학교별 내신 특화"
 date: 2025-01-28
 categories:

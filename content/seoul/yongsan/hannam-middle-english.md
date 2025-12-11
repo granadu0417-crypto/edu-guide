@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-hannam-middle-english/
 title: "용산구 한남동 중등 영어과외 | 오산중·한강중 문법·어휘 완성"
 date: 2025-05-15
 categories:

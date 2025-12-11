@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-seongnae-middle-math/
 title: "용인시 수지구 성복동 중등 수학과외 | 현암중·수지중·상현중 내신 완벽 대비"
 date: 2025-01-15
 categories:

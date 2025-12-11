@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-둔촌2-high-math/
 title: "강동구 둔촌2동 고등 수학과외 | 둔촌고·천호고 학교별 내신 특화"
 date: 2025-01-28
 categories:

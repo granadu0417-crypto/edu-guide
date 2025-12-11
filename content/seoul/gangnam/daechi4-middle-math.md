@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-daechi4-middle-math/
 title: 강남구 대치4동 중등 수학과외 - 휘문중·대명중 맞춤 관리
 date: 2025-01-28
 categories:

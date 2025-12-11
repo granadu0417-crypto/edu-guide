@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-사당2-high-math/
 title: "동작구 사당2동 고등 수학과외 | 동작고·경문고 학교별 내신 특화"
 date: 2025-01-28
 categories:

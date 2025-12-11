@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/bucheon-songnae-middle-english/
 title: "부천시 송내동 중등 영어과외 | 송내중·부천중·중원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

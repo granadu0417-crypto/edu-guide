@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gimpo-gurae-high-english/
 title: "김포시 구래동 고등 영어과외 | 김포고·김포제일고·풍무고 내신·수능 대비"
 date: 2025-01-15
 categories:

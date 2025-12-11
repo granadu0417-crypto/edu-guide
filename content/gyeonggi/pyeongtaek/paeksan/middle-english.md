@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/pyeongtaek-paeksan-middle-english/
 title: "평택시 비전1동 중등 영어과외 | 세교중·평택중·송탄중 내신 완벽 대비"
 date: 2025-01-15
 categories:

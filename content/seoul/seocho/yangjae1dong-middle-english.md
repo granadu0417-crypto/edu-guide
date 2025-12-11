@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-yangjae1dong-middle-english/
 title: 서초구 양재1동 중등 영어과외 - 언남중·영동중 내신 전문
 date: 2025-01-22
 categories:

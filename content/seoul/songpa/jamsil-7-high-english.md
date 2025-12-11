@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-잠실7-high-english/
 title: "송파구 잠실7동 고등 영어과외 | 잠실고·잠일고 문법 패턴 완성"
 date: 2025-01-28
 categories:

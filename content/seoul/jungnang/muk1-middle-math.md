@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-muk1-middle-math/
 title: "중랑구 묵1동 중등 수학과외 | 원묵중, 태릉중 내신 완벽 대비"
 date: 2025-12-08
 categories:

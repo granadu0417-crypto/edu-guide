@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-오륜-high-english/
 title: "송파구 오륜동 고등 영어과외 | 오륜고·잠실고 영어 실력 완성"
 date: 2025-01-28
 categories:

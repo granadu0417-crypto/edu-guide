@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-bulgwang1-high-math/
 title: "은평구 불광1동 고등 수학과외 | 은평고·예일여고 내신·수능 완벽 대비"
 date: 2025-05-20
 categories:

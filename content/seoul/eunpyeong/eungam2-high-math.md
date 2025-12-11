@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-eungam2-high-math/
 title: "은평구 응암2동 고등 수학과외 | 충암고·예일여고 내신 1등급 목표"
 date: 2025-05-20
 categories:

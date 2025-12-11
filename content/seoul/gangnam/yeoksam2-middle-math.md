@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-yeoksam2-middle-math/
 title: 강남구 역삼2동 중등 수학과외 - 언주중·역삼중 맞춤 관리
 date: 2025-01-28
 categories:

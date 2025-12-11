@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-bogwang-middle-math/
 title: "용산구 보광동 중등 수학과외 | 오산중 내신 1등급 목표"
 date: 2025-05-15
 categories:

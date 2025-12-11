@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-개포1-high-math/
 title: "강남구 개포1동 고등 수학과외 | 개포고·경기여고 수학 자신감 회복"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-namhyang-middle-english/
 title: "수원시 팔달구 남향동 중등 영어과외 | 수원중·유신중·매향여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

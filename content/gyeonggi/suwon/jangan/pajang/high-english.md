@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-pajang-high-english/
 title: "수원시 장안구 파장동 고등 영어과외 | 장안고·수일여고·천천고 내신·수능 대비"
 date: 2025-01-15
 categories:

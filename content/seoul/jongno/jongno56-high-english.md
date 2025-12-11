@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-종로5·6가-high-english/
 title: "종로구 종로5·6가동 고등 영어과외 | 경복고·동성고·중앙고 독해·문법 완성"
 date: 2025-01-28
 categories:

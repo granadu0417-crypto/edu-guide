@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-청담-high-math/
 title: "강남구 청담동 고등 수학과외 | 청담고·영동고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

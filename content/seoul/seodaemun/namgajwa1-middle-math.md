@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-namgajwa1-middle-math/
 title: "서대문구 남가좌1동 중등 수학과외 | 연희중·연북중 기초부터 심화까지"
 date: 2025-01-29
 categories:

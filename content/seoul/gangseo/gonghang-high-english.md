@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-공항-high-english/
 title: "강서구 공항동 고등 영어과외 | 공항고 취약점 집중 관리"
 date: 2025-01-28
 categories:

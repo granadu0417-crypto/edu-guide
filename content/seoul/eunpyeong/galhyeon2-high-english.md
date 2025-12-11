@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-galhyeon2-high-english/
 title: "은평구 갈현2동 고등 영어과외 | 선정고·대성고·숭실고·선일여고 내신 고득점 전략"
 date: 2025-05-20
 categories:

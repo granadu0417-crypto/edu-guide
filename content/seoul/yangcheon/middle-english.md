@@ -13,25 +13,6 @@ cities:
 tags:
   - 양천구영어과외
   - 양천구중등영어
-aliases:
-  - /middle/yangcheon-mok1-middle-english/
-  - /middle/yangcheon-mok2-middle-english/
-  - /middle/yangcheon-mok3-middle-english/
-  - /middle/yangcheon-mok4-middle-english/
-  - /middle/yangcheon-mok5-middle-english/
-  - /middle/yangcheon-sinjeong1-middle-english/
-  - /middle/yangcheon-sinjeong2-middle-english/
-  - /middle/yangcheon-sinjeong3-middle-english/
-  - /middle/yangcheon-sinjeong4-middle-english/
-  - /middle/yangcheon-sinjeong6-middle-english/
-  - /middle/yangcheon-sinjeong7-middle-english/
-  - /middle/yangcheon-sinwol1-middle-english/
-  - /middle/yangcheon-sinwol2-middle-english/
-  - /middle/yangcheon-sinwol3-middle-english/
-  - /middle/yangcheon-sinwol4-middle-english/
-  - /middle/yangcheon-sinwol5-middle-english/
-  - /middle/yangcheon-sinwol6-middle-english/
-  - /middle/yangcheon-sinwol7-middle-english/
 ---
 
 양천구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

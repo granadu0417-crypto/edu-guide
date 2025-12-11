@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/icheon-bubal-high-math/
 title: "이천시 부발읍 고등 수학과외 | 이천고·이천제일고·이현고 내신·수능 대비"
 date: 2025-01-15
 categories:

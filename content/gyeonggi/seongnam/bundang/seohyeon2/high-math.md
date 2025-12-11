@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-seohyeon2-high-math/
 title: "성남시 분당구 서현2동 고등 수학과외 | 서현고·성남외고·분당고 내신·수능 대비"
 date: 2025-01-15
 categories:

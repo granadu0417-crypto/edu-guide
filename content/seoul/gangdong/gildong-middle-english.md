@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-gildong-middle-english/
 title: 강동구 길동 중등 영어과외 - 길동중·성내중 내신 완성
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/bucheon-sosa-middle-english/
 title: "부천시 소사동 중등 영어과외 | 소사중·부천중·부천여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hanam-wirye-high-english/
 title: "하남시 위례동 고등 영어과외 | 위례고·미사고·하남고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-방이2-high-math/
 title: "송파구 방이2동 고등 수학과외 | 창덕여고·서울체육고 킬러문항 정복"
 date: 2025-01-28
 categories:

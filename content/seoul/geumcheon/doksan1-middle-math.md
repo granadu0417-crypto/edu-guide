@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-doksan1-middle-math/
 title: "금천구 독산1동 중등 수학과외 | 가산중·난곡중·문성중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

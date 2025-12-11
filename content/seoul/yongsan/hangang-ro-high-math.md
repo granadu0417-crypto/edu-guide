@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-hangang-ro-high-math/
 title: "용산구 한강로동 고등 수학과외 | 용산고·보성여고 수학 실력 완성"
 date: 2025-05-15
 categories:

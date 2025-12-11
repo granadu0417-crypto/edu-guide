@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-gaswa-high-english/
 title: "고양시 일산서구 가좌동 고등 영어과외 | 주엽고 영어 실력 향상"
 date: 2025-01-15
 categories:

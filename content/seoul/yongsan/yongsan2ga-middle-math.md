@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-yongsan2ga-middle-math/
 title: "용산구 용산2가동 중등 수학과외 | 용산중·보성여중 내신 완벽 대비"
 date: 2025-05-15
 categories:

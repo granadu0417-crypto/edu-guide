@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-금호1가-high-english/
 title: "성동구 금호1가동 고등 영어과외 | 경일고·성수고 어휘력 향상"
 date: 2025-01-28
 categories:

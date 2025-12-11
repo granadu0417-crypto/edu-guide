@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신정4-high-english/
 title: "양천구 신정4동 고등 영어과외 | 양천고·백암고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

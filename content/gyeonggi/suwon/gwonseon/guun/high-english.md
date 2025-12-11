@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-guun-high-english/
 title: "수원시 권선구 구운동 고등 영어과외 | 곡선고·권선고·수원공고 내신·수능 대비"
 date: 2025-01-15
 categories:

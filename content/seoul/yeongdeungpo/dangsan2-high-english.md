@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-당산2-high-english/
 title: "영등포구 당산2동 고등 영어과외 | 관악고·선유고 영어 실력 완성"
 date: 2025-01-28
 categories:

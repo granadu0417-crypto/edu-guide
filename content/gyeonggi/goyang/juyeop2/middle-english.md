@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-juyeop2-middle-english/
 title: "고양시 일산서구 주엽2동 중등 영어과외 | 주엽중 어휘력 키우기"
 date: 2025-01-15
 categories:

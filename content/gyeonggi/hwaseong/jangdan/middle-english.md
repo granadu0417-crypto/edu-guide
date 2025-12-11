@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hwaseong-jangdan-middle-english/
 title: "화성시 정남면 중등 영어과외 | 화성중·봉담중·향남중 내신 완벽 대비"
 date: 2025-01-15
 categories:

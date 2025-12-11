@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangju-goesan-middle-math/
 title: "양주시 고읍동 중등 수학과외 | 양주중·양주백석중·덕정중 내신 완벽 대비"
 date: 2025-01-15
 categories:

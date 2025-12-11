@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-신촌-high-english/
 title: "서대문구 신촌동 고등 영어과외 | 이화금란고·이화여대부고 영어 실력 완성"
 date: 2025-01-28
 categories:

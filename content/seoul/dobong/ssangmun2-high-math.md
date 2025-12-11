@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-쌍문2-high-math/
 title: "도봉구 쌍문2동 고등 수학과외 | 선덕고·서라벌고 킬러문항 정복"
 date: 2025-01-28
 categories:

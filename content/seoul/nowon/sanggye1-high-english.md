@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye1-high-english/
 title: 노원구 상계1동 고등 영어과외 | 노원고·수락고 맞춤 커리큘럼
 date: 2025-01-29
 categories:

@@ -13,23 +13,6 @@ cities:
 tags:
   - 구로구수학과외
   - 구로구고등수학
-aliases:
-  - /high/guro-gaebong1-high-math/
-  - /high/guro-gaebong2-high-math/
-  - /high/guro-gaebong3-high-math/
-  - /high/guro-garibong-high-math/
-  - /high/guro-gocheok1-high-math/
-  - /high/guro-gocheok2-high-math/
-  - /high/guro-guro1-high-math/
-  - /high/guro-guro2-high-math/
-  - /high/guro-guro3-high-math/
-  - /high/guro-guro4-high-math/
-  - /high/guro-guro5-high-math/
-  - /high/guro-hangdong-high-math/
-  - /high/guro-oryu1-high-math/
-  - /high/guro-oryu2-high-math/
-  - /high/guro-sindorim-high-math/
-  - /high/guro-sugung-high-math/
 ---
 
 구로구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

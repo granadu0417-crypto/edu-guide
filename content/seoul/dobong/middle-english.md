@@ -13,21 +13,6 @@ cities:
 tags:
   - 도봉구영어과외
   - 도봉구중등영어
-aliases:
-  - /middle/dobong-banghak1-middle-english/
-  - /middle/dobong-banghak2-middle-english/
-  - /middle/dobong-banghak3-middle-english/
-  - /middle/dobong-chang1-middle-english/
-  - /middle/dobong-chang2-middle-english/
-  - /middle/dobong-chang3-middle-english/
-  - /middle/dobong-chang4-middle-english/
-  - /middle/dobong-chang5-middle-english/
-  - /middle/dobong-dobong1-middle-english/
-  - /middle/dobong-dobong2-middle-english/
-  - /middle/dobong-ssangmun1-middle-english/
-  - /middle/dobong-ssangmun2-middle-english/
-  - /middle/dobong-ssangmun3-middle-english/
-  - /middle/dobong-ssangmun4-middle-english/
 ---
 
 도봉구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

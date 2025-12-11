@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-염창-high-english/
 title: "강서구 염창동 고등 영어과외 | 등촌고 영어 실력 완성"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-galhyeon1-high-math/
 title: "은평구 갈현1동 고등 수학과외 | 선정고·대성고·숭실고 명문 사립 대비"
 date: 2025-05-20
 categories:

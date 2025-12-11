@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-회기-high-english/
 title: "동대문구 회기동 고등 영어과외 | 경희고·경희여고 취약점 집중 관리"
 date: 2025-01-28
 categories:

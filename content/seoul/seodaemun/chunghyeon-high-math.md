@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-충현-high-math/
 title: "서대문구 충현동 고등 수학과외 | 중앙여고·한성과학고 오답 패턴 교정"
 date: 2025-01-28
 categories:

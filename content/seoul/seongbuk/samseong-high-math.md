@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-삼선-high-math/
 title: "성북구 삼선동 고등 수학과외 | 성신여고·경기고 취약점 집중 관리"
 date: 2025-01-28
 categories:

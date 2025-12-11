@@ -13,23 +13,6 @@ cities:
 tags:
   - 중랑구영어과외
   - 중랑구고등영어
-aliases:
-  - /high/jungnang-junghwa1-high-english/
-  - /high/jungnang-junghwa2-high-english/
-  - /high/jungnang-mangwu3-high-english/
-  - /high/jungnang-mangwubon-high-english/
-  - /high/jungnang-muk1-high-english/
-  - /high/jungnang-muk2-high-english/
-  - /high/jungnang-myeonmok2-high-english/
-  - /high/jungnang-myeonmok38-high-english/
-  - /high/jungnang-myeonmok4-high-english/
-  - /high/jungnang-myeonmok5-high-english/
-  - /high/jungnang-myeonmok7-high-english/
-  - /high/jungnang-myeonmokbon-high-english/
-  - /high/jungnang-sangbong1-high-english/
-  - /high/jungnang-sangbong2-high-english/
-  - /high/jungnang-sinnae1-high-english/
-  - /high/jungnang-sinnae2-high-english/
 ---
 
 중랑구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

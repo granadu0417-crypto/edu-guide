@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-wangsimni2-middle-math/
 title: "성동구 왕십리2동 중등 수학과외 | 무학중·행당중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

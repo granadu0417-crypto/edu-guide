@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-상암-high-math/
 title: "마포구 상암동 고등 수학과외 | 상암고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

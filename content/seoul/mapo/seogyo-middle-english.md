@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-seogyo-middle-english/
 title: "마포구 서교동 중등 영어과외 | 창천중·성산중 독해·문법 완성"
 date: 2025-01-29
 categories:

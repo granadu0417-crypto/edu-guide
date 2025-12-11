@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-목5-high-english/
 title: "양천구 목5동 고등 영어과외 | 양정고·한가람고 독해·문법 완성"
 date: 2025-01-28
 categories:

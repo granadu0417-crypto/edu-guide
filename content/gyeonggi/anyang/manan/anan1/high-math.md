@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/anyang-anan1-high-math/
 title: "안양시 만안구 안양1동 고등 수학과외 | 안양고·백영고·신성고 내신·수능 대비"
 date: 2025-01-15
 categories:

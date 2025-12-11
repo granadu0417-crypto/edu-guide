@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-sageun-middle-math/
 title: "성동구 사근동 중등 수학과외 | 한양대부중 학교별 내신 특화"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hwaseong-byungnam2-middle-math/
 title: "화성시 병점2동 중등 수학과외 | 화성중·병점중·동탄중 내신 완벽 대비"
 date: 2025-01-15
 categories:

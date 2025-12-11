@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-장안1-high-math/
 title: "동대문구 장안1동 고등 수학과외 | 동국대사범대부속고 수학 자신감 회복"
 date: 2025-01-28
 categories:

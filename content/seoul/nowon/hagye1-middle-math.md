@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-hagye1-middle-math/
 title: 노원구 하계1동 중등 수학과외 | 하계중·을지중·중원중 기초부터 심화까지
 date: 2025-01-29
 categories:

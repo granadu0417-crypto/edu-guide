@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guri-inchang-middle-math/
 title: "구리시 인창동 중등 수학과외 | 인창중·구리중·동구중 내신 완벽 대비"
 date: 2025-01-15
 categories:

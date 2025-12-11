@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-송중-high-english/
 title: "강북구 송중동 고등 영어과외 | 신일고 문법 패턴 완성"
 date: 2025-01-28
 categories:

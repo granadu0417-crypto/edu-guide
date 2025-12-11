@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-dongtan3-high-math/
 title: "화성시 동탄3동 고등 수학과외 | 반송고·동탄고·능동고 내신·수능 대비"
 date: 2025-01-15
 categories:

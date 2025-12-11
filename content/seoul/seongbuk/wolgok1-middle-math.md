@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-wolgok1-middle-math/
 title: "성북구 월곡1동 중등 수학과외 | 월곡중 실력 향상 수업"
 date: 2025-01-29
 categories:

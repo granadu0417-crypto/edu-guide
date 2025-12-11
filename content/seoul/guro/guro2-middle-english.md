@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-guro2-middle-english/
 title: "구로구 구로2동 중등 영어과외 | 구로중·영서중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

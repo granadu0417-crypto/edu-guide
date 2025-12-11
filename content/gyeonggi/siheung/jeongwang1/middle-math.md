@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/siheung-jeongwang1-middle-math/
 title: "시흥시 정왕1동 중등 수학과외 | 정왕중·시흥중·능곡중 내신 완벽 대비"
 date: 2025-01-15
 categories:

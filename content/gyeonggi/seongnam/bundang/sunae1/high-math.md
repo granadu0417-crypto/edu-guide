@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-sunae1-high-math/
 title: "성남시 분당구 수내1동 고등 수학과외 | 수내고·분당고·성남외고 내신·수능 대비"
 date: 2025-01-15
 categories:

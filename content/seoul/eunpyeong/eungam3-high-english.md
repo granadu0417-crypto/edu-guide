@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-eungam3-high-english/
 title: "은평구 응암3동 고등 영어과외 | 충암고 내신·수능 특화"
 date: 2025-05-20
 categories:

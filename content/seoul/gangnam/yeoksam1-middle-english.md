@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-yeoksam1-middle-english/
 title: 강남구 역삼1동 중등 영어과외 - 역삼중·대청중 내신 전문
 date: 2025-01-28
 categories:

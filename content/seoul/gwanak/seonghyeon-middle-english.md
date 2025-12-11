@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwanak-seonghyeon-middle-english/
 title: "관악구 성현동 중등 영어과외 | 구암중·봉원중 내신 완벽 대비"
 date: 2025-01-29
 categories:

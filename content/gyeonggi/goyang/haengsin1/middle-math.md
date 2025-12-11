@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-haengsin1-middle-math/
 title: "고양시 덕양구 행신1동 중등 수학과외 | 행신중 기출 완벽 분석"
 date: 2025-01-15
 categories:

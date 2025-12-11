@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sindaebang1-middle-english/
 title: "동작구 신대방1동 중등 영어과외 | 문창중 기초부터 심화까지"
 date: 2025-01-29
 categories:

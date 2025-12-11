@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-도화-high-math/
 title: "마포구 도화동 고등 수학과외 | 광성고·숭문고 실력 향상 비결"
 date: 2025-01-28
 categories:

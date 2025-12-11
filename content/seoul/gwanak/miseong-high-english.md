@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-미성-high-english/
 title: "관악구 미성동 고등 영어과외 | 성보고 기초부터 심화까지"
 date: 2025-01-28
 categories:

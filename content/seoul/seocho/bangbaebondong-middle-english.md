@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-bangbaebondong-middle-english/
 title: 서초구 방배본동 중등 영어과외 - 방배중·이수중 내신 전문
 date: 2025-01-22
 categories:

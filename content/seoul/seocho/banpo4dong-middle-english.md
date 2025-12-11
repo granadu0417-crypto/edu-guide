@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-banpo4dong-middle-english/
 title: 서초구 반포4동 중등 영어과외 - 세화여중·방배중 내신 전문
 date: 2025-01-22
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-항-high-english/
 title: "구로구 항동 고등 영어과외 | 유한공고 문법 패턴 완성"
 date: 2025-01-28
 categories:

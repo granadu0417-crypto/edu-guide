@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-pyeong-middle-math/
 title: "수원시 권선구 평동 중등 수학과외 | 중색중·권선중·곡선중 내신 완벽 대비"
 date: 2025-01-15
 categories:

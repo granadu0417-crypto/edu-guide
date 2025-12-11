@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-samsung1-middle-math/
 title: 강남구 삼성1동 중등 수학과외 - 언주중·봉은중 맞춤 관리
 date: 2025-01-28
 categories:

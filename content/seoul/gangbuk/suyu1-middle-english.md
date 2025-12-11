@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-suyu1-middle-english/
 title: "강북구 수유1동 중등 영어과외 | 수유중 체계적 학습 관리"
 date: 2025-01-29
 categories:

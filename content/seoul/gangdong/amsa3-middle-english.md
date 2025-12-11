@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-amsa3-middle-english/
 title: 강동구 암사3동 중등 영어과외 - 암사중·천호중 내신 집중
 date: 2025-01-29
 categories:

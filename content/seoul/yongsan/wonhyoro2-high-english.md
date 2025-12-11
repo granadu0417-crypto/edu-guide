@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-wonhyoro2-high-english/
 title: "용산구 원효로2동 고등 영어과외 | 성심여고 내신 만점 전략"
 date: 2025-05-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-상월곡-high-math/
 title: "성북구 상월곡동 고등 수학과외 | 대광고·성북고 약점 집중 보완"
 date: 2025-01-28
 categories:

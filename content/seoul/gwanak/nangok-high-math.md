@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-난곡-high-math/
 title: "관악구 난곡동 고등 수학과외 | 성보고 체계적 학습 관리"
 date: 2025-01-28
 categories:

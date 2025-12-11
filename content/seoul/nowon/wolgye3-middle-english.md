@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-wolgye3-middle-english/
 title: 노원구 월계3동 중등 영어과외 | 월계중·화랑중·녹천중 실력 향상 수업
 date: 2025-01-29
 categories:

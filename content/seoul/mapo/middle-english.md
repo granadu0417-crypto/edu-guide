@@ -13,23 +13,6 @@ cities:
 tags:
   - 마포구영어과외
   - 마포구중등영어
-aliases:
-  - /middle/mapo-ahyeon-middle-english/
-  - /middle/mapo-daeheung-middle-english/
-  - /middle/mapo-dohwa-middle-english/
-  - /middle/mapo-gongdeok-middle-english/
-  - /middle/mapo-hapjeong-middle-english/
-  - /middle/mapo-mangwon1-middle-english/
-  - /middle/mapo-mangwon2-middle-english/
-  - /middle/mapo-sangam-middle-english/
-  - /middle/mapo-seogang-middle-english/
-  - /middle/mapo-seogyo-middle-english/
-  - /middle/mapo-seongsan1-middle-english/
-  - /middle/mapo-seongsan2-middle-english/
-  - /middle/mapo-sinsu-middle-english/
-  - /middle/mapo-yeomni-middle-english/
-  - /middle/mapo-yeonnam-middle-english/
-  - /middle/mapo-yonggang-middle-english/
 ---
 
 마포구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

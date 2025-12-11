@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-junggyebon-high-math/
 title: 노원구 중계본동 고등 수학과외 | 서라벌고·대진고·재현고 내신·수능 대비
 date: 2025-01-29
 categories:

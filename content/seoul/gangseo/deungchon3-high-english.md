@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-등촌3-high-english/
 title: "강서구 등촌3동 고등 영어과외 | 등촌고·경복여고·영일고 목표 등급 달성"
 date: 2025-01-28
 categories:

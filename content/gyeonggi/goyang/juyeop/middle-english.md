@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-juyeop-middle-english/
 title: "고양시 덕양구 주엽동 중등 영어과외 | 주엽중 성적 향상 프로젝트"
 date: 2025-01-15
 categories:

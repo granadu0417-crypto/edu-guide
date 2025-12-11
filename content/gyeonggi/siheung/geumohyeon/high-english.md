@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/siheung-geumohyeon-high-english/
 title: "시흥시 거모동 고등 영어과외 | 시흥고·능곡고·정왕고 내신·수능 대비"
 date: 2025-01-15
 categories:

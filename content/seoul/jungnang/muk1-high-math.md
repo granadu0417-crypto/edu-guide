@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/jungnang-muk1-high-math/
 title: "중랑구 묵1동 고등 수학과외 | 원묵고, 태릉고 내신·수능 대비"
 date: 2025-12-08
 categories:

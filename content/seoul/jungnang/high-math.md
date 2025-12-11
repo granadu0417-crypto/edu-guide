@@ -13,23 +13,6 @@ cities:
 tags:
   - 중랑구수학과외
   - 중랑구고등수학
-aliases:
-  - /high/jungnang-junghwa1-high-math/
-  - /high/jungnang-junghwa2-high-math/
-  - /high/jungnang-mangwu3-high-math/
-  - /high/jungnang-mangwubon-high-math/
-  - /high/jungnang-muk1-high-math/
-  - /high/jungnang-muk2-high-math/
-  - /high/jungnang-myeonmok2-high-math/
-  - /high/jungnang-myeonmok38-high-math/
-  - /high/jungnang-myeonmok4-high-math/
-  - /high/jungnang-myeonmok5-high-math/
-  - /high/jungnang-myeonmok7-high-math/
-  - /high/jungnang-myeonmokbon-high-math/
-  - /high/jungnang-sangbong1-high-math/
-  - /high/jungnang-sangbong2-high-math/
-  - /high/jungnang-sinnae1-high-math/
-  - /high/jungnang-sinnae2-high-math/
 ---
 
 중랑구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

@@ -13,26 +13,6 @@ cities:
 tags:
   - 강동구수학과외
   - 강동구중등수학
-aliases:
-  - /middle/gangdong-amsa1-middle-math/
-  - /middle/gangdong-amsa2-middle-math/
-  - /middle/gangdong-amsa3-middle-math/
-  - /middle/gangdong-cheonho1-middle-math/
-  - /middle/gangdong-cheonho2-middle-math/
-  - /middle/gangdong-cheonho3-middle-math/
-  - /middle/gangdong-dunchon1-middle-math/
-  - /middle/gangdong-dunchon2-middle-math/
-  - /middle/gangdong-gangil-middle-math/
-  - /middle/gangdong-gildong-middle-math/
-  - /middle/gangdong-godeok1-middle-math/
-  - /middle/gangdong-godeok2-middle-math/
-  - /middle/gangdong-myeongil1-middle-math/
-  - /middle/gangdong-myeongil2-middle-math/
-  - /middle/gangdong-sangil1-middle-math/
-  - /middle/gangdong-sangil2-middle-math/
-  - /middle/gangdong-seongnae1-middle-math/
-  - /middle/gangdong-seongnae2-middle-math/
-  - /middle/gangdong-seongnae3-middle-math/
 ---
 
 강동구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

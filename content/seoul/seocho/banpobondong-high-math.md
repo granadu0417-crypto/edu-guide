@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-반포본-high-math/
 title: "서초구 반포본동 고등 수학과외 | 반포고·세화고 킬러문항 정복"
 date: 2025-01-28
 categories:

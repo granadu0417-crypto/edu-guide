@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gimpo-pungmu-middle-english/
 title: "김포시 풍무동 중등 영어과외 | 풍무중·김포중·김포제일중 내신 완벽 대비"
 date: 2025-01-15
 categories:

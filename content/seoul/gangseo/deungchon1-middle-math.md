@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-deungchon1-middle-math/
 title: "강서구 등촌1동 중등 수학과외 | 등촌중·등명중·등원중 내신 완벽 대비"
 date: 2025-01-29
 categories:

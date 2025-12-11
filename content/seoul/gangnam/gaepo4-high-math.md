@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-개포4-high-math/
 title: "강남구 개포4동 고등 수학과외 | 개포고·일원고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

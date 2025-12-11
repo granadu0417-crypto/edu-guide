@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-geumgok-high-math/
 title: "수원시 권선구 금곡동 고등 수학과외 | 금곡고·호매실고·칠보고 내신·수능 대비"
 date: 2025-01-15
 categories:

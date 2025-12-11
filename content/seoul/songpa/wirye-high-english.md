@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-위례-high-english/
 title: "송파구 위례동 고등 영어과외 | 위례고·위례한빛고 실력 향상 수업"
 date: 2025-01-28
 categories:

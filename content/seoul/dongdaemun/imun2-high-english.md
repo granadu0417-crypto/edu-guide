@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-이문2-high-english/
 title: "동대문구 이문2동 고등 영어과외 | 경희고·경희여고 문법 패턴 완성"
 date: 2025-01-28
 categories:

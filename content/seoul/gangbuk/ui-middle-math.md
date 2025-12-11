@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-ui-middle-math/
 title: "강북구 우이동 중등 수학과외 | 인수중·화계중 실력 향상 수업"
 date: 2025-01-29
 categories:

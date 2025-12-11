@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-오류2-high-english/
 title: "구로구 오류2동 고등 영어과외 | 고척고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-songcheon-middle-math/
 title: "강북구 송천동 중등 수학과외 | 성암여자중 내신 완벽 대비"
 date: 2025-01-29
 categories:

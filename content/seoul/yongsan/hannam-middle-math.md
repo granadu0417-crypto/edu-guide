@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-hannam-middle-math/
 title: "용산구 한남동 중등 수학과외 | 오산중·한강중 개인 맞춤 커리큘럼"
 date: 2025-05-15
 categories:

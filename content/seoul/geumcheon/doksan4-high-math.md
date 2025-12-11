@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-독산4-high-math/
 title: "금천구 독산4동 고등 수학과외 | 독산고 학교별 내신 특화"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡8-high-english/
 title: "강서구 화곡8동 고등 영어과외 | 화곡고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

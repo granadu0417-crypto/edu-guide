@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-방배3-high-english/
 title: "서초구 방배3동 고등 영어과외 | 서문여고·서울고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

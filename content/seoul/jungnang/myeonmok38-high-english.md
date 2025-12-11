@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/jungnang-myeonmok38-high-english/
 title: "중랑구 면목3·8동 고등 영어과외 | 면목고 내신·수능 대비"
 date: 2025-12-08
 categories:

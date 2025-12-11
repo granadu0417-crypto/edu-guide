@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-구로5-high-english/
 title: "구로구 구로5동 고등 영어과외 | 구일고·구로고 실력 향상 비결"
 date: 2025-01-28
 categories:

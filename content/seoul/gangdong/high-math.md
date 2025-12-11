@@ -13,26 +13,6 @@ cities:
 tags:
   - 강동구수학과외
   - 강동구고등수학
-aliases:
-  - /high/gangdong-amsa1-high-math/
-  - /high/gangdong-amsa2-high-math/
-  - /high/gangdong-amsa3-high-math/
-  - /high/gangdong-cheonho1-high-math/
-  - /high/gangdong-cheonho2-high-math/
-  - /high/gangdong-cheonho3-high-math/
-  - /high/gangdong-dunchon1-high-math/
-  - /high/gangdong-dunchon2-high-math/
-  - /high/gangdong-gangil-high-math/
-  - /high/gangdong-gildong-high-math/
-  - /high/gangdong-godeok1-high-math/
-  - /high/gangdong-godeok2-high-math/
-  - /high/gangdong-myeongil1-high-math/
-  - /high/gangdong-myeongil2-high-math/
-  - /high/gangdong-sangil1-high-math/
-  - /high/gangdong-sangil2-high-math/
-  - /high/gangdong-seongnae1-high-math/
-  - /high/gangdong-seongnae2-high-math/
-  - /high/gangdong-seongnae3-high-math/
 ---
 
 강동구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

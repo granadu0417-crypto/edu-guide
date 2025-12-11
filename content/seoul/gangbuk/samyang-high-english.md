@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-삼양-high-english/
 title: "강북구 삼양동 고등 영어과외 | 신일고·영훈고 단계별 실력 향상"
 date: 2025-01-28
 categories:

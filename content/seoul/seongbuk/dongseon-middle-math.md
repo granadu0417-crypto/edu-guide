@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-dongseon-middle-math/
 title: "성북구 동선동 중등 수학과외 | 삼선중·개운중 기초부터 심화까지"
 date: 2025-01-29
 categories:

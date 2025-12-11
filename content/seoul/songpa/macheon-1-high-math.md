@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-마천1-high-math/
 title: "송파구 마천1동 고등 수학과외 | 마천고·잠실고 문제 해결력 향상"
 date: 2025-01-28
 categories:

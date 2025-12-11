@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신정1-high-math/
 title: "양천구 신정1동 고등 수학과외 | 신목고·양천고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-송파1-high-english/
 title: "송파구 송파1동 고등 영어과외 | 송파고·잠실고 기초부터 심화까지"
 date: 2025-01-28
 categories:

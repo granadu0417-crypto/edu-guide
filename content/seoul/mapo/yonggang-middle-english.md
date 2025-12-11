@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-yonggang-middle-english/
 title: "마포구 용강동 중등 영어과외 | 신수중·창천중 실력 향상 수업"
 date: 2025-01-29
 categories:

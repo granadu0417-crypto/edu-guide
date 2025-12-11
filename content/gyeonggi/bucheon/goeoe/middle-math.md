@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/bucheon-goeoe-middle-math/
 title: "부천시 괴안동 중등 수학과외 | 부천중·부명중·역곡중 내신 완벽 대비"
 date: 2025-01-15
 categories:

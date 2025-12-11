@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-godeok1-middle-math/
 title: 강동구 고덕1동 중등 수학과외 - 고덕중·명일중 맞춤 관리
 date: 2025-01-29
 categories:

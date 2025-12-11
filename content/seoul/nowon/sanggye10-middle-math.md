@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye10-middle-math/
 title: 노원구 상계10동 중등 수학과외 | 상원중·수락중·청원중 맞춤 수업
 date: 2025-01-29
 categories:

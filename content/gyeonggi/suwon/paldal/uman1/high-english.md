@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-uman1-high-english/
 title: "수원시 팔달구 우만1동 고등 영어과외 | 유신고·창현고·수원고 내신·수능 대비"
 date: 2025-01-15
 categories:

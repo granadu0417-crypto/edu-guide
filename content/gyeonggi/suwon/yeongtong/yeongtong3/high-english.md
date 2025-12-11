@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-yeongtong3-high-english/
 title: "수원시 영통구 영통3동 고등 영어과외 | 청명고·영통고·효원고 내신·수능 대비"
 date: 2025-01-15
 categories:

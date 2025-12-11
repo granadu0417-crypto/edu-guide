@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye8-middle-english/
 title: 노원구 상계8동 중등 영어과외 | 상원중·수락중·청원중 독해·문법 완성
 date: 2025-01-29
 categories:

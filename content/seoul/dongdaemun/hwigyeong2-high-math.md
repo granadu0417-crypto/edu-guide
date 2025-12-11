@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-휘경2-high-math/
 title: "동대문구 휘경2동 고등 수학과외 | 휘경여고·휘봉고 단계별 실력 향상"
 date: 2025-01-28
 categories:

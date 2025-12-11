@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-gaswa-high-math/
 title: "고양시 일산서구 가좌동 고등 수학과외 | 주엽고 학교 시험 완벽 대비"
 date: 2025-01-15
 categories:

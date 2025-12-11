@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-상일1-high-math/
 title: "강동구 상일1동 고등 수학과외 | 한영고·상일여고 등급 향상 전략"
 date: 2025-01-28
 categories:

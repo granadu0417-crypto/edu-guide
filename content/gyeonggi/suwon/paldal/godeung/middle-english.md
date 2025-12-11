@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-godeung-middle-english/
 title: "수원시 팔달구 고등동 중등 영어과외 | 유신중·수원중·매향여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

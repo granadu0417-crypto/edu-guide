@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-sangbong2-middle-math/
 title: "중랑구 상봉2동 중등 수학과외 | 상봉중 내신 완벽 대비"
 date: 2025-12-08
 categories:

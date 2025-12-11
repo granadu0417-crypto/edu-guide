@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-majang-middle-english/
 title: "성동구 마장동 중등 영어과외 | 동마중·마장중 체계적 학습 관리"
 date: 2025-01-29
 categories:

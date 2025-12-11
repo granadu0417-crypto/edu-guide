@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sangdo4-middle-english/
 title: "동작구 상도4동 중등 영어과외 | 국사봉중·장승중 학교별 내신 특화"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-junggye1-middle-english/
 title: 노원구 중계1동 중등 영어과외 | 중계중·재현중·을지중 문법·독해 완성
 date: 2025-01-29
 categories:

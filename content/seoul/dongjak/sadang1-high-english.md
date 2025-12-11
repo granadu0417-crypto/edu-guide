@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-사당1-high-english/
 title: "동작구 사당1동 고등 영어과외 | 동작고·경문고 독해부터 문법까지"
 date: 2025-01-28
 categories:

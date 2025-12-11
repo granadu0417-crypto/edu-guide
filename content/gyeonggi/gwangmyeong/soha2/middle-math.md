@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangmyeong-soha2-middle-math/
 title: "광명시 소하2동 중등 수학과외 | 광명중·소하중·광명북중 내신 완벽 대비"
 date: 2025-01-15
 categories:

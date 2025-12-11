@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang5-middle-english/
 title: "동작구 사당5동 중등 영어과외 | 상도중·동작중 실력 향상 수업"
 date: 2025-01-29
 categories:

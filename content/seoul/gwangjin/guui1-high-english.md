@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-구의1-high-english/
 title: "광진구 구의1동 고등 영어과외 | 동국대부가람고 취약점 집중 관리"
 date: 2025-01-28
 categories:

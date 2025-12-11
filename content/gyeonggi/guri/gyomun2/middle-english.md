@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guri-gyomun2-middle-english/
 title: "구리시 교문2동 중등 영어과외 | 구리중·동구중·인창중 내신 완벽 대비"
 date: 2025-01-15
 categories:

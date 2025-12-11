@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-galhyeon2-middle-math/
 title: "은평구 갈현2동 중등 수학과외 | 선정중·대성중·숭실중·선일여중 전통 명문 특화"
 date: 2025-05-20
 categories:

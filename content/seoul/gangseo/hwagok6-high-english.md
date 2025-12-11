@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡6-high-english/
 title: "강서구 화곡6동 고등 영어과외 | 화곡고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

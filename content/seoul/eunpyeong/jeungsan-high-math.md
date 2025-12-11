@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-jeungsan-high-math/
 title: "은평구 증산동 고등 수학과외 | 은평고·예일여고 개념 완성 수업"
 date: 2025-05-20
 categories:

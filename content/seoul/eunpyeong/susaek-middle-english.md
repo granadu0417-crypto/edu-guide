@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-susaek-middle-english/
 title: "은평구 수색동 중등 영어과외 | 증산중·연서중·상신중 내신 고득점 비결"
 date: 2025-05-20
 categories:

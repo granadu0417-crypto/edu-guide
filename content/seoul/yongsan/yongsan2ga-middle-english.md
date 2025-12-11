@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-yongsan2ga-middle-english/
 title: "용산구 용산2가동 중등 영어과외 | 용산중·보성여중 독해·문법 완성"
 date: 2025-05-15
 categories:

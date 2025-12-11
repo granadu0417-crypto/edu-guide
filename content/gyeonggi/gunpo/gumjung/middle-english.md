@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gunpo-gumjung-middle-english/
 title: "군포시 금정동 중등 영어과외 | 흥진중·수리중·군포중 내신 완벽 대비"
 date: 2025-01-15
 categories:

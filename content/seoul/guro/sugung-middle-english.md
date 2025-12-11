@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-sugung-middle-english/
 title: "구로구 수궁동 중등 영어과외 | 우신중 실력 향상 수업"
 date: 2025-01-29
 categories:

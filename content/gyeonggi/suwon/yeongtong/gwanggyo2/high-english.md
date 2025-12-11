@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-gwanggyo2-high-english/
 title: "수원시 영통구 광교2동 고등 영어과외 | 광교고·효원고·청명고 내신·수능 대비"
 date: 2025-01-15
 categories:

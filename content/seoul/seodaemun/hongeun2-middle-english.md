@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongeun2-middle-english/
 title: "서대문구 홍은2동 중등 영어과외 | 홍은중·정원여중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-gaebong2-middle-math/
 title: "구로구 개봉2동 중등 수학과외 | 개봉중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

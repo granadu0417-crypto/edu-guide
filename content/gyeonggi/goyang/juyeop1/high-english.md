@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-juyeop1-high-english/
 title: "고양시 일산서구 주엽1동 고등 영어과외 | 주엽고 수능형 독해 훈련"
 date: 2025-01-15
 categories:

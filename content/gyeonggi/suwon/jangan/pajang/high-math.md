@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-pajang-high-math/
 title: "수원시 장안구 파장동 고등 수학과외 | 장안고·수일여고·천천고 내신·수능 대비"
 date: 2025-01-15
 categories:

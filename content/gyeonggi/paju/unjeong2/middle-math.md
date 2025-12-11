@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/paju-unjeong2-middle-math/
 title: "파주시 운정2동 중등 수학과외 | 파주중·운정중·금촌중 내신 완벽 대비"
 date: 2025-01-15
 categories:

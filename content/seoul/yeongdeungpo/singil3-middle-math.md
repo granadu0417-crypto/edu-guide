@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil3-middle-math/
 title: "영등포구 신길3동 중등 수학과외 | 신길중·대영중 기초부터 심화까지"
 date: 2025-01-29
 categories:

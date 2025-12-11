@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-wonheung-high-math/
 title: "고양시 덕양구 원흥동 고등 수학과외 | 도래울고 등급 향상 전략"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gunpo-sanbon2-middle-english/
 title: "군포시 산본2동 중등 영어과외 | 군포중·수리중·흥진중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-dangsan2-middle-english/
 title: "영등포구 당산2동 중등 영어과외 | 당산중 내신 완벽 대비"
 date: 2025-01-29
 categories:

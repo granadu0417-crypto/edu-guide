@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-jangan1-middle-english/
 title: "동대문구 장안1동 중등 영어과외 | 동국대사범대부속중·장평중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

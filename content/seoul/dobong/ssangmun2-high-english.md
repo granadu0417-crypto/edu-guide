@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-쌍문2-high-english/
 title: "도봉구 쌍문2동 고등 영어과외 | 선덕고·서라벌고 독해·문법 완성"
 date: 2025-01-28
 categories:

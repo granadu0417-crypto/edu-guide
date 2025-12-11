@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-거여1-high-english/
 title: "송파구 거여1동 고등 영어과외 | 문정고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

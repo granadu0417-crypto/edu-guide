@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-송중-high-math/
 title: "강북구 송중동 고등 수학과외 | 신일고 오답 패턴 교정"
 date: 2025-01-28
 categories:

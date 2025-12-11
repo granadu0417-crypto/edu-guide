@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-itaewon1-middle-math/
 title: "용산구 이태원1동 중등 수학과외 | 오산중·한강중 학교별 맞춤 전략"
 date: 2025-05-15
 categories:

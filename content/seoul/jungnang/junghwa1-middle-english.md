@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-junghwa1-middle-english/
 title: "중랑구 중화1동 중등 영어과외 | 장안중 내신 완벽 대비"
 date: 2025-12-08
 categories:

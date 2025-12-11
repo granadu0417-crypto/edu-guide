@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang4-middle-english/
 title: "동작구 사당4동 중등 영어과외 | 상도중·동작중 체계적 학습 관리"
 date: 2025-01-29
 categories:

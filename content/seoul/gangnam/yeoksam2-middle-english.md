@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-yeoksam2-middle-english/
 title: 강남구 역삼2동 중등 영어과외 - 언주중·역삼중 내신 전문
 date: 2025-01-28
 categories:

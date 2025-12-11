@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/uijeongbu-uijeongbu3-high-math/
 title: "의정부시 의정부3동 고등 수학과외 | 의정부고·효자고·경민고 내신·수능 대비"
 date: 2025-01-15
 categories:

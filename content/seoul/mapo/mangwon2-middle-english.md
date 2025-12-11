@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-mangwon2-middle-english/
 title: "마포구 망원2동 중등 영어과외 | 성산중·성사중 실력 향상 수업"
 date: 2025-01-29
 categories:

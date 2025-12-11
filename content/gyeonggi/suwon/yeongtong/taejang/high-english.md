@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-taejang-high-english/
 title: "수원시 영통구 태장동 고등 영어과외 | 태장고·영통고·효원고 내신·수능 대비"
 date: 2025-01-15
 categories:

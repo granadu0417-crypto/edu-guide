@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-가리봉-high-math/
 title: "구로구 가리봉동 고등 수학과외 | 구일고·구로고 목표 등급 달성"
 date: 2025-01-28
 categories:

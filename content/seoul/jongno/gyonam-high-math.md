@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-교남-high-math/
 title: "종로구 교남동 고등 수학과외 | 경복고·동성고·중앙고 체계적 학습 관리"
 date: 2025-01-28
 categories:

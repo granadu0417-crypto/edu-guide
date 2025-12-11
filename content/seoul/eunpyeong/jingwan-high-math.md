@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-jingwan-high-math/
 title: "은평구 진관동 고등 수학과외 | 진관고·신도고·하나고 하나고 인접 특화"
 date: 2025-05-20
 categories:

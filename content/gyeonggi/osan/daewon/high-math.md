@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/osan-daewon-high-math/
 title: "오산시 대원동 고등 수학과외 | 세마고·오산고·운천고 내신·수능 대비"
 date: 2025-01-15
 categories:

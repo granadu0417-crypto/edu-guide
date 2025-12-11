@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung4-middle-english/
 title: "금천구 시흥4동 중등 영어과외 | 문일중·한울중 어휘·문법 집중"
 date: 2025-01-29
 categories:

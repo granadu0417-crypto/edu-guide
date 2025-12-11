@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-이문1-high-english/
 title: "동대문구 이문1동 고등 영어과외 | 경희고·경희여고 실력 향상 비결"
 date: 2025-01-28
 categories:

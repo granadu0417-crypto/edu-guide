@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-대치4-high-math/
 title: "강남구 대치4동 고등 수학과외 | 휘문고·중동고 단계별 실력 향상"
 date: 2025-01-28
 categories:

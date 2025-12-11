@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-길음2-high-english/
 title: "성북구 길음2동 고등 영어과외 | 홍익대사대부고·대광고 체계적 학습 관리"
 date: 2025-01-28
 categories:

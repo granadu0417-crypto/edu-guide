@@ -13,22 +13,6 @@ cities:
 tags:
   - 동작구수학과외
   - 동작구중등수학
-aliases:
-  - /middle/dongjak-daebang-middle-math/
-  - /middle/dongjak-heukseok-middle-math/
-  - /middle/dongjak-noryangjin1-middle-math/
-  - /middle/dongjak-noryangjin2-middle-math/
-  - /middle/dongjak-sadang1-middle-math/
-  - /middle/dongjak-sadang2-middle-math/
-  - /middle/dongjak-sadang3-middle-math/
-  - /middle/dongjak-sadang4-middle-math/
-  - /middle/dongjak-sadang5-middle-math/
-  - /middle/dongjak-sangdo1-middle-math/
-  - /middle/dongjak-sangdo2-middle-math/
-  - /middle/dongjak-sangdo3-middle-math/
-  - /middle/dongjak-sangdo4-middle-math/
-  - /middle/dongjak-sindaebang1-middle-math/
-  - /middle/dongjak-sindaebang2-middle-math/
 ---
 
 동작구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

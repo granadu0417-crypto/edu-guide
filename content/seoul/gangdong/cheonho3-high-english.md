@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-천호3-high-english/
 title: "강동구 천호3동 고등 영어과외 | 천호고·강동고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil5-middle-english/
 title: "영등포구 신길5동 중등 영어과외 | 대영중 내신 완벽 대비"
 date: 2025-01-29
 categories:

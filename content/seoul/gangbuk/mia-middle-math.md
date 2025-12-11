@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-mia-middle-math/
 title: "강북구 미아동 중등 수학과외 | 솔샘중·미양중·신일중 내신 완벽 대비"
 date: 2025-01-29
 categories:

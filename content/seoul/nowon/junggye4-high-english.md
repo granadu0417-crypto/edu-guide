@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-junggye4-high-english/
 title: 노원구 중계4동 고등 영어과외 | 서라벌고·대진고 독해·문법 완성
 date: 2025-01-29
 categories:

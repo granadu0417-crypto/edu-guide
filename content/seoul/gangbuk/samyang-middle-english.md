@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-samyang-middle-english/
 title: "강북구 삼양동 중등 영어과외 | 영훈국제중·신일중 학교별 내신 특화"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-hannam-high-math/
 title: "용산구 한남동 고등 수학과외 | 오산고·중경고 수능형 문제 완성"
 date: 2025-05-15
 categories:

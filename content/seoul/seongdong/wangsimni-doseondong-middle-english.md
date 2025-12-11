@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-wangsimni-doseondong-middle-english/
 title: "성동구 왕십리도선동 중등 영어과외 | 무학중·행당중 독해·문법 완성"
 date: 2025-01-29
 categories:

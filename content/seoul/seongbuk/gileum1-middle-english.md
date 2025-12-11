@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-gileum1-middle-english/
 title: "성북구 길음1동 중등 영어과외 | 길음중 실력 향상 수업"
 date: 2025-01-29
 categories:

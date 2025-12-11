@@ -13,21 +13,6 @@ cities:
 tags:
   - 서대문구수학과외
   - 서대문구중등수학
-aliases:
-  - /middle/seodaemun-bukahyeon-middle-math/
-  - /middle/seodaemun-bukgajwa1-middle-math/
-  - /middle/seodaemun-bukgajwa2-middle-math/
-  - /middle/seodaemun-cheongyeon-middle-math/
-  - /middle/seodaemun-chunghyeon-middle-math/
-  - /middle/seodaemun-hongeun1-middle-math/
-  - /middle/seodaemun-hongeun2-middle-math/
-  - /middle/seodaemun-hongje1-middle-math/
-  - /middle/seodaemun-hongje2-middle-math/
-  - /middle/seodaemun-hongje3-middle-math/
-  - /middle/seodaemun-namgajwa1-middle-math/
-  - /middle/seodaemun-namgajwa2-middle-math/
-  - /middle/seodaemun-sinchon-middle-math/
-  - /middle/seodaemun-yeonhui-middle-math/
 ---
 
 서대문구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-gumi1-middle-english/
 title: "성남시 분당구 구미1동 중등 영어과외 | 분당중·성남외중·분당영덕여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-hwigyeong1-middle-english/
 title: "동대문구 휘경1동 중등 영어과외 | 휘경중·휘경여중·전동중 실력 향상 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-용답-high-english/
 title: "성동구 용답동 고등 영어과외 | 성수고·경일고 수능 완벽 대비"
 date: 2025-01-28
 categories:

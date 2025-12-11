@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hanam-sinjan1-high-english/
 title: "하남시 신장1동 고등 영어과외 | 하남고·미사고·위례고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-seochodong-middle-math/
 title: 서초구 서초동 중등 수학과외 - 서초중·서운중·서일중 맞춤 관리
 date: 2025-01-22
 categories:

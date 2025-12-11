@@ -13,23 +13,6 @@ cities:
 tags:
   - 은평구수학과외
   - 은평구고등수학
-aliases:
-  - /high/eunpyeong-bulgwang1-high-math/
-  - /high/eunpyeong-bulgwang2-high-math/
-  - /high/eunpyeong-daejo-high-math/
-  - /high/eunpyeong-eungam1-high-math/
-  - /high/eunpyeong-eungam2-high-math/
-  - /high/eunpyeong-eungam3-high-math/
-  - /high/eunpyeong-galhyeon1-high-math/
-  - /high/eunpyeong-galhyeon2-high-math/
-  - /high/eunpyeong-gusan-high-math/
-  - /high/eunpyeong-jeungsan-high-math/
-  - /high/eunpyeong-jingwan-high-math/
-  - /high/eunpyeong-nokbeon-high-math/
-  - /high/eunpyeong-sinsa1-high-math/
-  - /high/eunpyeong-sinsa2-high-math/
-  - /high/eunpyeong-susaek-high-math/
-  - /high/eunpyeong-yeokchon-high-math/
 ---
 
 은평구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

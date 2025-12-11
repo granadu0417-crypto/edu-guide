@@ -13,26 +13,6 @@ cities:
 tags:
   - 노원구영어과외
   - 노원구중등영어
-aliases:
-  - /middle/nowon-gongneung1-middle-english/
-  - /middle/nowon-gongneung2-middle-english/
-  - /middle/nowon-hagye1-middle-english/
-  - /middle/nowon-hagye2-middle-english/
-  - /middle/nowon-junggye1-middle-english/
-  - /middle/nowon-junggye23-middle-english/
-  - /middle/nowon-junggye4-middle-english/
-  - /middle/nowon-junggyebon-middle-english/
-  - /middle/nowon-sanggye1-middle-english/
-  - /middle/nowon-sanggye10-middle-english/
-  - /middle/nowon-sanggye2-middle-english/
-  - /middle/nowon-sanggye34-middle-english/
-  - /middle/nowon-sanggye5-middle-english/
-  - /middle/nowon-sanggye67-middle-english/
-  - /middle/nowon-sanggye8-middle-english/
-  - /middle/nowon-sanggye9-middle-english/
-  - /middle/nowon-wolgye1-middle-english/
-  - /middle/nowon-wolgye2-middle-english/
-  - /middle/nowon-wolgye3-middle-english/
 ---
 
 노원구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

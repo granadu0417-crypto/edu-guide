@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-도봉2-high-english/
 title: "도봉구 도봉2동 고등 영어과외 | 도봉고 수능 완벽 대비"
 date: 2025-01-28
 categories:

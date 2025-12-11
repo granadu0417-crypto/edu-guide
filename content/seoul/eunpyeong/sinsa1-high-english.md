@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-sinsa1-high-english/
 title: "은평구 신사1동 고등 영어과외 | 은평고·예일여고 영어 내신 집중"
 date: 2025-05-20
 categories:

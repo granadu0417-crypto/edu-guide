@@ -13,30 +13,6 @@ cities:
 tags:
   - 강서구수학과외
   - 강서구중등수학
-aliases:
-  - /middle/gangseo-balsan1-middle-math/
-  - /middle/gangseo-banghwa1-middle-math/
-  - /middle/gangseo-banghwa2-middle-math/
-  - /middle/gangseo-banghwa3-middle-math/
-  - /middle/gangseo-deungchon1-middle-math/
-  - /middle/gangseo-deungchon2-middle-math/
-  - /middle/gangseo-deungchon3-middle-math/
-  - /middle/gangseo-gayang1-middle-math/
-  - /middle/gangseo-gayang2-middle-math/
-  - /middle/gangseo-gayang3-middle-math/
-  - /middle/gangseo-gonghang-middle-math/
-  - /middle/gangseo-hwagok1-middle-math/
-  - /middle/gangseo-hwagok2-middle-math/
-  - /middle/gangseo-hwagok3-middle-math/
-  - /middle/gangseo-hwagok4-middle-math/
-  - /middle/gangseo-hwagok5-middle-math/
-  - /middle/gangseo-hwagok6-middle-math/
-  - /middle/gangseo-hwagok7-middle-math/
-  - /middle/gangseo-hwagok8-middle-math/
-  - /middle/gangseo-hwagokbon-middle-math/
-  - /middle/gangseo-magok-middle-math/
-  - /middle/gangseo-ujangsan-middle-math/
-  - /middle/gangseo-yeomchang-middle-math/
 ---
 
 강서구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

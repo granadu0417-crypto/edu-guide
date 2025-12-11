@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-cheongyeon-middle-english/
 title: "서대문구 천연동 중등 영어과외 | 동명여중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

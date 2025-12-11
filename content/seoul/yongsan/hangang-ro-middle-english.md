@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-hangang-ro-middle-english/
 title: "용산구 한강로동 중등 영어과외 | 용산중·보성여중 영어 실력 향상"
 date: 2025-05-15
 categories:

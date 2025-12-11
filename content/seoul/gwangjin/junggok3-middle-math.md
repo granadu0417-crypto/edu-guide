@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-junggok3-middle-math/
 title: 광진구 중곡3동 중등 수학과외 - 대원국제중·용곡중 맞춤 관리
 date: 2025-01-29
 categories:

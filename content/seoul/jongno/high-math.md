@@ -13,24 +13,6 @@ cities:
 tags:
   - 종로구수학과외
   - 종로구고등수학
-aliases:
-  - /high/jongno-buam-high-math/
-  - /high/jongno-changsin1-high-math/
-  - /high/jongno-changsin2-high-math/
-  - /high/jongno-changsin3-high-math/
-  - /high/jongno-cheongunhyoja-high-math/
-  - /high/jongno-gahoe-high-math/
-  - /high/jongno-gyonam-high-math/
-  - /high/jongno-hyehwa-high-math/
-  - /high/jongno-ihwa-high-math/
-  - /high/jongno-jongno1234-high-math/
-  - /high/jongno-jongno56-high-math/
-  - /high/jongno-muak-high-math/
-  - /high/jongno-pyeongchang-high-math/
-  - /high/jongno-sajik-high-math/
-  - /high/jongno-samcheong-high-math/
-  - /high/jongno-sungin1-high-math/
-  - /high/jongno-sungin2-high-math/
 ---
 
 종로구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

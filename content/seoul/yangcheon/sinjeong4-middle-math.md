@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinjeong4-middle-math/
 title: "양천구 신정4동 중등 수학과외 | 금옥중·목동중 내신·특목 대비"
 date: 2025-01-29
 categories:

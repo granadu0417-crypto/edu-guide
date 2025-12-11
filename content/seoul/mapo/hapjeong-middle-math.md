@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-hapjeong-middle-math/
 title: "마포구 합정동 중등 수학과외 | 성산중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

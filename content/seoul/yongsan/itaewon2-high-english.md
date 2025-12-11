@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-itaewon2-high-english/
 title: "용산구 이태원2동 고등 영어과외 | 오산고·배문고 체계적 영어 학습"
 date: 2025-05-15
 categories:

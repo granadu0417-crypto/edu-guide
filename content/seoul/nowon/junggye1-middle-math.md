@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-junggye1-middle-math/
 title: 노원구 중계1동 중등 수학과외 | 중계중·재현중·을지중 개념부터 심화까지
 date: 2025-01-29
 categories:

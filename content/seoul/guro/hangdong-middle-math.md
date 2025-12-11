@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-hangdong-middle-math/
 title: "구로구 항동 중등 수학과외 | 우신중·오류중 학교별 내신 특화"
 date: 2025-01-29
 categories:

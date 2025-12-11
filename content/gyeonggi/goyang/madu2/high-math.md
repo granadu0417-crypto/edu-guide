@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-madu2-high-math/
 title: "고양시 일산동구 마두2동 고등 수학과외 | 정발고 실력 향상 비결"
 date: 2025-01-15
 categories:

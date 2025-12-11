@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-dongan-high-english/
 title: "용인시 수지구 동안동 고등 영어과외 | 현암고·수지고·죽전고 내신·수능 대비"
 date: 2025-01-15
 categories:

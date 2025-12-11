@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-yangjae1dong-middle-math/
 title: 서초구 양재1동 중등 수학과외 - 언남중·영동중 맞춤 관리
 date: 2025-01-22
 categories:

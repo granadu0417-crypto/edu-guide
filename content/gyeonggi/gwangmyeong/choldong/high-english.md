@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gwangmyeong-choldong-high-english/
 title: "광명시 철산1동 고등 영어과외 | 진성고·광명고·광명북고 내신·수능 대비"
 date: 2025-01-15
 categories:

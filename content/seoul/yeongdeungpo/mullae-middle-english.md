@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-mullae-middle-english/
 title: "영등포구 문래동 중등 영어과외 | 문래중 학교별 내신 특화"
 date: 2025-01-29
 categories:

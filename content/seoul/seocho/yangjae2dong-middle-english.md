@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-yangjae2dong-middle-english/
 title: "서초구 양재2동 중등 영어과외 - 언남중·영동중 내신 전문"
 description: "서초구 양재2동 중학생 영어과외 전문. 언남중, 영동중 내신 맞춤 관리와 영어 실력 향상을 위한 1:1 밀착 지도."
 date: 2025-01-22

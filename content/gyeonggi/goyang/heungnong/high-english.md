@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-heungnong-high-english/
 title: "고양시 덕양구 흥농동 고등 영어과외 | 도래울고 꼼꼼한 1:1 지도"
 date: 2025-01-15
 categories:

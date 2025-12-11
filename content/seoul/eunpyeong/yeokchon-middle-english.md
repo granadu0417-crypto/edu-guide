@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-yeokchon-middle-english/
 title: "은평구 역촌동 중등 영어과외 | 연서중·증산중 내신 만점 전략"
 date: 2025-05-20
 categories:

@@ -13,27 +13,6 @@ cities:
 tags:
   - 관악구수학과외
   - 관악구고등수학
-aliases:
-  - /high/gwanak-boramae-high-math/
-  - /high/gwanak-cheongnyong-high-math/
-  - /high/gwanak-daehak-high-math/
-  - /high/gwanak-euncheon-high-math/
-  - /high/gwanak-haengun-high-math/
-  - /high/gwanak-inheon-high-math/
-  - /high/gwanak-jowon-high-math/
-  - /high/gwanak-jungang-high-math/
-  - /high/gwanak-miseong-high-math/
-  - /high/gwanak-nakseongdae-high-math/
-  - /high/gwanak-namhyeon-high-math/
-  - /high/gwanak-nangok-high-math/
-  - /high/gwanak-nanhyang-high-math/
-  - /high/gwanak-samseong-high-math/
-  - /high/gwanak-seonghyeon-high-math/
-  - /high/gwanak-seorim-high-math/
-  - /high/gwanak-seowon-high-math/
-  - /high/gwanak-sillim-high-math/
-  - /high/gwanak-sinsa-high-math/
-  - /high/gwanak-sinwon-high-math/
 ---
 
 관악구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

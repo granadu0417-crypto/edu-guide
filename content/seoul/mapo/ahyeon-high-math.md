@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-아현-high-math/
 title: "마포구 아현동 고등 수학과외 | 숭문고·서울여고 약점 집중 보완"
 date: 2025-01-28
 categories:

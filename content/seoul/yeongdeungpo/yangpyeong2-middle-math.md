@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yangpyeong2-middle-math/
 title: "영등포구 양평2동 중등 수학과외 | 선유중·양화중 실력 향상 수업"
 date: 2025-01-29
 categories:

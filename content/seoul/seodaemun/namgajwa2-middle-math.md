@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-namgajwa2-middle-math/
 title: "서대문구 남가좌2동 중등 수학과외 | 연희중·연북중 학교별 내신 특화"
 date: 2025-01-29
 categories:

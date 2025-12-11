@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hanam-misa1-middle-english/
 title: "하남시 미사1동 중등 영어과외 | 미사중·하남중·위례중 내신 완벽 대비"
 date: 2025-01-15
 categories:

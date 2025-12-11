@@ -9,10 +9,6 @@ tags:
   - 광주과외
   - 광주수학과외
   - 광주영어과외
-aliases:
-  - /local/gwangju-education-guide/
-  - /local/gwangju-math-tutoring/
-  - /local/gwangju-english-tutoring/
 ---
 
 ## 광주광역시 과외 안내

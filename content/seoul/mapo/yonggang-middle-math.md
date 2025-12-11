@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-yonggang-middle-math/
 title: "마포구 용강동 중등 수학과외 | 신수중·창천중 학교별 내신 특화"
 date: 2025-01-29
 categories:

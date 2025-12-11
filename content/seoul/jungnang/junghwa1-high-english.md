@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/jungnang-junghwa1-high-english/
 title: "중랑구 중화1동 고등 영어과외 | 중화고 내신·수능 대비"
 date: 2025-12-08
 categories:

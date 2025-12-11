@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-dogok1-middle-english/
 title: 강남구 도곡1동 중등 영어과외 - 대명중·역삼중 내신 전문
 date: 2025-01-28
 categories:

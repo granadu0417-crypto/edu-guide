@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-yeomni-middle-math/
 title: "마포구 염리동 중등 수학과외 | 서울여중·동도중 개념부터 실전까지"
 date: 2025-01-29
 categories:

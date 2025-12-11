@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-seongnam-high-english/
 title: "성남시 중원구 성남동 고등 영어과외 | 성남고·성일고·동광고 내신·수능 대비"
 date: 2025-01-15
 categories:

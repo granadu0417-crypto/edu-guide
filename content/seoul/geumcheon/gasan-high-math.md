@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-가산-high-math/
 title: "금천구 가산동 고등 수학과외 | 독산고 기초부터 심화까지"
 date: 2025-01-28
 categories:

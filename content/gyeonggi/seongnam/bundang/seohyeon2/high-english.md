@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-seohyeon2-high-english/
 title: "성남시 분당구 서현2동 고등 영어과외 | 서현고·성남외고·분당고 내신·수능 대비"
 date: 2025-01-15
 categories:

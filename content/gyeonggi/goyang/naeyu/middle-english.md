@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-naeyu-middle-english/
 title: "고양시 덕양구 내유동 중등 영어과외 | 고양중 고등 선행 준비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-마곡-high-math/
 title: "강서구 마곡동 고등 수학과외 | 공항고 내신 완벽 분석"
 date: 2025-01-28
 categories:

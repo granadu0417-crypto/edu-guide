@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-donam2-middle-english/
 title: "성북구 돈암2동 중등 영어과외 | 개운중 내신 완벽 대비"
 date: 2025-01-29
 categories:

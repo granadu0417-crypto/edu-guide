@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-풍납2-high-english/
 title: "송파구 풍납2동 고등 영어과외 | 풍납고·잠실고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

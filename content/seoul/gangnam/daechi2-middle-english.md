@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-daechi2-middle-english/
 title: 강남구 대치2동 중등 영어과외 - 대청중·단대부중 내신 전문
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-suyu2-middle-math/
 title: "강북구 수유2동 중등 수학과외 | 강북중 기초부터 심화까지"
 date: 2025-01-29
 categories:

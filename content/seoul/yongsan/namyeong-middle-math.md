@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-namyeong-middle-math/
 title: "용산구 남영동 중등 수학과외 | 신광여중·선린중 맞춤형 진도 관리"
 date: 2025-05-15
 categories:

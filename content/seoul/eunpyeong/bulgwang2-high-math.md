@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-bulgwang2-high-math/
 title: "은평구 불광2동 고등 수학과외 | 은평고·예일여고 연신내 학원가 보완"
 date: 2025-05-20
 categories:

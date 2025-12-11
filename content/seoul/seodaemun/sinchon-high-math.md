@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-신촌-high-math/
 title: "서대문구 신촌동 고등 수학과외 | 이화금란고·이화여대부고 수학 실력 완성"
 date: 2025-01-28
 categories:

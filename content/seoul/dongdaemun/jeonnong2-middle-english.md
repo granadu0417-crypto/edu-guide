@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-jeonnong2-middle-english/
 title: "동대문구 전농2동 중등 영어과외 | 동대문중·전농중·해성여중 내신 집중 관리"
 date: 2025-01-29
 categories:

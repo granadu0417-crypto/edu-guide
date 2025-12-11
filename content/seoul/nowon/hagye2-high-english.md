@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-hagye2-high-english/
 title: 노원구 하계2동 고등 영어과외 | 영신여고·광운대부고 학교별 내신 특화
 date: 2025-01-29
 categories:

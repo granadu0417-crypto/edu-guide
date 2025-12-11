@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-무악-high-math/
 title: "종로구 무악동 고등 수학과외 | 경복고·동성고·중앙고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

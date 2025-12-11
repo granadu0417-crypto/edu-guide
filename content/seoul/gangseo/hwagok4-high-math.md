@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡4-high-math/
 title: "강서구 화곡4동 고등 수학과외 | 화곡고 오답 패턴 교정"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/siheung-mogam-high-english/
 title: "시흥시 목감동 고등 영어과외 | 소래고·시흥고·능곡고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-gongneung2-middle-math/
 title: 노원구 공릉2동 중등 수학과외 | 공릉중·태릉중·한천중 1:1 맞춤 수업
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-논현2-high-math/
 title: "강남구 논현2동 고등 수학과외 | 언주중·영동고 수학 실력 완성"
 date: 2025-01-28
 categories:

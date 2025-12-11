@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang3-middle-math/
 title: "동작구 사당3동 중등 수학과외 | 상도중·동작중 기초부터 심화까지"
 date: 2025-01-29
 categories:

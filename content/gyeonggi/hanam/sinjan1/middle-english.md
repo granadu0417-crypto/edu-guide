@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hanam-sinjan1-middle-english/
 title: "하남시 신장1동 중등 영어과외 | 하남중·미사중·위례중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-용강-high-english/
 title: "마포구 용강동 고등 영어과외 | 광성고·경성고 학교별 내신 특화"
 date: 2025-01-28
 categories:

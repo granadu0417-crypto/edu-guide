@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-banpobondong-middle-english/
 title: 서초구 반포본동 중등 영어과외 - 반포중·원촌중 내신 전문
 date: 2025-01-22
 categories:

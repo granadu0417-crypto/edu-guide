@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hanam-deogsong1-middle-english/
 title: "하남시 덕풍1동 중등 영어과외 | 하남중·위례중·미사중 내신 완벽 대비"
 date: 2025-01-15
 categories:

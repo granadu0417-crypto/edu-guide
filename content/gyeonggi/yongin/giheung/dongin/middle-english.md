@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-dongin-middle-english/
 title: "용인시 기흥구 동인동 중등 영어과외 | 용인중·기흥중·구성중 내신 완벽 대비"
 date: 2025-01-15
 categories:

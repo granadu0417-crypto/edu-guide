@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-합정-high-math/
 title: "마포구 합정동 고등 수학과외 | 경성고·홍익대부속여고 수학 자신감 회복"
 date: 2025-01-28
 categories:

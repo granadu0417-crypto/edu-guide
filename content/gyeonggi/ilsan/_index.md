@@ -11,8 +11,6 @@ tags:
   - 일산과외
   - 일산수학과외
   - 일산영어과외
-aliases:
-  - /local/gyeonggi/ilsan-math-tutoring/
 ---
 
 ## 일산 과외 안내

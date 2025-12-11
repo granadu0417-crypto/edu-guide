@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-eungbong-middle-math/
 title: "성동구 응봉동 중등 수학과외 | 광희중 실력 향상 수업"
 date: 2025-01-29
 categories:

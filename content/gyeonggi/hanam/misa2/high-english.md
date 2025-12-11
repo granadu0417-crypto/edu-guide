@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hanam-misa2-high-english/
 title: "하남시 미사2동 고등 영어과외 | 하남고·미사고·위례고 내신·수능 대비"
 date: 2025-01-15
 categories:

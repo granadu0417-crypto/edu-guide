@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-uman2-middle-english/
 title: "수원시 팔달구 우만2동 중등 영어과외 | 창현중·유신중·동우여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

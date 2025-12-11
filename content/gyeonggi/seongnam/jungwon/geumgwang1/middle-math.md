@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-geumgwang1-middle-math/
 title: "성남시 중원구 금광1동 중등 수학과외 | 동광중·성일중·성남중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-상일2-high-english/
 title: "강동구 상일2동 고등 영어과외 | 상일여고·상일미디어고 독해·문법 완성"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/pyeongtaek-seojeong-high-english/
 title: "평택시 서정동 고등 영어과외 | 평택여고·평택고·세교고 내신·수능 대비"
 date: 2025-01-15
 categories:

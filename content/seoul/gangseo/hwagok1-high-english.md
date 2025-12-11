@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡1-high-english/
 title: "강서구 화곡1동 고등 영어과외 | 화곡고 약점 집중 보완"
 date: 2025-01-28
 categories:

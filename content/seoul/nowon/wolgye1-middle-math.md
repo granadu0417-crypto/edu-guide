@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-wolgye1-middle-math/
 title: 노원구 월계1동 중등 수학과외 | 월계중·화랑중·녹천중 내신 대비
 date: 2025-01-29
 categories:

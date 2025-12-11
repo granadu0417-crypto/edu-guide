@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-gayang3-middle-english/
 title: "강서구 가양3동 중등 영어과외 | 마포중 내신 완벽 대비"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-dangsan1-middle-english/
 title: "영등포구 당산1동 중등 영어과외 | 당산중·양화중 실력 향상 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/bucheon-yakdae-middle-math/
 title: "부천시 약대동 중등 수학과외 | 부명중·부천중·소사중 내신 완벽 대비"
 date: 2025-01-15
 categories:

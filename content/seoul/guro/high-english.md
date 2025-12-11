@@ -13,23 +13,6 @@ cities:
 tags:
   - 구로구영어과외
   - 구로구고등영어
-aliases:
-  - /high/guro-gaebong1-high-english/
-  - /high/guro-gaebong2-high-english/
-  - /high/guro-gaebong3-high-english/
-  - /high/guro-garibong-high-english/
-  - /high/guro-gocheok1-high-english/
-  - /high/guro-gocheok2-high-english/
-  - /high/guro-guro1-high-english/
-  - /high/guro-guro2-high-english/
-  - /high/guro-guro3-high-english/
-  - /high/guro-guro4-high-english/
-  - /high/guro-guro5-high-english/
-  - /high/guro-hangdong-high-english/
-  - /high/guro-oryu1-high-english/
-  - /high/guro-oryu2-high-english/
-  - /high/guro-sindorim-high-english/
-  - /high/guro-sugung-high-english/
 ---
 
 구로구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

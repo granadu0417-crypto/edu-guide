@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-방배4-high-english/
 title: "서초구 방배4동 고등 영어과외 | 동덕여고·서문여고 실력 향상 수업"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-daea-middle-english/
 title: "안산시 단원구 대부동 중등 영어과외 | 단원중·안산공중·성안중 내신 완벽 대비"
 date: 2025-01-15
 categories:

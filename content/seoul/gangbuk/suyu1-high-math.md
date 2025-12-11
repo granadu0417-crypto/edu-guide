@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-수유1-high-math/
 title: "강북구 수유1동 고등 수학과외 | 혜화여고 수학 자신감 회복"
 date: 2025-01-28
 categories:

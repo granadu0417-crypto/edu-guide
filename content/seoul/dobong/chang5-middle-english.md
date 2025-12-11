@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang5-middle-english/
 title: "도봉구 창5동 중등 영어과외 | 창북중 어휘·문법 집중"
 date: 2025-01-29
 categories:

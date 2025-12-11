@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-songjeong-middle-english/
 title: "성동구 송정동 중등 영어과외 | 성원중·성수중 학교별 내신 특화"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-wonmi2-high-math/
 title: "부천시 원미2동 고등 수학과외 | 부천여고·부천고·부흥고 내신·수능 대비"
 date: 2025-01-15
 categories:

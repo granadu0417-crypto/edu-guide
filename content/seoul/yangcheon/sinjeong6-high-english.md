@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신정6-high-english/
 title: "양천구 신정6동 고등 영어과외 | 신서고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-bulgwang1-high-english/
 title: "은평구 불광1동 고등 영어과외 | 은평고·예일여고 내신·수능 병행"
 date: 2025-05-20
 categories:

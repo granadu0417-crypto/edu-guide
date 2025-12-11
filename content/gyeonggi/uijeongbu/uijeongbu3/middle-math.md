@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/uijeongbu-uijeongbu3-middle-math/
 title: "의정부시 의정부3동 중등 수학과외 | 의정부중·효자중·경민중 내신 완벽 대비"
 date: 2025-01-15
 categories:

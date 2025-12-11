@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-길음1-high-english/
 title: "성북구 길음1동 고등 영어과외 | 홍익대사대부고·대광고 실력 향상 수업"
 date: 2025-01-28
 categories:

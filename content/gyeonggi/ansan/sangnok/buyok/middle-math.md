@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-buyok-middle-math/
 title: "안산시 상록구 부곡동 중등 수학과외 | 부곡중·안산중·상록중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-반포3-high-english/
 title: "서초구 반포3동 고등 영어과외 | 세화여고·세화고 수능 완벽 대비"
 date: 2025-01-28
 categories:

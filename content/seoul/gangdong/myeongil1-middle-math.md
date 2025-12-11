@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-myeongil1-middle-math/
 title: 강동구 명일1동 중등 수학과외 - 명일중·명일여중 맞춤 관리
 date: 2025-01-29
 categories:

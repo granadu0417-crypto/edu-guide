@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jangwi3-middle-math/
 title: "성북구 장위3동 중등 수학과외 | 장위중 기초부터 심화까지"
 date: 2025-01-29
 categories:

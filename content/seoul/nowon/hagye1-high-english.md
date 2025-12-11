@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-hagye1-high-english/
 title: 노원구 하계1동 고등 영어과외 | 영신여고·광운대부고 내신·수능 대비
 date: 2025-01-29
 categories:

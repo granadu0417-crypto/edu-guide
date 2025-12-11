@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-천호2-high-english/
 title: "강동구 천호2동 고등 영어과외 | 천호고·둔촌고 내신·수능 대비"
 date: 2025-01-28
 categories:

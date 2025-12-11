@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-yeongtong3-middle-english/
 title: "수원시 영통구 영통3동 중등 영어과외 | 청명중·영통중·효원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

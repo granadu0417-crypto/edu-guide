@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-반포2-high-math/
 title: "서초구 반포2동 고등 수학과외 | 세화여고·세화고 내신 1등급 전략"
 date: 2025-01-28
 categories:

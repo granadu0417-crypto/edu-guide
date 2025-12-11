@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-jeongja2-middle-english/
 title: "성남시 분당구 정자2동 중등 영어과외 | 정자중·수내중·분당중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-장위2-high-english/
 title: "성북구 장위2동 고등 영어과외 | 대광고·성북고 등급 향상 전략"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-samyang-middle-math/
 title: "강북구 삼양동 중등 수학과외 | 영훈국제중·신일중 체계적 학습 관리"
 date: 2025-01-29
 categories:

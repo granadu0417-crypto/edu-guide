@@ -13,21 +13,6 @@ cities:
 tags:
   - 서대문구영어과외
   - 서대문구고등영어
-aliases:
-  - /high/seodaemun-bukahyeon-high-english/
-  - /high/seodaemun-bukgajwa1-high-english/
-  - /high/seodaemun-bukgajwa2-high-english/
-  - /high/seodaemun-cheongyeon-high-english/
-  - /high/seodaemun-chunghyeon-high-english/
-  - /high/seodaemun-hongeun1-high-english/
-  - /high/seodaemun-hongeun2-high-english/
-  - /high/seodaemun-hongje1-high-english/
-  - /high/seodaemun-hongje2-high-english/
-  - /high/seodaemun-hongje3-high-english/
-  - /high/seodaemun-namgajwa1-high-english/
-  - /high/seodaemun-namgajwa2-high-english/
-  - /high/seodaemun-sinchon-high-english/
-  - /high/seodaemun-yeonhui-high-english/
 ---
 
 서대문구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

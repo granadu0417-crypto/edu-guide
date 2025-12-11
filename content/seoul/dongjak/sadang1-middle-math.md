@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang1-middle-math/
 title: "동작구 사당1동 중등 수학과외 | 상도중·동작중 체계적 학습 관리"
 date: 2025-01-29
 categories:

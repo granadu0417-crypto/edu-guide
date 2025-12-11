@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-방학2-high-english/
 title: "도봉구 방학2동 고등 영어과외 | 창동고·도봉고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

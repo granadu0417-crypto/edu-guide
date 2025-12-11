@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-eungam3-middle-math/
 title: "은평구 응암3동 중등 수학과외 | 충암중 개인 맞춤 커리큘럼"
 date: 2025-05-20
 categories:

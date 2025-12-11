@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-songjung-middle-math/
 title: "강북구 송중동 중등 수학과외 | 영훈국제중·신일중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

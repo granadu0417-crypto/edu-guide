@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-삼성2-high-math/
 title: "강남구 삼성2동 고등 수학과외 | 청담고·영동고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

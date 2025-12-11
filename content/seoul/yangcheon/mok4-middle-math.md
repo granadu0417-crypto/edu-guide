@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-mok4-middle-math/
 title: "양천구 목4동 중등 수학과외 | 영도중 학교별 내신 특화"
 date: 2025-01-29
 categories:

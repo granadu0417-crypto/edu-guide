@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-itaewon1-middle-english/
 title: "용산구 이태원1동 중등 영어과외 | 오산중·한강중 내신 집중 관리"
 date: 2025-05-15
 categories:

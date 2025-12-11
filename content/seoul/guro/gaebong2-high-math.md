@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-개봉2-high-math/
 title: "구로구 개봉2동 고등 수학과외 | 고척고·경인고 킬러문항 정복"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-janghang2-middle-math/
 title: "고양시 일산동구 장항2동 중등 수학과외 | 장항중 오답 패턴 교정"
 date: 2025-01-15
 categories:

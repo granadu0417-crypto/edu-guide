@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-이문2-high-math/
 title: "동대문구 이문2동 고등 수학과외 | 경희고·경희여고 오답 패턴 교정"
 date: 2025-01-28
 categories:

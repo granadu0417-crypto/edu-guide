@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-yeonhui-middle-english/
 title: "서대문구 연희동 중등 영어과외 | 서연중 내신 완벽 대비"
 date: 2025-01-29
 categories:

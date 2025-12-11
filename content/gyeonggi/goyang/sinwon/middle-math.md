@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-sinwon-middle-math/
 title: "고양시 덕양구 신원동 중등 수학과외 | 신원중 수학 실력 향상"
 date: 2025-01-15
 categories:

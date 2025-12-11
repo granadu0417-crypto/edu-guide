@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwanak-cheongnyong-middle-math/
 title: "관악구 청룡동 중등 수학과외 | 봉림중 내신 완벽 대비"
 date: 2025-01-29
 categories:

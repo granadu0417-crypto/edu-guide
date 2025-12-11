@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-천호1-high-math/
 title: "강동구 천호1동 고등 수학과외 | 천호고·성내고 수학 실력 완성"
 date: 2025-01-28
 categories:

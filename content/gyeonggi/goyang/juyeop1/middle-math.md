@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-juyeop1-middle-math/
 title: "고양시 일산서구 주엽1동 중등 수학과외 | 주엽중 개념 완성 프로그램"
 date: 2025-01-15
 categories:

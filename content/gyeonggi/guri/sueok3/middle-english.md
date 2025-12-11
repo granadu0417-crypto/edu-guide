@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guri-sueok3-middle-english/
 title: "구리시 수택3동 중등 영어과외 | 동구중·구리중·인창중 내신 완벽 대비"
 date: 2025-01-15
 categories:

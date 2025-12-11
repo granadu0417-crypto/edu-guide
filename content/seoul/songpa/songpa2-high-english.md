@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-송파2-high-english/
 title: "송파구 송파2동 고등 영어과외 | 송파고·잠실고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-daerim2-middle-math/
 title: "영등포구 대림2동 중등 수학과외 | 영남중 내신 완벽 대비"
 date: 2025-01-29
 categories:

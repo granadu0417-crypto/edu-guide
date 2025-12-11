@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/namyangju-dasan1-high-math/
 title: "남양주시 다산1동 고등 수학과외 | 다산고·남양주고·동화고 내신·수능 대비"
 date: 2025-01-15
 categories:

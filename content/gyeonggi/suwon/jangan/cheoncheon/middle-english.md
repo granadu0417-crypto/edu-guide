@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-cheoncheon-middle-english/
 title: "수원시 장안구 천천동 중등 영어과외 | 천천중·수성중·영생중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol7-middle-english/
 title: "양천구 신월7동 중등 영어과외 | 양천중·양서중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

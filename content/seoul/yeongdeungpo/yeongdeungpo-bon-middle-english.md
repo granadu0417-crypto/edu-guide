@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yeongdeungpo-bon-middle-english/
 title: "영등포구 영등포본동 중등 영어과외 | 영원중·문래중 독해·문법 완성"
 date: 2025-01-29
 categories:

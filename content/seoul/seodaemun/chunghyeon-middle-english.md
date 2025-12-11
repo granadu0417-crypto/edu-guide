@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-chunghyeon-middle-english/
 title: "서대문구 충현동 중등 영어과외 | 중앙여중·동명여중 독해·문법 완성"
 date: 2025-01-29
 categories:

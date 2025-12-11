@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-문정1-high-english/
 title: "송파구 문정1동 고등 영어과외 | 문정고·잠실고 독해력 특화"
 date: 2025-01-28
 categories:

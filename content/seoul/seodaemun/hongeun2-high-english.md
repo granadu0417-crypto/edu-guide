@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-홍은2-high-english/
 title: "서대문구 홍은2동 고등 영어과외 | 명지고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

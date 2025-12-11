@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-sangdong-high-math/
 title: "부천시 상동 고등 수학과외 | 상동고·중원고·부천고 내신·수능 대비"
 date: 2025-01-15
 categories:

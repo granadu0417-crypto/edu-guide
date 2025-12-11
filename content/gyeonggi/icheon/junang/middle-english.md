@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/icheon-junang-middle-english/
 title: "이천시 중앙동 중등 영어과외 | 이천중·이천제일중·이현중 내신 완벽 대비"
 date: 2025-01-15
 categories:

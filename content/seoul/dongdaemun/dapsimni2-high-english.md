@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-답십리2-high-english/
 title: "동대문구 답십리2동 고등 영어과외 | 서울정화고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

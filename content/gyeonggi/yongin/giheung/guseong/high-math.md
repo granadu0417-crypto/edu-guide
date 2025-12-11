@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-guseong-high-math/
 title: "용인시 기흥구 구성동 고등 수학과외 | 구성고·기흥고·용인고 내신·수능 대비"
 date: 2025-01-15
 categories:

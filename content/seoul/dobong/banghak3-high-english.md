@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-방학3-high-english/
 title: "도봉구 방학3동 고등 영어과외 | 창동고·도봉고 독해부터 문법까지"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-suyu3-middle-english/
 title: "강북구 수유3동 중등 영어과외 | 강북중 기초부터 심화까지"
 date: 2025-01-29
 categories:

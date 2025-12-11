@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-남가좌1-high-english/
 title: "서대문구 남가좌1동 고등 영어과외 | 가재울고·명지고 내신 완벽 분석"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-baekseok1-middle-english/
 title: "고양시 일산동구 백석1동 중등 영어과외 | 백신중 내신 완벽 대비"
 date: 2025-01-15
 categories:

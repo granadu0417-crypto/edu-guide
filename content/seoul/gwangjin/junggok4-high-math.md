@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-중곡4-high-math/
 title: "광진구 중곡4동 고등 수학과외 | 대원고·대원여고 수학 실력 완성"
 date: 2025-01-28
 categories:

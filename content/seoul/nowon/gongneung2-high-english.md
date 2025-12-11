@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-gongneung2-high-english/
 title: 노원구 공릉2동 고등 영어과외 | 태릉고·서울과고·염광여고 학교별 내신 특화
 date: 2025-01-29
 categories:

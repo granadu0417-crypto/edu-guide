@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-암사3-high-english/
 title: "강동구 암사3동 고등 영어과외 | 강동고·천호고 수능 고득점 전략"
 date: 2025-01-28
 categories:

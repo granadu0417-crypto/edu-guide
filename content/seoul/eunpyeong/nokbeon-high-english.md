@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-nokbeon-high-english/
 title: "은평구 녹번동 고등 영어과외 | 은평고·예일여고 어휘·문법 완성"
 date: 2025-05-20
 categories:

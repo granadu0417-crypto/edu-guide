@@ -13,27 +13,6 @@ cities:
 tags:
   - 관악구수학과외
   - 관악구중등수학
-aliases:
-  - /middle/gwanak-boramae-middle-math/
-  - /middle/gwanak-cheongnyong-middle-math/
-  - /middle/gwanak-daehak-middle-math/
-  - /middle/gwanak-euncheon-middle-math/
-  - /middle/gwanak-haengun-middle-math/
-  - /middle/gwanak-inheon-middle-math/
-  - /middle/gwanak-jowon-middle-math/
-  - /middle/gwanak-jungang-middle-math/
-  - /middle/gwanak-miseong-middle-math/
-  - /middle/gwanak-nakseongdae-middle-math/
-  - /middle/gwanak-namhyeon-middle-math/
-  - /middle/gwanak-nangok-middle-math/
-  - /middle/gwanak-nanhyang-middle-math/
-  - /middle/gwanak-samseong-middle-math/
-  - /middle/gwanak-seonghyeon-middle-math/
-  - /middle/gwanak-seorim-middle-math/
-  - /middle/gwanak-seowon-middle-math/
-  - /middle/gwanak-sillim-middle-math/
-  - /middle/gwanak-sinsa-middle-math/
-  - /middle/gwanak-sinwon-middle-math/
 ---
 
 관악구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-홍제2-high-english/
 title: "서대문구 홍제2동 고등 영어과외 | 인창고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

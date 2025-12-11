@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-yeokchon-high-math/
 title: "은평구 역촌동 고등 수학과외 | 은평고·충암고 체계적 학습 관리"
 date: 2025-05-20
 categories:

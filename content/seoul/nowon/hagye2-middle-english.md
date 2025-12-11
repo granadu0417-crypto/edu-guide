@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-hagye2-middle-english/
 title: 노원구 하계2동 중등 영어과외 | 하계중·을지중·중원중 실력 향상 수업
 date: 2025-01-29
 categories:

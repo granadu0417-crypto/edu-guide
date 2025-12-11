@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye34-middle-math/
 title: 노원구 상계3·4동 중등 수학과외 | 상경중·온곡중 학교별 내신 특화
 date: 2025-01-29
 categories:

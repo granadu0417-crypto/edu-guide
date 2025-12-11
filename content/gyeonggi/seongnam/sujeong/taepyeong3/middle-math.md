@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-taepyeong3-middle-math/
 title: "성남시 수정구 태평3동 중등 수학과외 | 성일중·태원중·성남중 내신 완벽 대비"
 date: 2025-01-15
 categories:

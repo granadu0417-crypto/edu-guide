@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-juyeop1-middle-english/
 title: "고양시 일산서구 주엽1동 중등 영어과외 | 주엽중 독해력 완성"
 date: 2025-01-15
 categories:

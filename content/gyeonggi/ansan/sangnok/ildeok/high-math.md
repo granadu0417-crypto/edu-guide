@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/ansan-ildeok-high-math/
 title: "안산시 상록구 일동 고등 수학과외 | 상록고·안산고·성포고 내신·수능 대비"
 date: 2025-01-15
 categories:

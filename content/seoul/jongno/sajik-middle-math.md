@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jongno-sajik-middle-math/
 title: 종로구 사직동 중등 수학과외 - 경신중·동성중·중앙중 맞춤 관리
 date: 2025-01-28
 categories:

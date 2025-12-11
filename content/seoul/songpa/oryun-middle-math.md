@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-oryun-middle-math/
 title: 송파구 오륜동 중등 수학과외 - 오륜중·잠실중 맞춤 관리
 date: 2025-01-29
 categories:

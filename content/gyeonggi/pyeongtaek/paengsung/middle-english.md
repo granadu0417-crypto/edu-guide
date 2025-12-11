@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/pyeongtaek-paengsung-middle-english/
 title: "평택시 팽성읍 중등 영어과외 | 평택중·송탄중·세교중 내신 완벽 대비"
 date: 2025-01-15
 categories:

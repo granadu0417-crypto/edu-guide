@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-jamsil-2-middle-english/
 title: 송파구 잠실2동 중등 영어과외 - 잠실중·잠신중 내신 전문
 date: 2025-01-29
 categories:

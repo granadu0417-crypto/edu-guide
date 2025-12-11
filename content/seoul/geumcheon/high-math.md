@@ -13,17 +13,6 @@ cities:
 tags:
   - 금천구수학과외
   - 금천구고등수학
-aliases:
-  - /high/geumcheon-doksan1-high-math/
-  - /high/geumcheon-doksan2-high-math/
-  - /high/geumcheon-doksan3-high-math/
-  - /high/geumcheon-doksan4-high-math/
-  - /high/geumcheon-gasan-high-math/
-  - /high/geumcheon-siheung1-high-math/
-  - /high/geumcheon-siheung2-high-math/
-  - /high/geumcheon-siheung3-high-math/
-  - /high/geumcheon-siheung4-high-math/
-  - /high/geumcheon-siheung5-high-math/
 ---
 
 금천구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

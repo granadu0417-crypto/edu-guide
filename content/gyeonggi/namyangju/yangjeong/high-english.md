@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/namyangju-yangjeong-high-english/
 title: "남양주시 양정동 고등 영어과외 | 동화고·남양주고·호평고 내신·수능 대비"
 date: 2025-01-15
 categories:

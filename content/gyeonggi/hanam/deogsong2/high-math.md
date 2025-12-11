@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hanam-deogsong2-high-math/
 title: "하남시 덕풍2동 고등 수학과외 | 위례고·하남고·미사고 내신·수능 대비"
 date: 2025-01-15
 categories:

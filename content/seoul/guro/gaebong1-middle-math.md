@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-gaebong1-middle-math/
 title: "구로구 개봉1동 중등 수학과외 | 개봉중 내신 완벽 대비"
 date: 2025-01-29
 categories:

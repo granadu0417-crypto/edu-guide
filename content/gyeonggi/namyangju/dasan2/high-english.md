@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/namyangju-dasan2-high-english/
 title: "남양주시 다산2동 고등 영어과외 | 다산고·동화고·남양주고 내신·수능 대비"
 date: 2025-01-15
 categories:

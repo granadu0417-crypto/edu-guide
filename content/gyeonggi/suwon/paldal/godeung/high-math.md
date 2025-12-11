@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-godeung-high-math/
 title: "수원시 팔달구 고등동 고등 수학과외 | 유신고·수원고·매향여고 내신·수능 대비"
 date: 2025-01-15
 categories:

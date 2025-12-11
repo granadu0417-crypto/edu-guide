@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-여의-high-math/
 title: "영등포구 여의동 고등 수학과외 | 여의도고·여의도여고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

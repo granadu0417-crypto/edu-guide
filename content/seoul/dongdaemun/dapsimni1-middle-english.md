@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-dapsimni1-middle-english/
 title: "동대문구 답십리1동 중등 영어과외 | 숭인중 내신 완벽 대비"
 date: 2025-01-29
 categories:

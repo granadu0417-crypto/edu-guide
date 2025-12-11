@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-garakbon-middle-math/
 title: 송파구 가락본동 중등 수학과외 - 가락중 맞춤 관리
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-sindorim-middle-math/
 title: "구로구 신도림동 중등 수학과외 | 신도림중 내신 완벽 대비"
 date: 2025-01-29
 categories:

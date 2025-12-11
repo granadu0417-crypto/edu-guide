@@ -13,34 +13,6 @@ cities:
 tags:
   - 송파구영어과외
   - 송파구중등영어
-aliases:
-  - /middle/songpa-bangi-1-middle-english/
-  - /middle/songpa-bangi-2-middle-english/
-  - /middle/songpa-garak-1-middle-english/
-  - /middle/songpa-garak-2-middle-english/
-  - /middle/songpa-garakbon-middle-english/
-  - /middle/songpa-geoyeo-1-middle-english/
-  - /middle/songpa-geoyeo-2-middle-english/
-  - /middle/songpa-jamsil-2-middle-english/
-  - /middle/songpa-jamsil-3-middle-english/
-  - /middle/songpa-jamsil-4-middle-english/
-  - /middle/songpa-jamsil-6-middle-english/
-  - /middle/songpa-jamsil-7-middle-english/
-  - /middle/songpa-jamsilbon-middle-english/
-  - /middle/songpa-jangji-middle-english/
-  - /middle/songpa-macheon-1-middle-english/
-  - /middle/songpa-macheon-2-middle-english/
-  - /middle/songpa-munjeong-1-middle-english/
-  - /middle/songpa-munjeong-2-middle-english/
-  - /middle/songpa-ogeum-middle-english/
-  - /middle/songpa-oryun-middle-english/
-  - /middle/songpa-pungnapdong-1-middle-english/
-  - /middle/songpa-pungnapdong-2-middle-english/
-  - /middle/songpa-samjeon-middle-english/
-  - /middle/songpa-seokchon-middle-english/
-  - /middle/songpa-songpa1-middle-english/
-  - /middle/songpa-songpa2-middle-english/
-  - /middle/songpa-wirye-middle-english/
 ---
 
 송파구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

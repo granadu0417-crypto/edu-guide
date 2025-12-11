@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-seochodong-middle-english/
 title: 서초구 서초동 중등 영어과외 - 서초중·서운중·서일중 내신 전문
 date: 2025-01-22
 categories:

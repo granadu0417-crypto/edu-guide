@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-noryangjin2-middle-math/
 title: "동작구 노량진2동 중등 수학과외 | 대방중·강남중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

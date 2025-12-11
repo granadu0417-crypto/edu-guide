@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-ilsan3-high-english/
 title: "고양시 일산서구 일산3동 고등 영어과외 | 신일비즈니스고 취약점 집중 관리"
 date: 2025-01-15
 categories:

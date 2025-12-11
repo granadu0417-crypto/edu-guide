@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-doksan3-middle-math/
 title: "금천구 독산3동 중등 수학과외 | 난곡중·문성중 학교별 내신 특화"
 date: 2025-01-29
 categories:

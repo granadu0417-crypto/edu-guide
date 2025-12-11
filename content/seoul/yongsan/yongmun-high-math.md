@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-yongmun-high-math/
 title: "용산구 용문동 고등 수학과외 | 성심여고·배문고 단계별 실력 향상"
 date: 2025-05-15
 categories:

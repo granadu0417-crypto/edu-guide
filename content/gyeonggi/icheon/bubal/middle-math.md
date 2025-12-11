@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/icheon-bubal-middle-math/
 title: "이천시 부발읍 중등 수학과외 | 이천중·이천제일중·이현중 내신 완벽 대비"
 date: 2025-01-15
 categories:

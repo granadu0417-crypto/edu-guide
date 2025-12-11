@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-seongnae1-middle-math/
 title: 강동구 성내1동 중등 수학과외 - 성내중·천호중 맞춤 관리
 date: 2025-01-29
 categories:

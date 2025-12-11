@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongje1-middle-english/
 title: "서대문구 홍제1동 중등 영어과외 | 인왕중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

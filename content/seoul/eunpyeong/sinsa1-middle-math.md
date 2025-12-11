@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-sinsa1-middle-math/
 title: "은평구 신사1동 중등 수학과외 | 상신중·덕산중 체계적 학습 관리"
 date: 2025-05-20
 categories:

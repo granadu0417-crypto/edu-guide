@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡5-high-math/
 title: "강서구 화곡5동 고등 수학과외 | 화곡고 수학 자신감 회복"
 date: 2025-01-28
 categories:

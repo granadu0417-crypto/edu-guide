@@ -9,9 +9,6 @@ tags:
   - 충남과외
   - 충남수학과외
   - 충남영어과외
-aliases:
-  - /local/chungnam-education-guide/
-  - /local/chungnam-tutoring-guide/
 ---
 
 ## 충청남도 과외 안내

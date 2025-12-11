@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-서강-high-english/
 title: "마포구 서강동 고등 영어과외 | 광성고·경성고 독해력 특화"
 date: 2025-01-28
 categories:

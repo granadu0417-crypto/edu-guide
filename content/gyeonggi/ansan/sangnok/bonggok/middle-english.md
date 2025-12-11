@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-bonggok-middle-english/
 title: "안산시 상록구 본오1동 중등 영어과외 | 상록중·안산중·성포중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-sangil2-middle-english/
 title: 강동구 상일2동 중등 영어과외 - 상일중·강명중 내신 집중
 date: 2025-01-29
 categories:

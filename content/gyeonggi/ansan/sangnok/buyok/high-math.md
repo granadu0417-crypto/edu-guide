@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/ansan-buyok-high-math/
 title: "안산시 상록구 부곡동 고등 수학과외 | 부곡고·안산고·상록고 내신·수능 대비"
 date: 2025-01-15
 categories:

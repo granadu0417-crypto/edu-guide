@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/osan-sema-middle-math/
 title: "오산시 세마동 중등 수학과외 | 세마중·운천중·오산중 내신 완벽 대비"
 date: 2025-01-15
 categories:

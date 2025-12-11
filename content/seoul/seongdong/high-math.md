@@ -13,24 +13,6 @@ cities:
 tags:
   - 성동구수학과외
   - 성동구고등수학
-aliases:
-  - /high/seongdong-eungbong-high-math/
-  - /high/seongdong-geumho1ga-high-math/
-  - /high/seongdong-geumho2-3ga-high-math/
-  - /high/seongdong-geumho4ga-high-math/
-  - /high/seongdong-haengdang1-high-math/
-  - /high/seongdong-haengdang2-high-math/
-  - /high/seongdong-majang-high-math/
-  - /high/seongdong-oksu-high-math/
-  - /high/seongdong-sageun-high-math/
-  - /high/seongdong-seongsu1ga1-high-math/
-  - /high/seongdong-seongsu1ga2-high-math/
-  - /high/seongdong-seongsu2ga1-high-math/
-  - /high/seongdong-seongsu2ga3-high-math/
-  - /high/seongdong-songjeong-high-math/
-  - /high/seongdong-wangsimni-doseondong-high-math/
-  - /high/seongdong-wangsimni2-high-math/
-  - /high/seongdong-yongdap-high-math/
 ---
 
 성동구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

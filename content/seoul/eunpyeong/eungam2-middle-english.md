@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-eungam2-middle-english/
 title: "은평구 응암2동 중등 영어과외 | 충암중·덕산중 독해력 강화"
 date: 2025-05-20
 categories:

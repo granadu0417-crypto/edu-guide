@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-jeungsan-high-english/
 title: "은평구 증산동 고등 영어과외 | 은평고·예일여고 수능 대비 특강"
 date: 2025-05-20
 categories:

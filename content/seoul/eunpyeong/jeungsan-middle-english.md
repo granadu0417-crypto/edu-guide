@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-jeungsan-middle-english/
 title: "은평구 증산동 중등 영어과외 | 증산중·연서중 회화·문법 병행"
 date: 2025-05-20
 categories:

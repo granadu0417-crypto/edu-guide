@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/uijeongbu-jageung-high-math/
 title: "의정부시 자금동 고등 수학과외 | 경민고·의정부고·효자고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/paju-geumchon1-middle-math/
 title: "파주시 금촌1동 중등 수학과외 | 파주중·금촌중·문산중 내신 완벽 대비"
 date: 2025-01-15
 categories:

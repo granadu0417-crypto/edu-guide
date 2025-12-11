@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-정릉4-high-english/
 title: "성북구 정릉4동 고등 영어과외 | 홍익대사대부고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

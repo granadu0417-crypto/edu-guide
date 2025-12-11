@@ -13,22 +13,6 @@ cities:
 tags:
   - 광진구영어과외
   - 광진구고등영어
-aliases:
-  - /high/gwangjin-gunja-high-english/
-  - /high/gwangjin-guui1-high-english/
-  - /high/gwangjin-guui2-high-english/
-  - /high/gwangjin-guui3-high-english/
-  - /high/gwangjin-gwangjang-high-english/
-  - /high/gwangjin-hwayang-high-english/
-  - /high/gwangjin-jayang1-high-english/
-  - /high/gwangjin-jayang2-high-english/
-  - /high/gwangjin-jayang3-high-english/
-  - /high/gwangjin-jayang4-high-english/
-  - /high/gwangjin-junggok1-high-english/
-  - /high/gwangjin-junggok2-high-english/
-  - /high/gwangjin-junggok3-high-english/
-  - /high/gwangjin-junggok4-high-english/
-  - /high/gwangjin-neungdong-high-english/
 ---
 
 광진구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

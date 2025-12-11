@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-구로2-high-english/
 title: "구로구 구로2동 고등 영어과외 | 구로고·구현고 취약점 집중 관리"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/guri-galmaok-high-math/
 title: "구리시 갈매동 고등 수학과외 | 구리고·인창고·동구고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-samjeon-middle-math/
 title: 송파구 삼전동 중등 수학과외 - 삼전중·잠실중 맞춤 관리
 date: 2025-01-29
 categories:

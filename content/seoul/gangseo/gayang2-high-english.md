@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-가양2-high-english/
 title: "강서구 가양2동 고등 영어과외 | 세현고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

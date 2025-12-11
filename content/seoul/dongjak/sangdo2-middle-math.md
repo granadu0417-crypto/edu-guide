@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sangdo2-middle-math/
 title: "동작구 상도2동 중등 수학과외 | 강현중·상현중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

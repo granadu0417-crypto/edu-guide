@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-상도4-high-english/
 title: "동작구 상도4동 고등 영어과외 | 성남고·영등포고 등급 향상 전략"
 date: 2025-01-28
 categories:

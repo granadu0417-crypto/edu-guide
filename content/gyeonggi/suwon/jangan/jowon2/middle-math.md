@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-jowon2-middle-math/
 title: "수원시 장안구 조원2동 중등 수학과외 | 수원외중·장안중·수일여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

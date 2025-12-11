@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-세곡-high-english/
 title: "강남구 세곡동 고등 영어과외 | 세곡고·보성고 독해부터 문법까지"
 date: 2025-01-28
 categories:

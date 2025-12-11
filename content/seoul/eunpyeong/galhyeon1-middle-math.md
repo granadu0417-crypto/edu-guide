@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-galhyeon1-middle-math/
 title: "은평구 갈현1동 중등 수학과외 | 선정중·대성중 명문 사립 대비"
 date: 2025-05-20
 categories:

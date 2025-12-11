@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-gongneung1-high-math/
 title: 노원구 공릉1동 고등 수학과외 | 태릉고·서울과고·염광여고 내신·수능 대비
 date: 2025-01-29
 categories:

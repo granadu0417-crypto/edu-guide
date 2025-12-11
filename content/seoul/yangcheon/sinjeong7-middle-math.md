@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinjeong7-middle-math/
 title: "양천구 신정7동 중등 수학과외 | 봉영여중 기초부터 심화까지"
 date: 2025-01-29
 categories:

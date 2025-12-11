@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-janghang2-high-english/
 title: "고양시 일산동구 장항2동 고등 영어과외 | 중산고 기초부터 심화까지"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-jeongbalsan-middle-math/
 title: "고양시 일산동구 정발산동 중등 수학과외 | 정발중 수학 자신감 회복"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-dobong2-middle-english/
 title: "도봉구 도봉2동 중등 영어과외 | 도봉중·북서울중 체계적 학습 관리"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-seohyeon1-middle-english/
 title: "성남시 분당구 서현1동 중등 영어과외 | 성남외중·분당중·서현중 내신 완벽 대비"
 date: 2025-01-15
 categories:

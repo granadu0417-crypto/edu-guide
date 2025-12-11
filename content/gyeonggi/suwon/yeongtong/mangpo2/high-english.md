@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-mangpo2-high-english/
 title: "수원시 영통구 망포2동 고등 영어과외 | 망포고·청명고·영통고 내신·수능 대비"
 date: 2025-01-15
 categories:

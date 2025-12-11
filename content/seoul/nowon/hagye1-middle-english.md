@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-hagye1-middle-english/
 title: 노원구 하계1동 중등 영어과외 | 하계중·을지중·중원중 문법·독해 완성
 date: 2025-01-29
 categories:

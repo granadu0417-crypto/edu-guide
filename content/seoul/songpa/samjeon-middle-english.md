@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-samjeon-middle-english/
 title: 송파구 삼전동 중등 영어과외 - 삼전중·잠실중 내신 전문
 date: 2025-01-29
 categories:

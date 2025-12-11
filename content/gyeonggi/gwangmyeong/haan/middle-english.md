@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangmyeong-haan-middle-english/
 title: "광명시 하안1동 중등 영어과외 | 광명중·진성중·소하중 내신 완벽 대비"
 date: 2025-01-15
 categories:

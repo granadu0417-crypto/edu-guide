@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-보라매-high-english/
 title: "관악구 보라매동 고등 영어과외 | 당곡고 독해력 특화"
 date: 2025-01-28
 categories:

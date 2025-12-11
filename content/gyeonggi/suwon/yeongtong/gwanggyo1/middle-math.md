@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-gwanggyo1-middle-math/
 title: "수원시 영통구 광교1동 중등 수학과외 | 광교중·아주대부중·영통중 내신 완벽 대비"
 date: 2025-01-15
 categories:

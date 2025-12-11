@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/namyangju-onam-middle-math/
 title: "남양주시 오남읍 중등 수학과외 | 오남중·남양주중·동화중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-wonhyoro2-middle-math/
 title: "용산구 원효로2동 중등 수학과외 | 성심여중 기초 개념 강화"
 date: 2025-05-15
 categories:

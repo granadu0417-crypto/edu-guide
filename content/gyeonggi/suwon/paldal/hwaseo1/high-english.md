@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-hwaseo1-high-english/
 title: "수원시 팔달구 화서1동 고등 영어과외 | 수원고·화홍고·동우여고 내신·수능 대비"
 date: 2025-01-15
 categories:

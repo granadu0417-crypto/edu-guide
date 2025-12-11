@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinjeong1-middle-math/
 title: "양천구 신정1동 중등 수학과외 | 신서중 개념부터 실전까지"
 date: 2025-01-29
 categories:

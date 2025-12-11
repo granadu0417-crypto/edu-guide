@@ -13,23 +13,6 @@ cities:
 tags:
   - 마포구영어과외
   - 마포구고등영어
-aliases:
-  - /high/mapo-ahyeon-high-english/
-  - /high/mapo-daeheung-high-english/
-  - /high/mapo-dohwa-high-english/
-  - /high/mapo-gongdeok-high-english/
-  - /high/mapo-hapjeong-high-english/
-  - /high/mapo-mangwon1-high-english/
-  - /high/mapo-mangwon2-high-english/
-  - /high/mapo-sangam-high-english/
-  - /high/mapo-seogang-high-english/
-  - /high/mapo-seogyo-high-english/
-  - /high/mapo-seongsan1-high-english/
-  - /high/mapo-seongsan2-high-english/
-  - /high/mapo-sinsu-high-english/
-  - /high/mapo-yeomni-high-english/
-  - /high/mapo-yeonnam-high-english/
-  - /high/mapo-yonggang-high-english/
 ---
 
 마포구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

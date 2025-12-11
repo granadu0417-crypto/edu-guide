@@ -13,21 +13,6 @@ cities:
 tags:
   - 동대문구수학과외
   - 동대문구고등수학
-aliases:
-  - /high/dongdaemun-cheongnyangni-high-math/
-  - /high/dongdaemun-dapsimni1-high-math/
-  - /high/dongdaemun-dapsimni2-high-math/
-  - /high/dongdaemun-hoegi-high-math/
-  - /high/dongdaemun-hwigyeong1-high-math/
-  - /high/dongdaemun-hwigyeong2-high-math/
-  - /high/dongdaemun-imun1-high-math/
-  - /high/dongdaemun-imun2-high-math/
-  - /high/dongdaemun-jangan1-high-math/
-  - /high/dongdaemun-jangan2-high-math/
-  - /high/dongdaemun-jegi-high-math/
-  - /high/dongdaemun-jeonnong1-high-math/
-  - /high/dongdaemun-jeonnong2-high-math/
-  - /high/dongdaemun-yongsin-high-math/
 ---
 
 동대문구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

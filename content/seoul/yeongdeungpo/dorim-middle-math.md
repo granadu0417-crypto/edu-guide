@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-dorim-middle-math/
 title: "영등포구 도림동 중등 수학과외 | 대림중·영남중 내신 완벽 대비"
 date: 2025-01-29
 categories:

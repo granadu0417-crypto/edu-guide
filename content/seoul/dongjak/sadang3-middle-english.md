@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang3-middle-english/
 title: "동작구 사당3동 중등 영어과외 | 상도중·동작중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

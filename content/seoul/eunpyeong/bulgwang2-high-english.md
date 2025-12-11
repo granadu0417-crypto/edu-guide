@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-bulgwang2-high-english/
 title: "은평구 불광2동 고등 영어과외 | 은평고·예일여고 영어 등급 향상"
 date: 2025-05-20
 categories:

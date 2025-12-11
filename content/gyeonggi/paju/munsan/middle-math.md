@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/paju-munsan-middle-math/
 title: "파주시 문산읍 중등 수학과외 | 문산중·파주중·금촌중 내신 완벽 대비"
 date: 2025-01-15
 categories:

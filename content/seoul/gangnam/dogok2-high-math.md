@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-도곡2-high-math/
 title: "강남구 도곡2동 고등 수학과외 | 역삼중·은성고 오답 패턴 교정"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-sinsa1-high-math/
 title: "은평구 신사1동 고등 수학과외 | 은평고·예일여고 수학 자신감 향상"
 date: 2025-05-20
 categories:

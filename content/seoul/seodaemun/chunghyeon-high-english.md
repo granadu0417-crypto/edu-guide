@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-충현-high-english/
 title: "서대문구 충현동 고등 영어과외 | 중앙여고·한성과학고 문법 패턴 완성"
 date: 2025-01-28
 categories:

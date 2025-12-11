@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-anan3-middle-english/
 title: "안양시 만안구 안양3동 중등 영어과외 | 안양중·안양여중·백영중 내신 완벽 대비"
 date: 2025-01-15
 categories:

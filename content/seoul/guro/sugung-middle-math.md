@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-sugung-middle-math/
 title: "구로구 수궁동 중등 수학과외 | 우신중 기초부터 심화까지"
 date: 2025-01-29
 categories:

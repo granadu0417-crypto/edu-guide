@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/pyeongtaek-paengsung-high-math/
 title: "평택시 팽성읍 고등 수학과외 | 평택고·송탄고·세교고 내신·수능 대비"
 date: 2025-01-15
 categories:

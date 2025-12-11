@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-suyu2-middle-english/
 title: "강북구 수유2동 중등 영어과외 | 강북중 실력 향상 수업"
 date: 2025-01-29
 categories:

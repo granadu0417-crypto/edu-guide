@@ -13,23 +13,6 @@ cities:
 tags:
   - 용산구영어과외
   - 용산구중등영어
-aliases:
-  - /middle/yongsan-bogwang-middle-english/
-  - /middle/yongsan-cheongpa-middle-english/
-  - /middle/yongsan-hangang-ro-middle-english/
-  - /middle/yongsan-hannam-middle-english/
-  - /middle/yongsan-huam-middle-english/
-  - /middle/yongsan-hyochang-middle-english/
-  - /middle/yongsan-ichon1-middle-english/
-  - /middle/yongsan-ichon2-middle-english/
-  - /middle/yongsan-itaewon1-middle-english/
-  - /middle/yongsan-itaewon2-middle-english/
-  - /middle/yongsan-namyeong-middle-english/
-  - /middle/yongsan-seobinggo-middle-english/
-  - /middle/yongsan-wonhyoro1-middle-english/
-  - /middle/yongsan-wonhyoro2-middle-english/
-  - /middle/yongsan-yongmun-middle-english/
-  - /middle/yongsan-yongsan2ga-middle-english/
 ---
 
 용산구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

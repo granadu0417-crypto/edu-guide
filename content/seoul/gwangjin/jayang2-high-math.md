@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-자양2-high-math/
 title: "광진구 자양2동 고등 수학과외 | 광양고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

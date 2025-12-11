@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-sangdeok2-middle-math/
 title: "용인시 수지구 상덕2동 중등 수학과외 | 상현중·수지중·현암중 내신 완벽 대비"
 date: 2025-01-15
 categories:

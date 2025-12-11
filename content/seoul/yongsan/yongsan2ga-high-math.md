@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-yongsan2ga-high-math/
 title: "용산구 용산2가동 고등 수학과외 | 용산고·보성여고 내신·수능 완벽 대비"
 date: 2025-05-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/paju-unjeong1-middle-english/
 title: "파주시 운정1동 중등 영어과외 | 운정중·파주중·금촌중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-bogwang-middle-english/
 title: "용산구 보광동 중등 영어과외 | 오산중 영어 내신 특화"
 date: 2025-05-15
 categories:

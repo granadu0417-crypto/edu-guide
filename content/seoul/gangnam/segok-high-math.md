@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-세곡-high-math/
 title: "강남구 세곡동 고등 수학과외 | 세곡고·수서고 개념부터 심화까지"
 date: 2025-01-28
 categories:

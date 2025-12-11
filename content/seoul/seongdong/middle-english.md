@@ -13,24 +13,6 @@ cities:
 tags:
   - 성동구영어과외
   - 성동구중등영어
-aliases:
-  - /middle/seongdong-eungbong-middle-english/
-  - /middle/seongdong-geumho1ga-middle-english/
-  - /middle/seongdong-geumho2-3ga-middle-english/
-  - /middle/seongdong-geumho4ga-middle-english/
-  - /middle/seongdong-haengdang1-middle-english/
-  - /middle/seongdong-haengdang2-middle-english/
-  - /middle/seongdong-majang-middle-english/
-  - /middle/seongdong-oksu-middle-english/
-  - /middle/seongdong-sageun-middle-english/
-  - /middle/seongdong-seongsu1ga1-middle-english/
-  - /middle/seongdong-seongsu1ga2-middle-english/
-  - /middle/seongdong-seongsu2ga1-middle-english/
-  - /middle/seongdong-seongsu2ga3-middle-english/
-  - /middle/seongdong-songjeong-middle-english/
-  - /middle/seongdong-wangsimni-doseondong-middle-english/
-  - /middle/seongdong-wangsimni2-middle-english/
-  - /middle/seongdong-yongdap-middle-english/
 ---
 
 성동구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

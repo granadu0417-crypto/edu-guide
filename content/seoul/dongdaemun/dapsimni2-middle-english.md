@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-dapsimni2-middle-english/
 title: "동대문구 답십리2동 중등 영어과외 | 숭인중 독해·문법 완성"
 date: 2025-01-29
 categories:

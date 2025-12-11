@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-tanhyeon1-high-math/
 title: "고양시 일산서구 탄현1동 고등 수학과외 | 일산동고 내신 완벽 분석"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hwaseong-dongtan1-middle-english/
 title: "화성시 동탄1동 중등 영어과외 | 동탄중·능동중·반송중 내신 완벽 대비"
 date: 2025-01-15
 categories:

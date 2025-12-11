@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-banghak3-middle-english/
 title: "도봉구 방학3동 중등 영어과외 | 방학중·신방학중 독해·문법 완성"
 date: 2025-01-29
 categories:

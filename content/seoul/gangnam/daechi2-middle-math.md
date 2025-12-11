@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-daechi2-middle-math/
 title: 강남구 대치2동 중등 수학과외 - 대청중·단대부중 맞춤 관리
 date: 2025-01-28
 categories:

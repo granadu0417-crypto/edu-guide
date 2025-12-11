@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-상도3-high-math/
 title: "동작구 상도3동 고등 수학과외 | 성남고·영등포고 수능 완벽 대비"
 date: 2025-01-28
 categories:

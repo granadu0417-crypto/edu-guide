@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-sangbong1-middle-math/
 title: "중랑구 상봉1동 중등 수학과외 | 신현중 내신 완벽 대비"
 date: 2025-12-08
 categories:

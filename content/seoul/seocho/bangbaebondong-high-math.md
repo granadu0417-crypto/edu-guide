@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-방배본-high-math/
 title: "서초구 방배본동 고등 수학과외 | 서문여고·동덕여고 체계적 학습 관리"
 date: 2025-01-28
 categories:

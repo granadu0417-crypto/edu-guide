@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-pungsan-middle-english/
 title: "고양시 일산동구 풍산동 중등 영어과외 | 풍산중 내신 + 선행 병행"
 date: 2025-01-15
 categories:

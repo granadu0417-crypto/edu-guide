@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-maetan2-high-math/
 title: "수원시 영통구 매탄2동 고등 수학과외 | 매탄고·영복여고·청명고 내신·수능 대비"
 date: 2025-01-15
 categories:

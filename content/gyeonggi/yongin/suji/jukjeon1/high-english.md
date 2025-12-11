@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-jukjeon1-high-english/
 title: "용인시 수지구 죽전1동 고등 영어과외 | 죽전고·수지고·풍덕고 내신·수능 대비"
 date: 2025-01-15
 categories:

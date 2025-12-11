@@ -13,23 +13,6 @@ cities:
 tags:
   - 은평구수학과외
   - 은평구중등수학
-aliases:
-  - /middle/eunpyeong-bulgwang1-middle-math/
-  - /middle/eunpyeong-bulgwang2-middle-math/
-  - /middle/eunpyeong-daejo-middle-math/
-  - /middle/eunpyeong-eungam1-middle-math/
-  - /middle/eunpyeong-eungam2-middle-math/
-  - /middle/eunpyeong-eungam3-middle-math/
-  - /middle/eunpyeong-galhyeon1-middle-math/
-  - /middle/eunpyeong-galhyeon2-middle-math/
-  - /middle/eunpyeong-gusan-middle-math/
-  - /middle/eunpyeong-jeungsan-middle-math/
-  - /middle/eunpyeong-jingwan-middle-math/
-  - /middle/eunpyeong-nokbeon-middle-math/
-  - /middle/eunpyeong-sinsa1-middle-math/
-  - /middle/eunpyeong-sinsa2-middle-math/
-  - /middle/eunpyeong-susaek-middle-math/
-  - /middle/eunpyeong-yeokchon-middle-math/
 ---
 
 은평구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

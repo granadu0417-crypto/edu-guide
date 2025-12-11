@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-번1-high-english/
 title: "강북구 번1동 고등 영어과외 | 신일고 목표 등급 달성"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-deokeun-high-english/
 title: "고양시 덕양구 덕은동 고등 영어과외 | 능곡고 독해·문법 완성"
 date: 2025-01-15
 categories:

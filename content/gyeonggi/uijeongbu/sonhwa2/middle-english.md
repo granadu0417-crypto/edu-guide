@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/uijeongbu-sonhwa2-middle-english/
 title: "의정부시 송산2동 중등 영어과외 | 의정부중·경민중·효자중 내신 완벽 대비"
 date: 2025-01-15
 categories:

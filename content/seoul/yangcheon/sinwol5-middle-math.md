@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol5-middle-math/
 title: "양천구 신월5동 중등 수학과외 | 신월중·양강중 체계적 학습 관리"
 date: 2025-01-29
 categories:

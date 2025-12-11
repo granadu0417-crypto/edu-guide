@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-seobinggo-high-math/
 title: "용산구 서빙고동 고등 수학과외 | 중경고·용산고 체계적 학습 관리"
 date: 2025-05-15
 categories:

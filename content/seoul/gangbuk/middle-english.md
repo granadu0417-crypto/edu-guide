@@ -13,20 +13,6 @@ cities:
 tags:
   - 강북구영어과외
   - 강북구중등영어
-aliases:
-  - /middle/gangbuk-beon1-middle-english/
-  - /middle/gangbuk-beon2-middle-english/
-  - /middle/gangbuk-beon3-middle-english/
-  - /middle/gangbuk-insu-middle-english/
-  - /middle/gangbuk-mia-middle-english/
-  - /middle/gangbuk-samgaksan-middle-english/
-  - /middle/gangbuk-samyang-middle-english/
-  - /middle/gangbuk-songcheon-middle-english/
-  - /middle/gangbuk-songjung-middle-english/
-  - /middle/gangbuk-suyu1-middle-english/
-  - /middle/gangbuk-suyu2-middle-english/
-  - /middle/gangbuk-suyu3-middle-english/
-  - /middle/gangbuk-ui-middle-english/
 ---
 
 강북구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

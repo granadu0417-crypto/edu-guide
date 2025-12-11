@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-gwanggyo2-middle-english/
 title: "수원시 영통구 광교2동 중등 영어과외 | 광교중·효원중·청명중 내신 완벽 대비"
 date: 2025-01-15
 categories:

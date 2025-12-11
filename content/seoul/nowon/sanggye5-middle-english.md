@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye5-middle-english/
 title: 노원구 상계5동 중등 영어과외 | 상계중·상계제일중·노일중 기초부터 심화까지
 date: 2025-01-29
 categories:

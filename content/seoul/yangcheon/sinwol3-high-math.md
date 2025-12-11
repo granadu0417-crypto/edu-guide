@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신월3-high-math/
 title: "양천구 신월3동 고등 수학과외 | 광영고·광영여고 실력 향상 비결"
 date: 2025-01-28
 categories:

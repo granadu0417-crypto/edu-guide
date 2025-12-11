@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sangdo1-middle-math/
 title: "동작구 상도1동 중등 수학과외 | 강현중·상현중 학교별 내신 특화"
 date: 2025-01-29
 categories:

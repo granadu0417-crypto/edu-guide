@@ -13,17 +13,6 @@ cities:
 tags:
   - 금천구영어과외
   - 금천구고등영어
-aliases:
-  - /high/geumcheon-doksan1-high-english/
-  - /high/geumcheon-doksan2-high-english/
-  - /high/geumcheon-doksan3-high-english/
-  - /high/geumcheon-doksan4-high-english/
-  - /high/geumcheon-gasan-high-english/
-  - /high/geumcheon-siheung1-high-english/
-  - /high/geumcheon-siheung2-high-english/
-  - /high/geumcheon-siheung3-high-english/
-  - /high/geumcheon-siheung4-high-english/
-  - /high/geumcheon-siheung5-high-english/
 ---
 
 금천구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

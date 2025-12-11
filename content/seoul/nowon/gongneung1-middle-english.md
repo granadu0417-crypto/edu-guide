@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-gongneung1-middle-english/
 title: 노원구 공릉1동 중등 영어과외 | 공릉중·태릉중·한천중 실력 향상 수업
 date: 2025-01-29
 categories:

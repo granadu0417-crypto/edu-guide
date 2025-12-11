@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-gocheok1-middle-english/
 title: "구로구 고척1동 중등 영어과외 | 고척중·오류중 체계적 학습 관리"
 date: 2025-01-29
 categories:

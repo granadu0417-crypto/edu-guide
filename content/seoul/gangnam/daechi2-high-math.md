@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-대치2-high-math/
 title: "강남구 대치2동 고등 수학과외 | 단대부고·숙명여고 약점 집중 보완"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-seongsa-middle-english/
 title: "고양시 덕양구 성사동 중등 영어과외 | 성사중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/siheung-jeongwang2-middle-english/
 title: "시흥시 정왕2동 중등 영어과외 | 시흥중·정왕중·소래중 내신 완벽 대비"
 date: 2025-01-15
 categories:

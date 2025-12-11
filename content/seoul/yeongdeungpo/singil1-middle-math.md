@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil1-middle-math/
 title: "영등포구 신길1동 중등 수학과외 | 신길중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

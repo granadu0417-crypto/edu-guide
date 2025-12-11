@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-망원2-high-english/
 title: "마포구 망원2동 고등 영어과외 | 경성고·상암고 어휘력 향상"
 date: 2025-01-28
 categories:

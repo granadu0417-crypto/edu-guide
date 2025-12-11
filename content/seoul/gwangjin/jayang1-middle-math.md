@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-jayang1-middle-math/
 title: 광진구 자양1동 중등 수학과외 - 건대부중·광양중 맞춤 관리
 date: 2025-01-29
 categories:

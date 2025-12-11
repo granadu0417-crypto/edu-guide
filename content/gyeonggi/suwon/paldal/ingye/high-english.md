@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-ingye-high-english/
 title: "수원시 팔달구 인계동 고등 영어과외 | 유신고·창현고·동우여고 내신·수능 대비"
 date: 2025-01-15
 categories:

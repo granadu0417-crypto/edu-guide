@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-dandae-high-english/
 title: "성남시 수정구 단대동 고등 영어과외 | 단대부고·성남고·태원고 내신·수능 대비"
 date: 2025-01-15
 categories:

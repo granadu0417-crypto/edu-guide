@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-wonmi1-high-english/
 title: "부천시 원미1동 고등 영어과외 | 부천고·부천여고·부흥고 내신·수능 대비"
 date: 2025-01-15
 categories:

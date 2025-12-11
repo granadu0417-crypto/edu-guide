@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-마장-high-math/
 title: "성동구 마장동 고등 수학과외 | 경일고·성수고 수학 실력 완성"
 date: 2025-01-28
 categories:

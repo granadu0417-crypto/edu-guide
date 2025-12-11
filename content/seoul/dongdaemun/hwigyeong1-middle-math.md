@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-hwigyeong1-middle-math/
 title: "동대문구 휘경1동 중등 수학과외 | 휘경중·휘경여중·전동중 기초부터 심화까지"
 date: 2025-01-29
 categories:

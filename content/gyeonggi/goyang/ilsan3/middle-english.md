@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-ilsan3-middle-english/
 title: "고양시 일산서구 일산3동 중등 영어과외 | 문촌중 단계별 실력 향상"
 date: 2025-01-15
 categories:

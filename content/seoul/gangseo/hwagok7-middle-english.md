@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-hwagok7-middle-english/
 title: "강서구 화곡7동 중등 영어과외 | 화곡중·화원중 내신 완벽 대비"
 date: 2025-01-29
 categories:

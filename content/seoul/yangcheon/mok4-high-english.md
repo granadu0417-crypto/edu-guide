@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-목4-high-english/
 title: "양천구 목4동 고등 영어과외 | 강서고 등급 향상 전략"
 date: 2025-01-28
 categories:

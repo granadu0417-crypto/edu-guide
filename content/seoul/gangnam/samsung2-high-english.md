@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-삼성2-high-english/
 title: "강남구 삼성2동 고등 영어과외 | 휘문고·중대부고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

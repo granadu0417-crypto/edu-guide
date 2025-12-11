@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-wirye-middle-math/
 title: "성남시 수정구 위례동 중등 수학과외 | 위례중·복정중·성남중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-시흥4-high-english/
 title: "금천구 시흥4동 고등 영어과외 | 금천고·문일고·동일여고 내신 1등급 전략"
 date: 2025-01-28
 categories:

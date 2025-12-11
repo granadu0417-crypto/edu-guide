@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-ichon1-high-math/
 title: "용산구 이촌1동 고등 수학과외 | 중경고 1:1 맞춤 커리큘럼"
 date: 2025-05-15
 categories:

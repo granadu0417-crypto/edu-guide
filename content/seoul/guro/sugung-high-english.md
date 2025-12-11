@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-수궁-high-english/
 title: "구로구 수궁동 고등 영어과외 | 세종과학고·오류고·우신고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

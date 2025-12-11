@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-yatap3-middle-english/
 title: "성남시 분당구 야탑3동 중등 영어과외 | 야탑중·분당영덕여중·분당중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-ilsan2-middle-english/
 title: "고양시 일산서구 일산2동 중등 영어과외 | 일산중 약점 집중 보완"
 date: 2025-01-15
 categories:

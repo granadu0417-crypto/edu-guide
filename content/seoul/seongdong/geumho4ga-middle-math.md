@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-geumho4ga-middle-math/
 title: "성동구 금호4가동 중등 수학과외 | 옥정중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

@@ -11,10 +11,6 @@ tags:
   - 고양시과외
   - 고양시수학과외
   - 고양시영어과외
-aliases:
-  - /local/gyeonggi/goyang-math-tutoring/
-  - /local/gyeonggi/goyang-english-tutoring/
-  - /local/gyeonggi/goyang-science-tutoring/
 ---
 
 ## 고양시 과외 안내

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/siheung-jeongwang4-middle-english/
 title: "시흥시 정왕4동 중등 영어과외 | 정왕중·능곡중·시흥중 내신 완벽 대비"
 date: 2025-01-15
 categories:

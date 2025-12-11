@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-nonhyeon1-middle-math/
 title: 강남구 논현1동 중등 수학과외 - 언북중·언주중 맞춤 관리
 date: 2025-01-28
 categories:

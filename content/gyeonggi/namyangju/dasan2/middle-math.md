@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/namyangju-dasan2-middle-math/
 title: "남양주시 다산2동 중등 수학과외 | 다산중·동화중·남양주중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-namyeong-high-math/
 title: "용산구 남영동 고등 수학과외 | 신광여고·배문고 맞춤형 진도 관리"
 date: 2025-05-15
 categories:

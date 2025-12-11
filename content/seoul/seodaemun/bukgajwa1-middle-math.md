@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-bukgajwa1-middle-math/
 title: "서대문구 북가좌1동 중등 수학과외 | 가재울중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

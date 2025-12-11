@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-beon2-middle-math/
 title: "강북구 번2동 중등 수학과외 | 번동중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangmyeong-gwangmyeong2-middle-english/
 title: "광명시 광명2동 중등 영어과외 | 광명북중·광명중·진성중 내신 완벽 대비"
 date: 2025-01-15
 categories:

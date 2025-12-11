@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-deogi-high-english/
 title: "고양시 일산서구 덕이동 고등 영어과외 | 고양예술고 수능 고득점 비결"
 date: 2025-01-15
 categories:

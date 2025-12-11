@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡3-high-math/
 title: "강서구 화곡3동 고등 수학과외 | 화곡고 실력 향상 비결"
 date: 2025-01-28
 categories:

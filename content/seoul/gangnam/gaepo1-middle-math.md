@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-gaepo1-middle-math/
 title: 강남구 개포1동 중등 수학과외 - 개포중·대청중 맞춤 관리
 date: 2025-01-28
 categories:

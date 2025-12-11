@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-자양3-high-english/
 title: "광진구 자양3동 고등 영어과외 | 광양고 어휘력 향상"
 date: 2025-01-28
 categories:

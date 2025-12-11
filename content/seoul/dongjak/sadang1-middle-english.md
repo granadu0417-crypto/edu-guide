@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang1-middle-english/
 title: "동작구 사당1동 중등 영어과외 | 상도중·동작중 내신 완벽 대비"
 date: 2025-01-29
 categories:

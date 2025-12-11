@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-개봉1-high-math/
 title: "구로구 개봉1동 고등 수학과외 | 고척고·경인고 등급 향상 전략"
 date: 2025-01-28
 categories:

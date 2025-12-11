@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-beon1-middle-english/
 title: "강북구 번1동 중등 영어과외 | 수송중 내신 완벽 대비"
 date: 2025-01-29
 categories:

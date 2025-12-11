@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-은천-high-english/
 title: "관악구 은천동 고등 영어과외 | 영락고 영어 실력 완성"
 date: 2025-01-28
 categories:

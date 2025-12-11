@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang2-middle-english/
 title: "동작구 사당2동 중등 영어과외 | 상도중·동작중 독해·문법 완성"
 date: 2025-01-29
 categories:

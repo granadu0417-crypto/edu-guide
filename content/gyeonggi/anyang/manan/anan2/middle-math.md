@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-anan2-middle-math/
 title: "안양시 만안구 안양2동 중등 수학과외 | 백영중·안양중·신성중 내신 완벽 대비"
 date: 2025-01-15
 categories:

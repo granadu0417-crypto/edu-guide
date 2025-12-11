@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-samgaksan-middle-math/
 title: "강북구 삼각산동 중등 수학과외 | 삼각산중 내신 집중 관리"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-삼청-high-math/
 title: "종로구 삼청동 고등 수학과외 | 경복고·동성고·중앙고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

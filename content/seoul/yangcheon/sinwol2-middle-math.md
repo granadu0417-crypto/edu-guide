@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol2-middle-math/
 title: "양천구 신월2동 중등 수학과외 | 신남중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

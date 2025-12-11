@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-heukseok-middle-english/
 title: "동작구 흑석동 중등 영어과외 | 중앙대부속중 체계적 학습 관리"
 date: 2025-01-29
 categories:

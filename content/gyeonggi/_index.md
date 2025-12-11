@@ -11,9 +11,6 @@ tags:
   - 경기도영어과외
   - 분당과외
   - 일산과외
-aliases:
-  - /local/gyeonggi/
-  - /local/gyeonggi/gyeonggi-education-guide/
 ---
 
 ## 경기도 과외 안내

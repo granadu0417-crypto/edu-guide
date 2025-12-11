@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-흑석-high-math/
 title: "동작구 흑석동 고등 수학과외 | 동작고·경문고 수학 실력 완성"
 date: 2025-01-28
 categories:

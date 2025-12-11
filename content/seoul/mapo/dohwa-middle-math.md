@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-dohwa-middle-math/
 title: "마포구 도화동 중등 수학과외 | 아현중·신수중 기초부터 심화까지"
 date: 2025-01-29
 categories:

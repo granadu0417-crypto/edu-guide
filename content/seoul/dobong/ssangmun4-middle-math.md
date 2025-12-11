@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-ssangmun4-middle-math/
 title: "도봉구 쌍문4동 중등 수학과외 | 선덕중·정의여중 학교별 내신 특화"
 date: 2025-01-29
 categories:

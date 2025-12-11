@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-uui-high-english/
 title: "수원시 영통구 이의동 고등 영어과외 | 광교고·아주대부고·효원고 내신·수능 대비"
 date: 2025-01-15
 categories:

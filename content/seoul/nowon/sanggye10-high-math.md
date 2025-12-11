@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye10-high-math/
 title: 노원구 상계10동 고등 수학과외 | 용화여고·수락고·청원고 기초부터 심화까지
 date: 2025-01-29
 categories:

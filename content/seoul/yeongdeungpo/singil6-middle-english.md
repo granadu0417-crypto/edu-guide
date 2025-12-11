@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil6-middle-english/
 title: "영등포구 신길6동 중등 영어과외 | 대영중·신길중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-cheongpa-high-english/
 title: "용산구 청파동 고등 영어과외 | 신광여고 문법·독해 완성"
 date: 2025-05-15
 categories:

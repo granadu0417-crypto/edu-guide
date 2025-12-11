@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-천호1-high-english/
 title: "강동구 천호1동 고등 영어과외 | 천호고·성내고 영어 실력 완성"
 date: 2025-01-28
 categories:

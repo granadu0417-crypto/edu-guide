@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-dandae-middle-math/
 title: "성남시 수정구 단대동 중등 수학과외 | 단대부중·성남중·태원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

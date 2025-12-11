@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-hannam-high-english/
 title: "용산구 한남동 고등 영어과외 | 오산고·중경고 영어 실력 도약"
 date: 2025-05-15
 categories:

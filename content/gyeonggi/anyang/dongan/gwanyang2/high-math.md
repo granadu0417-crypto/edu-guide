@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/anyang-gwanyang2-high-math/
 title: "안양시 동안구 관양2동 고등 수학과외 | 범계고·평촌고·안양외고 내신·수능 대비"
 date: 2025-01-15
 categories:

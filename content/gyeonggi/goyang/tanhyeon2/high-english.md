@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-tanhyeon2-high-english/
 title: "고양시 일산서구 탄현2동 고등 영어과외 | 일산동고 영어 실력 향상"
 date: 2025-01-15
 categories:

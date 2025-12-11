@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-문래-high-math/
 title: "영등포구 문래동 고등 수학과외 | 관악고·선유고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

@@ -13,20 +13,6 @@ cities:
 tags:
   - 서초구수학과외
   - 서초구고등수학
-aliases:
-  - /high/seocho-bangbae2dong-high-math/
-  - /high/seocho-bangbae3dong-high-math/
-  - /high/seocho-bangbae4dong-high-math/
-  - /high/seocho-bangbaebondong-high-math/
-  - /high/seocho-banpo2dong-high-math/
-  - /high/seocho-banpo3dong-high-math/
-  - /high/seocho-banpo4dong-high-math/
-  - /high/seocho-banpobondong-high-math/
-  - /high/seocho-jamwondong-high-math/
-  - /high/seocho-naegokdong-high-math/
-  - /high/seocho-seochodong-high-math/
-  - /high/seocho-yangjae1dong-high-math/
-  - /high/seocho-yangjae2dong-high-math/
 ---
 
 서초구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

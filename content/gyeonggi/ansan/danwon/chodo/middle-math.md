@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-chodo-middle-math/
 title: "안산시 단원구 초지동 중등 수학과외 | 성안중·단원중·안산공중 내신 완벽 대비"
 date: 2025-01-15
 categories:

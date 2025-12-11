@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-madu1-middle-math/
 title: "고양시 일산동구 마두1동 중등 수학과외 | 마두중 수학 기초 다지기"
 date: 2025-01-15
 categories:

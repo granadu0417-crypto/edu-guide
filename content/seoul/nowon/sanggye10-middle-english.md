@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye10-middle-english/
 title: 노원구 상계10동 중등 영어과외 | 상원중·수락중·청원중 실력 향상 수업
 date: 2025-01-29
 categories:

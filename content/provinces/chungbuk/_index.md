@@ -9,9 +9,6 @@ tags:
   - 충북과외
   - 충북수학과외
   - 충북영어과외
-aliases:
-  - /local/chungbuk-education-guide/
-  - /local/chungbuk-tutoring-guide/
 ---
 
 ## 충청북도 과외 안내

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-garibong-middle-english/
 title: "구로구 가리봉동 중등 영어과외 | 영림중·구일중 내신 완벽 대비"
 date: 2025-01-29
 categories:

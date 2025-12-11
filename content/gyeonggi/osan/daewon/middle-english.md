@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/osan-daewon-middle-english/
 title: "오산시 대원동 중등 영어과외 | 세마중·오산중·운천중 내신 완벽 대비"
 date: 2025-01-15
 categories:

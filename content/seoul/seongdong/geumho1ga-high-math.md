@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-금호1가-high-math/
 title: "성동구 금호1가동 고등 수학과외 | 경일고·성수고 문제 해결력 향상"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-eungam2-high-english/
 title: "은평구 응암2동 고등 영어과외 | 충암고·예일여고 영어 실력 도약"
 date: 2025-05-20
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-옥수-high-english/
 title: "성동구 옥수동 고등 영어과외 | 경일고·성수고 내신·수능 대비"
 date: 2025-01-28
 categories:

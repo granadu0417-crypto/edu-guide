@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-majang-middle-math/
 title: "성동구 마장동 중등 수학과외 | 동마중·마장중 기초부터 심화까지"
 date: 2025-01-29
 categories:

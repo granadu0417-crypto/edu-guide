@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-junghang-high-math/
 title: "부천시 중동 고등 수학과외 | 중원고·부천고·부천여고 내신·수능 대비"
 date: 2025-01-15
 categories:

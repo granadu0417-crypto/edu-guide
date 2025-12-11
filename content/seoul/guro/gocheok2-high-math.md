@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-고척2-high-math/
 title: "구로구 고척2동 고등 수학과외 | 고척고·경인고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwanak-seorim-middle-english/
 title: "관악구 서림동 중등 영어과외 | 신림중·삼성중 내신 완벽 대비"
 date: 2025-01-29
 categories:

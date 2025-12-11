@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-잠실2-high-math/
 title: "송파구 잠실2동 고등 수학과외 | 잠실고·잠신고 취약점 집중 관리"
 date: 2025-01-28
 categories:

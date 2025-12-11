@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-woncheon-middle-math/
 title: "수원시 영통구 원천동 중등 수학과외 | 아주대부중·효원중·영통중 내신 완벽 대비"
 date: 2025-01-15
 categories:

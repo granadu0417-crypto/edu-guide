@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-bangbaebondong-middle-math/
 title: 서초구 방배본동 중등 수학과외 - 방배중·이수중 맞춤 관리
 date: 2025-01-22
 categories:

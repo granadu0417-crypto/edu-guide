@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-songpa1-middle-math/
 title: 송파구 송파1동 중등 수학과외 - 송파중·잠실중 맞춤 관리
 date: 2025-01-29
 categories:

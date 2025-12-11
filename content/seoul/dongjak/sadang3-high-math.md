@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-사당3-high-math/
 title: "동작구 사당3동 고등 수학과외 | 동작고·경문고 기초부터 심화까지"
 date: 2025-01-28
 categories:

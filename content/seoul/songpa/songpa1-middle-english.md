@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-songpa1-middle-english/
 title: 송파구 송파1동 중등 영어과외 - 송파중·잠실중 내신 전문
 date: 2025-01-29
 categories:

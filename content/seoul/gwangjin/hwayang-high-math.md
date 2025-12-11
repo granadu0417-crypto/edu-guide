@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-화양-high-math/
 title: "광진구 화양동 고등 수학과외 | 건대부고 오답 패턴 교정"
 date: 2025-01-28
 categories:

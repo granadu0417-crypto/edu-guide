@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-amsa3-middle-math/
 title: 강동구 암사3동 중등 수학과외 - 암사중·천호중 맞춤 관리
 date: 2025-01-29
 categories:

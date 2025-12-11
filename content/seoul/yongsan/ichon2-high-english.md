@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-ichon2-high-english/
 title: "용산구 이촌2동 고등 영어과외 | 중경고 내신 고득점 전략"
 date: 2025-05-15
 categories:

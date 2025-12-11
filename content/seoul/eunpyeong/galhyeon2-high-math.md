@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-galhyeon2-high-math/
 title: "은평구 갈현2동 고등 수학과외 | 선정고·대성고·숭실고·선일여고 과학중점고 특화"
 date: 2025-05-20
 categories:

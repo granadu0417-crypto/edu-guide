@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang3-middle-english/
 title: "도봉구 창3동 중등 영어과외 | 창일중·노곡중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

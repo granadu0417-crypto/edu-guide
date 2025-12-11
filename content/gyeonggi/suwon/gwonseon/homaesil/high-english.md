@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-homaesil-high-english/
 title: "수원시 권선구 호매실동 고등 영어과외 | 칠보고·호매실고·권선고 내신·수능 대비"
 date: 2025-01-15
 categories:

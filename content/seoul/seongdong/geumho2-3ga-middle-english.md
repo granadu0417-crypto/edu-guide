@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-geumho2-3ga-middle-english/
 title: "성동구 금호2·3가동 중등 영어과외 | 광희중·옥정중 독해·문법 완성"
 date: 2025-01-29
 categories:

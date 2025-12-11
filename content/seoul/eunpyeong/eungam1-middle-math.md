@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-eungam1-middle-math/
 title: "은평구 응암1동 중등 수학과외 | 충암중·상신중 학교별 맞춤 전략"
 date: 2025-05-20
 categories:

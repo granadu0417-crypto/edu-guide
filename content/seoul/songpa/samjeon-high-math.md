@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-삼전-high-math/
 title: "송파구 삼전동 고등 수학과외 | 삼전고·잠실고 개념부터 심화까지"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-행신1-high-math/
 title: "고양시 덕양구 행신1동 고등 수학과외 | 서정고 개념부터 킬러까지"
 date: 2025-01-15
 categories:

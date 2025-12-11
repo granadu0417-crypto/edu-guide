@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-daerim3-middle-math/
 title: "영등포구 대림3동 중등 수학과외 | 대림중·영남중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

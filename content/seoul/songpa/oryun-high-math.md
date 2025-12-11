@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-오륜-high-math/
 title: "송파구 오륜동 고등 수학과외 | 오륜고·잠실고 수학 실력 완성"
 date: 2025-01-28
 categories:

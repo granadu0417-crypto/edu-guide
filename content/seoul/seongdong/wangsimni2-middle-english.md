@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-wangsimni2-middle-english/
 title: "성동구 왕십리2동 중등 영어과외 | 무학중·행당중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

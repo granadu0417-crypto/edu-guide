@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-양재1-high-math/
 title: "서초구 양재1동 고등 수학과외 | 양재고·언남고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

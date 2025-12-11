@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-가양3-high-math/
 title: "강서구 가양3동 고등 수학과외 | 세현고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

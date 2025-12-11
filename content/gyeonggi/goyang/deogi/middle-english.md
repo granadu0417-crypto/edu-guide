@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-deogi-middle-english/
 title: "고양시 일산서구 덕이동 중등 영어과외 | 덕이중 영어 실력 향상"
 date: 2025-01-15
 categories:

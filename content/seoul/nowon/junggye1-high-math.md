@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-junggye1-high-math/
 title: 노원구 중계1동 고등 수학과외 | 서라벌고·대진고·재현고 맞춤 커리큘럼
 date: 2025-01-29
 categories:

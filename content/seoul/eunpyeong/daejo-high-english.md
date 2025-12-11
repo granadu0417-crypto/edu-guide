@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-daejo-high-english/
 title: "은평구 대조동 고등 영어과외 | 동명여고·은평고 수능 영어 1등급"
 date: 2025-05-20
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yangju-eunhyun-high-english/
 title: "양주시 은현면 고등 영어과외 | 양주고·덕정고·양주백석고 내신·수능 대비"
 date: 2025-01-15
 categories:

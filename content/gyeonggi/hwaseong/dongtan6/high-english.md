@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-dongtan6-high-english/
 title: "화성시 동탄6동 고등 영어과외 | 청명고·동탄고·반송고 내신·수능 대비"
 date: 2025-01-15
 categories:

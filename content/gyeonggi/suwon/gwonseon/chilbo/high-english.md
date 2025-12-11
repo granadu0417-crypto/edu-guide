@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-chilbo-high-english/
 title: "수원시 권선구 칠보동 고등 영어과외 | 칠보고·금곡고·권선고 내신·수능 대비"
 date: 2025-01-15
 categories:

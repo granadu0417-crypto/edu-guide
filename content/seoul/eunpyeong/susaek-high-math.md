@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-susaek-high-math/
 title: "은평구 수색동 고등 수학과외 | 은평고·충암고 기초 개념 강화"
 date: 2025-05-20
 categories:

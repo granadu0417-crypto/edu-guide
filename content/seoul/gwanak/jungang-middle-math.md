@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwanak-jungang-middle-math/
 title: "관악구 중앙동 중등 수학과외 | 서울문영여자중 내신 완벽 대비"
 date: 2025-01-29
 categories:

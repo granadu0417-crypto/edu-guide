@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-cheongdam-middle-english/
 title: 강남구 청담동 중등 영어과외 - 청담중·압구정중 내신 전문
 date: 2025-01-28
 categories:

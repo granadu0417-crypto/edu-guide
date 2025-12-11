@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-ilsan2-high-english/
 title: "고양시 일산서구 일산2동 고등 영어과외 | 일산고 학습 효율 극대화"
 date: 2025-01-15
 categories:

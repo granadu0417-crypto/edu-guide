@@ -13,22 +13,6 @@ cities:
 tags:
   - 중구수학과외
   - 중구고등수학
-aliases:
-  - /high/jung-cheonggu-high-math/
-  - /high/jung-dasan-high-math/
-  - /high/jung-donghwa-high-math/
-  - /high/jung-euljiro-high-math/
-  - /high/jung-gwanghui-high-math/
-  - /high/jung-hoehyeon-high-math/
-  - /high/jung-hwanghak-high-math/
-  - /high/jung-jangchung-high-math/
-  - /high/jung-junglim-high-math/
-  - /high/jung-myeongdong-high-math/
-  - /high/jung-pildong-high-math/
-  - /high/jung-sindang-high-math/
-  - /high/jung-sindang5-high-math/
-  - /high/jung-sogong-high-math/
-  - /high/jung-yaksu-high-math/
 ---
 
 중구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

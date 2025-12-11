@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-신사-high-math/
 title: "강남구 신사동 고등 수학과외 | 압구정고·현대고 학교별 내신 특화"
 date: 2025-01-28
 categories:

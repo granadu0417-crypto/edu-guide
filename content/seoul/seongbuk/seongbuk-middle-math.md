@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-seongbuk-middle-math/
 title: "성북구 성북동 중등 수학과외 | 홍익대사대부중 내신 완벽 대비"
 date: 2025-01-29
 categories:

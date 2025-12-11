@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-용신-high-english/
 title: "동대문구 용신동 고등 영어과외 | 대광고 내신 완벽 분석"
 date: 2025-01-28
 categories:

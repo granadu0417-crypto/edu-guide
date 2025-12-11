@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yangju-hwedok3-high-english/
 title: "양주시 회천3동 고등 영어과외 | 양주백석고·덕정고·양주고 내신·수능 대비"
 date: 2025-01-15
 categories:

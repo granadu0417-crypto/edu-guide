@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-망원2-high-math/
 title: "마포구 망원2동 고등 수학과외 | 경성고·상암고 문제 해결력 향상"
 date: 2025-01-28
 categories:

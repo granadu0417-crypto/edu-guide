@@ -13,23 +13,6 @@ cities:
 tags:
   - 용산구영어과외
   - 용산구고등영어
-aliases:
-  - /high/yongsan-bogwang-high-english/
-  - /high/yongsan-cheongpa-high-english/
-  - /high/yongsan-hangang-ro-high-english/
-  - /high/yongsan-hannam-high-english/
-  - /high/yongsan-huam-high-english/
-  - /high/yongsan-hyochang-high-english/
-  - /high/yongsan-ichon1-high-english/
-  - /high/yongsan-ichon2-high-english/
-  - /high/yongsan-itaewon1-high-english/
-  - /high/yongsan-itaewon2-high-english/
-  - /high/yongsan-namyeong-high-english/
-  - /high/yongsan-seobinggo-high-english/
-  - /high/yongsan-wonhyoro1-high-english/
-  - /high/yongsan-wonhyoro2-high-english/
-  - /high/yongsan-yongmun-high-english/
-  - /high/yongsan-yongsan2ga-high-english/
 ---
 
 용산구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

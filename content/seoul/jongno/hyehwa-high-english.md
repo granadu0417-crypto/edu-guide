@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-혜화-high-english/
 title: "종로구 혜화동 고등 영어과외 | 경복고·동성고·중앙고 내신 1등급 전략"
 date: 2025-01-28
 categories:

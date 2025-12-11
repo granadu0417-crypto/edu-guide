@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-jungok-high-math/
 title: "용인시 기흥구 중동 고등 수학과외 | 용인고·기흥고·용인삼계고 내신·수능 대비"
 date: 2025-01-15
 categories:

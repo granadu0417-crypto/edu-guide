@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/icheon-junang-high-english/
 title: "이천시 중앙동 고등 영어과외 | 이천고·이천제일고·이현고 내신·수능 대비"
 date: 2025-01-15
 categories:

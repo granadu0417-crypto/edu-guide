@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-wolgok1-middle-english/
 title: "성북구 월곡1동 중등 영어과외 | 월곡중 기초부터 심화까지"
 date: 2025-01-29
 categories:

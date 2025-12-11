@@ -13,24 +13,6 @@ cities:
 tags:
   - 종로구수학과외
   - 종로구중등수학
-aliases:
-  - /middle/jongno-buam-middle-math/
-  - /middle/jongno-changsin1-middle-math/
-  - /middle/jongno-changsin2-middle-math/
-  - /middle/jongno-changsin3-middle-math/
-  - /middle/jongno-cheongunhyoja-middle-math/
-  - /middle/jongno-gahoe-middle-math/
-  - /middle/jongno-gyonam-middle-math/
-  - /middle/jongno-hyehwa-middle-math/
-  - /middle/jongno-ihwa-middle-math/
-  - /middle/jongno-jongno1234-middle-math/
-  - /middle/jongno-jongno56-middle-math/
-  - /middle/jongno-muak-middle-math/
-  - /middle/jongno-pyeongchang-middle-math/
-  - /middle/jongno-sajik-middle-math/
-  - /middle/jongno-samcheong-middle-math/
-  - /middle/jongno-sungin1-middle-math/
-  - /middle/jongno-sungin2-middle-math/
 ---
 
 종로구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

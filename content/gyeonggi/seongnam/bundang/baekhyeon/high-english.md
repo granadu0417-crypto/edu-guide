@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-baekhyeon-high-english/
 title: "성남시 분당구 백현동 고등 영어과외 | 성남외고·판교고·분당고 내신·수능 대비"
 date: 2025-01-15
 categories:

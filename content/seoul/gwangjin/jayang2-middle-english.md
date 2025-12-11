@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-jayang2-middle-english/
 title: 광진구 자양2동 중등 영어과외 - 건대부중·광양중 내신 완성
 date: 2025-01-29
 categories:

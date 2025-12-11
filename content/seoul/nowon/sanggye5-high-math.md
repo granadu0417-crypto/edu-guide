@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye5-high-math/
 title: 노원구 상계5동 고등 수학과외 | 노원고·수락고 학교별 내신 특화
 date: 2025-01-29
 categories:

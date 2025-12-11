@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-wonhyoro1-middle-english/
 title: "용산구 원효로1동 중등 영어과외 | 선린중 회화·문법 병행"
 date: 2025-05-15
 categories:

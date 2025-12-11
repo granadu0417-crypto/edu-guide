@@ -1,8 +1,6 @@
 ---
 title: "관악구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
-aliases:
-  - /cities/관악구/
 description: "관악구 중등·고등 수학·영어 과외. 서울대부고, 신림고, 관악고, 인헌고 등 관악구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0356_Eerotju7VgI.jpg"
 regions:

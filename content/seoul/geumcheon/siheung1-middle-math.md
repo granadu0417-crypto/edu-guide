@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung1-middle-math/
 title: "금천구 시흥1동 중등 수학과외 | 시흥중·문일중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-samsung1-middle-english/
 title: 강남구 삼성1동 중등 영어과외 - 언주중·봉은중 내신 전문
 date: 2025-01-28
 categories:

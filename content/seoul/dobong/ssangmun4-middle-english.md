@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-ssangmun4-middle-english/
 title: "도봉구 쌍문4동 중등 영어과외 | 선덕중·정의여중 체계적 학습 관리"
 date: 2025-01-29
 categories:

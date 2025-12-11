@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-자양3-high-math/
 title: "광진구 자양3동 고등 수학과외 | 광양고 문제 해결력 향상"
 date: 2025-01-28
 categories:

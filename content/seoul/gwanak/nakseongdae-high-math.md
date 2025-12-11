@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-낙성대-high-math/
 title: "관악구 낙성대동 고등 수학과외 | 인헌고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

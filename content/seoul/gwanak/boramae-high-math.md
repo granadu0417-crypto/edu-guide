@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-보라매-high-math/
 title: "관악구 보라매동 고등 수학과외 | 당곡고 킬러문항 특화"
 date: 2025-01-28
 categories:

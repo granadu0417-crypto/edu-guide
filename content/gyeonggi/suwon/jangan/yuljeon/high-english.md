@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-yuljeon-high-english/
 title: "수원시 장안구 율전동 고등 영어과외 | 율전고·아주대부고·경기과학고 내신·수능 대비"
 date: 2025-01-15
 categories:

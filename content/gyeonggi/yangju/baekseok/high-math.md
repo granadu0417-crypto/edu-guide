@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yangju-baekseok-high-math/
 title: "양주시 백석읍 고등 수학과외 | 양주백석고·양주고·덕정고 내신·수능 대비"
 date: 2025-01-15
 categories:

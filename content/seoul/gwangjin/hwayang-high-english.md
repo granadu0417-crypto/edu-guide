@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-화양-high-english/
 title: "광진구 화양동 고등 영어과외 | 건대부고 문법 패턴 완성"
 date: 2025-01-28
 categories:

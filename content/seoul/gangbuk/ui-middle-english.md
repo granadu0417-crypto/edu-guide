@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-ui-middle-english/
 title: "강북구 우이동 중등 영어과외 | 인수중·화계중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

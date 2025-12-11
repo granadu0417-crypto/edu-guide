@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-gaebong1-middle-english/
 title: "구로구 개봉1동 중등 영어과외 | 개봉중 내신 완벽 대비"
 date: 2025-01-29
 categories:

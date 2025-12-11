@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-bangi-1-middle-english/
 title: 송파구 방이1동 중등 영어과외 - 방이중·오륜중 내신 전문
 date: 2025-01-29
 categories:

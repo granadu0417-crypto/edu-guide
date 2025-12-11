@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-대치2-high-english/
 title: "강남구 대치2동 고등 영어과외 | 단대부고·대진고 약점 집중 보완"
 date: 2025-01-28
 categories:

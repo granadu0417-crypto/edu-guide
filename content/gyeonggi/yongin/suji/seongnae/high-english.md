@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-seongnae-high-english/
 title: "용인시 수지구 성복동 고등 영어과외 | 현암고·수지고·상현고 내신·수능 대비"
 date: 2025-01-15
 categories:

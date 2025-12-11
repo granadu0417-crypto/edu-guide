@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-sujin1-middle-english/
 title: "성남시 수정구 수진1동 중등 영어과외 | 성남중·복정중·태원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

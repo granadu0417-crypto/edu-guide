@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-석관-high-english/
 title: "성북구 석관동 고등 영어과외 | 대광고·성북고 단계별 실력 향상"
 date: 2025-01-28
 categories:

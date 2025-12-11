@@ -13,23 +13,6 @@ cities:
 tags:
   - 은평구영어과외
   - 은평구중등영어
-aliases:
-  - /middle/eunpyeong-bulgwang1-middle-english/
-  - /middle/eunpyeong-bulgwang2-middle-english/
-  - /middle/eunpyeong-daejo-middle-english/
-  - /middle/eunpyeong-eungam1-middle-english/
-  - /middle/eunpyeong-eungam2-middle-english/
-  - /middle/eunpyeong-eungam3-middle-english/
-  - /middle/eunpyeong-galhyeon1-middle-english/
-  - /middle/eunpyeong-galhyeon2-middle-english/
-  - /middle/eunpyeong-gusan-middle-english/
-  - /middle/eunpyeong-jeungsan-middle-english/
-  - /middle/eunpyeong-jingwan-middle-english/
-  - /middle/eunpyeong-nokbeon-middle-english/
-  - /middle/eunpyeong-sinsa1-middle-english/
-  - /middle/eunpyeong-sinsa2-middle-english/
-  - /middle/eunpyeong-susaek-middle-english/
-  - /middle/eunpyeong-yeokchon-middle-english/
 ---
 
 은평구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

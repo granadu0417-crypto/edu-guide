@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/osan-sinjan-high-english/
 title: "오산시 신장동 고등 영어과외 | 운천고·오산고·세마고 내신·수능 대비"
 date: 2025-01-15
 categories:

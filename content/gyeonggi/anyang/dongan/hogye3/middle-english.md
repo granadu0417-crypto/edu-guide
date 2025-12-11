@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-hogye3-middle-english/
 title: "안양시 동안구 호계3동 중등 영어과외 | 안양외중·평촌중·범계중 내신 완벽 대비"
 date: 2025-01-15
 categories:

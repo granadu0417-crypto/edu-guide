@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-anam-middle-english/
 title: "성북구 안암동 중등 영어과외 | 용문중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

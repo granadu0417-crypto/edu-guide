@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-항-high-math/
 title: "구로구 항동 고등 수학과외 | 유한공고 오답 패턴 교정"
 date: 2025-01-28
 categories:

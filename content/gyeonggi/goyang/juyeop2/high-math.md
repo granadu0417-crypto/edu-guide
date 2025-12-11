@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-juyeop2-high-math/
 title: "고양시 일산서구 주엽2동 고등 수학과외 | 주엽고 실전 문제 훈련"
 date: 2025-01-15
 categories:

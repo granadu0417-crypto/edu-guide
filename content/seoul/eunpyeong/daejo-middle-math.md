@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-daejo-middle-math/
 title: "은평구 대조동 중등 수학과외 | 동명여중·구산중 개념부터 실전까지"
 date: 2025-05-20
 categories:

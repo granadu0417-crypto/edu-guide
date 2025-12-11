@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jeongneung2-middle-english/
 title: "성북구 정릉2동 중등 영어과외 | 북악중·숭곡중 독해·문법 완성"
 date: 2025-01-29
 categories:

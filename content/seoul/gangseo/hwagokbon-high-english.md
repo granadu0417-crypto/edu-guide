@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡본-high-english/
 title: "강서구 화곡본동 고등 영어과외 | 화곡고 독해력 특화"
 date: 2025-01-28
 categories:

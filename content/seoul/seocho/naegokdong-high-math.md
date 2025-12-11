@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-내곡-high-math/
 title: "서초구 내곡동 고등 수학과외 | 언남고·서울세종고 목표 등급 달성"
 date: 2025-01-28
 categories:

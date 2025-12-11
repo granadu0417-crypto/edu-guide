@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-잠원-high-english/
 title: "서초구 잠원동 고등 영어과외 | 세화고·반포고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

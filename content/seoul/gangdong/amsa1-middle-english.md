@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-amsa1-middle-english/
 title: 강동구 암사1동 중등 영어과외 - 암사중·강일중 내신 집중
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-신대방1-high-english/
 title: "동작구 신대방1동 고등 영어과외 | 수도여고·숭의여고 독해·문법 완성"
 date: 2025-01-28
 categories:

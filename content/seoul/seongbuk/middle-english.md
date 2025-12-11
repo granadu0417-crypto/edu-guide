@@ -13,29 +13,6 @@ cities:
 tags:
   - 성북구영어과외
   - 성북구중등영어
-aliases:
-  - /middle/seongbuk-anam-middle-english/
-  - /middle/seongbuk-bomun-middle-english/
-  - /middle/seongbuk-donam1-middle-english/
-  - /middle/seongbuk-donam2-middle-english/
-  - /middle/seongbuk-dongseon-middle-english/
-  - /middle/seongbuk-gileum1-middle-english/
-  - /middle/seongbuk-gileum2-middle-english/
-  - /middle/seongbuk-hawolgok-middle-english/
-  - /middle/seongbuk-jangwi1-middle-english/
-  - /middle/seongbuk-jangwi2-middle-english/
-  - /middle/seongbuk-jangwi3-middle-english/
-  - /middle/seongbuk-jeongneung1-middle-english/
-  - /middle/seongbuk-jeongneung2-middle-english/
-  - /middle/seongbuk-jeongneung3-middle-english/
-  - /middle/seongbuk-jeongneung4-middle-english/
-  - /middle/seongbuk-jongam-middle-english/
-  - /middle/seongbuk-samseong-middle-english/
-  - /middle/seongbuk-sangwolgok-middle-english/
-  - /middle/seongbuk-seokgwan-middle-english/
-  - /middle/seongbuk-seongbuk-middle-english/
-  - /middle/seongbuk-wolgok1-middle-english/
-  - /middle/seongbuk-wolgok2-middle-english/
 ---
 
 성북구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

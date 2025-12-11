@@ -1,8 +1,6 @@
 ---
 title: "성북구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
-aliases:
-  - /cities/성북구/
 description: "성북구 중등·고등 수학·영어 과외. 고려대부고, 경동고, 성신여고, 정덕고 등 성북구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 regions:

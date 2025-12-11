@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-ingye-middle-english/
 title: "수원시 팔달구 인계동 중등 영어과외 | 유신중·창현중·동우여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-성산2-high-english/
 title: "마포구 성산2동 고등 영어과외 | 홍익대부속여고·상암고 영어 실력 완성"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-독산3-high-math/
 title: "금천구 독산3동 고등 수학과외 | 독산고 개념부터 심화까지"
 date: 2025-01-28
 categories:

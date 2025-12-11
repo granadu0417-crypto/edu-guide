@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-yuljeon-middle-english/
 title: "수원시 장안구 율전동 중등 영어과외 | 율전중·아주대부중·경기과학중 내신 완벽 대비"
 date: 2025-01-15
 categories:

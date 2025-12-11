@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol7-middle-math/
 title: "양천구 신월7동 중등 수학과외 | 양천중·양서중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

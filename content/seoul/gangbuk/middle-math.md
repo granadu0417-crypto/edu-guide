@@ -13,20 +13,6 @@ cities:
 tags:
   - 강북구수학과외
   - 강북구중등수학
-aliases:
-  - /middle/gangbuk-beon1-middle-math/
-  - /middle/gangbuk-beon2-middle-math/
-  - /middle/gangbuk-beon3-middle-math/
-  - /middle/gangbuk-insu-middle-math/
-  - /middle/gangbuk-mia-middle-math/
-  - /middle/gangbuk-samgaksan-middle-math/
-  - /middle/gangbuk-samyang-middle-math/
-  - /middle/gangbuk-songcheon-middle-math/
-  - /middle/gangbuk-songjung-middle-math/
-  - /middle/gangbuk-suyu1-middle-math/
-  - /middle/gangbuk-suyu2-middle-math/
-  - /middle/gangbuk-suyu3-middle-math/
-  - /middle/gangbuk-ui-middle-math/
 ---
 
 강북구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

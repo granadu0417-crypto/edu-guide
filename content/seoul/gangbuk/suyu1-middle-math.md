@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-suyu1-middle-math/
 title: "강북구 수유1동 중등 수학과외 | 수유중 학교별 내신 특화"
 date: 2025-01-29
 categories:

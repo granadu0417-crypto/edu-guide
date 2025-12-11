@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-gaebong2-middle-english/
 title: "구로구 개봉2동 중등 영어과외 | 개봉중 독해·문법 완성"
 date: 2025-01-29
 categories:

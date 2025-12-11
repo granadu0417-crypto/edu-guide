@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-gozan-middle-math/
 title: "안산시 단원구 고잔동 중등 수학과외 | 중잔중·단원중·성안중 내신 완벽 대비"
 date: 2025-01-15
 categories:

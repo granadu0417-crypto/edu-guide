@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/uijeongbu-sinheung-middle-english/
 title: "의정부시 신곡1동 중등 영어과외 | 경민중·의정부중·효자중 내신 완벽 대비"
 date: 2025-01-15
 categories:

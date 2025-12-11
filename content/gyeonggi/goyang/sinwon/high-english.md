@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-sinwon-high-english/
 title: "고양시 덕양구 신원동 고등 영어과외 | 능곡고 수능 고득점 비결"
 date: 2025-01-15
 categories:

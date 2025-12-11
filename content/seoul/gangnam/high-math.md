@@ -20,29 +20,6 @@ tags:
   - 중동고
   - 수능수학
   - 킬러문항
-aliases:
-  - /high/gangnam-apgujeong-high-math/
-  - /high/gangnam-cheongdam-high-math/
-  - /high/gangnam-daechi1-high-math/
-  - /high/gangnam-daechi2-high-math/
-  - /high/gangnam-daechi4-high-math/
-  - /high/gangnam-dogok1-high-math/
-  - /high/gangnam-dogok2-high-math/
-  - /high/gangnam-gaepo1-high-math/
-  - /high/gangnam-gaepo2-high-math/
-  - /high/gangnam-gaepo3-high-math/
-  - /high/gangnam-gaepo4-high-math/
-  - /high/gangnam-ilwon1-high-math/
-  - /high/gangnam-ilwonbon-high-math/
-  - /high/gangnam-nonhyeon1-high-math/
-  - /high/gangnam-nonhyeon2-high-math/
-  - /high/gangnam-samsung1-high-math/
-  - /high/gangnam-samsung2-high-math/
-  - /high/gangnam-segok-high-math/
-  - /high/gangnam-sinsa-high-math/
-  - /high/gangnam-suseo-high-math/
-  - /high/gangnam-yeoksam1-high-math/
-  - /high/gangnam-yeoksam2-high-math/
 ---
 
 고등학교 수학, 중학교와 차원이 다릅니다. 강남구 고등학교 내신은 전국 최고 난이도이며, 수능 킬러 문항 대비까지 필요합니다.

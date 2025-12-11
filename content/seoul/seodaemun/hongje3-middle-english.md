@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongje3-middle-english/
 title: "서대문구 홍제3동 중등 영어과외 | 인왕중 학교별 내신 특화"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-hyangdong-middle-math/
 title: "고양시 덕양구 향동동 중등 수학과외 | 향동중 학습 효율 극대화"
 date: 2025-01-15
 categories:

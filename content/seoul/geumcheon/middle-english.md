@@ -13,17 +13,6 @@ cities:
 tags:
   - 금천구영어과외
   - 금천구중등영어
-aliases:
-  - /middle/geumcheon-doksan1-middle-english/
-  - /middle/geumcheon-doksan2-middle-english/
-  - /middle/geumcheon-doksan3-middle-english/
-  - /middle/geumcheon-doksan4-middle-english/
-  - /middle/geumcheon-gasan-middle-english/
-  - /middle/geumcheon-siheung1-middle-english/
-  - /middle/geumcheon-siheung2-middle-english/
-  - /middle/geumcheon-siheung3-middle-english/
-  - /middle/geumcheon-siheung4-middle-english/
-  - /middle/geumcheon-siheung5-middle-english/
 ---
 
 금천구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

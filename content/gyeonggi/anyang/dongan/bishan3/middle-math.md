@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-bishan3-middle-math/
 title: "안양시 동안구 비산3동 중등 수학과외 | 평촌중·범계중·부흥중 내신 완벽 대비"
 date: 2025-01-15
 categories:

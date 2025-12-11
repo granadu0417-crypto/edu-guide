@@ -13,26 +13,6 @@ cities:
 tags:
   - 노원구영어과외
   - 노원구고등영어
-aliases:
-  - /high/nowon-gongneung1-high-english/
-  - /high/nowon-gongneung2-high-english/
-  - /high/nowon-hagye1-high-english/
-  - /high/nowon-hagye2-high-english/
-  - /high/nowon-junggye1-high-english/
-  - /high/nowon-junggye23-high-english/
-  - /high/nowon-junggye4-high-english/
-  - /high/nowon-junggyebon-high-english/
-  - /high/nowon-sanggye1-high-english/
-  - /high/nowon-sanggye10-high-english/
-  - /high/nowon-sanggye2-high-english/
-  - /high/nowon-sanggye34-high-english/
-  - /high/nowon-sanggye5-high-english/
-  - /high/nowon-sanggye67-high-english/
-  - /high/nowon-sanggye8-high-english/
-  - /high/nowon-sanggye9-high-english/
-  - /high/nowon-wolgye1-high-english/
-  - /high/nowon-wolgye2-high-english/
-  - /high/nowon-wolgye3-high-english/
 ---
 
 노원구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

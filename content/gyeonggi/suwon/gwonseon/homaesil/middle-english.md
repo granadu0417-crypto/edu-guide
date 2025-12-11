@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-homaesil-middle-english/
 title: "수원시 권선구 호매실동 중등 영어과외 | 칠보중·호매실중·권선중 내신 완벽 대비"
 date: 2025-01-15
 categories:

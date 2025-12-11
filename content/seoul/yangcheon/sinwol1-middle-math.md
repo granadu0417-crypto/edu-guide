@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol1-middle-math/
 title: "양천구 신월1동 중등 수학과외 | 신원중 학교별 내신 특화"
 date: 2025-01-29
 categories:

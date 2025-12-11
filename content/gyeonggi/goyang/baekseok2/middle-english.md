@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-baekseok2-middle-english/
 title: "고양시 일산동구 백석2동 중등 영어과외 | 백신중 독해·문법 완성"
 date: 2025-01-15
 categories:

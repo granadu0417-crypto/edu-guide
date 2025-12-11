@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-북가좌1-high-math/
 title: "서대문구 북가좌1동 고등 수학과외 | 가재울고 약점 집중 보완"
 date: 2025-01-28
 categories:

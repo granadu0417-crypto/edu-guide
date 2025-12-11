@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-samga-middle-math/
 title: "용인시 처인구 삼가동 중등 수학과외 | 처인중·용인중·양지중 내신 완벽 대비"
 date: 2025-01-15
 categories:

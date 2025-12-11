@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-oka-high-math/
 title: "부천시 오정동 고등 수학과외 | 정명고·부천고·부천여고 내신·수능 대비"
 date: 2025-01-15
 categories:

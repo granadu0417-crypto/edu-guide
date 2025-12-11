@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-seobinggo-high-english/
 title: "용산구 서빙고동 고등 영어과외 | 중경고·용산고 기초부터 실전까지"
 date: 2025-05-15
 categories:

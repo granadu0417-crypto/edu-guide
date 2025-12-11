@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-sangam-middle-math/
 title: "마포구 상암동 중등 수학과외 | 상암중 체계적 학습 관리"
 date: 2025-01-29
 categories:

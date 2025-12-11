@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-성내1-high-math/
 title: "강동구 성내1동 고등 수학과외 | 성내고·천호고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

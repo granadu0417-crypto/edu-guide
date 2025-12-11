@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-jingwan-middle-english/
 title: "은평구 진관동 중등 영어과외 | 진관중 내신·특목고 대비"
 date: 2025-05-20
 categories:

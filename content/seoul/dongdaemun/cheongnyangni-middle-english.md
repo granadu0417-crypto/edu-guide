@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-cheongnyangni-middle-english/
 title: "동대문구 청량리동 중등 영어과외 | 청량중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

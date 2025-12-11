@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-yeonhui-middle-math/
 title: "서대문구 연희동 중등 수학과외 | 서연중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

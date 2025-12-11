@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-gusan-middle-english/
 title: "은평구 구산동 중등 영어과외 | 구산중·은평중·예일여중 내신·회화 병행"
 date: 2025-05-20
 categories:

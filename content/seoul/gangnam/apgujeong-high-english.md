@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-압구정-high-english/
 title: "강남구 압구정동 고등 영어과외 | 압구정고·현대고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

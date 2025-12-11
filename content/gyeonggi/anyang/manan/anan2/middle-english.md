@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-anan2-middle-english/
 title: "안양시 만안구 안양2동 중등 영어과외 | 백영중·안양중·신성중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-heungnong-middle-math/
 title: "고양시 덕양구 흥농동 중등 수학과외 | 흥도중 개별 맞춤 수업"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-daechi4-middle-english/
 title: 강남구 대치4동 중등 영어과외 - 휘문중·대명중 내신 전문
 date: 2025-01-28
 categories:

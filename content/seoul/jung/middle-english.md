@@ -13,22 +13,6 @@ cities:
 tags:
   - 중구영어과외
   - 중구중등영어
-aliases:
-  - /middle/jung-cheonggu-middle-english/
-  - /middle/jung-dasan-middle-english/
-  - /middle/jung-donghwa-middle-english/
-  - /middle/jung-euljiro-middle-english/
-  - /middle/jung-gwanghui-middle-english/
-  - /middle/jung-hoehyeon-middle-english/
-  - /middle/jung-hwanghak-middle-english/
-  - /middle/jung-jangchung-middle-english/
-  - /middle/jung-junglim-middle-english/
-  - /middle/jung-myeongdong-middle-english/
-  - /middle/jung-pildong-middle-english/
-  - /middle/jung-sindang-middle-english/
-  - /middle/jung-sindang5-middle-english/
-  - /middle/jung-sogong-middle-english/
-  - /middle/jung-yaksu-middle-english/
 ---
 
 중구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

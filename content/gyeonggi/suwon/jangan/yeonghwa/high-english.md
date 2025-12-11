@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-yeonghwa-high-english/
 title: "수원시 장안구 영화동 고등 영어과외 | 영생고·천천고·수원공고 내신·수능 대비"
 date: 2025-01-15
 categories:

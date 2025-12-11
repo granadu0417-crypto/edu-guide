@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sangdo3-middle-english/
 title: "동작구 상도3동 중등 영어과외 | 국사봉중·장승중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

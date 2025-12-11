@@ -13,29 +13,6 @@ cities:
 tags:
   - 성북구수학과외
   - 성북구고등수학
-aliases:
-  - /high/seongbuk-anam-high-math/
-  - /high/seongbuk-bomun-high-math/
-  - /high/seongbuk-donam1-high-math/
-  - /high/seongbuk-donam2-high-math/
-  - /high/seongbuk-dongseon-high-math/
-  - /high/seongbuk-gileum1-high-math/
-  - /high/seongbuk-gileum2-high-math/
-  - /high/seongbuk-hawolgok-high-math/
-  - /high/seongbuk-jangwi1-high-math/
-  - /high/seongbuk-jangwi2-high-math/
-  - /high/seongbuk-jangwi3-high-math/
-  - /high/seongbuk-jeongneung1-high-math/
-  - /high/seongbuk-jeongneung2-high-math/
-  - /high/seongbuk-jeongneung3-high-math/
-  - /high/seongbuk-jeongneung4-high-math/
-  - /high/seongbuk-jongam-high-math/
-  - /high/seongbuk-samseong-high-math/
-  - /high/seongbuk-sangwolgok-high-math/
-  - /high/seongbuk-seokgwan-high-math/
-  - /high/seongbuk-seongbuk-high-math/
-  - /high/seongbuk-wolgok1-high-math/
-  - /high/seongbuk-wolgok2-high-math/
 ---
 
 성북구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

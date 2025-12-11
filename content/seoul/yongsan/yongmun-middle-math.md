@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-yongmun-middle-math/
 title: "용산구 용문동 중등 수학과외 | 선린중·성심여중 단계별 실력 향상"
 date: 2025-05-15
 categories:

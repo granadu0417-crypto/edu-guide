@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-jamwondong-middle-math/
 title: 서초구 잠원동 중등 수학과외 - 경원중·신동중 맞춤 관리
 date: 2025-01-22
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/namyangju-pyeongnae-middle-english/
 title: "남양주시 평내동 중등 영어과외 | 동화중·남양주중·호평중 내신 완벽 대비"
 date: 2025-01-15
 categories:

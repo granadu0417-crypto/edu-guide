@@ -1,8 +1,6 @@
 ---
 title: "마포구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
-aliases:
-  - /cities/마포구/
 description: "마포구 중등·고등 수학·영어 과외. 홍대부고, 서강고, 마포고, 성산고 등 마포구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 regions:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol6-middle-english/
 title: "양천구 신월6동 중등 영어과외 | 강신중 독해·문법 완성"
 date: 2025-01-29
 categories:

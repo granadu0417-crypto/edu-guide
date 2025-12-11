@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-seobinggo-middle-math/
 title: "용산구 서빙고동 중등 수학과외 | 한강중 체계적 학습 관리"
 date: 2025-05-15
 categories:

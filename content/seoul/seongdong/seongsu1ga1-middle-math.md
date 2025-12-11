@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-seongsu1ga1-middle-math/
 title: "성동구 성수1가1동 중등 수학과외 | 성수중 학교별 내신 특화"
 date: 2025-01-29
 categories:

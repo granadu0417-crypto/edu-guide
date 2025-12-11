@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-pungdeokcheon2-high-english/
 title: "용인시 수지구 풍덕천2동 고등 영어과외 | 풍덕고·수지고·현암고 내신·수능 대비"
 date: 2025-01-15
 categories:

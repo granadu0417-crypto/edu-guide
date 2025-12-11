@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-청운효자-high-english/
 title: "종로구 청운효자동 고등 영어과외 | 경복고·동성고·중앙고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

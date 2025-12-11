@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-개포2-high-english/
 title: "강남구 개포2동 고등 영어과외 | 개포고·대진고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

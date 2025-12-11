@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-pyeongchon-middle-math/
 title: "안양시 동안구 평촌동 중등 수학과외 | 평촌중·안양외중·범계중 내신 완벽 대비"
 date: 2025-01-15
 categories:

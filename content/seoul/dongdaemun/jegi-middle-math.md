@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-jegi-middle-math/
 title: "동대문구 제기동 중등 수학과외 | 성일중·정화여중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

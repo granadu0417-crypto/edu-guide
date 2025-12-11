@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-명일1-high-english/
 title: "강동구 명일1동 고등 영어과외 | 명일고·명일여고 내신 1등급 전략"
 date: 2025-01-28
 categories:

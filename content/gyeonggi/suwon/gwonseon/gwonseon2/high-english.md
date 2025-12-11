@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-gwonseon2-high-english/
 title: "수원시 권선구 권선2동 고등 영어과외 | 권선고·세류고·칠보고 내신·수능 대비"
 date: 2025-01-15
 categories:

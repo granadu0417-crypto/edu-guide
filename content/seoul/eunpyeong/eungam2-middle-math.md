@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-eungam2-middle-math/
 title: "은평구 응암2동 중등 수학과외 | 충암중·덕산중 수학 실력 완성"
 date: 2025-05-20
 categories:

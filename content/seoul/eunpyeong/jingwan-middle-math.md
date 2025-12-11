@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-jingwan-middle-math/
 title: "은평구 진관동 중등 수학과외 | 진관중 하나고 대비 특화"
 date: 2025-05-20
 categories:

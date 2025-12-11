@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-독산1-high-english/
 title: "금천구 독산1동 고등 영어과외 | 독산고 내신·수능 대비"
 date: 2025-01-28
 categories:

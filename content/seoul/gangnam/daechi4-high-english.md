@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-대치4-high-english/
 title: "강남구 대치4동 고등 영어과외 | 휘문고·보성고 단계별 실력 향상"
 date: 2025-01-28
 categories:

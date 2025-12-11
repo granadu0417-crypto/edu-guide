@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-숭인1-high-math/
 title: "종로구 숭인1동 고등 수학과외 | 경복고·동성고·중앙고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

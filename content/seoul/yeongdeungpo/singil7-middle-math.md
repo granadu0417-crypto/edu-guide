@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil7-middle-math/
 title: "영등포구 신길7동 중등 수학과외 | 신길중·대영중 실력 향상 수업"
 date: 2025-01-29
 categories:

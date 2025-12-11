@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwanak-miseong-middle-english/
 title: "관악구 미성동 중등 영어과외 | 남서울중·미성중·성보중 내신 완벽 대비"
 date: 2025-01-29
 categories:

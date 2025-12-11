@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-sangdaewon3-middle-english/
 title: "성남시 중원구 상대원3동 중등 영어과외 | 동광중·성일중·성남중 내신 완벽 대비"
 date: 2025-01-15
 categories:

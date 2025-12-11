@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-ssangmun2-middle-english/
 title: "도봉구 쌍문2동 중등 영어과외 | 백운중 독해·문법 완성"
 date: 2025-01-29
 categories:

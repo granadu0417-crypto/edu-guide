@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-논현1-high-math/
 title: "강남구 논현1동 고등 수학과외 | 언주중·압구정고 수능 고득점 전략"
 date: 2025-01-28
 categories:

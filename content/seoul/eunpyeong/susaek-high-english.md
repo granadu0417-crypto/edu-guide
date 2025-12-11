@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-susaek-high-english/
 title: "은평구 수색동 고등 영어과외 | 은평고·충암고 독해력 강화"
 date: 2025-05-20
 categories:

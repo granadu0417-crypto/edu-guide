@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-banghak2-middle-math/
 title: "도봉구 방학2동 중등 수학과외 | 방학중·신방학중 내신 완벽 대비"
 date: 2025-01-29
 categories:

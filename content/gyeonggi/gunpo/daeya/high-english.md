@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gunpo-daeya-high-english/
 title: "군포시 대야동 고등 영어과외 | 수리고·흥진고·군포고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangju-hwedok2-middle-english/
 title: "양주시 회천2동 중등 영어과외 | 양주중·덕정중·양주백석중 내신 완벽 대비"
 date: 2025-01-15
 categories:

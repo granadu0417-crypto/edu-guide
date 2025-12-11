@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-망원1-high-math/
 title: "마포구 망원1동 고등 수학과외 | 경성고·상암고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-jeungsan-middle-math/
 title: "은평구 증산동 중등 수학과외 | 증산중·연서중 수학 자신감 향상"
 date: 2025-05-20
 categories:

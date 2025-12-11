@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/guri-gyomun1-high-english/
 title: "구리시 교문1동 고등 영어과외 | 동구고·구리고·인창고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-gocheok2-middle-english/
 title: "구로구 고척2동 중등 영어과외 | 고척중·오류중 실력 향상 수업"
 date: 2025-01-29
 categories:

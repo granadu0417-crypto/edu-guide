@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-hyochang-middle-math/
 title: "용산구 효창동 중등 수학과외 | 선린중·성심여중 개념 완성 수업"
 date: 2025-05-15
 categories:

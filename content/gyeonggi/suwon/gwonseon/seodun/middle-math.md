@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-seodun-middle-math/
 title: "수원시 권선구 서둔동 중등 수학과외 | 농생명중·권선중·중색중 내신 완벽 대비"
 date: 2025-01-15
 categories:

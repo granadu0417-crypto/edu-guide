@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-mohyeon-middle-english/
 title: "용인시 처인구 모현면 중등 영어과외 | 용인중·처인중·양지중 내신 완벽 대비"
 date: 2025-01-15
 categories:

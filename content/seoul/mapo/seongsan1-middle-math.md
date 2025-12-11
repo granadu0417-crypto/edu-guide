@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-seongsan1-middle-math/
 title: "마포구 성산1동 중등 수학과외 | 성서중·홍익대부속여중 개념부터 실전까지"
 date: 2025-01-29
 categories:

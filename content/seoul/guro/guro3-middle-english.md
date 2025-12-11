@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-guro3-middle-english/
 title: "구로구 구로3동 중등 영어과외 | 영림중·구일중 학교별 내신 특화"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-사당5-high-english/
 title: "동작구 사당5동 고등 영어과외 | 동작고·경문고 실력 향상 수업"
 date: 2025-01-28
 categories:

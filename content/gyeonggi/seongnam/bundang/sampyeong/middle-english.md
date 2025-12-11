@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-sampyeong-middle-english/
 title: "성남시 분당구 삼평동 중등 영어과외 | 판교중·늘푸른중·성남외중 내신 완벽 대비"
 date: 2025-01-15
 categories:

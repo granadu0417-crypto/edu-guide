@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangmyeong-choldong4-middle-math/
 title: "광명시 철산4동 중등 수학과외 | 진성중·광명북중·광명중 내신 완벽 대비"
 date: 2025-01-15
 categories:

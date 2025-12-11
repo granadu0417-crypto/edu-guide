@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye2-middle-english/
 title: 노원구 상계2동 중등 영어과외 | 상계중·상계제일중·노일중 내신 완성
 date: 2025-01-29
 categories:

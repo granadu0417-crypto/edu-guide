@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye67-high-math/
 title: 노원구 상계6·7동 고등 수학과외 | 상계고·노원고 내신·수능 대비
 date: 2025-01-29
 categories:

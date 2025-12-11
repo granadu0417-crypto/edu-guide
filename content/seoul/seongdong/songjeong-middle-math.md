@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-songjeong-middle-math/
 title: "성동구 송정동 중등 수학과외 | 성원중·성수중 체계적 학습 관리"
 date: 2025-01-29
 categories:

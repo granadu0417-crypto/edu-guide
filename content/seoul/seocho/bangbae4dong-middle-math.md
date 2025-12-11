@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-bangbae4dong-middle-math/
 title: 서초구 방배4동 중등 수학과외 - 동덕여중·서문여중 맞춤 관리
 date: 2025-01-22
 categories:

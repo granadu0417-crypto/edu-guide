@@ -13,30 +13,6 @@ cities:
 tags:
   - 강서구수학과외
   - 강서구고등수학
-aliases:
-  - /high/gangseo-balsan1-high-math/
-  - /high/gangseo-banghwa1-high-math/
-  - /high/gangseo-banghwa2-high-math/
-  - /high/gangseo-banghwa3-high-math/
-  - /high/gangseo-deungchon1-high-math/
-  - /high/gangseo-deungchon2-high-math/
-  - /high/gangseo-deungchon3-high-math/
-  - /high/gangseo-gayang1-high-math/
-  - /high/gangseo-gayang2-high-math/
-  - /high/gangseo-gayang3-high-math/
-  - /high/gangseo-gonghang-high-math/
-  - /high/gangseo-hwagok1-high-math/
-  - /high/gangseo-hwagok2-high-math/
-  - /high/gangseo-hwagok3-high-math/
-  - /high/gangseo-hwagok4-high-math/
-  - /high/gangseo-hwagok5-high-math/
-  - /high/gangseo-hwagok6-high-math/
-  - /high/gangseo-hwagok7-high-math/
-  - /high/gangseo-hwagok8-high-math/
-  - /high/gangseo-hwagokbon-high-math/
-  - /high/gangseo-magok-high-math/
-  - /high/gangseo-ujangsan-high-math/
-  - /high/gangseo-yeomchang-high-math/
 ---
 
 강서구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

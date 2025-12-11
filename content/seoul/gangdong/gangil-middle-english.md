@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-gangil-middle-english/
 title: 강동구 강일동 중등 영어과외 - 강일중·상일중 내신 집중
 date: 2025-01-29
 categories:

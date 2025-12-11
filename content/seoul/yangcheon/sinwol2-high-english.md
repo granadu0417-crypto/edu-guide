@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신월2-high-english/
 title: "양천구 신월2동 고등 영어과외 | 광영고·광영여고 단계별 실력 향상"
 date: 2025-01-28
 categories:

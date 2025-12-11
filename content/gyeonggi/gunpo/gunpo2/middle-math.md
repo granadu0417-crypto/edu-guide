@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gunpo-gunpo2-middle-math/
 title: "군포시 군포2동 중등 수학과외 | 흥진중·군포중·수리중 내신 완벽 대비"
 date: 2025-01-15
 categories:

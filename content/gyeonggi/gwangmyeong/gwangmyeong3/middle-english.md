@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangmyeong-gwangmyeong3-middle-english/
 title: "광명시 광명3동 중등 영어과외 | 광명중·진성중·광명북중 내신 완벽 대비"
 date: 2025-01-15
 categories:

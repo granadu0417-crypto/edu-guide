@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-deokeun-high-math/
 title: "고양시 덕양구 덕은동 고등 수학과외 | 능곡고 내신 완벽 분석"
 date: 2025-01-15
 categories:

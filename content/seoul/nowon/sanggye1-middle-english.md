@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye1-middle-english/
 title: 노원구 상계1동 중등 영어과외 | 상계중·상계제일중·노일중 맞춤 수업
 date: 2025-01-29
 categories:

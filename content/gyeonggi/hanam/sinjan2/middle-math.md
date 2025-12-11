@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hanam-sinjan2-middle-math/
 title: "하남시 신장2동 중등 수학과외 | 미사중·하남중·위례중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-gwansan-high-math/
 title: "고양시 덕양구 관산동 고등 수학과외 | 고양외고 내신·수능 병행 관리"
 date: 2025-01-15
 categories:

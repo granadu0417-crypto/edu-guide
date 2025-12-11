@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-쌍문1-high-math/
 title: "도봉구 쌍문1동 고등 수학과외 | 선덕고·서라벌고 등급 향상 전략"
 date: 2025-01-28
 categories:

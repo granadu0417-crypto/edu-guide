@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-문정2-high-english/
 title: "송파구 문정2동 고등 영어과외 | 문정고·잠실고 내신 완벽 분석"
 date: 2025-01-28
 categories:

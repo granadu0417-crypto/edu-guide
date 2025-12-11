@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-도곡1-high-math/
 title: "강남구 도곡1동 고등 수학과외 | 개포고·경기고 실력 향상 비결"
 date: 2025-01-28
 categories:

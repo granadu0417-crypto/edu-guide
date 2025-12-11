@@ -9,10 +9,6 @@ tags:
   - 대전과외
   - 대전수학과외
   - 대전영어과외
-aliases:
-  - /local/daejeon-education-guide/
-  - /local/daejeon-math-tutoring/
-  - /local/daejeon-english-tutoring/
 ---
 
 ## 대전광역시 과외 안내

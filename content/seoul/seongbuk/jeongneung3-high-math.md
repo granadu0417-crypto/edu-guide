@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-정릉3-high-math/
 title: "성북구 정릉3동 고등 수학과외 | 홍익대사대부고 전문 선생님과 함께"
 date: 2025-01-28
 categories:

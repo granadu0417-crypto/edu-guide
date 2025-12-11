@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-segok-middle-english/
 title: 강남구 세곡동 중등 영어과외 - 세곡중·일원중 내신 전문
 date: 2025-01-28
 categories:

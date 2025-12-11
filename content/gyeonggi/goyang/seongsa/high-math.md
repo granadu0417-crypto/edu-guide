@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-seongsa-high-math/
 title: "고양시 덕양구 성사동 고등 수학과외 | 화정고 내신·수능 대비"
 date: 2025-01-15
 categories:

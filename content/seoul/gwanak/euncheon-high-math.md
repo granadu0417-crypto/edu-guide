@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-은천-high-math/
 title: "관악구 은천동 고등 수학과외 | 영락고 수학 실력 완성"
 date: 2025-01-28
 categories:

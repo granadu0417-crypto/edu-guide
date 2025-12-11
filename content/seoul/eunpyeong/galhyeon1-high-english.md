@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-galhyeon1-high-english/
 title: "은평구 갈현1동 고등 영어과외 | 선정고·대성고·숭실고 전통 명문 특화"
 date: 2025-05-20
 categories:

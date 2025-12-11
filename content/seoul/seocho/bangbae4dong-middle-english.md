@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-bangbae4dong-middle-english/
 title: 서초구 방배4동 중등 영어과외 - 동덕여중·서문여중 내신 전문
 date: 2025-01-22
 categories:

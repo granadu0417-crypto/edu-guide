@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-상암-high-english/
 title: "마포구 상암동 고등 영어과외 | 상암고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

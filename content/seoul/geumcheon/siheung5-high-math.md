@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-시흥5-high-math/
 title: "금천구 시흥5동 고등 수학과외 | 금천고·문일고·동일여고 수능 완벽 대비"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-mok4-middle-english/
 title: "양천구 목4동 중등 영어과외 | 영도중 실력 향상 수업"
 date: 2025-01-29
 categories:

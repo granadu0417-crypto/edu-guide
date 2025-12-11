@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hanam-wirye-middle-math/
 title: "하남시 위례동 중등 수학과외 | 위례중·미사중·하남중 내신 완벽 대비"
 date: 2025-01-15
 categories:

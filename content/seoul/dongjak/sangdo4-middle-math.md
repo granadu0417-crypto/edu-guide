@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sangdo4-middle-math/
 title: "동작구 상도4동 중등 수학과외 | 국사봉중·장승중 실력 향상 수업"
 date: 2025-01-29
 categories:

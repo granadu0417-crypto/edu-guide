@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-seryu3-high-math/
 title: "수원시 권선구 세류3동 고등 수학과외 | 세류고·고색고·권선고 내신·수능 대비"
 date: 2025-01-15
 categories:

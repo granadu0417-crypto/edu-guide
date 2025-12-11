@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-구로4-high-math/
 title: "구로구 구로4동 고등 수학과외 | 구일고·구로고 단계별 실력 향상"
 date: 2025-01-28
 categories:

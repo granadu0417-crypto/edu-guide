@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-itaewon2-middle-math/
 title: "용산구 이태원2동 중등 수학과외 | 오산중·한강중 수학 실력 완성"
 date: 2025-05-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongje3-middle-math/
 title: "서대문구 홍제3동 중등 수학과외 | 인왕중 체계적 학습 관리"
 date: 2025-01-29
 categories:

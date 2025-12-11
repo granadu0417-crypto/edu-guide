@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-창4-high-english/
 title: "도봉구 창4동 고등 영어과외 | 창동고 실력 향상 수업"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung2-middle-math/
 title: "금천구 시흥2동 중등 수학과외 | 동일중·한울중 실력 향상 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-독산2-high-english/
 title: "금천구 독산2동 고등 영어과외 | 독산고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

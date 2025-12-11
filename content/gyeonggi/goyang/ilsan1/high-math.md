@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-ilsan1-high-math/
 title: "고양시 일산서구 일산1동 고등 수학과외 | 일산고 맞춤 진도 설계"
 date: 2025-01-15
 categories:

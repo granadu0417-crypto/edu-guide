@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-거여2-high-math/
 title: "송파구 거여2동 고등 수학과외 | 문정고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

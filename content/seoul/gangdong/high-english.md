@@ -13,26 +13,6 @@ cities:
 tags:
   - 강동구영어과외
   - 강동구고등영어
-aliases:
-  - /high/gangdong-amsa1-high-english/
-  - /high/gangdong-amsa2-high-english/
-  - /high/gangdong-amsa3-high-english/
-  - /high/gangdong-cheonho1-high-english/
-  - /high/gangdong-cheonho2-high-english/
-  - /high/gangdong-cheonho3-high-english/
-  - /high/gangdong-dunchon1-high-english/
-  - /high/gangdong-dunchon2-high-english/
-  - /high/gangdong-gangil-high-english/
-  - /high/gangdong-gildong-high-english/
-  - /high/gangdong-godeok1-high-english/
-  - /high/gangdong-godeok2-high-english/
-  - /high/gangdong-myeongil1-high-english/
-  - /high/gangdong-myeongil2-high-english/
-  - /high/gangdong-sangil1-high-english/
-  - /high/gangdong-sangil2-high-english/
-  - /high/gangdong-seongnae1-high-english/
-  - /high/gangdong-seongnae2-high-english/
-  - /high/gangdong-seongnae3-high-english/
 ---
 
 강동구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

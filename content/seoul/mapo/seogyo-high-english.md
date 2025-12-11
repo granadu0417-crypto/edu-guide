@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-서교-high-english/
 title: "마포구 서교동 고등 영어과외 | 경성고·홍익대부속여고 내신 완벽 분석"
 date: 2025-01-28
 categories:

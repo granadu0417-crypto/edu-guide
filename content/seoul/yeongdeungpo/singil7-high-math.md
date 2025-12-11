@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-신길7-high-math/
 title: "영등포구 신길7동 고등 수학과외 | 대영고·장훈고 체계적 학습 관리"
 date: 2025-01-28
 categories:

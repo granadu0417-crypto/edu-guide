@@ -13,22 +13,6 @@ cities:
 tags:
   - 중구수학과외
   - 중구중등수학
-aliases:
-  - /middle/jung-cheonggu-middle-math/
-  - /middle/jung-dasan-middle-math/
-  - /middle/jung-donghwa-middle-math/
-  - /middle/jung-euljiro-middle-math/
-  - /middle/jung-gwanghui-middle-math/
-  - /middle/jung-hoehyeon-middle-math/
-  - /middle/jung-hwanghak-middle-math/
-  - /middle/jung-jangchung-middle-math/
-  - /middle/jung-junglim-middle-math/
-  - /middle/jung-myeongdong-middle-math/
-  - /middle/jung-pildong-middle-math/
-  - /middle/jung-sindang-middle-math/
-  - /middle/jung-sindang5-middle-math/
-  - /middle/jung-sogong-middle-math/
-  - /middle/jung-yaksu-middle-math/
 ---
 
 중구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

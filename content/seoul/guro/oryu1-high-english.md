@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-오류1-high-english/
 title: "구로구 오류1동 고등 영어과외 | 고척고 영어 자신감 회복"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-seongsu1ga1-middle-english/
 title: "성동구 성수1가1동 중등 영어과외 | 성수중 실력 향상 수업"
 date: 2025-01-29
 categories:

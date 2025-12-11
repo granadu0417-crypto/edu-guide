@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-junggok1-middle-math/
 title: 광진구 중곡1동 중등 수학과외 - 대원국제중·용곡중 맞춤 관리
 date: 2025-01-29
 categories:

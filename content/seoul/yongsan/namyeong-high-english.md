@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-namyeong-high-english/
 title: "용산구 남영동 고등 영어과외 | 신광여고·배문고 수능 대비 특강"
 date: 2025-05-15
 categories:

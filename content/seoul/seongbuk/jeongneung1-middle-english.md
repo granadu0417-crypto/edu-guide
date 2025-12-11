@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jeongneung1-middle-english/
 title: "성북구 정릉1동 중등 영어과외 | 북악중·숭곡중 학교별 내신 특화"
 date: 2025-01-29
 categories:

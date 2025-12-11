@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-balsan1-middle-math/
 title: "강서구 발산1동 중등 수학과외 | 덕원중·수명중 내신 완벽 대비"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-yeongtong1-middle-math/
 title: "수원시 영통구 영통1동 중등 수학과외 | 영통중·효원중·청명중 내신 완벽 대비"
 date: 2025-01-15
 categories:

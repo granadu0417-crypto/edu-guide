@@ -13,21 +13,6 @@ cities:
 tags:
   - 서대문구수학과외
   - 서대문구고등수학
-aliases:
-  - /high/seodaemun-bukahyeon-high-math/
-  - /high/seodaemun-bukgajwa1-high-math/
-  - /high/seodaemun-bukgajwa2-high-math/
-  - /high/seodaemun-cheongyeon-high-math/
-  - /high/seodaemun-chunghyeon-high-math/
-  - /high/seodaemun-hongeun1-high-math/
-  - /high/seodaemun-hongeun2-high-math/
-  - /high/seodaemun-hongje1-high-math/
-  - /high/seodaemun-hongje2-high-math/
-  - /high/seodaemun-hongje3-high-math/
-  - /high/seodaemun-namgajwa1-high-math/
-  - /high/seodaemun-namgajwa2-high-math/
-  - /high/seodaemun-sinchon-high-math/
-  - /high/seodaemun-yeonhui-high-math/
 ---
 
 서대문구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

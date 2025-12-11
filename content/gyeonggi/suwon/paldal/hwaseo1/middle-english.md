@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-hwaseo1-middle-english/
 title: "수원시 팔달구 화서1동 중등 영어과외 | 수원중·화홍중·동우여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

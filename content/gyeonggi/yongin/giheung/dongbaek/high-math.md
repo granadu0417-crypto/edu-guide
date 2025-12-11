@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-dongbaek-high-math/
 title: "용인시 기흥구 동백동 고등 수학과외 | 동백고·기흥고·용인고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-조원-high-english/
 title: "관악구 조원동 고등 영어과외 | 남강고 독해부터 문법까지"
 date: 2025-01-28
 categories:

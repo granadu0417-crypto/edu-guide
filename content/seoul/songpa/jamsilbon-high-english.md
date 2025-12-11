@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-잠실본-high-english/
 title: "송파구 잠실본동 고등 영어과외 | 잠실고·잠일고 영어 자신감 회복"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-bohang-high-english/
 title: "용인시 기흥구 보라동 고등 영어과외 | 보라고·기흥고·용인고 내신·수능 대비"
 date: 2025-01-15
 categories:

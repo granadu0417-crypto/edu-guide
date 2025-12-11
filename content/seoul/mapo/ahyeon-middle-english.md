@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-ahyeon-middle-english/
 title: "마포구 아현동 중등 영어과외 | 아현중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

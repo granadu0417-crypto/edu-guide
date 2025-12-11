@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-wonjonng-high-english/
 title: "부천시 원종동 고등 영어과외 | 부천고·부명고·부천여고 내신·수능 대비"
 date: 2025-01-15
 categories:

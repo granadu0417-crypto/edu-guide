@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-donam1-middle-english/
 title: "성북구 돈암1동 중등 영어과외 | 개운중 실력 향상 수업"
 date: 2025-01-29
 categories:

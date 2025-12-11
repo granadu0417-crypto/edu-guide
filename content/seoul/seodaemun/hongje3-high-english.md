@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-홍제3-high-english/
 title: "서대문구 홍제3동 고등 영어과외 | 인창고 독해력 특화"
 date: 2025-01-28
 categories:

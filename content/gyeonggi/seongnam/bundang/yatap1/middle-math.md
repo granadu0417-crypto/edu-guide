@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-yatap1-middle-math/
 title: "성남시 분당구 야탑1동 중등 수학과외 | 야탑중·분당영덕여중·분당중 내신 완벽 대비"
 date: 2025-01-15
 categories:

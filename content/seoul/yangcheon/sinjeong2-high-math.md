@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신정2-high-math/
 title: "양천구 신정2동 고등 수학과외 | 신목고 목표 등급 달성"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-논현1-high-english/
 title: "강남구 논현1동 고등 영어과외 | 영동고·진선여고 수능 고득점 전략"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-naeyu-high-math/
 title: "고양시 덕양구 내유동 고등 수학과외 | 고양외고 오답 패턴 교정"
 date: 2025-01-15
 categories:

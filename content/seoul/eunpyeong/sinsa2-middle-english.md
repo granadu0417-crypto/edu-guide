@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-sinsa2-middle-english/
 title: "은평구 신사2동 중등 영어과외 | 상신중·덕산중 영어 기초 완성"
 date: 2025-05-20
 categories:

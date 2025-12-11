@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/anyang-anan3-high-math/
 title: "안양시 만안구 안양3동 고등 수학과외 | 안양고·안양여고·백영고 내신·수능 대비"
 date: 2025-01-15
 categories:

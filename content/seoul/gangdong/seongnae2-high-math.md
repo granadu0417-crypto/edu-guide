@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-성내2-high-math/
 title: "강동구 성내2동 고등 수학과외 | 성내고·길동고 목표 등급 달성"
 date: 2025-01-28
 categories:

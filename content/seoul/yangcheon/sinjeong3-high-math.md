@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신정3-high-math/
 title: "양천구 신정3동 고등 수학과외 | 금옥여고·백암고 전문 선생님과 함께"
 date: 2025-01-28
 categories:

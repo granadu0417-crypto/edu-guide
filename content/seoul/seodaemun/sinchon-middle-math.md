@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-sinchon-middle-math/
 title: "서대문구 신촌동 중등 수학과외 | 이화금란중·이화여대부중 학교별 내신 특화"
 date: 2025-01-29
 categories:

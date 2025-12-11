@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-hagye1-high-math/
 title: 노원구 하계1동 고등 수학과외 | 영신여고·광운대부고 내신·수능 대비
 date: 2025-01-29
 categories:

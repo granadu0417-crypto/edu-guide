@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-hadaewon-middle-math/
 title: "성남시 중원구 하대원동 중등 수학과외 | 성남중·성일중·동광중 내신 완벽 대비"
 date: 2025-01-15
 categories:

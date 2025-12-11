@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-영등포본-high-math/
 title: "영등포구 영등포본동 고등 수학과외 | 관악고·선유고 등급 향상 전략"
 date: 2025-01-28
 categories:

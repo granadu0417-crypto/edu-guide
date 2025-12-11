@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-양재2-high-english/
 title: "서초구 양재2동 고등 영어과외 | 언남고·양재고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

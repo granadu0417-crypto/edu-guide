@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-sindorim-middle-english/
 title: "구로구 신도림동 중등 영어과외 | 신도림중 내신 완벽 대비"
 date: 2025-01-29
 categories:

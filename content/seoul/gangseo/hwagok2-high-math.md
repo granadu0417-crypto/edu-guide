@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡2-high-math/
 title: "강서구 화곡2동 고등 수학과외 | 화곡고 단계별 실력 향상"
 date: 2025-01-28
 categories:

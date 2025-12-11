@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gunpo-dangan-middle-math/
 title: "군포시 당정동 중등 수학과외 | 군포중·흥진중·수리중 내신 완벽 대비"
 date: 2025-01-15
 categories:

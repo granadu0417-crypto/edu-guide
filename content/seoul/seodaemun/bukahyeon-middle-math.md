@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-bukahyeon-middle-math/
 title: "서대문구 북아현동 중등 수학과외 | 중앙여중 기초부터 심화까지"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwanak-boramae-middle-english/
 title: "관악구 보라매동 중등 영어과외 | 당곡중 내신 완벽 대비"
 date: 2025-01-29
 categories:

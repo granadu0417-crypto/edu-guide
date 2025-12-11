@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-mangpo1-middle-english/
 title: "수원시 영통구 망포1동 중등 영어과외 | 망포중·영통중·효원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

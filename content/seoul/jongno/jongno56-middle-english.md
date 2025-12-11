@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jongno-jongno56-middle-english/
 title: 종로구 종로5·6가동 중등 영어과외 - 경신중·동성중·중앙중 내신 전문
 date: 2025-01-28
 categories:

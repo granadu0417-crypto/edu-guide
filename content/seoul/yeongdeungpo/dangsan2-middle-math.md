@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-dangsan2-middle-math/
 title: "영등포구 당산2동 중등 수학과외 | 당산중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

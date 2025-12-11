@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/namyangju-hwadeo-middle-math/
 title: "남양주시 화도읍 중등 수학과외 | 화도중·남양주중·동화중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/paju-jeokseong-high-english/
 title: "파주시 적성면 고등 영어과외 | 파주고·금촌고·문산고 내신·수능 대비"
 date: 2025-01-15
 categories:

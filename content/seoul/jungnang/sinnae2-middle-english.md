@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-sinnae2-middle-english/
 title: "중랑구 신내2동 중등 영어과외 | 중랑구 관내 학교 내신 완벽 대비"
 date: 2025-12-08
 categories:

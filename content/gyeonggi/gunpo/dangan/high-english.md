@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gunpo-dangan-high-english/
 title: "군포시 당정동 고등 영어과외 | 군포고·흥진고·수리고 내신·수능 대비"
 date: 2025-01-15
 categories:

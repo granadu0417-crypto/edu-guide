@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-imun2-middle-english/
 title: "동대문구 이문2동 중등 영어과외 | 경희중·경희여중 학교별 내신 특화"
 date: 2025-01-29
 categories:

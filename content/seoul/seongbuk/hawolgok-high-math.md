@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-하월곡-high-math/
 title: "성북구 하월곡동 고등 수학과외 | 대광고·성북고 내신 1등급 전략"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-석촌-high-english/
 title: "송파구 석촌동 고등 영어과외 | 석촌고·잠실고 학교별 내신 특화"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-doksan4-middle-english/
 title: "금천구 독산4동 중등 영어과외 | 안천중·세일중 실력 향상 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-bukgajwa2-middle-english/
 title: "서대문구 북가좌2동 중등 영어과외 | 가재울중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

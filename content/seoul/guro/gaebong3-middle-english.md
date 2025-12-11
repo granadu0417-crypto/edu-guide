@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-gaebong3-middle-english/
 title: "구로구 개봉3동 중등 영어과외 | 개봉중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

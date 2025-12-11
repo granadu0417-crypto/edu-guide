@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinjeong6-middle-math/
 title: "양천구 신정6동 중등 수학과외 | 목일중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

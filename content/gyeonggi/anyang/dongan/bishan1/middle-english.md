@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-bishan1-middle-english/
 title: "안양시 동안구 비산1동 중등 영어과외 | 평촌중·안양외중·범계중 내신 완벽 대비"
 date: 2025-01-15
 categories:

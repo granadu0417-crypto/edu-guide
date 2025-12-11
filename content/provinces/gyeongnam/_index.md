@@ -9,9 +9,6 @@ tags:
   - 경남과외
   - 경남수학과외
   - 경남영어과외
-aliases:
-  - /local/gyeongnam-education-guide/
-  - /local/gyeongnam-tutoring-guide/
 ---
 
 ## 경상남도 과외 안내

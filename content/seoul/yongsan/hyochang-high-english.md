@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-hyochang-high-english/
 title: "용산구 효창동 고등 영어과외 | 배문고 영어 내신 집중"
 date: 2025-05-15
 categories:

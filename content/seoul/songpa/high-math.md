@@ -13,34 +13,6 @@ cities:
 tags:
   - 송파구수학과외
   - 송파구고등수학
-aliases:
-  - /high/songpa-bangi-1-high-math/
-  - /high/songpa-bangi-2-high-math/
-  - /high/songpa-garak-1-high-math/
-  - /high/songpa-garak-2-high-math/
-  - /high/songpa-garakbon-high-math/
-  - /high/songpa-geoyeo-1-high-math/
-  - /high/songpa-geoyeo-2-high-math/
-  - /high/songpa-jamsil-2-high-math/
-  - /high/songpa-jamsil-3-high-math/
-  - /high/songpa-jamsil-4-high-math/
-  - /high/songpa-jamsil-6-high-math/
-  - /high/songpa-jamsil-7-high-math/
-  - /high/songpa-jamsilbon-high-math/
-  - /high/songpa-jangji-high-math/
-  - /high/songpa-macheon-1-high-math/
-  - /high/songpa-macheon-2-high-math/
-  - /high/songpa-munjeong-1-high-math/
-  - /high/songpa-munjeong-2-high-math/
-  - /high/songpa-ogeum-high-math/
-  - /high/songpa-oryun-high-math/
-  - /high/songpa-pungnapdong-1-high-math/
-  - /high/songpa-pungnapdong-2-high-math/
-  - /high/songpa-samjeon-high-math/
-  - /high/songpa-seokchon-high-math/
-  - /high/songpa-songpa1-high-math/
-  - /high/songpa-songpa2-high-math/
-  - /high/songpa-wirye-high-math/
 ---
 
 송파구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

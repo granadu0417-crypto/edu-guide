@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-dongan-middle-english/
 title: "용인시 수지구 동안동 중등 영어과외 | 현암중·수지중·죽전중 내신 완벽 대비"
 date: 2025-01-15
 categories:

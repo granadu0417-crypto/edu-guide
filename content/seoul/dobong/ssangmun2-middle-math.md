@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-ssangmun2-middle-math/
 title: "도봉구 쌍문2동 중등 수학과외 | 백운중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

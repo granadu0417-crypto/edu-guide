@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-wonhyoro1-middle-math/
 title: "용산구 원효로1동 중등 수학과외 | 선린중 수학 자신감 향상"
 date: 2025-05-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-ahyeon-middle-math/
 title: "마포구 아현동 중등 수학과외 | 아현중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

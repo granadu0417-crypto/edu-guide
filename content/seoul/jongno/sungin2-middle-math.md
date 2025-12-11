@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jongno-sungin2-middle-math/
 title: 종로구 숭인2동 중등 수학과외 - 경신중·동성중·중앙중 맞춤 관리
 date: 2025-01-28
 categories:

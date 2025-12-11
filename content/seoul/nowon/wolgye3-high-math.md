@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-wolgye3-high-math/
 title: 노원구 월계3동 고등 수학과외 | 을지대부고·혜화여고·선덕고 개념부터 실전까지
 date: 2025-01-29
 categories:

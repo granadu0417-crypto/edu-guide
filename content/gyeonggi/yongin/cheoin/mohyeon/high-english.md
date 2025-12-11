@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-mohyeon-high-english/
 title: "용인시 처인구 모현면 고등 영어과외 | 용인고·처인고·양지고 내신·수능 대비"
 date: 2025-01-15
 categories:

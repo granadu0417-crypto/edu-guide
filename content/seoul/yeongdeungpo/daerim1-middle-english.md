@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-daerim1-middle-english/
 title: "영등포구 대림1동 중등 영어과외 | 대림중 학교별 내신 특화"
 date: 2025-01-29
 categories:

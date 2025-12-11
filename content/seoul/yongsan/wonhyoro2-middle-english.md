@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-wonhyoro2-middle-english/
 title: "용산구 원효로2동 중등 영어과외 | 성심여중 내신 고득점 비결"
 date: 2025-05-15
 categories:

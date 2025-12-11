@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil4-middle-math/
 title: "영등포구 신길4동 중등 수학과외 | 대영중·신길중 학교별 내신 특화"
 date: 2025-01-29
 categories:

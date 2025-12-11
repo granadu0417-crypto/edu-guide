@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-대림3-high-english/
 title: "영등포구 대림3동 고등 영어과외 | 영등포여고·영신고 내신 완벽 분석"
 date: 2025-01-28
 categories:

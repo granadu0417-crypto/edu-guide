@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신월1-high-math/
 title: "양천구 신월1동 고등 수학과외 | 광영고·광영여고 약점 집중 보완"
 date: 2025-01-28
 categories:

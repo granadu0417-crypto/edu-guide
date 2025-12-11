@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-제기-high-english/
 title: "동대문구 제기동 고등 영어과외 | 대광고·청량고 어휘력 향상"
 date: 2025-01-28
 categories:

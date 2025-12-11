@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-hangang-ro-high-english/
 title: "용산구 한강로동 고등 영어과외 | 용산고·보성여고 영어 등급 향상"
 date: 2025-05-15
 categories:

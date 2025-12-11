@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-성내3-high-math/
 title: "강동구 성내3동 고등 수학과외 | 성내고·둔촌고 전문 선생님과 함께"
 date: 2025-01-28
 categories:

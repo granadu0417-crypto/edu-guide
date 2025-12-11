@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-wolgye3-high-english/
 title: 노원구 월계3동 고등 영어과외 | 을지대부고·혜화여고·선덕고 독해·문법 완성
 date: 2025-01-29
 categories:

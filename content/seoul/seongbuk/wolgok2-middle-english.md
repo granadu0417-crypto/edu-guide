@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-wolgok2-middle-english/
 title: "성북구 월곡2동 중등 영어과외 | 월곡중 학교별 내신 특화"
 date: 2025-01-29
 categories:

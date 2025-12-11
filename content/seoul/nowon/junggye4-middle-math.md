@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-junggye4-middle-math/
 title: 노원구 중계4동 중등 수학과외 | 중계중·재현중·을지중 1:1 맞춤 수업
 date: 2025-01-29
 categories:

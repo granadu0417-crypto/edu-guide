@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-삼성-high-english/
 title: "관악구 삼성동 고등 영어과외 | 삼성고 수능 완벽 대비"
 date: 2025-01-28
 categories:

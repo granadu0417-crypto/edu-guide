@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-수유1-high-english/
 title: "강북구 수유1동 고등 영어과외 | 혜화여고 영어 자신감 회복"
 date: 2025-01-28
 categories:

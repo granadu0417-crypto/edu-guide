@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-bogwang-high-english/
 title: "용산구 보광동 고등 영어과외 | 오산고 내신·수능 특화"
 date: 2025-05-15
 categories:

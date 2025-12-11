@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-전농1-high-math/
 title: "동대문구 전농1동 고등 수학과외 | 해성여고·청량고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

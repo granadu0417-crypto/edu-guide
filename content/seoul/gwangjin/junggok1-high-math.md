@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-중곡1-high-math/
 title: "광진구 중곡1동 고등 수학과외 | 대원고·대원여고 킬러문항 특화"
 date: 2025-01-28
 categories:

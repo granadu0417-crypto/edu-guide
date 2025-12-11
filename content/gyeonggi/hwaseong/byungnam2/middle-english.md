@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hwaseong-byungnam2-middle-english/
 title: "화성시 병점2동 중등 영어과외 | 화성중·병점중·동탄중 내신 완벽 대비"
 date: 2025-01-15
 categories:

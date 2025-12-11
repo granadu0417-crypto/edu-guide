@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-장위3-high-math/
 title: "성북구 장위3동 고등 수학과외 | 대광고·성북고 킬러문항 정복"
 date: 2025-01-28
 categories:

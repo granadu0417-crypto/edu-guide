@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-성현-high-english/
 title: "관악구 성현동 고등 영어과외 | 구암고 등급 향상 전략"
 date: 2025-01-28
 categories:

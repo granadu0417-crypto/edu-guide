@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/paju-unjeong2-high-english/
 title: "파주시 운정2동 고등 영어과외 | 파주고·운정고·금촌고 내신·수능 대비"
 date: 2025-01-15
 categories:

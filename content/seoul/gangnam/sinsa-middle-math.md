@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-sinsa-middle-math/
 title: 강남구 신사동 중등 수학과외 - 신구중·언북중 맞춤 관리
 date: 2025-01-28
 categories:

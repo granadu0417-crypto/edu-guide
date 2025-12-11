@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-염리-high-english/
 title: "마포구 염리동 고등 영어과외 | 서울여고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

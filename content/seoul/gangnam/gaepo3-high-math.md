@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-개포3-high-math/
 title: "강남구 개포3동 고등 수학과외 | 개포고·디지텍고 문제 해결력 향상"
 date: 2025-01-28
 categories:

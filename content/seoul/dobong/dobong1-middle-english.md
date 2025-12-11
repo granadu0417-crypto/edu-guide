@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-dobong1-middle-english/
 title: "도봉구 도봉1동 중등 영어과외 | 도봉중·북서울중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

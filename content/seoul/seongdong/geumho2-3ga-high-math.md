@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-금호2·3가-high-math/
 title: "성동구 금호2·3가동 고등 수학과외 | 경일고·성수고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

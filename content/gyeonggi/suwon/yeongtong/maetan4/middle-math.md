@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-maetan4-middle-math/
 title: "수원시 영통구 매탄4동 중등 수학과외 | 매탄중·영복여중·청명중 내신 완벽 대비"
 date: 2025-01-15
 categories:

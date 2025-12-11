@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye34-high-math/
 title: 노원구 상계3·4동 고등 수학과외 | 청원고·청원여고 내신·수능 대비
 date: 2025-01-29
 categories:

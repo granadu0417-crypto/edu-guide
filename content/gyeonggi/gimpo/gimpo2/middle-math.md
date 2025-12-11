@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gimpo-gimpo2-middle-math/
 title: "김포시 김포2동 중등 수학과외 | 김포제일중·김포중·양곡중 내신 완벽 대비"
 date: 2025-01-15
 categories:

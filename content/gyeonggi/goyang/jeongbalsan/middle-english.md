@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-jeongbalsan-middle-english/
 title: "고양시 일산동구 정발산동 중등 영어과외 | 정발중 영어 자신감 회복"
 date: 2025-01-15
 categories:

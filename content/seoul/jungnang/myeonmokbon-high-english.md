@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/jungnang-myeonmokbon-high-english/
 title: "중랑구 면목본동 고등 영어과외 | 중랑구 관내 고등학교 내신·수능 대비"
 date: 2025-12-08
 categories:

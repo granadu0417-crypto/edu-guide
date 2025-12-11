@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-seongbuk-middle-english/
 title: "성북구 성북동 중등 영어과외 | 홍익대사대부중 체계적 학습 관리"
 date: 2025-01-29
 categories:

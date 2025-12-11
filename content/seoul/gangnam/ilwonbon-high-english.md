@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-일원본-high-english/
 title: "강남구 일원본동 고등 영어과외 | 일원고·세화고 내신 완벽 분석"
 date: 2025-01-28
 categories:

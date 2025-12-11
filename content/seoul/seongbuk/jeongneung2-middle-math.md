@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jeongneung2-middle-math/
 title: "성북구 정릉2동 중등 수학과외 | 북악중·숭곡중 내신 완벽 대비"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-jowon1-high-english/
 title: "수원시 장안구 조원1동 고등 영어과외 | 수원외고·경기과학고·삼일공고 내신·수능 대비"
 date: 2025-01-15
 categories:

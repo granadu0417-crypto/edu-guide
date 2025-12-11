@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-dongtan5-high-english/
 title: "화성시 동탄5동 고등 영어과외 | 동탄고·청명고·능동고 내신·수능 대비"
 date: 2025-01-15
 categories:

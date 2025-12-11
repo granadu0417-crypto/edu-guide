@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-sinnae1-middle-math/
 title: "중랑구 신내1동 중등 수학과외 | 중랑구 관내 학교 내신 완벽 대비"
 date: 2025-12-08
 categories:

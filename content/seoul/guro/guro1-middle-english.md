@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-guro1-middle-english/
 title: "구로구 구로1동 중등 영어과외 | 구로중·영서중 기초부터 심화까지"
 date: 2025-01-29
 categories:

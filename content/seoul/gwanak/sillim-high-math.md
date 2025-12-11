@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-신림-high-math/
 title: "관악구 신림동 고등 수학과외 | 신림고 목표 등급 달성"
 date: 2025-01-28
 categories:

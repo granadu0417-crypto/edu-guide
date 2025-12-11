@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yangpyeong2-middle-english/
 title: "영등포구 양평2동 중등 영어과외 | 선유중·양화중 기초부터 심화까지"
 date: 2025-01-29
 categories:

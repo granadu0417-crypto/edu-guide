@@ -13,26 +13,6 @@ cities:
 tags:
   - 강동구영어과외
   - 강동구중등영어
-aliases:
-  - /middle/gangdong-amsa1-middle-english/
-  - /middle/gangdong-amsa2-middle-english/
-  - /middle/gangdong-amsa3-middle-english/
-  - /middle/gangdong-cheonho1-middle-english/
-  - /middle/gangdong-cheonho2-middle-english/
-  - /middle/gangdong-cheonho3-middle-english/
-  - /middle/gangdong-dunchon1-middle-english/
-  - /middle/gangdong-dunchon2-middle-english/
-  - /middle/gangdong-gangil-middle-english/
-  - /middle/gangdong-gildong-middle-english/
-  - /middle/gangdong-godeok1-middle-english/
-  - /middle/gangdong-godeok2-middle-english/
-  - /middle/gangdong-myeongil1-middle-english/
-  - /middle/gangdong-myeongil2-middle-english/
-  - /middle/gangdong-sangil1-middle-english/
-  - /middle/gangdong-sangil2-middle-english/
-  - /middle/gangdong-seongnae1-middle-english/
-  - /middle/gangdong-seongnae2-middle-english/
-  - /middle/gangdong-seongnae3-middle-english/
 ---
 
 강동구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

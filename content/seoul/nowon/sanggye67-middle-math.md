@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye67-middle-math/
 title: 노원구 상계6·7동 중등 수학과외 | 노원중·신상중 내신 대비
 date: 2025-01-29
 categories:

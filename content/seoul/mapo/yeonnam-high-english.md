@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-연남-high-english/
 title: "마포구 연남동 고등 영어과외 | 경성고 독해부터 문법까지"
 date: 2025-01-28
 categories:

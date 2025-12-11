@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-sinheung2-high-math/
 title: "성남시 수정구 신흥2동 고등 수학과외 | 성남고·태원고·성남여고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-대림2-high-english/
 title: "영등포구 대림2동 고등 영어과외 | 영신고·영등포여고 독해력 특화"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-공덕-high-english/
 title: "마포구 공덕동 고등 영어과외 | 숭문고·광성고 문법 패턴 완성"
 date: 2025-01-28
 categories:

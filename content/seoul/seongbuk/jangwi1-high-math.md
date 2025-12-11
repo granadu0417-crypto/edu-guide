@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-장위1-high-math/
 title: "성북구 장위1동 고등 수학과외 | 대광고·성북고 수능 완벽 대비"
 date: 2025-01-28
 categories:

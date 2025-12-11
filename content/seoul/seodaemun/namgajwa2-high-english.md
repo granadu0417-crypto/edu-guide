@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-남가좌2-high-english/
 title: "서대문구 남가좌2동 고등 영어과외 | 가재울고·명지고 수능 고득점 전략"
 date: 2025-01-28
 categories:

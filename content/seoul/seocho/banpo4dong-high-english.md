@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-반포4-high-english/
 title: "서초구 반포4동 고등 영어과외 | 세화여고·동덕여고 등급 향상 전략"
 date: 2025-01-28
 categories:

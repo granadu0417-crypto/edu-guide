@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-pajang-middle-math/
 title: "수원시 장안구 파장동 중등 수학과외 | 장안중·수일여중·천천중 내신 완벽 대비"
 date: 2025-01-15
 categories:

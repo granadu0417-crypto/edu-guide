@@ -13,21 +13,6 @@ cities:
 tags:
   - 동대문구수학과외
   - 동대문구중등수학
-aliases:
-  - /middle/dongdaemun-cheongnyangni-middle-math/
-  - /middle/dongdaemun-dapsimni1-middle-math/
-  - /middle/dongdaemun-dapsimni2-middle-math/
-  - /middle/dongdaemun-hoegi-middle-math/
-  - /middle/dongdaemun-hwigyeong1-middle-math/
-  - /middle/dongdaemun-hwigyeong2-middle-math/
-  - /middle/dongdaemun-imun1-middle-math/
-  - /middle/dongdaemun-imun2-middle-math/
-  - /middle/dongdaemun-jangan1-middle-math/
-  - /middle/dongdaemun-jangan2-middle-math/
-  - /middle/dongdaemun-jegi-middle-math/
-  - /middle/dongdaemun-jeonnong1-middle-math/
-  - /middle/dongdaemun-jeonnong2-middle-math/
-  - /middle/dongdaemun-yongsin-middle-math/
 ---
 
 동대문구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

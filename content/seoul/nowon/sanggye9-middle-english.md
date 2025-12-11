@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye9-middle-english/
 title: 노원구 상계9동 중등 영어과외 | 상원중·수락중·청원중 내신 대비
 date: 2025-01-29
 categories:

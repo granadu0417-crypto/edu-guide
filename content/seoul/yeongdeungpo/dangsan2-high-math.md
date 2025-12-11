@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-당산2-high-math/
 title: "영등포구 당산2동 고등 수학과외 | 관악고·선유고 수학 실력 완성"
 date: 2025-01-28
 categories:

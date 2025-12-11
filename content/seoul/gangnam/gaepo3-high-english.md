@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-개포3-high-english/
 title: "강남구 개포3동 고등 영어과외 | 개포고·대진고 어휘력 향상"
 date: 2025-01-28
 categories:

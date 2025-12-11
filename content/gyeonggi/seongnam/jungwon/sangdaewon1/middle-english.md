@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-sangdaewon1-middle-english/
 title: "성남시 중원구 상대원1동 중등 영어과외 | 성일중·성남중·동광중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/namyangju-pyeongnae-high-math/
 title: "남양주시 평내동 고등 수학과외 | 동화고·남양주고·호평고 내신·수능 대비"
 date: 2025-01-15
 categories:

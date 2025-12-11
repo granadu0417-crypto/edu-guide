@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-gwanggyo1-high-english/
 title: "수원시 영통구 광교1동 고등 영어과외 | 광교고·아주대부고·영통고 내신·수능 대비"
 date: 2025-01-15
 categories:

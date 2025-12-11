@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hanam-wirye-middle-english/
 title: "하남시 위례동 중등 영어과외 | 위례중·미사중·하남중 내신 완벽 대비"
 date: 2025-01-15
 categories:

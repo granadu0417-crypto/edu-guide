@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/namyangju-jinjeob-high-math/
 title: "남양주시 진접읍 고등 수학과외 | 남양주고·동화고·진접고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-jeongja1-high-english/
 title: "수원시 장안구 정자1동 고등 영어과외 | 정자고·수원외고·장안고 내신·수능 대비"
 date: 2025-01-15
 categories:

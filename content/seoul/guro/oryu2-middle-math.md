@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-oryu2-middle-math/
 title: "구로구 오류2동 중등 수학과외 | 오류중·개봉중 개념부터 실전까지"
 date: 2025-01-29
 categories:

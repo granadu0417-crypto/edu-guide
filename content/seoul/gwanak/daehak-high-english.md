@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-대학-high-english/
 title: "관악구 대학동 고등 영어과외 | 삼성고·미림여고 수능 고득점 전략"
 date: 2025-01-28
 categories:

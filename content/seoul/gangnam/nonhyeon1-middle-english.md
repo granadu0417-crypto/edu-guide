@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-nonhyeon1-middle-english/
 title: 강남구 논현1동 중등 영어과외 - 언북중·언주중 내신 전문
 date: 2025-01-28
 categories:

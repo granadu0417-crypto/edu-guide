@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-숭인2-high-math/
 title: "종로구 숭인2동 고등 수학과외 | 경복고·동성고·중앙고 취약점 집중 관리"
 date: 2025-01-28
 categories:

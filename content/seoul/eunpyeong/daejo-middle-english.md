@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-daejo-middle-english/
 title: "은평구 대조동 중등 영어과외 | 동명여중·구산중 문법·어휘 완성"
 date: 2025-05-20
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-wonsin-high-english/
 title: "고양시 덕양구 원신동 고등 영어과외 | 백양고 내신·수능 병행 관리"
 date: 2025-01-15
 categories:

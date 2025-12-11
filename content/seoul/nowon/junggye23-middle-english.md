@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-junggye23-middle-english/
 title: 노원구 중계2·3동 중등 영어과외 | 중원중·상명중 실력 향상 수업
 date: 2025-01-29
 categories:

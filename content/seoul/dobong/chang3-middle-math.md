@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang3-middle-math/
 title: "도봉구 창3동 중등 수학과외 | 창일중·노곡중 실력 향상 수업"
 date: 2025-01-29
 categories:

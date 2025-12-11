@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-hwayang-middle-english/
 title: 광진구 화양동 중등 영어과외 - 구의중·구의중 내신 완성
 date: 2025-01-29
 categories:

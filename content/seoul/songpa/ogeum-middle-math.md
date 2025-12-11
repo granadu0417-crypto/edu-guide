@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-ogeum-middle-math/
 title: 송파구 오금동 중등 수학과외 - 오금중·잠실중 맞춤 관리
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-yeokchon-middle-math/
 title: "은평구 역촌동 중등 수학과외 | 연서중·증산중 내신 1등급 목표"
 date: 2025-05-20
 categories:

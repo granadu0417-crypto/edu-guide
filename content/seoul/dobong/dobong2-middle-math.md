@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-dobong2-middle-math/
 title: "도봉구 도봉2동 중등 수학과외 | 도봉중·북서울중 학교별 내신 특화"
 date: 2025-01-29
 categories:

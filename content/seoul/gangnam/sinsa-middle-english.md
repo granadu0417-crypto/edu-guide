@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-sinsa-middle-english/
 title: 강남구 신사동 중등 영어과외 - 신구중·언북중 내신 전문
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-홍제3-high-math/
 title: "서대문구 홍제3동 고등 수학과외 | 인창고 킬러문항 특화"
 date: 2025-01-28
 categories:

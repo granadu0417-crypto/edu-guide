@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-banpo4dong-middle-math/
 title: 서초구 반포4동 중등 수학과외 - 세화여중·방배중 맞춤 관리
 date: 2025-01-22
 categories:

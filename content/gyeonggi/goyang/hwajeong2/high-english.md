@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-hwajeong2-high-english/
 title: "고양시 덕양구 화정2동 고등 영어과외 | 화정고 체계적 학습 관리"
 date: 2025-01-15
 categories:

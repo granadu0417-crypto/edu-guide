@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-천연-high-english/
 title: "서대문구 천연동 고등 영어과외 | 한성과학고·이화금란고 실력 향상 비결"
 date: 2025-01-28
 categories:

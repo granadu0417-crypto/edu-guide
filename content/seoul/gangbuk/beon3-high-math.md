@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-번3-high-math/
 title: "강북구 번3동 고등 수학과외 | 신일고 꼼꼼한 1:1 지도"
 date: 2025-01-28
 categories:

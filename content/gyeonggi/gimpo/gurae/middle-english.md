@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gimpo-gurae-middle-english/
 title: "김포시 구래동 중등 영어과외 | 김포중·김포제일중·풍무중 내신 완벽 대비"
 date: 2025-01-15
 categories:

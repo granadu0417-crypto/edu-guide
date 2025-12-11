@@ -13,23 +13,6 @@ cities:
 tags:
   - 마포구수학과외
   - 마포구고등수학
-aliases:
-  - /high/mapo-ahyeon-high-math/
-  - /high/mapo-daeheung-high-math/
-  - /high/mapo-dohwa-high-math/
-  - /high/mapo-gongdeok-high-math/
-  - /high/mapo-hapjeong-high-math/
-  - /high/mapo-mangwon1-high-math/
-  - /high/mapo-mangwon2-high-math/
-  - /high/mapo-sangam-high-math/
-  - /high/mapo-seogang-high-math/
-  - /high/mapo-seogyo-high-math/
-  - /high/mapo-seongsan1-high-math/
-  - /high/mapo-seongsan2-high-math/
-  - /high/mapo-sinsu-high-math/
-  - /high/mapo-yeomni-high-math/
-  - /high/mapo-yeonnam-high-math/
-  - /high/mapo-yonggang-high-math/
 ---
 
 마포구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

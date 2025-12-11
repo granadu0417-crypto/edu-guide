@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/ansan-hogok-high-english/
 title: "안산시 단원구 호곡동 고등 영어과외 | 단원고·성안고·안산공고 내신·수능 대비"
 date: 2025-01-15
 categories:

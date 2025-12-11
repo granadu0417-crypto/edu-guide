@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-상일2-high-math/
 title: "강동구 상일2동 고등 수학과외 | 상일여고·상일미디어고 킬러문항 정복"
 date: 2025-01-28
 categories:

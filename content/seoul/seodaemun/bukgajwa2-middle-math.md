@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-bukgajwa2-middle-math/
 title: "서대문구 북가좌2동 중등 수학과외 | 가재울중 개념부터 실전까지"
 date: 2025-01-29
 categories:

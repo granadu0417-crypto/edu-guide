@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-daeheung-middle-english/
 title: "마포구 대흥동 중등 영어과외 | 숭문중 내신 완벽 대비"
 date: 2025-01-29
 categories:

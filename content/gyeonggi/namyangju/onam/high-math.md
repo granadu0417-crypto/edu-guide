@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/namyangju-onam-high-math/
 title: "남양주시 오남읍 고등 수학과외 | 오남고·남양주고·동화고 내신·수능 대비"
 date: 2025-01-15
 categories:

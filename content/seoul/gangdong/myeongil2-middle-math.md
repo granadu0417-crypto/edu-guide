@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-myeongil2-middle-math/
 title: 강동구 명일2동 중등 수학과외 - 명일중·강동중 맞춤 관리
 date: 2025-01-29
 categories:

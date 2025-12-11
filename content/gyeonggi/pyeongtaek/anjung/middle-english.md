@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/pyeongtaek-anjung-middle-english/
 title: "평택시 안중읍 중등 영어과외 | 안중중·평택중·평택여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-영등포-high-english/
 title: "영등포구 영등포동 고등 영어과외 | 관악고·선유고 독해·문법 완성"
 date: 2025-01-28
 categories:

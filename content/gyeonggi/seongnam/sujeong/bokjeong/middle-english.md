@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-bokjeong-middle-english/
 title: "성남시 수정구 복정동 중등 영어과외 | 복정중·성남중·태원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-galhyeon2-middle-english/
 title: "은평구 갈현2동 중등 영어과외 | 선정중·대성중·숭실중·선일여중 체계적 영어 학습"
 date: 2025-05-20
 categories:

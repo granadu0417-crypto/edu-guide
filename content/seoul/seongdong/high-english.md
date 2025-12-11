@@ -13,24 +13,6 @@ cities:
 tags:
   - 성동구영어과외
   - 성동구고등영어
-aliases:
-  - /high/seongdong-eungbong-high-english/
-  - /high/seongdong-geumho1ga-high-english/
-  - /high/seongdong-geumho2-3ga-high-english/
-  - /high/seongdong-geumho4ga-high-english/
-  - /high/seongdong-haengdang1-high-english/
-  - /high/seongdong-haengdang2-high-english/
-  - /high/seongdong-majang-high-english/
-  - /high/seongdong-oksu-high-english/
-  - /high/seongdong-sageun-high-english/
-  - /high/seongdong-seongsu1ga1-high-english/
-  - /high/seongdong-seongsu1ga2-high-english/
-  - /high/seongdong-seongsu2ga1-high-english/
-  - /high/seongdong-seongsu2ga3-high-english/
-  - /high/seongdong-songjeong-high-english/
-  - /high/seongdong-wangsimni-doseondong-high-english/
-  - /high/seongdong-wangsimni2-high-english/
-  - /high/seongdong-yongdap-high-english/
 ---
 
 성동구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

@@ -13,30 +13,6 @@ cities:
 tags:
   - 강서구영어과외
   - 강서구고등영어
-aliases:
-  - /high/gangseo-balsan1-high-english/
-  - /high/gangseo-banghwa1-high-english/
-  - /high/gangseo-banghwa2-high-english/
-  - /high/gangseo-banghwa3-high-english/
-  - /high/gangseo-deungchon1-high-english/
-  - /high/gangseo-deungchon2-high-english/
-  - /high/gangseo-deungchon3-high-english/
-  - /high/gangseo-gayang1-high-english/
-  - /high/gangseo-gayang2-high-english/
-  - /high/gangseo-gayang3-high-english/
-  - /high/gangseo-gonghang-high-english/
-  - /high/gangseo-hwagok1-high-english/
-  - /high/gangseo-hwagok2-high-english/
-  - /high/gangseo-hwagok3-high-english/
-  - /high/gangseo-hwagok4-high-english/
-  - /high/gangseo-hwagok5-high-english/
-  - /high/gangseo-hwagok6-high-english/
-  - /high/gangseo-hwagok7-high-english/
-  - /high/gangseo-hwagok8-high-english/
-  - /high/gangseo-hwagokbon-high-english/
-  - /high/gangseo-magok-high-english/
-  - /high/gangseo-ujangsan-high-english/
-  - /high/gangseo-yeomchang-high-english/
 ---
 
 강서구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

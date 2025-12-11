@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinjeong7-middle-english/
 title: "양천구 신정7동 중등 영어과외 | 봉영여중 체계적 학습 관리"
 date: 2025-01-29
 categories:

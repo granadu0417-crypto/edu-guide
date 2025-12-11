@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-banghak3-middle-math/
 title: "도봉구 방학3동 중등 수학과외 | 방학중·신방학중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/pyeongtaek-anjung-high-english/
 title: "평택시 안중읍 고등 영어과외 | 안중고·평택고·평택여고 내신·수능 대비"
 date: 2025-01-15
 categories:

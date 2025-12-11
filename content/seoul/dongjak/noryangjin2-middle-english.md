@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-noryangjin2-middle-english/
 title: "동작구 노량진2동 중등 영어과외 | 대방중·강남중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

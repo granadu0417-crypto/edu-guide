@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-hoegi-middle-english/
 title: "동대문구 회기동 중등 영어과외 | 경희중·경희여중 체계적 학습 관리"
 date: 2025-01-29
 categories:

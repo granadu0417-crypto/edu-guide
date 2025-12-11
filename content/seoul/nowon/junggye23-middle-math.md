@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-junggye23-middle-math/
 title: 노원구 중계2·3동 중등 수학과외 | 중원중·상명중 체계적 학습 관리
 date: 2025-01-29
 categories:

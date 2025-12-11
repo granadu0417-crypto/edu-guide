@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-도봉1-high-math/
 title: "도봉구 도봉1동 고등 수학과외 | 도봉고 내신 1등급 전략"
 date: 2025-01-28
 categories:

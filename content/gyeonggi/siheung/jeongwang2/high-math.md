@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/siheung-jeongwang2-high-math/
 title: "시흥시 정왕2동 고등 수학과외 | 시흥고·정왕고·소래고 내신·수능 대비"
 date: 2025-01-15
 categories:

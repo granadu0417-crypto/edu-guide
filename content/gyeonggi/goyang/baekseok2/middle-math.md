@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-baekseok2-middle-math/
 title: "고양시 일산동구 백석2동 중등 수학과외 | 백신중 개념부터 심화까지"
 date: 2025-01-15
 categories:

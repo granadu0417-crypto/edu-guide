@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-합정-high-english/
 title: "마포구 합정동 고등 영어과외 | 경성고·홍익대부속여고 영어 자신감 회복"
 date: 2025-01-28
 categories:

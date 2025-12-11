@@ -13,26 +13,6 @@ cities:
 tags:
   - 노원구수학과외
   - 노원구중등수학
-aliases:
-  - /middle/nowon-gongneung1-middle-math/
-  - /middle/nowon-gongneung2-middle-math/
-  - /middle/nowon-hagye1-middle-math/
-  - /middle/nowon-hagye2-middle-math/
-  - /middle/nowon-junggye1-middle-math/
-  - /middle/nowon-junggye23-middle-math/
-  - /middle/nowon-junggye4-middle-math/
-  - /middle/nowon-junggyebon-middle-math/
-  - /middle/nowon-sanggye1-middle-math/
-  - /middle/nowon-sanggye10-middle-math/
-  - /middle/nowon-sanggye2-middle-math/
-  - /middle/nowon-sanggye34-middle-math/
-  - /middle/nowon-sanggye5-middle-math/
-  - /middle/nowon-sanggye67-middle-math/
-  - /middle/nowon-sanggye8-middle-math/
-  - /middle/nowon-sanggye9-middle-math/
-  - /middle/nowon-wolgye1-middle-math/
-  - /middle/nowon-wolgye2-middle-math/
-  - /middle/nowon-wolgye3-middle-math/
 ---
 
 노원구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

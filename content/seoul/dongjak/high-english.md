@@ -13,22 +13,6 @@ cities:
 tags:
   - 동작구영어과외
   - 동작구고등영어
-aliases:
-  - /high/dongjak-daebang-high-english/
-  - /high/dongjak-heukseok-high-english/
-  - /high/dongjak-noryangjin1-high-english/
-  - /high/dongjak-noryangjin2-high-english/
-  - /high/dongjak-sadang1-high-english/
-  - /high/dongjak-sadang2-high-english/
-  - /high/dongjak-sadang3-high-english/
-  - /high/dongjak-sadang4-high-english/
-  - /high/dongjak-sadang5-high-english/
-  - /high/dongjak-sangdo1-high-english/
-  - /high/dongjak-sangdo2-high-english/
-  - /high/dongjak-sangdo3-high-english/
-  - /high/dongjak-sangdo4-high-english/
-  - /high/dongjak-sindaebang1-high-english/
-  - /high/dongjak-sindaebang2-high-english/
 ---
 
 동작구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

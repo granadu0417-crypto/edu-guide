@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-sinsa1-middle-english/
 title: "은평구 신사1동 중등 영어과외 | 상신중·덕산중 독해·문법 마스터"
 date: 2025-05-20
 categories:

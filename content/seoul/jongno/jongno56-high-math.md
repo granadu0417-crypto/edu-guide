@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-종로5·6가-high-math/
 title: "종로구 종로5·6가동 고등 수학과외 | 경복고·동성고·중앙고 킬러문항 정복"
 date: 2025-01-28
 categories:

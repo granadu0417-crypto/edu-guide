@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol1-middle-english/
 title: "양천구 신월1동 중등 영어과외 | 신원중 실력 향상 수업"
 date: 2025-01-29
 categories:

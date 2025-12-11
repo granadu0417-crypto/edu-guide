@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-wonheung-middle-math/
 title: "고양시 덕양구 원흥동 중등 수학과외 | 원흥중 등급 향상 전략"
 date: 2025-01-15
 categories:

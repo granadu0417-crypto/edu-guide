@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-heukseok-middle-math/
 title: "동작구 흑석동 중등 수학과외 | 중앙대부속중 기초부터 심화까지"
 date: 2025-01-29
 categories:

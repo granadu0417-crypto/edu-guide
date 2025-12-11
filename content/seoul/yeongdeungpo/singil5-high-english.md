@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-신길5-high-english/
 title: "영등포구 신길5동 고등 영어과외 | 장훈고·대영고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

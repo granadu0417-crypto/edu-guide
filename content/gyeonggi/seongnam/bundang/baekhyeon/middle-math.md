@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-baekhyeon-middle-math/
 title: "성남시 분당구 백현동 중등 수학과외 | 성남외중·판교중·분당중 내신 완벽 대비"
 date: 2025-01-15
 categories:

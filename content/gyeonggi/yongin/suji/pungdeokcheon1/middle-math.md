@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-pungdeokcheon1-middle-math/
 title: "용인시 수지구 풍덕천1동 중등 수학과외 | 수지중·풍덕중·죽전중 내신 완벽 대비"
 date: 2025-01-15
 categories:

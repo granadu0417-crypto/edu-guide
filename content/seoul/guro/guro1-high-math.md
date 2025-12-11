@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-구로1-high-math/
 title: "구로구 구로1동 고등 수학과외 | 구로고·구현고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

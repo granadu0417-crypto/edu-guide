@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-목2-high-math/
 title: "양천구 목2동 고등 수학과외 | 진명여고·강서고 내신 1등급 전략"
 date: 2025-01-28
 categories:

@@ -13,25 +13,6 @@ cities:
 tags:
   - 영등포구수학과외
   - 영등포구중등수학
-aliases:
-  - /middle/yeongdeungpo-daerim1-middle-math/
-  - /middle/yeongdeungpo-daerim2-middle-math/
-  - /middle/yeongdeungpo-daerim3-middle-math/
-  - /middle/yeongdeungpo-dangsan1-middle-math/
-  - /middle/yeongdeungpo-dangsan2-middle-math/
-  - /middle/yeongdeungpo-dorim-middle-math/
-  - /middle/yeongdeungpo-mullae-middle-math/
-  - /middle/yeongdeungpo-singil1-middle-math/
-  - /middle/yeongdeungpo-singil3-middle-math/
-  - /middle/yeongdeungpo-singil4-middle-math/
-  - /middle/yeongdeungpo-singil5-middle-math/
-  - /middle/yeongdeungpo-singil6-middle-math/
-  - /middle/yeongdeungpo-singil7-middle-math/
-  - /middle/yeongdeungpo-yangpyeong1-middle-math/
-  - /middle/yeongdeungpo-yangpyeong2-middle-math/
-  - /middle/yeongdeungpo-yeongdeungpo-middle-math/
-  - /middle/yeongdeungpo-yeongdeungpo-bon-middle-math/
-  - /middle/yeongdeungpo-yeui-middle-math/
 ---
 
 영등포구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

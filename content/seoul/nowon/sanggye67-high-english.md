@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye67-high-english/
 title: 노원구 상계6·7동 고등 영어과외 | 상계고·노원고 개념부터 실전까지
 date: 2025-01-29
 categories:

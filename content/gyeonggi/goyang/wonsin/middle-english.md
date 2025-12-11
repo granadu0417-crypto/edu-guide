@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-wonsin-middle-english/
 title: "고양시 덕양구 원신동 중등 영어과외 | 백양중 맞춤 1:1 수업"
 date: 2025-01-15
 categories:

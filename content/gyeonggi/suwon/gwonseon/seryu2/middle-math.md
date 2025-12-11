@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-seryu2-middle-math/
 title: "수원시 권선구 세류2동 중등 수학과외 | 세류중·곡선중·권선중 내신 완벽 대비"
 date: 2025-01-15
 categories:

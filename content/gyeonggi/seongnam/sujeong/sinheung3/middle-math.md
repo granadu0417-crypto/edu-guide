@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-sinheung3-middle-math/
 title: "성남시 수정구 신흥3동 중등 수학과외 | 태원중·성남중·복정중 내신 완벽 대비"
 date: 2025-01-15
 categories:

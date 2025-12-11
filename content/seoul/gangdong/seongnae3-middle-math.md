@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-seongnae3-middle-math/
 title: 강동구 성내3동 중등 수학과외 - 성내중·둔촌중 맞춤 관리
 date: 2025-01-29
 categories:

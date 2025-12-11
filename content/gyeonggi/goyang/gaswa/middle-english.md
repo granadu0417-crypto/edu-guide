@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-gaswa-middle-english/
 title: "고양시 일산서구 가좌동 중등 영어과외 | 가좌중 고등 대비 영어"
 date: 2025-01-15
 categories:

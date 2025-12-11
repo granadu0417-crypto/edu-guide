@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-wirye-high-math/
 title: "성남시 수정구 위례동 고등 수학과외 | 위례고·복정고·성남고 내신·수능 대비"
 date: 2025-01-15
 categories:

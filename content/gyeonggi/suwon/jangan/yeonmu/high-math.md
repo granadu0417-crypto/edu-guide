@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-yeonmu-high-math/
 title: "수원시 장안구 연무동 고등 수학과외 | 수성고·장안고·삼일공고 내신·수능 대비"
 date: 2025-01-15
 categories:

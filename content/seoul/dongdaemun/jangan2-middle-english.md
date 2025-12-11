@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-jangan2-middle-english/
 title: "동대문구 장안2동 중등 영어과외 | 동국대사범대부속중·장평중 체계적 학습 관리"
 date: 2025-01-29
 categories:

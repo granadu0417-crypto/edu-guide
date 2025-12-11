@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-myeongil2-middle-english/
 title: 강동구 명일2동 중등 영어과외 - 명일중·강동중 내신 집중
 date: 2025-01-29
 categories:

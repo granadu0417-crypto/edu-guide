@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-번2-high-math/
 title: "강북구 번2동 고등 수학과외 | 신일고 전문 선생님과 함께"
 date: 2025-01-28
 categories:

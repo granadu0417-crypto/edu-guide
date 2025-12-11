@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-hwayang-middle-math/
 title: 광진구 화양동 중등 수학과외 - 구의중·구의중 맞춤 관리
 date: 2025-01-29
 categories:

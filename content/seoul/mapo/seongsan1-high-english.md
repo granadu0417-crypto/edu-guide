@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-성산1-high-english/
 title: "마포구 성산1동 고등 영어과외 | 홍익대부속여고·상암고 수능 고득점 전략"
 date: 2025-01-28
 categories:

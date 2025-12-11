@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-dunchon2-middle-math/
 title: 강동구 둔촌2동 중등 수학과외 - 둔촌중·천호중 맞춤 관리
 date: 2025-01-29
 categories:

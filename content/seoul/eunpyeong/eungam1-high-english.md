@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-eungam1-high-english/
 title: "은평구 응암1동 고등 영어과외 | 충암고·은평고 체계적 영어 학습"
 date: 2025-05-20
 categories:

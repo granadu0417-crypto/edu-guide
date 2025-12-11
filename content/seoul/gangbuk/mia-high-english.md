@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-미아-high-english/
 title: "강북구 미아동 고등 영어과외 | 미양고·솔샘고·신일고·창문여고 취약점 집중 관리"
 date: 2025-01-28
 categories:

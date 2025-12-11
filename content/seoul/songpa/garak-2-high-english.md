@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-가락2-high-english/
 title: "송파구 가락2동 고등 영어과외 | 가락고 목표 등급 달성"
 date: 2025-01-28
 categories:

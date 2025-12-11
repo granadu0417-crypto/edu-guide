@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-madu2-middle-english/
 title: "고양시 일산동구 마두2동 중등 영어과외 | 마두중 중학 영어 완성"
 date: 2025-01-15
 categories:

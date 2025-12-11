@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-samseong-middle-english/
 title: "성북구 삼선동 중등 영어과외 | 삼선중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

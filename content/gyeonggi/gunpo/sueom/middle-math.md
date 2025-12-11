@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gunpo-sueom-middle-math/
 title: "군포시 수리동 중등 수학과외 | 수리중·군포중·흥진중 내신 완벽 대비"
 date: 2025-01-15
 categories:

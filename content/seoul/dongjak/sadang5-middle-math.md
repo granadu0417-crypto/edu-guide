@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang5-middle-math/
 title: "동작구 사당5동 중등 수학과외 | 상도중·동작중 개념부터 실전까지"
 date: 2025-01-29
 categories:

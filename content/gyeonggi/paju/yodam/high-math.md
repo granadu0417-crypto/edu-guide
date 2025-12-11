@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/paju-yodam-high-math/
 title: "파주시 교하동 고등 수학과외 | 운정고·파주고·금촌고 내신·수능 대비"
 date: 2025-01-15
 categories:

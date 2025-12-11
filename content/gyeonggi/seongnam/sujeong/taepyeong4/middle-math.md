@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-taepyeong4-middle-math/
 title: "성남시 수정구 태평4동 중등 수학과외 | 성일중·성남여중·태원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

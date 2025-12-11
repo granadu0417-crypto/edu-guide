@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡7-high-english/
 title: "강서구 화곡7동 고등 영어과외 | 화곡고 어휘력 향상"
 date: 2025-01-28
 categories:

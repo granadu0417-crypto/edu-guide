@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-가회-high-english/
 title: "종로구 가회동 고등 영어과외 | 경복고·동성고·중앙고 실력 향상 수업"
 date: 2025-01-28
 categories:

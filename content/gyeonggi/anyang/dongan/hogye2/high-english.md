@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/anyang-hogye2-high-english/
 title: "안양시 동안구 호계2동 고등 영어과외 | 범계고·평촌고·안양외고 내신·수능 대비"
 date: 2025-01-15
 categories:

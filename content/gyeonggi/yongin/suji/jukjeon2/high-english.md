@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-jukjeon2-high-english/
 title: "용인시 수지구 죽전2동 고등 영어과외 | 죽전고·현암고·수지고 내신·수능 대비"
 date: 2025-01-15
 categories:

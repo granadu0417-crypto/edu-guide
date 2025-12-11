@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-chilbo-middle-english/
 title: "수원시 권선구 칠보동 중등 영어과외 | 칠보중·금곡중·권선중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung4-middle-math/
 title: "금천구 시흥4동 중등 수학과외 | 문일중·한울중 개념완성 수업"
 date: 2025-01-29
 categories:

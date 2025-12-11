@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/siheung-eunhae-middle-math/
 title: "시흥시 은행동 중등 수학과외 | 능곡중·시흥중·소래중 내신 완벽 대비"
 date: 2025-01-15
 categories:

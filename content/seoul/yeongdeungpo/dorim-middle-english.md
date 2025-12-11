@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-dorim-middle-english/
 title: "영등포구 도림동 중등 영어과외 | 대림중·영남중 독해·문법 완성"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gwangmyeong-gwangmyeong1-high-math/
 title: "광명시 광명1동 고등 수학과외 | 광명고·광명북고·진성고 내신·수능 대비"
 date: 2025-01-15
 categories:

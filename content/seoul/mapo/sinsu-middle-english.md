@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-sinsu-middle-english/
 title: "마포구 신수동 중등 영어과외 | 신수중 기초부터 심화까지"
 date: 2025-01-29
 categories:

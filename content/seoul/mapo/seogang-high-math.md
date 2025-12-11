@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-서강-high-math/
 title: "마포구 서강동 고등 수학과외 | 광성고·경성고 킬러문항 특화"
 date: 2025-01-28
 categories:

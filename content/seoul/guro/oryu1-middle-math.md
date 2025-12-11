@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-oryu1-middle-math/
 title: "구로구 오류1동 중등 수학과외 | 오류중·개봉중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-sinsa2-high-math/
 title: "은평구 신사2동 고등 수학과외 | 은평고·충암고 수능형 문제 완성"
 date: 2025-05-20
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-신길4-high-math/
 title: "영등포구 신길4동 고등 수학과외 | 영신고 기초부터 심화까지"
 date: 2025-01-28
 categories:

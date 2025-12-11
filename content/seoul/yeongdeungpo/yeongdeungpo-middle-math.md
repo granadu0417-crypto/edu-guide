@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yeongdeungpo-middle-math/
 title: "영등포구 영등포동 중등 수학과외 | 영원중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-dongseon-middle-english/
 title: "성북구 동선동 중등 영어과외 | 삼선중·개운중 독해·문법 완성"
 date: 2025-01-29
 categories:

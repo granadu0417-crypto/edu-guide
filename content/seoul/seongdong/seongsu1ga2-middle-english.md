@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-seongsu1ga2-middle-english/
 title: "성동구 성수1가2동 중등 영어과외 | 성수중 내신 완벽 대비"
 date: 2025-01-29
 categories:

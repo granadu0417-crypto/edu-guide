@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-bukgajwa1-middle-english/
 title: "서대문구 북가좌1동 중등 영어과외 | 가재울중 내신 완벽 대비"
 date: 2025-01-29
 categories:

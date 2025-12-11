@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-논현2-high-english/
 title: "강남구 논현2동 고등 영어과외 | 영동고·진선여고 영어 실력 완성"
 date: 2025-01-28
 categories:

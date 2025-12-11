@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-goyang-middle-math/
 title: "고양시 덕양구 고양동 중등 수학과외 | 고양중 등급 향상 전략"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-pungsan-middle-math/
 title: "고양시 일산동구 풍산동 중등 수학과외 | 풍산중 내신 + 선행 병행"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye8-high-math/
 title: 노원구 상계8동 고등 수학과외 | 수락고·청원고 1:1 맞춤 수업
 date: 2025-01-29
 categories:

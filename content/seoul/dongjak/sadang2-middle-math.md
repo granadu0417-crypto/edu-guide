@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sadang2-middle-math/
 title: "동작구 사당2동 중등 수학과외 | 상도중·동작중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

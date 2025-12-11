@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-eungam3-middle-english/
 title: "은평구 응암3동 중등 영어과외 | 충암중 기초부터 탄탄하게"
 date: 2025-05-20
 categories:

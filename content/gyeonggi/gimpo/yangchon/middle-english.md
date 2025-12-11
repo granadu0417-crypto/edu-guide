@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gimpo-yangchon-middle-english/
 title: "김포시 양촌읍 중등 영어과외 | 양곡중·김포중·김포제일중 내신 완벽 대비"
 date: 2025-01-15
 categories:

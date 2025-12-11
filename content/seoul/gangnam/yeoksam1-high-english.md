@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-역삼1-high-english/
 title: "강남구 역삼1동 고등 영어과외 | 강남서초고·중동고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

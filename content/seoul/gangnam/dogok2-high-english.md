@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-도곡2-high-english/
 title: "강남구 도곡2동 고등 영어과외 | 개포고·대진고 문법 패턴 완성"
 date: 2025-01-28
 categories:

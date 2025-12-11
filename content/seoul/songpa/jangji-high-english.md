@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-장지-high-english/
 title: "송파구 장지동 고등 영어과외 | 문정고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

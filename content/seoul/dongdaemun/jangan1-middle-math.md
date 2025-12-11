@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-jangan1-middle-math/
 title: "동대문구 장안1동 중등 수학과외 | 동국대사범대부속중·장평중 개념부터 실전까지"
 date: 2025-01-29
 categories:

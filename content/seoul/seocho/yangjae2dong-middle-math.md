@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-yangjae2dong-middle-math/
 title: "서초구 양재2동 중등 수학과외 - 언남중·영동중 맞춤 관리"
 description: "서초구 양재2동 중학생 수학과외 전문. 언남중, 영동중 내신 완벽 대비와 개념 이해 중심의 1:1 맞춤 수업."
 date: 2025-01-22

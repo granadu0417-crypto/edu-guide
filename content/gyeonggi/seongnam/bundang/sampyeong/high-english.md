@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-sampyeong-high-english/
 title: "성남시 분당구 삼평동 고등 영어과외 | 판교고·늘푸른고·성남외고 내신·수능 대비"
 date: 2025-01-15
 categories:

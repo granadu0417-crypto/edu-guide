@@ -9,10 +9,6 @@ tags:
   - 세종과외
   - 세종수학과외
   - 세종영어과외
-aliases:
-  - /local/sejong-education-guide/
-  - /local/sejong-math-tutoring/
-  - /local/sejong-english-tutoring/
 ---
 
 ## 세종특별자치시 과외 안내

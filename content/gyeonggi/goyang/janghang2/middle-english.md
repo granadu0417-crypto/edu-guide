@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-janghang2-middle-english/
 title: "고양시 일산동구 장항2동 중등 영어과외 | 장항중 문법 패턴 완성"
 date: 2025-01-15
 categories:

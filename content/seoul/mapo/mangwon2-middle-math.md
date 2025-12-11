@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-mangwon2-middle-math/
 title: "마포구 망원2동 중등 수학과외 | 성산중·성사중 학교별 내신 특화"
 date: 2025-01-29
 categories:

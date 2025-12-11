@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-북가좌2-high-math/
 title: "서대문구 북가좌2동 고등 수학과외 | 가재울고 단계별 실력 향상"
 date: 2025-01-28
 categories:

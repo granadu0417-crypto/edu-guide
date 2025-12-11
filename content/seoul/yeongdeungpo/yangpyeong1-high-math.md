@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-양평1-high-math/
 title: "영등포구 양평1동 고등 수학과외 | 관악고·선유고 내신 1등급 전략"
 date: 2025-01-28
 categories:

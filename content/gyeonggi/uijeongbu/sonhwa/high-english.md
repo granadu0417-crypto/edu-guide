@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/uijeongbu-sonhwa-high-english/
 title: "의정부시 송산1동 고등 영어과외 | 효자고·경민고·의정부고 내신·수능 대비"
 date: 2025-01-15
 categories:

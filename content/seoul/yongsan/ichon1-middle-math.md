@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-ichon1-middle-math/
 title: "용산구 이촌1동 중등 수학과외 | 용강중 1:1 맞춤 수업"
 date: 2025-05-15
 categories:

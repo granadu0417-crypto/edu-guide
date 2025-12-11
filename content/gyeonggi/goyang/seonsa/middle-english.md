@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-seonsa-middle-english/
 title: "고양시 일산동구 선사동 중등 영어과외 | 선사중 독해·문법 완성"
 date: 2025-01-15
 categories:

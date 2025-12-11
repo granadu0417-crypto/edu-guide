@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sangdo1-middle-english/
 title: "동작구 상도1동 중등 영어과외 | 강현중·상현중 실력 향상 수업"
 date: 2025-01-29
 categories:

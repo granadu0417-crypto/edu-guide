@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-신도림-high-english/
 title: "구로구 신도림동 고등 영어과외 | 신도림고·구현고 어휘력 향상"
 date: 2025-01-28
 categories:

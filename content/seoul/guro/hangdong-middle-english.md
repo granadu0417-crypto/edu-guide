@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-hangdong-middle-english/
 title: "구로구 항동 중등 영어과외 | 우신중·오류중 체계적 학습 관리"
 date: 2025-01-29
 categories:

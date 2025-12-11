@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/siheung-jeongwang3-high-english/
 title: "시흥시 정왕3동 고등 영어과외 | 능곡고·정왕고·시흥고 내신·수능 대비"
 date: 2025-01-15
 categories:

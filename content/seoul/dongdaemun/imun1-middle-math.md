@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-imun1-middle-math/
 title: "동대문구 이문1동 중등 수학과외 | 경희중·경희여중 실력 향상 수업"
 date: 2025-01-29
 categories:

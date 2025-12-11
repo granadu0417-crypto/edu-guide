@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-songjuk-middle-english/
 title: "수원시 장안구 송죽동 중등 영어과외 | 경기과학중·수성중·율전중 내신 완벽 대비"
 date: 2025-01-15
 categories:

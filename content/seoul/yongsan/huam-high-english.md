@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-huam-high-english/
 title: "용산구 후암동 고등 영어과외 | 용산고·보성여고 체계적 수능 대비"
 date: 2025-05-15
 categories:

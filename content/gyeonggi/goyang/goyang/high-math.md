@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-goyang-high-math/
 title: "고양시 덕양구 고양동 고등 수학과외 | 고양일고 등급 향상 전략"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/namyangju-hwadeo-high-english/
 title: "남양주시 화도읍 고등 영어과외 | 화도고·남양주고·동화고 내신·수능 대비"
 date: 2025-01-15
 categories:

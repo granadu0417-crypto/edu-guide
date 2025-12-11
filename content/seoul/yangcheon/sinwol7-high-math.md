@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-신월7-high-math/
 title: "양천구 신월7동 고등 수학과외 | 광영고·광영여고 문제 해결력 향상"
 date: 2025-01-28
 categories:

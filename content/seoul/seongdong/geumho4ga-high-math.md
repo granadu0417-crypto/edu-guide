@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-금호4가-high-math/
 title: "성동구 금호4가동 고등 수학과외 | 경일고·성수고 킬러문항 특화"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/anyang-pyeongchon-high-english/
 title: "안양시 동안구 평촌동 고등 영어과외 | 평촌고·안양외고·범계고 내신·수능 대비"
 date: 2025-01-15
 categories:

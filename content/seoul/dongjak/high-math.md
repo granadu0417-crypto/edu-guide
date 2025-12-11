@@ -13,22 +13,6 @@ cities:
 tags:
   - 동작구수학과외
   - 동작구고등수학
-aliases:
-  - /high/dongjak-daebang-high-math/
-  - /high/dongjak-heukseok-high-math/
-  - /high/dongjak-noryangjin1-high-math/
-  - /high/dongjak-noryangjin2-high-math/
-  - /high/dongjak-sadang1-high-math/
-  - /high/dongjak-sadang2-high-math/
-  - /high/dongjak-sadang3-high-math/
-  - /high/dongjak-sadang4-high-math/
-  - /high/dongjak-sadang5-high-math/
-  - /high/dongjak-sangdo1-high-math/
-  - /high/dongjak-sangdo2-high-math/
-  - /high/dongjak-sangdo3-high-math/
-  - /high/dongjak-sangdo4-high-math/
-  - /high/dongjak-sindaebang1-high-math/
-  - /high/dongjak-sindaebang2-high-math/
 ---
 
 동작구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

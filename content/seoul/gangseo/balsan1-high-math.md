@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-발산1-high-math/
 title: "강서구 발산1동 고등 수학과외 | 수명고·명덕고·명덕여고 체계적 학습 관리"
 date: 2025-01-28
 categories:

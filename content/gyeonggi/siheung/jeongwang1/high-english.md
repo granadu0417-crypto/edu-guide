@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/siheung-jeongwang1-high-english/
 title: "시흥시 정왕1동 고등 영어과외 | 정왕고·시흥고·능곡고 내신·수능 대비"
 date: 2025-01-15
 categories:

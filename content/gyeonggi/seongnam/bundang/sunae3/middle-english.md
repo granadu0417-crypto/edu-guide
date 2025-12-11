@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-sunae3-middle-english/
 title: "성남시 분당구 수내3동 중등 영어과외 | 수내중·성남외중·분당중 내신 완벽 대비"
 date: 2025-01-15
 categories:

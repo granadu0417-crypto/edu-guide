@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-연남-high-math/
 title: "마포구 연남동 고등 수학과외 | 경성고 개념부터 심화까지"
 date: 2025-01-28
 categories:

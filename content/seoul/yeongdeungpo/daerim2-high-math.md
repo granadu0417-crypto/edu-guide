@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-대림2-high-math/
 title: "영등포구 대림2동 고등 수학과외 | 영신고·영등포여고 킬러문항 특화"
 date: 2025-01-28
 categories:

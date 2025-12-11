@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-신사-high-english/
 title: "관악구 신사동 고등 영어과외 | 신림고 전문 선생님과 함께"
 date: 2025-01-28
 categories:

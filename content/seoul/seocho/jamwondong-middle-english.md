@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-jamwondong-middle-english/
 title: 서초구 잠원동 중등 영어과외 - 경원중·신동중 내신 전문
 date: 2025-01-22
 categories:

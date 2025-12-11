@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-방화2-high-english/
 title: "강서구 방화2동 고등 영어과외 | 한서고·동양고 수능 완벽 대비"
 date: 2025-01-28
 categories:

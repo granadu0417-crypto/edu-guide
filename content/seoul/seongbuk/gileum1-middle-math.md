@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-gileum1-middle-math/
 title: "성북구 길음1동 중등 수학과외 | 길음중 학교별 내신 특화"
 date: 2025-01-29
 categories:

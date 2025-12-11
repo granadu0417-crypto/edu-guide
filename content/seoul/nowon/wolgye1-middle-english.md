@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-wolgye1-middle-english/
 title: 노원구 월계1동 중등 영어과외 | 월계중·화랑중·녹천중 내신 맞춤 관리
 date: 2025-01-29
 categories:

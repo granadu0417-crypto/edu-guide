@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-maesan-middle-math/
 title: "수원시 팔달구 매산동 중등 수학과외 | 수원중·삼일상중·동우여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

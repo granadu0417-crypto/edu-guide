@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-sangdong-high-english/
 title: "부천시 상동 고등 영어과외 | 상동고·중원고·부천고 내신·수능 대비"
 date: 2025-01-15
 categories:

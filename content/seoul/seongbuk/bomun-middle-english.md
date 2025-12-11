@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-bomun-middle-english/
 title: "성북구 보문동 중등 영어과외 | 고려대사대부중 기초부터 심화까지"
 date: 2025-01-29
 categories:

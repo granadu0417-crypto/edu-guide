@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-cheoncheon-high-math/
 title: "수원시 장안구 천천동 고등 수학과외 | 천천고·수성고·영생고 내신·수능 대비"
 date: 2025-01-15
 categories:

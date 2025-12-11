@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-tanhyeon1-high-english/
 title: "고양시 일산서구 탄현1동 고등 영어과외 | 일산동고 독해·문법 완성"
 date: 2025-01-15
 categories:

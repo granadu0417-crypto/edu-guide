@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-wangsimni-doseondong-middle-math/
 title: "성동구 왕십리도선동 중등 수학과외 | 무학중·행당중 내신 완벽 대비"
 date: 2025-01-29
 categories:

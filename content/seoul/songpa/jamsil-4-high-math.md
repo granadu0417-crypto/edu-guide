@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-잠실4-high-math/
 title: "송파구 잠실4동 고등 수학과외 | 잠실고·잠일고 단계별 실력 향상"
 date: 2025-01-28
 categories:

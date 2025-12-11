@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye67-middle-english/
 title: 노원구 상계6·7동 중등 영어과외 | 노원중·신상중 맞춤 커리큘럼
 date: 2025-01-29
 categories:

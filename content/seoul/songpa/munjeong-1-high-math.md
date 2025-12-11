@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-문정1-high-math/
 title: "송파구 문정1동 고등 수학과외 | 문정고·잠실고 킬러문항 특화"
 date: 2025-01-28
 categories:

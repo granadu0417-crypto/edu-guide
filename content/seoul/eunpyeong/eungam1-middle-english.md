@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-eungam1-middle-english/
 title: "은평구 응암1동 중등 영어과외 | 충암중·상신중 영어 내신 특화"
 date: 2025-05-20
 categories:

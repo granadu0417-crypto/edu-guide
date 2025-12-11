@@ -13,24 +13,6 @@ cities:
 tags:
   - 종로구영어과외
   - 종로구중등영어
-aliases:
-  - /middle/jongno-buam-middle-english/
-  - /middle/jongno-changsin1-middle-english/
-  - /middle/jongno-changsin2-middle-english/
-  - /middle/jongno-changsin3-middle-english/
-  - /middle/jongno-cheongunhyoja-middle-english/
-  - /middle/jongno-gahoe-middle-english/
-  - /middle/jongno-gyonam-middle-english/
-  - /middle/jongno-hyehwa-middle-english/
-  - /middle/jongno-ihwa-middle-english/
-  - /middle/jongno-jongno1234-middle-english/
-  - /middle/jongno-jongno56-middle-english/
-  - /middle/jongno-muak-middle-english/
-  - /middle/jongno-pyeongchang-middle-english/
-  - /middle/jongno-sajik-middle-english/
-  - /middle/jongno-samcheong-middle-english/
-  - /middle/jongno-sungin1-middle-english/
-  - /middle/jongno-sungin2-middle-english/
 ---
 
 종로구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

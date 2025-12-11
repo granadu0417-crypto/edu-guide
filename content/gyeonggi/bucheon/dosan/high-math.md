@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-dosan-high-math/
 title: "부천시 도당동 고등 수학과외 | 부흥고·부천고·부천여고 내신·수능 대비"
 date: 2025-01-15
 categories:

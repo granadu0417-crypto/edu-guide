@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-songjung-middle-english/
 title: "강북구 송중동 중등 영어과외 | 영훈국제중·신일중 독해·문법 완성"
 date: 2025-01-29
 categories:

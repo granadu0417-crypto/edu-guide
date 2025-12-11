@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-imun2-middle-math/
 title: "동대문구 이문2동 중등 수학과외 | 경희중·경희여중 체계적 학습 관리"
 date: 2025-01-29
 categories:

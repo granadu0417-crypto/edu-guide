@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-구로3-high-english/
 title: "구로구 구로3동 고등 영어과외 | 구일고·구로고 약점 집중 보완"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwanak-miseong-middle-math/
 title: "관악구 미성동 중등 수학과외 | 남서울중·미성중·성보중 내신 완벽 대비"
 date: 2025-01-29
 categories:

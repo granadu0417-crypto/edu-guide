@@ -20,29 +20,6 @@ tags:
   - 은광중
   - 청담중
   - 압구정중
-aliases:
-  - /middle/gangnam-apgujeong-middle-math/
-  - /middle/gangnam-cheongdam-middle-math/
-  - /middle/gangnam-daechi1-middle-math/
-  - /middle/gangnam-daechi2-middle-math/
-  - /middle/gangnam-daechi4-middle-math/
-  - /middle/gangnam-dogok1-middle-math/
-  - /middle/gangnam-dogok2-middle-math/
-  - /middle/gangnam-gaepo1-middle-math/
-  - /middle/gangnam-gaepo2-middle-math/
-  - /middle/gangnam-gaepo3-middle-math/
-  - /middle/gangnam-gaepo4-middle-math/
-  - /middle/gangnam-ilwon1-middle-math/
-  - /middle/gangnam-ilwonbon-middle-math/
-  - /middle/gangnam-nonhyeon1-middle-math/
-  - /middle/gangnam-nonhyeon2-middle-math/
-  - /middle/gangnam-samsung1-middle-math/
-  - /middle/gangnam-samsung2-middle-math/
-  - /middle/gangnam-segok-middle-math/
-  - /middle/gangnam-sinsa-middle-math/
-  - /middle/gangnam-suseo-middle-math/
-  - /middle/gangnam-yeoksam1-middle-math/
-  - /middle/gangnam-yeoksam2-middle-math/
 ---
 
 강남구 중학교 수학, 전국 최고 난이도입니다. 학교 시험에 경시대회 수준 문제가 출제되어 학원만으로는 부족합니다.

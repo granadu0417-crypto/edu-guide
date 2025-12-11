@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-안암-high-english/
 title: "성북구 안암동 고등 영어과외 | 성북고·대광고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

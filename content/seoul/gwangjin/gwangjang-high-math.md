@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-광장-high-math/
 title: "광진구 광장동 고등 수학과외 | 광남고 실력 향상 비결"
 date: 2025-01-28
 categories:

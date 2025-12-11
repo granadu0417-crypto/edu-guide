@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-yeokchon-high-english/
 title: "은평구 역촌동 고등 영어과외 | 은평고·충암고 기초부터 실전까지"
 date: 2025-05-20
 categories:

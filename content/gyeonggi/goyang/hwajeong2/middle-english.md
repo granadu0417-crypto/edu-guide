@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-hwajeong2-middle-english/
 title: "고양시 덕양구 화정2동 중등 영어과외 | 화수중 맞춤형 학습 설계"
 date: 2025-01-15
 categories:

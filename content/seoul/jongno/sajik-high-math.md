@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-사직-high-math/
 title: "종로구 사직동 고등 수학과외 | 경복고·동성고·중앙고 전문 선생님과 함께"
 date: 2025-01-28
 categories:

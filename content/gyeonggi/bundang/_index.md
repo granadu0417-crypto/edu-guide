@@ -11,8 +11,6 @@ tags:
   - 분당과외
   - 분당수학과외
   - 분당영어과외
-aliases:
-  - /local/gyeonggi/bundang-english-tutoring/
 ---
 
 ## 분당 과외 안내

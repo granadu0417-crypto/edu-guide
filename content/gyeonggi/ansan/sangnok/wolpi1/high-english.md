@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/ansan-wolpi1-high-english/
 title: "안산시 상록구 월피동 고등 영어과외 | 안산고·상록고·성포고 내신·수능 대비"
 date: 2025-01-15
 categories:

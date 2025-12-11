@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-ichon2-middle-math/
 title: "용산구 이촌2동 중등 수학과외 | 용강중 개념부터 실전까지"
 date: 2025-05-15
 categories:

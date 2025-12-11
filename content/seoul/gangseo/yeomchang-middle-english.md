@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-yeomchang-middle-english/
 title: "강서구 염창동 중등 영어과외 | 염경중·염창중 내신 완벽 대비"
 date: 2025-01-29
 categories:

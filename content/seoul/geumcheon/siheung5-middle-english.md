@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung5-middle-english/
 title: "금천구 시흥5동 중등 영어과외 | 시흥중·문일중·동일중 내신 집중 관리"
 date: 2025-01-29
 categories:

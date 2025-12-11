@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongje2-middle-math/
 title: "서대문구 홍제2동 중등 수학과외 | 인왕중 실력 향상 수업"
 date: 2025-01-29
 categories:

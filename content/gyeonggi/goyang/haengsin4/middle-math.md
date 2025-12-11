@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-haengsin4-middle-math/
 title: "고양시 덕양구 행신4동 중등 수학과외 | 행신중 꼼꼼한 1:1 지도"
 date: 2025-01-15
 categories:

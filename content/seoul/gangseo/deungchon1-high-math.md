@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-등촌1-high-math/
 title: "강서구 등촌1동 고등 수학과외 | 등촌고·경복여고·영일고 킬러문항 정복"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-대치1-high-english/
 title: "강남구 대치1동 고등 영어과외 | 중대부고·단대부고 취약점 집중 관리"
 date: 2025-01-28
 categories:

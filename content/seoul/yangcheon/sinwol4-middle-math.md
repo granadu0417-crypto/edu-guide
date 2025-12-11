@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol4-middle-math/
 title: "양천구 신월4동 중등 수학과외 | 신화중 실력 향상 수업"
 date: 2025-01-29
 categories:

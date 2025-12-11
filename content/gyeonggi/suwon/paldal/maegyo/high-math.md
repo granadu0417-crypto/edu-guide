@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-maegyo-high-math/
 title: "수원시 팔달구 매교동 고등 수학과외 | 수원고·매향여고·유신고 내신·수능 대비"
 date: 2025-01-15
 categories:

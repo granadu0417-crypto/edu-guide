@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-nokbeon-middle-math/
 title: "은평구 녹번동 중등 수학과외 | 불광중·연신중 단계별 실력 향상"
 date: 2025-05-20
 categories:

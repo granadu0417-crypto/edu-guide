@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/uijeongbu-uijeongbu2-high-english/
 title: "의정부시 의정부2동 고등 영어과외 | 경민고·의정부고·효자고 내신·수능 대비"
 date: 2025-01-15
 categories:

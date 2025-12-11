@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-anam-middle-math/
 title: "성북구 안암동 중등 수학과외 | 용문중 개념부터 실전까지"
 date: 2025-01-29
 categories:

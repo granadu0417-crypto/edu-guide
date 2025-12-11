@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-tanhyeon1-middle-math/
 title: "고양시 일산서구 탄현1동 중등 수학과외 | 탄현중 기초 탄탄 프로그램"
 date: 2025-01-15
 categories:

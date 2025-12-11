@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-개포1-high-english/
 title: "강남구 개포1동 고등 영어과외 | 개포고·대진고 영어 자신감 회복"
 date: 2025-01-28
 categories:

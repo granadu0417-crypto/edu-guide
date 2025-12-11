@@ -9,10 +9,6 @@ tags:
   - 울산과외
   - 울산수학과외
   - 울산영어과외
-aliases:
-  - /local/ulsan-education-guide/
-  - /local/ulsan-math-tutoring/
-  - /local/ulsan-english-tutoring/
 ---
 
 ## 울산광역시 과외 안내

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-서원-high-english/
 title: "관악구 서원동 고등 영어과외 | 신림고·삼성고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

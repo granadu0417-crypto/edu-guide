@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang5-middle-math/
 title: "도봉구 창5동 중등 수학과외 | 창북중 개념완성 수업"
 date: 2025-01-29
 categories:

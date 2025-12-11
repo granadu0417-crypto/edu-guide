@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-수유3-high-english/
 title: "강북구 수유3동 고등 영어과외 | 혜화여고 어휘력 향상"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-mangwu3-middle-english/
 title: "중랑구 망우3동 중등 영어과외 | 송곡여중, 혜원여중, 영란여중 내신 완벽 대비"
 date: 2025-12-08
 categories:

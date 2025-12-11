@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang4-middle-math/
 title: "도봉구 창4동 중등 수학과외 | 창북중 체계적 학습 관리"
 date: 2025-01-29
 categories:

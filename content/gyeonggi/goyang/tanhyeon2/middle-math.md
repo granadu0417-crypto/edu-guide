@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-tanhyeon2-middle-math/
 title: "고양시 일산서구 탄현2동 중등 수학과외 | 탄현중 고등 대비 심화 학습"
 date: 2025-01-15
 categories:

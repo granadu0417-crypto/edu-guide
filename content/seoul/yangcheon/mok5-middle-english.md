@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-mok5-middle-english/
 title: "양천구 목5동 중등 영어과외 | 신목중·양정중·월촌중 내신·특목 대비"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-jungok-middle-english/
 title: "용인시 기흥구 중동 중등 영어과외 | 용인중·기흥중·용인삼계중 내신 완벽 대비"
 date: 2025-01-15
 categories:

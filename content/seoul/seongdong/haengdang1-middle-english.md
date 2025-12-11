@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-haengdang1-middle-english/
 title: "성동구 행당1동 중등 영어과외 | 무학중·행당중 내신 완벽 대비"
 date: 2025-01-29
 categories:

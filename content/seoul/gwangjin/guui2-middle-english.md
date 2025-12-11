@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-guui2-middle-english/
 title: 광진구 구의2동 중등 영어과외 - 동국대부여중·구의중 내신 완성
 date: 2025-01-29
 categories:

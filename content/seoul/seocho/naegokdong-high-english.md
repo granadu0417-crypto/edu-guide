@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-내곡-high-english/
 title: "서초구 내곡동 고등 영어과외 | 언남고·서울세종고 목표 등급 달성"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-buyok-middle-english/
 title: "안산시 상록구 부곡동 중등 영어과외 | 부곡중·안산중·상록중 내신 완벽 대비"
 date: 2025-01-15
 categories:

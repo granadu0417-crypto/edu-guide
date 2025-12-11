@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-yongmun-high-english/
 title: "용산구 용문동 고등 영어과외 | 성심여고·배문고 어휘·문법 완성"
 date: 2025-05-15
 categories:

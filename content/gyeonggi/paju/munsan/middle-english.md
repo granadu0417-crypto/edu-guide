@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/paju-munsan-middle-english/
 title: "파주시 문산읍 중등 영어과외 | 문산중·파주중·금촌중 내신 완벽 대비"
 date: 2025-01-15
 categories:

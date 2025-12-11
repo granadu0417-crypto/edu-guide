@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-hwaseo2-high-math/
 title: "수원시 팔달구 화서2동 고등 수학과외 | 화홍고·수원고·유신고 내신·수능 대비"
 date: 2025-01-15
 categories:

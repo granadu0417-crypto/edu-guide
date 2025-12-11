@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-insu-middle-english/
 title: "강북구 인수동 중등 영어과외 | 인수중·화계중 내신 완벽 대비"
 date: 2025-01-29
 categories:

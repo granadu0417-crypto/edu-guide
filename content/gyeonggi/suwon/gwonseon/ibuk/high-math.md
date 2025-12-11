@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-ibuk-high-math/
 title: "수원시 권선구 입북동 고등 수학과외 | 권선고·칠보고·고색고 내신·수능 대비"
 date: 2025-01-15
 categories:

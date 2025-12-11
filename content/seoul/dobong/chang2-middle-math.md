@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang2-middle-math/
 title: "도봉구 창2동 중등 수학과외 | 창일중·노곡중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-중곡1-high-english/
 title: "광진구 중곡1동 고등 영어과외 | 대원고·대원여고 독해력 특화"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동작-대방-high-english/
 title: "동작구 대방동 고등 영어과외 | 성남고·영등포고·서울공업고 수능 고득점 전략"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-방이2-high-english/
 title: "송파구 방이2동 고등 영어과외 | 창덕여고·서울체육고 독해·문법 완성"
 date: 2025-01-28
 categories:

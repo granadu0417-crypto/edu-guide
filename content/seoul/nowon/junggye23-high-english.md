@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-junggye23-high-english/
 title: 노원구 중계2·3동 고등 영어과외 | 대진여고·영신여고·상명고 내신·수능 대비
 date: 2025-01-29
 categories:

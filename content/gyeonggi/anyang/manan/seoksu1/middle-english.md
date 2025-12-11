@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-seoksu1-middle-english/
 title: "안양시 만안구 석수1동 중등 영어과외 | 안양중·신성중·백영중 내신 완벽 대비"
 date: 2025-01-15
 categories:

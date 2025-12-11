@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-수유2-high-math/
 title: "강북구 수유2동 고등 수학과외 | 혜화여고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-돈암2-high-english/
 title: "성북구 돈암2동 고등 영어과외 | 대광고·성신여고 기초부터 심화까지"
 date: 2025-01-28
 categories:

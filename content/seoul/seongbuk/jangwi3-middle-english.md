@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jangwi3-middle-english/
 title: "성북구 장위3동 중등 영어과외 | 장위중 체계적 학습 관리"
 date: 2025-01-29
 categories:

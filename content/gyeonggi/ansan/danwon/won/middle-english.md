@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-won-middle-english/
 title: "안산시 단원구 원곡동 중등 영어과외 | 단원중·성안중·원곡중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/osan-namchon-middle-math/
 title: "오산시 남촌동 중등 수학과외 | 오산중·운천중·세마중 내신 완벽 대비"
 date: 2025-01-15
 categories:

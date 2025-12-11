@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-garakbon-middle-english/
 title: 송파구 가락본동 중등 영어과외 - 가락중 내신 전문
 date: 2025-01-29
 categories:

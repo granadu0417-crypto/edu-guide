@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-sageun-middle-english/
 title: "성동구 사근동 중등 영어과외 | 한양대부중 실력 향상 수업"
 date: 2025-01-29
 categories:

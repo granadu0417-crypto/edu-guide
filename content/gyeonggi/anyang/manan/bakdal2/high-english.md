@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/anyang-bakdal2-high-english/
 title: "안양시 만안구 박달2동 고등 영어과외 | 안양고·백영고·안양여고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-등촌2-high-english/
 title: "강서구 등촌2동 고등 영어과외 | 등촌고·경복여고·영일고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

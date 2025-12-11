@@ -13,29 +13,6 @@ cities:
 tags:
   - 성북구수학과외
   - 성북구중등수학
-aliases:
-  - /middle/seongbuk-anam-middle-math/
-  - /middle/seongbuk-bomun-middle-math/
-  - /middle/seongbuk-donam1-middle-math/
-  - /middle/seongbuk-donam2-middle-math/
-  - /middle/seongbuk-dongseon-middle-math/
-  - /middle/seongbuk-gileum1-middle-math/
-  - /middle/seongbuk-gileum2-middle-math/
-  - /middle/seongbuk-hawolgok-middle-math/
-  - /middle/seongbuk-jangwi1-middle-math/
-  - /middle/seongbuk-jangwi2-middle-math/
-  - /middle/seongbuk-jangwi3-middle-math/
-  - /middle/seongbuk-jeongneung1-middle-math/
-  - /middle/seongbuk-jeongneung2-middle-math/
-  - /middle/seongbuk-jeongneung3-middle-math/
-  - /middle/seongbuk-jeongneung4-middle-math/
-  - /middle/seongbuk-jongam-middle-math/
-  - /middle/seongbuk-samseong-middle-math/
-  - /middle/seongbuk-sangwolgok-middle-math/
-  - /middle/seongbuk-seokgwan-middle-math/
-  - /middle/seongbuk-seongbuk-middle-math/
-  - /middle/seongbuk-wolgok1-middle-math/
-  - /middle/seongbuk-wolgok2-middle-math/
 ---
 
 성북구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

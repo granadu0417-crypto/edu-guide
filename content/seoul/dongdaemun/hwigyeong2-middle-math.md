@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-hwigyeong2-middle-math/
 title: "동대문구 휘경2동 중등 수학과외 | 휘경중·휘경여중·전동중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-자양1-high-math/
 title: "광진구 자양1동 고등 수학과외 | 광양고 수학 자신감 회복"
 date: 2025-01-28
 categories:

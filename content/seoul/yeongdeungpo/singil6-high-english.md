@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-신길6-high-english/
 title: "영등포구 신길6동 고등 영어과외 | 장훈고·대영고 실력 향상 수업"
 date: 2025-01-28
 categories:

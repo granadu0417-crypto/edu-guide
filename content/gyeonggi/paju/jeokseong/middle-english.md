@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/paju-jeokseong-middle-english/
 title: "파주시 적성면 중등 영어과외 | 파주중·금촌중·문산중 내신 완벽 대비"
 date: 2025-01-15
 categories:

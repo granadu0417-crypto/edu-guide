@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-gongdeok-middle-math/
 title: "마포구 공덕동 중등 수학과외 | 아현중·숭문중 내신 완벽 대비"
 date: 2025-01-29
 categories:

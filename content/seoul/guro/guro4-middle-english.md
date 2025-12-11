@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-guro4-middle-english/
 title: "구로구 구로4동 중등 영어과외 | 영림중·구일중 어휘·문법 집중"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-성수1가1-high-english/
 title: "성동구 성수1가1동 고등 영어과외 | 경일고·성수고 독해부터 문법까지"
 date: 2025-01-28
 categories:

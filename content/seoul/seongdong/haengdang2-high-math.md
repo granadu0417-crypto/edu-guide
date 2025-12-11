@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-행당2-high-math/
 title: "성동구 행당2동 고등 수학과외 | 무학여고·한양대부고 수능 고득점 전략"
 date: 2025-01-28
 categories:

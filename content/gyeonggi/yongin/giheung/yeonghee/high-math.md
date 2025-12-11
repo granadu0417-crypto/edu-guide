@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-yeonghee-high-math/
 title: "용인시 기흥구 영덕동 고등 수학과외 | 용인삼계고·기흥고·용인고 내신·수능 대비"
 date: 2025-01-15
 categories:

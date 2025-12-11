@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-대흥-high-english/
 title: "마포구 대흥동 고등 영어과외 | 숭문고 단계별 실력 향상"
 date: 2025-01-28
 categories:

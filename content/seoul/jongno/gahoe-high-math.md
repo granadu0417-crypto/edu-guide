@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-가회-high-math/
 title: "종로구 가회동 고등 수학과외 | 경복고·동성고·중앙고 실력 향상 수업"
 date: 2025-01-28
 categories:

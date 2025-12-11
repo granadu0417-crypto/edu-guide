@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-eungam3-high-math/
 title: "은평구 응암3동 고등 수학과외 | 충암고 충암고 내신 특화"
 date: 2025-05-20
 categories:

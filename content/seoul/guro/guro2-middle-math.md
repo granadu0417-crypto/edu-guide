@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-guro2-middle-math/
 title: "구로구 구로2동 중등 수학과외 | 구로중·영서중 실력 향상 수업"
 date: 2025-01-29
 categories:

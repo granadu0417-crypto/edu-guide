@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-염창-high-math/
 title: "강서구 염창동 고등 수학과외 | 등촌고 수학 실력 완성"
 date: 2025-01-28
 categories:

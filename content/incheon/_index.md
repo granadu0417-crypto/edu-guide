@@ -9,10 +9,6 @@ tags:
   - 인천과외
   - 인천수학과외
   - 인천영어과외
-aliases:
-  - /local/incheon-education-guide/
-  - /local/incheon-math-tutoring/
-  - /local/incheon-english-tutoring/
 ---
 
 ## 인천광역시 과외 안내

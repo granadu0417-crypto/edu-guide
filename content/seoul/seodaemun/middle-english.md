@@ -13,21 +13,6 @@ cities:
 tags:
   - 서대문구영어과외
   - 서대문구중등영어
-aliases:
-  - /middle/seodaemun-bukahyeon-middle-english/
-  - /middle/seodaemun-bukgajwa1-middle-english/
-  - /middle/seodaemun-bukgajwa2-middle-english/
-  - /middle/seodaemun-cheongyeon-middle-english/
-  - /middle/seodaemun-chunghyeon-middle-english/
-  - /middle/seodaemun-hongeun1-middle-english/
-  - /middle/seodaemun-hongeun2-middle-english/
-  - /middle/seodaemun-hongje1-middle-english/
-  - /middle/seodaemun-hongje2-middle-english/
-  - /middle/seodaemun-hongje3-middle-english/
-  - /middle/seodaemun-namgajwa1-middle-english/
-  - /middle/seodaemun-namgajwa2-middle-english/
-  - /middle/seodaemun-sinchon-middle-english/
-  - /middle/seodaemun-yeonhui-middle-english/
 ---
 
 서대문구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

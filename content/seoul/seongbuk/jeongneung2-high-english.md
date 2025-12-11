@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-정릉2-high-english/
 title: "성북구 정릉2동 고등 영어과외 | 홍익대사대부고 목표 등급 달성"
 date: 2025-01-28
 categories:

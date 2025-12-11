@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangdong-gangil-middle-math/
 title: 강동구 강일동 중등 수학과외 - 강일중·상일중 맞춤 관리
 date: 2025-01-29
 categories:

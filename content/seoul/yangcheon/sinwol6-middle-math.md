@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinwol6-middle-math/
 title: "양천구 신월6동 중등 수학과외 | 강신중 내신·특목 대비"
 date: 2025-01-29
 categories:

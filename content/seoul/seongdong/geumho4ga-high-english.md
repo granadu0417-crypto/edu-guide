@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-금호4가-high-english/
 title: "성동구 금호4가동 고등 영어과외 | 경일고·성수고 독해력 특화"
 date: 2025-01-28
 categories:

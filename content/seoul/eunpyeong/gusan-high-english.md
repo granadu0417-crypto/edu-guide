@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/eunpyeong-gusan-high-english/
 title: "은평구 구산동 고등 영어과외 | 은평고·예일여고 독해·문법 마스터"
 date: 2025-05-20
 categories:

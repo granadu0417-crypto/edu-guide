@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-휘경1-high-math/
 title: "동대문구 휘경1동 고등 수학과외 | 휘경여고·휘봉고 약점 집중 보완"
 date: 2025-01-28
 categories:

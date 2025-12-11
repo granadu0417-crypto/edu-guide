@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hanam-deogsong2-high-english/
 title: "하남시 덕풍2동 고등 영어과외 | 위례고·하남고·미사고 내신·수능 대비"
 date: 2025-01-15
 categories:

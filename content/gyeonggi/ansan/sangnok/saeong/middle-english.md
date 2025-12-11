@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-saeong-middle-english/
 title: "안산시 상록구 사동 중등 영어과외 | 안산중·성포중·상록중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-jukjeon1-middle-english/
 title: "용인시 수지구 죽전1동 중등 영어과외 | 죽전중·수지중·풍덕중 내신 완벽 대비"
 date: 2025-01-15
 categories:

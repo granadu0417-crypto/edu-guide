@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-시흥3-high-english/
 title: "금천구 시흥3동 고등 영어과외 | 금천고·문일고·동일여고 체계적 학습 관리"
 date: 2025-01-28
 categories:

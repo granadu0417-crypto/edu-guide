@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-자양4-high-math/
 title: "광진구 자양4동 고등 수학과외 | 광양고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

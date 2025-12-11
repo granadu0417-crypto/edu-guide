@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jangwi2-middle-math/
 title: "성북구 장위2동 중등 수학과외 | 장위중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

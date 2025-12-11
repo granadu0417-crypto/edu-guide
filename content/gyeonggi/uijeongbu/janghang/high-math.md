@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/uijeongbu-janghang-high-math/
 title: "의정부시 장암동 고등 수학과외 | 효자고·의정부고·경민고 내신·수능 대비"
 date: 2025-01-15
 categories:

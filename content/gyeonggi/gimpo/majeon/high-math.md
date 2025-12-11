@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gimpo-majeon-high-math/
 title: "김포시 마산동 고등 수학과외 | 풍무고·김포고·김포제일고 내신·수능 대비"
 date: 2025-01-15
 categories:

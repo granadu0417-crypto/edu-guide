@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-창4-high-math/
 title: "도봉구 창4동 고등 수학과외 | 창동고 실력 향상 수업"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-doksan2-middle-math/
 title: "금천구 독산2동 중등 수학과외 | 세일중·안천중 개념부터 실전까지"
 date: 2025-01-29
 categories:

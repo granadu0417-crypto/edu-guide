@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-susaek-middle-math/
 title: "은평구 수색동 중등 수학과외 | 증산중·연서중·상신중 기초 개념 강화"
 date: 2025-05-20
 categories:

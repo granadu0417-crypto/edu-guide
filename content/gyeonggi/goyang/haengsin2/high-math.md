@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-haengsin2-high-math/
 title: "고양시 덕양구 행신2동 고등 수학과외 | 서정고 목표 등급 달성"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-창신3-high-english/
 title: "종로구 창신3동 고등 영어과외 | 경복고·동성고·중앙고 기초부터 심화까지"
 date: 2025-01-28
 categories:

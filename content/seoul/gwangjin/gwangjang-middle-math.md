@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-gwangjang-middle-math/
 title: 광진구 광장동 중등 수학과외 - 광남중·광장중 맞춤 관리
 date: 2025-01-29
 categories:

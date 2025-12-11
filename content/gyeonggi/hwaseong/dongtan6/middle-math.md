@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hwaseong-dongtan6-middle-math/
 title: "화성시 동탄6동 중등 수학과외 | 청명중·동탄중·반송중 내신 완벽 대비"
 date: 2025-01-15
 categories:

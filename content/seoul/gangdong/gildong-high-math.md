@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-길-high-math/
 title: "강동구 길동 고등 수학과외 | 배재고·한영고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

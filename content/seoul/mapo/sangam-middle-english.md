@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-sangam-middle-english/
 title: "마포구 상암동 중등 영어과외 | 상암중 학교별 내신 특화"
 date: 2025-01-29
 categories:

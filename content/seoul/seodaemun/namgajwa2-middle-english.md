@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-namgajwa2-middle-english/
 title: "서대문구 남가좌2동 중등 영어과외 | 연희중·연북중 실력 향상 수업"
 date: 2025-01-29
 categories:

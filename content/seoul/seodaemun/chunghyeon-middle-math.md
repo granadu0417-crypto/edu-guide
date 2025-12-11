@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-chunghyeon-middle-math/
 title: "서대문구 충현동 중등 수학과외 | 중앙여중·동명여중 내신 완벽 대비"
 date: 2025-01-29
 categories:

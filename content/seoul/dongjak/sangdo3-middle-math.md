@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-sangdo3-middle-math/
 title: "동작구 상도3동 중등 수학과외 | 국사봉중·장승중 개념부터 실전까지"
 date: 2025-01-29
 categories:

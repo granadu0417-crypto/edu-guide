@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/siheung-baeugot-middle-math/
 title: "시흥시 배곧동 중등 수학과외 | 배곧중·시흥중·능곡중 내신 완벽 대비"
 date: 2025-01-15
 categories:

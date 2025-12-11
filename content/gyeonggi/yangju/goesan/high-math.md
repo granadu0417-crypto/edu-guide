@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yangju-goesan-high-math/
 title: "양주시 고읍동 고등 수학과외 | 양주고·양주백석고·덕정고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-시흥1-high-english/
 title: "금천구 시흥1동 고등 영어과외 | 금천고·문일고·동일여고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

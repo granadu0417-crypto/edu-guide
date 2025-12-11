@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-인헌-high-math/
 title: "관악구 인헌동 고등 수학과외 | 인헌고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

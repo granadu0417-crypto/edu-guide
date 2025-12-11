@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡3-high-english/
 title: "강서구 화곡3동 고등 영어과외 | 화곡고 실력 향상 비결"
 date: 2025-01-28
 categories:

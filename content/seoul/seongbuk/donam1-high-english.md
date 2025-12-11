@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-돈암1-high-english/
 title: "성북구 돈암1동 고등 영어과외 | 대광고·성신여고 학교별 내신 특화"
 date: 2025-01-28
 categories:

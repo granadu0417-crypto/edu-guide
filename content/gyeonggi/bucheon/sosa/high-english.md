@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-sosa-high-english/
 title: "부천시 소사동 고등 영어과외 | 소사고·부천고·부천여고 내신·수능 대비"
 date: 2025-01-15
 categories:

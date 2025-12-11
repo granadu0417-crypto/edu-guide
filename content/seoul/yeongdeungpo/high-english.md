@@ -13,25 +13,6 @@ cities:
 tags:
   - 영등포구영어과외
   - 영등포구고등영어
-aliases:
-  - /high/yeongdeungpo-daerim1-high-english/
-  - /high/yeongdeungpo-daerim2-high-english/
-  - /high/yeongdeungpo-daerim3-high-english/
-  - /high/yeongdeungpo-dangsan1-high-english/
-  - /high/yeongdeungpo-dangsan2-high-english/
-  - /high/yeongdeungpo-dorim-high-english/
-  - /high/yeongdeungpo-mullae-high-english/
-  - /high/yeongdeungpo-singil1-high-english/
-  - /high/yeongdeungpo-singil3-high-english/
-  - /high/yeongdeungpo-singil4-high-english/
-  - /high/yeongdeungpo-singil5-high-english/
-  - /high/yeongdeungpo-singil6-high-english/
-  - /high/yeongdeungpo-singil7-high-english/
-  - /high/yeongdeungpo-yangpyeong1-high-english/
-  - /high/yeongdeungpo-yangpyeong2-high-english/
-  - /high/yeongdeungpo-yeongdeungpo-high-english/
-  - /high/yeongdeungpo-yeongdeungpo-bon-high-english/
-  - /high/yeongdeungpo-yeui-high-english/
 ---
 
 영등포구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

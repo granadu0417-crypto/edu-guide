@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/icheon-changjeon-middle-math/
 title: "이천시 창전동 중등 수학과외 | 이천중·이현중·이천제일중 내신 완벽 대비"
 date: 2025-01-15
 categories:

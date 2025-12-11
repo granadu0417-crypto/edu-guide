@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-연희-high-math/
 title: "서대문구 연희동 고등 수학과외 | 명지고·인창고 내신·수능 대비"
 date: 2025-01-28
 categories:

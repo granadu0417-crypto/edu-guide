@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-yeonnam-middle-math/
 title: "마포구 연남동 중등 수학과외 | 성사중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

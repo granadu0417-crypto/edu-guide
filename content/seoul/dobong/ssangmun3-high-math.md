@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-쌍문3-high-math/
 title: "도봉구 쌍문3동 고등 수학과외 | 선덕고·서라벌고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

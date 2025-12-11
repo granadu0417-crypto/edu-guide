@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-siksa-high-english/
 title: "고양시 일산동구 식사동 고등 영어과외 | 고양국제고 내신 1등급 전략"
 date: 2025-01-15
 categories:

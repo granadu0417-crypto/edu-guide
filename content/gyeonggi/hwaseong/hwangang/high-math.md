@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-hwangang-high-math/
 title: "화성시 향남읍 고등 수학과외 | 향남고·화성고·봉담고 내신·수능 대비"
 date: 2025-01-15
 categories:

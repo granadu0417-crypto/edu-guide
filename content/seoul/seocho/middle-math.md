@@ -13,20 +13,6 @@ cities:
 tags:
   - 서초구수학과외
   - 서초구중등수학
-aliases:
-  - /middle/seocho-bangbae2dong-middle-math/
-  - /middle/seocho-bangbae3dong-middle-math/
-  - /middle/seocho-bangbae4dong-middle-math/
-  - /middle/seocho-bangbaebondong-middle-math/
-  - /middle/seocho-banpo2dong-middle-math/
-  - /middle/seocho-banpo3dong-middle-math/
-  - /middle/seocho-banpo4dong-middle-math/
-  - /middle/seocho-banpobondong-middle-math/
-  - /middle/seocho-jamwondong-middle-math/
-  - /middle/seocho-naegokdong-middle-math/
-  - /middle/seocho-seochodong-middle-math/
-  - /middle/seocho-yangjae1dong-middle-math/
-  - /middle/seocho-yangjae2dong-middle-math/
 ---
 
 서초구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

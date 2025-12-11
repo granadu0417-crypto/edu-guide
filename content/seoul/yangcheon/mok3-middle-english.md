@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-mok3-middle-english/
 title: "양천구 목3동 중등 영어과외 | 양동중 체계적 학습 관리"
 date: 2025-01-29
 categories:

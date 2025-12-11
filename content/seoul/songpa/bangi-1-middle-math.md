@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-bangi-1-middle-math/
 title: 송파구 방이1동 중등 수학과외 - 방이중·오륜중 맞춤 관리
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-jangdan-high-english/
 title: "화성시 정남면 고등 영어과외 | 화성고·봉담고·향남고 내신·수능 대비"
 date: 2025-01-15
 categories:

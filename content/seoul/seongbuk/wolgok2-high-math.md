@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-월곡2-high-math/
 title: "성북구 월곡2동 고등 수학과외 | 대광고·성북고 수학 자신감 회복"
 date: 2025-01-28
 categories:

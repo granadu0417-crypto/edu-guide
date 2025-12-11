@@ -19,29 +19,6 @@ tags:
   - 숙명여고
   - 중동고
   - 수능영어
-aliases:
-  - /high/gangnam-apgujeong-high-english/
-  - /high/gangnam-cheongdam-high-english/
-  - /high/gangnam-daechi1-high-english/
-  - /high/gangnam-daechi2-high-english/
-  - /high/gangnam-daechi4-high-english/
-  - /high/gangnam-dogok1-high-english/
-  - /high/gangnam-dogok2-high-english/
-  - /high/gangnam-gaepo1-high-english/
-  - /high/gangnam-gaepo2-high-english/
-  - /high/gangnam-gaepo3-high-english/
-  - /high/gangnam-gaepo4-high-english/
-  - /high/gangnam-ilwon1-high-english/
-  - /high/gangnam-ilwonbon-high-english/
-  - /high/gangnam-nonhyeon1-high-english/
-  - /high/gangnam-nonhyeon2-high-english/
-  - /high/gangnam-samsung1-high-english/
-  - /high/gangnam-samsung2-high-english/
-  - /high/gangnam-segok-high-english/
-  - /high/gangnam-sinsa-high-english/
-  - /high/gangnam-suseo-high-english/
-  - /high/gangnam-yeoksam1-high-english/
-  - /high/gangnam-yeoksam2-high-english/
 ---
 
 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 강남구 고등학교 영어 내신은 까다롭고, 수능 영어 1등급도 쉽지 않습니다.

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jungnang-myeonmok38-middle-math/
 title: "중랑구 면목3·8동 중등 수학과외 | 면목중, 중화중 내신 완벽 대비"
 date: 2025-12-08
 categories:

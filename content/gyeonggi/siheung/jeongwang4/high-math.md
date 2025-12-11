@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/siheung-jeongwang4-high-math/
 title: "시흥시 정왕4동 고등 수학과외 | 정왕고·능곡고·시흥고 내신·수능 대비"
 date: 2025-01-15
 categories:

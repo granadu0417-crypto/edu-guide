@@ -13,24 +13,6 @@ cities:
 tags:
   - 종로구영어과외
   - 종로구고등영어
-aliases:
-  - /high/jongno-buam-high-english/
-  - /high/jongno-changsin1-high-english/
-  - /high/jongno-changsin2-high-english/
-  - /high/jongno-changsin3-high-english/
-  - /high/jongno-cheongunhyoja-high-english/
-  - /high/jongno-gahoe-high-english/
-  - /high/jongno-gyonam-high-english/
-  - /high/jongno-hyehwa-high-english/
-  - /high/jongno-ihwa-high-english/
-  - /high/jongno-jongno1234-high-english/
-  - /high/jongno-jongno56-high-english/
-  - /high/jongno-muak-high-english/
-  - /high/jongno-pyeongchang-high-english/
-  - /high/jongno-sajik-high-english/
-  - /high/jongno-samcheong-high-english/
-  - /high/jongno-sungin1-high-english/
-  - /high/jongno-sungin2-high-english/
 ---
 
 종로구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

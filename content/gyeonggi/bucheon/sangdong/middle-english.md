@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/bucheon-sangdong-middle-english/
 title: "부천시 상동 중등 영어과외 | 상동중·중원중·부천중 내신 완벽 대비"
 date: 2025-01-15
 categories:

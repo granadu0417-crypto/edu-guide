@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwanak-nanhyang-middle-math/
 title: "관악구 난향동 중등 수학과외 | 난우중 내신 완벽 대비"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-gusan-middle-math/
 title: "은평구 구산동 중등 수학과외 | 구산중·은평중·예일여중 1:1 맞춤 수업"
 date: 2025-05-20
 categories:

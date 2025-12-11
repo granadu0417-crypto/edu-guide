@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jangwi1-middle-math/
 title: "성북구 장위1동 중등 수학과외 | 장위중 내신 완벽 대비"
 date: 2025-01-29
 categories:

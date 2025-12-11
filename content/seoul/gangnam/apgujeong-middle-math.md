@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-apgujeong-middle-math/
 title: 강남구 압구정동 중등 수학과외 - 압구정중·신구중 맞춤 관리
 date: 2025-01-28
 categories:

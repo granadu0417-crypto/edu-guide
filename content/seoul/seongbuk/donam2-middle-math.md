@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-donam2-middle-math/
 title: "성북구 돈암2동 중등 수학과외 | 개운중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

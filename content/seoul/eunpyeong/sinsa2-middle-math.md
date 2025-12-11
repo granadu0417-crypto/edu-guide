@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-sinsa2-middle-math/
 title: "은평구 신사2동 중등 수학과외 | 상신중·덕산중 혁신학교 대비"
 date: 2025-05-20
 categories:

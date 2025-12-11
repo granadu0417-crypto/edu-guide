@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-hagye2-high-math/
 title: 노원구 하계2동 고등 수학과외 | 영신여고·광운대부고 맞춤 커리큘럼
 date: 2025-01-29
 categories:

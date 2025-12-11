@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-mok3-middle-math/
 title: "양천구 목3동 중등 수학과외 | 양동중 기초부터 심화까지"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-mangwon1-middle-english/
 title: "마포구 망원1동 중등 영어과외 | 성산중·성사중 체계적 학습 관리"
 date: 2025-01-29
 categories:

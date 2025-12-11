@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-seryu2-high-english/
 title: "수원시 권선구 세류2동 고등 영어과외 | 세류고·곡선고·권선고 내신·수능 대비"
 date: 2025-01-15
 categories:

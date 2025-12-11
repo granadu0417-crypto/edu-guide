@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-banghwa2-middle-english/
 title: "강서구 방화2동 중등 영어과외 | 방화중·방원중·삼정중 내신 완벽 대비"
 date: 2025-01-29
 categories:

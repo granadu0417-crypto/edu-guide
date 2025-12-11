@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡4-high-english/
 title: "강서구 화곡4동 고등 영어과외 | 화곡고 문법 패턴 완성"
 date: 2025-01-28
 categories:

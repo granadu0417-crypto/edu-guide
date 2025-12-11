@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-janghang1-middle-math/
 title: "고양시 일산동구 장항1동 중등 수학과외 | 장항중 실력 향상 비결"
 date: 2025-01-15
 categories:

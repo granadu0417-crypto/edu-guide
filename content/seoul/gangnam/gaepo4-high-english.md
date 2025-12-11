@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-개포4-high-english/
 title: "강남구 개포4동 고등 영어과외 | 개포고·대진고 개념 완성 프로그램"
 date: 2025-01-28
 categories:

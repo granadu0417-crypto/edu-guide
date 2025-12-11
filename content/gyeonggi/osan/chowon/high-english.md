@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/osan-chowon-high-english/
 title: "오산시 초평동 고등 영어과외 | 오산고·세마고·운천고 내신·수능 대비"
 date: 2025-01-15
 categories:

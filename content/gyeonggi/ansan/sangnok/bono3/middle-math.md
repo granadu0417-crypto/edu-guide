@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-bono3-middle-math/
 title: "안산시 상록구 본오3동 중등 수학과외 | 성포중·안산중·상록중 내신 완벽 대비"
 date: 2025-01-15
 categories:

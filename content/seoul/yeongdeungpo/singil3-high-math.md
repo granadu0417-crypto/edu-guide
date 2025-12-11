@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-신길3-high-math/
 title: "영등포구 신길3동 고등 수학과외 | 영등포여고 학교별 내신 특화"
 date: 2025-01-28
 categories:

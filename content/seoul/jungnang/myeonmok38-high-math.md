@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/jungnang-myeonmok38-high-math/
 title: "중랑구 면목3·8동 고등 수학과외 | 면목고 내신·수능 대비"
 date: 2025-12-08
 categories:

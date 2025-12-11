@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-anan4-middle-english/
 title: "안양시 만안구 안양4동 중등 영어과외 | 안양여중·안양중·신성중 내신 완벽 대비"
 date: 2025-01-15
 categories:

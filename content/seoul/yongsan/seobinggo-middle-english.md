@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-seobinggo-middle-english/
 title: "용산구 서빙고동 중등 영어과외 | 한강중 기초부터 탄탄하게"
 date: 2025-05-15
 categories:

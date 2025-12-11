@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-gasan-middle-english/
 title: "금천구 가산동 중등 영어과외 | 가산중 내신 완벽 대비"
 date: 2025-01-29
 categories:

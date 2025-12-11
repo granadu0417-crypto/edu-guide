@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-gwangjang-middle-english/
 title: 광진구 광장동 중등 영어과외 - 광남중·광장중 내신 완성
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/jongno-hyehwa-middle-english/
 title: 종로구 혜화동 중등 영어과외 - 경신중·동성중·중앙중 내신 전문
 date: 2025-01-28
 categories:

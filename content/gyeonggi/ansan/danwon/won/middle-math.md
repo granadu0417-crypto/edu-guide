@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-won-middle-math/
 title: "안산시 단원구 원곡동 중등 수학과외 | 단원중·성안중·원곡중 내신 완벽 대비"
 date: 2025-01-15
 categories:

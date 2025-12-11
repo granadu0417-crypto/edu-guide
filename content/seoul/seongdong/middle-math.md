@@ -13,24 +13,6 @@ cities:
 tags:
   - 성동구수학과외
   - 성동구중등수학
-aliases:
-  - /middle/seongdong-eungbong-middle-math/
-  - /middle/seongdong-geumho1ga-middle-math/
-  - /middle/seongdong-geumho2-3ga-middle-math/
-  - /middle/seongdong-geumho4ga-middle-math/
-  - /middle/seongdong-haengdang1-middle-math/
-  - /middle/seongdong-haengdang2-middle-math/
-  - /middle/seongdong-majang-middle-math/
-  - /middle/seongdong-oksu-middle-math/
-  - /middle/seongdong-sageun-middle-math/
-  - /middle/seongdong-seongsu1ga1-middle-math/
-  - /middle/seongdong-seongsu1ga2-middle-math/
-  - /middle/seongdong-seongsu2ga1-middle-math/
-  - /middle/seongdong-seongsu2ga3-middle-math/
-  - /middle/seongdong-songjeong-middle-math/
-  - /middle/seongdong-wangsimni-doseondong-middle-math/
-  - /middle/seongdong-wangsimni2-middle-math/
-  - /middle/seongdong-yongdap-middle-math/
 ---
 
 성동구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

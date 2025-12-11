@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung2-middle-english/
 title: "금천구 시흥2동 중등 영어과외 | 동일중·한울중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-doksan4-middle-math/
 title: "금천구 독산4동 중등 수학과외 | 안천중·세일중 기초부터 심화까지"
 date: 2025-01-29
 categories:

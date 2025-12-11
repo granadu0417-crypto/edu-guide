@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-ilwonbon-middle-english/
 title: 강남구 일원본동 중등 영어과외 - 일원중·휘문중 내신 전문
 date: 2025-01-28
 categories:

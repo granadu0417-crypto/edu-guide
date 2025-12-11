@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-잠실7-high-math/
 title: "송파구 잠실7동 고등 수학과외 | 잠실고·잠일고 오답 패턴 교정"
 date: 2025-01-28
 categories:

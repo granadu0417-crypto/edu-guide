@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-고덕1-high-english/
 title: "강동구 고덕1동 고등 영어과외 | 배재고·광문고 실력 향상 수업"
 date: 2025-01-28
 categories:

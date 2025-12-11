@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-dongtan3-high-english/
 title: "화성시 동탄3동 고등 영어과외 | 반송고·동탄고·능동고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-성수2가1-high-english/
 title: "성동구 성수2가1동 고등 영어과외 | 성수고·경일고 기초부터 심화까지"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-yongsin-middle-math/
 title: "동대문구 용신동 중등 수학과외 | 대광중·성일중 내신 완벽 대비"
 date: 2025-01-29
 categories:

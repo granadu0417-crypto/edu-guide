@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-방배2-high-math/
 title: "서초구 방배2동 고등 수학과외 | 서문여고·서울고 기초부터 심화까지"
 date: 2025-01-28
 categories:

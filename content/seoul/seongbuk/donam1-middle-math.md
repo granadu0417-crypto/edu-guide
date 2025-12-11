@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-donam1-middle-math/
 title: "성북구 돈암1동 중등 수학과외 | 개운중 학교별 내신 특화"
 date: 2025-01-29
 categories:

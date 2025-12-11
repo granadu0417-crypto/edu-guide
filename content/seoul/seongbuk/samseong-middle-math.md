@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-samseong-middle-math/
 title: "성북구 삼선동 중등 수학과외 | 삼선중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

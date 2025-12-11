@@ -13,22 +13,6 @@ cities:
 tags:
   - 광진구수학과외
   - 광진구고등수학
-aliases:
-  - /high/gwangjin-gunja-high-math/
-  - /high/gwangjin-guui1-high-math/
-  - /high/gwangjin-guui2-high-math/
-  - /high/gwangjin-guui3-high-math/
-  - /high/gwangjin-gwangjang-high-math/
-  - /high/gwangjin-hwayang-high-math/
-  - /high/gwangjin-jayang1-high-math/
-  - /high/gwangjin-jayang2-high-math/
-  - /high/gwangjin-jayang3-high-math/
-  - /high/gwangjin-jayang4-high-math/
-  - /high/gwangjin-junggok1-high-math/
-  - /high/gwangjin-junggok2-high-math/
-  - /high/gwangjin-junggok3-high-math/
-  - /high/gwangjin-junggok4-high-math/
-  - /high/gwangjin-neungdong-high-math/
 ---
 
 광진구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-목3-high-math/
 title: "양천구 목3동 고등 수학과외 | 강서고·진명여고 수능 완벽 대비"
 date: 2025-01-28
 categories:

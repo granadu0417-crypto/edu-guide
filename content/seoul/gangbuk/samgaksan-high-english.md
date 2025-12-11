@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-삼각산-high-english/
 title: "강북구 삼각산동 고등 영어과외 | 삼각산고 약점 집중 보완"
 date: 2025-01-28
 categories:

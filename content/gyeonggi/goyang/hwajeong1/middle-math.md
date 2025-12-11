@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-hwajeong1-middle-math/
 title: "고양시 덕양구 화정1동 중등 수학과외 | 화정중 체계적 학습 관리"
 date: 2025-01-15
 categories:

@@ -13,20 +13,6 @@ cities:
 tags:
   - 서초구영어과외
   - 서초구중등영어
-aliases:
-  - /middle/seocho-bangbae2dong-middle-english/
-  - /middle/seocho-bangbae3dong-middle-english/
-  - /middle/seocho-bangbae4dong-middle-english/
-  - /middle/seocho-bangbaebondong-middle-english/
-  - /middle/seocho-banpo2dong-middle-english/
-  - /middle/seocho-banpo3dong-middle-english/
-  - /middle/seocho-banpo4dong-middle-english/
-  - /middle/seocho-banpobondong-middle-english/
-  - /middle/seocho-jamwondong-middle-english/
-  - /middle/seocho-naegokdong-middle-english/
-  - /middle/seocho-seochodong-middle-english/
-  - /middle/seocho-yangjae1dong-middle-english/
-  - /middle/seocho-yangjae2dong-middle-english/
 ---
 
 서초구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

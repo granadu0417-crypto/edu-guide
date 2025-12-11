@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-gwansan-middle-english/
 title: "고양시 덕양구 관산동 중등 영어과외 | 관산중 맞춤 1:1 수업"
 date: 2025-01-15
 categories:

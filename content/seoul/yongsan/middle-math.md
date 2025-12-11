@@ -13,23 +13,6 @@ cities:
 tags:
   - 용산구수학과외
   - 용산구중등수학
-aliases:
-  - /middle/yongsan-bogwang-middle-math/
-  - /middle/yongsan-cheongpa-middle-math/
-  - /middle/yongsan-hangang-ro-middle-math/
-  - /middle/yongsan-hannam-middle-math/
-  - /middle/yongsan-huam-middle-math/
-  - /middle/yongsan-hyochang-middle-math/
-  - /middle/yongsan-ichon1-middle-math/
-  - /middle/yongsan-ichon2-middle-math/
-  - /middle/yongsan-itaewon1-middle-math/
-  - /middle/yongsan-itaewon2-middle-math/
-  - /middle/yongsan-namyeong-middle-math/
-  - /middle/yongsan-seobinggo-middle-math/
-  - /middle/yongsan-wonhyoro1-middle-math/
-  - /middle/yongsan-wonhyoro2-middle-math/
-  - /middle/yongsan-yongmun-middle-math/
-  - /middle/yongsan-yongsan2ga-middle-math/
 ---
 
 용산구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

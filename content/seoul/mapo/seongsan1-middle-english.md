@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-seongsan1-middle-english/
 title: "마포구 성산1동 중등 영어과외 | 성서중·홍익대부속여중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

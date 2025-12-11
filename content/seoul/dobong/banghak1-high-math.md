@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-방학1-high-math/
 title: "도봉구 방학1동 고등 수학과외 | 창동고·도봉고 내신·수능 대비"
 date: 2025-01-28
 categories:

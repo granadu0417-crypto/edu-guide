@@ -13,23 +13,6 @@ cities:
 tags:
   - 은평구영어과외
   - 은평구고등영어
-aliases:
-  - /high/eunpyeong-bulgwang1-high-english/
-  - /high/eunpyeong-bulgwang2-high-english/
-  - /high/eunpyeong-daejo-high-english/
-  - /high/eunpyeong-eungam1-high-english/
-  - /high/eunpyeong-eungam2-high-english/
-  - /high/eunpyeong-eungam3-high-english/
-  - /high/eunpyeong-galhyeon1-high-english/
-  - /high/eunpyeong-galhyeon2-high-english/
-  - /high/eunpyeong-gusan-high-english/
-  - /high/eunpyeong-jeungsan-high-english/
-  - /high/eunpyeong-jingwan-high-english/
-  - /high/eunpyeong-nokbeon-high-english/
-  - /high/eunpyeong-sinsa1-high-english/
-  - /high/eunpyeong-sinsa2-high-english/
-  - /high/eunpyeong-susaek-high-english/
-  - /high/eunpyeong-yeokchon-high-english/
 ---
 
 은평구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

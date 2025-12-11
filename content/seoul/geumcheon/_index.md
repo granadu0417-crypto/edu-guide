@@ -1,8 +1,6 @@
 ---
 title: "금천구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
-aliases:
-  - /cities/금천구/
 description: "금천구 중등·고등 수학·영어 과외. 독산고, 시흥고, 금천고, 문영여고 등 금천구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 regions:

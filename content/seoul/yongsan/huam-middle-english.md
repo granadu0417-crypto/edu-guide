@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-huam-middle-english/
 title: "용산구 후암동 중등 영어과외 | 용산중·보성여중 영어 실력 도약"
 date: 2025-05-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye1-middle-math/
 title: 노원구 상계1동 중등 수학과외 | 상계중·상계제일중·노일중 내신 대비
 date: 2025-01-29
 categories:

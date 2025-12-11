@@ -11,8 +11,6 @@ tags:
   - 평촌과외
   - 평촌수학과외
   - 평촌영어과외
-aliases:
-  - /local/gyeonggi/pyeongchon-english-tutoring/
 ---
 
 ## 평촌 과외 안내

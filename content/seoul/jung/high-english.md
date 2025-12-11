@@ -13,22 +13,6 @@ cities:
 tags:
   - 중구영어과외
   - 중구고등영어
-aliases:
-  - /high/jung-cheonggu-high-english/
-  - /high/jung-dasan-high-english/
-  - /high/jung-donghwa-high-english/
-  - /high/jung-euljiro-high-english/
-  - /high/jung-gwanghui-high-english/
-  - /high/jung-hoehyeon-high-english/
-  - /high/jung-hwanghak-high-english/
-  - /high/jung-jangchung-high-english/
-  - /high/jung-junglim-high-english/
-  - /high/jung-myeongdong-high-english/
-  - /high/jung-pildong-high-english/
-  - /high/jung-sindang-high-english/
-  - /high/jung-sindang5-high-english/
-  - /high/jung-sogong-high-english/
-  - /high/jung-yaksu-high-english/
 ---
 
 중구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

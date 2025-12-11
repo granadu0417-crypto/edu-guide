@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-hoegi-middle-math/
 title: "동대문구 회기동 중등 수학과외 | 경희중·경희여중 학교별 내신 특화"
 date: 2025-01-29
 categories:

@@ -13,25 +13,6 @@ cities:
 tags:
   - 양천구수학과외
   - 양천구고등수학
-aliases:
-  - /high/yangcheon-mok1-high-math/
-  - /high/yangcheon-mok2-high-math/
-  - /high/yangcheon-mok3-high-math/
-  - /high/yangcheon-mok4-high-math/
-  - /high/yangcheon-mok5-high-math/
-  - /high/yangcheon-sinjeong1-high-math/
-  - /high/yangcheon-sinjeong2-high-math/
-  - /high/yangcheon-sinjeong3-high-math/
-  - /high/yangcheon-sinjeong4-high-math/
-  - /high/yangcheon-sinjeong6-high-math/
-  - /high/yangcheon-sinjeong7-high-math/
-  - /high/yangcheon-sinwol1-high-math/
-  - /high/yangcheon-sinwol2-high-math/
-  - /high/yangcheon-sinwol3-high-math/
-  - /high/yangcheon-sinwol4-high-math/
-  - /high/yangcheon-sinwol5-high-math/
-  - /high/yangcheon-sinwol6-high-math/
-  - /high/yangcheon-sinwol7-high-math/
 ---
 
 양천구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

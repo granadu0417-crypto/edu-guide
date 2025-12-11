@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-암사2-high-english/
 title: "강동구 암사2동 고등 영어과외 | 강동고·둔촌고 내신 완벽 분석"
 date: 2025-01-28
 categories:

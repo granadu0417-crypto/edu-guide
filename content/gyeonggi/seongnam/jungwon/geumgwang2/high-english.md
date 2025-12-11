@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-geumgwang2-high-english/
 title: "성남시 중원구 금광2동 고등 영어과외 | 성일고·동광고·성남여고 내신·수능 대비"
 date: 2025-01-15
 categories:

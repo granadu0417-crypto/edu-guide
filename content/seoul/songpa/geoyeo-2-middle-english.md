@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-geoyeo-2-middle-english/
 title: 송파구 거여2동 중등 영어과외 - 거여중 내신 전문
 date: 2025-01-29
 categories:

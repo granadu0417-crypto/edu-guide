@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil3-middle-english/
 title: "영등포구 신길3동 중등 영어과외 | 신길중·대영중 체계적 학습 관리"
 date: 2025-01-29
 categories:

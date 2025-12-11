@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yeui-middle-english/
 title: "영등포구 여의동 중등 영어과외 | 여의도중·윤중중 체계적 학습 관리"
 date: 2025-01-29
 categories:

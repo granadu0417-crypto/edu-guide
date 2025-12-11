@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-bishan2-middle-english/
 title: "안양시 동안구 비산2동 중등 영어과외 | 범계중·평촌중·안양외중 내신 완벽 대비"
 date: 2025-01-15
 categories:

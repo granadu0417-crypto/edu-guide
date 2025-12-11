@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/paju-papyeong-middle-math/
 title: "파주시 파평면 중등 수학과외 | 파주중·문산중·금촌중 내신 완벽 대비"
 date: 2025-01-15
 categories:

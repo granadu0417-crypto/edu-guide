@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-성수2가3-high-math/
 title: "성동구 성수2가3동 고등 수학과외 | 성수고·경일고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

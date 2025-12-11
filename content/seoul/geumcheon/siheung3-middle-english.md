@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/geumcheon-siheung3-middle-english/
 title: "금천구 시흥3동 중등 영어과외 | 시흥중·동일중 학교별 내신 특화"
 date: 2025-01-29
 categories:

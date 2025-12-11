@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-성북-high-math/
 title: "성북구 성북동 고등 수학과외 | 경기고·성신여고 실력 향상 비결"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/anyang-bakdal2-middle-english/
 title: "안양시 만안구 박달2동 중등 영어과외 | 안양중·백영중·안양여중 내신 완벽 대비"
 date: 2025-01-15
 categories:

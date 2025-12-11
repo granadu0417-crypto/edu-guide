@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강북-인수-high-english/
 title: "강북구 인수동 고등 영어과외 | 혜화여고 개별 맞춤 수업"
 date: 2025-01-28
 categories:

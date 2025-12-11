@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil4-middle-english/
 title: "영등포구 신길4동 중등 영어과외 | 대영중·신길중 실력 향상 수업"
 date: 2025-01-29
 categories:

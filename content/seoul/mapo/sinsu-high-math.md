@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-신수-high-math/
 title: "마포구 신수동 고등 수학과외 | 광성고 내신·수능 대비"
 date: 2025-01-28
 categories:

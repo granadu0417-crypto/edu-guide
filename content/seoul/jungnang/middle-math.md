@@ -13,23 +13,6 @@ cities:
 tags:
   - 중랑구수학과외
   - 중랑구중등수학
-aliases:
-  - /middle/jungnang-junghwa1-middle-math/
-  - /middle/jungnang-junghwa2-middle-math/
-  - /middle/jungnang-mangwu3-middle-math/
-  - /middle/jungnang-mangwubon-middle-math/
-  - /middle/jungnang-muk1-middle-math/
-  - /middle/jungnang-muk2-middle-math/
-  - /middle/jungnang-myeonmok2-middle-math/
-  - /middle/jungnang-myeonmok38-middle-math/
-  - /middle/jungnang-myeonmok4-middle-math/
-  - /middle/jungnang-myeonmok5-middle-math/
-  - /middle/jungnang-myeonmok7-middle-math/
-  - /middle/jungnang-myeonmokbon-middle-math/
-  - /middle/jungnang-sangbong1-middle-math/
-  - /middle/jungnang-sangbong2-middle-math/
-  - /middle/jungnang-sinnae1-middle-math/
-  - /middle/jungnang-sinnae2-middle-math/
 ---
 
 중랑구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

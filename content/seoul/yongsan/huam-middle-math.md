@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-huam-middle-math/
 title: "용산구 후암동 중등 수학과외 | 용산중·보성여중 개별 맞춤 지도"
 date: 2025-05-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-chang1-middle-english/
 title: "도봉구 창1동 중등 영어과외 | 창일중·노곡중 실력 향상 수업"
 date: 2025-01-29
 categories:

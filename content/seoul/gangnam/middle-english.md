@@ -20,29 +20,6 @@ tags:
   - 은광중
   - 청담중
   - 압구정중
-aliases:
-  - /middle/gangnam-apgujeong-middle-english/
-  - /middle/gangnam-cheongdam-middle-english/
-  - /middle/gangnam-daechi1-middle-english/
-  - /middle/gangnam-daechi2-middle-english/
-  - /middle/gangnam-daechi4-middle-english/
-  - /middle/gangnam-dogok1-middle-english/
-  - /middle/gangnam-dogok2-middle-english/
-  - /middle/gangnam-gaepo1-middle-english/
-  - /middle/gangnam-gaepo2-middle-english/
-  - /middle/gangnam-gaepo3-middle-english/
-  - /middle/gangnam-gaepo4-middle-english/
-  - /middle/gangnam-ilwon1-middle-english/
-  - /middle/gangnam-ilwonbon-middle-english/
-  - /middle/gangnam-nonhyeon1-middle-english/
-  - /middle/gangnam-nonhyeon2-middle-english/
-  - /middle/gangnam-samsung1-middle-english/
-  - /middle/gangnam-samsung2-middle-english/
-  - /middle/gangnam-segok-middle-english/
-  - /middle/gangnam-sinsa-middle-english/
-  - /middle/gangnam-suseo-middle-english/
-  - /middle/gangnam-yeoksam1-middle-english/
-  - /middle/gangnam-yeoksam2-middle-english/
 ---
 
 강남구 중학교 영어, 교과서만으로는 부족합니다. 고난도 독해와 까다로운 문법 문제가 출제되어 체계적인 준비가 필요합니다.

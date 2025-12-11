@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-taepyeong2-middle-english/
 title: "성남시 수정구 태평2동 중등 영어과외 | 태원중·성남여중·성일중 내신 완벽 대비"
 date: 2025-01-15
 categories:

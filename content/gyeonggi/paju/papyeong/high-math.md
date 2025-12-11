@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/paju-papyeong-high-math/
 title: "파주시 파평면 고등 수학과외 | 파주고·문산고·금촌고 내신·수능 대비"
 date: 2025-01-15
 categories:

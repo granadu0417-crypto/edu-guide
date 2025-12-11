@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-쌍문4-high-math/
 title: "도봉구 쌍문4동 고등 수학과외 | 선덕고·서라벌고 목표 등급 달성"
 date: 2025-01-28
 categories:

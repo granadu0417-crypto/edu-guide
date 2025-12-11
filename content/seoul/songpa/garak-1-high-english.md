@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-가락1-high-english/
 title: "송파구 가락1동 고등 영어과외 | 가락고 내신 + 수능 병행"
 date: 2025-01-28
 categories:

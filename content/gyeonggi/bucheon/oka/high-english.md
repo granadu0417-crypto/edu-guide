@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-oka-high-english/
 title: "부천시 오정동 고등 영어과외 | 정명고·부천고·부천여고 내신·수능 대비"
 date: 2025-01-15
 categories:

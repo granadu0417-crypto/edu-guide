@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-jangji-middle-math/
 title: 송파구 장지동 중등 수학과외 - 문정중 맞춤 관리
 date: 2025-01-29
 categories:

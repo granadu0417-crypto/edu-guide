@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-songnae-high-english/
 title: "부천시 송내동 고등 영어과외 | 송내고·부천고·중원고 내신·수능 대비"
 date: 2025-01-15
 categories:

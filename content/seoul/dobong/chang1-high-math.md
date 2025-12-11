@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-창1-high-math/
 title: "도봉구 창1동 고등 수학과외 | 창동고·서울외국어고 학교별 내신 특화"
 date: 2025-01-28
 categories:

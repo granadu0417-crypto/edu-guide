@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-전농2-high-english/
 title: "동대문구 전농2동 고등 영어과외 | 해성여고·청량고 독해력 특화"
 date: 2025-01-28
 categories:

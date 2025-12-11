@@ -13,20 +13,6 @@ cities:
 tags:
   - 강북구수학과외
   - 강북구고등수학
-aliases:
-  - /high/gangbuk-beon1-high-math/
-  - /high/gangbuk-beon2-high-math/
-  - /high/gangbuk-beon3-high-math/
-  - /high/gangbuk-insu-high-math/
-  - /high/gangbuk-mia-high-math/
-  - /high/gangbuk-samgaksan-high-math/
-  - /high/gangbuk-samyang-high-math/
-  - /high/gangbuk-songcheon-high-math/
-  - /high/gangbuk-songjung-high-math/
-  - /high/gangbuk-suyu1-high-math/
-  - /high/gangbuk-suyu2-high-math/
-  - /high/gangbuk-suyu3-high-math/
-  - /high/gangbuk-ui-high-math/
 ---
 
 강북구 고등학교 수학, 중학교와 차원이 다릅니다. 내신과 수능을 동시에 준비해야 하며, 체계적인 학습 전략이 필수입니다.

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-신길1-high-english/
 title: "영등포구 신길1동 고등 영어과외 | 영등포여고·영신고 독해부터 문법까지"
 date: 2025-01-28
 categories:

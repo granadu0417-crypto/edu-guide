@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-gumi1-high-english/
 title: "성남시 분당구 구미1동 고등 영어과외 | 분당고·성남외고·분당영덕여고 내신·수능 대비"
 date: 2025-01-15
 categories:

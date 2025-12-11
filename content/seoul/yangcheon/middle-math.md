@@ -13,25 +13,6 @@ cities:
 tags:
   - 양천구수학과외
   - 양천구중등수학
-aliases:
-  - /middle/yangcheon-mok1-middle-math/
-  - /middle/yangcheon-mok2-middle-math/
-  - /middle/yangcheon-mok3-middle-math/
-  - /middle/yangcheon-mok4-middle-math/
-  - /middle/yangcheon-mok5-middle-math/
-  - /middle/yangcheon-sinjeong1-middle-math/
-  - /middle/yangcheon-sinjeong2-middle-math/
-  - /middle/yangcheon-sinjeong3-middle-math/
-  - /middle/yangcheon-sinjeong4-middle-math/
-  - /middle/yangcheon-sinjeong6-middle-math/
-  - /middle/yangcheon-sinjeong7-middle-math/
-  - /middle/yangcheon-sinwol1-middle-math/
-  - /middle/yangcheon-sinwol2-middle-math/
-  - /middle/yangcheon-sinwol3-middle-math/
-  - /middle/yangcheon-sinwol4-middle-math/
-  - /middle/yangcheon-sinwol5-middle-math/
-  - /middle/yangcheon-sinwol6-middle-math/
-  - /middle/yangcheon-sinwol7-middle-math/
 ---
 
 양천구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

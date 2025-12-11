@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-itaewon1-high-english/
 title: "용산구 이태원1동 고등 영어과외 | 오산고·배문고 수능 영어 1등급"
 date: 2025-05-15
 categories:

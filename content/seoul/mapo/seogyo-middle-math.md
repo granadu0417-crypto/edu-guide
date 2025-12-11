@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-seogyo-middle-math/
 title: "마포구 서교동 중등 수학과외 | 창천중·성산중 내신 완벽 대비"
 date: 2025-01-29
 categories:

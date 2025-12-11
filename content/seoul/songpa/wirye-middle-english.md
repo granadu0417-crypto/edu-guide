@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-wirye-middle-english/
 title: 송파구 위례동 중등 영어과외 - 위례중·위례한빛중 내신 전문
 date: 2025-01-29
 categories:

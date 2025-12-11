@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/gunpo-gumjung-high-english/
 title: "군포시 금정동 고등 영어과외 | 흥진고·수리고·군포고 내신·수능 대비"
 date: 2025-01-15
 categories:

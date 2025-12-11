@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-guro4-middle-math/
 title: "구로구 구로4동 중등 수학과외 | 영림중·구일중 개념완성 수업"
 date: 2025-01-29
 categories:

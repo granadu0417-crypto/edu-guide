@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongeun2-middle-math/
 title: "서대문구 홍은2동 중등 수학과외 | 홍은중·정원여중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-창3-high-english/
 title: "도봉구 창3동 고등 영어과외 | 창동고·서울외국어고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

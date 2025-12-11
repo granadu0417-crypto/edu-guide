@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongsan-hangang-ro-middle-math/
 title: "용산구 한강로동 중등 수학과외 | 용산중·보성여중 기초부터 심화까지"
 date: 2025-05-15
 categories:

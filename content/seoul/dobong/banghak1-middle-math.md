@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-banghak1-middle-math/
 title: "도봉구 방학1동 중등 수학과외 | 창동중 내신 집중 관리"
 date: 2025-01-29
 categories:

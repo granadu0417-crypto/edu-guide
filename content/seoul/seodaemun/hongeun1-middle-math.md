@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongeun1-middle-math/
 title: "서대문구 홍은1동 중등 수학과외 | 홍은중·명지중 내신 완벽 대비"
 date: 2025-01-29
 categories:

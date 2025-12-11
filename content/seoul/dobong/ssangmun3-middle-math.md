@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-ssangmun3-middle-math/
 title: "도봉구 쌍문3동 중등 수학과외 | 신도봉중 개념부터 실전까지"
 date: 2025-01-29
 categories:

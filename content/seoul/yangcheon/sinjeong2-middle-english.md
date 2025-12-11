@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinjeong2-middle-english/
 title: "양천구 신정2동 중등 영어과외 | 목동중 기초부터 심화까지"
 date: 2025-01-29
 categories:

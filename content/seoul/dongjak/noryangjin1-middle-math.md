@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-noryangjin1-middle-math/
 title: "동작구 노량진1동 중등 수학과외 | 대방중·강남중 내신 완벽 대비"
 date: 2025-01-29
 categories:

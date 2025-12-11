@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/songpa-wirye-middle-math/
 title: 송파구 위례동 중등 수학과외 - 위례중·위례한빛중 맞춤 관리
 date: 2025-01-29
 categories:

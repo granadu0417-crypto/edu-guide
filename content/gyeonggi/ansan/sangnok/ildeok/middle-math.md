@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-ildeok-middle-math/
 title: "안산시 상록구 일동 중등 수학과외 | 상록중·안산중·성포중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -11,8 +11,6 @@ tags:
   - 광주시과외
   - 광주시수학과외
   - 광주시영어과외
-aliases:
-  - /local/gyeonggi/gwangju-education-guide/
 ---
 
 ## 광주시 과외 안내

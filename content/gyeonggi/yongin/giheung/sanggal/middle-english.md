@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-sanggal-middle-english/
 title: "용인시 기흥구 상갈동 중등 영어과외 | 기흥중·용인중·구성중 내신 완벽 대비"
 date: 2025-01-15
 categories:

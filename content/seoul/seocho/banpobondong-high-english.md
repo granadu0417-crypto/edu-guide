@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서초-반포본-high-english/
 title: "서초구 반포본동 고등 영어과외 | 반포고·세화고 독해·문법 완성"
 date: 2025-01-28
 categories:

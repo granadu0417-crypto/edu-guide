@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-sanggye10-high-english/
 title: 노원구 상계10동 고등 영어과외 | 용화여고·수락고·청원고 학교별 내신 특화
 date: 2025-01-29
 categories:

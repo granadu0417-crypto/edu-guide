@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-왕십리2-high-math/
 title: "성동구 왕십리2동 고등 수학과외 | 무학여고·한양대부고 내신 1등급 전략"
 date: 2025-01-28
 categories:

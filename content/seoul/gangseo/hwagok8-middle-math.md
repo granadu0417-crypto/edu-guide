@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangseo-hwagok8-middle-math/
 title: "강서구 화곡8동 중등 수학과외 | 화곡중·화원중 내신 완벽 대비"
 date: 2025-01-29
 categories:

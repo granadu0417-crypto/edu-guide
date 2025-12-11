@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강서-화곡7-high-math/
 title: "강서구 화곡7동 고등 수학과외 | 화곡고 문제 해결력 향상"
 date: 2025-01-28
 categories:

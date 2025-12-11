@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hanam-misa1-high-math/
 title: "하남시 미사1동 고등 수학과외 | 미사고·하남고·위례고 내신·수능 대비"
 date: 2025-01-15
 categories:

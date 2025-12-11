@@ -13,23 +13,6 @@ cities:
 tags:
   - 마포구수학과외
   - 마포구중등수학
-aliases:
-  - /middle/mapo-ahyeon-middle-math/
-  - /middle/mapo-daeheung-middle-math/
-  - /middle/mapo-dohwa-middle-math/
-  - /middle/mapo-gongdeok-middle-math/
-  - /middle/mapo-hapjeong-middle-math/
-  - /middle/mapo-mangwon1-middle-math/
-  - /middle/mapo-mangwon2-middle-math/
-  - /middle/mapo-sangam-middle-math/
-  - /middle/mapo-seogang-middle-math/
-  - /middle/mapo-seogyo-middle-math/
-  - /middle/mapo-seongsan1-middle-math/
-  - /middle/mapo-seongsan2-middle-math/
-  - /middle/mapo-sinsu-middle-math/
-  - /middle/mapo-yeomni-middle-math/
-  - /middle/mapo-yeonnam-middle-math/
-  - /middle/mapo-yonggang-middle-math/
 ---
 
 마포구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

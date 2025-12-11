@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-암사1-high-math/
 title: "강동구 암사1동 고등 수학과외 | 강동고·한영외고 킬러문항 특화"
 date: 2025-01-28
 categories:

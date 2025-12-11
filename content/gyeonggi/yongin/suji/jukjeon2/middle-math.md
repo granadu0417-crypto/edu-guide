@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-jukjeon2-middle-math/
 title: "용인시 수지구 죽전2동 중등 수학과외 | 죽전중·현암중·수지중 내신 완벽 대비"
 date: 2025-01-15
 categories:

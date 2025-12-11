@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-구의2-high-math/
 title: "광진구 구의2동 고등 수학과외 | 동국대부가람고 약점 집중 보완"
 date: 2025-01-28
 categories:

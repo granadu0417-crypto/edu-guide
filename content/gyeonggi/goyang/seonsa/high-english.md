@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-seonsa-high-english/
 title: "고양시 일산동구 선사동 고등 영어과외 | 대진고 내신·수능 완벽 대비"
 date: 2025-01-15
 categories:

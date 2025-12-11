@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-geumgwang1-middle-english/
 title: "성남시 중원구 금광1동 중등 영어과외 | 동광중·성일중·성남중 내신 완벽 대비"
 date: 2025-01-15
 categories:

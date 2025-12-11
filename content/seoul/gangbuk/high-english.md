@@ -13,20 +13,6 @@ cities:
 tags:
   - 강북구영어과외
   - 강북구고등영어
-aliases:
-  - /high/gangbuk-beon1-high-english/
-  - /high/gangbuk-beon2-high-english/
-  - /high/gangbuk-beon3-high-english/
-  - /high/gangbuk-insu-high-english/
-  - /high/gangbuk-mia-high-english/
-  - /high/gangbuk-samgaksan-high-english/
-  - /high/gangbuk-samyang-high-english/
-  - /high/gangbuk-songcheon-high-english/
-  - /high/gangbuk-songjung-high-english/
-  - /high/gangbuk-suyu1-high-english/
-  - /high/gangbuk-suyu2-high-english/
-  - /high/gangbuk-suyu3-high-english/
-  - /high/gangbuk-ui-high-english/
 ---
 
 강북구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

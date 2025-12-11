@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-jeongja3-middle-english/
 title: "수원시 장안구 정자3동 중등 영어과외 | 정자중·율전중·장안중 내신 완벽 대비"
 date: 2025-01-15
 categories:

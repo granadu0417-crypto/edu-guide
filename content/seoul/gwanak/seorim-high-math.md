@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-서림-high-math/
 title: "관악구 서림동 고등 수학과외 | 신림고·삼성고 킬러문항 정복"
 date: 2025-01-28
 categories:

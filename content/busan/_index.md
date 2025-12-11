@@ -9,10 +9,6 @@ tags:
   - 부산과외
   - 부산수학과외
   - 부산영어과외
-aliases:
-  - /local/busan-education-guide/
-  - /local/busan-math-tutoring/
-  - /local/busan-english-tutoring/
 ---
 
 ## 부산광역시 과외 안내

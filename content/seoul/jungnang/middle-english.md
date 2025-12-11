@@ -13,23 +13,6 @@ cities:
 tags:
   - 중랑구영어과외
   - 중랑구중등영어
-aliases:
-  - /middle/jungnang-junghwa1-middle-english/
-  - /middle/jungnang-junghwa2-middle-english/
-  - /middle/jungnang-mangwu3-middle-english/
-  - /middle/jungnang-mangwubon-middle-english/
-  - /middle/jungnang-muk1-middle-english/
-  - /middle/jungnang-muk2-middle-english/
-  - /middle/jungnang-myeonmok2-middle-english/
-  - /middle/jungnang-myeonmok38-middle-english/
-  - /middle/jungnang-myeonmok4-middle-english/
-  - /middle/jungnang-myeonmok5-middle-english/
-  - /middle/jungnang-myeonmok7-middle-english/
-  - /middle/jungnang-myeonmokbon-middle-english/
-  - /middle/jungnang-sangbong1-middle-english/
-  - /middle/jungnang-sangbong2-middle-english/
-  - /middle/jungnang-sinnae1-middle-english/
-  - /middle/jungnang-sinnae2-middle-english/
 ---
 
 중랑구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

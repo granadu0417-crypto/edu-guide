@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-seodun-high-english/
 title: "수원시 권선구 서둔동 고등 영어과외 | 농생명고·권선고·고색고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성동-응봉-high-math/
 title: "성동구 응봉동 고등 수학과외 | 경일고·성수고 성적 향상 프로젝트"
 date: 2025-01-28
 categories:

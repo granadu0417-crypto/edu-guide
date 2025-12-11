@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-hwigyeong2-middle-english/
 title: "동대문구 휘경2동 중등 영어과외 | 휘경중·휘경여중·전동중 기초부터 심화까지"
 date: 2025-01-29
 categories:

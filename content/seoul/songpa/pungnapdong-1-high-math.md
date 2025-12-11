@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-풍납1-high-math/
 title: "송파구 풍납1동 고등 수학과외 | 풍납고·잠실고 내신·수능 대비"
 date: 2025-01-28
 categories:

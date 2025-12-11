@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-hongje2-middle-english/
 title: "서대문구 홍제2동 중등 영어과외 | 인왕중 기초부터 심화까지"
 date: 2025-01-29
 categories:

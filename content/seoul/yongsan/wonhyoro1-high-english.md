@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongsan-wonhyoro1-high-english/
 title: "용산구 원효로1동 고등 영어과외 | 성심여고·배문고 독해력 강화"
 date: 2025-05-15
 categories:

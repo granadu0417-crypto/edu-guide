@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-seonbu2-middle-english/
 title: "안산시 단원구 선부2동 중등 영어과외 | 성안중·단원중·안산공중 내신 완벽 대비"
 date: 2025-01-15
 categories:

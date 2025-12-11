@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/ansan-won-high-math/
 title: "안산시 단원구 원곡동 고등 수학과외 | 단원고·성안고·원곡고 내신·수능 대비"
 date: 2025-01-15
 categories:

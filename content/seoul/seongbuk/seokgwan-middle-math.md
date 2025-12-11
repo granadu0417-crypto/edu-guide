@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-seokgwan-middle-math/
 title: "성북구 석관동 중등 수학과외 | 석관중 학교별 내신 특화"
 date: 2025-01-29
 categories:

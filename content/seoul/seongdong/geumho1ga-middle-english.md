@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-geumho1ga-middle-english/
 title: "성동구 금호1가동 중등 영어과외 | 광희중·옥정중 학교별 내신 특화"
 date: 2025-01-29
 categories:

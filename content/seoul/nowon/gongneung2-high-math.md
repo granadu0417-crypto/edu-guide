@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-gongneung2-high-math/
 title: 노원구 공릉2동 고등 수학과외 | 태릉고·서울과고·염광여고 맞춤 커리큘럼
 date: 2025-01-29
 categories:

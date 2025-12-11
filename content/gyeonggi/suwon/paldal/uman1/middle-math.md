@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-uman1-middle-math/
 title: "수원시 팔달구 우만1동 중등 수학과외 | 유신중·창현중·수원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

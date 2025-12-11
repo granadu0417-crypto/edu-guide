@@ -9,9 +9,6 @@ tags:
   - 전남과외
   - 전남수학과외
   - 전남영어과외
-aliases:
-  - /local/jeonnam-education-guide/
-  - /local/jeonnam-tutoring-guide/
 ---
 
 ## 전라남도 과외 안내

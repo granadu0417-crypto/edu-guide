@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-sangdaewon1-high-english/
 title: "성남시 중원구 상대원1동 고등 영어과외 | 성일고·성남고·동광고 내신·수능 대비"
 date: 2025-01-15
 categories:

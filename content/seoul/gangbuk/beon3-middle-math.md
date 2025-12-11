@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangbuk-beon3-middle-math/
 title: "강북구 번3동 중등 수학과외 | 번동중·수송중 개념부터 실전까지"
 date: 2025-01-29
 categories:

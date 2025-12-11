@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/금천-시흥2-high-english/
 title: "금천구 시흥2동 고등 영어과외 | 금천고·문일고·동일여고 실력 향상 수업"
 date: 2025-01-28
 categories:

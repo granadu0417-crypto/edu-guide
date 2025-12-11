@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-bulgwang2-middle-english/
 title: "은평구 불광2동 중등 영어과외 | 불광중·연신중·연천중 독해·문법 완성"
 date: 2025-05-20
 categories:

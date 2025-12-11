@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/pyeongtaek-paengsung-middle-math/
 title: "평택시 팽성읍 중등 수학과외 | 평택중·송탄중·세교중 내신 완벽 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-yangpyeong1-middle-math/
 title: "영등포구 양평1동 중등 수학과외 | 선유중·양화중 개념부터 실전까지"
 date: 2025-01-29
 categories:

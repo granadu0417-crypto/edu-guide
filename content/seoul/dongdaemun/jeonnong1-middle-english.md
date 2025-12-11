@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-jeonnong1-middle-english/
 title: "동대문구 전농1동 중등 영어과외 | 동대문중·전농중·전일중 어휘·문법 집중"
 date: 2025-01-29
 categories:

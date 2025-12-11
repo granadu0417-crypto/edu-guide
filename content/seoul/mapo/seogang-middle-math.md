@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-seogang-middle-math/
 title: "마포구 서강동 중등 수학과외 | 창천중 체계적 학습 관리"
 date: 2025-01-29
 categories:

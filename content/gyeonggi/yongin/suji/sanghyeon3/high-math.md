@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-sanghyeon3-high-math/
 title: "용인시 수지구 상현3동 고등 수학과외 | 상현고·수지고·죽전고 내신·수능 대비"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/양천-목1-high-english/
 title: "양천구 목1동 고등 영어과외 | 진명여고 체계적 학습 관리"
 date: 2025-01-28
 categories:

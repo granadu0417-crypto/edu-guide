@@ -9,10 +9,6 @@ tags:
   - 대구과외
   - 대구수학과외
   - 대구영어과외
-aliases:
-  - /local/daegu-education-guide/
-  - /local/daegu-math-tutoring/
-  - /local/daegu-english-tutoring/
 ---
 
 ## 대구광역시 과외 안내

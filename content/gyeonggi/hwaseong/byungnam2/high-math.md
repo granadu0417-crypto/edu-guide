@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-byungnam2-high-math/
 title: "화성시 병점2동 고등 수학과외 | 화성고·병점고·동탄고 내신·수능 대비"
 date: 2025-01-15
 categories:

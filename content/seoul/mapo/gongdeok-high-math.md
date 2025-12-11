@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/마포-공덕-high-math/
 title: "마포구 공덕동 고등 수학과외 | 숭문고·광성고 오답 패턴 교정"
 date: 2025-01-28
 categories:

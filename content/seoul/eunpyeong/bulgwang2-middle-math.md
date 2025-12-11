@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-bulgwang2-middle-math/
 title: "은평구 불광2동 중등 수학과외 | 불광중·연신중·연천중 학원가 인접 맞춤"
 date: 2025-05-20
 categories:

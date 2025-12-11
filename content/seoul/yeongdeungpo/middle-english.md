@@ -13,25 +13,6 @@ cities:
 tags:
   - 영등포구영어과외
   - 영등포구중등영어
-aliases:
-  - /middle/yeongdeungpo-daerim1-middle-english/
-  - /middle/yeongdeungpo-daerim2-middle-english/
-  - /middle/yeongdeungpo-daerim3-middle-english/
-  - /middle/yeongdeungpo-dangsan1-middle-english/
-  - /middle/yeongdeungpo-dangsan2-middle-english/
-  - /middle/yeongdeungpo-dorim-middle-english/
-  - /middle/yeongdeungpo-mullae-middle-english/
-  - /middle/yeongdeungpo-singil1-middle-english/
-  - /middle/yeongdeungpo-singil3-middle-english/
-  - /middle/yeongdeungpo-singil4-middle-english/
-  - /middle/yeongdeungpo-singil5-middle-english/
-  - /middle/yeongdeungpo-singil6-middle-english/
-  - /middle/yeongdeungpo-singil7-middle-english/
-  - /middle/yeongdeungpo-yangpyeong1-middle-english/
-  - /middle/yeongdeungpo-yangpyeong2-middle-english/
-  - /middle/yeongdeungpo-yeongdeungpo-middle-english/
-  - /middle/yeongdeungpo-yeongdeungpo-bon-middle-english/
-  - /middle/yeongdeungpo-yeui-middle-english/
 ---
 
 영등포구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

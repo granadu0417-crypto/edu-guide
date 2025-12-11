@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/서대문-연희-high-english/
 title: "서대문구 연희동 고등 영어과외 | 명지고·인창고 내신·수능 대비"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-sanseong-high-english/
 title: "성남시 수정구 산성동 고등 영어과외 | 성남고·성일고·태원고 내신·수능 대비"
 date: 2025-01-15
 categories:

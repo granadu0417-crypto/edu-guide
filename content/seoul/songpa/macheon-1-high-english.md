@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-마천1-high-english/
 title: "송파구 마천1동 고등 영어과외 | 마천고·잠실고 어휘력 향상"
 date: 2025-01-28
 categories:

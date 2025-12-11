@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-삼성1-high-math/
 title: "강남구 삼성1동 고등 수학과외 | 영동고·청담고 내신·수능 대비"
 date: 2025-01-28
 categories:

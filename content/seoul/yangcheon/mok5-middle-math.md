@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-mok5-middle-math/
 title: "양천구 목5동 중등 수학과외 | 신목중·양정중·월촌중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

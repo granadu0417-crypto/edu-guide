@@ -13,21 +13,6 @@ cities:
 tags:
   - 도봉구영어과외
   - 도봉구고등영어
-aliases:
-  - /high/dobong-banghak1-high-english/
-  - /high/dobong-banghak2-high-english/
-  - /high/dobong-banghak3-high-english/
-  - /high/dobong-chang1-high-english/
-  - /high/dobong-chang2-high-english/
-  - /high/dobong-chang3-high-english/
-  - /high/dobong-chang4-high-english/
-  - /high/dobong-chang5-high-english/
-  - /high/dobong-dobong1-high-english/
-  - /high/dobong-dobong2-high-english/
-  - /high/dobong-ssangmun1-high-english/
-  - /high/dobong-ssangmun2-high-english/
-  - /high/dobong-ssangmun3-high-english/
-  - /high/dobong-ssangmun4-high-english/
 ---
 
 도봉구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

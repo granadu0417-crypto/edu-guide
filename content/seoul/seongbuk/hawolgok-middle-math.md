@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-hawolgok-middle-math/
 title: "성북구 하월곡동 중등 수학과외 | 동구여중·한성여중 개념부터 실전까지"
 date: 2025-01-29
 categories:

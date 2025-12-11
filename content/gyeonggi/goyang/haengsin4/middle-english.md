@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-haengsin4-middle-english/
 title: "고양시 덕양구 행신4동 중등 영어과외 | 행신중 꼼꼼한 1:1 지도"
 date: 2025-01-15
 categories:

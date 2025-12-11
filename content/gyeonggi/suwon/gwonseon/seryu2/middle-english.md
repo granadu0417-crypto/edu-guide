@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-seryu2-middle-english/
 title: "수원시 권선구 세류2동 중등 영어과외 | 세류중·곡선중·권선중 내신 완벽 대비"
 date: 2025-01-15
 categories:

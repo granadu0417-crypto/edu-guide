@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-bono3-middle-english/
 title: "안산시 상록구 본오3동 중등 영어과외 | 성포중·안산중·상록중 내신 완벽 대비"
 date: 2025-01-15
 categories:

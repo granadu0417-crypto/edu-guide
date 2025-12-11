@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongdaemun-dapsimni2-middle-math/
 title: "동대문구 답십리2동 중등 수학과외 | 숭인중 맞춤 커리큘럼"
 date: 2025-01-29
 categories:

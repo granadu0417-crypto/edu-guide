@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/송파-오금-high-math/
 title: "송파구 오금동 고등 수학과외 | 오금고·잠실고 수능 고득점 전략"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-hwangang-high-english/
 title: "화성시 향남읍 고등 영어과외 | 향남고·화성고·봉담고 내신·수능 대비"
 date: 2025-01-15
 categories:

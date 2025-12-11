@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-월곡1-high-english/
 title: "성북구 월곡1동 고등 영어과외 | 대광고·성북고 문법 패턴 완성"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yongin-sanghyeon2-high-english/
 title: "용인시 수지구 상현2동 고등 영어과외 | 상현고·풍덕고·현암고 내신·수능 대비"
 date: 2025-01-15
 categories:

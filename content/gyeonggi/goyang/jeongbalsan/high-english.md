@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-jeongbalsan-high-english/
 title: "고양시 일산동구 정발산동 고등 영어과외 | 정발고 독해력 향상 프로그램"
 date: 2025-01-15
 categories:

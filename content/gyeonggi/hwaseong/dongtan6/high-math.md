@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/hwaseong-dongtan6-high-math/
 title: "화성시 동탄6동 고등 수학과외 | 청명고·동탄고·반송고 내신·수능 대비"
 date: 2025-01-15
 categories:

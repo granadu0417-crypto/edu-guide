@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-강일-high-math/
 title: "강동구 강일동 고등 수학과외 | 강동고·한영외고 기초부터 심화까지"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-maesan-high-english/
 title: "수원시 팔달구 매산동 고등 영어과외 | 수원고·삼일상고·동우여고 내신·수능 대비"
 date: 2025-01-15
 categories:

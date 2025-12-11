@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-yeonghwa-high-math/
 title: "수원시 장안구 영화동 고등 수학과외 | 영생고·천천고·수원공고 내신·수능 대비"
 date: 2025-01-15
 categories:

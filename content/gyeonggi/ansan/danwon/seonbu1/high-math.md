@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/ansan-seonbu1-high-math/
 title: "안산시 단원구 선부1동 고등 수학과외 | 단원고·안산공고·성안고 내신·수능 대비"
 date: 2025-01-15
 categories:

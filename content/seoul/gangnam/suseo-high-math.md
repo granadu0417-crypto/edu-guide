@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강남-수서-high-math/
 title: "강남구 수서동 고등 수학과외 | 수서고·자곡고 기초부터 심화까지"
 date: 2025-01-28
 categories:

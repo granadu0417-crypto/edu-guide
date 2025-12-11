@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-guro5-middle-english/
 title: "구로구 구로5동 중등 영어과외 | 영림중·구일중 내신 집중 관리"
 date: 2025-01-29
 categories:

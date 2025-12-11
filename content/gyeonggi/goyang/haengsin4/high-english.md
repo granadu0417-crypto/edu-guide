@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-haengsin4-high-english/
 title: "고양시 덕양구 행신4동 고등 영어과외 | 서정고 전문 선생님과 함께"
 date: 2025-01-15
 categories:

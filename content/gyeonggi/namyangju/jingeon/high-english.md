@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/namyangju-jingeon-high-english/
 title: "남양주시 진건읍 고등 영어과외 | 남양주고·동화고·호평고 내신·수능 대비"
 date: 2025-01-15
 categories:

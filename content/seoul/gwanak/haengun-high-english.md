@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/관악-행운-high-english/
 title: "관악구 행운동 고등 영어과외 | 성보고 내신·수능 대비"
 date: 2025-01-28
 categories:

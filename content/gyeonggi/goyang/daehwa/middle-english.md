@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-daehwa-middle-english/
 title: "고양시 일산서구 대화동 중등 영어과외 | 대화중 내신 1등급 전략"
 date: 2025-01-15
 categories:

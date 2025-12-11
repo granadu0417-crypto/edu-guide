@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/pyeongtaek-shinpyeong-high-english/
 title: "평택시 신평동 고등 영어과외 | 평택고·송탄고·평택여고 내신·수능 대비"
 date: 2025-01-15
 categories:

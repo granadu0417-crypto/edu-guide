@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-sinjeong4-middle-english/
 title: "양천구 신정4동 중등 영어과외 | 금옥중·목동중 독해·문법 완성"
 date: 2025-01-29
 categories:

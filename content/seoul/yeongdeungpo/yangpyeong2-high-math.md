@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/영등포-양평2-high-math/
 title: "영등포구 양평2동 고등 수학과외 | 관악고·선유고 수능 완벽 대비"
 date: 2025-01-28
 categories:

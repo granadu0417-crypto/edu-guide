@@ -13,22 +13,6 @@ cities:
 tags:
   - 광진구영어과외
   - 광진구중등영어
-aliases:
-  - /middle/gwangjin-gunja-middle-english/
-  - /middle/gwangjin-guui1-middle-english/
-  - /middle/gwangjin-guui2-middle-english/
-  - /middle/gwangjin-guui3-middle-english/
-  - /middle/gwangjin-gwangjang-middle-english/
-  - /middle/gwangjin-hwayang-middle-english/
-  - /middle/gwangjin-jayang1-middle-english/
-  - /middle/gwangjin-jayang2-middle-english/
-  - /middle/gwangjin-jayang3-middle-english/
-  - /middle/gwangjin-jayang4-middle-english/
-  - /middle/gwangjin-junggok1-middle-english/
-  - /middle/gwangjin-junggok2-middle-english/
-  - /middle/gwangjin-junggok3-middle-english/
-  - /middle/gwangjin-junggok4-middle-english/
-  - /middle/gwangjin-neungdong-middle-english/
 ---
 
 광진구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

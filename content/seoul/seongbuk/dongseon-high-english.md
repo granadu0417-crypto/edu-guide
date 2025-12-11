@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/성북-선-high-english/
 title: "성북구 동선동 고등 영어과외 | 성신여고·대광고 1:1 맞춤 수업"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/bucheon-goeoe-high-english/
 title: "부천시 괴안동 고등 영어과외 | 부천고·부명고·역곡고 내신·수능 대비"
 date: 2025-01-15
 categories:

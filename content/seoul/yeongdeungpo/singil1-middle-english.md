@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-singil1-middle-english/
 title: "영등포구 신길1동 중등 영어과외 | 신길중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

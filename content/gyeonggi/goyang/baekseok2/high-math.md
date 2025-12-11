@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-baekseok2-high-math/
 title: "고양시 일산동구 백석2동 고등 수학과외 | 백신고 내신·수능 완벽 대비"
 date: 2025-01-15
 categories:

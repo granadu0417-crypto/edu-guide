@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dobong-ssangmun1-middle-math/
 title: "도봉구 쌍문1동 중등 수학과외 | 효문중 내신 완벽 대비"
 date: 2025-01-29
 categories:

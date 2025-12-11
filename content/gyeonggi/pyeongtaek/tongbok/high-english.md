@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/pyeongtaek-tongbok-high-english/
 title: "평택시 통복동 고등 영어과외 | 평택여고·평택고·송탄고 내신·수능 대비"
 date: 2025-01-15
 categories:

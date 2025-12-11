@@ -13,25 +13,6 @@ cities:
 tags:
   - 양천구영어과외
   - 양천구고등영어
-aliases:
-  - /high/yangcheon-mok1-high-english/
-  - /high/yangcheon-mok2-high-english/
-  - /high/yangcheon-mok3-high-english/
-  - /high/yangcheon-mok4-high-english/
-  - /high/yangcheon-mok5-high-english/
-  - /high/yangcheon-sinjeong1-high-english/
-  - /high/yangcheon-sinjeong2-high-english/
-  - /high/yangcheon-sinjeong3-high-english/
-  - /high/yangcheon-sinjeong4-high-english/
-  - /high/yangcheon-sinjeong6-high-english/
-  - /high/yangcheon-sinjeong7-high-english/
-  - /high/yangcheon-sinwol1-high-english/
-  - /high/yangcheon-sinwol2-high-english/
-  - /high/yangcheon-sinwol3-high-english/
-  - /high/yangcheon-sinwol4-high-english/
-  - /high/yangcheon-sinwol5-high-english/
-  - /high/yangcheon-sinwol6-high-english/
-  - /high/yangcheon-sinwol7-high-english/
 ---
 
 양천구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

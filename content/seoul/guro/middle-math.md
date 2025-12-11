@@ -13,23 +13,6 @@ cities:
 tags:
   - 구로구수학과외
   - 구로구중등수학
-aliases:
-  - /middle/guro-gaebong1-middle-math/
-  - /middle/guro-gaebong2-middle-math/
-  - /middle/guro-gaebong3-middle-math/
-  - /middle/guro-garibong-middle-math/
-  - /middle/guro-gocheok1-middle-math/
-  - /middle/guro-gocheok2-middle-math/
-  - /middle/guro-guro1-middle-math/
-  - /middle/guro-guro2-middle-math/
-  - /middle/guro-guro3-middle-math/
-  - /middle/guro-guro4-middle-math/
-  - /middle/guro-guro5-middle-math/
-  - /middle/guro-hangdong-middle-math/
-  - /middle/guro-oryu1-middle-math/
-  - /middle/guro-oryu2-middle-math/
-  - /middle/guro-sindorim-middle-math/
-  - /middle/guro-sugung-middle-math/
 ---
 
 구로구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

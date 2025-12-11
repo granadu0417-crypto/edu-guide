@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guro-gocheok1-middle-math/
 title: "구로구 고척1동 중등 수학과외 | 고척중·오류중 학교별 내신 특화"
 date: 2025-01-29
 categories:

@@ -13,21 +13,6 @@ cities:
 tags:
   - 도봉구수학과외
   - 도봉구중등수학
-aliases:
-  - /middle/dobong-banghak1-middle-math/
-  - /middle/dobong-banghak2-middle-math/
-  - /middle/dobong-banghak3-middle-math/
-  - /middle/dobong-chang1-middle-math/
-  - /middle/dobong-chang2-middle-math/
-  - /middle/dobong-chang3-middle-math/
-  - /middle/dobong-chang4-middle-math/
-  - /middle/dobong-chang5-middle-math/
-  - /middle/dobong-dobong1-middle-math/
-  - /middle/dobong-dobong2-middle-math/
-  - /middle/dobong-ssangmun1-middle-math/
-  - /middle/dobong-ssangmun2-middle-math/
-  - /middle/dobong-ssangmun3-middle-math/
-  - /middle/dobong-ssangmun4-middle-math/
 ---
 
 도봉구 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다. 개념 이해와 문제 풀이력을 균형 있게 키워드립니다.

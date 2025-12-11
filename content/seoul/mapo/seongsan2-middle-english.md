@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-seongsan2-middle-english/
 title: "마포구 성산2동 중등 영어과외 | 성서중·홍익대부속여중 기초부터 심화까지"
 date: 2025-01-29
 categories:

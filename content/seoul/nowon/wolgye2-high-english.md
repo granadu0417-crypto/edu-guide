@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-wolgye2-high-english/
 title: 노원구 월계2동 고등 영어과외 | 을지대부고·혜화여고·선덕고 학교별 내신 특화
 date: 2025-01-29
 categories:

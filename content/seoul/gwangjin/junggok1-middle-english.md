@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gwangjin-junggok1-middle-english/
 title: 광진구 중곡1동 중등 영어과외 - 대원국제중·용곡중 내신 완성
 date: 2025-01-29
 categories:

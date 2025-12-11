@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-둔촌1-high-english/
 title: "강동구 둔촌1동 고등 영어과외 | 둔촌고·성내고 독해부터 문법까지"
 date: 2025-01-28
 categories:

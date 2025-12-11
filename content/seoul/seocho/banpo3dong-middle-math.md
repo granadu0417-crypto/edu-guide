@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seocho-banpo3dong-middle-math/
 title: 서초구 반포3동 중등 수학과외 - 신반포중·원촌중 맞춤 관리
 date: 2025-01-22
 categories:

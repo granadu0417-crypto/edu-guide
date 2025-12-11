@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/ansan-hogok-middle-math/
 title: "안산시 단원구 호곡동 중등 수학과외 | 단원중·성안중·안산공중 내신 완벽 대비"
 date: 2025-01-15
 categories:

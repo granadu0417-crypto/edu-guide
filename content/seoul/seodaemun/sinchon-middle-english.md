@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seodaemun-sinchon-middle-english/
 title: "서대문구 신촌동 중등 영어과외 | 이화금란중·이화여대부중 실력 향상 수업"
 date: 2025-01-29
 categories:

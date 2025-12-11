@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/gangnam-dogok1-middle-math/
 title: 강남구 도곡1동 중등 수학과외 - 대명중·역삼중 맞춤 관리
 date: 2025-01-28
 categories:

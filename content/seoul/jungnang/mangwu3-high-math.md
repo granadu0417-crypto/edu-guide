@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/jungnang-mangwu3-high-math/
 title: "중랑구 망우3동 고등 수학과외 | 송곡고, 송곡여고, 혜원여고 내신·수능 대비"
 date: 2025-12-08
 categories:

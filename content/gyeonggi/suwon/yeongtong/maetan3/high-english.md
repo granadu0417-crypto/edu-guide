@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-maetan3-high-english/
 title: "수원시 영통구 매탄3동 고등 영어과외 | 매탄고·효원고·영통고 내신·수능 대비"
 date: 2025-01-15
 categories:

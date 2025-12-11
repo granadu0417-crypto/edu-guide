@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongbuk-jongam-middle-math/
 title: "성북구 종암동 중등 수학과외 | 종암중·서울대사대부중 개념부터 실전까지"
 date: 2025-01-29
 categories:

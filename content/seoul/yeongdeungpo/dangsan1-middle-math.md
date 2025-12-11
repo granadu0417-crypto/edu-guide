@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yeongdeungpo-dangsan1-middle-math/
 title: "영등포구 당산1동 중등 수학과외 | 당산중·양화중 학교별 내신 특화"
 date: 2025-01-29
 categories:

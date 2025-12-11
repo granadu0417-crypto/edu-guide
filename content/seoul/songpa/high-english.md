@@ -13,34 +13,6 @@ cities:
 tags:
   - 송파구영어과외
   - 송파구고등영어
-aliases:
-  - /high/songpa-bangi-1-high-english/
-  - /high/songpa-bangi-2-high-english/
-  - /high/songpa-garak-1-high-english/
-  - /high/songpa-garak-2-high-english/
-  - /high/songpa-garakbon-high-english/
-  - /high/songpa-geoyeo-1-high-english/
-  - /high/songpa-geoyeo-2-high-english/
-  - /high/songpa-jamsil-2-high-english/
-  - /high/songpa-jamsil-3-high-english/
-  - /high/songpa-jamsil-4-high-english/
-  - /high/songpa-jamsil-6-high-english/
-  - /high/songpa-jamsil-7-high-english/
-  - /high/songpa-jamsilbon-high-english/
-  - /high/songpa-jangji-high-english/
-  - /high/songpa-macheon-1-high-english/
-  - /high/songpa-macheon-2-high-english/
-  - /high/songpa-munjeong-1-high-english/
-  - /high/songpa-munjeong-2-high-english/
-  - /high/songpa-ogeum-high-english/
-  - /high/songpa-oryun-high-english/
-  - /high/songpa-pungnapdong-1-high-english/
-  - /high/songpa-pungnapdong-2-high-english/
-  - /high/songpa-samjeon-high-english/
-  - /high/songpa-seokchon-high-english/
-  - /high/songpa-songpa1-high-english/
-  - /high/songpa-songpa2-high-english/
-  - /high/songpa-wirye-high-english/
 ---
 
 송파구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

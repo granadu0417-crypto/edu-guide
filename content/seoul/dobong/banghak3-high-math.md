@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-방학3-high-math/
 title: "도봉구 방학3동 고등 수학과외 | 창동고·도봉고 개념부터 심화까지"
 date: 2025-01-28
 categories:

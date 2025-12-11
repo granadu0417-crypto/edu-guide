@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/eunpyeong-galhyeon1-middle-english/
 title: "은평구 갈현1동 중등 영어과외 | 선정중·대성중 내신 고득점 전략"
 date: 2025-05-20
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/guri-sueok1-middle-math/
 title: "구리시 수택1동 중등 수학과외 | 인창중·동구중·구리중 내신 완벽 대비"
 date: 2025-01-15
 categories:

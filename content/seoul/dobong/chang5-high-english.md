@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/도봉-창5-high-english/
 title: "도봉구 창5동 고등 영어과외 | 창동고 체계적 학습 관리"
 date: 2025-01-28
 categories:

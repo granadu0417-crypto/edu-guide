@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/dongjak-daebang-middle-math/
 title: "동작구 대방동 중등 수학과외 | 대방중·강남중 1:1 맞춤 수업"
 date: 2025-01-29
 categories:

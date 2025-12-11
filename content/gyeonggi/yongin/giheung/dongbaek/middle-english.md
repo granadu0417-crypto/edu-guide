@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yongin-dongbaek-middle-english/
 title: "용인시 기흥구 동백동 중등 영어과외 | 동백중·기흥중·용인중 내신 완벽 대비"
 date: 2025-01-15
 categories:

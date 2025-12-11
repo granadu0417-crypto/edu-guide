@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/hwaseong-dongtan3-middle-math/
 title: "화성시 동탄3동 중등 수학과외 | 반송중·동탄중·능동중 내신 완벽 대비"
 date: 2025-01-15
 categories:

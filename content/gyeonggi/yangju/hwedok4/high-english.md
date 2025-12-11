@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/yangju-hwedok4-high-english/
 title: "양주시 회천4동 고등 영어과외 | 덕정고·양주백석고·양주고 내신·수능 대비"
 date: 2025-01-15
 categories:

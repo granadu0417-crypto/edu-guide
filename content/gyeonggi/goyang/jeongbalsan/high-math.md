@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-jeongbalsan-high-math/
 title: "고양시 일산동구 정발산동 고등 수학과외 | 정발고 기초부터 심화까지"
 date: 2025-01-15
 categories:

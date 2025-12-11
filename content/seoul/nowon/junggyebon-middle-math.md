@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-junggyebon-middle-math/
 title: 노원구 중계본동 중등 수학과외 | 중계중·재현중·을지중 내신 대비
 date: 2025-01-29
 categories:

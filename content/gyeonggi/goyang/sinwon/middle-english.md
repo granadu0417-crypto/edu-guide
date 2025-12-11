@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-sinwon-middle-english/
 title: "고양시 덕양구 신원동 중등 영어과외 | 신원중 영어 실력 향상"
 date: 2025-01-15
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-고덕2-high-math/
 title: "강동구 고덕2동 고등 수학과외 | 배재고·광문고 체계적 학습 관리"
 date: 2025-01-28
 categories:

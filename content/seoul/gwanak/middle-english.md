@@ -13,27 +13,6 @@ cities:
 tags:
   - 관악구영어과외
   - 관악구중등영어
-aliases:
-  - /middle/gwanak-boramae-middle-english/
-  - /middle/gwanak-cheongnyong-middle-english/
-  - /middle/gwanak-daehak-middle-english/
-  - /middle/gwanak-euncheon-middle-english/
-  - /middle/gwanak-haengun-middle-english/
-  - /middle/gwanak-inheon-middle-english/
-  - /middle/gwanak-jowon-middle-english/
-  - /middle/gwanak-jungang-middle-english/
-  - /middle/gwanak-miseong-middle-english/
-  - /middle/gwanak-nakseongdae-middle-english/
-  - /middle/gwanak-namhyeon-middle-english/
-  - /middle/gwanak-nangok-middle-english/
-  - /middle/gwanak-nanhyang-middle-english/
-  - /middle/gwanak-samseong-middle-english/
-  - /middle/gwanak-seonghyeon-middle-english/
-  - /middle/gwanak-seorim-middle-english/
-  - /middle/gwanak-seowon-middle-english/
-  - /middle/gwanak-sillim-middle-english/
-  - /middle/gwanak-sinsa-middle-english/
-  - /middle/gwanak-sinwon-middle-english/
 ---
 
 관악구 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다. 고등학교 영어의 기초를 탄탄히 다져드립니다.

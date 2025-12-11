@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongdong-haengdang2-middle-math/
 title: "성동구 행당2동 중등 수학과외 | 무학중·행당중 개념부터 실전까지"
 date: 2025-01-29
 categories:

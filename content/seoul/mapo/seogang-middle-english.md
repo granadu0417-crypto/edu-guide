@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/mapo-seogang-middle-english/
 title: "마포구 서강동 중등 영어과외 | 창천중 학교별 내신 특화"
 date: 2025-01-29
 categories:

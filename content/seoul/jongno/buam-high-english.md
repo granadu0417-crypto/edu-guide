@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/종로-부암-high-english/
 title: "종로구 부암동 고등 영어과외 | 경복고·동성고·중앙고 맞춤 커리큘럼"
 date: 2025-01-28
 categories:

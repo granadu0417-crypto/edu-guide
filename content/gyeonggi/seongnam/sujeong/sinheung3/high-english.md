@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/seongnam-sinheung3-high-english/
 title: "성남시 수정구 신흥3동 고등 영어과외 | 태원고·성남고·복정고 내신·수능 대비"
 date: 2025-01-15
 categories:

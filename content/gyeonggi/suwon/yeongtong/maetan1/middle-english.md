@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-maetan1-middle-english/
 title: "수원시 영통구 매탄1동 중등 영어과외 | 매탄중·영복여중·효원중 내신 완벽 대비"
 date: 2025-01-15
 categories:

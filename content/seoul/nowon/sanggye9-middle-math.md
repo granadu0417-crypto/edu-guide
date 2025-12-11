@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-sanggye9-middle-math/
 title: 노원구 상계9동 중등 수학과외 | 상원중·수락중·청원중 체계적 학습 관리
 date: 2025-01-29
 categories:

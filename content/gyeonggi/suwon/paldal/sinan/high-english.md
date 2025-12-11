@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/suwon-sinan-high-english/
 title: "수원시 팔달구 신안동 고등 영어과외 | 수원고·동우여고·삼일상고 내신·수능 대비"
 date: 2025-01-15
 categories:

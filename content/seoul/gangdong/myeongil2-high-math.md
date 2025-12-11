@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/강동-명일2-high-math/
 title: "강동구 명일2동 고등 수학과외 | 명일고·강동고 수능 완벽 대비"
 date: 2025-01-28
 categories:

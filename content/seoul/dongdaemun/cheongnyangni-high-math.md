@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/동대문-청량리-high-math/
 title: "동대문구 청량리동 고등 수학과외 | 청량고 전문 선생님과 함께"
 date: 2025-01-28
 categories:

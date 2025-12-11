@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/seongnam-taepyeong2-middle-math/
 title: "성남시 수정구 태평2동 중등 수학과외 | 태원중·성남여중·성일중 내신 완벽 대비"
 date: 2025-01-15
 categories:

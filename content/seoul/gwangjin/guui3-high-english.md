@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/광진-구의3-high-english/
 title: "광진구 구의3동 고등 영어과외 | 동국대부가람고 단계별 실력 향상"
 date: 2025-01-28
 categories:

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/yangcheon-mok1-middle-english/
 title: "양천구 목1동 중등 영어과외 | 목운중 독해·문법 완성"
 date: 2025-01-29
 categories:

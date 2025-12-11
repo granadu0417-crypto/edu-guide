@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/nowon-junggye1-high-english/
 title: 노원구 중계1동 고등 영어과외 | 서라벌고·대진고·재현고 학교별 내신 특화
 date: 2025-01-29
 categories:

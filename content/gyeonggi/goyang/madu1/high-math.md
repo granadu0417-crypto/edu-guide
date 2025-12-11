@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-madu1-high-math/
 title: "고양시 일산동구 마두1동 고등 수학과외 | 백석고 단계별 실력 향상"
 date: 2025-01-15
 categories:

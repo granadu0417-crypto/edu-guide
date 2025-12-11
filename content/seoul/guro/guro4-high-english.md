@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/로-구로4-high-english/
 title: "구로구 구로4동 고등 영어과외 | 구일고·구로고 단계별 실력 향상"
 date: 2025-01-28
 categories:

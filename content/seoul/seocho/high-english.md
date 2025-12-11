@@ -13,20 +13,6 @@ cities:
 tags:
   - 서초구영어과외
   - 서초구고등영어
-aliases:
-  - /high/seocho-bangbae2dong-high-english/
-  - /high/seocho-bangbae3dong-high-english/
-  - /high/seocho-bangbae4dong-high-english/
-  - /high/seocho-bangbaebondong-high-english/
-  - /high/seocho-banpo2dong-high-english/
-  - /high/seocho-banpo3dong-high-english/
-  - /high/seocho-banpo4dong-high-english/
-  - /high/seocho-banpobondong-high-english/
-  - /high/seocho-jamwondong-high-english/
-  - /high/seocho-naegokdong-high-english/
-  - /high/seocho-seochodong-high-english/
-  - /high/seocho-yangjae1dong-high-english/
-  - /high/seocho-yangjae2dong-high-english/
 ---
 
 서초구 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 체계적인 준비로 영어 실력을 한 단계 높여드립니다.

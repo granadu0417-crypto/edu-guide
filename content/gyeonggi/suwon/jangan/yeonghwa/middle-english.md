@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/suwon-yeonghwa-middle-english/
 title: "수원시 장안구 영화동 중등 영어과외 | 영생중·천천중·수원공중 내신 완벽 대비"
 date: 2025-01-15
 categories:

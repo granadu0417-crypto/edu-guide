@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/nowon-junggye4-middle-english/
 title: 노원구 중계4동 중등 영어과외 | 중계중·재현중·을지중 내신 맞춤 관리
 date: 2025-01-29
 categories:

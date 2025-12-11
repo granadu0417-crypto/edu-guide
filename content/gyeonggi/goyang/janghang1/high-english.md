@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-janghang1-high-english/
 title: "고양시 일산동구 장항1동 고등 영어과외 | 중산고 약점 집중 보완"
 date: 2025-01-15
 categories:

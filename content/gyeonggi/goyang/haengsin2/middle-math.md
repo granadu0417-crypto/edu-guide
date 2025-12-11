@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /middle/goyang-haengsin2-middle-math/
 title: "고양시 덕양구 행신2동 중등 수학과외 | 행신중 목표 등급 달성"
 date: 2025-01-15
 categories:

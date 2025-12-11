@@ -11,8 +11,6 @@ tags:
   - 안성시과외
   - 안성시수학과외
   - 안성시영어과외
-aliases:
-  - /local/gyeonggi/anseong-education-guide/
 ---
 
 ## 안성시 과외 안내

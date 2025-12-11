@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /high/goyang-juyeop-high-math/
 title: "고양시 덕양구 주엽동 고등 수학과외 | 고양고 개념 완성 프로그램"
 date: 2025-01-15
 categories:
