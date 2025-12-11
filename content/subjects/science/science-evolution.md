@@ -10,7 +10,7 @@ tags:
 - 진화
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0599_FqsWZU0dXDk.jpg"
 ---
 
 ## 자연선택과 유전적 부동이 복잡하고 진화의 증거가 헷갈린다고요? 핵심 원리로 정리하면 됩니다.

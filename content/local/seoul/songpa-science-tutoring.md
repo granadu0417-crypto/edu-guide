@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["송파구", "과학과외", "잠실", "방이동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 ---
 
 "과학 개념은 아는데 문제가 안 풀려요!"

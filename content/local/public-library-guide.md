@@ -15,7 +15,7 @@ tags:
 - 강남
 - 강동
 - 강북
-featured_image: "https://images.unsplash.com/photo-1632406898063-9d1a9a8e5f35?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0302_PIOBX4_B9XU.jpg"
 ---
 
 ## 아이 공부하기 좋은 곳을 찾고 있는데, 도서관을 활용하면 좋다고 들었어요. 어떻게 이용하면 되나요?

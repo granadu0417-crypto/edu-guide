@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["서초구", "과학과외", "반포동", "서초동", "양재동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0356_Eerotju7VgI.jpg"
 ---
 
 "서초구에서 의대생에게 과학 과외를 받을 수 있나요?"

@@ -9,7 +9,7 @@ regions:
 cities:
   - 광명시
 tags: ["광명교육", "광명학원", "광명과외", "철산동학원", "광명입시"]
-featured_image: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0232_mN3PsFWbmIE.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -114,6 +114,14 @@ sitemap:
 **Q. 교육비를 절감하는 방법이 있나요?**
 
 온라인 학습을 병행하고, 과목별 우선순위를 정해 꼭 필요한 곳에 집중 투자하는 것이 좋습니다. 그룹 과외를 활용하면 비용을 줄일 수 있습니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

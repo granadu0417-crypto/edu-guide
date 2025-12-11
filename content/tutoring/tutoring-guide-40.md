@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0977_1-YQiOijio8.jpg"
 ---
 
 ## 과외 받는데 효과가 있는지 어떻게 알 수 있나요? 뭘 봐야 하나요?

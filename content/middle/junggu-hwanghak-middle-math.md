@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0840_1H0kSvm4I3k.jpg"
 
 ---
 ## 중구 황학동 중학생, 수학 사각형의 성질이 헷갈린다면
@@ -105,6 +105,14 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 **Q. 정사각형은 직사각형인가요?**
 
 네, 정사각형은 직사각형이면서 마름모입니다. 네 각이 직각이고 네 변이 같습니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["강남", "서초", "송파", "학군", "교육환경", "도서관", "교육지원센터", "대치동"]
-featured_image: "https://images.unsplash.com/photo-1555992336-fb0d29498b13?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 ---
 
 "강남 3구 중 어디가 우리 아이에게 맞을까요?"

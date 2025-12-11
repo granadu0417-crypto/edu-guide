@@ -9,7 +9,7 @@ regions:
 cities:
   - 의정부시
 tags: ["의정부영어과외", "의정부초등영어", "의정부중등영어", "의정부고등영어", "경기영어과외", "경기북부영어"]
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0272_8gAbl776pc0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

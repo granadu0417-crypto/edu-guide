@@ -9,7 +9,7 @@ regions:
 cities:
   - 수원시
 tags: ["수원교육", "수원학원", "수원과외", "영통학원", "매탄학원", "수원입시"]
-featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0267_TSRMOX6FV3A.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -114,6 +114,14 @@ sitemap:
 **Q. 교육비를 절감하는 방법이 있나요?**
 
 온라인 학습을 병행하고, 과목별 우선순위를 정해 꼭 필요한 곳에 집중 투자하는 것이 좋습니다. 그룹 과외를 활용하면 비용을 줄일 수 있습니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
 
 ## 마무리
 

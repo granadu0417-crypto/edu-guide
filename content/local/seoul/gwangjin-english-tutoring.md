@@ -8,7 +8,7 @@ regions:
 cities:
   - 광진구
 tags: ["광진구", "영어과외", "건대입구", "구의동", "자양동", "광장동", "영어", "과외", "건국대", "내신영어", "수능영어", "1:1과외", "영문과"]
-featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 ---
 
 "건대 근처라서 대학생 과외 쉽게 구할 수 있다는데, 믿을 만할까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=
 **건국대 영문과 학생이라고 다 잘 가르치는 건 아니에요.**
 하지만 잘 가르치는 건대 영문과 학생을 만나면? 최고의 선택이 됩니다.
 
-![광진구 영어과외](https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=600&fit=crop)
+![광진구 영어과외](/images/edu_0290_Bys31wQcP4Q.jpg)
 
 ## 광진구 영어 교육, 어떤 특징이 있나요?
 

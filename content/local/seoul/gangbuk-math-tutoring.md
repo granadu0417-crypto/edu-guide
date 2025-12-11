@@ -8,7 +8,7 @@ regions:
 cities:
   - 강북구
 tags: ["강북구", "수학과외", "수유동", "미아동", "번동", "수학", "과외", "국민대", "성신여대", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1490633874781-1c63cc424610?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 ---
 
 "강북구에서 수학 잘하는 선생님 만나기 어렵겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1490633874781-1c63cc424610?w=
 그렇게 생각하실 수 있어요.
 하지만 **국민대·성신여대가 가까워서 수학 전공 선생님 찾기 좋습니다.** 특히 국민대 수학교육과 선생님은 인기가 많아요.
 
-![강북구 수학과외](https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=600&fit=crop)
+![강북구 수학과외](/images/edu_0269_XckdW-FViuM.jpg)
 
 ## 강북구 수학 교육, 어떤 특징이 있나요?
 

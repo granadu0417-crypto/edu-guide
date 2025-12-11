@@ -10,7 +10,7 @@ tags:
 - 학습전략
 - 방학과외
 - 새학년준비
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 ---
 ## 겨울방학, 그냥 놀다 보내도 되는 걸까요?
 

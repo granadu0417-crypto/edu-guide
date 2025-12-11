@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0837_Vpz_i_tpPiM.jpg"
 
 ---
 ## 중구 회현동 중학생, 영어 수여동사가 헷갈린다면
@@ -105,6 +105,14 @@ give, send, show, teach, tell 등은 to를 쓰고, buy, make, cook, get 등은 f
 **Q. explain은 수여동사인가요?**
 
 아닙니다. I explained the problem to him은 맞지만, I explained him the problem은 틀립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

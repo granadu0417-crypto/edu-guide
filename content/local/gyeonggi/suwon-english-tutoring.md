@@ -9,7 +9,7 @@ regions:
 cities:
   - 수원시
 tags: ["수원영어과외", "매산로영어과외", "수원초등영어", "수원중등영어", "수원고등영어", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0268_bdB7uddLq5o.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

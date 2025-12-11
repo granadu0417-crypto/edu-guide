@@ -18,14 +18,14 @@ tags:
 - 수능수학
 - 1:1과외
 - 강남과외
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0326_n9AaeihA9HI.jpg"
 ---
 
 "우리 아이, 수학 선행이 필요할까요? 개념부터 잡아야 할까요?"
 
 강남구에서 수학과외를 알아보시는 학부모님들의 공통된 고민입니다. 정답부터 말씀드리면, 아이의 현재 수준과 학습 성향에 따라 완전히 달라집니다.
 
-![강남구 수학교육](https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=600&fit=crop)
+![강남구 수학교육](/images/edu_0279_1NyLgQ8QfgQ.jpg)
 
 ## 강남구, 왜 수학 교육의 메카일까요?
 
@@ -95,7 +95,7 @@ AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입�
 왜 그렇게 푸는지 이해하는 수학! 공식 암기가 아닌 개념 이해로 어떤 문제든 해결합니다.
 </div>
 
-![수학 문제풀이](https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=600&fit=crop)
+![수학 문제풀이](/images/edu_0280_2eM_-v2o0Ik.jpg)
 
 ### 고등학생 수학과외
 
@@ -204,7 +204,7 @@ AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입�
 - 지역 제약 없이 최적의 선생님 선택
 - 수업 녹화로 복습 가능
 
-![온라인 수업](https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=600&fit=crop)
+![온라인 수업](/images/edu_0281_F8DmZwGFPwo.jpg)
 
 ## 강남구 수학 학습 환경 활용법
 

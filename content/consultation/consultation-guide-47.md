@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0069_wWgfpLY7Ims.jpg"
 ---
 
 ## 왜 공부해야 하는지 모르겠어요. 해야 하는 건 아는데 하고 싶지가 않아요.

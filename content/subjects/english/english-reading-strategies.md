@@ -12,7 +12,7 @@ tags:
 - 수능영어
 - 내신영어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0405_KXtTWJZgw8g.jpg"
 ---
 
 ## 영어 독해 지문이 너무 길다고요? 시간 안에 못 푼다고요.

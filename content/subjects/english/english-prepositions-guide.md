@@ -15,7 +15,7 @@ tags:
 - at
 - for
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0401_e_0aPdC-UzQ.jpg"
 ---
 
 ## in과 on을 언제 쓰는지 헷갈리시죠? for와 during 차이도 모르겠다고요.

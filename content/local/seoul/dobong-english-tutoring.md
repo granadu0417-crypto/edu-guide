@@ -8,7 +8,7 @@ regions:
 cities:
   - 도봉구
 tags: ["도봉구", "영어과외", "창동", "방학동", "쌍문동", "영어", "과외", "창동신도시", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1641154748135-8032a61a3f80?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0309_YxMOhGgIfMg.jpg"
 ---
 
 "도봉구에서도 좋은 영어 선생님 만날 수 있을까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1641154748135-8032a61a3f80?w=
 많이들 걱정하시는 부분입니다.
 솔직히 말씀드리면, **고려대가 가까워서 오히려 좋은 선생님 찾기 쉽습니다.** 방학동 학원가도 잘 발달되어 있어요.
 
-![도봉구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![도봉구 영어과외](/images/edu_0883_DhOcwxGFBGQ.jpg)
 
 ## 도봉구 영어 교육, 어떤 특징이 있나요?
 

@@ -8,7 +8,7 @@ regions:
 cities:
   - 구로구
 tags: ["구로구", "수학과외", "가산동", "신도림", "구로동", "수학", "과외", "가산디지털단지", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0333_6CQy1skIbRs.jpg"
 ---
 
 "IT 벨트 구로구에서 좋은 수학 교육 받을 수 있을까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=
 가산디지털단지 인근은 **논리적 사고력**을 중시하는 IT 업계 학부모가 많습니다.
 그래서 **성과 중심의 효율적인 수학 교육**이 발달했어요.
 
-![구로구 수학과외](https://images.unsplash.com/photo-1510531704581-5b2870972060?w=1200&h=600&fit=crop)
+![구로구 수학과외](/images/edu_0287_XkKCui44iM0.jpg)
 
 ## 구로구 수학 교육, 어떤 특징이 있나요?
 

@@ -16,14 +16,14 @@ tags:
 - 수능영어
 - 1:1과외
 - 강남과외
-featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 ---
 
 "우리 아이 영어, 회화부터 시작해야 할까요? 문법부터 잡아야 할까요?"
 
 강남구에서 아이 영어과외를 알아보시는 학부모님들이 가장 많이 하시는 질문입니다. 정답은 아이의 학년과 현재 실력, 그리고 목표에 따라 완전히 달라집니다.
 
-![강남구 영어교육](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=600&fit=crop)
+![강남구 영어교육](/images/edu_0272_8gAbl776pc0.jpg)
 
 ## 강남구, 왜 영어교육의 중심지일까요?
 
@@ -93,7 +93,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 헷갈리는 문법도 쉽게! 개념을 이해하고 문제에 적용하는 훈련까지, 빈틈없이 채워갑니다.
 </div>
 
-![영어 학습](https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=1200&h=600&fit=crop)
+![영어 학습](/images/edu_0273_t3oZpcij_O4.jpg)
 
 ### 고등학생 영어과외
 
@@ -201,7 +201,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 영어 원서를 구비한 도서관, 원어민이 운영하는 카페나 서점을 활용해보세요. 자연스럽게 영어에 노출되는 환경을 만들 수 있습니다.
 
-![영어 회화](https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=600&fit=crop)
+![영어 회화](/images/edu_0274_Njj5a0gvTu4.jpg)
 
 ## 자주 묻는 질문
 

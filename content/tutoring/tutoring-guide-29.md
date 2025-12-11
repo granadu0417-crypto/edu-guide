@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 ---
 
 ## 초등학생 때부터 과외하면 너무 일찍 시작하는 건 아닌가요?

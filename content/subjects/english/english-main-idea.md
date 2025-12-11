@@ -13,7 +13,7 @@ tags:
 - topic
 - reading
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1626178793926-22b28830aa30?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 ---
 
 ## 영어 주제 찾기가 어렵다고요? 지문이 길어서 뭐가 핵심인지 모르겠다고요.

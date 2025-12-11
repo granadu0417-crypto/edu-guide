@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어 관용표현(이디엄) 과외로 자연스러운 영어 구사력 향상. 실생활 필수 숙어부터 고급 표현까지 체계적 학습법"
 tags: ["영어관용표현", "이디엄과외", "영어숙어", "영어표현", "영어회화", "영어실력향상", "자연스러운영어"]
-featured_image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 ---
 
 ## 영어 관용표현이 너무 많아서 어디서부터 외워야 할지 모르겠다고요? 원어민처럼 자연스럽게 말하고 싶은데 어떻게 해야 하는지 막막하시죠.

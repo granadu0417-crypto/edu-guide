@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["용산구", "수학과외", "한남동", "이촌동", "용산동", "수학", "과외", "국제학교", "AP수학", "IB수학", "입시수학"]
-featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 ---
 
 "국제학교 수학과 한국 수학은 많이 다른가요?"

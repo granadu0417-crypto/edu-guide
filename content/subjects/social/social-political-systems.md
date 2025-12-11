@@ -15,7 +15,7 @@ tags:
 - 사회과외
 - 정치학습
 - 정치
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 ---
 
 ## 민주주의와 권력분립이 어렵고 정치 제도가 복잡하다고요? 국민 주권의 원리부터 시작하면 됩니다.

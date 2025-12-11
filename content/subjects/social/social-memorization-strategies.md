@@ -18,12 +18,12 @@ tags:
 - 사회용어
 - 장기기억
 - 내신대비
-featured_image: "https://images.unsplash.com/photo-1620325867502-221cfb5faa5f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0689_KDM09YR4_bY.jpg"
 ---
 
 사회 과목은 암기할 내용이 많아 부담스럽게 느껴질 수 있습니다. 하지만 체계적인 암기 전략을 활용하면 효율적으로 학습하고 오래 기억할 수 있습니다. 이 글에서는 역사, 지리, 정치·경제 등 사회 과목 전반의 완벽한 암기 전략을 안내합니다.
 
-![사회 암기 전략](https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=600&fit=crop)
+![사회 암기 전략](/images/edu_0309_YxMOhGgIfMg.jpg)
 
 ## 사회 과목 암기가 어려운 이유
 

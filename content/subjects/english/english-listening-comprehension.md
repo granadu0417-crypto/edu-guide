@@ -14,7 +14,7 @@ tags:
 - 듣기훈련
 - 청취력
 - 발음
-featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0385_OL5FSVty0IE.jpg"
 ---
 
 ## 영어가 안 들린다고요? 들리는 대로 받아쓰면 다 틀리시죠.

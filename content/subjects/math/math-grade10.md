@@ -14,7 +14,7 @@ tags:
 - 함수
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 ---
 
 ## 고등학교 올라왔더니 수학이 갑자기 안 된다고요? 중학교 때는 잘했는데 왜 이렇게 어려워진 건지 모르겠다고 느끼시죠.

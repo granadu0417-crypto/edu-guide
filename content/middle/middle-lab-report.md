@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 실험 보고서 완벽 마스터 전략 | 1:1 맞춤 지도, 실험, 보고서, 과학 [2025년]"
 tags: ["중학생", "실험", "보고서", "과학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 ---
 
 ## 실험 보고서 쓰기가 너무 어려워요. 어떻게 써야 점수를 잘 받나요?

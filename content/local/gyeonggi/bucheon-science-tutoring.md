@@ -9,7 +9,7 @@ regions:
 cities:
   - 부천시
 tags: ["부천과학과외", "중동과학과외", "부천물리과외", "부천화학과외", "부천생명과학과외", "상동과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0221_PYVZPTgXBZ0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

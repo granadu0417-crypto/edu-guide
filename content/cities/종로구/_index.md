@@ -20,7 +20,7 @@ tags:
   - 경복고
   - 동성고
   - 중앙고
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0875__al2ZAOd5ZU.jpg"
 ---
 
 ## 종로구 고등학생 과외 안내

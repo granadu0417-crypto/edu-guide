@@ -8,7 +8,7 @@ regions:
 cities:
   - 금천구
 tags: ["금천구", "영어과외", "독산동", "시흥동", "가산동", "영어", "과외", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0330_K0ubXXQqR-E.jpg"
 ---
 
 "독산·시흥 지역에서도 양질의 영어 교육 받을 수 있나요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=
 물론입니다. 금천구는 **안정적인 주거 환경**에서 꾸준한 영어 학습이 가능한 지역이에요.
 가산디지털단지 인접으로 **원어민 과외 접근성**도 좋습니다.
 
-![금천구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![금천구 영어과외](/images/edu_0284_ihXg_a-9Tmk.jpg)
 
 ## 금천구 영어 교육, 어떤 특징이 있나요?
 

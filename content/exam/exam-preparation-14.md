@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 ---
 ## 외워도 외워도 자꾸 까먹어요. 암기 잘하는 방법 없나요?
 
@@ -103,6 +103,14 @@ featured_image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=120
 **Q. 암기 잘하는 친구들은 뭐가 다른가요?**
 
 방법이 다릅니다. 단순 반복이 아니라 이해하면서 외우고, 출력 연습을 많이 합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
 
 ## 마무리
 

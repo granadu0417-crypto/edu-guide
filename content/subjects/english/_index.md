@@ -6,7 +6,7 @@ description: 영어 듣기, 독해, 문법, 단어 암기까지 영어 실력을
 categories:
 - 영어
 - 학습법
-featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0347_8oKqnIcNgK8.jpg"
 tags:
 - 영어
 - 듣기

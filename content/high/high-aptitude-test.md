@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 적성고사 완전 정복 가이드. 언어/수리/영어 영역별 유형 분석과 실전 전략. 단기간 점수 향상 노하우."
 tags: ["적성고사", "적성고사준비", "대입적성", "언어영역", "수리영역", "적성전략", "적성유형", "적성문제"]
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 ---
 
 ## 적성고사는 어떻게 준비해야 하나요? 시간이 너무 촉박해서 막막해요.

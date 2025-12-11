@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0080_wwy-z7NPTTM.jpg"
 ---
 
 ## 오답 노트를 만들어야 한다는데, 틀린 문제 그냥 베끼기만 하면 되는 건가요? 어떻게 활용해야 효과가 있어요?

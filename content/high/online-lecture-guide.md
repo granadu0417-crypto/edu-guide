@@ -13,7 +13,7 @@ tags:
 - 온라인학습
 - 학습가이드
 - 학원
-featured_image: "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0881_c4vUTnU7Q3o.jpg"
 ---
 ## 인강만 듣고 있는데 성적이 안 올라요. 제가 뭘 잘못하고 있는 걸까요?
 

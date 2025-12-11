@@ -9,7 +9,7 @@ regions:
 cities:
   - 화성시
 tags: ["화성교육", "화성학원", "화성과외", "동탄학원가", "동탄교육"]
-featured_image: "https://images.unsplash.com/photo-1556155092-8707de31f9c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0242_UlHSF20AHu0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -114,6 +114,14 @@ sitemap:
 **Q. 교육비를 절감하는 방법이 있나요?**
 
 온라인 학습을 병행하고, 과목별 우선순위를 정해 꼭 필요한 곳에 집중 투자하는 것이 좋습니다. 그룹 과외를 활용하면 비용을 줄일 수 있습니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
 
 ## 마무리
 

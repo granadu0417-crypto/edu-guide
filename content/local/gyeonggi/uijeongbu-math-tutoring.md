@@ -9,7 +9,7 @@ regions:
 cities:
   - 의정부시
 tags: ["의정부수학과외", "의정부초등수학", "의정부중등수학", "의정부고등수학", "경기수학과외", "경기북부수학"]
-featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0273_t3oZpcij_O4.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

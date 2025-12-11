@@ -17,7 +17,7 @@ tags:
   - 중등과외
   - 내신관리
   - 수능대비
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0858_KHq-VVh9C8w.jpg"
 ---
 
 ## 서초구 과외 안내

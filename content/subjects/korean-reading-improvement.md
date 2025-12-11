@@ -16,11 +16,11 @@ tags:
 - 국어공부
 - 비문학
 - 기초
-featured_image: "https://images.unsplash.com/photo-1639064607632-d75ce59c3d4b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0430_FovL46JCjdk.jpg"
 draft: false
 ---
 
-![독서하는 학생](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop)
+![독서하는 학생](/images/edu_0301_NwM9eZzpBPM.jpg)
 *체계적인 독해력 훈련이 모든 과목 성적을 올립니다*
 
 ## 왜 독해력이 중요한가?
@@ -153,7 +153,7 @@ draft: false
 - 다른 관점은 없는가?
 - 나는 동의하는가?
 
-![독해 전략](https://images.unsplash.com/photo-1456735190827-d1262f71b8a9?w=800&h=400&fit=crop)
+![독해 전략](/images/edu_0302_PIOBX4_B9XU.jpg)
 *5단계 전략을 차근차근 밟아가세요*
 
 {{< cta-consultation message="체계적인 독해력 향상 프로그램이 필요하신가요?" >}}

@@ -9,7 +9,7 @@ regions:
 cities:
   - 수원시
 tags: ["수원과학과외", "매산로과학과외", "수원물리과외", "수원화학과외", "수원생명과학과외", "영통과외"]
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0270_dUEys4mnoK4.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

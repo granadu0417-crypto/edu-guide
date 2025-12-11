@@ -13,7 +13,7 @@ tags:
 - 조건문
 - ifonly
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0417_ObTfaF2hngw.jpg"
 ---
 
 ## 가정법 과거와 과거완료를 헷갈리시죠? I wish 용법이 복잡하다고요.

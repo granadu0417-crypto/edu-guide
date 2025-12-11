@@ -13,7 +13,7 @@ tags:
 - 설득
 - 화법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1596496050755-c923e73e42e1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0440_wJ7yGwz2-00.jpg"
 ---
 
 ## 발표만 하면 긴장되고 말이 안 나온다고요? 체계적인 훈련으로 자신감을 키울 수 있습니다.

@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 ---
 
 ## 과학은 실험이 많은데, 과외로 실험은 어떻게 배우나요?

@@ -13,7 +13,7 @@ tags:
 - idiom
 - 관용표현
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1616088410192-e96ff9361f0c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0379_cXjcd98U4mY.jpg"
 ---
 
 ## kick the bucket이 양동이를 차다가 아니라고요? 단어는 아는데 문장이 이해가 안 되시죠.

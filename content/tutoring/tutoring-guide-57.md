@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0995_L5WJmPsFkHg.jpg"
 ---
 
 ## 과외를 하는데 진도가 들쭉날쭉해요. 체계적으로 관리하려면 어떻게 해야 하나요?

@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0951_5I6SeQJejm8.jpg"
 ---
 
 ## 과외를 받는데 진도만 나가고 실력이 안 오르는 것 같아요. 진도 관리를 어떻게 해야 하나요?

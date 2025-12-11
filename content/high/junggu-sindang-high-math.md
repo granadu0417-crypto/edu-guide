@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0768_FgZQjlIs8qk.jpg"
 ---
 
 수학 공식은 많이 외웠는데 활용이 안 된다면? 개념의 연결고리를 파악해야 합니다.

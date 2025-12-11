@@ -13,7 +13,7 @@ tags:
 - conversation
 - speaking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0400_dGxOgeXAXm8.jpg"
 ---
 
 ## 영어 전화만 오면 심장이 뛰시죠? 뭐라고 받아야 할지 모르겠다고요.

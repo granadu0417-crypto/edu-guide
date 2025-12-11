@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어 토론 과외로 디베이트 실력을 체계적으로 향상시키는 방법. 논리적 사고, 설득력, 영어 스피킹까지 한번에 잡는 학습 전략"
 tags: ["영어토론과외", "디베이트과외", "영어스피킹", "논리적사고", "설득력", "영어말하기", "토론학습", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 ---
 
 ## 영어로 토론해야 하는데 어떻게 준비해야 할지 막막하다고요? 말은 하고 싶은데 영어로 논리적으로 표현하는 게 어렵다고 느끼시죠.

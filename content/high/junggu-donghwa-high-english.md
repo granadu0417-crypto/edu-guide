@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0749_r_m-JKJVto0.jpg"
 ---
 
 듣기는 잘하는데 독해에서 점수를 잃는다면? 영역별 균형이 필요합니다.

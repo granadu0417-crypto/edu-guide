@@ -13,7 +13,7 @@ tags:
 - 자기주도학습
 - 중3학년
 - 중등교육
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0928_w-T1VDxb6io.jpg"
 ---
 ## 중3 1년, 어떻게 보내야 후회가 없을까요?
 

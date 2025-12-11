@@ -8,7 +8,7 @@ regions:
 cities:
   - 동대문구
 tags: ["동대문구", "영어과외", "답십리", "휘경동", "이문동", "영어", "과외", "한국외대", "영어회화", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 ---
 
 "한국외대가 있으니까 영어 선생님 찾기 쉽겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=
 맞습니다.
 솔직히 말씀드리면, **동대문구는 영어과외 하기에 최적의 환경**입니다. 한국외대 영문과, 통번역대학원 출신 선생님을 만나기 좋아요.
 
-![동대문구 영어과외](https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=600&fit=crop)
+![동대문구 영어과외](/images/edu_0885_cpborMPOnHw.jpg)
 
 ## 동대문구 영어 교육, 어떤 특징이 있나요?
 

@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0094_f1YfrZ1o2r8.jpg"
 ---
 
 ## 아이가 공부를 왜 해야 하는지 모르겠대요. 어떻게 동기를 심어줄 수 있을까요?

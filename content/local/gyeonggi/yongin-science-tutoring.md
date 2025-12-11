@@ -9,7 +9,7 @@ regions:
 cities:
   - 용인시
 tags: ["용인과학과외", "수지과학과외", "기흥과학과외", "용인물리과외", "용인화학과외", "용인생명과학과외"]
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0279_1NyLgQ8QfgQ.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

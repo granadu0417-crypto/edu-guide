@@ -9,7 +9,7 @@ regions:
 cities:
   - 화성시
 tags: ["화성영어과외", "동탄영어과외", "화성초등영어", "화성중등영어", "화성고등영어", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0243_M6EjyS2K7tU.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

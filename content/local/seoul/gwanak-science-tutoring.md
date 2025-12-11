@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["관악구", "과학과외", "신림동", "봉천동", "물리", "화학", "생명과학", "지구과학", "서울대", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 ---
 
 "서울대 과학 전공자에게 직접 과외를 받을 수 있나요?"

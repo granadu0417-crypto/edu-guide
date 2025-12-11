@@ -8,7 +8,7 @@ regions:
 cities:
   - 은평구
 tags: ["은평구", "영어과외", "불광동", "응암동", "녹번동", "영어", "과외", "영어회화", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0315_qnt0fP8Uphw.jpg"
 ---
 
 "은평구는 교육 인프라가 약한 거 아니에요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=
 그렇게 생각하실 수 있어요.
 하지만 **불광동 학원가가 생각보다 탄탄합니다.** 주거 환경도 안정적이어서 장기적인 학습에 좋아요.
 
-![은평구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![은평구 영어과외](/images/edu_0266_0pjqSMqYlyU.jpg)
 
 ## 은평구 영어 교육, 어떤 특징이 있나요?
 

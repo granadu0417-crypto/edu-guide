@@ -8,7 +8,7 @@ regions:
 cities:
   - 강북구
 tags: ["강북구", "영어과외", "수유동", "미아동", "번동", "영어", "과외", "국민대", "성신여대", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 ---
 
 "강북구에서 영어 잘하는 선생님 만나기 어렵겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=
 그렇게 생각하실 수 있어요.
 하지만 **국민대·성신여대가 가까워서 영어 전공 선생님 찾기 좋습니다.** 수유리 학원가도 꽤 탄탄해요.
 
-![강북구 영어과외](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=600&fit=crop)
+![강북구 영어과외](/images/edu_0268_bdB7uddLq5o.jpg)
 
 ## 강북구 영어 교육, 어떤 특징이 있나요?
 

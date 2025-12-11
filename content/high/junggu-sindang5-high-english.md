@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0769_hMGhFaFMG2I.jpg"
 ---
 
 어휘는 외웠는데 글에서 못 알아본다면? 문맥 속 단어 학습이 필요합니다.

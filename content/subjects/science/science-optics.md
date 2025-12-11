@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0622_dulf1PvYhVg.jpg"
 ---
 
 ## 반사와 굴절 법칙이 헷갈리고 렌즈 공식이 어렵다고요? 빛의 직진 성질부터 시작하면 됩니다.

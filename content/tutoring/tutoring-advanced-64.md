@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 ---
 
 ## 수학 과외를 오래 했는데 여전히 개념이 부족해요. 개념부터 다시 잡으려면 어떻게 해야 하나요?

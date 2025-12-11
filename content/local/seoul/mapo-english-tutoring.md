@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["마포구", "영어과외", "홍대", "상암", "합정", "공덕", "영어", "과외", "원어민", "내신영어", "수능영어"]
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0347_8oKqnIcNgK8.jpg"
 ---
 
 "홍대에서 원어민 과외를 받으면 회화는 늘겠는데, 입시는 어떻게 하죠?"

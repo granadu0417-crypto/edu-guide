@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "부산시의 학원, 과외, 교육 환경을 완벽 분석합니다. 부산 지역 학부모를 위한 맞춤 교육 정보를 제공합니다."
 tags: ["부산교육", "부산학원", "부산과외", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1631558541236-22f0d70e9e18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0180_HZhPIqXdwYI.jpg"
 ---
 
 ## 부산에서 아이 교육 어떻게 시작해야 할까요? 서울과 비교해서 교육 환경이 많이 다른가요?

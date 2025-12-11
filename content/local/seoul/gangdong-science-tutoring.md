@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["강동구", "과학과외", "천호동", "명일동", "고덕동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0322_t4AttMseigU.jpg"
 ---
 
 "물리는 수식이 어렵고, 화학은 개념이 복잡한데 어떻게 해야 할까요?"

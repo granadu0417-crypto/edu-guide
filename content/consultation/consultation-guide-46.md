@@ -12,7 +12,7 @@ tags:
 - 집중력
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0068_4-4WPFLVhAY.jpg"
 ---
 
 ## 책상에 앉으면 딴 생각이 먼저 나요. 집중하려고 해도 금방 다른 곳으로 빠져요.

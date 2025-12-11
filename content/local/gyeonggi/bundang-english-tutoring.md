@@ -9,7 +9,7 @@ regions:
 cities:
   - 성남시
 tags: ["분당영어과외", "분당초등영어", "분당중등영어", "분당고등영어", "8학군영어", "판교영어과외"]
-featured_image: "https://images.unsplash.com/photo-1641154748135-8032a61a3f80?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0222_7QS66DABjjM.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

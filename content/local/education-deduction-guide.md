@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "교육비 세액공제 완벽 가이드 | 공제 대상자·대상 교육비·공제율·한도·연말정산 신청 방법·증빙 서류·주의사항까지 상세 안내"
 tags: ["교육비공제", "세액공제", "연말정산", "교육비", "학원비공제", "대학등록금", "교복구입비", "취학전아동", "연말정산교육비"]
-featured_image: "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 ---
 
 ## 연말정산에서 교육비 공제 제대로 받고 계신가요? 학원비도 되는지 헷갈리시죠.

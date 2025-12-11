@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0767_Kyx4rL5g7yA.jpg"
 ---
 
 영어 지문의 핵심을 빨리 파악하지 못한다면? 문단 구조 분석이 필요합니다.

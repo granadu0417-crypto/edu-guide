@@ -20,7 +20,7 @@ tags:
   - 장원중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0851_e3aA8wXfIPk.jpg"
 
 ---
 ## 중구 신당5동 중학생, 영어 현재분사와 과거분사가 헷갈린다면
@@ -106,6 +106,18 @@ The boring movie와 The bored student에서 boring과 bored의 차이가 무엇�
 **Q. 분사는 왜 형용사처럼 쓰이나요?**
 
 분사는 동사에서 파생되어 명사를 수식하는 형용사 역할을 합니다. a sleeping baby = a baby who is sleeping
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
 
 ## 마무리
 
