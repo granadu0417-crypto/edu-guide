@@ -1,33 +1,6 @@
 ---
-title: "수원시 과외 | 중등·고등 맞춤 과외"
-date: 2025-12-10
-description: "수원시 중등·고등 수학·영어 과외. 수원고, 영통고, 매탄고, 권선고 등 수원시 학교 내신 완벽 대비."
-featured_image: "/images/edu_0330_K0ubXXQqR-E.jpg"
-regions:
-  - 경기도
-cities:
-  - 수원시
-tags:
-  - 수원시과외
-  - 수원시수학과외
-  - 수원시영어과외
-aliases:
-  - /local/gyeonggi/suwon-education-guide/
-  - /local/gyeonggi/suwon-math-tutoring/
-  - /local/gyeonggi/suwon-english-tutoring/
-  - /local/gyeonggi/suwon-science-tutoring/
+title: "수원시 과외"
+date: 2025-01-15
+description: "수원시 전 지역 초중고 과외 정보. 장안구, 권선구, 팔달구, 영통구 지역별 맞춤 과외."
 ---
-
-## 수원시 과외 안내
-
-수원시 지역 학생들을 위한 맞춤형 1:1 과외를 제공합니다. 학교별 내신 특성에 맞춘 체계적인 수업으로 성적 향상을 도와드립니다.
-
-### 수원시 주요 학교
-
-**중학교**: 수원중, 영통중, 매탄중, 권선중, 장안중
-
-**고등학교**: 수원고, 영통고, 매탄고, 권선고, 장안고
-
-### 과외 과목
-
-아래에서 과목별, 학년별 과외 정보를 확인하세요.
+수원시 전 지역 과외 정보를 안내합니다.
