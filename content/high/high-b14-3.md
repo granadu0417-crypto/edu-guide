@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 쓰기
-featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 ---
 ## 논술이 수시 전형 중에서 가장 로또라고 하는데, 정말 그런가요?
 
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=120
 
 풀이 과정을 논리적으로 서술하세요. 답만 쓰면 안 됩니다. 왜 이렇게 풀었는지 설명해야 합니다.
 
-시간 관리가 중요합니다. 보통 2~3문제를 100분 안에 풀어야 합니다. 한 문제에 너무 오래 붙잡히면 안 됩니다.
+시간 관리가 중요합니다. 보통 2-3문제를 100분 안에 풀어야 합니다. 한 문제에 너무 오래 붙잡히면 안 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -111,6 +111,18 @@ featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=120
 **Q. 어떤 대학의 논술이 쉬운가요?**
 
 쉬운 대학은 경쟁률이 높습니다. 자신에게 맞는 유형의 대학을 선택하는 게 중요합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

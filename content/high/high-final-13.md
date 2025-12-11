@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0659_1tFThJ5OD1w.jpg"
 ---
 ## 내신을 잘 받고 싶은데, 학교 시험이 너무 어려워요. 어떻게 대비해야 하죠?
 
@@ -101,7 +101,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 **Q. 내신 몇 등급이면 좋은 건가요?**
 
-목표 대학에 따라 다릅니다. 상위권 대학은 1~2등급, 중상위권은 2~3등급이 필요합니다.
+목표 대학에 따라 다릅니다. 상위권 대학은 1-2등급, 중상위권은 2-3등급이 필요합니다.
 
 **Q. 내신이 안 좋으면 대학 못 가나요?**
 

@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0833_NoFtd1FtntI.jpg"
 
 ---
 ## 중구 을지로동 중학생, 영어 지각동사가 헷갈린다면
@@ -81,9 +81,9 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -105,6 +105,18 @@ see, hear, watch, feel, notice, observe 등이 있습니다. 감각으로 인지
 **Q. 지각동사의 수동태는 어떻게 만드나요?**
 
 목적어가 주어로 가고, 동사원형은 to부정사로 바뀝니다. He saw me go → I was seen to go.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
 
 ## 마무리
 

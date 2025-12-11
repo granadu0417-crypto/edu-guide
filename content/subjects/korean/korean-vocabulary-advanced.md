@@ -10,7 +10,7 @@ tags:
 - 어휘력
 - 어휘
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 ---
 
 ## 어휘력이 부족해서 독해가 안 된다고요? 체계적으로 늘리면 됩니다.
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 **Q. 어휘를 얼마나 외워야 하나요?**
 
-하루에 5~10개씩 꾸준히 익히세요. 양보다 꾸준함이 중요합니다.
+하루에 5-10개씩 꾸준히 익히세요. 양보다 꾸준함이 중요합니다.
 
 **Q. 단어를 외워도 금방 잊어버려요.**
 

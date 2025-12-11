@@ -20,7 +20,7 @@ tags:
   - 대경중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0848_enkc-M8PNhc.jpg"
 
 ---
 ## 중구 필동 중학생, 수학 삼각형의 중점 연결 정리가 어렵다면
@@ -82,9 +82,9 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -106,6 +106,14 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 **Q. 이 정리는 어디에 활용되나요?**
 
 사각형의 성질 증명, 도형의 넓이 계산, 좌표평면에서의 중점 문제 등에 활용됩니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
 
 ## 마무리
 

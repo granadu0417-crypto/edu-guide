@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0839_q2OoPUDGC7E.jpg"
 
 ---
 ## 중구 황학동 중학생, 영어 현재완료진행형이 어렵다면
@@ -81,9 +81,9 @@ I have been waiting for an hour에서 have been waiting은 왜 이렇게 복잡�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -105,6 +105,18 @@ I have been waiting for an hour에서 have been waiting은 왜 이렇게 복잡�
 **Q. 상태동사도 진행형으로 쓸 수 있나요?**
 
 일반적으로 know, have, like 같은 상태동사는 진행형으로 잘 안 씁니다. 하지만 의미에 따라 예외도 있습니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

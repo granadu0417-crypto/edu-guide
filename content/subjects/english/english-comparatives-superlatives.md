@@ -2,7 +2,7 @@
 title: 비교급·최상급 완벽 활용 | 1:1 문법 과외
 date: 2025-01-29
 reading_time: 160줄
-description: 영어 비교급·최상급 완벽 정복 | -er/-est, more/most, as~as 구문, 1:1 맞춤 문법 지도 [2025년]
+description: 영어 비교급·최상급 완벽 정복 | -er/-est, more/most, as-as 구문, 1:1 맞춤 문법 지도 [2025년]
 categories:
 - 영어
 tags:
@@ -11,7 +11,7 @@ tags:
 - 비교급
 - 최상급
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0357_Y8TiLvKnLeg.jpg"
 ---
 
 ## -er과 more 중 뭘 써야 하는지 모르겠다고요? the 비교급, the 비교급이 무슨 뜻인지 헷갈린다고요.
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=
 
 ## 비교급 구문
 
-A is -er than B는 A가 B보다 더 ~하다입니다. She is taller than me처럼 씁니다. 비교급 강조에는 much, even, still, far, a lot을 씁니다. She is much taller than me는 훨씬 더 크다입니다. 배수 표현은 배수 + as ~ as B입니다. This is twice as big as that은 2배 크기입니다.
+A is -er than B는 A가 B보다 더 -하다입니다. She is taller than me처럼 씁니다. 비교급 강조에는 much, even, still, far, a lot을 씁니다. She is much taller than me는 훨씬 더 크다입니다. 배수 표현은 배수 + as - as B입니다. This is twice as big as that은 2배 크기입니다.
 
 {{< cta-dual type="final" >}}
 
@@ -45,7 +45,7 @@ A is -er than B는 A가 B보다 더 ~하다입니다. She is taller than me처�
 
 ## 최상급과 원급 비교
 
-최상급은 the -est 또는 the most를 씁니다. She is the tallest in her class는 반에서 가장 크다입니다. 범위 표현으로 in + 장소, of + 복수를 씁니다. 원급 비교 as ~ as는 만큼 ~하다입니다. She is as tall as me는 나만큼 크다입니다. 부정은 not as ~ as로 만큼 ~하지 않다입니다.
+최상급은 the -est 또는 the most를 씁니다. She is the tallest in her class는 반에서 가장 크다입니다. 범위 표현으로 in + 장소, of + 복수를 씁니다. 원급 비교 as - as는 만큼 -하다입니다. She is as tall as me는 나만큼 크다입니다. 부정은 not as - as로 만큼 -하지 않다입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -54,7 +54,7 @@ A is -er than B는 A가 B보다 더 ~하다입니다. She is taller than me처�
 
 ## 비교급 관용표현
 
-the 비교급, the 비교급은 ~하면 할수록 더 ...하다입니다. The more you study, the better you'll do는 더 많이 공부할수록 더 잘할 것이다입니다. 비교급 and 비교급은 점점 더 ~한입니다. It's getting colder and colder는 점점 더 추워지고 있다입니다.
+the 비교급, the 비교급은 -하면 할수록 더 ...하다입니다. The more you study, the better you'll do는 더 많이 공부할수록 더 잘할 것이다입니다. 비교급 and 비교급은 점점 더 -한입니다. It's getting colder and colder는 점점 더 추워지고 있다입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

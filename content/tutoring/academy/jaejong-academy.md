@@ -14,7 +14,7 @@ tags:
 - 대치동학원
 description: 재종 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 검증된 학원 정보와 1:1 과외 병행 전략을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0747_ElM2sQGkRjQ.jpg"
 reading_time: 160줄
 ---
 
@@ -106,6 +106,14 @@ reading_time: 160줄
 **Q. 과외가 꼭 필요한가요?**
 
 추천합니다. 약점 과목 집중 보완과 멘토링에 과외가 효과적입니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
 
 ## 마무리
 

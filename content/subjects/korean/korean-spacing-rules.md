@@ -10,7 +10,7 @@ tags:
 - 띄어쓰기
 - 문법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0493_O0T1SIgHAfM.jpg"
 ---
 
 ## 띄어쓰기가 너무 어렵고 자꾸 틀린다고요? 원칙을 알면 헷갈리지 않습니다.

@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 ---
 
 ## 학원, 숙제, 인강까지 할 게 너무 많은데, 시간이 모자라요. 어떻게 관리해야 할까요?
@@ -69,7 +69,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 **Q. 계획을 세워도 못 지키면 어떡하나요?**
 
-처음엔 50~60%만 지켜도 성공입니다. 점점 늘려가세요. 너무 빡빡하게 짜면 실패합니다.
+처음엔 50-60%만 지켜도 성공입니다. 점점 늘려가세요. 너무 빡빡하게 짜면 실패합니다.
 
 **Q. 자투리 시간 활용이 정말 도움이 되나요?**
 

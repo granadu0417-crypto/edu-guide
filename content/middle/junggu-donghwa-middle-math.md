@@ -20,7 +20,7 @@ tags:
   - 대경중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0832_sn8Pbp_X0wE.jpg"
 
 ---
 ## 중구 동화동 중학생, 수학 근사값과 유효숫자가 헷갈린다면
@@ -82,9 +82,9 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -106,6 +106,14 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 **Q. 오차의 한계란 무엇인가요?**
 
 근사값과 참값의 차이의 최댓값입니다. 반올림한 근사값의 오차의 한계는 마지막 자리의 절반입니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

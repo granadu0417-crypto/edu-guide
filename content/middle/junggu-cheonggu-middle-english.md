@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0827_BUiSpTOqM14.jpg"
 
 ---
 ## 중구 청구동 중학생, 영어 의문사가 헷갈린다면
@@ -81,9 +81,9 @@ Who와 Whom은 어떻게 다르고, How come 뒤에는 왜 어순이 안 바뀌�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -105,6 +105,18 @@ How old(나이), How many(수), How much(양), How long(기간/길이), How far(
 **Q. 간접의문문의 어순은요?**
 
 의문사 + 주어 + 동사 순서입니다. I don't know where he lives. (그가 어디 사는지 모르겠어)처럼 평서문 어순이 됩니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

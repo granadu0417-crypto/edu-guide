@@ -14,7 +14,7 @@ tags:
 - 극한
 - 기하
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0528_m6SdXgCMXvA.jpg"
 ---
 
 ## 극한이랑 미분이 도대체 뭔지 감이 안 잡힌다고요? 이과 수학이 너무 어려워서 포기하고 싶다고 느끼시죠.

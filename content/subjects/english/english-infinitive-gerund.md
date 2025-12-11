@@ -15,7 +15,7 @@ tags:
 - infinitive
 - gerund
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 ---
 
 ## to V와 V-ing 중 뭘 써야 하는지 모르겠다고요? remember to call과 remember calling이 다르다는데 헷갈리시죠.
@@ -58,7 +58,7 @@ remember to V는 할 것을 기억하다(미래)이고, remember V-ing는 한 �
 
 ## 관용표현
 
-look forward to V-ing는 기대하다입니다. 여기서 to는 전치사라서 동명사가 옵니다. be used to V-ing도 마찬가지입니다. too ~ to V는 너무 ~해서 못하다, enough to V는 ~할 만큼 충분히입니다. cannot help V-ing는 하지 않을 수 없다입니다.
+look forward to V-ing는 기대하다입니다. 여기서 to는 전치사라서 동명사가 옵니다. be used to V-ing도 마찬가지입니다. too - to V는 너무 -해서 못하다, enough to V는 -할 만큼 충분히입니다. cannot help V-ing는 하지 않을 수 없다입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -78,6 +78,46 @@ to V는 하기 위해 멈추다, V-ing는 하는 것을 멈추다입니다. 의�
 **Q. look forward to 뒤에 왜 V-ing를 쓰나요?**
 
 여기서 to는 전치사입니다. 전치사 뒤에는 명사(동명사)가 옵니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

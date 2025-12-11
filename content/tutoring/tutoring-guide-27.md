@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 ---
 
 ## 과학은 실험이 중요한데, 과외로 실험을 어떻게 대체하나요?
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 **Q. 과학 과외 주 몇 회가 좋나요?**
 
-주 1~2회면 충분합니다. 과학 한 과목만 하면 주 1회, 여러 과목 하면 주 2회가 적당합니다.
+주 1-2회면 충분합니다. 과학 한 과목만 하면 주 1회, 여러 과목 하면 주 2회가 적당합니다.
 
 **Q. 실험을 직접 안 해도 되나요?**
 

@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 ---
 
 ## 시대별 경제 제도가 헷갈리고 경제 발전 과정이 복잡하다고요? 생산 방식의 변화부터 따라가면 됩니다.

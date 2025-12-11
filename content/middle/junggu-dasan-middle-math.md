@@ -19,7 +19,7 @@ tags:
 - 장충중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0830_hHL08lF7Ikc.jpg"
 
 ---
 ## 중구 다산동 중학생, 수학 표본조사가 어렵다면
@@ -81,9 +81,9 @@ featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -105,6 +105,14 @@ featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=
 **Q. 표본평균으로 모평균을 어떻게 추정하나요?**
 
 표본평균은 모평균의 추정값입니다. 표본의 크기가 클수록 모평균에 가까워집니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

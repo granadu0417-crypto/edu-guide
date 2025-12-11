@@ -11,7 +11,7 @@ tags:
 - 학습상담
 - 학습전략
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0937_LLfRMRT-9AY.jpg"
 ---
 
 ## 과외비를 많이 쓰는데 성적이 제자리예요. 어떻게 하면 과외 효과를 최대로 볼 수 있나요?

@@ -15,7 +15,7 @@ tags:
 - 시대
 - 흐름
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 ---
 
 ## 세계사 연표가 너무 방대하고 연도 암기가 어렵다고요? 시대별 핵심 사건부터 정리하면 됩니다.

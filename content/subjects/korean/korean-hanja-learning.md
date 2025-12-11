@@ -11,7 +11,7 @@ tags:
 - 한문
 - 사자성어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0457_5KPA4nFtHbU.jpg"
 ---
 
 ## 한자가 너무 많아서 외우기 힘들다고요? 효율적인 암기 방법이 있습니다.
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 **Q. 한자를 몇 개나 알아야 하나요?**
 
-기초 한자 200~500자를 알면 대부분의 한자어를 이해할 수 있습니다.
+기초 한자 200-500자를 알면 대부분의 한자어를 이해할 수 있습니다.
 
 **Q. 한자 공부가 국어에 정말 도움이 되나요?**
 

@@ -13,7 +13,7 @@ tags:
 - 입학
 - speaking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 ---
 
 ## 영어 면접 시작만 하면 머리가 하얘진다고요? Tell me about yourself부터 막히시죠.
@@ -27,7 +27,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 ## 필수 질문과 답변 전략
 
-Tell me about yourself는 가장 중요한 질문입니다. 현재 상황, 과거 경험, 미래 목표 순서로 2~3분 내로 답변합니다. Why do you want to work here는 회사 조사가 필수입니다. 회사의 강점과 본인의 적합성을 연결하세요. What are your strengths는 구체적 예시와 함께 2~3가지를 말합니다. What are your weaknesses는 개선 노력을 강조하세요.
+Tell me about yourself는 가장 중요한 질문입니다. 현재 상황, 과거 경험, 미래 목표 순서로 2-3분 내로 답변합니다. Why do you want to work here는 회사 조사가 필수입니다. 회사의 강점과 본인의 적합성을 연결하세요. What are your strengths는 구체적 예시와 함께 2-3가지를 말합니다. What are your weaknesses는 개선 노력을 강조하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -47,7 +47,7 @@ STAR는 Situation, Task, Action, Result의 약자입니다. 상황을 설명하�
 
 ## 면접 당일 준비
 
-10~15분 일찍 도착하세요. 정장을 깔끔하게 입고 단정한 인상을 줍니다. 아이컨택을 유지하고 자신감 있는 목소리로 말하세요. 질문을 못 들었으면 Could you please repeat that이라고 정중하게 요청합니다. 모르는 질문은 솔직하게 Let me think about that이라고 말하고 시간을 버세요.
+10-15분 일찍 도착하세요. 정장을 깔끔하게 입고 단정한 인상을 줍니다. 아이컨택을 유지하고 자신감 있는 목소리로 말하세요. 질문을 못 들었으면 Could you please repeat that이라고 정중하게 요청합니다. 모르는 질문은 솔직하게 Let me think about that이라고 말하고 시간을 버세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>

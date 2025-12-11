@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0835_h_nWAOzgq3E.jpg"
 
 ---
 ## 중구 광희동 중학생, 영어 분사구문이 어렵다면
@@ -81,9 +81,9 @@ Walking down the street, I saw my friend에서 Walking이 왜 문장 앞에 오�
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -100,11 +100,23 @@ Walking down the street, I saw my friend에서 Walking이 왜 문장 앞에 오�
 
 **Q. 분사구문은 어떤 의미를 나타내나요?**
 
-시간(~할 때), 이유(~이므로), 조건(~하면), 양보(~이지만), 동시동작(~하면서) 등을 나타냅니다. 문맥에 따라 해석합니다.
+시간(-할 때), 이유(-이므로), 조건(-하면), 양보(-이지만), 동시동작(-하면서) 등을 나타냅니다. 문맥에 따라 해석합니다.
 
 **Q. 분사구문의 부정은요?**
 
 분사 앞에 not이나 never를 붙입니다. Not knowing what to do, I just waited.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
 
 ## 마무리
 

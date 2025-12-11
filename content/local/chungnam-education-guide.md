@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "충남도의 교육 환경을 완벽 분석합니다. 천안·아산 학원가부터 대전·세종 접근성, 온라인 교육 전략까지 충남 지역 맞춤 교육 정보를 제공합니다."
 tags: ["충남교육", "충남학원", "충남과외", "천안학원", "천안과외", "아산과외", "대전접근성", "세종접근성", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 ---
 
 ## 충남에서 아이 교육 어떻게 시작해야 하나요? 천안이나 아산은 괜찮은데 다른 지역은 학원이 부족한 것 같아요.

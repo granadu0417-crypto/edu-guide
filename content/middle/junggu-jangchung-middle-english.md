@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0841_mESBBxizd4c.jpg"
 
 ---
 ## 중구 장충동 중학생, 영어 관계대명사의 계속적 용법이 어렵다면
@@ -81,9 +81,9 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -105,6 +105,22 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 **Q. which가 문장 전체를 받을 수 있나요?**
 
 네, 계속적 용법에서 which는 앞 문장 전체를 선행사로 받을 수 있습니다. He passed the exam, which made me happy.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0828_ImRm8T6DNTc.jpg"
 
 ---
 ## 중구 청구동 중학생, 수학 대푯값과 산포도가 헷갈린다면
@@ -81,9 +81,9 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -105,6 +105,14 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 **Q. 표준편차의 의미는요?**
 
 자료가 평균에서 평균적으로 얼마나 떨어져 있는지를 나타냅니다. 단위가 원래 자료와 같아서 해석이 쉽습니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 꾸준히 3개월 이상 수업하면 확실한 성적 향상을 기대할 수 있습니다.
+
+**Q. 다른 학생과 함께 수업해도 되나요?**
+
+소그룹 수업도 가능합니다. 비슷한 수준의 친구와 함께 하면 비용도 절약하고 경쟁 효과도 있습니다.
 
 ## 마무리
 

@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0073_kcT-7cirBEw.jpg"
 ---
 
 ## 아이 공부를 도와주고 싶은데, 어디서부터 어떻게 해야 할지 모르겠어요. 괜히 건드렸다가 더 망칠까 봐요.

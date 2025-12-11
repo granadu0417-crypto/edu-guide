@@ -14,7 +14,7 @@ tags:
 - 독해력
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 ---
 ## 국어 등급이 안 나와요. 비문학도 어렵고 문학도 어렵고 다 어려워요.
 
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 비문학은 30분입니다. 세 지문에 각 10분씩 배분합니다. 시간이 오래 걸리는 지문은 건너뛰고 나중에 풉니다.
 
-문학은 25분입니다. 네 작품에 각 6~7분씩 배분합니다. 익숙한 작품이 나오면 빠르게 풀 수 있습니다.
+문학은 25분입니다. 네 작품에 각 6-7분씩 배분합니다. 익숙한 작품이 나오면 빠르게 풀 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -115,6 +115,14 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 **Q. 문학 작품을 다 외워야 하나요?**
 
 외울 필요 없습니다. 분석하는 방법을 익히면 처음 보는 작품도 풀 수 있습니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
 
 ## 마무리
 

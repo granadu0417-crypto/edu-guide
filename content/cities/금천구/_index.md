@@ -17,7 +17,7 @@ tags:
   - 중등과외
   - 내신관리
   - 수능대비
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0865_WnTlsTV1mVE.jpg"
 ---
 
 ## 금천구 고등학생 과외 안내
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 ## 동별 고등 과외 안내
 
-### 독산동 (독산1동~독산4동)·가산동
+### 독산동 (독산1동-독산4동)·가산동
 
 **독산고** 학생들이 거주하는 지역입니다.
 
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 - [독산4동 고등 영어과외](/high/geumcheon-doksan4-high-english/)
 - [가산동 고등 영어과외](/high/geumcheon-gasan-high-english/)
 
-### 시흥동 (시흥1동~시흥5동)
+### 시흥동 (시흥1동-시흥5동)
 
 **금천고, 문일고, 동일여고** 학생들이 거주하는 지역입니다.
 
@@ -116,8 +116,6 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 - [시흥3동 중등 영어과외](/middle/geumcheon-siheung3-middle-english/)
 - [시흥4동 중등 영어과외](/middle/geumcheon-siheung4-middle-english/)
 - [시흥5동 중등 영어과외](/middle/geumcheon-siheung5-middle-english/)
-
-
 ## 금천구 주요 고등학교 안내
 
 ### 독산고등학교
@@ -131,8 +129,6 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 ### 문일고등학교·동일여자고등학교
 
 문일고와 동일여고는 시흥동에 위치한 일반고입니다. 꼼꼼한 내신 대비가 필요합니다.
-
-
 ### 중학교
 
 지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
@@ -144,25 +140,15 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 ## 금천구 과외 비용 안내
 
-### 수학과외
+### 고등학생
 
-**고1~2**: 주1회 25만~35만원, 주2회 42만~58만원
+**고1-2**: 주1회 25만원 - 36만원, 주2회 33만원 - 53만원
 
-**고3**: 주1회 30만~42만원, 주2회 50만~70만원
-
-### 영어과외
-
-**고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
-
-**고3**: 주1회 28만~38만원, 주2회 45만~62만원
+**고3**: 주1회 28만원 - 40만원, 주2회 37만원 - 59만원
 
 ### 중학생
 
-**수학**: 주1회 20만~28만원, 주2회 35만~48만원
-
-**영어**: 주1회 18만~25만원, 주2회 32만~45만원
-
-
+**중학생**: 주1회 22만원 - 32만원, 주2회 29만원 - 47만원
 {{< cta-dual type="final" >}}
 
 ## 마무리

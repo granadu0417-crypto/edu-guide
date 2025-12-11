@@ -8,7 +8,7 @@ regions:
 cities:
   - 구로구
 tags: ["구로구", "수학과외", "가산동", "신도림", "구로동", "수학", "과외", "가산디지털단지", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0333_6CQy1skIbRs.jpg"
 ---
 
 "IT 벨트 구로구에서 좋은 수학 교육 받을 수 있을까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 가산디지털단지 인근은 **논리적 사고력**을 중시하는 IT 업계 학부모가 많습니다.
 그래서 **성과 중심의 효율적인 수학 교육**이 발달했어요.
 
-![구로구 수학과외](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=600&fit=crop)
+![구로구 수학과외](/images/edu_0287_XkKCui44iM0.jpg)
 
 ## 구로구 수학 교육, 어떤 특징이 있나요?
 
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 ### 초등학생 - 수학이랑 친해지는 시간
 
-**저학년(1~3학년): "수학 재밌다!"가 목표**
+**저학년(1-3학년): "수학 재밌다!"가 목표**
 
 이 시기에 무리하게 진도 빼면 수학을 싫어하게 됩니다.
 **놀이처럼 수학을 접하는** 게 최고예요.
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 - 재미있는 수학 학습 경험
 - 자신감 형성
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 수학이 확 어려워집니다.
 미리 **분수, 소수, 도형 개념**을 완벽히 잡아두세요.
@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 - 중등 대비 기초 다지기
 - 학습 습관 확립
 
-초등 수학과외 비용은 주 1회 기준 약 12만원에서 20만원, 주 2회 기준 약 22만원에서 35만원 선입니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원 -  20만원, 주 2회 기준 약 22만원 -  35만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -90,7 +90,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 ### 중학생 - 고등 수학의 기초를 다지는 시기
 
-**중1~중2: 수학의 뼈대를 세우세요**
+**중1-중2: 수학의 뼈대를 세우세요**
 
 중학교 수학을 대충 넘기면 고등 수학이 안 됩니다.
 **방정식과 함수**가 핵심이에요.
@@ -109,7 +109,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 - 고등 학습 패턴 적응
 - 자기주도 학습 능력 배양
 
-중학생 수학과외 비용은 주 1회 기준 약 20만원에서 30만원, 주 2회 기준 약 28만원에서 45만원 선입니다.
+중학생 수학과외 비용은 주 1회 기준 약 20만원 -  30만원, 주 2회 기준 약 28만원 -  45만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -118,7 +118,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 수학은 중등과 차원이 다릅니다.
 개념 하나 놓치면 다음 단원 전체가 안 돼요.
@@ -138,7 +138,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 - 시간 관리 훈련
 - 모의고사 반복 연습
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -233,7 +233,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 **Q. 내신과 수능 중 뭐가 더 중요한가요?**
 
 둘 다 중요하지만 **시기에 따라** 다릅니다.
-- 고1~2: 내신 중심(수시 대비)
+- 고1-2: 내신 중심(수시 대비)
 - 고3: 수능 중심(정시 대비)
 **병행 학습**이 이상적입니다.
 

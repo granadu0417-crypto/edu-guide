@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 ---
 
 ## 시험만 보면 머리가 하얘져요. 평소에는 잘 풀던 문제도 시험장에만 가면 갑자기 기억이 안 나요.

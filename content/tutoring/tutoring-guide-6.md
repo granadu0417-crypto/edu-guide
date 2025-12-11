@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0998_ppeg9hVJvUc.jpg"
 ---
 
 ## 국어 지문을 읽어도 무슨 말인지 모르겠어요. 독해력은 어떻게 키우나요?
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-국어는 주 1~2회로도 충분합니다. 대신 수업 사이에 지문 읽기와 어휘 암기를 꾸준히 해야 합니다.
+국어는 주 1-2회로도 충분합니다. 대신 수업 사이에 지문 읽기와 어휘 암기를 꾸준히 해야 합니다.
 
 **Q. 문학과 비문학 중 뭐가 더 어려워요?**
 

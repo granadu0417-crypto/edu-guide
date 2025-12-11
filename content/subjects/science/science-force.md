@@ -10,7 +10,7 @@ tags:
 - 힘과 운동
 - 물리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0602_xFnsab9WOd4.jpg"
 ---
 
 ## 뉴턴 법칙 적용이 어렵고 힘의 평형 문제가 복잡하다고요? 힘의 개념부터 정리하면 모두 연결됩니다.

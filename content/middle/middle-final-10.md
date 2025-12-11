@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0957_26gnBRnIwPE.jpg"
 ---
 ## 장래희망을 물으면 대답을 못하는 아이, 걱정되시죠?
 

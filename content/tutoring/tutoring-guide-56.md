@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0994_iXq7XedOsGA.jpg"
 ---
 
 ## 과외를 하면 선생님이 다 알아서 해주시는 거 아닌가요? 계획을 따로 세워야 하나요?

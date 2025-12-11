@@ -11,7 +11,7 @@ tags:
 - 실무
 - 직장
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0353_OspMUpCBeqQ.jpg"
 ---
 
 ## 직장에서 영어 이메일을 써야 하는데 어떻게 시작해야 할지 모르겠다고요? 회의에서 영어로 발언하기가 두렵다고요.

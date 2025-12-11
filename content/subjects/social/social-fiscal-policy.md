@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0667_l1-8DyUwhbQ.jpg"
 ---
 
 ## 재정 정책과 통화 정책의 차이가 헷갈리고 경기 조절이 복잡하다고요? 정부 역할의 기본부터 파악하면 됩니다.

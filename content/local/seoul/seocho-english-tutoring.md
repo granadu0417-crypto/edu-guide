@@ -8,7 +8,7 @@ regions:
 cities:
   - 서초구
 tags: ["서초구", "영어과외", "반포동", "서초동", "방배동", "영어", "과외", "영어회화", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 ---
 
 "우리 아이 영어, 회화도 중요하고 내신도 챙겨야 하는데..."
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 서초구 학부모님들이 가장 많이 하시는 고민입니다.
 솔직히 말씀드리면, **둘 다 잡으려면 전략이 필요합니다.**
 
-![서초구 영어과외](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=600&fit=crop)
+![서초구 영어과외](/images/edu_0296_1K9T5YiZ2WU.jpg)
 
 ## 서초구 영어 교육, 뭐가 다를까요?
 
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 
 ### 초등학생 - 영어와 친해지는 시간
 
-**저학년(1~3학년)은 "영어가 재밌다"는 느낌이 목표입니다.**
+**저학년(1-3학년)은 "영어가 재밌다"는 느낌이 목표입니다.**
 
 아직 문법을 따지고 외울 나이가 아닙니다.
 영어 동화책, 노래, 게임을 통해 **자연스럽게 영어에 노출**시키는 게 핵심이에요.
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 영어 거부감 없이 친숙해지기
 - 간단한 회화 표현 익히기
 
-**고학년(4~6학년)부터는 체계가 필요합니다.**
+**고학년(4-6학년)부터는 체계가 필요합니다.**
 
 중등 영어가 확 어려워지거든요. 미리 기초 문법을 잡아두면 중학교 가서 편합니다.
 
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 영작문 기초 다지기
 - 어휘력 확장 (중등 대비)
 
-초등 영어과외 비용은 주 1회 기준 약 12만원에서 22만원, 주 2회 기준 약 25만원에서 38만원 선입니다.
+초등 영어과외 비용은 주 1회 기준 약 12만원 -  22만원, 주 2회 기준 약 25만원 -  38만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 
 ### 중학생 - 고등 영어의 기초를 다지는 시기
 
-**중1~중2: 문법의 뼈대를 세우세요**
+**중1-중2: 문법의 뼈대를 세우세요**
 
 중학교 문법은 고등 영어의 기초입니다.
 이때 대충 넘어가면 고등 가서 독해가 안 됩니다.
@@ -108,7 +108,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 고등 어휘 미리 확장
 - 특목고 준비 (해당 시)
 
-중학생 영어과외 비용은 주 1회 기준 약 22만원에서 32만원, 주 2회 기준 약 29만원에서 47만원 선입니다.
+중학생 영어과외 비용은 주 1회 기준 약 22만원 -  32만원, 주 2회 기준 약 29만원 -  47만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -117,7 +117,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 기초 체력을 키우는 시기**
+**고1-고2: 기초 체력을 키우는 시기**
 
 고등 영어는 중등과 차원이 다릅니다.
 지문 길이도, 어휘 수준도, 문법의 복잡도도 확 올라가요.
@@ -137,7 +137,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 실수 줄이기 (3점짜리 날리면 등급 하락)
 - EBS 연계 지문 분석
 
-고등학생 영어과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 영어과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -235,7 +235,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 주기적 복습 (망각 곡선 활용)
 
 **영어 일기 쓰기**
-- 하루 3~5문장
+- 하루 3-5문장
 - 배운 표현 실제로 써보기
 - 선생님께 첨삭 받기
 

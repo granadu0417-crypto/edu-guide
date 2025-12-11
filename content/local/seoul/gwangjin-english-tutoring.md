@@ -8,7 +8,7 @@ regions:
 cities:
   - 광진구
 tags: ["광진구", "영어과외", "건대입구", "구의동", "자양동", "광장동", "영어", "과외", "건국대", "내신영어", "수능영어", "1:1과외", "영문과"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 ---
 
 "건대 근처라서 대학생 과외 쉽게 구할 수 있다는데, 믿을 만할까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 **건국대 영문과 학생이라고 다 잘 가르치는 건 아니에요.**
 하지만 잘 가르치는 건대 영문과 학생을 만나면? 최고의 선택이 됩니다.
 
-![광진구 영어과외](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=600&fit=crop)
+![광진구 영어과외](/images/edu_0290_Bys31wQcP4Q.jpg)
 
 ## 광진구 영어 교육, 어떤 특징이 있나요?
 
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 ### 초등학생 - 영어랑 친해지는 시간
 
-**저학년(1~3학년): "영어 재밌다!"가 목표**
+**저학년(1-3학년): "영어 재밌다!"가 목표**
 
 이 시기에 문법부터 시작하면 영어를 싫어하게 됩니다.
 **놀이처럼 영어를 접하는** 게 최고예요.
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 노래와 게임으로 흥미 유발
 - 원어민 발음에 충분한 노출
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 영어가 확 어려워집니다.
 미리 **기초 문법과 어휘력**을 잡아두세요.
@@ -80,7 +80,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 영작문 기초 다지기
 - 중등 대비 어휘력 확장
 
-초등 영어과외 비용은 주 1회 기준 약 12만원에서 22만원, 주 2회 기준 약 25만원에서 38만원 선입니다.
+초등 영어과외 비용은 주 1회 기준 약 12만원 -  22만원, 주 2회 기준 약 25만원 -  38만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -89,7 +89,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 ### 중학생 - 입시 영어의 기초를 다지는 시기
 
-**중1~중2: 영어 실력의 뼈대를 세우세요**
+**중1-중2: 영어 실력의 뼈대를 세우세요**
 
 중학교 영어를 대충 넘기면 고등 영어가 안 됩니다.
 **문법과 독해**가 핵심이에요.
@@ -109,7 +109,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 내신과 수능 영어 차이 이해
 - 특목고 대비(희망시)
 
-중학생 영어과외 비용은 주 1회 기준 약 22만원에서 32만원, 주 2회 기준 약 30만원에서 48만원 선입니다.
+중학생 영어과외 비용은 주 1회 기준 약 22만원 -  32만원, 주 2회 기준 약 30만원 -  48만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -118,7 +118,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 영어는 지문이 길고 어려워집니다.
 **독해 전략**이 필수예요.
@@ -138,7 +138,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 시간 관리와 실수 최소화
 - 최신 출제 경향 파악
 
-고등학생 영어과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 영어과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -215,7 +215,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 **Q. 건대 영문과 과외 vs 전문 강사, 뭐가 나을까요?**
 
 학생 수준과 목표에 따라 다릅니다.
-- 기초~중급: 건대 영문과 과외도 충분히 효과적
+- 기초-중급: 건대 영문과 과외도 충분히 효과적
 - 최상위권/특수 목표: 전문 강사가 더 적합할 수 있음
 아이의 현재 상황을 고려해서 선택하세요.
 

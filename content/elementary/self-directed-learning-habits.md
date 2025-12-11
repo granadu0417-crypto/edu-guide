@@ -9,7 +9,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0140__PXtCCQ4Dj0.jpg"
 ---
 ## 혼자 공부하라고 하면 책상 앞에서 멍만 때리나요?
 

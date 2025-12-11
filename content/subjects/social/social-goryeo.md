@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0670_AuhmviYMmCE.jpg"
 ---
 
 ## 고려 왕들이 헷갈리고 제도 변화가 복잡하다고요? 건국부터 멸망까지 순서대로 따라가면 됩니다.

@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0837_Vpz_i_tpPiM.jpg"
 
 ---
 ## 중구 회현동 중학생, 영어 수여동사가 헷갈린다면
@@ -33,7 +33,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 ## 수여동사가 어려운 이유
 
-수여동사는 두 개의 목적어를 가지는 동사입니다. 간접목적어(~에게)와 직접목적어(~을)를 가집니다. give, send, show, teach 등이 있습니다. 문제는 3형식으로 바꿀 때 전치사가 다르다는 것입니다.
+수여동사는 두 개의 목적어를 가지는 동사입니다. 간접목적어(-에게)와 직접목적어(-을)를 가집니다. give, send, show, teach 등이 있습니다. 문제는 3형식으로 바꿀 때 전치사가 다르다는 것입니다.
 
 수여동사를 잘 사용하려면 전치사 규칙을 알아야 합니다. give, send, show, teach 등은 to를 쓰고, buy, make, cook 등은 for를 씁니다. 또한 explain, suggest 등은 수여동사가 아니므로 4형식으로 쓸 수 없습니다.
 
@@ -68,7 +68,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 ## 학년별 영어 학습 전략
 
-중1은 기본 문장 구조를 배우는 시기입니다. 1~3형식 문장을 익힙니다. 문장의 기본을 다집니다.
+중1은 기본 문장 구조를 배우는 시기입니다. 1-3형식 문장을 익힙니다. 문장의 기본을 다집니다.
 
 중2는 다양한 문장 형식을 배우는 시기입니다. 4형식, 5형식 문장을 익힙니다. 수여동사와 불완전타동사를 배웁니다.
 
@@ -81,9 +81,9 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -105,6 +105,14 @@ give, send, show, teach, tell 등은 to를 쓰고, buy, make, cook, get 등은 f
 **Q. explain은 수여동사인가요?**
 
 아닙니다. I explained the problem to him은 맞지만, I explained him the problem은 틀립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

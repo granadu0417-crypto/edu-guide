@@ -15,7 +15,7 @@ tags:
 - 사고력훈련
 - 1:1과외
 - 심화학습
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0654_xPHmmVKS8lM.jpg"
 ---
 
 ## 사회 과외로 비판적 사고력 완벽 정복하기
@@ -526,7 +526,7 @@ A(전제) → B(근거) → C(주장)
 
 학년에 맞는 훈련이 중요합니다.
 
-### 중학교 1~2학년
+### 중학교 1-2학년
 
 **학습 목표:**
 - 비판적 사고의 기초 다지기
@@ -766,7 +766,7 @@ A. **비판적 사고가 기반**이 되어야 합니다.
 5. 논리적 전개: 서론-본론-결론 구조화
 
 연습 방법:
-- 주 2~3회 논술 문제 풀이
+- 주 2-3회 논술 문제 풀이
 - 선생님께 첨삭 받기
 - 좋은 답안 분석
 - 반복 수정
@@ -936,11 +936,5 @@ A. **모든 과목과 삶에 필요**합니다.
 지금 바로 무료 상담을 신청하세요.
 
 
-## 📚 관련 가이드
 
-- [사회 시사이슈 과외 | 분석력·토론능력 완벽 대비](/subjects/social/social-current-events/)
-- [사회 지리 과외 | 지형·기후·인구·산업 완벽 탐구](/subjects/social/social-geography-skills/)
-- [사회 역사 과외 | 사료해석·인과관계 완벽 분석](/subjects/social/social-historical-analysis/)
-- [사회 절대왕정 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-absolute-monarchy/)
-- [사회 고대 문명 완벽 가이드 | 1:1 사회 과외 [2025]](/subjects/social/social-ancient-civilizations/)
-
+{{< cta-dual type="final" >}}

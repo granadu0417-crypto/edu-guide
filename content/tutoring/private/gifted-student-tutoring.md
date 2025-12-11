@@ -13,7 +13,7 @@ tags:
 - 노원
 - 의대생과외
 description: 학년·대상별 1:1 과외 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 핵심 전략으로 성공의 길을 열어가세요.
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0881_c4vUTnU7Q3o.jpg"
 reading_time: 160줄
 ---
 
@@ -90,7 +90,7 @@ reading_time: 160줄
 
 **Q. 주 몇 회가 적당한가요?**
 
-주 1~2회가 적당합니다. 심화 내용은 혼자 고민하는 시간도 필요합니다.
+주 1-2회가 적당합니다. 심화 내용은 혼자 고민하는 시간도 필요합니다.
 
 ## 마무리
 

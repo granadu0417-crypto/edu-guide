@@ -13,7 +13,7 @@ tags:
 - 고등영어
 - 수능영어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 ---
 
 ## 문법 개념은 알겠는데 문제에 적용이 안 된다고요? 배운 건 많은데 정리가 안 되시죠.

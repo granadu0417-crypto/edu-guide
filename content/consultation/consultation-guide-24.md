@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 ---
 
 ## 매일 책상에 앉아 있는 시간은 긴데, 진짜 공부한 시간은 얼마 안 되는 것 같아요.
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=
 
 **Q. 습관이 바뀌려면 얼마나 걸리나요?**
 
-일반적으로 21일 정도면 기본 습관이 잡힙니다. 완전히 몸에 배려면 2~3개월 꾸준히 해야 합니다.
+일반적으로 21일 정도면 기본 습관이 잡힙니다. 완전히 몸에 배려면 2-3개월 꾸준히 해야 합니다.
 
 **Q. 스마트폰 때문에 집중을 못 해요.**
 

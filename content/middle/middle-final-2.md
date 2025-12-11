@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0961_QfrTfjHzQIU.jpg"
 ---
 ## 중2가 왜 이렇게 힘들다고 하죠?
 

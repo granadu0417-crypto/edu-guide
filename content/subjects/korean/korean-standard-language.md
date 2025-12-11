@@ -10,7 +10,7 @@ tags:
 - 표준어
 - 문법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0496_VLaKsTkmVhk.jpg"
 ---
 
 ## 표준어 규정이 복잡하고 외울 게 많다고요? 원리를 알면 쉬워집니다.

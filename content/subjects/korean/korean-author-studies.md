@@ -13,7 +13,7 @@ tags:
 - 작가연구
 - 작품세계
 - 문학관
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0432_q10VITrVYUM.jpg"
 ---
 
 ## 작가를 몰라서 작품 해석이 어렵다고요? 작가의 삶을 알면 작품이 보입니다.
@@ -67,7 +67,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 **Q. 작가를 다 외워야 하나요?**
 
-빈출 작가 위주로 외우세요. 시대별 대표 작가 20~30명이면 대부분 커버됩니다.
+빈출 작가 위주로 외우세요. 시대별 대표 작가 20-30명이면 대부분 커버됩니다.
 
 **Q. 작가론은 어떻게 공부하나요?**
 

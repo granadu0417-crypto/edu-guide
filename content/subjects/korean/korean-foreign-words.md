@@ -10,7 +10,7 @@ tags:
 - 외래어
 - 표기법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 ---
 
 ## 외래어 표기가 매번 헷갈린다고요? 몇 가지 원칙만 알면 쉬워집니다.

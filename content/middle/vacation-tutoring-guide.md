@@ -11,7 +11,7 @@ tags:
 - 중등과외
 - 1:1과외
 - 선행학습
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0237_AfSVEnEj4K0.jpg"
 ---
 ## 방학에 놀기만 하면 다음 학기에 무너집니다
 

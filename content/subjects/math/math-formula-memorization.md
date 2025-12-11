@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 공식
 - 과외
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0521_BD6OTAyFG3Y.jpg"
 ---
 
 ## 공식이 너무 많아서 다 못 외우겠다고요? 열심히 외워도 시험 때 생각이 안 나서 답답하시죠.

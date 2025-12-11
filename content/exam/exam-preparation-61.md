@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0203_sa1-uen2UfE.jpg"
 ---
 ## 시험 2주 전인데 아직 정리가 안 됐어요. 과목별로 어떻게 마무리해야 하나요?
 
