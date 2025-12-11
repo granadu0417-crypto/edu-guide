@@ -1,62 +1,83 @@
 ---
-title: "군포시 당정동 고등 수학과외 | 군포고·흥진고·수리고 내신·수능 대비"
+title: "군포시 당정동 고등 수학과외 | 군포고·흥진고·산본고 내신·수능 대비"
 date: 2025-01-15
 categories:
   - 고등교육
 regions:
   - 경기도
   - 군포시
-description: "군포시 당정동 고등학생 수학과외 전문. 군포고 내신과 수능 동시 대비."
+cities:
+  - 군포시
+description: "군포시 당정동 고등학생 수학과외 전문. 군포고 내신과 수능 동시 대비. 개념부터 킬러문항까지 체계적 1:1 지도."
 tags:
   - 군포시
+  - 당정동
   - 당정동
   - 고등수학
   - 수학과외
   - 내신관리
   - 수능대비
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+  - 군포고
+featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
 ---
-수학은 한 번 놓치면 따라잡기 어렵습니다.
-
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-처음 만나면 학생의 강점과 약점을 파악합니다. 맞춤 전략을 세웁니다.
-</div>
-
-## 수학 실력, 왜 중요할까요?
-
-당정동 지역 학생들은 내신 경쟁과 상위 학교 진학을 위해 체계적인 학습이 필요합니다. 학교 시험은 학교별 특성에 맞춰 대비해야 하고, 상위권 성적을 유지하려면 꾸준한 노력이 필요합니다.
-
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
-</div>
-
-## 군포고 내신 시험 분석
-
-군포고은 내신 시험 난이도가 높습니다. 교과서 기본 문제는 물론, 심화 문제와 변형 문제가 출제됩니다. 개념을 깊이 이해하고 다양한 유형에 적용할 수 있어야 합니다.
-
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-시간을 재고 문제를 풉니다. 실전 감각을 기릅니다.
-</div>
-
-## 학원과 과외의 차이
-
-학원에서는 많은 학생을 한꺼번에 가르치다 보니 개인별 약점을 보완하기 어렵습니다. 1:1 과외는 학생의 현재 수준에서 출발하여 약한 부분을 집중적으로 보강합니다.
-
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-단순 암기가 아닌 이해 중심으로 수업합니다. 오래 기억에 남습니다.
-</div>
-
-## 학년별 학습 전략
-
-학년에 따라 학습 전략이 달라져야 합니다. 기초를 다지는 시기와 심화 학습이 필요한 시기, 실전 대비가 필요한 시기를 구분하여 효율적으로 학습해야 합니다.
+수학 성적이 갑자기 떨어졌다면 이유가 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
 진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 정확히 파악한 후 수업을 시작합니다.
+</div>
+
+## 고등학교 수학의 난이도
+
+추상적인 개념을 구체적인 문제에 적용하는 능력이 필요합니다. 이것은 반복적인 연습을 통해 길러집니다.
+
+당정동 지역 군포고 학생들은 높은 내신 경쟁과 수능 준비를 동시에 해야 합니다. 학교 시험은 학교별 특성에 맞춰 대비해야 하고, 수능은 전국 단위 경쟁이므로 또 다른 전략이 필요합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
+</div>
+
+## 시험 범위별 대비 전략
+
+군포고은 내신 시험 난이도가 높습니다. 교과서 기본 문제는 물론, 심화 문제와 변형 문제가 많이 출제됩니다. 단순히 공식을 외워서는 좋은 점수를 받기 어렵고, 개념을 깊이 이해하고 다양한 유형에 적용할 수 있어야 합니다.
+
+시험 시간 대비 문제 양이 많은 편이어서 시간 관리도 중요합니다. 평소 시간을 재고 문제를 푸는 연습을 해야 실전에서 당황하지 않습니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+오답노트를 활용합니다. 같은 실수를 반복하지 않도록 합니다.
+</div>
+
+## 수능 수학 실전 전략
+
+수능 수학은 내신과 출제 방식이 다릅니다. 킬러 문항이라 불리는 21번, 29번, 30번 문제는 여러 개념을 복합적으로 적용해야 풀 수 있습니다. 시간 압박 속에서 정확하게 문제를 푸는 능력이 필요합니다.
+
+수능에서 1등급을 받으려면 킬러 문항 중 최소 1-2개는 맞혀야 합니다. 이를 위해서는 기본 개념이 완벽해야 하고, 다양한 심화 문제를 풀어본 경험이 있어야 합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+정기적으로 학습 상황을 점검합니다. 필요시 수업 방식을 조정합니다.
+</div>
+
+## 1:1 과외가 효과적인 이유
+
+학원에서는 진도에 쫓깁니다. 과외에서는 이해를 우선합니다. 이해가 되어야 다음으로 넘어갑니다.
+
+질문하기 어려운 학생도 1:1 수업에서는 편하게 물어볼 수 있습니다. 이해될 때까지 설명을 듣고, 스스로 문제를 풀어보며 실력을 키울 수 있습니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+개념 → 기본 문제 → 심화 문제 순서로 단계적으로 진행합니다.
+</div>
+
+## 고등학교 단계별 학습
+
+고3은 시간 관리가 핵심입니다. 남은 시간을 어떻게 쓰느냐가 결과를 결정합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+이해가 될 때까지 반복 설명합니다. 넘어가지 않습니다.
 </div>
 
 ## 수업료 안내
@@ -69,26 +90,29 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
+문제를 풀 때 시간을 체크합니다. 시험장에서 당황하지 않도록.
 </div>
 
 {{< cta-dual type="final" >}}
 
 ## 자주 묻는 질문
 
-**Q. 기초가 많이 부족한데 따라갈 수 있을까요?**
+**Q. 내신이 중요한가요, 수능이 중요한가요?**
 
-기초부터 다시 점검하고 필요한 부분을 보강합니다. 기초를 확실히 다진 후 진행합니다.
+수시를 노린다면 내신이, 정시를 노린다면 수능이 더 중요합니다. 목표에 맞게 비중을 조절합니다.
 
-**Q. 내신 시험 대비는 어떻게 하나요?**
+**Q. 중학교 때 수학을 놓쳤는데 가능할까요?**
 
-시험 2-3주 전부터 학교 기출문제와 예상 문제 풀이로 집중 대비합니다.
+기초가 없으면 기초부터 합니다. 급하게 진도 나가지 않고 이해를 우선합니다.
 
-<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
-<strong>이렇게 수업합니다!</strong><br>
-오답노트를 활용합니다. 같은 실수를 반복하지 않도록 합니다.
-</div>
+**Q. 킬러 문항 포기해야 하나요?**
+
+기출 킬러 문항을 분석하고 유사 문제를 반복 훈련합니다.
+
+**Q. 학교별 기출문제로 준비하나요?**
+
+1등급을 위해서는 변형 문제, 심화 문제까지 대비해야 합니다. 빈틈없이 준비합니다.
 
 ## 마무리
 
-당정동 학생 여러분, 변화는 결심에서 시작됩니다. 지금 연락 주세요.
+당정동 학생 여러분, 기다리지 마세요. 지금이 적기입니다.
