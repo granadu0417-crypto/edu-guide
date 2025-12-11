@@ -22,7 +22,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 이메일 작성 목적을 파악합니다. 비즈니스, 유학 지원, 일상 소통 등 상황별 맞춤 표현을 가르칩니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 이메일 기본 구조
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이메일 구조를 템플릿으로 정리합니다. 반복 연습으로 자연스럽게 익히도록 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 격식체와 비격식체
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-격식 수준 판단법을 알려드립니다. 상황별로 적절한 표현을 선택하는 연습을 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 쓰는 비즈니스 표현
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈출 비즈니스 표현을 상황별로 정리합니다. 실전 이메일 작성으로 익숙해지도록 연습합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 주의사항
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 실수 패턴을 점검합니다. 첨삭을 통해 자연스럽고 적절한 표현을 익힙니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -107,5 +107,5 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 작문 수업으로 이메일 작성 실력을 키워드립니다. 첨삭과 피드백으로 자연스러운 표현을 익힙니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>

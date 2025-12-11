@@ -15,7 +15,7 @@ featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 학습 스타일과 관심 분야를 파악합니다. 홈스쿨링 적합성을 함께 판단하고 준비 방향을 안내합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 홈스쿨링의 법적 지위
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-법적 절차와 서류 준비 방법을 안내합니다. 검정고시 준비 로드맵을 함께 설계합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 홈스쿨링의 장단점
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-홈스쿨링 환경 세팅과 일과표 작성을 도와드립니다. 학습 공간과 교육 자료 준비 방법을 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학년별 홈스쿨링 전략
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼을 설계합니다. 검정고시 대비와 수능 준비를 체계적으로 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 사회화와 또래 교류
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-또래 교류 프로그램을 안내합니다. 지역 홈스쿨링 커뮤니티 연결을 도와드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

@@ -10,14 +10,13 @@ tags:
   - 춘천시영어과외
   - 춘천시고등영어
 ---
-
-go to school에서 왜 the가 없는지 헷갈린다면, 무관사력이 필요합니다.
+영어 포기하려고요? 아직 이릅니다.
 
 춘천시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 춘천고, 봉의고, 강원고 시험에서 관사 문제가 자주 출제됩니다. 관사를 쓰지 않는 규칙을 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무관사 규칙을 체계적으로 정리합니다. 기능별 장소, 추상 명사의 무관사를 훈련합니다.
+첫 수업에서 학생과 충분히 대화합니다. 공부 습관과 목표를 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ go to school에서 왜 the가 없는지 헷갈린다면, 무관사력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관사 선택 기준을 정리합니다. 무관사 상황을 집중 훈련합니다.
+공식만 알면 기본 문제는 풉니다. 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ go to school에서 왜 the가 없는지 헷갈린다면, 무관사력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-춘천고, 봉의고 기출에서 관사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ go to school에서 왜 the가 없는지 헷갈린다면, 무관사력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 무관사력을 점진적으로 심화합니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,5 +117,5 @@ go to school에서 왜 the가 없는지 헷갈린다면, 무관사력이 필요�
 
 ## 마무리
 
-춘천시에서 관사가 어렵다면 규칙 훈련이 필요합니다. 감각이 생기면 영어가 쉬워집니다.
+ 학생 여러분, 맞춤 수업, 지금 상담받으세요.
 

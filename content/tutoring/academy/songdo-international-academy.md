@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 커리큘럼을 먼저 파악합니다. IB인지 AP인지, 어떤 과목이 약한지 분석해서 맞춤 전략을 세웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 송도 학원가는 어떤 특징이 있나요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-송도 학원에서 배운 내용을 과외에서 복습하고 심화합니다. 학교 과제와 연결해서 학습 효율을 높입니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## IB와 AP는 어떻게 다른가요?
@@ -51,7 +51,7 @@ AP는 대학 수준의 개별 과목입니다. 원하는 과목만 선택해서 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-IB든 AP든 학생의 커리큘럼에 맞춰 수업합니다. 시험 대비와 함께 학교 과제도 도와드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 어떤 학생에게 학원이 필요한가요?
@@ -74,7 +74,7 @@ IB든 AP든 학생의 커리큘럼에 맞춰 수업합니다. 시험 대비와 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 수업과 학교 과제를 연결해서 효율적으로 공부합니다. 과외에서 부족한 부분을 확실히 잡습니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 국내 대학이랑 해외 대학 중에 뭘 준비해야 하나요?
@@ -87,7 +87,7 @@ IB든 AP든 학생의 커리큘럼에 맞춰 수업합니다. 시험 대비와 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진학 목표에 맞춰 커리큘럼을 구성합니다. 해외든 국내든 필요한 것을 집중 준비합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

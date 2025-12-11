@@ -19,7 +19,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 자료 해석 능력을 먼저 점검합니다. 어떤 유형의 자료에서 막히는지 파악합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 지구과학의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 자료 유형을 접하게 합니다. 자료를 읽는 눈을 키웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 지구과학1 핵심 단원
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단원별 핵심 개념을 정리하고, 출제 빈도가 높은 내용을 집중적으로 다룹니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자료 해석 능력 키우기
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자료 해석 문제를 단계별로 풀어봅니다. 정보 추출 → 분석 → 판단의 과정을 훈련합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평가원 기출을 분석하면서 출제 의도를 파악합니다. 자주 출제되는 유형을 집중 연습합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 현재 수준과 목표에 맞는 학습 계획을 안내드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

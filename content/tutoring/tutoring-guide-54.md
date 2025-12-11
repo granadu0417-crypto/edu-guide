@@ -20,7 +20,7 @@ featured_image: "/images/edu_0992_pXjgGTV-NgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외도 진행합니다. 수준이 비슷한 학생들끼리 하면 충분히 효과가 있습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 그룹 과외와 개인 과외, 뭐가 다른가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0992_pXjgGTV-NgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외 시 학생 수준을 먼저 확인합니다. 너무 차이가 나면 효과가 떨어지기 때문에 조정을 권합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 그룹 과외가 맞는 경우는 언제인가요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0992_pXjgGTV-NgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외 시 번갈아가면서 질문하고, 둘 다 참여하도록 유도합니다. 한 명만 집중하지 않습니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 개인 과외가 맞는 경우는 언제인가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0992_pXjgGTV-NgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황을 보고 그룹과 개인 중 맞는 형태를 추천해 드립니다. 상담 때 말씀해 주세요.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0992_pXjgGTV-NgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹과 개인 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 상황에 맞는 형태를 추천해 드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 마무리

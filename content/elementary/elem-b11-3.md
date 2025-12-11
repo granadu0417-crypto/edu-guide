@@ -21,7 +21,7 @@ featured_image: "/images/edu_0105_R6_QCg7DwKg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 개념을 다양한 방식으로 물어봅니다. 정답보다 풀이 과정을 중요하게 다룹니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0105_R6_QCg7DwKg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 풀고 나면 왜 이 방법을 썼어?라고 물어봅니다. 설명할 수 있으면 진짜 이해입니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0105_R6_QCg7DwKg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 문장제는 그림으로 그려보게 합니다. 상황을 시각화하면 식을 세우기가 쉬워집니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 5학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0105_R6_QCg7DwKg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 왜 틀렸는지 분석합니다. 실수인지, 개념을 모르는지, 유형이 낯선 건지 구분합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0105_R6_QCg7DwKg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-응용 문제 풀이 시간에는 한 유형만 반복하지 않습니다. 다양한 유형을 섞어서 풀게 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 주의사항

@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부끄러워할 필요 없습니다. 어디서부터 모르는지 정확히 파악하고, 거기서부터 시작합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 노베이스면 학원은 안 되나요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 곳부터 시작합니다. 고등학생이어도 중등 과정부터 할 수 있습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 수학은 어디서부터 해야 하나요?
@@ -50,7 +50,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진단 테스트로 어디부터 모르는지 파악합니다. 그 지점부터 차근차근 올라갑니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 영어도 기초부터 가능한가요?
@@ -69,7 +69,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 속도에 맞춥니다. 조급해하지 않고 이해할 때까지 반복합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 얼마나 걸리나요?
@@ -80,7 +80,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장기 계획을 세우고 차근차근 진행합니다. 작은 성취도 함께 기뻐합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문

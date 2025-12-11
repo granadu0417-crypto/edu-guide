@@ -21,7 +21,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 과외 상담에서는 학생의 목표 대학과 전형을 먼저 확인합니다. 내신 위주인지, 수능 위주인지에 따라 전략이 완전히 달라집니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 고등 과외가 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작 전 내신 성적표와 모의고사 성적표를 분석합니다. 어느 쪽에 더 집중해야 하는지 전략을 세워드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 진학 상담은 수시, 정시 전략을 세울 때 필수입니다. 상담을 통해 구체적인 로드맵을 만들 수 있습니다.
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평소에는 수능 대비, 시험 전에는 내신 대비로 탄력적으로 운영합니다. 학생 상황에 맞게 비중을 조절합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 고등 과외에서 가장 중요한 건 뭔가요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 현재 위치에 맞는 맞춤 전략을 함께 세웁니다. 매달 진도와 성적을 점검하고 계획을 조정합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 내신과 수능 병행 전략을 안내합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

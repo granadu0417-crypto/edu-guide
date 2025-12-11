@@ -22,12 +22,11 @@ tags:
   - 화수중
 featured_image: "/images/edu_0020.jpg"
 ---
-
-늦지 않았습니다. 지금 시작하세요. 고양시 덕양구 화정2동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+학교 시험 대비, 제대로 해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기초가 부족한지, 응용이 약한지, 시간 관리가 문제인지 정확히 진단합니다. 원인을 알아야 해결됩니다.
+첫 수업에서 학생의 사고 과정을 점검합니다. 문제를 푸는 방식을 보면 약점이 보입니다.
 </div>
 
 ## 왜 중학교에서 수학이 어려워질까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0020.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 학교 기출 중심으로, 방학에는 선행 학습으로 진행합니다.
+손으로 푸는 과목입니다. 눈으로만 보면 안 됩니다. 직접 써가면서 풀어야 합니다.
 </div>
 
 ## 화수중 시험의 특징과 대비법
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0020.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 틀렸을 때가 배움의 기회입니다. 왜 틀렸는지 깊이 파고듭니다.
+수시와 정시, 어느 쪽에 무게를 둘지에 따라 전략이 달라집니다. 상담을 통해 방향을 정합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0020.jpg"
 
 ## 마무리
 
-수학 때문에 고등학교 걱정이라면, 지금 시작하세요.
+덕양구 학생 여러분, 성적 향상의 시작, 무료 상담으로 첫걸음을 떼세요.

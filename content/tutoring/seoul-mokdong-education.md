@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목동 지역 특성을 고려해서 효율적인 학습 전략을 세워드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 목동 지역 특성은 어떤가요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목동 학원과 과외를 효율적으로 병행하는 방법을 제안해 드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 목동에는 어떤 학원이 있나요?
@@ -50,7 +50,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 부족한 개별 지도를 과외로 보완합니다. 목동 지역 선생님 매칭도 가능합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 내 수준에 맞는 선택은?
@@ -71,7 +71,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목동 지역에 최적화된 학습 전략을 세워드립니다. 학원과 과외 병행 일정도 조율해 드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 학원이랑 과외를 어떻게 병행하나요?
@@ -86,7 +86,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 일정에 맞춰 과외 시간을 조율합니다. 복습 시간까지 고려한 효율적인 계획을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 목동이랑 강남 중에 어디가 나을까요?

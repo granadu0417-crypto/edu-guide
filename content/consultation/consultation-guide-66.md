@@ -22,7 +22,7 @@ featured_image: "/images/edu_0090_ORDz1m1-q0I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 상담에서는 왜 집중이 안 되는지 원인부터 파악합니다. 환경 문제인지, 습관 문제인지, 동기 문제인지 분석하고 해결책을 찾습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 집중력 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0090_ORDz1m1-q0I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중이 안 된다면 학습 상담을 받으세요. 집중력을 키우는 방법을 알려드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 심리 상담은 불안이나 스트레스 때문에 집중이 안 될 때 도움이 됩니다. 진로 상담은 동기가 없어서 집중이 안 될 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0090_ORDz1m1-q0I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 집중 시간을 늘려가는 훈련법을 안내합니다. 5분에서 시작해서 점점 늘려가는 단계별 방법을 알려드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 집중력은 어떻게 키우나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0090_ORDz1m1-q0I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 개인의 집중 패턴을 분석해서 맞춤형 훈련법을 설계합니다. 무리하지 않으면서 집중력을 높여갑니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ ADHD는 전문의 진단이 필요합니다. 의심된다면 먼저 진료를 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력에 대해 더 궁금한 점이 있으시면 문의하세요. 집중하는 방법을 알려드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 마무리

@@ -23,7 +23,7 @@ featured_image: "/images/edu_0535_Yf4c93bRNgc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적분을 미분의 역연산으로 이해시킵니다. 부정적분과 정적분의 차이를 명확히 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 기본 적분 공식
@@ -32,7 +32,7 @@ x의 n 제곱의 적분은 x의 n 더하기 1 제곱 나누기 n 더하기 1 더
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 공식을 완벽히 암기시킵니다. 적분상수를 빠뜨리지 않는 습관을 들입니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 적분 기법
@@ -43,7 +43,7 @@ x의 n 제곱의 적분은 x의 n 더하기 1 제곱 나누기 n 더하기 1 더
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-치환적분과 부분적분을 유형별로 훈련합니다. 어떤 기법을 쓸지 판단하는 연습을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 정적분의 활용
@@ -52,7 +52,7 @@ x의 n 제곱의 적분은 x의 n 더하기 1 제곱 나누기 n 더하기 1 더
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-넓이와 부피 문제를 그림으로 시각화합니다. 부호 처리를 정확히 하는 연습을 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 흔한 실수
@@ -61,7 +61,7 @@ x의 n 제곱의 적분은 x의 n 더하기 1 제곱 나누기 n 더하기 1 더
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 실수를 미리 짚어줍니다. 실수 방지 체크리스트를 만들어 습관화합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -120,6 +120,6 @@ f 괄호 x가 0보다 작은 구간을 따로 처리해야 합니다. 절댓값�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적분 전 범위를 체계적으로 정리합니다. 다양한 유형의 문제로 실전 감각을 키웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 

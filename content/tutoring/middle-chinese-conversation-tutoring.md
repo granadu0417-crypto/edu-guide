@@ -19,7 +19,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 중국어 발음 상태를 먼저 체크합니다. 성조 정확도, 자음과 모음 발음을 점검합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 회화가 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성조를 집중적으로 연습합니다. 4성이 정확해질 때까지 반복 교정합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 발음 교정 방법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발음을 녹음해서 함께 들어봅니다. 객관적으로 확인하고 교정합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 실전 회화 연습
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 상황에서 대화 연습을 합니다. 실제로 쓸 수 있는 표현 위주로 배웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 필수 표현 익히기
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상황별 필수 표현을 정리해드립니다. 바로 쓸 수 있게 연습합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대화 위주로 수업합니다. 말하는 시간을 최대한 확보합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 목표와 비용을 안내드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

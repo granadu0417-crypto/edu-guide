@@ -15,7 +15,7 @@ featured_image: "/images/edu_0672_z8XO8BfqpYc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 이해도를 진단하고 부족한 부분을 채웁니다. 유형별 문제 풀이와 실수 분석으로 실력을 쌓습니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 수학 I·II 완전 정복
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0672_z8XO8BfqpYc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단원별 핵심 개념을 정리합니다. 자주 출제되는 유형을 분석하고 문제 풀이 패턴을 익힙니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 선택과목 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0672_z8XO8BfqpYc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 적성에 맞는 선택과목을 결정합니다. 선택과목의 핵심 개념을 집중 학습합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 킬러 문제 대비
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0672_z8XO8BfqpYc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-킬러 문제 유형을 분석하고 접근 전략을 가르칩니다. 고난도 문제 풀이 훈련을 반복합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 실수 줄이기와 시간 관리
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0672_z8XO8BfqpYc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 패턴을 분석하고 방지책을 세웁니다. 시간 배분 연습으로 실전 감각을 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문

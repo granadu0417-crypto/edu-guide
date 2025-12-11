@@ -15,7 +15,7 @@ featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 자기주도 학습 능력을 파악합니다. 기숙학원이 적합한지 객관적으로 판단해드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 기숙학원과 통학 학원의 차이
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-두 가지 방식의 장단점을 비교합니다. 학생에게 맞는 환경을 함께 찾아드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 기숙학원 선택 시 확인사항
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 방문 시 확인해야 할 체크리스트를 제공합니다. 계약 조건과 환불 규정도 함께 검토합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 기숙학원 생활과 적응
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입소 전 심리적 준비를 도와드립니다. 적응 전략과 멘탈 관리법을 안내합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 기숙학원의 문제점
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기숙학원의 장단점을 솔직하게 설명합니다. 다른 대안도 함께 검토해드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문

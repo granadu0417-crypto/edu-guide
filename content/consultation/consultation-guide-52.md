@@ -20,7 +20,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경 상담에서는 학생의 현재 공부 공간을 분석합니다. 무엇이 집중을 방해하는지 찾고, 어떻게 환경을 바꿔야 하는지 구체적으로 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 학습 환경 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집에서 공부가 안 된다면 학습 상담을 받으세요. 집중할 수 있는 환경을 만드는 방법을 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 심리 상담은 환경 문제가 아니라 마음의 문제일 때 도움이 됩니다. 가족 관계로 인한 스트레스가 있다면 심리 상담을 먼저 받아보세요.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 실행할 수 있는 환경 개선 방법을 안내합니다. 비용 없이 바꿀 수 있는 것부터 시작합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 학습 환경은 어떻게 만들어야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황에 맞는 환경 개선 방법을 안내합니다. 집 구조와 생활 패턴을 고려해서 맞춤형으로 제안드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경에 대해 더 궁금한 점이 있으시면 문의하세요. 집중되는 공부 공간을 만드는 방법을 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

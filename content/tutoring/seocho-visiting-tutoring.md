@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서초 지역 학교 특성을 잘 아는 선생님이 수업합니다. 서초고, 반포고, 세화고 등 지역 학교 내신을 파악합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 서초 지역 특성이 어떤가요?
@@ -34,7 +34,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 시험 난이도와 출제 경향을 분석합니다. 경쟁에서 우위를 점할 수 있도록 준비합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 서초 지역 선생님의 장점은 뭔가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 집중할 수 있는 환경에서 수업합니다. 장소는 유연하게 조율 가능합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 선생님은 어떻게 구하나요?
@@ -64,7 +64,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생과의 케미를 확인합니다. 맞지 않으면 다른 선생님을 찾아드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 비용은 어떤가요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 시 비용을 투명하게 안내드립니다. 학생 상황에 맞는 효율적인 방안을 제안합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독서 수준과 관심사를 파악합니다. 맞는 책을 추천합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 독서가 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서의 중요성을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 독서 습관 만들기
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 습관 만드는 방법을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 독서 지도 방법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 독서 지도를 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 독후 활동
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독후 활동으로 독서의 효과를 높입니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 독서 수준을 파악하고 맞는 책을 추천해드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문

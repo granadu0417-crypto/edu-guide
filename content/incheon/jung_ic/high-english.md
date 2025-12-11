@@ -10,14 +10,13 @@ tags:
   - 중구영어과외
   - 중구고등영어
 ---
-
-Walking down the street, I met my friend에서 분사의 의미상 주어가 헷갈린다면, 분사구문력이 필요합니다.
+고등학생이라면 알아야 할 영어 공부법이 있습니다.
 
 중구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 인천중앙고, 인천여상, 신흥고 시험에서 분사구문 문제가 자주 출제됩니다. 분사의 의미상 주어와 주절의 주어가 일치하는지 확인하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분사구문의 형성 과정을 이해합니다. 접속사+주어 생략 후 동사를 분사로 바꾸는 원리를 훈련합니다.
+진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ Walking down the street, I met my friend에서 분사의 의미상 주어가 헷
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분사구문 유형별 특징을 정리합니다. 시간, 이유, 조건, 양보 등 의미를 파악하는 훈련을 합니다.
+비슷한 유형을 반복해서 풀며 패턴을 익힙니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ Walking down the street, I met my friend에서 분사의 의미상 주어가 헷
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인천중앙고, 인천여상 기출에서 분사구문 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+선생님이 강조한 부분을 정리합니다. 시험에 나올 확률이 높습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ Walking down the street, I met my friend에서 분사의 의미상 주어가 헷
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 분사구문력을 점진적으로 심화합니다.
+내신 범위가 곧 수능 출제 범위입니다. 한 번 공부로 두 가지를 대비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,5 +125,5 @@ Walking down the street, I met my friend에서 분사의 의미상 주어가 헷
 
 ## 마무리
 
-중구에서 분사구문이 어렵다면 변환 훈련이 필요합니다. 원리가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 검증된 과외, 지금 문의하세요.
 

@@ -15,7 +15,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 복습 습관을 점검합니다. 과목별, 시기별로 효율적인 복습 계획을 함께 세웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 복습을 안 하면 왜 까먹나요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 망각 패턴을 분석합니다. 어떤 과목을 빨리 잊는지, 언제 복습해야 효과적인지 파악합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 당일 복습이 왜 가장 중요한가요?
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-당일 복습 습관을 잡아드립니다. 과외 시간에 전날 배운 내용을 테스트해서 복습을 강제합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 복습 주기는 어떻게 설정하나요?
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 주기를 관리해드립니다. 정기적으로 테스트해서 제대로 기억하고 있는지 확인합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 그냥 노트를 읽기만 하면 안 되나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-능동적 복습 방법을 훈련합니다. 백지 테스트, 설명하기 연습을 함께 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문

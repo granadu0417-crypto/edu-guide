@@ -19,7 +19,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 정확히 진단합니다. 개념 이해도와 문제 해결 능력을 파악하고 부족한 부분부터 채워갑니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 광주 지역 중학교 수학 내신 특징
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 답안 작성법을 집중 훈련하고 부분 점수 전략까지 준비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 광주 지역 고등학교 수학 내신 특징
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 고난도 문제 풀이 전략을 익히고 시간 안에 정확하게 푸는 훈련을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ### 숭덕고, 문정고 등 일반고
@@ -68,7 +68,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 개념을 정리합니다. 현재 학년 내용을 완벽히 이해한 후 적절한 선행을 진행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 대학생 선생님과 전문 강사
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 설명 방식과 궁합을 확인합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 광주 지역별 교육 특성
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육 환경을 분석합니다. 학생에게 맞는 최적의 학습 환경을 찾아드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 효과적인 과외 활용법
@@ -97,7 +97,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 관리와 복습 방법을 안내합니다. 학생의 실수 패턴을 분석하고 맞춤 문제를 제공합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 과외 비용 안내
@@ -114,7 +114,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 횟수와 시간은 학생 상황에 맞게 조율합니다. 예산에 맞는 최적의 수업 방식을 찾아드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문

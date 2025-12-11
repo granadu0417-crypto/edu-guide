@@ -24,7 +24,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 영어 수준을 먼저 파악합니다. 내신이 급한지, 수능이 급한지에 따라 수업 방향이 달라집니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 고등 영어학원은 어떤 유형이 있나요?
@@ -37,7 +37,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 학원 유형을 상담에서 안내해 드립니다. 내신형인지, 수능형인지 파악한 후 추천합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 내신이랑 수능, 뭐부터 해야 하나요?
@@ -50,7 +50,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 내신과 수능의 비중을 조절해서 수업합니다. 시험 일정에 맞춰 유연하게 대응합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 수능 영어는 어떻게 공부해야 하나요?
@@ -73,7 +73,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 수업을 설계합니다. 학원에서 못 따라간 부분을 과외에서 잡습니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학원 선택할 때 뭘 확인해야 하나요?
@@ -88,7 +88,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 영어 학습에 대해 궁금한 점이 있으시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문

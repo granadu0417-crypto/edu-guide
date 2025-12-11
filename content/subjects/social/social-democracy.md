@@ -26,7 +26,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민주주의의 기본 원리를 설명합니다. 실제 정치 현상과 연결하여 이해합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 민주주의의 원리
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민주주의 원리 간의 관계를 설명합니다. 실생활 사례와 연결합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 민주주의의 형태
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-직접 민주주의와 대의 민주주의를 비교합니다. 각각의 장단점을 분석합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 민주 정치의 발전
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민주주의 발전 과정을 정리합니다. 시대별 특징을 비교합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 민주주의 원리 적용 문제를 집중 훈련합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,5 +111,5 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 민주주의를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>

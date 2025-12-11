@@ -19,7 +19,7 @@ D-100은 마지막 정리 시간입니다. 새로운 것을 배우기보다 지�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-100 학습 전략을 함께 세웁니다. 남은 시간을 효율적으로 활용하는 방법을 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 100일 계획 세우기
@@ -32,7 +32,7 @@ D-100 학습 전략을 함께 세웁니다. 남은 시간을 효율적으로 활
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-100일 학습 계획을 구체적으로 세웁니다. 단계별로 무엇을 해야 하는지 명확히 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 취약점 집중 공략
@@ -45,7 +45,7 @@ D-100 학습 전략을 함께 세웁니다. 남은 시간을 효율적으로 활
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-취약 유형을 집중 훈련합니다. 짧은 시간 내에 가장 효과적으로 점수를 올리는 방법을 찾습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 기출문제 활용
@@ -58,7 +58,7 @@ D-100 학습 전략을 함께 세웁니다. 남은 시간을 효율적으로 활
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 체계적으로 분석합니다. 출제 경향을 파악하고 예상 문제를 준비합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## EBS 연계 학습
@@ -71,7 +71,7 @@ EBS 교재를 점검하세요. 수능과 연계되는 부분이 있습니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-EBS 연계 포인트를 정리합니다. 효율적으로 연계 학습을 진행합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 컨디션 관리

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 방향 상담에서는 먼저 실패했던 계획들을 분석합니다. 왜 작심삼일이 되는지 원인을 찾고 현실적인 계획을 세우는 방법을 안내합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학습 방향 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실천 가능한 계획을 세우고 싶다면 학습 상담을 받으세요. 학생 상황에 맞는 현실적인 로드맵을 함께 설계합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 진로 상담은 적성과 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략에 초점을 맞춥니다. 심리 상담은 학습 의욕이 떨어졌을 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 시작할 수 있는 실행 계획을 안내합니다. 거창한 계획보다 당장 할 수 있는 작은 것부터 시작합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 학년에 따라 로드맵이 다른가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞는 로드맵을 설계합니다. 너무 빡빡하지도, 너무 느슨하지도 않은 적정 수준을 찾습니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 방향 설정에 대해 더 궁금한 점이 있으시면 문의하세요. 실천 가능한 맞춤 로드맵을 함께 만들어드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 마무리

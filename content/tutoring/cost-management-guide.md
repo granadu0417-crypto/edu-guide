@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가장 급한 과목에 집중합니다. 모든 과목을 다 하려고 하지 않아도 됩니다. 효율적인 방법을 안내해 드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 사교육비, 얼마가 적당한가요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 효율적인 방법을 찾아드립니다. 꼭 필요한 것만 하도록 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 비용을 줄이려면 어떻게 해야 하나요?
@@ -52,7 +52,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 횟수나 시간을 조절할 수 있습니다. 부담 없이 상담해 주세요.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 과외 횟수를 줄여도 효과가 있나요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3개월마다 성적 변화를 확인합니다. 효과가 없으면 방법을 바꿉니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 과다 지출 신호는 뭔가요?
@@ -88,7 +88,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 힘들어하면 말씀해 주세요. 방법을 조정해서 부담을 줄여드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문

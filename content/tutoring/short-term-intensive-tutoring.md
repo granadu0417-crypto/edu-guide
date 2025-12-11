@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험까지 남은 시간에 맞춰 맞춤 전략을 세웁니다. 단기간에 효과를 볼 수 있도록 집중 수업합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 단기 집중 과외란 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위를 분석하고 우선순위를 정합니다. 가장 효과적인 부분부터 집중 공략합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 어떤 상황에서 필요한가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긴급한 상황에 빠르게 대응합니다. 학생의 현재 상태와 목표를 파악해서 실현 가능한 계획을 세웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 선생님은 어떻게 선택하나요?
@@ -80,7 +80,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체계적인 계획으로 단기간에 최대 효과를 냅니다. 매 수업 후 복습 과제도 함께 관리합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과목별로 어떻게 준비하나요?
@@ -95,7 +95,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞게 전략을 달리합니다. 시험 범위와 출제 경향을 분석해서 효율적으로 준비합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 주의할 점은 뭔가요?

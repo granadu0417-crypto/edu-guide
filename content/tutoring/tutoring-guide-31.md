@@ -20,7 +20,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 과외에서는 내신과 수능을 분리하지 않습니다. 겹치는 부분을 최대한 활용해서 둘 다 잡습니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 고등 과외가 왜 필요한가요?
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 수업은 내신과 수능 공통으로 진행합니다. 시험 기간에만 유형별로 나눠서 집중합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 고등 과외는 어떻게 진행되나요?
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연간 계획을 세우고, 시기별로 내신과 수능 비중을 조절합니다. 계획대로 가고 있는지 주기적으로 점검합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 고등 과외에서 가장 중요한 건 뭔가요?
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 이번 주 컨디션과 공부 시간을 체크합니다. 무리하지 않고 지속 가능한 계획을 세웁니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -82,7 +82,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 내신과 수능 병행 전략을 안내합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

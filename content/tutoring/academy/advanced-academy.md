@@ -23,7 +23,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상위권 학생에게는 심화 문제 위주로 수업합니다. 시간 낭비 없이 실력이 오르는 부분만 집중합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 심화 학원의 특징은 뭔가요?
@@ -36,7 +36,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심화 학원 진도가 맞지 않으면 과외로 보충할 수 있습니다. 부족한 부분만 집중 공략합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 심화 학원 선택 기준은 뭔가요?
@@ -49,7 +49,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준을 정확히 파악한 후 심화 수업을 진행합니다. 무리하게 어려운 문제부터 하지 않습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 심화 학원과 과외를 병행하면 좋은가요?
@@ -60,7 +60,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심화 학원 진도에 맞춰서 부족한 부분을 보완하는 수업도 가능합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심화 학습에 대해 더 궁금한 점이 있으시면 상담해 주세요. 아이 수준에 맞는 방향을 안내해 드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

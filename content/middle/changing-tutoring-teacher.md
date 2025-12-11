@@ -16,7 +16,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3개월마다 학생과 학부모님께 피드백을 드립니다. 효과가 나타나고 있는지, 방향 조정이 필요한지 함께 점검합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 즉시 교체해야 할 신호
@@ -27,7 +27,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 편안하게 질문하고 소통할 수 있는 분위기를 만듭니다. 불편함이 있으면 언제든 말씀해주세요.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 기다려야 할 상황
@@ -38,7 +38,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 방식에 대한 요청은 언제든 말씀해주세요. 학생에게 맞게 조정해드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 교체 방법
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업을 그만두실 때도 편하게 말씀해주세요. 학생에게 맞는 선생님을 찾는 것이 중요합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 하는 실수
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 힘들어하면 원인을 함께 파악합니다. 무조건 바꾸기보다 조정이 가능한지 먼저 확인합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비슷한 수준의 학생들을 모아 소그룹을 구성합니다. 맞춤 수업이 가능합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 그룹 과외의 장점
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹의 장점을 살리면서 개별 관리도 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 적정 인원
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4명을 넘지 않습니다. 모든 학생에게 충분한 관심을 줍니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 그룹 구성 조건
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조건에 맞는 학생들을 매칭해 그룹을 구성합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 그룹 과외가 맞는 학생
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향에 맞춰 그룹 과외가 적합한지 판단합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 그룹 구성과 비용을 안내드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문

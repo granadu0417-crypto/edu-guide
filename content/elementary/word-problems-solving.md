@@ -19,7 +19,7 @@ featured_image: "/images/edu_0143_bZqitd_ae0A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제를 읽고 어디서 막히는지 확인합니다. 문제 이해가 안 되는지, 식을 세우지 못하는지, 계산에서 틀리는지 원인을 파악하고 그 부분을 집중적으로 연습합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 문장제 풀이 5단계 전략
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0143_bZqitd_ae0A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제에서 중요한 부분에 표시하는 연습을 합니다. 숫자에는 네모, 구하는 것에는 밑줄, 힌트 단어에는 동그라미를 치면서 읽습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 그림과 식으로 나타내기
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0143_bZqitd_ae0A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-처음에는 함께 그림을 그려가며 풉니다. 익숙해지면 머릿속으로 그리고, 식만 세우는 연습을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 답 확인과 검산
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0143_bZqitd_ae0A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 다 풀면 검산하는 습관을 들입니다. 답이 맞는 것 같아도 한 번 더 확인하면 실수를 줄일 수 있습니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 연산별 문장제 키워드
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0143_bZqitd_ae0A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 수준의 문장제부터 시작합니다. 너무 어려운 문제로 시작하면 자신감이 떨어집니다. 쉬운 문제로 성공 경험을 쌓고 점점 난이도를 올립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 서술형 문장제 대비

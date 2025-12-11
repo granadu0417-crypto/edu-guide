@@ -23,7 +23,7 @@ featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 가지 곡선의 정의를 비교해서 설명합니다. 그림과 함께 이해시킵니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 포물선
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-포물선의 정의와 방정식을 연결합니다. 실생활 응용 예시도 함께 설명합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 타원
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-타원의 정의와 c 제곱 공식을 확실히 이해시킵니다. 쌍곡선과 헷갈리지 않게 비교합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 쌍곡선
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-쌍곡선의 c 제곱 공식과 점근선을 확실히 익힙니다. 타원과 부호가 다른 점을 강조합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 실전 팁과 흔한 실수
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 실수를 미리 짚어줍니다. 그림 그리는 습관을 들입니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -116,6 +116,6 @@ featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차곡선을 체계적으로 정리합니다. 다양한 유형의 문제로 실전 감각을 키웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 

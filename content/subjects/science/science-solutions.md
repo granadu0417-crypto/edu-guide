@@ -26,7 +26,7 @@ featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-농도의 종류와 계산법을 정리합니다. 용해도 곡선을 읽고 해석하는 방법을 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 농도의 종류
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 가지 농도의 차이를 표로 비교합니다. 농도 변환 계산을 반복 연습합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 용해도와 포화 용액
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-용해도 곡선 그래프를 해석합니다. 석출량 계산 문제를 집중 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 묽은 용액의 총괄성
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-총괄성의 원리를 설명합니다. 끓는점 오름과 어는점 내림 계산을 연습합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 농도 계산과 석출량 문제를 집중 훈련합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,5 +111,5 @@ featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 용액을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>

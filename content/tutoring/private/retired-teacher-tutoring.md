@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-은퇴 교사는 수십 년 교직 경험이 있습니다. 다양한 학생을 가르친 노하우가 쌓여 있습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 은퇴 교사 과외의 장점은 뭔가요?
@@ -34,7 +34,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육과정에 맞춰 체계적으로 가르칩니다. 학교 시험 출제 의도를 정확히 파악합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 대학생 과외랑 뭐가 다른가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞춰 차근차근 진행합니다. 기초부터 탄탄하게 잡아드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 수능 대비도 괜찮나요?
@@ -64,7 +64,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능 비중을 함께 조율합니다. 학생 목표에 맞춰 계획을 세웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 어떻게 찾나요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 설명 방식과 학생과의 궁합을 확인합니다. 맞지 않으면 다른 선생님을 찾아드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문

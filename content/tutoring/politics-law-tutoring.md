@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정치와 법은 단순 암기가 아닙니다. 개념 간 관계를 이해하고 적용하는 능력이 필요합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 정치와 법이 왜 어려운가요?
@@ -34,7 +34,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비슷한 개념들을 비교 정리합니다. 차이점을 명확히 구분할 수 있도록 가르칩니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 과외가 효과적인 이유가 뭔가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 어떤 부분이 헷갈리는지 파악합니다. 맞춤 계획을 세웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 효과적인 공부 방법이 있나요?
@@ -64,7 +64,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 정리표를 함께 만듭니다. 문제 풀이 후 오답 분석으로 약점을 보완합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시사 상식도 알아야 하나요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시사와 연결해서 개념을 설명합니다. 실제 사례로 이해하면 기억에 오래 남습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문

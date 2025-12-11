@@ -29,7 +29,7 @@ x > 3의 해를 수직선에 나타낼 때, 왜 빈 원을 쓰는지, 해집합�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 부등식의 해집합 이해 수준을 진단합니다. 부등호의 의미, 수직선 표현, 해집합의 표기법을 체계적으로 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 부등식의 해집합이 어려운 이유
@@ -40,7 +40,7 @@ x > 3의 해를 수직선에 나타낼 때, 왜 빈 원을 쓰는지, 해집합�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부등호의 종류와 수직선 표현을 정확히 구분합니다. 다양한 부등식의 해집합을 나타내는 연습을 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 장충중·대경중·장원중 수학 시험의 특징
@@ -53,7 +53,7 @@ x > 3의 해를 수직선에 나타낼 때, 왜 빈 원을 쓰는지, 해집합�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·대경중·장원중 기출 부등식 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -64,7 +64,7 @@ x > 3의 해를 수직선에 나타낼 때, 왜 빈 원을 쓰는지, 해집합�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 부등식의 해집합을 수직선에 나타내보게 합니다. 왜 그렇게 표현했는지 설명하는 훈련을 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -77,7 +77,7 @@ x > 3의 해를 수직선에 나타낼 때, 왜 빈 원을 쓰는지, 해집합�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 부등식 내용을 정확히 이해합니다. 부등식을 자유롭게 다루는 능력을 키웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 수업료 안내
@@ -88,7 +88,7 @@ x > 3의 해를 수직선에 나타낼 때, 왜 빈 원을 쓰는지, 해집합�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 부등식 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}

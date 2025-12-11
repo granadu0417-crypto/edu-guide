@@ -19,7 +19,7 @@ featured_image: "/images/edu_0304_X916crnB9NM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세종 지역 교육 환경을 분석합니다. 거주 지역과 학생 수준에 맞는 학습 전략을 안내합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 세종 교육의 강점과 약점
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0304_X916crnB9NM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세종 교육의 강점을 활용하고 약점을 보완하는 전략을 안내합니다. 온라인과 오프라인을 병행합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 세종 대학생 과외 활용
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0304_X916crnB9NM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표와 거주 지역에 맞는 과외 선생님을 연결합니다. 대학생 이력과 수업 스타일을 확인합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 세종 지역별 학원 가이드
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0304_X916crnB9NM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-거주 지역 인근 학원을 분석합니다. 학원 상담 후 학생에게 맞는 곳을 선택합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학년별 교육 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0304_X916crnB9NM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 목표에 맞는 학습 계획을 수립합니다. 초등에서 고등까지 장기 로드맵을 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 세종 주요 학교 분석
@@ -72,7 +72,7 @@ featured_image: "/images/edu_0304_X916crnB9NM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 시험 특성과 출제 경향을 분석합니다. 선생님별 문제 스타일까지 파악해 맞춤 내신 대비를 진행합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

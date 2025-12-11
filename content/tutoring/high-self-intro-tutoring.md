@@ -19,7 +19,7 @@ featured_image: "/images/edu_0073_kcT-7cirBEw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학생부를 먼저 분석합니다. 어떤 소재가 있는지, 어떤 이야기를 할 수 있는지 파악합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자기소개서의 중요성
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0073_kcT-7cirBEw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생만의 이야기를 찾습니다. 남들과 다른 나만의 소재를 발굴합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 문항별 작성 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0073_kcT-7cirBEw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문항별로 어떤 내용을 담아야 하는지 알려드립니다. 평가 기준에 맞는 글을 씁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 좋은 자소서의 조건
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0073_kcT-7cirBEw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 자소서와 나쁜 자소서의 차이를 알려드립니다. 합격하는 자소서의 공통점을 분석합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0073_kcT-7cirBEw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초고부터 최종본까지 함께 합니다. 완성될 때까지 첨삭합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0073_kcT-7cirBEw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생부를 분석하고 자소서 작성 계획을 안내드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문

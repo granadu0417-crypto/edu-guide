@@ -15,7 +15,7 @@ featured_image: "/images/edu_0423_4OdjDeB78GM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 빈출 과학 어휘를 주제별로 정리합니다. 효율적인 학습 순서를 제시합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 분야별 핵심 어휘
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0423_4OdjDeB78GM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리 화학 생물 지구과학으로 분류하여 학습합니다. 연관 단어를 함께 외워 효율을 높입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과학 지문 독해 팁
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0423_4OdjDeB78GM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 지문의 구조와 연결어를 분석합니다. 지문 유형별 독해 전략을 가르칩니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 효과적인 학습법
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0423_4OdjDeB78GM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어근 학습과 문맥 학습을 병행합니다. 실전 지문으로 적용 연습을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -91,6 +91,6 @@ featured_image: "/images/edu_0423_4OdjDeB78GM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 어휘 전문 1:1 과외로 효율적으로 학습합니다. 실전 지문으로 연습하여 빠르게 실력을 향상시킵니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 

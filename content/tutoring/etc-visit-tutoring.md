@@ -19,7 +19,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 집에서 편안하게 수업합니다. 익숙한 환경에서 집중력이 높아집니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 방문 과외의 장점
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 가장 편한 공간에서 집중해서 공부합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 방문 과외가 맞는 학생
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 상황에 맞춰 방문 과외를 진행합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 잘 맞는 선생님을 매칭해드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 방문 과외 준비
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 전 준비 사항을 안내드립니다. 원활한 수업 환경을 만듭니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 상황을 파악하고 맞춤 계획을 안내드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

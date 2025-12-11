@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-IB인지 AP인지, 어떤 과목에 집중해야 하는지 먼저 파악합니다. 학생의 목표 대학과 전공에 따라 전략이 달라집니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## IB랑 AP는 뭐가 다른가요?
@@ -38,7 +38,7 @@ AP는 대학 선이수 과정입니다. 과목별로 깊이 있게 공부하고,
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-IB와 AP의 차이를 명확히 설명해 드립니다. 학생 상황에 맞는 커리큘럼을 제안합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 마포 국제학교 대비 학원의 특징
@@ -51,7 +51,7 @@ IB와 AP의 차이를 명확히 설명해 드립니다. 학생 상황에 맞는 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 수강하는 과목과 시험 일정을 확인합니다. 우선순위를 정해서 효율적으로 준비합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 과목별로 어떻게 준비해야 하나요?
@@ -76,7 +76,7 @@ TOK와 EE 집중 지도가 됩니다. IB 학생에게 TOK와 EE는 점수에 결
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 다루지 못하는 부분을 과외에서 보완합니다. 에세이 첨삭은 과외가 훨씬 효과적입니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 국제학교 학생이 주의할 점
@@ -89,7 +89,7 @@ IA와 EE는 일찍 시작하세요. 특히 EE는 4,000단어라 시간이 많이
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 시험 일정과 대학 지원 계획을 함께 확인합니다. 전체 타임라인을 세워서 체계적으로 준비합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문

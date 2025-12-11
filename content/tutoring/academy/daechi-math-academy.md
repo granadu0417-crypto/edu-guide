@@ -25,7 +25,7 @@ reading_time: 310줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대치동 출신 강사가 직접 수업합니다. 대치동 학원의 커리큘럼을 과외에서 1:1로 소화할 수 있습니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 대치동 학원이 특별한 이유가 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 310줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준을 먼저 파악합니다. 대치동이 맞는 학생인지, 아닌지 솔직하게 말씀드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 대치동 학원 유형은 어떤 게 있나요?
@@ -53,7 +53,7 @@ reading_time: 310줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 유형별 장단점을 상담에서 자세히 안내해 드립니다. 학생에게 맞는 유형을 함께 찾아갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 대치동 학원만으로 충분한가요?
@@ -76,7 +76,7 @@ reading_time: 310줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대치동 출신 강사가 지역에서 수업합니다. 대치동까지 이동할 필요 없이 대치동 수준의 수업을 받을 수 있습니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 어떤 학생이 대치동에 맞나요?
@@ -89,7 +89,7 @@ reading_time: 310줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 학생 수준과 성향을 파악합니다. 대치동이 맞는지, 다른 방법이 나은지 솔직하게 안내해 드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문

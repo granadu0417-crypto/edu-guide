@@ -15,7 +15,7 @@ featured_image: "/images/edu_0652_xNkrL_dc9oc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 함께 분석합니다. 왜 틀렸는지, 어떻게 풀어야 하는지, 유사 문제는 어떻게 접근하는지 완벽히 이해시킵니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 오답의 4가지 유형
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0652_xNkrL_dc9oc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 유형을 분류하고 유형별 해결책을 제시합니다. 개념 미숙은 설명하고, 적용 실패는 유사 문제로 훈련합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 오답 노트 작성법
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0652_xNkrL_dc9oc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 양식을 함께 만들고 작성법을 가르칩니다. 매주 오답 노트를 검토하며 진행 상황을 점검합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 5단계 오답 분석 프로세스
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0652_xNkrL_dc9oc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 오답 분석 프로세스를 함께 진행합니다. 유사 문제도 제공하여 해당 유형을 완전히 정복하게 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 과목별 오답 분석 포인트
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0652_xNkrL_dc9oc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞는 오답 분석법을 지도합니다. 각 과목별로 자주 틀리는 유형을 집중 공략합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문

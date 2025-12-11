@@ -20,7 +20,7 @@ featured_image: "/images/edu_0463_Y1f0_a_IvSo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 비평의 기본 개념을 정리합니다. 주요 비평 관점을 체계적으로 학습합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 비평의 관점
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0463_Y1f0_a_IvSo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-네 가지 비평 관점을 정리합니다. 각 관점의 특징과 한계를 분석합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 비평 관점의 적용
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0463_Y1f0_a_IvSo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 작품에 비평 관점을 적용합니다. 관점별 해석 차이를 비교 분석합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 비평 지문 독해
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0463_Y1f0_a_IvSo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비평 지문의 구조를 분석합니다. 핵심 주장과 근거를 파악하는 연습을 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0463_Y1f0_a_IvSo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 비평 문제의 출제 패턴을 정리합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,5 +105,5 @@ featured_image: "/images/edu_0463_Y1f0_a_IvSo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 문학 비평을 체계적으로 학습합니다. 이론 정리와 실전 문제 풀이를 병행합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>

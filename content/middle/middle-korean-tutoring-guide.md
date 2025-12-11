@@ -19,7 +19,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 독해력 수준을 정확히 파악합니다. 지문을 읽고 핵심을 말해보라고 하면 바로 알 수 있습니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 중등 국어가 어려운 이유
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문 읽는 법을 알려드립니다. 문단별 핵심 찾기, 글의 구조 파악하기를 연습합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 국어과외가 필요한 경우
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 다른 과목 성적도 함께 봅니다. 국어만 문제인지 전반적인 독해력 문제인지 파악합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 국어과외의 장점
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문 유형별로 접근법이 다릅니다. 설명문, 논설문, 기사문 각각의 특징과 읽는 법을 알려드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학년별 과외 내용
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 핵심 내용에 집중합니다. 이전 학년 독해력이 부족하면 먼저 보완합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 과외 진행 방법
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안을 직접 써보게 하고 채점 기준에 맞게 첨삭해드립니다. 키워드 누락이 점수 손실의 주원인입니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 선생님 선택법
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업에서 실제로 지문 하나를 분석해봅니다. 학생이 이해하는지 확인해주세요.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 기대 효과

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0443_Hb6uWq0i4MI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영역별 약점을 진단합니다. 수능 기출 분석으로 출제 패턴을 파악하고 맞춤 전략을 수립합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 독서 영역 공략
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0443_Hb6uWq0i4MI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 유형별 독해 전략을 훈련합니다. 핵심 정보 파악과 추론 능력을 키웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 문학 영역 공략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0443_Hb6uWq0i4MI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작품 분석 방법을 체계적으로 훈련합니다. 빈출 작품을 정리하고 심화 감상을 진행합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시간 관리 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0443_Hb6uWq0i4MI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간을 재며 실전 연습을 합니다. 개인별 최적의 시간 배분 전략을 찾습니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 선택과목 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0443_Hb6uWq0i4MI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선택과목 유형별 전략을 훈련합니다. 기출 분석으로 출제 패턴을 파악합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ featured_image: "/images/edu_0443_Hb6uWq0i4MI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 수능 국어를 완벽히 대비합니다. 약점을 분석하고 실전 전략을 훈련합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>

@@ -24,7 +24,7 @@ featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 큰 흐름을 먼저 파악합니다. 핵심 사건을 중심으로 연표를 정리합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 고대 문명
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4대 문명의 특징을 비교합니다. 그리스와 로마의 유산을 현대와 연결합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 중세 시대
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-봉건제의 특징과 변화를 정리합니다. 동서양 교류의 역사적 의미를 분석합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 근대 시민혁명
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시민혁명의 원인과 결과를 비교합니다. 산업혁명의 사회적 영향을 분석합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 현대 세계
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-냉전의 전개와 종결을 정리합니다. 현대 국제 질서의 특징을 분석합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시험 대비
@@ -89,5 +89,5 @@ featured_image: "/images/edu_0714_qxGn38ex5Vo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 세계사를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>

@@ -32,7 +32,7 @@ featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 이렇게 풀어야 해요?"라는 질문이 나올 때까지. 공식 암기가 아니라 원리 이해부터 시작합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ### 미아동 - 성신여대 인근
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 수학 수준을 정확히 파악합니다. 어디서 막혔는지, 어디까지 알고 있는지 진단부터 꼼꼼히!
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학년별 수학과외 가이드
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피자를 똑같이 나누면? 분수 개념을 일상에서 찾습니다. "1/4이랑 2/8이 같다고요?" 아이가 직접 발견하면 절대 안 잊어요!
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ### 중학생 - 고등 수학의 기초를 다지는 시기
@@ -114,7 +114,7 @@ featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 x에 숫자를 대입해야 해요?" 문자와 식의 개념부터 차근차근. 원리를 알면 응용이 됩니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -143,7 +143,7 @@ featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -177,7 +177,7 @@ featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국민대 수학교육과 선생님은 "어떻게 가르쳐야 학생이 이해할까"를 배운 분들이에요. 설명이 쉽고 명확합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 좋은 수학 선생님, 이렇게 고르세요
@@ -213,7 +213,7 @@ featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -249,7 +249,7 @@ featured_image: "/images/edu_0319_Cg-0zoaxGnY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 수업 내용 확인 테스트! 복습 안 하면 티가 납니다. 작은 습관이 큰 실력이 됩니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 마치며

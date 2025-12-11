@@ -19,7 +19,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력을 파악합니다. 올림피아드 대비 계획을 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 올림피아드란
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-올림피아드의 특성과 준비 방법을 안내합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 올림피아드 대비 방법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-올림피아드 대비 전략을 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 문제 풀이 훈련
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 능력을 키우는 훈련을 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 올림피아드 일정
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-올림피아드 일정에 맞춰 대비합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 현재 실력을 진단하고 대비 계획을 안내드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

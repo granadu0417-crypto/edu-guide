@@ -10,14 +10,13 @@ tags:
   - 연수구수학과외
   - 연수구중등수학
 ---
-
-주사위를 두 번 던질 때 합이 7이 될 확률을 구하지 못한다면, 확률력이 필요합니다.
+늦지 않았습니다. 지금 시작하세요.
 
 연수구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 연수고, 인천포스코고, 송도고 시험에서 확률 문제가 자주 출제됩니다. 경우의 수를 정확히 세는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률 개념을 체계적으로 정리합니다. 경우의 수 계산을 훈련합니다.
+첫 만남에서 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경우의 수 세기를 정리합니다. 연속 시행을 훈련합니다.
+개념을 완벽히 이해한 후, 다양한 유형의 문제를 훈련합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연수고, 인천포스코고 기출에서 확률 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시간 대비 문제 양이 많은 학교가 있습니다. 빠르게 푸는 연습도 합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 확률력을 점진적으로 향상시킵니다.
+수시와 정시, 어느 쪽에 무게를 둘지에 따라 전략이 달라집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -124,5 +123,5 @@ tags:
 
 ## 마무리
 
-연수구에서 확률이 어렵다면 경우의 수 훈련이 필요합니다. 세기가 정확해지면 수학이 쉬워집니다.
+ 학생 여러분, 효율적으로 병행하는 방법을 알려드립니다.
 

@@ -24,7 +24,7 @@ featured_image: "/images/edu_0302_PIOBX4_B9XU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도서관 활용법도 학습 전략의 일부입니다. 집중할 수 있는 공간을 확보하고 무료 자원을 활용하는 방법을 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 공공도서관 기본 이해
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0302_PIOBX4_B9XU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집 근처 도서관 위치와 특성을 파악하면 학습 환경을 효율적으로 활용할 수 있습니다. 정보를 함께 정리해 드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 도서관 시설과 공간
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0302_PIOBX4_B9XU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도서관 회원가입과 이용 방법을 안내해 드립니다. 처음 이용하시면 함께 둘러보는 것도 좋습니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 도서관 프로그램 활용
@@ -83,7 +83,7 @@ featured_image: "/images/edu_0302_PIOBX4_B9XU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-디지털 자료 활용법도 안내합니다. 전자책과 데이터베이스를 활용하면 학습 자원이 크게 늘어납니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학습실 활용 전략
@@ -120,7 +120,7 @@ featured_image: "/images/edu_0302_PIOBX4_B9XU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도서관 활용에 대해 더 궁금한 점이 있으시면 상담해 주세요. 학습 환경 조성에 대해 함께 논의합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 마무리

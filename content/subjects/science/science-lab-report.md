@@ -25,7 +25,7 @@ featured_image: "/images/edu_0611_28TnM-iVMHw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-보고서 구성 요소를 하나씩 익힙니다. 실제 실험을 예로 들어 각 부분 작성법을 연습합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 보고서 기본 구성
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0611_28TnM-iVMHw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-보고서 양식을 제공하고 각 항목별 작성 요령을 설명합니다. 좋은 예시와 부족한 예시를 비교합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 실험 목적과 원리
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0611_28TnM-iVMHw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 목적을 한 문장으로 표현하는 연습을 합니다. 원리 작성에 필요한 개념을 정리합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 결과 정리와 분석
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0611_28TnM-iVMHw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표와 그래프 작성법을 훈련합니다. 데이터 정리와 계산 과정을 함께 점검합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 고찰 작성법
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0611_28TnM-iVMHw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고찰 작성의 틀을 제시합니다. 깊이 있는 분석을 위한 질문을 던져봅니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -110,5 +110,5 @@ featured_image: "/images/edu_0611_28TnM-iVMHw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 실험 보고서 작성을 완벽히 익힙니다. 실제 보고서를 함께 검토하고 개선합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>

@@ -14,12 +14,11 @@ tags:
   - 부천시수학과외
   - 부천시중등수학
 ---
-
-부천시 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다.
+포기하기엔 아직 이릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 실력을 종합 진단합니다. 개념 이해도, 계산 정확도, 문제 해결력을 파악하고 약점부터 집중 보완합니다.
+먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어떤 개념이 부족한지, 어디서 실수가 나는지 진단합니다.
 </div>
 
 ## 부천시 중학교 수학이 중요한 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 완벽히 이해한 후 다양한 유형의 문제를 풀어봅니다. 원리 이해에 집중합니다.
+꾸준함이 핵심입니다. 한 번에 많이 하는 것보다 매일 조금씩 하는 게 효과적입니다.
 </div>
 
 ## 부천시 주요 중학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악하여 맞춤 대비합니다.
+학교 프린트와 수업 필기도 함께 분석합니다. 시험에 나올 가능성이 높은 부분을 집중 대비합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -64,7 +63,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼으로 진행합니다. 학기 중에는 내신 대비, 방학에는 선행 학습을 병행합니다.
+내신 1등급이 수능 1등급으로 이어지도록 합니다. 따로 공부하지 않아도 됩니다.
 </div>
 
 
@@ -126,6 +125,6 @@ tags:
 
 ## 마무리
 
-부천시 중등학생 여러분, 수학 성적 향상이 필요하시다면 지금 시작하세요.
+부천시 학생 여러분, 내신과 수능, 두 마리 토끼를 다 잡는 방법이 있습니다.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

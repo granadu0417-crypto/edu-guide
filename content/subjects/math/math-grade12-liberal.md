@@ -23,7 +23,7 @@ featured_image: "/images/edu_0529_5uhOqA194JQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 출제 경향을 분석하여 효율적으로 학습합니다. 취약 유형을 집중 공략합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 수학 1 총정리
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0529_5uhOqA194JQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 1 전 범위를 체계적으로 정리합니다. 킬러 포인트를 집중 훈련합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 확률과 통계 완성
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0529_5uhOqA194JQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률과 통계를 유형별로 정리합니다. 표와 그림을 활용한 풀이법을 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 실전 전략
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0529_5uhOqA194JQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 시간 관리를 훈련합니다. 검산 습관을 들여 실수를 줄입니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학습 계획
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0529_5uhOqA194JQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능까지 체계적인 학습 계획을 세웁니다. 시기별 맞춤 전략으로 효율을 높입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,6 +108,6 @@ featured_image: "/images/edu_0529_5uhOqA194JQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능까지 책임지고 완벽 대비합니다. 목표 점수 달성을 위해 함께합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 

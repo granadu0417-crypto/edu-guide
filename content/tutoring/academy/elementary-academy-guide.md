@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생의 집중력과 발달 수준에 맞춰 수업합니다. 억지로 주입하지 않고, 재미를 느끼면서 자연스럽게 배우도록 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 초등학생은 언제부터 학원에 보내면 되나요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 수준에 맞는 커리큘럼을 제공합니다. 저학년은 흥미 위주, 고학년은 중등 대비 위주로 수업합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 초등학원 유형별로 뭐가 다른가요?
@@ -50,7 +50,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향과 목표에 맞는 학원 유형을 안내합니다. 무조건 선행이 좋은 게 아닙니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과목별로 어떤 학원이 좋은가요?
@@ -73,7 +73,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생 눈높이에 맞춰 수업합니다. 인내심을 가지고 차근차근, 이해할 때까지 설명합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 과외를 병행하면 어떤 효과가 있나요?
@@ -84,7 +84,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모님과 정기적으로 소통합니다. 학생의 학습 상황과 개선점을 공유하고, 함께 방향을 잡아갑니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문

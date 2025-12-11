@@ -19,7 +19,7 @@ featured_image: "/images/edu_0213_6NVeLrMFu7g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사는 중간 이후 내용과 중간 범위를 연결해서 복습합니다. 넓은 범위를 효율적으로 정리하는 방법을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 기말고사의 특징 이해하기
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0213_6NVeLrMFu7g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사 출제 경향을 분석하고 중요한 부분을 집중적으로 다룹니다. 범위가 넓어도 핵심을 놓치지 않습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 넓은 범위 효율적으로 정리하기
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0213_6NVeLrMFu7g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-범위를 구간별로 나눠서 학습 계획을 세웁니다. 새로운 내용에 더 많은 시간을 배분하고 효율적으로 정리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과목별 기말 대비 전략
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0213_6NVeLrMFu7g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞춰 기말 대비 전략을 다르게 가져갑니다. 과목별로 점수를 올릴 수 있는 포인트를 짚어드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시험 기간 시간 분배
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0213_6NVeLrMFu7g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 과목별 학습 시간을 배분합니다. 무리하지 않으면서 모든 과목을 균형 있게 대비합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 중간고사 분석 활용하기

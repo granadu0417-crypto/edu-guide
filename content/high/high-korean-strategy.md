@@ -15,7 +15,7 @@ featured_image: "/images/edu_0671_ORzZtY2i50k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점 영역을 진단합니다. 독서 지문 분석 능력, 문학 감상 능력, 문법 이해도를 점검하고 맞춤 전략을 세웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 독서 영역 정복하기
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0671_ORzZtY2i50k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 분석 방법을 가르칩니다. 문단 요약, 구조 파악, 핵심 내용 추출 연습을 반복합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 문학 영역 정복하기
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0671_ORzZtY2i50k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 문학 작품을 함께 분석합니다. 작품별 특징을 정리하고 문제에 적용하는 연습을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 선택과목 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0671_ORzZtY2i50k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선택과목을 결정하도록 돕습니다. 학생 성향에 맞는 과목을 선택하고 집중 학습합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시간 관리 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0671_ORzZtY2i50k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사를 통해 시간 배분 연습을 합니다. 학생에게 맞는 풀이 순서를 함께 찾습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -23,7 +23,7 @@ featured_image: "/images/edu_0436_kw0z6RyvC0s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어려워하는 고전문학 장르를 파악합니다. 시대별 작품 특징과 해석법을 단계별로 훈련합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 고전 시가의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0436_kw0z6RyvC0s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장르별 형식적 특징을 정리합니다. 대표 작품의 현대어 풀이를 함께 학습합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 고전소설의 이해
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0436_kw0z6RyvC0s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소설 유형별 특징과 주제를 정리합니다. 수능 빈출 작품을 집중 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 현대어 풀이 방법
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0436_kw0z6RyvC0s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고어 어휘 목록을 정리합니다. 현대어 풀이 연습을 반복해서 독해력을 키웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 수능 출제 경향
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0436_kw0z6RyvC0s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최근 기출 문제를 분석합니다. 유형별 접근법을 체계적으로 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -84,5 +84,5 @@ featured_image: "/images/edu_0436_kw0z6RyvC0s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 고전문학을 체계적으로 마스터합니다. 개인 약점을 분석하고 집중 보완합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>

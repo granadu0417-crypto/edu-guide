@@ -19,7 +19,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-객관식 문제 풀이 전략을 체계적으로 훈련합니다. 오답 제거 기법을 익혀 헷갈리는 상황에서도 정답을 찾아냅니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 객관식 문제의 특성
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-출제자의 의도를 파악하는 연습을 합니다. 왜 이런 보기를 만들었는지 분석하면 함정을 피할 수 있습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 오답 제거 기법
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 제거 기법을 실제 문제에 적용하는 연습을 합니다. 패턴을 익히면 낯선 문제에서도 정답을 찾을 수 있습니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 문제 유형별 전략
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별 접근법을 훈련합니다. 유형을 파악하면 어떻게 풀어야 하는지 바로 알 수 있습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시험장 실전 요령
@@ -77,7 +77,7 @@ OMR 카드 마킹 실수를 조심하세요. 문제 번호와 답안지 번호�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 시험장 상황을 연습합니다. 시간 압박 속에서도 실수하지 않는 습관을 만듭니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 두 개 중 하나가 헷갈릴 때

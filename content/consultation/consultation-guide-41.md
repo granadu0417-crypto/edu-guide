@@ -20,7 +20,7 @@ featured_image: "/images/edu_0063_v7FT5ngIEfA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 방향 상담에서는 학생의 현재 상황과 목표를 함께 점검합니다. 지금 어디에 있고, 어디로 가야 하는지 명확하게 정리해드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학습 방향 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0063_v7FT5ngIEfA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부 방향이 막막하다면 학습 상담을 받으세요. 어디를 향해 달려야 하는지 명확하게 정해드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 진로 상담은 장기적인 인생 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략에 초점을 맞춥니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0063_v7FT5ngIEfA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 구체적인 학습 로드맵을 안내합니다. 언제까지 무엇을 해야 하는지 단계별로 정리해드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 학습 방향은 어떻게 잡아야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0063_v7FT5ngIEfA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황에 맞는 현실적인 목표를 세워드립니다. 너무 높거나 너무 낮지 않게, 달성 가능한 목표를 함께 정합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0063_v7FT5ngIEfA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 방향 설정에 대해 더 궁금한 점이 있으시면 문의하세요. 명확한 목표를 세우는 것부터 도와드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

@@ -22,12 +22,11 @@ tags:
   - 삼송중
 featured_image: "/images/edu_0001.jpg"
 ---
-
-지금 잡지 않으면 고등학교에서 더 힘들어집니다. 고양시 덕양구 삼송동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+중등 영어, 문법과 독해를 함께 잡아야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법이 부족한지, 독해가 약한지, 어휘력이 문제인지 정확히 진단합니다. 원인을 알아야 해결됩니다.
+학생의 학습 스타일과 약점을 분석합니다. 맞지 않는 방법으로 공부하면 성적이 안 오릅니다.
 </div>
 
 ## 왜 중학교에서 영어가 어려워질까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 학교 기출 중심으로, 방학에는 선행 학습으로 진행합니다.
+개념 강의만 듣고 끝내지 않습니다. 반드시 직접 문제를 풀어봐야 합니다.
 </div>
 
 ## 삼송중 시험의 특징과 대비법
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최근 3년 기출을 분석하여 출제 패턴을 파악합니다. 예상 문제까지 준비합니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석하여 대비합니다.
 </div>
 
 ## 중학교에서 잡아야 할 고등 기초
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 틀렸을 때가 배움의 기회입니다. 왜 틀렸는지 깊이 파고듭니다.
+내신과 수능, 어느 하나도 소홀히 하지 않습니다. 효율적인 병행 전략을 알려드립니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0001.jpg"
 
 ## 마무리
 
-중학교 영어, 기초부터 확실히 잡아드립니다.
+덕양구 학생 여러분, 맞춤 수업, 지금 상담받으세요.

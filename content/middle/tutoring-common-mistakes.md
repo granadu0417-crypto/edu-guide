@@ -15,7 +15,7 @@ featured_image: "/images/edu_0229_ib4VRerGeDA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과가 없는 원인을 함께 분석합니다. 숙제 완료율, 복습 여부, 학습 태도를 점검하고 개선 방안을 제시합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 과외가 만능이라고 생각하면 안 됩니다
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0229_ib4VRerGeDA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 의존도를 낮추고 자기주도 학습 능력을 키웁니다. 혼자 공부하는 시간을 어떻게 써야 하는지 함께 계획합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 숙제를 안 하면 효과가 없습니다
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0229_ib4VRerGeDA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제를 철저히 확인합니다. 안 해오면 과외 시간에 먼저 합니다. 부모님께 주간 피드백을 드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 진도만 나가고 복습을 안 합니다
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0229_ib4VRerGeDA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 복습 테스트를 합니다. 지난 시간 내용을 기억하는지 확인하고 진도를 나갑니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 비현실적인 목표를 세웁니다
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0229_ib4VRerGeDA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현실적인 목표를 함께 세웁니다. 단기, 중기, 장기 목표를 단계적으로 설정하고 달성해나갑니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문

@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 시작 전에 학생의 현재 실력과 목표를 분석합니다. 선행이 필요한지 복습이 필요한지 진단하고, 맞춤 방학 계획을 세웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 방학 특강이 정규 수업과 다른 점은 무엇인가요?
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 동안 집중 과외를 진행합니다. 학생의 속도에 맞춰 진도를 조절하고, 모르는 부분은 즉시 해결합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 특강에는 어떤 종류가 있나요?
@@ -59,7 +59,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학별 특성에 맞춰 커리큘럼을 조정합니다. 겨울방학에는 집중도를 높이고, 여름방학에는 여유를 두고 진행합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 선행이 먼저인가요, 복습이 먼저인가요?
@@ -72,7 +72,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 현재 실력을 진단합니다. 복습이 필요하면 복습부터, 선행이 가능하면 선행을 진행합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학원 특강과 1대1 과외 중 뭐가 나을까요?
@@ -85,7 +85,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 특강과 병행하는 학생에게는 특강에서 어려웠던 부분을 집중 보완해 드립니다. 공백 없이 학습이 이어지도록 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 방학 특강을 효과적으로 활용하려면?
@@ -114,7 +114,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 마지막 주에는 배운 내용을 총정리합니다. 개학 후 첫 시험 대비 계획도 함께 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 마무리

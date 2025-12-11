@@ -19,7 +19,7 @@ featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 이 답이 나왔는지 설명하게 합니다. 답만 맞추는 게 아니라, 풀이 과정을 말로 설명할 수 있어야 진짜 이해입니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문제는 바로 답을 알려주지 않습니다. 힌트를 주고 스스로 생각하게 합니다. 끈기를 기르는 훈련입니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 문제는 그림으로 그려봅니다. 사과가 3개 있고, 2개를 더 받으면이라는 말을 그림으로 표현하면 이해가 빨라집니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 고학년의 특징과 대응
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4학년은 아직 부모님 말을 잘 듣는 시기입니다. 이때 학습 습관을 확실히 잡아두면 사춘기에도 흔들리지 않습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 가정에서의 역할
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 만들어봅니다. 틀린 문제를 모아두고, 왜 틀렸는지 분석하면 같은 실수를 반복하지 않습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 주의사항

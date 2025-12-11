@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인을 효과적으로 병행하는 전략을 설계해드립니다. 비용은 절감하면서 학습 효과는 극대화할 수 있도록 맞춤 플랜을 제안합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ### 온라인 교육의 단점
@@ -44,7 +44,7 @@ EBS는 완전 무료로 수능 연계 강의를 제공합니다. 기초부터 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-EBS와 유료 인강을 효과적으로 조합하는 방법을 안내해드립니다. 과목별로 어떤 플랫폼이 적합한지 맞춤 추천해드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ### 유료 플랫폼 선택하기
@@ -59,7 +59,7 @@ EBS와 유료 인강을 효과적으로 조합하는 방법을 안내해드립�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검증된 화상 과외 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ### 화상 과외 선택 팁
@@ -76,7 +76,7 @@ EBS와 유료 인강을 효과적으로 조합하는 방법을 안내해드립�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 자기주도 학습 능력과 과목별 상황에 맞춰 온오프라인 최적 조합을 설계해드립니다. 비용 절감과 학습 효과를 동시에 잡을 수 있습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ### 과목별 전략
@@ -91,7 +91,7 @@ EBS와 유료 인강을 효과적으로 조합하는 방법을 안내해드립�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습에 최적화된 환경 조성 방법을 안내해드립니다. 진도 관리, 복습 시스템, 동기 부여 전략까지 체계적으로 지원합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ### 효과적인 수강 방법

@@ -18,7 +18,7 @@ featured_image: "/images/edu_0227_2AYotdRGSWY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전에는 과외 횟수를 늘립니다. 평소 주 2회면 주 4에서 5회로 늘려서 집중적으로 대비합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 2주 전체 일정
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0227_2AYotdRGSWY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위를 함께 확인하고 과목별 학습 시간을 배분합니다. 취약 과목에 35퍼센트, 보통 과목에 30퍼센트, 강점 과목에 20퍼센트, 암기 과목에 15퍼센트로 나눕니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 1회독 단계 전략
@@ -54,7 +54,7 @@ D-13에서 D-10까지 과목별 1회독을 완성합니다. 수학은 매일 70�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시간에 학생 오답을 집중 분석합니다. 왜 틀렸는지 파악하고 약한 단원을 반복 설명합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 최종 마무리 전략
@@ -69,7 +69,7 @@ D-1은 컨디션 관리의 날입니다. 새로운 문제를 풀거나, 모르�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-1 수업에서는 새 내용을 가르치지 않습니다. 헷갈리는 개념만 최종 정리하고, 자주 틀리는 유형만 반복합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 암기 효율 높이기

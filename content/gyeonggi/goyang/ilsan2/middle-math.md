@@ -22,8 +22,7 @@ tags:
   - 일산중
 featured_image: "/images/edu_0003.jpg"
 ---
-
-제대로 배우면 수학도 재밌어집니다. 고양시 일산서구 일산2동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+수학 포기? 아직 이릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 3주 전부터는 내신에 올인합니다. 그 외 기간에는 심화 문제로 실력을 키웁니다.
+꾸준함이 핵심입니다. 한 번에 많이 하는 것보다 매일 조금씩 하는 게 효과적입니다.
 </div>
 
 ## 일산중 시험, 만만치 않습니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석하여 대비합니다.
+학교 프린트와 수업 필기도 함께 분석합니다. 시험에 나올 가능성이 높은 부분을 집중 대비합니다.
 </div>
 
 ## 고등 수학 선행의 핵심
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 함께 만듭니다. 시험 전에 다시 보면 실수를 줄일 수 있습니다.
+내신 1등급이 수능 1등급으로 이어지도록 합니다. 따로 공부하지 않아도 됩니다.
 </div>
 
 ## 맞춤 수업의 힘
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0003.jpg"
 
 ## 마무리
 
-지금의 노력이 고등학교를 결정합니다. 함께 준비해요.
+일산서구 학생 여러분, 오늘이 가장 빠른 날입니다. 지금 시작하세요.

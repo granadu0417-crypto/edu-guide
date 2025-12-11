@@ -22,7 +22,7 @@ featured_image: "/images/edu_0624_63QhquTNx-4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 과목별 실력을 파악하고, 취약 과목과 강점 과목을 분석합니다. 어디에 시간을 더 투자해야 하는지 전략을 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과목별 학습의 핵심
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0624_63QhquTNx-4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 핵심이 다릅니다. 국어는 독해, 수학은 개념, 영어는 어휘. 이 기본을 먼저 잡습니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 국어 학습 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0624_63QhquTNx-4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문을 읽고 구조를 분석하는 연습을 합니다. 글의 뼈대를 파악하면 어떤 지문이 나와도 읽을 수 있습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 수학 학습 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0624_63QhquTNx-4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학은 개념, 유형, 오답의 3단계로 진행합니다. 순서를 지키지 않으면 실력이 안 오릅니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 영어 학습 전략
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0624_63QhquTNx-4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어는 어휘 테스트부터 시작합니다. 단어를 모르면 독해도 안 되고 듣기도 안 됩니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 균형 학습 비율
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0624_63QhquTNx-4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞게 과목 비중을 조절합니다. 모든 학생에게 같은 비율이 맞지는 않습니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 주의사항

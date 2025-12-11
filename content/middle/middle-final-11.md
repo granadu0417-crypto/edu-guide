@@ -21,7 +21,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자유학년제 때부터 학습 습관을 잡습니다. 시험이 없어도 꾸준히 공부하는 루틴을 만듭니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자유학년제의 의미
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자유학년제의 진짜 의미를 알려드립니다. 놀아도 되는 시간이 아님을 이해시킵니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 진로 체험 활동 활용법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 활동 후 함께 이야기합니다. 어떤 점이 인상적이었는지, 관심이 생겼는지 파악합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 동아리 활동의 가치
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동아리 활동에서 배운 것을 공유합니다. 학업과 연결할 수 있는 점을 찾아줍니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학습 습관 잡기
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험이 없어도 학습 루틴을 유지합니다. 중2를 위한 기초를 미리 쌓습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자유학년제 이후 준비
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2를 대비해 선행보다 기초를 탄탄히 합니다. 흔들리지 않는 실력을 만듭니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 {{< cta-dual type="final" >}}

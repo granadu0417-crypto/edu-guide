@@ -23,7 +23,7 @@ featured_image: "/images/edu_0420_kGUmNEYaSMY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 풀이 속도를 측정합니다. 유형별 최적의 시간 배분 전략을 설계합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 권장 시간 배분
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0420_kGUmNEYaSMY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 권장 시간을 제시합니다. 실전 연습으로 시간 감각을 익힙니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시간 절약 팁
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0420_kGUmNEYaSMY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 독해법을 훈련합니다. 핵심 정보를 빠르게 찾는 연습을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 흔한 실수
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0420_kGUmNEYaSMY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 초과 원인을 분석합니다. 효율적인 마킹 전략을 함께 연습합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 등급별 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0420_kGUmNEYaSMY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 등급에 맞는 전략을 수립합니다. 단계적으로 시간을 줄여갑니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,5 +108,5 @@ featured_image: "/images/edu_0420_kGUmNEYaSMY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 전략 과외로 효율적인 시간 관리를 배웁니다. 실전 모의고사로 완벽하게 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>

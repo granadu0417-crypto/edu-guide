@@ -10,14 +10,13 @@ tags:
   - 동구수학과외
   - 동구중등수학
 ---
-
-동전 2개를 던질 때 앞면이 나오는 경우의 수를 못 구한다면, 경우의 수력이 필요합니다.
+학교 시험 대비, 제대로 해야 합니다.
 
 동구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 동구고, 대전대신고, 보문고 시험에서 경우의 수 문제가 자주 출제됩니다. 합의 법칙과 곱의 법칙을 정확히 구분하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경우의 수 법칙을 체계적으로 정리합니다. 상황별 적용을 훈련합니다.
+첫 만남에서 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-법칙 구분을 정리합니다. 순열과 조합을 훈련합니다.
+개념을 완벽히 이해한 후, 다양한 유형의 문제를 훈련합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동구고, 대전대신고 기출에서 경우의 수 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시간 대비 문제 양이 많은 학교가 있습니다. 빠르게 푸는 연습도 합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 경우의 수력을 점진적으로 향상시킵니다.
+수시와 정시, 어느 쪽에 무게를 둘지에 따라 전략이 달라집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -156,5 +155,5 @@ tags:
 
 ## 마무리
 
-동구에서 경우의 수가 어렵다면 법칙 구분 훈련이 필요합니다. 상황이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 어렵다고 포기하면 안 됩니다. 방법을 바꿔보세요.
 

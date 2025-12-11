@@ -22,7 +22,7 @@ featured_image: "/images/edu_0440_wJ7yGwz2-00.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 말하기 습관을 분석합니다. 발음, 속도, 논리 구성 등 약점을 진단하고 단계별로 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 발표 능력 향상
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0440_wJ7yGwz2-00.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발표 원고 작성부터 실제 발표까지 연습합니다. 녹화 피드백으로 개선점을 확인합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 토론 기술
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0440_wJ7yGwz2-00.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-찬반 토론 실전 연습을 합니다. 입론, 반박, 최종 발언까지 단계별로 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 설득 화법
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0440_wJ7yGwz2-00.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-설득 화법의 구조를 분석합니다. 다양한 상황별 설득 연습을 진행합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 수능 화법과 작문
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0440_wJ7yGwz2-00.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화법과 작문 기출 문제를 분석합니다. 유형별 풀이 전략을 체계적으로 훈련합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ featured_image: "/images/edu_0440_wJ7yGwz2-00.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 의사소통 능력을 완성합니다. 실전 시뮬레이션으로 자신감을 키웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>

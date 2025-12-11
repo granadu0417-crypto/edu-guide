@@ -15,7 +15,7 @@ featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 효율을 높이는 건강 관리법을 알려드립니다. 공부와 건강의 균형을 찾도록 도와드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 수면 관리가 성적을 결정한다
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수면 패턴을 분석하고 개선 방안을 제시합니다. 수면의 질을 높이는 실천 방법을 알려드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 운동이 뇌를 깨운다
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-바쁜 일정 속에서도 실천할 수 있는 운동 계획을 함께 세웁니다. 간단한 스트레칭 동작도 알려드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 영양이 뇌의 연료다
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습에 도움이 되는 식습관을 안내합니다. 실천 가능한 영양 관리 방법을 제시합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 바른 자세가 건강을 지킨다
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경과 자세를 점검합니다. 건강한 학습 환경을 만드는 방법을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문

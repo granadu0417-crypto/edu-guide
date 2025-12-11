@@ -19,7 +19,7 @@ featured_image: "/images/edu_0588_CzShzocZtW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 개념 이해도를 진단합니다. 발생 단계를 그림과 함께 순서대로 정리합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 수정과 난할
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0588_CzShzocZtW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-난할 과정을 그림으로 정리합니다. 각 단계의 특징을 비교합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 낭배와 기관 형성
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0588_CzShzocZtW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 배엽의 분화를 표로 정리합니다. 각 배엽이 형성하는 기관을 암기합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 발생 조절
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0588_CzShzocZtW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발생 조절 메커니즘을 설명합니다. 주요 실험과 그 의미를 정리합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0588_CzShzocZtW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 그림 해석 능력을 집중 훈련합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -116,5 +116,5 @@ featured_image: "/images/edu_0588_CzShzocZtW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 발생을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>

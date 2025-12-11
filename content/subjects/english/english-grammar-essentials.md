@@ -22,7 +22,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 문법 약점을 진단합니다. 이해가 부족한 개념부터 차근차근 정리합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 시제 체계
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-12시제를 체계적으로 정리합니다. 시제별 용법과 시간 표현의 관계를 명확히 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 조동사와 수동태
@@ -42,7 +42,7 @@ can은 능력/허가/가능성, must는 의무/강한 추측, should는 약한 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조동사의 뉘앙스 차이를 예문으로 익힙니다. 수동태 변환을 체계적으로 연습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 준동사
@@ -51,7 +51,7 @@ to부정사는 명사적, 형용사적, 부사적 용법이 있습니다. 동명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동사별로 어떤 준동사를 취하는지 정리합니다. 의미 차이가 있는 경우를 집중 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 관계사와 가정법
@@ -60,7 +60,7 @@ to부정사는 명사적, 형용사적, 부사적 용법이 있습니다. 동명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관계사 선택법과 가정법 공식을 확실히 정리합니다. 실전 문제로 적용력을 키웁니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ to부정사는 명사적, 형용사적, 부사적 용법이 있습니다. 동명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 약점을 체계적으로 보완합니다. 개념 이해와 문제 적용을 병행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

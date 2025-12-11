@@ -22,12 +22,11 @@ tags:
   - 고양국제고
 featured_image: "/images/edu_0013.jpg"
 ---
-
-고등학교 수학, 왜 이렇게 어려운 걸까요? 고양시 일산동구 식사동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+수학 때문에 머리 아프시죠?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어떤 개념이 부족한지, 어디서 실수가 나는지 진단합니다.
+첫 수업에서 학생의 실력을 정밀 진단합니다. 개념 이해도, 계산 정확도, 문제 해결 속도를 파악하고 부족한 부분부터 채워갑니다.
 </div>
 
 ## 고등 수학, 무엇이 문제일까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0013.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 전략에 맞춰 내신과 수능 비중을 설계합니다. 학생마다 최적의 밸런스가 다릅니다.
+풀이 과정을 깔끔하게 정리하는 연습을 합니다. 서술형 점수도 올리고, 실수도 줄입니다.
 </div>
 
 ## 고양국제고 시험, 만만치 않습니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0013.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석하여 대비합니다.
+학교 시험은 정보전입니다. 시험에 대한 정보를 바탕으로 효율적으로 대비합니다.
 </div>
 
 ## 수능 수학, 전략이 필요합니다
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0013.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 함께 만듭니다. 시험 전에 다시 보면 실수를 줄일 수 있습니다.
+수시를 노린다면 내신이 중요하고, 정시를 노린다면 수능이 중요합니다. 목표에 맞춰 비중을 조절합니다.
 </div>
 
 ## 맞춤 수업의 힘
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0013.jpg"
 
 ## 마무리
 
-수학, 혼자 고민하지 마세요. 함께하면 달라집니다.
+일산동구 학생 여러분, 맞춤 과외, 지금 시작하세요.

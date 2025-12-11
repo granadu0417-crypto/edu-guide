@@ -26,7 +26,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시장경제의 기본 원리를 먼저 설명합니다. 수요와 공급 곡선을 그래프로 이해합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수요와 공급
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수요곡선과 공급곡선을 그리는 연습을 합니다. 가격 변화의 효과를 분석합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시장 균형
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-균형 가격 결정 과정을 그래프로 설명합니다. 수요·공급 변화의 효과를 분석합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시장의 한계와 정부 개입
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시장 실패의 유형을 정리합니다. 정부 개입의 방법과 효과를 분석합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 경제 체제
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경제 체제의 유형을 비교합니다. 장단점을 분석합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 시험 대비
@@ -123,5 +123,5 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 시장경제를 완벽히 이해합니다. 그래프 분석과 문제 풀이를 함께합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>

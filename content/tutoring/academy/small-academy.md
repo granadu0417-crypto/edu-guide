@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향을 먼저 파악합니다. 소규모가 맞는 학생인지, 대형이 맞는 학생인지 상담에서 안내해 드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 소규모 학원은 뭐가 다른가요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소규모 학원에서 기본을 다지고, 과외에서 심화를 합니다. 학원에서 못 따라간 부분도 과외에서 잡습니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 어떤 학생에게 소규모 학원이 맞나요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향에 맞는 학원 유형을 안내해 드립니다. 소규모가 맞으면 소규모, 대형이 맞으면 대형을 추천합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 소규모 학원의 단점은 뭔가요?
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 유형에 상관없이 과외로 개인 맞춤을 더할 수 있습니다. 학원에서 부족한 부분을 과외에서 채웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 과외를 병행하면요?
@@ -89,7 +89,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 유형과 과외의 조합을 함께 설계해 드립니다. 비용과 효과를 종합적으로 고려합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

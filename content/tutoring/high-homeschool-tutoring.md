@@ -19,7 +19,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 홈스쿨링 상황을 파악합니다. 어떻게 공부하고 있는지, 어떤 목표가 있는지 확인합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 홈스쿨링의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-홈스쿨링의 장점을 살리면서 체계적인 학습을 도와드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 맞춤 학습 계획
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 맞춤 커리큘럼을 제공합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 과목별 학습
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 커리큘럼에 맞추면서도 학생의 관심사를 반영합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-홈스쿨링 학생의 특수한 상황을 이해합니다. 유연하게 대응합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 홈스쿨링 상황을 파악하고 학습 계획을 안내드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

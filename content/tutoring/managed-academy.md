@@ -24,7 +24,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 자기 관리 능력을 먼저 파악합니다. 어떤 수준의 관리가 필요한지 상담에서 안내해 드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 관리형학원이란 뭔가요?
@@ -39,7 +39,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관리형학원에서 부족한 부분은 과외로 보완합니다. 학원 진도에 맞춰 약점만 집중 케어합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 관리형학원의 장점은 뭔가요?
@@ -52,7 +52,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관리형학원 수업 외에 심화가 필요하면 과외를 추천합니다. 기본 관리는 학원, 실력 향상은 과외로 나눕니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 관리형학원의 단점은 뭔가요?
@@ -75,7 +75,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황을 파악해서 어떤 수준의 관리가 맞는지 안내해 드립니다. 과도한 관리가 역효과일 수도 있습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 관리형학원 선택할 때 뭘 확인해야 하나요?
@@ -90,7 +90,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관리형학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문

@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적과 목표를 분석해서 수시와 정시 중 유리한 전형을 안내합니다. 그에 맞는 학원과 과외 전략을 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 수시랑 정시, 뭐가 다른가요?
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1-2는 내신과 수능을 함께 준비합니다. 고2 말-고3 초에 전형을 결정하고 집중합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 고등학원 유형별 특징
@@ -49,7 +49,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 학원 유형을 안내합니다. 수시 위주면 내신 학원, 정시 위주면 수능 학원을 추천합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 학년별로 어떻게 해야 하나요?
@@ -72,7 +72,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 커리큘럼을 짭니다. 학원에서 빠르게 넘어간 부분을 과외에서 확실히 잡습니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 고등학생에게 중요한 것
@@ -85,7 +85,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장기 플랜으로 함께 갑니다. 성적뿐 아니라 멘탈 관리도 신경 씁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문

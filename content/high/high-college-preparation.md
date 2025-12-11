@@ -15,7 +15,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 강점을 파악해 유리한 전형을 찾습니다. 3년간 학생부 관리와 수능 준비를 함께 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 수시 전형의 종류
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적과 활동을 분석해 최적의 전형 조합을 추천합니다. 전형별 준비 전략을 세워드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 학생부 관리 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학기별로 학생부를 점검하고 보완점을 안내합니다. 세특 주제와 비교과 활동 방향을 함께 설계합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 면접 준비
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예상 질문 리스트를 만들고 모의 면접을 실시합니다. 개인별 피드백으로 약점을 보완합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 수시 6회 원서 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-합격 가능성을 시뮬레이션해서 최적의 지원 조합을 찾습니다. 환산 점수 계산과 배치 분석을 도와드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문

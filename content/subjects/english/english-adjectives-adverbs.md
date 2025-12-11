@@ -20,7 +20,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-형용사와 부사의 역할 차이를 명확히 설명합니다. 헷갈리는 부분을 집중 연습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 형용사의 역할과 위치
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-형용사가 들어가는 위치를 문장 구조와 함께 익힙니다. 감각동사 뒤 형용사 패턴을 집중 연습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 부사의 역할과 위치
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부사의 다양한 수식 대상을 예문으로 익힙니다. 부사 위치에 따른 의미 차이도 학습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 형용사에서 부사 만들기
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-ly를 붙여도 뜻이 달라지는 단어들을 정리합니다. 자주 틀리는 부분을 반복 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## good과 well의 구별
@@ -58,7 +58,7 @@ good은 형용사이고 well은 부사입니다. He is a good singer에서 good�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-good과 well을 헷갈리지 않도록 다양한 문장에서 연습합니다. 시험 빈출 패턴을 익힙니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ very는 형용사나 부사를 수식하고 much는 비교급이나 동사를 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 형용사와 부사를 완벽히 정복합니다. 헷갈리는 부분을 확실히 잡아드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>

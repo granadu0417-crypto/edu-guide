@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 점수와 목표 점수를 먼저 파악합니다. Reading, Listening, Speaking, Writing 중 어디가 약한지 분석해서 맞춤 전략을 세웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 토플 학원은 토익 학원이랑 뭐가 다른가요?
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토플 학원에서 전체 구조를 배우고, 과외에서 Speaking과 Writing을 집중 훈련합니다. 피드백이 핵심입니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 토플 영역별로 어떻게 준비하나요?
@@ -51,7 +51,7 @@ Writing도 통합형이 있습니다. Reading과 Listening을 듣고 쓰는 통�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별로 약점을 파악하고 집중 훈련합니다. Speaking과 Writing은 매번 첨삭과 피드백을 제공합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 점수대별로 어떤 전략이 맞나요?
@@ -74,7 +74,7 @@ Speaking과 Writing에 투자하세요. 한국 학생들은 보통 이 두 영�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단기 점수 상승에 집중합니다. 불필요한 내용은 과감히 생략하고, 점수에 직접 연결되는 부분만 집중 훈련합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과외를 병행하면 어떤 효과가 있나요?
@@ -87,7 +87,7 @@ Writing 첨삭이 꼼꼼해집니다. 학원 첨삭은 간단할 수 있습니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토플 점수 상승에 필요한 것만 집중합니다. Speaking 약하면 Speaking만, Writing 약하면 Writing만 집중 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

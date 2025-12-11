@@ -19,7 +19,7 @@ featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 어휘 수준을 진단합니다. 맞춤형 어휘 학습 계획을 수립합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 한자어 학습
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 한자를 체계적으로 학습합니다. 한자어 어근으로 단어를 확장합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 관용어와 속담
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 나오는 관용어와 속담을 정리합니다. 실제 문맥에서 활용하는 연습을 합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 어휘 학습법
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 어휘 학습법을 안내합니다. 어휘 노트 작성법을 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 유형을 파악하고 보완합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 어휘력을 키웁니다. 체계적 학습과 실전 활용을 함께합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

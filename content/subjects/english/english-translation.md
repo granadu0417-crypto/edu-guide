@@ -23,7 +23,7 @@ featured_image: "/images/edu_0421_InbrvPARzM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-번역 원칙을 체계적으로 정리합니다. 실제 예문으로 직역과 의역의 균형을 훈련합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 번역의 기본 원칙
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0421_InbrvPARzM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-의미 중심 번역을 연습합니다. 관용표현 번역 방법을 익힙니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 번역 과정
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0421_InbrvPARzM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 번역 과정을 훈련합니다. 구조 분석 방법을 체계적으로 익힙니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 흔한 오역 유형
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0421_InbrvPARzM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 오역 유형을 정리합니다. 올바른 번역 방법을 반복 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 실력 향상 방법
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0421_InbrvPARzM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대역 비교 분석을 함께합니다. 즉각적인 피드백으로 약점을 개선합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,5 +84,5 @@ featured_image: "/images/edu_0421_InbrvPARzM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 번역 과외로 체계적으로 배웁니다. 즉각적인 피드백으로 빠르게 실력을 키웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>

@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지구과학은 암기만으로 부족합니다. 도표 해석, 그래프 분석, 계산 문제 풀이 능력이 필요합니다. 1대1로 정확히 잡아드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 지구과학 과외가 필요한 이유에요
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 먼저 이해하게 합니다. 왜 그런 현상이 생기는지 원리를 알면 암기량이 줄어듭니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 지1과 지2, 어떻게 다른가요?
@@ -54,7 +54,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복잡한 천문 개념도 그림과 시뮬레이션으로 쉽게 설명합니다. 학생이 이해했는지 확인하면서 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 수업은 이렇게 진행해요
@@ -65,7 +65,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능 중 학생 목표에 맞춰 수업합니다. 내신 기간에는 학교 시험 대비, 그 외에는 수능 기출 분석을 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 천문 파트가 특히 어려워요
@@ -74,7 +74,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-천문 파트는 시각 자료를 많이 활용합니다. 별자리 시뮬레이션, 천구 모형 등으로 입체적으로 이해하게 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 수준을 먼저 파악합니다. 어떤 방식이 맞는지 함께 고민하고 제안해 드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 1대1 과외는 어떤 점이 좋은가요?
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1대1 수업에서는 학생이 스스로 생각하도록 유도합니다. 의존이 아닌 자립을 목표로 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 그룹 과외는 어떤가요?
@@ -47,7 +47,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 수업에서도 개별 질문 시간을 따로 확보합니다. 모든 학생이 이해하고 넘어갑니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 어떤 학생에게 뭐가 맞나요?
@@ -68,7 +68,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 따라 수업 방식을 다르게 제안합니다. 효과적인 조합을 함께 찾아드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 어떻게 하면 효과를 높일 수 있나요?
@@ -79,7 +79,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 방식에 맞는 활용법을 안내해 드립니다. 효과를 최대화하는 방법을 알려드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 점수 변동 원인을 분석합니다. 실전 감각을 유지할 수 있는 훈련 방법을 안내합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 점수 변동의 원인
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-점수 변동 원인을 함께 분석합니다. 문제점을 파악하고 해결책을 찾습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 실전 감각 유지 방법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 모의고사를 풀어봅니다. 실전과 같은 환경에서 연습하도록 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 오답 분석 방법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답을 철저히 분석합니다. 같은 실수를 반복하지 않도록 취약점을 보완합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 과목별 전략 수립
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 약점을 파악하고 맞춤 전략을 세웁니다. 효율적으로 점수를 올리는 방법을 찾습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 컨디션 관리

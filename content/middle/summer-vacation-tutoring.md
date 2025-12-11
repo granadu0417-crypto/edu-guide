@@ -18,7 +18,7 @@ featured_image: "/images/edu_0226_9eppPl9-5T8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 시작 전에 1학기 성적을 분석합니다. 취약 과목을 파악하고 방학 학습 계획을 세웁니다. 복습과 선행 비율을 학생 상태에 맞게 정합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 방학이 중요한 이유
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0226_9eppPl9-5T8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 동안 과외 횟수를 늘립니다. 평소 주 2회면 방학에는 주 3에서 4회로 늘려서 집중적으로 학습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 40일 전체 계획
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0226_9eppPl9-5T8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 계획을 세웁니다. 중1은 습관에, 중2는 실력에, 중3은 고등 대비에 초점을 맞춥니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 선행과 복습의 비율
@@ -69,7 +69,7 @@ featured_image: "/images/edu_0226_9eppPl9-5T8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 과외는 평소보다 시간을 늘립니다. 90분에서 120분으로 늘려서 개념과 문제 풀이를 충분히 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 생활 관리

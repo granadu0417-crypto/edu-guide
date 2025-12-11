@@ -17,7 +17,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 시험 범위와 현재 실력을 빠르게 진단합니다. 핵심만 뽑아서 집중적으로 나갑니다. 시간이 없으니 불필요한 것은 과감히 버립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 단기 과외로 가능한 것
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표를 구체적으로 정합니다. 막연히 성적 올리기가 아니라 이번 시험 80점, 함수 단원 완벽히 같은 구체적 목표를 세웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 단기 과외로 불가능한 것
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작할 때 어제 복습 내용을 확인합니다. 복습 안 하면 단기 과외는 효과가 없습니다. 숙제 검사를 꼼꼼히 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시험 대비 단기 과외 진행
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 프린트와 기출 문제를 최우선으로 다룹니다. 학교 시험에 나올 문제를 예상하고 집중적으로 연습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과목별 단기 전략
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단기 과외가 끝나면 앞으로의 방향을 함께 정합니다. 정기 과외가 필요한지, 혼자 공부할 수 있는지 판단해서 조언합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}

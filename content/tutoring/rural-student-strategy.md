@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역과 상관없이 서울 명문대 선생님과 온라인으로 수업합니다. 화면 공유와 실시간 소통으로 방문 과외와 효과가 같습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 지방 학생은 어떤 어려움이 있나요?
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최신 입시 정보와 학습 전략을 함께 알려드립니다. 지방에서 놓치기 쉬운 정보도 빠짐없이 전달합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 온라인 1대1 과외가 왜 최적인가요?
@@ -54,7 +54,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화면 공유와 태블릿 필기로 대면 수업처럼 진행합니다. 수학 풀이도 막힘없이 함께 보면서 설명합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 효율적인 학습 조합은 뭔가요?
@@ -65,7 +65,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 스스로 공부하는 능력을 키우도록 지도합니다. 자기주도 학습 계획을 함께 세우고 매주 점검합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 정보 격차는 어떻게 해소하나요?
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 지도뿐 아니라 입시 정보와 대학 진학 상담도 함께 합니다. 궁금한 건 언제든 물어보세요.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문

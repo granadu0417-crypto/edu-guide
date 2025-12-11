@@ -26,7 +26,7 @@ featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상태를 정확히 진단합니다. 난산증인지 수포자인지 파악하고 맞춤 전략을 세웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 맞춤 학습 전략
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시각 자료와 구체물을 적극 활용합니다. 학생 속도에 맞춰 단계별로 천천히 진행합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 심리적 지원
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심리적 안정을 최우선으로 합니다. 절대 화내지 않고 칭찬을 많이 하며 기다려주고 믿어줍니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 1:1 과외의 중요성
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습장애 학생 전문 지도 경험이 있습니다. 인내심과 긍정적 태도로 끝까지 함께합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 부모 가이드
@@ -106,6 +106,6 @@ featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 학습장애 전문 1:1 과외로 희망을 찾아드립니다. 학생 속도에 맞춰 끝까지 함께합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 

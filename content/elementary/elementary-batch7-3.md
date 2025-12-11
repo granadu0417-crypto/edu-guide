@@ -19,7 +19,7 @@ featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3학년부터 예습과 복습 방법을 구체적으로 가르칩니다. 내일 배울 내용 10분 훑어보기, 오늘 배운 내용 5분 정리하기부터 시작합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스스로 학습 계획표를 만들어보게 합니다. 처음에는 함께 만들고, 점차 혼자 만들도록 유도합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오늘 배운 내용을 말로 설명하게 합니다. 선생님한테 설명할 수 있으면 진짜 이해한 것입니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 3학년의 특징과 대응
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스스로 했다는 성취감을 느끼게 합니다. 살짝 도와주되, 결국 혼자 해냈다고 느끼도록 유도합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 계획표를 함께 만들고, 매주 얼마나 지켰는지 확인합니다. 지킨 만큼 칭찬합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 주의사항

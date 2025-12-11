@@ -19,7 +19,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 문학 해석 능력을 먼저 진단합니다. 시, 소설, 고전 중 어느 부분이 약한지 파악합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 문학이 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 해석의 객관적 기준을 알려드립니다. 감이 아닌 근거로 분석하는 방법을 배웁니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시 해석의 방법
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시 해석의 공식을 알려드립니다. 어떤 시가 나와도 적용할 수 있는 분석 틀을 갖추게 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 소설 분석의 방법
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소설 분석의 체계적인 방법을 알려드립니다. 긴 소설도 핵심을 빠르게 파악하게 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 고전 문학 접근법
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고전 문학 필수 작품을 정리합니다. 자주 출제되는 작품을 미리 분석해둡니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 과외의 장점
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 활용해 작품 분석 능력을 키웁니다. 실전에 적용할 수 있게 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -107,7 +107,7 @@ featured_image: "/images/edu_0041_9-PE3C5p7NE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

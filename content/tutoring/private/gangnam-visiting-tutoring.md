@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강남 지역 학교 정보를 정확히 파악하고 있습니다. 휘문고, 숙명여고, 중동고 등 학교별 특성에 맞춰 내신 대비를 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 강남 과외의 특징이에요
@@ -34,7 +34,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 대학과 현재 성적을 분석합니다. 목표에 맞는 전략을 세우고 단계별로 진행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 비용은 어느 정도인가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생 수준을 파악합니다. 설명 방식과 학생과의 궁합을 확인한 후 본 수업을 시작합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 수업 장소는 어디가 좋을까요?
@@ -64,7 +64,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 집중도와 편의성을 고려해서 장소를 함께 정합니다. 학생에게 가장 효과적인 환경을 찾습니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 인근 지역에서도 가능해요
@@ -73,7 +73,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 수업도 대면처럼 진행합니다. 화면 공유로 교재를 함께 보고, 실시간으로 문제를 풉니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

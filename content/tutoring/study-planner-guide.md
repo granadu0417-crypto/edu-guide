@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 계획 세우는 것부터 함께 합니다. 과외 시간에 맞춰 효율적인 플래너 작성법도 알려드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 플래너가 왜 필요한가요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전에 이번 주 계획을 점검합니다. 지난 주 계획 실천 여부도 함께 확인합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 종이 플래너랑 앱 중에 뭐가 좋나요?
@@ -50,7 +50,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 플래너 방식을 추천해 드립니다. 디지털이 편한 학생에게는 앱 활용법도 알려드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 플래너를 어떻게 작성하나요?
@@ -71,7 +71,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습 시간 배분도 함께 정합니다. 학생의 현재 성적과 목표에 맞춰 조절해 드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 1대1 과외 시간은 어디에 넣나요?
@@ -84,7 +84,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 일정에 맞춘 복습 계획도 함께 세웁니다. 숙제도 적절하게 내드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 계획을 어떻게 지키나요?
@@ -97,7 +97,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-월간 목표 달성도를 함께 점검합니다. 계획 수정이 필요하면 함께 조정해 드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문

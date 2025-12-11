@@ -18,7 +18,7 @@ featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중계동 학원이나 과외를 시작하기 전에 학생의 현재 실력을 정확하게 진단합니다. 레벨 테스트를 3-5곳 응시해서 객관적인 실력을 파악한 후 적합한 학원이나 과외를 추천드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 중계동 교육 특구의 특징
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중계동의 강점인 '기본기 중시' 문화를 적극 활용합니다. 무리한 선행보다 현재 학년 개념을 완벽하게 숙달한 후 다음 단계로 넘어갑니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ### 중계동 학원가 지도
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 레벨 테스트 결과를 바탕으로 적합한 학원 유형을 추천합니다. 대형 프랜차이즈가 좋을지, 중형 전문 학원이 좋을지, 과외가 필요한지 맞춤 방향을 제시합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 학년별 중계동 학원 활용 전략
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 적정 학원 개수와 학습 시간을 안내드립니다. 중학생은 수학 주 3-4회, 영어 주 2-3회, 국어 주 1-2회가 적정합니다. 과다 학원 등록은 오히려 역효과입니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ### 고등학생 - 입시 집중
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 티칭 능력, 아이와의 궁합, 체계적 학습 계획, 소통 능력을 확인합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 중계동 입시 성과
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력과 목표에 맞는 현실적인 학습 계획을 세웁니다. 무리한 목표보다 달성 가능한 단계별 목표를 설정해서 성취감을 느끼며 공부할 수 있도록 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문

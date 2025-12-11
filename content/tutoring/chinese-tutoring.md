@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞춰 수업합니다. 회화 중심, HSK 대비, 내신 대비 등 원하는 방향으로 커리큘럼을 짭니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 중국어 과외의 장점이에요
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발음은 처음부터 정확히 잡습니다. 성조 실수가 굳어지면 나중에 고치기 어렵습니다. 초기에 집중해서 교정합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 목표별 수업 방향이 달라요
@@ -54,7 +54,7 @@ HSK 대비가 목표면 해당 급수 합격 경험이 있는 선생님이 좋�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준과 목표를 파악한 후 적합한 선생님을 추천합니다. 초보면 한국인 선생님, 회화 중심이면 원어민 선생님이 효과적입니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 기초부터 시작해도 되나요?
@@ -65,7 +65,7 @@ HSK 대비가 목표면 해당 급수 합격 경험이 있는 선생님이 좋�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기초 단계에서는 반복이 중요합니다. 매 수업 시작 전에 지난 시간 복습을 하고, 숙제를 확인합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 화상 과외도 가능해요
@@ -74,7 +74,7 @@ HSK 대비가 목표면 해당 급수 합격 경험이 있는 선생님이 좋�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 수업도 대면처럼 진행합니다. 화면 공유로 교재를 함께 보고, 발음을 교정합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문

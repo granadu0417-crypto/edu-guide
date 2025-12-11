@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 종합 학원에서 어떤 과목을 배우는지 파악합니다. 학원 진도에 맞춰 부족한 부분을 과외로 보완합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 종합 학원이랑 단과 학원, 뭐가 다른가요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 종합 학원에서 배우는 내용을 확인합니다. 학원에서 약한 과목을 과외로 집중 보완합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 종합 학원의 장점은 뭔가요?
@@ -51,7 +51,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합 학원의 관리 시스템을 보완합니다. 학원에서 개별 케어가 부족한 부분을 과외에서 채웁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 단점은 없나요?
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 학습 방법을 안내합니다. 종합 학원이 맞는지, 과외가 맞는지 함께 고민합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 종합 학원과 과외를 병행하면 좋나요?
@@ -89,7 +89,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합 학원 진도에 맞춰 과외를 진행합니다. 학원에서 이해 안 된 부분을 과외에서 바로 해결합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -10,14 +10,13 @@ tags:
   - 세종시수학과외
   - 세종시중등수학
 ---
-
-A∩B와 A∪B의 차이를 벤다이어그램으로 표현하지 못한다면, 집합력이 필요합니다.
+중학생이라면 알아야 할 수학 공부법이 있습니다.
 
 세종시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 세종고, 양지고, 아름고 시험에서 집합 문제가 자주 출제됩니다. 교집합, 합집합, 여집합의 개념을 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집합 연산을 체계적으로 정리합니다. 벤다이어그램 활용을 훈련합니다.
+진단 결과를 바탕으로 맞춤 커리큘럼을 설계합니다. 같은 수업은 없습니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ A∩B와 A∪B의 차이를 벤다이어그램으로 표현하지 못한다면, 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집합 기호를 암기합니다. 여집합 계산을 훈련합니다.
+손으로 푸는 과목입니다. 눈으로만 보면 안 됩니다. 직접 써야 합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ A∩B와 A∪B의 차이를 벤다이어그램으로 표현하지 못한다면, 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세종고, 양지고 기출에서 집합 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+혼자 준비하면 방향을 잃기 쉽습니다. 함께 준비하세요.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ A∩B와 A∪B의 차이를 벤다이어그램으로 표현하지 못한다면, 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 집합력을 점진적으로 향상시킵니다.
+내신과 수능의 차이를 명확히 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -116,5 +115,5 @@ A∩B와 A∪B의 차이를 벤다이어그램으로 표현하지 못한다면, 
 
 ## 마무리
 
-세종시에서 집합이 어렵다면 기호 해석 훈련이 필요합니다. 연산이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 맞춤 과외, 지금 시작하세요.
 

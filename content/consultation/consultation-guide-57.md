@@ -22,7 +22,7 @@ featured_image: "/images/edu_0080_wwy-z7NPTTM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 상담에서는 왜 틀렸는지 분석하는 방법을 안내합니다. 단순히 베끼는 게 아니라 실수를 예방하는 시스템을 만들어드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 오답노트 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0080_wwy-z7NPTTM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 실수를 반복한다면 학습 상담을 받으세요. 실수를 줄이는 시스템을 만들어드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 진학 상담은 시험 대비 오답 분석을 세울 때 도움이 됩니다. 심리 상담은 실수에 대한 불안이 심할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0080_wwy-z7NPTTM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 학생에게 맞는 오답 노트 형식과 활용법을 안내합니다. 실제로 복습하게 만드는 시스템을 설계합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 오답 노트는 어떻게 활용해야 하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0080_wwy-z7NPTTM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 오답 패턴을 분석해서 맞춤형 보완 전략을 세워드립니다. 같은 실수를 두 번 하지 않도록 돕습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0080_wwy-z7NPTTM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석에 대해 더 궁금한 점이 있으시면 문의하세요. 실수를 줄이는 방법을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 마무리

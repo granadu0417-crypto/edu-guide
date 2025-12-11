@@ -21,7 +21,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별, 선생님별 출제 경향을 분석합니다. 기출을 통해 자주 나오는 유형을 파악하고 집중 대비합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 선생님 스타일 파악하기
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님의 출제 경향을 함께 분석합니다. 어떤 부분을 중점적으로 봐야 하는지 알려드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 기출문제 활용법
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 체계적으로 분석합니다. 출제 패턴과 자주 나오는 유형을 정리해드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 교과서 중심 학습
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 핵심 내용을 정리합니다. 출제 포인트를 짚어서 효율적으로 학습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 필기 정리
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필기를 함께 정리합니다. 수업 내용을 체계적으로 정리해서 시험 대비에 활용합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 서술형 대비

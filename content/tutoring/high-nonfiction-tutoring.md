@@ -19,7 +19,7 @@ featured_image: "/images/edu_0042_PLeMfbzWA90.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 비문학 풀이 방식을 분석합니다. 어떻게 읽고 어떻게 푸는지 진단합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 수능 비문학의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0042_PLeMfbzWA90.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 유형별 특징과 출제 패턴을 정리합니다. 유형에 따른 접근법을 알려드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 지문 분석 기술
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0042_PLeMfbzWA90.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문에 표시하는 방법을 알려드립니다. 효율적으로 정보를 정리하는 기술을 익힙니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 문제 유형별 풀이법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0042_PLeMfbzWA90.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별로 풀이 전략을 정리합니다. 유형에 따른 접근법을 체화시킵니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 시간 관리 전략
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0042_PLeMfbzWA90.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간을 재고 푸는 연습을 합니다. 실전 감각을 키웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 과외의 장점
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0042_PLeMfbzWA90.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 철저히 합니다. 실수 패턴을 찾아 교정합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0042_PLeMfbzWA90.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문

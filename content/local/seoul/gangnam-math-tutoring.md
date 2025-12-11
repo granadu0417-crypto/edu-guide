@@ -43,7 +43,7 @@ featured_image: "/images/edu_0326_n9AaeihA9HI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 수학 1등급을 향한 체계적인 로드맵! 개념부터 킬러 문항까지, 단계별로 정복해갑니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ### 압구정·청담 - 글로벌 수학의 중심
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0326_n9AaeihA9HI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입시까지 한 번에 준비합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학년별 수학과외, 이렇게 선택하세요
@@ -73,7 +73,7 @@ AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교구와 게임을 활용해 수학이 재미있어지는 경험을 선물합니다. "수학 시간이 기다려져요"라고 말할 때까지!
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ### 중학생 수학과외
@@ -92,7 +92,7 @@ AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 그렇게 푸는지 이해하는 수학! 공식 암기가 아닌 개념 이해로 어떤 문제든 해결합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ![수학 문제풀이](/images/edu_0280_2eM_-v2o0Ik.jpg)
@@ -107,7 +107,7 @@ AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 1등급과 모의고사 1등급, 둘 다 잡습니다. 학교별 출제 경향 분석은 기본입니다!
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 **고3 수능 수학**은 남은 시간을 효율적으로 활용하는 게 관건입니다. 킬러 문항보다 실수 방지가 우선이에요.
@@ -146,7 +146,7 @@ AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시간 외에도 학습이 이어지도록! 맞춤 과제와 오답노트 점검으로 빈틈을 채웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ### 아이와의 케미 확인
@@ -181,7 +181,7 @@ AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간만이 아닙니다! 복습 계획을 함께 세우고 카톡으로 질문도 받아드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 대면 vs 화상, 어떤 게 맞을까요?
@@ -241,7 +241,7 @@ AP, IB 커리큘럼 완벽 대응! 국제학교 내신부터 해외 대학 입�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 수업으로 우리 아이만을 위한 학습 전략을 세웁니다. 무료 상담에서 현재 수준을 정확히 파악해드려요!
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 마무리하며

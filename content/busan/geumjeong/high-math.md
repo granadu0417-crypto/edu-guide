@@ -10,14 +10,13 @@ tags:
   - 금정구수학과외
   - 금정구고등수학
 ---
-
-집합의 교집합과 합집합이 헷갈린다면, 집합 연산력이 필요합니다.
+고등학생이라면 알아야 할 수학 공부법이 있습니다.
 
 금정구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 금정고, 부산대부고, 오륜고 시험에서 집합 문제가 자주 출제됩니다. 벤다이어그램을 정확히 해석하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집합 연산의 정의를 명확히 합니다. 벤다이어그램으로 시각화하는 훈련을 합니다.
+첫 수업에서 사고 과정을 점검합니다. 문제 푸는 방식을 보면 약점이 보입니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-포함-배제의 원리를 완벽히 익힙니다. 실수하기 쉬운 부분을 집중 훈련합니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-금정고, 부산대부고 기출에서 집합 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 집합 연산력을 점진적으로 향상시킵니다.
+내신 공부가 수능에 도움이 되도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,4 +125,4 @@ tags:
 
 ## 마무리
 
-금정구에서 집합이 헷갈린다면 기호 훈련이 필요합니다. 연산이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 포기가 아니라 도전입니다. 함께 해보세요.

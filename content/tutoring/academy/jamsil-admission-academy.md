@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고3 학생의 현재 성적과 목표를 분석합니다. 수시인지 정시인지에 따라 전략이 완전히 달라집니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 입시학원이랑 일반 학원, 뭐가 다른가요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 유형별로 접근합니다. 각 과목의 고정 출제 유형을 분석하고 훈련합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 잠실 입시학원의 특징
@@ -51,7 +51,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 분위기에 맞는 학생인지 먼저 파악합니다. 경쟁 환경이 맞는 학생이 있고, 안 맞는 학생이 있습니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 시기별로 어떻게 준비하나요?
@@ -74,7 +74,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 매번 분석합니다. 틀린 문제를 함께 보면서 왜 틀렸는지, 어떻게 고칠지 전략을 세웁니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 수능 성공의 핵심
@@ -87,7 +87,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적뿐 아니라 컨디션도 점검합니다. 지치지 않도록 페이스를 조절하면서 함께 갑니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문

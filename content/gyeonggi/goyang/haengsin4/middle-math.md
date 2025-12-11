@@ -22,12 +22,11 @@ tags:
   - 행신중
 featured_image: "/images/edu_0017.jpg"
 ---
-
-수포자가 되기 전에, 지금 잡으면 됩니다. 고양시 덕양구 행신4동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+지금 시작하면 충분히 따라잡을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적표만 보지 않습니다. 실제로 문제를 풀어보면서 어디서 막히는지 정확히 파악합니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지, 어떤 단원이 문제인지 파악합니다.
 </div>
 
 ## 중학교 수학이 어려운 진짜 이유
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 1등급이 고등학교 성적으로 이어지도록 합니다. 따로 공부하지 않아도 됩니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 행신중 시험에서 고득점 받는 법
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 문제도 학교마다 변형해서 출제합니다. 학교 스타일의 변형 문제를 연습합니다.
+시간 대비 문제 양이 많은 학교가 있습니다. 빠르게 푸는 연습도 함께 합니다.
 </div>
 
 ## 고등학교 가기 전에 준비할 것
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 후에는 반드시 오답 분석 시간을 가집니다. 같은 유형에서 다시 틀리지 않도록 합니다.
+학년별로 내신과 수능 비중을 조절합니다. 고1은 내신 중심, 고3은 수능 비중을 높여갑니다.
 </div>
 
 ## 왜 1:1 수업을 추천할까요?
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0017.jpg"
 
 ## 마무리
 
-수학은 포기가 아니라 도전입니다. 함께 해보세요.
+덕양구 학생 여러분, 어렵다고 포기하면 안 됩니다. 방법을 바꿔보세요.

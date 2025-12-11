@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토익은 약점을 정확히 파악하면 빠르게 점수가 오릅니다. LC, RC 중 부족한 영역을 집중 공략합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 토익 점수가 왜 안 오를까요?
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 통해 약점을 찾습니다. 왜 틀렸는지 정확히 파악하고 같은 실수를 반복하지 않게 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 과외가 학원보다 나은 점이 뭔가요?
@@ -54,7 +54,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토익 고득점 경험과 강의 경력을 갖춘 선생님을 연결합니다. 시범 수업에서 실력을 확인합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## LC와 RC는 어떻게 공부해야 하나요?
@@ -65,7 +65,7 @@ RC는 문법과 독해 두 가지입니다. 문법은 자주 나오는 유형을
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-LC, RC 영역별 전략을 가르칩니다. 파트별 접근법을 익혀 효율적으로 문제를 풉니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 얼마나 공부하면 점수가 오르나요?
@@ -76,7 +76,7 @@ LC, RC 영역별 전략을 가르칩니다. 파트별 접근법을 익혀 효율
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 점수와 기간에 맞춰 학습 계획을 세웁니다. 매일 과제를 드리고 실천 여부를 체크합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문

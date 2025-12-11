@@ -22,7 +22,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 시험에 맞춤화된 전략으로 준비합니다. 시험별 출제 경향과 풀이법을 익힙니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 국내용 영어 시험
@@ -31,7 +31,7 @@ TOEIC은 취업과 승진에 가장 많이 활용됩니다. 990점 만점으로 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-TOEIC, TEPS 등 국내 시험의 특성에 맞춰 준비합니다. 취약 파트를 집중 보완합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 해외용 영어 시험
@@ -42,7 +42,7 @@ TOEFL은 미국 유학에 필요합니다. 120점 만점으로 Reading, Listenin
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-TOEFL, IELTS 등 해외 시험을 체계적으로 준비합니다. Speaking, Writing 영역도 집중 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 효과적인 시험 준비법
@@ -51,7 +51,7 @@ TOEFL, IELTS 등 해외 시험을 체계적으로 준비합니다. Speaking, Wri
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 점수 달성을 위한 학습 계획을 세웁니다. 취약 파트를 집중 보완합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -98,5 +98,5 @@ TOEFL, IELTS 등 해외 시험을 체계적으로 준비합니다. Speaking, Wri
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 시험 대비 수업으로 목표 점수를 달성합니다. 효율적인 준비 전략을 세워드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

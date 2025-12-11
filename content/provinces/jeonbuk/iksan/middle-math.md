@@ -10,14 +10,13 @@ tags:
   - 익산시수학과외
   - 익산시중등수학
 ---
-
-2x + 3 > 7에서 x의 범위를 구할 수 없다면, 부등식력이 필요합니다.
+포기하기엔 아직 이릅니다.
 
 익산시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 익산고, 이리고, 남성고 시험에서 부등식 문제가 자주 출제됩니다. 부등호의 방향과 해의 범위를 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부등식 풀이법을 체계적으로 정리합니다. 부등호 방향 변화를 훈련합니다.
+실력 진단 없이 수업하면 시간만 낭비됩니다. 체계적인 진단으로 학습 경로를 설계합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부등식 성질을 정리합니다. 수직선 표현을 훈련합니다.
+복습 시점을 알려드립니다. 오늘 배운 내용은 반복 복습해야 합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-익산고, 이리고 기출에서 부등식 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험 범위에 맞춰 집중 대비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 부등식력을 점진적으로 향상시킵니다.
+학년별로 내신과 수능 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -136,5 +135,5 @@ tags:
 
 ## 마무리
 
-익산시에서 부등식이 어렵다면 성질 훈련이 필요합니다. 방향이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 시작이 반입니다.
 

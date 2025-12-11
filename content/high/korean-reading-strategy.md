@@ -22,7 +22,7 @@ featured_image: "/images/edu_0807_rn3_rMLhNLc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 패턴을 분석합니다. 어디서 시간이 지체되는지 파악하고 효율적인 읽기 전략을 코칭합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 수능 국어의 구조와 시간 배분
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0807_rn3_rMLhNLc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사를 시간을 재며 풉니다. 영역별 시간 소요를 기록하고 최적의 시간 배분을 찾아갑니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 비문학 독해 전략
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0807_rn3_rMLhNLc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 읽기 3단계를 체화할 때까지 반복 훈련합니다. 실제 지문으로 연습하며 구조 파악 능력을 키웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 지문 유형별 공략법
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0807_rn3_rMLhNLc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 기출 지문을 분석합니다. 인문, 사회, 과학 각 유형의 특성을 파악하고 맞춤 전략을 적용합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 선택지 판단 기술
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0807_rn3_rMLhNLc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 작품 분석 방법을 체계적으로 훈련합니다. 필수 작품을 함께 읽고 분석하며 감상 능력을 키웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 오답률 높은 문제 유형 공략

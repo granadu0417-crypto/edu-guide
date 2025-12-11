@@ -15,7 +15,7 @@ featured_image: "/images/edu_0644_CJmOrnngHlE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적성 검사와 상담을 통해 학생의 강점과 흥미를 파악합니다. 다양한 학과와 직업 정보를 함께 탐색합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자기 이해가 먼저입니다
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0644_CJmOrnngHlE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적성 검사 결과를 함께 분석합니다. 학생의 강점과 흥미를 연결해 가능한 진로 방향을 제시합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학과와 직업 정보 수집
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0644_CJmOrnngHlE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관심 학과를 2-3개로 좁히고 심층 정보를 함께 조사합니다. 학과별 입시 전략도 함께 분석합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 계열 선택 문과와 이과
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0644_CJmOrnngHlE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 적성과 희망 진로를 종합해 계열 선택을 돕습니다. 선택과목 전략도 함께 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 진로 탐색 로드맵
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0644_CJmOrnngHlE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 진로 활동을 안내합니다. 학생부 기록과 연계해 일관된 진로 스토리를 만들어갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 입시 전략을 먼저 파악합니다. 수시인지 정시인지, 어떤 대학을 목표로 하는지에 따라 필요한 것이 달라집니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 입시 컨설팅, 학원, 과외는 뭐가 다른가요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외는 성적 향상에 집중합니다. 입시 전략은 별도로 준비하시거나 컨설팅을 병행하세요.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 수시 준비하면 뭐가 필요한가요?
@@ -51,7 +51,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 대비에 집중합니다. 학교 시험 범위에 맞춰 효율적으로 준비합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 정시 준비하면 뭐가 필요한가요?
@@ -74,7 +74,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 입시 상황에 맞춰 수업 내용을 조정합니다. 내신이 급한지, 수능이 급한지에 따라 우선순위를 정합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 비용 대비 효과는 어떤가요?
@@ -87,7 +87,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가장 급한 과목에 집중합니다. 모든 과목을 다 하기보다 효과가 큰 곳에 투자하세요.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

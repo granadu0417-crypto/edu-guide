@@ -28,7 +28,7 @@ featured_image: "/images/edu_0834_B6yDtYs2IgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 원주각의 이해 수준을 진단합니다. 중심각과 원주각의 관계, 같은 호에 대한 원주각, 원에 내접하는 사각형을 체계적으로 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 원주각이 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0834_B6yDtYs2IgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원주각의 핵심 성질을 정확히 이해합니다. 다양한 그림에서 원주각을 찾고 계산하는 연습을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 덕수중·장원중·대경중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0834_B6yDtYs2IgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·대경중 기출 원주각 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0834_B6yDtYs2IgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 원주각의 성질을 증명해보게 합니다. 왜 그렇게 되는지 설명하는 훈련을 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0834_B6yDtYs2IgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 도형 내용을 정확히 이해합니다. 도형을 자유롭게 활용하는 능력을 키웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0834_B6yDtYs2IgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 원주각 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}

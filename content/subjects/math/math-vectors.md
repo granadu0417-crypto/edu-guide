@@ -25,7 +25,7 @@ featured_image: "/images/edu_0568_JiOFFI3W7IA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-벡터의 기본 개념을 그림과 함께 설명합니다. 크기와 방향의 의미를 직관적으로 이해시킵니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 벡터의 연산
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0568_JiOFFI3W7IA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-벡터 연산을 그림으로 시각화하며 설명합니다. 성분 계산도 함께 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 내적
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0568_JiOFFI3W7IA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내적의 두 정의를 연결하여 설명합니다. 수직과 평행 조건을 활용하는 문제를 집중 연습합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 평행과 수직
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0568_JiOFFI3W7IA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평행과 수직 조건을 문제에 적용하는 연습을 합니다. 조건식을 세우고 미지수를 구하는 유형을 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 공간벡터와 외적
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0568_JiOFFI3W7IA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공간벡터를 입체적으로 이해시킵니다. 내적과 외적의 차이를 명확히 구분하도록 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -126,6 +126,6 @@ featured_image: "/images/edu_0568_JiOFFI3W7IA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그림과 함께 벡터를 설명하며 다양한 유형을 연습합니다. 추상적인 개념을 직관적으로 이해시킵니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 

@@ -28,7 +28,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 수여동사의 이해 수준을 진단합니다. 4형식과 3형식 전환, 전치사 선택을 체계적으로 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 수여동사가 어려운 이유
@@ -39,7 +39,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수여동사별 전치사 규칙을 정확히 익힙니다. 4형식과 3형식을 자유롭게 전환하는 연습을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 덕수중·환일중·장원중 영어 시험의 특징
@@ -52,7 +52,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·환일중·장원중 기출 수여동사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 수여동사 문장을 만들어보게 합니다. 왜 그 전치사를 선택했는지 설명하는 훈련을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,7 +76,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 문장 구조를 정확히 이해합니다. 다양한 문장을 자유롭게 활용하는 능력을 키웁니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수여동사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

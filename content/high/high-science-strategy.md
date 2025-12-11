@@ -15,7 +15,7 @@ featured_image: "/images/edu_0690_t_0zK-Nz_lQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 적성과 진로에 맞는 과목 선택을 돕습니다. 과목별 학습 전략을 세웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과목별 특징
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0690_t_0zK-Nz_lQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성을 설명하고 학생에게 맞는 선택을 권합니다. 선택 후 학습 계획을 세웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 물리학 학습 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0690_t_0zK-Nz_lQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 증명과 유도 과정을 설명합니다. 문제 접근법을 가르치고 실수 패턴을 분석합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 화학과 생명과학 학습법
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0690_t_0zK-Nz_lQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-몰 계산과 유전 문제를 집중 훈련합니다. 개념 암기를 점검하고 오답 분석을 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 수능 대비 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0690_t_0zK-Nz_lQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석과 실전 연습을 병행합니다. 시간 배분과 실수 방지 전략을 훈련합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문

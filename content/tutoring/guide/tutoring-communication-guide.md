@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 짧게라도 학부모님께 보고드립니다. 오늘 뭘 배웠는지, 어디가 약한지, 다음엔 뭘 할지 알려드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 소통이 왜 중요한가요?
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-불편한 게 있으면 바로 말해주세요. 쌓아두면 해결이 어려워집니다. 솔직한 소통을 환영합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학생과 선생님은 이렇게 소통하세요
@@ -54,7 +54,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 간단한 학습 보고를 드립니다. 진도, 이해도, 숙제 상황, 다음 계획을 알려드려서 학부모님이 안심하실 수 있도록 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 좋은 소통 예시와 나쁜 소통 예시
@@ -65,7 +65,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적이 안 오를 땐 함께 원인을 분석합니다. 복습 시간이 부족한지, 이해도가 문제인지 파악하고 해결책을 찾습니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 피드백은 이렇게 주고받으세요
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 학부모님 피드백을 적극적으로 반영합니다. 진도 조절, 설명 방식 변경 등 요청이 있으면 바로 적용합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 문제 상황은 이렇게 대처하세요

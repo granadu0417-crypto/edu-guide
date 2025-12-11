@@ -19,7 +19,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 출제 선생님의 스타일과 패턴을 파악합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 수학 내신의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서와 프린트를 완벽하게 분석합니다. 선생님이 강조한 부분을 집중합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 기출 분석의 중요성
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 기출 3-4개년을 분석합니다. 출제 경향을 파악해서 대비합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 서술형 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 풀이를 연습합니다. 채점 기준에 맞게 쓰는 방법을 익힙니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 교과서 완벽 분석
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서와 프린트를 꼼꼼히 분석합니다. 시험에 나올 포인트를 짚어드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터 집중 대비합니다. 예상 문제를 만들어 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0004_TtAHLsnbz3o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 연령과 발달 수준에 맞춰 수업을 설계합니다. 만 5세 미만은 언플러그드 활동 위주로, 그 이상은 블록 코딩을 함께 진행합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 유아도 코딩을 배울 수 있나요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0004_TtAHLsnbz3o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-처음부터 컴퓨터 앞에 앉히지 않습니다. 카드 게임, 보드 게임으로 순서와 반복의 개념을 먼저 익힙니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 유아 코딩 수업에서 뭘 배우나요?
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0004_TtAHLsnbz3o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추상적인 개념을 아이가 이해할 수 있는 놀이로 바꿔서 전달합니다. 로봇 역할놀이, 명령 카드 게임 등을 활용합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 파이썬은 언제부터 배울 수 있나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0004_TtAHLsnbz3o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 발달 상태에 맞춰 진행합니다. 블록 코딩이 아직 어려우면 언플러그드 활동을 더 합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 유아 코딩 과외의 장점은 뭔가요?
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0004_TtAHLsnbz3o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 오늘 배운 내용과 아이 반응을 학부모님께 공유합니다. 가정에서 이어갈 수 있는 활동도 안내드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 좋은 코딩 선생님의 조건은 뭔가요?
@@ -90,7 +90,7 @@ featured_image: "/images/edu_0004_TtAHLsnbz3o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 방식과 커리큘럼을 상세히 안내드립니다. 아이와 잘 맞을지 확인하신 후 결정하세요.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}

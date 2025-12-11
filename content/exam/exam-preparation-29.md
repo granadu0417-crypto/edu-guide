@@ -19,7 +19,7 @@ featured_image: "/images/edu_0167_4b3E-WvrStk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사 범위를 분석하고 우선순위를 정합니다. 자주 출제되는 부분부터 집중 공략하여 효율적으로 대비합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 기말고사가 중간고사와 다른 점
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0167_4b3E-WvrStk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기말고사 출제 범위를 확인하고 전략을 세웁니다. 전 범위인지, 중간 이후인지에 따라 공부 방법이 달라집니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 기말고사 준비 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0167_4b3E-WvrStk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사 대비 우선순위를 함께 정합니다. 출제 가능성이 높은 부분을 집중적으로 훈련하고 약점을 보완합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 주차별 학습 계획
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0167_4b3E-WvrStk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주차별 학습 계획을 세우고 진도를 체크합니다. 계획대로 되지 않으면 유연하게 조정하며 목표를 향해 나아갑니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과목별 기말고사 전략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0167_4b3E-WvrStk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 기말고사 출제 경향을 분석합니다. 학교마다 선생님마다 다른 출제 스타일을 파악하고 맞춤 대비를 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 기말고사 시험 당일

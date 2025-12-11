@@ -29,7 +29,7 @@ She is as tall as her mother에서 as...as가 왜 "-만큼 ...한"이라는 뜻�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 원급 비교의 이해 수준을 진단합니다. as...as 구문, 배수 표현, 부정형의 해석을 체계적으로 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 원급 비교가 어려운 이유
@@ -40,7 +40,7 @@ She is as tall as her mother에서 as...as가 왜 "-만큼 ...한"이라는 뜻�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원급 비교의 긍정형과 부정형을 정확히 구분합니다. 다양한 상황에서 원급 비교를 활용하는 연습을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 덕수중·장원중·환일중 영어 시험의 특징
@@ -53,7 +53,7 @@ She is as tall as her mother에서 as...as가 왜 "-만큼 ...한"이라는 뜻�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·환일중 기출 비교 구문 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -64,7 +64,7 @@ She is as tall as her mother에서 as...as가 왜 "-만큼 ...한"이라는 뜻�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 원급 비교 문장을 만들어보게 합니다. 비교 구문 간의 전환 연습을 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -77,7 +77,7 @@ She is as tall as her mother에서 as...as가 왜 "-만큼 ...한"이라는 뜻�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 비교 표현 내용을 정확히 이해합니다. 비교 구문을 자유롭게 활용하는 능력을 키웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 수업료 안내
@@ -88,7 +88,7 @@ She is as tall as her mother에서 as...as가 왜 "-만큼 ...한"이라는 뜻�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 비교 구문 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}

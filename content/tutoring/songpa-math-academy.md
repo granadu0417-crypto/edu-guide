@@ -25,7 +25,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 먼저 진단합니다. 개념이 부족한지, 문제 풀이가 안 되는지, 응용이 약한지 파악합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 송파 수학학원은 어떤 특징이 있나요?
@@ -38,7 +38,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-송파 학원 진도에 맞춰 과외에서 복습하고 심화합니다. 학원에서 이해 안 된 부분을 과외에서 확실히 잡습니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 지역별로 어떤 학원이 있나요?
@@ -51,7 +51,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 지역과 학원 유형을 안내해 드립니다. 예산, 수준, 학습 목표를 종합적으로 고려합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 수학학원 유형은 어떤 게 있나요?
@@ -76,7 +76,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 커리큘럼으로 수업합니다. 초등은 개념, 중등은 내신+선행, 고등은 목표에 맞춰 수업합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 수학은 과외가 꼭 필요한가요?
@@ -89,7 +89,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 커리큘럼을 짭니다. 학원에서 배운 내용을 과외에서 다시 정리하고, 부족한 부분을 집중 보완합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

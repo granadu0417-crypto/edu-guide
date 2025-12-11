@@ -21,7 +21,7 @@ featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사에 맞는 책을 추천합니다. 억지로 읽히지 않고 흥미를 유발합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 독서가 공부에 미치는 영향
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서와 학업을 연결해 설명합니다. 왜 책을 읽어야 하는지 동기를 부여합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 책 고르는 방법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준과 관심사에 맞는 책을 추천합니다. 부담 없이 시작할 수 있는 책부터 안내합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 효과적인 독서 방법
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-책을 읽은 후 함께 이야기합니다. 어떤 점이 인상 깊었는지, 무엇을 느꼈는지 나눕니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학교생활기록부와 독서
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부에 도움이 되는 독서 활동을 안내합니다. 진로와 연결된 책을 추천합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 독서 습관 만들기
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-읽은 책에 대해 대화하는 시간을 가집니다. 독서가 즐거운 경험이 되도록 돕습니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}

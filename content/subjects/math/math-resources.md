@@ -26,7 +26,7 @@ featured_image: "/images/edu_0554_eqtDywtlAzY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 교재를 선정합니다. 수준과 목표에 따라 최적의 조합을 추천하고 활용법을 알려드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 온라인 강의와 앱
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0554_eqtDywtlAzY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 온라인 자료를 추천합니다. 인강과 앱을 보조로 활용하면서 체계적으로 학습하도록 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 효과적인 활용법
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0554_eqtDywtlAzY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자료 활용법을 지도합니다. 교재 회독법과 인강 시청법을 익히도록 하고 효율적인 학습 습관을 만듭니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 비용 절감 팁
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0554_eqtDywtlAzY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필수 교재 위주로 진행합니다. 불필요한 교재 구입 없이 효율적으로 학습하도록 안내합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -102,6 +102,6 @@ featured_image: "/images/edu_0554_eqtDywtlAzY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 교재와 자료를 조합합니다. 효율적인 활용법을 알려드리고 체계적으로 학습을 관리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 

@@ -10,14 +10,13 @@ tags:
   - 서구영어과외
   - 서구고등영어
 ---
-
-빈칸에 들어갈 말을 추론하기 어렵다면, 빈칸 추론력이 필요합니다.
+영어 포기하려고요? 아직 이릅니다.
 
 서구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 서구고, 검단고, 가좌고 시험에서 빈칸 추론 문제가 자주 출제됩니다. 문맥에서 논리적 관계를 파악하고 적절한 표현을 찾는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈칸 주변의 단서를 찾습니다. 연결어, 대명사, 반복 표현을 파악하는 훈련을 합니다.
+첫 수업에서 학생과 충분히 대화합니다. 공부 습관과 목표를 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논리적 연결 패턴을 정리합니다. 빈칸에 자주 나오는 표현 유형을 훈련합니다.
+공식만 알면 기본 문제는 풉니다. 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서구고, 검단고 기출에서 빈칸 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 빈칸 추론력을 점진적으로 심화합니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,5 +117,5 @@ tags:
 
 ## 마무리
 
-서구에서 빈칸 추론이 어렵다면 논리 훈련이 필요합니다. 문맥이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 맞춤 수업, 지금 상담받으세요.
 

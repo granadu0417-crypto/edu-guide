@@ -21,7 +21,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 보고서의 기본 형식을 알려드립니다. 각 항목에 무엇을 어떻게 써야 하는지 연습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 실험 보고서의 기본 구성
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 실험을 예로 들어 보고서 작성법을 설명합니다. 좋은 예와 나쁜 예를 비교해서 알려드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 가설 세우기
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가설을 세우는 방법을 연습합니다. 과학적 근거를 바탕으로 예상하는 습관을 기릅니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 실험 방법 작성
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 방법을 상세하게 쓰는 연습을 합니다. 빠진 내용이 없는지 체크하는 습관을 기릅니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 결과와 결론 구분하기
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-결과와 결론을 구분하는 연습을 합니다. 객관적 사실과 해석을 분리하는 방법을 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 고득점을 위한 팁
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수행평가에서 높은 점수를 받는 방법을 알려드립니다. 차별화되는 보고서를 쓰는 법을 연습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}

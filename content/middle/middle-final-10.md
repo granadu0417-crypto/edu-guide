@@ -21,7 +21,7 @@ featured_image: "/images/edu_0957_26gnBRnIwPE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 강점을 함께 찾아갑니다. 대화를 통해 적성을 파악합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 진로 탐색이 필요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0957_26gnBRnIwPE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부와 진로를 연결해줍니다. 왜 이 과목을 배우는지 이해하면 동기가 생깁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자신을 알아가는 방법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0957_26gnBRnIwPE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 대화하며 강점과 흥미를 파악합니다. 스스로 알지 못했던 점을 발견하게 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 다양한 경험하기
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0957_26gnBRnIwPE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-책을 추천하고 읽은 후 대화합니다. 다양한 분야에 관심을 갖도록 유도합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 직업 정보 탐색
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0957_26gnBRnIwPE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관심 분야의 직업을 함께 조사합니다. 필요한 역량과 진학 경로를 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 진로와 공부 연결하기
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0957_26gnBRnIwPE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부의 필요성을 진로와 연결합니다. 스스로 공부할 이유를 찾게 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해력 수준을 진단합니다. 부족한 부분을 찾아 체계적으로 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 문단 분석법
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문단 분석 방법을 훈련합니다. 실제 지문으로 적용 연습을 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 주제 파악하기
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주제 파악 방법을 훈련합니다. 다양한 글로 연습합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 독해 전략
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 전략을 체계적으로 훈련합니다. 단계별로 실력을 높여갑니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 원인을 파악하고 보완합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -117,5 +117,5 @@ featured_image: "/images/edu_0483_h448yp0t2qQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 독해력을 키웁니다. 문단 분석부터 주제 파악까지 체계적으로 훈련합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>

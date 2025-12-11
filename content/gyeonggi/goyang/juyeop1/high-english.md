@@ -22,12 +22,11 @@ tags:
   - 주엽고
 featured_image: "/images/edu_0014.jpg"
 ---
-
-내신과 수능을 동시에 잡는 방법이 있습니다. 고양시 일산서구 주엽1동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+영어 시험은 특별한 대비가 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실력 진단 없이 수업하면 시간만 낭비됩니다. 체계적인 진단으로 효율적인 학습 경로를 설계합니다.
+진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 정확히 파악한 후 수업을 시작합니다.
 </div>
 
 ## 고등학교 영어, 무엇이 달라질까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능의 차이를 명확히 알려드립니다. 두 가지를 효율적으로 병행할 수 있는 학습 전략을 세웁니다.
+개념 설명 후 바로 문제를 풀어봅니다. 알았다고 생각해도 막상 풀면 막히는 경우가 많습니다.
 </div>
 
 ## 주엽고 내신, 이것만 알면 됩니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험 범위에 맞춰 집중 대비합니다. 범위 외 내용으로 시간 낭비하지 않습니다.
+출제 경향을 파악하고 있습니다. 그에 맞춰 준비합니다.
 </div>
 
 ## 수능 영어 대비
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답률이 높은 문제부터 우선 해결합니다. 자주 틀리는 유형을 집중 공략합니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다. 학생마다 최적의 밸런스가 다릅니다.
 </div>
 
 ## 맞춤형 수업이 필요한 학생
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0014.jpg"
 
 ## 마무리
 
-주엽고 내신과 수능 대비, 전문 선생님과 함께하세요.
+일산서구 학생 여러분, 체계적인 관리로 성적 향상을 경험하세요.

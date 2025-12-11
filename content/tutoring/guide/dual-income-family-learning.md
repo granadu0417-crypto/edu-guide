@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님 대신 학습 관리를 합니다. 주기적으로 진도와 학습 상황을 보고해 드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 맞벌이 가정은 어떤 어려움이 있나요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 학습 상황을 꼼꼼히 체크합니다. 학부모님께서 궁금한 점은 언제든 여쭤보세요.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 과외가 왜 효과적인가요?
@@ -50,7 +50,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주 1회 학습 보고를 드립니다. 진도, 이해도, 약점, 다음 주 계획을 공유합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 어떻게 학습 관리 시스템을 만들까요?
@@ -73,7 +73,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 일정은 가정 상황에 맞춰 조율합니다. 평일 저녁이나 주말 오전 등 편한 시간에 진행합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 선생님과 어떻게 소통하나요?
@@ -86,7 +86,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소통 방법은 학부모님 편의에 맞춥니다. 문자, 전화, 메시지 등 편한 방법으로 보고드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문

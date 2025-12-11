@@ -22,7 +22,7 @@ featured_image: "/images/edu_0664_k60YOEjB75k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 진단합니다. 어휘력, 독해력, 듣기 능력을 파악해서 약점을 보완합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 수능 영어의 구조
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0664_k60YOEjB75k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 비중을 파악하고 약한 부분에 집중합니다. 듣기가 약하면 듣기를, 독해가 약하면 독해를 집중 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 어휘 학습
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0664_k60YOEjB75k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어휘 테스트를 합니다. 모르는 단어를 파악하고 집중적으로 암기합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 듣기 학습
@@ -61,7 +61,7 @@ EBS 듣기를 활용합니다. 수능과 난이도가 비슷합니다. 기출과
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-듣기 훈련을 합니다. 안 들리는 부분을 집중적으로 연습합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 독해 학습
@@ -74,7 +74,7 @@ EBS 듣기를 활용합니다. 수능과 난이도가 비슷합니다. 기출과
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 전략을 알려줍니다. 고난도 문제의 접근법을 연습합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 시간 관리
@@ -87,7 +87,7 @@ EBS 듣기를 활용합니다. 수능과 난이도가 비슷합니다. 기출과
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 연습을 합니다. 실전처럼 시간을 재고 문제를 풀어봅니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 주의사항

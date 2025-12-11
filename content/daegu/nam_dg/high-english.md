@@ -10,14 +10,13 @@ tags:
   - 남구영어과외
   - 남구고등영어
 ---
-
-빈칸 추론 문제에서 자꾸 틀린다면, 논리 분석력이 필요합니다.
+영어 때문에 대학 못 가면 너무 억울하지 않나요?
 
 대구 남구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 남구고, 대명고, 영남고 시험과 수능에서 빈칸 추론이 핵심입니다. 문맥의 논리를 읽어야 등급이 오릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈칸 주변 문장의 논리 관계를 분석합니다. 단서를 찾는 훈련을 합니다.
+성적표만 보지 않습니다. 실제로 문제를 풀면서 어디서 막히는지 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선택지 분석법을 훈련합니다. 오답의 근거를 찾는 연습을 합니다.
+문제를 풀다 막히면 힌트를 조금씩 줍니다. 스스로 깨달아야 기억에 남습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출 문제를 분석합니다. 출제 경향을 파악해서 맞춤 대비합니다.
+같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -58,7 +57,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 꼼꼼히 합니다. 왜 틀렸는지 파악해서 같은 실수를 반복하지 않습니다.
+내신과 수능, 어느 하나도 소홀히 하지 않습니다.
 </div>
 
 ## 학년별 학습 방향
@@ -127,4 +126,4 @@ tags:
 
 ## 마무리
 
-대구 남구에서 빈칸 추론이 어렵다면 논리 분석 훈련이 필요합니다. 남구고, 대명고, 영남고 내신과 수능 모두 빈칸이 핵심입니다. 논리가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 전문 선생님과 함께하세요.

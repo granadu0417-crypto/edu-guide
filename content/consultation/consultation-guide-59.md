@@ -22,7 +22,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습 상담에서는 왜 집중이 안 되는지 원인을 분석합니다. 환경 설정부터 집중력 유지 방법까지 구체적으로 안내합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 온라인 학습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습이 안 된다면 학습 상담을 받으세요. 집중해서 듣는 방법을 알려드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 심리 상담은 집중력 문제가 심각할 때 도움이 됩니다. 학습 환경 상담은 온라인 학습에 맞는 공간을 만들 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 온라인 학습 루틴과 집중력 유지 방법을 안내합니다. 바로 적용할 수 있는 실전 팁을 드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 온라인 학습은 어떻게 해야 효과가 있나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향에 맞는 온라인 학습 전략을 세워드립니다. 어떤 인강을, 어떻게 활용해야 하는지 맞춤형으로 안내합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습에 대해 더 궁금한 점이 있으시면 문의하세요. 집중해서 듣는 방법을 안내합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

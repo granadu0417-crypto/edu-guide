@@ -19,7 +19,7 @@ featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 코딩 경험을 먼저 파악합니다. 완전 초보인지, 다른 언어를 배운 적 있는지 확인합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 왜 파이썬인가요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심 분야와 연결해서 배웁니다. 게임을 좋아하면 게임 만들기로, 수학을 좋아하면 수학 문제 풀이로 시작합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 기초 문법 배우기
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 바로 코딩 실습을 합니다. 직접 해봐야 진짜 이해가 됩니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 문제 해결력 키우기
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-프로젝트를 직접 설계하고 완성합니다. 성취감을 느끼면 코딩이 재미있어집니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 심화 학습
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사에 맞는 프로젝트로 심화 학습을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과외의 장점
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 코딩하는 시간을 충분히 확보합니다. 보기만 하면 늘지 않습니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 목표와 비용을 안내드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문

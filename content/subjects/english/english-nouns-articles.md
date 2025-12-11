@@ -24,7 +24,7 @@ featured_image: "/images/edu_0396_SYTO3xs06fU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 자주 틀리는 명사·관사 패턴을 분석합니다. 핵심 규칙부터 차근차근 정리합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 가산명사와 불가산명사
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0396_SYTO3xs06fU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 나오는 불가산명사 리스트를 정리합니다. 예문으로 구분하는 연습을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## a/an과 the의 차이
@@ -44,7 +44,7 @@ a/an은 불특정한 것입니다. I saw a dog은 어떤 개 한 마리입니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-a/an/the 선택 규칙을 정리합니다. 실전 문제로 구분 연습을 반복합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## the를 쓰는 경우와 안 쓰는 경우
@@ -53,7 +53,7 @@ the는 유일한 것(the sun), 최상급(the best), 서수(the first), 악기(pl
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-the의 용법을 표로 정리합니다. 헷갈리는 표현을 집중 연습합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 수량 표현 구별
@@ -62,7 +62,7 @@ many는 가산명사 복수와 씁니다. many books입니다. much는 불가산
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수량 표현을 명사 종류별로 정리합니다. few/a few, little/a little 구별을 집중 연습합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -121,5 +121,5 @@ a few는 조금 있다(긍정), few는 거의 없다(부정)입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 명사·관사를 완벽히 정복합니다. 자주 틀리는 패턴을 교정하고 실전 예문으로 연습합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0280_2eM_-v2o0Ik.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경남 지역 교육 환경을 분석합니다. 거주 지역과 예산에 맞는 최적의 교육 방법을 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0280_2eM_-v2o0Ik.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 지역별 학원 특성
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0280_2eM_-v2o0Ik.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학원과 과외 시장을 파악합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 온라인 교육 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0280_2eM_-v2o0Ik.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인 병행 전략을 안내합니다. 비용을 절감하면서 효과를 극대화하는 방법을 찾아드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학년별 교육 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0280_2eM_-v2o0Ik.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 전략을 안내합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문

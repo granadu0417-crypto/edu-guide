@@ -19,7 +19,7 @@ featured_image: "/images/edu_0146_Y-JCyxFMXbc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터는 학생별 취약점을 집중 공략합니다. 남은 기간 동안 최대 효과를 낼 수 있는 맞춤형 학습 계획을 수립합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 유형별 대비 전략
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0146_Y-JCyxFMXbc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 유형에 맞는 대비 전략을 수립합니다. 내신인지 모의고사인지에 따라 학습 방향과 교재 선택이 달라집니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시기별 효과적인 공부법
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0146_Y-JCyxFMXbc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험까지 남은 기간에 따라 학습 강도와 방법을 조절합니다. 무리한 계획보다 실현 가능한 계획으로 완주를 목표로 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 당일 전략
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0146_Y-JCyxFMXbc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 전략까지 함께 점검합니다. 실력 발휘를 방해하는 요소를 미리 파악하고 대비합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}

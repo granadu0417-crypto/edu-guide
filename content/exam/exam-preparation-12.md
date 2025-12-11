@@ -20,7 +20,7 @@ featured_image: "/images/edu_0149_k7ZZmjTBsms.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시간 배분 전략을 함께 세웁니다. 실전 연습을 통해 시간 감각을 익히고 효율적으로 문제를 푸는 방법을 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시간 배분의 기본 원칙
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0149_k7ZZmjTBsms.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시간에 맞춰 문제를 풀어보면서 시간 감각을 익힙니다. 시간이 얼마나 걸리는지 체감하는 연습을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 문제 풀이 순서
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0149_k7ZZmjTBsms.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 난이도를 빠르게 판단하는 연습을 합니다. 어떤 문제를 먼저 풀고 어떤 문제를 나중에 풀지 전략을 세웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 어려운 문제 대처법
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0149_k7ZZmjTBsms.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문제를 넘기는 연습을 합니다. 과감하게 넘기고 나중에 돌아오는 것이 더 효율적임을 체험합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 과목별 시간 관리
@@ -72,7 +72,7 @@ featured_image: "/images/edu_0149_k7ZZmjTBsms.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 시간 관리 전략을 안내합니다. 실전 연습을 통해 과목별 시간 감각을 익힙니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시간 관리 연습 방법

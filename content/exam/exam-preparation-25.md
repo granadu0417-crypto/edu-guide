@@ -21,7 +21,7 @@ featured_image: "/images/edu_0163_ywqa9IZB-dU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 먼저 분석합니다. 선생님의 출제 스타일, 기출 패턴을 파악하고 그에 맞는 대비 전략을 세웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학교별 출제 경향 분석의 중요성
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0163_ywqa9IZB-dU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해당 학교 기출문제를 함께 분석합니다. 출제 패턴을 파악하고 자주 나오는 유형을 집중적으로 연습합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 교과서 중심 출제 대비
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0163_ywqa9IZB-dU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서를 체계적으로 분석합니다. 핵심 개념, 예제, 탐구 활동을 모두 점검하고 시험에 나올 포인트를 짚어드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 프린트 중심 출제 대비
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0163_ywqa9IZB-dU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-프린트를 중심으로 학습합니다. 문제 풀이뿐 아니라 개념 설명, 변형 예상 문제까지 철저히 대비합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 서술형 비중 높은 시험 대비
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0163_ywqa9IZB-dU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 집중적으로 연습합니다. 채점 기준에 맞는 표현과 논리적 구성을 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 실전 내신 대비 일정

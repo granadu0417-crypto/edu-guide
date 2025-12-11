@@ -28,7 +28,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 명사절의 이해 수준을 진단합니다. that절, whether/if절, 의문사절의 쓰임을 체계적으로 훈련합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 명사절이 어려운 이유
@@ -39,7 +39,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명사절의 종류와 역할을 정확히 구분합니다. 문장에서 명사절을 찾고 해석하는 연습을 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 덕수중·환일중·장원중 영어 시험의 특징
@@ -52,7 +52,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·환일중·장원중 기출 명사절 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 명사절을 포함한 문장을 만들어보게 합니다. 문장에서 명사절의 역할을 설명하는 훈련을 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,7 +76,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 절 내용을 정확히 이해합니다. 복잡한 문장을 자유롭게 분석하는 능력을 키웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 명사절 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}

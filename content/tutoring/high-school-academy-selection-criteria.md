@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학생은 내신과 수능 목표에 맞춰 수업합니다. 수시를 준비하면 내신 위주로, 정시를 준비하면 수능 유형 중심으로 진행합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 고등학교 공부가 중학교랑 뭐가 달라요?
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 전형에 맞는 학습 전략을 함께 세웁니다. 수시와 정시 비중에 따라 수업 방향을 조절합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학년별로 어떤 학원을 다녀야 해요?
@@ -59,7 +59,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 부족한 부분을 1대1 과외로 보완합니다. 내신 학원을 다니면 과외에서 수능 대비를, 수능 학원을 다니면 과외에서 내신 대비를 할 수 있습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 학원 고를 때 뭘 확인해야 해요?
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 대학과 전형에 맞춰 수업 비중을 조절합니다. 수시 준비 학생은 내신 위주로, 정시 준비 학생은 수능 위주로 진행합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학원이랑 과외 병행하면 효과적인가요?

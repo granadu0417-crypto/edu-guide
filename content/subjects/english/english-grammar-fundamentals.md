@@ -21,7 +21,7 @@ featured_image: "/images/edu_0377_tvB0cS5WZZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 문법 약점을 진단합니다. 기초부터 차근차근 체계적으로 정리합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 8품사 기초
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0377_tvB0cS5WZZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-8품사를 예문과 함께 익힙니다. 문장 속에서 각 품사의 역할을 파악합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 12시제 체계
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0377_tvB0cS5WZZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-12시제를 체계적으로 정리합니다. 시제별 용법과 시간 표현의 관계를 명확히 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 5형식 문장구조
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0377_tvB0cS5WZZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-5형식 문장 구조를 예문으로 익힙니다. 모든 문장을 형식으로 분석하는 훈련을 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 준동사
@@ -59,7 +59,7 @@ to부정사는 명사적, 형용사적, 부사적 용법이 있습니다. To stu
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-준동사를 용법별로 정리합니다. 동사에 따른 목적어 선택(to V vs V-ing)을 익힙니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -118,5 +118,5 @@ to부정사는 명사적, 형용사적, 부사적 용법이 있습니다. To stu
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 기초를 확실히 다집니다. 체계적 정리와 반복 연습으로 문법을 정복합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>

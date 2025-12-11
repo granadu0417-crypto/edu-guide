@@ -22,7 +22,7 @@ featured_image: "/images/edu_0070_zFSo6bnZJTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-100부터는 새로운 내용보다 기존에 공부한 것을 완벽히 다지는 데 집중합니다. 학생별 취약점을 분석하고 맞춤형 마무리 전략을 수립합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## D-100 - D-70: 전체 정리와 약점 보완
@@ -35,7 +35,7 @@ D-100부터는 새로운 내용보다 기존에 공부한 것을 완벽히 다�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-100 시점에 맞춘 학습 계획표를 함께 작성합니다. 매일 무엇을 어떻게 공부할지 구체적으로 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## D-70 - D-40: 실전 감각 키우기
@@ -54,7 +54,7 @@ D-100 시점에 맞춘 학습 계획표를 함께 작성합니다. 매일 무엇
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 집중적으로 다룹니다. 같은 실수를 반복하지 않도록 원인을 분석하고 해결책을 찾습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## D-10 - D-1: 컨디션 조절
@@ -75,7 +75,7 @@ D-100 시점에 맞춘 학습 계획표를 함께 작성합니다. 매일 무엇
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 취약점을 분석하고 맞춤형 전략을 수립합니다. 특히 시간 내에 풀 수 있도록 속도 훈련을 병행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 멘탈 관리 전략
@@ -96,7 +96,7 @@ OMR 마킹은 5문제 풀고 한 번에 마킹합니다. 마지막 5분 검토 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전과 동일한 환경에서 모의고사를 치르고 시간 관리와 OMR 마킹 연습을 합니다. 실수 패턴을 분석하고 개선합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학부모 가이드

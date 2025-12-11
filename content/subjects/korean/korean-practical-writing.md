@@ -20,7 +20,7 @@ featured_image: "/images/edu_0480_Xte1LQ7KjtQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실용문의 종류와 특징을 정리합니다. 형식별 작성법을 체계적으로 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 실용문의 종류
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0480_Xte1LQ7KjtQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실용문 종류별 특징을 정리합니다. 실제 예시를 분석합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 작성 원칙
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0480_Xte1LQ7KjtQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실용문 작성 원칙을 정리합니다. 직접 작성하며 연습합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 이메일 작성법
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0480_Xte1LQ7KjtQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이메일 작성법을 훈련합니다. 상황별 예문을 분석합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0480_Xte1LQ7KjtQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 유형별 풀이 전략을 정리합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -121,5 +121,5 @@ featured_image: "/images/edu_0480_Xte1LQ7KjtQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 실용문 작성 능력을 키웁니다. 다양한 형식의 글쓰기를 훈련합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>

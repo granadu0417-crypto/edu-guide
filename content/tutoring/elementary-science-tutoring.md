@@ -19,7 +19,7 @@ featured_image: "/images/edu_0010_quZwYcr1upY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 과학의 어떤 부분에 흥미가 있는지, 어떤 부분을 어려워하는지 먼저 파악합니다. 물리, 화학, 생물, 지구과학 중 약한 영역을 집중 보완합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 초등 과학에서 뭘 배우나요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0010_quZwYcr1upY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 진도에 맞춰 개념을 설명하고, 가능한 실험은 직접 해봅니다. 실험이 어려우면 영상으로 보면서 원리를 이해합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 왜 과학 과외가 필요한가요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0010_quZwYcr1upY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 그런지를 먼저 설명합니다. 원리를 이해하면 암기도 쉬워집니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과학 과외 수업은 어떻게 진행되나요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0010_quZwYcr1upY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수행평가 전에는 탐구 보고서 작성을 집중적으로 연습합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 과학 과외의 장점은 뭔가요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0010_quZwYcr1upY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 오늘 배운 내용을 학부모님께 공유드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 좋은 과학 선생님의 조건은 뭔가요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0010_quZwYcr1upY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 방식을 직접 확인하세요. 실험 가능 여부도 상담 시 말씀드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}

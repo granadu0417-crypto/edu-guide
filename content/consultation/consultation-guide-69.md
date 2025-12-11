@@ -22,7 +22,7 @@ featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안 상담에서는 불안의 원인을 먼저 파악합니다. 완벽주의인지, 자신감 부족인지, 과거 실패 경험 때문인지 분석하고 대처법을 찾습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 시험 불안 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험만 보면 긴장된다면 심리 상담을 받으세요. 불안을 다루는 방법을 알려드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 학습 상담은 준비 부족으로 불안할 때 도움이 됩니다. 제대로 준비하면 불안도 줄어듭니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 시험 전/중/후 불안 대처법을 안내합니다. 호흡법, 이완법, 인지 조절 기법 등을 함께 연습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시험 불안은 어떻게 다루나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 개인의 불안 패턴에 맞는 대처법을 설계합니다. 실제 시험 상황에서 적용할 수 있도록 충분히 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안에 대해 더 궁금한 점이 있으시면 문의하세요. 멘탈 관리 방법을 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

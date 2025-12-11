@@ -19,7 +19,7 @@ featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 실력을 진단하고 약점을 파악합니다. 독해, 문법, 어휘 중 부족한 부분을 집중적으로 보완합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 영어 시험의 구성
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능의 출제 특성을 분석합니다. 시험 유형에 맞는 맞춤 전략을 세웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 어휘 학습 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 암기 진도를 체크합니다. 복습 테스트로 까먹은 단어를 다시 잡아줍니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 문법 학습 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 문법을 정리하고 문제에 적용합니다. 약한 문법을 집중 훈련하여 정확도를 높입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 독해 전략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 전략을 연습합니다. 빠르고 정확하게 읽는 기술을 훈련하여 시간을 절약합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 내신 영어 대비
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 본문을 분석하고 예상 문제를 풀어봅니다. 학교별 출제 경향에 맞춰 대비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시험장 전략

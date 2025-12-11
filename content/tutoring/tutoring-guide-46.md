@@ -21,7 +21,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 습관을 먼저 분석합니다. 어디서 막히는지, 어떻게 읽는지 파악하고 맞춤 지도합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 독해력이 뭔가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문을 읽을 때 핵심 문장을 찾는 연습을 합니다. 전체를 다 외우려 하지 말고 중요한 것을 잡도록 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 독해력을 어떻게 키우나요?
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 지문을 같이 읽으면서 어떻게 분석하는지 보여줍니다. 혼자 할 때도 같은 방식으로 하도록 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 국어 과외에서는 뭘 하나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 왜 틀렸는지 같이 분석합니다. 오답 패턴을 파악하면 같은 실수가 줄어듭니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 독해력 향상 방법을 자세히 안내해 드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

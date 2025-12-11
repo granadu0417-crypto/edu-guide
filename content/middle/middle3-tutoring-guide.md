@@ -22,7 +22,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3은 인생의 첫 입시입니다. 목표 고등학교에 맞춰 내신 관리, 심화 학습, 면접 준비까지 체계적으로 진행합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 중3이 왜 특별한가요?
@@ -33,7 +33,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 1학기에는 내신과 심화 학습을 병행하고, 여름 방학에 고입 집중 준비, 2학기에는 마무리와 고등 준비를 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 중3 과외 유형은 어떤 것이 있나요?
@@ -46,7 +46,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 고등학교에 따라 과외 유형과 전략이 달라집니다. 상담을 통해 학생에게 맞는 방향을 찾아드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과목별로 어떻게 준비하나요?
@@ -61,7 +61,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특목고 준비 시 과학은 경시 수준까지 심화합니다. 일반고 준비 시에는 내신 관리와 개념 정리에 집중합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 시기별로 어떻게 해야 하나요?
@@ -74,7 +74,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별 목표가 다르므로 과외 내용도 달라집니다. 여름 방학에는 고입 집중, 2학기에는 내신과 고등 준비를 병행합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문

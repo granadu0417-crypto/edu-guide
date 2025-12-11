@@ -22,7 +22,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신, 비교과, 모의고사 성적을 종합적으로 분석합니다. 어떤 전형이 유리한지 파악하고 전략을 세웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 수시 전형 종류
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 전형의 특징을 설명합니다. 학생의 현재 상황에 맞는 전형을 함께 선택합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학종 준비 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부를 점검합니다. 부족한 부분을 파악하고 보완할 수 있도록 계획을 세웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 교과전형 준비 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험 대비 전략을 세웁니다. 과목별로 어떻게 공부해야 하는지 구체적으로 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 논술전형 준비 전략
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논술 기출을 분석합니다. 학생이 쓴 답안을 첨삭하고 개선 방향을 알려줍니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 지원 전략
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지원 전략을 세웁니다. 어떤 대학에 어떤 전형으로 지원할지 함께 정합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 주의사항

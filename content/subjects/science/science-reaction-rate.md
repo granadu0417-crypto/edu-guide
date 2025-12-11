@@ -26,7 +26,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-충돌 이론의 핵심을 설명합니다. 활성화 에너지의 개념을 그래프로 이해합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 반응 속도에 영향을 주는 요인
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 요인별 영향을 충돌 이론으로 설명합니다. 실험 결과 해석 방법을 연습합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 촉매와 활성화 에너지
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-에너지 다이어그램 해석 방법을 익힙니다. 촉매 유무에 따른 그래프 비교를 연습합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 반응 속도 그래프 해석
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 그래프 유형을 분석합니다. 조건 변화에 따른 그래프 변화를 예측합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 그래프 해석과 조건 비교 문제를 집중 훈련합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -123,5 +123,5 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 반응 속도를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>

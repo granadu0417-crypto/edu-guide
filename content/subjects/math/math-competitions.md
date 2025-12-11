@@ -15,7 +15,7 @@ featured_image: "/images/edu_0512_3Oo24ExxTn8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수준과 목표에 맞는 대회를 추천합니다. 대회별 출제 경향을 분석하여 맞춤 준비를 도와드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 국제 수학 대회
@@ -24,7 +24,7 @@ IMO는 세계 최고 권위의 국제수학올림피아드로 100여 개국이 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국제 대회 기출 문제를 분석하고 유형별 풀이 전략을 지도합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 국내 올림피아드
@@ -35,7 +35,7 @@ KMO는 한국수학올림피아드로 국내 최고 권위를 자랑합니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-KMO 기출 분석과 예상 문제 풀이를 진행합니다. 단계별로 난이도를 높여갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 대회 준비 전략
@@ -44,7 +44,7 @@ KMO 기출 분석과 예상 문제 풀이를 진행합니다. 단계별로 난�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 학습 계획을 함께 세웁니다. 매주 진도를 점검하고 부족한 부분을 보완합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 학년별 추천 대회
@@ -53,7 +53,7 @@ KMO 기출 분석과 예상 문제 풀이를 진행합니다. 단계별로 난�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 수준에 맞는 대회를 추천합니다. 장기 로드맵을 함께 설계합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문

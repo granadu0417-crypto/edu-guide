@@ -23,7 +23,7 @@ featured_image: "/images/edu_0927_iMfG5py52LA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향, 성적, 진로 목표를 파악하고 적합한 고교 유형을 안내합니다. 각 고교의 장단점을 객관적으로 설명합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 고등학교 유형별 특징
@@ -36,7 +36,7 @@ featured_image: "/images/edu_0927_iMfG5py52LA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황에 맞는 고교 유형을 추천합니다. 무조건 좋은 학교가 아니라 학생에게 맞는 학교를 찾아줍니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 고교 선택 시 고려할 점
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0927_iMfG5py52LA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적, 통학 여건, 진로 목표를 종합적으로 고려해 고교 선택을 돕습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자사고, 특목고 준비 방법
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0927_iMfG5py52LA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자사고, 특목고 지원자에게 자기소개서 작성, 면접 준비를 도와드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 일반고 진학 전략
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0927_iMfG5py52LA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일반고 진학 예정자에게 고등학교 선행 학습 계획을 세워줍니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 고교 입시 일정
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0927_iMfG5py52LA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 일정에 맞춰 학습 계획과 입시 준비 계획을 조정합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

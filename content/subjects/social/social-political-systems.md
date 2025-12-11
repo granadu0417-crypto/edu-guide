@@ -24,7 +24,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민주주의의 기본 원리를 먼저 설명합니다. 정치의 의미와 필요성을 일상 사례로 이해합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 민주주의의 원리
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민주주의의 네 가지 원리를 비교합니다. 각 원리의 의미와 중요성을 설명합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 정부 형태
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대통령제와 의원내각제의 특징을 비교합니다. 각 제도의 장단점을 분석합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 국가 기관
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국가 기관의 구성과 기능을 정리합니다. 기관 간 견제와 균형 관계를 설명합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시민 참여
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 정치 참여 방법을 정리합니다. 시민 참여의 중요성을 강조합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 시험 대비
@@ -89,5 +89,5 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 정치를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>

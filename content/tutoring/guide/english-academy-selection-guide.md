@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 수준과 목표를 먼저 파악합니다. 회화가 필요한지, 문법이 필요한지, 시험 대비가 필요한지에 맞춰 수업 방향을 정합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 영어 학원에는 어떤 종류가 있나요?
@@ -39,7 +39,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-회화부터 문법, 독해, 시험 대비까지 학생에게 필요한 영역을 맞춤으로 진행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학년별로 어떤 학원이 좋아요?
@@ -62,7 +62,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한국 학생이 틀리기 쉬운 문법 포인트를 정확히 짚어드립니다. 문법 설명과 함께 스피킹도 병행합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 학원 고를 때 뭘 확인해야 하나요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 내용과 진도를 투명하게 공유합니다. 정기적으로 평가하고 피드백을 드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 회화는 따로 해야 하나요?
@@ -94,7 +94,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 병행하는 경우, 학원에서 부족한 부분을 집중 보완합니다. 회화, 작문, 문법 중 필요한 영역에 맞춥니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -117,7 +117,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 학습 목표를 함께 설정합니다. 회화, 내신, 수능 중 우선순위를 정하고 맞춤 전략을 세웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 마무리

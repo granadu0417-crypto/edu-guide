@@ -22,7 +22,7 @@ featured_image: "/images/edu_0079_r6iOdqrV1z4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습 상담에서는 과목별 효과적인 예습 방법을 안내합니다. 무엇을 어디까지 미리 봐야 하는지 구체적으로 알려드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 예습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0079_r6iOdqrV1z4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습을 안 하거나 방법을 모르겠다면 학습 상담을 받으세요. 부담 없이 예습하는 방법을 알려드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 진학 상담은 선행 학습 계획을 세울 때 도움이 됩니다. 진로 상담은 어떤 과목에 집중해야 할지 정할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0079_r6iOdqrV1z4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 예습 체크리스트와 시간 배분 가이드를 안내합니다. 바로 적용할 수 있는 실전 방법을 드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 효과적인 예습은 어떻게 하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0079_r6iOdqrV1z4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 시간과 과목 상황에 맞는 예습 계획을 세워드립니다. 무리하지 않으면서도 수업 효과를 높이는 방법을 안내합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0079_r6iOdqrV1z4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습 방법에 대해 더 궁금한 점이 있으시면 문의하세요. 수업 효과를 높이는 방법을 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

@@ -41,7 +41,7 @@ featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 영어 1등급을 향한 로드맵! 빈칸 추론부터 순서 배열까지, 유형별로 정복해갑니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ### 압구정·청담 - 글로벌 영어의 본고장
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어로 생각하고 영어로 표현하는 습관! 원어민 발음과 자연스러운 표현을 내 것으로 만듭니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 학년별 영어과외, 이렇게 선택하세요
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 동화책을 함께 읽으며 자연스럽게 어휘를 익힙니다. "오늘 배운 표현으로 문장 만들기" 게임이 아이들에게 인기입니다!
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ### 중학생 영어과외
@@ -90,7 +90,7 @@ featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헷갈리는 문법도 쉽게! 개념을 이해하고 문제에 적용하는 훈련까지, 빈틈없이 채워갑니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ![영어 학습](/images/edu_0273_t3oZpcij_O4.jpg)
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 1등급과 모의고사 1등급, 둘 다 놓치지 않습니다. 학교별 출제 경향 분석은 기본입니다!
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 **고3 수능 영어**는 남은 시간을 효율적으로 활용하는 게 관건입니다. 취약 유형을 집중 공략하고 실전 감각을 끌어올려야 합니다.
@@ -148,7 +148,7 @@ featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 먼저 "영어 수업 재밌어요"라고 말할 때까지! 좋아하는 주제로 대화하며 자신감을 키웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ### 학습 관리 시스템 확인
@@ -183,7 +183,7 @@ featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간만이 아닙니다! 일주일 학습 플랜을 함께 세우고 카톡으로 점검해드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 강남구 영어 학습 환경 200% 활용법
@@ -223,7 +223,7 @@ featured_image: "/images/edu_0323_uxEH3TufYNU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시간 외에도 매일 영어 노출이 이어지도록! 아이 수준에 맞는 영상, 원서, 팟캐스트를 추천해드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 마무리하며

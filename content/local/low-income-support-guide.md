@@ -15,7 +15,7 @@ featured_image: "/images/edu_0294_-uHVRvDr7pg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정 상황에 맞는 지원 제도를 안내합니다. 신청 자격과 방법을 함께 확인합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 교육급여 제도
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0294_-uHVRvDr7pg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육급여 수급 자격을 확인합니다. 신청 서류 준비와 절차를 안내합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 교육비 지원 프로그램
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0294_-uHVRvDr7pg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육비 지원 항목을 확인합니다. 학교를 통한 신청 절차를 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 국가장학금과 대학생 지원
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0294_-uHVRvDr7pg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국가장학금 신청 일정을 안내합니다. 학자금 대출 제도도 함께 설명합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 지역별 교육바우처
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0294_-uHVRvDr7pg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육바우처 운영 현황을 확인합니다. 사용처와 유의사항을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문

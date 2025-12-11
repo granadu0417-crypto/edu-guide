@@ -19,7 +19,7 @@ featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 한국사 기초 지식을 점검합니다. 시대 구분이 되는지, 주요 사건을 아는지 파악합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 한국사 공부의 어려움
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 핵심을 먼저 잡고, 세부 내용을 채워갑니다. 큰 그림을 먼저 봅니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 흐름으로 이해하는 방법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인과관계를 중심으로 역사를 풀어드립니다. 왜? 그래서? 를 반복합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시대별 핵심 포인트
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 핵심 키워드를 정리합니다. 키워드만 봐도 전체가 떠오르게 만듭니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 효과적인 암기 전략
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 정리 노트를 만들게 합니다. 스스로 정리해야 진짜 내 것이 됩니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 과외의 장점
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 문제를 직접 풀어보고 피드백받습니다. 모범 답안과 비교하며 실력을 키웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 방향과 비용을 상세히 안내드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문

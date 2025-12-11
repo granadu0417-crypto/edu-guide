@@ -19,7 +19,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오늘 뭘 해야 하지?라고 물어봅니다. 스스로 해야 할 일을 말하게 하고, 순서를 정하게 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스스로 문제를 풀게 하고, 모르면 손을 들게 합니다. 바로 답을 알려주지 않고 힌트를 줍니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 스스로 다시 풀게 합니다. 왜 틀렸는지 설명하게 하면 같은 실수를 반복하지 않습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자기주도 학습의 시작
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 끝나고 오늘 배운 거 세 가지 말해봐라고 합니다. 스스로 정리하는 습관을 들입니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 계획표를 스스로 만들어보게 합니다. 처음에는 같이 만들고, 점차 혼자 만들도록 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 주의사항

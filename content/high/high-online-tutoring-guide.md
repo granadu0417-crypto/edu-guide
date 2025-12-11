@@ -20,7 +20,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 환경과 학습 스타일을 파악합니다. 온라인 수업에 최적화된 방법을 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 온라인 과외의 장점
@@ -33,7 +33,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 녹화 파일을 제공합니다. 복습할 때 활용할 수 있도록 정리해드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 온라인 과외의 단점
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-카메라를 켜고 얼굴을 보며 수업합니다. 집중도를 높이기 위한 방법을 함께 실천합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 효과적인 환경 만들기
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 전 환경 세팅을 점검합니다. 기술적 문제 없이 수업에 집중할 수 있도록 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과목별 적합도
@@ -74,7 +74,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞는 온라인 수업 방식을 적용합니다. 디지털 자료를 적극 활용합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학년별 활용

@@ -28,7 +28,7 @@ featured_image: "/images/edu_0379_cXjcd98U4mY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 적성과 진로 목표에 맞는 고등학교를 함께 분석합니다. 입시 전형과 준비 전략을 상담해 드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 고등학교 유형 이해하기
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0379_cXjcd98U4mY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-외고 입시를 준비한다면 영어 내신 관리가 핵심입니다. 영어뿐 아니라 전 과목 균형 있게 준비하도록 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과학고등학교와 영재학교
@@ -68,7 +68,7 @@ featured_image: "/images/edu_0379_cXjcd98U4mY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학고·영재학교 준비는 중학교 1학년부터 시작해야 합니다. 수학·과학 심화 학습과 탐구 활동 계획을 함께 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자율형사립고등학교
@@ -89,7 +89,7 @@ featured_image: "/images/edu_0379_cXjcd98U4mY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 적성에 맞는 학교 유형을 상담에서 함께 분석합니다. 예술고·체육고는 조기 준비가 중요합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 준비 전략
@@ -120,7 +120,7 @@ featured_image: "/images/edu_0379_cXjcd98U4mY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특목고·자사고·영재학교 입시에 대한 궁금한 점은 상담에서 자세히 안내해 드립니다. 자녀에게 맞는 학교를 함께 찾아봅니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 마무리

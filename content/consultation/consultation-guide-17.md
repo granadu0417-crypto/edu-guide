@@ -22,7 +22,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 상담에서는 현재 오답노트 습관을 분석합니다. 만들고 있는지, 어떻게 만드는지, 활용은 하고 있는지 점검하고 효과적인 방법을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 오답노트 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 활용법을 배우고 싶다면 학습 상담을 받으세요. 과목별로 다른 오답 정리 방법을 구체적으로 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 진로 상담은 적성과 방향을 찾는 것이 목적입니다. 진학 상담은 입시 전략에 초점을 맞춥니다. 심리 상담은 시험 불안이 심할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 실천할 수 있는 오답노트 양식을 안내합니다. 왜 틀렸는지, 무엇을 몰랐는지, 어떻게 풀어야 하는지를 정리하는 방법을 배웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 학년에 따라 오답노트 방법이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 과목에 맞는 오답노트 양식을 제안합니다. 너무 복잡하지 않으면서도 효과적인 방법을 안내합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 활용에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 효과적인 오답 관리법을 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

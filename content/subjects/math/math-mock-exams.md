@@ -24,7 +24,7 @@ featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전과 동일한 환경에서 모의고사 연습을 합니다. 시간 관리 전략을 구체적으로 세웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 모의고사 종류별 특징
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 종류별 특성을 알려주고 효율적인 활용법을 안내합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시간 배분 전략
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인별 풀이 속도에 맞춘 시간 배분 전략을 세웁니다. 실전에서 시간에 쫓기지 않도록 훈련합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 오답 분석 방법
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석 방법을 체계적으로 가르칩니다. 틀린 문제를 완전히 자기 것으로 만들도록 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학년별 전략
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 시기에 맞는 모의고사 활용 전략을 안내합니다. 효율적인 학습 계획을 세웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -117,6 +117,6 @@ featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 전략을 개인별로 맞춤 지도합니다. 실전에서 최고의 성과를 낼 수 있도록 준비시킵니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 

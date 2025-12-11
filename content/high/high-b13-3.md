@@ -22,7 +22,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생기부를 분석해서 예상 질문을 뽑습니다. 실전처럼 모의 면접을 진행하고 피드백합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 면접 준비 핵심
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부, 자소서, 지원 학과 순으로 정리합니다. 각각에서 나올 수 있는 질문을 예상합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 예상 질문 유형
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-질문 유형별로 예상 답변을 준비합니다. 키워드 위주로 정리해서 자연스럽게 말하는 연습을 합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 답변하는 방법
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-답변 구조를 잡아줍니다. 결론, 이유, 사례 순서로 말하는 연습을 반복합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 긴장 관리
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 면접처럼 모의 면접을 진행합니다. 반복 연습으로 긴장을 줄입니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 면접 당일 주의사항
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접 당일 체크리스트를 만들어 줍니다. 복장, 준비물, 시간 등 놓치지 않게 확인합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주의사항

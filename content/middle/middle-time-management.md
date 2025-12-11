@@ -15,7 +15,7 @@ featured_image: "/images/edu_0988_j0BYuVLswQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 하루 일과를 분석합니다. 낭비되는 시간을 찾고 학습에 쓸 수 있는 시간을 확보합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 먼저 시간 사용을 기록하세요
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0988_j0BYuVLswQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 사용 일지를 함께 분석합니다. 어디서 시간이 새는지 찾아 효율화 방안을 제시합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 우선순위를 정하세요
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0988_j0BYuVLswQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별, 시기별 우선순위를 함께 정합니다. 무엇을 먼저 해야 하는지 판단하는 기준을 알려드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 집중 시간을 파악하세요
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0988_j0BYuVLswQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 집중 패턴을 파악합니다. 골든타임에 맞춰 과목을 배치하는 시간표를 함께 만듭니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자투리 시간을 활용하세요
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0988_j0BYuVLswQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자투리 시간 활용법을 알려드립니다. 암기 카드, 요약 노트 만드는 법을 지도합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

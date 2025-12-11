@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부 습관이 안 잡힌 학생은 정해진 시간에 수업하면서 루틴을 만듭니다. 수업 시간 자체가 습관 형성의 시작점이 됩니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 학습 습관이 왜 그렇게 중요해요?
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업에서 복습과 예습 방법을 훈련합니다. 학생에게 맞는 학습 루틴을 함께 만들어 갑니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 어떤 습관을 만들어야 하나요?
@@ -56,7 +56,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 일과에 맞춰 수업 시간을 정합니다. 정해진 시간에 꾸준히 수업받으면 자연스럽게 공부 루틴이 만들어집니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시간 관리는 어떻게 해요?
@@ -73,7 +73,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 배운 내용을 설명하게 합니다. 설명하면서 자기 것으로 만들고, 부족한 부분을 바로 보완합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 1대1 과외가 습관 형성에 어떻게 도움이 되나요?
@@ -90,7 +90,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 습관 형성 상태를 점검합니다. 잘 지켜지면 칭찬하고, 안 되는 부분은 원인을 찾아 개선합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문

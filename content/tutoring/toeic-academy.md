@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 점수와 목표 점수를 먼저 파악합니다. 부족한 파트와 약점 유형을 분석해서 맞춤 전략을 세웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 토익 학원은 어떤 특징이 있나요?
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토익 학원에서 배운 내용을 과외에서 복습하고 약점을 집중 보완합니다. 점수가 안 오르는 원인을 정확히 짚어드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 인강이랑 뭐가 다른가요?
@@ -49,7 +49,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 라이프스타일에 맞춰 수업 방식을 정합니다. 학원이 맞는지, 인강이 맞는지, 과외가 맞는지 함께 고민합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 토익 점수별로 어떤 전략이 맞나요?
@@ -72,7 +72,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단기 점수 상승에 집중합니다. 불필요한 내용은 과감히 생략하고, 점수에 직접 연결되는 부분만 집중 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과외를 병행하면 어떤 효과가 있나요?
@@ -85,7 +85,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토익 점수 상승에 필요한 것만 집중합니다. RC 약하면 RC만, Part 5 약하면 Part 5만 집중 훈련합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문

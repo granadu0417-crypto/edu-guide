@@ -19,7 +19,7 @@ featured_image: "/images/edu_0225_gwfNqfPx9sg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특목고 지원 계획이 있으면 중2부터 준비를 시작합니다. 학생 성향과 실력을 파악하고 과학고가 맞는지, 외고가 맞는지 함께 판단합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 특목고별 입시 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0225_gwfNqfPx9sg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 학교의 전형을 분석합니다. 창의성평가 유형, 면접 질문 경향, 합격선을 파악하고 그에 맞게 준비합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 과학고 과외 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0225_gwfNqfPx9sg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학고 준비는 경시 문제를 많이 풉니다. 창의성평가 기출을 분석하고 비슷한 유형을 반복적으로 연습합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 외고와 국제고 과외 전략
@@ -72,7 +72,7 @@ featured_image: "/images/edu_0225_gwfNqfPx9sg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 여름방학에는 면접 연습에 많은 시간을 씁니다. 실제 면접처럼 질문하고 답변하는 연습을 반복합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 선생님 선택
@@ -89,7 +89,7 @@ featured_image: "/images/edu_0225_gwfNqfPx9sg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특목고 합격이 보장되지는 않습니다. 솔직하게 합격 가능성을 말씀드리고, 현실적인 목표를 함께 설정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

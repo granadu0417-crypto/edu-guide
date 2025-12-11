@@ -19,7 +19,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 토론 경험과 수준을 파악합니다. 맞는 훈련 방법을 찾습니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 토론이 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론의 효과를 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 토론의 기본 구조
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론의 기본 구조를 가르칩니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 논증 방법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 논증 방법을 훈련합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 반론 기술
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 반론 기술을 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 토론 경험을 파악하고 맞는 훈련 방법을 안내드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문

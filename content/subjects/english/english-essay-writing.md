@@ -22,7 +22,7 @@ featured_image: "/images/edu_0370_yP0nWU0L9ho.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 에세이 목적을 먼저 파악합니다. 수행평가, 유학 지원, 자격시험 등 목적에 맞는 작성법을 가르칩니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 에세이 3단 구성
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0370_yP0nWU0L9ho.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3단 구성을 체계적으로 연습합니다. 단락별 역할을 이해하고 분량 배분을 익힙니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 서론 쓰기 전략
@@ -42,7 +42,7 @@ Hook은 질문, 통계, 인용, 사실로 시작합니다. Have you ever wondere
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서론 작성법을 집중 연습합니다. 다양한 Hook 유형을 익히고 효과적인 주제문 작성을 훈련합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 연결어 활용
@@ -51,7 +51,7 @@ Hook은 질문, 통계, 인용, 사실로 시작합니다. Have you ever wondere
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연결어를 상황별로 정리합니다. 실제 에세이에서 자연스럽게 쓰도록 반복 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 흔한 실수와 교정
@@ -60,7 +60,7 @@ Hook은 질문, 통계, 인용, 사실로 시작합니다. Have you ever wondere
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 에세이를 첨삭하며 실수 패턴을 분석합니다. 반복되는 약점을 집중 보완합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ Hook으로 시작하세요. 질문, 인용, 통계 등으로 흥미를 끌면 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 에세이 수업으로 논리적이고 설득력 있는 글쓰기를 훈련합니다. 첨삭과 피드백으로 빠르게 실력을 키워드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>

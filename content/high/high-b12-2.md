@@ -21,7 +21,7 @@ featured_image: "/images/edu_0622_dulf1PvYhVg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심화 문제를 풀 때 사고 과정을 말로 설명하게 합니다. 어디서 막히는지 파악하고 그 부분을 집중 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 심화 학습의 핵심
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0622_dulf1PvYhVg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 수업 후 바로 심화 문제를 풀어봅니다. 개념이 어떻게 응용되는지 직접 경험하게 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 과목별 심화 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0622_dulf1PvYhVg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 심화 문제집을 선정하고 함께 풀어봅니다. 풀이 과정을 자세히 분석합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 심화 문제 접근법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0622_dulf1PvYhVg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 읽고 바로 풀지 않고, 5분 동안 분석부터 합니다. 조건 정리, 접근 방법 생각 후에 풀이를 시작합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 오답 분석 방법
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0622_dulf1PvYhVg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 꼭 다시 풀어봅니다. 한 번 틀린 건 또 틀릴 확률이 높습니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학습 루틴
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0622_dulf1PvYhVg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주말에는 모의고사 형식으로 심화 문제를 풉니다. 시간 압박 속에서 문제 푸는 연습을 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 주의사항

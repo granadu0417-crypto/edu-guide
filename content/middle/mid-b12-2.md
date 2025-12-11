@@ -21,7 +21,7 @@ featured_image: "/images/edu_0932_C9pamXRgk14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 적성을 파악합니다. 좋아하는 것, 잘하는 것을 찾아 진로와 연결해봅니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 중학생 때 진로를 정해야 할까
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0932_C9pamXRgk14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 확정이 아니라 진로 탐색을 돕습니다. 다양한 가능성을 열어두고 관심 분야를 찾아갑니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 적성을 발견하는 방법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0932_C9pamXRgk14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 장점과 관심사를 대화를 통해 파악합니다. 관련 직업을 소개하고 탐색해보게 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 진로와 공부의 연결
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0932_C9pamXRgk14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로 목표와 현재 공부를 연결해줍니다. 왜 이 과목을 공부해야 하는지 설명합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 중학생에게 인기 있는 진로 분야
@@ -69,7 +69,7 @@ IT, 컴퓨터 분야는 꾸준히 인기가 높습니다. 프로그래머, 게�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 직업과 진로를 소개합니다. 학생의 관심에 맞는 분야를 함께 탐색합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 진로 탐색 활동
@@ -82,7 +82,7 @@ IT, 컴퓨터 분야는 꾸준히 인기가 높습니다. 프로그래머, 게�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 탐색에 도움이 되는 활동을 안내합니다. 학생이 스스로 탐색할 수 있도록 방법을 알려줍니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}

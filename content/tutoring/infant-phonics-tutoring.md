@@ -19,7 +19,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 영어 노출 정도와 성향을 먼저 파악합니다. 알파벳을 아는지, 영어 노래나 영상을 얼마나 접했는지 확인한 후 맞춤 커리큘럼을 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 파닉스가 뭔가요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 암기가 아닌 놀이와 노래로 자연스럽게 소리를 익힙니다. 아이가 재미있어야 오래 기억합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 왜 유아 때 파닉스를 배워야 하나요?
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 복습과 새로운 내용을 적절히 배분합니다. 아이가 성취감을 느끼면서 조금씩 앞으로 나아갑니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 유아 파닉스 수업은 어떻게 진행되나요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 속도에 맞춰 진행합니다. 급하게 진도를 나가지 않고 확실하게 익힌 후 다음 단계로 넘어갑니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 유아 파닉스 과외의 장점은 뭔가요?
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 학부모님께 오늘 배운 내용과 가정에서 할 수 있는 활동을 안내드립니다. 일상에서 영어 노출을 늘릴 수 있도록 도와드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 파닉스 과외 선생님은 어떤 분이 좋을까요?
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 선생님의 교육 철학과 수업 방식을 상세히 안내드립니다. 아이와 맞는지 확인하신 후 결정하시면 됩니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 {{< cta-dual type="final" >}}

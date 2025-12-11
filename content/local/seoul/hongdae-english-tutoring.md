@@ -18,7 +18,7 @@ featured_image: "/images/edu_0339_1_CMoFsPfso.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력과 학습 목표를 파악합니다. 회화가 목표인지, 내신이 목표인지에 따라 원어민 과외와 홍익대생 과외를 적절히 조합해 드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 홍대 영어교육 환경의 특별함
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0339_1_CMoFsPfso.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 목표에 맞춰 원어민 회화와 홍익대생 내신 과외를 병행합니다. 주중에는 문법·독해를 체계적으로 배우고, 주말에는 원어민과 자연스러운 회화 연습을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 학년별 홍대 영어과외 가이드
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0339_1_CMoFsPfso.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학생은 학교별 기출문제를 분석해서 내신 대비를 철저히 합니다. 동시에 원어민 수업으로 영어 듣기 귀를 트고, 실생활 표현도 익힙니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ### 고등학생 - 내신과 수능 전략
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0339_1_CMoFsPfso.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시·내신이 목표라면 홍익대생 과외로 문법 체계와 시험 전략을 배웁니다. 회화와 발음이 목표라면 원어민 과외로 자연스러운 표현을 익힙니다. 홍대의 장점은 두 가지를 쉽게 병행할 수 있다는 점입니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 홍대만의 영어 학습 환경
@@ -82,7 +82,7 @@ featured_image: "/images/edu_0339_1_CMoFsPfso.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-홍대의 풍부한 영어 환경을 적극 활용합니다. 영어 카페에서 원서 읽기 모임에 참여하거나, 영어로 진행되는 전시회·공연을 관람한 후 감상문을 작성하는 활동도 병행합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -97,7 +97,7 @@ featured_image: "/images/edu_0339_1_CMoFsPfso.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력과 학습 목표를 파악합니다. 원어민이 필요한지, 한국인 선생님이 필요한지, 병행이 좋을지 맞춤 방향을 제안드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 홍대 영어과외 비용 안내

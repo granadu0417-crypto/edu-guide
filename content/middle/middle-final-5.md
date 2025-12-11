@@ -21,7 +21,7 @@ featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어디서부터 막히기 시작했는지 찾아냅니다. 기초가 부족하면 돌아가서 채웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 개념이 먼저입니다
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식을 외우게 하지 않습니다. 원리를 이해하게 해서 스스로 유도할 수 있게 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학년별 핵심 단원
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 단원을 철저히 다집니다. 빠르게 진도 나가는 것보다 정확하게 이해하는 것을 우선합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 문제 풀이 순서
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 문제부터 풀게 합니다. 무리하게 어려운 문제를 주지 않습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 오답 관리가 핵심입니다
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 반드시 다시 풀게 합니다. 왜 틀렸는지 설명하게 해서 이해 여부를 확인합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 내신 시험 대비
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춰 계획을 세웁니다. 학교별 출제 경향을 분석해서 대비합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}

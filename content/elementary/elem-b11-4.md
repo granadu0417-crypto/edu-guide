@@ -21,7 +21,7 @@ featured_image: "/images/edu_0106_gTpdbw9E3Gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한 문제를 여러 방법으로 풀어보게 합니다. 네 방법도 맞아, 선생님 방법도 있어라고 하면 사고가 넓어집니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0106_gTpdbw9E3Gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 그렇게 생각했어?라고 자주 물어봅니다. 과정을 설명할 수 있으면 진짜 이해입니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0106_gTpdbw9E3Gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 문제를 풀면 다른 방법은 없을까?라고 물어봅니다. 처음에는 힌트를 주고, 점차 스스로 찾게 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 5학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0106_gTpdbw9E3Gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-만약 -라면 어떻게 될까?라는 질문을 자주 합니다. 가정하고 추론하는 연습이 창의적 사고를 키웁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0106_gTpdbw9E3Gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심화 문제 시간에는 틀려도 괜찮아, 어떻게 생각했는지가 중요해라고 격려합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 주의사항

@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 진단 테스트를 통해 아이의 개념 구멍을 정확히 파악합니다. 부족한 개념은 기초부터 다시 잡아, 탄탄한 수학 실력을 만들어드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ### 고양 수학 과외 시장 현황
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-게임과 퍼즐을 활용한 재미있는 연산 훈련으로, 아이가 수학을 즐기면서 실력을 키웁니다. 매일 조금씩 꾸준히 연습하는 습관도 함께 만들어드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 **고학년(4-6학년)은 개념 이해가 중요합니다**
@@ -63,7 +63,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서와 익힘책을 완벽히 분석하여 내신 100점을 목표로 합니다. 개념 설명은 교과서를 넘어 '왜 그런지'까지 이해시켜, 응용력을 키워드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 **중3은 고등 수학 준비의 골든타임입니다**
@@ -82,7 +82,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향과 담당 선생님의 스타일을 파악하여, 내신 시험에 최적화된 맞춤 수업을 진행합니다. 킬러 문항까지 완벽 대비하여 1등급을 목표로 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 **고2-3은 수능 수학 정복 시기입니다**
@@ -91,7 +91,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출문제를 철저히 분석하여 출제 패턴을 파악합니다. 킬러 문항 집중 훈련으로 수능 1등급을 목표로 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 고등학생 수학 과외비는 주1회 기준 약 25만원 -  36만원, 주2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 약 28만원 -  40만원 정도입니다.
@@ -109,7 +109,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 전공자 또는 이공계 명문대 출신의 검증된 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ### 시범 수업은 필수입니다
@@ -124,7 +124,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 틀린 문제를 함께 분석하고, 효과적인 오답 노트 작성법을 지도합니다. 시험 전에는 오답 노트 중심으로 총정리하여 완벽한 대비를 돕습니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문

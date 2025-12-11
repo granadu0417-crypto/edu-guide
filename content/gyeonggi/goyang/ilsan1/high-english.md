@@ -22,12 +22,11 @@ tags:
   - 일산고
 featured_image: "/images/edu_0007.jpg"
 ---
-
-포기하기엔 아직 이릅니다. 고양시 일산서구 일산1동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+영어는 혼자 공부하기 어려운 과목입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
+첫 수업에서 학생과 충분히 대화합니다. 공부 습관, 목표를 파악합니다.
 </div>
 
 ## 중학교 때 잘했는데 왜 안 되는 걸까?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0007.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 1등급이 수능 1등급으로 이어지도록 합니다. 따로 공부하지 않아도 됩니다.
+개념 이해 없이 문제만 풀면 한계가 있습니다. 기본기를 탄탄히 합니다.
 </div>
 
 ## 일산고 영어 내신, 이렇게 출제됩니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0007.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별로 시험 난이도와 유형이 다릅니다. 일산고에 맞는 맞춤 대비를 해드립니다.
+시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
 </div>
 
 ## 수능에서 고득점 받는 방법
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0007.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 그냥 넘어가지 않습니다. 왜 틀렸는지 원인을 찾고, 같은 실수를 반복하지 않도록 합니다.
+내신은 학교별로 대비하고, 수능은 전국 기준으로 준비합니다. 두 마리 토끼를 다 잡는 전략이 있습니다.
 </div>
 
 ## 1:1 수업이 답인 이유
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0007.jpg"
 
 ## 마무리
 
-영어가 어렵다고 포기하면 안 됩니다. 방법을 바꿔보세요.
+일산서구 학생 여러분, 혼자 고민하지 마세요. 함께하면 달라집니다.

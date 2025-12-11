@@ -15,7 +15,7 @@ featured_image: "/images/edu_0706_D-4Wg5l8Hks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 큰 흐름부터 정리합니다. 개별 사건을 연결고리로 이어주어 이해를 돕습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시대별 흐름 파악하기
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0706_D-4Wg5l8Hks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 핵심 키워드를 정리합니다. 연표를 활용해 동시대 비교를 연습합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 효율적인 암기법
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0706_D-4Wg5l8Hks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스토리텔링으로 역사를 이해시킵니다. 연상법과 연표 활용법을 가르쳐드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 사료 해석 연습
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0706_D-4Wg5l8Hks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사료 분석 방법을 가르칩니다. 기출문제로 유형별 풀이법을 훈련합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 수능 세계사 대비
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0706_D-4Wg5l8Hks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 출제 경향을 분석합니다. 시간 배분 전략과 문제 풀이 스킬을 훈련합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

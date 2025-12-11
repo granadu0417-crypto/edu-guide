@@ -24,7 +24,7 @@ featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 스터디 그룹 운영법을 알려드립니다. 스터디의 장점을 살리면서 단점을 보완하는 방법을 지도합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 스터디 구성
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스터디 구성 방법을 상담합니다. 멤버 선정 기준과 역할 분담 방법을 구체적으로 안내합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 운영 방법
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스터디 운영 노하우를 전수합니다. 시간 배분과 진행 방식을 체계화하여 효율을 높입니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 효과적인 활동
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스터디 활동 유형을 다양하게 제안합니다. 서로 가르치기와 문제 풀이 공유와 모의고사 활용법을 지도합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 규칙과 문제 해결
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스터디 문제 상황 대처법을 알려드립니다. 갈등을 예방하고 해결하는 방법을 구체적으로 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -109,6 +109,6 @@ featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스터디와 1대1 과외를 병행하면 최고의 효과를 얻을 수 있습니다. 개인 맞춤 지도와 협력 학습의 장점을 모두 누리세요.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 

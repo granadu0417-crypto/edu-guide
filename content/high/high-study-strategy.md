@@ -15,7 +15,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 학습 습관을 분석합니다. 비효율적인 부분을 찾아 개선하고 맞춤 전략을 세웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 학습 전략 수립 4단계
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적과 학습 습관을 꼼꼼히 분석합니다. 현실적인 목표를 세우고 달성 가능한 계획을 만듭니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시간 관리 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 시간표를 함께 만듭니다. 매주 점검하고 필요하면 조정합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 내신과 수능 통합 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별 내신과 수능 비중을 조절합니다. 두 가지를 효율적으로 병행하는 방법을 알려드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 학년별 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습 계획을 세웁니다. 학기별로 점검하고 다음 단계를 준비합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문

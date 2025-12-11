@@ -15,7 +15,7 @@ featured_image: "/images/edu_0680_ZPkG0EdWQa8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생부를 함께 분석합니다. 소재를 발굴하고 스토리 구조를 잡은 후 첨삭을 진행합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자소서의 기본 원칙
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0680_ZPkG0EdWQa8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자소서 작성의 기본 원칙을 설명합니다. 좋은 예시와 나쁜 예시를 비교 분석합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 소재 발굴 방법
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0680_ZPkG0EdWQa8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-브레인스토밍을 통해 소재를 발굴합니다. 마인드맵을 그리며 활동의 의미를 찾습니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 스토리 구성하기
@@ -50,7 +50,7 @@ STAR 기법을 활용하세요. 상황을 설명하고 과제를 제시하고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스토리 구조를 함께 설계합니다. 개요를 작성하고 초안을 쓴 후 여러 번 수정합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 첨삭의 중요성
@@ -61,7 +61,7 @@ STAR 기법을 활용하세요. 상황을 설명하고 과제를 제시하고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초안부터 최종본까지 꼼꼼히 첨삭합니다. 대학별 평가 기준에 맞춰 조언합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

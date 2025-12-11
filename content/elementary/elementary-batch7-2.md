@@ -21,7 +21,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2학년 핵심인 받아쓰기와 구구단을 집중적으로 연습합니다. 매 수업 시작할 때 받아쓰기 테스트를 하고, 구구단은 게임처럼 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2학년도 아직 놀이 요소가 필요합니다. 딱딱하게 앉아서 하기보다 퀴즈 내기, 스티커 모으기로 재미있게 진행합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-구구단은 노래로 외우게 합니다. 2단 노래, 3단 노래를 틀어주고 따라 부르게 하면 재미있게 외울 수 있습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 2학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-20분 공부하고 5분 쉬고, 다시 20분 공부합니다. 한 번에 길게 하면 집중력이 떨어집니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집에서 할 구체적인 복습 내용을 안내합니다. 오늘 배운 구구단 5단 10번씩 읽기처럼 분명하게 알려드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 주의사항

@@ -23,7 +23,7 @@ featured_image: "/images/edu_0528_m6SdXgCMXvA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추상적 개념을 구체적 예시로 설명합니다. 대학 수학과의 연결을 보여주며 동기를 부여합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 극한과 연속
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0528_m6SdXgCMXvA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-극한 개념을 그래프로 직관적으로 이해시킵니다. 엡실론 델타 정의까지 연결합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 미분과 적분
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0528_m6SdXgCMXvA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미분과 적분의 관계를 명확히 설명합니다. 공식 암기보다 원리 이해를 우선합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 기하
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0528_m6SdXgCMXvA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차곡선의 정의를 그림으로 이해시킵니다. 벡터의 기하학적 의미를 체계적으로 설명합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학습법과 시험 대비
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0528_m6SdXgCMXvA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 연결과 문제 풀이를 균형 있게 진행합니다. 킬러 문항까지 체계적으로 대비합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ featured_image: "/images/edu_0528_m6SdXgCMXvA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이과 수학 전 과정을 체계적으로 정리합니다. 미적분 완벽 마스터까지 책임집니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 

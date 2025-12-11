@@ -19,7 +19,7 @@ featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 확통 기초를 먼저 진단합니다. 어떤 부분에서 막히는지 파악합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 확통이 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 정확하게 정리합니다. 헷갈리는 부분을 명확하게 구분합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 경우의 수 정복하기
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 유형의 문제를 풀어봅니다. 상황 분석 능력을 키웁니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 확률 개념 잡기
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 예시와 함께 설명합니다. 이해가 될 때까지 반복합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 통계 학습법
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계산 과정을 꼼꼼히 연습합니다. 실수를 줄이는 훈련을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 철저히 합니다. 같은 실수를 반복하지 않게 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-재수생의 현재 실력과 목표를 정확히 진단합니다. 현역 때 무엇이 부족했는지 파악하고, 맞춤 전략을 세웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 재수 방식은 어떤 게 있나요?
@@ -39,7 +39,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 자기주도 능력을 보고 적합한 재수 방식을 추천해 드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 재수 학원은 어떻게 선택하나요?
@@ -52,7 +52,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 부족한 개인 맞춤 지도를 과외로 보완할 수 있습니다. 약점 과목만 집중적으로 잡아드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 독학 재수에 과외를 병행하면 어떤가요?
@@ -79,7 +79,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-재수생은 현역 때 틀린 문제를 다시 분석합니다. 같은 실수를 반복하지 않도록 철저히 점검합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 일정은 어떻게 관리하나요?
@@ -92,7 +92,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-재수생 맞춤 학습 계획을 함께 세웁니다. 주간, 월간 목표를 점검하며 진도를 관리합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 멘탈 관리는 어떻게 하나요?
@@ -105,7 +105,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-재수생의 멘탈 관리도 함께 합니다. 힘들 때 이야기 나누고 동기부여가 되도록 응원합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문

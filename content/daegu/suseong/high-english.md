@@ -10,14 +10,13 @@ tags:
   - 수성구영어과외
   - 수성구고등영어
 ---
-
-모르는 단어가 나오면 막막하다면, 어휘 추론력이 필요합니다.
+지금 시작하면 영어도 충분히 잡을 수 있습니다.
 
 수성구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 대구고, 경신고, 정화여고 시험에서 어휘 추론 문제가 자주 출제됩니다. 문맥에서 단어 의미를 유추하는 능력이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문맥 단서를 찾는 훈련을 합니다. 접두사, 접미사 분석으로 어휘력을 확장합니다.
+모든 수업은 진단에서 시작합니다. 현재 위치를 파악하고 로드맵을 설계합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어의 구조를 분석합니다. 어근, 접두사, 접미사로 의미를 유추하는 방법을 익힙니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대구고, 경신고 기출에서 어휘 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 어휘 전략을 점진적으로 심화합니다.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -114,4 +113,4 @@ tags:
 
 ## 마무리
 
-수성구에서 모르는 단어 때문에 막힌다면 추론 훈련이 필요합니다. 추론력이 생기면 영어가 쉬워집니다.
+ 학생 여러분, 성적이 고민이라면, 지금 바로 상담받아 보세요.

@@ -22,12 +22,11 @@ tags:
   - 화정고
 featured_image: "/images/edu_0014.jpg"
 ---
-
-수학은 방법만 알면 누구나 오를 수 있습니다. 고양시 덕양구 화정1동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+제대로 배우면 수학도 재밌어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완할 수 있습니다.
+첫 만남에서 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가하여 맞춤 계획을 세웁니다.
 </div>
 
 ## 고등 수학의 특징
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시를 노린다면 내신이 중요하고, 정시를 노린다면 수능이 중요합니다. 목표에 맞춰 비중을 조절합니다.
+쉬운 문제부터 어려운 문제까지 단계별로 진행합니다. 갑자기 어려운 문제를 풀면 좌절감만 커집니다.
 </div>
 
 ## 화정고 내신, 어떻게 대비할까요?
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 시험 스타일을 파악합니다. 선생님마다 출제 경향이 다르기 때문입니다.
+내신 시험은 학교마다 다릅니다. 학교 특성에 맞춘 전략적 대비가 필요합니다.
 </div>
 
 ## 수능 수학, 이렇게 대비하세요
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석은 성적 향상의 지름길입니다. 새 문제 10개 푸는 것보다 틀린 문제 1개 분석하는 게 낫습니다.
+고등학교 3년, 내신과 수능을 어떻게 배분할지 로드맵을 세워드립니다.
 </div>
 
 ## 왜 1:1 과외가 효과적일까요?
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0014.jpg"
 
 ## 마무리
 
-1등급도, 성적 향상도 가능합니다. 믿고 시작해 보세요.
+덕양구 학생 여러분, 맞춤 과외, 상담부터 시작하세요.

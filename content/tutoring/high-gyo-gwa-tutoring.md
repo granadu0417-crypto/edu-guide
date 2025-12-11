@@ -19,7 +19,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신 성적을 분석합니다. 지원 가능한 대학과 학과를 파악합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 교과전형의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학별 내신 산출 방법을 분석합니다. 학생에게 유리한 대학을 찾습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 내신 관리 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전 내신 대비를 철저히 합니다. 모든 과목에서 좋은 등급을 받을 수 있게 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 지원 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-데이터를 바탕으로 합리적인 지원 전략을 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과전형 합격을 위한 모든 것을 준비합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 내신 성적을 분석하고 교과전형 전략을 안내드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문

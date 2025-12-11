@@ -26,7 +26,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 경제 제도를 비교합니다. 변화의 원인과 결과를 연결합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 고대와 중세의 경제
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고대와 중세의 토지 제도를 비교합니다. 경제 발전의 흐름을 정리합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 조선 후기의 경제 변화
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조선 후기 경제 변화의 특징을 정리합니다. 상업 발달의 원인을 분석합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 근대 경제의 형성
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-근대 경제 발전 과정을 정리합니다. 경제 정책의 특징을 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 시대별 경제 제도 비교 문제를 집중 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 경제사를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

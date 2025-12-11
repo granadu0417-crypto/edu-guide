@@ -10,14 +10,13 @@ tags:
   - 미추홀구수학과외
   - 미추홀구고등수학
 ---
-
-타원과 쌍곡선의 정의가 헷갈린다면, 이차곡선력이 필요합니다.
+내신과 수능을 동시에 잡는 방법이 있습니다.
 
 미추홀구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 인천고, 제물포고, 숭덕여고 시험에서 이차곡선 문제가 자주 출제됩니다. 초점과 준선의 관계를 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-포물선, 타원, 쌍곡선의 정의를 정확히 이해합니다. 각 곡선의 초점 성질을 훈련합니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지 파악합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표준형별 특징을 정리합니다. 초점, 꼭짓점, 점근선의 관계를 훈련합니다.
+문제를 많이 푸는 것보다 한 문제를 깊이 이해하는 게 중요합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인천고, 제물포고 기출에서 이차곡선 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+내신 시험은 학교마다 다릅니다. 전략적 대비가 필요합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 이차곡선력을 점진적으로 향상시킵니다.
+시험 3주 전부터는 내신에 올인합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,5 +117,5 @@ tags:
 
 ## 마무리
 
-미추홀구에서 이차곡선이 어렵다면 정의 이해 훈련이 필요합니다. 성질이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 내신과 수능, 두 마리 토끼를 다 잡는 방법이 있습니다.
 

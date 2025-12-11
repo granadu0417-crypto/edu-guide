@@ -10,14 +10,13 @@ tags:
   - 서구영어과외
   - 서구중등영어
 ---
-
-taller than과 the tallest of에서 than과 of를 헷갈린다면, 비교급력이 필요합니다.
+학교 영어 시험, 제대로 대비해야 합니다.
 
 서구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 서구고, 광주동성고, 금호고 시험에서 비교급 문제가 자주 출제됩니다. 비교급과 최상급을 정확히 구분하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교 표현을 체계적으로 정리합니다. 문맥 구분을 훈련합니다.
+수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ taller than과 the tallest of에서 than과 of를 헷갈린다면, 비교급력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교 형태를 정리합니다. 전치사 선택을 훈련합니다.
+개념 이해 없이 문제만 풀면 한계가 있습니다. 기본기를 탄탄히 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ taller than과 the tallest of에서 than과 of를 헷갈린다면, 비교급력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서구고, 광주동성고 기출에서 비교급 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+서술형 비중이 높은 학교는 풀이 과정을 깔끔하게 쓰는 연습을 합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ taller than과 the tallest of에서 than과 of를 헷갈린다면, 비교급력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 비교급력을 점진적으로 심화합니다.
+내신 기간에는 학교 시험에 집중합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -180,5 +179,5 @@ taller than과 the tallest of에서 than과 of를 헷갈린다면, 비교급력�
 
 ## 마무리
 
-서구에서 비교급이 어렵다면 형태 구분 훈련이 필요합니다. 비교가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 혼자 고민하지 마세요. 함께하면 달라집니다.
 

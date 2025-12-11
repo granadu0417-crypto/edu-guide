@@ -22,7 +22,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 공부 방식을 점검합니다. 비효율적인 부분을 찾아서 개선합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 효율적 학습의 핵심
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 전에 오늘 할 내용을 정하고, 끝날 때 얼마나 했는지 확인합니다. 계획과 실천을 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 집중력 높이는 방법
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 스마트폰은 치웁니다. 50분 집중, 10분 휴식을 반복하면서 집중력을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 복습 습관 만들기
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 끝날 때 오늘 배운 내용을 5분 정리합니다. 복습 습관을 만드는 훈련입니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 계획 세우는 방법
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 일요일에 다음 주 계획을 함께 세웁니다. 지난주 실천 여부도 점검합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 하루 학습 루틴
@@ -91,7 +91,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 루틴을 조정합니다. 모든 학생에게 같은 루틴이 맞지는 않습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 주의사항

@@ -22,12 +22,11 @@ tags:
   - 행신중
 featured_image: "/images/edu_0015.jpg"
 ---
-
-중학교 수학, 어디서부터 손대야 할지 막막하시죠? 고양시 덕양구 행신2동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+수학 때문에 고민이신가요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 스타일과 약점을 분석합니다. 맞지 않는 방법으로 공부하면 성적이 안 오릅니다.
+첫 수업에서 학생의 사고 과정을 점검합니다. 문제를 푸는 방식을 보면 약점이 보입니다.
 </div>
 
 ## 중학 수학, 왜 어려워지는 걸까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 학교 시험에 집중하고, 그 외 기간에는 고등 기초를 다집니다. 시기별 전략이 있습니다.
+손으로 푸는 과목입니다. 눈으로만 보면 안 됩니다. 직접 써가면서 풀어야 합니다.
 </div>
 
 ## 행신중 시험 유형 파악하기
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 비중이 높은 학교는 풀이 과정을 깔끔하게 쓰는 연습을 합니다.
+최근 3년 기출을 분석하여 출제 패턴을 파악합니다. 예상 문제까지 준비합니다.
 </div>
 
 ## 고등학교 수학, 미리 준비하세요
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수로 틀린 건지, 몰라서 틀린 건지 구분합니다. 실수도 실력입니다. 줄일 수 있습니다.
+수시와 정시, 어느 쪽에 무게를 둘지에 따라 전략이 달라집니다. 상담을 통해 방향을 정합니다.
 </div>
 
 ## 1:1 과외의 차별점
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0015.jpg"
 
 ## 마무리
 
-오늘이 가장 빠른 날입니다. 지금 시작하세요.
+덕양구 학생 여러분, 맞춤 과외, 지금 시작하세요.

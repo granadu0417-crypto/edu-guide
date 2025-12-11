@@ -20,7 +20,7 @@ featured_image: "/images/edu_0098_gCWabF9Z9pI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 받아쓰기 실력을 확인합니다. 자주 틀리는 유형을 파악하고, 맞춤법 규칙부터 차근차근 익혀갑니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 시험 일주일 전 학습 계획
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0098_gCWabF9Z9pI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어를 외울 때 그냥 쓰기만 하지 않습니다. 소리 내어 읽고, 뜻을 이해하고, 문장에서 어떻게 쓰이는지까지 함께 익힙니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 틀리기 쉬운 맞춤법 정리
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0098_gCWabF9Z9pI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 단어는 오답 노트에 정리합니다. 틀린 표기, 올바른 표기, 틀린 이유, 기억법, 예문까지 함께 적으면 오래 기억됩니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 문장 받아쓰기 연습법
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0098_gCWabF9Z9pI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-띄어쓰기는 교과서 문장을 손가락으로 띄어 읽으며 연습합니다. 슬래시 표시를 하며 읽으면 규칙이 자연스럽게 익혀집니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 집중력 높이는 듣기 연습
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0098_gCWabF9Z9pI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에 실전처럼 모의 받아쓰기를 봅니다. 타이머를 맞춰놓고 부모님이 실제 속도로 읽어주면, 시험장에서 당황하지 않습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학년별 대비법

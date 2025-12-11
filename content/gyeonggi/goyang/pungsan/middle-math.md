@@ -22,12 +22,11 @@ tags:
   - 풍산중
 featured_image: "/images/edu_0014.jpg"
 ---
-
-수학은 꾸준함이 답입니다. 고양시 일산동구 풍산동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+중학생이라면 알아야 할 수학 공부법이 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완할 수 있습니다.
+어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 정확한 출발점을 찾아드립니다.
 </div>
 
 ## 중학 수학의 특징
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 3년, 내신과 선행을 어떻게 배분할지 로드맵을 세워드립니다.
+복습 시점을 알려드립니다. 오늘 배운 내용은 내일, 1주일 후, 1개월 후에 복습해야 합니다.
 </div>
 
 ## 풍산중 내신, 어떻게 대비할까요?
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 시험 스타일을 파악합니다. 선생님마다 출제 경향이 다르기 때문입니다.
+혼자 준비하면 방향을 잃기 쉽습니다. 경험 있는 선생님과 함께 준비하세요.
 </div>
 
 ## 고등학교 수학, 이렇게 대비하세요
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석은 성적 향상의 지름길입니다. 새 문제 10개 푸는 것보다 틀린 문제 1개 분석하는 게 낫습니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 학습 계획을 함께 세웁니다.
 </div>
 
 ## 왜 1:1 과외가 효과적일까요?
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0014.jpg"
 
 ## 마무리
 
-수학 성적 향상의 시작, 무료 상담으로 첫걸음을 떼세요.
+일산동구 학생 여러분, 전략입니다. 제대로 된 전략으로 성적을 올려보세요.

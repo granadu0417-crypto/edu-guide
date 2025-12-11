@@ -19,7 +19,7 @@ featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 만남에서 아이의 현재 한글 인지 수준을 파악합니다. 자기 이름을 읽는지, 자음 모음을 아는지, 받침이 있는 글자를 읽는지 확인 후 맞춤 계획을 세웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 한글떼기의 적정 시기는 언제인가요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강요 없이 놀이를 통해 한글을 접합니다. 아이가 재미를 느껴야 학습 효과가 오래갑니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 한글떼기는 얼마나 걸리나요?
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 속도에 맞춰 진행합니다. 오늘 배운 내용을 완전히 이해했는지 확인하고 다음으로 넘어갑니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 한글 수업은 어떻게 진행되나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-플래시카드, 한글 블록, 그림책 등 다양한 교구를 활용합니다. 지루하지 않게 활동을 바꿔가며 진행합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 한글 과외의 장점은 뭔가요?
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업이 끝나면 학부모님께 진도와 아이 상태를 공유합니다. 가정에서 해주시면 좋은 활동도 함께 안내드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 어떤 선생님이 좋을까요?
@@ -90,7 +90,7 @@ featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 교육 방향과 목표를 함께 정합니다. 궁금한 점은 무엇이든 물어보세요.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 {{< cta-dual type="final" >}}

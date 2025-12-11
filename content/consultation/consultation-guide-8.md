@@ -22,7 +22,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 상담에서는 각 과목의 특성을 이해하고 그에 맞는 학습법을 안내합니다. 학생의 강점과 약점을 파악해 효율적인 전략을 세웁니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 과목별 학습 전략 상담이 왜 필요한가요?
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특정 과목 성적이 안 오르는 고민이라면 학습 상담을 먼저 받으세요. 과목 특성에 맞는 구체적인 공부법을 안내합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 진학 상담은 입시에 필요한 과목 선택과 전략을 다룹니다. 심리 상담은 특정 과목에 대한 두려움이나 거부감이 있을 때 도움이 됩니다.
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별로 구체적인 학습 계획을 세웁니다. 바로 적용할 수 있는 실천 방법을 안내하고 정기적으로 점검합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학년별로 과목 전략이 다른가요?
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞춰 과목별 전략을 세웁니다. 약한 과목을 끌어올리고 강한 과목을 더 강하게 만드는 방법을 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0095_0OsCxoakj6g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습 전략에 대해 더 알고 싶으시면 문의하세요. 학생에게 맞는 맞춤 전략을 제안합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 마무리

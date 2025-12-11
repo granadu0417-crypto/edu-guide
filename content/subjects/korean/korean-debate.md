@@ -20,7 +20,7 @@ featured_image: "/images/edu_0444_IMyyeJrwcPk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 논리적 사고력을 진단합니다. 주장-근거 구조 훈련부터 실전 토론까지 단계별로 연습합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 토론의 구조
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0444_IMyyeJrwcPk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론의 각 단계별 전략을 훈련합니다. 입론 작성부터 최종 발언까지 실전 연습을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 논증 방법
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0444_IMyyeJrwcPk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논증 구조를 체계적으로 훈련합니다. 다양한 논제로 주장-근거 연결 연습을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 반박 기술
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0444_IMyyeJrwcPk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논리적 오류 유형을 정리합니다. 효과적인 반박 문장 작성법을 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 토론 예절
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0444_IMyyeJrwcPk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론 예절을 익히고 실전에 적용합니다. 논리와 예의를 갖춘 토론 훈련을 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -113,5 +113,5 @@ featured_image: "/images/edu_0444_IMyyeJrwcPk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 토론 능력을 완성합니다. 실전 토론 연습으로 논리력과 말하기를 키웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>

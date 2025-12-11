@@ -19,7 +19,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 공부 방법을 분석합니다. 무엇이 문제인지 진단합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 학습코칭이란
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습코칭의 개념과 효과를 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학습코칭이 필요한 학생
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습코칭이 필요한지 진단합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 학습코칭 내용
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 맞춤 학습코칭을 제공합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 과목 과외와의 차이
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습코칭과 과목 과외를 효율적으로 병행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 현재 학습 상태를 진단하고 맞춤 코칭 계획을 안내드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문

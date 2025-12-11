@@ -21,7 +21,7 @@ featured_image: "/images/edu_0189_pc_HmXZ0e_w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 교육 시설 정보를 종합적으로 안내해 드립니다. 가정 상황에 맞는 시설과 프로그램을 함께 찾아봅니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 지역아동센터
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0189_pc_HmXZ0e_w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역아동센터의 프로그램 내용과 신청 방법을 자세히 안내합니다. 필요한 서류 준비도 도와드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 지역아동센터 프로그램
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0189_pc_HmXZ0e_w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-센터 선택 시 안전성, 운영 주체, 프로그램 수준, 이용자 만족도를 함께 확인해 드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 청소년수련관
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0189_pc_HmXZ0e_w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-청소년수련관 프로그램은 대부분 무료입니다. 방과후아카데미 신청 방법을 자세히 안내해 드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 종합사회복지관
@@ -153,5 +153,5 @@ featured_image: "/images/edu_0189_pc_HmXZ0e_w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 교육 시설 관련 궁금한 점이 있으시면 상담을 통해 자세히 안내해 드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>

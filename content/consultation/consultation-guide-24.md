@@ -20,7 +20,7 @@ featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관 상담에서는 현재 공부 패턴을 분석합니다. 시간을 어디에 쓰고 있는지 파악하고, 낭비되는 시간을 줄이는 방법을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학습 습관 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 효율을 높이고 싶다면 학습 상담을 받으세요. 시간 낭비 요인을 찾고 집중하는 방법을 구체적으로 안내합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략을 다룹니다. 심리 상담은 집중이 어려운 심리적 원인이 있을 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 실천할 수 있는 습관 개선 방법을 안내합니다. 작은 것부터 하나씩 바꿔나갑니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학년에 따라 필요한 습관이 다른가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습 습관을 안내합니다. 지금 시기에 필요한 습관을 집중적으로 개선합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관 개선에 대해 더 궁금한 점이 있으시면 문의하세요. 효율적인 공부 습관을 함께 만들어드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 마무리

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 회화 수준을 진단하고 유창성 향상 계획을 세웁니다. 토론과 발표 연습을 진행합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 토론 능력 키우기
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론 표현을 체계적으로 익힙니다. 실제 주제로 토론 연습을 진행합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 고급 표현 익히기
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이디엄과 구동사를 상황별로 정리합니다. 자연스러운 표현력을 키웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 유창성 향상법
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유창성 향상을 위한 즉흥 말하기 연습을 합니다. 자연스러운 연결 표현을 익힙니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -95,5 +95,5 @@ featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 고급 회화 수업으로 유창성을 키웁니다. 토론과 발표 실력을 향상시킵니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>

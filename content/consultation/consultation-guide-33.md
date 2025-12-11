@@ -21,7 +21,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 상담에서는 학생의 독서 이력과 관심사를 먼저 파악합니다. 어떤 책을 좋아했는지, 왜 독서가 힘든지 분석하고 맞춤형 독서 계획을 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 독서 습관 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서가 어렵다면 학습 상담을 받으세요. 학생 수준과 관심사에 맞는 책 추천부터 독서 방법까지 구체적으로 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 진로 상담은 관심 분야를 찾는 데 도움이 됩니다. 관심 분야가 생기면 관련 책도 읽고 싶어집니다. 심리 상담은 집중력 문제가 심할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 실천할 수 있는 독서 계획을 안내합니다. 하루 10분부터 시작해서 점차 늘려가는 현실적인 방법을 알려드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 어떻게 하면 독서 습관이 생기나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향에 맞는 독서 방법을 안내합니다. 어떤 학생은 소리 내어 읽는 게, 어떤 학생은 밑줄 치며 읽는 게 맞습니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 습관에 대해 더 궁금한 점이 있으시면 문의하세요. 책 읽기가 즐거워지는 방법을 안내합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

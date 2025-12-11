@@ -20,7 +20,7 @@ featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제는 양보다 질입니다. 학생 수준에 맞는 적정량을 내고, 다음 시간에 꼭 점검합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 숙제가 왜 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제에서 틀린 문제는 다음 수업에서 반드시 다시 풀어봅니다. 넘어가지 않습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 숙제를 효과적으로 하려면 어떻게 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정 없이 답만 쓴 숙제는 다시 풀게 합니다. 과정이 있어야 점검이 가능합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 숙제량은 어느 정도가 적당한가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제량이 많다고 느끼시면 말씀해 주세요. 학생 상황에 맞게 조절합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 활용에 대해 더 궁금한 점이 있으시면 문의하세요. 효과적인 복습법을 함께 설계합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 마무리

@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 시험 패턴을 먼저 분석합니다. 어떤 유형이 자주 나오는지, 어떤 선생님이 어떻게 출제하는지 파악합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 내신 전문 학원은 뭐가 다른가요?
@@ -39,7 +39,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 전문 학원의 족보와 기출 분석을 활용합니다. 학원에서 커버 못 하는 서술형과 약점은 과외에서 집중 보완합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 어떤 학생에게 내신 전문 학원이 맞나요?
@@ -52,7 +52,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표가 수시인지 정시인지 먼저 확인합니다. 목표에 맞는 학습 전략을 함께 세웁니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 내신 전문 학원의 장점은 뭔가요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-족보 풀이와 함께 개념 이해를 병행합니다. 암기에 그치지 않고 왜 그런지 이해시킵니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 내신 전문 학원 선택할 때 뭘 확인해야 하나요?
@@ -88,7 +88,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 전문 학원 선택에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 학원 유형을 안내해 드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문

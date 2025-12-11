@@ -23,7 +23,7 @@ featured_image: "/images/edu_0531_XElzSkhBd4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학교 수학과 연결하면서 새로운 개념을 소개합니다. 음수와 문자에 익숙해지도록 돕습니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 정수와 유리수
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0531_XElzSkhBd4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수직선으로 음수를 시각화합니다. 부호 규칙을 확실히 익히도록 반복 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 문자와 식 그리고 일차방정식
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0531_XElzSkhBd4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-구체적인 수로 연습 후 문자로 일반화합니다. 방정식 풀이를 체계적으로 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 좌표평면과 도형
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0531_XElzSkhBd4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좌표평면을 직접 그려보며 이해시킵니다. 도형 공식을 원리부터 설명합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학습 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0531_XElzSkhBd4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이해 중심으로 개념을 설명합니다. 꾸준한 문제 풀이 습관을 들입니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,6 +108,6 @@ featured_image: "/images/edu_0531_XElzSkhBd4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 전 과정을 체계적으로 정리합니다. 탄탄한 기초를 다져 중2로 연결합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 

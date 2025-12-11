@@ -18,7 +18,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 강점을 분석합니다. 내신, 비교과, 모의고사를 종합해서 유리한 전형을 찾습니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학생부종합전형
@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부를 점검합니다. 부족한 부분을 찾고 보완할 방법을 함께 계획합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 학생부교과전형
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리 전략을 세웁니다. 약한 과목을 집중적으로 보완합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 논술전형
@@ -57,7 +57,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논술 기출을 함께 분석합니다. 답안 작성 후 첨삭을 받습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 6장 카드 전략
@@ -70,7 +70,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지원 전략을 함께 세웁니다. 어떤 대학에 어떤 전형으로 지원할지 정합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 수능 최저 대비
@@ -83,7 +83,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 최저를 고려한 학습 계획을 세웁니다. 수시와 수능을 균형 있게 준비합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 주의사항

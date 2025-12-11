@@ -20,7 +20,7 @@ featured_image: "/images/edu_0134_zGn2cg9qBvU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 파닉스 수준을 먼저 확인합니다. 알파벳 소리부터 시작해야 하는지, CVC 단어부터 가능한지 파악하고 맞춤 수업을 진행합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 파닉스 학습 5단계
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0134_zGn2cg9qBvU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-알파벳 이름만 가르치고 소리를 소홀히 하면 안 됩니다. B는 비가 아니라 브 소리가 나는 것, 이것을 확실히 익혀야 다음 단계로 넘어갑니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## CVC 단어와 자음 조합
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0134_zGn2cg9qBvU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-라임 단어끼리 묶어서 익히면 효과적입니다. cat, bat, hat, mat처럼 같은 패턴의 단어를 연달아 읽으면 규칙이 자연스럽게 익혀집니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 장모음과 이중모음
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0134_zGn2cg9qBvU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습보다 놀이처럼 접근합니다. 파닉스 노래와 챈트로 리듬을 타며 단어를 읽고, 파닉스 스토리북으로 반복 패턴을 자연스럽게 익힙니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학년별 파닉스 학습 가이드
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0134_zGn2cg9qBvU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파닉스가 끝나면 리딩 수업으로 자연스럽게 연결합니다. 파닉스 규칙이 적용된 간단한 책부터 시작해서 점점 긴 글을 읽어갑니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}

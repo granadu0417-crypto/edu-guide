@@ -23,7 +23,7 @@ featured_image: "/images/edu_0519_0G8M3LVT5Ds.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춘 학습 계획을 세웁니다. 약점 단원을 집중 보완합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 유형별 준비
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0519_0G8M3LVT5Ds.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 모의고사와 수능 각각에 맞는 전략을 적용합니다. 학교별 출제 경향도 분석합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시험 준비 타임라인
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0519_0G8M3LVT5Ds.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험까지 남은 기간에 맞춰 학습 계획을 조정합니다. 실전 모의고사로 감각을 키웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 당일 전략
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0519_0G8M3LVT5Ds.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 배분 전략을 연습합니다. 막혔을 때 넘어가는 판단력을 키웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 실수 방지
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0519_0G8M3LVT5Ds.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 유형을 파악하고 방지 전략을 훈련합니다. 검산 습관을 들입니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -124,6 +124,6 @@ featured_image: "/images/edu_0519_0G8M3LVT5Ds.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 대비 전략을 맞춤으로 설계합니다. 취약 유형을 집중 공략하고 실전 감각을 키웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 

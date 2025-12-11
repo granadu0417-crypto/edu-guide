@@ -19,7 +19,7 @@ featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전북 지역 과외 시장을 분석합니다. 거주 지역과 학생 수준에 맞는 최적의 선생님을 찾아드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 전북대 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준과 목표를 파악합니다. 전북대 의대생이 필요한지 일반 학과생으로 충분한지 판단합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 원광대 과외와 전주교대 과외
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-거주 지역에 따라 적합한 대학 과외를 연결합니다. 시범 수업으로 선생님과의 궁합을 확인합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 화상 과외 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 수업 환경 세팅을 안내합니다. 오프라인과 온라인 중 어떤 방식이 학생에게 맞는지 확인합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과목별 과외 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 최적의 선생님을 매칭합니다. 학생의 약점 과목에 집중하여 효율을 높입니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

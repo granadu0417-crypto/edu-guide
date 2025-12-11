@@ -10,14 +10,13 @@ tags:
   - 강릉시수학과외
   - 강릉시고등수학
 ---
-
-an = a1·r^(n-1) 공식을 언제 쓰는지 헷갈린다면, 등비수열력이 필요합니다.
+수포자가 되기 전에, 지금 잡으면 됩니다.
 
 강릉시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 강릉고, 명륜고, 강릉중앙고 시험에서 등비수열 문제가 자주 출제됩니다. 일반항과 합 공식을 정확히 적용하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-등비수열 공식을 체계적으로 정리합니다. 공비와 일반항의 관계를 훈련합니다.
+첫 수업에서 사고 과정을 점검합니다. 문제 푸는 방식을 보면 약점이 보입니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ an = a1·r^(n-1) 공식을 언제 쓰는지 헷갈린다면, 등비수열력이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공비 조건을 정리합니다. 수렴 판단력을 훈련합니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ an = a1·r^(n-1) 공식을 언제 쓰는지 헷갈린다면, 등비수열력이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강릉고, 강릉중앙고 기출에서 등비수열 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ an = a1·r^(n-1) 공식을 언제 쓰는지 헷갈린다면, 등비수열력이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 등비수열력을 점진적으로 향상시킵니다.
+내신 공부가 수능에 도움이 되도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,5 +117,5 @@ an = a1·r^(n-1) 공식을 언제 쓰는지 헷갈린다면, 등비수열력이 
 
 ## 마무리
 
-강릉시에서 등비수열이 어렵다면 공비 훈련이 필요합니다. 비율이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 맞춤 과외, 상담부터 시작하세요.
 

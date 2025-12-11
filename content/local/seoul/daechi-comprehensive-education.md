@@ -18,7 +18,7 @@ featured_image: "/images/edu_0308_ZnuhSdvBqzU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대치동 학원이나 과외를 시작하기 전에 학생의 현재 실력을 정확하게 진단합니다. 기본기가 탄탄한지, 대치동 진도를 따라갈 수 있는지 판단한 후 적합한 학원이나 과외를 추천드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 대치동 교육 특구 이해하기
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0308_ZnuhSdvBqzU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학년과 목표에 따라 적합한 학원가 지역을 안내드립니다. 대형 학원이 좋을지, 중소형 전문 학원이 좋을지, 과외가 필요한지 맞춤 방향을 제시합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과목별 대치동 학원 선택 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0308_ZnuhSdvBqzU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대치동 학원 레벨 테스트를 3-5곳 응시해서 객관적인 실력을 파악합니다. 너무 높은 반 배정은 오히려 자신감을 잃을 수 있으니 현재 수준에 맞는 반에서 시작하는 것이 좋습니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 학년별 대치동 학원 활용 전략
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0308_ZnuhSdvBqzU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 적정 학원 개수와 학습 시간을 안내드립니다. 과다 학원 등록은 소화 불가와 번아웃으로 이어집니다. 2-3개 학원으로 제한하고 자기주도 학습 시간을 확보해야 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ### 고등학생 - 입시 전략 구체화
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0308_ZnuhSdvBqzU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원으로 진도를 나가고 과외로 약점을 보완하는 병행 전략도 효과적입니다. 학생의 현재 상황에 맞는 최적의 조합을 제안드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 대치동 과외 비용 안내
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0308_ZnuhSdvBqzU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3개월 이상 다녀도 성적 향상이 없거나, 아이가 극심한 스트레스를 받으면 학원이나 과외를 조정해야 합니다. 비용 대비 효과를 정기적으로 점검하고, 필요시 방향을 수정합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

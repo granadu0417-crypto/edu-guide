@@ -36,7 +36,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어디서 막히는지 정확히 진단합니다. 문법 기초가 부족한지, 독해가 느린지, 듣기가 안 되는지 파악하고 거기부터 잡아갑니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학년별 영어 공부 전략
@@ -47,7 +47,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 문법을 체계적으로 가르칩니다. 개념 이해 후 예문 암기, 문제 풀이, 영작까지 완성합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 중3은 고등 영어 준비 시기
@@ -58,7 +58,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 여름 이후에는 고등 영어 맛보기를 시작합니다. 현행이 완벽해야 선행이 의미 있습니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 영역별 공부법
@@ -69,7 +69,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해할 때 문장 구조를 함께 분석합니다. 주어가 어디까지인지, 동사가 무엇인지, 수식어는 어디를 꾸미는지 파악해야 정확하게 해석됩니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 듣기와 어휘 공략법
@@ -80,7 +80,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작할 때 단어 테스트를 봅니다. 암기했는지 확인하고, 못 외운 단어는 다음 주에 다시 테스트합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 서술형 평가 대비

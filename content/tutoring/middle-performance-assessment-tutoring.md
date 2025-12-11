@@ -19,7 +19,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 준비해야 할 수행평가 목록을 먼저 확인합니다. 과목별, 유형별로 대비 계획을 세웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 수행평가가 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수행평가 일정을 관리합니다. 미리미리 준비해서 급하게 하지 않도록 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 발표 수행평가 준비
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 발표처럼 연습합니다. 선생님이 청중 역할을 하면서 피드백을 드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 보고서 작성법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-보고서 작성 전 개요를 함께 짭니다. 첨삭을 통해 완성도를 높입니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## PPT 제작 방법
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-PPT 제작을 함께 합니다. 디자인 팁과 발표 자료 구성법을 알려드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 과목별 수행평가 대비
@@ -86,7 +86,7 @@ PPT 제작을 함께 합니다. 디자인 팁과 발표 자료 구성법을 알�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 수행평가 유형에 맞춰 대비합니다. 채점 기준을 분석해서 준비합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -101,7 +101,7 @@ PPT 제작을 함께 합니다. 디자인 팁과 발표 자료 구성법을 알�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수행평가 일정을 함께 관리합니다. 놓치는 것 없이 준비합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 비용 안내
@@ -110,7 +110,7 @@ PPT 제작을 함께 합니다. 디자인 팁과 발표 자료 구성법을 알�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수행평가 현황과 비용을 안내드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문

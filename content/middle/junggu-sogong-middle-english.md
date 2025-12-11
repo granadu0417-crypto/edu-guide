@@ -28,7 +28,7 @@ I like swimming과 I like to swim은 같은 의미인가요? enjoy 뒤에는 왜
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 동명사와 부정사의 이해 수준을 진단합니다. 각각을 목적어로 취하는 동사, 의미 차이를 체계적으로 훈련합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 동명사와 부정사가 어려운 이유
@@ -39,7 +39,7 @@ I like swimming과 I like to swim은 같은 의미인가요? enjoy 뒤에는 왜
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동명사와 부정사를 취하는 동사를 분류합니다. 문맥에 맞는 형태를 선택하는 연습을 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 덕수중·장원중·환일중 영어 시험의 특징
@@ -52,7 +52,7 @@ I like swimming과 I like to swim은 같은 의미인가요? enjoy 뒤에는 왜
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·환일중 기출 준동사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I like swimming과 I like to swim은 같은 의미인가요? enjoy 뒤에는 왜
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 동명사와 부정사를 사용한 문장을 만들어보게 합니다. 각 형태의 선택 이유를 설명하는 훈련을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,7 +76,7 @@ I like swimming과 I like to swim은 같은 의미인가요? enjoy 뒤에는 왜
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 준동사 내용을 정확히 이해합니다. 준동사를 자유롭게 활용하는 능력을 키웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ I like swimming과 I like to swim은 같은 의미인가요? enjoy 뒤에는 왜
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 준동사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}

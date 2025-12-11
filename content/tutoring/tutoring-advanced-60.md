@@ -20,7 +20,7 @@ featured_image: "/images/edu_0934_5uDpj9z3WsY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 시험마다 성적 분석을 해드립니다. 어디가 올랐는지, 왜 올랐는지 함께 점검합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 어떤 기준으로 성과를 봐야 하나요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0934_5uDpj9z3WsY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 후 오답 분석을 합니다. 어떤 유형을 틀렸는지, 예전과 비교해서 뭐가 나아졌는지 분석합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 성과가 안 나오면 어떻게 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0934_5uDpj9z3WsY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성과가 안 나오면 수업 방식을 점검합니다. 원인을 분석하고 방향을 조정합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 점수 외에 어떤 것도 봐야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0934_5uDpj9z3WsY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-점수뿐 아니라 학습 태도 변화도 관찰합니다. 종합적인 성장을 목표로 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0934_5uDpj9z3WsY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성과 측정에 대해 더 궁금한 점이 있으시면 문의하세요. 객관적인 분석을 함께 해드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 마무리

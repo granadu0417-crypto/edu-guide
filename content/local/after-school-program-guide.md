@@ -24,7 +24,7 @@ featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모 상담을 통해 가정 상황과 자녀 특성을 파악합니다. 방과후학교와 돌봄교실 중 적합한 프로그램을 안내해 드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 방과후학교란?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-돌봄교실 참여 학생도 방과후 수강이 가능합니다. 방과후에서 돌봄으로 연계 운영되어 효율적으로 이용할 수 있습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 방과후학교 프로그램
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 흥미와 적성에 맞는 프로그램을 함께 선택합니다. 학년별 적정 수강 개수를 안내해 균형 잡힌 활동을 돕습니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 초등돌봄교실
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신청 시기와 필요 서류를 미리 안내해 드립니다. 서류 준비에 어려움이 있으시면 함께 확인해 드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 지원 제도
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방과후학교와 학원의 장단점을 비교해 드립니다. 가정 상황과 자녀 특성에 맞는 조합을 함께 찾아봅니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 성공적인 이용 팁
@@ -125,5 +125,5 @@ featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방과후학교와 돌봄교실 관련 궁금한 점이 있으시면 상담을 통해 자세히 안내해 드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>

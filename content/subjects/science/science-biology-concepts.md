@@ -20,7 +20,7 @@ featured_image: "/images/edu_0579_N9wfSgiVNO4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 취약 영역을 먼저 진단합니다. 생물의 큰 틀을 잡고 세부 개념으로 확장합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 세포의 구조와 기능
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0579_N9wfSgiVNO4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세포소기관별 기능을 정리합니다. 그림과 함께 시각적으로 이해하도록 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 유전과 DNA
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0579_N9wfSgiVNO4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-DNA 구조와 복제 과정을 시각화합니다. 유전 문제 풀이 연습을 집중적으로 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 생태계와 환경
@@ -49,7 +49,7 @@ DNA 구조와 복제 과정을 시각화합니다. 유전 문제 풀이 연습�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생태계 개념을 도식화하여 정리합니다. 에너지 흐름과 물질 순환을 구분합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ DNA 구조와 복제 과정을 시각화합니다. 유전 문제 풀이 연습�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 기출 패턴을 분석합니다. 취약 부분을 집중 보완합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ DNA 구조와 복제 과정을 시각화합니다. 유전 문제 풀이 연습�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 생물 개념을 완벽히 정리합니다. 영역별 맞춤 학습을 제공합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

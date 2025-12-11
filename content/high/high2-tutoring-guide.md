@@ -15,7 +15,7 @@ featured_image: "/images/edu_0709_qODdqdGXWsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신과 모의고사 성적을 분석합니다. 수시와 정시 중 유리한 방향을 함께 결정합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 수시 vs 정시 선택 기준
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0709_qODdqdGXWsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 강점을 파악해 방향을 추천합니다. 시기별로 내신과 수능 비중을 조절합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 고2 과목별 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0709_qODdqdGXWsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 우선순위를 정합니다. 학생 상황에 맞게 시간 배분을 조절합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 생기부 관리 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0709_qODdqdGXWsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전공과 연계된 심화 주제를 함께 정합니다. 수업 시간 활용법을 안내해드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 모의고사 전략
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0709_qODdqdGXWsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 대비와 오답 분석을 함께 합니다. 취약 영역을 파악하고 보완 전략을 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문

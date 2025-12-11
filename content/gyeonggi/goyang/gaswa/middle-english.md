@@ -22,12 +22,11 @@ tags:
   - 가좌중
 featured_image: "/images/edu_0017.jpg"
 ---
-
-영어 포기하려고요? 아직 이릅니다. 고양시 일산서구 가좌동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+포기하기엔 아직 이릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾고, 그 부분을 집중 공략합니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완할 수 있습니다.
 </div>
 
 ## 중학 영어, 초등과 이렇게 다릅니다
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험이 끝나면 바로 선행으로 전환합니다. 시간 낭비 없이 효율적으로 운영합니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다. 혼자 힘으로 풀어야 실력이 됩니다.
 </div>
 
 ## 가좌중 영어 기출 분석
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험은 학교마다 다릅니다. 학교 특성에 맞춘 전략적 대비가 필요합니다.
+기출문제를 유형별로 정리하여 반복 훈련합니다. 비슷한 문제가 나오면 바로 풀 수 있습니다.
 </div>
 
 ## 고등학교에서 잘하려면
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 정리합니다. 반복해서 틀리는 문제는 특별 관리합니다.
+내신 범위가 곧 수능 출제 범위입니다. 한 번 공부로 두 가지를 대비합니다.
 </div>
 
 ## 개인 맞춤 수업의 장점
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0017.jpg"
 
 ## 마무리
 
-변화는 결심에서 시작됩니다. 지금 연락 주세요.
+일산서구 학생 여러분, 체계적인 1:1 수업으로 내신을 완벽 대비하세요.

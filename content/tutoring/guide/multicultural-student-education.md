@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다문화 학생은 한국어 실력에 맞춰 수업합니다. 이해될 때까지 반복 설명하고, 언어와 교과 학습을 함께 진행합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 다문화 학생이 겪는 어려움은 뭔가요?
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 심리적 상태도 살핍니다. 학습뿐 아니라 학교생활 적응, 친구 관계에 대한 이야기도 나누면서 신뢰를 쌓습니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 한국어 교육은 어떻게 해야 하나요?
@@ -54,7 +54,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과 수업을 하면서 한국어도 함께 가르칩니다. 수학 문제를 풀면서 수학 용어를 익히고, 과학 개념을 배우면서 과학 어휘를 정리합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 1대1 과외가 왜 효과적인가요?
@@ -65,7 +65,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 질문하기 편한 분위기를 만듭니다. 틀려도 괜찮다는 것을 알려주고, 작은 성취도 칭찬하면서 자신감을 키워줍니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 학교와 정부 지원은 어떻게 활용하나요?
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 학교에서 받는 지원 프로그램을 파악하고 연계해서 수업합니다. 중복을 피하고 부족한 부분을 집중 보완합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문

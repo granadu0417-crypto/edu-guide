@@ -19,7 +19,7 @@ featured_image: "/images/edu_0281_F8DmZwGFPwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경남 지역 과외 시장을 분석합니다. 거주 지역과 예산에 맞는 최적의 선생님을 추천합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 부산 대학 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0281_F8DmZwGFPwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 화상 과외 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0281_F8DmZwGFPwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 과외 환경 세팅을 도와드립니다. 온라인 수업에 적합한 학습 방법을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과목별 과외 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0281_F8DmZwGFPwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목과 학년에 맞는 선생님을 추천합니다. 학습 목표에 따라 커리큘럼을 설계합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과외와 학원 병행 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0281_F8DmZwGFPwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 과외 병행 계획을 세웁니다. 비용 대비 효과를 극대화하는 방법을 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문

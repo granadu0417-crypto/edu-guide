@@ -19,7 +19,7 @@ featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-먼저 어디서부터 막혔는지 정확히 진단합니다. 중1 내용이 부족하면 중1부터 다시 시작합니다. 자존심보다 실력이 중요합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 기초가 부족한 이유
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 기초가 부족해졌는지 함께 파악합니다. 원인을 알아야 같은 실수를 반복하지 않습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 기초 과외 진행 방식
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도보다 이해를 우선합니다. 한 개념을 여러 번 설명하고 다양한 예시로 확인합니다. 이해될 때까지 기다립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 과목별 기초 쌓기
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 가장 중요한 기초 개념을 정리해드립니다. 우선순위를 정해 효율적으로 학습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 변화에 시간이 걸립니다
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작은 발전도 함께 기뻐합니다. 과정을 인정하고 격려하면서 자신감을 심어줍니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 부모님께 드리는 말씀
@@ -72,7 +72,7 @@ featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 학부모님과 소통합니다. 아이의 변화와 앞으로의 계획을 공유하며 함께 이끌어갑니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}

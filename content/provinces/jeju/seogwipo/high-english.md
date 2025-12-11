@@ -10,14 +10,13 @@ tags:
   - 서귀포시영어과외
   - 서귀포시고등영어
 ---
-
-He said that he was tired에서 시제가 왜 바뀌는지 헷갈린다면, 간접화법력이 필요합니다.
+영어 성적표 보고 한숨 쉬셨나요?
 
 서귀포시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 서귀포고, 대정고, 남주고 시험에서 간접화법 문제가 자주 출제됩니다. 직접화법에서 간접화법으로 정확히 바꾸는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-간접화법 규칙을 체계적으로 정리합니다. 시제, 인칭, 지시어 변화를 훈련합니다.
+정확한 진단이 빠른 성적 향상의 시작입니다. 시간을 들여 제대로 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ He said that he was tired에서 시제가 왜 바뀌는지 헷갈린다면, 간�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-변환 규칙을 정리합니다. 시제·인칭·지시어 변화를 훈련합니다.
+개념 강의만 듣고 끝내지 않습니다. 반드시 직접 문제를 풀어봐야 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ He said that he was tired에서 시제가 왜 바뀌는지 헷갈린다면, 간�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서귀포고, 대정고 기출에서 화법 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+출제 경향을 파악하고 있습니다. 그에 맞춰 준비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ He said that he was tired에서 시제가 왜 바뀌는지 헷갈린다면, 간�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 간접화법력을 점진적으로 심화합니다.
+내신 기간에는 기출 중심, 수능 시즌에는 평가원 기출 중심.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -114,5 +113,5 @@ He said that he was tired에서 시제가 왜 바뀌는지 헷갈린다면, 간�
 
 ## 마무리
 
-서귀포시에서 간접화법이 어렵다면 규칙 훈련이 필요합니다. 변환이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 체계적인 관리로 성적 향상을 경험하세요.
 

@@ -23,7 +23,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-재수생 상담 시 학생의 자기 관리 능력과 성향을 먼저 파악합니다. 어떤 환경에서 공부를 잘하는지에 따라 추천이 달라집니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 재수학원 유형은 어떤 게 있나요?
@@ -36,7 +36,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 유형별 장단점을 상담에서 자세히 안내해 드립니다. 학생 성향에 맞는 유형을 함께 찾아갑니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 독재반의 특징은 뭔가요?
@@ -49,7 +49,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독재반에서 부족한 과목은 과외로 보완합니다. 학원 진도에 맞춰 약점만 집중 케어합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 기숙학원은 어떤가요?
@@ -72,7 +72,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향을 파악해서 어떤 유형이 맞는지 안내해 드립니다. 정답은 학생마다 다릅니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과외도 필요한가요?
@@ -85,7 +85,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-재수생 상담에서 학원과 과외의 역할 분담을 안내해 드립니다. 효율적인 조합을 함께 찾아갑니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

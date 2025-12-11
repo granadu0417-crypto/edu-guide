@@ -21,7 +21,7 @@ featured_image: "/images/edu_0840_1H0kSvm4I3k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 단원별로 진단합니다. 공식 암기가 아닌 개념 이해 중심으로 가르치고 문제 적용력을 키웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 수능 수학의 구조와 시간 배분
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0840_1H0kSvm4I3k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 등급에 맞춰 시간 배분 전략을 세웁니다. 쉬운 문제 완벽, 중간 문제 집중, 킬러 문제 전략적 접근을 훈련합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 수학1 핵심 개념과 유형
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0840_1H0kSvm4I3k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 증명 과정까지 완벽히 이해시킵니다. 공식이 왜 그렇게 되는지 알면 문제에 적용하기 쉬워집니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 선택과목 전략
@@ -68,7 +68,7 @@ featured_image: "/images/edu_0840_1H0kSvm4I3k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 수학 성향을 고려해 선택과목을 함께 결정합니다. 선택 후에는 해당 과목에 맞는 맞춤 전략을 수립합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 킬러 문제 대처법
@@ -87,7 +87,7 @@ OMR 마킹 실수를 방지하려면 10문제마다 마킹하는 것을 추천�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실수 패턴을 분석합니다. 자주 하는 실수를 목록화하고 같은 실수를 반복하지 않도록 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 학습 단계별 전략

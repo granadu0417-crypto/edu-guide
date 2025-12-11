@@ -29,7 +29,7 @@ When I arrived, he had already left에서 when절이 왜 부사절인지, 부사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 부사절의 이해 수준을 진단합니다. 시간, 조건, 이유, 양보 부사절의 접속사와 쓰임을 체계적으로 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 부사절이 어려운 이유
@@ -40,7 +40,7 @@ When I arrived, he had already left에서 when절이 왜 부사절인지, 부사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부사절의 종류별 접속사를 정리합니다. 문맥에 맞는 접속사를 선택하는 연습을 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 장충중·장원중·대경중 영어 시험의 특징
@@ -53,7 +53,7 @@ When I arrived, he had already left에서 when절이 왜 부사절인지, 부사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·장원중·대경중 기출 부사절 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -64,7 +64,7 @@ When I arrived, he had already left에서 when절이 왜 부사절인지, 부사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 부사절을 포함한 문장을 만들어보게 합니다. 부사절의 위치와 의미 변화를 설명하는 훈련을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -77,7 +77,7 @@ When I arrived, he had already left에서 when절이 왜 부사절인지, 부사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 절 내용을 정확히 이해합니다. 복잡한 문장을 자유롭게 분석하는 능력을 키웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 수업료 안내
@@ -88,7 +88,7 @@ When I arrived, he had already left에서 when절이 왜 부사절인지, 부사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 부사절 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 {{< cta-dual type="final" >}}

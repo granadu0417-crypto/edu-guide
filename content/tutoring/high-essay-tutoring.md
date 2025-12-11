@@ -19,7 +19,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 실력을 먼저 진단합니다. 논리력, 표현력, 시간 관리 능력을 파악합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 논술의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 대학의 기출 문제를 분석합니다. 출제 경향과 채점 기준을 파악합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 인문논술 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논술문 작성의 기본 틀을 알려드립니다. 어떤 주제가 나와도 적용할 수 있습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 수리논술 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정을 어떻게 써야 하는지 알려드립니다. 채점자가 원하는 답안을 작성합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 글을 쓰고 첨삭받습니다. 쓰는 양이 실력을 만듭니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 목표 대학과 현재 실력을 파악하고 학습 계획을 안내드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

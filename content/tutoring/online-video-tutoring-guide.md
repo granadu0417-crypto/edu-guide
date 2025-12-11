@@ -26,7 +26,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 수업도 대면처럼 집중해서 진행합니다. 화면 공유로 문제를 함께 보고, 실시간 필기로 풀이 과정을 보여줍니다. 궁금한 건 바로 질문합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 온라인 화상 과외는 뭐가 좋은가요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업을 녹화해서 보내드립니다. 이해 안 된 부분은 다시 보면서 복습할 수 있습니다. 녹화본 복습이 성적 향상에 큰 도움이 됩니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 온라인 화상 과외의 단점은 없나요?
@@ -56,7 +56,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화면 공유와 디지털 판서를 적극 활용합니다. 태블릿으로 학생 풀이를 실시간으로 보면서 어디서 막히는지 바로 파악합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학년별로 추천도가 다른가요?
@@ -67,7 +67,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 학년과 성향에 맞게 수업 방식을 조절합니다. 어린 학생은 짧게 여러 번, 고학년은 집중해서 길게 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 효과적으로 활용하려면 어떻게 해야 하나요?
@@ -78,7 +78,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 환경을 점검합니다. 카메라와 마이크가 잘 되는지 확인하고, 필요한 자료가 준비됐는지 체크합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

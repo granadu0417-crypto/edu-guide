@@ -20,7 +20,7 @@ featured_image: "/images/edu_0999_-IcHDTruvBA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외 상담에서는 학생이 개념 이해가 문제인지, 적용력이 문제인지 먼저 파악합니다. 어디서 막히는지 진단하고 맞춤 수업을 설계합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 과학 과외가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0999_-IcHDTruvBA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외 시작 전 진단 테스트를 진행합니다. 개념 이해도와 문제 풀이력을 함께 체크해드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 진학 상담은 이과 진학이나 과학 관련 진로를 고민할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0999_-IcHDTruvBA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 → 자료 해석 연습 → 문제 풀이 순서로 진행합니다. 학생이 완전히 이해할 때까지 반복합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과학 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0999_-IcHDTruvBA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 개념 정리와 오답 분석 숙제를 내드립니다. 이해하고 적용하는 힘을 함께 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0999_-IcHDTruvBA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 개념과 적용력을 함께 키우는 수업을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

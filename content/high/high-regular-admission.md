@@ -15,7 +15,7 @@ featured_image: "/images/edu_0686_BlCJi8walFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 전략과 지원 전략을 함께 세웁니다. 모의고사 분석으로 지원선을 예측합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 정시 전형의 구조
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0686_BlCJi8walFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정시 전형 구조를 설명합니다. 대학별 반영 방법과 유불리를 분석합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 수능 준비 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0686_BlCJi8walFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연간 학습 계획을 함께 세웁니다. 시기별 목표와 전략을 구체적으로 정합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 지원 전략 수립
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0686_BlCJi8walFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가채점 분석과 지원 전략 상담을 합니다. 대학별 합격 가능성을 예측합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 원서접수와 추가합격
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0686_BlCJi8walFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원서접수 과정을 안내합니다. 추가합격까지 지원 현황을 함께 점검합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문

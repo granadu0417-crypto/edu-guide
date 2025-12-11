@@ -19,7 +19,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 먼저 진단합니다. 개념 이해도, 계산력, 문제 해결력을 파악합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 수능 수학의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 수학의 출제 패턴을 분석합니다. 유형별로 전략을 세웁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 개념 학습의 중요성
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 완벽히 이해한 후 다음으로 넘어갑니다. 급하게 진도 나가지 않습니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 문제 풀이 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 과정을 꼼꼼히 점검합니다. 풀이 습관을 바로잡습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 킬러 문제 공략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-킬러 문제 유형을 분석합니다. 단계적으로 킬러에 도전합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 함께 만듭니다. 자주 틀리는 유형을 집중 훈련합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -21,7 +21,7 @@ featured_image: "/images/edu_0130_lUaaKCUANVI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3학년부터는 스스로 하는 연습을 시작합니다. 처음에는 함께 계획을 세우고, 점차 혼자 하도록 유도합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0130_lUaaKCUANVI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 끝나기 5분 전에 오늘 배운 내용을 스스로 정리하게 합니다. 말로 설명할 수 있어야 진짜 이해한 것입니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0130_lUaaKCUANVI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-곱셈과 나눗셈의 관계를 이해시킵니다. 12 나누기 3이 왜 4인지, 3 곱하기 4가 왜 12인지 연결해서 설명합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 3학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0130_lUaaKCUANVI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3학년은 아직 완전한 자기주도가 어렵습니다. 살짝 도와주면서 스스로 했다는 성취감을 느끼게 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0130_lUaaKCUANVI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 학습 계획표를 함께 만들어봅니다. 매주 얼마나 지켰는지 확인하고, 다음 주 계획을 조정합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 주의사항

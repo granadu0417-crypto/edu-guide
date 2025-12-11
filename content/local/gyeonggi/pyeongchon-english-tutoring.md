@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평촌 지역 학교들의 출제 경향을 철저히 분석하여 맞춤 수업을 진행합니다. 학원의 체계적 진도 관리와 과외의 개인별 약점 보완을 병행할 수 있도록 커리큘럼을 설계합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ### 높은 교육열과 학습 인프라
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파닉스 게임과 영어 동요, 그림책을 활용해 아이가 영어를 '놀이'처럼 느끼게 합니다. 억지로 문법을 가르치거나 암기를 강요하지 않고, 자연스럽게 영어에 노출시킵니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 고학년이 되면 챕터북 읽기를 통해 독해력을 기르고, 기초 문법을 자연스럽게 익히는 것이 좋습니다. 이때 탄탄한 기초를 다져야 중학교 영어에서 어려움을 겪지 않습니다.
@@ -61,7 +61,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 진도에 맞춘 내신 대비와 함께, 헷갈리기 쉬운 문법을 아이 눈높이에서 쉽게 설명합니다. 특히 평촌 지역 학교들은 서술형 비중이 높아 작문 연습을 강화합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 중3 때는 고등 영어 준비를 시작해야 합니다. 독해 속도를 높이고, 어휘력을 확장하며, 수능 유형의 문제에 미리 익숙해지는 것이 중요합니다.
@@ -78,7 +78,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 분석하여 내신 시험에 최적화된 수업을 진행합니다. 평촌 고등학교는 내신 경쟁이 치열하므로, 기출문제 분석과 킬러 문항 대비에 집중합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 고2부터는 본격적으로 수능 영어를 준비해야 합니다. EBS 연계 교재를 바탕으로 실전 감각을 익히고, 고난도 독해 문제와 빈칸 추론 문제를 집중적으로 훈련합니다.
@@ -93,7 +93,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 목표와 현재 수준에 맞는 최적의 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 선택 시 체크리스트
@@ -111,7 +111,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용을 심화 복습하거나, 부족한 부분을 집중 보완하는 맞춤 커리큘럼을 제공합니다. 학부모님께는 정기적으로 학습 상태를 피드백드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ### 원서 읽기 습관 들이기

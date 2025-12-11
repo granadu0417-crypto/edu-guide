@@ -21,7 +21,7 @@ featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성과 측정 상담에서는 과외 시작 전 기준점을 먼저 설정합니다. 비교할 대상이 있어야 변화를 알 수 있습니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 성과 측정이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매달 학습 성과를 정리해서 공유합니다. 어떤 부분이 좋아졌고 어떤 부분이 더 필요한지 알려드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 뭘로 측정해야 하나요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 같은 유형 테스트를 진행합니다. 시간과 정답률 변화를 기록해서 성장을 확인합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 효과가 없으면 어떻게 하나요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과가 미흡하면 원인 분석 후 수업 방식을 조정합니다. 필요하면 과감하게 바꿉니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 성과 측정에 대해 더 궁금한 점이 있으시면 문의하세요. 객관적인 평가 방법을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

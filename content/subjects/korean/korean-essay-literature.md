@@ -21,7 +21,7 @@ featured_image: "/images/edu_0447_Zi-DtaEM-gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수필의 특성을 정리합니다. 글쓴이의 태도와 성찰을 파악하는 방법을 훈련합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 수필의 특징
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0447_Zi-DtaEM-gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경수필과 중수필의 차이를 분석합니다. 작품별 특성을 비교하며 학습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 수필 감상법
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0447_Zi-DtaEM-gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수필 감상의 단계별 방법을 훈련합니다. 실제 작품에 적용하는 연습을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 주요 작품 정리
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0447_Zi-DtaEM-gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 작품과 작가를 정리합니다. 작가별 특징과 주제를 연결합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시험 대비
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0447_Zi-DtaEM-gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수필 관련 기출 문제를 분석합니다. 유형별 접근법을 체계적으로 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -82,5 +82,5 @@ featured_image: "/images/edu_0447_Zi-DtaEM-gg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 수필을 깊이 있게 이해합니다. 작품별 심화 분석과 문제 풀이를 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>

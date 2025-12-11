@@ -24,7 +24,7 @@ featured_image: "/images/edu_0393_wFpe6LYz27c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조동사 간 뉘앙스 차이를 명확히 정리합니다. 상황별 예문으로 감을 익힙니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 능력: can vs be able to
@@ -33,7 +33,7 @@ can은 현재 능력입니다. I can swim은 지금 수영할 수 있다입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-can과 be able to의 시제별 차이를 정리합니다. 예문으로 구분하는 연습을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 의무: must vs have to vs should
@@ -44,7 +44,7 @@ must는 화자의 강한 의지입니다. You must finish this는 내가 시키�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-의무 조동사의 강도 차이를 정리합니다. 특히 부정형의 의미 차이를 강조합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 추측: 확신도 순서
@@ -53,7 +53,7 @@ must는 95% 확신입니다. He must be tired는 틀림없이 피곤하다입니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추측 조동사의 확신도를 순서대로 정리합니다. 문맥에 맞게 선택하는 연습을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 조동사 + have p.p.
@@ -62,7 +62,7 @@ must는 95% 확신입니다. He must be tired는 틀림없이 피곤하다입니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조동사 + have p.p. 구문을 집중 연습합니다. 과거 추측과 후회 표현을 구분합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -117,5 +117,5 @@ can't는 불가능(추측), must not은 금지(명령)입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 조동사를 완벽히 정복합니다. 상황별 예문과 실전 연습으로 빠르게 마스터합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>

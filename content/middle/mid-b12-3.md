@@ -21,7 +21,7 @@ featured_image: "/images/edu_0933_jzcXsWmvKlw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 과정과 고1 과정의 연결고리를 파악합니다. 어디서부터 선행을 시작해야 하는지 정확히 진단합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 선행 학습, 왜 필요한가
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0933_jzcXsWmvKlw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 교과서를 미리 살펴보며 어떤 내용이 나오는지 익힙니다. 중3 복습과 고1 예습을 병행합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 선행 학습 시작 시기
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0933_jzcXsWmvKlw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 중3 과정 이해도를 확인한 후 선행 계획을 세웁니다. 무리한 진도보다 확실한 이해가 목표입니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 수학 선행 전략
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0933_jzcXsWmvKlw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 수학 핵심 단원을 정리하고, 고1 수학 첫 단원까지 연결해서 학습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 영어 선행 전략
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0933_jzcXsWmvKlw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긴 지문 독해 훈련을 하며 고등학교 영어에 대비합니다. 심화 문법도 미리 접해봅니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 선행과 내신의 균형
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0933_jzcXsWmvKlw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 내신 대비와 선행 학습 비중을 조절합니다. 효율적인 시간 활용법을 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

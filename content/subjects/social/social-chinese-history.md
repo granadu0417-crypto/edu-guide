@@ -26,7 +26,7 @@ featured_image: "/images/edu_0648_onxFGIkDvcI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중국 왕조의 순서를 암기합니다. 통일과 분열의 패턴을 시대별로 정리합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 진, 한 시대
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0648_onxFGIkDvcI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진시황의 통일 정책을 정리합니다. 한나라의 통치 제도와 문화를 설명합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 수, 당 시대
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0648_onxFGIkDvcI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수당의 제도와 문화를 비교합니다. 동아시아 문화권 형성과 연결합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 송, 원, 명, 청 시대
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0648_onxFGIkDvcI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왕조별 핵심 특징을 정리합니다. 이민족 왕조와 한족 왕조를 비교합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0648_onxFGIkDvcI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 왕조 순서와 특징 연결 문제를 집중 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,5 +111,5 @@ featured_image: "/images/edu_0648_onxFGIkDvcI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 중국사를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

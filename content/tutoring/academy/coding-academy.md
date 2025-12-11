@@ -23,7 +23,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞춰 수업을 설계합니다. 취미, 입시, 정보올림피아드 각각 다르게 접근합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 코딩 학원의 특징은 뭔가요?
@@ -36,7 +36,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실습을 많이 합니다. 직접 코드를 짜보고 에러를 수정하는 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과외가 더 나은 경우는 언제인가요?
@@ -49,7 +49,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준과 목표를 파악한 후 수업을 설계합니다. 무리한 진도는 피합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 어떤 언어부터 배워야 하나요?
@@ -62,7 +62,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 언어를 추천해 드립니다. 목표 없이 배우면 방향을 잃을 수 있습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -77,7 +77,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정보올림피아드 대비 수업은 알고리즘 위주로 진행합니다. 문제 풀이 연습을 많이 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 코딩 학원 선택 기준은 뭔가요?
@@ -94,7 +94,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-코딩 학습에 대해 더 궁금한 점이 있으시면 상담해 주세요. 학생 목표에 맞는 방향을 안내해 드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문

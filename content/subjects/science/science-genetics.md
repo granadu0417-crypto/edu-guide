@@ -19,7 +19,7 @@ featured_image: "/images/edu_0605_WIDa2mfXWpA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유전 용어부터 명확히 정리합니다. 대립 유전자, 유전자형, 표현형의 차이를 이해합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 멘델의 법칙
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0605_WIDa2mfXWpA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분리 법칙을 교배 실험으로 이해합니다. 3:1 비율이 나오는 이유를 설명합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 유전 확률 계산
@@ -39,7 +39,7 @@ Aa × Aa 교배에서 자손의 유전자형 비율은 AA:Aa:aa = 1:2:1입니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-퍼넷 사각형 그리는 법을 익힙니다. 유전 확률 계산을 단계별로 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 멘델 법칙의 예외
@@ -48,7 +48,7 @@ Aa × Aa 교배에서 자손의 유전자형 비율은 AA:Aa:aa = 1:2:1입니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-완전 우성과 불완전 우성을 비교합니다. 예외 사례를 실제 예시로 이해합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ Aa × Aa 교배에서 자손의 유전자형 비율은 AA:Aa:aa = 1:2:1입니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 가계도 분석 문제를 집중 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ Aa × Aa 교배에서 자손의 유전자형 비율은 AA:Aa:aa = 1:2:1입니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 유전을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>

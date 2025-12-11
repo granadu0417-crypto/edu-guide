@@ -10,14 +10,13 @@ tags:
   - 순천시영어과외
   - 순천시중등영어
 ---
-
-If I were you에서 왜 was가 아니라 were인지 모른다면, 가정법력이 필요합니다.
+중등 영어, 문법과 독해를 함께 잡아야 합니다.
 
 순천시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 순천고, 매산고, 순천여고 시험에서 가정법 문제가 자주 출제됩니다. 현실과 다른 상황을 표현하는 법을 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정법 형태를 체계적으로 정리합니다. 직설법과 구분을 훈련합니다.
+문제 푸는 과정을 옆에서 지켜봅니다. 어떤 생각으로 접근하는지 확인합니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ If I were you에서 왜 was가 아니라 were인지 모른다면, 가정법력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정법 공식을 정리합니다. 시제 선택을 훈련합니다.
+개념 설명 후 바로 문제를 풀어봅니다. 알았다고 생각해도 막히는 경우가 많습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ If I were you에서 왜 was가 아니라 were인지 모른다면, 가정법력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-순천고, 매산고 기출에서 가정법 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험의 난이도 분포를 알고 있습니다. 시간 배분 전략을 세웁니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ If I were you에서 왜 was가 아니라 were인지 모른다면, 가정법력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 가정법력을 점진적으로 심화합니다.
+내신 시험이 끝나면 바로 수능 대비로 전환합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -128,5 +127,5 @@ If I were you에서 왜 was가 아니라 were인지 모른다면, 가정법력�
 
 ## 마무리
 
-순천시에서 가정법이 어렵다면 형태 훈련이 필요합니다. 시제가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 내신에 특화된 과외, 지금 시작할 때입니다.
 

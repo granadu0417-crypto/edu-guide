@@ -23,7 +23,7 @@ featured_image: "/images/edu_0511_SZW4OQA_lME.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실수 패턴을 분석합니다. 어떤 유형에서 자주 틀리는지 파악하고 맞춤 방지 전략을 세웁니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 계산 실수 유형
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0511_SZW4OQA_lME.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계산 과정을 한 줄씩 확인합니다. 자주 실수하는 부분을 체크리스트로 만들어 습관화합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 개념 오해 실수
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0511_SZW4OQA_lME.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 다시 정리합니다. 비슷한 개념의 차이점을 명확히 구분하고 조건 체크 습관을 들입니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 문제 오독 실수
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0511_SZW4OQA_lME.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 읽기 훈련을 합니다. 조건 표시 습관을 들이고 마지막에 구하는 것을 다시 확인합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 실수 방지 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0511_SZW4OQA_lME.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검산 습관을 훈련합니다. 시간 내에 풀고 검산까지 하는 실전 연습을 반복합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,6 +108,6 @@ featured_image: "/images/edu_0511_SZW4OQA_lME.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인별 실수 패턴을 분석하고 맞춤 방지 전략을 세웁니다. 실수를 줄여 성적을 올리세요.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 

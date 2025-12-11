@@ -22,7 +22,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 상담에서는 학생의 현재 복습 패턴을 분석합니다. 언제, 얼마나, 어떻게 복습하는지 점검하고 과학적인 복습 주기를 안내합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 복습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습이 안 되고 있다면 학습 상담을 받으세요. 실천 가능한 복습 계획을 함께 세웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략을 다룹니다. 심리 상담은 학습 스트레스가 심할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 적용할 수 있는 복습 스케줄을 안내합니다. 당일, 1주일 후, 1달 후 반복 복습 계획을 세워드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 효과적인 복습 방법은 무엇인가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 시간표와 학습량에 맞는 복습 계획을 세워드립니다. 무리하지 않으면서도 효과적인 방법을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 전략에 대해 더 궁금한 점이 있으시면 문의하세요. 잊어버리지 않는 공부법을 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 자원으로 기본을 다지고, 정말 필요한 부분만 과외로 보완하는 효율적인 방법을 제안해 드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 어떤 무료 자원이 있나요?
@@ -40,7 +40,7 @@ EBS가 가장 대표적입니다. 완전 무료로 초중고 전 과목 강의�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 자원을 최대한 활용하고, 해결 안 되는 부분만 과외에서 집중적으로 다룹니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## EBS는 어떻게 활용하면 좋나요?
@@ -55,7 +55,7 @@ EBS의 가장 큰 장점은 무료면서 수능 연계가 높다는 점입니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-EBS로 배운 내용 중 이해 안 되는 부분만 과외에서 집중적으로 설명해 드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 유튜브 강의는 효과가 있나요?
@@ -78,7 +78,7 @@ EBS로 배운 내용 중 이해 안 되는 부분만 과외에서 집중적으�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기주도 학습 방법도 함께 가르쳐 드립니다. 스스로 공부하는 습관을 만들어 드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 무료 자원의 한계는 어떻게 보완하나요?
@@ -91,7 +91,7 @@ EBS로 배운 내용 중 이해 안 되는 부분만 과외에서 집중적으�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-형편이 어려운 학생에게는 합리적인 비용으로 효율적인 수업을 제공합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 효과적인 학습 루틴은 어떻게 짜나요?
@@ -104,7 +104,7 @@ EBS로 배운 내용 중 이해 안 되는 부분만 과외에서 집중적으�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 학습 계획 세우는 방법도 함께 알려드립니다. 무료 자원 활용 극대화 전략을 세워드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문

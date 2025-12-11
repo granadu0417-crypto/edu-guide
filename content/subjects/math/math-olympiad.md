@@ -26,7 +26,7 @@ featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-올림피아드 준비를 위한 맞춤 커리큘럼을 제공합니다. 4대 영역을 체계적으로 학습하고 창의적 문제 해결력을 키웁니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학년별 준비 전략
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 로드맵을 제공합니다. 학생 수준에 맞는 대회를 선택하고 단계적으로 준비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 영역별 학습 방법
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4대 영역을 균형 있게 학습합니다. 취약한 영역을 집중 보완하고 강점을 더욱 강화합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 문제 풀이와 실전 대비
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 전략을 체계적으로 훈련합니다. 증명 문제 첨삭과 실전 대비를 집중적으로 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,6 +78,6 @@ featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-올림피아드 수상을 목표로 맞춤 준비를 합니다. 4대 영역 전문 지도와 증명 첨삭으로 실력을 키워드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 

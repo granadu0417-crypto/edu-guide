@@ -21,7 +21,7 @@ featured_image: "/images/edu_0510_-TbiGrjeujE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학 수학 입문 수준의 내용을 미리 다룹니다. 증명 쓰기 연습으로 대학 적응력을 키웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 주요 대학 수학 과목
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0510_-TbiGrjeujE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-희망 전공에 필요한 대학 수학 과목을 파악합니다. 우선순위에 따라 선행 학습을 진행합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 전공별 대학 수학
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0510_-TbiGrjeujE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전공에 맞는 대학 수학 로드맵을 설계합니다. 필요한 과목을 우선순위로 정리합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학년별 준비 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0510_-TbiGrjeujE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 전 선행 범위를 설정합니다. 대학 교재 1회독을 목표로 학습을 진행합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 대학 수학 학습법
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0510_-TbiGrjeujE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학 수학 학습법을 미리 훈련합니다. 증명 쓰기와 개념 이해 중심의 학습 습관을 만듭니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

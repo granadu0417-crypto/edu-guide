@@ -22,7 +22,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-17개 유형을 하나씩 분석합니다. 유형별 키워드와 공략법을 정리합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 유형 1-3: 목적·의견·관계
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형 1-3을 기출 문제로 연습합니다. 키워드 찾는 감을 익힙니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 유형 4-8: 세부 정보
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세부 정보 유형을 집중 훈련합니다. 미래 표현, 이유 표현을 확실히 구분합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 유형 9-11: 숫자 정보
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숫자 유형만 모아서 훈련합니다. 메모법과 계산법을 확실히 익힙니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 유형 12-17: 담화·응답
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-담화·응답 유형을 연습합니다. 상황별 표현을 암기합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 만점 전략
@@ -69,7 +69,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 전략을 적용합니다. 시간 배분까지 코칭합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -132,5 +132,5 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 듣기 수업으로 17개 유형을 완벽히 정복합니다. 실전 문제로 만점을 달성합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

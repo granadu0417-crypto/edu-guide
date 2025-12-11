@@ -19,7 +19,7 @@ featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 하루 일과를 분석합니다. 시간이 어디로 새는지 파악합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시간 관리가 안 되는 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리가 안 되는 원인을 진단합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시간 관리 기본 원칙
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리의 기본 원칙을 알려드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 효율적인 시간 활용법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적으로 시간을 쓰는 방법을 안내합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 포모도로 기법
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-포모도로 기법 등 검증된 시간 관리 기법을 알려드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 시간 사용 패턴을 분석하고 개선 방법을 안내드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

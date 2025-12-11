@@ -24,7 +24,7 @@ featured_image: "/images/edu_0429_OA7dHq3Hf3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 작문을 분석하여 약점을 파악합니다. 문법, 표현, 구조를 체계적으로 교정합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 작문의 3가지 핵심
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0429_OA7dHq3Hf3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법, 어휘, 구조를 균형 있게 훈련합니다. 수준에 맞는 표현을 확장해갑니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 흔한 오류와 교정
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0429_OA7dHq3Hf3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 오류 유형을 정리합니다. 같은 실수를 반복하지 않도록 집중 교정합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 1:1 첨삭의 효과
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0429_OA7dHq3Hf3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-즉각적인 첨삭과 피드백을 제공합니다. 오류 원인을 이해하고 올바른 표현을 익힙니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 연습 방법
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0429_OA7dHq3Hf3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 작문 과제를 내고 첨삭합니다. 모범 답안 분석으로 좋은 표현을 익힙니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문
@@ -109,5 +109,5 @@ featured_image: "/images/edu_0429_OA7dHq3Hf3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 첨삭과 전문가 지도로 영어 작문 실력을 빠르게 향상시킵니다. 체계적인 피드백으로 자신감을 키웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>

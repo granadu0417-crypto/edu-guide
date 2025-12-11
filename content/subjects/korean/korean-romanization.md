@@ -19,7 +19,7 @@ featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-로마자 표기법의 기본 원리를 정리합니다. 자주 틀리는 표기를 집중적으로 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 기본 원칙
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 원칙을 체계적으로 정리합니다. 예시와 함께 원칙을 익힙니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자음 표기
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자음 표기 규칙을 정리합니다. 실제 단어로 적용 연습을 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 인명과 지명
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인명과 지명 표기법을 훈련합니다. 실제 사례로 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 자주 출제되는 유형을 집중 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 로마자 표기법을 완벽히 익힙니다. 규칙 정리와 실전 적용을 함께 훈련합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

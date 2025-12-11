@@ -20,7 +20,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외 상담에서는 학생들 수준이 비슷한지 먼저 확인합니다. 차이가 크면 개인 과외를 권합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 개인 과외의 장점은 뭔가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인 과외에서는 학생 하나만 집중합니다. 수업 전체가 그 학생을 위한 시간입니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 그룹 과외의 장점은 뭔가요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외에서는 서로 설명해 보는 시간을 가집니다. 가르치면서 배우는 효과가 있습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 언제 개인이 좋고, 언제 그룹이 좋나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외를 원하시면 먼저 학생들 수준을 테스트합니다. 맞지 않으면 개인을 권합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0970_Vc1pJfvoQvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외와 개인 과외 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 학생 상황에 맞는 형태를 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

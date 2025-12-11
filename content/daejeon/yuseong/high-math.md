@@ -10,14 +10,13 @@ tags:
   - 유성구수학과외
   - 유성구고등수학
 ---
-
-원의 방정식에서 중심과 반지름을 찾기 어렵다면, 원의 방정식력이 필요합니다.
+수학 때문에 머리 아프시죠?
 
 유성구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 유성고, 대전과학고, 충남삼성고 시험에서 원의 방정식 문제가 자주 출제됩니다. 표준형과 일반형을 자유롭게 변환하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원의 표준형과 일반형을 정리합니다. 완전제곱식으로 변환하는 훈련을 합니다.
+기초가 부족한지, 응용이 약한지, 시간 관리가 문제인지 정확히 진단합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-판별식을 이용한 교점 개수 판정을 익힙니다. 접선의 방정식 구하는 방법을 정리합니다.
+쉬운 문제부터 어려운 문제까지 단계별로 진행합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유성고, 대전과학고 기출에서 원의 방정식 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교의 기출문제를 철저히 분석합니다. 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 원의 방정식력을 점진적으로 향상시킵니다.
+수시를 노린다면 내신, 정시를 노린다면 수능. 목표에 맞춰 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -130,4 +129,4 @@ tags:
 
 ## 마무리
 
-유성구에서 원의 방정식이 어렵다면 변환 훈련이 필요합니다. 형태가 익숙해지면 수학이 쉬워집니다.
+ 학생 여러분, 변화는 결심에서 시작됩니다.

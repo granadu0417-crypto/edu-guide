@@ -24,7 +24,7 @@ featured_image: "/images/edu_0548_t4B_JcUofvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 체계적으로 분석합니다. 출제 경향을 파악하고 효율적인 학습 계획을 세웁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 기출문제 수집과 분류
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0548_t4B_JcUofvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제 수집과 분류 방법을 알려줍니다. 체계적인 기출 관리 시스템을 구축합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 분석 방법
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0548_t4B_JcUofvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석 방법을 체계적으로 가르칩니다. 출제자의 의도를 파악하도록 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 단계별 학습법
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0548_t4B_JcUofvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 기출 학습법을 안내합니다. 난이도를 점진적으로 높여갑니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 오답노트 작성
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0548_t4B_JcUofvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 오답노트 작성법을 가르칩니다. 같은 실수를 반복하지 않도록 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -125,6 +125,6 @@ featured_image: "/images/edu_0548_t4B_JcUofvY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석을 개인별로 맞춤 지도합니다. 효율적인 학습으로 성적 향상을 이끕니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 

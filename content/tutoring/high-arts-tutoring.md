@@ -19,7 +19,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실기 일정과 학업 상황을 파악합니다. 실기와 병행 가능한 학습 계획을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 예체능 입시의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 학습 방법을 알려드립니다. 적은 시간에 최대 효과를 내는 방법입니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 수능 최저 대비 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 최저 충족에 필요한 최소한의 학습을 효율적으로 진행합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 내신 관리 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실기 일정을 고려해서 학습 일정을 유연하게 조정합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 학생의 특수한 상황을 이해합니다. 유연하게 대응합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 실기 일정과 학업 목표를 파악하고 계획을 안내드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문

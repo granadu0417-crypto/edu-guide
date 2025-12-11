@@ -20,7 +20,7 @@ featured_image: "/images/edu_0961_QfrTfjHzQIU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 과외 시작 전에 독해력 테스트를 진행합니다. 어떤 유형의 글에서 막히는지 정확히 파악합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 국어 과외가 왜 필요한가요?
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0961_QfrTfjHzQIU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글을 읽는 방법부터 가르칩니다. 어디에 집중해야 하는지, 어떻게 정리하면서 읽는지 알려드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 국어 과외는 어떻게 진행되나요?
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0961_QfrTfjHzQIU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학, 문학, 문법을 골고루 진행합니다. 학생이 약한 영역에 더 많은 시간을 배분합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 국어 과외에서 가장 중요한 건 뭔가요?
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0961_QfrTfjHzQIU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 지문을 함께 읽으면서 어떻게 정리하는지 직접 보여드립니다. 혼자 할 때도 같은 방법으로 할 수 있습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -82,7 +82,7 @@ featured_image: "/images/edu_0961_QfrTfjHzQIU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 독해력 향상을 위한 맞춤 전략을 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 마무리

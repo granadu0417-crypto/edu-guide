@@ -10,14 +10,13 @@ tags:
   - 서구수학과외
   - 서구고등수학
 ---
-
-좌표평면에서 직선의 방정식을 구하기 어렵다면, 도형 좌표력이 필요합니다.
+수학은 혼자 공부하기 어려운 과목입니다.
 
 서구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 대전고, 충남고, 대전여고 시험에서 좌표기하 문제가 자주 출제됩니다. 점과 직선의 관계를 정확히 파악하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-직선의 방정식 표현법을 정리합니다. 기울기, 절편, 점과 직선의 거리를 훈련합니다.
+어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 출발점을 찾습니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-점과 직선의 거리 공식을 유도 과정부터 이해합니다. 평행, 수직 조건을 정리합니다.
+풀이 과정을 깔끔하게 정리하는 연습을 합니다. 서술형 점수도 올립니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대전고, 충남고 기출에서 좌표기하 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+같은 문제도 학교마다 변형해서 출제합니다. 변형 문제를 연습합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 도형 좌표력을 점진적으로 향상시킵니다.
+고등학교 3년, 내신과 수능 배분 로드맵을 세워드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -130,4 +129,4 @@ tags:
 
 ## 마무리
 
-서구에서 좌표기하가 어렵다면 그림 훈련이 필요합니다. 좌표가 익숙해지면 수학이 쉬워집니다.
+ 학생 여러분, 성적 향상의 시작, 무료 상담으로 첫걸음을 떼세요.

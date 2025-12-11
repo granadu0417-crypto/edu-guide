@@ -21,7 +21,7 @@ featured_image: "/images/edu_0104_N_aihp118p8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 학습 계획표를 함께 만들고, 매주 얼마나 지켰는지 점검합니다. 스스로 계획하는 연습이 중학교 대비입니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0104_N_aihp118p8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 작성법을 가르칩니다. 왜 틀렸는지 적고, 다음에 어떻게 풀지 정리합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0104_N_aihp118p8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 다른 학습법을 적용합니다. 국어는 읽기 중심, 수학은 풀이 중심, 영어는 암기 중심으로 접근합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 5학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0104_N_aihp118p8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이번 주 계획은 뭐야?라고 물어봅니다. 스스로 말할 수 있어야 진짜 자기 계획입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0104_N_aihp118p8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 끝나고 오늘 배운 거 집에서 뭘 복습할지 스스로 정해보게 합니다. 스스로 정하면 더 잘 지킵니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 주의사항

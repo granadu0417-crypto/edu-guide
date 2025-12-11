@@ -10,14 +10,13 @@ tags:
   - 북구영어과외
   - 북구고등영어
 ---
-
-It is math that I like에서 강조 구문이 어색하다면, 강조 구문력이 필요합니다.
+영어 포기하려고요? 아직 이릅니다.
 
 북구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 북구고, 전대부고, 광주과학고 시험에서 강조 구문 문제가 자주 출제됩니다. It is ~ that 구조를 정확히 파악하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강조되는 대상을 정확히 파악합니다. 주어, 목적어, 부사구 강조의 차이를 훈련합니다.
+첫 수업에서 학생과 충분히 대화합니다. 공부 습관과 목표를 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ It is math that I like에서 강조 구문이 어색하다면, 강조 구문력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강조 구문을 원래 문장으로 되돌리는 훈련을 합니다. that을 빼도 문장이 성립하면 강조 구문입니다.
+공식만 알면 기본 문제는 풉니다. 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ It is math that I like에서 강조 구문이 어색하다면, 강조 구문력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-북구고, 전대부고 기출에서 강조 구문 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ It is math that I like에서 강조 구문이 어색하다면, 강조 구문력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 강조 구문력을 점진적으로 심화합니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,4 +125,4 @@ It is math that I like에서 강조 구문이 어색하다면, 강조 구문력�
 
 ## 마무리
 
-북구에서 강조 구문이 어렵다면 구조 훈련이 필요합니다. 패턴이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 맞춤 수업, 지금 상담받으세요.

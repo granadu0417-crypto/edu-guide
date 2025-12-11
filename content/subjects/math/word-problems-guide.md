@@ -25,7 +25,7 @@ featured_image: "/images/edu_0572_xoCrMyMFt7s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 푸는 5단계 전략을 체계적으로 가르칩니다. 꼼꼼히 읽고 정리하고 그림 그리고 식 세우고 확인하는 과정을 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 문장제 푸는 5단계
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0572_xoCrMyMFt7s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 단계를 습관으로 만들도록 반복 훈련합니다. 문제를 보는 순간 5단계가 자동으로 떠오르게 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주요 유형별 공략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0572_xoCrMyMFt7s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 풀이 패턴을 정리합니다. 자주 나오는 유형부터 익히고 다양한 문제로 확장합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 틀리는 표현
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0572_xoCrMyMFt7s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 표현을 집중 연습합니다. 헷갈리는 용어를 명확히 구분하도록 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학년별 전략
@@ -121,6 +121,6 @@ featured_image: "/images/edu_0572_xoCrMyMFt7s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 풀이를 체계적으로 훈련합니다. 약점을 파악하고 유형별로 집중 연습하여 문장제를 정복합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0012_YQF3s4rs2ZE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 독서 수준과 글쓰기 능력을 먼저 파악합니다. 좋아하는 책 종류, 평소 읽는 양, 글쓰기 태도를 확인합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 초등 독서논술에서 뭘 배우나요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0012_YQF3s4rs2ZE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한 권의 책을 2-3주에 걸쳐 깊이 있게 다룹니다. 급하게 많이 읽지 않습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 왜 독서논술 과외가 필요한가요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0012_YQF3s4rs2ZE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-책 내용에 대해 질문을 많이 합니다. 아이가 스스로 생각하게 유도합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 독서논술 수업은 어떻게 진행되나요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0012_YQF3s4rs2ZE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 글을 꼼꼼히 첨삭합니다. 잘한 점, 고칠 점을 구체적으로 알려드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 독서논술 과외의 장점은 뭔가요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0012_YQF3s4rs2ZE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 다음에 읽을 책과 읽을 분량을 안내드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 좋은 독서논술 선생님의 조건은 뭔가요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0012_YQF3s4rs2ZE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 어떤 책으로 어떻게 진행하는지 구체적으로 안내드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}

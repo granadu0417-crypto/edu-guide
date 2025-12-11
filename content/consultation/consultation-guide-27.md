@@ -20,7 +20,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 부여 상담에서는 왜 동기가 없는지 원인을 찾습니다. 목표가 없는 건지, 자신감이 없는 건지, 다른 문제가 있는 건지 파악합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 동기 부여 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기가 없다면 진로 상담을 먼저 받아보세요. 목표를 찾으면 자연스럽게 동기가 생깁니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 학습 상담은 공부 방법을 다룹니다. 심리 상담은 무기력감이나 우울감이 있을 때 도움이 됩니다. 진학 상담은 구체적인 입시 목표를 세울 때 필요합니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 작은 목표부터 세웁니다. 큰 목표보다 당장 할 수 있는 작은 것부터 시작해서 성취감을 느끼게 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 학년에 따라 동기 부여 방법이 다른가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 동기 부여 방법을 안내합니다. 억지로 만드는 동기가 아니라 내면에서 우러나오는 동기를 찾도록 돕습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 동기에 대해 더 궁금한 점이 있으시면 문의하세요. 아이가 스스로 공부하고 싶어지는 방법을 함께 찾습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평촌 학군의 높은 난이도에 맞춘 심화 수업을 진행합니다. 기본 개념은 물론, 고난도 문제까지 완벽하게 풀 수 있도록 단계별로 실력을 키워드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ### 우수한 선생님 풀
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무조건적인 선행보다 개념의 깊이를 중시합니다. 사고력 수학과 심화 문제 풀이를 통해, 어떤 문제가 나와도 당황하지 않는 진짜 수학 실력을 키워드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 초등학생 수학 과외비는 주1회 기준 약 12만원 -  22만원, 주2회 기준 약 25만원 -  38만원 선입니다.
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 완벽 분석하여 출제 패턴을 파악합니다. 시험에 나올 수 있는 모든 유형을 훈련하고, 실수를 줄이는 문제 풀이 습관을 만들어드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 중3 때는 고등 수학 선행이 필수입니다. 고1 과정(수학 상·하)을 미리 마쳐야 고등학교에서 여유를 가지고 내신 관리를 할 수 있습니다.
@@ -76,7 +76,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 킬러 문항 유형을 분석하여 집중 대비합니다. 교과서, 익힘책은 물론 학교 프린트물까지 완벽하게 분석하여 빈틈없는 내신 준비를 도와드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 수능 대비도 병행해야 합니다. 내신 기간이 아닐 때는 수능 기출문제와 EBS 연계 교재를 통해 실전 감각을 키워야 합니다.
@@ -91,7 +91,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평촌 지역 학교들의 출제 경향을 잘 아는 선생님을 매칭해드립니다. 학교별 기출문제 데이터베이스를 활용하여 체계적인 시험 대비를 진행합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 선택 시 체크리스트
@@ -109,7 +109,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 틀린 문제를 함께 분석하고, 효과적인 오답 노트 작성법을 지도합니다. 시험 전에는 오답 노트 중심으로 총정리하여 완벽한 대비를 돕습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ### 개념과 문제 풀이의 균형

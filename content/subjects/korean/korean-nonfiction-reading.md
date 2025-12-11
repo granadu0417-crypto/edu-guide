@@ -20,7 +20,7 @@ featured_image: "/images/edu_0474_flaT0Fqd4j8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 수준을 파악합니다. 어떤 유형에서 막히는지 진단하고 맞춤 훈련을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 설명문 독해
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0474_flaT0Fqd4j8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-설명문의 전개 방식을 정리합니다. 다양한 지문으로 연습합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 논설문 독해
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0474_flaT0Fqd4j8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논설문의 논증 구조를 분석합니다. 주장과 근거를 파악하는 연습을 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 독해력 향상 방법
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0474_flaT0Fqd4j8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해력 향상을 위한 체계적인 훈련을 합니다. 단계별로 실력을 높여갑니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0474_flaT0Fqd4j8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 원인을 파악하고 보완합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,5 +105,5 @@ featured_image: "/images/edu_0474_flaT0Fqd4j8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 비문학 독해력을 키웁니다. 설명문, 논설문 독해를 체계적으로 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>

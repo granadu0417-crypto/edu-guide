@@ -20,7 +20,7 @@ featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가사의 형식적 특징을 정리합니다. 시조와의 차이점을 명확히 구분합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 가사의 형식적 특징
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가사의 율격을 분석합니다. 실제 작품에서 음보를 확인하는 연습을 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 가사의 유형
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가사의 유형별 특징을 정리합니다. 대표 작품을 유형별로 분류합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 주요 작품 정리
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 작품을 심층 분석합니다. 작가와 작품의 연결 관계를 정리합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가사 관련 기출 문제를 분석합니다. 유형별 접근법을 체계적으로 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,5 +105,5 @@ featured_image: "/images/edu_0453_nRYK3UAUJ8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 가사 문학을 체계적으로 학습합니다. 작품 분석과 문제 풀이를 함께 연습합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>

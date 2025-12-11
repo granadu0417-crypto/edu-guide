@@ -19,7 +19,7 @@ featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비판적 독해의 기본 사고방식을 익힙니다. 글의 논리 구조를 파악하는 훈련을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 핵심 요소 파악
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주장, 근거, 전제를 구분하는 연습을 합니다. 실전 지문으로 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 읽기 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4단계 읽기 전략을 체계적으로 훈련합니다. 실전 문제에 적용합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 논리와 오류
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논리적 오류를 찾는 연습을 합니다. 편향을 파악하는 눈을 키웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 수능 적용
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비판적 독해를 수능 문제에 적용합니다. 고난도 문제 풀이 전략을 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -116,5 +116,5 @@ featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 비판적 독해 수업으로 분석력을 키웁니다. 고난도 문제 정복을 도와드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0102_x7ZD34QEQyM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-답이 맞아도 어떻게 풀었어?라고 물어봅니다. 풀이 과정을 설명할 수 있으면 진짜 이해입니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0102_x7ZD34QEQyM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 풀기 전에 뭘 구해야 하지?라고 물어봅니다. 목표를 명확히 하면 풀이가 쉬워집니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0102_x7ZD34QEQyM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 문장제는 그림으로 그려보게 합니다. 눈으로 보면 무엇을 구해야 하는지 명확해집니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 4학년의 특징과 대응
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0102_x7ZD34QEQyM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님한테 왜 이렇게 풀었는지 설명해봐라고 합니다. 설명하면서 스스로 정리가 됩니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0102_x7ZD34QEQyM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사고력 문제 시간에는 어려워도 포기하지 말고 생각해보자라고 격려합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 주의사항

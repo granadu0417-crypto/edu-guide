@@ -23,7 +23,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 영어 수준을 먼저 파악합니다. 알파벳부터인지, 파닉스 단계인지, 회화 가능한지에 따라 수업이 달라집니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 초등 영어학원은 어떤 종류가 있나요?
@@ -36,7 +36,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향에 맞는 학원 유형을 안내해 드립니다. 말하기를 좋아하는지, 읽기에 관심이 있는지에 따라 추천이 달라집니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 파닉스부터 해야 하나요?
@@ -49,7 +49,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파닉스 단계를 꼼꼼히 체크합니다. 다음 단계로 넘어가기 전에 확실히 다지고 갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 학원이 나은가요, 과외가 나은가요?
@@ -72,7 +72,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 커리큘럼으로 수업합니다. 무리한 선행보다는 기본기를 탄탄히 다집니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 학원 선택할 때 뭘 확인해야 하나요?
@@ -87,7 +87,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 영어 학습에 대해 궁금한 점이 있으시면 상담해 주세요. 아이 상황에 맞는 방향을 안내해 드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문

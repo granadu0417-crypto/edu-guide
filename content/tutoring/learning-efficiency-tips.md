@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 효율이 낮은 학생은 공부 방법부터 점검합니다. 어떻게 공부하는지 파악하고, 효율을 높이는 방법을 맞춤으로 지도합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 집중력을 높이려면 어떻게 해요?
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 휴대폰을 치우게 합니다. 50분 집중 후 쉬는 시간을 갖고, 집중력이 흐트러지면 바로 환기시킵니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 암기는 어떻게 해야 잘 돼요?
@@ -55,7 +55,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지난 수업 내용을 복습했는지 확인합니다. 복습을 안 했으면 수업 시작 전에 간단히 복습하고 시작합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 학원을 200% 활용하려면요?
@@ -66,7 +66,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 병행하는 학생은 학원에서 이해 안 된 부분을 집중 보완합니다. 학원 숙제도 함께 점검합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 1대1 과외를 200% 활용하려면요?
@@ -85,7 +85,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞는 학습법을 가르칩니다. 수학은 개념 이해를, 영어는 반복 암기를, 국어는 지문 분석을 중점으로 지도합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문

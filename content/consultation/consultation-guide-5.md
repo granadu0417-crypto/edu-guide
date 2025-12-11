@@ -20,7 +20,7 @@ featured_image: "/images/edu_0072_oikrPWDdbF4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 상담에서는 학생의 하루 일과를 분석합니다. 언제 에너지가 높고 낮은지 파악해서 최적의 학습 시간대를 찾아냅니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시간 관리 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0072_oikrPWDdbF4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간이 부족하다고 느끼면 학습 상담이 우선입니다. 불필요한 시간 낭비를 줄이고 효율적인 학습 패턴을 만들어갑니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 진학 상담은 입시 전략과 학교 정보를 제공합니다. 진학을 앞둔 학생에게 체계적인 계획 수립을 돕습니다. 심리 상담은 스트레스나 불안으로 집중이 어려운 학생에게 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0072_oikrPWDdbF4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 새로운 시간표를 함께 작성합니다. 바로 적용할 수 있는 현실적인 계획을 세우고, 정기적으로 점검합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 학년마다 시간 관리 방법이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0072_oikrPWDdbF4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 상황에 맞춰 시간 관리 전략을 세웁니다. 무리하지 않으면서도 효율적인 계획을 함께 만들어갑니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0072_oikrPWDdbF4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 맞춤 전략을 제안합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

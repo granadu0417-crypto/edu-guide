@@ -19,7 +19,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 미적분 기초를 먼저 진단합니다. 수학2의 미분과 적분이 완성되어 있는지 확인합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 미적분이 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 시각적으로 설명합니다. 그래프와 도형으로 직관적 이해를 돕습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 개념 이해의 중요성
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정의부터 확실히 합니다. 왜 그런지 이해하면 공식이 자연스럽게 나옵니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 핵심 개념 정리
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 개념을 정리한 노트를 만듭니다. 필요할 때 빠르게 찾아볼 수 있게 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 문제 풀이 전략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 과정을 꼼꼼히 점검합니다. 실수하기 쉬운 부분을 짚어드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 함께 만듭니다. 자주 틀리는 유형을 집중 훈련합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문

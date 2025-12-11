@@ -17,7 +17,7 @@ featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학원 상황을 파악합니다. 어떤 학원에서 어떤 수업을 듣는지 확인하고, 과외의 역할을 명확히 정합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 병행이 필요한 경우
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용 중 이해 안 된 부분을 과외 시간에 다시 설명합니다. 학원 숙제 중 틀린 문제를 분석하고 약점을 보완합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 병행 전략 3가지
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도표를 공유받아서 과외 내용을 조정합니다. 학원에서 배운 직후에 과외에서 복습하면 효과가 두 배입니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과목별 병행 전략
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상태를 항상 확인합니다. 피곤해 보이면 빈도를 조정하고, 과부하가 느껴지면 솔직하게 말씀드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 병행 시 흔한 실수
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞게 빈도를 조정합니다. 중1은 가볍게, 중2는 본격적으로, 중3은 전략적으로 접근합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}

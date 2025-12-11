@@ -21,7 +21,7 @@ featured_image: "/images/edu_0099_CAtC53bw-Ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 그렇게 생각해?라고 자주 물어봅니다. 이유를 설명할 수 있으면 진짜 이해입니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0099_CAtC53bw-Ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답을 알려주지 않고 같이 생각해보자라고 합니다. 스스로 찾아가는 과정이 사고력입니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0099_CAtC53bw-Ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 개념을 배우면 왜 이렇게 되는 거야?라고 물어봅니다. 스스로 설명해보게 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 4학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0099_CAtC53bw-Ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-만약 -라면 어떻게 될까?라는 질문을 자주 합니다. 가정하고 추론하는 연습이 사고력을 키웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0099_CAtC53bw-Ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사고력 문제 시간에는 틀려도 괜찮아, 어떻게 생각했는지가 중요해라고 격려합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 주의사항

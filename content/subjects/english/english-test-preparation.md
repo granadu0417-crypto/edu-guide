@@ -23,7 +23,7 @@ featured_image: "/images/edu_0419_w-xtsVmrsAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제로 학생의 약점을 진단합니다. 자주 틀리는 유형을 집중 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 내신 시험 대비
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0419_w-xtsVmrsAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 분석합니다. 서술형 답안 작성법을 집중 지도합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 수능 영어 대비
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0419_w-xtsVmrsAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-EBS 연계 지문을 분석합니다. 고난도 빈칸 문제 풀이 전략을 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 유형별 풀이 전략
@@ -52,7 +52,7 @@ EBS 연계 지문을 분석합니다. 고난도 빈칸 문제 풀이 전략을 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 접근법을 체계적으로 정리합니다. 실전 문제로 적용 연습을 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시간 관리
@@ -61,7 +61,7 @@ EBS 연계 지문을 분석합니다. 고난도 빈칸 문제 풀이 전략을 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 재며 실전 연습을 합니다. 개인별 최적의 풀이 순서를 찾습니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,5 +108,5 @@ EBS 연계 지문을 분석합니다. 고난도 빈칸 문제 풀이 전략을 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 시험 대비로 약점을 집중 보완합니다. 실전 모의고사로 완벽하게 준비합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>

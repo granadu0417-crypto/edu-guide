@@ -22,7 +22,7 @@ featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 국어 실력을 진단합니다. 어떤 영역이 약한지, 어디서 시간을 뺏기는지 파악해서 맞춤 전략을 세웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 수능 국어의 구조
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별로 비중을 다르게 합니다. 약한 영역에 시간을 더 투자합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 비문학 공략법
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문을 읽고 구조를 분석하는 연습을 합니다. 글의 뼈대를 파악하면 어떤 지문이 나와도 읽을 수 있습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 문학 공략법
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 작품을 분석하는 방법을 알려줍니다. 표현 기법, 주제, 화자의 정서를 파악하는 연습을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 시간 관리
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 연습을 합니다. 실전처럼 시간을 재고 풀어봅니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 오답 분석
@@ -91,7 +91,7 @@ featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 함께 합니다. 왜 틀렸는지, 어떻게 해야 안 틀리는지 파악합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 주의사항

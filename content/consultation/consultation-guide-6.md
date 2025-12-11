@@ -21,7 +21,7 @@ featured_image: "/images/edu_0083_G8NOmGenyeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 상담에서는 먼저 학생의 집중력을 방해하는 요인을 분석합니다. 환경적 요인인지, 심리적 요인인지, 습관적 요인인지 파악합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 집중력 상담이 왜 필요한가요?
@@ -36,7 +36,7 @@ featured_image: "/images/edu_0083_G8NOmGenyeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 문제가 주된 고민이라면 학습 상담부터 시작하세요. 필요에 따라 심리 상담을 병행하기도 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 진학 상담은 입시 전략과 학교 정보를 제공합니다. 심리 상담은 스트레스나 불안이 심해서 집중이 어려운 경우에 도움이 됩니다.
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0083_G8NOmGenyeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 집중력 향상을 위한 구체적인 실천 계획을 세웁니다. 작은 것부터 시작하여 점진적으로 집중 시간을 늘려갑니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학년에 따라 집중력 훈련법이 다른가요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0083_G8NOmGenyeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 개인 성향에 맞춰 집중력 훈련 방법을 제안합니다. 무리하지 않으면서 꾸준히 향상시킬 수 있는 계획을 세웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0083_G8NOmGenyeU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 향상에 대해 더 알고 싶으시면 편하게 문의하세요. 학생 상황에 맞는 맞춤 솔루션을 제안합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

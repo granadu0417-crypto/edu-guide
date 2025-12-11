@@ -22,7 +22,7 @@ featured_image: "/images/edu_0372_5fNmWej4tAA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 시험 불안 원인을 파악합니다. 개인별 맞춤 멘탈 관리법을 제시하고 실전 훈련을 병행합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 불안의 원인
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0372_5fNmWej4tAA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-불안 원인을 함께 분석합니다. 원인별로 맞춤 해결 전략을 세웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 긴장 극복법
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0372_5fNmWej4tAA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-호흡법과 이완 기법을 직접 연습합니다. 모의고사 전에 적용해서 효과를 확인합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 시험 중 대처법
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0372_5fNmWej4tAA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 중 상황별 대처법을 훈련합니다. 모의고사로 실전 연습을 반복합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 컨디션 관리
@@ -60,7 +60,7 @@ D-7부터 규칙적인 수면이 중요합니다. 8시간 자고 일찍 일어�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전 컨디션 관리법을 안내합니다. 수면, 식사, 운동 등 생활 전반을 점검합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -119,5 +119,5 @@ D-7부터 규칙적인 수면이 중요합니다. 8시간 자고 일찍 일어�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 멘탈 수업으로 시험 불안을 극복합니다. 실전 훈련과 심리 코칭을 병행합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 적성, 흥미, 가치관을 먼저 파악합니다. 무엇을 좋아하고, 무엇을 잘하는지 분석합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 진로 탐색의 중요성
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 이야기를 충분히 듣습니다. 학생이 원하는 것을 함께 찾습니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 진로 탐색 과정
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 진로 탐색 도구를 활용합니다. 객관적으로 나를 파악합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 학과 선택 가이드
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학과 정보를 상세히 제공합니다. 현실적인 조언을 드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 상담의 장점
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 결정을 존중합니다. 학생이 원하는 방향으로 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 상황을 파악하고 상담 방향을 안내드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

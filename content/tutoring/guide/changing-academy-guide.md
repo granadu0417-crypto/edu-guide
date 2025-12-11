@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제가 있으면 먼저 원인을 분석합니다. 수업 방식이 맞지 않는지, 다른 이유가 있는지 파악하고 개선 방안을 찾습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 언제 학원을 바꿔야 하나요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 수업을 진행합니다. 너무 어렵거나 쉽지 않게 적절한 난이도를 유지합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 바꾸지 않아도 되는 경우는요?
@@ -61,7 +61,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 학습 성과를 점검합니다. 문제가 발견되면 즉시 수업 방식을 조정합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학원 대신 1대1 과외로 바꾸는 건 어떤가요?
@@ -74,7 +74,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 이전 학습 이력을 확인합니다. 어디서 막혔는지 파악하고 그 부분부터 다시 시작합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 언제 바꾸는 게 가장 좋은 타이밍인가요?
@@ -95,7 +95,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생과 충분히 대화합니다. 이전에 어떤 어려움이 있었는지 듣고, 그 부분을 개선해서 수업합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 학원을 바꾸면 문제가 되나요?
@@ -126,7 +126,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 태도와 습관도 함께 점검합니다. 수업만으로 안 되면 공부 방법부터 바로잡습니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 **Q. 성적이 많이 떨어졌는데 따라갈 수 있을까요?**

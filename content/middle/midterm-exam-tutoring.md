@@ -21,7 +21,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위를 먼저 파악하고 전체 계획을 세웁니다. 남은 시간에 맞춰 효율적으로 학습할 수 있도록 단계별로 진행합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 중간고사의 특징은 무엇인가요?
@@ -32,7 +32,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 시험이니만큼 시험 보는 방법부터 지도합니다. 시간 관리, 답안 작성법, 실전 연습을 충분히 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시기별로 어떻게 준비해야 하나요?
@@ -45,7 +45,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 1주 전에는 새 내용을 가르치지 않습니다. 그동안 배운 내용을 정리하고 실전 감각을 키우는 데 집중합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 과목별 전략은 어떻게 다른가요?
@@ -60,7 +60,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학과 사회는 이해 기반 암기가 중요합니다. 개념을 먼저 이해하고 자료 해석 능력을 키우며 서술형 키워드를 정리합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 과외 효과를 높이려면 어떻게 해야 하나요?
@@ -71,7 +71,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외만 의존하면 안 됩니다. 과외 40%, 혼자 공부 60%가 적절합니다. 과외에서 배운 내용을 스스로 복습해야 효과가 있습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문

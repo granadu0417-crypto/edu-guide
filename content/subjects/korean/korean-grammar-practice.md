@@ -20,7 +20,7 @@ featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 자주 틀리는 문제 유형을 분석합니다. 약점 유형을 집중 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 품사 관련 문제
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-품사 구별의 핵심 기준을 정리합니다. 헷갈리는 품사를 반복 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 문장 성분 문제
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 성분 분석 연습을 체계적으로 합니다. 겹문장 구조 파악 훈련을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 음운 변동 문제
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-음운 변동 규칙을 정리합니다. 발음 분석 과정을 단계별로 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 오답 분석 방법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 패턴을 분석합니다. 개인별 약점을 파악하고 보완합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -117,5 +117,5 @@ featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 문법 문제 풀이 능력을 키웁니다. 기출 분석과 유형별 훈련을 체계적으로 진행합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

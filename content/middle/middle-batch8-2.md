@@ -21,7 +21,7 @@ featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 심리 상태를 이해합니다. 강압적으로 가르치지 않고 스스로 공부하고 싶게 만듭니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 사춘기, 왜 이렇게 힘든 걸까
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 편하게 대화합니다. 공부 이야기만 하지 않고 관심사도 물어봅니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 사춘기 자녀와 대화하는 법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 가정에서의 대화법을 안내합니다. 가정과 수업이 연계되어야 효과가 있습니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 성적 유지 전략
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현실적인 목표를 세웁니다. 작은 성취를 경험하게 해서 자신감을 키웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학습 동기 찾기
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사를 파악합니다. 공부와 연결해 동기를 부여합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 균형 잡힌 생활
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-건강한 생활 습관을 안내합니다. 공부와 휴식의 균형을 맞추도록 돕습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}

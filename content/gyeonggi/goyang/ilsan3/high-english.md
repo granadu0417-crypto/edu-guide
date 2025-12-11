@@ -22,8 +22,7 @@ tags:
   - 신일비즈니스고
 featured_image: "/images/edu_0009.jpg"
 ---
-
-1등급, 불가능한 꿈이 아닙니다. 고양시 일산서구 일산3동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+영어 포기하려고요? 아직 이릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0009.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 3년, 내신과 수능을 어떻게 배분할지 로드맵을 세워드립니다.
+개념 설명 후 바로 문제를 풀어봅니다. 알았다고 생각해도 막상 풀면 막히는 경우가 많습니다.
 </div>
 
 ## 신일비즈니스고 내신 대비 전략
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0009.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신일비즈니스고 영어 선생님들의 출제 스타일을 파악하고 있습니다. 그에 맞춰 준비합니다.
+출제 경향을 파악하고 있습니다. 그에 맞춰 준비합니다.
 </div>
 
 ## 수능 대비, 언제부터 어떻게?
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0009.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답을 맞혀도 풀이 과정을 점검합니다. 감으로 맞힌 건 다음에 틀립니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다. 학생마다 최적의 밸런스가 다릅니다.
 </div>
 
 ## 1:1 과외, 이런 점이 다릅니다
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0009.jpg"
 
 ## 마무리
 
-영어 실력, 키울 수 있습니다. 포기하기엔 아직 이릅니다.
+일산서구 학생 여러분, 실력 향상을 응원합니다.

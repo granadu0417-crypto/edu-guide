@@ -14,12 +14,11 @@ tags:
   - 오산시영어과외
   - 오산시고등영어
 ---
-
-오산시 고등학교 영어, 내신과 수능 모두 만만치 않습니다.
+영어는 꾸준함이 답입니다. 지금 시작하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 독해, 어휘, 듣기 각 영역을 점검합니다.
+정확한 진단이 빠른 성적 향상의 시작입니다. 시간을 들여 학생을 제대로 파악합니다.
 </div>
 
 ## 오산시 고등학교 영어가 어려운 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
+문제를 읽고 바로 풀지 않습니다. 무엇을 구하는지, 어떤 개념이 필요한지 먼저 생각합니다.
 </div>
 
 ## 오산시 주요 고등학교 영어 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 영어 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악합니다.
+선생님이 강조한 부분, 수업 중 언급한 예시를 정리합니다. 시험에 나올 확률이 높습니다.
 </div>
 
 ## 수능 영어 대비 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출문제와 EBS 교재를 활용합니다. 고난도 유형의 접근법을 단계별로 훈련합니다.
+내신 기간에는 학교 시험에 집중하고, 그 외 기간에는 기초를 다집니다.
 </div>
 
 
@@ -92,6 +91,6 @@ tags:
 
 ## 마무리
 
-오산시 고등학생 여러분, 영어 성적 향상이 필요하시다면 지금 시작하세요.
+오산시 학생 여러분, 지금 바로 잡으세요. 첫 상담은 무료입니다.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

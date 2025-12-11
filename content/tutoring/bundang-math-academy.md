@@ -25,7 +25,7 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 지역 학교 내신 경향을 파악하고 있습니다. 학교별 맞춤 수업이 가능합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 분당 수학학원의 특징은 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 부족한 부분은 과외로 보충할 수 있습니다. 약점 과목만 집중 케어합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 지역별로 학원 특징이 다른가요?
@@ -51,7 +51,7 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 지역 학교 시험 일정에 맞춰 수업 계획을 세웁니다. 내신 대비도 함께 진행합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 대치동과 비교하면 어떤가요?
@@ -64,7 +64,7 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 거주 학생은 분당 학원을 추천합니다. 이동 시간을 공부에 쓰는 게 더 효율적입니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 지역 학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문

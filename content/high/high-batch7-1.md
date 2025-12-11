@@ -21,7 +21,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 학습 방법을 처음부터 잡아줍니다. 중학교 때 습관을 버리고 새로운 학습법을 익힙니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 고1 학습의 핵심
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관부터 점검합니다. 비효율적인 습관을 찾아내고 효과적인 방법으로 바꿔줍니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과목별 기초 다지기
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 기초를 점검합니다. 부족한 부분을 찾아서 먼저 채웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 내신 관리 방법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 3주 전부터 계획을 세웁니다. 언제 뭘 공부할지 구체적으로 정합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 생기부 관리 시작
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부에 뭘 채워야 하는지 계획을 세웁니다. 고1 때부터 준비해야 고3 때 풍성해집니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 진로 탐색 시작
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 탐색을 도와줍니다. 어떤 분야에 관심이 있는지 함께 알아봅니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 주의사항

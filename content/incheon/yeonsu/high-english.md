@@ -10,14 +10,13 @@ tags:
   - 연수구영어과외
   - 연수구고등영어
 ---
-
-밑줄 친 부분이 어법상 맞는지 틀린지 모르겠다면, 어법 정확성력이 필요합니다.
+영어 실력, 지금 바로 키울 수 있습니다.
 
 연수구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 연수고, 인천포스코고, 송도고 시험에서 어법 문제가 자주 출제됩니다. 문장 성분을 분석하고 어법 오류를 찾는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 출제되는 어법 포인트를 정리합니다. 수일치, 시제, 관계사 등 핵심 문법을 훈련합니다.
+진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어법 유형별 체크 포인트를 정리합니다. 빠르게 오류를 찾는 훈련을 합니다.
+비슷한 유형을 반복해서 풀며 패턴을 익힙니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연수고, 인천포스코고 기출에서 어법 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+선생님이 강조한 부분을 정리합니다. 시험에 나올 확률이 높습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 어법 정확성력을 점진적으로 심화합니다.
+내신 범위가 곧 수능 출제 범위입니다. 한 번 공부로 두 가지를 대비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,5 +125,5 @@ tags:
 
 ## 마무리
 
-연수구에서 어법이 어렵다면 분석 훈련이 필요합니다. 구조가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 결심이 시작입니다. 오늘 상담받고 내일부터 달라지세요.
 

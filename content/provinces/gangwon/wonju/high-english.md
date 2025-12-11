@@ -10,14 +10,13 @@ tags:
   - 원주시영어과외
   - 원주시고등영어
 ---
-
-more와 -er 중 무엇을 쓸지 헷갈린다면, 비교급력이 필요합니다.
+늦지 않았습니다. 영어, 지금 시작하세요.
 
 원주시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 원주고, 상지대부고, 진광고 시험에서 비교급 문제가 자주 출제됩니다. 비교급과 최상급의 형태를 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교급 형태 규칙을 정리합니다. 불규칙 변화와 강조 표현을 훈련합니다.
+성적표만 보지 않습니다. 실제로 문제를 풀면서 어디서 막히는지 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ more와 -er 중 무엇을 쓸지 헷갈린다면, 비교급력이 필요합니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-음절별 규칙을 정리합니다. 비교 관용 표현을 훈련합니다.
+문제를 풀다 막히면 힌트를 조금씩 줍니다. 스스로 깨달아야 기억에 남습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ more와 -er 중 무엇을 쓸지 헷갈린다면, 비교급력이 필요합니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원주고, 상지대부고 기출에서 비교급 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ more와 -er 중 무엇을 쓸지 헷갈린다면, 비교급력이 필요합니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 비교급력을 점진적으로 심화합니다.
+내신과 수능, 어느 하나도 소홀히 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -106,5 +105,5 @@ more와 -er 중 무엇을 쓸지 헷갈린다면, 비교급력이 필요합니�
 
 ## 마무리
 
-원주시에서 비교급이 어렵다면 형태 훈련이 필요합니다. 규칙이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 자신감, 되찾을 수 있습니다.
 

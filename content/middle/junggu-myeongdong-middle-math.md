@@ -29,7 +29,7 @@ featured_image: "/images/edu_0846__-WZZhP_J8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 다항식 나눗셈의 이해 수준을 진단합니다. 조립제법, 다항식의 나눗셈 순서, 나머지 정리를 체계적으로 훈련합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 다항식의 나눗셈이 어려운 이유
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0846__-WZZhP_J8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다항식 나눗셈의 순서를 정확히 익힙니다. 조립제법을 활용한 빠른 계산법을 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 덕수중·장원중·환일중 수학 시험의 특징
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0846__-WZZhP_J8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·환일중 기출 다항식 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0846__-WZZhP_J8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 다항식 나눗셈을 해보게 합니다. 각 단계에서 무엇을 하는지 설명하는 훈련을 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학년별 학습 전략
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0846__-WZZhP_J8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 다항식 내용을 정확히 이해합니다. 다항식을 자유롭게 다루는 능력을 키웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 수업료 안내
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0846__-WZZhP_J8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 다항식 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

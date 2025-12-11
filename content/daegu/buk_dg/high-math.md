@@ -10,14 +10,13 @@ tags:
   - 북구수학과외
   - 북구고등수학
 ---
-
-부등식의 해 범위를 정하기 어렵다면, 부등식 범위 설정력이 필요합니다.
+수학 실력, 3개월이면 달라집니다.
 
 북구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 북구고, 복현고, 대구공고 시험에서 부등식 문제가 자주 출제됩니다. 경계값 처리와 범위 설정이 문제 해결의 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부등식의 기본 성질을 확립합니다. 경계값 포함 여부를 판단하는 훈련을 합니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지 파악합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수직선을 활용합니다. 범위를 시각적으로 표현하는 훈련을 합니다.
+문제를 많이 푸는 것보다 한 문제를 깊이 이해하는 게 중요합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-북구고, 복현고 기출에서 부등식 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+내신 시험은 학교마다 다릅니다. 전략적 대비가 필요합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 부등식 해결력을 점진적으로 향상시킵니다.
+시험 3주 전부터는 내신에 올인합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -122,4 +121,4 @@ tags:
 
 ## 마무리
 
-북구에서 부등식 범위가 안 보인다면 경계값 훈련이 필요합니다. 범위가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 시작이 반입니다.

@@ -22,12 +22,11 @@ tags:
   - 일산동고
 featured_image: "/images/edu_0015.jpg"
 ---
-
-내 아이 수학, 왜 이렇게 안 오르는 걸까요? 고양시 일산서구 탄현1동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+수포자가 되기 전에, 지금 잡으면 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 만남에서 수학 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가하여 맞춤 계획을 세웁니다.
+실력 진단 없이 수업하면 시간만 낭비됩니다. 체계적인 진단으로 효율적인 학습 경로를 설계합니다.
 </div>
 
 ## 수학이 갑자기 어려워지는 시기
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 학교 기출 중심으로, 수능 시즌에는 평가원 기출 중심으로 진행합니다.
+모르는 문제는 5분만 고민합니다. 그래도 모르면 풀이를 보고 이해한 후 다시 풀어봅니다.
 </div>
 
 ## 일산동고 시험은 이렇습니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 프린트와 수업 필기도 함께 분석합니다. 시험에 나올 가능성이 높은 부분을 집중 대비합니다.
+학교의 기출문제를 철저히 분석합니다. 출제 선생님 스타일, 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 수능 수학 완벽 분석
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답의 원인을 5가지로 분류합니다. 개념 부족, 계산 실수, 문제 이해 오류, 시간 부족, 집중력 저하. 각각 대처법이 다릅니다.
+시험 3주 전부터는 내신에 올인합니다. 그 외 기간에는 실력을 키웁니다.
 </div>
 
 ## 왜 과외를 선택해야 할까요?
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0015.jpg"
 
 ## 마무리
 
-결심이 시작입니다. 오늘 상담받고, 내일부터 달라지세요.
+일산서구 학생 여러분, 어렵다고 포기하면 안 됩니다. 방법을 바꿔보세요.

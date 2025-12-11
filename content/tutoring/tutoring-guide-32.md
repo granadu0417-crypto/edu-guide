@@ -20,7 +20,7 @@ featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외에서는 학생이 집중하고 있는지 수시로 확인합니다. 화면 공유로 필기를 보면서 진행합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 온라인 과외가 왜 효과적인가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업을 녹화해서 학생에게 공유합니다. 시험 기간에 돌려보면서 복습할 수 있습니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 온라인 과외는 어떻게 진행되나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-10분에 한 번씩 학생에게 질문합니다. 이해했는지 확인하고, 직접 설명해 보게 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 온라인 과외에서 가장 중요한 건 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 환경 점검을 합니다. 준비가 안 되면 수업 효과가 떨어집니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 비대면에서도 효과를 내는 방법을 안내합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

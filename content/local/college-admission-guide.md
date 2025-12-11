@@ -15,7 +15,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 강점을 분석해 유리한 전형을 파악합니다. 맞춤형 입시 전략을 함께 수립합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수시 전형의 이해
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전형별 특징을 설명합니다. 학생에게 맞는 전형을 선택하도록 도와드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 정시 전형의 이해
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 성적을 분석해 지원 가능 대학을 파악합니다. 가나다군 전략을 함께 수립합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 학년별 준비 전략
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 로드맵을 세웁니다. 시기별로 해야 할 일을 구체적으로 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 면접 준비 전략
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접 유형별 대비법을 안내합니다. 모의 면접으로 실전 감각을 키웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문

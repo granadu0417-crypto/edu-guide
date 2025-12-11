@@ -19,7 +19,7 @@ featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 역사의 어느 부분에서 막히는지 파악합니다. 흐름을 이해하는지, 암기에 어려움이 있는지 진단합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 역사 공부가 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연표를 만들어가며 공부합니다. 사건의 순서와 인과관계를 한눈에 정리합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시험에 나오는 포인트 잡기
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 분석해서 자주 나오는 유형을 정리합니다. 예상 문제를 만들어 연습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 암기가 아닌 이해로 접근
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-역사를 스토리텔링으로 풀어드립니다. 재미있게 배우면 오래 기억됩니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 효과적인 정리 방법
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생만의 정리 노트를 만들어갑니다. 스스로 정리해야 진짜 내 것이 됩니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 문제를 직접 써보고 첨삭받습니다. 모범 답안과 비교하며 실력을 키웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 수업료를 상세히 안내드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

@@ -24,7 +24,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향과 목표에 맞는 학원 유형을 함께 상담해 드립니다. 어떤 방식이 맞는지 먼저 파악합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 단과학원의 특징은 뭔가요?
@@ -39,7 +39,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단과학원에서 부족한 과목은 과외로 보충합니다. 학원과 과외의 진도를 맞춰서 효율을 높입니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 종합학원의 특징은 뭔가요?
@@ -54,7 +54,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합학원에서 약한 과목은 과외로 보완합니다. 학원 진도에 맞춰 과외 수업을 설계합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 어떤 학생에게 단과학원이 맞나요?
@@ -77,7 +77,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황을 파악해서 어떤 유형이 맞는지 안내해 드립니다. 정답은 학생마다 다릅니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 과외랑 병행하면 어떤가요?
@@ -90,7 +90,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 수업을 설계합니다. 학원에서 못 따라간 부분을 과외에서 잡습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

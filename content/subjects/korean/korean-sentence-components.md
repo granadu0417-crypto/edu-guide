@@ -19,7 +19,7 @@ featured_image: "/images/edu_0489_-onz_n4DUes.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 성분의 개념을 체계적으로 정리합니다. 실제 문장으로 분석 연습을 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 주성분
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0489_-onz_n4DUes.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주성분의 개념을 정리합니다. 문장에서 주성분을 찾는 연습을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 부속 성분
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0489_-onz_n4DUes.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부속 성분의 역할을 정리합니다. 관형어와 부사어 구분 연습을 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 헷갈리는 성분 구분
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0489_-onz_n4DUes.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헷갈리는 성분 구분법을 훈련합니다. 오답 유형을 분석합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0489_-onz_n4DUes.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 유형별 풀이 전략을 정리합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ featured_image: "/images/edu_0489_-onz_n4DUes.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 문장 성분을 완벽히 익힙니다. 개념 정리와 문장 분석을 함께 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>

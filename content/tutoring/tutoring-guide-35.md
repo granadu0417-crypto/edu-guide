@@ -21,7 +21,7 @@ featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 비용 구조를 투명하게 안내합니다. 숨겨진 비용 없이 명확하게 설명드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과외비는 뭘로 결정되나요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 학년과 목표에 맞는 적정 비용을 안내합니다. 무조건 비싼 게 좋은 건 아닙니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 과외비의 적정 범위는 어떻게 되나요?
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역과 학년에 맞는 시세를 안내합니다. 합리적인 범위에서 선택하실 수 있게 도와드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과외비 협상은 어떻게 하나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료 외 추가 비용은 없습니다. 교재비만 별도이고, 그마저도 미리 안내드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 비용에 대해 더 궁금한 점이 있으시면 문의하세요. 투명한 비용 구조를 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

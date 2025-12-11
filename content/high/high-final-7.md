@@ -21,7 +21,7 @@ featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 실력을 분석합니다. 어떤 탐구 과목이 유리한지, 어떻게 공부해야 하는지 전략을 세웁니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 탐구 과목 선택 기준
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특징과 유불리를 설명합니다. 학생에게 맞는 과목을 함께 찾습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 사회탐구 과목별 특징
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습법을 알려줍니다. 어떻게 개념을 정리하고, 어떤 문제를 풀어야 하는지 안내합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과학탐구 과목별 특징
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 선택한 과목에 맞춰 학습법을 알려줍니다. 개념 정리부터 문제 풀이까지 체계적으로 진행합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 탐구 학습 전략
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출을 함께 분석합니다. 자주 나오는 유형을 정리하고 반복 연습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시간 관리
@@ -90,7 +90,7 @@ featured_image: "/images/edu_0665_Ucr4Yp-t364.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 연습을 합니다. 실전처럼 시간을 재고 문제를 풀어봅니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 주의사항

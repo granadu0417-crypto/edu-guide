@@ -20,7 +20,7 @@ featured_image: "/images/edu_0503_9o8YdYGTT64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력을 정확히 진단합니다. 선행이 적합한지 현행 보완이 먼저인지 판단하여 안내합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 선행학습이 필요한 학생
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0503_9o8YdYGTT64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선행 가능 여부를 체크리스트로 점검합니다. 학생에게 맞는 최적의 학습 방향을 제시합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학년별 적정 선행 범위
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0503_9o8YdYGTT64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 수준에 맞는 선행 범위를 설계합니다. 무리한 진도 대신 깊이 있는 학습을 진행합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 올바른 선행학습 방법
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0503_9o8YdYGTT64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별로 체계적인 선행을 진행합니다. 진도만 빼는 게 아니라 개념 이해를 최우선으로 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 선행학습의 함정과 해결책
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0503_9o8YdYGTT64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선행의 함정에 빠지지 않도록 관리합니다. 현행과 선행의 균형을 맞춰 학습을 진행합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문

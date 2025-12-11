@@ -14,12 +14,11 @@ tags:
   - 수원시영어과외
   - 수원시고등영어
 ---
-
-수원시 고등학교 영어, 내신과 수능 모두 만만치 않습니다.
+영어 시험은 특별한 대비가 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 독해, 어휘, 듣기 각 영역을 점검합니다.
+진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 정확히 파악한 후 수업을 시작합니다.
 </div>
 
 ## 수원시 고등학교 영어가 어려운 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
+개념 설명 후 바로 문제를 풀어봅니다. 알았다고 생각해도 막상 풀면 막히는 경우가 많습니다.
 </div>
 
 ## 수원시 주요 고등학교 영어 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 영어 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악합니다.
+출제 경향을 파악하고 있습니다. 그에 맞춰 준비합니다.
 </div>
 
 ## 수능 영어 대비 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출문제와 EBS 교재를 활용합니다. 고난도 유형의 접근법을 단계별로 훈련합니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다. 학생마다 최적의 밸런스가 다릅니다.
 </div>
 
 
@@ -128,6 +127,6 @@ tags:
 
 ## 마무리
 
-수원시 고등학생 여러분, 영어 성적 향상이 필요하시다면 지금 시작하세요.
+수원시 학생 여러분, 체계적인 관리로 성적 향상을 경험하세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

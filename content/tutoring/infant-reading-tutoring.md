@@ -19,7 +19,7 @@ featured_image: "/images/edu_0005_qqyomuTLOpo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 관심사와 발달 수준을 파악해서 딱 맞는 책을 선정합니다. 공룡을 좋아하면 공룡 책부터, 동물을 좋아하면 동물 책부터 시작합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 유아 독서과외가 필요한 이유는 뭔가요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0005_qqyomuTLOpo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-책을 읽어주는 것에서 끝나지 않습니다. 책 내용에 대해 이야기 나누고, 관련 활동을 하면서 깊이 있게 이해합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 유아 독서 수업에서 뭘 하나요?
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0005_qqyomuTLOpo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한 권의 책을 깊이 있게 읽습니다. 급하게 많이 읽는 것보다 제대로 읽는 것이 중요합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 독서과외의 장점은 뭔가요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0005_qqyomuTLOpo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 이번 주 읽은 책과 아이 반응을 공유합니다. 다음에 읽을 책도 함께 정합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 어떤 책을 읽나요?
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0005_qqyomuTLOpo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 좋아하는 책은 여러 번 반복해서 읽습니다. 반복 독서도 중요한 학습입니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 좋은 독서 선생님의 조건은 뭔가요?
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0005_qqyomuTLOpo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 선생님의 수업 스타일을 확인하세요. 시범 수업을 통해 아이와 맞는지 보시면 됩니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}

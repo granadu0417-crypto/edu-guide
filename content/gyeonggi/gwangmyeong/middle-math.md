@@ -14,12 +14,11 @@ tags:
   - 광명시수학과외
   - 광명시중등수학
 ---
-
-광명시 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다.
+지금 시작하면 충분히 따라잡을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 실력을 종합 진단합니다. 개념 이해도, 계산 정확도, 문제 해결력을 파악하고 약점부터 집중 보완합니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지, 어떤 단원이 문제인지 파악합니다.
 </div>
 
 ## 광명시 중학교 수학이 중요한 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 완벽히 이해한 후 다양한 유형의 문제를 풀어봅니다. 원리 이해에 집중합니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 광명시 주요 중학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악하여 맞춤 대비합니다.
+시간 대비 문제 양이 많은 학교가 있습니다. 빠르게 푸는 연습도 함께 합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -64,7 +63,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼으로 진행합니다. 학기 중에는 내신 대비, 방학에는 선행 학습을 병행합니다.
+학년별로 내신과 수능 비중을 조절합니다. 고1은 내신 중심, 고3은 수능 비중을 높여갑니다.
 </div>
 
 
@@ -94,6 +93,6 @@ tags:
 
 ## 마무리
 
-광명시 중등학생 여러분, 수학 성적 향상이 필요하시다면 지금 시작하세요.
+광명시 학생 여러분, 어렵다고 포기하면 안 됩니다. 방법을 바꿔보세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

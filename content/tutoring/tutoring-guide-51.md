@@ -20,7 +20,7 @@ featured_image: "/images/edu_0989_dN3r0Z84qGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 입시 전형에 맞춰 내신과 수능 비중을 조절합니다. 시험 일정에 맞춰 유연하게 운영합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 내신과 수능, 뭐가 더 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0989_dN3r0Z84qGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 전형과 현재 성적을 분석해서 내신-수능 비중을 조절합니다. 전략적으로 접근합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 내신과 수능을 어떻게 병행하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0989_dN3r0Z84qGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 학교 시험에 맞춰 수업합니다. 시험 끝나면 수능 대비로 바로 전환합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과목별로 다르게 접근해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0989_dN3r0Z84qGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞춰 내신-수능 연계 전략을 세워드립니다. 효율적으로 공부할 수 있도록 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0989_dN3r0Z84qGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 내신과 수능 병행 전략을 상세히 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 마무리

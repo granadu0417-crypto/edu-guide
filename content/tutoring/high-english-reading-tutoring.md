@@ -19,7 +19,7 @@ featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 속도와 정확도를 먼저 진단합니다. 어디서 시간이 걸리는지 파악합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 독해가 느린 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 어순대로 읽는 훈련을 합니다. 번역 없이 바로 이해하는 능력을 키웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 빠른 독해의 핵심
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-끊어 읽기 연습을 반복합니다. 의미 단위로 빠르게 처리하는 능력을 키웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 문장 구조 분석
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복잡한 문장을 분석하는 연습을 합니다. 어떤 문장이 나와도 구조가 보이게 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 어휘력 키우기
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어휘 테스트를 정기적으로 합니다. 꾸준히 쌓아가는 것이 중요합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 일정량의 지문을 읽고 분석합니다. 꾸준함이 실력을 만듭니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문

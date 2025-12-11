@@ -22,7 +22,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간과 비내신 기간을 나눠서 계획을 세웁니다. 시기에 따라 집중할 대상을 바꿉니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 내신과 수능 병행 전략
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 전형에 맞춰 내신과 수능 비중을 조절합니다. 수시 위주면 내신을, 정시 위주면 수능을 더 챙깁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 내신 기간 학습법
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간에는 내신 과목만 집중 수업합니다. 학교별 출제 경향에 맞춰 준비합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 비내신 기간 학습법
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비내신 기간에는 수능 기출 분석을 합니다. 어떤 유형이 나오는지, 어떻게 풀어야 하는지 익힙니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과목별 병행 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 공부하면서 수능에도 도움 되는 방식으로 가르칩니다. 시간을 두 배로 효율적으로 씁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 주의사항

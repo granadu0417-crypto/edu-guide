@@ -21,7 +21,7 @@ featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 이론 시험의 출제 범위와 유형을 파악합니다. 실기와 이론의 균형 잡힌 대비 전략을 세워드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 예체능 시험의 구성
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 이론 범위를 정리하고 핵심 내용을 추출합니다. 효율적인 암기와 이해를 도와드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 체육 이론 대비
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체육 이론의 핵심 내용을 체계적으로 정리합니다. 종목별 규칙, 건강 지식 등을 효율적으로 암기하도록 돕습니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 음악 이론 대비
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-음악 이론의 핵심을 정리합니다. 작곡가, 작품, 음악 용어 등을 체계적으로 암기하도록 지도합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 미술 이론 대비
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미술 이론의 핵심을 정리합니다. 미술사, 작품 분석, 표현 기법 등을 체계적으로 학습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 실기와 이론의 균형

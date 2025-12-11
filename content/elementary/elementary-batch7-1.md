@@ -21,7 +21,7 @@ featured_image: "/images/edu_0124_NsPDiPFTp4c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-저학년은 재미있게 수업합니다. 게임처럼 퀴즈를 내고, 스티커를 모으게 하고, 칭찬을 많이 합니다. 공부가 즐거운 경험이 되도록 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0124_NsPDiPFTp4c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작은 성취도 크게 칭찬합니다. 틀려도 괜찮아, 다음에 잘하면 돼라고 말해주고, 시도한 것 자체를 인정합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0124_NsPDiPFTp4c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-저학년 수학은 블록이나 과자로 직접 보여줍니다. 3 더하기 2가 5라는 것을 눈으로 확인하면 잊어버리지 않습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 저학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0124_NsPDiPFTp4c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력이 떨어지면 잠깐 쉬고 다시 합니다. 억지로 앉혀두면 공부가 싫어집니다. 짧게 자주 하는 게 낫습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0124_NsPDiPFTp4c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모님께 집에서 해야 할 것을 구체적으로 안내합니다. 양보다 꾸준함이 중요하다고 강조합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 주의사항

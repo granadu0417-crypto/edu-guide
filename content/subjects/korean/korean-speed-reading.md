@@ -20,7 +20,7 @@ featured_image: "/images/edu_0494_cIOo7AXHiZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 읽기 속도를 측정합니다. 맞춤형 속독 훈련을 진행합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 읽기 습관 점검
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0494_cIOo7AXHiZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-읽기 습관을 진단합니다. 개선이 필요한 부분을 파악합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 덩어리 읽기
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0494_cIOo7AXHiZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덩어리 읽기 훈련을 합니다. 단계적으로 범위를 넓혀갑니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 핵심 파악하기
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0494_cIOo7AXHiZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 파악 방법을 훈련합니다. 실제 지문으로 연습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 활용
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0494_cIOo7AXHiZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 상황에서의 속독법을 훈련합니다. 시간 측정 연습을 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -117,5 +117,5 @@ featured_image: "/images/edu_0494_cIOo7AXHiZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 속독 능력을 키웁니다. 읽기 습관 교정과 실전 훈련을 함께합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>

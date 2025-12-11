@@ -15,7 +15,7 @@ featured_image: "/images/edu_0670_AuhmviYMmCE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접 유형을 분석하고 맞춤 답변 전략을 세웁니다. 모의 면접으로 실전 감각을 키우고 자신감을 높입니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 면접의 종류와 특징
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0670_AuhmviYMmCE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 대학의 면접 유형을 파악하고 맞춤 준비를 합니다. 기출 질문을 분석하고 답변 연습을 반복합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 서류 기반 면접 준비
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0670_AuhmviYMmCE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생활기록부를 함께 분석합니다. 예상 질문을 만들고 답변을 구조화하는 연습을 반복합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 실전 면접 준비
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0670_AuhmviYMmCE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전과 동일한 환경에서 모의 면접을 진행합니다. 태도, 표정, 답변 내용까지 세세하게 피드백합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 면접 당일 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0670_AuhmviYMmCE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접 당일 루틴을 함께 계획합니다. 긴장 관리법과 돌발 상황 대처법을 연습합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문

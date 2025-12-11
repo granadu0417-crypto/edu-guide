@@ -20,7 +20,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 정확히 진단합니다. 문법, 독해, 어휘, 듣기 중 어느 부분이 약한지 파악하고 맞춤 수업을 진행합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 부산 지역 중학교 영어 내신 특징
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 영작 훈련을 집중적으로 하고, 자주 틀리는 문법을 정리합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 부산 지역 고등학교 영어 내신 특징
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 다양한 주제의 지문을 읽어 독해력을 키우고, 추론 문제 풀이 전략을 익힙니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ### 해운대고, 동래고 등 일반고
@@ -69,7 +69,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 다른 커리큘럼을 적용합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 부산 지역별 교육 특징
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육 환경을 분석합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업 후 결정할 수 있도록 도와드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 수능 영어 대비 전략
@@ -114,7 +114,7 @@ EBS 연계율이 높으므로 수능특강과 수능완성을 철저히 학습�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출 문제를 분석합니다. 취약 유형을 집중적으로 훈련하고 오답 노트를 함께 관리합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 과외 비용 안내

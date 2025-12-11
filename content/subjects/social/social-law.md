@@ -26,7 +26,7 @@ featured_image: "/images/edu_0684_A7Dw7hIj5uU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-법의 분류 체계를 먼저 정리합니다. 각 법의 특징과 적용 사례를 연결합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 법의 이념과 분류
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0684_A7Dw7hIj5uU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-법의 이념을 구체적 사례로 설명합니다. 공법과 사법의 차이를 정리합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 민법과 형법
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0684_A7Dw7hIj5uU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민법과 형법의 차이를 비교표로 정리합니다. 실생활 사례로 적용해봅니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 재판 제도
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0684_A7Dw7hIj5uU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-재판의 종류와 절차를 정리합니다. 3심제의 의미를 설명합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 권리 구제
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0684_A7Dw7hIj5uU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-권리 침해 유형별 구제 방법을 정리합니다. 실제 사례를 통해 적용합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "/images/edu_0684_A7Dw7hIj5uU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 법과 사회를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>

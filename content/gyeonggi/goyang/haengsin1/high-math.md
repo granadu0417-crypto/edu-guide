@@ -22,12 +22,11 @@ tags:
   - 서정고
 featured_image: "/images/edu_0015_yyX0b05Gl-U.jpg"
 ---
-
-고등학교 수학, 왜 이렇게 어려운 걸까요? 중학교 때와는 차원이 다른 개념들이 쏟아지고, 문제 유형도 복잡해집니다. 행신1동에서 제대로 된 수학 과외를 찾고 계시다면 잘 찾아오셨습니다.
+고등학교 시험은 특별한 대비가 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾고, 그 부분을 집중 공략합니다.
+첫 만남에서 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가하여 맞춤 계획을 세웁니다.
 </div>
 
 ## 왜 고등학교에서 수학이 어려워질까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0015_yyX0b05Gl-U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능은 출제 방식이 다릅니다. 각각에 맞는 대비법을 알려드립니다.
+쉬운 문제부터 어려운 문제까지 단계별로 진행합니다. 갑자기 어려운 문제를 풀면 좌절감만 커집니다.
 </div>
 
 ## 서정고 내신, 어떻게 대비할까요?
@@ -51,7 +50,7 @@ featured_image: "/images/edu_0015_yyX0b05Gl-U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서정고 수학 선생님들의 출제 스타일을 파악하고 있습니다. 그에 맞춰 준비합니다.
+내신 시험은 학교마다 다릅니다. 학교 특성에 맞춘 전략적 대비가 필요합니다.
 </div>
 
 ## 킬러 문항 정복하기
@@ -62,7 +61,7 @@ featured_image: "/images/edu_0015_yyX0b05Gl-U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수로 틀린 건지, 몰라서 틀린 건지 구분합니다. 실수도 실력입니다. 줄일 수 있습니다.
+고등학교 3년, 내신과 수능을 어떻게 배분할지 로드맵을 세워드립니다.
 </div>
 
 ## 학원 vs 과외, 무엇이 다를까요?
@@ -148,4 +147,4 @@ featured_image: "/images/edu_0015_yyX0b05Gl-U.jpg"
 
 ## 마무리
 
-수학, 혼자 고민하지 마세요. 함께하면 달라집니다. 행신1동에서 수학 실력을 키우고 싶다면, 지금 바로 상담받아 보세요.
+덕양구 학생 여러분, 지금 시작하세요. 늦었다고 생각할 때가 가장 빠른 때입니다.

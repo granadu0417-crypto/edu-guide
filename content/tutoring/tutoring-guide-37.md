@@ -20,7 +20,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 학생이 따라오는지 계속 확인합니다. 힘들면 바로 속도를 조절합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 진도 관리가 왜 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준을 먼저 파악하고 그에 맞는 진도 계획을 세웁니다. 계획은 유동적으로 조절합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 진도는 어떻게 관리하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 오늘 어디까지 했는지 기록합니다. 계획 대비 진도를 확인하고 조절합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 진도가 안 맞으면 어떻게 해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과 정기적으로 소통합니다. 진도 상황과 조절 계획을 공유합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 적정 속도를 찾아드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

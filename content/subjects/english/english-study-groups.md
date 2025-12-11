@@ -22,7 +22,7 @@ featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스터디 구성과 운영 방법을 안내합니다. 효과적인 그룹 학습 전략을 설계합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 스터디 구성 원칙
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-멤버 선정 기준을 정리합니다. 효과적인 스터디 구성 방법을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 운영 규칙 만들기
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 운영 규칙을 함께 만듭니다. 지속 가능한 스터디 시스템을 설계합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 스터디 유형별 방법
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표에 맞는 스터디 유형을 선택합니다. 효과적인 진행 방법을 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 갈등 해결과 동기 유지
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-갈등 해결 방법을 안내합니다. 동기 유지 전략을 함께 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외와 스터디 그룹을 병행하면 더욱 효과적입니다. 기초는 과외로, 실전은 스터디로 시너지를 내세요.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

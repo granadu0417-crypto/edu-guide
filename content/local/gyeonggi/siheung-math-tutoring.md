@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 진단 테스트를 통해 아이의 개념 구멍을 정확히 파악합니다. 부족한 개념은 기초부터 다시 잡아, 탄탄한 수학 실력을 만들어드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ### 합리적인 과외비
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-게임과 퍼즐을 활용한 재미있는 연산 훈련으로, 아이가 수학을 즐기면서 실력을 키웁니다. 연산 속도와 정확성을 동시에 높이는 훈련을 진행합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 고학년이 되면 분수, 소수, 비율 등 추상적 개념이 등장합니다. 이 개념들을 확실히 이해해야 중학교 수학에서 어려움을 겪지 않습니다.
@@ -61,7 +61,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서와 익힘책을 완벽히 분석하여 내신 100점을 목표로 합니다. 개념 설명은 교과서를 넘어 '왜 그런지'까지 이해시켜, 응용력을 키워드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 중3 때는 고등 수학 선행을 시작해야 합니다. 중등 과정을 완벽히 마친 후, 고1 수학(수학 상·하)을 미리 예습해두면 고등학교에서 여유를 가질 수 있습니다.
@@ -78,7 +78,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향과 담당 선생님의 스타일을 파악하여, 내신 시험에 최적화된 맞춤 수업을 진행합니다. 킬러 문항까지 완벽 대비하여 1등급을 목표로 합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 고2부터는 미적분, 확률과 통계, 기하 등 심화 과목을 배우면서 수능을 준비해야 합니다. 개념을 정확히 이해하고, 다양한 유형의 문제를 풀어보며 실전 감각을 익혀야 합니다.
@@ -93,7 +93,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 전공자 또는 이공계 명문대 출신의 검증된 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ### 선택 시 체크리스트
@@ -111,7 +111,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 틀린 문제를 함께 분석하고, 오답 노트 작성법을 지도합니다. 학부모님께는 주간 학습 리포트를 제공하여, 아이의 성장 과정을 함께 확인하실 수 있습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ### 오답 노트 활용하기

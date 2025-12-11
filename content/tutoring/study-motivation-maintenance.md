@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1대1 과외는 매주 만나는 약속입니다. 선생님이 기다리니까 공부하게 됩니다. 혼자는 포기해도, 약속은 지키게 됩니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 동기는 두 가지가 있어요
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 꿈과 목표를 함께 이야기합니다. 왜 공부해야 하는지 스스로 깨달으면 동기가 오래 갑니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 목표 설정이 핵심이에요
@@ -55,7 +55,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 작은 목표를 함께 세우고 달성 여부를 확인합니다. 성취감을 느끼도록 격려하고 칭찬합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 슬럼프는 누구나 와요
@@ -66,7 +66,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-슬럼프가 오면 함께 이야기합니다. 왜 힘든지 파악하고, 쉴 때는 쉬라고 권합니다. 다시 시작할 때 함께합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 1대1 과외 선생님은 멘토예요
@@ -83,7 +83,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부량뿐 아니라 휴식도 함께 관리합니다. 지치지 않게 적절한 페이스를 유지하도록 조언합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

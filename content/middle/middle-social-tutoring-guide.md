@@ -19,7 +19,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-역사는 흐름부터 잡습니다. 사건 나열이 아니라 왜 일어났는지, 어떤 결과가 나왔는지 인과 관계를 이해시킵니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과외가 필요한 경우
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 역사, 지리, 일반사회 중 어디가 약한지 파악합니다. 약한 영역을 집중적으로 보완합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 과외의 장점
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표로 정리하고 비교해서 암기합니다. 비슷한 사건은 대조해서 외우면 헷갈리지 않습니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 영역별 과외 내용
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 영역을 균형 있게 가르칩니다. 학년에 따라 비중이 달라지니 그에 맞춰 수업합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학년별 과외 내용
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2 한국사에서 무너지지 않도록 집중 관리합니다. 흐름을 잡으면 암기가 수월해집니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 수업 진행 방법
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안을 직접 써보게 하고 키워드가 들어갔는지 확인합니다. 키워드 누락이 점수 손실의 주원인입니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 암기 관리

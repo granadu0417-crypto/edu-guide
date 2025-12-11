@@ -22,7 +22,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1 첫 중간고사 전에 학습 스타일을 진단합니다. 중학교 때와 달라진 학습량에 어떻게 적응할지 함께 계획을 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 고1 연간 학습 목표
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 달은 고등학교 학습에 적응하는 데 집중합니다. 무리한 선행보다 학교 진도를 완벽히 따라가는 게 먼저입니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학기별 세부 계획
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 때는 평소보다 집중 학습을 합니다. 학기 중에 부족했던 과목을 방학에 집중적으로 보완합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 취약점을 진단하고 맞춤 커리큘럼을 짭니다. 수학이 약하면 수학을 집중적으로, 영어가 약하면 영어를 집중적으로 잡습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 하루 학습 루틴
@@ -80,7 +80,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 컨디션에 따라 일정을 조정합니다. 무조건 많이 하는 것보다 집중해서 효율적으로 하는 게 중요합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 주의사항

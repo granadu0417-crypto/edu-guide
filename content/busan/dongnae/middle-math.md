@@ -10,14 +10,13 @@ tags:
   - 동래구수학과외
   - 동래구중등수학
 ---
-
-a² + b² = c²를 언제 어떻게 쓰는지 헷갈린다면, 도형력이 필요합니다.
+포기하기엔 아직 이릅니다.
 
 동래구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 동래고, 동래여고, 명호고 시험에서 도형 문제가 자주 출제됩니다. 피타고라스 정리와 도형의 성질을 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도형 공식을 체계적으로 정리합니다. 상황에 맞는 공식 선택을 훈련합니다.
+실력 진단 없이 수업하면 시간만 낭비됩니다. 체계적인 진단으로 학습 경로를 설계합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ a² + b² = c²를 언제 어떻게 쓰는지 헷갈린다면, 도형력이 필�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도형별 공식을 정리합니다. 문제에서 공식 찾기를 훈련합니다.
+복습 시점을 알려드립니다. 오늘 배운 내용은 반복 복습해야 합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ a² + b² = c²를 언제 어떻게 쓰는지 헷갈린다면, 도형력이 필�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동래고, 동래여고 기출에서 도형 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험 범위에 맞춰 집중 대비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ a² + b² = c²를 언제 어떻게 쓰는지 헷갈린다면, 도형력이 필�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 도형력을 점진적으로 향상시킵니다.
+학년별로 내신과 수능 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -148,5 +147,5 @@ a² + b² = c²를 언제 어떻게 쓰는지 헷갈린다면, 도형력이 필�
 
 ## 마무리
 
-동래구에서 도형이 어렵다면 그림 훈련이 필요합니다. 그림이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 시작이 반입니다.
 

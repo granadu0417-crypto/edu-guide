@@ -22,7 +22,7 @@ featured_image: "/images/edu_0348_IloOidPqA3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-악센트별 발음 특징을 비교 분석합니다. 미국식과 영국식의 차이점을 명확히 이해하도록 지도합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 미국식 영어의 특징
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0348_IloOidPqA3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미국식 R 발음과 플랩 T 연습을 집중적으로 합니다. 실제 미국 드라마와 뉴스로 듣기 훈련을 진행합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 영국식 영어의 특징
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0348_IloOidPqA3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영국식 발음의 특징을 익히고 BBC 뉴스 등 영국 콘텐츠로 듣기 연습을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 호주식과 캐나다식 영어
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0348_IloOidPqA3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 악센트에 노출되도록 여러 나라의 영어 콘텐츠를 활용합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 악센트별 듣기 연습법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0348_IloOidPqA3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 듣기 수준에 맞춰 단계별로 악센트 훈련을 진행합니다. 수능에 자주 나오는 악센트를 우선 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -107,5 +107,5 @@ featured_image: "/images/edu_0348_IloOidPqA3Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 듣기 수업으로 악센트별 특징을 완벽히 익힙니다. 실전 듣기 능력을 키워드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>

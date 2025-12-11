@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국제학교 입시를 목표로 하는 학생들에게 영어 실력 향상과 면접 준비를 체계적으로 지도합니다. 합격 사례를 바탕으로 맞춤 전략을 설계해드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ### 경기도 주요 국제학교
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 학교의 입시 전형을 철저히 분석하여 맞춤 준비를 도와드립니다. 영어 면접과 에세이 작성까지 단계별로 지도합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ### 준비 시기
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 원서 읽기, 영어 토론, 영어 에세이 작성 등을 통해 종합적인 영어 실력을 키워드립니다. 원어민 수준의 영어 구사력을 목표로 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -72,7 +72,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예상 질문을 바탕으로 모의 면접을 반복 실시합니다. 자신감 있게 답변하는 연습과 논리적인 사고력 훈련을 통해 면접 실력을 향상시킵니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ### 면접 실전 팁

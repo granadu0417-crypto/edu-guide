@@ -26,7 +26,7 @@ featured_image: "/images/edu_0685_r6zeytfsEIs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광복 전후의 국제 정세를 먼저 설명합니다. 한반도 분단의 배경을 분석합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 광복과 미소 군정
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0685_r6zeytfsEIs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미소 군정의 정책을 비교합니다. 신탁통치 찬반 논쟁을 정리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 좌우 대립과 단독 정부
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0685_r6zeytfsEIs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좌우 대립의 원인을 분석합니다. 5·10 총선거의 의의와 한계를 설명합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 대한민국 정부 수립
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0685_r6zeytfsEIs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정부 수립 과정을 연표로 정리합니다. 남북 정부의 성격을 비교합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 분단의 고착화
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0685_r6zeytfsEIs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분단 고착화의 원인을 분석합니다. 냉전 체제와의 연결점을 설명합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 대비
@@ -115,5 +115,5 @@ featured_image: "/images/edu_0685_r6zeytfsEIs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 광복을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>

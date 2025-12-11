@@ -19,7 +19,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 공부 방법을 분석합니다. 효과적인 방법을 찾습니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 효과 없는 공부 방법
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과 없는 공부 방법을 인식합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 효과적인 공부 방법
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학적으로 검증된 공부 방법을 가르칩니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 과목별 공부법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 공부법을 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 좋은 공부 습관
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 공부 습관을 만드는 방법을 안내합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0125_PBm075u8WxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부 방법 개선이 필요하면 상담해주세요.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문

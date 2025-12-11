@@ -19,7 +19,7 @@ featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 한중일 역사 중 어느 부분에서 헷갈리는지 먼저 파악합니다. 비교 학습이 되어 있는지 확인합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 동아시아사의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동시대 세 나라의 상황을 비교하는 표를 만듭니다. 한눈에 정리됩니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시대별 비교 학습
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별로 세 나라를 동시에 정리합니다. 비교가 자연스럽게 됩니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 주요 주제 정리
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주제별로 세 나라를 비교 정리합니다. 공통점과 차이점을 찾습니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 과외의 장점
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석하면서 출제 포인트를 파악합니다. 자주 나오는 비교 주제를 정리합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 목표와 비용을 안내드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문

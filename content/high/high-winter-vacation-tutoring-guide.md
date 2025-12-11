@@ -20,7 +20,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 목표에 맞춰 겨울방학 커리큘럼을 설계합니다. 선행과 복습 비율을 성적에 따라 조정합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 겨울방학이 중요한 이유
@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력을 진단하고 겨울방학 목표를 함께 설정합니다. 2개월 동안 달성 가능한 현실적인 계획을 세웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 예비 고1 전략
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예비 고1은 고등 학습 습관을 만드는 것이 목표입니다. 하루 8시간 이상 공부하는 패턴을 익힙니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 예비 고2 전략
@@ -55,7 +55,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예비 고2는 선택과목 시작이라 선행이 특히 중요합니다. 수학1, 수학2 기본 개념을 확실히 잡습니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 탐구 과목도 무시하면 안 됩니다. 선택 과목 2개의 개념을 정리하고 교과서 1회독을 권장합니다.
@@ -70,7 +70,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예비 고3은 실전 감각을 키우는 것이 목표입니다. 매주 실전 모의고사를 보고 시간 관리를 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 선행과 복습의 황금비율
@@ -89,7 +89,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 목표 달성도를 체크합니다. 1개월 차에 중간 점검을 하고 후반부 계획을 조정합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 체력 관리도 중요합니다. 매일 같은 시간에 기상하고 취침합니다. 충분한 수면 7-8시간을 확보합니다. 하루 30분 운동으로 체력을 유지합니다. 주 1회 반나절 완전 휴식도 필요합니다.

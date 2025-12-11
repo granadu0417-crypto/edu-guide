@@ -20,7 +20,7 @@ featured_image: "/images/edu_0295_IJrIeCs3D4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 영어 실력과 학습 목표를 정확히 파악합니다. 문법, 독해, 듣기, 말하기 중 어느 영역이 약한지 진단합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 영어 1:1 과외가 효과적인 이유
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0295_IJrIeCs3D4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 개인의 속도에 맞춰 진도를 조절합니다. 이해가 될 때까지 설명하고, 충분히 연습한 후 다음으로 넘어갑니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과외가 특히 효과적인 경우
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0295_IJrIeCs3D4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 학습 내용을 정리하고 다음 수업 전에 복습 과제를 드립니다. 정기적으로 테스트를 통해 이해도를 점검합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 영어과외 vs 영어학원
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0295_IJrIeCs3D4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습, 수업, 복습의 사이클을 습관화할 수 있도록 안내합니다. 학습 습관이 잡히면 성적은 자연스럽게 따라옵니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학부모님이 도와줄 수 있는 것들
@@ -106,7 +106,7 @@ featured_image: "/images/edu_0295_IJrIeCs3D4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 진행 중 궁금한 점이 있으시면 언제든 상담해 주세요. 학습 방향과 진도에 대해 함께 논의합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 마무리

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0009_WtzSKXATZGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 어떤 부분을 어려워하는지 먼저 파악합니다. 역사가 약한지, 지리가 약한지, 용어 이해가 안 되는지 확인합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 초등 사회에서 뭘 배우나요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0009_WtzSKXATZGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 진도에 맞춰 진행합니다. 학교 수업 전에 예습하면 수업 이해도가 높아집니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 왜 사회가 어려운가요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0009_WtzSKXATZGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 용어를 아이가 아는 말로 풀어서 설명합니다. 뉴스, 일상생활 예시를 들어 이해시킵니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 사회 과외는 어떻게 진행되나요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0009_WtzSKXATZGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 쓰기를 연습합니다. 모범 답안 구조를 배우고 직접 써보면서 익힙니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 사회 과외의 장점은 뭔가요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0009_WtzSKXATZGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에는 기출 문제와 예상 문제를 풀면서 대비합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 좋은 사회 선생님의 조건은 뭔가요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0009_WtzSKXATZGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 수업 방식과 교재를 확인하세요. 아이와 맞는지 판단하시면 됩니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}

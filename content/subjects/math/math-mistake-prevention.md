@@ -25,7 +25,7 @@ featured_image: "/images/edu_0540_FHFfHWWzbCc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실수 패턴을 분석합니다. 자주 틀리는 유형을 파악하여 맞춤 실수 방지 전략을 세웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 수학 실수 5대 유형
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0540_FHFfHWWzbCc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 유형별 체크리스트를 만들어 습관화합니다. 같은 실수를 반복하지 않도록 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 계산 실수 방지법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0540_FHFfHWWzbCc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계산 과정을 생략하지 않는 습관을 기릅니다. 검산 방법을 구체적으로 알려줍니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 검산 전략 5단계
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0540_FHFfHWWzbCc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-5단계 검산법을 체화시킵니다. 시험에서 자동으로 검산하는 습관을 만들어줍니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 중 실수 방지
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0540_FHFfHWWzbCc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 환경과 똑같이 연습합니다. 시간 배분과 검산 루틴을 몸에 익힙니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -86,6 +86,6 @@ featured_image: "/images/edu_0540_FHFfHWWzbCc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인별 실수 패턴을 분석하고 맞춤 실수 방지 전략을 세웁니다. 실수 없이 실력을 발휘하도록 돕습니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 

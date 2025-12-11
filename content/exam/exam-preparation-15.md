@@ -20,7 +20,7 @@ featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 이해도를 먼저 점검합니다. 공식만 외운 건지, 진짜 이해한 건지 확인하고 부족한 부분부터 채워갑니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수학 실력이 안 느는 이유
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제만 푸는 게 아니라 풀이 과정을 함께 분석합니다. 왜 이렇게 푸는지 이해하고 비슷한 문제에 적용합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 개념 학습 방법
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 바로 적용 문제를 풉니다. 이해했는지 확인하고 부족하면 다시 설명합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 유형별 풀이 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 접근법을 훈련합니다. 문제를 보고 어떤 유형인지 파악하고 적절한 풀이법을 적용합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 내신 수학 대비
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서, 프린트, 기출문제를 중심으로 대비합니다. 학교별 출제 경향에 맞춰 준비합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 실수 줄이는 방법

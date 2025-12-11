@@ -21,7 +21,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 암기가 아닌 원리 이해 중심으로 수업합니다. 왜 그런지 이해하면 오래 기억됩니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 과학의 네 가지 영역
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어려워하는 영역을 파악합니다. 영역별 특성에 맞는 학습법을 적용합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 실험의 중요성
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 내용을 상세히 설명합니다. 직접 해보지 못한 실험도 이해할 수 있게 돕습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 개념과 용어 정리
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 그림과 도표로 정리합니다. 복잡한 내용도 한눈에 보이게 정리합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 문제 풀이와 서술형 대비
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 유형의 문제를 풀어봅니다. 서술형 답안 작성법을 집중 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 내신 과학 시험 대비
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춰 핵심 개념을 정리합니다. 예상 문제로 실전 감각을 키웁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 {{< cta-dual type="final" >}}

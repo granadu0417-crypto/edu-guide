@@ -22,7 +22,7 @@ featured_image: "/images/edu_0926_iggWDxHTAUQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 저하의 원인을 파악합니다. 환경 문제인지, 방법 문제인지, 동기 문제인지 진단 후 맞춤 솔루션을 제공합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 집중력이 떨어지는 이유
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0926_iggWDxHTAUQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 환경과 습관을 점검합니다. 집중을 방해하는 요소를 찾아 개선 방법을 제안합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 집중력 높이는 환경 만들기
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0926_iggWDxHTAUQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 학습 환경을 찾아줍니다. 집, 도서관, 스터디카페 등 어디서 집중이 잘 되는지 파악합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 집중력 높이는 공부법
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0926_iggWDxHTAUQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 학습 방법을 찾아줍니다. 시간 관리, 목표 설정, 과목 순서 등을 함께 정합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 수업 시간 집중력 높이기
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0926_iggWDxHTAUQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간 활용법을 안내합니다. 필기 방법, 예습 요령 등 수업 집중력을 높이는 방법을 알려줍니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 집중력과 체력 관리
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0926_iggWDxHTAUQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 효율을 높이는 생활 습관을 안내합니다. 수면, 운동, 식사 등 전반적인 컨디션 관리법을 알려줍니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 {{< cta-dual type="final" >}}

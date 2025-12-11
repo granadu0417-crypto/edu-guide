@@ -10,14 +10,13 @@ tags:
   - 포항시영어과외
   - 포항시고등영어
 ---
-
-Walking down the street에서 주어가 뭔지 헷갈린다면, 분사 구문력이 필요합니다.
+고등 영어, 문법과 독해를 함께 잡아야 합니다.
 
 포항시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 포항고, 포항제철고, 포항여고 시험에서 분사 구문 문제가 자주 출제됩니다. 분사의 의미상 주어를 파악하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분사 구문의 원리를 체계적으로 정리합니다. 주어와 분사의 관계를 파악하는 훈련을 합니다.
+모든 수업은 진단에서 시작합니다. 현재 위치를 파악하고 로드맵을 설계합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ Walking down the street에서 주어가 뭔지 헷갈린다면, 분사 구문력
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분사 선택 기준을 정리합니다. 능동/수동 판별을 훈련합니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ Walking down the street에서 주어가 뭔지 헷갈린다면, 분사 구문력
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-포항고, 포항제철고 기출에서 분사 구문 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ Walking down the street에서 주어가 뭔지 헷갈린다면, 분사 구문력
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 분사 구문력을 점진적으로 심화합니다.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -106,5 +105,5 @@ Walking down the street에서 주어가 뭔지 헷갈린다면, 분사 구문력
 
 ## 마무리
 
-포항시에서 분사 구문이 어렵다면 구조 훈련이 필요합니다. 주어가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 내신에 특화된 과외, 지금 시작할 때입니다.
 

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0362_6MePtA9EVDA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-창의적 글쓰기의 기본 기법을 익힙니다. 학생의 아이디어를 글로 발전시키는 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 스토리 구조
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0362_6MePtA9EVDA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스토리 구조를 체계적으로 배웁니다. 플롯 짜기 연습을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 묘사 기법
@@ -39,7 +39,7 @@ Show, Don't Tell이 핵심입니다. She was angry 대신 Her face turned red, a
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-Show, Don't Tell 기법을 연습합니다. 감각적 묘사로 생생한 글쓰기를 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 비유와 문체
@@ -48,7 +48,7 @@ Show, Don't Tell 기법을 연습합니다. 감각적 묘사로 생생한 글쓰
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비유 표현을 연습합니다. 문체와 어휘 선택을 지도합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 글쓰기 과정
@@ -57,7 +57,7 @@ Show, Don't Tell 기법을 연습합니다. 감각적 묘사로 생생한 글쓰
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글쓰기 전 과정을 함께 진행합니다. 첨삭과 피드백으로 완성도를 높입니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -120,5 +120,5 @@ Writing prompts를 활용하세요. What if 질문으로 상상력을 자극하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 작문 수업으로 창의적 글쓰기를 지도합니다. 첨삭과 피드백으로 실력을 키워드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>

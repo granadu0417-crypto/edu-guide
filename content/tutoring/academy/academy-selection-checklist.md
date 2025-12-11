@@ -25,7 +25,7 @@ featured_image: "/images/edu_0717__P9fwHnwhcA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택이 어려우시면 상담해 주세요. 아이 상황에 맞는 학원 유형을 안내해 드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학원 정보는 어떻게 모으나요?
@@ -36,7 +36,7 @@ featured_image: "/images/edu_0717__P9fwHnwhcA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 학원 정보가 필요하시면 문의해 주세요. 학원 선택에 도움이 될 정보를 안내해 드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 현장 방문하면 뭘 봐야 하나요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0717__P9fwHnwhcA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 현장 방문 전 체크리스트가 필요하시면 상담해 주세요. 구체적인 질문 목록을 드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 관리 시스템은 뭘 확인해야 하나요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0717__P9fwHnwhcA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외는 학부모님과의 소통을 중요하게 생각합니다. 정기적으로 학습 현황을 보고드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 계약할 때 뭘 주의해야 하나요?
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0717__P9fwHnwhcA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 계약은 투명하게 진행합니다. 모든 조건을 명확히 안내드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -90,7 +90,7 @@ featured_image: "/images/edu_0717__P9fwHnwhcA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향을 먼저 파악합니다. 어떤 학습 방식이 맞는지 함께 상담해 드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

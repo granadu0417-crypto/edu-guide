@@ -10,14 +10,13 @@ tags:
   - 남동구영어과외
   - 남동구중등영어
 ---
-
-who, which, that 중 어떤 것을 써야 하는지 헷갈린다면, 관계대명사력이 필요합니다.
+영어 성적이 오르지 않아 고민이신가요?
 
 남동구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 남동고, 인천논현고, 구월고 시험에서 관계대명사 문제가 자주 출제됩니다. 선행사가 사람인지 사물인지 구분하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관계대명사 종류를 체계적으로 정리합니다. 선행사 판단을 훈련합니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완됩니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ who, which, that 중 어떤 것을 써야 하는지 헷갈린다면, 관계대�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관계대명사 선택 규칙을 정리합니다. 문장 결합을 훈련합니다.
+어려운 문제도 기본 개념의 조합입니다. 기본기가 탄탄하면 풀 수 있습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ who, which, that 중 어떤 것을 써야 하는지 헷갈린다면, 관계대�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남동고, 인천논현고 기출에서 관계대명사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ who, which, that 중 어떤 것을 써야 하는지 헷갈린다면, 관계대�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 관계대명사력을 점진적으로 심화합니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -112,5 +111,5 @@ who, which, that 중 어떤 것을 써야 하는지 헷갈린다면, 관계대�
 
 ## 마무리
 
-남동구에서 관계대명사가 어렵다면 선행사 판단 훈련이 필요합니다. 구조가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 힘들 때 도움받으면 됩니다.
 

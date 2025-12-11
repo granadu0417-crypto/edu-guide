@@ -20,7 +20,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 학부모님께 수업 내용과 학생 상태를 간단히 공유합니다. 궁금한 건 편하게 물어보세요.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 선생님과 소통이 왜 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과 정기적으로 소통합니다. 한 달에 한 번은 학습 상황을 공유합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 선생님께 뭘 물어봐야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-질문해 주시면 성실하게 답변드립니다. 아이 상태를 정확하게 알려드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 부모가 직접 할 수 있는 건 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정에서 어떻게 도와주시면 좋을지 구체적으로 안내합니다. 작은 관심이 큰 차이를 만듭니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 소통에 대해 더 궁금한 점이 있으시면 문의하세요. 효과적인 소통 방법을 안내합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 마무리

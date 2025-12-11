@@ -21,7 +21,7 @@ featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 과목별 성적을 분석합니다. 취약 과목과 강점 과목을 파악해 맞춤 전략을 세웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 주요 과목별 학습 비중
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습 스케줄을 짭니다. 매일 공부할 과목과 시험 대비 과목을 구분합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 수학 학습법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 바로 문제를 풀어봅니다. 이해와 적용을 동시에 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 영어 학습법
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 테스트로 시작합니다. 교과서 본문 분석을 통해 문법과 독해를 동시에 익힙니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 국어 학습법
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 영역별 학습법을 안내합니다. 문법, 문학, 비문학 각각에 맞는 접근을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 암기 과목 학습법
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기 과목도 이해 중심으로 접근합니다. 효과적인 암기법을 알려드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}

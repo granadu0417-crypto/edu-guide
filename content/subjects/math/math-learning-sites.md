@@ -26,7 +26,7 @@ featured_image: "/images/edu_0537_Gao5bjSywkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 온라인 자료를 선별합니다. 어떤 사이트가 적합한지 가이드하고 효율적으로 활용하도록 돕습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 사이트 유형과 활용
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0537_Gao5bjSywkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료와 유료 자료를 적절히 조합합니다. 학생 수준에 맞는 사이트를 추천하고 활용법을 알려드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 효과적인 시청법
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0537_Gao5bjSywkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인강 시청 방법을 지도합니다. 강의 30%, 문제 풀이 70%의 황금 비율로 학습하도록 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 주의사항과 함정
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0537_Gao5bjSywkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습의 함정을 피하도록 지도합니다. 과외에서 부족한 부분을 보완하고 올바른 학습 습관을 만듭니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -118,6 +118,6 @@ featured_image: "/images/edu_0537_Gao5bjSywkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습을 보조로 활용하면서 과외에서 체계적으로 관리합니다. 최적의 학습 조합을 찾아드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 

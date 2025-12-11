@@ -24,7 +24,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대전 지역 학교 내신 경향을 파악하고 있습니다. 학교별 맞춤 수업이 가능합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 둔산동 학원가의 특징은 뭔가요?
@@ -37,7 +37,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험 일정에 맞춰 내신 대비를 진행합니다. 족보 분석도 함께 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 유성구, 서구 학원이랑 비교하면요?
@@ -50,7 +50,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 부족한 부분은 과외로 보충합니다. 약점 과목만 집중 케어합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 어떤 학원 유형이 좋은가요?
@@ -73,7 +73,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대전 거주 학생은 대전 학원을 추천합니다. 이동 시간을 공부에 쓰는 게 더 효율적입니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과외랑 병행하면 좋은가요?
@@ -86,7 +86,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대전 지역 학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

@@ -15,7 +15,7 @@ featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 수준과 토론 경험을 파악합니다. 기초부터 실전까지 단계별로 토론 능력을 키워드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 토론 기본 구조
@@ -24,7 +24,7 @@ Introduction에서는 청중 주의를 끄는 Hook과 배경 설명 그리고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론의 기본 구조를 체계적으로 훈련합니다. 각 단계에서 사용할 영어 표현을 익히도록 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 논리적 사고 훈련
@@ -35,7 +35,7 @@ Introduction에서는 청중 주의를 끄는 Hook과 배경 설명 그리고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논리적 사고 훈련을 집중합니다. 주장과 근거와 추론을 연결하는 방법을 체계적으로 가르칩니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -44,7 +44,7 @@ Introduction에서는 청중 주의를 끄는 Hook과 배경 설명 그리고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼을 제공합니다. 학생 수준에 맞는 주제와 형식으로 진행합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -67,6 +67,6 @@ Introduction에서는 청중 주의를 끄는 Hook과 배경 설명 그리고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 토론 전문 1:1 과외로 논리적 사고와 영어 스피킹을 동시에 향상시킵니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 

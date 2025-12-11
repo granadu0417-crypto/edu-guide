@@ -22,12 +22,11 @@ tags:
   - 백신고
 featured_image: "/images/edu_0001.jpg"
 ---
-
-수학 점수, 올리고 싶으시죠? 고양시 일산동구 백석1동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+내신과 수능을 동시에 잡는 방법이 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 실력을 정밀 진단합니다. 개념 이해도, 계산 정확도, 문제 해결 속도를 파악하고 부족한 부분부터 채워갑니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법, 시간 관리까지 종합 진단합니다.
 </div>
 
 ## 고등학교 수학, 이렇게 달라집니다
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험에서 나온 개념이 수능에서도 나옵니다. 내신 공부가 곧 수능 공부가 되도록 지도합니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 백신고 내신 시험 완벽 분석
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다. 그 학교 시험의 특징을 잘 알고 있습니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 수능 수학의 핵심
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 오답을 철저히 분석합니다. 왜 틀렸는지, 어떻게 접근해야 하는지 학생이 스스로 깨달을 때까지 지도합니다.
+내신 공부가 수능에 도움이 되도록 합니다. 두 번 공부하는 비효율을 없앱니다.
 </div>
 
 ## 학원 vs 과외, 무엇이 다를까요?
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0001.jpg"
 
 ## 마무리
 
-백석1동 고등학생 여러분, 수학은 포기할 과목이 아닙니다. 백신고 내신과 수능에 맞춘 체계적인 수업으로 수학 실력을 키워보세요.
+일산동구 학생 여러분, 시작이 반입니다. 지금 연락 주세요.

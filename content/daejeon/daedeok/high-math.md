@@ -10,14 +10,13 @@ tags:
   - 대덕구수학과외
   - 대덕구고등수학
 ---
-
-다항식 나눗셈이 막막하다면, 다항식 연산력이 필요합니다.
+제대로 배우면 수학도 재밌어집니다.
 
 대덕구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 대덕고, 신탄진고, 송촌고 시험에서 다항식 문제가 자주 출제됩니다. 조립제법과 인수정리를 능숙하게 사용하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다항식의 덧셈, 뺄셈, 곱셈, 나눗셈을 체계적으로 훈련합니다. 조립제법을 완벽히 익힙니다.
+먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어떤 개념이 부족한지 진단합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인수정리의 원리를 이해합니다. 나머지 정리와 연결해서 설명합니다.
+모르는 문제는 5분만 고민합니다. 그래도 모르면 풀이를 보고 다시 풉니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대덕고, 신탄진고 기출에서 다항식 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험은 정보전입니다. 효율적으로 대비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 다항식 연산력을 점진적으로 향상시킵니다.
+입시 목표에 맞춰 내신과 수능 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -114,4 +113,4 @@ tags:
 
 ## 마무리
 
-대덕구에서 다항식이 어렵다면 계산 훈련이 필요합니다. 연산이 정확해지면 수학이 쉬워집니다.
+ 학생 여러분, 더 늦기 전에 시작하세요.

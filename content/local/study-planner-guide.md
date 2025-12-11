@@ -15,7 +15,7 @@ featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 학습 패턴을 분석합니다. 실현 가능한 계획을 함께 세우고 실천 여부를 점검합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 좋은 학습 플래너의 조건
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-80퍼센트 달성 가능한 계획으로 시작합니다. 점진적으로 난이도를 높여갑니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학습 플래너 작성 방법
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장기 중기 단기 플래너를 함께 작성합니다. 주간 점검을 통해 실천율을 높입니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 효과적인 시간 관리 기법
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 시간 관리 기법을 찾습니다. 포모도로나 시간대별 학습 전략을 적용합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 학년별 플래너 전략
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 플래너 양식을 제공합니다. 주간 점검을 통해 실천율을 확인합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문

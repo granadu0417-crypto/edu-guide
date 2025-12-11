@@ -15,7 +15,7 @@ featured_image: "/images/edu_0426_Zg9R__O-8fM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 빈출 동의어를 세트로 정리합니다. 뉘앙스 차이를 명확히 설명합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 핵심 동의어 그룹
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0426_Zg9R__O-8fM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동의어 그룹별로 뉘앙스 차이를 설명합니다. 예문을 통해 사용법을 익히도록 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 빈출 동의어 세트
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0426_Zg9R__O-8fM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈출 동의어 50세트를 체계적으로 정리합니다. 품사별로 분류하여 암기를 돕습니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 핵심 반의어 세트
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0426_Zg9R__O-8fM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-반의어를 쌍으로 외워 2배 효과를 냅니다. 대조 구조 파악에 활용합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -67,6 +67,6 @@ featured_image: "/images/edu_0426_Zg9R__O-8fM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동의어·반의어 전문 1:1 과외로 뉘앙스 차이를 명확히 익힙니다. 실전 문제로 연습하여 정확도를 높입니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 

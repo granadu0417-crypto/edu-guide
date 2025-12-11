@@ -32,7 +32,7 @@ featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"이 문장 원어민은 어떻게 말해요?" 한국외대 선생님이라 자연스러운 표현을 알려드릴 수 있어요. 교과서 영어와 실제 영어의 차이를 배웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ### 답십리·전농동 - 대학가 영어 교육
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"오늘 학교에서 뭐 했어?" 영어로 일상 대화부터 시작합니다. 자연스럽게 말하는 습관이 영어 실력의 기본이에요.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 학년별 영어과외 가이드
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 그림책을 함께 읽으며 단어를 익힙니다. "이 그림 뭐야?" "It's a cat!" 자연스럽게 말하기 연습!
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ### 중학생 - 문법과 독해의 기초를 다지는 시기
@@ -114,7 +114,7 @@ featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"관계대명사가 뭐예요?" 문법 용어보다 실제 문장에서 어떻게 쓰이는지 보여줍니다. 예문으로 이해하면 잊어버리지 않아요.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -143,7 +143,7 @@ featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. "이 문제 왜 틀렸지?" 틀린 이유를 알면 같은 실수를 안 해요.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -170,7 +170,7 @@ featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"이 표현 영화에서 많이 들어봤는데?" 한국외대 선생님은 교과서에 없는 살아있는 영어를 알려드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 좋은 영어 선생님, 이렇게 고르세요
@@ -205,7 +205,7 @@ featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 영어로 말하기 편한 분위기인지가 가장 중요합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -245,7 +245,7 @@ featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 영어 단어 10개씩! 작은 습관이 큰 실력이 됩니다. 과외 시간에는 암기 점검과 활용 연습을 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 마치며

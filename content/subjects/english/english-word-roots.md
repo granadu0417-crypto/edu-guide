@@ -23,7 +23,7 @@ featured_image: "/images/edu_0427_hhUx08PuYpc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 어근 50개를 체계적으로 정리합니다. 어근으로 단어를 확장하는 연습을 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 핵심 어근 예시
@@ -32,7 +32,7 @@ port는 운반입니다. transport는 건너서 운반, export는 밖으로 운�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈출 어근 위주로 학습합니다. 단어와 어근을 함께 암기합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 접두사와 접미사
@@ -43,7 +43,7 @@ un-, in-, dis-는 부정입니다. happy가 unhappy로, possible이 impossible�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 접두사와 접미사를 정리합니다. 단어의 구조를 분석하는 훈련을 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 모르는 단어 유추하기
@@ -52,7 +52,7 @@ spectator를 몰라도 spect가 보다, -ator가 -하는 사람이란 걸 알면
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어근으로 단어 뜻을 유추하는 훈련을 합니다. 실전 독해에 적용하는 연습을 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 학습 순서
@@ -61,7 +61,7 @@ spectator를 몰라도 spect가 보다, -ator가 -하는 사람이란 걸 알면
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈도순으로 어근 학습 계획을 세웁니다. 단계별로 어근을 확장해갑니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -124,5 +124,5 @@ spectator를 몰라도 spect가 보다, -ator가 -하는 사람이란 걸 알면
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 어휘 과외로 어근을 체계적으로 배웁니다. 효율적인 학습 순서로 시간을 절약합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>

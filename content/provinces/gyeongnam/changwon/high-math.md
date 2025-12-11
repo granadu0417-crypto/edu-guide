@@ -10,14 +10,13 @@ tags:
   - 창원시수학과외
   - 창원시고등수학
 ---
-
-log₂8 = 3인 이유가 헷갈린다면, 로그력이 필요합니다.
+고등학교 시험은 특별한 대비가 필요합니다.
 
 창원시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 창원고, 마산고, 창원중앙고 시험에서 로그 문제가 자주 출제됩니다. 로그의 정의와 성질을 정확히 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-로그의 정의를 체계적으로 정리합니다. 지수와 로그의 관계를 훈련합니다.
+먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어떤 개념이 부족한지 진단합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ log₂8 = 3인 이유가 헷갈린다면, 로그력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-로그 성질을 정리합니다. 방정식 풀이 조건을 훈련합니다.
+모르는 문제는 5분만 고민합니다. 그래도 모르면 풀이를 보고 다시 풉니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ log₂8 = 3인 이유가 헷갈린다면, 로그력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-창원고, 마산고 기출에서 로그 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험은 정보전입니다. 효율적으로 대비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ log₂8 = 3인 이유가 헷갈린다면, 로그력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 로그력을 점진적으로 향상시킵니다.
+입시 목표에 맞춰 내신과 수능 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,5 +125,5 @@ log₂8 = 3인 이유가 헷갈린다면, 로그력이 필요합니다.
 
 ## 마무리
 
-창원시에서 로그가 어렵다면 성질 훈련이 필요합니다. 역연산이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 전략입니다. 제대로 된 전략으로 성적을 올려보세요.
 

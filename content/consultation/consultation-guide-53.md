@@ -21,7 +21,7 @@ featured_image: "/images/edu_0076_Ufw5hHEADP4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 상담에서는 학생이 왜 책을 싫어하는지 먼저 파악합니다. 관심사에 맞는 책을 추천하고, 재미있게 읽는 방법을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 독서 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0076_Ufw5hHEADP4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서가 어렵다면 학습 상담을 받으세요. 부담 없이 시작하는 방법을 알려드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 진로 상담은 관심 분야를 찾는 데 도움이 됩니다. 관심 분야가 생기면 관련 책을 자연스럽게 찾게 됩니다.
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0076_Ufw5hHEADP4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 학생의 관심사에 맞는 책 리스트와 하루 10분부터 시작하는 독서 습관 형성 계획을 안내합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 독서 습관은 어떻게 만드나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0076_Ufw5hHEADP4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 일과에 맞는 독서 습관을 설계합니다. 억지로 읽게 하지 않고 자연스럽게 책과 친해지도록 돕습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0076_Ufw5hHEADP4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 습관에 대해 더 궁금한 점이 있으시면 문의하세요. 책과 친해지는 방법을 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

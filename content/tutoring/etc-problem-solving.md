@@ -19,7 +19,7 @@ featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 문제 해결 방식을 파악합니다. 체계적인 방법을 훈련합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 문제해결력이 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제해결력의 중요성을 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 문제 해결 과정
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체계적인 문제 해결 과정을 가르칩니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 문제 해결 전략
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 문제 해결 전략을 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 문제 해결 훈련
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 해결력을 키우는 훈련을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -98,7 +98,7 @@ featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 문제 해결 방식을 파악하고 맞는 훈련 방법을 안내드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

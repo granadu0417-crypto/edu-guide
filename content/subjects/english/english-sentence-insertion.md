@@ -22,7 +22,7 @@ featured_image: "/images/edu_0411_5ibMJiDCEss.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 자주 틀리는 삽입 유형을 파악합니다. 단서 찾기와 논리 흐름 분석을 체계적으로 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 핵심 단서 3가지
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0411_5ibMJiDCEss.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대명사, 연결어, 관사를 빠르게 찾는 훈련을 합니다. 단서별 위치 판단법을 익힙니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 연결어별 위치 판단
@@ -42,7 +42,7 @@ However는 대조를 나타내므로 긍정 내용 뒤, 부정 내용 앞에 옵
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연결어별 위치 패턴을 정리합니다. 실전 문제로 적용 연습을 반복합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 실전 풀이 순서
@@ -51,7 +51,7 @@ However는 대조를 나타내므로 긍정 내용 뒤, 부정 내용 앞에 옵
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 풀이 순서를 훈련합니다. 타이머를 사용해 시간 내에 푸는 연습을 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 함정 피하기
@@ -60,7 +60,7 @@ However는 대조를 나타내므로 긍정 내용 뒤, 부정 내용 앞에 옵
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 나오는 함정 유형을 정리합니다. 오답 분석으로 같은 실수를 방지합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ However는 대조를 나타내므로 긍정 내용 뒤, 부정 내용 앞에 옵
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 문장 삽입을 빠르게 마스터합니다. 단서 찾기와 논리 분석을 체계적으로 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>

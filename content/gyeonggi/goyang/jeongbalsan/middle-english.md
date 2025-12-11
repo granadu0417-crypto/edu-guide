@@ -22,12 +22,11 @@ tags:
   - 정발중
 featured_image: "/images/edu_0013.jpg"
 ---
-
-중학교 영어, 제대로 배우면 어렵지 않습니다. 고양시 일산동구 정발산동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+중학생이라면 알아야 할 영어 공부법이 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 정확한 출발점을 찾아드립니다.
+문제를 푸는 과정을 옆에서 지켜봅니다. 어떤 생각으로 접근하는지, 어디서 막히는지 확인합니다.
 </div>
 
 ## 왜 중학교만 오면 영어가 어려울까?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0013.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 공부가 고등학교에 도움이 되도록 합니다. 두 번 공부하는 비효율을 없앱니다.
+공식만 알면 기본 문제는 풉니다. 하지만 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 정발중 내신, 무엇이 어려울까요?
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0013.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험의 난이도 분포를 알고 있습니다. 어떤 문제에서 시간을 쓸지 전략을 세웁니다.
+학교 시험은 교과서와 프린트에서 나옵니다. 꼼꼼하게 분석하여 출제 포인트를 짚어드립니다.
 </div>
 
 ## 고등 영어, 미리 준비하는 법
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0013.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 틀렸는지 설명할 수 있어야 진짜 아는 겁니다. 오답 분석 시간을 충분히 가집니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
 </div>
 
 ## 1:1 과외가 효과적인 이유
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0013.jpg"
 
 ## 마무리
 
-체계적인 1:1 수업으로 정발산동 중학교 내신을 완벽 대비하세요.
+일산동구 학생 여러분, 검증된 과외, 지금 문의하세요.

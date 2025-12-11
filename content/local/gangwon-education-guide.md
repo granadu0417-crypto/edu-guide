@@ -19,7 +19,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강원 지역 교육 환경을 분석합니다. 거주 지역과 예산에 맞는 최적의 교육 방법을 안내합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 춘천과 원주 교육 환경
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학원과 과외 시장을 파악합니다. 학생의 목표에 맞는 교육 환경을 추천합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 온라인 교육 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인 병행 전략을 안내합니다. 비용을 절감하면서 효과를 극대화하는 방법을 찾아드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 서울 접근성 활용
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서울 접근성을 활용한 교육 전략을 안내합니다. 학생의 상황에 맞는 최적의 방법을 찾아드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문

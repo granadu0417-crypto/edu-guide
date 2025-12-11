@@ -22,7 +22,7 @@ featured_image: "/images/edu_0399_p74ndnYWRY4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-능동태와 수동태 전환 연습을 합니다. 시제별 수동태 형태를 정리합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시제별 수동태
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0399_p74ndnYWRY4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시제별 수동태 형태를 표로 정리합니다. 예문으로 변환 연습을 반복합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 4형식, 5형식 수동태
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0399_p74ndnYWRY4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4형식, 5형식 수동태 변환법을 집중 연습합니다. 지각동사/사역동사 to 추가를 강조합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## by 생략 규칙
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0399_p74ndnYWRY4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-by 생략 규칙을 예문으로 설명합니다. 언제 by를 쓰고 안 쓰는지 판단하는 연습을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 수동태 불가 동사
@@ -60,7 +60,7 @@ by 생략 규칙을 예문으로 설명합니다. 언제 by를 쓰고 안 쓰는
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수동태 불가 동사 리스트를 정리합니다. 자주 실수하는 표현을 교정합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -119,5 +119,5 @@ made of는 원재료가 보이고, made from은 변형됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 수동태를 완벽히 정복합니다. 오류 패턴을 파악해서 체계적으로 교정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>

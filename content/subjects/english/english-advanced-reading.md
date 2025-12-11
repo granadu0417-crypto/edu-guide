@@ -20,7 +20,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고급 독해에 필요한 구문 분석 능력을 체계적으로 훈련합니다. 복잡한 문장도 쉽게 해석할 수 있도록 지도합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 복잡한 구문 분석하기
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장의 구조를 시각적으로 분석하는 방법을 익힙니다. 주어와 동사를 빠르게 찾는 훈련을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 비문학 지문 공략법
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문의 논리 구조를 분석하는 연습을 합니다. 연결어와 논리 흐름을 파악하는 능력을 키웁니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 추론과 함축 의미 파악
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 문제 풀이 전략을 체계적으로 익힙니다. 함축 의미를 파악하는 연습을 반복합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 수능 고난도 문제 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 고난도 유형별 풀이 전략을 익힙니다. 실전 문제로 반복 연습하여 감각을 키웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,5 +105,5 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 고급 독해 수업으로 수능 고난도 문제를 정복합니다. 체계적인 훈련으로 실력을 키워드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>

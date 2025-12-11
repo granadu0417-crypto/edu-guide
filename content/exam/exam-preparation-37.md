@@ -19,7 +19,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 지문 분석법을 체계적으로 훈련합니다. 문학과 비문학 각각의 접근법을 익히고 실전에 적용합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 국어 시험의 구성
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능의 출제 특성을 분석합니다. 시험 유형에 맞는 맞춤 전략을 세웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 문학 작품 분석법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 작품 분석 공식을 알려드립니다. 시, 소설, 고전 각각의 접근법을 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 비문학 독해 전략
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 독해 전략을 연습합니다. 다양한 분야의 지문을 빠르고 정확하게 읽는 기술을 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 내신 국어 대비
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 작품을 분석하고 예상 문제를 풀어봅니다. 학교별 출제 경향에 맞춰 대비합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시험장 전략

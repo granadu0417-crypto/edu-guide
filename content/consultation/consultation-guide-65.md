@@ -20,7 +20,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 상담에서는 학생의 하루 일과를 먼저 분석합니다. 시간이 어디에서 새는지, 어디를 줄일 수 있는지 함께 찾아드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 시간 관리 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간이 모자라다면 학습 상담을 받으세요. 24시간을 제대로 쓰는 방법을 알려드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 진로 상담은 시간을 어디에 투자해야 할지 모를 때 도움이 됩니다. 심리 상담은 미루는 습관이 심할 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 실제로 실행 가능한 시간표를 함께 만듭니다. 무리한 계획이 아니라 지킬 수 있는 계획을 세워드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 시간은 어떻게 관리해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 현실적인 시간표를 설계합니다. 틈새 시간 활용법까지 구체적으로 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0089_QR-XQbUVC1s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 24시간을 효율적으로 쓰는 방법을 안내합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

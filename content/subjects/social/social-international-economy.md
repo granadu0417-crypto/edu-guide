@@ -26,7 +26,7 @@ featured_image: "/images/edu_0678_bgQgAKagQB4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국제경제의 기본 원리를 설명합니다. 무역과 환율의 개념을 쉽게 정리합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 국제 무역
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0678_bgQgAKagQB4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교 우위와 무역의 원리를 설명합니다. 자유 무역과 보호 무역을 비교 분석합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 환율
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0678_bgQgAKagQB4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-환율의 개념과 결정 원리를 설명합니다. 환율 변동이 경제에 미치는 영향을 분석합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 국제기구
@@ -55,7 +55,7 @@ WTO는 세계 무역을 관리하고 무역 분쟁을 조정합니다. IMF는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 국제기구의 역할을 비교합니다. 한국이 가입한 경제 협력체를 정리합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 세계화와 국제경제
@@ -64,7 +64,7 @@ WTO는 세계 무역을 관리하고 무역 분쟁을 조정합니다. IMF는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세계화의 장단점을 분석합니다. 국제경제 문제와 해결 방안을 토론합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 대비
@@ -127,5 +127,5 @@ WTO는 다자간 무역 기구이고, FTA는 특정 국가 간 자유 무역 협
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 국제경제를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>

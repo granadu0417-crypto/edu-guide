@@ -22,7 +22,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 따라 비중을 조절합니다. 수능이 목표면 독해 위주, 회화가 필요하면 스피킹 비중을 높입니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 영어의 각 영역은 어떻게 다른가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법, 독해, 어휘를 통합해서 가르칩니다. 따로따로 하면 연결이 안 됩니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 어떤 순서로 공부해야 하나요?
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 지문으로 문법을 설명합니다. 따로 배우는 것보다 실제 문장에서 보면 이해가 빠릅니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 내신과 수능, 어떻게 병행하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 내신 집중, 그 외에는 수능형 독해를 연습합니다. 균형 있게 진행합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 학습에 대해 더 궁금한 점이 있으시면 문의하세요. 맞춤 학습 플랜을 설계해 드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 마무리

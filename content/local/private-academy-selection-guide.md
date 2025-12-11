@@ -28,7 +28,7 @@ featured_image: "/images/edu_0301_NwM9eZzpBPM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택 전 상담을 통해 자녀의 학습 수준과 성향을 파악합니다. 어떤 유형의 학원이 적합한지 함께 분석합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 사교육 기관 유형
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0301_NwM9eZzpBPM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 학습 특성을 파악하는 것이 학원 선택의 첫 단계입니다. 상담을 통해 어떤 유형이 맞는지 분석해 드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학원 정보 수집과 방문
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0301_NwM9eZzpBPM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 유형별 장단점을 상담에서 자세히 안내합니다. 자녀 상황에 맞는 유형을 함께 찾아봅니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 비용과 계약
@@ -113,7 +113,7 @@ featured_image: "/images/edu_0301_NwM9eZzpBPM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택이나 변경에 대한 고민이 있으시면 상담해 주세요. 자녀에게 맞는 학습 환경을 함께 찾아봅니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 **Q. 방학 때 수업은 어떻게 되나요?**

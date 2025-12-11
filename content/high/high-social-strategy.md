@@ -15,7 +15,7 @@ featured_image: "/images/edu_0691_9M9VYzjHYB8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 이해시키고 자료 분석 연습을 반복합니다. 과목 선택부터 학습 전략까지 지도합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 과목 선택 전략
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0691_9M9VYzjHYB8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 적성과 대학 반영 비율을 분석합니다. 최적의 과목 조합을 추천합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 개념 학습과 자료 분석
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0691_9M9VYzjHYB8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 비교표를 함께 만듭니다. 자료 분석 문제를 집중적으로 풀어봅니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 과목별 핵심 포인트
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0691_9M9VYzjHYB8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 핵심 개념을 정리합니다. 자주 출제되는 유형을 집중 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 기출과 실전 대비
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0691_9M9VYzjHYB8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석과 오답 정리를 함께 합니다. 실전 모의고사로 시간 배분을 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문

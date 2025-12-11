@@ -22,7 +22,7 @@ featured_image: "/images/edu_0925_RpxgkJRqg5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사춘기 학생의 심리를 이해하고 접근합니다. 강압이 아닌 동기 부여로 스스로 공부해야 하는 이유를 찾게 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 사춘기가 학습에 미치는 영향
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0925_RpxgkJRqg5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 감정 상태를 먼저 파악합니다. 공부에 대한 거부감이 어디서 오는지 대화를 통해 알아냅니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 사춘기 자녀와 소통하는 법
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0925_RpxgkJRqg5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 스스로 목표를 설정하게 합니다. 작은 성취를 쌓으면서 자신감을 키워갑니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학습 동기를 되살리는 방법
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0925_RpxgkJRqg5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 진로를 연결해 공부의 필요성을 설명합니다. 작은 목표 달성을 통해 성취감을 경험하게 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 중2 학습 전략
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0925_RpxgkJRqg5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 기본 문제부터 차근차근 풀어갑니다. 이해가 안 되는 부분은 다시 설명하고 넘어갑니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 내신 관리의 중요성
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0925_RpxgkJRqg5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춰 학습 계획을 세웁니다. 학교별 출제 경향을 파악하고 예상 문제를 풀어봅니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}

@@ -15,7 +15,7 @@ featured_image: "/images/edu_0649_jMgRlCu63Cc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-천구 모형을 활용해 3차원으로 이해시킵니다. 그림을 직접 그리면서 천체 운동을 눈으로 확인합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 지구과학의 기본 구조
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0649_jMgRlCu63Cc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 출제 비중과 난이도를 분석합니다. 학생이 약한 영역부터 집중 공략합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 판 구조론 마스터하기
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0649_jMgRlCu63Cc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세계 지도에 판 경계와 지질 현상을 직접 표시합니다. 왜 그 위치에서 일어나는지 원리로 설명합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 천문 영역 공략법
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0649_jMgRlCu63Cc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-천구 모형을 돌려가며 일주 운동과 연주 운동을 시각적으로 이해시킵니다. 각도 계산 연습도 반복합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 대기와 해양 쉽게 정복하기
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0649_jMgRlCu63Cc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 기상도와 위성 영상을 보며 날씨 변화를 예측하는 연습을 합니다. 실생활과 연결해서 기억에 남게 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문

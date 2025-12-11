@@ -28,7 +28,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 지각동사의 이해 수준을 진단합니다. see, hear, watch, feel, notice 등의 용법, 목적격 보어의 형태를 체계적으로 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 지각동사가 어려운 이유
@@ -39,7 +39,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동사원형과 현재분사의 의미 차이를 정확히 구분합니다. 다양한 상황에서 올바른 형태를 선택하는 연습을 합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 덕수중·장원중·대경중 영어 시험의 특징
@@ -52,7 +52,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·대경중 기출 지각동사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 지각동사 문장을 만들어보게 합니다. 왜 그 동사 형태를 선택했는지 설명하는 훈련을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,7 +76,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 동사 유형을 정확히 이해합니다. 다양한 동사를 자유롭게 활용하는 능력을 키웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 지각동사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}

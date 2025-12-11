@@ -20,7 +20,7 @@ featured_image: "/images/edu_0039_90ctJcyrRLs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 상담 첫 시간에 학생의 흥미와 관심사를 깊이 있게 탐색합니다. 단순한 검사 결과가 아닌 실제 경험과 연결하여 적성을 발견합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 진로 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0039_90ctJcyrRLs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 상담은 단순히 직업을 정하는 것이 아닙니다. 학생이 무엇에 흥미를 느끼고, 어떤 환경에서 잘 성장하는지 함께 탐구합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 진학 상담은 상급 학교 선택을 돕습니다. 입시 전략과 학교 정보를 바탕으로 진학 계획을 수립합니다. 심리 상담은 스트레스와 불안을 다루며 학습 집중력 향상에 도움을 줍니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0039_90ctJcyrRLs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 결과를 바탕으로 구체적인 실천 계획을 세웁니다. 계획은 바로 실천할 수 있도록 현실적으로 작성하며, 정기적인 점검을 통해 진행 상황을 확인합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 우리 아이 학년에는 어떤 상담이 필요할까요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0039_90ctJcyrRLs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 학년에 맞는 핵심 포인트를 중심으로 상담을 진행합니다. 학생의 현재 상황과 목표에 따라 우선순위를 조정합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0039_90ctJcyrRLs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 상담에 대해 더 궁금한 점이 있으시면 언제든 문의하세요. 학생에게 맞는 최적의 진로 설계를 함께 고민합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 마무리

@@ -10,14 +10,13 @@ tags:
   - 중구수학과외
   - 중구중등수학
 ---
-
-주사위를 던져서 3의 배수가 나올 확률을 못 구한다면, 확률력이 필요합니다.
+수학은 혼자 공부하기 어려운 과목입니다.
 
 중구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 대전중앙고, 호수돈여고, 대전상고 시험에서 확률 문제가 자주 출제됩니다. 경우의 수를 정확히 세고 확률을 계산하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률 계산법을 체계적으로 정리합니다. 경우의 수 연결을 훈련합니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법까지 종합 진단합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 확률부터 복합 확률까지 정리합니다. 계산 연습을 훈련합니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대전중앙고, 호수돈여고 기출에서 확률 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+최근 3년 기출을 분석하여 출제 패턴을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 확률력을 점진적으로 향상시킵니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 계획을 세웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -128,5 +127,5 @@ tags:
 
 ## 마무리
 
-중구에서 확률이 어렵다면 경우 세기 훈련이 필요합니다. 계산이 익숙해지면 수학이 쉬워집니다.
+ 학생 여러분, 전략입니다. 제대로 된 전략으로 성적을 올려보세요.
 

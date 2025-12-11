@@ -21,7 +21,7 @@ featured_image: "/images/edu_0084_g4WinrGsMl0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택 상담에서는 아이의 성향과 수준을 먼저 파악합니다. 대형 학원이 맞는지, 소규모 학원이 맞는지, 과외가 나은지 함께 결정합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학원 선택 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0084_g4WinrGsMl0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택이 고민이라면 학부모 상담을 받으세요. 아이에게 맞는 학원 유형을 찾아드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 학습 상담은 학원 없이 스스로 공부하는 방법이 궁금할 때 도움이 됩니다. 진학 상담은 입시에 맞는 학원을 정할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0084_g4WinrGsMl0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 학원 선택 기준과 확인해야 할 사항을 안내합니다. 어떤 질문을 하고 어떻게 판단해야 하는지 알려드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학원은 어떻게 골라야 하나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0084_g4WinrGsMl0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 상황에 맞는 학원 선택 기준을 제시합니다. 방문 상담 시 무엇을 물어봐야 하는지도 안내합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0084_g4WinrGsMl0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 아이에게 맞는 학원을 찾는 방법을 안내합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 마무리

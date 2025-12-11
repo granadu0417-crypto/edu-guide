@@ -32,7 +32,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 이렇게 풀어야 해요?"라는 질문이 나올 때까지. 공식 암기가 아니라 원리 이해부터 시작합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ### 방학동 - 전통적 학원가
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 수학 수준을 정확히 파악합니다. 어디서 막혔는지, 어디까지 알고 있는지 진단부터 꼼꼼히!
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 학년별 수학과외 가이드
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피자를 똑같이 나누면? 분수 개념을 일상에서 찾습니다. "1/4이랑 2/8이 같다고요?" 아이가 직접 발견하면 절대 안 잊어요!
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ### 중학생 - 고등 수학의 기초를 다지는 시기
@@ -114,7 +114,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 x에 숫자를 대입해야 해요?" 문자와 식의 개념부터 차근차근. 원리를 알면 응용이 됩니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -143,7 +143,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 도봉구 주요 고등학교 내신 특징
@@ -168,7 +168,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. "이 학교 수학 선생님 스타일"을 알면 대비가 훨씬 쉬워집니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -206,7 +206,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 도봉구의 장점을 활용하세요
@@ -238,7 +238,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 수업 내용 확인 테스트! 복습 안 하면 티가 납니다. 작은 습관이 큰 실력이 됩니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -274,7 +274,7 @@ featured_image: "/images/edu_0310_e4EsFVDH_og.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명해보기! 배운 내용을 말로 설명할 수 있으면 진짜 이해한 거예요. 설명이 안 되면 다시 공부합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 마치며

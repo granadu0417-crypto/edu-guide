@@ -20,7 +20,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 상담에서는 시험 준비 과정을 꼼꼼히 분석합니다. 어디서 시간이 새는지, 무엇이 잘못됐는지 파악하고 개선점을 찾습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 내신 관리 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 등급을 올리고 싶다면 학습 상담을 받으세요. 학교 시험 특성에 맞는 맞춤 전략을 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 진로 상담은 적성을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략을 다룹니다. 심리 상담은 시험 불안이 심할 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 다음 시험까지의 구체적인 계획을 세웁니다. 언제부터 무엇을 어떻게 공부할지 로드맵을 안내합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학년에 따라 내신 전략이 다른가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞는 내신 전략을 제안합니다. 무작정 열심히 하는 것이 아니라 효율적으로 공부하는 방법을 안내합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리 전략에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 효율적인 시험 전략을 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

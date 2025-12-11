@@ -22,12 +22,11 @@ tags:
   - 정발고
 featured_image: "/images/edu_0002.jpg"
 ---
-
-고등 수학, 개념부터 다시 잡아야 합니다. 고양시 일산동구 정발산동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+수학 자신감, 되찾을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 정확한 출발점을 찾아드립니다.
+진단 결과를 바탕으로 학생별 맞춤 커리큘럼을 설계합니다. 같은 수업은 없습니다.
 </div>
 
 ## 고등 수학, 중학교와 이렇게 다릅니다
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0002.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1, 2학년은 내신에 집중하면서 수능 기초를 쌓고, 3학년은 본격적으로 수능 대비에 들어갑니다.
+문제를 많이 푸는 것보다 한 문제를 깊이 이해하는 게 중요합니다. 양보다 질입니다.
 </div>
 
 ## 정발고 내신, 무엇이 어려울까요?
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0002.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정발고 시험의 난이도 분포를 알고 있습니다. 어떤 문제에서 시간을 쓸지 전략을 세웁니다.
+같은 문제도 학교마다 변형해서 출제합니다. 학교 스타일의 변형 문제를 연습합니다.
 </div>
 
 ## 수능 수학, 핵심만 짚어드립니다
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0002.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 틀렸는지 설명할 수 있어야 진짜 아는 겁니다. 오답 분석 시간을 충분히 가집니다.
+학생의 입시 목표에 맞춰 내신과 수능 비중을 조절합니다. 수시 vs 정시에 따라 전략을 달리합니다.
 </div>
 
 ## 1:1 과외가 효과적인 이유
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0002.jpg"
 
 ## 마무리
 
-체계적인 1:1 수업으로 정발산동 고등학교 내신을 완벽 대비하세요.
+일산동구 학생 여러분, 전략입니다. 제대로 된 전략으로 성적을 올려보세요.

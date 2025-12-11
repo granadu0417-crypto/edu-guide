@@ -27,7 +27,7 @@ featured_image: "/images/edu_0752_tBgXVOOSRo4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 공식을 어떻게 적용하는지 먼저 확인합니다. 어떤 상황에서 어떤 공식을 써야 하는지 유형별로 훈련합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0752_tBgXVOOSRo4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고, 장충고, 환일고 기출을 면밀히 분석합니다. 학교마다 출제 경향이 다르기 때문에, 맞춤형 내신 대비를 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ### 치열한 등급 경쟁
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0752_tBgXVOOSRo4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고 학생은 계산 정확성에, 장충고 학생은 다양한 유형에, 환일고 학생은 심화 문제에 집중합니다. 학교별 맞춤 전략으로 내신을 공략합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 수학과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0752_tBgXVOOSRo4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 철저히 분석합니다. 원인을 파악하여 같은 유형에서 반복하지 않도록 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 고등 수학 학습 순서
@@ -119,7 +119,7 @@ featured_image: "/images/edu_0752_tBgXVOOSRo4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습량과 진도를 설계합니다. 시험 기간에는 내신에 집중하고, 방학에는 선행과 심화를 병행합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 고3: 마무리
@@ -136,7 +136,7 @@ featured_image: "/images/edu_0752_tBgXVOOSRo4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황을 고려하여 합리적으로 정합니다. 무료 상담에서 학생 수준을 파악한 뒤, 적절한 수업 횟수와 시간을 안내드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

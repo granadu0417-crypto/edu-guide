@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택이 어려우시면 상담해 주세요. 아이 상황에 맞는 학원 유형을 안내해 드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 학원 정보는 어떻게 모으나요?
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 학원 정보가 필요하시면 문의해 주세요. 학원 선택에 도움이 될 정보를 안내해 드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 현장 방문하면 뭘 봐야 하나요?
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 현장 방문 전 체크리스트가 필요하시면 상담해 주세요. 구체적인 질문 목록을 드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 관리 시스템은 뭘 확인해야 하나요?
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외는 학부모님과의 소통을 중요하게 생각합니다. 정기적으로 학습 현황을 보고드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 계약할 때 뭘 주의해야 하나요?
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 계약은 투명하게 진행합니다. 모든 조건을 명확히 안내드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -90,7 +90,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향을 먼저 파악합니다. 어떤 학습 방식이 맞는지 함께 상담해 드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문

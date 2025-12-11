@@ -19,7 +19,7 @@ featured_image: "/images/edu_0011_Qy7OZf0FUTA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 글쓰기 수준을 파악합니다. 어떤 부분이 약한지 진단하고 맞춤 계획을 세웁니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 초등 논술에서 뭘 배우나요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0011_Qy7OZf0FUTA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 글을 한 편씩 씁니다. 첨삭받고 고쳐 쓰는 과정을 반복합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 왜 논술 과외가 필요한가요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0011_Qy7OZf0FUTA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 맞춤법, 어색한 문장을 하나하나 고쳐줍니다. 왜 그렇게 고쳐야 하는지 설명합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 논술 과외 수업은 어떻게 진행되나요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0011_Qy7OZf0FUTA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고쳐 쓰기가 중요합니다. 한 번 쓰고 끝내지 않고 계속 다듬습니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 논술 과외의 장점은 뭔가요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0011_Qy7OZf0FUTA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 첨삭한 글과 코멘트를 보내드립니다. 가정에서 복습하시면 됩니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 좋은 논술 선생님의 조건은 뭔가요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0011_Qy7OZf0FUTA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 첨삭 샘플을 보여드립니다. 어떻게 피드백하는지 확인하세요.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}

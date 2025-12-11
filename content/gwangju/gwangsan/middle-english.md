@@ -10,14 +10,13 @@ tags:
   - 광산구영어과외
   - 광산구중등영어
 ---
-
-running boy와 broken window에서 -ing와 -ed의 차이를 모른다면, 분사력이 필요합니다.
+포기하기엔 아직 이릅니다.
 
 광산구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 광산고, 첨단고, 운남고 시험에서 분사 문제가 자주 출제됩니다. 현재분사와 과거분사를 정확히 구분하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분사 종류를 체계적으로 정리합니다. 의미 구분을 훈련합니다.
+학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾아 집중 공략합니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ running boy와 broken window에서 -ing와 -ed의 차이를 모른다면, 분사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분사 역할을 정리합니다. 위치별 용법을 훈련합니다.
+문제 풀이 시간을 재면서 연습합니다. 실전에서는 시간이 촉박합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ running boy와 broken window에서 -ing와 -ed의 차이를 모른다면, 분사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광산고, 첨단고 기출에서 분사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험은 교과서와 프린트에서 나옵니다. 출제 포인트를 짚습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ running boy와 broken window에서 -ing와 -ed의 차이를 모른다면, 분사
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 분사력을 점진적으로 심화합니다.
+1, 2학년은 내신 집중, 3학년은 수능 비중을 높입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -128,5 +127,5 @@ running boy와 broken window에서 -ing와 -ed의 차이를 모른다면, 분사
 
 ## 마무리
 
-광산구에서 분사가 어렵다면 능동/수동 구분 훈련이 필요합니다. 관계가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 지금의 노력이 대학을 결정합니다.
 

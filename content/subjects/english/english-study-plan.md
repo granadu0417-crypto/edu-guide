@@ -22,7 +22,7 @@ featured_image: "/images/edu_0416_ti4kGLkGgmU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준과 목표를 분석합니다. 개인에게 맞는 학습 계획을 설계합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 목표 설정 SMART 원칙
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0416_ti4kGLkGgmU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시간 배분 원칙
@@ -42,7 +42,7 @@ SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 시간 배분을 설계합니다. 학생의 수준과 목표에 맞게 조정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 주간 학습 루틴
@@ -51,7 +51,7 @@ SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 루틴을 만듭니다. 지속 가능한 학습 시스템을 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 평가와 조정
@@ -60,7 +60,7 @@ SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적인 평가와 조정을 함께합니다. 목표 달성까지 지속적으로 관리합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -107,5 +107,5 @@ SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 학습 전략 수업으로 체계적인 계획을 세웁니다. 지속적인 관리로 목표를 달성합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어떤 사상가, 어떤 이론에서 막히는지 먼저 파악합니다. 전체 구조가 잡혀 있는지 확인합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 윤리와사상의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사상가별 핵심 키워드를 정리합니다. 키워드만 봐도 해당 사상가의 주장이 떠오르게 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 동양 사상 정리
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 학파 내에서도 사상가별 차이를 정리합니다. 비교가 명확해집니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 서양 사상 정리
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이론 간의 비교를 통해 각각의 특징을 명확히 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과외의 장점
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제 분석을 통해 출제 경향을 파악합니다. 자주 비교되는 사상가를 정리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 목표와 비용을 안내드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

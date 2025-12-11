@@ -22,7 +22,7 @@ featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 3년 전체를 보는 로드맵을 함께 그립니다. 학년별로 집중해야 할 것을 정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 중학교가 중요한 진짜 이유
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 진도보다 기초 실력 쌓기에 집중합니다. 스스로 공부하는 힘을 키웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 핵심 과제
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 과제에 집중합니다. 지금 해야 할 일에 에너지를 집중합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 효과적인 학습 방법
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 학습 방법을 가르칩니다. 오답 분석을 철저히 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 내신 시험 대비
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 계획을 세웁니다. 서술형 문제 대비를 철저히 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 진로 탐색
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사를 함께 찾아갑니다. 공부와 진로를 연결해 동기를 부여합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}

@@ -21,7 +21,7 @@ featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3월 모의고사 결과를 바탕으로 1년 계획을 세웁니다. 취약 과목, 취약 유형을 파악하고 우선순위를 정합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 고3 연간 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무리한 계획보다 실현 가능한 계획을 세웁니다. 지킬 수 없는 계획은 오히려 스트레스만 됩니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시기별 세부 계획
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-6월 모평, 9월 모평을 기준으로 계획을 조정합니다. 모평 결과를 분석해서 남은 기간 전략을 수정합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 과목별 학습 전략
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 대학에 맞춰 과목별 비중을 조절합니다. 의대는 과탐 비중이 높고, 상경계는 수학 비중이 높습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 하루 학습 루틴
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 시간표에 맞춰 생체 리듬을 조정합니다. 오전에 국어, 수학을 집중하는 습관을 들입니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 주의사항

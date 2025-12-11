@@ -20,7 +20,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경 상담에서는 현재 공부 공간을 분석합니다. 어떤 요소가 집중을 방해하는지 파악하고 개선 방법을 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 학습 환경 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중이 안 된다면 먼저 환경을 점검합니다. 환경이 문제가 아니라면 습관이나 동기 부여 문제일 수 있으니 함께 분석합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 진학 상담은 입시 정보와 전략을 제공합니다. 심리 상담은 스트레스나 불안이 집중을 방해할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 구체적인 환경 개선 방법을 안내합니다. 책상 배치, 조명, 정리 방법 등 바로 적용할 수 있는 팁을 제공합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학년에 따라 필요한 학습 환경이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 개인 성향에 맞는 학습 환경을 제안합니다. 가정 상황에 맞춰 현실적인 개선 방법을 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경 조성에 대해 더 궁금한 점이 있으시면 문의하세요. 아이에게 맞는 최적의 공부 공간을 함께 만들어드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

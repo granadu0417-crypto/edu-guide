@@ -21,7 +21,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중등 과외 상담에서는 학교별 시험 경향을 먼저 파악합니다. 어떤 과목에서, 어떤 유형에서 점수가 빠지는지 분석하고 맞춤 전략을 세웁니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 중등 과외가 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작 전 최근 시험지를 분석합니다. 어떤 유형을 틀리는지, 왜 틀렸는지 파악하고 수업 계획을 세웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 진학 상담은 고등학교 진학을 앞두고 특목고, 자사고 등의 정보가 필요할 때 도움이 됩니다.
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평소에는 개념 학습과 문제 풀이, 시험 전에는 학교별 기출 분석과 오답 정리에 집중합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 중등 과외에서 가장 중요한 건 뭔가요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 복습 숙제를 내드립니다. 다음 수업 때 점검하고, 부족한 부분은 다시 짚어드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 학교별 맞춤 내신 전략을 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 마무리

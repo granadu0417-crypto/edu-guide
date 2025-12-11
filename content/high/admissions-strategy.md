@@ -22,7 +22,7 @@ featured_image: "/images/edu_0217_QeuyVLxJwBE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 내신 성적, 세부능력특기사항, 진로 방향을 종합 분석합니다. 목표 대학과 전형에 맞춰 3년 로드맵을 함께 설계합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학생부종합전형의 핵심 이해
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0217_QeuyVLxJwBE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생부 기록을 함께 검토하며 강점과 보완점을 파악합니다. 전공 적합성을 높일 수 있는 활동을 구체적으로 안내합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 4대 핵심 평가 요소
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0217_QeuyVLxJwBE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4대 평가 요소별로 학생의 현재 수준을 진단합니다. 부족한 영역을 보완할 수 있는 활동과 기록 방법을 구체적으로 코칭합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 면접 완벽 대비
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0217_QeuyVLxJwBE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생부와 자소서를 기반으로 예상 질문을 작성합니다. 실전과 동일한 환경에서 모의 면접을 진행하고 피드백을 제공합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 수시 6회 지원 전략
@@ -80,7 +80,7 @@ featured_image: "/images/edu_0217_QeuyVLxJwBE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별, 월별 구체적인 활동 계획을 수립합니다. 정기적으로 진행 상황을 점검하고 필요시 계획을 조정합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}

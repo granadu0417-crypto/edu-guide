@@ -21,7 +21,7 @@ featured_image: "/images/edu_0656_Stdn0PNUyHM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 성적 발표 후 바로 정시 전략을 세웁니다. 어떤 대학에 지원할지 데이터로 분석합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 정시의 기본
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0656_Stdn0PNUyHM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정시의 기본 구조를 설명합니다. 대학별 반영 방법을 분석합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 수능 점수 분석
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0656_Stdn0PNUyHM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 점수를 분석합니다. 과목별 유불리를 파악하고 유리한 대학을 찾습니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 가나다군 배분
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0656_Stdn0PNUyHM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가나다군 배분 전략을 세웁니다. 상향, 적정, 안정을 어떻게 배치할지 함께 정합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 대학별 반영 비율
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0656_Stdn0PNUyHM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학별 반영 비율과 가산점을 분석합니다. 나한테 유리한 대학을 찾습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 정시 지원 타이밍
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0656_Stdn0PNUyHM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 성적 발표 후 빠르게 분석합니다. 마감 전에 최종 결정을 함께 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 주의사항

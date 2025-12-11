@@ -14,12 +14,11 @@ tags:
   - 안산시영어과외
   - 안산시중등영어
 ---
-
-안산시 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다.
+영어는 꾸준함이 답입니다. 지금 시작하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 어휘, 독해, 듣기 각 영역의 수준을 파악합니다.
+학생의 학습 스타일과 약점을 분석합니다. 맞지 않는 방법으로 공부하면 성적이 안 오릅니다.
 </div>
 
 ## 안산시 중학교 영어가 중요한 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 본문을 완벽히 이해한 후, 변형 문제에 대응하는 연습을 합니다.
+개념 강의만 듣고 끝내지 않습니다. 반드시 직접 문제를 풀어봐야 합니다.
 </div>
 
 ## 안산시 주요 중학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 영어 기출문제를 수집하여 출제 패턴을 분석합니다. 학교별 맞춤 대비 전략을 세웁니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석하여 대비합니다.
 </div>
 
 ## 영역별 학습 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법, 독해, 어휘를 균형있게 학습합니다. 학생의 약한 영역에 더 많은 시간을 배분합니다.
+내신과 수능, 어느 하나도 소홀히 하지 않습니다. 효율적인 병행 전략을 알려드립니다.
 </div>
 
 
@@ -90,6 +89,6 @@ tags:
 
 ## 마무리
 
-안산시 중등학생 여러분, 영어 성적 향상이 필요하시다면 지금 시작하세요.
+안산시 학생 여러분, 지금 바로 잡으세요. 첫 상담은 무료입니다.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

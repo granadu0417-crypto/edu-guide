@@ -15,7 +15,7 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 발달 상황을 파악합니다. 특수교육 대상 여부와 적합한 교육 형태를 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 특수교육 대상자 선정 절차
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특수교육 신청 절차를 안내합니다. 진단 평가 준비와 IEP 작성에 함께 참여합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 특수교육 형태별 비교
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 장애 정도와 성향에 맞는 교육 형태를 안내합니다. 배치 변경 절차도 안내합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 관련 서비스와 지원
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필요한 치료지원과 보조공학을 연결합니다. 방과후 돌봄 신청 방법을 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 부모의 역할과 권리
@@ -53,7 +53,7 @@ IEP 회의에 참여하는 것은 법적으로 보장된 권리입니다. 자녀
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-IEP 회의 참여 방법을 안내합니다. 가정에서 연계할 수 있는 활동을 알려드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 국어 실력을 먼저 진단합니다. 어휘력, 독해력, 문법 이해도를 파악하고 부족한 부분을 찾아냅니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 중학교 국어가 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학과 비문학을 균형 있게 다룹니다. 학생이 약한 영역에 더 집중합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 지문 분석의 핵심 기술
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문에 표시하면서 읽는 방법을 알려드립니다. 밑줄, 괄호, 기호를 활용해 핵심을 잡습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 문학 지문 공략법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 수록 문학 작품을 꼼꼼히 분석합니다. 시험에 나올 포인트를 미리 짚어드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 비문학 지문 공략법
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문 유형별로 접근법을 알려드립니다. 인문, 사회, 과학, 기술 분야별 특징을 파악합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석해서 출제 경향을 파악합니다. 예상 문제를 만들어 연습합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0026_4syO0fP1Bf0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업료와 수업 방식을 상세히 안내드립니다. 부담 없이 문의하세요.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문

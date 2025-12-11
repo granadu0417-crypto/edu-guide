@@ -24,7 +24,7 @@ featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 계산 속도와 정확도를 진단합니다. 어디서 실수가 나는지, 무엇이 느린지 정확히 파악합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 계산 실수의 원인
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 패턴을 분석합니다. 부호 실수, 계산 실수, 공식 오류 등 유형별로 정리하고 대책을 세웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 속도 향상 전략
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빠른 계산법을 가르칩니다. 곱셈 공식 활용, 어림짐작 검증, 인수분해 활용 등 효율적인 방법을 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 정확성 높이기
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검산 습관을 기릅니다. 계산 과정을 실시간으로 관찰하며 실수하는 순간 즉시 교정합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 일일 훈련 루틴
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 계산 훈련을 포함합니다. 매일 꾸준히 연습하도록 관리하고 진전 상황을 체크합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -85,6 +85,6 @@ featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계산 과정을 실시간 관찰하며 실수하는 순간 즉시 교정합니다. 빠르고 정확한 계산 습관을 완성시킵니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 

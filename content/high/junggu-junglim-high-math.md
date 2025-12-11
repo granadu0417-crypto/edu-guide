@@ -27,7 +27,7 @@ featured_image: "/images/edu_0762_6cXtqKP1Tg0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 선행한 범위를 먼저 점검합니다. 이해가 부족한 부분을 찾아내고 개념을 다시 정리합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0762_6cXtqKP1Tg0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고, 장충고, 환일고 기출을 면밀히 분석합니다. 학교마다 출제 경향이 다르기 때문에, 맞춤형 내신 대비를 진행합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ### 치열한 등급 경쟁
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0762_6cXtqKP1Tg0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고 학생은 계산 정확성에, 장충고 학생은 다양한 유형에, 환일고 학생은 심화 문제에 집중합니다. 학교별 맞춤 전략으로 내신을 공략합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 수학과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0762_6cXtqKP1Tg0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 철저히 분석합니다. 원인을 파악하여 같은 유형에서 반복하지 않도록 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 고등 수학 학습 순서
@@ -119,7 +119,7 @@ featured_image: "/images/edu_0762_6cXtqKP1Tg0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습량과 진도를 설계합니다. 시험 기간에는 내신에 집중하고, 방학에는 선행과 심화를 병행합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ### 고3: 마무리
@@ -136,7 +136,7 @@ featured_image: "/images/edu_0762_6cXtqKP1Tg0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황을 고려하여 합리적으로 정합니다. 무료 상담에서 학생 수준을 파악한 뒤, 적절한 수업 횟수와 시간을 안내드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문

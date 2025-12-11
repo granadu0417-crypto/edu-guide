@@ -23,7 +23,7 @@ featured_image: "/images/edu_0533_MmxI2Kw6ep8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2까지의 내용과 연결하면서 새로운 개념을 확장합니다. 고등학교 수학을 미리 준비시킵니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 제곱근과 인수분해
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0533_MmxI2Kw6ep8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제곱근의 개념을 명확히 이해시킵니다. 인수분해 공식을 전개와 연결하여 설명합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 이차방정식
@@ -43,7 +43,7 @@ ax 제곱 더하기 bx 더하기 c가 0인 방정식이 이차방정식입니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차방정식 풀이법 세 가지를 상황에 맞게 선택하도록 훈련합니다. 근의 공식을 확실히 익힙니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 이차함수
@@ -52,7 +52,7 @@ y가 a 괄호 x 빼기 p 제곱 더하기 q는 꼭짓점이 괄호 p 콤마 q인
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차함수 그래프를 직접 그려보며 이해시킵니다. 이차방정식과의 관계를 시각화합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 삼각비와 원의 성질
@@ -61,7 +61,7 @@ y가 a 괄호 x 빼기 p 제곱 더하기 q는 꼭짓점이 괄호 p 콤마 q인
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼각비를 직각삼각형으로 시각화합니다. 특수각의 값을 확실히 암기시킵니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,6 +108,6 @@ y가 a 괄호 x 빼기 p 제곱 더하기 q는 꼭짓점이 괄호 p 콤마 q인
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 전 과정을 체계적으로 정리합니다. 고등학교 수학을 완벽히 준비시킵니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 

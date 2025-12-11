@@ -19,7 +19,7 @@ featured_image: "/images/edu_0487_P3p-Vf4Gxko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 분석합니다. 교과서와 학습지를 바탕으로 맞춤 대비를 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 교과서 학습법
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0487_P3p-Vf4Gxko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 내용을 체계적으로 정리합니다. 시험에 나올 포인트를 짚어드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 수업 필기 활용
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0487_P3p-Vf4Gxko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필기 정리법을 안내합니다. 효율적인 복습 방법을 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 서술형 대비
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0487_P3p-Vf4Gxko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 훈련합니다. 예상 문제로 실전 연습을 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 기출 분석
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0487_P3p-Vf4Gxko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 기출 문제를 분석합니다. 출제 경향에 맞춘 대비를 진행합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ featured_image: "/images/edu_0487_P3p-Vf4Gxko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 내신 국어를 대비합니다. 학교별 출제 경향에 맞춘 집중 훈련을 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>

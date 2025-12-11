@@ -22,7 +22,7 @@ featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 반복 오류 패턴을 분석합니다. 가장 자주 틀리는 부분부터 집중 교정합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 흔한 문법 오류
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 오류 유형을 체계적으로 정리합니다. 각 유형별 규칙을 명확히 알려드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 문장 구조 오류
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 구조의 기본을 확실히 잡습니다. 한국어와 다른 영어의 특성을 이해하도록 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 교정 방법
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자가 교정 방법을 알려드립니다. 스스로 오류를 찾고 고칠 수 있도록 훈련합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 예방 전략
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 습관을 형성하도록 지도합니다. 실수를 줄이는 작문 습관을 익힙니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -107,5 +107,5 @@ featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 첨삭으로 정확한 영어 글쓰기를 배웁니다. 반복 오류를 분석하고 맞춤 교정을 제공합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

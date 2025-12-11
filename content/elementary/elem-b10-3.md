@@ -20,7 +20,7 @@ featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 다른 학습법을 가르칩니다. 국어는 이렇게, 수학은 저렇게 공부해야 한다는 걸 알려줍니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 공부 순서를 정해봅니다. 어려운 과목을 먼저 할지, 쉬운 과목을 먼저 할지 스스로 정하게 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회, 과학 시험 전에 핵심 내용을 정리하는 방법을 알려줍니다. 교과서 요약 연습을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 4학년의 특징과 대응
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오늘 배운 내용을 한 문장으로 정리해봐라고 합니다. 정리할 수 있으면 이해한 겁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 가정에서의 역할
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간에는 과목별 복습 순서를 함께 정합니다. 어떤 과목을 언제 공부할지 계획합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 주의사항

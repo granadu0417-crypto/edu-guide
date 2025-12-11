@@ -20,7 +20,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 문제로 개념을 확인하고, 응용 문제로 적용 연습을 합니다. 같은 개념을 다른 상황에서 사용하는 연습을 반복합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 핵심 학습 목표
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문제도 힌트를 주면서 끝까지 풀게 합니다. 포기하지 않는 습관을 들입니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 과목별 학습 전략
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-응용 문제를 풀 때 이 문제에서 뭘 물어보는 거야?라고 물어봅니다. 문제 파악 능력부터 키웁니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 응용력을 키우는 방법
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비슷한 유형의 문제를 모아서 풀어봅니다. 같은 개념이 어떻게 다르게 나오는지 비교하면 응용력이 자랍니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 가정에서의 역할
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트에 응용 문제를 정리합니다. 왜 틀렸는지, 어떤 개념을 사용해야 했는지 기록합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 주의사항

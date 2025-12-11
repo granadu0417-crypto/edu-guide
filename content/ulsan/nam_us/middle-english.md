@@ -10,14 +10,13 @@ tags:
   - 남구영어과외
   - 남구중등영어
 ---
-
-quick과 quickly, hard와 hardly의 차이를 모른다면, 형용사부사력이 필요합니다.
+영어 실력, 지금 바로 키울 수 있습니다.
 
 남구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 울산고, 현대고, 학성고 시험에서 형용사·부사 문제가 자주 출제됩니다. 문장에서 어떤 품사가 필요한지 판단하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-형용사와 부사 구분을 체계적으로 정리합니다. 품사 판단을 훈련합니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완됩니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ quick과 quickly, hard와 hardly의 차이를 모른다면, 형용사부사력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-형용사와 부사의 역할을 정리합니다. 문장 내 위치를 훈련합니다.
+어려운 문제도 기본 개념의 조합입니다. 기본기가 탄탄하면 풀 수 있습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ quick과 quickly, hard와 hardly의 차이를 모른다면, 형용사부사력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-울산고, 현대고 기출에서 품사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ quick과 quickly, hard와 hardly의 차이를 모른다면, 형용사부사력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 품사력을 점진적으로 심화합니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -132,5 +131,5 @@ quick과 quickly, hard와 hardly의 차이를 모른다면, 형용사부사력�
 
 ## 마무리
 
-남구에서 형용사·부사가 어렵다면 역할 구분 훈련이 필요합니다. 위치가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 결심이 시작입니다. 오늘 상담받고 내일부터 달라지세요.
 

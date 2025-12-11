@@ -21,7 +21,7 @@ featured_image: "/images/edu_0108_AsPbtcPqgfY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 전 과정을 빠르게 훑어보며 약한 부분을 찾습니다. 약점 보완이 끝나면 중학교 첫 학기 예습을 시작합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0108_AsPbtcPqgfY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학을 활용해서 초등 전 과정 정리와 중1 첫 학기 예습을 진행합니다. 집중할 수 있는 시간입니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0108_AsPbtcPqgfY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 수학 첫 단원인 정수와 유리수를 맛보기로 다뤄봅니다. 음수 개념을 미리 알아두면 중학교 가서 헷갈리지 않습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학습 마무리 체크리스트
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0108_AsPbtcPqgfY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체크리스트로 진단한 후 부족한 부분을 집중 보완합니다. 모든 항목이 확인되면 중등 예습을 시작합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0108_AsPbtcPqgfY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 마무리가 급하면 중등 예습 비중을 줄입니다. 기초가 먼저입니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 주의사항

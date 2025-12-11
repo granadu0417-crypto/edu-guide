@@ -26,7 +26,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빅뱅 이론의 증거를 정리합니다. 우주의 시간 순서에 따른 변화를 그림으로 설명합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 빅뱅 우주론
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빅뱅의 세 가지 증거를 설명합니다. 허블 상수와 우주 나이의 관계를 이해합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 우주의 구조
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-우주의 계층 구조를 그림으로 정리합니다. 은하의 종류와 특징을 비교합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 우주의 구성
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-우주의 구성 비율을 그래프로 표현합니다. 암흑 물질의 증거를 설명합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 빅뱅 증거와 우주 구조 문제를 집중 훈련합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -123,5 +123,5 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 우주론을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>

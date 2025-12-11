@@ -26,7 +26,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-냉전의 시작과 배경을 정리합니다. 미소 대립의 주요 사건을 시간순으로 정리합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 냉전의 시작
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-냉전 초기의 주요 사건을 정리합니다. 각 진영의 대응을 비교합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 냉전의 전개
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-냉전 시기 주요 사건을 분석합니다. 군사 동맹과 대립 구도를 설명합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 냉전의 종식
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-냉전 종식의 과정을 정리합니다. 베를린 장벽 붕괴의 의의를 설명합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 냉전 시기 사건 순서 문제를 집중 훈련합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 냉전을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>

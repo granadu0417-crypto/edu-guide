@@ -15,7 +15,7 @@ featured_image: "/images/edu_0654_xPHmmVKS8lM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 시험 준비 패턴을 분석합니다. 시험 범위 파악부터 실전 연습까지 단계별 계획을 함께 세웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 내신 시험 대비 전략
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0654_xPHmmVKS8lM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 시험 유형을 분석합니다. 선생님 출제 스타일에 맞춘 맞춤형 대비 전략을 제공합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 모의고사 활용법
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0654_xPHmmVKS8lM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 함께 분석합니다. 오답 원인을 파악하고 유사 문제로 취약점을 보완합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 수능 영역별 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0654_xPHmmVKS8lM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 취약점을 진단하고 맞춤 전략을 세웁니다. 기출 문제 분석과 실전 연습을 병행합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 당일 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0654_xPHmmVKS8lM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전과 동일한 환경에서 모의 시험을 진행합니다. 시간 배분과 긴장 관리 요령을 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문

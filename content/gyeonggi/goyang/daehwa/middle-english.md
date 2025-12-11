@@ -22,12 +22,11 @@ tags:
   - 대화중
 featured_image: "/images/edu_0014.jpg"
 ---
-
-중학교 영어, 기초가 흔들리고 있진 않나요? 고양시 일산서구 대화동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어 때문에 고민이신가요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어떤 문법이 부족한지, 독해에서 어디서 막히는지 진단합니다.
+수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
 </div>
 
 ## 중학교 영어의 벽
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 3주 전부터는 내신에 올인합니다. 그 외 기간에는 심화 독해로 실력을 키웁니다.
+비슷한 유형을 반복해서 풀며 패턴을 익힙니다. 새로운 문제도 익숙한 유형으로 변환할 수 있습니다.
 </div>
 
 ## 대화중 시험, 만만치 않습니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석하여 대비합니다.
+서술형 비중이 높은 학교는 풀이 과정을 깔끔하게 쓰는 연습을 합니다.
 </div>
 
 ## 고등 영어 선행의 핵심
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 함께 만듭니다. 시험 전에 다시 보면 실수를 줄일 수 있습니다.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행하는 방법을 알려드립니다.
 </div>
 
 ## 맞춤 수업의 힘
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0014.jpg"
 
 ## 마무리
 
-영어, 혼자 고민하지 마세요. 함께하면 달라집니다.
+일산서구 학생 여러분, 성적이 고민이라면, 지금 바로 상담받아 보세요.

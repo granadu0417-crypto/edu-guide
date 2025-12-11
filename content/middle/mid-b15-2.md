@@ -22,7 +22,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에 의존하지 않고 스스로 공부하는 능력을 키워줍니다. 점차 혼자 학습하는 비중을 늘립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자기주도 학습이 필요한 이유
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 스스로 공부해야 하는지 이해시킵니다. 동기 부여가 되어야 실천합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자기주도 학습의 핵심
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 오늘 할 일을 정합니다. 수업 끝에 달성 여부를 점검합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 계획 세우는 방법
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 함께 주간 계획표를 작성합니다. 처음에는 도와주고 점차 혼자 하게 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 실행과 점검
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계획 실행 여부를 매 수업 확인합니다. 잘된 점과 개선할 점을 함께 이야기합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학원과 자기 학습의 균형
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 스케줄을 점검하고 자기 학습 시간을 확보하도록 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

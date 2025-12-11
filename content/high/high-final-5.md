@@ -21,7 +21,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 진단합니다. 개념 이해도, 계산 정확도, 문제 해결 속도를 파악해서 맞춤 전략을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 수능 수학의 구조
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 등급에 맞춰 전략을 세웁니다. 1등급을 노리면 킬러까지, 2등급을 노리면 킬러 전까지 확실히 맞추는 게 핵심입니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 개념 학습
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 처음부터 정리합니다. 왜 이런 공식이 나왔는지, 어디에 쓰이는지 설명합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 유형별 문제 풀이
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출을 유형별로 분석합니다. 각 유형의 풀이법을 정리하고 반복 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 킬러 문항 대비
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-킬러 문항의 접근법을 알려줍니다. 어떻게 조건을 해석하고, 어떻게 풀이를 시작하는지 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 실수 줄이기
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 유형을 분석합니다. 어디서 실수가 나는지 파악하고 보완합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 주의사항

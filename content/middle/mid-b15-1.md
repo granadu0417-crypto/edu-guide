@@ -22,7 +22,7 @@ featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 대화를 통해 관심사를 파악합니다. 좋아하는 것, 잘하는 것을 함께 찾아갑니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 진로 탐색의 시작
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기 분석을 도와드립니다. 장점과 관심사를 정리해 진로와 연결합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 진로 적성 검사 활용
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로검사 결과를 함께 분석합니다. 관심 있는 직업에 대해 함께 조사합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 다양한 경험의 중요성
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심 분야에 맞는 책과 활동을 추천합니다. 경험을 넓힐 수 있도록 안내합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 진로와 학습의 연결
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로 목표와 현재 공부를 연결합니다. 왜 공부해야 하는지 이해하도록 돕습니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 변하는 것은 자연스럽습니다
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 가능성을 열어두고 탐색하도록 합니다. 지금 정하지 않아도 괜찮다고 안심시킵니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}

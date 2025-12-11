@@ -19,7 +19,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황과 목표를 파악합니다. 방학 계획을 함께 세웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 방학이 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학의 중요성을 안내합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 방학 학습 계획
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 학습 계획 세우는 방법을 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 방학에 할 것들
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학에 할 수 있는 것들을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 방학 과외의 장점
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 과외로 실력을 키울 수 있습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,7 +96,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 과외가 필요하면 미리 상담해주세요.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

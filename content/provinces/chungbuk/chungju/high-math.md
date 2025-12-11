@@ -10,14 +10,13 @@ tags:
   - 충주시수학과외
   - 충주시고등수학
 ---
-
-nPr과 nCr 중 무엇을 써야 할지 헷갈린다면, 경우의 수력이 필요합니다.
+내신과 수능을 동시에 잡는 방법이 있습니다.
 
 충주시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 충주고, 충주상고, 충주공고 시험에서 경우의 수 문제가 자주 출제됩니다. 순열과 조합을 정확히 구분하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-순열과 조합의 차이를 체계적으로 정리합니다. 문제 상황에서 구분하는 훈련을 합니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지 파악합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ nPr과 nCr 중 무엇을 써야 할지 헷갈린다면, 경우의 수력이 필�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경우의 수 유형을 정리합니다. 문제 해석력을 훈련합니다.
+문제를 많이 푸는 것보다 한 문제를 깊이 이해하는 게 중요합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ nPr과 nCr 중 무엇을 써야 할지 헷갈린다면, 경우의 수력이 필�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-충주고, 충주공고 기출에서 경우의 수 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+내신 시험은 학교마다 다릅니다. 전략적 대비가 필요합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ nPr과 nCr 중 무엇을 써야 할지 헷갈린다면, 경우의 수력이 필�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 경우의 수력을 점진적으로 향상시킵니다.
+시험 3주 전부터는 내신에 올인합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,5 +125,5 @@ nPr과 nCr 중 무엇을 써야 할지 헷갈린다면, 경우의 수력이 필�
 
 ## 마무리
 
-충주시에서 경우의 수가 어렵다면 유형 훈련이 필요합니다. 구분이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 내신과 수능, 두 마리 토끼를 다 잡는 방법이 있습니다.
 

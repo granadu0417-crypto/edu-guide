@@ -20,7 +20,7 @@ featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈칸 앞뒤 문맥을 분석하는 방법을 훈련합니다. 논리적 연결 관계를 파악하는 연습을 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 빈칸 추론 전략
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 빈칸 추론 전략을 훈련합니다. 문맥 분석 능력을 체계적으로 키웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 핵심 단서 찾기
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-접속어와 지시어의 기능을 정리합니다. 단서를 활용한 추론 연습을 반복합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 틀리는 유형
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 분석합니다. 오답 함정을 피하는 방법을 훈련합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제로 출제 유형을 분석합니다. 시간 내 정확히 푸는 연습을 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,5 +105,5 @@ featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 국어 과외로 빈칸 추론을 완벽히 마스터합니다. 문맥 분석 능력을 체계적으로 키웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>

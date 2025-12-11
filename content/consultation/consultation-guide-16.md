@@ -22,7 +22,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습 상담에서는 현재 학습 상태를 점검합니다. 어디까지 선행이 필요한지, 어떻게 예습하면 효과적인지 맞춤으로 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 예습 상담이 왜 필요한가요?
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습 효율을 높이고 싶다면 학습 상담을 받으세요. 과목별로 어떻게 예습하면 좋은지 구체적으로 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 진학 상담은 입시 전략과 학교 정보를 제공합니다. 심리 상담은 학습 스트레스가 심할 때 도움이 됩니다.
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 예습 계획을 세웁니다. 수업 전에 무엇을 어떻게 봐야 하는지 구체적인 방법을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 학년에 따라 예습 전략이 다른가요?
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞는 예습 전략을 제안합니다. 무리한 선행 대신 효율적인 방법을 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습 방법에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 효율적인 예습 전략을 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 마무리

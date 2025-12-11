@@ -26,7 +26,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문명 발생 조건을 설명합니다. 4대 문명의 위치와 강 이름을 지도로 확인합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 메소포타미아 문명
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-메소포타미아 문명의 업적을 정리합니다. 함무라비 법전의 특징을 설명합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 이집트 문명
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이집트 문명의 특징을 메소포타미아와 비교합니다. 영생 사상과 문화재를 연결합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 인더스 문명과 황하 문명
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인더스와 황하 문명의 특징을 정리합니다. 4대 문명 비교표를 만들어 정리합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 4대 문명 특징 비교 문제를 집중 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -119,5 +119,5 @@ featured_image: "/images/edu_0646_ewGMqs2tmJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 고대 문명을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>

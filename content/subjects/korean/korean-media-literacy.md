@@ -20,7 +20,7 @@ featured_image: "/images/edu_0468_e6Ll0uFtc1Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미디어 리터러시의 기본 개념을 정리합니다. 뉴스와 광고를 비판적으로 읽는 방법을 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 뉴스 비판적 읽기
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0468_e6Ll0uFtc1Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-뉴스 기사를 함께 읽고 분석합니다. 사실과 의견 구분 연습을 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 광고 분석하기
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0468_e6Ll0uFtc1Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 광고를 분석합니다. 설득 기법과 숨은 의도를 파악하는 연습을 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 가짜뉴스 판별법
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0468_e6Ll0uFtc1Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가짜뉴스 판별 체크리스트를 활용합니다. 실제 사례로 연습합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0468_e6Ll0uFtc1Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비판적 읽기 능력을 수능 문제에 적용합니다. 논리 분석 훈련을 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -121,5 +121,5 @@ featured_image: "/images/edu_0468_e6Ll0uFtc1Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 미디어 리터러시를 체계적으로 훈련합니다. 비판적 사고력을 키웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>

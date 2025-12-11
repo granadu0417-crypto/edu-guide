@@ -15,7 +15,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장애학생의 교육적 요구를 정확히 파악합니다. 개별 학생에게 맞는 맞춤형 교육 계획을 수립합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 특수교육 대상자 선정 절차
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선정 절차를 상세히 안내합니다. 필요한 서류와 일정을 확인하고 준비할 수 있도록 도와드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 개별화교육계획의 중요성
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개별화교육계획 회의에 적극 참여하세요. 자녀에 대한 정보를 공유하고 의견을 제시하는 것이 중요합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 치료지원 서비스 활용
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필요한 치료지원 서비스를 안내합니다. 신청 방법과 이용 절차를 확인할 수 있도록 도와드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 통합교육과 특수학급
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 적합한 교육 환경을 찾아드립니다. 통합교육의 장점을 최대한 활용할 수 있도록 지원합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -21,7 +21,7 @@ featured_image: "/images/edu_0205_2uN1XaWgU3g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광주 지역 교육 환경을 종합적으로 분석합니다. 거주 지역, 예산, 목표에 맞는 최적의 교육 방법을 찾아드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 광주 주요 교육 지구
@@ -44,7 +44,7 @@ GIST가 있어 수학과 과학 특화 학원이 많습니다. 올림피아드 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 특성과 장단점을 꼼꼼히 설명합니다. 거주지, 예산, 목표에 맞는 지역을 함께 찾아드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 광주 주요 학교 분석
@@ -59,7 +59,7 @@ GIST가 있어 수학과 과학 특화 학원이 많습니다. 올림피아드 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 시험 특성과 출제 경향을 분석합니다. 선생님별 문제 스타일까지 파악해 맞춤 내신 대비를 진행합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -72,7 +72,7 @@ GIST는 수학과 과학에 특화된 이공계 대학으로 올림피아드 수
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전남대, GIST, 광주교대 등 검증된 인재풀에서 선생님을 연결합니다. 전공, 경력, 수업 스타일을 꼼꼼히 확인합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 학년별 교육 전략
@@ -91,7 +91,7 @@ GIST는 수학과 과학에 특화된 이공계 대학으로 올림피아드 수
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 목표와 전략을 구체적으로 수립합니다. 단기 목표와 장기 목표를 균형 있게 설정합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 예술과 문화 교육의 강점
@@ -102,7 +102,7 @@ GIST는 수학과 과학에 특화된 이공계 대학으로 올림피아드 수
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학업과 예체능 균형 전략을 안내합니다. 광주의 문화 인프라를 활용한 교육을 제안합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 과외 상담에서는 학생의 영어 실력을 영역별로 진단합니다. 단어, 문법, 독해, 듣기 중 어디가 약한지 파악하고 맞춤 수업을 설계합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 영어 과외가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 과외 시작 전 레벨 테스트를 진행합니다. 영역별로 어디서부터 시작해야 하는지 정확히 파악해드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 진학 상담은 입시에서 영어 전략을 세울 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 → 단어 → 독해 순서로 차근차근 진행합니다. 부족한 영역에 더 시간을 배분해서 균형 잡힌 실력을 만들어드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 영어 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 조금씩 할 수 있는 숙제를 내드립니다. 단어, 문법, 독해를 매일 조금씩 하면서 실력을 쌓아갑니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 회화부터 문법까지 맞춤 수업을 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

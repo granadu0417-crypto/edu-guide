@@ -24,7 +24,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수학 수준을 먼저 파악합니다. 개념이 부족한지, 연산이 약한지, 응용이 안 되는지 진단합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 중등 수학학원은 어떤 종류가 있나요?
@@ -37,7 +37,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 학원 유형을 상담에서 안내해 드립니다. 내신이 급한지, 선행이 필요한지에 따라 추천이 달라집니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 중학교 수학에서 중요한 게 뭔가요?
@@ -50,7 +50,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념, 계산, 서술형을 균형 있게 수업합니다. 학생에게 부족한 영역을 집중 보완합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학원이 나은가요, 과외가 나은가요?
@@ -73,7 +73,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 커리큘럼으로 수업합니다. 무리한 선행보다는 기본기를 탄탄히 다집니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 학원 선택할 때 뭘 확인해야 하나요?
@@ -88,7 +88,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중등 수학 학습에 대해 궁금한 점이 있으시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문

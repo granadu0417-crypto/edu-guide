@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-처음 학원을 선택하는 학생에게는 적응을 도와드립니다. 학원 수업을 보충하거나, 학원 대신 1대1 과외로 맞춤형 수업을 진행합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학원에 보내기 전에 확인할 건 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 학습 상태를 파악해서 학원형인지 과외형인지 판단해 드립니다. 상담을 통해 적절한 방향을 제시합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학원은 어떤 기준으로 골라요?
@@ -57,7 +57,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택이 어려우면 과외로 시작하는 것도 방법입니다. 아이의 학습 상태를 파악한 후 학원 병행 여부를 결정해도 됩니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 레벨 테스트는 어떻게 준비해요?
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 적응이 어려운 학생은 1대1 과외로 보충합니다. 학원에서 이해 못한 부분을 과외에서 다시 설명해 드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학원에서 문제가 생기면요?
@@ -95,7 +95,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 병행하는 학생은 학원 진도에 맞춰 수업합니다. 학원에서 부족한 부분을 과외에서 채워드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문

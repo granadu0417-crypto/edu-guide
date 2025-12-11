@@ -15,7 +15,7 @@ featured_image: "/images/edu_0566_jiCEld2Ed50.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수준을 정확히 진단합니다. 약점을 파악하고 목표에 맞는 맞춤 커리큘럼을 설계합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 1대1 과외의 장점
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0566_jiCEld2Ed50.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-불필요한 부분은 스킵하고 핵심만 집중합니다. 질문이 생기면 즉시 해결해드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 좋은 선생님 선택법
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0566_jiCEld2Ed50.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 선생님을 매칭합니다. 시범 수업 후 궁합을 확인한 뒤 결정하세요.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과외 효과 극대화하기
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0566_jiCEld2Ed50.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습 복습 방법을 안내합니다. 오답노트 작성법도 지도해드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학부모 역할
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0566_jiCEld2Ed50.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 정기적으로 수업 내용과 학습 상태를 피드백 드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

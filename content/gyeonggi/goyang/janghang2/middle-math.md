@@ -22,12 +22,11 @@ tags:
   - 장항중
 featured_image: "/images/edu_0006.jpg"
 ---
-
-지금 기초를 잡아야 고등학교에서 편합니다. 고양시 일산동구 장항2동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+수학 자신감, 되찾을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾고, 그 부분을 집중 공략합니다.
+기초가 부족한지, 응용이 약한지, 시간 관리가 문제인지 정확히 진단합니다.
 </div>
 
 ## 중학 수학, 초등과 이렇게 다릅니다
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험이 끝나면 바로 선행으로 전환합니다. 시간 낭비 없이 효율적으로 운영합니다.
+개념을 완벽히 이해한 후, 다양한 유형의 고난도 문제를 훈련합니다. 사고력을 기릅니다.
 </div>
 
 ## 장항중 수학 기출 분석
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험은 학교마다 다릅니다. 학교 특성에 맞춘 전략적 대비가 필요합니다.
+학교 시험 범위에 맞춰 집중 대비합니다. 범위 외 내용으로 시간 낭비하지 않습니다.
 </div>
 
 ## 고등학교에서 잘하려면
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 정리합니다. 반복해서 틀리는 문제는 특별 관리합니다.
+내신과 수능의 차이를 명확히 알려드립니다. 두 가지를 효율적으로 병행할 수 있는 학습 전략을 세웁니다.
 </div>
 
 ## 개인 맞춤 수업의 장점
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0006.jpg"
 
 ## 마무리
 
-내신 완벽 대비, 체계적인 1:1 수업으로 시작하세요.
+일산동구 학생 여러분, 맞춤 과외, 상담부터 시작하세요.

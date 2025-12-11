@@ -23,7 +23,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황을 정확히 파악합니다. 내신 등급, 모의고사 등급, 목표 대학을 분석해서 합격 전략을 세웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 고3 시기별 전략
@@ -36,7 +36,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별 계획을 세웁니다. 언제 내신에 집중하고, 언제 수능에 집중할지 구체적으로 정합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 수시 전략
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시 6개를 어떻게 배분할지 전략을 세웁니다. 대학별 입결을 분석해서 합격 가능성을 계산합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 정시 전략
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 성적 발표 후 바로 정시 전략을 세웁니다. 어떤 대학에 지원할지 데이터로 분석합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 수능 최종 점검
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 전 최종 점검을 합니다. 오답 복습, 시간 관리, 컨디션 관리를 체크합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 멘탈 관리
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-멘탈 관리도 도와줍니다. 불안하면 이야기하세요. 혼자 끙끙 앓지 말고 같이 해결합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 주의사항

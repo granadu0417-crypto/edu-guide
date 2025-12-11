@@ -15,7 +15,7 @@ featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석법을 가르치고 함께 오답 정리를 합니다. 학생 약점에 맞춰 회독 계획을 세웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 기출문제가 중요한 이유
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 유형을 분류하고 출제 패턴을 분석합니다. 자주 틀리는 유형을 집중 연습합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## N회독 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-회독 계획을 함께 세웁니다. 회독별 학습 방향을 제시하고 진도를 체크합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 영역별 기출 활용법
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 기출 분석법을 지도합니다. 약점 영역을 집중 보완하고 강점은 유지합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 오답 노트 작성법
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 작성법을 가르칩니다. 함께 분석하고 주기적으로 복습을 점검합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

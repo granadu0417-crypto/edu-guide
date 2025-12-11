@@ -19,7 +19,7 @@ featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어떤 단원에서 어려움을 느끼는지 먼저 파악합니다. 개념 이해도와 문제 풀이 능력을 진단합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 생명과학, 왜 어렵게 느껴질까요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 용어를 쉬운 말로 풀어서 설명합니다. 왜 그런 이름이 붙었는지 어원부터 알려드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 생명과학1 핵심 단원
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단원 간의 연결고리를 찾아 전체 그림을 그립니다. 세포에서 시작해 생태계까지 큰 흐름을 잡습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 유전 문제 접근법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유전 문제 풀이에 필요한 사고 과정을 차근차근 알려드립니다. 문제를 보는 눈을 키웁니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 과외의 장점
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 이해할 때까지 다양한 방식으로 설명합니다. 그림, 비유, 실생활 예시를 활용합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 목표와 비용을 자세히 안내드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문

@@ -22,12 +22,11 @@ tags:
   - 마두중
 featured_image: "/images/edu_0018.jpg"
 ---
-
-중학교 3년이 고등학교를 결정합니다. 고양시 일산동구 마두2동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어 실력, 지금 바로 키울 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적표만 보지 않습니다. 실제로 문제를 풀어보면서 어디서 막히는지 정확히 파악합니다.
+문제를 푸는 과정을 옆에서 지켜봅니다. 어떤 생각으로 접근하는지, 어디서 막히는지 확인합니다.
 </div>
 
 ## 중학교 영어가 어려운 진짜 이유
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 1등급이 고등학교 성적으로 이어지도록 합니다. 따로 공부하지 않아도 됩니다.
+공식만 알면 기본 문제는 풉니다. 하지만 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 마두중 시험에서 고득점 받는 법
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 문제도 학교마다 변형해서 출제합니다. 학교 스타일의 변형 문제를 연습합니다.
+학교 시험은 교과서와 프린트에서 나옵니다. 꼼꼼하게 분석하여 출제 포인트를 짚어드립니다.
 </div>
 
 ## 고등학교 가기 전에 준비할 것
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 후에는 반드시 오답 분석 시간을 가집니다. 같은 유형에서 다시 틀리지 않도록 합니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
 </div>
 
 ## 왜 1:1 수업을 추천할까요?
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0018.jpg"
 
 ## 마무리
 
-중학교 영어, 제대로 배우면 달라집니다.
+일산동구 학생 여러분, 힘들 때 도움받으면 됩니다.

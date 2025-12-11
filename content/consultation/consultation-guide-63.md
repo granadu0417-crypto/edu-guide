@@ -20,7 +20,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 상담에서는 학생의 현재 성적과 목표를 분석합니다. 어떤 과목에 집중해야 하는지, 어떻게 시간을 배분해야 하는지 구체적으로 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 내신 관리 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리가 안 된다면 학습 상담을 받으세요. 체계적인 관리 방법을 알려드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 진학 상담은 내신이 입시에 어떻게 반영되는지 알고 싶을 때 도움이 됩니다. 심리 상담은 시험 불안이 심할 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 우선순위와 시험 대비 타임라인을 안내합니다. 시험 2주 전부터 어떻게 준비해야 하는지 구체적으로 알려드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 내신은 어떻게 관리해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적과 목표에 맞는 내신 관리 계획을 세워드립니다. 실현 가능한 계획으로 안정적인 성적을 유지하도록 돕습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 체계적인 관리 방법을 안내합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

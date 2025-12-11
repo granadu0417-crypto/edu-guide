@@ -19,7 +19,7 @@ featured_image: "/images/edu_0594_ecELcxmJTk4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-산화환원 반응의 기초부터 정리합니다. 전자의 이동을 그림으로 따라가며 이해합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 산화와 환원
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0594_ecELcxmJTk4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-산화수 규칙을 정리합니다. 산화환원 반응식을 맞추는 연습을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 화학 전지
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0594_ecELcxmJTk4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화학 전지의 구조를 그림으로 이해합니다. 전극 반응식을 쓰는 연습을 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 전기 분해
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0594_ecELcxmJTk4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전기 분해와 화학 전지의 차이를 비교합니다. 패러데이 법칙 계산을 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0594_ecELcxmJTk4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 전극 반응식 쓰기를 집중 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ featured_image: "/images/edu_0594_ecELcxmJTk4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 전기화학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>

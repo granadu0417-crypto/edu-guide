@@ -19,7 +19,7 @@ featured_image: "/images/edu_0288_jJFrkJP_-RA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제주 지역 과외 시장을 분석합니다. 거주 지역과 예산에 맞는 최적의 선생님을 추천합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 제주대 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0288_jJFrkJP_-RA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 화상 과외 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0288_jJFrkJP_-RA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 과외 환경 세팅을 도와드립니다. 온라인 수업에 적합한 학습 방법을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 과목별 과외 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0288_jJFrkJP_-RA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목과 학년에 맞는 선생님을 추천합니다. 학습 목표에 따라 커리큘럼을 설계합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 과외와 학원 병행 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0288_jJFrkJP_-RA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 과외 병행 계획을 세웁니다. 비용 대비 효과를 극대화하는 방법을 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

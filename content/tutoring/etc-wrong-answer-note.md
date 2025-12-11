@@ -19,7 +19,7 @@ featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 오답 패턴을 분석합니다. 효과적인 오답노트 작성법을 안내합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 오답노트가 필요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트의 중요성과 효과를 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 오답노트 작성법
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 작성 방법을 단계별로 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 틀린 이유 분류
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 이유를 분류해서 대책을 세웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 오답노트 활용법
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 활용 방법을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,7 +96,7 @@ featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 현재 오답 정리 습관을 점검하고 개선 방법을 안내드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문

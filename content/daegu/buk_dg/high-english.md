@@ -10,14 +10,13 @@ tags:
   - 북구영어과외
   - 북구고등영어
 ---
-
-주제문이 어디 있는지 모르겠다면, 주제문 찾기 능력이 필요합니다.
+늦지 않았습니다. 영어, 지금 시작하세요.
 
 북구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 북구고, 복현고, 대구공고 시험에서 주제 파악 문제가 자주 출제됩니다. 문단의 핵심 문장을 빠르게 찾는 것이 독해의 기본입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문단 구조를 분석합니다. 주제문이 주로 나오는 위치를 파악합니다.
+성적표만 보지 않습니다. 실제로 문제를 풀면서 어디서 막히는지 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장의 역할을 구분합니다. 주장인지 예시인지 판단하는 훈련을 합니다.
+문제를 풀다 막히면 힌트를 조금씩 줍니다. 스스로 깨달아야 기억에 남습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-북구고, 복현고 기출에서 주제 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 주제 파악 전략을 점진적으로 심화합니다.
+내신과 수능, 어느 하나도 소홀히 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -106,4 +105,4 @@ tags:
 
 ## 마무리
 
-북구에서 주제문이 안 보인다면 구조 분석 훈련이 필요합니다. 주제가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 자신감, 되찾을 수 있습니다.

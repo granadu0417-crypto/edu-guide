@@ -26,7 +26,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고조선의 건국과 발전을 정리합니다. 8조법에서 당시 사회를 읽어냅니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 고조선의 성립과 발전
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고조선의 대표 유물을 사진으로 확인합니다. 단군 조선에서 위만 조선까지 흐름을 정리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 여러 나라의 성장
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 나라의 위치를 지도로 확인합니다. 각 나라의 풍습과 제천 행사를 비교합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 풍습과 제천 행사
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제천 행사 이름과 나라를 연결합니다. 특이한 풍습의 의미를 설명합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 나라와 풍습 연결 문제를 집중 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 고조선과 여러 나라를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>

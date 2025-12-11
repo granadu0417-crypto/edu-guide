@@ -24,7 +24,7 @@ featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 공부 패턴을 분석합니다. 어디서 시간이 낭비되는지 파악하고 효율적인 방법을 알려드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 공부 시간 배분
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 공부 시간대를 찾습니다. 집중력이 높은 시간에 어려운 내용을 학습하도록 조언합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 단계별 시간 배분
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념과 문제와 복습의 시간 배분을 조정합니다. 학생 상황에 맞는 최적의 비율을 찾습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시험 시간 관리
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 시간 배분을 연습합니다. 시험 때 당황하지 않도록 시간 감각을 키웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 집중력 관리
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 집중 패턴을 파악합니다. 집중력이 떨어질 때 어떻게 회복하는지 방법을 알려드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시간 낭비 유형과 해결
@@ -113,6 +113,6 @@ featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 전략을 맞춤 지도합니다. 효율적인 학습으로 단기간에 성적을 올릴 수 있습니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 

@@ -25,7 +25,7 @@ featured_image: "/images/edu_0556_qB0erAjz70U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수열의 기초 개념부터 확실히 잡아줍니다. 등차와 등비의 차이를 직관적으로 이해시킵니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 등차수열
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0556_qB0erAjz70U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-등차수열 공식을 암기시키고 다양한 문제에 적용하는 연습을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 등비수열
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0556_qB0erAjz70U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-등비수열과 등차수열의 차이를 명확히 비교합니다. r이 1일 때와 아닐 때를 구분하여 지도합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시그마 계산
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0556_qB0erAjz70U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시그마 기본 공식을 완벽히 암기시킵니다. 복잡한 식을 분리하여 계산하는 방법을 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 계차수열과 점화식
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0556_qB0erAjz70U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계차수열과 점화식의 풀이 패턴을 정리합니다. 유형별 접근법을 체계적으로 연습시킵니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -118,6 +118,6 @@ n에 1과 2와 3을 대입해보세요. 실제 값과 일치하면 정답일 가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수열 전 범위를 체계적으로 정리합니다. 패턴 파악 능력과 공식 활용 능력을 함께 키워드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 

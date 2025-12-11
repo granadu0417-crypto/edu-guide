@@ -26,7 +26,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정당의 정의와 기능을 먼저 설명합니다. 이익 집단, 시민 단체와의 차이를 비교합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 정당의 기능
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정당의 다양한 기능을 구체적 사례로 설명합니다. 여당과 야당의 역할 차이를 비교합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 정당 제도
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-양당제와 다당제의 장단점을 비교합니다. 각 제도를 채택한 국가 사례를 분석합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 정당과 선거
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정당과 선거의 관계를 설명합니다. 지역구 선거와 비례대표 선거의 차이를 정리합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 정당 정치의 과제
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현대 정당 정치의 문제점과 개선 방안을 토론합니다. 바람직한 정당 정치의 방향을 생각합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시험 대비
@@ -115,5 +115,5 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 정당을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>

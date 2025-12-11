@@ -22,12 +22,11 @@ tags:
   - 백양고
 featured_image: "/images/edu_0018.jpg"
 ---
-
-중학교 때는 잘했는데, 지금은 왜 안 되는 걸까요? 고양시 덕양구 원신동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+고등 수학, 개념부터 다시 잡아야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모든 수업은 진단에서 시작합니다. 학생의 현재 위치를 파악하고, 목표까지의 로드맵을 설계합니다.
+첫 수업에서 학생의 실력을 정밀 진단합니다. 개념 이해도, 계산 정확도, 문제 해결 속도를 파악하고 부족한 부분부터 채워갑니다.
 </div>
 
 ## 왜 고등학교만 오면 수학이 어려울까?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 3주 전부터는 내신에 올인합니다. 그 외 기간에는 수능형 문제로 실력을 키웁니다.
+풀이 과정을 깔끔하게 정리하는 연습을 합니다. 서술형 점수도 올리고, 실수도 줄입니다.
 </div>
 
 ## 백양고 시험 경향과 대비법
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 유형별로 정리하여 반복 훈련합니다. 비슷한 문제가 나오면 바로 풀 수 있도록 합니다.
+학교 시험은 정보전입니다. 시험에 대한 정보를 바탕으로 효율적으로 대비합니다.
 </div>
 
 ## 수능 고득점의 비밀
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 3번 다시 풉니다. 1번은 바로 다음 날, 1번은 1주일 후, 1번은 시험 전에.
+수시를 노린다면 내신이 중요하고, 정시를 노린다면 수능이 중요합니다. 목표에 맞춰 비중을 조절합니다.
 </div>
 
 ## 학원에서 안 되는 것, 과외에서 됩니다
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0018.jpg"
 
 ## 마무리
 
-원신동 고등학생을 위한 맞춤 수학 과외, 지금 시작하세요.
+덕양구 학생 여러분, 성적 향상의 시작, 무료 상담으로 첫걸음을 떼세요.

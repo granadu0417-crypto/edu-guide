@@ -10,14 +10,13 @@ tags:
   - 옹진군영어과외
   - 옹진군중등영어
 ---
-
-He made me clean과 He made me to clean 중 뭐가 맞는지 헷갈린다면, 사역동사력이 필요합니다.
+영어 때문에 고민이신가요?
 
 옹진군에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 영흥고, 옹진고 시험에서 사역동사 문제가 자주 출제됩니다. make, let, have 뒤에는 to 없이 동사원형이 온다는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사역동사 규칙을 체계적으로 정리합니다. 목적격 보어 형태를 훈련합니다.
+수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ He made me clean과 He made me to clean 중 뭐가 맞는지 헷갈린다면, �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사역동사와 get을 정리합니다. 형태 구분을 훈련합니다.
+개념 이해 없이 문제만 풀면 한계가 있습니다. 기본기를 탄탄히 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ He made me clean과 He made me to clean 중 뭐가 맞는지 헷갈린다면, �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영흥고, 옹진고 기출에서 사역동사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+서술형 비중이 높은 학교는 풀이 과정을 깔끔하게 쓰는 연습을 합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ He made me clean과 He made me to clean 중 뭐가 맞는지 헷갈린다면, �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 사역동사력을 점진적으로 심화합니다.
+내신 기간에는 학교 시험에 집중합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -164,5 +163,5 @@ He made me clean과 He made me to clean 중 뭐가 맞는지 헷갈린다면, �
 
 ## 마무리
 
-옹진군에서 사역동사가 어렵다면 형태 암기가 필요합니다. 규칙이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 전문 선생님과 함께하세요.
 

@@ -21,7 +21,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 특성에 맞춰 수업합니다. 저학년은 재미있게 게임처럼, 고학년은 체계적으로 계획표대로 진행합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작은 성취도 크게 칭찬합니다. 성공 경험이 쌓이면 공부가 즐거워집니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 약한 부분을 집중 보완합니다. 모든 걸 다 잘할 필요 없습니다. 부족한 부분부터 채우면 됩니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학년별 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-저학년은 15분씩 쉬어가며, 고학년은 30분 집중 후 휴식합니다. 학년에 맞는 집중 시간을 고려합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정에서 해야 할 복습 내용을 구체적으로 안내합니다. 막연히 복습하라가 아니라 오늘 배운 내용 5분 다시 읽기처럼 명확하게 알려드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 주의사항

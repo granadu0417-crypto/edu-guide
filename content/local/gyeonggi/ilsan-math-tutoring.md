@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일산 지역 학교들의 출제 경향을 철저히 분석하여 맞춤 수업을 진행합니다. 학원의 체계적 진도 관리와 과외의 개인별 약점 보완을 병행할 수 있도록 커리큘럼을 설계합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ### 1기 신도시의 안정적 교육 환경
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-구체물과 보드게임을 활용해 수 개념을 형성합니다. 무조건적인 암기가 아닌 원리 이해 중심으로 수업하여, 수학적 사고력의 기초를 탄탄히 다집니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 고학년이 되면 분수, 소수, 도형 등 추상적 개념이 등장합니다. 이 시기에 개념을 확실히 잡아야 중학교 수학에서 어려움을 겪지 않습니다.
@@ -61,7 +61,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서와 익힘책을 완벽히 분석하여 내신 100점을 목표로 합니다. 개념의 직관적 이해와 논리적 사고력을 함께 키워드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 일산 중학교 내신은 고등학교 진학과 직결됩니다. 중3 때는 중등 수학을 총정리하고, 이차방정식·이차함수를 완벽히 이해한 후 고등 수학 선행을 시작해야 합니다.
@@ -78,7 +78,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 철저히 분석하여 출제 패턴을 파악합니다. 서술형 문제 대비와 실수 방지 훈련으로 1등급을 목표로 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 고2부터는 미적분, 확률과 통계, 기하 등 심화 과목과 함께 수능 대비를 병행해야 합니다. 수능 기출문제를 반복 풀이하며 시간 관리와 실전 감각을 익혀야 합니다.
@@ -93,7 +93,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일산 지역 학교들의 시험 경향을 잘 아는 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ### 선택 시 체크리스트
@@ -111,7 +111,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용을 심화 복습하거나, 부족한 부분을 집중 보완하는 맞춤 커리큘럼을 제공합니다. 학부모님께는 정기적으로 학습 상태를 피드백드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ### 오답 노트 활용법

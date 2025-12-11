@@ -26,7 +26,7 @@ featured_image: "/images/edu_0712_RZgDCQA1g60.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도시화의 개념과 과정을 먼저 설명합니다. 한국의 도시화 과정을 사례로 분석합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 도시화 과정
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0712_RZgDCQA1g60.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도시화 곡선을 통해 단계별 특징을 이해합니다. 선진국과 개발도상국의 도시화를 비교합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 도시 구조
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0712_RZgDCQA1g60.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동심원 모델과 선형 모델을 비교합니다. 실제 도시의 구조를 사례로 분석합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 도시 문제
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0712_RZgDCQA1g60.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도시 문제의 원인과 해결책을 분석합니다. 지속 가능한 도시 발전 방안을 토론합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 한국의 도시화
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0712_RZgDCQA1g60.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한국의 도시화 통계를 분석합니다. 수도권 집중의 원인과 대책을 정리합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "/images/edu_0712_RZgDCQA1g60.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 도시를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>

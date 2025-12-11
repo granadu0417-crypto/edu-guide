@@ -22,12 +22,11 @@ tags:
   - 주엽중
 featured_image: "/images/edu_0015.jpg"
 ---
-
-중학교 영어의 벽, 함께 넘어봅시다. 고양시 일산서구 주엽1동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어는 혼자 공부하기 어려운 과목입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실력 진단 없이 수업하면 시간만 낭비됩니다. 체계적인 진단으로 효율적인 학습 경로를 설계합니다.
+학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾고, 그 부분을 집중 공략합니다.
 </div>
 
 ## 중학교 영어, 무엇이 달라질까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험과 고등 선행을 균형 있게 준비합니다. 내신을 잡으면서 고등 기초도 함께 다집니다.
+문제를 풀다 막히면 힌트를 조금씩 줍니다. 스스로 깨달아야 기억에 남습니다.
 </div>
 
 ## 주엽중 내신, 이것만 알면 됩니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험 범위에 맞춰 집중 대비합니다. 범위 외 내용으로 시간 낭비하지 않습니다.
+시험의 난이도 분포를 알고 있습니다. 어떤 문제에서 시간을 쓸지 전략을 세웁니다.
 </div>
 
 ## 고등학교 영어 대비
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답률이 높은 문제부터 우선 해결합니다. 자주 틀리는 유형을 집중 공략합니다.
+내신 기간에는 기출 중심으로, 수능 시즌에는 평가원 기출 중심으로 진행합니다.
 </div>
 
 ## 맞춤형 수업이 필요한 학생
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0015.jpg"
 
 ## 마무리
 
-내신 대비, 전문 선생님과 함께하세요.
+일산서구 학생 여러분, 혼자 고민하지 마세요. 함께하면 달라집니다.

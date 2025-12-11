@@ -19,7 +19,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 일본어 회화 수준을 먼저 체크합니다. 발음, 유창성, 어휘력을 파악합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 회화가 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실생활에서 쓰는 자연스러운 표현을 가르칩니다. 교과서 표현과 실제 표현의 차이를 알려드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 실전 대화 연습법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 상황에서 대화 연습을 합니다. 실제로 쓸 수 있는 표현을 익힙니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 발음과 억양 다듬기
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발음을 바로바로 교정합니다. 원어민에 가까운 발음을 목표로 합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 실용 표현 익히기
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상황별 필수 표현을 정리해드립니다. 바로 쓸 수 있는 표현 위주로 배웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대화 위주로 수업합니다. 말하는 시간을 최대한 확보합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 목표와 비용을 안내드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문

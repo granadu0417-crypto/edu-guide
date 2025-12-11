@@ -26,7 +26,7 @@ featured_image: "/images/edu_0707_0hWNJP-hMOE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동남아시아의 위치와 기후 특성을 먼저 파악합니다. 주요 국가의 특징을 비교합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 동남아시아의 역사
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0707_0hWNJP-hMOE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동남아 고대 왕국들의 특징을 정리합니다. 종교 전파 과정과 문화 영향을 분석합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 식민 지배와 독립
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0707_0hWNJP-hMOE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-식민 지배 국가와 피식민 지역을 정리합니다. 각 국가의 독립 과정을 비교합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 아세안과 현대 동남아
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0707_0hWNJP-hMOE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아세안의 결성 배경과 역할을 정리합니다. 한-아세안 관계의 중요성을 분석합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 동남아의 문화와 경제
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0707_0hWNJP-hMOE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동남아 국가별 경제 특징을 비교합니다. 문화 다양성의 배경을 분석합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "/images/edu_0707_0hWNJP-hMOE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 동남아시아를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>

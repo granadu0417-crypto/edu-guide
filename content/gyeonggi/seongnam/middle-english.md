@@ -14,12 +14,11 @@ tags:
   - 성남시영어과외
   - 성남시중등영어
 ---
-
-성남시 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다.
+중학생이라면 알아야 할 영어 공부법이 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 어휘, 독해, 듣기 각 영역의 수준을 파악합니다.
+문제를 푸는 과정을 옆에서 지켜봅니다. 어떤 생각으로 접근하는지, 어디서 막히는지 확인합니다.
 </div>
 
 ## 성남시 중학교 영어가 중요한 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 본문을 완벽히 이해한 후, 변형 문제에 대응하는 연습을 합니다.
+공식만 알면 기본 문제는 풉니다. 하지만 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 성남시 주요 중학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 영어 기출문제를 수집하여 출제 패턴을 분석합니다. 학교별 맞춤 대비 전략을 세웁니다.
+학교 시험은 교과서와 프린트에서 나옵니다. 꼼꼼하게 분석하여 출제 포인트를 짚어드립니다.
 </div>
 
 ## 영역별 학습 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법, 독해, 어휘를 균형있게 학습합니다. 학생의 약한 영역에 더 많은 시간을 배분합니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
 </div>
 
 
@@ -114,6 +113,6 @@ tags:
 
 ## 마무리
 
-성남시 중등학생 여러분, 영어 성적 향상이 필요하시다면 지금 시작하세요.
+성남시 학생 여러분, 검증된 과외, 지금 문의하세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

@@ -26,7 +26,7 @@ featured_image: "/images/edu_0701_vo1-fS8rqcQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종교개혁의 배경부터 설명합니다. 교회의 타락과 개혁의 필요성을 이해합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 종교개혁의 배경
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0701_vo1-fS8rqcQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면벌부의 의미와 문제점을 설명합니다. 교회 부패의 구체적 사례를 분석합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 루터의 종교개혁
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0701_vo1-fS8rqcQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-루터의 핵심 주장을 정리합니다. 가톨릭과 루터교의 차이를 비교합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 칼뱅의 종교개혁
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0701_vo1-fS8rqcQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-칼뱅의 예정설을 설명합니다. 루터와 칼뱅의 주장을 비교합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 종교개혁의 결과
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0701_vo1-fS8rqcQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종교개혁의 결과와 영향을 정리합니다. 근대 사회와의 연결점을 분석합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 대비
@@ -131,5 +131,5 @@ featured_image: "/images/edu_0701_vo1-fS8rqcQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 종교개혁을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

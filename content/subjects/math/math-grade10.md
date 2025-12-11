@@ -23,7 +23,7 @@ featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 수학과 연결하면서 개념을 확장합니다. 새로운 개념에 적응하도록 차근차근 설명합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 다항식과 방정식
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다항식 계산을 정확히 연습시킵니다. 인수분해와 방정식의 관계를 명확히 이해시킵니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 도형의 방정식과 집합
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좌표기하와 논리를 체계적으로 정리합니다. 증명 문제에 대비한 논리적 사고를 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 함수와 경우의 수
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수의 정의를 정확히 이해시킵니다. 순열과 조합의 차이를 문제로 확인합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학습 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 속도에 맞춰 개념을 정리합니다. 기본기를 탄탄히 다져 고2로의 연결을 준비합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1 전 과정을 체계적으로 정리합니다. 탄탄한 기초 위에 고2 수학을 준비시킵니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 

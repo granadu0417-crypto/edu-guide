@@ -19,7 +19,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외에서 배운 내용을 혼자 정리하는 시간을 꼭 확보하게 합니다. 수업 시간에 복습 방법까지 알려주고 다음 수업에서 확인합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자기주도학습이 중요한 이유
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외의 목표는 결국 혼자 공부할 수 있게 만드는 것입니다. 점차 선생님 의존도를 낮추고 스스로 계획하고 실행하도록 유도합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자기주도학습 3단계
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시간에 함께 주간 계획을 세웁니다. 계획대로 실행했는지 다음 수업에서 점검하고 안 된 부분은 왜 안 됐는지 함께 분석합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학년별 전략
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 혼자 공부하는 방법을 구체적으로 알려줍니다. 노트 정리법, 암기법, 문제 풀이법을 직접 시연하고 따라 하게 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자기주도학습 실패 원인과 해결
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0036_svnLIZ6jgCQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계획을 못 지킨 이유를 함께 분석합니다. 계획이 과했는지, 동기가 부족한지, 방해 요소가 있었는지 파악하고 다음 주 계획에 반영합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}

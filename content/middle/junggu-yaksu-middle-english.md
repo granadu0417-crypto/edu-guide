@@ -28,7 +28,7 @@ What he said is true에서 what이 왜 "-한 것"으로 해석되는지, which�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 관계대명사 what의 이해 수준을 진단합니다. what의 쓰임, the thing which와의 관계를 체계적으로 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 관계대명사 what이 어려운 이유
@@ -39,7 +39,7 @@ what을 이해하려면 what절이 문장에서 명사 역할을 한다는 것�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-what절이 문장에서 어떤 역할을 하는지 분석합니다. what을 the thing which로 바꾸는 연습을 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 장충중·대경중·장원중 영어 시험의 특징
@@ -52,7 +52,7 @@ what절이 문장에서 어떤 역할을 하는지 분석합니다. what을 the 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·대경중·장원중 기출 관계대명사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ what절이 문장에서 어떤 역할을 하는지 분석합니다. what을 the 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 what절을 사용한 문장을 만들어보게 합니다. what절의 역할을 설명하는 훈련을 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,7 +76,7 @@ what절이 문장에서 어떤 역할을 하는지 분석합니다. what을 the 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 관계대명사 내용을 정확히 이해합니다. 관계대명사를 자유롭게 활용하는 능력을 키웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ what절이 문장에서 어떤 역할을 하는지 분석합니다. what을 the 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 관계대명사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}

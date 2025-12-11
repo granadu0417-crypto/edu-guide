@@ -20,7 +20,7 @@ featured_image: "/images/edu_0460_eMP4sYPJ9x0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-향가의 기본 개념과 형식을 정리합니다. 주요 작품을 체계적으로 분석합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 향가의 형식
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0460_eMP4sYPJ9x0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-향가의 구조별 특징을 정리합니다. 대표 작품을 구체별로 분류합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 주요 작품 분석
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0460_eMP4sYPJ9x0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 작품의 배경과 주제를 분석합니다. 현대어 풀이와 함께 이해를 돕습니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 향찰의 이해
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0460_eMP4sYPJ9x0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-향찰 표기의 원리를 설명합니다. 현대어 해석을 통해 작품을 이해합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0460_eMP4sYPJ9x0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 작품별 출제 포인트를 정리합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -121,5 +121,5 @@ featured_image: "/images/edu_0460_eMP4sYPJ9x0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 향가를 체계적으로 학습합니다. 작품 분석과 문제 풀이를 함께 진행합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>

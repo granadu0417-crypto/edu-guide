@@ -26,7 +26,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선거의 4대 원칙을 설명합니다. 각 원칙의 의미와 중요성을 실제 사례와 연결합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 선거의 기본 원칙
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선거 원칙 위반 사례를 분석합니다. 원칙을 지켜야 하는 이유를 토론합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 선거 제도의 유형
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 선거 제도의 장단점을 비교합니다. 우리나라 선거 제도와 연결하여 이해합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 우리나라의 선거
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-우리나라 선거 종류별 특징을 정리합니다. 선거 과정과 절차를 설명합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 선거 제도 비교 문제를 집중 훈련합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,5 +111,5 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 선거를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

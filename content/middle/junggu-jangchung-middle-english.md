@@ -28,7 +28,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 관계대명사의 계속적 용법 이해 수준을 진단합니다. 제한적 용법과 계속적 용법의 차이, 콤마의 역할을 체계적으로 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 관계대명사의 계속적 용법이 어려운 이유
@@ -39,7 +39,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제한적 용법과 계속적 용법의 의미 차이를 정확히 구분합니다. 콤마의 유무에 따른 해석 연습을 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 장충중·장원중·대경중 영어 시험의 특징
@@ -52,7 +52,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·장원중·대경중 기출 관계대명사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 관계대명사 문장을 만들어보게 합니다. 콤마를 넣을지 말지 판단하는 훈련을 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,7 +76,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 관계사 내용을 정확히 이해합니다. 관계사를 자유롭게 활용하는 능력을 키웁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 관계대명사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 {{< cta-dual type="final" >}}

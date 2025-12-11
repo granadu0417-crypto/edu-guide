@@ -19,7 +19,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선행의 목적은 학교 수업 이해도를 높이는 것입니다. 개념 이해 위주로 40-50%만 선행하고, 나머지는 학교에서 완성합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 선행학습의 장단점은 무엇인가요?
@@ -30,7 +30,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선행은 개념 이해가 우선입니다. 빨리 진도 나가는 것보다 충분히 이해하고 넘어가는 것이 중요합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 적정 선행 범위는 얼마인가요?
@@ -41,7 +41,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 선행은 개념 이해와 기본 문제까지만 진행합니다. 심화 문제는 학교 수업 후에 풀어야 효과적입니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과목별 선행 전략은 어떻게 다른가요?
@@ -56,7 +56,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학은 중2부터 선행이 효과적입니다. 개념과 용어를 미리 익히고 실험은 학교에서 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 언제 선행을 해야 하나요?
@@ -69,7 +69,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 시간 배분은 복습 40%, 선행 40%, 휴식 20%가 이상적입니다. 선행만 하면 안 되고 복습도 반드시 병행합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

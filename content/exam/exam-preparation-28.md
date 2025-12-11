@@ -19,7 +19,7 @@ featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사 대비 전략을 안내합니다. 시험 범위를 파악하고 효율적인 공부 계획을 세워드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 중간고사의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사의 의미와 중요성을 설명합니다. 학기 전체 성적 관리 관점에서 접근합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시험 범위 파악하기
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위와 출제 형식을 꼼꼼히 확인합니다. 애매한 부분은 먼저 파악하고 대비합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 2주 전 대비 계획
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2주 계획을 함께 세웁니다. 첫째 주 개념 완성, 둘째 주 문제 풀이로 체계적으로 대비합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 과목별 중간고사 전략
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 대비 전략을 안내합니다. 각 과목의 핵심을 짚어 효율적으로 준비합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 전날과 당일

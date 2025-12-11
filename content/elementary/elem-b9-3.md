@@ -20,7 +20,7 @@ featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학년은 재미있게가 원칙입니다. 놀이처럼 공부하면 공부가 즐거워집니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 핵심 학습 목표
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-잘했어! 할 수 있어!를 많이 들려줍니다. 작은 성취도 크게 칭찬합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학은 구체물을 사용합니다. 블록, 과자, 사탕으로 덧셈 뺄셈을 하면 재미있어합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 1학년의 특징과 대응
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-10분 공부하고 5분 쉬는 패턴으로 진행합니다. 짧게 자주가 1학년에게 맞습니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 가정에서의 역할
@@ -80,7 +80,7 @@ featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제할 때 옆에서 지켜봐줍니다. 1학년은 아직 혼자 하기 어렵습니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 주의사항

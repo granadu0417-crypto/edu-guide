@@ -18,7 +18,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목동 학원이나 과외를 시작하기 전에 학생의 현재 실력을 정확하게 진단합니다. 레벨 테스트를 3-5곳 응시해서 객관적인 실력을 파악한 후 적합한 학원이나 과외를 추천드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 목동 vs 대치동 비교
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학년과 목표에 따라 적합한 학원가 지역을 안내드립니다. 대형 학원이 좋을지, 중소형 전문 학원이 좋을지, 과외가 필요한지 맞춤 방향을 제시합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ### 목동 학원가 지도
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목동 학원 레벨 테스트를 3-5곳 응시해서 객관적인 실력을 파악합니다. 너무 높은 반 배정은 오히려 자신감을 잃을 수 있으니 현재 수준에 맞는 반에서 시작하는 것이 좋습니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 목동 학원 활용 전략
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 적정 학원 개수와 학습 시간을 안내드립니다. 과다 학원 등록은 소화 불가와 번아웃으로 이어집니다. 학원 2-3개로 제한하고 자기주도 학습 시간을 확보해야 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ### 고등학생 - 입시 전략 구체화
@@ -90,7 +90,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 학력보다 티칭 능력, 아이와의 케미, 체계적인 학습 계획, 학부모 소통을 확인합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 목동 입시 성과 분석
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력과 목표에 맞는 현실적인 학습 계획을 세웁니다. 무리한 목표보다 달성 가능한 단계별 목표를 설정해서 성취감을 느끼며 공부할 수 있도록 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문

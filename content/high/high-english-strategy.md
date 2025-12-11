@@ -15,7 +15,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점을 진단합니다. 어휘 부족인지, 독해 속도 문제인지, 문법이 약한지 파악하고 맞춤 전략을 세웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 어휘가 기초입니다
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 어휘 테스트로 암기 상태를 점검합니다. 자주 틀리는 단어를 따로 정리해서 집중 암기합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 독해 속도와 정확도
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 독해 전략을 가르칩니다. 주제 찾기, 빈칸 추론, 순서 배열 등 각 유형에 맞는 접근법을 연습합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 문법은 기출 중심으로
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출에서 자주 나오는 문법 포인트를 정리해드립니다. 실전 독해에서 문법을 어떻게 활용하는지 보여줍니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 듣기는 매일 연습
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0651_6vAjp0pscX0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-듣기 실전 연습과 함께 메모 기법을 가르칩니다. 실수하기 쉬운 유형을 집중적으로 훈련합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -26,7 +26,7 @@ featured_image: "/images/edu_0199_i5nMmbr8JYg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정 상황에 맞는 교육복지 제도를 안내해 드립니다. 신청 방법과 필요 서류도 함께 확인해 드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 교육복지 개요
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0199_i5nMmbr8JYg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소득 기준과 가구 유형에 따라 받을 수 있는 지원을 함께 확인합니다. 중복 지원이 가능한 경우도 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 초·중·고 교육비 지원
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0199_i5nMmbr8JYg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육비 지원과 교육급여는 중복 수령이 가능합니다. 같은 항목 중복은 불가하니 확인이 필요합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 방과후학교와 급식 지원
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0199_i5nMmbr8JYg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장학금 정보는 복지로, 학교 공지, 재단 홈페이지, 장학금 통합 사이트에서 확인하세요.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 특별 지원
@@ -134,5 +134,5 @@ featured_image: "/images/edu_0199_i5nMmbr8JYg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육복지 지원 관련 궁금한 점이 있으시면 상담을 통해 자세히 안내해 드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>

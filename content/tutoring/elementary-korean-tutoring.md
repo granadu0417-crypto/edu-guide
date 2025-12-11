@@ -19,7 +19,7 @@ featured_image: "/images/edu_0008_aHO7WtEUmTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 국어 실력을 진단합니다. 읽기 속도, 이해도, 어휘력, 글쓰기 능력을 체크하고 부족한 부분부터 보완합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 초등 국어에서 뭘 배우나요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0008_aHO7WtEUmTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 진도에 맞추되, 약한 영역은 추가로 보충합니다. 읽기, 쓰기, 어휘를 균형 있게 다룹니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 왜 국어 과외가 필요한가요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0008_aHO7WtEUmTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 풀고 틀린 것만 보는 게 아닙니다. 왜 그렇게 생각했는지 과정을 함께 점검합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 국어 과외 수업은 어떻게 진행되나요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0008_aHO7WtEUmTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 쓴 글을 꼼꼼히 첨삭합니다. 잘한 점은 칭찬하고, 고칠 점은 구체적으로 알려줍니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 국어 과외의 장점은 뭔가요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0008_aHO7WtEUmTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 학부모님께 진도와 아이 상태를 공유합니다. 가정에서 해주시면 좋은 것도 안내드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 좋은 국어 선생님의 조건은 뭔가요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0008_aHO7WtEUmTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 방식과 목표를 함께 정합니다. 아이와 잘 맞는지 확인하신 후 결정하세요.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 {{< cta-dual type="final" >}}

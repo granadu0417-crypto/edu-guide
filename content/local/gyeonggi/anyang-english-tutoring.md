@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평촌 학군의 특성을 잘 아는 선생님이 내신 1등급을 목표로 맞춤 수업을 진행합니다. 학교별 출제 경향 분석은 물론, 상위권 학생들과 경쟁할 수 있는 실력을 키워드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ### 풍부한 교육 인프라
@@ -48,7 +48,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 수준을 정확히 진단한 후, 또래보다 앞서갈 수 있는 맞춤 커리큘럼을 설계합니다. 리딩, 라이팅, 스피킹을 균형 있게 발전시켜드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 초등학생 영어 과외비는 주1회 기준 약 12만원 -  22만원, 주2회 기준 약 25만원 -  38만원 선입니다. 평촌 지역은 서울과 비슷하거나 약간 낮은 수준입니다.
@@ -61,7 +61,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 철저히 분석하여 출제 경향을 파악합니다. 특히 서술형 문제 대비를 위한 작문 연습을 강화하여, 빈틈없는 시험 준비를 도와드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 중3 때는 고등 영어 선행도 필수입니다. 수능 유형의 독해 문제에 미리 익숙해지고, 어휘력을 대폭 확장해야 합니다.
@@ -78,7 +78,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 입시 전략에 맞춰 내신과 수능의 비중을 조절합니다. 수시 중심이라면 내신에, 정시 중심이라면 수능에 집중하여 효율적인 학습을 진행합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 고등학생 영어 과외비는 주1회 기준 약 25만원 -  36만원, 주2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 약 28만원 -  40만원 정도입니다.
@@ -91,7 +91,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평촌 지역 학교들의 시험 경향을 잘 아는 선생님을 매칭해드립니다. 학교별 맞춤 전략으로 내신 등급 향상을 도와드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ### 선택 시 확인할 사항
@@ -109,7 +109,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 복습 과제와 다음 수업 예습 범위를 안내합니다. 학부모님께는 정기적으로 학습 피드백을 드려, 아이의 성장 과정을 함께 확인하실 수 있습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ### 원서 읽기와 리스닝 병행

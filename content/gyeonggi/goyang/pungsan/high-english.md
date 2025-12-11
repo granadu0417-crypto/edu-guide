@@ -22,12 +22,11 @@ tags:
   - 대진고
 featured_image: "/images/edu_0019.jpg"
 ---
-
-고등학교 영어의 벽, 함께 넘어봅시다. 고양시 일산동구 풍산동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+포기하기엔 아직 이릅니다. 영어도 마찬가지입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완할 수 있습니다.
+진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 정확히 파악한 후 수업을 시작합니다.
 </div>
 
 ## 고등 영어의 특징
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시를 노린다면 내신이 중요하고, 정시를 노린다면 수능이 중요합니다. 목표에 맞춰 비중을 조절합니다.
+개념 설명 후 바로 문제를 풀어봅니다. 알았다고 생각해도 막상 풀면 막히는 경우가 많습니다.
 </div>
 
 ## 대진고 내신, 어떻게 대비할까요?
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 시험 스타일을 파악합니다. 선생님마다 출제 경향이 다르기 때문입니다.
+출제 경향을 파악하고 있습니다. 그에 맞춰 준비합니다.
 </div>
 
 ## 수능 영어, 이렇게 대비하세요
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석은 성적 향상의 지름길입니다. 새 지문 10개 읽는 것보다 틀린 문제 1개 분석하는 게 낫습니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다. 학생마다 최적의 밸런스가 다릅니다.
 </div>
 
 ## 왜 1:1 과외가 효과적일까요?
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0019.jpg"
 
 ## 마무리
 
-영어 성적 향상의 시작, 무료 상담으로 첫걸음을 떼세요.
+일산동구 학생 여러분, 체계적인 1:1 수업으로 내신을 완벽 대비하세요.

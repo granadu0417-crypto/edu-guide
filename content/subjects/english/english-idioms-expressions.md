@@ -15,7 +15,7 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수준별 필수 관용표현을 선정합니다. 맥락과 사용법을 정확히 알려드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 주제별 관용표현
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주제별로 관용표현을 분류합니다. 연관된 표현을 함께 외워 효율을 높입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 학년별 학습
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞는 관용표현을 선별합니다. 단계적으로 어휘를 확장합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 효과적인 암기 전략
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기만 시키지 않습니다. 실전에서 활용하도록 대화와 글쓰기에 적용하는 연습을 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -67,6 +67,6 @@ featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관용표현 전문 1:1 과외로 자연스러운 영어 구사력을 키워드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 

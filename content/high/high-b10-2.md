@@ -22,7 +22,7 @@ featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 성적을 분석해서 적합한 학과를 함께 찾습니다. 막연한 고민을 구체적인 목표로 바꿔드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 진로 확정이 중요한 이유
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학과별 입시 정보를 함께 조사합니다. 어떤 전형이 유리한지, 어떤 활동이 필요한지 구체적으로 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학과 선택 방법
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 관련 책을 함께 읽고 토론합니다. 책 내용이 세특에 반영되면 생기부가 풍성해집니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학과 계열별 특징
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 희망 계열에 맞춰 필요한 준비를 구체적으로 안내합니다. 인문 계열이면 독서 활동을, 자연 계열이면 탐구 활동을 강화합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 고2 진로 활동 로드맵
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학기별 진로 활동 계획을 함께 세웁니다. 활동만 하고 기록을 못 남기면 소용없으니, 기록까지 챙깁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 주의사항

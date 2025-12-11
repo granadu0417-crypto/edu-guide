@@ -20,7 +20,7 @@ featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 영어 수준과 목표를 먼저 파악합니다. 시험 대비인지, 회화 위주인지에 따라 우선순위를 다르게 잡습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 문법과 회화, 뭐가 먼저인가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법을 배우면 그 문법을 사용해서 바로 문장을 만들어 봅니다. 배운 걸 바로 써먹어야 남습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 독해는 언제 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 지문을 같이 분석합니다. 문법이 어떻게 쓰였는지, 문장 구조가 어떻게 되는지 설명합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 회화는 과외로 어떻게 배우나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 영어로 대화하는 시간을 갖습니다. 처음에는 간단한 것부터, 점점 복잡한 대화로 늘려갑니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 회화와 문법 균형 잡힌 학습을 안내해 드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

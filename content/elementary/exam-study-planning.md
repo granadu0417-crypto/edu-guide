@@ -18,7 +18,7 @@ featured_image: "/images/edu_0136_fj2iLi2yCfU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터 학습 계획을 함께 세웁니다. 시험 범위를 확인하고 하루 학습량을 나눠서 부담 없이 준비합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 시험 2주 전 계획 세우기
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0136_fj2iLi2yCfU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현실적인 계획을 세웁니다. 하루 학습량을 적절히 조정해서 지치지 않고 꾸준히 할 수 있도록 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시험 1주일 전 본격 준비
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0136_fj2iLi2yCfU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 오답 노트에 정리합니다. 왜 틀렸는지 분석하고 다시 공부할 것을 적어서 같은 실수를 반복하지 않도록 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 시험 3일 전 마무리 단계
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0136_fj2iLi2yCfU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에 실전처럼 모의 시험을 봅니다. 시간 안에 푸는 연습을 해야 실제 시험에서 당황하지 않습니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시험 전날과 당일 전략
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0136_fj2iLi2yCfU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 후 틀린 문제를 함께 분석합니다. 왜 틀렸는지 파악하고 비슷한 문제를 다시 풀어보며 약점을 보완합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 과목별 시험 대비 팁

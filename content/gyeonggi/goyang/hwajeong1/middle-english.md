@@ -22,12 +22,11 @@ tags:
   - 화정중
 featured_image: "/images/edu_0005.jpg"
 ---
-
-영어는 방법만 알면 누구나 오를 수 있습니다. 고양시 덕양구 화정1동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어 1등급, 불가능한 꿈이 아닙니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완할 수 있습니다.
+학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾고, 그 부분을 집중 공략합니다.
 </div>
 
 ## 중학 영어의 특징
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 3년, 내신과 선행을 어떻게 배분할지 로드맵을 세워드립니다.
+문제를 풀다 막히면 힌트를 조금씩 줍니다. 스스로 깨달아야 기억에 남습니다.
 </div>
 
 ## 화정중 내신, 어떻게 대비할까요?
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 시험 스타일을 파악합니다. 선생님마다 출제 경향이 다르기 때문입니다.
+시험의 난이도 분포를 알고 있습니다. 어떤 문제에서 시간을 쓸지 전략을 세웁니다.
 </div>
 
 ## 고등학교 영어, 이렇게 대비하세요
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석은 성적 향상의 지름길입니다. 새 문제 10개 푸는 것보다 틀린 문제 1개 분석하는 게 낫습니다.
+내신 기간에는 기출 중심으로, 수능 시즌에는 평가원 기출 중심으로 진행합니다.
 </div>
 
 ## 왜 1:1 과외가 효과적일까요?
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0005.jpg"
 
 ## 마무리
 
-성적 향상도 가능합니다. 믿고 시작해 보세요.
+덕양구 학생 여러분, 전문 선생님과 함께하세요.

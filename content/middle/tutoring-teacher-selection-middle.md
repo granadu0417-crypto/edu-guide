@@ -15,7 +15,7 @@ featured_image: "/images/edu_0235_g4VGQWl8QDU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업을 통해 학생과의 궁합을 확인합니다. 설명 방식, 소통 능력, 수업 스타일을 직접 경험해보세요.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 좋은 선생님의 조건은 무엇인가요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0235_g4VGQWl8QDU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 눈높이에 맞춰 설명합니다. 이해될 때까지 다양한 방법으로 반복합니다. 정기적으로 부모님께 피드백드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 어디서 선생님을 찾나요?
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0235_g4VGQWl8QDU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업에서 학생의 현재 수준을 파악하고 맞춤 커리큘럼을 제안합니다. 수업 방식을 직접 경험해보세요.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 첫 상담에서 무엇을 물어봐야 하나요?
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0235_g4VGQWl8QDU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생 상황을 충분히 듣고 맞춤 계획을 제안합니다. 궁금한 점은 무엇이든 물어보세요.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 체험 수업에서 무엇을 봐야 하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0235_g4VGQWl8QDU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업에서 실제 수업과 동일하게 진행합니다. 학생 반응을 보고 맞춤형으로 조정합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문

@@ -10,14 +10,13 @@ tags:
   - 북구수학과외
   - 북구중등수학
 ---
-
-2x + 3 > 7을 풀 때 답이 x > 2인 이유를 모른다면, 부등식력이 필요합니다.
+수학 자신감, 되찾을 수 있습니다.
 
 북구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 북구고, 복현고, 대구공고 시험에서 부등식 문제가 자주 출제됩니다. 부등호의 방향과 성질을 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부등식 풀이법을 체계적으로 정리합니다. 부등호 방향을 훈련합니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법까지 종합 진단합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부등호 규칙을 정리합니다. 해의 범위를 훈련합니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-북구고, 복현고 기출에서 부등식 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+최근 3년 기출을 분석하여 출제 패턴을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 부등식력을 점진적으로 향상시킵니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 계획을 세웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -120,5 +119,5 @@ tags:
 
 ## 마무리
 
-북구에서 부등식이 어렵다면 부등호 방향 훈련이 필요합니다. 규칙이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 더 늦기 전에 시작하세요.
 

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0195_h3BWE-uMJUY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력을 정확히 진단합니다. 개념 이해도와 문제 풀이 능력을 파악하고 부족한 부분부터 채워갑니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 대전 지역 중학교 수학 내신 특징
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0195_h3BWE-uMJUY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 답안 작성법을 집중 훈련하고 부분 점수 전략까지 준비합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 대전 지역 고등학교 수학 내신 특징
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0195_h3BWE-uMJUY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 고난도 문제 풀이 전략을 익히고 시간 안에 정확하게 푸는 훈련을 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ### 대전일고, 대전중앙고 등 일반고
@@ -68,7 +68,7 @@ featured_image: "/images/edu_0195_h3BWE-uMJUY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 개념을 완벽히 정리합니다. 현재 학년 내용을 완전히 이해한 후 선행을 진행합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## KAIST와 충남대 과외 비교
@@ -79,7 +79,7 @@ KAIST 학생들은 수학 실력이 최상위권이고 심화 문제 풀이에 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 수준에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 대전 지역별 수학 교육 환경
@@ -88,7 +88,7 @@ KAIST 학생들은 수학 실력이 최상위권이고 심화 문제 풀이에 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육 환경을 분석합니다. 거주 지역과 예산을 고려해 최적의 방법을 찾아드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 효과적인 수학 과외 활용법
@@ -97,7 +97,7 @@ KAIST 학생들은 수학 실력이 최상위권이고 심화 문제 풀이에 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 후 복습 방법을 안내합니다. 오답 노트 작성법과 자기주도 학습 습관을 함께 만들어갑니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과외 비용 안내
@@ -114,7 +114,7 @@ KAIST 학생들은 수학 실력이 최상위권이고 심화 문제 풀이에 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 횟수와 시간은 학생 상황에 맞게 조율합니다. 예산에 맞는 최적의 수업 방식을 찾아드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

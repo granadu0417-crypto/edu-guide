@@ -10,14 +10,13 @@ tags:
   - 옹진군영어과외
   - 옹진군고등영어
 ---
-
-이 글의 목적이 무엇인지 파악하기 어렵다면, 글의 목적력이 필요합니다.
+영어는 꾸준함이 답입니다. 지금 시작하세요.
 
 옹진군에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 영흥고, 옹진고 시험에서 글의 목적 문제가 자주 출제됩니다. 글쓴이가 왜 이 글을 썼는지 파악하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글의 목적 유형을 정리합니다. 감사, 요청, 불만, 홍보 등 주요 목적을 파악하는 훈련을 합니다.
+모든 수업은 진단에서 시작합니다. 현재 위치를 파악하고 로드맵을 설계합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목적별 표현 패턴을 정리합니다. 핵심 동사와 문장 구조를 훈련합니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영흥고, 옹진고 기출에서 목적 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 글의 목적력을 점진적으로 심화합니다.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,5 +117,5 @@ tags:
 
 ## 마무리
 
-옹진군에서 글의 목적이 어렵다면 추론 훈련이 필요합니다. 의도가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 어렵다고 피하면 계속 어렵습니다.
 

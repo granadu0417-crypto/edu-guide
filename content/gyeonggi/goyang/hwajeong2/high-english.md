@@ -22,12 +22,11 @@ tags:
   - 화정고
 featured_image: "/images/edu_0005.jpg"
 ---
-
-늦지 않았습니다. 지금 시작하세요. 고양시 덕양구 화정2동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+고등학생이라면 알아야 할 영어 공부법이 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어휘가 부족한지, 문법이 약한지, 시간 관리가 문제인지 정확히 진단합니다. 원인을 알아야 해결됩니다.
+모든 수업은 진단에서 시작합니다. 학생의 현재 위치를 파악하고, 목표까지의 로드맵을 설계합니다.
 </div>
 
 ## 왜 고등학교에서 영어가 어려워질까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행하는 방법을 알려드립니다.
+문제 풀이 시간을 재면서 연습합니다. 실전에서는 시간이 촉박하기 때문입니다.
 </div>
 
 ## 화정고 시험의 특징과 대비법
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화정고 최근 3년 기출을 분석하여 출제 패턴을 파악합니다. 예상 문제까지 준비합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 고난도 독해 정복하기
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 틀렸을 때가 배움의 기회입니다. 왜 틀렸는지 깊이 파고듭니다.
+1, 2학년은 내신에 집중하면서 기초를 쌓고, 3학년은 본격적으로 수능 대비에 들어갑니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0005.jpg"
 
 ## 마무리
 
-영어 때문에 대학 못 가면 억울하지 않나요? 지금 시작하세요.
+덕양구 학생 여러분, 검증된 과외, 지금 문의하세요.

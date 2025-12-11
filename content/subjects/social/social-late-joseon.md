@@ -26,7 +26,7 @@ featured_image: "/images/edu_0683_nxJgmZfLcJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-양난 이후 사회 변화를 정리합니다. 정치, 경제, 문화 변화를 연결합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 정치 변화
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0683_nxJgmZfLcJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-붕당정치에서 세도정치까지의 흐름을 정리합니다. 탕평정치의 내용을 설명합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 경제 변화
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0683_nxJgmZfLcJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-농업과 상업의 변화를 비교합니다. 세제 개혁의 내용과 의의를 정리합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 실학의 발달
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0683_nxJgmZfLcJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중농학파와 중상학파를 비교합니다. 주요 실학자의 주장을 정리합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 서민 문화의 성장
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0683_nxJgmZfLcJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서민 문화의 종류와 특징을 정리합니다. 대표 작품과 작가를 연결합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 대비
@@ -131,5 +131,5 @@ featured_image: "/images/edu_0683_nxJgmZfLcJI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 조선 후기를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>

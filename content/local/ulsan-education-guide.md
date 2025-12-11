@@ -19,7 +19,7 @@ featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 거주 지역과 목표에 맞는 교육 환경을 분석합니다. 울산 지역 특성에 맞춘 학습 전략을 안내합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 울산 교육의 강점과 약점
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-울산 교육의 강점을 최대한 활용하는 방법을 안내합니다. 약점을 보완할 수 있는 대안도 함께 제시합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 울산 주요 교육 지역
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-거주 지역의 교육 환경을 분석합니다. 지역별 학원과 과외 선택지를 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 울산 대학생 과외 시장
@@ -50,7 +50,7 @@ UNIST생 과외는 전국 최상위 이공계 학생에게 수학과 과학 심�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 수준에 맞는 대학생 과외 선생님을 연결합니다. UNIST나 울산대 또는 부산 대학 중 적합한 선택지를 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 교육 전략
@@ -59,7 +59,7 @@ UNIST생 과외는 전국 최상위 이공계 학생에게 수학과 과학 심�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞는 학습 로드맵을 제시합니다. 울산 지역 특성을 반영한 입시 전략을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 울산 주요 학교 분석
@@ -74,7 +74,7 @@ UNIST생 과외는 전국 최상위 이공계 학생에게 수학과 과학 심�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 시험 특성과 출제 경향을 분석합니다. 선생님별 문제 스타일까지 파악해 맞춤 내신 대비를 진행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문

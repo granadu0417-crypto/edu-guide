@@ -15,7 +15,7 @@ featured_image: "/images/edu_0969_DmeZC9riGkk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어도 방법이 있습니다. 독해, 문법, 문학 중 어디가 약한지 진단하고 맞춤 전략을 세웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 국어가 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0969_DmeZC9riGkk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 국어 실력을 영역별로 진단합니다. 독해, 문법, 문학 중 약한 부분을 집중적으로 보완합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 문학은 어떻게 공부하나요?
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0969_DmeZC9riGkk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 작품을 심층 분석합니다. 시, 소설, 수필의 핵심 요소를 체계적으로 정리합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 비문학 독해는 어떻게 하나요?
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0969_DmeZC9riGkk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문 독해 전략을 가르칩니다. 문제 유형별로 접근법을 연습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 문법은 꼭 해야 하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0969_DmeZC9riGkk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 개념을 체계적으로 정리합니다. 품사 판별, 문장 성분 분석 연습을 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

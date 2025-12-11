@@ -21,7 +21,7 @@ featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 성적과 성향을 분석합니다. 어떤 유형의 고등학교가 유리한지 객관적으로 판단해드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 고등학교 유형별 특징
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 유형의 장단점을 상세히 설명합니다. 학생의 상황에 맞는 선택지를 추천합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 내신과 학교 선택의 관계
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 등급과 앞으로의 성장 가능성을 고려합니다. 현실적인 조언을 드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 고교 선택을 위한 준비
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고교 입시 일정에 맞춰 준비합니다. 놓치기 쉬운 부분까지 꼼꼼히 챙깁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자기소개서와 면접
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기소개서 작성을 도와드립니다. 면접 예상 질문으로 실전 연습을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 떨어져도 괜찮습니다
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-결과에 상관없이 학생이 최선을 다할 수 있도록 멘탈 관리도 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}

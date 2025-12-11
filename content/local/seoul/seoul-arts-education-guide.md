@@ -18,7 +18,7 @@ featured_image: "/images/edu_0364_5QgIuuBxKwM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 교육 상담에서 먼저 아이의 흥미와 재능을 파악합니다. 단순 취미인지, 입시를 목표로 하는지에 따라 방향이 완전히 달라집니다. 아이의 성향에 맞는 최적의 교육 계획을 함께 세워드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 예체능 교육의 이해
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0364_5QgIuuBxKwM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 연령과 발달 단계에 맞는 예체능 교육 계획을 제안드립니다. 너무 이른 시작은 흥미를 잃게 하고, 너무 늦은 시작은 입시에 불리합니다. 적정 시기를 함께 고민합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 음악 교육 가이드
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0364_5QgIuuBxKwM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-음악 입시를 목표로 한다면 레슨 선생님과 학원을 신중하게 선택해야 합니다. 입시에 강한 선생님을 연결해드리고, 콩쿠르 준비까지 함께 계획합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ### 서울 음악 학원 추천 지역
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0364_5QgIuuBxKwM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미술 교육의 목적에 따라 적합한 학원 유형을 추천합니다. 취미로 배우는데 입시 미술 학원에 보내면 아이가 힘들어하고, 입시 목표인데 창의 미술만 하면 시간을 낭비합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ### 미술 입시 준비
@@ -96,7 +96,7 @@ featured_image: "/images/edu_0364_5QgIuuBxKwM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체육은 아이의 신체 조건과 성향을 고려해야 합니다. 키가 큰 아이, 유연한 아이, 순발력 있는 아이에게 적합한 종목이 다릅니다. 아이의 특성에 맞는 종목을 함께 찾아드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 체육 입시 준비
@@ -117,7 +117,7 @@ featured_image: "/images/edu_0364_5QgIuuBxKwM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능과 학업 병행은 철저한 시간 관리가 필요합니다. 학생의 상황에 맞는 시간표를 함께 짜고, 효율적인 학습 방법을 안내드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

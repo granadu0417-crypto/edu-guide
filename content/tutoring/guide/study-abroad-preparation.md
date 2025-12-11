@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해외 유학 경험이 있는 선생님을 매칭해 드립니다. 실제 경험을 바탕으로 실질적인 조언을 드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 국내 입시랑 무엇이 다른가요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국내 입시와 유학 준비를 비교해서 학생에게 맞는 방향을 제안해 드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 어떤 시험을 준비해야 하나요?
@@ -50,7 +50,7 @@ AP는 고급 과목 시험입니다. 수학, 과학, 인문학 등을 고등학�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-SAT, TOEFL 목표 점수에 맞춰 학습 계획을 세웁니다. 시험별 전략을 맞춤 지도해 드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 언제부터 준비해야 하나요?
@@ -75,7 +75,7 @@ SAT 1400점 이상을 받으려면 영어 원서를 자유롭게 읽는 수준�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 영어 수준을 진단하고 단계별 학습 계획을 세웁니다. 스피킹과 라이팅 집중 훈련을 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학원이랑 1대1 과외 중 뭐가 좋나요?
@@ -88,7 +88,7 @@ SAT 1400점 이상을 받으려면 영어 원서를 자유롭게 읽는 수준�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용을 1대1 과외로 보완해 드립니다. 에세이 첨삭과 면접 준비도 함께 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 에세이는 어떻게 준비하나요?
@@ -115,7 +115,7 @@ SAT 1400점 이상을 받으려면 영어 원서를 자유롭게 읽는 수준�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유학 준비 전반에 대해 상담해 드립니다. 필요한 시험, 일정, 활동까지 종합적으로 조언해 드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 마무리

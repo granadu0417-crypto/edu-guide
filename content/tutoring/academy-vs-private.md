@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 성향과 현재 실력을 파악합니다. 학원형인지 과외형인지 판단해서 맞는 방식을 추천해 드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학원의 장점은 무엇인가요?
@@ -38,7 +38,7 @@ featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원처럼 체계적인 커리큘럼을 따르면서도, 1대1로 학생 속도에 맞춰 진행합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학원의 단점은 무엇인가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점을 정확히 파악해서 그 부분만 집중 보완합니다. 불필요한 시간 낭비 없이 효율적으로 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과외의 단점은 무엇인가요?
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중간중간 목표를 세우고 달성 여부를 확인합니다. 동기부여가 떨어지지 않도록 관리합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 어떤 학생이 학원에 맞나요?
@@ -91,7 +91,7 @@ featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 직전에는 시험 범위 위주로 집중 학습합니다. 빈출 유형과 약점 단원을 우선 공략합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과목별로 다르게 선택할 수 있나요?
@@ -122,7 +122,7 @@ featured_image: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 학습 방법을 상담해 드립니다. 학원과 과외 중 뭐가 맞는지 함께 판단해 드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 마무리

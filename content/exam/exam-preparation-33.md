@@ -19,7 +19,7 @@ featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성을 분석하고 맞춤 학습 전략을 세웁니다. 같은 시간을 공부해도 더 효과적인 결과를 얻을 수 있도록 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 과목별 전략이 필요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 출제 유형을 분석합니다. 어떤 능력이 필요한지 파악하고 그에 맞는 훈련을 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 국어 시험 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 지문 분석법을 연습합니다. 문학과 비문학 각각의 접근법을 익히고 실전에 적용합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 수학 시험 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 개념을 정확히 이해하고 문제에 적용하는 연습을 합니다. 실수 패턴을 분석하고 줄이는 훈련을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 영어 시험 전략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 어휘, 문법, 독해를 균형 있게 훈련합니다. 부족한 영역을 집중적으로 보완합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 사회/과학 시험 전략
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기 과목의 효율적인 학습법을 안내합니다. 이해와 암기를 병행하여 오래 기억할 수 있도록 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 과목별 시간 배분

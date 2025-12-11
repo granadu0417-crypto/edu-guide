@@ -25,7 +25,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-변인의 종류를 실제 실험 사례로 설명합니다. 독립-종속-통제 변인을 정확히 구분하는 훈련을 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 실험 설계의 원리
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대조 실험의 원리를 다양한 예시로 설명합니다. 실험 설계 문제를 단계별로 풀어봅니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 그래프 해석 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 유형의 그래프를 분석합니다. 경향성 파악과 결론 도출을 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 결과 분석과 결론 도출
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 보고서 작성법을 익힙니다. 결론을 논리적으로 서술하는 방법을 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시험 대비
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 분석합니다. 실전 문제 풀이로 감각을 익힙니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -126,5 +126,5 @@ featured_image: "/images/edu_0626_hXLkFpvKRys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 탐구 능력을 완벽히 키웁니다. 약점 진단과 집중 훈련을 함께합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>

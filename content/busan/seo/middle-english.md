@@ -10,14 +10,13 @@ tags:
   - 서구영어과외
   - 서구중등영어
 ---
-
-Don't be late.와 Not be late. 중 뭐가 맞는지 헷갈린다면, 명령문력이 필요합니다.
+중학생이라면 알아야 할 영어 공부법이 있습니다.
 
 서구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 서구고, 부산공고, 서여고 시험에서 명령문 문제가 자주 출제됩니다. 긍정 명령문과 부정 명령문의 형태를 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명령문 규칙을 체계적으로 정리합니다. 동사원형으로 시작하는 규칙을 훈련합니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완됩니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ Don't be late.와 Not be late. 중 뭐가 맞는지 헷갈린다면, 명령문�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긍정/부정 명령문을 정리합니다. 문장 변환을 반복 훈련합니다.
+어려운 문제도 기본 개념의 조합입니다. 기본기가 탄탄하면 풀 수 있습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ Don't be late.와 Not be late. 중 뭐가 맞는지 헷갈린다면, 명령문�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서구고, 부산공고 기출에서 명령문 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ Don't be late.와 Not be late. 중 뭐가 맞는지 헷갈린다면, 명령문�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 명령문력을 점진적으로 심화합니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -120,5 +119,5 @@ Don't be late.와 Not be late. 중 뭐가 맞는지 헷갈린다면, 명령문�
 
 ## 마무리
 
-서구에서 명령문이 어렵다면 형태 훈련이 필요합니다. 규칙이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 검증된 과외, 지금 문의하세요.
 

@@ -10,14 +10,13 @@ tags:
   - 강릉시수학과외
   - 강릉시중등수학
 ---
-
-x = (-b ± √(b²-4ac)) / 2a가 뭔지 모른다면, 근의 공식력이 필요합니다.
+늦지 않았습니다. 지금 시작하세요.
 
 강릉시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 강릉고, 명륜고, 강릉중앙고 시험에서 근의 공식 문제가 자주 출제됩니다. 이차방정식의 해를 공식으로 구하는 방법을 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-근의 공식을 체계적으로 정리합니다. 대입과 계산을 훈련합니다.
+첫 만남에서 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ x = (-b ± √(b²-4ac)) / 2a가 뭔지 모른다면, 근의 공식력이 필요
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-판별식을 정리합니다. 근의 개수 판단을 훈련합니다.
+개념을 완벽히 이해한 후, 다양한 유형의 문제를 훈련합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ x = (-b ± √(b²-4ac)) / 2a가 뭔지 모른다면, 근의 공식력이 필요
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강릉고, 명륜고 기출에서 근의 공식 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시간 대비 문제 양이 많은 학교가 있습니다. 빠르게 푸는 연습도 합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ x = (-b ± √(b²-4ac)) / 2a가 뭔지 모른다면, 근의 공식력이 필요
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 근의 공식력을 점진적으로 향상시킵니다.
+수시와 정시, 어느 쪽에 무게를 둘지에 따라 전략이 달라집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -164,5 +163,5 @@ x = (-b ± √(b²-4ac)) / 2a가 뭔지 모른다면, 근의 공식력이 필요
 
 ## 마무리
 
-강릉시에서 근의 공식이 어렵다면 대입 훈련이 필요합니다. 공식이 익숙해지면 수학이 쉬워집니다.
+ 학생 여러분, 효율적으로 병행하는 방법을 알려드립니다.
 

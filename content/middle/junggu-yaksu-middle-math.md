@@ -28,7 +28,7 @@ featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 연립방정식의 이해 수준을 진단합니다. 대입법과 가감법의 차이, 계수 맞추기, 검산까지 체계적으로 훈련합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 연립방정식 가감법이 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가감법의 원리를 정확히 이해합니다. 어떤 문자를 소거할지 판단하는 연습을 반복합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 장충중·대경중·장원중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·대경중·장원중 기출 연립방정식 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 풀이 방법을 선택하고 문제를 풀게 합니다. 왜 그 방법을 선택했는지 설명하는 훈련을 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 방정식 내용을 정확히 이해합니다. 방정식을 자유롭게 다루는 능력을 키웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 방정식 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}

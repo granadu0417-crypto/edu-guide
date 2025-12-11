@@ -19,7 +19,7 @@ featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사를 단순 점수 확인이 아닌 학습 도구로 활용합니다. 오답 분석, 시간 배분, 실전 감각을 키우는 방법을 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 모의고사의 역할
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사의 의미와 활용법을 설명합니다. 점수에 일희일비하지 않고 실력 향상의 도구로 사용하도록 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 모의고사 분석 방법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 분석을 함께 합니다. 틀린 원인을 파악하고 보완할 부분을 찾아 다음 시험에 반영합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 실전 감각 유지하기
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 감각을 유지하는 방법을 안내합니다. 정기적인 모의고사 풀이와 분석을 통해 수능 당일까지 감각을 유지합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시간 배분 연습
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 배분 전략을 훈련합니다. 모의고사를 풀면서 효율적인 시간 사용법을 체득할 수 있도록 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 모의고사 점수 해석

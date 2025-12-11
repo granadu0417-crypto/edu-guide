@@ -19,7 +19,7 @@ featured_image: "/images/edu_0291_VMPhyAoVqqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전남 지역 교육 환경을 분석합니다. 거주 지역과 예산에 맞는 최적의 교육 방법을 안내합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0291_VMPhyAoVqqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 찾습니다. 광주 대학생이 필요한지 지역 대학생으로 충분한지 판단합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 지역별 학원 특성
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0291_VMPhyAoVqqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학원과 과외 시장을 파악합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 온라인 교육 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0291_VMPhyAoVqqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인 병행 전략을 안내합니다. 비용을 절감하면서 효과를 극대화하는 방법을 찾아드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 학년별 교육 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0291_VMPhyAoVqqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 전략을 안내합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문

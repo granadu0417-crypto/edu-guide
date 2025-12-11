@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험을 망친 학생은 먼저 원인을 파악합니다. 개념 부족인지, 실수인지, 시간 부족인지 정확히 진단한 후 복구 계획을 함께 세웁니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 직후 24시간 안에 할 일은요?
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험지를 가져오면 함께 분석합니다. 어떤 유형에서 틀렸는지 파악하고, 맞춤 복구 계획을 수립합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 왜 시험을 망쳤는지 분석해야 하나요?
@@ -56,7 +56,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 복구가 목표인 학생은 단기 집중 과외를 진행합니다. 주 2-3회 수업으로 빠르게 약점을 보완합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과목별로 어떻게 복구하나요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 병행하는 학생은 학원에서 부족한 부분을 집중적으로 보완합니다. 중복되지 않게 효율적으로 수업합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 멘탈 관리는 어떻게 하나요?
@@ -88,7 +88,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-멘탈이 힘든 학생에게는 학습뿐 아니라 심리적 지지도 함께 합니다. 작은 성공 경험을 쌓으면서 자신감을 회복하도록 도와드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문

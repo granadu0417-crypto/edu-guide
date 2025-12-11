@@ -20,7 +20,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 함께 분석합니다. 점수 변동의 원인을 찾고 취약 유형을 파악해서 안정적인 실력을 만들어갑니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 모의고사의 진짜 목적
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 단순히 점수로만 보지 않습니다. 영역별, 유형별 분석을 통해 구체적인 보완 계획을 세웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 점수 변동의 원인
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-점수 변동 원인을 함께 분석합니다. 실력 문제인지, 컨디션 문제인지, 시간 관리 문제인지 파악하고 개선 방법을 찾습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 실전 감각 유지하는 법
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 실전 모의고사를 봅니다. 실제 시험과 동일한 조건에서 연습하여 수능 당일 긴장을 줄입니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 오답 분석 제대로 하기
@@ -72,7 +72,7 @@ featured_image: "/images/edu_0201_r2WhdAwJPxM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 함께 진행합니다. 틀린 이유를 명확히 파악하고 같은 유형 문제로 반복 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 등급별 전략

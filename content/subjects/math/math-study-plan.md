@@ -25,7 +25,7 @@ featured_image: "/images/edu_0562_rccbptXljzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력과 목표를 분석합니다. 실현 가능한 학습 계획을 함께 세우고 지속적으로 점검합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 좋은 계획의 조건
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0562_rccbptXljzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-막연한 계획이 아닌 구체적인 계획을 세웁니다. 학생이 실천 가능한 수준으로 조정합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 목표 설정과 현재 파악
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0562_rccbptXljzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 점수에 맞는 계획을 수립합니다. 무리한 목표보다 단계적으로 달성 가능한 목표를 설정합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 기간별 계획
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0562_rccbptXljzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학기별로 맞춤 로드맵을 제공합니다. 시험 일정에 맞춰 계획을 조정합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 주간과 일일 계획
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0562_rccbptXljzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 점검을 통해 계획 실천 여부를 확인합니다. 학생 상황에 맞게 유연하게 조정합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 흔한 실수와 해결
@@ -126,6 +126,6 @@ featured_image: "/images/edu_0562_rccbptXljzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 계획 수립부터 실천 점검까지 체계적으로 관리합니다. 학생 맞춤 계획으로 효율적인 학습을 도와드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 

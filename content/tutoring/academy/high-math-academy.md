@@ -24,7 +24,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수학 수준을 먼저 파악합니다. 내신이 급한지, 수능이 급한지에 따라 수업 방향이 달라집니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 고등 수학학원은 어떤 유형이 있나요?
@@ -37,7 +37,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 학원 유형을 상담에서 안내해 드립니다. 내신형인지, 수능형인지 파악한 후 추천합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 내신이랑 수능, 뭐부터 해야 하나요?
@@ -50,7 +50,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 내신과 수능의 비중을 조절해서 수업합니다. 시험 일정에 맞춰 유연하게 대응합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 수능 수학은 어떻게 공부해야 하나요?
@@ -73,7 +73,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 수업을 설계합니다. 학원에서 못 따라간 부분을 과외에서 잡습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 학원 선택할 때 뭘 확인해야 하나요?
@@ -88,7 +88,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 수학 학습에 대해 궁금한 점이 있으시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

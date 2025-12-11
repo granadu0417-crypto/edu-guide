@@ -25,7 +25,7 @@ featured_image: "/images/edu_0569_sG2EggQLl14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 문제 푸는 방법을 체계적으로 가르칩니다. 채점 기준을 이해시켜 점수 받는 서술을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 문장제 해결 전략
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0569_sG2EggQLl14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 분석하는 방법을 알려줍니다. 조건을 정리하고 전략을 세우는 과정을 함께 연습합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 풀이 과정 작성
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0569_sG2EggQLl14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정을 실시간으로 관찰하며 교정합니다. 점수 받는 서술 형식을 익히도록 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 부분 점수 전략
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0569_sG2EggQLl14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 채점 기준을 설명합니다. 부분 점수를 최대화하는 전략을 알려드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 실수 줄이기
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0569_sG2EggQLl14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실수 패턴을 분석합니다. 같은 실수를 반복하지 않도록 즉각 피드백을 제공합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -86,6 +86,6 @@ featured_image: "/images/edu_0569_sG2EggQLl14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형을 체계적으로 훈련합니다. 채점 기준 학습과 즉각 피드백으로 서술형 고득점을 달성시킵니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 

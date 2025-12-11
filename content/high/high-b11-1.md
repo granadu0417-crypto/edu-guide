@@ -21,7 +21,7 @@ featured_image: "/images/edu_0618_hzYlOPm3frA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 시험 전에 학교별 출제 경향을 분석합니다. 선배들의 기출문제를 구해서 어떤 유형이 나오는지 파악합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 고등 내신의 특징
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0618_hzYlOPm3frA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 시험 문제를 미리 풀어봅니다. 중학교 때와 얼마나 다른지 체감하면 위기감이 생기고 준비할 수 있습니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 내신 시험 대비 4주 계획
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0618_hzYlOPm3frA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4주 계획표를 함께 세우고 매주 점검합니다. 계획대로 안 되면 조정하면서 갑니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과목별 내신 전략
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0618_hzYlOPm3frA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 시험에 자주 나오는 유형을 정리해줍니다. 유형을 알면 준비가 쉬워집니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시험 당일 전략
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0618_hzYlOPm3frA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에 시간 맞춰 연습 시험을 봅니다. 실전 감각을 익히면 당황하지 않습니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 주의사항

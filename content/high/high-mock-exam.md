@@ -15,7 +15,7 @@ featured_image: "/images/edu_0674_0mdZEhiEK-M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 함께 분석합니다. 오답 원인을 파악하고 약점 영역을 집중 보완합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 모의고사의 종류와 중요성
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0674_0mdZEhiEK-M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 일정에 맞춰 학습 계획을 세웁니다. 특히 평가원 모의고사를 중점적으로 분석합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 체계적인 오답 분석
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0674_0mdZEhiEK-M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 원인을 함께 분석합니다. 유형별 대응 전략을 세우고 유사 문제로 보완 학습을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 영역별 분석 방법
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0674_0mdZEhiEK-M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 강약점을 분석합니다. 약점 영역에 맞는 학습 계획을 수립합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 시간 배분과 실전 감각
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0674_0mdZEhiEK-M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사를 진행하고 시간 배분을 점검합니다. 효율적인 풀이 순서를 함께 찾습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문

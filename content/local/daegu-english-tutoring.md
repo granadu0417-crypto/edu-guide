@@ -21,7 +21,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 정확히 진단합니다. 문법, 독해, 어휘, 듣기 중 어느 부분이 약한지 파악하고 맞춤 수업을 진행합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 대구 지역 중학교 영어 내신 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 영작 훈련을 집중적으로 하고, 자주 틀리는 문법을 정리합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 대구 지역 고등학교 영어 내신 특징
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 다양한 주제의 지문을 읽어 독해력을 키우고, 추론 문제 풀이 전략을 익힙니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ### 수성구 일반고
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 다른 커리큘럼을 적용합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 대구 지역별 교육 특성
@@ -89,7 +89,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육 환경을 분석합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -100,7 +100,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업 후 결정할 수 있도록 도와드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 수능 영어 대비 전략

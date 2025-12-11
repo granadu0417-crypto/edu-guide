@@ -19,7 +19,7 @@ featured_image: "/images/edu_0020_604JVKk-WZM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 수학 실력과 경시대회 경험을 파악합니다. 목표가 영재교육원인지, KMO인지, 일반 경시대회인지 확인합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 올림피아드가 뭔가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0020_604JVKk-WZM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 문제 풀이가 아닌 수학적 사고력을 기릅니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 올림피아드 준비는 어떻게 하나요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0020_604JVKk-WZM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제 분석과 유사 문제 풀이를 반복합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 왜 올림피아드 과외가 필요한가요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0020_604JVKk-WZM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 과정을 설명하게 합니다. 설명할 수 있어야 완전히 이해한 것입니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 올림피아드 과외의 장점은 뭔가요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0020_604JVKk-WZM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대회 직전에는 모의고사와 시간 훈련을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 좋은 올림피아드 선생님의 조건은 뭔가요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0020_604JVKk-WZM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 선생님의 경시대회 경력과 지도 경험을 확인하세요.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}

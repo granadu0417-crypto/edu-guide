@@ -25,7 +25,7 @@ featured_image: "/images/edu_0563_Vdoz_CbxB4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수준을 정확히 파악하여 맞춤 문제집을 추천합니다. 서점에서 혼자 고르지 않아도 됩니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 수준별 선택
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0563_Vdoz_CbxB4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 문제집을 단계별로 추천합니다. 너무 쉽거나 어려운 문제집으로 시간 낭비하지 않습니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 시기별 선택
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0563_Vdoz_CbxB4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기에 맞는 문제집을 추천합니다. 내신 시험 전과 방학 때 다른 전략으로 접근합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 문제집 선택 기준
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0563_Vdoz_CbxB4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해설이 좋은 문제집을 추천합니다. 학생이 혼자서도 복습할 수 있는 교재를 선택합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 효과적인 활용법
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0563_Vdoz_CbxB4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제집 활용법까지 지도합니다. 한 권을 어떻게 완벽히 소화하는지 방법을 알려드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 주의사항
@@ -126,6 +126,6 @@ featured_image: "/images/edu_0563_Vdoz_CbxB4g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인 수준에 맞는 문제집을 추천하고 효과적인 활용법까지 지도합니다. 문제집 선택 고민을 해결해드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 

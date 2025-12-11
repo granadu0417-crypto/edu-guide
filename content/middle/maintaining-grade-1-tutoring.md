@@ -18,7 +18,7 @@ featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1등급 학생에게는 기본 설명 대신 심화 문제와 전략에 집중합니다. 개념은 이미 아니까 더 높은 수준을 목표로 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 1등급을 잃는 이유
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 학생의 컨디션을 확인합니다. 지쳐 보이면 무리하게 밀어붙이지 않습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 심리 관리가 핵심입니다
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에 긴장이 심하면 마음을 가라앉히는 시간을 갖습니다. 수업이 아니라 대화가 필요할 때도 있습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 학습 전략
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 이미 아는 내용은 빠르게 넘어갑니다. 시간을 절약해서 심화 문제에 더 투자합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 준비 루틴
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전 마지막 수업에서는 새로운 내용을 가르치지 않습니다. 정리와 점검에 집중합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 번아웃 예방
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 지쳐 보이면 과외 횟수를 줄이자고 먼저 제안합니다. 무리하면 역효과입니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 실수 최소화

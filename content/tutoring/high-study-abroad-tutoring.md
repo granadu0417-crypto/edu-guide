@@ -19,7 +19,7 @@ featured_image: "/images/edu_0090_ORDz1m1-q0I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 국가와 대학을 파악합니다. 필요한 준비가 무엇인지 분석합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 해외 대학 입시의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0090_ORDz1m1-q0I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해외 대학 입시의 전체 그림을 알려드립니다. 무엇을 준비해야 하는지 안내합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시험 준비
@@ -45,7 +45,7 @@ AP를 준비합니다. AP 성적이 있으면 유리합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필요한 시험을 분석하고 맞춤 대비를 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 에세이와 활동 준비
@@ -58,7 +58,7 @@ AP를 준비합니다. AP 성적이 있으면 유리합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-에세이 작성을 도와드립니다. 첨삭을 통해 완성도를 높입니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ AP를 준비합니다. AP 성적이 있으면 유리합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해외 대학 합격을 위한 모든 것을 준비합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ AP를 준비합니다. AP 성적이 있으면 유리합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 목표를 파악하고 유학 준비 전략을 안내드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

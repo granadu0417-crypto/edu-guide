@@ -19,7 +19,7 @@ featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-맞춤법의 기본 원리를 정리합니다. 자주 틀리는 유형을 집중 훈련합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 소리와 형태
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소리와 형태의 관계를 설명합니다. 원리로 맞춤법을 이해합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 헷갈리는 표기
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헷갈리는 표기를 정리합니다. 구분 방법을 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 사잇소리 현상
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사이시옷 규정을 정리합니다. 자주 나오는 단어를 익힙니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 유형을 파악하고 보완합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 맞춤법을 완벽히 익힙니다. 원리 이해와 실전 연습을 함께합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>

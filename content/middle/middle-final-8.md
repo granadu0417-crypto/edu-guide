@@ -21,7 +21,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단편적인 암기가 아닌 흐름 중심으로 가르칩니다. 인과관계를 이해하면 기억이 오래갑니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 역사 공부법
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 연표를 함께 정리합니다. 사건 간의 인과관계를 명확히 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 지리 공부법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지도를 활용해서 수업합니다. 지역의 특성을 연결해서 이해하게 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 일반사회 공부법
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실생활 예시와 연결해서 설명합니다. 어려운 개념도 쉽게 이해하도록 돕습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자료 해석 능력
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 자료를 함께 분석합니다. 자료 해석 능력을 키워 시험에 대비합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 내신 사회 시험 대비
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위의 핵심 개념을 정리합니다. 서술형 문제 대비를 철저히 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

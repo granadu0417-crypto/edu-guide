@@ -26,7 +26,7 @@ featured_image: "/images/edu_0553_W0ylMM-xED0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작년 모의고사와 수능 성적을 철저히 분석합니다. 어느 단원에서 틀렸는지, 왜 틀렸는지 원인을 정확히 진단합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시기별 학습 전략
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0553_W0ylMM-xED0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별 맞춤 커리큘럼을 제공합니다. 학생의 목표 점수와 현재 실력에 맞춰 계획을 세웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 점수대별 전략
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0553_W0ylMM-xED0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 점수에 맞는 전략을 제시합니다. 무리한 목표보다 실현 가능한 단계별 목표를 설정합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 멘탈 관리
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0553_W0ylMM-xED0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중 멘탈 상태도 체크합니다. 동기부여와 심리적 지지를 제공하며 슬럼프 극복을 돕습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 오답 활용법
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0553_W0ylMM-xED0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작년 오답을 철저히 분석합니다. 같은 유형을 반복 연습하여 같은 실수를 하지 않도록 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,6 +111,6 @@ featured_image: "/images/edu_0553_W0ylMM-xED0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-재수생 특화 커리큘럼으로 1년 만에 목표 달성을 돕습니다. 학습과 멘탈 모두 체계적으로 관리합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 

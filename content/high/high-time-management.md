@@ -15,7 +15,7 @@ featured_image: "/images/edu_0702_tyIfU4epeC8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 하루 시간 사용을 분석합니다. 낭비되는 시간을 찾고 공부 시간을 확보합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 우선순위 설정하기
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0702_tyIfU4epeC8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-우선순위를 정하는 방법을 가르칩니다. 시간 낭비 요소를 파악하고 제거 방법을 알려드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 타임 블로킹 활용하기
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0702_tyIfU4epeC8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 시간표를 함께 만듭니다. 매주 점검하고 필요하면 조정합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 시간 도둑 제거하기
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0702_tyIfU4epeC8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스마트폰 차단 방법을 알려드립니다. 실천 가능한 계획을 세우도록 도와드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시험 기간 시간 관리
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0702_tyIfU4epeC8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간 시간 배분을 세웁니다. 과목별 시간을 정하고 실천 여부를 점검합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문

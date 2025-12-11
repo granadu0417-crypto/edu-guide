@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 상황을 정기적으로 점검합니다. 성적이 안 오르면 원인을 분석하고, 방법을 바꿔봅니다. 솔직한 소통으로 함께 해결책을 찾습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 교체해야 하는 신호예요
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 불편하면 말해달라고 먼저 이야기합니다. 안 맞으면 서로 시간 낭비니까요. 솔직한 피드백을 환영합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 조금 더 지켜봐야 하는 경우예요
@@ -55,7 +55,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님의 요청에 열린 마음으로 응합니다. 진도 조절, 숙제량 조절, 수업 방식 변경 등 피드백을 반영해서 개선합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 교체할 때 이렇게 하세요
@@ -66,7 +66,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-새로 시작할 때 이전 과외에서 어떤 점이 아쉬웠는지 말해주세요. 같은 실수를 반복하지 않도록 참고하겠습니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 교체 후 적응 전략이에요
@@ -77,7 +77,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-처음에는 서로 알아가는 시간이 필요합니다. 1개월 정도 지나면 학생의 패턴을 파악하고 맞춤형 수업이 가능해집니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 바꾸면 문제예요

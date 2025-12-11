@@ -10,14 +10,13 @@ tags:
   - 북구영어과외
   - 북구고등영어
 ---
-
-긴 지문을 읽고 세부 내용을 파악하기 어렵다면, 장문독해력이 필요합니다.
+영어 시험은 특별한 대비가 필요합니다.
 
 북구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 북구고, 울산과학고, 매곡고 시험에서 장문 독해 문제가 자주 출제됩니다. 긴 지문에서 필요한 정보를 빠르게 찾는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장문 독해 전략을 익힙니다. 스키밍과 스캐닝 기법을 훈련합니다.
+첫 수업에서 학생과 충분히 대화합니다. 공부 습관과 목표를 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정보 찾기 기법을 정리합니다. 키워드 중심의 빠른 독해를 훈련합니다.
+공식만 알면 기본 문제는 풉니다. 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-북구고, 울산과학고 기출에서 장문 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 장문독해력을 점진적으로 심화합니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,5 +117,5 @@ tags:
 
 ## 마무리
 
-북구에서 장문 독해가 어렵다면 전략 훈련이 필요합니다. 속도가 붙으면 영어가 쉬워집니다.
+ 학생 여러분, 지금 바로 잡으세요.
 

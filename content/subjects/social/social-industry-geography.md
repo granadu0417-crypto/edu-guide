@@ -26,7 +26,7 @@ featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-산업의 분류와 특징을 정리합니다. 산업 구조 변화를 그래프와 함께 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 1차 산업
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1차 산업의 종류와 특징을 설명합니다. 기후와 산업의 관계를 분석합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 2차 산업과 공업 입지
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공업 입지 유형을 비교표로 정리합니다. 한국의 주요 공업 지역을 지도와 함께 익힙니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 3차 산업
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3차 산업의 종류와 특징을 정리합니다. 산업 구조 변화와 연결하여 설명합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 산업 구조의 변화
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국가별 산업 구조를 비교합니다. 산업 구조 그래프 해석법을 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시험 대비
@@ -115,5 +115,5 @@ featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 산업을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>

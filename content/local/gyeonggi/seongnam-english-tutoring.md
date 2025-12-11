@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 영어 수준을 정확히 진단한 후, 취약 영역을 집중 보완하는 맞춤 커리큘럼을 설계합니다. 분당 지역 학교들의 높은 내신 난이도에 맞춰 철저히 대비합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ### 판교 테크노밸리 학부모의 높은 교육열
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파닉스 게임과 영어 동요, 그림책을 활용해 아이가 영어를 '놀이'처럼 느끼게 합니다. 분당 지역 학부모님들의 높은 기대에 맞춰 체계적인 커리큘럼으로 기초를 탄탄히 다집니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 고학년이 되면 챕터북 읽기를 통해 독해력을 기르고, 기초 문법을 자연스럽게 익히는 것이 좋습니다. 분당에서는 초등 때부터 영어 레벨이 높은 학생들이 많으므로, 차별화된 학습이 필요합니다.
@@ -61,7 +61,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 진도에 맞춘 내신 대비와 함께, 헷갈리기 쉬운 문법을 아이 눈높이에서 쉽게 설명합니다. 분당 지역 학교별 출제 경향을 분석하여 서술형 문제 대비를 강화합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 중3 때는 고등 영어 준비를 시작해야 합니다. 독해 속도를 높이고, 어휘력을 확장하며, 수능 유형의 문제에 미리 익숙해지는 것이 중요합니다.
@@ -78,7 +78,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 분석하여 내신 시험에 최적화된 수업을 진행합니다. 8학군의 치열한 경쟁에서 우위를 점할 수 있도록 킬러 문항 대비에 집중합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 고2부터는 본격적으로 수능 영어를 준비해야 합니다. EBS 연계 교재를 바탕으로 실전 감각을 익히고, 고난도 독해 문제와 빈칸 추론 문제를 집중적으로 훈련합니다.
@@ -93,7 +93,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 목표와 현재 수준에 맞는 최적의 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ### 선택 시 체크리스트
@@ -111,7 +111,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용을 심화 복습하거나, 부족한 부분을 집중 보완하는 맞춤 커리큘럼을 제공합니다. 학부모님께는 정기적으로 학습 상태를 피드백드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ### 원서 읽기를 꾸준히

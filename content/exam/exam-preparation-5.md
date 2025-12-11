@@ -21,7 +21,7 @@ featured_image: "/images/edu_0190_uIJ_SJpp-Fw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별, 선생님별 출제 경향을 먼저 분석합니다. 기출문제를 꼼꼼히 살펴보고 어떤 유형이 자주 나오는지 파악한 후 맞춤 대비를 시작합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 학교별 출제 경향 파악하기
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0190_uIJ_SJpp-Fw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해당 학교 기출문제를 함께 분석합니다. 출제 패턴을 파악하고 자주 나오는 유형을 집중적으로 연습합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 교과서 vs 프린트 vs 문제집
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0190_uIJ_SJpp-Fw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님의 출제 스타일에 맞춰 학습 자료를 선별합니다. 불필요한 공부는 줄이고 효율적으로 시험 범위를 완성합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 서술형 문제 대비
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0190_uIJ_SJpp-Fw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 집중적으로 연습합니다. 채점 기준에 맞는 표현과 논리적 구성을 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 시험 기간 시간 관리
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0190_uIJ_SJpp-Fw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 과목별 학습 계획을 세웁니다. 무리하지 않으면서 모든 과목을 균형 있게 준비합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 오답 노트의 힘

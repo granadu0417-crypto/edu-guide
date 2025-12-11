@@ -19,7 +19,7 @@ featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 한국사 기초 지식을 먼저 확인합니다. 어느 시대에서 막히는지, 흐름은 잡혀 있는지 진단합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 한국사가 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 흐름을 먼저 잡습니다. 큰 그림을 그린 후 세부 사항을 채워갑니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 시대별 핵심 정리
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-출제 빈도가 높은 시대에 더 많은 시간을 투자합니다. 효율적으로 공부합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 만점 전략
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석하면서 출제자의 의도를 파악합니다. 함정을 피하는 방법을 알려드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 과외의 장점
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업마다 지난 내용을 복습하고 새로운 내용으로 넘어갑니다. 기억에 오래 남습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 목표와 비용을 안내드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문

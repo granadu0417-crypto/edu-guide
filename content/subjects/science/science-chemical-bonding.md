@@ -19,7 +19,7 @@ featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원자 구조 복습부터 시작합니다. 전자 배치를 기반으로 결합 유형을 이해하도록 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 이온결합
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이온결합 형성 과정을 단계별로 설명합니다. 이온 결정의 성질과 연결합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 공유결합
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공유 전자쌍과 비공유 전자쌍을 구분합니다. 루이스 구조식 그리기를 연습합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 금속결합
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-금속결합의 특성을 물질의 성질과 연결합니다. 세 결합의 차이를 비교표로 정리합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 분석합니다. 오답 원인을 파악하고 보완합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 화학 결합을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>

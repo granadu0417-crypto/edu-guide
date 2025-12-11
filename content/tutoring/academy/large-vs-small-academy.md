@@ -25,7 +25,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향과 현재 상황을 파악해서 어떤 형태가 맞을지 안내해 드립니다. 무조건 좋은 건 없습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 대형 학원의 장점은 뭔가요?
@@ -38,7 +38,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대형 학원 다니면서 부족한 부분을 과외로 보충하는 학생도 많습니다. 병행도 가능합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 대형 학원의 단점은 뭔가요?
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대형 학원에서 뒤처지는 학생이라면 기초를 다시 잡아드립니다. 무리하게 따라가지 않아도 됩니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 소형 학원의 장점은 뭔가요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외도 소형 학원처럼 맞춤 관리가 됩니다. 1:1이라 더 세밀한 케어가 가능합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 소형 학원의 단점은 뭔가요?
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 정보나 최신 트렌드가 궁금하시면 상담해 주세요. 필요한 정보를 안내해 드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,7 +96,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향을 파악해서 어떤 학습 환경이 맞을지 안내해 드립니다. 상담 후 결정하셔도 됩니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문

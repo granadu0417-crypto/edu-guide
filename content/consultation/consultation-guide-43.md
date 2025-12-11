@@ -21,7 +21,7 @@ featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리 상담에서는 학생의 시험 패턴을 분석합니다. 언제 공부를 시작하는지, 어떻게 준비하는지 점검하고 효율적인 내신 관리 전략을 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 내신 관리 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리가 안 되고 있다면 학습 상담을 받으세요. 시험 전 한 달 전략부터 평소 관리법까지 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 내신 성적을 입시 전략에 어떻게 활용할지 다룹니다.
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 시험까지의 학습 계획을 구체적으로 세워드립니다. 날짜별로 무엇을 공부할지 로드맵을 안내합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 내신은 어떻게 관리해야 하나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학교와 과목 특성에 맞는 내신 전략을 안내합니다. 어떤 과목에 더 집중해야 하는지 우선순위도 함께 정합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 안정적으로 성적을 유지하는 방법을 안내합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

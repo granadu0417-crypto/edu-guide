@@ -18,7 +18,7 @@ featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강남 3구에서 학원이나 과외를 시작하기 전에 지역별 특성을 이해하는 것이 중요합니다. 학부모님의 교육 목표와 예산에 맞는 지역과 학원을 함께 찾아드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 강남구 교육 환경
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대치동은 입시 중심, 청담동은 국제 교육 중심으로 성격이 다릅니다. 학생의 진로 목표에 맞는 지역과 학원을 선택하는 것이 중요합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ### 강남구 교육지원 시설
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서초구는 국제적 교육환경과 균형잡힌 공교육이 강점입니다. 외국어 능력 향상이나 해외 유학을 고려하는 학생에게 특히 적합합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ### 서초구 교육지원 시설
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-송파구는 강남·서초 대비 합리적인 비용으로 우수한 교육을 받을 수 있습니다. 예산과 교육 효과의 균형을 원하는 가정에 적합합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ### 송파구 교육지원 시설
@@ -108,7 +108,7 @@ featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원가 선택은 학생의 수준과 목표, 가정의 예산을 종합적으로 고려해야 합니다. 최상위권 목표라면 대치동, 가성비를 원하면 목동이나 중계동을 추천드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 지역별 교육 특성화
@@ -133,7 +133,7 @@ featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학군 선택은 단순히 명성만 볼 것이 아니라 아이의 성향, 가정의 상황, 장기적 계획을 종합적으로 고려해야 합니다. 상담을 통해 최적의 선택을 도와드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

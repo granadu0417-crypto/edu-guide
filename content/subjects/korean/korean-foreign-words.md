@@ -19,7 +19,7 @@ featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-외래어 표기법의 기본 원칙을 정리합니다. 자주 틀리는 표기를 집중 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 외래어 표기법의 기본 원칙
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 원칙을 예시와 함께 익힙니다. 원칙이 적용되는 다양한 사례를 분석합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 틀리는 외래어
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 외래어 목록을 정리합니다. 반복 훈련으로 올바른 표기를 익힙니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 언어별 표기 규정
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-언어별 표기 규정의 차이를 정리합니다. 주요 언어별 대표 예시를 학습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 유형별 접근법을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 외래어 표기법을 정복합니다. 원칙 이해부터 문제 풀이까지 체계적으로 지도합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>

@@ -14,12 +14,11 @@ tags:
   - 광주시수학과외
   - 광주시고등수학
 ---
-
-광주시 고등학교 수학, 중학교와 차원이 다릅니다. 체계적인 학습이 필수입니다.
+수학 포기하려고요? 잠깐만요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 실력을 정밀 진단합니다. 개념 이해도, 문제 해결력, 수능형 사고력까지 파악합니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법, 시간 관리까지 종합 진단합니다.
 </div>
 
 ## 광주시 고등학교 수학이 어려운 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 완벽히 이해한 후, 다양한 유형의 고난도 문제를 훈련합니다. 수능형 사고력을 기릅니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 광주시 주요 고등학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 기출문제를 철저히 분석합니다. 출제 선생님 스타일, 자주 나오는 유형을 파악합니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 내신과 수능 병행 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 입시 목표에 맞춰 내신과 수능 비중을 조절합니다. 수시 vs 정시에 따라 전략을 달리합니다.
+내신 공부가 수능에 도움이 되도록 합니다. 두 번 공부하는 비효율을 없앱니다.
 </div>
 
 
@@ -92,6 +91,6 @@ tags:
 
 ## 마무리
 
-광주시 고등학생 여러분, 수학 성적 향상이 필요하시다면 지금 시작하세요.
+광주시 학생 여러분, 오늘이 가장 빠른 날입니다. 지금 시작하세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

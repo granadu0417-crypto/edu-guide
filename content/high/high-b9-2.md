@@ -21,7 +21,7 @@ featured_image: "/images/edu_0633_wK-vDG9eHs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고2 시작과 동시에 3월 모의고사 목표를 세웁니다. 현재 위치를 파악하고 1년간의 성장 계획을 구체화합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 고2 연간 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0633_wK-vDG9eHs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 등급과 목표 대학을 분석합니다. 수시에 유리한지, 정시에 유리한지 판단하고 그에 맞춘 전략을 세웁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학기별 세부 계획
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0633_wK-vDG9eHs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-겨울방학에 가장 집중적으로 수업합니다. 이때 얼마나 하느냐가 고3 성적을 결정합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과목별 학습 전략
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0633_wK-vDG9eHs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 선택한 탐구 과목에 맞춰 개념 수업을 진행합니다. 고3 때 시간이 없으니 고2 때 탐구 기초를 끝냅니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 하루 학습 루틴
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0633_wK-vDG9eHs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 수능 시간표대로 공부하는 연습을 시작합니다. 고3이 되면 익숙해져 있어야 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 주의사항

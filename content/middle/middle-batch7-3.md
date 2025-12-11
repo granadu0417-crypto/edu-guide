@@ -21,7 +21,7 @@ featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 학생의 현재 상황을 파악합니다. 고등학교 진학까지의 로드맵을 함께 세웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 중3 1학기 전략
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학기 내신 대비에 집중합니다. 동시에 고교 선택 정보도 제공합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 중3 2학기 전략
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리와 원서 준비를 병행합니다. 자기소개서 작성과 면접도 도와드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 고교 선택 기준
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적, 성향, 진로 목표를 고려해 맞는 학교를 찾도록 돕습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 생활기록부 관리
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부 관리 방법을 안내합니다. 남은 기간 어떤 활동을 하면 좋을지 조언합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 겨울방학 선행 학습
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-겨울방학 동안 고등학교 과정을 미리 준비합니다. 중학교 복습과 고등학교 선행을 병행합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}

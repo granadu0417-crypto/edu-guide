@@ -22,12 +22,11 @@ tags:
   - 고양외고
 featured_image: "/images/edu_0008.jpg"
 ---
-
-수학 성적, 올릴 수 있습니다. 고양시 덕양구 내유동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+수학은 방법만 알면 누구나 오를 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법, 시간 관리까지 종합 진단합니다.
+첫 수업에서 학생의 실력을 정밀 진단합니다. 개념 이해도, 계산 정확도, 문제 해결 속도를 파악하고 부족한 부분부터 채워갑니다.
 </div>
 
 ## 고등학교 올라오면 수학이 안 되는 이유
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0008.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능은 출제 방식이 다릅니다. 각각에 맞는 대비법을 알려드립니다.
+풀이 과정을 깔끔하게 정리하는 연습을 합니다. 서술형 점수도 올리고, 실수도 줄입니다.
 </div>
 
 ## 고양외고 수학 시험의 특징
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0008.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고양외고 기출문제를 철저히 분석합니다. 자주 출제되는 유형과 함정 문제 패턴을 파악하여 대비합니다.
+학교 시험은 정보전입니다. 시험에 대한 정보를 바탕으로 효율적으로 대비합니다.
 </div>
 
 ## 수능 1등급을 위한 전략
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0008.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 모아서 나만의 약점 문제집을 만듭니다. 시험 직전에 이것만 보면 됩니다.
+수시를 노린다면 내신이 중요하고, 정시를 노린다면 수능이 중요합니다. 목표에 맞춰 비중을 조절합니다.
 </div>
 
 ## 1:1 과외의 장점
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0008.jpg"
 
 ## 마무리
 
-내유동 고등학생을 위한 맞춤 수학 수업, 지금 상담받으세요.
+덕양구 학생 여러분, 실력, 키울 수 있습니다. 포기하기엔 아직 이릅니다.

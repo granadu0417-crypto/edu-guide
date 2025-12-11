@@ -23,7 +23,7 @@ featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 약점을 분석합니다. 요지·주장 찾는 전략을 체계적으로 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 요지 vs 주장 vs 주제
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-요지, 주장, 주제의 차이를 명확히 구분합니다. 각 유형별 접근법을 다르게 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 요지·주장 찾기 전략
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-결론 표현, 당위성 표현을 찾는 연습을 합니다. 기출 문제로 패턴을 익힙니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 선택지 분석법
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답과 오답의 특징을 구분합니다. 소거법으로 답을 좁히는 연습을 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 함정 피하기
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 함정을 분석합니다. 같은 실수를 반복하지 않도록 점검합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,5 +108,5 @@ featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 요지·주장 파악을 완벽히 정복합니다. 핵심 전략과 실전 연습으로 빠르게 향상합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>

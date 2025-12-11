@@ -21,7 +21,7 @@ featured_image: "/images/edu_0506_RlC1eHzJOFI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 앱을 추천합니다. 앱을 효과적으로 활용하는 방법을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 유형별 추천 앱
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0506_RlC1eHzJOFI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 목적에 맞는 앱을 선별합니다. 앱을 보조 도구로 적절히 활용하도록 지도합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 효과적인 활용 시간
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0506_RlC1eHzJOFI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틈새 시간을 활용한 학습법을 안내합니다. 앱과 정규 학습을 연계하여 효율을 높입니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 앱 사용 시 주의사항
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0506_RlC1eHzJOFI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-앱 사용의 균형을 잡아줍니다. 과의존하지 않도록 관리합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 암기에 효과적인 앱
@@ -59,7 +59,7 @@ Anki와 Quizlet은 플래시카드와 간격 반복 기능을 제공합니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기 앱 활용법을 알려드립니다. 학습 계획 앱과 연계하여 체계적으로 관리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문

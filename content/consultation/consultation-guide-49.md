@@ -22,7 +22,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안 상담에서는 불안의 원인을 먼저 파악합니다. 왜 긴장하는지, 어떤 상황에서 더 심해지는지 분석하고 대처 방법을 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시험 불안 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안이 심하다면 심리 상담을 받으세요. 긴장을 조절하는 방법을 배울 수 있습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 학습 상담도 도움이 됩니다. 자신감 있게 시험을 볼 수 있도록 공부 방법을 점검하고 보완합니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 시험 전 긴장을 푸는 루틴과 시험 중 불안이 올라올 때 대처하는 방법을 안내합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 시험 불안은 어떻게 극복하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 불안 대처법을 찾아드립니다. 모든 학생에게 같은 방법이 통하지 않으므로 맞춤형으로 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0071_FcLyt7lW5wg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안에 대해 더 궁금한 점이 있으시면 문의하세요. 시험장에서 실력을 발휘하는 방법을 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 마무리

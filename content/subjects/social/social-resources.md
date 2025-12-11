@@ -26,7 +26,7 @@ featured_image: "/images/edu_0704_mJaLWCgI1KY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자원의 의미와 분류 기준을 먼저 설명합니다. 다양한 자원의 예를 분류해봅니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 에너지 자원
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0704_mJaLWCgI1KY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화석 연료의 특징과 문제점을 정리합니다. 신재생 에너지의 종류와 장단점을 비교합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 광물 자원
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0704_mJaLWCgI1KY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-금속 광물과 비금속 광물의 차이를 비교합니다. 주요 광물의 세계 분포를 지도로 확인합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자원의 분포
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0704_mJaLWCgI1KY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자원별 주요 생산국을 정리합니다. 자원 편재가 국제 관계에 미치는 영향을 분석합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자원 문제와 대책
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0704_mJaLWCgI1KY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자원 문제의 원인과 영향을 정리합니다. 지속 가능한 자원 이용 방안을 토론합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "/images/edu_0704_mJaLWCgI1KY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 자원을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>

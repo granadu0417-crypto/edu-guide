@@ -14,12 +14,11 @@ tags:
   - 파주시수학과외
   - 파주시중등수학
 ---
-
-파주시 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다.
+중학교 수학, 어디서부터 손대야 할지 막막하시죠?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 실력을 종합 진단합니다. 개념 이해도, 계산 정확도, 문제 해결력을 파악하고 약점부터 집중 보완합니다.
+어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 정확한 출발점을 찾아드립니다.
 </div>
 
 ## 파주시 중학교 수학이 중요한 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 완벽히 이해한 후 다양한 유형의 문제를 풀어봅니다. 원리 이해에 집중합니다.
+복습 시점을 알려드립니다. 오늘 배운 내용은 내일, 1주일 후, 1개월 후에 복습해야 합니다.
 </div>
 
 ## 파주시 주요 중학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악하여 맞춤 대비합니다.
+혼자 준비하면 방향을 잃기 쉽습니다. 경험 있는 선생님과 함께 준비하세요.
 </div>
 
 ## 학년별 학습 전략
@@ -64,7 +63,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼으로 진행합니다. 학기 중에는 내신 대비, 방학에는 선행 학습을 병행합니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 학습 계획을 함께 세웁니다.
 </div>
 
 
@@ -94,6 +93,6 @@ tags:
 
 ## 마무리
 
-파주시 중등학생 여러분, 수학 성적 향상이 필요하시다면 지금 시작하세요.
+파주시 학생 여러분, 1등급도, 성적 향상도 가능합니다. 믿고 시작해 보세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

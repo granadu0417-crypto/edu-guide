@@ -22,7 +22,7 @@ featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 면접 목적(취업, 유학, 입학)을 파악합니다. 목적에 맞는 예상 질문을 정리하고 답변을 함께 만들어갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 필수 질문과 답변 전략
@@ -31,7 +31,7 @@ Tell me about yourself는 가장 중요한 질문입니다. 현재 상황, 과�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필수 질문별로 맞춤 답변을 작성합니다. STAR 기법으로 구조적인 답변을 만듭니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## STAR 기법 활용
@@ -42,7 +42,7 @@ STAR는 Situation, Task, Action, Result의 약자입니다. 상황을 설명하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실제 경험을 STAR 기법에 맞게 정리합니다. 반복 연습으로 자연스럽게 나오도록 훈련합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 면접 당일 준비
@@ -51,7 +51,7 @@ STAR는 Situation, Task, Action, Result의 약자입니다. 상황을 설명하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 면접처럼 모의 면접을 진행합니다. 태도, 표정, 목소리까지 피드백합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 유용한 면접 표현
@@ -60,7 +60,7 @@ STAR는 Situation, Task, Action, Result의 약자입니다. 상황을 설명하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상황별 면접 표현을 정리합니다. 실전에서 바로 쓸 수 있도록 반복 연습합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ Tell me about yourself입니다. 첫인상을 결정하므로 완벽하게 준�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 면접 수업으로 실전 감각을 키웁니다. 모의 면접과 즉각적인 피드백으로 합격을 이끕니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>

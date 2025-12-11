@@ -19,7 +19,7 @@ featured_image: "/images/edu_0193_WC7KIHo13Fc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대전 지역 교육 환경을 분석합니다. 거주 지역과 예산에 맞는 최적의 교육 방법을 안내합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## KAIST 과외의 강점
@@ -28,7 +28,7 @@ KAIST 학생들은 전국 수학 과학 올림피아드 출신이 많고 수능 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-KAIST 인재풀에서 검증된 선생님을 연결합니다. 수학과 과학 심화 학습에 최적입니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 대전 주요 교육 지구
@@ -47,7 +47,7 @@ KAIST 인재풀에서 검증된 선생님을 연결합니다. 수학과 과학 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학원 특성을 파악합니다. 학생의 목표에 맞는 학원을 추천합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 대전 주요 학교 분석
@@ -64,7 +64,7 @@ KAIST 인재풀에서 검증된 선생님을 연결합니다. 수학과 과학 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 시험 특성과 출제 경향을 분석합니다. 선생님별 문제 스타일까지 파악해 맞춤 내신 대비를 진행합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학년별 교육 전략
@@ -83,7 +83,7 @@ KAIST 인재풀에서 검증된 선생님을 연결합니다. 수학과 과학 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 목표와 전략을 구체적으로 수립합니다. 단기 목표와 장기 목표를 균형 있게 설정합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 충남대학교 과외 활용
@@ -92,7 +92,7 @@ KAIST 인재풀에서 검증된 선생님을 연결합니다. 수학과 과학 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-충남대 인재풀을 활용합니다. 전과목 균형 잡힌 학습이 가능합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 교육비 절감 전략
@@ -101,7 +101,7 @@ KAIST 인재풀에서 검증된 선생님을 연결합니다. 수학과 과학 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예산에 맞는 교육 계획을 세웁니다. 비용 대비 효과를 극대화하는 방법을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

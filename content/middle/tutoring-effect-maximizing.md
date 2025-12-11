@@ -17,7 +17,7 @@ featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 과외 활용법을 알려드립니다. 예습 복습 방법, 질문하는 법, 노트 정리법까지 효과를 높이는 습관을 잡아드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 예습이 효과를 2배로 만든다
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작할 때 학생이 예습하면서 표시한 부분을 먼저 확인합니다. 모르는 곳부터 설명하니까 시간이 절약되고 효율이 올라갑니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 복습이 90퍼센트를 결정한다
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 검사를 꼼꼼히 합니다. 못 푼 문제를 왜 못 풀었는지 분석하고, 그 부분을 집중적으로 설명합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 질문을 두려워하지 마라
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 중요한 내용은 학생에게 직접 적게 합니다. 손으로 쓰면서 한 번 더 정리되고, 나중에 복습할 때도 기억이 잘 납니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과외 시간은 약점에 집중해야 한다
@@ -83,7 +83,7 @@ featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 말하지 않으면 파악이 어렵습니다. 매 수업 시작할 때 이번 주 학교 상황을 물어보고, 그에 맞게 수업 내용을 조정합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 3개월 단위로 점검하라

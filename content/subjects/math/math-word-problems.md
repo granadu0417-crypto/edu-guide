@@ -25,7 +25,7 @@ featured_image: "/images/edu_0570_ZsWaYLImZFs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 해석 방법을 차근차근 알려드립니다. 문장을 수식으로 바꾸는 연습을 반복합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 풀이 4단계
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0570_ZsWaYLImZFs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4단계 풀이법을 체계적으로 훈련합니다. 각 단계를 습관으로 만들도록 반복 연습합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 핵심 기술
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0570_ZsWaYLImZFs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미지수 설정과 식 세우기를 집중 훈련합니다. 조건을 찾고 번역하는 과정을 함께 연습합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 주요 유형
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0570_ZsWaYLImZFs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별로 풀이 패턴을 정리합니다. 자주 나오는 유형부터 익히고 다양한 문제로 확장합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 흔한 실수와 시간 관리
@@ -121,6 +121,6 @@ featured_image: "/images/edu_0570_ZsWaYLImZFs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 해석 방법과 식 세우기 전략을 체계적으로 가르칩니다. 개인별 맞춤 지도로 문장제를 정복합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 

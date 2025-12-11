@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 영어 실력을 꼼꼼히 진단한 후, 취약 영역을 집중 보완하는 1:1 맞춤 커리큘럼을 설계합니다. 매 수업마다 약점이 강점으로 바뀌는 것을 확인하실 수 있습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 안산 영어 과외 시장 현황
@@ -50,7 +50,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파닉스 게임과 영어 동요, 그림책을 활용해 아이가 영어를 '놀이'처럼 느끼게 합니다. 매 수업 후 아이가 "다음에 또 하고 싶어요!"라고 말할 수 있도록 재미있게 진행합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 **고학년(4-6학년)은 독해 기초를 다지는 시기입니다**
@@ -67,7 +67,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 진도에 맞춘 내신 대비와 함께, 헷갈리기 쉬운 문법을 아이 눈높이에서 쉽게 설명합니다. 시험 전에는 기출문제 분석으로 완벽한 시험 준비를 도와드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 **중3은 고등 영어 준비의 골든타임입니다**
@@ -86,7 +86,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 분석하여 내신 시험에 최적화된 수업을 진행합니다. 서술형 문제 대비를 위한 작문 연습도 함께 하여, 1등급을 목표로 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 **고2-3은 수능 집중 시기입니다**
@@ -111,7 +111,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 목표와 현재 수준에 맞는 최적의 선생님을 매칭해드립니다. 내신이 급하면 내신 전문 선생님을, 회화가 필요하면 원어민 선생님을 연결해드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ### 꼭 확인해야 할 선택 기준
@@ -133,7 +133,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 복습 과제와 다음 수업 예습 범위를 안내드립니다. 학부모님께는 수업 내용과 아이의 학습 상태를 정기적으로 피드백 드려, 함께 성장을 확인하실 수 있습니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 내신 대비 vs 수능 대비
@@ -148,7 +148,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능, 아이의 목표에 따라 최적화된 커리큘럼을 제공합니다. 수시를 목표로 한다면 내신 집중, 정시를 목표로 한다면 수능 집중으로 전략적인 학습을 진행합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문

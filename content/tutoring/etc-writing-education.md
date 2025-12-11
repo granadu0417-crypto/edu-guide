@@ -19,7 +19,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 수준을 파악합니다. 어떤 부분이 어려운지 확인합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 글쓰기가 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글쓰기의 중요성을 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 글쓰기 기본 원칙
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글쓰기의 기본 원칙을 가르칩니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 논리적 글쓰기
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논리적 글쓰기를 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 창의적 글쓰기
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-창의적 글쓰기를 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 글쓰기 수준을 파악하고 맞는 훈련 방법을 안내드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

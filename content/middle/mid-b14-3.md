@@ -23,7 +23,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 입시 일정에 맞춰 학습 계획을 세웁니다. 내신, 생기부, 고교 지원을 체계적으로 준비합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 중3 내신의 중요성
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마지막 내신 시험까지 집중력을 유지하도록 관리합니다. 방심하지 않도록 동기 부여합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 생활기록부 마무리
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부 기재 내용을 함께 점검합니다. 부족한 부분은 남은 기간 보완하도록 안내합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 고교 지원 전략
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적과 성향에 맞는 고교를 함께 분석합니다. 지원 전략을 구체적으로 세웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자기소개서와 면접 준비
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기소개서 작성을 도와드립니다. 모의 면접으로 실전 감각을 키웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 겨울방학 선행 계획
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-겨울방학 동안 고등학교 과정을 미리 준비합니다. 고1 첫 시험에 대비합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

@@ -22,7 +22,7 @@ featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준을 진단합니다. 수준과 관심사에 맞는 자료를 선별해 추천합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 무료 듣기 사이트
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 사이트를 수준별로 정리해 드립니다. 효과적인 활용법을 함께 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 추천 앱
@@ -42,7 +42,7 @@ YouTube는 무한한 콘텐츠와 속도 조절 기능이 장점입니다. Podca
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 앱을 추천합니다. 앱 활용법과 학습 계획을 함께 세웁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 효과적 활용법
@@ -51,7 +51,7 @@ YouTube는 무한한 콘텐츠와 속도 조절 기능이 장점입니다. Podca
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 듣기 학습법을 가르칩니다. 반복 청취, 구간 반복 등 기술을 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 주의사항
@@ -60,7 +60,7 @@ YouTube는 무한한 콘텐츠와 속도 조절 기능이 장점입니다. Podca
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관을 점검합니다. 효과적인 학습 패턴을 함께 만들어갑니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -123,5 +123,5 @@ YouTube는 무한한 콘텐츠와 속도 조절 기능이 장점입니다. Podca
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 듣기 수업으로 최적의 자료와 학습법을 제시합니다. 효율적으로 듣기 실력을 키웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>

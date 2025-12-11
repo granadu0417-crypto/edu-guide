@@ -22,7 +22,7 @@ featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황을 분석합니다. 내신, 모의고사, 비교과를 점검하고 입시 전략을 세웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 입시 준비의 핵심
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 전형을 분석합니다. 학생에게 유리한 전형이 무엇인지 데이터를 기반으로 찾아냅니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 전형별 준비 방법
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전형별로 무엇을 준비해야 하는지 구체적으로 계획합니다. 남은 기간에 할 수 있는 것에 집중합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 고2 때 해야 할 것
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고2 때 해야 할 것과 고3 때 해야 할 것을 구분합니다. 우선순위를 정해서 하나씩 실행합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 입시 정보 수집
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 정보를 함께 분석합니다. 복잡한 입시 제도를 쉽게 설명하고 전략을 세웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 구체적인 계획 수립
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 일정에 맞춰 학습 계획을 세웁니다. 언제 무엇을 해야 하는지 로드맵을 만듭니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 주의사항

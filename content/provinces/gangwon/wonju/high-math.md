@@ -10,14 +10,13 @@ tags:
   - 원주시수학과외
   - 원주시고등수학
 ---
-
-Σ 기호가 나오면 어디서부터 더해야 할지 헷갈린다면, 수열의 합력이 필요합니다.
+수학 실력, 3개월이면 달라집니다.
 
 원주시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 원주고, 상지대부고, 진광고 시험에서 수열의 합 문제가 자주 출제됩니다. 시그마 기호의 의미와 성질을 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-Σ 기호의 의미를 정리합니다. 합 공식과 성질을 훈련합니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지 파악합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시그마 공식을 체계적으로 정리합니다. 합 계산력을 훈련합니다.
+문제를 많이 푸는 것보다 한 문제를 깊이 이해하는 게 중요합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원주고, 진광고 기출에서 수열의 합 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+내신 시험은 학교마다 다릅니다. 전략적 대비가 필요합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 수열의 합력을 점진적으로 향상시킵니다.
+시험 3주 전부터는 내신에 올인합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -114,5 +113,5 @@ tags:
 
 ## 마무리
 
-원주시에서 수열의 합이 어렵다면 공식 훈련이 필요합니다. 시그마가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 시작이 반입니다.
 

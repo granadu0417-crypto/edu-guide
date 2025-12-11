@@ -14,12 +14,11 @@ tags:
   - 평택시영어과외
   - 평택시중등영어
 ---
-
-평택시 중학교 영어, 문법과 독해 실력을 균형 있게 키워야 합니다.
+포기하기엔 아직 이릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 어휘, 독해, 듣기 각 영역의 수준을 파악합니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완할 수 있습니다.
 </div>
 
 ## 평택시 중학교 영어가 중요한 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 본문을 완벽히 이해한 후, 변형 문제에 대응하는 연습을 합니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다. 혼자 힘으로 풀어야 실력이 됩니다.
 </div>
 
 ## 평택시 주요 중학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 영어 기출문제를 수집하여 출제 패턴을 분석합니다. 학교별 맞춤 대비 전략을 세웁니다.
+기출문제를 유형별로 정리하여 반복 훈련합니다. 비슷한 문제가 나오면 바로 풀 수 있습니다.
 </div>
 
 ## 영역별 학습 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법, 독해, 어휘를 균형있게 학습합니다. 학생의 약한 영역에 더 많은 시간을 배분합니다.
+내신 범위가 곧 수능 출제 범위입니다. 한 번 공부로 두 가지를 대비합니다.
 </div>
 
 
@@ -130,6 +129,6 @@ tags:
 
 ## 마무리
 
-평택시 중등학생 여러분, 영어 성적 향상이 필요하시다면 지금 시작하세요.
+평택시 학생 여러분, 체계적인 1:1 수업으로 내신을 완벽 대비하세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

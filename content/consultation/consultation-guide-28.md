@@ -22,7 +22,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 상담에서는 각 과목의 특성에 맞는 공부법을 안내합니다. 수학, 영어, 국어뿐 아니라 사회, 과학도 포함합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 과목별 학습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 다른 공부법을 배우고 싶다면 학습 상담을 받으세요. 각 과목의 특성에 맞는 전략을 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 진로 상담은 어떤 과목에 집중해야 할지 모를 때 도움이 됩니다. 진학 상담은 입시에 유리한 과목 선택을 다룹니다. 심리 상담은 특정 과목에 대한 두려움이 있을 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 공부 계획을 세웁니다. 각 과목의 비중과 공부 순서, 방법을 구체적으로 안내합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과목별로 어떻게 다르게 공부해야 하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 공부법을 상세히 안내합니다. 학생의 약점에 맞춰 우선순위를 정합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 공부법에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 과목별 전략을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

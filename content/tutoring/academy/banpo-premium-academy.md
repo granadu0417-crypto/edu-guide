@@ -25,7 +25,7 @@ reading_time: 290줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소수정예 관리가 필요하시면 과외도 좋은 대안입니다. 1:1 맞춤 케어가 가능합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 프리미엄 학원이란 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 290줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-프리미엄 학원 비용이 부담되시면 과외로 비슷한 효과를 볼 수 있습니다. 1:1이라 더 밀착 관리가 됩니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 일반 학원과 뭐가 다른가요?
@@ -51,7 +51,7 @@ reading_time: 290줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 전략 상담도 가능합니다. 대학별 전형 분석, 합격 전략 수립을 도와드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 어떤 학생에게 적합한가요?
@@ -62,7 +62,7 @@ reading_time: 290줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준을 파악해서 적합한 학습 방향을 안내해 드립니다. 프리미엄이 맞는지 아닌지도 상담해 드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 프리미엄 학원과 과외를 병행해야 하나요?
@@ -73,7 +73,7 @@ reading_time: 290줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-프리미엄 학원에서 부족한 부분을 과외로 보완해 드립니다. 약점 과목만 집중 케어합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ reading_time: 290줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-프리미엄 학원에 대해 더 궁금한 점이 있으시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문

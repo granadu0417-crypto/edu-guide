@@ -19,7 +19,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학생부, 내신 성적, 비교과 활동을 먼저 분석합니다. 어떤 전형에 강점이 있는지 파악합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 수시의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 유리한 전형을 찾습니다. 강점을 살릴 수 있는 전략을 세웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 전형별 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전형별 특징과 준비 방법을 알려드립니다. 어디에 집중해야 하는지 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 지원 전략 수립
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-데이터를 바탕으로 합리적인 지원 전략을 세웁니다. 합격 가능성을 높입니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 정보를 정리해서 알려드립니다. 복잡한 입시를 명쾌하게 정리합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0075_SDK5pLlxF4M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 현재 상황을 분석하고 수시 전략 방향을 안내드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

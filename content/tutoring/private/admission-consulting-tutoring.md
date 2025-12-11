@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 컨설팅 과외는 단순 과목 지도가 아닙니다. 학생의 목표 대학과 전형에 맞춰 전략을 세우고, 생기부, 자소서, 면접까지 종합적으로 관리합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 입시 컨설팅 과외는 이런 점이 달라요
@@ -34,7 +34,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 성적과 비교과 활동을 분석해서 현실적인 목표 대학을 설정합니다. 허황된 목표가 아니라 달성 가능한 전략을 세웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 어떤 학생에게 필요한가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접에서 입시 전략을 어떻게 세우는지 구체적으로 설명합니다. 막연한 조언이 아니라 실행 가능한 계획을 제시합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 비용은 어느 정도인가요?
@@ -64,7 +64,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담을 통해 학생에게 필요한 서비스를 파악하고, 맞춤형으로 제안합니다. 불필요한 서비스는 권하지 않습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 효과적으로 활용하는 방법이에요
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 일정표를 공유하고, 각 단계별로 해야 할 일을 명확히 알려드립니다. 마감 전에 미리 준비할 수 있도록 관리합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문

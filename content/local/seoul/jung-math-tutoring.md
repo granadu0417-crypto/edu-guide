@@ -44,7 +44,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 집, 스터디카페, 도서관 등 편한 장소에서 1:1 맞춤 수업을 진행합니다. 바쁜 일정에 맞춰 유연하게 시간 조율이 가능합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ### 동네별 학습 분위기
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 학교 시험 일정에 맞춰 내신 대비를 진행합니다. 덕수중, 중동중 등 학교별 출제 경향을 파악하여 맞춤 대비해 드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학년별 수학과외, 이렇게 다릅니다
@@ -107,7 +107,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교구와 게임을 활용해 수학이 재미있어지는 경험을 선물합니다. 아이가 "수학 시간이 기다려져요"라고 말할 때까지!
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ### 중학생 수학 - 고등 수학의 뿌리를 심는 시간
@@ -136,7 +136,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 방정식, 함수도 원리부터 차근차근! "아, 이래서 이렇게 되는구나" 이해의 순간을 만들어드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 고등학생 수학 - 수능을 향한 본격 레이스
@@ -165,7 +165,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능까지 함께 달립니다! 모의고사 분석, 취약 유형 집중 공략으로 목표 등급 달성을 도와드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 중구 주요 학교별 수학 내신 전략
@@ -206,7 +206,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석하여 출제 패턴을 파악합니다. 시험 4주 전부터 단계별 내신 대비 플랜으로 목표 등급 달성을 도와드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 좋은 수학 선생님, 이렇게 찾으세요
@@ -230,7 +230,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 아이 성향과 현재 실력을 파악한 후 맞춤 커리큘럼을 제안해 드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -266,7 +266,7 @@ featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 대비 기간에는 카카오톡으로 질문을 받습니다. 모르는 문제 사진 찍어 보내면 풀이 영상이나 설명을 보내드려요.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 하시는 질문

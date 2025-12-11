@@ -20,7 +20,7 @@ featured_image: "/images/edu_0148_HADKIO0EFXQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-객관식 선지 분석법을 연습합니다. 오답이 왜 오답인지 근거를 찾고, 매력적인 오답에 속지 않는 방법을 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 객관식 문제의 구조 이해하기
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0148_HADKIO0EFXQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 출제 의도를 파악하는 연습을 합니다. 어떤 개념을 묻는지, 어떤 함정이 있는지 분석합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 오답 제거 기법
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0148_HADKIO0EFXQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 제거 기법을 실전 문제로 연습합니다. 왜 틀린지 근거를 찾는 훈련을 반복합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 문제 유형별 접근법
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0148_HADKIO0EFXQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별로 접근법을 다르게 가져갑니다. 유형에 맞는 풀이 전략을 익힙니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시간 부족할 때 전략
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0148_HADKIO0EFXQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 안배 연습을 함께 합니다. 실제 시험 시간에 맞춰 문제를 풀면서 시간 감각을 익힙니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 답 바꾸기에 대해

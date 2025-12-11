@@ -19,7 +19,7 @@ featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 물리 기초를 먼저 진단합니다. 어떤 개념이 부족한지, 어디서 막히는지 파악합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 물리가 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 시각화해서 설명합니다. 그림과 도식으로 원리를 이해하게 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 개념 이해의 중요성
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식을 유도하면서 의미를 설명합니다. 왜 그런지 이해하게 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 물리학1 핵심 정리
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단원별로 핵심 개념을 정리합니다. 연결 고리를 찾아 통합적으로 이해합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 문제 풀이 전략
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 풀기 전에 상황 분석을 먼저 합니다. 그림 그리는 습관을 들입니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과외의 장점
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 철저히 합니다. 같은 실수를 반복하지 않게 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문

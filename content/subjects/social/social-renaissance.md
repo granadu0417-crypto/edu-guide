@@ -26,7 +26,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-르네상스의 배경과 의미를 먼저 설명합니다. 중세와 어떻게 다른지 비교합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 르네상스의 배경
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이탈리아에서 시작된 이유를 설명합니다. 경제적, 지리적 조건을 분석합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 인문주의
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중세와 르네상스 사상을 비교합니다. 인문주의의 핵심 가치를 정리합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 르네상스 예술
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대표 예술가와 작품을 정리합니다. 르네상스 미술의 특징을 분석합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 르네상스의 확산
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이탈리아와 북유럽 르네상스를 비교합니다. 확산 과정과 특징을 정리합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 시험 대비
@@ -115,5 +115,5 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 르네상스를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>

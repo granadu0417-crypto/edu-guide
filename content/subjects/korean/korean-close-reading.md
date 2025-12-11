@@ -20,7 +20,7 @@ featured_image: "/images/edu_0439_ydAb7M-JihI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 습관을 분석합니다. 효과적인 정독 방법을 단계별로 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 정독의 기본 원리
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0439_ydAb7M-JihI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문단별 중심 내용 파악 연습을 합니다. 글의 구조를 분석하는 방법을 훈련합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 비문학 지문 정독
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0439_ydAb7M-JihI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문의 논리 구조를 분석합니다. 핵심 정보 파악 연습을 반복합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 문학 지문 정독
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0439_ydAb7M-JihI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 작품의 표현 기법을 분석합니다. 주제와 세부 내용을 연결하는 훈련을 합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 정독 연습 방법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0439_ydAb7M-JihI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 정독 연습을 진행합니다. 요약과 분석을 통해 이해력을 점검합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -121,5 +121,5 @@ featured_image: "/images/edu_0439_ydAb7M-JihI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 정독 능력을 체계적으로 키웁니다. 개인 약점을 분석하고 집중 훈련합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>

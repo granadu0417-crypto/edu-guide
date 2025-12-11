@@ -24,7 +24,7 @@ featured_image: "/images/edu_0198_vdXMSiX-n6M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황에 맞는 지원 기관을 안내해 드립니다. 학습, 정서, 진로 등 영역별 전문 지원을 연결해 드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 교육지원청
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0198_vdXMSiX-n6M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육지원청 이용 방법을 안내합니다. 홈페이지 확인, 담당 부서 연락, 상담 예약 절차를 도와드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## Wee 프로젝트
@@ -58,7 +58,7 @@ Wee센터는 각 교육지원청에 위치하며 전문상담사, 임상심리�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-Wee센터 상담은 비밀이 보장됩니다. 학교생활기록부에 기재되지 않으니 안심하고 이용하세요.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학습종합클리닉센터
@@ -77,7 +77,7 @@ Wee센터 상담은 비밀이 보장됩니다. 학교생활기록부에 기재�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로진학상담센터의 모든 서비스는 무료입니다. 학부모 대상 프로그램도 적극 활용해 보세요.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 교육복지 지원
@@ -126,5 +126,5 @@ Wee센터 상담은 비밀이 보장됩니다. 학교생활기록부에 기재�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육지원청 서비스 관련 궁금한 점이 있으시면 상담을 통해 자세히 안내해 드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>

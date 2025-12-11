@@ -22,12 +22,11 @@ tags:
   - 신원중
 featured_image: "/images/edu_0019.jpg"
 ---
-
-수학 때문에 스트레스받고 계시죠? 고양시 덕양구 신원동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+중학교 수학, 어디서부터 손대야 할지 막막하시죠?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 정확히 파악한 후 수업을 시작합니다.
+어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 정확한 출발점을 찾아드립니다.
 </div>
 
 ## 수학이 갑자기 어려워지는 시기
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 대비와 선행 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행하는 방법을 알려드립니다.
+복습 시점을 알려드립니다. 오늘 배운 내용은 내일, 1주일 후, 1개월 후에 복습해야 합니다.
 </div>
 
 ## 신원중 내신 대비 전략
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 수학 선생님들의 출제 스타일을 파악하고 있습니다. 그에 맞춰 준비합니다.
+혼자 준비하면 방향을 잃기 쉽습니다. 경험 있는 선생님과 함께 준비하세요.
 </div>
 
 ## 고등학교 대비, 언제부터 어떻게?
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답을 맞혀도 풀이 과정을 점검합니다. 운으로 맞힌 건 다음에 틀립니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 학습 계획을 함께 세웁니다.
 </div>
 
 ## 1:1 과외, 이런 점이 다릅니다
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0019.jpg"
 
 ## 마무리
 
-더 늦기 전에 시작하세요. 신원동에서 수학 잘하는 학생, 여러분도 될 수 있습니다.
+덕양구 학생 여러분, 1등급도, 성적 향상도 가능합니다. 믿고 시작해 보세요.

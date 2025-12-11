@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 진단 테스트를 통해 아이의 개념 구멍을 정확히 파악합니다. 부족한 개념은 기초부터 다시 잡아, 탄탄한 수학 실력을 만들어드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ### 부천 수학 과외 시장 현황
@@ -50,7 +50,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-게임과 퍼즐을 활용한 재미있는 연산 훈련으로, 아이가 수학을 즐기면서 실력을 키웁니다. 매일 조금씩 꾸준히 연습하는 습관도 함께 만들어드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 **고학년(4-6학년)은 개념 이해가 중요합니다**
@@ -69,7 +69,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서와 익힘책을 완벽히 분석하여 내신 100점을 목표로 합니다. 개념 설명은 교과서를 넘어 '왜 그런지'까지 이해시켜, 응용력을 키워드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 **중3은 고등 수학 준비의 골든타임입니다**
@@ -88,7 +88,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향과 담당 선생님의 스타일을 파악하여, 내신 시험에 최적화된 맞춤 수업을 진행합니다. 킬러 문항까지 완벽 대비하여 1등급을 목표로 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 **고2-3은 수능 수학 정복 시기입니다**
@@ -97,7 +97,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출문제를 철저히 분석하여 출제 패턴을 파악합니다. 킬러 문항 집중 훈련으로 수능 1등급을 목표로 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 고등학생 수학 과외비는 주1회 기준 약 25만원 -  36만원, 주2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 약 28만원 -  40만원 정도입니다.
@@ -115,7 +115,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 전공자 또는 이공계 명문대 출신의 검증된 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ### 시범 수업은 필수입니다
@@ -130,7 +130,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 틀린 문제를 함께 분석하고, 효과적인 오답 노트 작성법을 지도합니다. 시험 전에는 오답 노트 중심으로 총정리하여 완벽한 대비를 돕습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ### 예습과 복습의 중요성

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0991_NIrRqqrs0Fs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 첫 수업에서 초등학교 기초가 얼마나 탄탄한지 먼저 확인합니다. 구멍이 있으면 거기부터 메우고 시작합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 중1이 중요한 이유
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0991_NIrRqqrs0Fs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 시험 전에 학교별 출제 경향을 파악하고 대비합니다. 첫 시험에서 좋은 점수를 받으면 자신감이 생깁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과외 시작 시기
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0991_NIrRqqrs0Fs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 시험지를 함께 분석합니다. 어디서 틀렸는지, 왜 틀렸는지 파악하고 그에 맞는 학습 계획을 세웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 어떤 과목부터 시작할까
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0991_NIrRqqrs0Fs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 어떤 과목이 가장 급한지 함께 판단합니다. 우선순위를 정하고 그 과목부터 집중합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 중1 과외 진행 방법
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0991_NIrRqqrs0Fs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관을 정립하는 것이 목표입니다. 숙제하고 복습하는 루틴을 만들어서 점차 혼자 공부할 수 있게 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}

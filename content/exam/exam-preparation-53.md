@@ -19,7 +19,7 @@ featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성을 분석합니다. 각 과목에 맞는 학습 전략을 세우고 실천합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 국어 시험 전략
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 작품을 함께 분석합니다. 선생님의 출제 포인트를 파악하고 대비합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 수학 시험 전략
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 개념을 정확히 잡습니다. 유형별 풀이법을 연습하고 실수를 줄입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 영어 시험 전략
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 본문을 함께 분석합니다. 단어, 문법, 독해를 체계적으로 준비합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 탐구 과목 전략
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-탐구 과목 핵심 개념을 정리합니다. 자료 해석과 공식 적용을 연습합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과목별 시간 배분

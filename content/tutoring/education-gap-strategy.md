@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외로 어디서나 서울 명문대 선생님에게 배울 수 있습니다. 지역에 관계없이 동등한 교육을 제공합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 교육 격차는 왜 생기나요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모님이 바쁘셔도 걱정 없습니다. 선생님이 학습 관리를 대신해 드리고, 정기적으로 진행 상황을 공유합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 격차가 계속되면 어떻게 되나요?
@@ -59,7 +59,7 @@ EBS 인강은 최고 강사의 강의를 무료로 들을 수 있습니다. 도�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경제적 부담을 줄일 수 있도록 효율적으로 수업합니다. 꼭 필요한 과목 하나만 집중해도 효과를 볼 수 있습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 1대1 과외가 격차 해소에 왜 효과적인가요?
@@ -72,7 +72,7 @@ EBS 인강은 최고 강사의 강의를 무료로 들을 수 있습니다. 도�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 정보도 함께 제공합니다. 서울 학생들이 받는 정보를 똑같이 알려드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 정부 지원은 어디서 받나요?
@@ -93,7 +93,7 @@ EBS 인강은 최고 강사의 강의를 무료로 들을 수 있습니다. 도�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황에 맞는 최선의 전략을 함께 세웁니다. 어려운 환경도 극복할 수 있도록 응원합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -116,7 +116,7 @@ EBS 인강은 최고 강사의 강의를 무료로 들을 수 있습니다. 도�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육 격차를 극복할 수 있도록 함께합니다. 환경이 불리해도 노력하면 가능합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 마무리

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 소통 상담에서는 효과적인 커뮤니케이션 방법을 안내합니다. 언제, 뭘, 어떻게 물어봐야 하는지 정리해드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 왜 선생님과 소통해야 하나요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 학습 상황을 학부모님께 공유합니다. 묻지 않아도 먼저 알려드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 언제, 뭘 물어봐야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님의 질문에 항상 성실하게 답변드립니다. 궁금한 건 언제든 물어보셔도 됩니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 부모가 어디까지 참여해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모님이 어떻게 도와주시면 좋을지 함께 상의합니다. 가정에서 할 수 있는 구체적인 방법을 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님과의 소통 방법에 대해 더 궁금한 점이 있으시면 문의하세요. 효과적인 학부모 참여 방법을 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

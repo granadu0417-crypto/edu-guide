@@ -26,7 +26,7 @@ featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지형 형성의 두 가지 작용을 먼저 구분합니다. 각 지형의 형성 과정과 특징을 연결합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 내적 작용
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화산 지형과 지각 변동의 원리를 설명합니다. 실제 지형 사진과 연결해서 이해합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 외적 작용
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-침식 지형과 퇴적 지형의 차이를 비교합니다. 각 지형의 형성 조건을 정리합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 한반도의 지형
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한반도 지형의 특징을 지도와 함께 학습합니다. 각 지역의 지형 특성을 비교합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 지형과 인간 생활
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지형과 인간 활동의 관계를 분석합니다. 지형 활용 사례를 정리합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 시험 대비
@@ -127,5 +127,5 @@ featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 지형을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

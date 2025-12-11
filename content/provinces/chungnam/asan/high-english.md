@@ -10,14 +10,13 @@ tags:
   - 아산시영어과외
   - 아산시고등영어
 ---
-
-Never have I seen이 왜 이런 어순인지 헷갈린다면, 도치 구문력이 필요합니다.
+영어는 혼자 공부하기 어려운 과목입니다.
 
 아산시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 아산고, 온양고, 배방고 시험에서 도치 구문 문제가 자주 출제됩니다. 강조를 위한 어순 변화를 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도치가 일어나는 조건을 정리합니다. 부정어, 장소 부사 등의 도치를 훈련합니다.
+정확한 진단이 빠른 성적 향상의 시작입니다. 시간을 들여 제대로 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ Never have I seen이 왜 이런 어순인지 헷갈린다면, 도치 구문력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도치 유형을 체계적으로 정리합니다. 실전 문장에서 적용을 훈련합니다.
+개념 강의만 듣고 끝내지 않습니다. 반드시 직접 문제를 풀어봐야 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ Never have I seen이 왜 이런 어순인지 헷갈린다면, 도치 구문력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아산고, 온양고 기출에서 도치 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+출제 경향을 파악하고 있습니다. 그에 맞춰 준비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ Never have I seen이 왜 이런 어순인지 헷갈린다면, 도치 구문력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 도치 구문력을 점진적으로 심화합니다.
+내신 기간에는 기출 중심, 수능 시즌에는 평가원 기출 중심.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,5 +125,5 @@ Never have I seen이 왜 이런 어순인지 헷갈린다면, 도치 구문력�
 
 ## 마무리
 
-아산시에서 도치 구문이 어렵다면 어순 훈련이 필요합니다. 패턴이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 실력 향상을 응원합니다.
 

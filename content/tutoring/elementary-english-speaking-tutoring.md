@@ -19,7 +19,7 @@ featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 영어 말하기 수준과 발표 경험을 파악합니다. 어떤 상황에서 어려움을 느끼는지 확인합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 영어스피킹과 회화의 차이는 뭔가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-회화와 발표를 균형 있게 연습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 왜 스피킹 과외가 필요한가요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 발표처럼 연습합니다. 선생님이 청중 역할을 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 영어스피킹 수업은 어떻게 진행되나요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-녹화해서 함께 보기도 합니다. 객관적으로 봐야 고칠 점이 보입니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 영어스피킹 과외의 장점은 뭔가요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수행평가 전에는 해당 주제로 집중 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 좋은 스피킹 선생님의 조건은 뭔가요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 선생님의 경력과 수업 방식을 확인하세요.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}

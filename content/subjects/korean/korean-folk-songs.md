@@ -21,7 +21,7 @@ featured_image: "/images/edu_0450_RvPiAVE-zWo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요의 개념과 특징을 정리합니다. 기능별 분류와 주요 작품을 체계적으로 학습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 민요의 종류
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0450_RvPiAVE-zWo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요의 분류 기준을 익힙니다. 유형별 대표작과 특징을 정리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 민요의 형식적 특징
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0450_RvPiAVE-zWo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요의 형식적 특징을 분석합니다. 실제 작품에서 율격과 표현을 확인합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 민요에 담긴 정서
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0450_RvPiAVE-zWo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요에 담긴 정서를 분석합니다. 서민 문학으로서의 가치를 이해합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시험 대비
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0450_RvPiAVE-zWo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요 관련 기출 문제를 분석합니다. 유형별 접근법을 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -106,5 +106,5 @@ featured_image: "/images/edu_0450_RvPiAVE-zWo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 민요를 체계적으로 학습합니다. 작품 분석과 문제 풀이를 함께 연습합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

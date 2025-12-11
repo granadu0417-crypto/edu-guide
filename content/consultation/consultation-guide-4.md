@@ -20,7 +20,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관 상담에서는 학생이 실제로 공부하는 모습을 관찰합니다. 책상에 앉아서 무엇을 하는지, 집중력이 얼마나 유지되는지 파악합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 학습 습관 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관이 문제라면 학습 상담이 가장 적합합니다. 공부하는 방법부터 바로잡아야 다른 것도 효과가 있습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 진학 상담은 상급 학교 진학을 준비하는 학생을 위한 것입니다. 입시 정보와 전략을 바탕으로 계획을 세웁니다. 심리 상담은 스트레스나 불안감이 심해서 공부에 집중하기 어려운 학생에게 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 구체적인 실천 계획을 세웁니다. 하루에 바꿀 수 있는 작은 것부터 시작하여 점진적으로 습관을 개선합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년에 따라 필요한 학습 습관이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 성향에 맞춰 습관 개선 계획을 세웁니다. 급하게 모든 것을 바꾸려 하지 않고, 단계별로 차근차근 진행합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관 개선에 대해 더 알고 싶으시면 편하게 문의하세요. 학생 성향에 맞는 맞춤 솔루션을 제안합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

@@ -22,12 +22,11 @@ tags:
   - 도래울고
 featured_image: "/images/edu_0003.jpg"
 ---
-
-지금 시작하면 충분히 따라잡을 수 있습니다. 고양시 덕양구 흥농동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+지금 시작하면 영어도 충분히 잡을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 실력은 점수로만 평가할 수 없습니다. 어휘력, 독해 속도, 문법 이해까지 종합 진단합니다.
+정확한 진단이 빠른 성적 향상의 시작입니다. 시간을 들여 학생을 제대로 파악합니다.
 </div>
 
 ## 고등학교 올라오면 영어가 안 되는 이유
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능은 출제 방식이 다릅니다. 각각에 맞는 대비법을 알려드립니다.
+문제를 읽고 바로 풀지 않습니다. 무엇을 구하는지, 어떤 개념이 필요한지 먼저 생각합니다.
 </div>
 
 ## 도래울고 영어 시험의 특징
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도래울고 기출문제를 철저히 분석합니다. 자주 출제되는 지문 유형과 문법 포인트를 파악하여 대비합니다.
+선생님이 강조한 부분, 수업 중 언급한 예시를 정리합니다. 시험에 나올 확률이 높습니다.
 </div>
 
 ## 수능 1등급을 위한 전략
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 모아서 나만의 약점 문제집을 만듭니다. 시험 직전에 이것만 보면 됩니다.
+내신 기간에는 학교 시험에 집중하고, 그 외 기간에는 기초를 다집니다.
 </div>
 
 ## 1:1 과외의 장점
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0003.jpg"
 
 ## 마무리
 
-영어 자신감, 되찾을 수 있습니다. 포기하지 마세요.
+덕양구 학생 여러분, 지금의 노력이 대학을 결정합니다. 함께 준비해요.

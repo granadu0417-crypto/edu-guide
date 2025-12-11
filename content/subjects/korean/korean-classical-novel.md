@@ -20,7 +20,7 @@ featured_image: "/images/edu_0437_VieM9BdZKFo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어려워하는 소설 유형을 파악합니다. 유형별 분석 방법을 체계적으로 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 영웅소설의 특징
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0437_VieM9BdZKFo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영웅소설의 서사 구조를 분석합니다. 대표 작품의 주제와 특징을 정리합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 판소리계 소설
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0437_VieM9BdZKFo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-판소리계 소설의 문체적 특징을 분석합니다. 작품별 주제와 인물 유형을 정리합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 풍자소설의 이해
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0437_VieM9BdZKFo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풍자의 대상과 방법을 분석합니다. 사회적 맥락과 작가 의도를 연결합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 소설 분석 방법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0437_VieM9BdZKFo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소설 분석의 단계별 방법을 훈련합니다. 실제 기출 문제에 적용하는 연습을 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,5 +105,5 @@ featured_image: "/images/edu_0437_VieM9BdZKFo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 고전소설 분석력을 키웁니다. 수능 빈출 작품을 집중 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>

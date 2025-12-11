@@ -15,7 +15,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력과 목표를 파악합니다. 과외와 학원 중 적합한 방식을 추천해드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 과외의 장점과 단점
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점을 정확히 진단합니다. 맞춤형 수업으로 효율을 극대화합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 학원의 장점과 단점
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 과외의 장단점을 비교해드립니다. 학생에게 최적의 조합을 찾아드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 내신 vs 수능별 선택
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시인지 정시인지에 따라 전략을 달리합니다. 효율적인 조합을 함께 설계합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과목별 추천
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습 방법을 안내합니다. 비용 대비 효과를 고려해 추천합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문

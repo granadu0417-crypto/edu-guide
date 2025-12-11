@@ -22,12 +22,11 @@ tags:
   - 서정고
 featured_image: "/images/edu_0010.jpg"
 ---
-
-고등학교 수학, 어디서부터 손대야 할지 막막하시죠? 고양시 덕양구 행신2동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+수학 성적이 갑자기 떨어졌나요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 스타일과 약점을 분석합니다. 맞지 않는 방법으로 공부하면 성적이 안 오릅니다.
+실력 진단 없이 수업하면 시간만 낭비됩니다. 체계적인 진단으로 효율적인 학습 경로를 설계합니다.
 </div>
 
 ## 고등 수학, 왜 이렇게 어려운 걸까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0010.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신은 학교별로 대비하고, 수능은 전국 기준으로 준비합니다. 두 마리 토끼를 다 잡는 전략이 있습니다.
+모르는 문제는 5분만 고민합니다. 그래도 모르면 풀이를 보고 이해한 후 다시 풀어봅니다.
 </div>
 
 ## 서정고 시험 유형 파악하기
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0010.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서정고은 서술형 비중이 높습니다. 풀이 과정을 깔끔하게 쓰는 연습을 합니다.
+학교의 기출문제를 철저히 분석합니다. 출제 선생님 스타일, 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 수능 수학, 어떻게 준비할까요?
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0010.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수로 틀린 건지, 몰라서 틀린 건지 구분합니다. 실수도 실력입니다. 줄일 수 있습니다.
+시험 3주 전부터는 내신에 올인합니다. 그 외 기간에는 실력을 키웁니다.
 </div>
 
 ## 1:1 과외의 차별점
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0010.jpg"
 
 ## 마무리
 
-오늘이 가장 빠른 날입니다. 지금 시작하세요.
+덕양구 학생 여러분, 변화는 결심에서 시작됩니다. 지금 연락 주세요.

@@ -10,14 +10,13 @@ tags:
   - 세종시수학과외
   - 세종시고등수학
 ---
-
-함수와 함수 사이의 관계가 잘 안 보인다면, 함수 개념 연결력이 필요합니다.
+제대로 배우면 수학도 재밌어집니다.
 
 세종시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 세종고, 양지고, 아름고 시험에서 함수 간 연결 문제가 자주 출제됩니다. 합성함수, 역함수의 관계를 명확히 이해해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수의 기본 정의부터 확립합니다. 각 함수가 어떻게 연결되는지 시각적으로 이해시킵니다.
+먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어떤 개념이 부족한지 진단합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수를 하나씩 분해해서 봅니다. 입력과 출력의 흐름을 추적하는 훈련을 합니다.
+모르는 문제는 5분만 고민합니다. 그래도 모르면 풀이를 보고 다시 풉니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세종고, 양지고 기출에서 함수 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험은 정보전입니다. 효율적으로 대비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 진도에 맞춰 함수 개념을 점진적으로 확장합니다.
+입시 목표에 맞춰 내신과 수능 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,4 +117,4 @@ tags:
 
 ## 마무리
 
-세종시에서 함수 연결이 어렵다면 개념 훈련이 필요합니다. 함수가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 더 늦기 전에 시작하세요.

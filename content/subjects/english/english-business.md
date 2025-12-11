@@ -20,7 +20,7 @@ featured_image: "/images/edu_0353_OspMUpCBeqQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실무에서 바로 쓸 수 있는 비즈니스 영어 표현을 익힙니다. 상황별 패턴을 집중 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 이메일 작성법
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0353_OspMUpCBeqQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이메일 작성 실습을 통해 실전 감각을 키웁니다. 다양한 상황의 이메일 템플릿을 익힙니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 회의 영어
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0353_OspMUpCBeqQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-회의 상황을 롤플레이로 연습합니다. 실제 상황에서 바로 쓸 수 있도록 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 프레젠테이션 영어
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0353_OspMUpCBeqQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-프레젠테이션 실습으로 발표 실력을 키웁니다. 자연스러운 영어 발표 스킬을 익힙니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -72,5 +72,5 @@ featured_image: "/images/edu_0353_OspMUpCBeqQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 비즈니스 영어 수업으로 실무 영어 실력을 키웁니다. 바로 쓸 수 있는 표현을 익혀드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

@@ -21,7 +21,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 상담에서는 먼저 학생의 시험 준비 패턴을 분석합니다. 언제부터 공부를 시작하는지, 어떤 방식으로 복습하는지 파악하여 개선점을 찾습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 내신 관리를 위한 상담이 왜 필요한가요?
@@ -36,7 +36,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리가 급하다면 학습 상담부터 시작하세요. 당장의 시험 전략과 함께 장기적인 학습 습관 개선도 함께 진행합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 진학 상담은 상급 학교 진학을 준비하는 학생을 위한 것입니다. 입시 전략과 학교 정보를 바탕으로 전략적인 계획을 세웁니다. 심리 상담은 시험 불안이나 스트레스가 심한 학생에게 도움이 됩니다.
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담이 끝나면 실천 계획을 함께 작성합니다. 다음 시험까지 무엇을 어떻게 할지 구체적인 로드맵을 세우고, 정기적으로 점검합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학년마다 내신 관리 포인트가 다른가요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 특성을 고려하여 상담을 진행합니다. 중학생은 기본기와 습관, 고등학생은 전략과 효율에 집중합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리에 대해 더 궁금한 점이 있으시면 편하게 문의하세요. 학생 상황에 맞는 맞춤 전략을 제안해드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

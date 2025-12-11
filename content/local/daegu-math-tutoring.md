@@ -21,7 +21,7 @@ featured_image: "/images/edu_0192_bCx6LpXL1oE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 풀이 과정을 꼼꼼히 점검합니다. 계산 실수인지 개념 부족인지 정확히 진단하고, 실수가 자주 발생하는 부분을 집중 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 대구 지역 중학교 수학 내신 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0192_bCx6LpXL1oE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 답안 작성법을 집중 훈련하고 부분 점수 전략까지 준비합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 대구 지역 고등학교 수학 내신 특징
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0192_bCx6LpXL1oE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 고난도 문제 풀이 전략을 익히고 시간 안에 정확하게 푸는 훈련을 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ### 수성구 일반고
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0192_bCx6LpXL1oE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 개념을 정리합니다. 현재 학년 내용을 완벽히 이해한 후 적절한 선행을 진행합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 대구 지역별 교육 특성
@@ -89,7 +89,7 @@ featured_image: "/images/edu_0192_bCx6LpXL1oE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학교 특성을 분석합니다. 학교 시험 경향에 맞춘 맞춤 내신 대비를 진행합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -100,7 +100,7 @@ featured_image: "/images/edu_0192_bCx6LpXL1oE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준과 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과외 비용 안내

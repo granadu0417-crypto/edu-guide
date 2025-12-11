@@ -21,7 +21,7 @@ featured_image: "/images/edu_0931_oTglG1D4hRA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 스스로 계획을 세우고 실천하는 능력을 키워줍니다. 처음에는 함께 계획을 세우고 점차 혼자서도 할 수 있게 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자기주도학습이란 무엇인가
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0931_oTglG1D4hRA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부의 목적과 필요성을 학생 스스로 느끼게 합니다. 억지로 시키지 않고 동기를 자극합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자기주도학습 능력을 키우는 방법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0931_oTglG1D4hRA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 오늘 할 일을 함께 정합니다. 수업 끝에 오늘 한 일을 점검합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 학습 계획 세우는 방법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0931_oTglG1D4hRA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 함께 주간 학습 계획표를 작성합니다. 처음에는 도와주고 점차 스스로 작성하게 합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자기주도학습을 방해하는 요소
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0931_oTglG1D4hRA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경을 점검하고 방해 요소를 제거하도록 안내합니다. 학생이 집중할 수 있는 환경을 만들어줍니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 복습의 중요성
@@ -82,7 +82,7 @@ featured_image: "/images/edu_0931_oTglG1D4hRA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습의 중요성을 강조하고 효과적인 복습 방법을 알려줍니다. 복습 습관이 자리 잡도록 도와줍니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}

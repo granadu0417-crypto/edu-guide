@@ -26,7 +26,7 @@ featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-변위와 이동 거리의 차이부터 명확히 합니다. 속도와 속력을 구분하여 이해합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 속도와 가속도
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-속도와 가속도의 정의를 정확히 이해합니다. 스칼라와 벡터의 차이를 구분합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 등가속도 운동 공식
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 공식의 유도 과정을 이해합니다. 어떤 상황에 어떤 공식을 쓸지 판단합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 운동 그래프
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프에서 물리량을 읽는 방법을 훈련합니다. 다양한 운동의 그래프를 분석합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 분석합니다. 조건에 따른 공식 선택을 연습합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문
@@ -119,5 +119,5 @@ featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 운동학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>

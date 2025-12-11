@@ -15,7 +15,7 @@ featured_image: "/images/edu_0650_viY-ACkx2iE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경제 뉴스와 연결해서 개념을 설명합니다. 이론이 실제로 어떻게 작동하는지 보여드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 수요와 공급부터 시작하세요
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0650_viY-ACkx2iE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수요-공급 그래프를 직접 그려보며 원리를 체득합니다. 다양한 상황에서 균형 변화를 분석하는 연습을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 그래프 완전 정복
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0650_viY-ACkx2iE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 그래프를 손으로 그리는 연습을 합니다. 왜 그렇게 움직이는지 원리와 함께 설명합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 거시경제 핵심 정리
@@ -50,7 +50,7 @@ GDP, 실업률, 물가는 경제의 건강 상태를 보여주는 지표입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 한국은행 기준금리 발표나 정부 예산안을 보며 경제 정책을 분석합니다. 교과서 내용이 현실에서 어떻게 작동하는지 보여드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 경제 뉴스로 공부하기
@@ -61,7 +61,7 @@ GDP, 실업률, 물가는 경제의 건강 상태를 보여주는 지표입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최신 경제 이슈를 수업에 활용합니다. 뉴스 속 경제 개념을 찾고 분석하는 훈련을 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문

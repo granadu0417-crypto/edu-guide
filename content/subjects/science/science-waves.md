@@ -26,7 +26,7 @@ featured_image: "/images/edu_0642_ID1yWa1Wpx0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파동의 기본 요소를 그림으로 정리합니다. 횡파와 종파의 차이를 설명합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 파동의 기본 요소
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0642_ID1yWa1Wpx0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파동 공식 v = fλ를 이해합니다. 그래프에서 파동 요소를 읽는 연습을 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 간섭과 회절
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0642_ID1yWa1Wpx0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-간섭 조건과 경로차 계산을 연습합니다. 회절 현상을 그림으로 설명합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 반사와 굴절
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0642_ID1yWa1Wpx0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스넬의 법칙 공식을 이해합니다. 굴절률과 임계각의 관계를 설명합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0642_ID1yWa1Wpx0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 파동 그래프 해석과 간섭 계산을 집중 훈련합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -127,5 +127,5 @@ featured_image: "/images/edu_0642_ID1yWa1Wpx0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 파동을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>

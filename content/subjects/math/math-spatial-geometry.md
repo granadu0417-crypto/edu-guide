@@ -25,7 +25,7 @@ featured_image: "/images/edu_0557_xZJK3Dp65OU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공간 감각을 키우는 것부터 시작합니다. 그림 그리는 법을 먼저 가르치고 점차 계산으로 넘어갑니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 공간좌표와 거리
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0557_xZJK3Dp65OU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좌표 설정하는 법을 연습합니다. 계산하기 쉽게 좌표를 설정하는 요령을 가르칩니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 공간벡터
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0557_xZJK3Dp65OU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평면벡터와 비교하며 공간벡터를 설명합니다. 내적과 외적의 의미와 활용법을 확실히 이해시킵니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 직선과 평면의 방정식
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0557_xZJK3Dp65OU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-직선과 평면의 방정식을 유도 과정과 함께 설명합니다. 공식을 외우는 것보다 이해를 강조합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 정사영
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0557_xZJK3Dp65OU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정사영 개념을 그림자에 비유하여 직관적으로 설명합니다. 길이와 넓이 공식을 연습합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -86,6 +86,6 @@ featured_image: "/images/edu_0557_xZJK3Dp65OU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공간 감각과 계산 능력을 균형 있게 키워드립니다. 그림과 좌표를 함께 활용하는 풀이법을 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 

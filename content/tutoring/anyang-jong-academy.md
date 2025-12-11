@@ -25,7 +25,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-안양 지역 학생들 학교 내신 경향을 파악하고 있습니다. 학교별 맞춤 수업이 가능합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 안양 종합학원의 특징은 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합학원에서 부족한 과목이 있으면 과외로 보충할 수 있습니다. 병행도 좋은 방법입니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 지역별로 학원 특징이 다른가요?
@@ -51,7 +51,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-안양 지역 학교 시험 일정에 맞춰 수업 계획을 세웁니다. 내신 대비도 함께 진행합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 종합학원의 장점은 뭔가요?
@@ -66,7 +66,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합학원과 과외를 병행하면 효과가 더 좋습니다. 약점 과목만 과외로 집중하면 됩니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-안양 지역 학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문

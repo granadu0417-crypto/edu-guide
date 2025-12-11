@@ -19,7 +19,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 일본어 실력을 먼저 체크합니다. 문자 인식, 발음, 기초 문법 이해도를 파악합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 일본어가 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기초부터 차근차근 다집니다. 히라가나, 가타카나를 확실히 익힌 후 문법으로 넘어갑니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 내신 만점을 위한 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 본문을 꼼꼼히 분석합니다. 시험에 나올 포인트를 미리 짚어드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 기초 문법 정리
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법을 표로 정리해서 한눈에 볼 수 있게 합니다. 헷갈리는 부분을 비교해서 정리합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 어휘 암기 방법
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 필수 단어를 우선 정리합니다. 시험 범위 단어를 완벽하게 암기합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1로 발음을 교정합니다. 정확하게 읽고 말하는 연습을 충분히 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문

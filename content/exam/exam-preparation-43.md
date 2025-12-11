@@ -19,7 +19,7 @@ featured_image: "/images/edu_0183_5NKadumpkhc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날에는 새로운 내용을 공부하지 않습니다. 핵심만 가볍게 정리하고 컨디션 관리에 집중하도록 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 전날 해야 할 일
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0183_5NKadumpkhc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날 체크리스트를 함께 확인합니다. 빠뜨린 것이 없는지 점검하고 마음을 안정시킵니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 컨디션 관리
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0183_5NKadumpkhc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날 컨디션 관리의 중요성을 강조합니다. 몸과 마음을 최상의 상태로 만들도록 안내합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 절대 하면 안 되는 것
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0183_5NKadumpkhc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날 피해야 할 행동을 안내합니다. 실수를 방지하고 최상의 컨디션을 유지하도록 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 마음 다스리기
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0183_5NKadumpkhc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안을 다스리는 방법을 함께 연습합니다. 긍정적인 마인드로 시험에 임할 수 있도록 도와드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 잠들기 전 루틴

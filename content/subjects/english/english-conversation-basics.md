@@ -19,7 +19,7 @@ featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 대화 상황을 연습합니다. 자연스럽게 말하는 훈련을 진행합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 필수 인사 표현
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상황별 인사 표현을 롤플레이로 연습합니다. 자연스러운 반응을 익힙니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자기소개와 일상 대화
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기소개와 일상 대화를 실전처럼 연습합니다. 다양한 상황에 대응하는 연습을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 부탁과 의견 표현
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부탁과 의견 표현을 상황별로 연습합니다. 격식도에 따른 표현 차이를 익힙니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 실전 연습법
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-섀도잉과 발음 교정을 진행합니다. 실전 대화 연습으로 자신감을 키웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -120,5 +120,5 @@ featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 회화 수업으로 영어 말하기 자신감을 키웁니다. 실전 대화 연습으로 빠르게 향상시킵니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>

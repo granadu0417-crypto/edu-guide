@@ -20,7 +20,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무작정 외우지 않습니다. 왜 그렇게 되는지 원리부터 설명합니다. 이해하면 외울 것이 줄어듭니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과학에서 이해가 왜 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식이 어디서 나왔는지 유도해 봅니다. 유도할 수 있으면 까먹어도 다시 만들 수 있습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 개념 이해는 어떻게 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그림을 그리면서 설명합니다. 눈으로 보면 이해가 훨씬 빠릅니다. 학생도 직접 그려보게 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 실험은 어떻게 공부하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험을 직접 설계해 보는 연습을 합니다. 변인 통제를 이해하면 실험 문제가 쉬워집니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 학습에 대해 더 궁금한 점이 있으시면 문의하세요. 이해 중심 학습법을 안내해 드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

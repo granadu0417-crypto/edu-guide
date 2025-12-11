@@ -15,7 +15,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로 방향을 파악하고 학년별 학생부 관리 계획을 세웁니다. 세특과 창체의 균형을 맞추어 드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 세특 관리 전략
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 탐구 주제를 함께 정합니다. 탐구 보고서 작성법을 지도하고 선생님께 제출할 자료를 점검합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 창체 활동 관리
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로에 맞는 동아리와 활동을 추천합니다. 활동 후 정리 방법을 알려드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학년별 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 로드맵을 세우고 매 학기 점검합니다. 부족한 부분을 파악해 다음 학기에 보완합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 진로 일관성 만들기
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로 스토리를 함께 구성합니다. 활동 간 연결고리를 찾고 일관성을 점검합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

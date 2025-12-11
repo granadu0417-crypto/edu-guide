@@ -19,7 +19,7 @@ featured_image: "/images/edu_0237_AfSVEnEj4K0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 시작 전에 1학기 성적을 분석합니다. 구멍 난 부분을 파악하고, 복습과 선행 비율을 학생 상태에 맞게 정합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 방학 과외의 3가지 목적
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0237_AfSVEnEj4K0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성적에 따라 복습과 예습 비율을 정합니다. 4에서 5등급이면 복습만, 2에서 3등급이면 복습과 예습 병행, 1등급이면 예습과 선행을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 여름방학 전략
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0237_AfSVEnEj4K0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학에는 과외 횟수를 늘립니다. 평소 주 2회면 방학에는 주 3에서 4회로 늘려서 집중적으로 학습합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 방학 과외 유형별 전략
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0237_AfSVEnEj4K0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학에는 시간이 여유로우니 평소보다 깊이 있게 가르칩니다. 개념을 완벽히 이해시키고, 문제 풀이 연습을 충분히 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 방학 과외 주의사항

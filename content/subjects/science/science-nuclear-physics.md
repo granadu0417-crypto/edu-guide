@@ -26,7 +26,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원자번호와 질량수의 의미를 명확히 합니다. 동위원소의 개념을 이해합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 방사성 붕괴
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-알파, 베타, 감마의 특성을 비교합니다. 반감기 계산 문제를 연습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 핵분열과 핵융합
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵분열과 핵융합의 조건을 비교합니다. E=mc²의 의미를 정확히 이해합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 방사선의 이용과 안전
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방사선의 종류별 투과력을 비교합니다. 실생활 응용 사례를 정리합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 분석합니다. 핵반응식 쓰기를 집중 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ E=mc²에 따라 에너지로 전환됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 원자물리를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

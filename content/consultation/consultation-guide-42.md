@@ -20,7 +20,7 @@ featured_image: "/images/edu_0064_xKJUnFwfz3s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 탐색 상담에서는 학생의 흥미와 적성을 다각도로 분석합니다. 검사 도구와 대화를 통해 학생이 미처 발견하지 못한 강점을 찾아드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 진로 탐색 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0064_xKJUnFwfz3s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로가 안 정해졌다면 진로 상담을 받으세요. 학생에게 맞는 진로 방향을 함께 찾아드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 학습 상담은 공부 방법을 다룹니다. 진학 상담은 진로가 정해진 후 구체적인 입시 전략을 세울 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0064_xKJUnFwfz3s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 진로 탐색 로드맵을 안내합니다. 어떤 경험을 해보면 좋을지, 어떤 직업을 더 알아보면 좋을지 구체적으로 정리해드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 진로는 어떻게 찾아야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0064_xKJUnFwfz3s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 강점을 바탕으로 맞는 진로 분야를 함께 탐색합니다. 한 번에 정하지 않고 점차 좁혀가는 방식으로 진행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0064_xKJUnFwfz3s.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 탐색에 대해 더 궁금한 점이 있으시면 문의하세요. 우리 아이에게 맞는 진로를 찾도록 도와드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

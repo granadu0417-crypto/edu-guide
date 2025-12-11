@@ -26,7 +26,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해수의 염분과 수온 분포부터 시작합니다. 밀도 차이가 해수 순환에 미치는 영향을 이해합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 해수의 성질
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-염분의 정의와 측정법을 정리합니다. 수온-염분 다이어그램을 해석합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 표층 해류와 심층 순환
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표층 해류와 심층 순환의 원인을 비교합니다. 지도에서 주요 해류의 위치를 확인합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 조석과 해파
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조석의 원리를 그림으로 설명합니다. 해파의 특성을 비교 정리합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 해류 지도와 그래프 해석을 집중 훈련합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -119,5 +119,5 @@ featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 해양을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>

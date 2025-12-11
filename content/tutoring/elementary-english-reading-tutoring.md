@@ -19,7 +19,7 @@ featured_image: "/images/edu_0022_0nyR0Aw5fCA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 리딩 레벨을 정확히 파악합니다. AR, Lexile 지수를 참고해서 맞는 책을 선정합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 영어리딩이 왜 중요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0022_0nyR0Aw5fCA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 좋아할 만한 책으로 시작합니다. 흥미가 있어야 읽습니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 영어리딩 수업은 어떻게 진행되나요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0022_0nyR0Aw5fCA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한 권을 여러 번 읽기도 합니다. 반복 읽기는 유창성을 높입니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 영어리딩 과외의 장점은 뭔가요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0022_0nyR0Aw5fCA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 다음에 읽을 책과 분량을 안내드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 좋은 영어리딩 선생님의 조건은 뭔가요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0022_0nyR0Aw5fCA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 어떤 책으로 시작할지 안내드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}

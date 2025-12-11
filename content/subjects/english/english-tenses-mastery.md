@@ -23,7 +23,7 @@ featured_image: "/images/edu_0418_vqNYSTwcTW8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 헷갈리는 시제를 파악합니다. 형태와 용법을 체계적으로 정리합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 현재완료 vs 과거
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0418_vqNYSTwcTW8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재완료와 과거의 차이를 명확히 정리합니다. 실전 예문으로 구별하는 연습을 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 진행형과 완료형
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0418_vqNYSTwcTW8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진행형과 완료형의 형태와 용법을 정리합니다. 12시제 전체를 체계적으로 익힙니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 미래 표현
@@ -52,7 +52,7 @@ will은 즉석 결정이나 예측에 씁니다. be going to는 이미 세운 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미래 표현의 차이를 정리합니다. 상황별로 적절한 표현을 선택하는 연습을 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시제 일치
@@ -61,7 +61,7 @@ will은 즉석 결정이나 예측에 씁니다. be going to는 이미 세운 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시제 일치 규칙을 정리합니다. 예외 상황까지 체계적으로 익힙니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,5 +108,5 @@ will은 즉석 결정이나 예측에 씁니다. be going to는 이미 세운 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 시제를 빠르게 정복합니다. 헷갈리는 부분을 집중 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>

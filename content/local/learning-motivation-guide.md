@@ -15,7 +15,7 @@ featured_image: "/images/edu_0293_ZDlJ7R4F6Yg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 학습동기 수준을 파악합니다. 왜 공부가 싫은지 무엇이 재미있는지 함께 대화합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 학습동기의 종류
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0293_ZDlJ7R4F6Yg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 동기 유형을 파악합니다. 내재적 동기와 외재적 동기를 균형 있게 활용하는 방법을 안내합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학습동기를 높이는 방법
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0293_ZDlJ7R4F6Yg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 함께 구체적인 목표를 설정합니다. 작은 성공 경험을 쌓으며 성취감을 느끼게 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 부모의 역할
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0293_ZDlJ7R4F6Yg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모님과 함께 올바른 칭찬법을 공유합니다. 가정에서도 학습동기를 높이는 환경을 만듭니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 슬럼프와 무기력 극복
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0293_ZDlJ7R4F6Yg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-슬럼프 원인을 함께 파악합니다. 작은 목표부터 다시 시작하며 성취감을 회복합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문

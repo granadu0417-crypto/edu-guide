@@ -20,7 +20,7 @@ featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-6학년은 기초 점검부터 합니다. 어떤 부분이 부족한지 진단하고, 초등 과정에서 놓친 부분을 집중 보완합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 핵심 학습 목표
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 1학년 내용을 살짝 맛보기로 보여줍니다. 초등 기초가 왜 중요한지 알게 되면 공부 의욕이 생깁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 과목별 학습 전략
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분수와 소수 연산을 집중 점검합니다. 이게 안 되면 중학교 수학이 안 됩니다. 부족하면 4-5학년 내용까지 돌아가서 다시 잡습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 6학년의 특징과 대응
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-6학년은 스스로 목표를 정하게 합니다. 중학교 가서 뭘 잘하고 싶어?라고 물어보고, 그에 맞춰 준비합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 가정에서의 역할
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 중에 초등 전 과정을 정리합니다. 1학년부터 6학년까지 핵심 내용을 빠르게 훑어보고, 부족한 부분을 집중 보완합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 주의사항

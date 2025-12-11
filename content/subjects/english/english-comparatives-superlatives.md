@@ -20,7 +20,7 @@ featured_image: "/images/edu_0357_Y8TiLvKnLeg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교급 형태 규칙을 명확히 정리합니다. 헷갈리는 부분을 집중 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 비교급·최상급 만들기
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0357_Y8TiLvKnLeg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-규칙 변화와 불규칙 변화를 체계적으로 정리합니다. 철자 변화 주의사항도 익힙니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 비교급 구문
@@ -40,7 +40,7 @@ A is -er than B는 A가 B보다 더 -하다입니다. She is taller than me처�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교급 구문을 실전 예문으로 연습합니다. 배수 표현도 익힙니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 최상급과 원급 비교
@@ -49,7 +49,7 @@ A is -er than B는 A가 B보다 더 -하다입니다. She is taller than me처�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최상급과 원급 비교 구문을 연습합니다. 범위 표현도 정리합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 비교급 관용표현
@@ -58,7 +58,7 @@ the 비교급, the 비교급은 -하면 할수록 더 ...하다입니다. The mo
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교급 관용표현을 문장으로 연습합니다. 수능 빈출 표현을 집중 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ the 비교급, the 비교급은 -하면 할수록 더 ...하다입니다. The mo
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 비교 표현을 마스터합니다. 실전 문제로 정확도를 높여드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>

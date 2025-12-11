@@ -22,7 +22,7 @@ featured_image: "/images/edu_0655_mNY_-DvKisc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 학습법을 처음부터 잡아줍니다. 중학교 때 습관을 버리고 새로운 방법을 익힙니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 고1, 왜 중요한가
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0655_mNY_-DvKisc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력을 정확히 파악합니다. 어디가 부족한지, 뭘 먼저 해야 하는지 진단합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 고등학교 공부의 특징
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0655_mNY_-DvKisc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 공부에 맞는 학습법을 알려줍니다. 중학교 때 방식을 버리고 새로운 방법을 익힙니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과목별 기초 다지기
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0655_mNY_-DvKisc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 기초를 점검합니다. 부족한 부분을 찾아서 먼저 채웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 내신 시험 대비
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0655_mNY_-DvKisc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출을 분석합니다. 선생님마다 출제 스타일이 다르니까 맞춤 대비를 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 생기부 관리 시작
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0655_mNY_-DvKisc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부에 뭘 채워야 하는지 계획을 세웁니다. 고1 때부터 준비해야 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 주의사항

@@ -22,12 +22,11 @@ tags:
   - 고양중
 featured_image: "/images/edu_0019.jpg"
 ---
-
-기초가 탄탄하면 어떤 문제도 풀 수 있습니다. 고양시 덕양구 내유동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+늦지 않았습니다. 영어, 지금 시작하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 실력은 숫자로만 평가할 수 없습니다. 문법 이해도, 독해 접근법, 시간 관리까지 종합 진단합니다.
+수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
 </div>
 
 ## 초등 때 잘했는데 왜 안 되는 걸까?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 내신과 선행 비중을 조절합니다. 중1은 기초, 중3은 고등 선행 비중을 높여갑니다.
+비슷한 유형을 반복해서 풀며 패턴을 익힙니다. 새로운 문제도 익숙한 유형으로 변환할 수 있습니다.
 </div>
 
 ## 고양중 영어 시험의 특징
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 기출문제를 철저히 분석합니다. 자주 출제되는 문법과 어휘 패턴을 파악하여 대비합니다.
+서술형 비중이 높은 학교는 풀이 과정을 깔끔하게 쓰는 연습을 합니다.
 </div>
 
 ## 고등 영어를 위한 기초 다지기
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0019.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 모아서 나만의 약점 문제집을 만듭니다. 시험 직전에 이것만 보면 됩니다.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행하는 방법을 알려드립니다.
 </div>
 
 ## 1:1 과외의 장점
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0019.jpg"
 
 ## 마무리
 
-내유동 중학생을 위한 맞춤 영어 수업, 지금 상담받으세요.
+덕양구 학생 여러분, 어렵다고 피하면 계속 어렵습니다. 지금 시작하세요.

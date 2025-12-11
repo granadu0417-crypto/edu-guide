@@ -21,7 +21,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 1주 전에는 새로운 내용보다 복습에 집중합니다. 그동안 공부한 내용을 점검하고 빈틈을 메웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 1주 전 점검 사항
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위 전체를 점검합니다. 놓친 부분이 없는지 확인하고 약점을 집중적으로 보완합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 실전 연습의 중요성
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전처럼 모의고사를 풀어봅니다. 시간 관리와 문제 풀이 순서를 연습하여 시험장에서 당황하지 않도록 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 일별 학습 계획
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일주일 학습 계획을 함께 세웁니다. 매일 진도를 체크하고 계획대로 진행되도록 관리합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 효율적인 복습 방법
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 복습 방법을 안내합니다. 짧은 시간에 핵심을 정리할 수 있도록 도와드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 멘탈 관리

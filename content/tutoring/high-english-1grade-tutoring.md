@@ -19,7 +19,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 먼저 진단합니다. 독해력, 어휘력, 문법, 듣기 중 어느 부분이 약한지 파악합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 수능 영어의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 영어의 출제 패턴을 분석합니다. 유형별로 효율적인 풀이 전략을 세웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 독해력 키우기
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 구조 분석을 연습합니다. 복잡한 문장도 빠르게 해석하는 능력을 키웁니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 킬러 문제 공략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-킬러 문제 유형별 풀이 전략을 집중 훈련합니다. 자주 틀리는 유형을 반복 연습합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 어휘와 문법
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어휘 테스트를 정기적으로 합니다. 꾸준히 외우고 확인합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 체계적으로 분석합니다. 출제 패턴을 파악하고 대비합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0043_8VRKYQ_pVwo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문

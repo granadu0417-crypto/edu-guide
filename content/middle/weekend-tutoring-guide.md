@@ -17,7 +17,7 @@ featured_image: "/images/edu_0238_1jF-rt6MokU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 주중 스케줄을 확인합니다. 학원이 많아서 주말만 가능하면 주말 집중 과외로 진행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 주말 과외의 장점
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0238_1jF-rt6MokU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주말 과외는 긴 시간을 활용합니다. 2에서 3시간 동안 복습, 새 내용, 문제 풀이를 한 번에 진행합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 주말 과외의 단점
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0238_1jF-rt6MokU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주말 과외 학생에게는 주중 과제를 꼭 냅니다. 매일 30분씩 복습해야 한다고 강조하고, 복습 여부를 확인합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 토요일 과외 운영법
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0238_1jF-rt6MokU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞게 토요일과 일요일을 조합합니다. 한 과목만 하면 토요일만, 두 과목이면 토요일과 일요일 모두 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 주중 과제가 핵심이다
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0238_1jF-rt6MokU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작할 때 주중 복습 여부를 확인합니다. 복습을 잘 했으면 바로 다음 단계로, 안 했으면 다시 설명합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 토요일 오전이 가장 좋다

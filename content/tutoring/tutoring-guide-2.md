@@ -20,7 +20,7 @@ featured_image: "/images/edu_0954__yxsJEUJySM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 선택 상담에서는 학생의 성향을 먼저 분석합니다. 어떤 유형의 선생님이 맞는지, 무엇을 중점적으로 확인해야 하는지 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 좋은 과외 선생님은 어떻게 알아보나요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0954__yxsJEUJySM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 면접 시 확인해야 할 사항을 정리해드립니다. 첫 만남에서 무엇을 물어봐야 하는지 알려드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 학습 상담은 아이의 학습 상태를 파악할 때 도움이 됩니다. 진학 상담은 입시 목표에 맞는 선생님을 정할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0954__yxsJEUJySM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님과의 첫 상담에서 확인할 질문 리스트를 제공합니다. 중요한 것 놓치지 않도록 도와드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 어떤 선생님이 우리 아이에게 맞을까요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0954__yxsJEUJySM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향에 맞는 선생님 유형을 분석해드립니다. 매칭 후 적응 기간 동안 조정이 필요한지도 함께 점검합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0954__yxsJEUJySM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 우리 아이에게 맞는 선생님 찾는 법을 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 마무리

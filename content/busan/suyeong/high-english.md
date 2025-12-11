@@ -10,14 +10,13 @@ tags:
   - 수영구영어과외
   - 수영구고등영어
 ---
-
-문장 순서를 어떻게 배열해야 할지 모르겠다면, 순서 배열력이 필요합니다.
+고등 영어, 문법과 독해를 함께 잡아야 합니다.
 
 수영구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 수영고, 광안고, 망미고 시험에서 순서 배열 문제가 자주 출제됩니다. 글의 논리적 전개를 파악하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 문장과 마지막 문장을 먼저 찾습니다. 중간 연결 관계를 분석합니다.
+모든 수업은 진단에서 시작합니다. 현재 위치를 파악하고 로드맵을 설계합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 문단의 시작과 끝을 분석합니다. 논리적 연결점을 찾습니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수영고, 광안고 기출에서 배열 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 순서 배열 전략을 점진적으로 심화합니다.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,4 +125,4 @@ tags:
 
 ## 마무리
 
-수영구에서 순서가 안 보인다면 논리 흐름 훈련이 필요합니다. 흐름이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 내신에 특화된 과외, 지금 시작할 때입니다.

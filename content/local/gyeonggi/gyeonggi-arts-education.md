@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 재능과 흥미를 정확히 파악하여 적합한 분야를 찾아드립니다. 취미 목적인지, 입시 목적인지에 따라 맞춤 커리큘럼을 설계해드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ### 시작하기 좋은 시기
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이에게 맞는 악기를 추천해드리고, 체계적인 커리큘럼으로 기초부터 탄탄하게 지도합니다. 입시가 목표라면 예고·음대 합격을 위한 로드맵을 설계해드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ### 음악 입시 준비
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-취미 미술과 입시 미술을 명확히 구분하여 지도합니다. 입시가 목표라면 실기 시험 유형에 맞춘 집중 훈련으로 합격을 도와드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ### 미술 입시 준비
@@ -76,7 +76,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 체력과 적성에 맞는 종목을 추천해드립니다. 취미 체육과 선수 육성 코스를 구분하여, 목표에 맞는 훈련 프로그램을 제공합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 체육 입시 준비
@@ -91,7 +91,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능과 학업을 균형 있게 병행할 수 있도록 학습 플랜을 설계해드립니다. 시험 기간에는 유연하게 일정을 조율하여 내신도 챙길 수 있도록 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-네 영역 중 어디가 약한지 먼저 파악합니다. 물리 계산이 약한지, 화학 개념이 약한지, 생물 암기가 안 되는지 정확히 진단합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과외가 필요한 경우
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 네 영역별로 이해도를 체크합니다. 필요한 부분만 집중해서 시간을 효율적으로 씁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과외의 장점
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 암기가 아니라 이해 기반 암기를 시킵니다. 왜 그런지 알면 외우기도 쉽고 오래 갑니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 영역별 과외 내용
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-네 영역을 균형 있게 가르칩니다. 특정 영역만 강한 선생님은 곤란합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 학년별 과외 내용
@@ -68,7 +68,7 @@ featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2에서 무너지지 않도록 어려운 개념을 집중 관리합니다. 전기, 화학 반응 단원이 고비입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 수업 진행 방법
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 문제 비중이 높습니다. 실험 원리, 변인 통제, 결과 해석을 꼼꼼히 정리합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 암기 관리

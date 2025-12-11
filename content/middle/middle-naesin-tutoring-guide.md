@@ -15,7 +15,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 등급과 약점을 정확히 진단합니다. 등급별로 다른 전략이 필요합니다. 맞춤형 등급 상승 플랜을 세워드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 중학교 내신이 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신의 중요성을 이해시키고 동기 부여를 합니다. 목표 등급을 설정하고 함께 달성해갑니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 등급별로 어떤 전략이 필요한가요?
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 등급에 맞는 맞춤 전략을 세웁니다. 등급별로 필요한 학습량과 방법이 다릅니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시험 시기별로 과외는 어떻게 하나요?
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시기에 맞춰 과외 빈도와 내용을 조절합니다. 시험 직전에는 집중 관리를 해드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과목별 내신 전략이 다른가요?
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0975_sm3Ub_IJKQg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞게 학습합니다. 학생의 약점 과목에 더 집중합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문

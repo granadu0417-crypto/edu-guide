@@ -10,14 +10,13 @@ tags:
   - 진주시영어과외
   - 진주시고등영어
 ---
-
-was written by him에서 by가 왜 필요한지 헷갈린다면, 수동태력이 필요합니다.
+영어 성적이 오르지 않아 고민이신가요?
 
 진주시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 진주고, 경남고, 진주여고 시험에서 수동태 문제가 자주 출제됩니다. 능동태와 수동태를 정확히 변환하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수동태 규칙을 체계적으로 정리합니다. be + p.p. 구조를 훈련합니다.
+진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ was written by him에서 by가 왜 필요한지 헷갈린다면, 수동태력이
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시제별 수동태를 정리합니다. 문형별 수동태 변환을 훈련합니다.
+비슷한 유형을 반복해서 풀며 패턴을 익힙니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ was written by him에서 by가 왜 필요한지 헷갈린다면, 수동태력이
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진주고, 경남고 기출에서 수동태 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+선생님이 강조한 부분을 정리합니다. 시험에 나올 확률이 높습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ was written by him에서 by가 왜 필요한지 헷갈린다면, 수동태력이
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 수동태력을 점진적으로 심화합니다.
+내신 범위가 곧 수능 출제 범위입니다. 한 번 공부로 두 가지를 대비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -106,5 +105,5 @@ was written by him에서 by가 왜 필요한지 헷갈린다면, 수동태력이
 
 ## 마무리
 
-진주시에서 수동태가 어렵다면 구조 훈련이 필요합니다. 변환이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 힘들 때 도움받으면 됩니다.
 

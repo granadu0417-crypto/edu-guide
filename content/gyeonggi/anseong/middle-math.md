@@ -14,12 +14,11 @@ tags:
   - 안성시수학과외
   - 안성시중등수학
 ---
-
-안성시 중학교 수학, 기초부터 탄탄히 잡아야 고등학교에서 흔들리지 않습니다.
+초등학교 때는 잘했는데, 지금은 왜 안 되나요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 실력을 종합 진단합니다. 개념 이해도, 계산 정확도, 문제 해결력을 파악하고 약점부터 집중 보완합니다.
+기초가 부족한지, 응용이 약한지, 시간 관리가 문제인지 정확히 진단합니다.
 </div>
 
 ## 안성시 중학교 수학이 중요한 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 완벽히 이해한 후 다양한 유형의 문제를 풀어봅니다. 원리 이해에 집중합니다.
+개념을 완벽히 이해한 후, 다양한 유형의 고난도 문제를 훈련합니다. 사고력을 기릅니다.
 </div>
 
 ## 안성시 주요 중학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악하여 맞춤 대비합니다.
+학교 시험 범위에 맞춰 집중 대비합니다. 범위 외 내용으로 시간 낭비하지 않습니다.
 </div>
 
 ## 학년별 학습 전략
@@ -64,7 +63,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼으로 진행합니다. 학기 중에는 내신 대비, 방학에는 선행 학습을 병행합니다.
+내신과 수능의 차이를 명확히 알려드립니다. 두 가지를 효율적으로 병행할 수 있는 학습 전략을 세웁니다.
 </div>
 
 
@@ -94,6 +93,6 @@ tags:
 
 ## 마무리
 
-안성시 중등학생 여러분, 수학 성적 향상이 필요하시다면 지금 시작하세요.
+안성시 학생 여러분, 포기가 아니라 도전입니다. 함께 해보세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

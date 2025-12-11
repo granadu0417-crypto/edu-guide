@@ -44,7 +44,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 집, 스터디카페, 도서관 등 편한 장소에서 1:1 맞춤 영어 수업을 진행합니다. 명동, 을지로 어디서든 선생님이 찾아갑니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ### 동네별 영어 학습 분위기
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 학교 시험 일정에 맞춰 내신 영어 대비를 진행합니다. 덕수중, 중동중 등 학교별 출제 경향을 파악하여 맞춤 대비해 드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학년별 영어과외, 이렇게 다릅니다
@@ -107,7 +107,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-게임, 노래, 영상을 활용해 영어가 재미있어지는 경험을 선물합니다. 아이가 먼저 "영어 하고 싶어요!"라고 말할 때까지!
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ### 중학생 영어 - 고등 영어의 뿌리를 심는 시간
@@ -136,7 +136,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문법도 쉽게 풀어 설명합니다. "아, 이래서 이렇게 되는구나!" 이해의 순간을 만들어드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ### 고등학생 영어 - 수능을 향한 본격 레이스
@@ -165,7 +165,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능까지 함께 달립니다! 모의고사 분석, 취약 유형 집중 공략으로 절대평가 1등급 달성을 도와드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 좋은 영어 선생님, 이렇게 찾으세요
@@ -194,7 +194,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 아이 성향과 현재 실력을 파악한 후 맞춤 커리큘럼을 제안해 드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -230,7 +230,7 @@ featured_image: "/images/edu_0342_Rq1MLxP5RgI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 외 시간에도 카카오톡으로 단어 퀴즈, 영작 첨삭을 진행합니다. 매일 영어에 노출될 수 있도록 관리해 드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 하시는 질문

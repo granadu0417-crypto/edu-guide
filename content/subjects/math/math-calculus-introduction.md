@@ -23,7 +23,7 @@ featured_image: "/images/edu_0508_iHUaev9SKRI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-극한의 개념부터 차근차근 설명합니다. 추상적인 개념을 그림과 예시로 구체화합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 극한의 이해
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0508_iHUaev9SKRI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-극한값 계산 방법을 유형별로 훈련합니다. 연속과 불연속 판정을 확실히 익힙니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 미분의 핵심
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0508_iHUaev9SKRI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미분 공식과 법칙을 완벽히 암기하도록 합니다. 접선과 극값 문제를 반복 연습합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 적분의 이해
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0508_iHUaev9SKRI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적분 공식과 치환적분을 체계적으로 훈련합니다. 넓이와 부피 계산 문제를 집중 연습합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 미적분 학습 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0508_iHUaev9SKRI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 미적분 학습 로드맵을 설계합니다. 수능 대비 전략을 함께 세웁니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문

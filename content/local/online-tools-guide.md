@@ -15,7 +15,7 @@ featured_image: "/images/edu_0298_YRMWVcdyhmI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 스타일을 파악합니다. 온라인 학습에 적합한지 함께 판단합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 무료 온라인 강의 플랫폼
@@ -24,7 +24,7 @@ EBS는 공영 교육 방송으로 초중고 전 과목 무료 강의를 제공�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 플랫폼 활용법을 안내합니다. 학생 수준에 맞는 콘텐츠를 추천합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 유료 인강과 화상 과외
@@ -35,7 +35,7 @@ EBS는 공영 교육 방송으로 초중고 전 과목 무료 강의를 제공�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유료 인강과 화상 과외의 장단점을 안내합니다. 학생에게 맞는 방식을 선택합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 학습 관리 앱
@@ -44,7 +44,7 @@ EBS는 공영 교육 방송으로 초중고 전 과목 무료 강의를 제공�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 관리 앱 사용법을 안내합니다. 학생 상황에 맞는 앱을 추천합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 효과적인 온라인 학습 전략
@@ -53,7 +53,7 @@ EBS는 공영 교육 방송으로 초중고 전 과목 무료 강의를 제공�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습 환경 세팅을 도와드립니다. 효과적인 학습 전략을 안내합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문

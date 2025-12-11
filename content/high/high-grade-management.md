@@ -15,7 +15,7 @@ featured_image: "/images/edu_0668_adQAb-L-YkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 성적을 분석하고 등급 상승 전략을 함께 세웁니다. 약점 과목과 유형을 집중 공략합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 내신 등급제 이해하기
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0668_adQAb-L-YkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 대학과 전형에 맞는 내신 전략을 수립합니다. 학년별, 과목별 목표 등급을 설정합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 등급별 관리 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0668_adQAb-L-YkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 맞춤형 학습을 진행합니다. 무리하지 않는 목표를 세우고 단계적으로 실력을 쌓습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 과목별 성적 관리
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0668_adQAb-L-YkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습법을 지도합니다. 강점 과목은 유지하고 약점 과목은 집중 보완합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 평소 학습의 중요성
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0668_adQAb-L-YkE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평소 학습 습관을 점검하고 개선합니다. 효율적인 복습 방법과 시간 관리 요령을 가르칩니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문

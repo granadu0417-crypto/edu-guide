@@ -10,14 +10,13 @@ tags:
   - 수성구수학과외
   - 수성구중등수학
 ---
-
-△ABC와 △DEF가 닮음일 때 대응변의 비를 못 구한다면, 도형의 닮음력이 필요합니다.
+포기하기엔 아직 이릅니다.
 
 수성구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 대구고, 경신고, 정화여고 시험에서 닮음 문제가 자주 출제됩니다. 닮음비와 넓이비, 부피비의 관계를 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-닮음 조건을 체계적으로 정리합니다. 닮음비 활용법을 훈련합니다.
+실력 진단 없이 수업하면 시간만 낭비됩니다. 체계적인 진단으로 학습 경로를 설계합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-닮음 조건을 정리합니다. 비례식 계산을 훈련합니다.
+복습 시점을 알려드립니다. 오늘 배운 내용은 반복 복습해야 합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대구고, 경신고 기출에서 닮음 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험 범위에 맞춰 집중 대비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 도형의 닮음력을 점진적으로 향상시킵니다.
+학년별로 내신과 수능 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -112,5 +111,5 @@ tags:
 
 ## 마무리
 
-수성구에서 닮음이 어렵다면 조건 적용 훈련이 필요합니다. 비례가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 시작이 반입니다.
 

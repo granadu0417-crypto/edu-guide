@@ -22,7 +22,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 듣기 습관을 분석합니다. 점수를 올릴 수 있는 실전 팁을 하나씩 적용합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시험 중 전략
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 전략을 적용합니다. 선택지 읽기, 메모, 소거법을 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 집중력 유지
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 유지 기술을 가르칩니다. 긴장 완화와 리셋 방법을 연습합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 실수 방지
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 하는 실수 유형을 분석합니다. 같은 실수를 반복하지 않도록 점검합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 효율적 학습법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관을 점검합니다. 효과적인 일일 학습 계획을 함께 세웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -107,5 +107,5 @@ featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 듣기 수업으로 실전 팁을 완벽히 적용합니다. 빠르게 만점에 도달합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>

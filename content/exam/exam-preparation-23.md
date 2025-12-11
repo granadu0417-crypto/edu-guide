@@ -19,7 +19,7 @@ featured_image: "/images/edu_0161_GMY1JbRHlB0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날은 새로운 공부가 아닌 마무리에 집중합니다. 핵심 요약만 확인하고 컨디션 관리에 신경 씁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 시험 전날 하지 말아야 할 것
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0161_GMY1JbRHlB0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날 해야 할 것과 하지 말아야 할 것을 명확히 구분합니다. 불필요한 불안을 줄이고 컨디션에 집중합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 효과적인 마무리 학습
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0161_GMY1JbRHlB0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날 마무리 학습 방법을 안내합니다. 핵심만 빠르게 확인하고 부담 없이 정리합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 컨디션 관리 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0161_GMY1JbRHlB0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-컨디션 관리의 중요성을 강조합니다. 최상의 상태로 시험장에 들어갈 수 있도록 준비합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 준비물 점검
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0161_GMY1JbRHlB0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-준비물 체크리스트를 함께 확인합니다. 빠뜨리는 것 없이 꼼꼼하게 준비합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 긴장 완화 방법

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0842_3A9-18atj_o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 함께 분석합니다. 틀린 문제뿐 아니라 찍은 문제까지 점검하고 다음 시험 전략을 수립합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 모의고사의 종류와 특징
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0842_3A9-18atj_o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평가원 모의고사 전후로 집중 관리합니다. 시험 전 예상 문제 점검, 시험 후 오답 분석까지 함께 진행합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 당일 전략
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0842_3A9-18atj_o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 전 시간 배분 전략을 점검합니다. 학생의 약점에 맞춰 시간을 어디에 더 투자할지 함께 계획합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 효과적인 오답 분석 방법
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0842_3A9-18atj_o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 작성법을 가르칩니다. 틀린 이유를 정확히 분류하고 같은 실수를 반복하지 않도록 관리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 등급별 학습 전략
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0842_3A9-18atj_o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별로 모의고사 활용 계획을 세웁니다. 학생의 현재 등급과 목표에 맞춰 강도를 조절합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 성적 관리 시스템

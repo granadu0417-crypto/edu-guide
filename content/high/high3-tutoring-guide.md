@@ -16,7 +16,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고3은 시기별로 전략이 다릅니다. 현재 시점에서 가장 효율적인 방법을 찾아 집중합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 시기별 과외 전략
@@ -27,7 +27,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-6월 모평 전에는 기출을 집중적으로 분석합니다. 모평 직후에는 완벽하게 오답 분석하고 취약 영역을 긴급 보완합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 7-8월 여름방학이 분수령입니다. 하루 10-12시간 공부가 가능하고 과외도 주 4-5회로 늘릴 수 있습니다. 약점을 완전히 보완하고 기출 1회독을 완료하는 것이 목표입니다. 수시 지망생은 7월에 자소서를 작성합니다. 정시 지망생은 수능에 올인합니다. 번아웃에 주의하고 휴식도 전략적으로 합니다.
@@ -40,7 +40,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-11월 과외 마지막 수업에서는 자신감을 회복시킵니다. 할 수 있다는 격려와 실수 포인트만 체크합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 과목별 과외 전략
@@ -63,7 +63,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞춰 시기별 우선순위를 조정합니다. 수시와 정시 비율을 효율적으로 배분합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 과외 효율 극대화

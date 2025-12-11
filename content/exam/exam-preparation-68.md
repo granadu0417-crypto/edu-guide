@@ -19,7 +19,7 @@ featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학기 초반 내용을 체계적으로 정리합니다. 중간고사를 통해 기본기를 확실히 잡습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 중간고사의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사의 중요성을 알려드립니다. 전략적으로 준비해서 좋은 출발을 하도록 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학습 내용 정리
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 내용을 단원별로 정리합니다. 이해 안 된 부분을 확인하고 보충합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 문제 풀이 연습
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 유형의 문제를 풀어봅니다. 문제 적용력을 키웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시험 일정 관리
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 학습 계획을 세웁니다. 효율적으로 준비하도록 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 기말고사와의 연결

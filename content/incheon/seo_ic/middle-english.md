@@ -10,14 +10,13 @@ tags:
   - 서구영어과외
   - 서구중등영어
 ---
-
-I have finished와 I finished의 차이를 설명하지 못한다면, 시제력이 필요합니다.
+영어 성적표 보고 한숨 쉬셨나요?
 
 서구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 서구고, 검단고, 가좌고 시험에서 시제 문제가 자주 출제됩니다. 현재완료와 과거시제의 뉘앙스 차이를 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시제 개념을 체계적으로 정리합니다. 현재완료와 과거 구분을 훈련합니다.
+학생의 학습 스타일과 약점을 분석합니다. 맞지 않는 방법으로는 성적이 안 오릅니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ I have finished와 I finished의 차이를 설명하지 못한다면, 시제력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시제별 부사를 정리합니다. 문맥에서 시제 선택을 훈련합니다.
+문제를 읽고 바로 풀지 않습니다. 무엇을 구하는지 먼저 생각합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ I have finished와 I finished의 차이를 설명하지 못한다면, 시제력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서구고, 검단고 기출에서 시제 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출문제를 유형별로 정리하여 반복 훈련합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ I have finished와 I finished의 차이를 설명하지 못한다면, 시제력�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 시제력을 점진적으로 심화합니다.
+내신은 학교별로, 수능은 전국 기준으로 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -128,5 +127,5 @@ I have finished와 I finished의 차이를 설명하지 못한다면, 시제력�
 
 ## 마무리
 
-서구에서 시제가 어렵다면 의미 차이 훈련이 필요합니다. 뉘앙스가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 체계적인 관리로 성적 향상을 경험하세요.
 

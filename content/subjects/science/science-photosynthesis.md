@@ -26,7 +26,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-엽록체의 구조를 그림으로 파악합니다. 틸라코이드와 스트로마에서 일어나는 반응을 구분합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 명반응과 광인산화
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전자 전달 과정을 흐름도로 정리합니다. 각 단계에서 생성되는 물질을 확인합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 암반응과 캘빈 회로
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-캘빈 회로의 세 단계를 순서대로 설명합니다. 탄소 고정, 환원, 재생 과정을 연결합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 광합성에 영향을 주는 요인
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-요인별 그래프를 분석합니다. 제한 요인의 개념을 실험과 연결합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 정리합니다. 반응식 해석과 그래프 분석을 집중 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -127,5 +127,5 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 광합성을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>

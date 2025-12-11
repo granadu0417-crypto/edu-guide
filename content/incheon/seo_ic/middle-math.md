@@ -10,14 +10,13 @@ tags:
   - 서구수학과외
   - 서구중등수학
 ---
-
-3a²b × 2ab³를 계산할 때 어디서 막히면, 식의 계산력이 필요합니다.
+중학교 수학, 어디서부터 손대야 할지 막막하시죠?
 
 서구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 서구고, 검단고, 가좌고 시험에서 단항식·다항식 계산 문제가 자주 출제됩니다. 계수와 지수를 정확히 처리하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-식의 계산 규칙을 체계적으로 정리합니다. 계수와 지수 처리를 훈련합니다.
+진단 결과를 바탕으로 맞춤 커리큘럼을 설계합니다. 같은 수업은 없습니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지수 법칙과 분배 법칙을 정리합니다. 계산 정확도를 훈련합니다.
+손으로 푸는 과목입니다. 눈으로만 보면 안 됩니다. 직접 써야 합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서구고, 검단고 기출에서 식의 계산 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+혼자 준비하면 방향을 잃기 쉽습니다. 함께 준비하세요.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 계산력을 점진적으로 향상시킵니다.
+내신과 수능의 차이를 명확히 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -128,5 +127,5 @@ tags:
 
 ## 마무리
 
-서구에서 식의 계산이 어렵다면 규칙 정리 훈련이 필요합니다. 계산이 정확해지면 수학이 쉬워집니다.
+ 학생 여러분, 실력, 키울 수 있습니다. 포기하기엔 이릅니다.
 

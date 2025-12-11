@@ -19,7 +19,7 @@ featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-충남 지역 교육 환경을 분석합니다. 거주 지역에 맞는 최적의 학습 방법을 안내합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 충남 주요 교육 지역
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육 인프라를 파악합니다. 학원 통학 거리와 시간을 고려해 교육 계획을 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 대전과 세종 접근성 활용
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대전과 세종 대학생 과외를 연결합니다. 교통비를 포함해도 합리적인 비용입니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 온라인 교육 활용 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인을 병행합니다. 학생 상황에 맞는 최적의 조합을 찾아드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 교육비 절감 방법
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예산에 맞는 교육 계획을 세웁니다. 비용 대비 효과를 극대화하는 방법을 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

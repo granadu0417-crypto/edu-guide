@@ -19,7 +19,7 @@ featured_image: "/images/edu_0014_cRR-aTdLAu4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 한자 수준을 파악합니다. 전혀 모르는지, 기초는 아는지, 급수가 있는지 확인합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 왜 한자를 배워야 하나요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0014_cRR-aTdLAu4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무작정 외우지 않습니다. 한자의 뜻과 쓰임을 이해하면서 배웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 초등 한자 수업에서 뭘 배우나요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0014_cRR-aTdLAu4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-급수시험 대비와 어휘력 향상을 함께 진행합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 한자 과외의 장점은 뭔가요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0014_cRR-aTdLAu4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에는 기출문제와 모의고사로 집중 대비합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 급수시험은 어떻게 준비하나요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0014_cRR-aTdLAu4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 학습 계획을 세웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 좋은 한자 선생님의 조건은 뭔가요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0014_cRR-aTdLAu4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 커리큘럼과 교재를 보여드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}

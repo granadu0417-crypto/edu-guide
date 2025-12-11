@@ -19,7 +19,7 @@ featured_image: "/images/edu_0591_UbLDAaubUY4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지진파 종류와 특성을 비교 정리합니다. 진원 위치 결정 방법을 설명합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 지진파
@@ -28,7 +28,7 @@ P파는 종파로 가장 빠릅니다. S파는 횡파로 P파보다 느리지만
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-P파와 S파의 전파 방식을 그림으로 이해합니다. PS시 계산법을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 규모와 진도
@@ -39,7 +39,7 @@ P파와 S파의 전파 방식을 그림으로 이해합니다. PS시 계산법�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-규모와 진도의 차이를 명확히 설명합니다. 실제 지진 사례로 이해합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 지진 발생 원인
@@ -48,7 +48,7 @@ P파와 S파의 전파 방식을 그림으로 이해합니다. PS시 계산법�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-판 경계 유형과 지진의 관계를 정리합니다. 세계 지진 분포도를 분석합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ P파와 S파의 전파 방식을 그림으로 이해합니다. PS시 계산법�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 지진파 그래프 해석을 집중 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -112,5 +112,5 @@ S파 도착 시간에서 P파 도착 시간을 빼면 됩니다. 이 값이 클�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 지진을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>

@@ -17,7 +17,7 @@ featured_image: "/images/edu_0232_mN3PsFWbmIE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생 상태와 목표를 파악합니다. 현재 성적, 학원 병행 여부, 자기주도 학습 가능 여부를 확인하고 적정 횟수를 제안합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 과외 횟수 결정의 핵심 원칙
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0232_mN3PsFWbmIE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3개월 후 목표 달성 여부를 확인하고 횟수를 조정합니다. 목표보다 빨리 달성하면 줄이고, 부족하면 늘립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 횟수별 장단점
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0232_mN3PsFWbmIE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞게 횟수를 조정합니다. 수학은 주 2회 이상, 영어는 주 1에서 2회, 국어는 필요시에만 권합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학년별 권장 횟수
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0232_mN3PsFWbmIE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 4주 전에는 자동으로 시험 대비 모드로 전환합니다. 필요하면 횟수를 늘리고, 기출 문제와 오답 정리에 집중합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과외 시간 배분

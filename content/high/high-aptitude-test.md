@@ -15,7 +15,7 @@ featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석을 통해 대학별 출제 유형을 파악합니다. 학생의 약점 유형을 집중 훈련하여 단기간에 점수를 올립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 적성고사의 특징과 구조
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학별 시험 구조와 영역별 배점을 분석합니다. 학생에게 유리한 영역부터 공략하는 전략을 세웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 영역별 공략법
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암산 훈련과 빠른 풀이 테크닉을 반복 연습합니다. 실전처럼 시간을 재면서 문제를 풀어봅니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시간 관리와 실전 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사를 통해 시간 배분 감각을 익힙니다. 학생별로 최적의 문제 풀이 순서를 찾아드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 단기 준비 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남은 기간에 맞춰 맞춤 플랜을 세웁니다. 매일 피드백하며 약점을 빠르게 보완합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문

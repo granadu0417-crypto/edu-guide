@@ -20,7 +20,7 @@ featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 과외가 처음이신 분들께 전체적인 진행 과정을 설명드립니다. 모르는 건 편하게 질문하세요.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 왜 1:1 과외를 선택하나요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 개인의 스케줄을 고려해서 수업 시간을 정합니다. 갑자기 일정이 바뀌면 미리 말씀해 주세요.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과외를 시작할 때 뭘 준비해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 현재 수준을 진단합니다. 최근 시험지를 가져오시면 더 정확하게 파악할 수 있습니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 선생님은 어떻게 구하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담은 부담 없이 진행됩니다. 서로 맞는지 확인하는 시간이니 편하게 질문하세요.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작에 대해 더 궁금한 점이 있으시면 문의하세요. 처음이셔도 쉽게 안내해 드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

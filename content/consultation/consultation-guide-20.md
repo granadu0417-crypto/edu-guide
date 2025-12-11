@@ -21,7 +21,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택 상담에서는 아이의 학습 성향을 먼저 파악합니다. 큰 학원이 맞는지, 소수 정예가 맞는지, 아니면 과외가 나을지 판단합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 학원 선택 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택이 고민이라면 학습 상담을 받으세요. 아이에게 맞는 학원 유형과 선택 기준을 안내합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 진로 상담은 적성과 방향을 찾는 것이 목적입니다. 진학 상담은 입시 전략에 초점을 맞춥니다. 심리 상담은 학원 스트레스가 심할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 학원 선택 체크리스트를 안내합니다. 어떤 기준으로 학원을 비교해야 하는지 구체적으로 알려드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학년에 따라 학원 선택 기준이 다른가요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞는 학원 유형을 안내합니다. 대형 학원, 중소형 학원, 개인 과외 중 어떤 게 맞을지도 조언합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 아이에게 맞는 학원을 찾는 방법을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

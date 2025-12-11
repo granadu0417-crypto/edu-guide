@@ -26,7 +26,7 @@ featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세포호흡의 전체 흐름을 먼저 파악합니다. 각 단계의 반응 장소와 생성물을 정리합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 해당 과정
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0634_yxYEth399_g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해당 과정의 입출력을 정리합니다. ATP 순생산량을 계산하는 방법을 익힙니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## TCA 회로와 전자 전달계
@@ -46,7 +46,7 @@ TCA 회로는 미토콘드리아 기질에서 일어납니다. 아세틸 CoA가 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-TCA 회로를 그림으로 정리합니다. 전자 전달계에서 ATP가 대량 생산되는 원리를 설명합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 발효
@@ -55,7 +55,7 @@ TCA 회로를 그림으로 정리합니다. 전자 전달계에서 ATP가 대량
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-두 가지 발효의 차이를 비교합니다. 발효가 일어나는 이유를 설명합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ TCA 회로를 그림으로 정리합니다. 전자 전달계에서 ATP가 대량
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. ATP 계산과 반응 비교 문제를 집중 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -127,5 +127,5 @@ NADH와 FADH2가 전자를 전달하며 양성자 농도 기울기를 만들어 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 세포호흡을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>

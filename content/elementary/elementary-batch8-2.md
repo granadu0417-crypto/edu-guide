@@ -21,7 +21,7 @@ featured_image: "/images/edu_0129_5YtsX8-uoPI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2학년은 아직 놀이처럼 공부해야 합니다. 하지만 1학년보다 조금 더 체계적으로, 조금 더 많은 양을 다룹니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0129_5YtsX8-uoPI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2학년부터는 오답 정리를 시작합니다. 틀린 문제를 왜 틀렸는지 함께 분석하고, 비슷한 문제를 다시 풀어봅니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0129_5YtsX8-uoPI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-구구단은 게임처럼 합니다. 단순히 외우게 하지 않고, 왜 3곱하기 4가 12인지 블록으로 보여주면서 이해시킵니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 저학년 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0129_5YtsX8-uoPI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중 시간이 짧은 2학년에게 50분 내내 앉아있으라고 하지 않습니다. 20분 공부하고 5분 쉬고, 다시 20분 공부합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0129_5YtsX8-uoPI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제를 미루지 않는 습관을 들입니다. 수업이 끝나면 오늘 숙제가 뭐야 물어보고, 집에 가서 바로 하도록 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 주의사항

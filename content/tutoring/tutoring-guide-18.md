@@ -20,7 +20,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 활용 상담에서는 학생의 숙제 습관을 먼저 점검합니다. 어떻게 풀고 있는지, 얼마나 시간을 쓰는지 파악합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 과외 숙제가 왜 중요한가요?
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제는 수업 내용을 정착시키는 과정입니다. 무작정 많이 내지 않고, 꼭 필요한 것만 내드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 숙제를 효과적으로 하려면 어떻게 해야 하나요?
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다음 수업 시작할 때 숙제 검사를 합니다. 틀린 문제, 모르는 문제를 집중적으로 다시 풀어봅니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 숙제 양은 얼마가 적당한가요?
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 전체 학습량을 파악하고 적정한 숙제 양을 조절합니다. 부담이 과하지 않으면서 효과가 나는 선을 찾습니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -82,7 +82,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 숙제 활용에 대해 더 궁금한 점이 있으시면 문의하세요. 복습 효과를 극대화하는 방법을 안내합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

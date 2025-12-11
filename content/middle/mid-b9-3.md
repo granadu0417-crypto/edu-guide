@@ -22,7 +22,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고교 입시 일정에 맞춰 연간 학습 계획을 세웁니다. 내신과 고교 대비를 균형 있게 진행합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 중3 교과 내용의 중요성
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 핵심 개념을 완벽히 이해시킵니다. 고등학교 내용과 어떻게 연결되는지 미리 설명해줍니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 월별 학습 및 입시 로드맵
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 일정에 맞춰 학습 계획을 조정합니다. 내신 대비와 입시 준비를 효율적으로 병행합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 수학 학습 전략
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차방정식과 이차함수를 연결해서 설명합니다. 문제 유형별로 풀이 전략을 정리하고 반복 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 영어 학습 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 설명과 함께 예문을 많이 보여줍니다. 긴 문장을 끊어 읽는 방법도 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 고교 입시 준비
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 고교에 맞는 입시 전략을 제시합니다. 자기소개서 작성, 면접 준비도 함께 도와드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}

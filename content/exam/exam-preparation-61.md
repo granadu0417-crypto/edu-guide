@@ -19,7 +19,7 @@ featured_image: "/images/edu_0203_sa1-uen2UfE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2주 전 학습 계획을 함께 세웁니다. 과목별 중요도와 학생의 취약점을 고려해 우선순위를 정합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 2주 계획 세우기
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0203_sa1-uen2UfE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일별 학습 계획을 구체적으로 세웁니다. 매일 무엇을 할지 명확히 정해드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과목별 마무리 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0203_sa1-uen2UfE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 핵심 포인트를 짚어드립니다. 남은 시간 내에 꼭 봐야 할 것을 정리합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 문제집 활용법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0203_sa1-uen2UfE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 복습 방법을 안내합니다. 이미 푼 문제를 최대한 활용하도록 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 컨디션 관리
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0203_sa1-uen2UfE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-건강한 학습 습관을 함께 만듭니다. 시험까지 컨디션을 유지하도록 관리합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 불안 다스리기

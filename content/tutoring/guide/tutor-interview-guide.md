@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 만남에서 학생의 현재 상황을 자세히 듣습니다. 성적표, 시험지, 학습 고민을 파악한 후 어떻게 도와드릴 수 있는지 설명드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 면접 전에 준비하세요
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 때 학생과 직접 이야기합니다. 부모님 의견도 중요하지만, 학생 본인의 고민과 목표를 듣는 게 더 중요합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 이 질문들은 꼭 하세요
@@ -55,7 +55,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점을 분석하고 구체적인 학습 계획을 제시합니다. 막연한 계획이 아니라 주차별 목표와 진도를 명확히 알려드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 평가 기준이에요
@@ -66,7 +66,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 편하게 질문할 수 있는 분위기를 만듭니다. 눈치 보지 않고 모르는 건 모른다고 말할 수 있어야 실력이 오릅니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 시범 수업이 중요해요
@@ -77,7 +77,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 실력을 진단하고, 어떻게 가르칠지 구체적으로 보여드립니다. 맞으면 함께 시작하고, 안 맞으면 다른 분을 찾으셔도 됩니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 이런 경우는 불합격이에요

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0003_WIRvXd1PYlg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 영어 노출 경험과 성향을 먼저 파악합니다. 영어 영상을 본 적 있는지, 알파벳을 아는지, 영어에 대한 거부감이 있는지 확인합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 유아 때 영어를 시작하면 뭐가 좋은가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0003_WIRvXd1PYlg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어를 공부가 아닌 놀이로 접근합니다. 노래, 게임, 역할놀이를 통해 자연스럽게 영어를 익힙니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 유아 영어 수업에서 뭘 배우나요?
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0003_WIRvXd1PYlg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 다양한 활동을 배분합니다. 노래 부르기, 그림 그리기, 게임하기, 책 읽기를 골고루 진행합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 유아 영어 과외의 장점은 뭔가요?
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0003_WIRvXd1PYlg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이와 친해지는 시간을 충분히 갖습니다. 라포가 형성되어야 학습 효과가 높아집니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 원어민 발음은 어떻게 잡나요?
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0003_WIRvXd1PYlg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발음 교정은 자연스럽게 진행합니다. 아이가 위축되지 않도록 칭찬을 먼저 하고 교정합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 좋은 선생님은 어떻게 찾나요?
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0003_WIRvXd1PYlg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 교육 철학과 수업 방식을 상세히 설명드립니다. 아이와의 케미를 확인하신 후 결정하세요.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

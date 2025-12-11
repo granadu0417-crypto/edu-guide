@@ -18,7 +18,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안을 쓰면 바로 첨삭해드립니다. 채점 기준에 맞게 쓰는 방법을 반복 연습합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 서술형이 어려운 진짜 이유
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 채점 기준과 키워드를 정리해드립니다. 어떤 단어가 들어가야 점수를 받는지 명확히 알려드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 과목별 서술형 전략
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 자주 나오는 서술형 유형을 정리합니다. 유형별로 답안 쓰는 틀을 만들어 연습합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 부분점수 따는 법
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 답안을 분석해서 어디서 점수를 놓쳤는지 짚어드립니다. 같은 실수를 반복하지 않도록 패턴을 정리합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 서술형은 연습으로 늡니다
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0389_A01-a_j8ALs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전에는 실전처럼 시간을 재고 서술형 모의고사를 풀어봅니다. 실전 감각을 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}

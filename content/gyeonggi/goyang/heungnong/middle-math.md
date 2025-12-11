@@ -22,12 +22,11 @@ tags:
   - 흥도중
 featured_image: "/images/edu_0018.jpg"
 ---
-
-지금 시작하면 충분히 따라잡을 수 있습니다. 고양시 덕양구 흥농동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+포기하기엔 아직 이릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법, 시간 관리까지 종합 진단합니다.
+먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어떤 개념이 부족한지, 어디서 실수가 나는지 진단합니다.
 </div>
 
 ## 초등 때 잘했는데 왜 안 되는 걸까?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 내신과 선행 비중을 조절합니다. 중1은 기초, 중3은 고등 선행 비중을 높여갑니다.
+꾸준함이 핵심입니다. 한 번에 많이 하는 것보다 매일 조금씩 하는 게 효과적입니다.
 </div>
 
 ## 흥도중 수학 시험의 특징
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 기출문제를 철저히 분석합니다. 자주 출제되는 유형과 함정 문제 패턴을 파악하여 대비합니다.
+학교 프린트와 수업 필기도 함께 분석합니다. 시험에 나올 가능성이 높은 부분을 집중 대비합니다.
 </div>
 
 ## 고등 수학을 위한 기초 다지기
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 모아서 나만의 약점 문제집을 만듭니다. 시험 직전에 이것만 보면 됩니다.
+내신 1등급이 수능 1등급으로 이어지도록 합니다. 따로 공부하지 않아도 됩니다.
 </div>
 
 ## 1:1 과외의 장점
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0018.jpg"
 
 ## 마무리
 
-수학 자신감, 되찾을 수 있습니다. 포기하지 마세요.
+덕양구 학생 여러분, 내신과 수능, 두 마리 토끼를 다 잡는 방법이 있습니다.

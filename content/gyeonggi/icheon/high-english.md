@@ -14,12 +14,11 @@ tags:
   - 이천시영어과외
   - 이천시고등영어
 ---
-
-이천시 고등학교 영어, 내신과 수능 모두 만만치 않습니다.
+고등학생이라면 알아야 할 영어 공부법이 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 독해, 어휘, 듣기 각 영역을 점검합니다.
+모든 수업은 진단에서 시작합니다. 학생의 현재 위치를 파악하고, 목표까지의 로드맵을 설계합니다.
 </div>
 
 ## 이천시 고등학교 영어가 어려운 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
+문제 풀이 시간을 재면서 연습합니다. 실전에서는 시간이 촉박하기 때문입니다.
 </div>
 
 ## 이천시 주요 고등학교 영어 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 영어 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 수능 영어 대비 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출문제와 EBS 교재를 활용합니다. 고난도 유형의 접근법을 단계별로 훈련합니다.
+1, 2학년은 내신에 집중하면서 기초를 쌓고, 3학년은 본격적으로 수능 대비에 들어갑니다.
 </div>
 
 
@@ -92,6 +91,6 @@ tags:
 
 ## 마무리
 
-이천시 고등학생 여러분, 영어 성적 향상이 필요하시다면 지금 시작하세요.
+이천시 학생 여러분, 검증된 과외, 지금 문의하세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

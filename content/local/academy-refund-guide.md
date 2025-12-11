@@ -15,7 +15,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 등록 전 환불 규정을 꼼꼼히 확인하도록 안내합니다. 계약서 작성 시 주의사항도 함께 알려드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 환불 기준 이해하기
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수강 기간과 출석 일수를 정확히 파악합니다. 환불 예상 금액을 미리 계산해드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 환불 절차와 준비물
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-환불 요청서 작성법을 안내합니다. 필요한 서류 목록을 정리해드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 분쟁 해결 방법
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분쟁 발생 시 대처 방법을 알려드립니다. 관련 기관 연락처와 절차를 안내합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 특수한 경우의 환불
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0176_RtWs0DSPumE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계약 유형에 따른 환불 기준을 설명합니다. 불공정한 약관 조항을 파악하도록 도와드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문

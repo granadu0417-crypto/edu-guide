@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 과학 개념 진단 테스트를 실시합니다. 물리는 역학, 화학은 몰 개념, 생명과학은 유전 파트별로 취약점을 정확히 파악하여 맞춤 커리큘럼을 설계합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ### 합리적인 과외비
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리 공식이 어떻게 유도되는지부터 설명합니다. '왜 그런지'를 이해하면, 처음 보는 문제도 접근할 수 있는 응용력이 생깁니다. 특히 그림 그리기를 통한 문제 분석법을 집중 훈련합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 수학을 잘하는 학생이라면 물리를 선택하는 것이 유리합니다. 수학 실력이 물리 성적으로 직결되기 때문입니다.
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-몰 개념을 실생활 예시로 쉽게 설명하고, 반복 연습을 통해 완전히 체화시킵니다. 화학 반응식 균형 맞추기부터 양적 관계 문제까지 단계별로 훈련합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -72,7 +72,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마인드맵과 그림을 활용한 체계적 암기법을 지도합니다. 유전 문제는 가계도 분석법, 확률 계산법 등 킬러 문항 접근법을 집중 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 의대, 약대, 생명공학 계열을 목표로 하는 학생에게 생명과학은 필수 과목입니다.
@@ -85,7 +85,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시각 자료와 모형을 활용하여 추상적인 개념을 눈으로 보며 이해시킵니다. 천체 운동, 대기 순환 등 공간 개념이 필요한 파트를 집중 보완합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 좋은 과학 과외 선생님 선택법
@@ -96,7 +96,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해당 과목 전공자 또는 의대·이공계 명문대 출신의 검증된 선생님을 매칭해드립니다. 시범 수업을 통해 아이의 수준에 맞는 설명력을 확인하신 후 결정하실 수 있습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ### 선택 시 체크리스트
@@ -114,7 +114,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 핵심 개념을 정리하는 시간을 갖습니다. 학부모님께는 주간 학습 리포트를 제공하여, 아이가 무엇을 배우고 어느 정도 이해하고 있는지 함께 확인하실 수 있습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ### 오답 분석 철저히

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0162__JZuBu_CEII.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 긴장 관리법과 문제 풀이 전략을 안내합니다. 시험장에서 실력을 100% 발휘할 수 있도록 준비합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 전 아침 루틴
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0162__JZuBu_CEII.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 아침 루틴을 정리합니다. 차분하게 준비해서 좋은 컨디션으로 시험장에 들어갑니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시험장 도착 후
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0162__JZuBu_CEII.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험장 도착 후 해야 할 것들을 정리합니다. 차분하게 준비해서 시험에 집중할 수 있도록 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 시험 시작 직전
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0162__JZuBu_CEII.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시작 직전 긴장 완화법을 훈련합니다. 마음을 진정시키고 집중할 수 있는 상태를 만듭니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 문제 풀이 전략
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0162__JZuBu_CEII.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 문제 풀이 순서와 시간 배분을 훈련합니다. 실수를 줄이고 실력을 발휘할 수 있도록 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시간 관리

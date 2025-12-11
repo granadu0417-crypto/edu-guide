@@ -20,7 +20,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과가 안 나면 같이 원인을 찾습니다. 수업 방식을 바꾸거나 학습 태도를 점검하거나, 방법을 찾습니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 왜 효과가 안 나는 걸까요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 학생이 집중하는지 계속 확인합니다. 멍하게 듣고 있으면 질문을 던져서 깨웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 효과를 높이려면 어떻게 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 검사할 때 풀이 과정을 봅니다. 어디서 막혔는지, 어떻게 생각했는지 확인하고 피드백합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 부모는 뭘 해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 정기적으로 학습 상황을 공유합니다. 궁금한 점이 있으면 편하게 연락 주세요.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과에 대해 더 궁금한 점이 있으시면 문의하세요. 효과를 높이는 방법을 함께 찾아드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

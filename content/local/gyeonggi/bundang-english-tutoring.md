@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-8학군 학교별 출제 경향을 철저히 분석하여, 내신 1등급을 목표로 맞춤 수업을 진행합니다. 서울대, 연고대 출신 선생님이 체계적으로 지도합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ### 판교의 글로벌 환경
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 동화책과 게임을 활용해 아이가 영어를 즐기면서 배울 수 있도록 합니다. 파닉스를 탄탄히 다져, 읽기와 쓰기의 기초를 확실히 만들어드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 **고학년(4-6학년)은 중등 대비를 체계화하는 시기입니다**
@@ -63,7 +63,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 완벽 분석하여 출제 패턴을 파악합니다. 서술형 문제 대비를 위한 영작 연습을 강화하여, 내신 1등급을 목표로 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 **중3은 특목고·자사고 대비 시기입니다**
@@ -82,7 +82,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 분석하여 내신 시험에 최적화된 수업을 진행합니다. 수능형 독해 지문도 병행 학습하여, 내신과 수능 두 마리 토끼를 잡습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 **고3은 수능 영어 최종 완성 시기입니다**
@@ -91,7 +91,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출문제를 철저히 분석하여 유형별 공략법을 전수합니다. 실전 모의고사 시간 관리 훈련으로 수능 1등급을 목표로 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 고등학생 영어 과외비는 주1회 기준 약 25만원 -  36만원, 주2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 약 28만원 -  40만원 정도입니다.
@@ -104,7 +104,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 따라 최적의 선생님을 매칭해드립니다. 내신 대비는 8학군 경험 풍부한 선생님을, 회화는 판교 원어민 선생님을 연결해드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ### 선택 시 확인해야 할 사항
@@ -122,7 +122,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 수업과 시너지를 낼 수 있도록 커리큘럼을 조율합니다. 학원에서 부족했던 부분을 1:1로 집중 보완하여, 학습 효율을 극대화합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ### 예습과 복습의 중요성

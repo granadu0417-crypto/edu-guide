@@ -18,7 +18,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 과학 실력을 정확하게 진단합니다. 어느 단원에서 막히는지, 개념이 문제인지 문제 적용이 문제인지 파악하고, 그 지점부터 차근차근 다시 쌓아갑니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 송파구 동네별 과학 교육 환경
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 수업 장소와 시간을 정합니다. 잠실역 스터디카페, 문정동 카페, 자택 방문, 온라인 병행 등 가장 효율적인 방식으로 진행합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과목별 과학 과외 포인트
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화학은 몰 개념을 완벽하게 숙달하는 것부터 시작합니다. 계산 문제는 여러 유형을 반복 연습해서 실수 없이 풀 수 있도록 훈련합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ### 생명과학 - 유전 문제가 관건입니다
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1은 통합과학 내신을 탄탄하게 관리하면서, 학생의 성향과 진로에 맞는 선택과목을 함께 고민합니다. 여름방학에 선택과목 맛보기 수업도 가능합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ### 고2-3 - 내신과 수능 동시 준비
@@ -94,7 +94,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 선생님의 설명이 이해하기 쉬운지, 학생과 소통이 잘 되는지 확인해보세요.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 송파구 과학과외 비용 안내
@@ -109,7 +109,7 @@ featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문

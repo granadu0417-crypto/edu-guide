@@ -23,7 +23,7 @@ featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 유형별로 진단합니다. 취약한 유형을 집중 공략하고 강점은 더욱 강화하는 맞춤 전략을 수립합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 수능 영어의 구조와 등급 기준
@@ -36,7 +36,7 @@ featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 유형별로 분석합니다. 정답률이 낮은 유형을 파악하고 집중 훈련 계획을 수립합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 듣기 영역 완벽 공략
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-듣기 유형별 풀이 전략을 체계적으로 훈련합니다. 스크립트 분석과 쉐도잉으로 실력을 끌어올립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 독해 영역 유형별 전략
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 풀이 공식을 정리합니다. 반복 훈련을 통해 자동으로 적용할 수 있도록 체화시킵니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 고난도 유형 공략
@@ -83,7 +83,7 @@ featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고난도 유형은 개별 지도로 집중 훈련합니다. 오답 원인을 분석하고 같은 실수를 반복하지 않도록 교정합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 어휘 학습 전략
@@ -100,7 +100,7 @@ featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전과 동일한 환경에서 시간을 재며 모의고사를 풉니다. 시간 배분 전략을 체득할 때까지 반복 훈련합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}

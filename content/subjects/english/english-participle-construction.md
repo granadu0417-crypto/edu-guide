@@ -22,7 +22,7 @@ featured_image: "/images/edu_0398_yE7hWGYte4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분사구문의 변환 규칙을 단계별로 설명합니다. 예문을 통해 직접 변환하는 연습을 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 분사구문 만드는 법
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0398_yE7hWGYte4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4단계 변환법을 익힙니다. 다양한 접속사 문장으로 반복 연습합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 분사구문의 의미
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0398_yE7hWGYte4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분사구문의 의미를 문맥에서 파악하는 연습을 합니다. 역으로 접속사 문장으로 바꾸는 훈련도 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## Having p.p.와 수동 분사구문
@@ -51,7 +51,7 @@ Having p.p.는 주절보다 먼 과거를 나타냅니다. Having finished my ho
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-완료 분사구문과 수동 분사구문의 형태를 정리합니다. 시제 관계를 명확히 이해시킵니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 관용적 분사구문
@@ -60,7 +60,7 @@ Having p.p.는 주절보다 먼 과거를 나타냅니다. Having finished my ho
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관용적 분사구문 리스트를 정리합니다. 예문과 함께 암기하도록 도와줍니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -107,5 +107,5 @@ Having p.p.는 주절보다 먼 과거를 나타냅니다. Having finished my ho
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 분사구문을 완벽히 정복합니다. 변환 연습과 오류 교정으로 빠르게 마스터합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>

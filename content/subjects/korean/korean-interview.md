@@ -20,7 +20,7 @@ featured_image: "/images/edu_0462_RgKmrxpIraY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 말하기 습관을 점검합니다. 답변 구조화 훈련을 체계적으로 진행합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 답변의 기본 구조
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0462_RgKmrxpIraY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-답변의 기본 구조를 반복 연습합니다. 다양한 질문에 적용하는 훈련을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 예상 질문 준비
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0462_RgKmrxpIraY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예상 질문 목록을 작성합니다. 질문별 답변을 함께 만들어봅니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 비언어적 표현
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0462_RgKmrxpIraY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비언어적 표현을 점검합니다. 모의 면접으로 실전 감각을 키웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 돌발 질문 대처
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0462_RgKmrxpIraY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-돌발 질문 대처법을 훈련합니다. 다양한 상황을 시뮬레이션합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -117,5 +117,5 @@ featured_image: "/images/edu_0462_RgKmrxpIraY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 면접을 철저히 준비합니다. 모의 면접과 피드백으로 실력을 키웁니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>

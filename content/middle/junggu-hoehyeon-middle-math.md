@@ -28,7 +28,7 @@ featured_image: "/images/edu_0838_f5xddISq428.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 외심과 내심의 이해 수준을 진단합니다. 외심의 성질, 내심의 성질, 외접원과 내접원을 체계적으로 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 외심과 내심이 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0838_f5xddISq428.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-외심과 내심의 정의와 성질을 정확히 구분합니다. 다양한 삼각형에서 외심과 내심을 작도하는 연습을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 덕수중·환일중·장원중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0838_f5xddISq428.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·환일중·장원중 기출 외심·내심 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0838_f5xddISq428.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 외심과 내심을 작도해보게 합니다. 왜 그 점이 외심/내심인지 설명하는 훈련을 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0838_f5xddISq428.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 도형 내용을 정확히 이해합니다. 도형을 자유롭게 활용하는 능력을 키웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0838_f5xddISq428.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 외심·내심 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}

@@ -22,7 +22,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 탐색을 도와줍니다. 학생이 뭘 좋아하는지, 뭘 잘하는지 함께 알아봅니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 고2가 중요한 이유
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황을 점검합니다. 내신, 모의고사, 비교과 중 어디가 부족한지 파악합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 내신과 수능 균형
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별로 비중을 조절합니다. 시험 기간, 모의고사 기간, 방학 기간에 맞춰 계획을 세웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 진로 확정하기
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 유리한 전형을 찾습니다. 내신, 모의고사, 비교과를 종합적으로 분석합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 모의고사 활용
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 후 오답 분석을 함께 합니다. 왜 틀렸는지, 어떻게 해야 안 틀리는지 파악합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 비교과 마무리
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0660_BEkh6cuix2Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교과 활동을 점검합니다. 부족한 부분을 찾아서 고2 안에 채울 수 있도록 계획을 세웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 주의사항

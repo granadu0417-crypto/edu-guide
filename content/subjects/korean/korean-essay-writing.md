@@ -21,7 +21,7 @@ featured_image: "/images/edu_0449_iFLzEx6RNmI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 습관과 약점을 파악합니다. 단계별로 논술의 기본기를 다져갑니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 논술의 시작: 주제 파악
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0449_iFLzEx6RNmI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 논제를 분석하는 연습을 합니다. 논제의 요구사항을 정확히 파악하는 훈련을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 개요 작성의 중요성
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0449_iFLzEx6RNmI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개요 작성법을 체계적으로 지도합니다. 논리적 구성력을 키우는 훈련을 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 서론 본론 결론
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0449_iFLzEx6RNmI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서론 본론 결론 작성법을 익힙니다. 각 부분의 역할과 분량 배분을 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 표현력 향상
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0449_iFLzEx6RNmI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 표현력을 다듬는 훈련을 합니다. 첨삭을 통해 더 나은 표현을 익힙니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -106,5 +106,5 @@ featured_image: "/images/edu_0449_iFLzEx6RNmI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 논술 과외로 실력을 키웁니다. 개인별 약점을 분석하고 집중 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>

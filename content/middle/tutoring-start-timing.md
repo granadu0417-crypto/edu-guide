@@ -15,7 +15,7 @@ featured_image: "/images/edu_0233_A6YXVe6Qcnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황을 분석하고 최적의 시작 시기를 조언합니다. 늦었다고 생각할 때가 가장 빠릅니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 성적이 떨어지기 시작할 때가 적기입니다
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0233_A6YXVe6Qcnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적 하락의 원인을 진단합니다. 개념 이해 부족인지 문제 풀이력 부족인지 파악하고 맞춤 전략을 세웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학년 올라가기 전이 중요합니다
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0233_A6YXVe6Qcnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 때 다음 학기 선행과 이전 학기 복습을 병행합니다. 학년 전환기를 안정적으로 넘길 수 있도록 준비합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 특정 과목에서 막혔을 때 시작하세요
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0233_A6YXVe6Qcnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어디서 막혔는지 정확히 진단합니다. 기초부터 다시 잡을지 현재 진도를 따라갈지 판단하고 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 학습 습관이 무너졌을 때 시작하세요
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0233_A6YXVe6Qcnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관 점검부터 시작합니다. 숙제 관리, 복습 시스템, 시간 관리를 함께 만들어갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

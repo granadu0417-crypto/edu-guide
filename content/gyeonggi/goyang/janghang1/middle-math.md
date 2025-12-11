@@ -22,12 +22,11 @@ tags:
   - 장항중
 featured_image: "/images/edu_0005.jpg"
 ---
-
-중학교 수학은 고등학교의 기초입니다. 고양시 일산동구 장항1동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+늦지 않았습니다. 지금 시작하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 만남에서 수학 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가하여 맞춤 계획을 세웁니다.
+첫 수업에서 학생의 사고 과정을 점검합니다. 문제를 푸는 방식을 보면 약점이 보입니다.
 </div>
 
 ## 중학교에서 수학 성적이 떨어지는 이유
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험에서 나온 개념이 고등학교에서도 나옵니다. 내신 공부가 곧 고등 준비가 되도록 지도합니다.
+손으로 푸는 과목입니다. 눈으로만 보면 안 됩니다. 직접 써가면서 풀어야 합니다.
 </div>
 
 ## 장항중 시험은 이렇습니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 프린트와 수업 필기도 함께 분석합니다. 시험에 나올 가능성이 높은 부분을 집중 대비합니다.
+최근 3년 기출을 분석하여 출제 패턴을 파악합니다. 예상 문제까지 준비합니다.
 </div>
 
 ## 고등 수학 완벽 준비
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답의 원인을 분류합니다. 개념 부족, 계산 실수, 문제 이해 오류, 시간 부족. 각각 대처법이 다릅니다.
+수시와 정시, 어느 쪽에 무게를 둘지에 따라 전략이 달라집니다. 상담을 통해 방향을 정합니다.
 </div>
 
 ## 왜 과외를 선택해야 할까요?
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0005.jpg"
 
 ## 마무리
 
-어렵다고 피하면 계속 어렵습니다. 지금 시작하세요.
+일산동구 학생 여러분, 실력, 키울 수 있습니다. 포기하기엔 아직 이릅니다.

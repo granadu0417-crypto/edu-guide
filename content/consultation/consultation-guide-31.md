@@ -21,7 +21,7 @@ featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단기 성적 향상 상담에서는 남은 시간과 현재 상태를 분석합니다. 어디에 집중해야 점수가 오르는지 전략적으로 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 성적 향상 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단기간에 성적을 올리고 싶다면 학습 상담을 받으세요. 효율적인 시험 대비 전략을 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략을 다룹니다. 심리 상담은 시험 스트레스가 심할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 시험까지의 구체적인 계획을 세웁니다. 날짜별로 무엇을 공부할지 로드맵을 안내합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 단기간에 성적을 올리려면 어떻게 해야 하나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단기 전략에 맞는 공부법을 안내합니다. 시간이 부족할 때 효율을 극대화하는 방법을 알려드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단기 성적 향상에 대해 더 궁금한 점이 있으시면 문의하세요. 남은 시간을 최대한 활용하는 전략을 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 마무리

@@ -21,7 +21,7 @@ featured_image: "/images/edu_0116_h0tMHMyfr9A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 시간을 정확히 지킵니다. 매주 같은 요일, 같은 시간에 수업하면서 규칙적인 학습 습관을 만들어갑니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0116_h0tMHMyfr9A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 검사를 꼼꼼히 합니다. 숙제를 하면 칭찬, 안 하면 왜 못 했는지 이야기 나누고 다음엔 꼭 하도록 격려합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0116_h0tMHMyfr9A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-받아쓰기 틀린 단어는 3번씩 쓰게 합니다. 단순 반복이 아니라, 보면서 쓰고, 가리고 쓰고, 확인하는 과정으로 진행합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 2학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0116_h0tMHMyfr9A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-20분 공부하면 5분 쉬는 시간을 줍니다. 작은 보상이 학습 동기를 높입니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0116_h0tMHMyfr9A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집에서 할 복습 내용을 구체적으로 안내합니다. 구구단 3단 10번 읽기처럼 분명하게 알려드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주의사항

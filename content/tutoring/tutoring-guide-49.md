@@ -20,7 +20,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생 눈높이에 맞춰 재미있게 수업합니다. 억지로 공부시키지 않고 흥미를 유도합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 초등학교 때 과외가 필요한 경우가 있나요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황을 먼저 파악합니다. 기초 보충이 필요한지, 심화가 필요한지 진단 후 수업 방향을 정합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 초등학생 과외는 어떻게 다르게 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생은 칭찬을 많이 합니다. 작은 성취도 인정해주면서 자신감을 키워줍니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 초등학생 과외에서 주의할 점은 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 매번 피드백을 드립니다. 아이 상태와 반응을 공유하면서 조절합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 아이 상황에 맞는 학습 방향을 안내해 드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 마무리

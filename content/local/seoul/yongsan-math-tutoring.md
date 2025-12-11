@@ -18,7 +18,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 실력을 정확하게 진단합니다. 어느 단원에서 막히는지, 개념이 문제인지 계산이 문제인지 파악하고, 그 지점부터 차근차근 다시 쌓아갑니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 용산구 동네별 수학 교육 환경
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 수업 장소와 시간을 정합니다. 한남동 카페 수업, 자택 방문, 온라인 병행 등 가장 효율적인 방식으로 진행합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 학년별 수학 과외 포인트
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생은 문제만 많이 풀리지 않습니다. 틀린 문제가 있으면 왜 틀렸는지, 어떤 개념이 부족한지 짚어줍니다. 계산 실수인지 개념 실수인지 구분해서 다르게 접근합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ### 중학생 수학 - 고등 수학의 토대를 쌓는 시기
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학생은 개념부터 다시 점검합니다. 문제를 틀렸을 때 정답만 알려주는 것이 아니라, 어디서 막혔는지 찾아서 그 개념을 다시 설명합니다. 내신 2주 전부터는 학교 기출문제 중심으로 집중 대비합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ### 고등학생 수학 - 내신과 수능 두 가지 전쟁
@@ -100,7 +100,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 설명할 때 왜 그런지를 반드시 알려줍니다. 공식을 외우기 전에 그 공식이 어디서 나왔는지 이해시킵니다. 학생이 스스로 문제를 풀 수 있는 힘을 기르는 것이 목표입니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ### 수업 외 관리가 되는 선생님
@@ -109,7 +109,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 숙제를 점검합니다. 틀린 문제는 왜 틀렸는지 함께 분석하고, 비슷한 유형을 다시 풀어봅니다. 학습 현황은 카카오톡으로 학부모님께 정기적으로 보고드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ### 학생 수준에 맞춰주는 선생님
@@ -118,7 +118,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 진단 테스트로 학생의 현재 실력을 파악합니다. 학년에 상관없이 부족한 부분부터 채워나갑니다. 무리한 선행보다 현재 실력을 탄탄하게 만드는 것이 우선입니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 용산구 수학과외 비용 안내
@@ -135,7 +135,7 @@ featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문

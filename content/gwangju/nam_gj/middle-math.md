@@ -10,14 +10,13 @@ tags:
   - 남구수학과외
   - 남구중등수학
 ---
-
-a:b = c:d에서 ad = bc가 왜 성립하는지 모른다면, 비례식력이 필요합니다.
+중등 수학, 개념부터 다시 잡아야 합니다.
 
 남구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 광주고, 광주제일고, 전남고 시험에서 비례식 문제가 자주 출제됩니다. 내항의 곱과 외항의 곱이 같다는 성질을 정확히 활용하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비례식 성질을 체계적으로 정리합니다. 미지수 구하기를 훈련합니다.
+첫 수업에서 학생의 실력을 정밀 진단합니다. 개념 이해도, 계산 정확도, 문제 해결 속도를 파악합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ a:b = c:d에서 ad = bc가 왜 성립하는지 모른다면, 비례식력이 필
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비례식 세우기를 정리합니다. 활용 문제 해석을 훈련합니다.
+꾸준함이 핵심입니다. 한 번에 많이 하는 것보다 매일 조금씩 하는 게 효과적입니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ a:b = c:d에서 ad = bc가 왜 성립하는지 모른다면, 비례식력이 필
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광주고, 광주제일고 기출에서 비례식 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 프린트와 수업 필기도 함께 분석합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ a:b = c:d에서 ad = bc가 왜 성립하는지 모른다면, 비례식력이 필
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 비례식력을 점진적으로 향상시킵니다.
+내신 1등급이 수능 1등급으로 이어지도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -112,5 +111,5 @@ a:b = c:d에서 ad = bc가 왜 성립하는지 모른다면, 비례식력이 필
 
 ## 마무리
 
-남구에서 비례식이 어렵다면 관계 파악 훈련이 필요합니다. 성질이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 포기가 아니라 도전입니다. 함께 해보세요.
 

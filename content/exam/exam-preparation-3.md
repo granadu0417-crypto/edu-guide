@@ -19,7 +19,7 @@ featured_image: "/images/edu_0168_9633tX_7vmc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날에는 수업을 가볍게 진행하거나 쉽니다. 학생이 편안한 마음으로 시험을 볼 수 있도록 격려와 응원을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 전날 해야 할 것
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0168_9633tX_7vmc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날 무엇을 하고 무엇을 하지 말아야 하는지 미리 안내합니다. 불안을 줄이고 자신감을 높이는 방법을 알려드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시험 전날 하지 말아야 할 것
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0168_9633tX_7vmc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 루틴을 함께 점검합니다. 아침에 무엇을 먹을지, 몇 시에 출발할지 미리 계획을 세웁니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 시험 중 실전 전략

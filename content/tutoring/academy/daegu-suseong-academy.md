@@ -24,7 +24,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대구 수성구 지역 학교 내신 경향을 파악하고 있습니다. 학교별 맞춤 수업이 가능합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 수성구 학원가의 특징은 뭔가요?
@@ -37,7 +37,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수성구 학교 시험 일정에 맞춰 내신 대비를 진행합니다. 족보 분석도 함께 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 수성구에는 어떤 학원 유형이 있나요?
@@ -50,7 +50,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 부족한 부분은 과외로 보충합니다. 약점 과목만 집중 케어합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 서울 강남 학원이랑 비교하면 어떤가요?
@@ -73,7 +73,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 수업을 설계합니다. 학원에서 못 따라간 부분을 과외에서 잡습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 학원 선택할 때 뭘 확인해야 하나요?
@@ -88,7 +88,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수성구 지역 학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문

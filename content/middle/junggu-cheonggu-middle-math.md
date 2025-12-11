@@ -28,7 +28,7 @@ featured_image: "/images/edu_0828_ImRm8T6DNTc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 대푯값과 산포도의 이해 수준을 진단합니다. 평균, 중앙값, 최빈값, 분산, 표준편차를 체계적으로 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 대푯값과 산포도가 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0828_ImRm8T6DNTc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대푯값 각각의 의미를 정확히 이해합니다. 상황에 맞는 대푯값을 선택하는 연습을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 장충중·대경중·장원중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0828_ImRm8T6DNTc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·대경중·장원중 기출 통계 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0828_ImRm8T6DNTc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 자료를 분석하고 대푯값을 구해보게 합니다. 왜 그 대푯값을 선택했는지 설명하는 훈련을 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0828_ImRm8T6DNTc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 통계 내용을 정확히 이해합니다. 통계를 자유롭게 활용하는 능력을 키웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0828_ImRm8T6DNTc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 통계 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}

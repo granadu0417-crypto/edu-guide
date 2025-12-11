@@ -15,7 +15,7 @@ featured_image: "/images/edu_0979_zP80MWApkn8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 수준을 진단하고 약점을 파악합니다. 어휘력, 문장 이해력, 추론 능력 중 어디가 부족한지 분석합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 독해력이 왜 이렇게 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0979_zP80MWApkn8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 패턴을 분석합니다. 어디서 막히는지, 왜 이해가 안 되는지 파악하고 맞춤 훈련을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 문장을 정확히 읽으려면 어떻게 해야 하나요?
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0979_zP80MWApkn8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 구조 분석 연습을 합니다. 주어-서술어 찾기, 수식어 제거하기를 반복 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 비문학과 문학은 읽는 방법이 다른가요?
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0979_zP80MWApkn8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학과 문학 각각의 독해 전략을 훈련합니다. 유형별로 다른 접근법을 연습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 독해 속도가 너무 느린데 어떻게 하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0979_zP80MWApkn8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-속독과 정독을 상황에 맞게 사용하는 법을 훈련합니다. 의미 단위 끊어 읽기를 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문

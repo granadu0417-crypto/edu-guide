@@ -10,14 +10,13 @@ tags:
   - 중구영어과외
   - 중구중등영어
 ---
-
-who, which, that 중 어떤 관계대명사를 써야 하는지 모른다면, 관계대명사력이 필요합니다.
+영어 시험은 특별한 대비가 필요합니다.
 
 중구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 대전중앙고, 호수돈여고, 대전상고 시험에서 관계대명사 문제가 자주 출제됩니다. 선행사에 따라 관계대명사를 정확히 선택하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관계대명사 종류를 체계적으로 정리합니다. 선행사 파악을 훈련합니다.
+학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾아 집중 공략합니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ who, which, that 중 어떤 관계대명사를 써야 하는지 모른다면, �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관계대명사 격을 정리합니다. 문장 결합을 훈련합니다.
+문제 풀이 시간을 재면서 연습합니다. 실전에서는 시간이 촉박합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ who, which, that 중 어떤 관계대명사를 써야 하는지 모른다면, �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대전중앙고, 호수돈여고 기출에서 관계대명사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험은 교과서와 프린트에서 나옵니다. 출제 포인트를 짚습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ who, which, that 중 어떤 관계대명사를 써야 하는지 모른다면, �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 관계대명사력을 점진적으로 심화합니다.
+1, 2학년은 내신 집중, 3학년은 수능 비중을 높입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -128,5 +127,5 @@ who, which, that 중 어떤 관계대명사를 써야 하는지 모른다면, �
 
 ## 마무리
 
-중구에서 관계대명사가 어렵다면 선행사 구분 훈련이 필요합니다. 연결이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 지금 바로 잡으세요.
 

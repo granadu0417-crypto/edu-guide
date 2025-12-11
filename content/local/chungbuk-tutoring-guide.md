@@ -19,7 +19,7 @@ featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-충북 지역 과외 시장을 분석합니다. 거주 지역과 예산에 맞는 최적의 선생님을 추천합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 충북 대학생 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-충북대와 교원대 인재풀에서 검증된 선생님을 연결합니다. 전공과 경력을 꼼꼼히 확인합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 지역별 과외 현황
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 과외 시장을 파악합니다. 통학 가능 거리와 예산을 고려해 선생님을 매칭합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 화상 과외 활용 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 과외 환경 세팅을 도와드립니다. 온라인 수업에 적합한 학습 방법을 안내합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 과목별 과외 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목과 학년에 맞는 선생님을 추천합니다. 학습 목표에 따라 커리큘럼을 설계합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문

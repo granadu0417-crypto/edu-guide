@@ -22,7 +22,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교재 선택 상담에서는 학생의 현재 수준과 목표를 분석합니다. 너무 쉽지도, 너무 어렵지도 않은 딱 맞는 교재를 추천해드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 교재 선택 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어떤 교재를 써야 할지 모르겠다면 학습 상담을 받으세요. 수준에 맞는 교재를 골라드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 진학 상담은 입시에 맞는 교재를 정할 때 도움이 됩니다. 진로 상담은 어떤 과목에 집중해야 할지 정할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별, 용도별 교재 리스트를 안내합니다. 개념서, 유형서, 기출문제집 등 어떤 순서로 풀어야 하는지도 알려드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 교재는 어떻게 골라야 하나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수준, 목표, 학습 시간을 고려해서 맞춤형 교재 로드맵을 제안합니다. 어떤 순서로 어떻게 활용해야 하는지도 안내합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0081_feLC4ZCxGqk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교재 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 수준에 맞는 교재를 골라드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

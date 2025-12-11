@@ -10,14 +10,13 @@ tags:
   - 아산시수학과외
   - 아산시고등수학
 ---
-
-P(A∩B)와 P(A)·P(B)가 언제 같은지 헷갈린다면, 확률력이 필요합니다.
+수학은 혼자 공부하기 어려운 과목입니다.
 
 아산시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 아산고, 온양고, 배방고 시험에서 확률 문제가 자주 출제됩니다. 독립과 종속의 차이를 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률의 기본 공식을 체계적으로 정리합니다. 조건부 확률과 독립을 훈련합니다.
+어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 출발점을 찾습니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ P(A∩B)와 P(A)·P(B)가 언제 같은지 헷갈린다면, 확률력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률 공식 간의 관계를 정리합니다. 조건부 확률 문제를 훈련합니다.
+풀이 과정을 깔끔하게 정리하는 연습을 합니다. 서술형 점수도 올립니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ P(A∩B)와 P(A)·P(B)가 언제 같은지 헷갈린다면, 확률력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아산고, 배방고 기출에서 확률 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+같은 문제도 학교마다 변형해서 출제합니다. 변형 문제를 연습합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ P(A∩B)와 P(A)·P(B)가 언제 같은지 헷갈린다면, 확률력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 확률력을 점진적으로 향상시킵니다.
+고등학교 3년, 내신과 수능 배분 로드맵을 세워드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -122,5 +121,5 @@ P(A∩B)와 P(A)·P(B)가 언제 같은지 헷갈린다면, 확률력이 필요�
 
 ## 마무리
 
-아산시에서 확률이 어렵다면 공식 훈련이 필요합니다. 상황이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 성적 향상의 시작, 무료 상담으로 첫걸음을 떼세요.
 

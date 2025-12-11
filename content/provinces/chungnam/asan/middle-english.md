@@ -10,14 +10,13 @@ tags:
   - 아산시영어과외
   - 아산시중등영어
 ---
-
-in, on, at을 언제 쓰는지 헷갈린다면, 전치사력이 필요합니다.
+영어 성적이 오르지 않아 고민이신가요?
 
 아산시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 아산고, 온양고, 배방고 시험에서 전치사 문제가 자주 출제됩니다. 시간, 장소, 방향에 따른 전치사 선택이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전치사 용법을 체계적으로 정리합니다. 문맥별 선택을 훈련합니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완됩니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ in, on, at을 언제 쓰는지 헷갈린다면, 전치사력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전치사 뉘앙스를 정리합니다. 숙어 표현을 훈련합니다.
+어려운 문제도 기본 개념의 조합입니다. 기본기가 탄탄하면 풀 수 있습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ in, on, at을 언제 쓰는지 헷갈린다면, 전치사력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아산고, 온양고 기출에서 전치사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ in, on, at을 언제 쓰는지 헷갈린다면, 전치사력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 전치사력을 점진적으로 심화합니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -132,5 +131,5 @@ in, on, at을 언제 쓰는지 헷갈린다면, 전치사력이 필요합니다.
 
 ## 마무리
 
-아산시에서 전치사가 어렵다면 용례 훈련이 필요합니다. 감각이 생기면 영어가 쉬워집니다.
+ 학생 여러분, 힘들 때 도움받으면 됩니다.
 

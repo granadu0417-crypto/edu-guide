@@ -22,12 +22,11 @@ tags:
   - 화정고
 featured_image: "/images/edu_0001.jpg"
 ---
-
-영어 성적, 올리고 싶으시죠? 고양시 덕양구 성사동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+내신과 수능 영어를 동시에 잡는 방법이 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 정밀 진단합니다. 어휘력, 문법 이해도, 독해 속도를 파악하고 부족한 부분부터 채워갑니다.
+성적표만 보지 않습니다. 실제로 문제를 풀어보면서 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 고등학교 영어, 이렇게 달라집니다
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험에서 나온 지문 유형이 수능에서도 나옵니다. 내신 공부가 곧 수능 공부가 되도록 지도합니다.
+어려운 문제도 기본 개념의 조합입니다. 기본기가 탄탄하면 어떤 문제든 풀 수 있습니다.
 </div>
 
 ## 화정고 내신 시험 완벽 분석
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다. 그 학교 시험의 특징을 잘 알고 있습니다.
+같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다. 그 학교 시험의 특징을 잘 압니다.
 </div>
 
 ## 수능 영어의 핵심
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 오답을 철저히 분석합니다. 왜 틀렸는지, 어떻게 접근해야 하는지 학생이 스스로 깨달을 때까지 지도합니다.
+내신 시험이 끝나면 바로 수능 대비로 전환합니다. 시간 낭비 없이 효율적으로 운영합니다.
 </div>
 
 ## 학원 vs 과외, 무엇이 다를까요?
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0001.jpg"
 
 ## 마무리
 
-성사동 고등학생 여러분, 영어는 포기할 과목이 아닙니다. 화정고 내신과 수능에 맞춘 체계적인 수업으로 영어 실력을 키워보세요.
+덕양구 학생 여러분, 내신에 특화된 과외, 지금 시작할 때입니다.

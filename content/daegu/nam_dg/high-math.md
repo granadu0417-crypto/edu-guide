@@ -10,14 +10,13 @@ tags:
   - 남구수학과외
   - 남구고등수학
 ---
-
-문제 유형이 달라지면 막힌다면, 유형 분석력이 필요합니다.
+수학 포기하려고요? 잠깐만요.
 
 대구 남구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 남구고, 대명고, 영남고 시험과 수능에서 유형 파악이 핵심입니다. 유형을 읽어야 등급이 오릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 유형별로 분류합니다. 각 유형의 접근법을 체계화합니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지 파악합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 대표 문제를 훈련합니다. 변형 문제에 대응하는 연습을 합니다.
+문제를 많이 푸는 것보다 한 문제를 깊이 이해하는 게 중요합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출 문제를 분석합니다. 출제 경향을 파악해서 맞춤 대비합니다.
+내신 시험은 학교마다 다릅니다. 전략적 대비가 필요합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -58,7 +57,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 함께 작성합니다. 왜 틀렸는지 파악해서 같은 실수를 반복하지 않습니다.
+시험 3주 전부터는 내신에 올인합니다.
 </div>
 
 ## 학년별 학습 방향
@@ -127,4 +126,4 @@ tags:
 
 ## 마무리
 
-대구 남구에서 문제 유형이 어렵다면 분석 훈련이 필요합니다. 남구고, 대명고, 영남고 내신과 수능 모두 유형 파악이 핵심입니다. 유형이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 오늘이 가장 빠른 날입니다.

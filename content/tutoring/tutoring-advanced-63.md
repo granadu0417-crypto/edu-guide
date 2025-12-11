@@ -20,7 +20,7 @@ featured_image: "/images/edu_0937_LLfRMRT-9AY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성과가 안 나오면 함께 원인을 분석합니다. 수업 방식, 숙제 이행, 복습 습관 등을 점검합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 과외 효과가 안 나는 이유는 뭘까요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0937_LLfRMRT-9AY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 검사를 꼼꼼히 합니다. 풀이 과정 없으면 다시 풀게 합니다. 대충 하면 효과가 없습니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 효과를 높이려면 어떻게 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0937_LLfRMRT-9AY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 방법을 알려드립니다. 효과적인 오답 정리법도 안내합니다. 혼자 하는 공부가 되어야 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 부모님은 뭘 도와줄 수 있나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0937_LLfRMRT-9AY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과 정기적으로 소통합니다. 집에서 어떻게 도와주시면 좋을지 안내드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0937_LLfRMRT-9AY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과 극대화에 대해 더 궁금한 점이 있으시면 문의하세요. 맞춤 전략을 함께 세워드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 마무리

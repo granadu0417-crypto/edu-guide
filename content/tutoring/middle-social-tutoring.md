@@ -19,7 +19,7 @@ featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 사회 과목 이해도를 먼저 체크합니다. 어떤 영역이 약한지, 서술형이 문제인지 파악합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 중학교 사회가 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추상적인 개념을 구체적인 사례로 풀어드립니다. 이해가 되어야 암기도 됩니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 개념 정리의 핵심
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 개념을 정리한 노트를 만들어갑니다. 시험 직전에 빠르게 복습할 수 있게 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 서술형 대비 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 문제를 직접 풀어보고 첨삭받습니다. 채점 기준에 맞게 쓰는 연습을 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 영역별 공부법
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별로 효과적인 학습 방법을 알려드립니다. 각 영역의 특성에 맞게 접근합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 출제 경향에 맞춰 대비합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 계획과 비용을 상세히 안내드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

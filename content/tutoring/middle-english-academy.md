@@ -23,7 +23,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 영어 수준을 먼저 파악합니다. 문법이 약한지, 독해가 안 되는지, 듣기가 문제인지 진단합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 중등 영어학원은 어떤 종류가 있나요?
@@ -36,7 +36,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 학원 유형을 상담에서 안내해 드립니다. 내신이 급한지, 기초가 부족한지에 따라 추천이 달라집니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 중학교 영어에서 중요한 게 뭔가요?
@@ -49,7 +49,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법, 독해, 듣기를 균형 있게 수업합니다. 학생에게 부족한 영역을 집중 보완합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 학원이 나은가요, 과외가 나은가요?
@@ -72,7 +72,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 커리큘럼으로 수업합니다. 무리한 선행보다는 기본기를 탄탄히 다집니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 학원 선택할 때 뭘 확인해야 하나요?
@@ -87,7 +87,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중등 영어 학습에 대해 궁금한 점이 있으시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

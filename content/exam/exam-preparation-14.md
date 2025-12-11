@@ -19,7 +19,7 @@ featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 암기 방법을 찾아드립니다. 단순 반복이 아닌 효율적인 암기 전략으로 시험을 대비합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 암기가 안 되는 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기가 안 되는 원인을 먼저 파악합니다. 방법이 문제인지, 컨디션이 문제인지 분석하고 해결책을 찾습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 효과적인 암기법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-출력 중심 암기법을 연습합니다. 덮어놓고 말하기, 퀴즈 풀기 등 기억을 끄집어내는 훈련을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 단기 암기 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 직전 단기 암기 전략을 안내합니다. 제한된 시간에 최대 효과를 낼 수 있도록 우선순위를 정리합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과목별 암기 팁
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 암기법을 안내합니다. 역사, 사회, 과학, 영어 각각의 암기 전략을 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 암기력 높이는 습관

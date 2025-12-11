@@ -19,7 +19,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 어디서 막히는지 정확히 파악합니다. 초등 개념이 부족하면 거기서부터, 특정 단원만 약하면 거기만 집중합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 과외가 필요한 경우
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 성적표와 시험지를 함께 봅니다. 과외가 정말 필요한지, 어떤 방식이 맞는지 솔직하게 말씀드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과외의 장점
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 아는 부분은 빠르게 넘어가고 모르는 부분에 시간을 더 씁니다. 효율적으로 시간을 사용합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 과외 종류
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무조건 선행을 권하지 않습니다. 현행이 완벽해야 선행을 해야 하고, 그렇지 않으면 오히려 해가 됩니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 과외 내용
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 단원을 확실히 잡습니다. 중2 일차함수가 약하면 고등 함수가 다 무너집니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 수업 진행 방법
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 검사를 꼼꼼히 합니다. 숙제를 안 해오면 효과가 없습니다. 부모님께도 숙제 상황을 알려드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 선생님 선택법

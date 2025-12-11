@@ -25,7 +25,7 @@ featured_image: "/images/edu_0571_TeJZ3CGZXRw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 유튜브 채널을 추천합니다. 유튜브를 효과적으로 활용하는 방법을 알려드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 채널 유형과 선택
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0571_TeJZ3CGZXRw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 유튜브 채널을 추천합니다. 품질 좋은 영상을 선별하는 방법을 가르칩니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 효과적인 시청법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0571_TeJZ3CGZXRw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유튜브 시청 전후 학습법을 지도합니다. 영상 내용을 자기 것으로 만드는 방법을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 주의사항과 활용 팁
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0571_TeJZ3CGZXRw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유튜브의 함정을 피하는 방법을 알려드립니다. 효율적으로 활용하도록 지도합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 유튜브와 인강과 과외 병행
@@ -81,6 +81,6 @@ featured_image: "/images/edu_0571_TeJZ3CGZXRw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유튜브를 보조로 활용하면서 체계적 학습은 과외로 진행합니다. 효율적인 병행 학습을 도와드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 

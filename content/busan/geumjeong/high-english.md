@@ -10,14 +10,13 @@ tags:
   - 금정구영어과외
   - 금정구고등영어
 ---
-
-it, this, they가 무엇을 가리키는지 헷갈린다면, 지칭 추론력이 필요합니다.
+고등학생이라면 알아야 할 영어 공부법이 있습니다.
 
 금정구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 금정고, 부산대부고, 오륜고 시험에서 지칭 추론 문제가 자주 출제됩니다. 대명사가 가리키는 대상을 정확히 파악해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대명사의 선행사를 찾는 훈련을 합니다. 문장 간 연결 관계를 분석합니다.
+진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ it, this, they가 무엇을 가리키는지 헷갈린다면, 지칭 추론력이
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문맥으로 지칭 대상을 좁히는 방법을 익힙니다. 수일치와 문맥을 함께 확인합니다.
+비슷한 유형을 반복해서 풀며 패턴을 익힙니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ it, this, they가 무엇을 가리키는지 헷갈린다면, 지칭 추론력이
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-금정고, 부산대부고 기출에서 지칭 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+선생님이 강조한 부분을 정리합니다. 시험에 나올 확률이 높습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ it, this, they가 무엇을 가리키는지 헷갈린다면, 지칭 추론력이
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 지칭 추론력을 점진적으로 심화합니다.
+내신 범위가 곧 수능 출제 범위입니다. 한 번 공부로 두 가지를 대비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -122,4 +121,4 @@ it, this, they가 무엇을 가리키는지 헷갈린다면, 지칭 추론력이
 
 ## 마무리
 
-금정구에서 지칭이 헷갈린다면 추적 훈련이 필요합니다. 연결이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 검증된 과외, 지금 문의하세요.

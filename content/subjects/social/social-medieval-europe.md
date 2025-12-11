@@ -26,7 +26,7 @@ featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중세 유럽의 형성 배경을 먼저 설명합니다. 봉건제와 장원제의 관계를 정리합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 봉건제와 장원제
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-봉건제의 주종 관계를 그림으로 설명합니다. 장원의 구조를 정리합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 크리스트교와 교회
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교회의 역할과 영향력을 설명합니다. 교황권과 왕권의 관계를 분석합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 십자군 전쟁
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-십자군 전쟁의 원인과 결과를 정리합니다. 중세 사회 변화와 연결합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 중세 문화
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-로마네스크와 고딕 양식을 비교합니다. 중세 문화의 특징을 정리합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시험 대비
@@ -115,5 +115,5 @@ featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 중세 유럽을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

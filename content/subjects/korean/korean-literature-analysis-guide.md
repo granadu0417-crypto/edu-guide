@@ -21,7 +21,7 @@ featured_image: "/images/edu_0465_Wh6zKRoLnrE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 문학 분석 능력을 진단합니다. 장르별 분석 방법을 체계적으로 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시 분석법
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0465_Wh6zKRoLnrE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시 분석의 기본 틀을 훈련합니다. 다양한 작품에 적용하는 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 소설 분석법
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0465_Wh6zKRoLnrE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소설의 구조를 분석하는 방법을 훈련합니다. 서술 시점별 특징을 익힙니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 수필과 극문학 분석
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0465_Wh6zKRoLnrE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수필과 극문학의 특성을 정리합니다. 장르별 분석 연습을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 문제 풀이 적용
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0465_Wh6zKRoLnrE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분석 능력을 문제 풀이에 적용합니다. 유형별 접근법을 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -106,5 +106,5 @@ featured_image: "/images/edu_0465_Wh6zKRoLnrE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 문학 분석력을 키웁니다. 이론과 실전 문제 풀이를 병행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>

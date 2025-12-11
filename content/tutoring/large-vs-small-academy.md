@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향과 현재 상황을 파악해서 어떤 형태가 맞을지 안내해 드립니다. 무조건 좋은 건 없습니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 대형 학원의 장점은 뭔가요?
@@ -38,7 +38,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대형 학원 다니면서 부족한 부분을 과외로 보충하는 학생도 많습니다. 병행도 가능합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 대형 학원의 단점은 뭔가요?
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대형 학원에서 뒤처지는 학생이라면 기초를 다시 잡아드립니다. 무리하게 따라가지 않아도 됩니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 소형 학원의 장점은 뭔가요?
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외도 소형 학원처럼 맞춤 관리가 됩니다. 1:1이라 더 세밀한 케어가 가능합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 소형 학원의 단점은 뭔가요?
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 정보나 최신 트렌드가 궁금하시면 상담해 주세요. 필요한 정보를 안내해 드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,7 +96,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향을 파악해서 어떤 학습 환경이 맞을지 안내해 드립니다. 상담 후 결정하셔도 됩니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

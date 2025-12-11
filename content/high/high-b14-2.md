@@ -22,7 +22,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 성적표를 분석합니다. 어떤 영역에서 점수가 흔들리는지 파악하고 그 부분을 집중 보완합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 모의고사 대비의 핵심
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 후 오답 분석을 함께 합니다. 틀린 이유를 파악하고 같은 유형 문제를 더 풀어봅니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과목별 모의고사 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 취약 영역을 파악하고 집중 훈련합니다. 어디서 점수가 빠지는지 알아야 대비할 수 있습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 모의고사 활용법
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 노트를 함께 만듭니다. 어떻게 정리해야 효과적인지 방법을 알려드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 등급 안정화 방법
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-약점 유형을 파악하고 집중 훈련합니다. 같은 유형을 반복해서 풀면 실력이 안정됩니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 모의고사 일정 활용
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 일정에 맞춰 학습 계획을 세웁니다. 시험 전 2주가 가장 중요한 준비 기간입니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 주의사항

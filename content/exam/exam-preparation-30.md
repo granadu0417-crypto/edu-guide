@@ -21,7 +21,7 @@ featured_image: "/images/edu_0169_bjGGaNF0fKY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 체계적으로 훈련합니다. 개념을 이해하는 것에서 그치지 않고 직접 쓰면서 표현력을 키웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 서술형 문제가 어려운 이유
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0169_bjGGaNF0fKY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 채점 기준을 분석합니다. 어떤 키워드가 들어가야 하는지, 어떤 구조로 써야 하는지 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 서술형 답안 작성의 기본
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0169_bjGGaNF0fKY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성 공식을 알려드립니다. 문제 유형별로 어떻게 접근해야 하는지 구체적으로 연습합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 과목별 서술형 전략
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0169_bjGGaNF0fKY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 서술형 특성을 분석하고 맞춤 연습을 합니다. 자주 출제되는 유형을 반복 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 서술형 실전 연습법
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0169_bjGGaNF0fKY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안을 직접 쓰고 첨삭을 받습니다. 부족한 부분을 보완하고 반복 연습으로 실력을 완성합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시험장에서 서술형 풀기

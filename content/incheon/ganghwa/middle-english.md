@@ -10,14 +10,13 @@ tags:
   - 강화군영어과외
   - 강화군중등영어
 ---
-
-the most important와 the importantest 중 뭐가 맞는지 헷갈린다면, 최상급력이 필요합니다.
+늦지 않았습니다. 영어, 지금 시작하세요.
 
 강화군에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 강화고, 강화여고, 합일고 시험에서 최상급 문제가 자주 출제됩니다. 짧은 형용사는 -est, 긴 형용사는 most를 쓴다는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최상급 형성 규칙을 체계적으로 정리합니다. -est와 most 구분을 훈련합니다.
+수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ the most important와 the importantest 중 뭐가 맞는지 헷갈린다면, 최
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-규칙과 불규칙을 정리합니다. 음절 수 판단을 훈련합니다.
+개념 이해 없이 문제만 풀면 한계가 있습니다. 기본기를 탄탄히 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ the most important와 the importantest 중 뭐가 맞는지 헷갈린다면, 최
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강화고, 강화여고 기출에서 최상급 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+서술형 비중이 높은 학교는 풀이 과정을 깔끔하게 쓰는 연습을 합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ the most important와 the importantest 중 뭐가 맞는지 헷갈린다면, 최
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 최상급력을 점진적으로 심화합니다.
+내신 기간에는 학교 시험에 집중합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -128,5 +127,5 @@ the most important와 the importantest 중 뭐가 맞는지 헷갈린다면, 최
 
 ## 마무리
 
-강화군에서 최상급이 어렵다면 형태 선택 훈련이 필요합니다. 규칙이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 자신감, 되찾을 수 있습니다.
 

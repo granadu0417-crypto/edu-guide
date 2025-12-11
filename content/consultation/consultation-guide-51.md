@@ -20,7 +20,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적 향상 상담에서는 왜 성적이 안 오르는지 원인을 먼저 분석합니다. 공부 방법, 시간 배분, 취약점을 점검하고 개선 방향을 안내합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 성적 향상 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적이 정체되었다면 학습 상담을 받으세요. 어디서 막혔는지 찾아드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 진학 상담은 목표 대학에 맞춰 전략을 세울 때 도움이 됩니다. 심리 상담은 슬럼프나 무기력이 심할 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 구체적인 성적 향상 로드맵을 안내합니다. 단기에 올릴 수 있는 과목과 장기적으로 잡아야 할 과목을 구분해서 전략을 세워드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 성적은 어떻게 올릴 수 있나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준과 목표에 맞는 맞춤형 전략을 세워드립니다. 무리하지 않으면서도 효과적인 방법을 안내합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0074_OyCl7Y4y0Bk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적 향상에 대해 더 궁금한 점이 있으시면 문의하세요. 점수를 올리는 구체적인 방법을 안내합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

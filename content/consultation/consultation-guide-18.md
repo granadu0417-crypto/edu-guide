@@ -22,7 +22,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교재 선택 상담에서는 학생의 현재 수준을 먼저 파악합니다. 기초가 부족한지, 심화가 필요한지에 따라 맞는 교재를 추천합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학습 자료 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교재 고민이 있다면 학습 상담을 받으세요. 현재 사용 중인 교재가 맞는지 점검하고, 더 효과적인 교재를 안내합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 진로 상담은 적성을 찾는 것이 목적입니다. 진학 상담은 입시 전략에 초점을 맞춥니다. 심리 상담은 학습 스트레스가 심할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 추천 교재 리스트를 안내합니다. 어떤 순서로 공부하면 좋을지도 함께 알려드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 학년에 따라 교재 선택 기준이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞는 교재를 추천합니다. 무작정 많은 책을 사기보다 꼭 필요한 책만 선별해서 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0037_GYzbHU7dr3E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교재 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 학생 수준에 맞는 효과적인 교재를 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 마무리

@@ -22,7 +22,7 @@ featured_image: "/images/edu_0406_V6A8Pauvtjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대명사 추적 방법을 체계적으로 훈련합니다. 지문의 모든 대명사를 표시하며 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 지칭 대상 찾기 원칙
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0406_V6A8Pauvtjg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4가지 원칙(앞 문장, 수, 성별, 문맥)을 적용하는 연습을 합니다. 빠르게 찾는 습관을 만듭니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 대명사별 전략
@@ -42,7 +42,7 @@ he/she는 앞 문장에서 사람 이름을 찾고 성별을 확인합니다. it
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대명사별 찾기 전략을 정리합니다. 다양한 예문으로 연습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 실전 풀이 순서
@@ -51,7 +51,7 @@ he/she는 앞 문장에서 사람 이름을 찾고 성별을 확인합니다. it
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 풀이 순서를 훈련합니다. 시간을 재며 연습해서 속도를 높입니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 헷갈리는 경우
@@ -60,7 +60,7 @@ he/she는 앞 문장에서 사람 이름을 찾고 성별을 확인합니다. it
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헷갈리는 경우의 판단 기준을 정리합니다. 복잡한 지문으로 추적 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -115,5 +115,5 @@ this는 주로 앞 문장 전체, it은 특정 명사입니다. 문맥으로 판
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 지칭 대상 파악을 빠르게 마스터합니다. 체계적 추적법과 실전 연습으로 정확도를 높입니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>

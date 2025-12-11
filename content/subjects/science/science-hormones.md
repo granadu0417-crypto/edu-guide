@@ -19,7 +19,7 @@ featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신경계와 호르몬의 차이부터 비교합니다. 호르몬의 특성을 이해합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 주요 호르몬
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분비 기관별로 호르몬을 정리합니다. 각 호르몬의 기능을 표로 만듭니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 피드백 조절
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피드백 조절을 그림으로 이해합니다. 티록신 분비 조절을 예시로 학습합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 혈당 조절
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-혈당 조절 과정을 단계별로 정리합니다. 인슐린과 글루카곤의 작용을 비교합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 호르몬 그래프 해석을 집중 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -120,5 +120,5 @@ featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 호르몬을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

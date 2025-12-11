@@ -22,7 +22,7 @@ featured_image: "/images/edu_0883_DhOcwxGFBGQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 생활기록부를 분석하고 강점과 보완점을 파악합니다. 전공 적합성을 높일 수 있는 활동과 세특 기록 방향을 함께 설계합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 고등학교 내신의 중요성
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0883_DhOcwxGFBGQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 내신 특성을 고려해 학습 전략을 수립합니다. 학교별 시험 출제 경향을 분석하고 효율적인 대비법을 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 내신 시험 대비 전략
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0883_DhOcwxGFBGQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞춘 시험 대비 전략을 수립합니다. 학교 선생님의 출제 경향을 반영해 효율적으로 준비합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 생활기록부의 구성
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0883_DhOcwxGFBGQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중 탐구 활동과 심화 학습을 통해 세특에 기록될 만한 내용을 만들어갑니다. 전공과 연계된 활동을 기획하고 실행합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 세특 작성을 위한 수업 태도
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0883_DhOcwxGFBGQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 관심사에 맞는 비교과 활동을 추천합니다. 활동 후 기록으로 남길 수 있도록 보고서 작성과 발표를 지도합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 학년별 준비 전략

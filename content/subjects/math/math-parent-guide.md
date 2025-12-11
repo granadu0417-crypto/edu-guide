@@ -26,7 +26,7 @@ featured_image: "/images/edu_0547_TJxotQTUr8o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과 정기적으로 소통합니다. 학생 상황을 공유하고 가정에서 지원할 부분을 안내드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 점수대별 전략
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0547_TJxotQTUr8o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준을 정확히 진단합니다. 점수대에 맞는 맞춤 전략으로 단계적 향상을 도와드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 대화법과 환경 조성
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0547_TJxotQTUr8o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긍정적인 분위기에서 수업합니다. 학생의 자존감을 높이고 수학에 대한 자신감을 키워줍니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학원 vs 과외 선택
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0547_TJxotQTUr8o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 학습 방법을 제안합니다. 학원과 병행하거나 과외만으로도 효과적인 학습이 가능합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -102,6 +102,6 @@ featured_image: "/images/edu_0547_TJxotQTUr8o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과 함께 자녀 학습을 관리합니다. 정기적 피드백으로 가정과 연계하여 효과를 극대화합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 

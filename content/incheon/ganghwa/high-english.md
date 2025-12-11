@@ -10,14 +10,13 @@ tags:
   - 강화군영어과외
   - 강화군고등영어
 ---
-
-Everyone이 단수인지 복수인지 헷갈린다면, 대명사 일치력이 필요합니다.
+지금 시작하면 영어도 충분히 잡을 수 있습니다.
 
 강화군에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 강화고, 강화여고, 합일고 시험에서 대명사 일치 문제가 자주 출제됩니다. 선행사와 대명사의 수, 인칭, 성을 맞추는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대명사가 가리키는 선행사를 찾는 훈련을 합니다. 수와 인칭이 일치하는지 확인합니다.
+모든 수업은 진단에서 시작합니다. 현재 위치를 파악하고 로드맵을 설계합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ Everyone이 단수인지 복수인지 헷갈린다면, 대명사 일치력이 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부정대명사별 규칙을 정리합니다. 단수/복수 취급을 명확히 합니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ Everyone이 단수인지 복수인지 헷갈린다면, 대명사 일치력이 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강화고, 강화여고 기출에서 대명사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ Everyone이 단수인지 복수인지 헷갈린다면, 대명사 일치력이 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 대명사 일치력을 점진적으로 심화합니다.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -138,4 +137,4 @@ Everyone이 단수인지 복수인지 헷갈린다면, 대명사 일치력이 �
 
 ## 마무리
 
-강화군에서 대명사 일치가 어렵다면 선행사 찾기 훈련이 필요합니다. 연결이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 성적이 고민이라면, 지금 바로 상담받아 보세요.

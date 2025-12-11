@@ -15,7 +15,7 @@ featured_image: "/images/edu_0990_S8qw5hyFoo8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 어휘 수준을 진단합니다. 부족한 영역을 파악하고 체계적인 어휘 확장 계획을 세웁니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 어휘력이 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0990_S8qw5hyFoo8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 필수 어휘를 정리합니다. 교과서에 나오는 용어를 확실히 이해하도록 지도합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 한자어를 공부하세요
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0990_S8qw5hyFoo8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학생 필수 한자 300개를 체계적으로 가르칩니다. 한자 구조를 이해하면 어휘가 빠르게 늘어납니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 문맥에서 익히세요
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0990_S8qw5hyFoo8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어휘 노트 작성법을 지도합니다. 문맥에서 의미를 유추하는 연습을 함께 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 독서가 가장 좋은 방법입니다
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0990_S8qw5hyFoo8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수준에 맞는 책을 추천합니다. 독서하면서 어휘를 정리하는 습관을 함께 만들어갑니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문

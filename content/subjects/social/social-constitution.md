@@ -26,7 +26,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헌법의 기본 원리를 설명합니다. 각 원리가 실생활에 어떻게 적용되는지 연결합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 헌법의 기본 원리
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-네 가지 기본 원리의 의미를 정리합니다. 헌법 조문과 연결합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 기본권의 종류
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본권의 종류를 비교합니다. 실제 사례와 연결하여 이해합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 국가 기관
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼권분립의 의미를 설명합니다. 각 기관의 역할을 비교합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 기본권과 국가 기관 비교 문제를 집중 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,5 +111,5 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 헌법을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

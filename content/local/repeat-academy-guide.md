@@ -15,7 +15,7 @@ featured_image: "/images/edu_0303_2dim_8iYCws.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 성적과 목표를 분석합니다. 재수가 적합한지 함께 판단하고 방향을 안내합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 재수학원 유형별 비교
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0303_2dim_8iYCws.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향에 맞는 학원 유형을 안내합니다. 자기주도 학습 능력을 고려해 추천합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 재수학원 선택 기준
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0303_2dim_8iYCws.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 학원을 비교 분석합니다. 학생에게 맞는 학원을 함께 선택합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 재수 성공 학습 전략
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0303_2dim_8iYCws.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습 계획을 수립합니다. 월별 목표를 설정하고 진도를 점검합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 멘탈 관리 방법
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0303_2dim_8iYCws.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적인 상담으로 멘탈을 관리합니다. 슬럼프 극복 방법을 함께 찾습니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0972_eVPxIeMubl8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작할 때 먼저 목표를 정합니다. 목표가 있어야 계획을 세울 수 있습니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 학습 계획이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0972_eVPxIeMubl8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 오늘의 목표를 정합니다. 수업 끝에 달성했는지 확인합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 학습 계획은 어떻게 세우나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0972_eVPxIeMubl8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 함께 연간, 월간, 주간 계획을 세웁니다. 무리하지 않고 지킬 수 있는 계획을 만듭니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 계획대로 안 되면 어떻게 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0972_eVPxIeMubl8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주마다 계획을 점검합니다. 안 된 부분은 왜 안 됐는지 함께 분석하고 조정합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0972_eVPxIeMubl8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 계획에 대해 더 궁금한 점이 있으시면 문의하세요. 목표 설정부터 실행까지 함께합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

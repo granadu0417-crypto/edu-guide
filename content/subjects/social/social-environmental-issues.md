@@ -26,7 +26,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-환경 문제의 유형별 특징을 정리합니다. 원인과 결과를 연결하여 이해합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 대기 오염과 기후 변화
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대기 오염의 원인과 영향을 설명합니다. 기후 변화의 심각성과 대응 방안을 토론합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 수질 오염과 토양 오염
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수질 오염과 토양 오염의 원인을 비교합니다. 해결 방안을 구체적으로 설명합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 환경 문제 해결 방안
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-환경 문제 해결 주체별 역할을 정리합니다. 국제 협약의 내용과 의의를 설명합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 환경 문제 유형별 특징 문제를 집중 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 환경 문제를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>

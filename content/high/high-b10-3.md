@@ -21,7 +21,7 @@ featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-300부터 역산해서 과목별 계획을 세웁니다. 언제까지 뭘 끝내야 하는지 명확하게 정합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## D-300 학습 전략
@@ -34,7 +34,7 @@ D-300부터 역산해서 과목별 계획을 세웁니다. 언제까지 뭘 끝�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 성적표를 분석해서 취약 유형을 찾습니다. 같은 유형에서 계속 틀리면 집중 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시기별 목표
@@ -47,7 +47,7 @@ D-100에서 D-Day까지는 실전 시뮬레이션 기간입니다. 실제 수능
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별로 다른 수업을 진행합니다. D-200 전에는 개념, D-100 전에는 유형, 이후에는 실전 연습에 집중합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과목별 전략
@@ -62,7 +62,7 @@ D-100에서 D-Day까지는 실전 시뮬레이션 기간입니다. 실제 수능
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 점수에 맞춰 과목별 시간 배분을 조절합니다. 모든 과목을 똑같이 할 필요 없습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 하루 학습 루틴
@@ -79,7 +79,7 @@ D-100에서 D-Day까지는 실전 시뮬레이션 기간입니다. 실제 수능
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주말에는 실제 수능처럼 타이머 맞추고 문제를 풉니다. 시간 압박에 익숙해져야 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 주의사항

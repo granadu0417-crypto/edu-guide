@@ -18,7 +18,7 @@ featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-겨울방학에는 수업 횟수를 늘려 집중적으로 진행합니다. 30일 안에 다음 학년 핵심 개념을 미리 익히도록 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 겨울방학 전략
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 단원을 파악하고 그 부분을 집중 공략합니다. 무리한 전체 선행보다 중요한 개념을 확실히 잡는 것이 효과적입니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 30일 시간표 짜기
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-30일 전체 로드맵을 학생과 공유합니다. 매주 목표를 정하고 달성 여부를 체크하며 진행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 추운 날씨 극복하기
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 컨디션을 고려해 수업 시간을 조정합니다. 오전에 집중이 잘 되는 학생, 오후가 편한 학생에 맞춰 스케줄을 잡습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 개학 전 마무리
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개학 전 마지막 수업에서 첫 시험 대비 방향을 안내합니다. 새 학년 시작을 자신감 있게 맞이하도록 돕습니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론의 기본 구조를 익힙니다. 실제 주제로 토론 연습을 진행합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 의견 제시와 근거
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주장-근거-예시-결론 구조를 연습합니다. 설득력 있게 말하는 법을 익힙니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 찬성과 반대 표현
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-찬성과 반대 표현을 상황별로 연습합니다. 예의 있게 반박하는 법을 익힙니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 논리 전개와 증거
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논리 전개 표현을 체계적으로 익힙니다. 증거 기반 주장을 연습합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 토론 팁
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 토론 팁을 알려드립니다. 효과적인 토론 전략을 연습합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ Let me think about that으로 시간을 버세요. 그동안 생각을 정리하
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 토론 수업으로 논리적 말하기를 훈련합니다. 실전 토론으로 실력을 키워드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>

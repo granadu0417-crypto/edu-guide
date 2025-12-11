@@ -22,12 +22,11 @@ tags:
   - 마두중
 featured_image: "/images/edu_0017.jpg"
 ---
-
-중1 영어부터 흔들리면 안 됩니다. 고양시 일산동구 마두1동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어 포기하려고요? 아직 이릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 학습 습관을 점검합니다. 공부하는 방식을 보면 약점이 보입니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완할 수 있습니다.
 </div>
 
 ## 초등학교와 완전히 다른 중학 영어
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 내신이 곧 고등학교 기초입니다. 한 번 공부로 두 가지를 대비합니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다. 혼자 힘으로 풀어야 실력이 됩니다.
 </div>
 
 ## 마두중 내신 완벽 대비 가이드
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
+기출문제를 유형별로 정리하여 반복 훈련합니다. 비슷한 문제가 나오면 바로 풀 수 있습니다.
 </div>
 
 ## 고등 대비 영어 전략
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정을 소리 내어 설명하게 합니다. 어디서 막히는지 정확히 파악할 수 있습니다.
+내신 범위가 곧 수능 출제 범위입니다. 한 번 공부로 두 가지를 대비합니다.
 </div>
 
 ## 과외, 이래서 효과가 있습니다
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0017.jpg"
 
 ## 마무리
 
-마두1동에서 검증된 영어 과외, 지금 문의하세요.
+일산동구 학생 여러분, 실력 향상을 응원합니다.

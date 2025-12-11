@@ -16,7 +16,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1 학생의 현재 실력을 진단합니다. 중학교 때 성적과 고등학교 적응 상황을 파악하고 맞춤 커리큘럼을 설계합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 고1이 골든타임인 이유
@@ -29,7 +29,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 학습 습관을 만드는 것부터 시작합니다. 예습, 복습, 오답 노트 작성 방법을 함께 익힙니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 과외 시작 시기
@@ -48,7 +48,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학은 주 2-3회 진행합니다. 시험 2주 전에는 주 4회로 늘립니다. 학교 기출을 분석하고 내신과 수능을 병행합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 영어는 안정적 관리가 필요합니다. 수능 절대평가로 90점이 1등급이지만 내신은 학교마다 다릅니다. 지문 해석이 안 되거나, 문법 개념이 약하거나, 3등급 이하면 과외가 필요합니다. 문법 30%, 독해 50%, 어휘 20% 비율로 진행합니다.
@@ -65,7 +65,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 성적에 맞춰 내신과 수능 비율을 조정합니다. 시기별로 우선순위를 유연하게 운영합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 과외 효과 극대화

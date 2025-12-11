@@ -15,7 +15,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 실력이 안 느는 이유를 정확히 진단합니다. 문법, 어휘, 독해 중 어디가 약한지 파악하고 맞춤 전략을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 중학 영어가 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 필수 문법과 어휘를 점검합니다. 빠진 부분은 바로 채워 다음 단계로 넘어갑니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 문법은 어떻게 공부해야 하나요?
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 개념을 이해 중심으로 설명합니다. 예문을 많이 보여주고 직접 문장을 만들어보게 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 단어는 어떻게 외워야 효과적인가요?
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 단어 테스트를 합니다. 틀린 단어는 다음 시간에 다시 확인합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 독해 실력은 어떻게 키우나요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 문제 유형별 풀이 전략을 가르칩니다. 주제 찾기, 빈칸 추론, 순서 배열 등 유형별로 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문

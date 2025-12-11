@@ -15,7 +15,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 수준을 진단하고 논술의 기본 구조부터 차근차근 가르칩니다. 제시문 읽기부터 개요 작성까지 단계별로 연습합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 논술 전형의 특징
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 대학의 최근 3개년 기출문제를 분석합니다. 대학별 출제 경향과 평가 기준을 파악하고 맞춤 전략을 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 제시문 분석 방법
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제시문 분석 연습을 반복합니다. 키워드 찾기, 논지 파악하기, 관계 도식화하기 등 실전 기법을 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 논증 구조와 글쓰기
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논증 구조를 체계적으로 가르칩니다. 개요 작성부터 퇴고까지 실제 글쓰기 과정을 함께 진행합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 유형별 대비 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 대학과 계열에 맞는 유형별 전략을 지도합니다. 실전 문제를 풀고 첨삭받으며 실력을 키웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

@@ -22,12 +22,11 @@ tags:
   - 일산동고
 featured_image: "/images/edu_0005.jpg"
 ---
-
-영어 성적, 왜 이렇게 안 오르는 걸까요? 고양시 일산서구 탄현1동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+영어 실력, 지금 바로 키울 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 만남에서 영어 실력을 정밀하게 측정합니다. 어휘, 문법, 독해력을 종합 평가하여 맞춤 계획을 세웁니다.
+모든 수업은 진단에서 시작합니다. 학생의 현재 위치를 파악하고, 목표까지의 로드맵을 설계합니다.
 </div>
 
 ## 영어가 갑자기 어려워지는 시기
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 학교 기출 중심으로, 수능 시즌에는 평가원 기출 중심으로 진행합니다.
+문제 풀이 시간을 재면서 연습합니다. 실전에서는 시간이 촉박하기 때문입니다.
 </div>
 
 ## 일산동고 시험은 이렇습니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 프린트와 수업 필기도 함께 분석합니다. 시험에 나올 가능성이 높은 부분을 집중 대비합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 수능 영어 완벽 분석
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답의 원인을 분류합니다. 어휘 부족, 문법 오류, 독해 실수, 시간 부족. 각각 대처법이 다릅니다.
+1, 2학년은 내신에 집중하면서 기초를 쌓고, 3학년은 본격적으로 수능 대비에 들어갑니다.
 </div>
 
 ## 왜 과외를 선택해야 할까요?
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0005.jpg"
 
 ## 마무리
 
-결심이 시작입니다. 오늘 상담받고, 내일부터 달라지세요.
+일산서구 학생 여러분, 힘들 때 도움받으면 됩니다.

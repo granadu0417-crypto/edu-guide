@@ -22,12 +22,11 @@ tags:
   - 향동중
 featured_image: "/images/edu_0007.jpg"
 ---
-
-영어 실력, 3개월이면 달라집니다. 고양시 덕양구 향동동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어 시험은 특별한 대비가 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 정밀 진단합니다. 문법 이해도, 어휘력, 독해 속도를 파악하고 부족한 부분부터 채워갑니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완할 수 있습니다.
 </div>
 
 ## 중학교 영어, 이렇게 달라집니다
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0007.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신도 중요하고 고등 준비도 중요합니다. 둘 다 놓치지 않는 학습 계획을 함께 세웁니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다. 혼자 힘으로 풀어야 실력이 됩니다.
 </div>
 
 ## 향동중 내신 시험 완벽 분석
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0007.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다. 그 학교 시험의 특징을 잘 알고 있습니다.
+기출문제를 유형별로 정리하여 반복 훈련합니다. 비슷한 문제가 나오면 바로 풀 수 있습니다.
 </div>
 
 ## 고등학교 영어의 기초
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0007.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 오답을 철저히 분석합니다. 왜 틀렸는지, 어떻게 접근해야 하는지 학생이 스스로 깨달을 때까지 지도합니다.
+내신 범위가 곧 수능 출제 범위입니다. 한 번 공부로 두 가지를 대비합니다.
 </div>
 
 ## 학원 vs 과외, 무엇이 다를까요?
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0007.jpg"
 
 ## 마무리
 
-힘들 때 도움받으면 됩니다. 영어도 마찬가지입니다.
+덕양구 학생 여러분, 체계적인 관리로 성적 향상을 경험하세요.

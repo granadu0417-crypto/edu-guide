@@ -19,7 +19,7 @@ featured_image: "/images/edu_0212_mi13tiWIJk0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사 직전에는 핵심만 집중 정리합니다. 남은 시간에 맞춰 우선순위를 정하고 효율적으로 대비합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 중간고사의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0212_mi13tiWIJk0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사 범위를 먼저 확인하고 학습 계획을 세웁니다. 범위가 좁은 만큼 깊이 있는 공부가 가능합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 시간이 부족할 때 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0212_mi13tiWIJk0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남은 시간에 맞춰 핵심 내용만 빠르게 정리합니다. 버릴 건 버리고 챙길 건 확실히 챙기는 전략을 세웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과목별 대비법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0212_mi13tiWIJk0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞춘 대비법을 안내합니다. 각 과목에서 점수를 올릴 수 있는 포인트를 짚어드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시험 기간 생활 관리
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0212_mi13tiWIJk0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부뿐 아니라 생활 패턴도 함께 관리합니다. 시험 기간에 컨디션을 유지하는 방법을 안내합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 전날과 당일

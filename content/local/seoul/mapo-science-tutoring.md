@@ -18,7 +18,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 과학 실력을 정확하게 진단합니다. 어느 단원에서 막히는지, 개념이 문제인지 문제 적용이 문제인지 파악하고, 그 지점부터 차근차근 다시 쌓아갑니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 마포구 동네별 과학 교육 환경
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 수업 장소와 시간을 정합니다. 홍대 스터디카페 수업, 공덕역 인근 카페, 자택 방문, 온라인 병행 등 가장 효율적인 방식으로 진행합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 마포구 과학 과외의 최대 장점
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문대 이공계 전공자가 대학 수준 지식까지 연계해서 설명합니다. 단순 암기가 아니라 왜 그런지 원리를 이해시키고, 고등 과학과 대학 과학의 연결고리를 보여줍니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 과목별 과학 과외 포인트
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화학은 몰 개념을 완벽하게 숙달하는 것부터 시작합니다. 계산 문제는 여러 유형을 반복 연습해서 실수 없이 풀 수 있도록 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ### 생명과학 - 암기와 유전 문제 해결력
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1은 통합과학 내신을 탄탄하게 관리하면서, 학생의 성향과 진로에 맞는 선택과목을 함께 고민합니다. 명문대 입시 경험을 바탕으로 조언드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ### 고2-3 - 내신과 수능 동시 준비
@@ -107,7 +107,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 선생님의 설명이 이해하기 쉬운지, 학생과 소통이 잘 되는지 확인해보세요.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 마포구 과학과외 비용 안내
@@ -122,7 +122,7 @@ featured_image: "/images/edu_0349_uxLm-Kh7_M0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문

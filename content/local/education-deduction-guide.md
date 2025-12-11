@@ -15,7 +15,7 @@ featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육비 공제 대상과 한도를 정확히 안내합니다. 놓치기 쉬운 항목까지 꼼꼼히 챙겨드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 공제 대상 교육비 정리
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 공제 대상을 정리합니다. 본인과 부양가족의 공제 한도를 확인할 수 있도록 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 주의해야 할 사항
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공제 불가 항목을 명확히 안내합니다. 중복 공제와 한도 초과를 미리 확인할 수 있도록 도와드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 연말정산 신청 절차
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신청 절차를 단계별로 안내합니다. 필요 서류와 일정을 확인할 수 있도록 도와드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 절세 팁
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-절세 방법을 상세히 안내합니다. 가계 부담을 줄일 수 있도록 도와드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문

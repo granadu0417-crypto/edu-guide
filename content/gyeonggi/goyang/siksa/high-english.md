@@ -22,12 +22,11 @@ tags:
   - 고양국제고
 featured_image: "/images/edu_0003.jpg"
 ---
-
-고등학교 영어, 왜 이렇게 어려운 걸까요? 고양시 일산동구 식사동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+영어는 꾸준함이 답입니다. 지금 시작하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어휘가 부족한지, 문법이 약한지, 독해가 느린지 진단합니다.
+정확한 진단이 빠른 성적 향상의 시작입니다. 시간을 들여 학생을 제대로 파악합니다.
 </div>
 
 ## 고등 영어, 무엇이 문제일까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 전략에 맞춰 내신과 수능 비중을 설계합니다. 학생마다 최적의 밸런스가 다릅니다.
+문제를 읽고 바로 풀지 않습니다. 무엇을 구하는지, 어떤 개념이 필요한지 먼저 생각합니다.
 </div>
 
 ## 고양국제고 시험, 만만치 않습니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석하여 대비합니다.
+선생님이 강조한 부분, 수업 중 언급한 예시를 정리합니다. 시험에 나올 확률이 높습니다.
 </div>
 
 ## 수능 영어, 전략이 필요합니다
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 함께 만듭니다. 시험 전에 다시 보면 실수를 줄일 수 있습니다.
+내신 기간에는 학교 시험에 집중하고, 그 외 기간에는 기초를 다집니다.
 </div>
 
 ## 맞춤 수업의 힘
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0003.jpg"
 
 ## 마무리
 
-영어, 혼자 고민하지 마세요. 함께하면 달라집니다.
+일산동구 학생 여러분, 지금 바로 잡으세요. 첫 상담은 무료입니다.

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강원 지역 과외 시장을 분석합니다. 거주 지역과 예산에 맞는 최적의 선생님을 추천합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 대학생 과외 선택법
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 수준에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 화상 과외 활용 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 과외 환경 세팅을 도와드립니다. 온라인 수업에 적합한 학습 방법을 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 과목별 과외 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목과 학년에 맞는 선생님을 추천합니다. 학습 목표에 따라 커리큘럼을 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 과외와 학원 병행 전략
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 과외 병행 계획을 세웁니다. 비용 대비 효과를 극대화하는 방법을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문

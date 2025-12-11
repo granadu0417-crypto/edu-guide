@@ -10,14 +10,13 @@ tags:
   - 북구수학과외
   - 북구고등수학
 ---
-
-지수함수 그래프가 어떻게 그려지는지 모르겠다면, 지수함수 이해력이 필요합니다.
+수학 성적이 갑자기 떨어졌나요?
 
 북구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 북구고, 구포고, 덕천고 시험에서 지수함수 문제가 자주 출제됩니다. 밑과 지수의 관계를 정확히 이해해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지수함수의 정의를 확립합니다. 밑이 1보다 클 때와 작을 때의 차이를 이해시킵니다.
+첫 수업에서 사고 과정을 점검합니다. 문제 푸는 방식을 보면 약점이 보입니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지수 법칙을 함수에 적용하는 훈련을 합니다. 그래프 이동과 대칭을 연결합니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-북구고, 구포고 기출에서 지수함수 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 지수함수 이해력을 점진적으로 향상시킵니다.
+내신 공부가 수능에 도움이 되도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,4 +125,4 @@ tags:
 
 ## 마무리
 
-북구에서 지수함수가 어렵다면 그래프 훈련이 필요합니다. 그래프가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 지금 시작하세요. 늦었다고 생각할 때가 가장 빠른 때입니다.

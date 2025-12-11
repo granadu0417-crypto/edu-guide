@@ -18,7 +18,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기가 아닌 이해 중심으로 수업합니다. 개념 간 연결고리를 파악하고, 왜 그런지 원리를 설명합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 생명과학의 특징
@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그림을 그려가며 설명합니다. 구조와 기능의 연결고리를 시각적으로 이해시킵니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 세포와 물질대사
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세포 소기관의 기능을 연결지어 설명합니다. 물질대사의 흐름을 전체적으로 파악하게 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 유전
@@ -57,7 +57,7 @@ DNA 구조와 복제를 이해합니다. 이중 나선, 염기쌍, 반보존적 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유전 문제 풀이법을 체계적으로 알려줍니다. 푸넷 사각형 활용법, 확률 계산법을 연습합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 항상성과 조절
@@ -70,7 +70,7 @@ DNA 구조와 복제를 이해합니다. 이중 나선, 염기쌍, 반보존적 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-항상성 유지 메커니즘을 흐름으로 설명합니다. 자극부터 반응까지의 경로를 따라갑니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 생태계
@@ -83,7 +83,7 @@ DNA 구조와 복제를 이해합니다. 이중 나선, 염기쌍, 반보존적 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생태계를 큰 그림으로 이해시킵니다. 에너지와 물질의 흐름을 연결해서 설명합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 문제 풀이 전략
@@ -96,7 +96,7 @@ DNA 구조와 복제를 이해합니다. 이중 나선, 염기쌍, 반보존적 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별 접근법을 알려줍니다. 기출을 분석하며 출제 패턴을 파악합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 주의사항

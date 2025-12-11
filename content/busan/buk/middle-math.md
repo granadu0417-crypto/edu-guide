@@ -10,14 +10,13 @@ tags:
   - 북구수학과외
   - 북구중등수학
 ---
-
-원의 넓이가 πr²인지 2πr인지 헷갈린다면, 원의 성질력이 필요합니다.
+수학 때문에 고민이신가요?
 
 북구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 북구고, 구포고, 덕천고 시험에서 원 관련 문제가 자주 출제됩니다. 원주와 넓이 공식을 정확히 구분하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원의 성질을 체계적으로 정리합니다. 원주율과 공식을 훈련합니다.
+첫 만남에서 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원과 부채꼴 공식을 정리합니다. 구분해서 적용하는 훈련을 합니다.
+개념을 완벽히 이해한 후, 다양한 유형의 문제를 훈련합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-북구고, 구포고 기출에서 원 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시간 대비 문제 양이 많은 학교가 있습니다. 빠르게 푸는 연습도 합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 원의 성질력을 점진적으로 향상시킵니다.
+수시와 정시, 어느 쪽에 무게를 둘지에 따라 전략이 달라집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -140,5 +139,5 @@ tags:
 
 ## 마무리
 
-북구에서 원의 성질이 어렵다면 공식 구분 훈련이 필요합니다. 구분이 빨라지면 수학이 쉬워집니다.
+ 학생 여러분, 변화는 결심에서 시작됩니다.
 

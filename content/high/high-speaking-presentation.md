@@ -18,7 +18,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-불안의 원인을 파악합니다. 마인드 전환과 이완 기법을 알려드리고 단계별로 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 발표 불안 극복
@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의 발표를 통해 실전 경험을 쌓습니다. 피드백을 주고 조금씩 자신감을 키웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 발표 준비
@@ -52,7 +52,7 @@ PPT는 간결하게 만듭니다. 슬라이드당 6줄 이하, 줄당 6단어 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 발표처럼 연습합니다. 녹화 피드백을 통해 구체적인 개선점을 알려드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 발표 실전
@@ -73,7 +73,7 @@ PPT는 간결하게 만듭니다. 슬라이드당 6줄 이하, 줄당 6단어 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의 토론을 진행합니다. 논리적 반론과 재반론 연습을 통해 실전 감각을 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 말하기 기술

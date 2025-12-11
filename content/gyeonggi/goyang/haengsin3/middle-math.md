@@ -22,12 +22,11 @@ tags:
   - 행신중
 featured_image: "/images/edu_0016.jpg"
 ---
-
-수학 실력, 지금 바로 키울 수 있습니다. 고양시 덕양구 행신3동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+초등학교 때는 잘했는데, 지금은 왜 안 되나요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 사고 과정을 점검합니다. 문제를 푸는 방식을 보면 약점이 보입니다.
+기초가 부족한지, 응용이 약한지, 시간 관리가 문제인지 정확히 진단합니다.
 </div>
 
 ## 초등학교와 완전히 다른 중학 수학
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 내신이 곧 고등학교 기초입니다. 한 번 공부로 두 가지를 대비합니다.
+개념을 완벽히 이해한 후, 다양한 유형의 고난도 문제를 훈련합니다. 사고력을 기릅니다.
 </div>
 
 ## 행신중 내신 완벽 대비 가이드
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
+학교 시험 범위에 맞춰 집중 대비합니다. 범위 외 내용으로 시간 낭비하지 않습니다.
 </div>
 
 ## 고등 대비 선행 전략
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정을 소리 내어 설명하게 합니다. 어디서 막히는지 정확히 파악할 수 있습니다.
+내신과 수능의 차이를 명확히 알려드립니다. 두 가지를 효율적으로 병행할 수 있는 학습 전략을 세웁니다.
 </div>
 
 ## 과외, 이래서 효과가 있습니다
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0016.jpg"
 
 ## 마무리
 
-행신3동 중학생 여러분의 수학 실력 향상을 응원합니다.
+덕양구 학생 여러분, 포기가 아니라 도전입니다. 함께 해보세요.

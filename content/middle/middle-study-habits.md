@@ -15,7 +15,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 학습 패턴을 분석합니다. 어디서 시간이 낭비되는지 파악하고 실천 가능한 습관부터 만들어갑니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 왜 습관이 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-21일 습관 형성 프로그램을 함께 진행합니다. 매일 점검하고 피드백하며 습관이 자리잡도록 도와드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 공부 환경부터 만드세요
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경을 점검합니다. 방해 요소를 제거하고 집중할 수 있는 환경을 함께 만듭니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 작은 습관부터 시작하세요
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-80% 달성 가능한 작은 목표를 세웁니다. 성공 경험을 쌓으며 점차 목표를 높여갑니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 복습 습관이 가장 중요합니다
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전 지난 시간 복습 테스트를 합니다. 복습을 강제하는 시스템으로 습관을 만들어갑니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

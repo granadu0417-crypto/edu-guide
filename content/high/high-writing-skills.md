@@ -18,7 +18,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글쓰기 약점을 진단합니다. 내용 구성, 논리 전개, 표현력 중 어디가 문제인지 파악하고 맞춤 훈련합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 글쓰기가 중요한 이유
@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형, 논술, 자기소개서 등 목적에 맞는 글쓰기를 훈련합니다. 정기적으로 첨삭하고 피드백합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 글쓰기의 3요소
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별 답안 작성 템플릿을 익힙니다. 실전 문제로 연습하며 체화합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 서술형 답안 3단계가 있습니다. 1단계 30초 동안 문제를 분석합니다. 요구 사항을 파악하고 키워드를 찾고 분량을 확인합니다. 2단계 1분 동안 개요를 작성합니다. 키워드, 구조, 분량을 정리합니다. 3단계 5분 동안 개요대로 작성하고 문장 간 연결을 확인하고 검토합니다.
@@ -61,7 +61,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제시문 분석 방법을 훈련합니다. 핵심 논점 파악과 비판적 읽기 능력을 키웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 논술 작성 시간 배분이 있습니다. 60분 기준으로 독해 및 구상 15분, 개요 작성 5분, 본문 작성 35분, 검토 및 수정 5분입니다.

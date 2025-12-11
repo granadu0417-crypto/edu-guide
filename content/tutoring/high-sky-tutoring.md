@@ -19,7 +19,7 @@ SKY가 목표입니다. 서울대, 연세대, 고려대에 가고 싶습니다. 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 성적과 목표 대학을 파악합니다. 어떤 전형이 유리한지 분석합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## SKY 입시의 특징
@@ -32,7 +32,7 @@ SKY가 목표입니다. 서울대, 연세대, 고려대에 가고 싶습니다. 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학별 특성을 분석합니다. 서울대, 연대, 고대 각각의 전형을 파악합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 서울대 준비 전략
@@ -45,7 +45,7 @@ SKY가 목표입니다. 서울대, 연세대, 고려대에 가고 싶습니다. 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서울대 전형에 맞춘 맞춤 준비를 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 연세대/고려대 준비 전략
@@ -58,7 +58,7 @@ SKY가 목표입니다. 서울대, 연세대, 고려대에 가고 싶습니다. 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연대, 고대 입시에 맞춘 전략을 세웁니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ SKY 맞춤 전략을 세웁니다. 목표 대학에 맞는 최적의 전략을 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-SKY 합격을 위한 모든 것을 준비합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ SKY 합격을 위한 모든 것을 준비합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 현재 상황을 분석하고 SKY 입시 전략을 안내드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문

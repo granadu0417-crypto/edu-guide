@@ -15,7 +15,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이해가 먼저, 암기는 그 다음입니다. 원리를 이해하면 암기할 것이 줄어듭니다. 무작정 외우지 않습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과학은 왜 이해가 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜?"라는 질문을 중심으로 수업합니다. 원리를 이해시킨 후 용어와 공식을 정리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 실험이 왜 중요한가요?
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 원리를 설명하고 결과를 개념과 연결합니다. 실험 보고서 작성법도 지도합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 오개념은 어떻게 고치나요?
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 가진 오개념을 찾아냅니다. 왜 틀렸는지 설명하고 올바른 개념을 정립합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 분야별로 공부법이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리, 화학, 생물, 지구과학 각각의 특성에 맞게 다른 방법으로 지도합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

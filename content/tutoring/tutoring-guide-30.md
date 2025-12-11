@@ -21,7 +21,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중등 과외에서는 내신 점수뿐 아니라 고등학교 대비까지 함께 봅니다. 지금 잘해야 나중에 편합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 중등 과외가 왜 필요한가요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 학년 내용과 함께 이전 학년에서 부족한 부분도 체크합니다. 구멍이 있으면 먼저 메웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 중등 과외는 어떻게 진행되나요?
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간에는 내신 집중, 평소에는 개념과 선행을 병행합니다. 시기에 따라 비중을 조절합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 중등 과외에서 가장 중요한 건 뭔가요?
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 혼자 공부하는 시간을 얼마나, 어떻게 사용할지 안내합니다. 자기주도 학습 습관을 키웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -83,7 +83,7 @@ featured_image: "/images/edu_0966_NSKP7Gwa_I0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 내신 관리부터 고등학교 대비까지 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 마무리

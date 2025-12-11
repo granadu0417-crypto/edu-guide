@@ -10,14 +10,13 @@ tags:
   - 전주시영어과외
   - 전주시고등영어
 ---
-
-That he is honest is true에서 that이 뭔지 헷갈린다면, 명사절력이 필요합니다.
+포기하기엔 아직 이릅니다. 영어도 마찬가지입니다.
 
 전주시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 전주고, 전북고, 전주여고 시험에서 명사절 문제가 자주 출제됩니다. that 명사절과 관계대명사를 정확히 구분하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명사절 규칙을 체계적으로 정리합니다. that의 다양한 역할을 훈련합니다.
+첫 수업에서 학생과 충분히 대화합니다. 공부 습관과 목표를 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ That he is honest is true에서 that이 뭔지 헷갈린다면, 명사절력이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-that 구분법을 정리합니다. 명사절 위치를 훈련합니다.
+공식만 알면 기본 문제는 풉니다. 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ that 구분법을 정리합니다. 명사절 위치를 훈련합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전주고, 전북고 기출에서 명사절 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ that 구분법을 정리합니다. 명사절 위치를 훈련합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 명사절력을 점진적으로 심화합니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,5 +125,5 @@ that 역할이 다양합니다. 체계적 구분이 필요합니다.
 
 ## 마무리
 
-전주시에서 명사절이 어렵다면 that 훈련이 필요합니다. 역할이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 지금의 노력이 대학을 결정합니다.
 

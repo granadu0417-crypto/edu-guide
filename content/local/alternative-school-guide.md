@@ -15,7 +15,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 가정의 교육 철학을 파악합니다. 적합한 대안학교 유형을 함께 찾아드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 대안학교의 종류
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인가형과 비인가형의 차이를 상세히 설명합니다. 학력 인정 방식과 진학 경로를 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 대안학교의 교육 특징
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 교육과정과 생활 방식을 비교합니다. 학생에게 맞는 환경인지 함께 판단합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 입학 절차와 준비
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 절차와 준비사항을 안내합니다. 학교 방문 시 확인해야 할 질문 목록을 정리해드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 대안학교의 장단점
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 특성에 맞는지 객관적으로 평가합니다. 장단점을 솔직하게 설명해드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

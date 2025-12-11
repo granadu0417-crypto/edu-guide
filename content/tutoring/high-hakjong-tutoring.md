@@ -19,7 +19,7 @@ featured_image: "/images/edu_0086_8T-lK9FkzyI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학생부를 분석합니다. 어떤 부분이 강하고 어떤 부분이 부족한지 파악합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 학종의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0086_8T-lK9FkzyI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학종의 평가 기준을 알려드립니다. 무엇을 보여줘야 하는지 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 학생부 관리 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0086_8T-lK9FkzyI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생부 기록 방향을 함께 고민합니다. 무엇을 어떻게 담을지 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자기소개서 작성 전략
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0086_8T-lK9FkzyI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기소개서 작성을 도와드립니다. 첨삭을 통해 완성도를 높입니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 면접 대비
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0086_8T-lK9FkzyI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접 대비도 함께 합니다. 서류 통과 후 면접에서 떨어지지 않게 준비합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,7 +96,7 @@ featured_image: "/images/edu_0086_8T-lK9FkzyI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생부를 분석하고 학종 전략을 안내드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문

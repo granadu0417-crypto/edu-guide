@@ -10,14 +10,13 @@ tags:
   - 동구수학과외
   - 동구고등수학
 ---
-
-평균과 표준편차의 관계가 이해 안 된다면, 통계력이 필요합니다.
+고등학교 수학, 어디서부터 손대야 할지 막막하시죠?
 
 동구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 동인천고, 송림고, 인명여고 시험에서 통계 문제가 자주 출제됩니다. 자료를 분석하고 대푯값을 구하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평균, 분산, 표준편차의 의미를 이해합니다. 공식 암기가 아닌 개념 이해를 합니다.
+어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 출발점을 찾습니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 상황별 계산법을 정리합니다. 언제 어떤 공식을 쓰는지 훈련합니다.
+풀이 과정을 깔끔하게 정리하는 연습을 합니다. 서술형 점수도 올립니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동인천고, 송림고 기출에서 통계 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+같은 문제도 학교마다 변형해서 출제합니다. 변형 문제를 연습합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 통계력을 점진적으로 향상시킵니다.
+고등학교 3년, 내신과 수능 배분 로드맵을 세워드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -114,4 +113,4 @@ tags:
 
 ## 마무리
 
-동구에서 통계가 어렵다면 개념 이해 훈련이 필요합니다. 의미가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 실력, 키울 수 있습니다. 포기하기엔 이릅니다.

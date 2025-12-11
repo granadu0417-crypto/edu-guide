@@ -25,7 +25,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-노원 지역 학교의 시험 패턴을 잘 알고 있습니다. 신도고, 대진고, 상명고 등 학교별 출제 경향에 맞춰 수업합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 노원 내신학원은 어떤 특징이 있나요?
@@ -40,7 +40,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용을 과외에서 다시 점검합니다. 학원 족보와 기출을 바탕으로 서술형 연습을 집중적으로 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 노원 주요 학교별 내신 특징은요?
@@ -55,7 +55,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 다니는 학교의 출제 경향을 파악해서 수업합니다. 학교 선생님 스타일까지 분석해서 대비합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 내신 전략은 어떻게 세워야 하나요?
@@ -78,7 +78,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간에 맞춰 수업 횟수를 조절합니다. 시험 전에는 집중적으로, 시험 후에는 오답 분석으로 다음을 준비합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 노원 내신학원 선택할 때 뭘 확인해야 하나요?
@@ -93,7 +93,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-노원 내신학원 선택에 대해 궁금하시면 상담해 주세요. 학생 학교와 상황에 맞는 학원을 안내해 드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문

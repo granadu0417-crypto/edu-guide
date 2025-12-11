@@ -23,7 +23,7 @@ featured_image: "/images/edu_0538_82HwZKi4fYI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜라는 질문을 던지며 생각하는 습관을 들입니다. 공식을 외우기 전에 이해시킵니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 논리적 추론
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0538_82HwZKi4fYI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연역과 귀납의 차이를 이해시킵니다. 다양한 추론 연습을 통해 논리력을 키웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 문제 해결 전략
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0538_82HwZKi4fYI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 해결 4단계를 체화시킵니다. 특히 반성하기 단계를 통해 사고를 확장합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 창의적 사고와 증명
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0538_82HwZKi4fYI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 가지 풀이 방법을 시도하도록 유도합니다. 간단한 증명부터 따라 쓰는 연습을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 패턴과 추상화
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0538_82HwZKi4fYI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-규칙 찾기 연습을 통해 패턴 인식 능력을 키웁니다. 추상과 구체를 오가는 사고를 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -120,6 +120,6 @@ featured_image: "/images/edu_0538_82HwZKi4fYI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생각하는 수학을 가르칩니다. 논리적 사고력과 창의력을 함께 키웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 

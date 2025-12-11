@@ -19,7 +19,7 @@ featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 4대 영역별로 진단합니다. 읽기와 쓰기 그리고 듣기와 말하기 중 취약한 부분을 집중 보완합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 영어 과외가 필요한 이유
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 공백이 어디에서 시작되었는지 파악합니다. 기초부터 차근차근 채워가며 실력을 쌓습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 학년별 영어 과외 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습 목표를 설정합니다. 내신 시험 기간에는 학교 진도에 맞춰 집중 대비합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 영어 4대 영역 학습법
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4대 영역의 균형 발전을 목표로 수업합니다. 취약 영역에 더 많은 시간을 배분합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 선생님을 연결합니다. 시범 수업 후 학생과의 궁합을 확인합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 울산 지역 중학교 영어 내신 특징
@@ -68,7 +68,7 @@ featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 영작 훈련을 집중적으로 하고, 자주 틀리는 문법을 정리합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 울산 지역 고등학교 영어 내신 특징
@@ -83,7 +83,7 @@ featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출 문제를 분석합니다. 취약 유형을 집중적으로 훈련하고 오답 노트를 함께 관리합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과외 비용 안내
@@ -100,7 +100,7 @@ featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 횟수와 시간은 학생 상황에 맞게 조율합니다. 예산에 맞는 최적의 수업 방식을 찾아드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

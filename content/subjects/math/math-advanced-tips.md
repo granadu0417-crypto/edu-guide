@@ -21,7 +21,7 @@ featured_image: "/images/edu_0504_P7yu-JaYm64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 심화 준비 상태를 점검합니다. 기본이 부족하면 기본부터 다지고 준비가 되면 심화로 진입합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 고급 문제 풀이 기법
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0504_P7yu-JaYm64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고급 풀이 기법을 하나씩 훈련합니다. 실제 문제에 적용하며 체화시킵니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 킬러 문항 공략법
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0504_P7yu-JaYm64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-킬러 문항 유형을 분석하고 접근법을 훈련합니다. 부분 점수 전략도 함께 연습합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 사고력 향상 훈련
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0504_P7yu-JaYm64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 풀이법을 시도하며 사고력을 확장합니다. 패턴 인식과 추상화 능력을 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 실수 제로 만들기
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0504_P7yu-JaYm64.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 패턴을 분석하고 교정합니다. 검산 습관을 만들어 실수를 원천 차단합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 과학 기초 체력을 점검합니다. 물리, 화학, 생물, 지구과학 중 어느 분야가 약한지 파악합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 중학교 과학이 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 시각화해서 설명합니다. 눈에 안 보이는 것도 그림과 모형으로 이해하게 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 원리 이해가 핵심인 이유
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜? 라는 질문을 계속 합니다. 원리를 파고들어 근본적으로 이해하게 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 분야별 공부법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분야별 특성에 맞는 학습법을 적용합니다. 각 분야의 사고방식을 익히게 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 실험 정리하는 방법
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서의 모든 실험을 정리합니다. 목적-과정-결과-결론을 표로 만듭니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 분석해서 출제 경향을 파악합니다. 자주 나오는 유형을 집중 연습합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 방향과 비용을 상세히 안내드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

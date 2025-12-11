@@ -23,7 +23,7 @@ featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 계산 속도와 정확도를 파악합니다. 약한 부분부터 체계적으로 암산 훈련을 시작합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 기본 암산 기술
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 연산별 암산 요령을 알려줍니다. 구구단부터 완벽하게 익히도록 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 고급 암산 기술
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-곱셈 공식을 암산에 활용하는 요령을 가르칩니다. 수 감각을 키우는 훈련을 합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 암기해야 할 것
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필수 암기 항목을 정리하여 제공합니다. 자연스럽게 외울 수 있도록 반복 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 암산 훈련법
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 암산 훈련 시간을 포함합니다. 단계별로 난이도를 높여 실력을 향상시킵니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체계적인 암산 훈련으로 계산 속도와 정확도를 함께 높입니다. 수학의 기초 체력을 키워드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 

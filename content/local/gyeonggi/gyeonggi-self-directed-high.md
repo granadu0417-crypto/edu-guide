@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자사고 입시를 목표로 하는 학생들에게 내신 관리와 면접 준비를 체계적으로 지도합니다. 합격 사례를 바탕으로 맞춤 전략을 설계해드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ### 경기도 주요 자사고
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 학교의 입시 전형을 철저히 분석하여 맞춤 준비를 도와드립니다. 내신 관리부터 면접 준비까지 단계별로 지도합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ### 준비 시기
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 수업에 집중하고, 기출 문제 분석을 통해 시험에 철저히 대비합니다. 전 과목 균형 있게 관리하여 내신 성적을 끌어올립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ### 내신 관리 전략
@@ -76,7 +76,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예상 질문을 바탕으로 모의 면접을 반복 실시합니다. 자신감 있게 답변하는 연습과 논리적인 사고력 훈련을 통해 면접 실력을 향상시킵니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ### 면접 실전 팁

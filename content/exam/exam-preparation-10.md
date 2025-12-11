@@ -21,7 +21,7 @@ featured_image: "/images/edu_0147_0uKaXrG9zaQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 집중적으로 연습합니다. 채점 기준을 분석하고 점수를 다 받는 답안 구성법을 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 서술형 문제의 채점 방식
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0147_0uKaXrG9zaQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 서술형 채점 기준을 분석합니다. 어떻게 써야 점수를 다 받는지 구체적으로 안내합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 수학 서술형 작성법
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0147_0uKaXrG9zaQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 서술형 답안을 함께 작성해 봅니다. 어떤 과정을 써야 하는지, 어떻게 정리해야 하는지 연습합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 국어 서술형 작성법
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0147_0uKaXrG9zaQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 서술형 유형별로 답안 작성법을 연습합니다. 기출 서술형 문제로 실전 훈련을 합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 사회, 과학 서술형 작성법
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0147_0uKaXrG9zaQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 서술형 특성을 파악하고 맞춤 답안 작성법을 연습합니다. 부분 점수를 다 받는 답안을 만듭니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 서술형 실수 줄이기

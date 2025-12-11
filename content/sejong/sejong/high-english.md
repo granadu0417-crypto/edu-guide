@@ -10,14 +10,13 @@ tags:
   - 세종시영어과외
   - 세종시고등영어
 ---
-
-지문의 논리 흐름이 안 보인다면, 구조 파악력이 필요합니다.
+포기하기엔 아직 이릅니다. 영어도 마찬가지입니다.
 
 세종시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 세종고, 양지고, 아름고 시험과 수능에서 지문 구조 파악이 핵심입니다. 글의 흐름을 읽어야 등급이 오릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문의 서론-본론-결론 구조를 파악합니다. 연결어를 통해 논리 흐름을 추적합니다.
+첫 수업에서 학생과 충분히 대화합니다. 공부 습관과 목표를 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문단별 핵심 문장을 찾습니다. 빠르게 핵심을 파악하는 훈련을 합니다.
+공식만 알면 기본 문제는 풉니다. 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출 문제를 분석합니다. 출제 경향을 파악해서 맞춤 대비합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -58,7 +57,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 꼼꼼히 합니다. 왜 틀렸는지 파악해서 같은 실수를 반복하지 않습니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련.
 </div>
 
 ## 학년별 학습 방향
@@ -123,4 +122,4 @@ tags:
 
 ## 마무리
 
-세종시에서 영어 독해가 어렵다면 구조 파악 훈련이 필요합니다. 세종고, 양지고, 아름고 내신과 수능 모두 논리적 독해가 핵심입니다. 흐름이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 지금의 노력이 대학을 결정합니다.

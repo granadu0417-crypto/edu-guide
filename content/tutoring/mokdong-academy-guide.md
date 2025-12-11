@@ -24,7 +24,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목동 학원가에서 오래 지도한 경험을 바탕으로, 목동 스타일에 맞는 학습 전략을 세워드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 목동 학원가는 어떤 특징이 있나요?
@@ -37,7 +37,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목동 학원에서 배운 내용을 과외에서 다시 점검합니다. 학원 진도에 맞춰 약점을 집중 보완합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 학년별로 어떤 학원이 맞나요?
@@ -52,7 +52,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 목동 학원을 안내해 드립니다. 과외와의 역할 분담도 함께 설계합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 목동이랑 대치동 중에 어디가 나을까요?
@@ -75,7 +75,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향에 맞는 학원 유형을 함께 찾아드립니다. 종합반이 맞는지, 단과가 맞는지 상담에서 안내해 드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 목동 학원에 과외를 병행하면 어떤 효과가 있나요?
@@ -88,7 +88,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목동 학원 진도에 맞춰 과외 커리큘럼을 짭니다. 학원에서 못 따라간 부분을 과외에서 확실히 잡습니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문

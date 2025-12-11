@@ -20,7 +20,7 @@ featured_image: "/images/edu_0985_kGZjnKp7KLQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 암기가 아니라 이해 중심으로 수업합니다. 흐름을 알면 외울 양이 줄어듭니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 사회는 왜 어려운가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0985_kGZjnKp7KLQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대 흐름을 먼저 잡아줍니다. 전체 그림이 잡히면 세부 내용도 기억에 남습니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 암기를 효율적으로 하려면 어떻게 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0985_kGZjnKp7KLQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비슷한 개념을 비교표로 정리해 드립니다. 헷갈리는 내용을 구분하는 방법을 알려줍니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 사회 과외에서는 뭘 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0985_kGZjnKp7KLQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에 취약 개념을 집중 복습합니다. 자주 틀리는 유형을 반복 연습합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0985_kGZjnKp7KLQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 효율적인 암기 방법을 안내해 드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

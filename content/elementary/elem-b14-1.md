@@ -21,7 +21,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간을 정확히 지킵니다. 규칙적인 학습 시간이 좋은 습관의 시작입니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작은 성취도 크게 칭찬합니다. 성공 경험이 쌓이면 공부가 즐거워집니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 바로 넘어가지 않습니다. 왜 틀렸는지 확인하고, 다시 풀어봅니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 학년별 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-저학년은 15분씩, 고학년은 30분씩 집중하고 쉬어갑니다. 학년에 맞는 집중 시간을 고려합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정에서 할 복습 내용을 구체적으로 안내합니다. 막연히 복습하라가 아니라 오늘 배운 3단원 15쪽 다시 읽기처럼 명확하게 알려드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 주의사항

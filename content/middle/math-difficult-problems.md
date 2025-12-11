@@ -31,7 +31,7 @@ description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어디서 막히는지 정확히 파악합니다. 어려운 문제를 무작정 풀기보다 개념부터 점검하고, 빈틈을 찾아 메웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 중3 수학이 어렵게 느껴지는 이유
@@ -40,7 +40,7 @@ description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추상적인 개념은 그림과 그래프로 시각화해서 설명합니다. 눈에 보이지 않는 것을 눈에 보이게 만들어야 이해가 됩니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 단원별 핵심 어려운 문제 유형
@@ -51,7 +51,7 @@ description: 중학교 첫 시험이 두렵나요? 초등과는 다른 중등 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 유형의 문제를 최소 5번 이상 반복합니다. 한 번 풀어서 맞았다고 넘어가면 시험에서 틀립니다. 완전히 체화될 때까지 반복이 답입니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 이차함수 완벽 정복법
@@ -62,7 +62,7 @@ y = a(x-p)² + q 형태로 변환하면 꼭짓점 (p, q)를 쉽게 찾을 수 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차함수는 그래프를 직접 그리면서 공부합니다. 공식만 외우면 응용 문제에서 막힙니다. 그래프를 보면서 이해해야 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 삼각비 빠르게 익히는 법
@@ -79,7 +79,7 @@ y = a(x-p)² + q 형태로 변환하면 꼭짓점 (p, q)를 쉽게 찾을 수 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전처럼 타이머를 재고 문제를 풉니다. 시간 감각을 익히지 않으면 시험장에서 당황합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 오답노트 제대로 작성하기

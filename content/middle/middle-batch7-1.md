@@ -21,7 +21,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 학습 상태를 진단합니다. 부족한 부분을 찾아 맞춤형 학습 계획을 세웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 중학교 공부가 다른 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 시험의 특성을 설명합니다. 서술형 문제 대비 방법을 체계적으로 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 전 과목 학습의 기본 원칙
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습과 복습 방법을 구체적으로 알려드립니다. 짧은 시간에 효과적으로 공부하는 법을 익힙니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 주요 과목별 접근법
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습법을 안내합니다. 효율적인 공부 방법을 찾도록 돕습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 내신 시험 대비 전략
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 학습 계획을 세웁니다. 체계적인 시험 준비를 도와드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학습 습관 만들기
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 학습 습관을 만들도록 돕습니다. 작은 것부터 시작해 점점 확장합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 {{< cta-dual type="final" >}}

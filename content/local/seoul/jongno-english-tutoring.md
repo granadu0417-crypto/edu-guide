@@ -20,7 +20,7 @@ featured_image: "/images/edu_0340_ekDDL9YRX34.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종로구 지역 특성을 잘 아는 선생님이 우리 아이 수준과 목표에 맞춰 1:1 맞춤 수업을 진행합니다. 회화가 필요한 학생에게는 말하기 중심으로, 내신이 급한 학생에게는 시험 대비로 유연하게 조절합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 종로구 동네별 영어 교육 환경
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0340_ekDDL9YRX34.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종로구 각 동네의 특성에 맞춰 수업 장소와 시간을 유연하게 조율합니다. 평창동 자택 수업, 삼청동 스터디룸 수업, 온라인 병행 등 가장 효율적인 방식을 함께 찾아드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 학년별 영어 과외 포인트
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0340_ekDDL9YRX34.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생은 영어가 즐거워야 합니다. 아이가 좋아하는 주제로 수업을 구성하고, 매 수업 작은 성취감을 느낄 수 있도록 합니다. 강제로 외우게 하지 않고 자연스럽게 익히도록 유도합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ### 중학생 영어 - 문법 기초를 확실하게
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0340_ekDDL9YRX34.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학생은 문법을 정확하게 알아야 합니다. 대충 넘어가지 않고, 왜 그렇게 되는지 이해할 때까지 설명합니다. 내신 시험 2주 전부터는 학교별 기출문제와 출제 경향에 맞춰 집중 대비합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ### 고등학생 영어 - 내신과 수능 두 마리 토끼
@@ -110,7 +110,7 @@ featured_image: "/images/edu_0340_ekDDL9YRX34.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 현재 실력을 먼저 파악합니다. 회화, 내신, 수능 중 무엇이 가장 급한지 확인하고, 그에 맞는 커리큘럼을 짜서 진행합니다. 목표가 바뀌면 수업 방향도 함께 조정합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ### 수업 외 관리가 되는 선생님
@@ -121,7 +121,7 @@ featured_image: "/images/edu_0340_ekDDL9YRX34.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 수업 내용을 점검합니다. 단어 테스트, 숙제 확인, 오답 복습을 거친 후 새로운 내용으로 넘어갑니다. 카카오톡으로 학습 현황을 학부모님께 정기적으로 보고드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 종로구 영어과외 비용 안내
@@ -138,7 +138,7 @@ featured_image: "/images/edu_0340_ekDDL9YRX34.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다. 부담 없이 문의해 주세요.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문

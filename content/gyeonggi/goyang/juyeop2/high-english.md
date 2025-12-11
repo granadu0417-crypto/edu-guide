@@ -22,12 +22,11 @@ tags:
   - 주엽고
 featured_image: "/images/edu_0015.jpg"
 ---
-
-고등학교 영어가 어려운 이유가 있습니다. 고양시 일산서구 주엽2동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+영어 성적이 오르지 않아 고민이신가요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 스타일과 약점을 분석합니다. 맞지 않는 방법으로 공부하면 성적이 안 오릅니다.
+모든 수업은 진단에서 시작합니다. 학생의 현재 위치를 파악하고, 목표까지의 로드맵을 설계합니다.
 </div>
 
 ## 고등 영어, 왜 이렇게 어려운 걸까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신은 학교별로 대비하고, 수능은 전국 기준으로 준비합니다. 두 마리 토끼를 다 잡는 전략이 있습니다.
+문제 풀이 시간을 재면서 연습합니다. 실전에서는 시간이 촉박하기 때문입니다.
 </div>
 
 ## 주엽고 시험 유형 파악하기
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주엽고은 서술형 비중이 높습니다. 영작문 연습을 충분히 합니다.
+기출 분석으로 출제 경향과 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 수능 영어, 어떻게 준비할까요?
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0015.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수로 틀린 건지, 몰라서 틀린 건지 구분합니다. 실수도 실력입니다. 줄일 수 있습니다.
+1, 2학년은 내신에 집중하면서 기초를 쌓고, 3학년은 본격적으로 수능 대비에 들어갑니다.
 </div>
 
 ## 1:1 과외의 차별점
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0015.jpg"
 
 ## 마무리
 
-영어는 꾸준함입니다. 매일 조금씩 실력을 쌓아보세요.
+일산서구 학생 여러분, 결심이 시작입니다. 오늘 상담받고, 내일부터 달라지세요.

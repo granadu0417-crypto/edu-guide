@@ -22,12 +22,11 @@ tags:
   - 신원중
 featured_image: "/images/edu_0005.jpg"
 ---
-
-영어 때문에 스트레스받고 계시죠? 고양시 덕양구 신원동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어 성적표 보고 한숨 쉬셨나요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 정확히 파악한 후 수업을 시작합니다.
+학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾고, 그 부분을 집중 공략합니다.
 </div>
 
 ## 영어가 갑자기 어려워지는 시기
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 대비와 선행 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행하는 방법을 알려드립니다.
+문제를 풀다 막히면 힌트를 조금씩 줍니다. 스스로 깨달아야 기억에 남습니다.
 </div>
 
 ## 신원중 내신 대비 전략
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 영어 선생님들의 출제 스타일을 파악하고 있습니다. 그에 맞춰 준비합니다.
+시험의 난이도 분포를 알고 있습니다. 어떤 문제에서 시간을 쓸지 전략을 세웁니다.
 </div>
 
 ## 고등학교 대비, 언제부터 어떻게?
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0005.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답을 맞혀도 풀이 과정을 점검합니다. 감으로 맞힌 건 다음에 틀립니다.
+내신 기간에는 기출 중심으로, 수능 시즌에는 평가원 기출 중심으로 진행합니다.
 </div>
 
 ## 1:1 과외, 이런 점이 다릅니다
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0005.jpg"
 
 ## 마무리
 
-더 늦기 전에 시작하세요. 신원동에서 영어 잘하는 학생, 여러분도 될 수 있습니다.
+덕양구 학생 여러분, 자신감, 되찾을 수 있습니다. 포기하지 마세요.

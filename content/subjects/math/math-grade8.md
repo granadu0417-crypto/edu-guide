@@ -23,7 +23,7 @@ featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수 개념을 구체적 예시로 쉽게 설명합니다. 추상적 사고에 익숙해지도록 돕습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 식의 계산과 부등식
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-곱셈 공식과 인수분해를 확실히 연결합니다. 부등식의 부호 규칙을 반복 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 연립방정식과 일차함수
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연립방정식 풀이법을 체계적으로 훈련합니다. 일차함수 그래프를 직접 그려보며 이해시킵니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 확률과 도형
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률 문제를 표와 나무그림으로 시각화합니다. 도형의 성질을 정확히 정리합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학습 전략
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 간 연결을 강조하며 가르칩니다. 실수 포인트를 미리 짚어줍니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,6 +108,6 @@ y가 ax 더하기 b 형태로 그래프가 직선인 함수입니다. 모든 함
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2 전 과정을 체계적으로 정리합니다. 탄탄한 기초를 다져 중3으로 연결합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 

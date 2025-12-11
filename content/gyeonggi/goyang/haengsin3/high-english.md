@@ -22,12 +22,11 @@ tags:
   - 서정고
 featured_image: "/images/edu_0001.jpg"
 ---
-
-영어 실력, 지금 바로 키울 수 있습니다. 고양시 덕양구 행신3동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+영어 때문에 대학 못 가면 너무 억울하지 않나요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 독해 과정을 점검합니다. 지문을 읽는 방식을 보면 약점이 보입니다.
+성적표만 보지 않습니다. 실제로 문제를 풀어보면서 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 중학교와 완전히 다른 고등 영어
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 내신과 수능 비중을 조절합니다. 고1은 내신 중심, 고3은 수능 비중을 높여갑니다.
+어려운 문제도 기본 개념의 조합입니다. 기본기가 탄탄하면 어떤 문제든 풀 수 있습니다.
 </div>
 
 ## 서정고 내신 완벽 대비 가이드
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터는 서정고 기출과 예상 문제 위주로 수업합니다.
+같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다. 그 학교 시험의 특징을 잘 압니다.
 </div>
 
 ## 수능 대비 전략
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0001.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 해석 과정을 소리 내어 설명하게 합니다. 어디서 막히는지 정확히 파악할 수 있습니다.
+내신 시험이 끝나면 바로 수능 대비로 전환합니다. 시간 낭비 없이 효율적으로 운영합니다.
 </div>
 
 ## 과외, 이래서 효과가 있습니다
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0001.jpg"
 
 ## 마무리
 
-행신3동 고등학생 여러분의 영어 실력 향상을 응원합니다.
+덕양구 학생 여러분, 성적이 고민이라면, 지금 바로 상담받아 보세요.

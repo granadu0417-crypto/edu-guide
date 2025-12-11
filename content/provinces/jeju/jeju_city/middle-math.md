@@ -10,14 +10,13 @@ tags:
   - 제주시수학과외
   - 제주시중등수학
 ---
-
-평균, 중앙값, 최빈값의 차이를 모른다면, 통계력이 필요합니다.
+초등학교 때는 잘했는데, 지금은 왜 안 되나요?
 
 제주시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 제주고, 오현고, 제주여고 시험에서 통계 문제가 자주 출제됩니다. 자료를 정리하고 대표값을 구하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-통계 개념을 체계적으로 정리합니다. 대표값 계산을 훈련합니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법까지 종합 진단합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대표값 공식을 정리합니다. 자료 해석을 훈련합니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제주고, 오현고 기출에서 통계 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+최근 3년 기출을 분석하여 출제 패턴을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 통계력을 점진적으로 향상시킵니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 계획을 세웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -124,5 +123,5 @@ tags:
 
 ## 마무리
 
-제주시에서 통계가 어렵다면 대표값 훈련이 필요합니다. 자료가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 1등급도, 성적 향상도 가능합니다.
 

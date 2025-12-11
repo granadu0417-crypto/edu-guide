@@ -10,14 +10,13 @@ tags:
   - 서구수학과외
   - 서구중등수학
 ---
-
-a² + b² = c²에서 빗변이 어느 쪽인지 헷갈린다면, 피타고라스력이 필요합니다.
+중학교 시험은 특별한 대비가 필요합니다.
 
 서구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 서구고, 광주동성고, 금호고 시험에서 피타고라스 문제가 자주 출제됩니다. 직각삼각형의 변 관계를 정확히 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피타고라스 정리를 체계적으로 정리합니다. 활용 문제를 훈련합니다.
+실력 진단 없이 수업하면 시간만 낭비됩니다. 체계적인 진단으로 학습 경로를 설계합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ a² + b² = c²에서 빗변이 어느 쪽인지 헷갈린다면, 피타고라�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피타고라스 역을 정리합니다. 판별 문제를 훈련합니다.
+복습 시점을 알려드립니다. 오늘 배운 내용은 반복 복습해야 합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ a² + b² = c²에서 빗변이 어느 쪽인지 헷갈린다면, 피타고라�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서구고, 광주동성고 기출에서 피타고라스 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험 범위에 맞춰 집중 대비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ a² + b² = c²에서 빗변이 어느 쪽인지 헷갈린다면, 피타고라�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 피타고라스력을 점진적으로 향상시킵니다.
+학년별로 내신과 수능 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -120,5 +119,5 @@ a² + b² = c²에서 빗변이 어느 쪽인지 헷갈린다면, 피타고라�
 
 ## 마무리
 
-서구에서 피타고라스가 어렵다면 직각 찾기 훈련이 필요합니다. 변의 관계가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 내신과 수능, 두 마리 토끼를 다 잡는 방법이 있습니다.
 

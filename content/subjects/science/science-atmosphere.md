@@ -19,7 +19,7 @@ featured_image: "/images/edu_0576_2NgEKWkV5Nk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 개념 이해도를 진단합니다. 대기의 구조부터 기상 현상까지 단계별로 학습합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 대기의 층구조
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0576_2NgEKWkV5Nk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대기 층별 특징을 정리합니다. 기온 변화 그래프 분석을 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 기상 현상
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0576_2NgEKWkV5Nk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기상 현상의 원리를 정리합니다. 기상도 분석 방법을 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 대기의 순환
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0576_2NgEKWkV5Nk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대기 순환의 원리를 정리합니다. 바람의 방향과 원인을 학습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0576_2NgEKWkV5Nk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 유형을 파악하고 보완합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "/images/edu_0576_2NgEKWkV5Nk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 대기를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>

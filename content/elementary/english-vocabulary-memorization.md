@@ -20,7 +20,7 @@ featured_image: "/images/edu_0135_i3rBo3b9QbA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 어휘 수준을 먼저 확인합니다. 알고 있는 단어와 모르는 단어를 분류하고, 모르는 단어부터 체계적으로 익혀갑니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학년별 목표 어휘 수
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0135_i3rBo3b9QbA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그림 카드와 소리를 함께 활용합니다. 보고 듣고 말하고 쓰는 4가지 감각을 모두 동원하면 기억이 훨씬 오래 갑니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 문장 속에서 배우기
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0135_i3rBo3b9QbA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어를 외운 후 반드시 문장 만들기를 합니다. 문장으로 써볼 수 있어야 진짜 아는 단어입니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 분류하고 연결하기
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0135_i3rBo3b9QbA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 게임 시간을 넣습니다. 배운 단어로 빙고 게임을 하거나 플래시카드 퀴즈를 하면 복습이 재미있어집니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 학년별 단어 학습 전략
@@ -80,7 +80,7 @@ featured_image: "/images/edu_0135_i3rBo3b9QbA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작할 때 지난 시간 단어를 테스트합니다. 틀린 단어는 다음 주에 다시 테스트해서 완전히 익힐 때까지 반복합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

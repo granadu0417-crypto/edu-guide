@@ -19,7 +19,7 @@ featured_image: "/images/edu_0006_YoIq2GyYcAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 언어 발달 수준과 표현 능력을 먼저 파악합니다. 아직 글을 못 쓰는 아이도 말로 생각을 표현하는 것부터 시작합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 독서논술이 뭔가요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0006_YoIq2GyYcAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-책 읽기, 생각 나누기, 표현 활동의 세 단계로 진행됩니다. 아이가 부담 없이 참여할 수 있도록 놀이처럼 진행합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 왜 유아 때 독서논술을 시작하나요?
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0006_YoIq2GyYcAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 틀린 생각을 해도 정답을 알려주지 않습니다. 왜 그렇게 생각했는지 물어보고, 다른 가능성도 함께 생각해 봅니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 유아 독서논술 수업은 어떻게 진행되나요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0006_YoIq2GyYcAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 다른 활동을 해서 지루하지 않게 합니다. 그림 그리기, 역할놀이, 만들기 등 다양하게 진행합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 독서논술 과외의 장점은 뭔가요?
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0006_YoIq2GyYcAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 오늘 읽은 책과 아이의 반응, 특별했던 생각을 공유드립니다. 아이의 성장을 함께 확인합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 좋은 독서논술 선생님의 조건은 뭔가요?
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0006_YoIq2GyYcAU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 방식을 직접 경험해 보세요. 아이가 편하게 생각을 표현하는지 확인하시면 됩니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0150_ucUB9wxkPgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성을 분석하고 학생에게 맞는 학습 전략을 세웁니다. 약한 과목은 기초부터, 강한 과목은 심화까지 맞춤 대비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과목별 특성 이해하기
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0150_ucUB9wxkPgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 유형에 따라 학습 방법을 다르게 접근합니다. 언어 과목, 개념 과목, 암기 과목 각각의 특성에 맞춰 지도합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 국어 시험 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0150_ucUB9wxkPgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능 국어를 구분해서 대비합니다. 학교 수업 내용과 수능형 문제 풀이 전략을 함께 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 수학 시험 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0150_ucUB9wxkPgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 이해부터 시작해서 문제 풀이까지 단계별로 진행합니다. 자주 틀리는 유형은 반복 훈련으로 완성합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 영어 시험 전략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0150_ucUB9wxkPgY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 영어와 수능 영어를 균형 있게 대비합니다. 어휘, 문법, 독해를 종합적으로 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 암기 과목 전략

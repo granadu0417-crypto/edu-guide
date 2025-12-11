@@ -28,7 +28,7 @@ featured_image: "/images/edu_0836_EHfiW-cV0ls.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 상관관계의 이해 수준을 진단합니다. 산점도 해석, 양의 상관관계와 음의 상관관계, 상관없음을 체계적으로 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 상관관계가 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0836_EHfiW-cV0ls.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 산점도를 보며 상관관계를 판단하는 연습을 합니다. 실생활 예시로 개념을 확실히 익힙니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 덕수중·장원중·대경중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0836_EHfiW-cV0ls.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·대경중 기출 상관관계 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0836_EHfiW-cV0ls.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 산점도를 그리고 분석해보게 합니다. 상관관계를 설명하는 훈련을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0836_EHfiW-cV0ls.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 통계 내용을 정확히 이해합니다. 통계를 자유롭게 활용하는 능력을 키웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0836_EHfiW-cV0ls.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상관관계 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}

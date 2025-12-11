@@ -26,7 +26,7 @@ featured_image: "/images/edu_0560_nqI3t8M3qcI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 국가와 시험에 맞춰 맞춤 커리큘럼을 제공합니다. 영어 수학 용어부터 차근차근 익힙니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 주요 국가별 수학 교육
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0560_nqI3t8M3qcI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 국가의 커리큘럼에 맞춰 학습합니다. 시험 형식과 출제 경향을 분석하여 효율적으로 준비합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## SAT Math
@@ -46,7 +46,7 @@ SAT Math는 800점 만점으로 Section 1은 계산기 없이 25분에 20문항�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-SAT Math 만점 전략을 가르칩니다. 시간 배분과 실수 방지와 빠른 풀이법을 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## AP와 IB
@@ -55,7 +55,7 @@ AP Calculus는 AB와 BC로 나뉩니다. AB는 기본 미적분이고 BC는 심�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-AP와 IB 시험 형식에 맞춰 준비합니다. 과거 문제를 반복하고 IA 주제 선정도 도와드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 유학 준비 로드맵
@@ -64,7 +64,7 @@ AP와 IB 시험 형식에 맞춰 준비합니다. 과거 문제를 반복하고 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 로드맵을 제공합니다. 목표 대학에 맞춰 시험 일정과 준비 계획을 세웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,6 +111,6 @@ AP와 IB 시험 형식에 맞춰 준비합니다. 과거 문제를 반복하고 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-SAT, AP, IB 목표에 맞춰 맞춤 지도합니다. 영어 수학 용어와 문제 해석과 답안 작성법까지 완벽히 준비시킵니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 

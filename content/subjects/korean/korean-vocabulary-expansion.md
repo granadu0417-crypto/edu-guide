@@ -20,7 +20,7 @@ featured_image: "/images/edu_0499_TRVSyEf4UEE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 어휘 수준을 진단합니다. 어원을 활용한 어휘 확장법을 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 한자 어근 학습
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0499_TRVSyEf4UEE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고빈도 한자를 선별하여 학습합니다. 한자 하나로 여러 단어를 확장합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 접사 활용
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0499_TRVSyEf4UEE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 접사를 정리합니다. 단어 분석 훈련을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 주제별 어휘 확장
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0499_TRVSyEf4UEE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주제별 어휘를 체계적으로 정리합니다. 유의어와 반의어를 함께 학습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0499_TRVSyEf4UEE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 유형을 파악하고 보완합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,5 +105,5 @@ featured_image: "/images/edu_0499_TRVSyEf4UEE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 어휘력을 확장합니다. 어원 학습과 실전 활용을 함께합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>

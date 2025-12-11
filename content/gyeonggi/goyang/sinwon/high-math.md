@@ -22,12 +22,11 @@ tags:
   - 능곡고
 featured_image: "/images/edu_0014.jpg"
 ---
-
-수학 때문에 머리 아프시죠? 고양시 덕양구 신원동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+중학교 때는 잘했는데, 지금은 왜 안 되는 걸까요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도보다 진단이 먼저입니다. 학생이 무엇을 알고 무엇을 모르는지 정확히 파악한 후 수업을 시작합니다.
+첫 만남에서 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가하여 맞춤 계획을 세웁니다.
 </div>
 
 ## 고등학교 수학의 벽
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 3년, 내신과 수능을 어떻게 배분할지 로드맵을 세워드립니다.
+쉬운 문제부터 어려운 문제까지 단계별로 진행합니다. 갑자기 어려운 문제를 풀면 좌절감만 커집니다.
 </div>
 
 ## 능곡고 내신 대비 전략
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-능곡고 수학 선생님들의 출제 스타일을 파악하고 있습니다. 그에 맞춰 준비합니다.
+내신 시험은 학교마다 다릅니다. 학교 특성에 맞춘 전략적 대비가 필요합니다.
 </div>
 
 ## 수능 대비, 언제부터 어떻게?
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0014.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답을 맞혀도 풀이 과정을 점검합니다. 운으로 맞힌 건 다음에 틀립니다.
+고등학교 3년, 내신과 수능을 어떻게 배분할지 로드맵을 세워드립니다.
 </div>
 
 ## 1:1 과외, 이런 점이 다릅니다
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0014.jpg"
 
 ## 마무리
 
-더 늦기 전에 시작하세요. 신원동에서 수학 잘하는 학생, 여러분도 될 수 있습니다.
+덕양구 학생 여러분, 포기가 아니라 도전입니다. 함께 해보세요.

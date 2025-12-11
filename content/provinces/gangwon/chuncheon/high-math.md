@@ -10,14 +10,13 @@ tags:
   - 춘천시수학과외
   - 춘천시고등수학
 ---
-
-an = a1 + (n-1)d 공식을 언제 쓰는지 헷갈린다면, 등차수열력이 필요합니다.
+중학교 때는 잘했는데, 지금은 왜 안 되는 걸까요?
 
 춘천시에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 춘천고, 봉의고, 강원고 시험에서 등차수열 문제가 자주 출제됩니다. 일반항과 합 공식을 정확히 적용하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-등차수열 공식을 체계적으로 정리합니다. 일반항과 합의 관계를 훈련합니다.
+먼저 학생의 현재 실력을 꼼꼼히 체크합니다. 어떤 개념이 부족한지 진단합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ an = a1 + (n-1)d 공식을 언제 쓰는지 헷갈린다면, 등차수열력이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조건 해석력을 정리합니다. 미지수 찾기를 훈련합니다.
+모르는 문제는 5분만 고민합니다. 그래도 모르면 풀이를 보고 다시 풉니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ an = a1 + (n-1)d 공식을 언제 쓰는지 헷갈린다면, 등차수열력이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-춘천고, 강원고 기출에서 등차수열 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교 시험은 정보전입니다. 효율적으로 대비합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ an = a1 + (n-1)d 공식을 언제 쓰는지 헷갈린다면, 등차수열력이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 등차수열력을 점진적으로 향상시킵니다.
+입시 목표에 맞춰 내신과 수능 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -114,5 +113,5 @@ an = a1 + (n-1)d 공식을 언제 쓰는지 헷갈린다면, 등차수열력이 
 
 ## 마무리
 
-춘천시에서 등차수열이 어렵다면 공식 훈련이 필요합니다. 패턴이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 1등급도, 성적 향상도 가능합니다.
 

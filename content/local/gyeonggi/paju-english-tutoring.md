@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 영어 수준을 정확히 진단한 후, 취약 영역을 집중 보완하는 맞춤 커리큘럼을 설계합니다. 읽기, 쓰기, 듣기, 말하기 4대 영역을 균형 있게 발전시킵니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ### 합리적인 과외비
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파닉스 게임과 영어 동요, 그림책을 활용해 아이가 영어를 '놀이'처럼 느끼게 합니다. 억지로 암기를 강요하지 않고 자연스럽게 영어에 노출시킵니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 고학년이 되면 챕터북 읽기를 통해 독해력을 기르고, 기초 문법을 자연스럽게 익히는 것이 좋습니다. 이때 탄탄한 기초를 다져야 중학교 영어에서 어려움을 겪지 않습니다.
@@ -61,7 +61,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 진도에 맞춘 내신 대비와 함께, 헷갈리기 쉬운 문법을 아이 눈높이에서 쉽게 설명합니다. 특히 서술형 문제 대비를 위한 작문 연습을 강화합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 중3 때는 고등 영어 준비를 시작해야 합니다. 독해 속도를 높이고, 어휘력을 확장하며, 수능 유형의 문제에 미리 익숙해지는 것이 중요합니다.
@@ -78,7 +78,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 분석하여 내신 시험에 최적화된 수업을 진행합니다. 수시 중심이라면 내신에, 정시 중심이라면 수능에 집중하여 효율적인 학습을 진행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 고2부터는 본격적으로 수능 영어를 준비해야 합니다. EBS 연계 교재를 바탕으로 실전 감각을 익히고, 고난도 독해 문제와 빈칸 추론 문제를 집중적으로 훈련합니다.
@@ -93,7 +93,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 목표와 현재 수준에 맞는 최적의 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ### 선택 시 체크리스트
@@ -111,7 +111,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 복습 과제와 다음 수업 예습 범위를 안내드립니다. 학부모님께는 수업 내용과 아이의 학습 상태를 정기적으로 피드백드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ### 원서 읽기를 꾸준히

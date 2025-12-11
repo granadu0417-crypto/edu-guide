@@ -26,7 +26,7 @@ featured_image: "/images/edu_0705_pvsS65iCGvg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 사회 구조를 비교합니다. 사회 변동의 원인과 결과를 분석합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 신분 제도의 변화
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0705_pvsS65iCGvg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 신분제의 특징을 비교합니다. 신분제 동요의 원인을 분석합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 가족과 촌락
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0705_pvsS65iCGvg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가족 형태의 변화를 정리합니다. 촌락 공동체의 변화를 분석합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 생활 문화의 변화
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0705_pvsS65iCGvg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 생활 문화를 비교합니다. 문화 변화의 원인을 분석합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 근대 사회의 등장
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0705_pvsS65iCGvg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-근대화의 특징을 정리합니다. 전통 사회와 근대 사회를 비교합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "/images/edu_0705_pvsS65iCGvg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 사회사를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>

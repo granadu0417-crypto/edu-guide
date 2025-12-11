@@ -39,7 +39,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 성향을 먼저 파악합니다. 경쟁형인지, 자기주도형인지에 따라 수업 방식이 달라져야 효과가 납니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ### 반포동 - 교대 출신 선생님이 많은 동네
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"수학이 어렵다"고 느끼는 지점을 찾아냅니다. 개념이 헷갈리는 건지, 계산 실수가 많은 건지, 응용력이 부족한 건지 정확히 진단합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학년별 수학과외 가이드
@@ -101,7 +101,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교구와 게임으로 수학이 재미있어지는 경험을 선물합니다. 아이가 "수학 시간이 기다려져요"라고 말할 때까지!
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ### 중학생 - 고등 수학의 뿌리를 심는 시간
@@ -130,7 +130,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 함수도 원리부터 차근차근! "아, 이래서 이렇게 되는구나" 이해의 순간을 만들어드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ### 고등학생 - 수능을 향한 본격 레이스
@@ -159,7 +159,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 서초구 주요 학교 수학 내신 특징
@@ -195,7 +195,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제 분석으로 출제 패턴을 파악합니다. "이 학교 선생님은 이런 스타일로 내"를 알면 대비가 쉬워집니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -230,7 +230,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 아이 성향과 현재 실력을 파악한 후 맞춤 커리큘럼을 제안해 드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 수학 실력, 이렇게 올리세요
@@ -265,7 +265,7 @@ featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 시간 복습 테스트를 봅니다. 까먹기 전에 다시 한 번! 이게 실력이 되는 비결입니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

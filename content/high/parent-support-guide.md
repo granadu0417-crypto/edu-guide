@@ -21,7 +21,7 @@ featured_image: "/images/edu_0882_2SgCw9D4G2E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 학부모 모두와 소통하며 입시를 준비합니다. 학생에게는 학습 지도를, 학부모님께는 정기적인 상담을 통해 진행 상황을 공유합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 고3 자녀의 심리 이해하기
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0882_2SgCw9D4G2E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 심리 상태를 파악하고 학습에 집중할 수 있도록 돕습니다. 슬럼프 시기에는 무리한 진도보다 회복에 초점을 맞춥니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 효과적인 의사소통 방법
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0882_2SgCw9D4G2E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 효과적인 소통 방법을 안내드립니다. 학생이 가장 필요로 하는 것이 무엇인지 파악하고 가정에서도 실천할 수 있도록 돕습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학습 환경 조성
@@ -70,7 +70,7 @@ featured_image: "/images/edu_0882_2SgCw9D4G2E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 일정과 학습 계획을 학부모님과 공유합니다. 가정에서 해주시면 좋을 것들을 구체적으로 안내드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 정서적 지지 방법
@@ -91,7 +91,7 @@ featured_image: "/images/edu_0882_2SgCw9D4G2E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 정보와 일정을 학부모님께 정기적으로 공유합니다. 복잡한 입시 용어도 쉽게 설명드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 진로 상담과 의견 차이

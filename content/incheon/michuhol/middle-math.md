@@ -10,14 +10,13 @@ tags:
   - 미추홀구수학과외
   - 미추홀구중등수학
 ---
-
-평균이 70점인데 분산이 큰 것과 작은 것의 차이를 설명하지 못한다면, 통계력이 필요합니다.
+수학은 혼자 공부하기 어려운 과목입니다.
 
 미추홀구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 인천고, 제물포고, 숭덕여고 시험에서 통계 문제가 자주 출제됩니다. 평균과 분산의 의미를 정확히 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-통계 개념을 체계적으로 정리합니다. 평균, 분산, 표준편차를 훈련합니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법까지 종합 진단합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-통계 개념의 의미를 정리합니다. 계산 정확도를 훈련합니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인천고, 제물포고 기출에서 통계 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+최근 3년 기출을 분석하여 출제 패턴을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 통계력을 점진적으로 향상시킵니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 계획을 세웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -112,5 +111,5 @@ tags:
 
 ## 마무리
 
-미추홀구에서 통계가 어렵다면 의미 이해 훈련이 필요합니다. 해석이 빨라지면 수학이 쉬워집니다.
+ 학생 여러분, 전략입니다. 제대로 된 전략으로 성적을 올려보세요.
 

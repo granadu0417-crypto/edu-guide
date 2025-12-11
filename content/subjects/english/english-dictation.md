@@ -19,7 +19,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 딕테이션 자료를 제공합니다. 틀린 부분을 분석하고 발음 규칙을 설명합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 딕테이션 3단계
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 단계부터 시작합니다. 점진적으로 난이도를 높여갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 틀린 부분 분석
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 부분의 원인을 분석합니다. 연음, 탈락 등 발음 규칙을 설명합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 효과적인 연습법
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 딕테이션 방법을 알려드립니다. 수준에 맞는 자료를 제공합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 추천 자료
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 자료를 추천합니다. 단계적으로 난이도를 높여갑니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -116,5 +116,5 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 딕테이션 수업으로 듣기 실력을 빠르게 향상시킵니다. 틀린 부분을 분석하고 발음 규칙을 설명합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

@@ -19,7 +19,7 @@ featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 짝과 함께하는 활동을 많이 합니다. 자연스럽게 친구와 협력하는 법을 배웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 오늘 학교에서 뭐 했어?라고 물어봅니다. 친구 이야기가 나오면 자세히 들어줍니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 친구 사귀는 법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-역할놀이로 친구 사귀는 상황을 연습합니다. 처음 만난 친구에게 뭐라고 할까? 하고 연습해봅니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 갈등 해결하기
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-친구랑 문제가 생기면 어떻게 해?라고 물어봅니다. 혼자 해결하려 하지 말고 어른에게 이야기하는 것도 방법이라고 알려줍니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 가정에서의 역할
@@ -83,7 +83,7 @@ featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습보다 친구 관계를 더 중요하게 여깁니다. 친구랑 잘 지내?라는 질문을 공부 잘 했어?보다 먼저 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 주의사항

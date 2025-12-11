@@ -26,7 +26,7 @@ featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-탄소의 결합 특성부터 시작합니다. 단일결합, 이중결합, 삼중결합의 차이를 이해합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 탄화수소
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-탄화수소의 분류를 체계적으로 정리합니다. IUPAC 명명법을 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 작용기
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 작용기를 표로 정리합니다. 각 작용기의 특성과 반응을 연결합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 고분자 화합물
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중합 반응의 종류를 비교합니다. 대표적인 고분자의 단위체를 암기합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 구조식 그리기와 반응 예측을 집중 훈련합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -123,5 +123,5 @@ featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 유기화학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>

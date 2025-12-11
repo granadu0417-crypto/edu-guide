@@ -25,7 +25,7 @@ featured_image: "/images/edu_0565_u7i3ZvZOEUM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼각비의 정의부터 차근차근 설명합니다. 암기법을 알려주고 혼동하지 않도록 반복 확인합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 특수각과 사분면
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0565_u7i3ZvZOEUM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특수각을 완벽히 암기시킵니다. 사분면 부호를 빠르게 판단하는 방법을 훈련합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 삼각함수 그래프
@@ -45,7 +45,7 @@ sin x의 그래프는 주기가 2파이이고 최댓값이 1이며 최솟값이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프를 직접 그리며 이해시킵니다. 주기와 진폭과 이동의 의미를 명확히 설명합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 핵심 공식
@@ -54,7 +54,7 @@ sin x의 그래프는 주기가 2파이이고 최댓값이 1이며 최솟값이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덧셈정리를 완벽히 암기시킵니다. 유도 과정을 이해시켜 공식을 잊어도 스스로 만들 수 있게 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 삼각방정식과 실전 팁
@@ -63,7 +63,7 @@ sin x의 그래프는 주기가 2파이이고 최댓값이 1이며 최솟값이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 집중 연습합니다. 실수 패턴을 파악하고 같은 실수를 반복하지 않도록 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -110,6 +110,6 @@ sin x의 그래프는 주기가 2파이이고 최댓값이 1이며 최솟값이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체계적인 공식 정리와 실전 문제 풀이로 삼각함수를 완벽하게 마스터시킵니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 

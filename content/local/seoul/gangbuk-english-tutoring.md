@@ -32,7 +32,7 @@ featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"오늘 학교에서 뭐 했어?" 영어로 일상 대화부터 시작합니다. 자연스럽게 말하는 습관이 영어 실력의 기본이에요.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ### 미아동 - 성신여대 인근
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 영어 수준을 정확히 파악합니다. 어디서 막혔는지, 어떤 부분이 약한지 진단부터 꼼꼼히!
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 학년별 영어과외 가이드
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 그림책을 함께 읽으며 단어를 익힙니다. "이 그림 뭐야?" "It's a dog!" 자연스럽게 말하기 연습!
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ### 중학생 - 문법과 독해의 기초를 다지는 시기
@@ -114,7 +114,7 @@ featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"관계대명사가 뭐예요?" 문법 용어보다 실제 문장에서 어떻게 쓰이는지 보여줍니다. 예문으로 이해하면 잊어버리지 않아요.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -143,7 +143,7 @@ featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. "이 문제 왜 틀렸지?" 틀린 이유를 알면 같은 실수를 안 해요.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -170,7 +170,7 @@ featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학생 선생님은 최근 입시를 경험했기 때문에 시험 노하우를 잘 알려드려요. 어떤 부분이 중요한지 콕콕 짚어줍니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 좋은 영어 선생님, 이렇게 고르세요
@@ -205,7 +205,7 @@ featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 영어로 말하기 편한 분위기인지가 가장 중요합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -246,7 +246,7 @@ featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 영어 단어 10개씩! 작은 습관이 큰 실력이 됩니다. 과외 시간에는 암기 점검과 활용 연습을 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 마치며

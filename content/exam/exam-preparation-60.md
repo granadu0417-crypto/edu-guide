@@ -21,7 +21,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 이론 시험 대비법을 안내합니다. 실기와 이론을 균형 있게 준비하도록 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 체육 이론 준비
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체육 이론의 핵심 내용을 정리합니다. 자주 나오는 유형을 파악해서 준비합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 음악 이론 준비
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-음악 이론 기초부터 정리합니다. 악보 읽기와 음악사를 체계적으로 학습합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 미술 이론 준비
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미술 이론 핵심을 정리합니다. 작품과 작가를 연결해서 학습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 실기 준비와 병행
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이론과 실기를 연결해서 공부합니다. 균형 있게 준비할 수 있도록 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시험 전략

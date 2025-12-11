@@ -19,7 +19,7 @@ featured_image: "/images/edu_0211__1gBVgy8gIU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-100부터는 실전 위주로 수업합니다. 개념 정리는 최소화하고 문제 풀이와 오답 분석에 집중합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 100일의 황금 비율
@@ -32,7 +32,7 @@ D-100부터는 실전 위주로 수업합니다. 개념 정리는 최소화하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남은 기간에 맞춰 학습 계획을 세분화합니다. 시기별로 집중해야 할 부분을 명확히 하고 진도를 관리합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과목별 막판 전략
@@ -47,7 +47,7 @@ D-100부터는 실전 위주로 수업합니다. 개념 정리는 최소화하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 막판 전략을 제시합니다. 남은 시간에 가장 효율적인 학습 방법을 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 시간 관리 전략
@@ -60,7 +60,7 @@ D-100부터는 실전 위주로 수업합니다. 개념 정리는 최소화하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무리한 계획이 아닌 실현 가능한 계획을 세웁니다. 컨디션을 유지하면서 최대 효율을 낼 수 있도록 관리합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 멘탈 관리
@@ -73,7 +73,7 @@ D-100부터는 실전 위주로 수업합니다. 개념 정리는 최소화하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습뿐 아니라 멘탈 관리도 함께 합니다. 불안할 때 이야기를 나누고 긍정적인 마인드를 유지하도록 돕습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 실전 모의고사 활용

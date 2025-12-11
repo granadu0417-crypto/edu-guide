@@ -10,14 +10,13 @@ tags:
   - 유성구영어과외
   - 유성구고등영어
 ---
-
-If I were you처럼 가정법이 어색하다면, 가정법 활용력이 필요합니다.
+영어는 꾸준함이 답입니다. 지금 시작하세요.
 
 유성구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 유성고, 대전과학고, 충남삼성고 시험에서 가정법 문제가 자주 출제됩니다. 시제 변화와 사실의 반대를 정확히 표현하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정법 과거와 가정법 과거완료를 구분합니다. 혼합 가정법까지 확장 훈련합니다.
+모든 수업은 진단에서 시작합니다. 현재 위치를 파악하고 로드맵을 설계합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ If I were you처럼 가정법이 어색하다면, 가정법 활용력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정법의 의미를 실제 상황과 비교합니다. 각 조동사의 뉘앙스 차이를 익힙니다.
+틀린 문제를 다시 풀 때는 풀이를 보지 않고 도전합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ If I were you처럼 가정법이 어색하다면, 가정법 활용력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유성고, 대전과학고 기출에서 가정법 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ If I were you처럼 가정법이 어색하다면, 가정법 활용력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 가정법 활용력을 점진적으로 심화합니다.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -134,4 +133,4 @@ If I were you처럼 가정법이 어색하다면, 가정법 활용력이 필요�
 
 ## 마무리
 
-유성구에서 가정법이 어렵다면 시제 훈련이 필요합니다. 규칙이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 어렵다고 피하면 계속 어렵습니다.

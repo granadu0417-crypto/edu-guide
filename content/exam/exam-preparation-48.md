@@ -19,7 +19,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사 범위를 함께 정리합니다. 범위가 적은 만큼 꼼꼼하게 준비하도록 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 중간고사의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사 유형을 분석합니다. 선생님의 출제 경향을 파악하고 맞춤 준비를 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 준비 시작 시기
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춘 학습 계획을 세웁니다. 매일 진도를 체크하고 빠짐없이 준비하도록 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과목별 준비법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 공부법을 안내합니다. 효율적으로 준비할 수 있도록 도와드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 교과서 활용법
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 내용을 함께 정리합니다. 출제 가능한 부분을 표시하고 핵심을 정리합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 후 할 일

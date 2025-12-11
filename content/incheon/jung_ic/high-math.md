@@ -10,14 +10,13 @@ tags:
   - 중구수학과외
   - 중구고등수학
 ---
-
-lim(x→a) f(x)와 f(a)가 왜 다를 수 있는지 헷갈린다면, 함수 연속성력이 필요합니다.
+고등학생이라면 알아야 할 수학 공부법이 있습니다.
 
 중구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 인천중앙고, 인천여상, 신흥고 시험에서 함수의 연속 문제가 자주 출제됩니다. 극한값과 함숫값이 같아야 연속인 것을 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연속의 정의를 정확히 이해합니다. 좌극한, 우극한, 함숫값의 관계를 훈련합니다.
+첫 수업에서 사고 과정을 점검합니다. 문제 푸는 방식을 보면 약점이 보입니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ lim(x→a) f(x)와 f(a)가 왜 다를 수 있는지 헷갈린다면, 함수 연�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-불연속 유형별 특징을 정리합니다. 그래프에서 불연속점을 찾는 훈련을 합니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ lim(x→a) f(x)와 f(a)가 왜 다를 수 있는지 헷갈린다면, 함수 연�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인천중앙고, 신흥고 기출에서 연속 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ lim(x→a) f(x)와 f(a)가 왜 다를 수 있는지 헷갈린다면, 함수 연�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 연속성 이해력을 점진적으로 향상시킵니다.
+내신 공부가 수능에 도움이 되도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,5 +125,5 @@ lim(x→a) f(x)와 f(a)가 왜 다를 수 있는지 헷갈린다면, 함수 연�
 
 ## 마무리
 
-중구에서 연속이 어렵다면 정의 이해 훈련이 필요합니다. 조건이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 포기가 아니라 도전입니다. 함께 해보세요.
 

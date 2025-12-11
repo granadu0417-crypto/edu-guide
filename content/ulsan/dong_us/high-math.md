@@ -10,14 +10,13 @@ tags:
   - 동구수학과외
   - 동구고등수학
 ---
-
-미분을 활용해 최댓값, 최솟값을 구하기 어렵다면, 미분 응용력이 필요합니다.
+수학 성적이 갑자기 떨어졌나요?
 
 동구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 동구고, 현대청운고, 방어진고 시험에서 미분 응용 문제가 자주 출제됩니다. 극값을 구하고 최대최소를 판정하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미분의 활용법을 정리합니다. 극값, 최대최소, 변곡점을 구하는 훈련을 합니다.
+첫 수업에서 사고 과정을 점검합니다. 문제 푸는 방식을 보면 약점이 보입니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미분 응용 유형을 정리합니다. 상황별 접근법을 훈련합니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동구고, 방어진고 기출에서 미분 응용 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 미분 응용력을 점진적으로 향상시킵니다.
+내신 공부가 수능에 도움이 되도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -122,5 +121,5 @@ tags:
 
 ## 마무리
 
-동구에서 미분 응용이 어렵다면 활용 훈련이 필요합니다. 상황이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 지금 시작하세요. 늦었다고 생각할 때가 가장 빠른 때입니다.
 

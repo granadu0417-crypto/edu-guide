@@ -26,7 +26,7 @@ featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빛의 입자성을 광전효과로 설명합니다. 고전 물리학으로 설명할 수 없는 현상을 정리합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 광전효과
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광전효과 실험을 그림으로 분석합니다. 에너지 관계식을 활용한 계산 문제를 연습합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 보어 모형과 에너지 준위
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-에너지 준위 다이어그램을 그리고 해석합니다. 전자 전이와 빛의 파장 관계를 연습합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 물질파와 불확정성 원리
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물질파의 개념을 수식과 연결합니다. 불확정성 원리의 의미를 설명합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 분석합니다. 광전효과와 에너지 준위 문제를 집중 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 양자역학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0066_s9CC2SKySJM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관 상담에서는 학생의 현재 공부 패턴을 분석합니다. 언제, 어디서, 어떻게 공부하는지 점검하고 비효율적인 부분을 개선합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학습 습관 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0066_s9CC2SKySJM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부 효율이 낮다면 학습 상담을 받으세요. 시간 대비 효과를 높이는 습관을 만들어드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 심리 상담은 집중력 문제나 학습 스트레스가 심할 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0066_s9CC2SKySJM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 적용할 수 있는 학습 루틴을 안내합니다. 시간대별 공부 계획과 집중 유지 방법을 구체적으로 알려드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 효율적인 학습 습관은 어떻게 만드나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0066_s9CC2SKySJM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 학습 루틴을 설계합니다. 무리하지 않으면서도 효과적인 습관을 함께 만들어갑니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0066_s9CC2SKySJM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관에 대해 더 궁금한 점이 있으시면 문의하세요. 효율적으로 공부하는 방법을 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

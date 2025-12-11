@@ -26,7 +26,7 @@ featured_image: "/images/edu_0692_pXHlA1cg1IU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2차 세계대전 이후 국제 질서 재편을 먼저 설명합니다. 냉전의 형성과 전개를 정리합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 냉전 시대
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0692_pXHlA1cg1IU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-냉전의 원인과 전개를 정리합니다. 주요 사건을 지도와 연결합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 탈냉전과 세계화
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0692_pXHlA1cg1IU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-탈냉전의 과정을 정리합니다. 세계화의 특징과 영향을 분석합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 국제 기구와 협력
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0692_pXHlA1cg1IU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 국제 기구의 역할을 정리합니다. 국제 협력의 성과와 한계를 분석합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 현대 세계의 과제
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0692_pXHlA1cg1IU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현대 세계의 과제를 유형별로 정리합니다. 해결 방안을 토론합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 시험 대비
@@ -127,5 +127,5 @@ featured_image: "/images/edu_0692_pXHlA1cg1IU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 현대 세계를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>

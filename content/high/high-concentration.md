@@ -15,7 +15,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 집중력 패턴을 파악하고 원인을 진단합니다. 맞춤 훈련 프로그램으로 집중 시간을 늘려갑니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 집중력 저하의 원인
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 습관을 점검해 집중력 저하 원인을 찾습니다. 원인별로 맞춤 해결책을 제시합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 과학적 집중력 향상법
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-포모도로 테크닉을 수업에 적용합니다. 10분에서 시작해 점진적으로 집중 시간을 늘려갑니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 집중력을 위한 환경 조성
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경 점검 체크리스트를 제공합니다. 집에서 최적의 공부 환경을 만들 수 있도록 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과외가 집중력에 도움 되는 이유
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 집중력 훈련을 병행합니다. 정기적으로 집중력 향상 정도를 점검하고 피드백합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

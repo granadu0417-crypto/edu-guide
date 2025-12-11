@@ -22,12 +22,11 @@ tags:
   - 백석고
 featured_image: "/images/edu_0006.jpg"
 ---
-
-킬러 문항, 풀 수 있는 방법이 있습니다. 고양시 일산동구 마두1동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+수학 포기하려고요? 잠깐만요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 사고 과정을 점검합니다. 문제를 푸는 방식을 보면 약점이 보입니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법, 시간 관리까지 종합 진단합니다.
 </div>
 
 ## 중학교와 완전히 다른 고등 수학
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 내신과 수능 비중을 조절합니다. 고1은 내신 중심, 고3은 수능 비중을 높여갑니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 백석고 내신 완벽 대비 가이드
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터는 백석고 기출과 예상 문제 위주로 수업합니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 수능 대비 전략
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정을 소리 내어 설명하게 합니다. 어디서 막히는지 정확히 파악할 수 있습니다.
+내신 공부가 수능에 도움이 되도록 합니다. 두 번 공부하는 비효율을 없앱니다.
 </div>
 
 ## 과외, 이래서 효과가 있습니다
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0006.jpg"
 
 ## 마무리
 
-마두1동에서 검증된 수학 과외, 지금 문의하세요.
+일산동구 학생 여러분, 오늘이 가장 빠른 날입니다. 지금 시작하세요.

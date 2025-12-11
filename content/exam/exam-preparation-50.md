@@ -21,7 +21,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 연습합니다. 모범 답안을 분석하고 점수 받는 글쓰기를 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 서술형 문제의 특징
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-채점 기준을 분석합니다. 어떤 요소가 점수에 반영되는지 파악하고 그에 맞춰 답안을 작성합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 답안 작성 원칙
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-답안 작성 원칙을 훈련합니다. 실전 문제로 연습하며 점수 받는 글쓰기를 익힙니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 과목별 서술형 전략
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 서술형 특성을 분석합니다. 각 과목에 맞는 답안 작성법을 연습합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 연습 방법
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안을 작성하고 피드백을 드립니다. 부족한 부분을 고쳐서 다시 쓰는 연습을 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시험장에서 주의할 점

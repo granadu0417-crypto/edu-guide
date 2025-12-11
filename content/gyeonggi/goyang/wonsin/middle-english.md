@@ -22,12 +22,11 @@ tags:
   - 백양중
 featured_image: "/images/edu_0009.jpg"
 ---
-
-초등학교 때는 잘했는데, 지금은 왜 안 되는 걸까요? 고양시 덕양구 원신동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+학교 영어 시험, 제대로 대비해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모든 수업은 진단에서 시작합니다. 학생의 현재 위치를 파악하고, 목표까지의 로드맵을 설계합니다.
+수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
 </div>
 
 ## 중학 영어, 기초가 중요한 이유
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0009.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞춰 내신과 선행 비중을 설계합니다. 학생마다 최적의 밸런스가 다릅니다.
+비슷한 유형을 반복해서 풀며 패턴을 익힙니다. 새로운 문제도 익숙한 유형으로 변환할 수 있습니다.
 </div>
 
 ## 백양중 시험 경향과 대비법
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0009.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 유형별로 정리하여 반복 훈련합니다. 비슷한 문제가 나오면 바로 풀 수 있도록 합니다.
+서술형 비중이 높은 학교는 풀이 과정을 깔끔하게 쓰는 연습을 합니다.
 </div>
 
 ## 중학교 때 잡아야 할 것들
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0009.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 3번 다시 풉니다. 1번은 바로 다음 날, 1번은 1주일 후, 1번은 시험 전에.
+내신 대비와 수능 대비, 따로 하면 시간이 2배로 듭니다. 효율적으로 병행하는 방법을 알려드립니다.
 </div>
 
 ## 학원에서 안 되는 것, 과외에서 됩니다
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0009.jpg"
 
 ## 마무리
 
-원신동 중학생을 위한 맞춤 영어 과외, 지금 시작하세요.
+덕양구 학생 여러분, 내신에 특화된 과외, 지금 시작할 때입니다.

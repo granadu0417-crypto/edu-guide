@@ -22,7 +22,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황을 파악하고 우선순위를 정합니다. 뭘 먼저 해야 하는지, 어디에 시간을 더 써야 하는지 전략을 세웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 고2 학습의 핵심
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 대학과 전형을 파악합니다. 어떤 전형으로 갈 건지에 따라 시간 배분이 달라집니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 내신과 수능 비율
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별로 비중을 조절합니다. 시험 기간, 모의고사 기간, 방학 기간에 맞춰 계획을 세웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 전형별 전략
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 유리한 전형을 찾습니다. 내신, 모의고사, 비교과를 종합적으로 분석해서 전략을 세웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 비교과 마무리
@@ -72,7 +72,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교과 활동을 점검합니다. 부족한 부분을 찾아서 고2 안에 채울 수 있도록 계획을 세웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 모의고사 활용
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 후 오답 분석을 함께 합니다. 왜 틀렸는지, 어떻게 해야 안 틀리는지 파악합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 주의사항

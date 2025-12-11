@@ -31,7 +31,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 영어 수준과 성향을 먼저 파악합니다. "이 아이는 어떻게 배울 때 가장 잘 흡수하는가"를 고민하고 수업을 설계합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ### 서초동 - 입시 영어의 중심
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"영어로 말하는 게 재밌어요!"라는 말이 나올 때까지. 회화로 흥미를 잡고, 문법으로 탄탄하게 다져갑니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 영어과외 가이드
@@ -83,7 +83,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 그림책을 함께 읽으며 단어를 익히고, 간단한 문장을 만들어봅니다. "I like pizza!"처럼 아이가 좋아하는 것부터 시작해요.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ### 중학생 - 고등 영어의 기초를 다지는 시기
@@ -112,7 +112,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법은 암기가 아니라 이해입니다. "왜 여기서 have been을 쓰는지" 원리를 알면 응용이 됩니다. 매 수업 문법+독해+어휘를 균형 있게!
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -141,7 +141,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다. 수능까지 함께 달립니다!
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 서초구 주요 학교 영어 내신 특징
@@ -177,7 +177,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석해서 출제 패턴을 파악합니다. "이 학교는 서술형에서 이런 유형이 자주 나와"를 알면 대비가 쉬워집니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -217,7 +217,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 아이가 편하게 말할 수 있는 분위기인지가 가장 중요합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 영어 실력, 이렇게 올리세요
@@ -252,7 +252,7 @@ featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 10분 영어 듣기 과제를 드립니다. 작은 습관이 쌓이면 큰 실력이 됩니다. 꾸준함을 이길 재능은 없어요!
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문

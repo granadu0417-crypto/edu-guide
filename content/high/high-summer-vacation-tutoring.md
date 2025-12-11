@@ -16,7 +16,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 시작 전 1학기 성적을 분석합니다. 약점 과목을 파악하고 현실적인 방학 계획을 함께 수립합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 여름방학이 중요한 이유
@@ -27,7 +27,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 목표에 맞춰 방학 커리큘럼을 설계합니다. 선행과 복습 비율을 성적에 따라 조정합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 선행과 복습의 황금 비율
@@ -46,7 +46,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1은 기초 정립이 목표입니다. 무리한 선행보다 개념 완벽 이해에 집중합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 영어는 어휘력 확장이 가장 중요합니다. 매일 단어 50개, 독해 지문 2-3개, 문법 개념 정리를 권장합니다. 3-4등급 이하이거나 독해가 느리면 과외가 필요합니다.
@@ -61,7 +61,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고2는 방향 결정이 핵심입니다. 수시와 정시 중 유리한 전형을 분석하고 그에 맞는 전략을 세웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 고3 여름방학 전략
@@ -80,7 +80,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학에는 과외 횟수를 늘려 집중 관리합니다. 단, 자습 시간도 확보해야 효과가 있습니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 주 6회 이상은 비추천합니다. 소화 불량이 생기고 자습 시간이 부족해지며 번아웃 위험이 있습니다. 과외는 40%, 자습은 60% 비율을 유지하세요.

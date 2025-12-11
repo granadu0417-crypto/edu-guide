@@ -22,12 +22,11 @@ tags:
   - 덕은중
 featured_image: "/images/edu_0016.jpg"
 ---
-
-내 아이 영어, 왜 이렇게 안 오르는 걸까요? 고양시 덕양구 덕은동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+지금 시작하면 영어도 충분히 잡을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 만남에서 영어 실력을 정밀하게 측정합니다. 문법, 어휘, 독해력을 종합 평가하여 맞춤 계획을 세웁니다.
+학생의 학습 스타일과 약점을 분석합니다. 맞지 않는 방법으로 공부하면 성적이 안 오릅니다.
 </div>
 
 ## 중학교에서 영어 성적이 떨어지는 이유
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험에서 나온 문법이 고등학교에서도 나옵니다. 내신 공부가 곧 고등 준비가 되도록 지도합니다.
+개념 강의만 듣고 끝내지 않습니다. 반드시 직접 문제를 풀어봐야 합니다.
 </div>
 
 ## 덕은중 시험은 이렇습니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 프린트와 수업 필기도 함께 분석합니다. 시험에 나올 가능성이 높은 부분을 집중 대비합니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석하여 대비합니다.
 </div>
 
 ## 고등 영어 완벽 준비
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답의 원인을 분류합니다. 문법 부족, 어휘 부족, 독해 실수, 시간 부족. 각각 대처법이 다릅니다.
+내신과 수능, 어느 하나도 소홀히 하지 않습니다. 효율적인 병행 전략을 알려드립니다.
 </div>
 
 ## 왜 과외를 선택해야 할까요?
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0016.jpg"
 
 ## 마무리
 
-결심이 시작입니다. 오늘 상담받고, 내일부터 달라지세요.
+덕양구 학생 여러분, 지금의 노력이 대학을 결정합니다. 함께 준비해요.

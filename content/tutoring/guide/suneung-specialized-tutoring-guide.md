@@ -25,7 +25,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 전문 과외는 평가원 출제 경향을 분석합니다. EBS 연계 학습, 킬러 문제 훈련, 시간 배분 전략까지 수능에 맞춘 커리큘럼으로 진행합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 수능 전문 과외는 접근이 달라요
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 등급과 현재 실력을 파악한 후 맞춤형 커리큘럼을 제시합니다. 약점 영역을 집중 보완하고 강점은 더 끌어올립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 과목별 수능 과외 전략이에요
@@ -55,7 +55,7 @@ EBS 교재를 완벽하게 분석하고 있는지, 연계 학습 전략을 명�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 모의고사 성적을 분석하고 오답 원인을 파악합니다. 개념 부족인지, 시간 부족인지, 실수인지 정확히 진단합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학년별 수능 과외 전략이에요
@@ -66,7 +66,7 @@ EBS 교재를 완벽하게 분석하고 있는지, 연계 학습 전략을 명�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 직전에는 실전 모의고사를 함께 풀고 즉각적인 피드백을 드립니다. 시간 배분과 컨디션 관리도 함께 점검합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 온라인 수능 과외도 효과적이에요
@@ -77,7 +77,7 @@ EBS 교재를 완벽하게 분석하고 있는지, 연계 학습 전략을 명�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 수업도 화면 공유와 태블릿 필기로 대면처럼 진행합니다. 필요하면 녹화본을 보내드려 복습에 활용하실 수 있습니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학원과 1대1 과외 병행도 좋아요

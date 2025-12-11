@@ -19,7 +19,7 @@ featured_image: "/images/edu_0442_lbO1iCnbTW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 습관을 분석합니다. 아이디어 발상부터 퇴고까지 단계별로 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 아이디어 발상
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0442_lbO1iCnbTW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 아이디어 발상 기법을 연습합니다. 글감 찾기와 주제 선정 훈련을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 글의 구성
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0442_lbO1iCnbTW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개요 작성법을 훈련합니다. 논리적 구성과 문단 연결을 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 표현과 문체
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0442_lbO1iCnbTW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 표현 기법을 연습합니다. 문체 개선과 문장력 향상 훈련을 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 퇴고의 중요성
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0442_lbO1iCnbTW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-퇴고 방법을 체계적으로 훈련합니다. 첨삭 피드백으로 글쓰기 실력을 키웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ featured_image: "/images/edu_0442_lbO1iCnbTW0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 창작 글쓰기를 마스터합니다. 전문가 첨삭으로 실력을 빠르게 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>

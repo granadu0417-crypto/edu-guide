@@ -32,7 +32,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"오늘 학교에서 뭐 했어?" 영어로 일상 대화부터 시작합니다. 자연스럽게 말하는 습관이 영어 실력의 기본이에요.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 명일동 - 안정적인 학습 환경
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 영어 수준을 정확히 파악합니다. 어디서 막혔는지, 어떤 부분이 약한지 진단부터 꼼꼼히!
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학년별 영어과외 가이드
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 그림책을 함께 읽으며 단어를 익힙니다. "이 그림 뭐야?" "It's a cat!" 자연스럽게 말하기 연습!
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ### 중학생 - 문법과 독해의 기초를 다지는 시기
@@ -115,7 +115,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"관계대명사가 뭐예요?" 문법 용어보다 실제 문장에서 어떻게 쓰이는지 보여줍니다. 예문으로 이해하면 잊어버리지 않아요.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -144,7 +144,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. "이 문제 왜 틀렸지?" 틀린 이유를 알면 같은 실수를 안 해요.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 회화 vs 문법, 뭘 먼저 해야 하나요?
@@ -171,7 +171,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표에 따라 수업 방향을 정합니다. 회화가 목표면 회화 중심으로, 입시가 목표면 독해 중심으로!
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -208,7 +208,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 영어로 말하기 편한 분위기인지가 가장 중요합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 강동구의 장점을 활용하세요
@@ -262,7 +262,7 @@ featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 영어 단어 10개씩! 작은 습관이 큰 실력이 됩니다. 과외 시간에는 암기 점검과 활용 연습을 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 마치며

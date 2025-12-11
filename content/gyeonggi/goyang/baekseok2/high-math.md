@@ -22,12 +22,11 @@ tags:
   - 백신고
 featured_image: "/images/edu_0002.jpg"
 ---
-
-수학 성적이 갑자기 떨어졌나요? 고양시 일산동구 백석2동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+수학은 혼자 공부하기 어려운 과목입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
+진단 결과를 바탕으로 학생별 맞춤 커리큘럼을 설계합니다. 같은 수업은 없습니다.
 </div>
 
 ## 중학교 때 잘했는데 왜 안 되는 걸까?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0002.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 1등급이 수능 1등급으로 이어지도록 합니다. 따로 공부하지 않아도 됩니다.
+문제를 많이 푸는 것보다 한 문제를 깊이 이해하는 게 중요합니다. 양보다 질입니다.
 </div>
 
 ## 백신고 수학 내신, 이렇게 출제됩니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0002.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별로 시험 난이도와 유형이 다릅니다. 백신고에 맞는 맞춤 대비를 해드립니다.
+같은 문제도 학교마다 변형해서 출제합니다. 학교 스타일의 변형 문제를 연습합니다.
 </div>
 
 ## 수능에서 고득점 받는 방법
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0002.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 그냥 넘어가지 않습니다. 왜 틀렸는지 원인을 찾고, 같은 실수를 반복하지 않도록 합니다.
+학생의 입시 목표에 맞춰 내신과 수능 비중을 조절합니다. 수시 vs 정시에 따라 전략을 달리합니다.
 </div>
 
 ## 1:1 수업이 답인 이유
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0002.jpg"
 
 ## 마무리
 
-지금 시작하세요. 늦었다고 생각할 때가 가장 빠른 때입니다.
+일산동구 학생 여러분, 더 늦기 전에 시작하세요. 여러분도 잘하는 학생이 될 수 있습니다.

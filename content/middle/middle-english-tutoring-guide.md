@@ -18,7 +18,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 문법 이해도를 정확히 파악합니다. be동사와 일반동사 구분부터 체크해서 어디서부터 시작해야 할지 찾습니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 영어과외가 필요한 경우
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 현재 등급과 목표를 듣고 과외가 정말 필요한지 솔직히 말씀드립니다. 필요 없으면 없다고 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 영어과외의 장점
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 암기가 안 되면 어원으로 이해시키고 예문과 함께 외우게 합니다. 무작정 외우기만 시키지 않습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 학년별 과외 내용
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 핵심 문법을 확실히 잡아드립니다. 이전 학년 내용이 부족하면 먼저 보완합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 과외 진행 방법
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위 교과서 지문을 완벽하게 분석해드립니다. 본문 변형 문제까지 대비합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 선생님 선택법
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업에서 학생 반응을 살핍니다. 설명이 이해되는지, 질문하기 편한지 확인해주세요.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 기대 효과

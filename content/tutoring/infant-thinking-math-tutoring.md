@@ -19,7 +19,7 @@ featured_image: "/images/edu_0007_cUgR2cYQzec.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 수 개념 발달 정도를 먼저 파악합니다. 숫자를 셀 수 있는지, 양의 개념을 이해하는지, 도형을 구분하는지 확인합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 사고력수학이 뭔가요?
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0007_cUgR2cYQzec.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교구 활동과 게임을 통해 수업합니다. 아이가 수학 시간을 기다리게 만드는 것이 목표입니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 왜 유아 때 사고력수학을 시작하나요?
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0007_cUgR2cYQzec.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연산을 시키지 않습니다. 숫자와 친해지고, 규칙을 발견하고, 스스로 생각하게 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 유아 사고력수학에서 뭘 배우나요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0007_cUgR2cYQzec.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한 가지 개념을 여러 방식으로 경험하게 합니다. 카드로, 블록으로, 게임으로 같은 개념을 반복합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 사고력수학 과외의 장점은 뭔가요?
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0007_cUgR2cYQzec.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 오늘 배운 내용과 아이의 반응을 공유드립니다. 어떤 부분을 재미있어 했는지, 어려워했는지 알려드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 좋은 사고력수학 선생님의 조건은 뭔가요?
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0007_cUgR2cYQzec.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 방식과 사용하는 교구를 보여드립니다. 아이와 맞는지 확인하신 후 결정하세요.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

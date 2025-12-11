@@ -18,7 +18,7 @@ featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 교육 상담에서 먼저 학생의 자기주도 학습 능력을 파악합니다. 온라인이 맞는지, 오프라인이 맞는지, 어떻게 병행하면 좋을지 학생 상황에 맞는 최적의 조합을 찾아드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 온라인 교육의 장단점
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0366_PQ-xv4vDzLk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 교육이 적합한 학생인지 먼저 파악합니다. 자기주도가 가능하고 시간 관리 능력이 있으면 온라인을, 관리가 필요하고 즉각적 질문이 많으면 오프라인을 추천드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 온라인 교육 플랫폼 가이드
@@ -62,7 +62,7 @@ EBS는 완전 무료이고 교육부 인증 콘텐츠입니다. 수능 연계 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수준과 목표에 맞는 플랫폼을 추천드립니다. 기초-중위권은 EBS부터, 중상위권은 메가스터디나 이투스, 중학생은 밀크T를 추천합니다. 무료 체험 후 결정하세요.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 화상 과외 가이드
@@ -87,7 +87,7 @@ EBS는 완전 무료이고 교육부 인증 콘텐츠입니다. 수능 연계 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 과외는 오프라인 과외처럼 1:1 맞춤이 가능하면서도 비용이 저렴합니다. 시범 수업에서 학생의 실력을 파악하고 구체적인 학습 계획을 세웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## AI 학습 플랫폼
@@ -112,7 +112,7 @@ AI가 약점을 분석하고 맞춤 문제를 추천합니다. 개인 맞춤과 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황에 맞는 최적의 온·오프라인 조합을 찾아드립니다. 과목 특성, 학생 성향, 예산을 종합적으로 고려해서 가장 효율적인 학습 계획을 세웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ### 학년별 추천 조합
@@ -147,7 +147,7 @@ EBS는 전 과목 무료 강의와 수능 연계 교재를 제공합니다. 유�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예산에 맞는 최적의 학습 조합을 찾아드립니다. 무료 리소스와 유료 콘텐츠를 효과적으로 조합해서 비용은 절감하고 효과는 극대화하는 방법을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

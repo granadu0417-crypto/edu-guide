@@ -10,14 +10,13 @@ tags:
   - 남구수학과외
   - 남구고등수학
 ---
-
-log₂8이 왜 3인지 이해가 안 된다면, 지수로그력이 필요합니다.
+수학 자신감, 되찾을 수 있습니다.
 
 남구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 광주고, 광주제일고, 전남고 시험에서 지수와 로그 문제가 자주 출제됩니다. 지수와 로그의 관계를 정확히 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지수와 로그가 역연산임을 이해합니다. 서로 변환하는 훈련을 합니다.
+어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 출발점을 찾습니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ log₂8이 왜 3인지 이해가 안 된다면, 지수로그력이 필요합니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-로그 법칙을 지수 법칙과 연결합니다. 왜 그런지 이해하며 암기합니다.
+풀이 과정을 깔끔하게 정리하는 연습을 합니다. 서술형 점수도 올립니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ log₂8이 왜 3인지 이해가 안 된다면, 지수로그력이 필요합니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광주고, 광주제일고 기출에서 지수로그 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+같은 문제도 학교마다 변형해서 출제합니다. 변형 문제를 연습합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ log₂8이 왜 3인지 이해가 안 된다면, 지수로그력이 필요합니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 지수로그력을 점진적으로 향상시킵니다.
+고등학교 3년, 내신과 수능 배분 로드맵을 세워드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,4 +117,4 @@ log₂8이 왜 3인지 이해가 안 된다면, 지수로그력이 필요합니�
 
 ## 마무리
 
-남구에서 지수로그가 어렵다면 개념 연결 훈련이 필요합니다. 관계가 보이면 수학이 쉬워집니다.
+ 학생 여러분, 맞춤 과외, 지금 시작하세요.

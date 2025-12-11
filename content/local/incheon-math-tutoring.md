@@ -21,7 +21,7 @@ featured_image: "/images/edu_0285_kHWqxJXkEio.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 개념 이해도를 정확히 진단합니다. 계산 실수인지 개념 부족인지 원인을 파악하고, 학습 공백을 체계적으로 메워갑니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 인천 지역 중학교 수학 내신 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0285_kHWqxJXkEio.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 답안 작성법을 집중 훈련하고 부분 점수 전략까지 준비합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 인천 지역 고등학교 수학 내신 특징
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0285_kHWqxJXkEio.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 고난도 문제 풀이 전략을 익히고 시간 안에 정확하게 푸는 훈련을 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ### 인천외고, 인천과학고 등 특목고
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0285_kHWqxJXkEio.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 개념을 정리합니다. 현재 학년 내용을 완벽히 이해한 후 적절한 선행을 진행합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 인천 지역별 교육 특성
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0285_kHWqxJXkEio.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학교 특성을 분석합니다. 학교 시험 경향에 맞춘 맞춤 내신 대비를 진행합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -96,7 +96,7 @@ featured_image: "/images/edu_0285_kHWqxJXkEio.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준과 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 과외 비용 안내

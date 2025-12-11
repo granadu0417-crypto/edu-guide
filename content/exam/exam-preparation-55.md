@@ -20,7 +20,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 문제 유형을 분석합니다. 자주 출제되는 유형을 집중적으로 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 수학 공부의 기본
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 정확히 이해하도록 합니다. 공식의 의미를 알고 문제에 적용합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 유형별 접근법
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별로 문제를 정리합니다. 중요도에 따라 순서를 정해 연습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 계산 실수 줄이기
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계산 실수 패턴을 분석합니다. 자주 하는 실수를 잡아서 점수를 올립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험장에서의 전략을 연습합니다. 시간 배분과 문제 풀이 순서를 훈련합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 오답 분석

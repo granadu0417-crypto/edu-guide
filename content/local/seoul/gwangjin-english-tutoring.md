@@ -31,7 +31,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"이 문장 해석은 되는데 왜 이런 뜻이에요?" 문법 암기가 아니라 영어의 논리를 이해시킵니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ### 구의동·자양동 - 안정적인 주거 환경
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 영어 수준을 정확히 진단합니다. 어휘력, 문법 이해도, 독해 속도까지 꼼꼼히 체크!
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년별 영어과외 가이드
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 동화책을 함께 읽습니다. "이 단어 뭐예요?"라고 물으면 그림을 보며 스스로 추측하게 해요. 맥락에서 단어를 익히면 절대 안 잊어요!
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ### 중학생 - 입시 영어의 기초를 다지는 시기
@@ -113,7 +113,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"to부정사의 부사적 용법이 뭐예요?" 단순 암기 대신 예문으로 이해시킵니다. 왜 그렇게 쓰는지 알면 문법이 쉬워져요!
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -142,7 +142,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -171,7 +171,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학생 선생님은 학생과 나이 차이가 적어 친근해요. 질문하기 편한 분위기가 자연스럽게 형성됩니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 좋은 영어 선생님, 이렇게 고르세요
@@ -207,7 +207,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -250,7 +250,7 @@ featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 영어 10분! 하루 단어 10개, 짧은 지문 1개 읽기. 작은 습관이 큰 실력이 됩니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 마치며

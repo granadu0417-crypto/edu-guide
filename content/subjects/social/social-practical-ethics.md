@@ -26,7 +26,7 @@ featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-윤리적 판단의 기준을 먼저 설명합니다. 각 영역의 쟁점을 사례로 분석합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 생명 윤리
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생명 윤리의 주요 쟁점을 정리합니다. 찬반 논거를 비교 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 환경 윤리
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인간 중심주의와 생태 중심주의를 비교합니다. 환경 문제의 윤리적 해결책을 토론합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 정보 윤리
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정보 윤리의 주요 쟁점을 정리합니다. 디지털 시민 의식의 중요성을 분석합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 과학 기술 윤리
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 기술 윤리의 쟁점을 정리합니다. 기술 발전과 윤리의 관계를 분석합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 시험 대비
@@ -115,5 +115,5 @@ featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 생활윤리를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>

@@ -22,7 +22,7 @@ featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 패턴을 분석합니다. 주제문 찾는 전략을 체계적으로 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 주제 찾기 전략
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 문장, 마지막 문장, However 뒤를 찾는 연습을 합니다. 기출 문제로 패턴을 익힙니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 선택지 분석법
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선택지 소거법을 훈련합니다. 오답을 제거하는 기준을 명확히 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주제문 위치 패턴
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주제문 위치 패턴을 유형별로 정리합니다. 각 패턴에 맞는 풀이법을 연습합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 빠르게 푸는 법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-타이머를 켜고 실전처럼 풀이합니다. 시간 단축 기술을 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 주제 찾기를 완벽히 정복합니다. 체계적인 전략과 실전 연습으로 빠르게 향상합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 풀이 과정을 꼼꼼히 점검합니다. 실수가 자주 발생하는 부분을 찾아 집중 훈련합니다. 계산 실수인지 개념 부족인지 원인을 정확히 파악합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 부산 지역 중학교 수학 내신 특징
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 답안 작성법을 집중 훈련하고 부분 점수 전략까지 준비합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 부산 지역 고등학교 수학 내신 특징
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 고난도 문제 풀이 전략을 익히고 시간 안에 정확하게 푸는 훈련을 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ### 해운대고, 동래고 등 일반고
@@ -69,7 +69,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 개념을 정리합니다. 현재 학년 내용을 완벽히 이해한 후 적절한 선행을 진행합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 부산 지역별 교육 특징
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학교 특성을 분석합니다. 학교 시험 경향에 맞춘 내신 대비를 진행합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준과 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 효과적인 과외 활용법
@@ -112,7 +112,7 @@ featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 후 복습 방법을 안내합니다. 오답 노트 작성법과 자기주도 학습 습관을 함께 만들어갑니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 과외 비용 안내

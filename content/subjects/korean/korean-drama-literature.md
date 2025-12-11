@@ -21,7 +21,7 @@ featured_image: "/images/edu_0446_xcvXS6wDCAY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-희곡의 형식적 특징을 정리합니다. 대사와 지시문 분석 방법을 체계적으로 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 희곡의 구성 요소
@@ -30,7 +30,7 @@ featured_image: "/images/edu_0446_xcvXS6wDCAY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-희곡의 구성 요소를 분석합니다. 대사 유형별 특징과 기능을 정리합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 희곡 분석 방법
@@ -41,7 +41,7 @@ featured_image: "/images/edu_0446_xcvXS6wDCAY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-희곡 분석의 단계별 방법을 훈련합니다. 실제 작품에 적용하는 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 주요 작품 정리
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0446_xcvXS6wDCAY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 작품을 정리하고 분석합니다. 작가별 특징과 주제를 연결합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시험 대비
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0446_xcvXS6wDCAY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-희곡 관련 기출 문제를 분석합니다. 유형별 접근법을 체계적으로 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -106,5 +106,5 @@ featured_image: "/images/edu_0446_xcvXS6wDCAY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 희곡을 깊이 있게 이해합니다. 작품별 심화 분석과 문제 풀이를 연습합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>

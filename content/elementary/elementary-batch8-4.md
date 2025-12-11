@@ -21,7 +21,7 @@ featured_image: "/images/edu_0131_jfnUC7s3iuw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4학년은 고학년의 시작입니다. 스스로 계획하고 실천하는 자기주도 학습을 본격적으로 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0131_jfnUC7s3iuw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문제도 포기하지 않고 끝까지 생각하는 습관을 들입니다. 바로 답을 알려주지 않고, 힌트를 주면서 스스로 풀게 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0131_jfnUC7s3iuw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분수는 피자나 초콜릿으로 시각화해서 가르칩니다. 2분의 1이 왜 반인지, 눈으로 보면 이해가 빠릅니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 고학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0131_jfnUC7s3iuw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4학년은 사춘기 시작 전입니다. 아직은 부모님 말을 잘 듣는 시기이니, 이때 학습 습관을 확실히 잡아두세요.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0131_jfnUC7s3iuw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터 시험 계획표를 함께 만듭니다. 스스로 계획하고 지키는 연습이 중고등학교 내신 관리의 기초가 됩니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 주의사항

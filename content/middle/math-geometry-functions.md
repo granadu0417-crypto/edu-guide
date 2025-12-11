@@ -21,7 +21,7 @@ featured_image: "/images/edu_0923_yhTtJm0E_hk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도형과 함수의 기초 개념부터 점검합니다. 어디서 막히는지 파악하고 그 부분부터 다시 잡아드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 도형과 함수가 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0923_yhTtJm0E_hk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도형은 직접 그려보면서, 함수는 그래프를 그려보면서 이해합니다. 눈으로 보고 손으로 익히는 수업을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 학년별 핵심 내용
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0923_yhTtJm0E_hk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 연계성을 고려하여 수업합니다. 부족한 이전 학년 내용이 있으면 돌아가서 채웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 도형 공부법
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0923_yhTtJm0E_hk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도형 문제를 풀 때 그림 그리는 습관을 잡아드립니다. 조건을 표시하고 보조선을 긋는 방법을 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 함수 공부법
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0923_yhTtJm0E_hk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수 그래프를 직접 그려보면서 개념을 익힙니다. 식을 보고 그래프를, 그래프를 보고 식을 떠올리는 연습을 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 틀리는 포인트
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0923_yhTtJm0E_hk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 집중적으로 훈련합니다. 왜 틀리는지 원인을 분석하고 같은 실수를 반복하지 않게 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}

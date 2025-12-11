@@ -18,7 +18,7 @@ featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-역사를 이야기로 풀어드립니다. 단순 암기가 아닌 흐름 이해 중심으로 공부하는 방법을 알려드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 역사 공부의 3단계 접근법
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연표를 함께 만들면서 시대의 흐름을 정리합니다. 인물과 사건을 이야기로 연결하여 기억에 남게 합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 한국사 핵심 정리
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 내용을 정리해드립니다. 시험에 자주 나오는 중요 사건과 인물을 집중적으로 다룹니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 효과적인 암기 전략
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기 팁을 알려드립니다. 연도와 사건을 쉽게 기억할 수 있는 방법을 함께 만들어봅니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 서술형 문제 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 훈련합니다. 채점 기준에 맞는 답안을 쓰는 연습을 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 대비 전략
@@ -75,7 +75,7 @@ featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞추어 학습 계획을 세웁니다. 학교별 출제 경향을 분석하여 효율적으로 대비합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}

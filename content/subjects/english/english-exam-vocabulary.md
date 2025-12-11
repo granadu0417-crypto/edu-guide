@@ -22,7 +22,7 @@ featured_image: "/images/edu_0374_hMFkHxwP4ZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 어휘 수준을 테스트합니다. 부족한 영역부터 우선순위를 정해 학습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 빈출 어휘 순위
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0374_hMFkHxwP4ZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈출 순위에 따라 학습 순서를 정합니다. 가장 자주 나오는 것부터 완벽히 익힙니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 암기 전략
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0374_hMFkHxwP4ZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 암기법을 찾습니다. 어근, 예문, 동의어 등 다양한 방법을 활용합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 복습 전략
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0374_hMFkHxwP4ZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 일정을 관리합니다. 망각곡선을 극복하는 간격 반복을 실천합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 학습 계획
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0374_hMFkHxwP4ZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남은 기간에 맞는 학습 계획을 세웁니다. 매 수업에서 진도를 점검하고 조정합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ featured_image: "/images/edu_0374_hMFkHxwP4ZU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 어휘 수업으로 효율적으로 단어를 정복합니다. 맞춤 단어 선별과 암기법 지도로 빠르게 어휘력을 키웁니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

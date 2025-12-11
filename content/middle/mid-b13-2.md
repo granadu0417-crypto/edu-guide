@@ -22,7 +22,7 @@ featured_image: "/images/edu_0935_0oa1jhDLevQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 하루 일과를 점검합니다. 버려지는 시간을 찾아내고 효율적인 시간 배분법을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 시간을 잡아먹는 주범들
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0935_0oa1jhDLevQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 시간과 휴식 시간을 명확히 구분합니다. 집중력을 유지하는 환경을 만드는 법을 알려드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 효과적인 시간 배분법
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0935_0oa1jhDLevQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 집중력 패턴을 파악합니다. 개인에게 맞는 시간 배분표를 함께 만듭니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 주간 학습 계획표 만들기
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0935_0oa1jhDLevQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 함께 주간 계획표를 작성합니다. 계획 실천 여부를 점검하고 개선합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 쪼개기 공부법
@@ -66,7 +66,7 @@ featured_image: "/images/edu_0935_0oa1jhDLevQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자투리 시간을 활용하는 방법을 알려드립니다. 짧은 시간에 효과적으로 공부하는 요령을 익힙니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 기간 시간 관리
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0935_0oa1jhDLevQ.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 학습 계획을 세웁니다. 과목별 시간 배분을 함께 정합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 {{< cta-dual type="final" >}}

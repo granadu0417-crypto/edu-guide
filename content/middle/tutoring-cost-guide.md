@@ -17,7 +17,7 @@ featured_image: "/images/edu_0230_5pQN_nlRbN4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생 상태와 목표를 파악합니다. 필요한 과외 횟수와 기간을 솔직하게 말씀드리고, 예산에 맞는 방법을 함께 찾습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과외 비용이 결정되는 요소
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0230_5pQN_nlRbN4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업 후 학생에게 맞는 형태를 제안합니다. 기초가 많이 약하면 1:1을, 기본이 되어 있으면 그룹과외나 온라인도 권합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 선생님 유형별 특징
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0230_5pQN_nlRbN4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 수업도 방문 수업만큼 꼼꼼하게 진행합니다. 화면 공유로 문제 풀이를 확인하고, 필요하면 녹화해서 복습 자료로 드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 합리적인 선택 기준
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0230_5pQN_nlRbN4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예산이 부담되면 솔직하게 말씀해주세요. 가장 필요한 부분에 집중해서 효율적으로 진행하는 방법을 찾아드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 흔한 비용 실수

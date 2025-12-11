@@ -15,7 +15,7 @@ featured_image: "/images/edu_0380_uus72YDRZzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 공부 방법을 진단합니다. 비효율적인 습관을 파악하고 개선 방향을 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 과목별 공부 방법
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0380_uus72YDRZzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습 전략을 안내합니다. 학생의 취약 과목에 맞춘 방법을 알려드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 시간 관리와 계획
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0380_uus72YDRZzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 학습 계획을 함께 세웁니다. 실천율을 점검하고 조정합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 집중력과 기억력 향상
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0380_uus72YDRZzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 향상 방법을 안내합니다. 효과적인 복습 주기를 알려드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 오답 노트와 시험 준비
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0380_uus72YDRZzw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 작성법을 안내합니다. 시험 기간 학습 계획을 함께 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문

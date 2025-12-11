@@ -21,7 +21,7 @@ featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학년은 공부보다 학교 적응이 먼저입니다. 재미있게 수업하면서 공부가 즐겁다는 경험을 쌓아줍니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작할 때 오늘 뭘 배울지 미리 이야기해줍니다. 끝날 때는 오늘 뭘 배웠는지 물어봅니다. 이게 예습과 복습의 시작입니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학년에게 무조건 많은 양을 시키지 않습니다. 적은 양이라도 제대로, 재미있게 하는 것이 목표입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 저학년 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-게임처럼 수업합니다. 카드 맞추기, 퀴즈 내기, 스티커 모으기 등으로 공부가 재미있다는 인식을 심어줍니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 배운 내용을 집에서 어떻게 복습하면 좋을지 안내해드립니다. 부모님이 어떻게 도와주시면 좋을지도 말씀드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 주의사항

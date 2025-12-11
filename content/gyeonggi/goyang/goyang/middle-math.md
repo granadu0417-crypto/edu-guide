@@ -22,12 +22,11 @@ tags:
   - 고양중
 featured_image: "/images/edu_0012.jpg"
 ---
-
-중학교 수학이 점점 어려워지고 있나요? 고양시 덕양구 고양동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+중등 수학, 개념부터 다시 잡아야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어디서부터 시작해야 할지 모르겠다고요? 진단 수업으로 정확한 출발점을 찾아드립니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지, 어떤 단원이 문제인지 파악합니다.
 </div>
 
 ## 왜 중학교만 오면 수학이 어려울까?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0012.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 공부가 고등학교에 도움이 되도록 합니다. 두 번 공부하는 비효율을 없앱니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 고양중 내신, 무엇이 어려울까요?
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0012.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험의 난이도 분포를 알고 있습니다. 어떤 문제에서 시간을 쓸지 전략을 세웁니다.
+시간 대비 문제 양이 많은 학교가 있습니다. 빠르게 푸는 연습도 함께 합니다.
 </div>
 
 ## 고등 수학, 미리 준비하는 법
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0012.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 틀렸는지 설명할 수 있어야 진짜 아는 겁니다. 오답 분석 시간을 충분히 가집니다.
+학년별로 내신과 수능 비중을 조절합니다. 고1은 내신 중심, 고3은 수능 비중을 높여갑니다.
 </div>
 
 ## 1:1 과외가 효과적인 이유
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0012.jpg"
 
 ## 마무리
 
-중학교 수학, 지금 바로 잡으세요. 첫 상담은 무료입니다.
+덕양구 학생 여러분, 효율적으로 병행하는 방법을 알려드립니다.

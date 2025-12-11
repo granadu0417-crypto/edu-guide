@@ -18,7 +18,7 @@ featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 과학 실력을 정확하게 진단합니다. 어느 단원에서 막히는지, 개념이 문제인지 문제 적용이 문제인지 파악하고, 그 지점부터 차근차근 다시 쌓아갑니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 관악구 동네별 과학 교육 환경
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 수업 장소와 시간을 정합니다. 서울대 캠퍼스 내 카페, 신림역 스터디카페, 자택 방문, 온라인 병행 등 가장 효율적인 방식으로 진행합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 관악구 과학 과외의 최대 장점
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서울대 전공자가 대학 수준 지식까지 연계해서 설명합니다. 단순 암기가 아니라 왜 그런지 원리를 이해시키고, 고등 과학과 대학 과학의 연결고리를 보여줍니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과목별 과학 과외 포인트
@@ -69,7 +69,7 @@ featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화학은 몰 개념을 완벽하게 숙달하는 것부터 시작합니다. 계산 문제는 여러 유형을 반복 연습해서 실수 없이 풀 수 있도록 훈련합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ### 생명과학 - 서울대 생명과학부·의대생이 가르칩니다
@@ -92,7 +92,7 @@ featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1은 통합과학 내신을 탄탄하게 관리하면서, 학생의 성향과 진로에 맞는 선택과목을 함께 고민합니다. 서울대 입시 경험을 바탕으로 조언드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ### 고2-3 - 내신과 수능 동시 준비
@@ -113,7 +113,7 @@ featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 선생님의 설명이 이해하기 쉬운지, 학생과 소통이 잘 되는지 확인해보세요.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 관악구 과학과외 비용 안내
@@ -128,7 +128,7 @@ featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

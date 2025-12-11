@@ -20,7 +20,7 @@ featured_image: "/images/edu_0112_1ZYJqPwh-PI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작할 때 받아쓰기 테스트를 합니다. 틀린 단어는 3번씩 쓰고, 일주일 후 다시 테스트합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 핵심 학습 목표
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0112_1ZYJqPwh-PI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글씨 연습은 천천히, 바르게가 원칙입니다. 빨리 쓰면 삐뚤어집니다. 처음에 천천히 바르게 쓰는 연습을 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0112_1ZYJqPwh-PI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-받아쓰기는 보면서 쓰기, 가리고 쓰기, 확인하기 순서로 연습합니다. 단순 반복이 아니라 머리에 남는 방법입니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 2학년의 특징과 대응
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0112_1ZYJqPwh-PI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-받아쓰기 100점 맞으면 스티커를 줍니다. 스티커 10개 모으면 작은 선물! 재미있어야 꾸준히 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 가정에서의 역할
@@ -80,7 +80,7 @@ featured_image: "/images/edu_0112_1ZYJqPwh-PI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집에서 할 복습 내용을 구체적으로 안내합니다. 오늘 틀린 단어 5개 각각 3번씩 쓰기처럼 분명하게 알려드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 주의사항

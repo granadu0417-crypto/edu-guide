@@ -23,7 +23,7 @@ SKY 과외를 알아보고 있어요. 서울대, 연세대, 고려대 중에서 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연세대생은 문이과 균형 있게 고득점을 받은 학생들입니다. 전 과목 학습법을 알려드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 연세대생 과외의 장점이 뭔가요?
@@ -34,7 +34,7 @@ SKY 과외를 알아보고 있어요. 서울대, 연세대, 고려대 중에서 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 전공에 맞는 연세대생을 연결합니다. 입시 경험을 생생하게 전달합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 서울대생이랑 뭐가 다른가요?
@@ -53,7 +53,7 @@ SKY 과외를 알아보고 있어요. 서울대, 연세대, 고려대 중에서 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 선생님을 연결합니다. 수시, 정시 모두 경험한 선생님도 있습니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 가르치는 능력은 어떻게 확인하나요?
@@ -64,7 +64,7 @@ SKY 과외를 알아보고 있어요. 서울대, 연세대, 고려대 중에서 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 설명 방식을 확인합니다. 학생에게 맞는지 판단할 시간을 드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 학력 확인은 어떻게 하나요?
@@ -75,7 +75,7 @@ SKY 과외를 알아보고 있어요. 서울대, 연세대, 고려대 중에서 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학력이 검증된 선생님을 연결합니다. 전공과 경력을 확인합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

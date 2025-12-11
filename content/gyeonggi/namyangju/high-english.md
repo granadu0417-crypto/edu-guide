@@ -14,12 +14,11 @@ tags:
   - 남양주시영어과외
   - 남양주시고등영어
 ---
-
-남양주시 고등학교 영어, 내신과 수능 모두 만만치 않습니다.
+영어는 혼자 공부하기 어려운 과목입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 독해, 어휘, 듣기 각 영역을 점검합니다.
+첫 수업에서 학생과 충분히 대화합니다. 공부 습관, 목표를 파악합니다.
 </div>
 
 ## 남양주시 고등학교 영어가 어려운 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
+개념 이해 없이 문제만 풀면 한계가 있습니다. 기본기를 탄탄히 합니다.
 </div>
 
 ## 남양주시 주요 고등학교 영어 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 영어 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악합니다.
+시험 2주 전부터는 기출과 예상 문제 위주로 수업합니다.
 </div>
 
 ## 수능 영어 대비 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출문제와 EBS 교재를 활용합니다. 고난도 유형의 접근법을 단계별로 훈련합니다.
+내신은 학교별로 대비하고, 수능은 전국 기준으로 준비합니다. 두 마리 토끼를 다 잡는 전략이 있습니다.
 </div>
 
 
@@ -92,6 +91,6 @@ tags:
 
 ## 마무리
 
-남양주시 고등학생 여러분, 영어 성적 향상이 필요하시다면 지금 시작하세요.
+남양주시 학생 여러분, 혼자 고민하지 마세요. 함께하면 달라집니다.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

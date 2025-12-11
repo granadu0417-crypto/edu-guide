@@ -30,7 +30,7 @@ description: 프리미엄 과정 - 고등학교 첫 내신 시험이 불안하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최신 입시 정보를 반영해 학습 전략을 수립합니다. 2026 수능 변경사항에 맞춘 과목별 대비법을 안내합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 2026 수능 핵심 변경사항 요약
@@ -49,7 +49,7 @@ description: 프리미엄 과정 - 고등학교 첫 내신 시험이 불안하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-킬러문항 폐지에 맞춰 개념 중심 학습을 강화합니다. 교과서 범위 내에서 사고력을 키우는 문제를 집중적으로 다룹니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 긍정적인 변화로는 사교육 없이 학교 수업만으로 대비 가능해지고, 개념 이해 중심 학습으로 전환할 수 있으며, 시험 시간 내 모든 문제 풀이 가능성이 높아집니다.
@@ -70,7 +70,7 @@ description: 프리미엄 과정 - 고등학교 첫 내신 시험이 불안하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선택과목 결정을 함께 고민합니다. 진로와 적성에 맞는 과목을 선택하고 그에 맞춘 학습 계획을 수립합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 선택과목 가이드입니다. 확률과 통계는 상경계열이나 수학 부담을 줄이고 싶은 학생에게 추천하며 난이도가 낮고 학습량이 보통입니다. 미적분은 자연계열과 공대 희망 학생에게 추천하며 난이도가 높고 학습량이 많습니다. 기하는 이공계 상위권과 공간지각력 우수 학생에게 추천하며 난이도가 가장 높습니다.
@@ -91,7 +91,7 @@ description: 프리미엄 과정 - 고등학교 첫 내신 시험이 불안하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 특성에 맞는 학습 전략을 수립합니다. 절대평가 과목은 목표 등급에 맞춰 효율적으로 준비합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 2026 수능 대비 학습 전략

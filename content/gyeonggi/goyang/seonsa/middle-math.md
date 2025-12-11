@@ -22,12 +22,11 @@ tags:
   - 선사중
 featured_image: "/images/edu_0017.jpg"
 ---
-
-수학 성적이 떨어지고 있나요? 고양시 일산동구 선사동에서 중학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+수학 성적이 떨어지기 시작했다면, 지금 잡아야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지, 어떤 단원이 문제인지 파악합니다.
 </div>
 
 ## 중학 수학, 무엇이 문제일까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1, 중2는 내신에 집중하면서 기초를 쌓고, 중3은 본격적으로 고등 선행에 들어갑니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 선사중 수학 내신, 이렇게 출제됩니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
+시간 대비 문제 양이 많은 학교가 있습니다. 빠르게 푸는 연습도 함께 합니다.
 </div>
 
 ## 고등학교 가면 더 어려워집니다
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0017.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 그냥 넘어가지 않습니다. 왜 틀렸는지 원인을 찾고, 같은 실수를 반복하지 않도록 합니다.
+학년별로 내신과 수능 비중을 조절합니다. 고1은 내신 중심, 고3은 수능 비중을 높여갑니다.
 </div>
 
 ## 1:1 수업이 답인 이유
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0017.jpg"
 
 ## 마무리
 
-지금 시작하세요. 늦었다고 생각할 때가 가장 빠른 때입니다.
+일산동구 학생 여러분, 변화는 결심에서 시작됩니다. 지금 연락 주세요.

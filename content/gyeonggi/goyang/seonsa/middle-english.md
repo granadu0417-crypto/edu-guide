@@ -22,12 +22,11 @@ tags:
   - 선사중
 featured_image: "/images/edu_0003.jpg"
 ---
-
-영어 성적이 떨어지고 있나요? 고양시 일산동구 선사동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어 성적이 오르지 않아 고민이신가요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전, 학생이 어디서 막히는지 정확히 파악합니다. 무작정 진도를 나가지 않습니다.
+문제를 푸는 과정을 옆에서 지켜봅니다. 어떤 생각으로 접근하는지, 어디서 막히는지 확인합니다.
 </div>
 
 ## 중학 영어, 무엇이 문제일까요?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1, 중2는 내신에 집중하면서 기초를 쌓고, 중3은 본격적으로 고등 선행에 들어갑니다.
+공식만 알면 기본 문제는 풉니다. 하지만 심화 문제를 풀려면 개념을 이해해야 합니다.
 </div>
 
 ## 선사중 영어 내신, 이렇게 출제됩니다
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
+학교 시험은 교과서와 프린트에서 나옵니다. 꼼꼼하게 분석하여 출제 포인트를 짚어드립니다.
 </div>
 
 ## 고등학교 가면 더 어려워집니다
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0003.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 그냥 넘어가지 않습니다. 왜 틀렸는지 원인을 찾고, 같은 실수를 반복하지 않도록 합니다.
+내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
 </div>
 
 ## 1:1 수업이 답인 이유
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0003.jpg"
 
 ## 마무리
 
-지금 시작하세요. 늦었다고 생각할 때가 가장 빠른 때입니다.
+일산동구 학생 여러분, 결심이 시작입니다. 오늘 상담받고, 내일부터 달라지세요.

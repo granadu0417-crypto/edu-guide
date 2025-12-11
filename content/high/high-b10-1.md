@@ -21,7 +21,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 때 공부 습관을 점검합니다. 잘못된 습관이 있으면 고치고, 고등학교에 맞는 새로운 습관을 만듭니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 고교 적응의 핵심
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 중간고사 전에 모의 시험 공부를 해봅니다. 실제로 3주 전부터 어떻게 준비해야 하는지 경험하게 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과목별 적응 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 고등학교 수준이 어떤지 보여줍니다. 중학교 때와 얼마나 다른지 체감하면 위기감이 생깁니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 첫 내신 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 4주 전부터 주별 계획을 세웁니다. 계획대로 실천하는지 매주 점검합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 하루 학습 루틴
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학교 일정에 맞춰 루틴을 조정합니다. 야자 시간, 학원 시간을 고려해서 현실적인 계획을 세웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 주의사항

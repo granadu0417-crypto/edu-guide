@@ -22,7 +22,7 @@ featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 패턴과 포기 원인을 분석합니다. 개인에게 맞는 동기부여 전략을 설계합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 동기의 종류와 활용
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 동기 유형을 파악합니다. 내재적 동기를 키울 수 있는 성공 경험을 만들어줍니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 목표 설정: SMART 원칙
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 함께 SMART 목표를 설정합니다. 큰 목표를 작은 단계로 나눕니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 습관 형성의 핵심
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 하루 일과를 분석합니다. 습관 스택킹으로 자연스러운 학습 루틴을 만듭니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 슬럼프 극복법
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-슬럼프 징후를 조기에 발견합니다. 원인을 함께 분석하고 재시작을 돕습니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -107,5 +107,5 @@ featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 수업으로 지속적인 동기 관리와 습관 형성을 도와드립니다. 함께하면 포기하지 않습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>

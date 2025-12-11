@@ -21,7 +21,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 그렇게 생각해?라고 자주 물어봅니다. 답만 말하지 말고 이유까지 설명하게 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-귀찮은 질문도 성실히 답해줍니다. 왜냐하면이라고 설명하는 습관이 논리적 사고의 시작입니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 문제를 풀 때 왜 이렇게 풀었어?라고 물어봅니다. 풀이 과정을 말로 설명할 수 있으면 진짜 이해입니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 사고력을 키우는 방법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-만약 -라면 어떻게 될까?라는 질문을 자주 합니다. 가정하고 추론하는 연습이 사고력을 키웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "/images/edu_0113_RmTttvyz12Y.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 끝날 때 오늘 배운 것 중에 왜?라고 궁금한 거 있어?라고 물어봅니다. 호기심을 자극합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 주의사항

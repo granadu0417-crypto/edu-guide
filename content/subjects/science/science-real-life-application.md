@@ -25,7 +25,7 @@ featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사에서 시작합니다. 좋아하는 것에서 과학 원리를 찾아 연결합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 가정에서의 과학
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집에서 관찰할 수 있는 현상을 정리합니다. 각 현상에 적용되는 원리를 설명합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 교통과 통신의 과학
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이동수단별 과학 원리를 비교합니다. 실생활 기술과 교과서 개념을 연결합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 에너지와 환경
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신재생 에너지의 원리를 설명합니다. 환경 문제를 과학적으로 이해합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 시험과의 연결
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실생활 관련 기출 문제를 분석합니다. 개념과 응용을 연결하는 훈련을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -126,5 +126,5 @@ featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 실생활 과학을 완벽히 이해합니다. 흥미와 개념을 연결합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>

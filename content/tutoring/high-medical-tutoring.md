@@ -19,7 +19,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 성적과 목표 의대를 파악합니다. 어떤 전형이 유리한지 분석합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 의대 입시의 특징
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-의대 입시의 현실을 정확히 알려드립니다. 필요한 준비가 무엇인지 안내합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 수능 대비 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-완벽을 추구하는 학습을 합니다. 모든 문제를 맞히는 것을 목표로 합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 내신 관리 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 병행합니다. 둘 다 완벽하게 준비합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 면접 대비
@@ -71,7 +71,7 @@ MMI 면접을 대비합니다. 다중미니면접(MMI) 형식에 맞춰 준비�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접 대비도 함께 합니다. 서류 통과 후 면접에서 떨어지지 않도록 준비합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ MMI 면접을 대비합니다. 다중미니면접(MMI) 형식에 맞춰 준비�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 현재 상황을 분석하고 의대 입시 로드맵을 안내드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문

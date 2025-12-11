@@ -22,7 +22,7 @@ featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 긴장하는 원인을 파악합니다. 안전한 환경에서 편하게 말할 수 있도록 분위기를 만듭니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자신감이 없는 이유
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-완벽주의에서 벗어나도록 도와드립니다. 의사소통 중심으로 마인드셋을 전환합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자신감 키우는 5단계
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별로 자신감을 쌓아갑니다. 작은 성공 경험을 축적하며 점진적으로 도전합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 실전 회화 연습
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실생활에서 바로 쓸 수 있는 표현을 연습합니다. 상황별 역할극으로 실전 감각을 키웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 긴장 극복 전략
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긴장 극복 전략을 함께 연습합니다. 심리적 안정감 속에서 자신감을 키웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -123,5 +123,5 @@ featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 회화 수업으로 안전한 환경에서 자신감을 키웁니다. 실수에 대한 즉각 피드백으로 빠르게 향상합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

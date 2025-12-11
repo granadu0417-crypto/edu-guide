@@ -26,7 +26,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고전물리로 설명되지 않는 현상부터 살펴봅니다. 현대물리가 왜 필요했는지 이해하면 개념이 쉬워집니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 특수 상대성이론
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사고실험으로 상대성이론을 직관적으로 이해합니다. 공식의 유도 과정을 단계별로 따라갑니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 광전 효과와 광양자설
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광전 효과 실험 결과를 분석합니다. 문턱 진동수와 정지 전압의 의미를 정리합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 보어 원자 모형과 물질파
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수소 원자의 선 스펙트럼을 보어 모형으로 설명합니다. 물질파 개념을 실험 결과와 연결합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 분석합니다. 자주 출제되는 개념을 집중 정리합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -123,5 +123,5 @@ featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 현대물리를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>

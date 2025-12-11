@@ -19,7 +19,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 방식을 먼저 분석합니다. 어디서 시간을 많이 쓰는지, 어떤 유형에서 틀리는지 파악합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 비문학이 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 유형별 특징을 정리합니다. 과학, 기술, 인문, 사회, 예술 지문의 출제 패턴을 파악합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 읽기 전략의 핵심
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문에 표시하며 읽는 방법을 알려드립니다. 밑줄, 괄호, 기호를 전략적으로 사용합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 문제 풀이 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 만듭니다. 왜 틀렸는지 분석하고 같은 실수를 반복하지 않게 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시간 관리 전략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간을 재고 푸는 연습을 합니다. 실전처럼 긴장감 있게 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 과외의 장점
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 체계적으로 분석합니다. 출제 패턴을 파악하고 대비합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,7 +103,7 @@ featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 상세히 안내드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문

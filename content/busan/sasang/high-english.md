@@ -10,14 +10,13 @@ tags:
   - 사상구영어과외
   - 사상구고등영어
 ---
-
-빈칸에 들어갈 말이 도무지 떠오르지 않는다면, 빈칸 추론력이 필요합니다.
+늦지 않았습니다. 영어, 지금 시작하세요.
 
 사상구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 사상고, 덕포고, 모라고 시험에서 빈칸 추론 문제가 자주 출제됩니다. 문맥에서 논리를 파악하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈칸 주변의 단서를 찾는 훈련을 합니다. 연결어와 대조/대등 구조를 파악합니다.
+성적표만 보지 않습니다. 실제로 문제를 풀면서 어디서 막히는지 파악합니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글의 주제를 먼저 파악합니다. 빈칸이 글에서 어떤 역할을 하는지 분석합니다.
+문제를 풀다 막히면 힌트를 조금씩 줍니다. 스스로 깨달아야 기억에 남습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사상고, 덕포고 기출에서 빈칸 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 빈칸 추론력을 점진적으로 심화합니다.
+내신과 수능, 어느 하나도 소홀히 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -118,4 +117,4 @@ tags:
 
 ## 마무리
 
-사상구에서 빈칸이 어렵다면 논리 훈련이 필요합니다. 단서가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 자신감, 되찾을 수 있습니다.

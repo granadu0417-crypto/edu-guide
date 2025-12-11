@@ -21,7 +21,7 @@ featured_image: "/images/edu_0965_z1d-LP8sjuI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과 점검 상담에서는 현재 과외가 왜 효과가 없는지 원인을 분석합니다. 수업 방식, 학생 태도, 복습 상황을 종합적으로 점검합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 과외 효과가 안 나오는 이유가 뭔가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0965_z1d-LP8sjuI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과가 안 난다면 학습 상담을 받으세요. 원인을 찾고 해결책을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 학부모 상담은 가정에서 어떻게 지원해야 하는지 알고 싶을 때 도움이 됩니다.
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0965_z1d-LP8sjuI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 전 준비 체크리스트를 안내합니다. 예습 방법과 질문 정리법도 함께 알려드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수업 후에는 뭘 해야 하나요?
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0965_z1d-LP8sjuI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 복습 가이드를 제공합니다. 얼마나, 어떻게 복습해야 하는지 구체적으로 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0965_z1d-LP8sjuI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과에 대해 더 궁금한 점이 있으시면 문의하세요. 효과를 높이는 방법을 안내합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

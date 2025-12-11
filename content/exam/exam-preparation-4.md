@@ -19,7 +19,7 @@ featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 긴장을 다스리는 방법을 미리 연습합니다. 모의고사를 실전처럼 풀면서 시험장 상황에 익숙해지도록 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 전 마인드 세팅
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전 루틴을 함께 만듭니다. 긴장을 푸는 나만의 방법을 찾고 반복 연습해서 습관으로 만듭니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 문제 풀이 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시간 배분과 문제 풀이 순서를 연습합니다. 모의고사로 실전 감각을 익히고 자신만의 전략을 만듭니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 실수 방지 체크리스트

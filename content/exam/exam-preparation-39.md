@@ -21,7 +21,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 개념을 체계적으로 정리합니다. 비슷한 개념을 비교하고 구분하여 헷갈리지 않도록 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 사회 시험의 특성
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기와 이해를 병행합니다. 자료 해석 능력을 키워 다양한 유형에 대비합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 과목별 사회 전략
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습법을 안내합니다. 약한 영역을 집중적으로 보완합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 효과적인 암기법
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 암기법을 적용합니다. 이해 기반으로 외워서 오래 기억할 수 있도록 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자료 해석 전략
@@ -77,7 +77,7 @@ featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자료 해석 문제를 집중 훈련합니다. 그래프, 도표, 지도를 빠르게 분석하는 능력을 키웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 시험 대비 전략

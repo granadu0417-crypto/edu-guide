@@ -32,7 +32,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"이 문장 해석은 되는데 왜 이런 뜻이에요?" 문법 암기가 아니라 영어의 논리를 이해시킵니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ### 신림동 - 서울대 정문 인근
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 영어 수준을 정확히 진단합니다. 어휘력, 문법 이해도, 독해 속도까지 꼼꼼히 체크!
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학년별 영어과외 가이드
@@ -93,7 +93,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 동화책을 함께 읽습니다. "이 단어 뭐예요?"라고 물으면 그림을 보며 스스로 추측하게 해요. 맥락에서 단어를 익히면 절대 안 잊어요!
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ### 중학생 - 입시 영어의 기초를 다지는 시기
@@ -122,7 +122,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"to부정사의 부사적 용법이 뭐예요?" 단순 암기 대신 예문으로 이해시킵니다. 왜 그렇게 쓰는지 알면 문법이 쉬워져요!
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -151,7 +151,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -179,7 +179,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생은 회화로 시작해서 거부감 없애기. 중고등학생은 문법과 회화 동시에! 입시가 목표면 문법 확립 후 회화로 확장합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 좋은 영어 선생님, 이렇게 고르세요
@@ -215,7 +215,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -256,7 +256,7 @@ featured_image: "/images/edu_0334_6Q_dG4fwk7M.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 영어 10분! 하루 단어 10개, 짧은 지문 1개 읽기. 작은 습관이 큰 실력이 됩니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 마치며

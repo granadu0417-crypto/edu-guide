@@ -23,7 +23,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 수학 수준을 먼저 파악합니다. 연산이 약한지, 개념이 부족한지, 응용이 안 되는지 진단합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 초등 수학학원은 어떤 종류가 있나요?
@@ -36,7 +36,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향에 맞는 학원 유형을 안내해 드립니다. 계산을 싫어하는지, 문제 푸는 걸 좋아하는지에 따라 추천이 달라집니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 연산이 먼저인가요, 사고력이 먼저인가요?
@@ -49,7 +49,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연산과 사고력의 균형을 맞춰서 수업합니다. 아이에게 부족한 부분을 먼저 보완합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 선행을 해야 하나요?
@@ -72,7 +72,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 커리큘럼으로 수업합니다. 무리한 선행보다는 기본기를 탄탄히 다집니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학원 선택할 때 뭘 확인해야 하나요?
@@ -87,7 +87,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 수학 학습에 대해 궁금한 점이 있으시면 상담해 주세요. 아이 상황에 맞는 방향을 안내해 드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문

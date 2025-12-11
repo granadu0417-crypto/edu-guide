@@ -21,7 +21,7 @@ featured_image: "/images/edu_0929_yFpnkorlodo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적이 떨어진 원인을 분석합니다. 공부 방법이 문제인지, 내용이 어려워진 건지, 집중력이 떨어진 건지 파악합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 중2 성적이 떨어지는 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0929_yFpnkorlodo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 기초가 부족한지 확인합니다. 중1 내용을 복습하면서 중2 내용을 병행합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 내신 안정화를 위한 핵심 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0929_yFpnkorlodo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 다양한 문제를 풀어봅니다. 같은 유형이라도 여러 번 반복해서 익숙해지게 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 수학 내신 안정화 방법
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0929_yFpnkorlodo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학은 개념 이해 후 기본 문제, 응용 문제, 심화 문제 순으로 단계적으로 학습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 영어 내신 안정화 방법
@@ -67,7 +67,7 @@ featured_image: "/images/edu_0929_yFpnkorlodo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법은 예문 중심으로 설명합니다. 직접 문장을 만들어보면서 문법이 어떻게 쓰이는지 체득합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 대비 전략
@@ -78,7 +78,7 @@ featured_image: "/images/edu_0929_yFpnkorlodo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춰 학습 계획을 세웁니다. 오답 정리와 취약 단원 보충을 병행합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}

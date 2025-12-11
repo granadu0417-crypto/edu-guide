@@ -22,12 +22,11 @@ tags:
   - 고양외고
 featured_image: "/images/edu_0018.jpg"
 ---
-
-중학교 때는 잘했는데, 지금은 왜 안 되는 걸까요? 고양시 덕양구 관산동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+고등 영어, 문법과 독해를 함께 잡아야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모든 수업은 진단에서 시작합니다. 학생의 현재 위치를 파악하고, 목표까지의 로드맵을 설계합니다.
+정확한 진단이 빠른 성적 향상의 시작입니다. 시간을 들여 학생을 제대로 파악합니다.
 </div>
 
 ## 왜 고등학교만 오면 영어가 어려울까?
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 3주 전부터는 내신에 올인합니다. 그 외 기간에는 수능형 독해로 실력을 키웁니다.
+문제를 읽고 바로 풀지 않습니다. 무엇을 구하는지, 어떤 개념이 필요한지 먼저 생각합니다.
 </div>
 
 ## 고양외고 시험 경향과 대비법
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 유형별로 정리하여 반복 훈련합니다. 비슷한 문제가 나오면 바로 풀 수 있도록 합니다.
+선생님이 강조한 부분, 수업 중 언급한 예시를 정리합니다. 시험에 나올 확률이 높습니다.
 </div>
 
 ## 수능 고득점의 비밀
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0018.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 3번 다시 풉니다. 1번은 바로 다음 날, 1번은 1주일 후, 1번은 시험 전에.
+내신 기간에는 학교 시험에 집중하고, 그 외 기간에는 기초를 다집니다.
 </div>
 
 ## 학원에서 안 되는 것, 과외에서 됩니다
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0018.jpg"
 
 ## 마무리
 
-관산동 고등학생을 위한 맞춤 영어 과외, 지금 시작하세요.
+덕양구 학생 여러분, 맞춤 수업, 지금 상담받으세요.

@@ -26,7 +26,7 @@ featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-냉전 구도와 한반도 분단 배경을 먼저 설명합니다. 전쟁의 원인을 국제 관계와 연결합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 전쟁의 배경
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분단 과정을 연표로 정리합니다. 미소 냉전이 한반도에 미친 영향을 분석합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 전쟁의 전개
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전쟁의 전개 과정을 지도와 함께 설명합니다. 주요 전투와 전선 변화를 정리합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 정전과 결과
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정전협정의 내용을 정리합니다. 전쟁의 피해와 영향을 분석합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 전쟁의 영향
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전쟁이 남북한 사회에 미친 영향을 비교합니다. 현재까지의 연결점을 설명합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 6·25전쟁을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>

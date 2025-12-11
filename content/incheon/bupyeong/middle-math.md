@@ -10,14 +10,13 @@ tags:
   - 부평구수학과외
   - 부평구중등수학
 ---
-
-직각삼각형에서 a²+b²=c²가 왜 성립하는지 설명하지 못한다면, 피타고라스력이 필요합니다.
+초등학교 때는 잘했는데, 지금은 왜 안 되나요?
 
 부평구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 부평고, 부개고, 부평여고 시험에서 피타고라스 정리 문제가 자주 출제됩니다. 직각삼각형의 세 변 관계를 이해하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피타고라스 정리 증명을 체계적으로 정리합니다. 응용 문제 유형을 훈련합니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법까지 종합 진단합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정리의 원리를 이해합니다. 다양한 응용 상황을 훈련합니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부평고, 부개고 기출에서 피타고라스 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+최근 3년 기출을 분석하여 출제 패턴을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 피타고라스력을 점진적으로 향상시킵니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 계획을 세웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -132,5 +131,5 @@ tags:
 
 ## 마무리
 
-부평구에서 피타고라스 정리가 어렵다면 원리 이해 훈련이 필요합니다. 증명이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 1등급도, 성적 향상도 가능합니다.
 

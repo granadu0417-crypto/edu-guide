@@ -26,7 +26,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-열과 온도의 개념을 명확히 구분합니다. 열의 이동 방향과 조건을 정리합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 열역학 제0법칙과 제1법칙
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제1법칙의 수식을 이해합니다. 열, 일, 내부 에너지의 관계를 그래프로 분석합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 열역학 제2법칙
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-엔트로피 개념을 직관적으로 설명합니다. 열기관의 효율 계산을 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 열기관과 열효율
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-열기관의 작동 원리를 그림으로 설명합니다. 열효율 계산 문제를 풀어봅니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. PV 그래프 해석과 열효율 계산을 집중 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,5 +111,5 @@ featured_image: "/images/edu_0639_ezFAew1dUJg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 열역학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>

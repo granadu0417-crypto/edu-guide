@@ -23,7 +23,7 @@ featured_image: "/images/edu_0422_1T3Ng46czSw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈출 어휘 우선순위를 정리합니다. 효율적인 암기법을 개인별로 설계합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학습 우선순위
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0422_1T3Ng46czSw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-품사별 빈출 단어를 정리합니다. 우선순위대로 체계적으로 암기합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 효율적 암기법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0422_1T3Ng46czSw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어근 활용법을 체계적으로 정리합니다. 문맥 암기로 장기 기억을 만듭니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 복습 주기
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0422_1T3Ng46czSw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 스케줄을 함께 관리합니다. 정기적인 테스트로 암기 상태를 확인합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 동의어 암기
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0422_1T3Ng46czSw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈출 동의어를 그룹으로 정리합니다. 지문-선택지 연결 패턴을 익힙니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,5 +108,5 @@ featured_image: "/images/edu_0422_1T3Ng46czSw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 어휘 과외로 효율적으로 암기합니다. 어근 활용과 동의어 정리로 시간을 절약합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>

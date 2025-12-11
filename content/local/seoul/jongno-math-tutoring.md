@@ -20,7 +20,7 @@ featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 현재 실력을 정확하게 진단합니다. 어디서부터 개념이 흔들리는지 찾아내고, 그 지점부터 차근차근 다시 쌓아갑니다. 구멍을 메꾸지 않고 앞으로만 나가는 수업은 하지 않습니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 종로구 동네별 수학 교육 환경
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴과 다른 학습 일정을 고려해서 수업 시간과 장소를 정합니다. 평창동 자택 방문, 삼청동 스터디룸, 온라인 병행 등 가장 효율적인 방식을 함께 찾아드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학년별 수학 과외 포인트
@@ -62,7 +62,7 @@ featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생은 문제만 많이 풀리지 않습니다. 틀린 문제가 있으면 왜 틀렸는지, 어떤 개념이 부족한지 짚어줍니다. 계산 실수인지 개념 실수인지 구분해서 다르게 접근합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ### 중학생 수학 - 고등 수학의 80%가 결정되는 시기
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학생은 개념부터 다시 점검합니다. 문제를 틀렸을 때 정답을 알려주는 것이 아니라, 어디서 막혔는지 찾아서 그 개념을 다시 설명합니다. 내신 2주 전부터는 학교 기출문제 중심으로 집중 대비합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ### 고등학생 수학 - 내신과 수능 두 가지 전쟁
@@ -106,7 +106,7 @@ featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 설명할 때 왜 그런지를 반드시 알려줍니다. 공식을 외우기 전에 그 공식이 어디서 나왔는지 이해시킵니다. 학생이 스스로 문제를 풀 수 있는 힘을 기르는 것이 목표입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ### 수업 외 관리가 되는 선생님
@@ -115,7 +115,7 @@ featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 숙제를 점검합니다. 틀린 문제는 왜 틀렸는지 함께 분석하고, 비슷한 유형을 다시 풀어봅니다. 카카오톡으로 학습 현황을 학부모님께 정기적으로 보고드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ### 학생 수준에 맞춰주는 선생님
@@ -124,7 +124,7 @@ featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 진단 테스트를 통해 학생의 현재 실력을 정확하게 파악합니다. 학년에 상관없이 부족한 부분부터 채워나갑니다. 무리한 선행보다 현재 실력을 탄탄하게 만드는 것이 우선입니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 종로구 수학과외 비용 안내
@@ -141,7 +141,7 @@ featured_image: "/images/edu_0341_Pzkc3wyzcFU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다. 부담 없이 문의해 주세요.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -20,7 +20,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과 극대화 상담에서는 수업 외에 학생이 어떻게 공부하는지도 점검합니다. 수업만 받고 끝나면 효과가 절반입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 과외 효과가 안 나는 이유는 뭔가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 학생이 집중하고 있는지 수시로 확인합니다. 멍하게 듣는 시간이 없도록 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 효과를 극대화하려면 어떻게 해야 하나요?
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 복습 방법을 구체적으로 안내합니다. 혼자 공부하는 방법까지 알려드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 부모가 도울 수 있는 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님이 어떻게 도와주시면 좋을지 구체적으로 안내합니다. 함께 노력하면 효과가 배가됩니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과 극대화에 대해 더 궁금한 점이 있으시면 문의하세요. 같은 시간으로 더 큰 효과를 내는 방법을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

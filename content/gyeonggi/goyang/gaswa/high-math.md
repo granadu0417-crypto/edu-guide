@@ -22,12 +22,11 @@ tags:
   - 주엽고
 featured_image: "/images/edu_0006.jpg"
 ---
-
-수학 포기하려고요? 잠깐만요. 고양시 일산서구 가좌동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
+수학 실력, 3개월이면 달라집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생마다 약점이 다릅니다. 진단 테스트로 정확한 약점을 찾고, 그 부분을 집중 공략합니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법, 시간 관리까지 종합 진단합니다.
 </div>
 
 ## 고등학교에서 수학 성적이 떨어지는 이유
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 학습 계획을 함께 세웁니다.
+문제를 풀기 전에 그림을 그려봅니다. 시각화하면 이해가 쉬워집니다.
 </div>
 
 ## 주엽고 수학 기출 분석
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험은 학교마다 다릅니다. 주엽고의 특성에 맞춘 전략적 대비가 필요합니다.
+학교별로 시험 난이도와 유형이 다릅니다. 맞춤 대비를 해드립니다.
 </div>
 
 ## 수능에서 승부를 가르는 것
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0006.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 정리합니다. 반복해서 틀리는 문제는 특별 관리합니다.
+내신 공부가 수능에 도움이 되도록 합니다. 두 번 공부하는 비효율을 없앱니다.
 </div>
 
 ## 개인 맞춤 수업의 장점
@@ -138,4 +137,4 @@ featured_image: "/images/edu_0006.jpg"
 
 ## 마무리
 
-변화는 결심에서 시작됩니다. 지금 연락 주세요.
+일산서구 학생 여러분, 내신과 수능, 두 마리 토끼를 다 잡는 방법이 있습니다.

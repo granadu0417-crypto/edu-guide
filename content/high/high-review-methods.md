@@ -15,7 +15,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 맞춤 복습 스케줄을 세웁니다. 과목별 복습법을 가르치고 실천 여부를 점검합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 망각곡선을 이기는 방법
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-간격 반복 스케줄을 함께 만듭니다. 복습 타이밍을 알려주고 지켜지는지 확인합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 능동적 회상의 힘
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-능동적 회상 연습을 함께 합니다. 매 수업 시작 전 지난 내용을 스스로 설명하게 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과목별 복습 전략
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞는 복습법을 알려드립니다. 오답 노트 작성법과 정리 노트 활용법을 지도합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 복습 시간 단축법
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 내용을 선별하는 방법을 가르칩니다. 압축 노트 작성을 도와드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

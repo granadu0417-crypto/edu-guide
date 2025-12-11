@@ -20,7 +20,7 @@ featured_image: "/images/edu_0997_md36JWJzrTk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과의 소통을 환영합니다. 정기적으로 학습 상황을 보고드리고, 질문에 성실히 답합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 왜 소통이 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0997_md36JWJzrTk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 간단한 피드백을 문자로 보내드립니다. 특이사항이 있으면 바로 알려드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 어떤 것들을 소통해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0997_md36JWJzrTk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한 달에 한 번 정도 전화 상담을 드립니다. 진도, 학생 상태, 앞으로 계획을 말씀드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 소통 빈도는 어느 정도가 좋나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0997_md36JWJzrTk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연락 주시면 24시간 내에 답장 드립니다. 급한 건 바로 전화 주셔도 됩니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0997_md36JWJzrTk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소통 방법에 대해 더 궁금한 점이 있으시면 문의하세요. 편하게 연락 주시면 됩니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

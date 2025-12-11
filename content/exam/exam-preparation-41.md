@@ -19,7 +19,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남은 2주를 최대한 효율적으로 활용하도록 합니다. 시험 범위를 분석하고 자주 출제되는 부분부터 집중 공략합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 2주 전에 해야 할 일
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상태를 진단하고 2주 학습 계획을 세웁니다. 매일 목표를 정해 실천하도록 관리합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 첫째 주 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 주에 개념을 확실히 잡습니다. 모르는 부분을 질문하고 바로 해결하도록 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 둘째 주 전략
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-둘째 주에는 실전 문제 풀이 위주로 수업합니다. 오답 분석을 꼼꼼히 하여 같은 실수를 반복하지 않도록 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과목별 2주 전략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 공부법을 안내합니다. 남은 시간 동안 효율적으로 준비할 수 있도록 관리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 컨디션 관리

@@ -19,7 +19,7 @@ IB 디플로마를 준비하고 있습니다. HL 과목이 어렵습니다. IA�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 IB 과목 선택과 현재 수준을 파악합니다. 부족한 부분을 집중 보완합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## IB 디플로마란
@@ -32,7 +32,7 @@ International Baccalaureate의 약자입니다. 국제적으로 인정받는 교
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-IB 시스템을 상세히 설명합니다. 어떻게 점수가 매겨지는지 안내합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## HL/SL 과목 대비
@@ -45,7 +45,7 @@ SL 과목도 관리합니다. SL이라고 쉽지 않습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 시험 유형을 분석합니다. 어떤 문제가 나오는지 대비합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## IA와 EE 지도
@@ -58,7 +58,7 @@ TOK(Theory of Knowledge)도 대비합니다. 에세이와 프레젠테이션이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-IA, EE 작성을 도와드립니다. 주제 선정부터 완성까지 함께합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ IB 경험자가 가르칩니다. IB를 직접 경험한 선생님의 노하우�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-IB 고득점을 향해 함께 달립니다. 끝까지 관리합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ EE와 TOK를 완성합니다. Core 점수를 확보합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 IB 상황을 파악하고 학습 계획을 안내드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문

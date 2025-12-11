@@ -22,7 +22,7 @@ featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 상담에서는 아이가 왜 책을 싫어하는지 먼저 파악합니다. 흥미 없는 책을 억지로 읽히고 있는지, 독서 경험이 부족한지 분석합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 독서 습관 상담이 왜 필요한가요?
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 습관을 잡고 싶다면 학습 상담을 먼저 받으세요. 아이 성향에 맞는 책 선정과 독서 방법을 구체적으로 안내합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 진학 상담은 입시에 필요한 독서 활동을 다룹니다. 심리 상담은 독서에 대한 거부감이 심리적 요인에서 온다면 도움이 됩니다.
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 아이에게 맞는 책 목록과 독서 계획을 안내합니다. 작은 것부터 시작해서 점진적으로 독서량을 늘려갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 학년에 따라 독서 전략이 다른가요?
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 관심사에 맞는 책을 추천하고, 독서 후 활동까지 안내합니다. 억지로 읽게 하지 않고 자연스럽게 습관을 만듭니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 습관 형성에 대해 더 궁금한 점이 있으시면 문의하세요. 아이에게 맞는 독서 전략을 함께 찾아드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 마무리

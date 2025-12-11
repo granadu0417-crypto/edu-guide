@@ -19,7 +19,7 @@ featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스캐닝 기법을 체계적으로 훈련합니다. 빠르고 정확하게 정보를 찾는 법을 익힙니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 스캐닝 3단계
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3단계 스캐닝 기법을 연습합니다. 타이머를 사용해 속도를 높입니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 키워드 매칭 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-키워드 매칭 전략을 실전 문제로 연습합니다. 정확도와 속도를 높입니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 함정 선택지 패턴
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함정 선택지 패턴을 분석합니다. 실수를 줄이는 방법을 훈련합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 동의어 치환 주의
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동의어 치환 패턴을 정리합니다. 다른 표현도 같은 의미임을 인식하는 연습을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -104,5 +104,5 @@ featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 스캐닝 기법을 마스터합니다. 정확도와 속도를 동시에 높여드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>

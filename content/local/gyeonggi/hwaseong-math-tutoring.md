@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동탄 지역 학교들의 출제 경향을 분석하여 맞춤 수업을 진행합니다. 신도시 특성상 다양한 지역에서 전입한 학생들이 많아, 개인별 수준 차이를 고려한 1:1 맞춤 커리큘럼을 제공합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ### 높은 교육열, 체계적 대비가 필요합니다
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 암기가 아닌 원리 이해 중심의 연산 교육을 진행합니다. 게임과 퍼즐을 활용해 수학의 재미를 느끼면서 실력을 키울 수 있도록 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 고학년이 되면 분수, 소수, 비율 등 추상적 개념이 등장합니다. 이 개념들을 확실히 이해해야 중학교 수학에서 막히지 않습니다.
@@ -61,7 +61,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서와 익힘책을 완벽히 분석하여 내신 100점을 목표로 합니다. 단순 문제 풀이가 아닌 '왜 그런지'까지 이해시켜 응용력을 키워드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 중3 때는 고등 수학 선행이 필수입니다. 중등 과정을 완벽히 마친 후, 고1 수학(수학 상·하)을 미리 준비해야 고등학교에서 여유를 가질 수 있습니다.
@@ -78,7 +78,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 파악하여 내신 시험에 최적화된 수업을 진행합니다. 내신 기간이 아닐 때는 수능 기출문제 풀이로 실전 감각을 키웁니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 고2부터는 미적분, 확률과 통계, 기하 등 심화 과목을 배웁니다. 개념을 정확히 이해하고 다양한 유형의 문제를 풀어보며 실전 대비를 해야 합니다.
@@ -93,7 +93,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동탄 지역 학교들의 출제 경향을 잘 아는 선생님을 매칭해드립니다. 시범 수업을 통해 아이와의 궁합을 확인하신 후 결정하실 수 있습니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ### 선택 시 체크리스트
@@ -111,7 +111,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 틀린 문제를 함께 분석하고, 효과적인 오답 노트 작성법을 지도합니다. 시험 전에는 오답 노트 중심으로 총정리하여 완벽한 대비를 돕습니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ### 예습과 복습의 균형

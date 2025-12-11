@@ -32,7 +32,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 이렇게 풀어야 해요?"라는 질문이 나올 때까지. 공식 암기가 아니라 원리 이해부터 시작합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ### 가락동 - 8학군 입시 수학의 핵심
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 수학 수준을 먼저 정확히 파악합니다. 어디서 막혔는지, 어디까지 알고 있는지 진단부터 꼼꼼히!
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 학년별 수학과외 가이드
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피자를 똑같이 나누면? 분수 개념을 일상에서 찾습니다. "1/4이랑 2/8이 같다고요?" 아이가 직접 발견하면 절대 안 잊어요!
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ### 중학생 - 고등 수학의 기초를 다지는 시기
@@ -116,7 +116,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 x에 숫자를 대입해야 해요?" 문자와 식의 개념부터 차근차근. 원리를 알면 응용이 됩니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
@@ -145,7 +145,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 송파구 주요 학교 수학 내신 특징
@@ -181,7 +181,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. "이 학교 수학 선생님 스타일"을 알면 대비가 훨씬 쉬워집니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -219,7 +219,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 수학 실력, 이렇게 올리세요
@@ -254,7 +254,7 @@ featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 수업 내용 확인 테스트! 복습 안 하면 티가 납니다. 작은 습관이 큰 실력이 됩니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

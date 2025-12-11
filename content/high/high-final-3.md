@@ -21,7 +21,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신과 모의고사 성적을 분석합니다. 어떤 대학, 어떤 전형이 유리한지 전략을 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 입시 전략의 기본
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 유리한 전형을 찾습니다. 내신, 모의고사, 비교과를 종합적으로 분석해서 최적의 전략을 세웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 수시 전략
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시 6개를 어떻게 배분할지 전략을 세웁니다. 상향 2개, 적정 2개, 안정 2개로 배분합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 정시 전략
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 성적 발표 후 바로 정시 전략을 세웁니다. 어떤 대학에 지원할지 데이터로 분석합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시기별 준비
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별 계획을 세웁니다. 언제 뭘 해야 하는지 구체적으로 정합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 면접 준비
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접 대비를 도와줍니다. 예상 질문을 만들고 모의 면접을 진행합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 주의사항

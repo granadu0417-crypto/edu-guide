@@ -27,7 +27,7 @@ featured_image: "/images/edu_0749_r_m-JKJVto0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영역별 실력을 먼저 진단합니다. 어느 영역이 약한지 파악한 후 균형 잡힌 학습 계획을 세웁니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0749_r_m-JKJVto0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고, 장충고, 환일고 기출을 철저히 분석합니다. 학교별로 출제 경향이 다르므로, 맞춤형 내신 대비를 진행합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ### 한 문제가 등급을 바꿉니다
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0749_r_m-JKJVto0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고 학생은 본문 암기에, 장충고 학생은 논리 독해에, 환일고 학생은 외부 지문에 집중합니다. 학교별 맞춤 전략으로 내신을 공략합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 영어과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0749_r_m-JKJVto0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 철저히 분석합니다. 왜 틀렸는지, 어떤 부분이 부족했는지 파악하여 같은 실수가 반복되지 않도록 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 고등 영어 학습 순서
@@ -119,7 +119,7 @@ featured_image: "/images/edu_0749_r_m-JKJVto0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 적절한 학습량과 진도를 설계합니다. 시험 기간에는 내신에 집중하고, 방학에는 수능 대비를 병행합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ### 고3: 최종 완성
@@ -136,7 +136,7 @@ featured_image: "/images/edu_0749_r_m-JKJVto0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황을 고려하여 합리적으로 정합니다. 무료 상담에서 학생 수준을 파악한 뒤, 필요한 수업 횟수와 시간을 안내드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

@@ -19,7 +19,7 @@ SAT를 준비하고 있습니다. 미국 대학 입시에 SAT 점수가 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력을 진단합니다. 영역별 강점과 약점을 파악합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## SAT 시험이란
@@ -32,7 +32,7 @@ Digital SAT로 바뀌었습니다. 2024년부터 디지털 방식으로 시행�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-Digital SAT의 변화된 형식을 안내합니다. 적응형 시험의 특성을 파악합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## Reading & Writing 전략
@@ -45,7 +45,7 @@ Digital SAT의 변화된 형식을 안내합니다. 적응형 시험의 특성�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-R&W 영역 맞춤 전략을 세웁니다. 약한 유형을 집중 공략합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## Math 전략
@@ -58,7 +58,7 @@ R&W 영역 맞춤 전략을 세웁니다. 약한 유형을 집중 공략합니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-Math 800점을 목표로 합니다. 실수를 줄이는 훈련을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과외의 장점
@@ -71,7 +71,7 @@ Math 800점을 목표로 합니다. 실수를 줄이는 훈련을 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 점수 달성까지 함께합니다. 끝까지 관리합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,7 +92,7 @@ Math 800점을 목표로 합니다. 실수를 줄이는 훈련을 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 목표 점수를 정하고 학습 계획을 안내드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

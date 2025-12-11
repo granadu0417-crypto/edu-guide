@@ -20,7 +20,7 @@ featured_image: "/images/edu_0461_4o3FFu9jenw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 추론 능력 수준을 진단합니다. 논리적 사고 훈련을 체계적으로 진행합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 추론의 유형
@@ -29,7 +29,7 @@ featured_image: "/images/edu_0461_4o3FFu9jenw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 유형을 분류합니다. 유형별 해결 전략을 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 추론 문제 해결 전략
@@ -40,7 +40,7 @@ featured_image: "/images/edu_0461_4o3FFu9jenw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 문제 풀이 과정을 단계별로 연습합니다. 실전 문제를 함께 분석합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 논리적 오류 피하기
@@ -49,7 +49,7 @@ featured_image: "/images/edu_0461_4o3FFu9jenw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 오류 패턴을 분석합니다. 적절한 추론 범위를 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0461_4o3FFu9jenw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 영역별 추론 문제 풀이 전략을 정리합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -117,5 +117,5 @@ featured_image: "/images/edu_0461_4o3FFu9jenw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 추론 능력을 체계적으로 향상시킵니다. 유형별 전략과 실전 연습을 병행합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>

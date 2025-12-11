@@ -20,7 +20,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외 상담에서는 학생이 어느 단원에서 막히는지 먼저 파악합니다. 기초가 부족한 건지, 응용이 안 되는 건지 정확히 진단하고 맞춤 수업을 설계합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 초등 과외가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외 시작 전 기초 학력 테스트를 진행합니다. 어느 학년 내용부터 보충해야 하는지 정확히 파악해드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 진로 상담은 아직 이르지만, 학습 습관 형성에 대한 조언을 받을 수 있습니다.
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 학습 → 문제 풀이 → 오답 정리 → 복습 순서로 진행합니다. 학생 속도에 맞춰 천천히 진행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 초등 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 학부모님께 수업 내용과 학생 상태를 공유합니다. 가정에서 어떻게 도와주면 좋을지 안내드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 아이 성향에 맞는 학습 방법을 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

@@ -15,7 +15,7 @@ featured_image: "/images/edu_0300_CtKO4NGiEhE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 발달 단계와 기질을 파악합니다. 적합한 놀이학교 유형과 프로그램을 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 놀이학교 vs 어린이집 vs 유치원
@@ -24,7 +24,7 @@ featured_image: "/images/edu_0300_CtKO4NGiEhE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정 상황에 맞는 기관 유형을 안내합니다. 맞벌이 여부와 아이 성향을 고려해 추천합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 놀이학교 프로그램 종류
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0300_CtKO4NGiEhE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향에 맞는 프로그램을 추천합니다. 시범 수업 후 적합성을 함께 확인합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 연령별 놀이학교 선택
@@ -44,7 +44,7 @@ featured_image: "/images/edu_0300_CtKO4NGiEhE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 연령에 맞는 놀이학교를 연결합니다. 발달 단계에 적합한 환경인지 확인합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 좋은 놀이학교 선택 기준
@@ -53,7 +53,7 @@ featured_image: "/images/edu_0300_CtKO4NGiEhE.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-놀이학교 방문 체크리스트를 제공합니다. 시설과 교사 자질을 함께 확인합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

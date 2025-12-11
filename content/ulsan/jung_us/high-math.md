@@ -10,14 +10,13 @@ tags:
   - 중구수학과외
   - 중구고등수학
 ---
-
-x³+8을 인수분해하기 어렵다면, 인수분해력이 필요합니다.
+수학 포기하려고요? 잠깐만요.
 
 중구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 중앙고, 울산여고, 함월고 시험에서 인수분해 문제가 자주 출제됩니다. 공식을 정확히 알고 적용하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인수분해 공식을 체계적으로 정리합니다. 다양한 형태의 다항식을 인수분해하는 훈련을 합니다.
+학생의 이력을 꼼꼼히 살핍니다. 언제부터 어려워졌는지 파악합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ x³+8을 인수분해하기 어렵다면, 인수분해력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식 선택 기준을 정리합니다. 다양한 유형의 인수분해를 훈련합니다.
+문제를 많이 푸는 것보다 한 문제를 깊이 이해하는 게 중요합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ x³+8을 인수분해하기 어렵다면, 인수분해력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중앙고, 함월고 기출에서 인수분해 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+내신 시험은 학교마다 다릅니다. 전략적 대비가 필요합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ x³+8을 인수분해하기 어렵다면, 인수분해력이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 인수분해력을 점진적으로 향상시킵니다.
+시험 3주 전부터는 내신에 올인합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -130,5 +129,5 @@ x³+8을 인수분해하기 어렵다면, 인수분해력이 필요합니다.
 
 ## 마무리
 
-중구에서 인수분해가 어렵다면 공식 훈련이 필요합니다. 패턴이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 오늘이 가장 빠른 날입니다.
 

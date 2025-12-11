@@ -28,7 +28,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 가주어 it 구문의 이해 수준을 진단합니다. It - to 구문, It - that 구문, 진주어 파악을 체계적으로 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 가주어 it 구문이 어려운 이유
@@ -39,7 +39,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가주어 it과 대명사 it을 구분하는 연습을 합니다. 다양한 문장에서 진주어를 찾는 훈련을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 장원중·대경중·장충중 영어 시험의 특징
@@ -52,7 +52,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장원중·대경중·장충중 기출 it 구문 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 가주어 구문을 만들어보게 합니다. 진주어가 무엇인지 설명하는 훈련을 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,7 +76,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 it 구문 내용을 정확히 이해합니다. it 구문을 자유롭게 활용하는 능력을 키웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 수업료 안내
@@ -87,7 +87,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 it 구문 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}

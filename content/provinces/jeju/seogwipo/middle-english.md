@@ -10,14 +10,13 @@ tags:
   - 서귀포시영어과외
   - 서귀포시중등영어
 ---
-
-I have lived here for 5 years에서 왜 lived가 아니라 have lived인지 모른다면, 현재완료력이 필요합니다.
+영어 실력, 지금 바로 키울 수 있습니다.
 
 서귀포시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 서귀포고, 대정고, 남주고 시험에서 현재완료 문제가 자주 출제됩니다. have + 과거분사 형태와 쓰임을 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재완료 용법을 체계적으로 정리합니다. 과거시제와 구분을 훈련합니다.
+학생이 어떤 유형에서 자주 틀리는지 분석합니다. 약점을 알아야 보완됩니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ I have lived here for 5 years에서 왜 lived가 아니라 have lived인지 모�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재완료 용법을 정리합니다. 시간 표현 구분을 훈련합니다.
+어려운 문제도 기본 개념의 조합입니다. 기본기가 탄탄하면 풀 수 있습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ I have lived here for 5 years에서 왜 lived가 아니라 have lived인지 모�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서귀포고, 대정고 기출에서 현재완료 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ I have lived here for 5 years에서 왜 lived가 아니라 have lived인지 모�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 현재완료력을 점진적으로 심화합니다.
+입시 전략에 맞춰 내신과 수능 비중을 설계합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -136,5 +135,5 @@ I have lived here for 5 years에서 왜 lived가 아니라 have lived인지 모�
 
 ## 마무리
 
-서귀포시에서 현재완료가 어렵다면 용법 구분 훈련이 필요합니다. 시제가 보이면 영어가 쉬워집니다.
+ 학생 여러분, 결심이 시작입니다. 오늘 상담받고 내일부터 달라지세요.
 

@@ -15,7 +15,7 @@ featured_image: "/images/edu_0697_UTVJbUK9hPg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 적성을 파악합니다. 희망 학과의 권장 이수 과목을 확인하고 최적의 과목 조합을 추천합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 계열별 과목 선택
@@ -26,7 +26,7 @@ featured_image: "/images/edu_0697_UTVJbUK9hPg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계열별 필수 과목과 권장 과목을 정리해드립니다. 학생의 강점을 고려해 조합을 만듭니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 대학 권장 이수 과목
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0697_UTVJbUK9hPg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-희망 대학의 권장 이수 과목을 확인합니다. 학교 개설 과목과 비교해 현실적인 계획을 세웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과목 선택 시 고려사항
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0697_UTVJbUK9hPg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 조합안을 만들고 장단점을 비교합니다. 학생에게 가장 유리한 선택을 함께 결정합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학년별 과목 선택
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0697_UTVJbUK9hPg.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 과목 선택 로드맵을 세웁니다. 매 학기 점검하고 필요하면 조정합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

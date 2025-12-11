@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평택 지역 학교의 내신 출제 경향을 철저히 분석하여, 학교별 맞춤 대비를 해드립니다. 고덕·지제 학원가의 우수한 선생님들이 체계적으로 지도합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ### SRT·1호선의 교통 편의
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 수준을 정확히 진단하여 적합한 학원 유형을 추천해드립니다. 기초가 부족하면 소형 학원이나 과외를, 경쟁을 통해 동기부여가 되는 아이라면 대형 학원을 권장합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ### 영어 학원 선택하기
@@ -65,7 +65,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 성향과 학습 상태를 파악하여 과외와 학원 중 적합한 방식을 제안해드립니다. 필요하다면 학원과 과외를 병행하는 전략도 설계해드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ### 좋은 과외 선생님 찾는 법
@@ -74,7 +74,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검증된 선생님만 매칭해드립니다. 학력, 경력, 성적 향상 사례를 꼼꼼히 확인하고, 시범 수업으로 아이와의 궁합까지 체크하실 수 있습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 학년별 학습 전략
@@ -85,7 +85,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생에게는 재미있는 수업으로 학습에 대한 흥미를 키워드립니다. 게임, 퍼즐 등을 활용해 아이가 공부를 즐기면서 실력을 쌓을 수 있도록 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ### 중학생
@@ -98,7 +98,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼으로 체계적으로 지도합니다. 내신과 수능 두 마리 토끼를 잡을 수 있도록 균형 잡힌 학습 계획을 설계해드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

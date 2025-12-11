@@ -21,7 +21,7 @@ featured_image: "/images/edu_0218_iuV2js-pJLw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 흥미, 적성, 가치관을 종합적으로 분석합니다. 여러 진로 옵션을 함께 탐색하고 최적의 방향을 찾아갑니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 왜 진로를 일찍 정해야 하나
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0218_iuV2js-pJLw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 학년에 맞는 진로 탐색 로드맵을 설계합니다. 시기별로 해야 할 활동과 준비 사항을 구체적으로 안내합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자기 이해 - 나는 누구인가
@@ -55,7 +55,7 @@ Holland 흥미 유형 6가지를 통해 자신을 파악할 수 있습니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적성검사 결과를 함께 분석합니다. 학생의 강점과 흥미를 바탕으로 적합한 전공과 직업을 탐색합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 이과와 문과 선택
@@ -78,7 +78,7 @@ Holland 흥미 유형 6가지를 통해 자신을 파악할 수 있습니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 전공에 맞는 교과 선택과 활동 계획을 수립합니다. 학생부에 기록할 수 있는 구체적인 활동을 함께 기획합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년별 진로 활동
@@ -91,7 +91,7 @@ Holland 흥미 유형 6가지를 통해 자신을 파악할 수 있습니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 체크리스트를 제공하고 정기적으로 진행 상황을 점검합니다. 부족한 부분은 보완 계획을 세워 실행합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}

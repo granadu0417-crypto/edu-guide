@@ -14,12 +14,11 @@ tags:
   - 광주시영어과외
   - 광주시고등영어
 ---
-
-광주시 고등학교 영어, 내신과 수능 모두 만만치 않습니다.
+영어 때문에 대학 못 가면 너무 억울하지 않나요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 독해, 어휘, 듣기 각 영역을 점검합니다.
+성적표만 보지 않습니다. 실제로 문제를 풀어보면서 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 광주시 고등학교 영어가 어려운 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 균형있게 대비합니다. 학기 중에는 내신 집중, 방학에는 수능 유형 훈련을 병행합니다.
+어려운 문제도 기본 개념의 조합입니다. 기본기가 탄탄하면 어떤 문제든 풀 수 있습니다.
 </div>
 
 ## 광주시 주요 고등학교 영어 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 영어 기출문제를 분석합니다. 출제 경향과 자주 나오는 유형을 파악합니다.
+같은 학교 학생들을 여러 명 가르쳐본 경험이 있습니다. 그 학교 시험의 특징을 잘 압니다.
 </div>
 
 ## 수능 영어 대비 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출문제와 EBS 교재를 활용합니다. 고난도 유형의 접근법을 단계별로 훈련합니다.
+내신 시험이 끝나면 바로 수능 대비로 전환합니다. 시간 낭비 없이 효율적으로 운영합니다.
 </div>
 
 
@@ -128,6 +127,6 @@ tags:
 
 ## 마무리
 
-광주시 고등학생 여러분, 영어 성적 향상이 필요하시다면 지금 시작하세요.
+광주시 학생 여러분, 성적이 고민이라면, 지금 바로 상담받아 보세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

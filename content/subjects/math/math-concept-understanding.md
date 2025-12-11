@@ -23,7 +23,7 @@ featured_image: "/images/edu_0516_q1ipmLsJJsk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념의 의미를 하나하나 설명합니다. 학생이 이해했는지 질문하고 스스로 설명하게 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 개념 학습 5단계
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0516_q1ipmLsJJsk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-5단계를 차례로 진행합니다. 학생이 설명할 수 있을 때까지 반복합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 개념 유형별 학습법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0516_q1ipmLsJJsk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정의와 정리와 공식을 구분해서 가르칩니다. 각각에 맞는 학습법을 적용합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 이해 전략
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0516_q1ipmLsJJsk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 전략으로 개념을 설명합니다. 학생에게 맞는 방법을 찾아 적용합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 흔한 오해
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0516_q1ipmLsJJsk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 오해를 바로잡습니다. 올바른 개념 학습법을 습관화시킵니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -120,6 +120,6 @@ featured_image: "/images/edu_0516_q1ipmLsJJsk.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 개념도 쉽게 설명합니다. 이해 여부를 바로 확인하며 진행합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 

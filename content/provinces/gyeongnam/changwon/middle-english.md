@@ -10,14 +10,13 @@ tags:
   - 창원시영어과외
   - 창원시중등영어
 ---
-
-because와 so 중 빈칸에 뭘 넣을지 모른다면, 접속사력이 필요합니다.
+영어는 혼자 공부하기 어려운 과목입니다.
 
 창원시에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 창원고, 마산고, 창원중앙고 시험에서 접속사 문제가 자주 출제됩니다. 문장과 문장을 연결하는 역할을 정확히 아는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-접속사 종류를 체계적으로 정리합니다. 문맥에 맞는 선택을 훈련합니다.
+학생의 학습 스타일과 약점을 분석합니다. 맞지 않는 방법으로는 성적이 안 오릅니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ because와 so 중 빈칸에 뭘 넣을지 모른다면, 접속사력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-접속사 의미를 정리합니다. 문맥 파악을 훈련합니다.
+문제를 읽고 바로 풀지 않습니다. 무엇을 구하는지 먼저 생각합니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ because와 so 중 빈칸에 뭘 넣을지 모른다면, 접속사력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-창원고, 마산고 기출에서 접속사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+기출문제를 유형별로 정리하여 반복 훈련합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ because와 so 중 빈칸에 뭘 넣을지 모른다면, 접속사력이 필요�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 접속사력을 점진적으로 심화합니다.
+내신은 학교별로, 수능은 전국 기준으로 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -124,5 +123,5 @@ because와 so 중 빈칸에 뭘 넣을지 모른다면, 접속사력이 필요�
 
 ## 마무리
 
-창원시에서 접속사가 어렵다면 의미 구분 훈련이 필요합니다. 연결이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 실력 향상을 응원합니다.
 

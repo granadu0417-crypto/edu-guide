@@ -22,7 +22,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안 상담에서는 먼저 불안의 원인을 파악합니다. 준비 부족인지, 압박감인지, 과거 경험인지 분석하고 맞춤 해결책을 찾습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 시험 불안 상담이 왜 필요한가요?
@@ -37,7 +37,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안은 학습 상담과 심리 상담을 병행할 때 효과가 좋습니다. 공부 방법을 개선하면서 동시에 멘탈을 다스리는 법을 배웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 진로 상담은 적성과 진로를 발견하는 것이 목적입니다. 진학 상담은 입시 전략과 학교 정보를 제공합니다.
@@ -50,7 +50,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 불안을 다스리는 구체적인 기법을 연습합니다. 호흡법, 이완 기법, 긍정적 자기 대화 등을 배우고 실천합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 학년에 따라 시험 불안이 다른가요?
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 상황에 맞는 불안 해소 방법을 안내합니다. 시험 전날, 시험 당일, 시험 중에 할 수 있는 구체적인 기법을 알려드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -88,7 +88,7 @@ featured_image: "/images/edu_0096_zNFT3o8HWks.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 불안 해소에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 멘탈 관리 방법을 함께 찾아드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

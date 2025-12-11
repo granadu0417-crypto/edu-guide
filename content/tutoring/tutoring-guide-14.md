@@ -20,7 +20,7 @@ featured_image: "/images/edu_0948_FG15xOczy78.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 학생 성향을 먼저 파악합니다. 경쟁이 자극이 되는 타입인지, 1:1로 집중해야 하는 타입인지 확인하고 맞는 방식을 추천합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 그룹 과외는 어떤 장점이 있나요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0948_FG15xOczy78.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인 과외에서는 학생의 약점만 집중적으로 보강합니다. 아는 건 빠르게 넘어가고, 모르는 건 완벽히 이해할 때까지 반복합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 어떤 아이에게 그룹 과외가 맞나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0948_FG15xOczy78.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외 시작 전에 레벨 테스트를 진행합니다. 수준이 맞는 학생들끼리 구성해야 효과가 있습니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 어떤 아이에게 개인 과외가 맞나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0948_FG15xOczy78.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 집중력과 학습 패턴을 파악해서 수업 방식을 조절합니다. 1:1의 장점을 최대한 활용합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0948_FG15xOczy78.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹 과외와 개인 과외 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 아이 성향에 맞는 방식을 추천드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

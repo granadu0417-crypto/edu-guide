@@ -10,14 +10,13 @@ tags:
   - 동래구수학과외
   - 동래구고등수학
 ---
-
-극한 계산에서 부정형이 나오면 막막하다면, 극한 계산력이 필요합니다.
+수학은 방법만 알면 누구나 오를 수 있습니다.
 
 동래구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 동래고, 동래여고, 명호고 시험에서 극한 문제가 자주 출제됩니다. 부정형을 해결하는 방법을 정확히 알아야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-극한의 정의를 정확히 이해시킵니다. 0/0, ∞/∞ 같은 부정형 해결법을 훈련합니다.
+기초가 부족한지, 응용이 약한지, 시간 관리가 문제인지 정확히 진단합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -32,7 +31,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부정형 유형별로 해결 방법을 정리합니다. 어떤 기법을 쓸지 판단하는 훈련을 합니다.
+쉬운 문제부터 어려운 문제까지 단계별로 진행합니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동래고, 동래여고 기출에서 극한 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+학교의 기출문제를 철저히 분석합니다. 자주 나오는 유형을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 극한 계산력을 점진적으로 향상시킵니다.
+수시를 노린다면 내신, 정시를 노린다면 수능. 목표에 맞춰 비중을 조절합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -126,4 +125,4 @@ tags:
 
 ## 마무리
 
-동래구에서 극한이 막막하다면 부정형 해결 훈련이 필요합니다. 극한이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 효율적으로 병행하는 방법을 알려드립니다.

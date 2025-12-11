@@ -15,7 +15,7 @@ featured_image: "/images/edu_0286_oLFD6zMxdOY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 영어 수준과 학습 스타일을 파악합니다. 국제학교 적합성을 함께 판단하고 준비 방향을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 국제학교 교육과정
@@ -24,7 +24,7 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 교육과정의 특성과 장단점을 설명합니다. 아이에게 맞는 교육과정을 추천해드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 국제학교의 장단점
@@ -35,7 +35,7 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 시험과 면접 준비를 도와드립니다. 영어 에세이와 수학 문제 풀이를 집중 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주요 국제학교 소개
@@ -44,7 +44,7 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 학교의 특성과 입학 조건을 안내합니다. 학교 선택을 함께 고민해드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 대학 진학 전략
@@ -53,7 +53,7 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학 진학 로드맵을 함께 설계합니다. 에세이 작성과 면접 준비를 지원합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문

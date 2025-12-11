@@ -19,7 +19,7 @@ featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 속도가 느린 원인을 먼저 파악합니다. 어휘 문제인지, 문장 구조 파악 문제인지 진단하고 맞춤 훈련을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 영어 시험의 구조
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 구분해서 대비합니다. 내신은 본문 중심, 수능은 독해력 중심으로 전략을 다르게 가져갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 어휘 학습법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 암기 상황을 체크하고 복습 테스트를 진행합니다. 까먹은 단어를 다시 잡아주고 장기 기억으로 만듭니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 문법 학습법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 출제되는 문법을 정리하고 문제로 적용합니다. 틀리는 유형을 분석해서 약점을 보완합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 독해 전략
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 전략을 연습합니다. 문제 먼저 보기, 핵심 파악하기, 문맥 추론하기 등의 기술을 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 내신 영어 대비
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 본문 분석과 프린트 문제 풀이를 집중적으로 합니다. 내신에 나올 유형을 예상하고 대비합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 수능 영어 대비

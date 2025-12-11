@@ -21,7 +21,7 @@ featured_image: "/images/edu_0950_bFMmD2yufEI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작 전에 구체적인 목표를 함께 설정합니다. "수학 80점 이상" "영어 2등급 진입" 같은 숫자로 된 목표를 정합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 목표 설정이 왜 중요한가요?
@@ -34,7 +34,7 @@ featured_image: "/images/edu_0950_bFMmD2yufEI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매달 목표 달성 여부를 점검합니다. 달성했으면 다음 목표로, 못 달성했으면 원인을 분석하고 보완합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 어떤 목표를 세워야 하나요?
@@ -47,7 +47,7 @@ featured_image: "/images/edu_0950_bFMmD2yufEI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력을 진단하고, 현실적으로 달성 가능한 목표를 함께 설정합니다. 작은 성공을 쌓아가는 게 중요합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 학습 계획은 어떻게 세우나요?
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0950_bFMmD2yufEI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험까지의 학습 계획을 함께 세웁니다. 주간, 일간 단위로 구체적인 분량을 정해드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "/images/edu_0950_bFMmD2yufEI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 계획과 목표 설정에 대해 더 궁금한 점이 있으시면 문의하세요. 달성 가능한 목표와 실천 가능한 계획을 함께 세워드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 **Q. 수업 시간은 어떻게 되나요?**

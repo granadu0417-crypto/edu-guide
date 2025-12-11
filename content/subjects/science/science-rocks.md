@@ -26,7 +26,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 가지 암석의 생성 과정을 그림으로 정리합니다. 각 암석의 특징을 생성 원리와 연결합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 화성암
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심성암과 화산암의 특징을 비교합니다. 대표 암석을 사진으로 구분하는 연습을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 퇴적암
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-퇴적암의 분류 기준을 정리합니다. 층리와 화석의 의미를 설명합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 변성암
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-변성 전후 암석을 연결합니다. 엽리의 형성 원리를 설명합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 암석 사진 구분과 특징 비교를 집중 훈련합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,5 +111,5 @@ featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 암석을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>

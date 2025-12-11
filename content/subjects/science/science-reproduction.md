@@ -26,7 +26,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무성생식과 유성생식의 장단점을 비교합니다. 각 방법의 예시를 정리합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 감수분열
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-감수분열의 단계를 그림으로 정리합니다. 체세포분열과 비교하여 차이를 명확히 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 수정과 발생
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발생 단계를 순서대로 정리합니다. 각 단계의 특징을 그림과 연결합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 사람의 생식
@@ -55,7 +55,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생식기관의 구조를 그림으로 파악합니다. 호르몬과 생식 주기를 연결합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 분열 그림 해석과 염색체 수 문제를 집중 훈련합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -127,5 +127,5 @@ featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 생식을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>

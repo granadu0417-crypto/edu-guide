@@ -20,7 +20,7 @@ featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-습관 상담에서는 왜 작심삼일로 끝나는지 원인을 분석합니다. 너무 큰 계획, 잘못된 환경, 보상 부재 등 문제를 찾고 해결책을 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학습 습관 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작심삼일이 반복된다면 학습 상담을 받으세요. 습관을 만드는 방법을 알려드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 심리 상담은 무기력이 심할 때 도움이 됩니다. 진로 상담은 동기가 없어서 공부가 안 될 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 실천 가능한 작은 습관부터 시작합니다. 하루 10분이라도 매일 하는 루틴을 설계해드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 학습 습관은 어떻게 만드나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 습관을 설계합니다. 무리하지 않으면서도 지속 가능한 루틴을 함께 만들어갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관에 대해 더 궁금한 점이 있으시면 문의하세요. 꾸준히 하는 방법을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 **Q. 첫 수업은 어떻게 하나요?**

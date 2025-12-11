@@ -19,7 +19,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 화학 기초를 먼저 진단합니다. 어떤 개념이 부족한지, 어디서 막히는지 파악합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 화학이 어려운 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화학 현상을 입자 수준에서 설명합니다. 왜 그런 반응이 일어나는지 이해하게 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 반응식 이해하기
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-반응식을 입자 모형으로 그려봅니다. 무슨 일이 일어나는지 시각적으로 이해합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 화학1 핵심 정리
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단원별로 핵심 개념을 정리합니다. 연결 고리를 찾아 통합적으로 이해합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 문제 풀이 전략
@@ -73,7 +73,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계산 과정을 꼼꼼히 점검합니다. 실수하기 쉬운 부분을 짚어드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과외의 장점
@@ -86,7 +86,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 철저히 합니다. 같은 실수를 반복하지 않게 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,7 +105,7 @@ featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학습 계획과 비용을 안내드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

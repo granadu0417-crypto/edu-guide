@@ -22,7 +22,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 관심 분야를 파악하고, 그에 맞는 비교과 활동을 설계합니다. 생기부 전체의 일관성을 유지합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 비교과 활동의 핵심
@@ -35,7 +35,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학년 때 한 활동을 2학년 때 심화합니다. 성장 스토리를 만들어가는 게 핵심입니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 세부능력특기사항 관리
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 어떻게 참여해야 하는지, 어떤 주제로 발표하면 좋은지 코칭합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 동아리 활동
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동아리에서 어떤 프로젝트를 하면 좋을지, 어떻게 기록을 남길지 함께 계획합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 독서 활동
@@ -74,7 +74,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로에 맞는 필독서를 선정하고, 깊이 있게 읽는 방법을 안내합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 봉사 활동
@@ -87,7 +87,7 @@ featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-봉사 활동도 진로와 연결합니다. 의미 있는 봉사가 무엇인지 함께 찾아봅니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 주의사항

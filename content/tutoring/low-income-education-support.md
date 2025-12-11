@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경제적 상황에 맞는 학습 방법을 함께 찾아드립니다. 비용 부담 없이 효과적으로 공부하는 방법이 있습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 어떤 정부 지원을 받을 수 있나요?
@@ -39,7 +39,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지원 제도를 잘 활용할 수 있도록 정보를 안내해 드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 무료로 공부할 수 있는 방법이 있나요?
@@ -52,7 +52,7 @@ EBS가 가장 좋습니다. 초중고 전 과목 무료 인강을 들을 수 있
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 자원을 어떻게 활용하면 좋을지 구체적인 방법을 알려드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과외도 저렴하게 받을 수 있나요?
@@ -79,7 +79,7 @@ EBS가 가장 좋습니다. 초중고 전 과목 무료 인강을 들을 수 있
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장학금 정보를 함께 찾아봐 드립니다. 받을 수 있는 지원을 최대한 활용하도록 도와드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 어떻게 공부하면 효과적인가요?
@@ -92,7 +92,7 @@ EBS 인강으로 개념을 학습하고, 도서관에서 자습하며 문제를 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 학습 전략을 함께 세워드립니다. 적은 비용으로 최대 효과를 내는 방법을 알려드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문

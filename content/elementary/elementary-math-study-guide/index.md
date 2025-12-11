@@ -35,7 +35,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 수학을 왜 어려워하는지 먼저 파악합니다. 연산이 느린지, 개념 이해가 안 되는지, 문장제에서 막히는지 원인을 찾아서 거기부터 잡아갑니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 1에서 2학년 수학 공부법
@@ -50,7 +50,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-저학년은 게임처럼 즐겁게 수업합니다. 숫자 카드로 게임하고, 블록으로 덧셈 뺄셈을 직접 보여주면서 수 감각을 키웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 3에서 4학년 수학 공부법
@@ -65,7 +65,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제가 어려운 학생은 문제를 그림으로 그려보는 연습부터 합니다. 그림을 그릴 수 있으면 식을 세울 수 있습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 5에서 6학년 수학 공부법
@@ -80,7 +80,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고학년은 왜 이렇게 푸는지를 설명할 수 있어야 합니다. 개념을 이해했는지 확인하려면 직접 설명해보게 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 수학 실력 향상 핵심 전략
@@ -97,7 +97,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 그냥 넘어가지 않습니다. 왜 틀렸는지 분석하고, 비슷한 유형을 한 번 더 풀어봅니다. 같은 실수를 반복하지 않는 것이 핵심입니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 학부모가 알아야 할 지도법
@@ -108,7 +108,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 내용과 아이의 상태를 부모님께 공유합니다. 집에서 어떻게 도와주시면 좋을지 구체적으로 안내해드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}

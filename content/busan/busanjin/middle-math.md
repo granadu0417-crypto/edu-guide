@@ -10,14 +10,13 @@ tags:
   - 부산진구수학과외
   - 부산진구중등수학
 ---
-
-y = 2x + 3에서 기울기와 y절편이 뭔지 헷갈린다면, 함수력이 필요합니다.
+초등학교 때는 잘했는데, 지금은 왜 안 되나요?
 
 부산진구에서 수학과외를 찾는 학부모님들의 공통된 고민입니다. 부산진고, 부산중앙고, 동의고 시험에서 함수 문제가 자주 출제됩니다. 일차함수의 식과 그래프를 연결하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수 개념을 체계적으로 정리합니다. 식과 그래프의 관계를 훈련합니다.
+실력은 숫자로만 평가할 수 없습니다. 개념 이해도, 문제 접근법까지 종합 진단합니다.
 </div>
 
 ## 중등 수학이 어려운 이유
@@ -32,7 +31,7 @@ y = 2x + 3에서 기울기와 y절편이 뭔지 헷갈린다면, 함수력이 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기울기와 절편의 의미를 정리합니다. 그래프 그리기를 반복 훈련합니다.
+단계별 학습이 중요합니다. 앞 단원이 부족하면 뒷 단원을 이해할 수 없습니다.
 </div>
 
 ## 학교별 수학 시험 특성
@@ -47,7 +46,7 @@ y = 2x + 3에서 기울기와 y절편이 뭔지 헷갈린다면, 함수력이 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부산진고, 부산중앙고 기출에서 함수 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+최근 3년 기출을 분석하여 출제 패턴을 파악합니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ y = 2x + 3에서 기울기와 y절편이 뭔지 헷갈린다면, 함수력이 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 함수력을 점진적으로 향상시킵니다.
+내신도 중요하고 수능도 중요합니다. 둘 다 놓치지 않는 계획을 세웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -112,5 +111,5 @@ y = 2x + 3에서 기울기와 y절편이 뭔지 헷갈린다면, 함수력이 �
 
 ## 마무리
 
-부산진구에서 함수가 어렵다면 그래프 훈련이 필요합니다. 그림이 보이면 수학이 쉬워집니다.
+ 학생 여러분, 1등급도, 성적 향상도 가능합니다.
 

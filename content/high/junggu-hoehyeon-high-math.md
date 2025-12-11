@@ -27,7 +27,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 풀이 과정을 먼저 점검합니다. 논리적 비약이나 빠진 단계를 파악한 후 체계적인 서술 훈련을 시작합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고, 장충고, 환일고 기출을 상세히 분석합니다. 학교마다 출제 경향이 다르기 때문에, 맞춤형 내신 대비를 진행합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ### 치열한 등급 경쟁
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고 학생은 계산 정확성에, 장충고 학생은 다양한 유형에, 환일고 학생은 심화 문제에 집중합니다. 학교별 맞춤 전략으로 내신을 공략합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 수학과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 철저히 분석합니다. 원인을 파악하여 같은 유형에서 반복하지 않도록 훈련합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 고등 수학 학습 순서
@@ -119,7 +119,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습량과 진도를 설계합니다. 시험 기간에는 내신에 집중하고, 방학에는 선행과 심화를 병행합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ### 고3: 마무리
@@ -136,7 +136,7 @@ featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황을 고려하여 합리적으로 정합니다. 무료 상담에서 학생 수준을 파악한 뒤, 적절한 수업 횟수와 시간을 안내드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문

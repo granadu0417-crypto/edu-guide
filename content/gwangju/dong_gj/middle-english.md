@@ -10,14 +10,13 @@ tags:
   - 동구영어과외
   - 동구중등영어
 ---
-
-The number of students is와 A number of students are 중 어느 것이 맞는지 모른다면, 수일치력이 필요합니다.
+지금 시작하면 영어도 충분히 잡을 수 있습니다.
 
 동구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 동구고, 광주중앙고, 조대부고 시험에서 수일치 문제가 자주 출제됩니다. 주어의 단수/복수에 따라 동사를 정확히 맞추는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수일치 규칙을 체계적으로 정리합니다. 주어 파악을 훈련합니다.
+문제 푸는 과정을 옆에서 지켜봅니다. 어떤 생각으로 접근하는지 확인합니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ The number of students is와 A number of students are 중 어느 것이 맞는�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주어 찾기를 정리합니다. 예외 표현을 훈련합니다.
+개념 설명 후 바로 문제를 풀어봅니다. 알았다고 생각해도 막히는 경우가 많습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ The number of students is와 A number of students are 중 어느 것이 맞는�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동구고, 광주중앙고 기출에서 수일치 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험의 난이도 분포를 알고 있습니다. 시간 배분 전략을 세웁니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ The number of students is와 A number of students are 중 어느 것이 맞는�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 수일치력을 점진적으로 심화합니다.
+내신 시험이 끝나면 바로 수능 대비로 전환합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -112,5 +111,5 @@ The number of students is와 A number of students are 중 어느 것이 맞는�
 
 ## 마무리
 
-동구에서 수일치가 어렵다면 주어 분석 훈련이 필요합니다. 규칙이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 성적이 고민이라면, 지금 바로 상담받아 보세요.
 

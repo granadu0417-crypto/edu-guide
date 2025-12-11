@@ -10,14 +10,13 @@ tags:
   - 연수구영어과외
   - 연수구중등영어
 ---
-
-to부정사가 명사, 형용사, 부사 중 어떤 역할인지 구분하지 못한다면, to부정사력이 필요합니다.
+지금 시작하면 영어도 충분히 잡을 수 있습니다.
 
 연수구에서 영어과외를 찾는 학부모님들의 공통된 고민입니다. 연수고, 인천포스코고, 송도고 시험에서 to부정사 문제가 자주 출제됩니다. 문장에서 to부정사의 역할을 파악하는 것이 핵심입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-to부정사 용법을 체계적으로 정리합니다. 역할 판단을 훈련합니다.
+문제 푸는 과정을 옆에서 지켜봅니다. 어떤 생각으로 접근하는지 확인합니다.
 </div>
 
 ## 중등 영어가 어려운 이유
@@ -32,7 +31,7 @@ to부정사 용법을 체계적으로 정리합니다. 역할 판단을 훈련�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 가지 용법을 정리합니다. 해석과 연결해서 훈련합니다.
+개념 설명 후 바로 문제를 풀어봅니다. 알았다고 생각해도 막히는 경우가 많습니다.
 </div>
 
 ## 학교별 영어 시험 특성
@@ -47,7 +46,7 @@ to부정사 용법을 체계적으로 정리합니다. 역할 판단을 훈련�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연수고, 인천포스코고 기출에서 to부정사 문제를 분석합니다. 자주 나오는 유형을 정리합니다.
+시험의 난이도 분포를 알고 있습니다. 시간 배분 전략을 세웁니다.
 </div>
 
 ## 과외가 필요한 이유
@@ -72,7 +71,7 @@ to부정사 용법을 완벽히 이해합니다. 세 가지 역할을 훈련합�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 수준에 맞춰 to부정사력을 점진적으로 심화합니다.
+내신 시험이 끝나면 바로 수능 대비로 전환합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -128,5 +127,5 @@ to부정사 용법을 완벽히 이해합니다. 세 가지 역할을 훈련합�
 
 ## 마무리
 
-연수구에서 to부정사가 어렵다면 용법 구분 훈련이 필요합니다. 역할이 보이면 영어가 쉬워집니다.
+ 학생 여러분, 성적이 고민이라면, 지금 바로 상담받아 보세요.
 

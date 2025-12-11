@@ -19,7 +19,7 @@ featured_image: "/images/edu_0155_WE_Kv_ZB1l0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 개념 이해도를 먼저 확인합니다. 공식만 아는지, 원리까지 이해하는지 진단하고 부족한 부분을 채워갑니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 과학 시험의 특성
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0155_WE_Kv_ZB1l0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능의 출제 경향을 분석하고 그에 맞는 학습 전략을 세웁니다. 기본 개념부터 심화 응용까지 단계적으로 진행합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 개념 학습 방법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0155_WE_Kv_ZB1l0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 바로 적용 문제를 풉니다. 이해했는지 확인하고 부족하면 다시 설명하는 방식으로 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 실험 정리 방법
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0155_WE_Kv_ZB1l0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 실험을 하나씩 분석합니다. 목적, 과정, 결과, 해석을 체계적으로 정리하고 관련 문제를 풀어봅니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 내신 과학 대비
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0155_WE_Kv_ZB1l0.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서와 프린트를 중심으로 내신을 대비합니다. 선생님별 출제 경향을 분석하고 그에 맞춰 준비합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 수능 과학 대비

@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 일본어 수준과 목표를 먼저 파악합니다. 히라가나부터인지, N2 목표인지에 따라 커리큘럼이 달라집니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 일본어 학원 유형별 특징
@@ -37,7 +37,7 @@ JLPT 전문 학원은 시험에 집중합니다. N5부터 N1까지 레벨별로 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표에 맞는 학원 유형을 안내합니다. JLPT 급수가 목표면 시험 전문, 회화가 목표면 회화 전문을 추천합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## JLPT 레벨별 특징
@@ -50,7 +50,7 @@ N2-N1은 고급입니다. 비즈니스 일본어, 뉴스, 소설을 읽을 수 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-레벨 테스트로 현재 수준을 파악합니다. 무리하지 않고 단계별로 올라갑니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 일본인 강사랑 한국인 강사, 뭐가 좋아요?
@@ -73,7 +73,7 @@ JLPT 직전 집중 대비가 됩니다. 시험 직전에 과외를 늘려서 모
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용을 과외에서 복습하고 확장합니다. 혼자서 안 되는 부분을 잡아줍니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 일본어 실력을 빨리 올리려면
@@ -86,7 +86,7 @@ JLPT 직전 집중 대비가 됩니다. 시험 직전에 과외를 늘려서 모
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 외에 자습 방법도 안내합니다. 효과적인 단어 암기법, 청해 연습법을 알려드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문

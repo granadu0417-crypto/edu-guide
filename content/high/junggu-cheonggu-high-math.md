@@ -27,7 +27,7 @@ featured_image: "/images/edu_0746_5kfz_3mC2gI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 문제를 어떻게 분석하는지 먼저 관찰합니다. 어디서 방향을 잃는지 파악한 후 체계적인 문제 접근법을 훈련합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0746_5kfz_3mC2gI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고, 장충고, 환일고 기출을 철저히 분석합니다. 학교마다 출제 경향이 다르기 때문에, 맞춤형 내신 대비를 진행합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ### 치열한 등급 경쟁
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0746_5kfz_3mC2gI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고 학생은 계산 정확성에, 장충고 학생은 다양한 유형에, 환일고 학생은 심화 문제에 집중합니다. 학교별 맞춤 전략으로 내신을 공략합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 수학과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0746_5kfz_3mC2gI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 철저히 분석합니다. 원인을 파악하여 같은 유형에서 반복하지 않도록 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 고등 수학 학습 순서
@@ -119,7 +119,7 @@ featured_image: "/images/edu_0746_5kfz_3mC2gI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습량과 진도를 설계합니다. 시험 기간에는 내신에 집중하고, 방학에는 선행과 심화를 병행합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ### 고3: 마무리
@@ -136,7 +136,7 @@ featured_image: "/images/edu_0746_5kfz_3mC2gI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황을 고려하여 합리적으로 정합니다. 무료 상담에서 학생 수준을 파악한 뒤, 적절한 수업 횟수와 시간을 안내드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문

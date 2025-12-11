@@ -20,7 +20,7 @@ featured_image: "/images/edu_0174_nFrp4u2Pkxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 실수 패턴을 분석합니다. 자주 하는 실수를 파악하고 줄이는 훈련을 통해 정확도를 높입니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 수학 시험의 특성
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0174_nFrp4u2Pkxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 개념을 체계적으로 정리합니다. 원리를 이해하고 문제에 적용하는 연습을 반복합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 유형별 풀이 전략
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0174_nFrp4u2Pkxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 풀이법을 연습합니다. 각 유형의 접근법을 익히면 처음 보는 문제도 풀 수 있습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 실수 줄이기 전략
@@ -63,7 +63,7 @@ featured_image: "/images/edu_0174_nFrp4u2Pkxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 패턴을 분석하고 줄이는 훈련을 합니다. 시간을 재고 실전처럼 문제를 풀며 정확도를 높입니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 난이도별 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0174_nFrp4u2Pkxw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-난이도별 접근 전략을 훈련합니다. 시간 안에 최대 점수를 얻을 수 있도록 전략적으로 문제를 풉니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 수학 공부 방법

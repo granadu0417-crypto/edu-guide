@@ -19,7 +19,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 계획표를 함께 만들어봅니다. 처음에는 함께, 점차 혼자 만들도록 유도합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오늘 뭘 공부할 거야?라고 물어봅니다. 스스로 말할 수 있으면 자기주도 학습이 시작된 겁니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-요일별로 어떤 과목을 복습할지 정합니다. 매일 모든 과목을 다 할 필요 없습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 4학년의 특징과 대응
@@ -56,7 +56,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 계획표를 만들고, 매주 얼마나 지켰는지 점검합니다. 50% 지켜도 칭찬합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오늘 스스로 한 거 뭐야?라고 물어보면 아이가 성취감을 느낍니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 주의사항

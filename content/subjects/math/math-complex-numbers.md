@@ -23,7 +23,7 @@ featured_image: "/images/edu_0514_M3lq6tdHMj8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-허수의 정의부터 차근차근 설명합니다. 추상적인 개념을 그림과 예시로 구체화합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 복소수의 기초
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0514_M3lq6tdHMj8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복소수의 정의와 분류를 명확히 합니다. 켤레복소수의 성질을 활용하는 방법을 익힙니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 복소수의 연산
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0514_M3lq6tdHMj8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복소수 연산을 단계별로 연습합니다. 특히 나눗셈에서 켤레 활용법을 확실히 익힙니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 복소평면과 극형식
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0514_M3lq6tdHMj8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복소평면을 그림으로 이해합니다. 일반형과 극형식의 변환을 연습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 드무아브르 정리
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0514_M3lq6tdHMj8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-드무아브르 정리를 활용한 문제를 연습합니다. n 제곱근 구하는 방법을 익힙니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ x 제곱이 마이너스 1 같은 방정식을 풀기 위해서입니다. 실수
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복소수 개념과 연산을 체계적으로 정리합니다. 다양한 문제로 실전 감각을 키웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 

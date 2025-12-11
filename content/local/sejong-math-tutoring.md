@@ -19,7 +19,7 @@ featured_image: "/images/edu_0306_usdlEYpKueY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 정확히 진단합니다. 개념 이해도와 문제 해결 능력을 파악하고 맞춤 학습 계획을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학년별 수학 과외 전략
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0306_usdlEYpKueY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 학습 목표에 맞춰 수업합니다. 내신 시험 기간에는 학교 진도에 맞춰 집중 대비를 진행합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 수학 5대 핵심 학습 전략
@@ -39,7 +39,7 @@ featured_image: "/images/edu_0306_usdlEYpKueY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 문제 풀이로 확인합니다. 오답 패턴을 분석하고 맞춤형 문제를 제공합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -48,7 +48,7 @@ featured_image: "/images/edu_0306_usdlEYpKueY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 선생님을 매칭합니다. 시범 수업 후 학생과의 궁합을 확인합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 효과적인 과외 활용법
@@ -57,7 +57,7 @@ featured_image: "/images/edu_0306_usdlEYpKueY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습 복습 방법을 안내합니다. 오답노트 작성법을 지도하고 과외 시간 외 학습도 관리합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 세종 지역 중학교 수학 내신 특징
@@ -68,7 +68,7 @@ featured_image: "/images/edu_0306_usdlEYpKueY.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 답안 작성법을 집중 훈련하고 부분 점수 전략까지 준비합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 세종 지역 고등학교 수학 내신 특징
@@ -91,7 +91,7 @@ KAIST생이나 충남대생 과외는 대전 지역 평균과 비슷합니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 횟수와 시간은 학생 상황에 맞게 조율합니다. 예산에 맞는 최적의 수업 방식을 찾아드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문

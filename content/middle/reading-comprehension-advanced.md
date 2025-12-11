@@ -21,7 +21,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해력의 기초부터 점검합니다. 어휘력, 문장 이해력, 글 구조 파악 능력을 단계별로 키워드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 독해력이 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 유형의 지문을 읽으면서 독해 훈련을 합니다. 매 수업 비문학과 문학 지문을 하나씩 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 비문학 독해 전략
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문의 구조를 분석하는 방법을 알려드립니다. 중심 문장과 키워드를 찾는 연습을 합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 문학 독해 전략
@@ -54,7 +54,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 작품을 분석하는 틀을 알려드립니다. 시와 소설의 감상 방법을 체계적으로 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 독해력 향상 방법
@@ -65,7 +65,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 새로운 어휘를 정리합니다. 다양한 주제의 지문을 읽으면서 배경지식을 넓힙니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 문제 풀이 전략
@@ -76,7 +76,7 @@ featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별로 풀이 전략을 훈련합니다. 오답을 분석하여 같은 실수를 반복하지 않게 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}

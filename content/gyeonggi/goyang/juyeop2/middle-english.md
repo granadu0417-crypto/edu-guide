@@ -22,8 +22,7 @@ tags:
   - 주엽중
 featured_image: "/images/edu_0016.jpg"
 ---
-
-영어가 어렵다면, 방법을 바꿔보세요. 고양시 일산서구 주엽2동에서 중학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 고등 준비를 동시에 하세요.
+영어는 꾸준함이 답입니다. 지금 시작하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
@@ -38,7 +37,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 학교 시험에 집중하고, 그 외 기간에는 고등 기초를 다집니다. 시기별 전략이 있습니다.
+개념 강의만 듣고 끝내지 않습니다. 반드시 직접 문제를 풀어봐야 합니다.
 </div>
 
 ## 주엽중 시험 유형 파악하기
@@ -49,7 +48,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 비중이 높은 학교는 영작 연습을 집중적으로 합니다.
+기출문제만 풀어서는 안 됩니다. 출제 의도와 변형 가능성까지 분석하여 대비합니다.
 </div>
 
 ## 고등학교 영어, 미리 준비하세요
@@ -60,7 +59,7 @@ featured_image: "/images/edu_0016.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수로 틀린 건지, 몰라서 틀린 건지 구분합니다. 실수도 실력입니다. 줄일 수 있습니다.
+내신과 수능, 어느 하나도 소홀히 하지 않습니다. 효율적인 병행 전략을 알려드립니다.
 </div>
 
 ## 1:1 과외의 차별점
@@ -136,4 +135,4 @@ featured_image: "/images/edu_0016.jpg"
 
 ## 마무리
 
-영어는 기초입니다. 지금 확실히 잡아두세요.
+일산서구 학생 여러분, 지금 바로 잡으세요. 첫 상담은 무료입니다.

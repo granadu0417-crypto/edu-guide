@@ -23,7 +23,7 @@ featured_image: "/images/edu_0545_6cSii5M3GBw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습의 장점을 최대한 활용합니다. 자기주도적 학습 습관을 기릅니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 온라인 학습 유형
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0545_6cSii5M3GBw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 온라인 학습 유형을 추천합니다. 효율적인 활용법을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 효과적 인강 활용법
@@ -43,7 +43,7 @@ featured_image: "/images/edu_0545_6cSii5M3GBw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인강 활용의 핵심을 알려줍니다. 수동적 시청이 아닌 능동적 학습을 하도록 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 집중력 관리
@@ -52,7 +52,7 @@ featured_image: "/images/edu_0545_6cSii5M3GBw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 유지 방법을 구체적으로 알려줍니다. 학습 환경 조성을 돕습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 진도 관리
@@ -61,7 +61,7 @@ featured_image: "/images/edu_0545_6cSii5M3GBw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도 관리 방법을 체계적으로 안내합니다. 스스로 계획하고 실천하는 습관을 기릅니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -120,6 +120,6 @@ featured_image: "/images/edu_0545_6cSii5M3GBw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습의 장점을 극대화합니다. 효율적인 자기주도 학습을 지원합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 

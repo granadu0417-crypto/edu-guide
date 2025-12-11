@@ -14,12 +14,11 @@ tags:
   - 파주시수학과외
   - 파주시고등수학
 ---
-
-파주시 고등학교 수학, 중학교와 차원이 다릅니다. 체계적인 학습이 필수입니다.
+중학교 때는 잘했는데, 지금은 왜 안 되는 걸까요?
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 수학 실력을 정밀 진단합니다. 개념 이해도, 문제 해결력, 수능형 사고력까지 파악합니다.
+첫 만남에서 실력을 정밀하게 측정합니다. 개념, 계산, 응용력을 종합 평가하여 맞춤 계획을 세웁니다.
 </div>
 
 ## 파주시 고등학교 수학이 어려운 이유
@@ -30,7 +29,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 완벽히 이해한 후, 다양한 유형의 고난도 문제를 훈련합니다. 수능형 사고력을 기릅니다.
+쉬운 문제부터 어려운 문제까지 단계별로 진행합니다. 갑자기 어려운 문제를 풀면 좌절감만 커집니다.
 </div>
 
 ## 파주시 주요 고등학교 특징
@@ -45,7 +44,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교의 기출문제를 철저히 분석합니다. 출제 선생님 스타일, 자주 나오는 유형을 파악합니다.
+내신 시험은 학교마다 다릅니다. 학교 특성에 맞춘 전략적 대비가 필요합니다.
 </div>
 
 ## 내신과 수능 병행 전략
@@ -60,7 +59,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 입시 목표에 맞춰 내신과 수능 비중을 조절합니다. 수시 vs 정시에 따라 전략을 달리합니다.
+고등학교 3년, 내신과 수능을 어떻게 배분할지 로드맵을 세워드립니다.
 </div>
 
 
@@ -116,6 +115,6 @@ tags:
 
 ## 마무리
 
-파주시 고등학생 여러분, 수학 성적 향상이 필요하시다면 지금 시작하세요.
+파주시 학생 여러분, 포기가 아니라 도전입니다. 함께 해보세요.
 
 체계적인 1:1 수업으로 학교 내신 완벽 대비하고, 실력을 한 단계 높여보세요.

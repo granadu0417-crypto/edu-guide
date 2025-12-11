@@ -19,7 +19,7 @@ featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1주 전 최종 점검을 진행합니다. 실전 모의고사로 시험 감각을 키우고 취약점을 보완합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 1주 전 해야 할 것
@@ -32,7 +32,7 @@ featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최종 점검 리스트를 확인합니다. 놓친 부분이 없는지 함께 체크합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 모의고사 활용법
@@ -45,7 +45,7 @@ featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 함께 분석합니다. 시간 배분과 오답 원인을 파악해서 보완합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 취약점 집중 보완
@@ -58,7 +58,7 @@ featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-취약 유형을 집중 훈련합니다. 남은 시간 내에 가장 효과적으로 점수를 올리는 방법을 찾습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 암기 사항 최종 점검
@@ -71,7 +71,7 @@ featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 암기 사항을 정리해드립니다. 시험 직전에 빠르게 볼 수 있는 요약본을 만듭니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 컨디션 관리

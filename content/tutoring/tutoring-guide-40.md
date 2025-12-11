@@ -20,7 +20,7 @@ featured_image: "/images/edu_0977_1-YQiOijio8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 학습 성과를 점검합니다. 성적뿐 아니라 이해도와 태도 변화도 함께 봅니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 성과는 어떻게 측정하나요?
@@ -33,7 +33,7 @@ featured_image: "/images/edu_0977_1-YQiOijio8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전후로 학습 성과를 분석해 드립니다. 점수 변화와 이해도 변화를 함께 설명합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 언제까지 기다려야 효과가 나타나나요?
@@ -46,7 +46,7 @@ featured_image: "/images/edu_0977_1-YQiOijio8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현실적인 목표를 함께 세웁니다. 목표 달성 여부를 정기적으로 확인합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 효과가 없으면 어떻게 해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "/images/edu_0977_1-YQiOijio8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과가 안 나면 같이 고민합니다. 원인을 찾고 방법을 바꿔봅니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "/images/edu_0977_1-YQiOijio8.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성과 측정에 대해 더 궁금한 점이 있으시면 문의하세요. 효과를 확인하는 방법을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 마무리

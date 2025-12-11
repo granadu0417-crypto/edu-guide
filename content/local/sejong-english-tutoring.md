@@ -19,7 +19,7 @@ featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 수준을 정확히 진단합니다. 취약한 영역을 파악하고 맞춤 학습 계획을 세웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 학년별 영어 과외 전략
@@ -28,7 +28,7 @@ featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 학습 목표에 맞춰 수업합니다. 내신 시험 기간에는 집중 대비를 진행합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 영어 4대 영역별 학습
@@ -39,7 +39,7 @@ Reading은 충분한 어휘력과 구문 분석 능력이 필수입니다. 선�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-읽기 쓰기 듣기 말하기 균형 있게 수업합니다. 취약 영역에 더 많은 시간을 배분합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -48,7 +48,7 @@ Reading은 충분한 어휘력과 구문 분석 능력이 필수입니다. 선�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 선생님을 매칭합니다. 시범 수업 후 학생과의 궁합을 확인합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 효과적인 과외 활용법
@@ -57,7 +57,7 @@ Reading은 충분한 어휘력과 구문 분석 능력이 필수입니다. 선�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습 복습 방법을 안내합니다. 과외 시간 외 학습도 관리합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 세종 지역 중학교 영어 내신 특징
@@ -68,7 +68,7 @@ Reading은 충분한 어휘력과 구문 분석 능력이 필수입니다. 선�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 영작 훈련을 집중적으로 하고, 자주 틀리는 문법을 정리합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 세종 지역 고등학교 영어 내신 특징
@@ -83,7 +83,7 @@ Reading은 충분한 어휘력과 구문 분석 능력이 필수입니다. 선�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출 문제를 분석합니다. 취약 유형을 집중적으로 훈련하고 오답 노트를 함께 관리합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과외 비용 안내
@@ -100,7 +100,7 @@ Reading은 충분한 어휘력과 구문 분석 능력이 필수입니다. 선�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 횟수와 시간은 학생 상황에 맞게 조율합니다. 예산에 맞는 최적의 수업 방식을 찾아드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

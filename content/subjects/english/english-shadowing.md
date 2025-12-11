@@ -22,7 +22,7 @@ featured_image: "/images/edu_0413_HaU6PimvBQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 발음 약점을 파악합니다. 개인에게 맞는 섀도잉 자료와 방법을 설계합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 섀도잉 4단계
@@ -31,7 +31,7 @@ featured_image: "/images/edu_0413_HaU6PimvBQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 단계부터 시작합니다. 점진적으로 난이도를 높여갑니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 효과적인 섀도잉 방법
@@ -42,7 +42,7 @@ featured_image: "/images/edu_0413_HaU6PimvBQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 섀도잉 방법을 지도합니다. 녹음 비교로 객관적인 피드백을 제공합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 주의할 발음
@@ -51,7 +51,7 @@ featured_image: "/images/edu_0413_HaU6PimvBQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연음, 강세, 억양을 집중 훈련합니다. 자연스러운 영어 리듬을 익힙니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자료 선택
@@ -60,7 +60,7 @@ featured_image: "/images/edu_0413_HaU6PimvBQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 자료를 추천합니다. 관심 있는 주제로 흥미롭게 연습합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ featured_image: "/images/edu_0413_HaU6PimvBQw.jpg"
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 발음 수업으로 섀도잉을 효과적으로 합니다. 발음을 즉시 교정하고 개인별 약점을 집중 보완합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
