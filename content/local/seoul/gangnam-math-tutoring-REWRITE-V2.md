@@ -9,7 +9,7 @@ regions:
 cities:
   - 강남구
 tags: ["강남구", "수학과외", "대치동", "압구정", "청담", "수학", "과외선택", "초등수학", "중등수학", "고등수학", "수능수학"]
-featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0324_QBqVONlhr1Y.jpg"
 ---
 
 강남구에서 수학과외를 알아보는 학부모님들이 가장 많이 하시는 질문이 있습니다. "어떤 선생님이 우리 아이에게 맞을까요?"
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=
 
 오늘은 강남구 특성을 고려한 수학과외 선택 방법을 단계별로 안내해드리겠습니다.
 
-![강남구 수학교육](https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=600&fit=crop)
+![강남구 수학교육](/images/edu_0275_2N518py2mrQ.jpg)
 
 ## 강남구 수학 교육 환경의 특징
 
@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=
 
 이제는 시간 관리가 핵심입니다. 30문제를 100분 안에 푸는 훈련이 필요하며, 아는 문제를 빠르고 정확하게 푸는 연습이 중요합니다.
 
-![대치동 학원가](https://images.unsplash.com/photo-1632406898063-9d1a9a8e5f35?w=1200&h=600&fit=crop)
+![대치동 학원가](/images/edu_0276_CBztr5_8Hso.jpg)
 
 ## 과외 선생님 선택 시 확인해야 할 5가지
 

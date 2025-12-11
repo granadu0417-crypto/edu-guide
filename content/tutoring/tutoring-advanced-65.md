@@ -13,7 +13,7 @@ tags:
 - 학부모가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 ---
 
 ## 영어 문법은 알겠는데 독해가 안 돼요. 회화, 문법, 독해 어떤 순서로 해야 하나요?

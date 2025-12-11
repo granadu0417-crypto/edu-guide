@@ -11,7 +11,7 @@ tags:
 - 한문
 - 사자성어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0457_5KPA4nFtHbU.jpg"
 ---
 
 ## 한자가 너무 많아서 외우기 힘들다고요? 효율적인 암기 방법이 있습니다.

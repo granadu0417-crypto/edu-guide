@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "대전 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 tags: ["대전영어과외", "대전과외", "영어과외", "대전교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 ---
 
 ## 대전에서 영어 과외 찾기 어려우신가요? 유성구와 둔산동 중 어디가 좋을지 고민되시죠.

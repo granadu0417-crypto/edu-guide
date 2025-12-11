@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0659_1tFThJ5OD1w.jpg"
 ---
 ## 내신을 잘 받고 싶은데, 학교 시험이 너무 어려워요. 어떻게 대비해야 하죠?
 

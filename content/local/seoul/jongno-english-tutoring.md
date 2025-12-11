@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["종로구", "영어과외", "평창동", "부암동", "삼청동", "영어", "과외", "명문교육", "영어회화", "내신영어", "수능영어"]
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0340_ekDDL9YRX34.jpg"
 ---
 
 "우리 아이 영어, 어떻게 해야 할까요?"

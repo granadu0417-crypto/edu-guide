@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0674_0mdZEhiEK-M.jpg"
 ---
 
 ## 인권의 발전 과정이 복잡하고 권리 구분이 헷갈린다고요? 인권의 역사적 발전부터 따라가면 됩니다.

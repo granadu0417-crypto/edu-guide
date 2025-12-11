@@ -9,7 +9,7 @@ regions:
 cities:
   - 광주시
 tags: ["광주교육", "광주학원", "광주과외", "경기광주입시", "경기남부교육"]
-featured_image: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0231_TO_UWuRoSH0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -114,6 +114,14 @@ sitemap:
 **Q. 교육비를 절감하는 방법이 있나요?**
 
 온라인 학습을 병행하고, 과목별 우선순위를 정해 꼭 필요한 곳에 집중 투자하는 것이 좋습니다. 그룹 과외를 활용하면 비용을 줄일 수 있습니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
 
 ## 마무리
 

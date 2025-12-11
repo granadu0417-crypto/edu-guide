@@ -9,7 +9,7 @@ regions:
 cities:
   - 시흥시
 tags: ["시흥교육", "시흥학원", "시흥과외", "정왕동학원", "시흥입시"]
-featured_image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0264_NKr9f2t8Lgk.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

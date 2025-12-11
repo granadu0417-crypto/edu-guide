@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0998_ppeg9hVJvUc.jpg"
 ---
 
 ## 국어 지문을 읽어도 무슨 말인지 모르겠어요. 독해력은 어떻게 키우나요?

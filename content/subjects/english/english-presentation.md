@@ -12,7 +12,7 @@ tags:
 - presentation
 - speaking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1597462036098-7ce66b1c43ad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0402_MChSQHxGZrQ.jpg"
 ---
 
 ## 영어 발표를 앞두고 막막하시죠? 뭐라고 시작해야 할지 모르겠다고요.
@@ -75,6 +75,30 @@ featured_image: "https://images.unsplash.com/photo-1597462036098-7ce66b1c43ad?w=
 **Q. 질문에 답을 모르면요?**
 
 솔직하게 I'll find out and get back to you라고 하세요.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

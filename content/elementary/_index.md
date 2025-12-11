@@ -5,12 +5,12 @@ date: 2025-01-29
 categories:
   - 초등학생
 tags:
-  - 초등
-  - 초등교육
-  - 학습법
-  - 공부방법
-  - 학습습관
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+- 초등
+- 초등교육
+- 학습법
+- 공부방법
+- 학습습관
+featured_image: "/images/edu_0097_CV3nkG7XIwg.jpg"
 ---
 
 ## 초등학생 학습 가이드

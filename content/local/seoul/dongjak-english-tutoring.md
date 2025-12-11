@@ -8,7 +8,7 @@ regions:
 cities:
   - 동작구
 tags: ["동작구", "영어과외", "사당동", "노량진", "흑석동", "영어", "과외", "중앙대", "숭실대", "영어회화", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0313_EhGw-i_Eamg.jpg"
 ---
 
 "중앙대, 숭실대가 가까우니까 영어 선생님 찾기 쉽겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?w=
 맞습니다.
 솔직히 말씀드리면, **동작구는 영어과외 하기에 좋은 환경**입니다. 중앙대 영문과, 국제학부 학생들이 많아요. 노량진 학원가도 가까워서 입시 정보도 빨라요.
 
-![동작구 영어과외](https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=600&fit=crop)
+![동작구 영어과외](/images/edu_0887_qSV6pnnd14s.jpg)
 
 ## 동작구 영어 교육, 어떤 특징이 있나요?
 

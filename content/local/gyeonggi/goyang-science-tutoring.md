@@ -9,7 +9,7 @@ regions:
 cities:
   - 고양시
 tags: ["고양과학과외", "일산과학과외", "고양물리과외", "고양화학과외", "고양생명과학과외", "일산과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0228_PmB37RaXlR0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

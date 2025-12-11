@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1528979255245-e58f16e21e58?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0655_mNY_-DvKisc.jpg"
 ---
 
 ## 시대별 문화 특징이 헷갈리고 유물 구분이 어렵다고요? 각 시대의 사회 변화와 문화를 연결하면 됩니다.

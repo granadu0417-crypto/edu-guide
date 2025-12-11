@@ -9,7 +9,7 @@ tags:
 - 연산
 - 초등교육
 - 초등학습
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0137_7ub1eAqc2vw.jpg"
 ---
 ## 계산이 느려서 시험 시간이 부족하다고요?
 

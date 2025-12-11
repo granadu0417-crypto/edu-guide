@@ -11,7 +11,7 @@ tags:
 - 학습상담
 - 학습코칭
 - 학원
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0942_1VqHRwxcCCw.jpg"
 ---
 
 ## 사회는 외우기만 하면 된다고 하는데, 외워도 시험 보면 헷갈려요. 효율적으로 암기하는 방법이 있나요?

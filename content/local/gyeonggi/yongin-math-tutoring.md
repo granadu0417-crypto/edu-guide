@@ -9,7 +9,7 @@ regions:
 cities:
   - 용인시
 tags: ["용인수학과외", "수지수학과외", "기흥수학과외", "용인초등수학", "용인중등수학", "용인고등수학"]
-featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0278_h6pUcouJ9BA.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

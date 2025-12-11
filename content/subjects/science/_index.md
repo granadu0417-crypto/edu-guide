@@ -8,7 +8,7 @@ keywords:
 - 과학 탐구
 - 실험 노트
 - 과학 학습
-featured_image: "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0573_Xj4mcAdRHJ8.jpg"
 ---
 
 ## 과학 공부법

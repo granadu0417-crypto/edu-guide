@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1585155770913-5bde2a9d5e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0761_H9t723yPjYI.jpg"
 ---
 
 모의고사 점수가 들쑥날쑥하다면? 유형별 정확도 점검이 필요합니다.

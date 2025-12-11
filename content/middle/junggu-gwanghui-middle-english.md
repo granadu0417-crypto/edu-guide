@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0835_h_nWAOzgq3E.jpg"
 
 ---
 ## 중구 광희동 중학생, 영어 분사구문이 어렵다면
@@ -105,6 +105,18 @@ Walking down the street, I saw my friend에서 Walking이 왜 문장 앞에 오�
 **Q. 분사구문의 부정은요?**
 
 분사 앞에 not이나 never를 붙입니다. Not knowing what to do, I just waited.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
 
 ## 마무리
 

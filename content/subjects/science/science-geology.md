@@ -10,7 +10,7 @@ tags:
 - 지질학
 - 지구과학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0606_o9ViSvYOxNM.jpg"
 ---
 
 ## 지층의 순서와 암석 분류가 복잡하다고요? 지구의 역사를 읽는 법을 배우면 됩니다.

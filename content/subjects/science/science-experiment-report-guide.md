@@ -17,12 +17,12 @@ tags:
 - 과학공부법
 - 탐구보고서
 - 실험기록
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0600_4bF980HkVWA.jpg"
 ---
 
 과학 실력은 실험 보고서 작성 능력에서 판가름 납니다. 잘 작성된 실험 보고서는 단순한 기록이 아니라 과학적 사고의 증거입니다. 이 글에서는 초등학생부터 고등학생까지 완벽한 실험 보고서를 작성하는 모든 방법을 단계별로 안내합니다.
 
-![과학 실험 보고서](https://images.unsplash.com/photo-1530210124550-912dc1381cb8?w=1200&h=600&fit=crop)
+![과학 실험 보고서](/images/edu_0303_2dim_8iYCws.jpg)
 
 ## 실험 보고서가 중요한 이유
 

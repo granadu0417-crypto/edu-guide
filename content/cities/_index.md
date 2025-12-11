@@ -11,7 +11,7 @@ tags:
   - 지역별과외
   - 수학과외
   - 영어과외
-featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0345_cay5tCQkZN0.jpg"
 ---
 
 <style>
@@ -119,84 +119,84 @@ featured_image: "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?w=
 <div class="region-section seoul">
 <h3>서울특별시</h3>
 <div class="btn-grid seoul">
-  <a href="/cities/강남구/">강남구</a>
-  <a href="/cities/서초구/">서초구</a>
-  <a href="/cities/송파구/">송파구</a>
-  <a href="/cities/강동구/">강동구</a>
-  <a href="/cities/광진구/">광진구</a>
-  <a href="/cities/성동구/">성동구</a>
-  <a href="/cities/중구/">중구</a>
-  <a href="/cities/종로구/">종로구</a>
-  <a href="/cities/용산구/">용산구</a>
-  <a href="/cities/동대문구/">동대문구</a>
-  <a href="/cities/성북구/">성북구</a>
-  <a href="/cities/중랑구/">중랑구</a>
-  <a href="/cities/노원구/">노원구</a>
-  <a href="/cities/도봉구/">도봉구</a>
-  <a href="/cities/강북구/">강북구</a>
-  <a href="/cities/은평구/">은평구</a>
-  <a href="/cities/서대문구/">서대문구</a>
-  <a href="/cities/마포구/">마포구</a>
-  <a href="/cities/양천구/">양천구</a>
-  <a href="/cities/강서구/">강서구</a>
-  <a href="/cities/영등포구/">영등포구</a>
-  <a href="/cities/동작구/">동작구</a>
-  <a href="/cities/관악구/">관악구</a>
-  <a href="/cities/금천구/">금천구</a>
-  <a href="/cities/구로구/">구로구</a>
+  <a href="/seoul/gangnam/">강남구</a>
+  <a href="/seoul/seocho/">서초구</a>
+  <a href="/seoul/songpa/">송파구</a>
+  <a href="/seoul/gangdong/">강동구</a>
+  <a href="/seoul/gwangjin/">광진구</a>
+  <a href="/seoul/seongdong/">성동구</a>
+  <a href="/seoul/jung/">중구</a>
+  <a href="/seoul/jongno/">종로구</a>
+  <a href="/seoul/yongsan/">용산구</a>
+  <a href="/seoul/dongdaemun/">동대문구</a>
+  <a href="/seoul/seongbuk/">성북구</a>
+  <a href="/seoul/jungnang/">중랑구</a>
+  <a href="/seoul/nowon/">노원구</a>
+  <a href="/seoul/dobong/">도봉구</a>
+  <a href="/seoul/gangbuk/">강북구</a>
+  <a href="/seoul/eunpyeong/">은평구</a>
+  <a href="/seoul/seodaemun/">서대문구</a>
+  <a href="/seoul/mapo/">마포구</a>
+  <a href="/seoul/yangcheon/">양천구</a>
+  <a href="/seoul/gangseo/">강서구</a>
+  <a href="/seoul/yeongdeungpo/">영등포구</a>
+  <a href="/seoul/dongjak/">동작구</a>
+  <a href="/seoul/gwanak/">관악구</a>
+  <a href="/seoul/geumcheon/">금천구</a>
+  <a href="/seoul/guro/">구로구</a>
 </div>
 </div>
 
 <div class="region-section gyeonggi">
 <h3>경기도</h3>
 <div class="btn-grid gyeonggi">
-  <a href="/local/gyeonggi/seongnam-math-tutoring/">성남시</a>
-  <a href="/local/gyeonggi/bundang-english-tutoring/">분당</a>
-  <a href="/local/gyeonggi/suwon-math-tutoring/">수원시</a>
-  <a href="/local/gyeonggi/yongin-math-tutoring/">용인시</a>
-  <a href="/local/gyeonggi/goyang-math-tutoring/">고양시</a>
-  <a href="/local/gyeonggi/ilsan-english-tutoring/">일산</a>
-  <a href="/local/gyeonggi/bucheon-math-tutoring/">부천시</a>
-  <a href="/local/gyeonggi/anyang-math-tutoring/">안양시</a>
-  <a href="/local/gyeonggi/pyeongchon-math-tutoring/">평촌</a>
-  <a href="/local/gyeonggi/ansan-math-tutoring/">안산시</a>
-  <a href="/local/gyeonggi/namyangju-math-tutoring/">남양주</a>
-  <a href="/local/gyeonggi/hwaseong-math-tutoring/">화성시</a>
-  <a href="/local/gyeonggi/uijeongbu-math-tutoring/">의정부</a>
-  <a href="/local/gyeonggi/paju-math-tutoring/">파주시</a>
-  <a href="/local/gyeonggi/gimpo-math-tutoring/">김포시</a>
-  <a href="/local/gyeonggi/gwangmyeong-math-tutoring/">광명시</a>
-  <a href="/local/gyeonggi/siheung-math-tutoring/">시흥시</a>
-  <a href="/local/gyeonggi/hanam-math-tutoring/">하남시</a>
-  <a href="/local/gyeonggi/guri-math-tutoring/">구리시</a>
-  <a href="/local/gyeonggi/">전체보기</a>
+  <a href="/gyeonggi/seongnam/">성남시</a>
+  <a href="/gyeonggi/bundang/">분당</a>
+  <a href="/gyeonggi/suwon/">수원시</a>
+  <a href="/gyeonggi/yongin/">용인시</a>
+  <a href="/gyeonggi/goyang/">고양시</a>
+  <a href="/gyeonggi/ilsan/">일산</a>
+  <a href="/gyeonggi/bucheon/">부천시</a>
+  <a href="/gyeonggi/anyang/">안양시</a>
+  <a href="/gyeonggi/pyeongchon/">평촌</a>
+  <a href="/gyeonggi/ansan/">안산시</a>
+  <a href="/gyeonggi/namyangju/">남양주</a>
+  <a href="/gyeonggi/hwaseong/">화성시</a>
+  <a href="/gyeonggi/uijeongbu/">의정부</a>
+  <a href="/gyeonggi/paju/">파주시</a>
+  <a href="/gyeonggi/gimpo/">김포시</a>
+  <a href="/gyeonggi/gwangmyeong/">광명시</a>
+  <a href="/gyeonggi/siheung/">시흥시</a>
+  <a href="/gyeonggi/hanam/">하남시</a>
+  <a href="/gyeonggi/guri/">구리시</a>
+  <a href="/gyeonggi/">전체보기</a>
 </div>
 </div>
 
 <div class="region-section metro">
 <h3>광역시</h3>
 <div class="btn-grid metro">
-  <a href="/local/busan-education-guide/">부산</a>
-  <a href="/local/daegu-education-guide/">대구</a>
-  <a href="/local/incheon-education-guide/">인천</a>
-  <a href="/local/gwangju-education-guide/">광주</a>
-  <a href="/local/daejeon-education-guide/">대전</a>
-  <a href="/local/ulsan-education-guide/">울산</a>
+  <a href="/busan/">부산</a>
+  <a href="/daegu/">대구</a>
+  <a href="/incheon/">인천</a>
+  <a href="/gwangju/">광주</a>
+  <a href="/daejeon/">대전</a>
+  <a href="/ulsan/">울산</a>
 </div>
 </div>
 
 <div class="region-section other">
 <h3>기타 지역</h3>
 <div class="btn-grid other">
-  <a href="/local/sejong-education-guide/">세종</a>
-  <a href="/local/gangwon-education-guide/">강원</a>
-  <a href="/local/chungbuk-education-guide/">충북</a>
-  <a href="/local/chungnam-education-guide/">충남</a>
-  <a href="/local/jeonbuk-education-guide/">전북</a>
-  <a href="/local/jeonnam-education-guide/">전남</a>
-  <a href="/local/gyeongbuk-education-guide/">경북</a>
-  <a href="/local/gyeongnam-education-guide/">경남</a>
-  <a href="/local/jeju-education-guide/">제주</a>
+  <a href="/sejong/">세종</a>
+  <a href="/provinces/gangwon/">강원</a>
+  <a href="/provinces/chungbuk/">충북</a>
+  <a href="/provinces/chungnam/">충남</a>
+  <a href="/provinces/jeonbuk/">전북</a>
+  <a href="/provinces/jeonnam/">전남</a>
+  <a href="/provinces/gyeongbuk/">경북</a>
+  <a href="/provinces/gyeongnam/">경남</a>
+  <a href="/provinces/jeju/">제주</a>
 </div>
 </div>
 

@@ -11,7 +11,7 @@ tags:
 - 1대1과외
 - 영어회화
 description: 지역 교육 정보 완벽 가이드입니다. 학원가 분석부터 교육 지원 제도까지, 우리 지역 교육 자원을 최대한 활용하는 방법을 제시합니다 효율적인 전략으로 시간을 절약하세요.
-featured_image: "https://images.unsplash.com/photo-1656091858256-7c8b8b5b8e61?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0295_IJrIeCs3D4g.jpg"
 ---
 
 ## 마포구에서 영어과외 선생님을 찾고 있는데, 어떤 기준으로 선택해야 하나요?

@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 ---
 
 ## 광전효과와 물질파 개념이 추상적이고 이해가 안 된다고요? 빛의 이중성부터 정리하면 됩니다.

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어 동의어·반의어 완벽 정복 | 빈출 유의어 세트, 뉘앙스 차이, 1:1 맞춤 어휘 지도 [2025년]"
 tags: ["영어", "어휘", "동의어", "반의어", "synonym", "antonym", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0426_Zg9R__O-8fM.jpg"
 ---
 
 ## important와 significant의 차이가 뭔지 모르겠다고요? 비슷한 단어가 너무 많아서 헷갈린다고 느끼시죠.

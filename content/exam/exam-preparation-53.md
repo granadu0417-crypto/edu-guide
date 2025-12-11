@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 ---
 ## 국어, 수학, 영어, 탐구 다 공부법이 다른데 어떻게 해야 하나요?
 

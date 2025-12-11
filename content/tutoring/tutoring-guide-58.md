@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 ---
 
 ## 과외 숙제를 해도 실력이 안 느는 것 같아요. 숙제를 어떻게 활용해야 효과가 나나요?

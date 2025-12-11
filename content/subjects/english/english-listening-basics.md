@@ -14,7 +14,7 @@ tags:
 - 영어듣기
 - 1:1과외
 - 기초
-featured_image: "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0384_OCSpJFUXYds.jpg"
 ---
 
 ## 단어는 아는데 들으면 못 알아듣겠다고요? 발음 규칙을 모르면 당연히 안 들려요.

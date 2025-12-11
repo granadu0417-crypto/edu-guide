@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 ---
 ## 기본은 되는데 응용 문제만 나오면 막히나요?
 

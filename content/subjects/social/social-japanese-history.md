@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 ---
 
 ## 막부 시대와 메이지 유신이 헷갈리고 한일 관계사가 복잡하다고요? 일본 역사의 전환점부터 정리하면 됩니다.

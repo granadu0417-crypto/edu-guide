@@ -9,7 +9,7 @@ regions:
 cities:
   - 시흥시
 tags: ["시흥영어과외", "배곧영어과외", "시흥초등영어", "시흥중등영어", "시흥고등영어", "경기영어과외"]
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0265_SjCIQldQTsE.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8

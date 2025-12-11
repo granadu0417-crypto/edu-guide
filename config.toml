@@ -18,11 +18,53 @@ title = "과외를부탁해"
     youtube = "https://youtube.com/@eduguide"
 
 [menu]
+  # 지역별 과외 (드롭다운) - 최우선 메뉴
+  [[menu.main]]
+    name = "지역별 과외"
+    identifier = "regions"
+    weight = 1
+
+  [[menu.main]]
+    name = "서울"
+    parent = "regions"
+    url = "/seoul/"
+    weight = 1
+
+  [[menu.main]]
+    name = "경기"
+    parent = "regions"
+    url = "/gyeonggi/"
+    weight = 2
+
+  [[menu.main]]
+    name = "부산"
+    parent = "regions"
+    url = "/busan/"
+    weight = 3
+
+  [[menu.main]]
+    name = "인천"
+    parent = "regions"
+    url = "/incheon/"
+    weight = 4
+
+  [[menu.main]]
+    name = "대구"
+    parent = "regions"
+    url = "/daegu/"
+    weight = 5
+
+  [[menu.main]]
+    name = "기타 지역"
+    parent = "regions"
+    url = "/cities/"
+    weight = 6
+
   # 학습 가이드 (드롭다운)
   [[menu.main]]
     name = "학습 가이드"
     identifier = "learning"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "초등학생"
@@ -46,7 +88,7 @@ title = "과외를부탁해"
   [[menu.main]]
     name = "과목별"
     identifier = "subjects"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "국어"
@@ -78,40 +120,16 @@ title = "과외를부탁해"
     url = "/subjects/social/"
     weight = 5
 
-  # 학원·과외 (드롭다운)
+  # 학습플랜 (단독 메뉴)
   [[menu.main]]
-    name = "학원·과외"
-    identifier = "tutoring"
-    weight = 3
-
-  [[menu.main]]
-    name = "선택 가이드"
-    parent = "tutoring"
-    url = "/tutoring/guide/"
-    weight = 1
-
-  [[menu.main]]
-    name = "학원 찾기"
-    parent = "tutoring"
-    url = "/tutoring/academy/"
-    weight = 2
-
-  [[menu.main]]
-    name = "과외 찾기"
-    parent = "tutoring"
-    url = "/tutoring/private/"
-    weight = 3
+    name = "학습플랜"
+    url = "/tutoring/"
+    weight = 4
 
   # 시험 대비 (단독 메뉴)
   [[menu.main]]
     name = "시험 대비"
     url = "/exam/"
-    weight = 4
-
-  # 지역정보 (단독 메뉴 - /cities/로 연결)
-  [[menu.main]]
-    name = "지역정보"
-    url = "/cities/"
     weight = 5
 
   # 무료 상담 (단독 메뉴)

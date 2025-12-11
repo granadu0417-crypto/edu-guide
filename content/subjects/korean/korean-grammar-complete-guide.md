@@ -11,7 +11,7 @@ tags:
 - 품사
 - 문장성분
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0454_Yi9-QIObQ1o.jpg"
 ---
 
 ## 국어 문법이 너무 복잡하다고요? 체계적으로 정리하면 생각보다 간단합니다.

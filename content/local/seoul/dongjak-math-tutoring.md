@@ -8,7 +8,7 @@ regions:
 cities:
   - 동작구
 tags: ["동작구", "수학과외", "사당동", "노량진", "상도동", "수학", "과외", "중앙대", "숭실대", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1460518451285-97b6aa326961?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0314_BcEmfG0xKrc.jpg"
 ---
 
 "노량진 학원가가 가까우니까 과외 안 해도 되겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1460518451285-97b6aa326961?w=
 그렇게 생각하실 수 있어요.
 하지만 **학원과 과외는 역할이 다릅니다.** 학원에서 못 따라가는 부분을 과외로 잡아주면 시너지가 나요.
 
-![동작구 수학과외](https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=600&fit=crop)
+![동작구 수학과외](/images/edu_0888_eEDbpbsBudE.jpg)
 
 ## 동작구 수학 교육, 어떤 특징이 있나요?
 

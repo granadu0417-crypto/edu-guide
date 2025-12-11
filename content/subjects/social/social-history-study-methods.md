@@ -18,12 +18,12 @@ tags:
 - 중학역사
 - 고등역사
 - 역사내신
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0673_MZxqc6n9qCw.jpg"
 ---
 
 역사는 단순 암기가 아닙니다. 시대의 흐름을 이해하고, 사건 간 인과관계를 파악하며, 역사적 의미를 생각하는 것이 진짜 역사 공부입니다. 이 글에서는 한국사와 세계사를 완벽하게 정복하는 모든 학습법을 안내합니다.
 
-![역사 학습법](https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=600&fit=crop)
+![역사 학습법](/images/edu_0308_ZnuhSdvBqzU.jpg)
 
 ## 역사 공부가 중요한 이유
 

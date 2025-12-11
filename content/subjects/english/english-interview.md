@@ -13,7 +13,7 @@ tags:
 - 입학
 - speaking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1616088410192-e96ff9361f0c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 ---
 
 ## 영어 면접 시작만 하면 머리가 하얘진다고요? Tell me about yourself부터 막히시죠.

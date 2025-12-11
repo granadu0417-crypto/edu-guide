@@ -8,7 +8,7 @@ regions:
 cities:
   - 동대문구
 tags: ["동대문구", "수학과외", "답십리", "휘경동", "이문동", "장안동", "수학", "과외", "경희대", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0312_WIF-497cRec.jpg"
 ---
 
 "경희대, 시립대가 가까우니까 수학 선생님 찾기 쉽겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=120
 맞습니다.
 솔직히 말씀드리면, **동대문구는 수학과외 하기에 좋은 환경**입니다. 경희대 수학과, 시립대 수학교육과 학생들이 많아요.
 
-![동대문구 수학과외](https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=600&fit=crop)
+![동대문구 수학과외](/images/edu_0886_UyVbyimlAgE.jpg)
 
 ## 동대문구 수학 교육, 어떤 특징이 있나요?
 

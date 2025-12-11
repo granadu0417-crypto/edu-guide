@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0963_6W_SNsrKIZE.jpg"
 ---
 
 ## 사회는 그냥 외우면 되는 거 아닌가요? 과외까지 필요한가요?

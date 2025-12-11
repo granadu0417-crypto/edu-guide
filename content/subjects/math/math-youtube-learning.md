@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 기하
-featured_image: "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0571_TeJZ3CGZXRw.jpg"
 ---
 
 ## 유튜브로 수학 공부하려는데 뭘 봐야 할지 모르겠다고요? 영상만 보면 실력이 안 느는 것 같다고 느끼시죠.

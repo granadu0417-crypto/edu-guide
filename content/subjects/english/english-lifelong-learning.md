@@ -13,7 +13,7 @@ tags:
 - 실용영어
 - 1:1과외
 - 회화
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 ---
 
 ## 시험 끝나면 영어 안 해도 되는 거 아니냐고요? 그래서 평생 영어가 안 느시는 거예요.

@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1554118879-bdb1043d9a95?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_1000_SqS3dho7PIU.jpg"
 ---
 
 ## 사회는 외울 게 너무 많아요. 다 외웠는데 시험 때 헷갈려요. 효율적으로 공부하는 방법이 있나요?

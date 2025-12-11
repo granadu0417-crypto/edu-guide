@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0753_VJsYpLovLA4.jpg"
 ---
 
 수능 독해에서 시간 배분이 안 된다면? 유형별 접근법이 필요합니다.

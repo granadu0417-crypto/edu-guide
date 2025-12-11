@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0635_TVSRWmnW8Us.jpg"
 ---
 ## 고등학교 입학하고 처음 맞는 중간고사, 얼마나 준비해야 할지 감이 안 잡히시죠?
 

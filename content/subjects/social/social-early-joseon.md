@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0658_e_RpjNyMgEM.jpg"
 ---
 
 ## 조선 전기 왕들이 헷갈리고 제도 구분이 어렵다고요? 건국 과정부터 순서대로 따라가면 됩니다.

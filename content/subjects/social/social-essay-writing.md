@@ -18,12 +18,12 @@ tags:
 - 역사논술
 - 지리논술
 - 내신대비
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0664_k60YOEjB75k.jpg"
 ---
 
 사회 과목에서 논술·서술형 평가의 비중이 점점 높아지고 있습니다. 단순 암기만으로는 좋은 점수를 받기 어렵습니다. 이 글에서는 사회 과목 논술·서술형 답안을 효과적으로 작성하는 완벽한 전략을 안내합니다.
 
-![사회 논술 대비](https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=600&fit=crop)
+![사회 논술 대비](/images/edu_0306_usdlEYpKueY.jpg)
 
 ## 사회 논술·서술형 평가의 특징
 
