@@ -40,43 +40,12 @@
     {{ end }}
 </div>
 
-<div class="post-grid">
+<div class="post-grid-compact">
     {{ range .Pages }}
-    {{ $readingTime := div (countwords .Content) 200 }}
-    {{ if lt $readingTime 1 }}{{ $readingTime = 1 }}{{ end }}
-
-    <article class="post-card">
-        {{ with .Params.featured_image }}
-        <div class="post-card-image" style="background-image: url('{{ . }}')"></div>
-        {{ end }}
-
-        <div class="post-card-content">
-            <div class="post-categories">
-                {{ range .Params.categories }}
-                <span class="post-category">{{ . }}</span>
-                {{ end }}
-            </div>
-
-            <h2 class="post-card-title">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </h2>
-
-            <p class="post-card-excerpt">{{ .Description | truncate 150 }}</p>
-
-            {{ with .Params.tags }}
-            <div class="post-card-tags">
-                {{ range first 5 . }}
-                <a href="/tags/{{ . | urlize }}" class="post-tag">#{{ . }}</a>
-                {{ end }}
-            </div>
-            {{ end }}
-
-            <div class="post-card-meta">
-                <span class="post-date">📅 {{ .Date.Format "2006. 01. 02" }}</span>
-                <span class="post-reading-time">⏱️ {{ $readingTime }}분</span>
-            </div>
-        </div>
-    </article>
+    <a href="{{ .RelPermalink }}" class="post-btn">
+        <span class="post-btn-title">{{ .Title | truncate 50 }}</span>
+        <span class="post-btn-arrow">&rarr;</span>
+    </a>
     {{ end }}
 </div>
 
@@ -90,16 +59,16 @@
 <style>
 .section-header {
     text-align: center;
-    padding: 48px 0;
+    padding: 32px 0;
     border-bottom: 2px solid var(--border-light);
-    margin-bottom: 48px;
+    margin-bottom: 32px;
 }
 
 .section-title {
     font-size: var(--font-2xl);
     font-weight: 800;
     color: var(--text-primary);
-    margin-bottom: 16px;
+    margin-bottom: 12px;
 }
 
 .section-description {
@@ -109,147 +78,63 @@
     margin: 0 auto;
 }
 
-.post-grid {
+/* 컴팩트 버튼 그리드 */
+.post-grid-compact {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-    gap: 32px;
-    margin-bottom: 80px;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 12px;
+    margin-bottom: 60px;
 }
 
-.post-card {
+.post-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px;
     background: white;
-    border: 1px solid var(--border-light);
-    border-radius: 12px;
-    overflow: hidden;
-    transition: all 0.3s ease;
-    display: flex;
-    flex-direction: column;
-}
-
-.post-card:hover {
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-    transform: translateY(-4px);
-    border-color: var(--primary-color);
-}
-
-.post-card-image {
-    width: 100%;
-    height: 200px;
-    background-size: cover;
-    background-position: center;
-    transition: transform 0.3s ease;
-}
-
-.post-card:hover .post-card-image {
-    transform: scale(1.05);
-}
-
-.post-card-content {
-    padding: 28px;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-}
-
-.post-categories {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 16px;
-}
-
-.post-category {
-    display: inline-block;
-    padding: 6px 14px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    font-size: var(--font-xs);
-    font-weight: 700;
-    border-radius: 20px;
-}
-
-/* 모바일에서 카테고리 태그 3개로 제한 */
-.post-category:nth-child(n+4) {
-    display: none;
-}
-
-.post-card-title {
-    font-size: var(--font-lg);
-    font-weight: 700;
-    line-height: var(--line-height-tight);
-    margin-bottom: 16px;
-}
-
-.post-card-title a {
-    color: var(--text-primary);
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
     text-decoration: none;
-}
-
-.post-card-title a:hover {
-    color: var(--primary-color);
-}
-
-.post-card-excerpt {
-    font-size: var(--font-sm);
-    color: var(--text-secondary);
-    line-height: var(--line-height-normal);
-    margin-bottom: 20px;
-    /* 모바일에서 3줄로 제한 */
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-.post-card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 16px;
-}
-
-.post-tag {
-    font-size: var(--font-xs);
-    color: var(--primary-color);
-    font-weight: 600;
-    text-decoration: none;
-    padding: 4px 10px;
-    background: rgba(102, 126, 234, 0.1);
-    border-radius: 4px;
     transition: all 0.2s ease;
 }
 
-.post-tag:hover {
-    background: rgba(102, 126, 234, 0.2);
-    transform: translateY(-1px);
+.post-btn:hover {
+    border-color: var(--primary-color, #4a90e2);
+    background: #f8fafc;
+    transform: translateX(4px);
 }
 
-/* 모바일에서 해시태그 3개로 제한 */
-@media (max-width: 768px) {
-    .post-tag:nth-child(n+4) {
-        display: none;
-    }
-}
-
-.post-card-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 16px;
-    padding-top: 16px;
-    border-top: 1px solid var(--border-light);
-    font-size: var(--font-xs);
-    color: var(--text-tertiary);
-}
-
-.post-reading-time {
+.post-btn-title {
+    font-size: 0.95rem;
     font-weight: 600;
-    color: var(--primary-color);
+    color: #333;
+    line-height: 1.4;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.post-btn:hover .post-btn-title {
+    color: var(--primary-color, #4a90e2);
+}
+
+.post-btn-arrow {
+    font-size: 1.1rem;
+    color: #aaa;
+    margin-left: 12px;
+    flex-shrink: 0;
+    transition: transform 0.2s ease;
+}
+
+.post-btn:hover .post-btn-arrow {
+    color: var(--primary-color, #4a90e2);
+    transform: translateX(4px);
 }
 
 .empty-state {
     text-align: center;
-    padding: 80px 20px;
+    padding: 60px 20px;
     color: var(--text-secondary);
 }
 
@@ -263,53 +148,52 @@
     opacity: 0.7;
 }
 
+/* 태블릿 */
+@media (max-width: 1024px) {
+    .post-grid-compact {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 10px;
+    }
+}
+
+/* 모바일 */
 @media (max-width: 768px) {
     .section-header {
-        padding: 32px 0;
+        padding: 24px 0;
+        margin-bottom: 24px;
     }
-    
+
     .section-title {
         font-size: var(--font-xl);
     }
-    
-    /* 게시글 그리드 최적화 */
-    .post-grid {
+
+    .post-grid-compact {
         grid-template-columns: 1fr;
-        gap: 20px; /* 24px → 20px */
+        gap: 8px;
     }
-    
-    /* 게시글 카드 모바일 최적화 */
-    .post-card {
-        border-radius: 10px;
+
+    .post-btn {
+        padding: 12px 16px;
+        border-radius: 8px;
     }
-    
-    .post-card-content {
-        padding: 20px; /* 28px → 20px */
+
+    .post-btn-title {
+        font-size: 0.9rem;
     }
-    
-    .post-card-title {
-        font-size: 1.1rem; /* 더 읽기 쉽게 */
-        margin-bottom: 12px;
+}
+
+/* 작은 모바일 */
+@media (max-width: 480px) {
+    .post-btn {
+        padding: 10px 14px;
     }
-    
-    .post-card-excerpt {
-        font-size: 0.9rem; /* 14px 이상으로 가독성 확보 */
-        line-height: 1.5;
-        margin-bottom: 16px;
+
+    .post-btn-title {
+        font-size: 0.85rem;
     }
-    
-    .post-category {
-        font-size: 0.75rem;
-        padding: 4px 10px;
-    }
-    
-    .post-card-meta {
-        font-size: 0.8rem;
-        gap: 12px;
-    }
-    
-    .post-tag {
-        font-size: 0.75rem;
+
+    .post-btn-arrow {
+        font-size: 1rem;
     }
 }
 </style>
