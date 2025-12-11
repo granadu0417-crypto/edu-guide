@@ -108,6 +108,10 @@ water, milk, bread, money, information, advice, furniture, news, homework 등이
 
 much는 불가산명사(much water), many는 가산명사 복수형(many books)에 씁니다. a lot of는 둘 다 가능합니다.
 
+**Q. 영어 과외 선생님은 어떤 분인가요?**
+
+외고, 국제고 출신이나 해외 유학 경험이 있는 실력있는 선생님들이 수업합니다. 학생과의 궁합을 고려해 매칭해 드립니다.
+
 ## 마무리
 
 평창동 중학생 여러분, 가산명사와 불가산명사도 원리를 알면 쉬워집니다. 경신중·동성중·중앙중 내신에 맞춘 체계적인 수업으로 영어 실력을 키워보세요.

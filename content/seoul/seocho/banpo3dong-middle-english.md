@@ -108,6 +108,10 @@ He gave me a book은 I was given a book by him과 A book was given to me by him 
 
 행위자가 불분명하거나, 일반인이거나, 중요하지 않으면 생략합니다. English is spoken in many countries처럼요.
 
+**Q. 영어 과외 선생님은 어떤 분인가요?**
+
+외고, 국제고 출신이나 해외 유학 경험이 있는 실력있는 선생님들이 수업합니다. 학생과의 궁합을 고려해 매칭해 드립니다.
+
 ## 마무리
 
 반포3동 중학생 여러분, 수동태도 원리를 알면 쉬워집니다. 신반포중·원촌중 내신에 맞춘 체계적인 수업으로 영어 실력을 키워보세요.
