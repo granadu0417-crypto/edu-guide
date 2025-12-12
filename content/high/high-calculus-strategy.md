@@ -5,7 +5,6 @@ categories:
 - 고등교육
 reading_time: "738줄"
 description: "고등학생을 위한 미적분 완전 정복 가이드. 극한, 미분, 적분의 개념과 계산. 수능 만점을 위한 체계적 접근법."
-categories: ["고등"]
 tags: ["고등미적분", "미적분학습법", "수능미적분", "극한", "미분", "적분", "수학", "미적분개념"]
 featured_image: "/images/edu_0643_g0nVEyiDBAI.jpg"
 sitemap:
