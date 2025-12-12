@@ -12,7 +12,7 @@ tags:
 - 집중력
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0046_sjkXYJYrU5g.jpg"
 ---
 
 ## 10분만 공부해도 딴 생각이 나요. 어떻게 하면 오래 집중할 수 있을까요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 상담에서는 집중을 방해하는 요소를 찾습니다. 환경, 습관, 신체 상태 등을 분석하고 개선 방법을 안내합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 집중력 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중이 잘 안 된다면 학습 상담을 받으세요. 몰입하는 방법과 환경 만들기를 구체적으로 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략을 다룹니다. 심리 상담은 불안이나 스트레스로 집중이 어려울 때 도움이 됩니다.
@@ -47,20 +47,20 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 적용할 수 있는 집중력 향상 방법을 안내합니다. 뽀모도로 기법, 환경 정리 등 구체적인 기법을 알려드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학년에 따라 집중력 향상 방법이 다른가요?
 
-초등학생은 집중 시간이 짧은 게 정상입니다. 15~20분 공부 후 휴식하는 패턴으로 훈련하세요. 재미있는 활동을 통해 집중하는 연습을 합니다.
+초등학생은 집중 시간이 짧은 게 정상입니다. 15-20분 공부 후 휴식하는 패턴으로 훈련하세요. 재미있는 활동을 통해 집중하는 연습을 합니다.
 
-중학생은 집중 시간을 서서히 늘려야 합니다. 30~40분씩 집중하고 쉬는 습관을 들이세요. 스마트폰 등 방해 요소를 멀리 두는 것이 중요합니다.
+중학생은 집중 시간을 서서히 늘려야 합니다. 30-40분씩 집중하고 쉬는 습관을 들이세요. 스마트폰 등 방해 요소를 멀리 두는 것이 중요합니다.
 
 고등학생은 장시간 집중이 필요합니다. 1시간 이상 몰입하는 훈련을 하고, 자기만의 집중 루틴을 만드세요. 체력 관리도 중요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 집중력 훈련 방법을 안내합니다. 무리하지 않으면서 서서히 집중 시간을 늘려갑니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 향상에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 집중 방법을 안내합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 마무리

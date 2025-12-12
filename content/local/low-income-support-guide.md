@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "저소득층 가정을 위한 교육 지원 제도 완벽 가이드입니다. 교육급여, 교육비 지원, 장학금, 바우처 등 다양한 지원 프로그램의 자격 요건과 신청 방법을 상세히 안내합니다."
 tags: ["저소득층교육지원", "교육급여", "교육비지원", "저소득층장학금", "교육바우처", "기초생활수급자", "차상위계층", "한부모가정지원", "교육복지"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0294_-uHVRvDr7pg.jpg"
 ---
 
 ## 교육비 때문에 아이 교육을 포기해야 하나 고민이시죠? 지원받을 수 있는 제도가 뭐가 있는지 모르겠다고요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정 상황에 맞는 지원 제도를 안내합니다. 신청 자격과 방법을 함께 확인합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 교육급여 제도
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육급여 수급 자격을 확인합니다. 신청 서류 준비와 절차를 안내합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 교육비 지원 프로그램
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육비 지원 항목을 확인합니다. 학교를 통한 신청 절차를 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 국가장학금과 대학생 지원
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국가장학금 신청 일정을 안내합니다. 학자금 대출 제도도 함께 설명합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 지역별 교육바우처
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육바우처 운영 현황을 확인합니다. 사용처와 유의사항을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,46 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 **Q. 여러 장학금을 동시에 받을 수 있나요?**
 
 종류에 따라 중복 수혜가 가능합니다. 등록금 전액을 초과할 수 없지만 생활비 장학금이나 근로장학금은 추가로 받을 수 있습니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

@@ -14,7 +14,7 @@ tags:
 - 부등식
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 ---
 
 ## 중2 되니까 수학이 갑자기 어려워졌다고요? 일차함수가 뭔지 모르겠고 확률 문제가 헷갈린다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수 개념을 구체적 예시로 쉽게 설명합니다. 추상적 사고에 익숙해지도록 돕습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 식의 계산과 부등식
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-곱셈 공식과 인수분해를 확실히 연결합니다. 부등식의 부호 규칙을 반복 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 연립방정식과 일차함수
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연립방정식 풀이법을 체계적으로 훈련합니다. 일차함수 그래프를 직접 그려보며 이해시킵니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 확률과 도형
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률 문제를 표와 나무그림으로 시각화합니다. 도형의 성질을 정확히 정리합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학습 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 간 연결을 강조하며 가르칩니다. 실수 포인트를 미리 짚어줍니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,36 @@ y가 ax 더하기 b 형태로 그래프가 직선인 함수입니다. 모든 함
 
 경우의 수를 체계적으로 세는 연습을 하세요. 표나 나무그림을 그리면 쉽습니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 중2 수학은 일차함수와 확률이라는 새로운 개념이 등장합니다. 처음에는 어렵지만 개념을 정확히 이해하고 충분히 연습하면 누구나 정복할 수 있습니다. 지금 체계적으로 공부하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2 전 과정을 체계적으로 정리합니다. 탄탄한 기초를 다져 중3으로 연결합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 

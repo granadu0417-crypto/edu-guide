@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 ---
 ## 중학교 공부, 어떻게 시작해야 할지 막막하시죠?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 학습 상태를 진단합니다. 부족한 부분을 찾아 맞춤형 학습 계획을 세웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 중학교 공부가 다른 이유
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 시험의 특성을 설명합니다. 서술형 문제 대비 방법을 체계적으로 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 전 과목 학습의 기본 원칙
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예습과 복습 방법을 구체적으로 알려드립니다. 짧은 시간에 효과적으로 공부하는 법을 익힙니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 주요 과목별 접근법
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습법을 안내합니다. 효율적인 공부 방법을 찾도록 돕습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 내신 시험 대비 전략
@@ -67,7 +67,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 학습 계획을 세웁니다. 체계적인 시험 준비를 도와드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학습 습관 만들기
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 학습 습관을 만들도록 돕습니다. 작은 것부터 시작해 점점 확장합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,6 +96,38 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 **Q. 공부 시간은 얼마나 필요한가요?**
 
 질이 중요합니다. 3시간 멍하게 앉아있는 것보다 1시간 집중하는 게 낫습니다. 집중할 수 있는 만큼만 하세요.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

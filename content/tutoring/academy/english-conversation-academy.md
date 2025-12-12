@@ -13,7 +13,7 @@ tags:
 - 그룹학습
 - 학습환경
 description: 전문 과정 학원. 단기 목표, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 실전 중심 방법으로 성과를 만드세요.
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0735_2LJ4rqK2qfU.jpg"
 reading_time: 160줄
 ---
 
@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 회화 수준을 먼저 파악합니다. 기초부터인지, 실전 연습이 필요한지에 따라 맞춤 커리큘럼을 제공합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 원어민 강사랑 한국인 강사, 뭐가 다른가요?
@@ -36,7 +36,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 강사 유형을 추천합니다. 무조건 원어민이 좋은 게 아닙니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 영어 회화 학원 유형별 특징
@@ -49,7 +49,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-말하기 중심으로 수업합니다. 배운 표현을 바로 써보고, 피드백을 받으면서 실력을 키웁니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 어떤 사람에게 회화 학원이 필요한가요?
@@ -72,7 +72,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 말한 내용을 녹음하고 다시 들려줍니다. 본인의 실수를 직접 확인하면 교정이 빨라집니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 영어 회화 실력을 빨리 늘리려면?
@@ -85,7 +85,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 과제를 드립니다. 배운 표현을 일상에서 써보고, 다음 수업에 점검합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,6 +105,18 @@ reading_time: 160줄
 **Q. 초보도 원어민 수업을 해도 되나요?**
 
 완전 초보는 힘들 수 있습니다. 기초 문법과 어휘가 되면 시작하세요. 아니면 한국인 강사로 기초를 다지세요.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

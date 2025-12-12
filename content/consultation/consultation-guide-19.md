@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0038_wGzmUZMW2rE.jpg"
 ---
 
 ## 온라인 수업만 들으면 집중을 못 하고 다른 짓만 해요. 원격 학습 효과를 어떻게 높일 수 있을까요?
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습 상담에서는 현재 원격 학습 패턴을 분석합니다. 어디서, 언제, 어떻게 공부하는지 파악하고 개선점을 찾습니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 온라인 학습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습이 어렵다면 학습 상담을 받으세요. 원격 환경에서 집중하는 구체적인 방법을 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 진로 상담은 적성과 방향을 찾는 것이 목적입니다. 진학 상담은 입시 전략에 초점을 맞춥니다. 심리 상담은 온라인 학습으로 인한 스트레스가 심할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 온라인 학습 환경 개선안을 안내합니다. 집중을 방해하는 요소를 제거하고, 학습 루틴을 만드는 방법을 알려드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별로 온라인 학습 방법이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 온라인 학습 전략을 제안합니다. 부모의 역할과 학생의 역할을 나눠서 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,8 +86,32 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습 효율화에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 원격 학습 전략을 안내합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

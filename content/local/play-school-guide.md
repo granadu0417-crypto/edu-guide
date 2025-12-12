@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "놀이학교의 모든 것 - 놀이 중심 교육의 중요성, 연령별 프로그램, 시설 선택 기준, 발달 단계별 놀이 활동까지 우리 아이에게 맞는 놀이학교 찾기 완벽 가이드입니다."
 tags: ["놀이학교", "영유아교육", "유아교육", "놀이중심교육", "어린이집", "육아", "발달교육", "사회성발달", "유아기관", "과외대안"]
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0300_CtKO4NGiEhE.jpg"
 ---
 
 ## 아이를 놀이학교에 보내야 할지 고민이시죠? 어린이집과 뭐가 다른지도 헷갈리시고요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 발달 단계와 기질을 파악합니다. 적합한 놀이학교 유형과 프로그램을 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 놀이학교 vs 어린이집 vs 유치원
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정 상황에 맞는 기관 유형을 안내합니다. 맞벌이 여부와 아이 성향을 고려해 추천합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 놀이학교 프로그램 종류
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향에 맞는 프로그램을 추천합니다. 시범 수업 후 적합성을 함께 확인합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 연령별 놀이학교 선택
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 연령에 맞는 놀이학교를 연결합니다. 발달 단계에 적합한 환경인지 확인합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 좋은 놀이학교 선택 기준
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-놀이학교 방문 체크리스트를 제공합니다. 시설과 교사 자질을 함께 확인합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,46 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 **Q. 적응을 너무 못 하는데 계속 보내야 하나요?**
 
 적응 기간은 보통 2주에서 4주입니다. 4주 이상 심하게 울고 집에서도 퇴행 행동이 나타나면 일시 중단하고 전문가 상담을 받아보세요.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

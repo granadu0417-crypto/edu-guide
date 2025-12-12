@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0149_k7ZZmjTBsms.jpg"
 ---
 ## 시간이 부족해서 맨날 뒤에 문제 못 풀어요. 시간 배분 어떻게 해야 하나요?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시간 배분 전략을 함께 세웁니다. 실전 연습을 통해 시간 감각을 익히고 효율적으로 문제를 푸는 방법을 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시간 배분의 기본 원칙
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시간에 맞춰 문제를 풀어보면서 시간 감각을 익힙니다. 시간이 얼마나 걸리는지 체감하는 연습을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 문제 풀이 순서
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 난이도를 빠르게 판단하는 연습을 합니다. 어떤 문제를 먼저 풀고 어떤 문제를 나중에 풀지 전략을 세웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 어려운 문제 대처법
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문제를 넘기는 연습을 합니다. 과감하게 넘기고 나중에 돌아오는 것이 더 효율적임을 체험합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 과목별 시간 관리
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 시간 관리 전략을 안내합니다. 실전 연습을 통해 과목별 시간 감각을 익힙니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시간 관리 연습 방법
@@ -102,6 +102,26 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 **Q. 검토 시간에 답을 바꿔도 되나요?**
 
 확실한 근거가 있을 때만 바꾸세요. 단순히 불안해서 바꾸면 원래 답이 맞았던 경우가 많습니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
 
 ## 마무리
 

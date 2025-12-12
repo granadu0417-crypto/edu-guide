@@ -13,7 +13,7 @@ tags:
 - 노원
 - 의대생과외
 description: 과목별 1:1 과외 선생님 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 전략적 접근으로 경쟁력을 강화하세요.
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0911_ny-PR9SVDeE.jpg"
 reading_time: 160줄
 ---
 
@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정치와 법은 단순 암기가 아닙니다. 개념 간 관계를 이해하고 적용하는 능력이 필요합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 정치와 법이 왜 어려운가요?
@@ -34,7 +34,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비슷한 개념들을 비교 정리합니다. 차이점을 명확히 구분할 수 있도록 가르칩니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과외가 효과적인 이유가 뭔가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 어떤 부분이 헷갈리는지 파악합니다. 맞춤 계획을 세웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 효과적인 공부 방법이 있나요?
@@ -64,7 +64,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 정리표를 함께 만듭니다. 문제 풀이 후 오답 분석으로 약점을 보완합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시사 상식도 알아야 하나요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시사와 연결해서 개념을 설명합니다. 실제 사례로 이해하면 기억에 오래 남습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -95,6 +95,14 @@ reading_time: 160줄
 **Q. 효과는 언제 나타나나요?**
 
 개념을 정리하면 빠르게 늘 수 있습니다. 보통 1-2개월이면 변화를 느낍니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

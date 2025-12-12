@@ -9,7 +9,7 @@ tags:
 - 학습전략
 - 중등과외
 - 성적향상
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0234_wX5DqDi3iE4.jpg"
 ---
 ## 과외 효과가 학생마다 다른 이유가 뭘까요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 과외 성공법을 알려드립니다. 예습 복습 방법, 질문하는 법, 숙제하는 법까지 효과를 높이는 습관을 잡아드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 성공하는 학생의 10가지 특징
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작할 때 지난 시간 복습 여부를 확인합니다. 복습 안 하면 다시 설명해야 하고, 복습하면 바로 다음 단계로 넘어갑니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 선생님과 소통하는 학생이 성공한다
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주중에 혼자 공부한 내용을 확인합니다. 과외 시간만 공부하는 학생에게는 자습 계획을 함께 세웁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 성공하는 부모의 8가지 특징
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-월 1회 학부모님께 학습 상황을 보고합니다. 진도, 이해도, 약점, 개선점을 말씀드리고 필요한 지원을 요청합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 실패하는 패턴과 해결법
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실패 패턴이 보이면 솔직하게 말씀드립니다. 지금 이대로면 효과가 없다고, 뭘 바꿔야 하는지 제안합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과목별 성공 비결
@@ -103,6 +103,14 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 **Q. 학생이 과외를 싫어하는데 어떡하죠?**
 
 왜 싫어하는지 구체적으로 파악하세요. 선생님이 무서운지, 내용이 어려운지, 지루한지, 피곤한지에 따라 대응이 다릅니다. 선생님 문제면 교체하고, 내용 문제면 난이도를 조정하세요.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
 
 ## 마무리
 

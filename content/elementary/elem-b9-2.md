@@ -11,7 +11,7 @@ tags:
 - 초등1학년
 - 초등교육
 - 초등학습
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"
 ---
 ## 학교에서 친구가 없다고 하는 아이, 어떻게 도와줘야 할까요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 짝과 함께하는 활동을 많이 합니다. 자연스럽게 친구와 협력하는 법을 배웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 오늘 학교에서 뭐 했어?라고 물어봅니다. 친구 이야기가 나오면 자세히 들어줍니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 친구 사귀는 법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-역할놀이로 친구 사귀는 상황을 연습합니다. 처음 만난 친구에게 뭐라고 할까? 하고 연습해봅니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 갈등 해결하기
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-친구랑 문제가 생기면 어떻게 해?라고 물어봅니다. 혼자 해결하려 하지 말고 어른에게 이야기하는 것도 방법이라고 알려줍니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 가정에서의 역할
@@ -83,7 +83,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습보다 친구 관계를 더 중요하게 여깁니다. 친구랑 잘 지내?라는 질문을 공부 잘 했어?보다 먼저 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 주의사항
@@ -107,6 +107,22 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 **Q. 특정 친구만 좋아해요.**
 
 괜찮습니다. 한두 명의 친한 친구가 있는 게 자연스럽습니다. 친구 수보다 관계의 질이 중요합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
 
 ## 마무리
 

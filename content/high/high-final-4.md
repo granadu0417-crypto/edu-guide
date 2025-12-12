@@ -14,7 +14,7 @@ tags:
 - 독해력
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 ---
 ## 국어 등급이 안 나와요. 비문학도 어렵고 문학도 어렵고 다 어려워요.
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 국어 실력을 진단합니다. 어떤 영역이 약한지, 어디서 시간을 뺏기는지 파악해서 맞춤 전략을 세웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 수능 국어의 구조
@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별로 비중을 다르게 합니다. 약한 영역에 시간을 더 투자합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 비문학 공략법
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문을 읽고 구조를 분석하는 연습을 합니다. 글의 뼈대를 파악하면 어떤 지문이 나와도 읽을 수 있습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 문학 공략법
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 작품을 분석하는 방법을 알려줍니다. 표현 기법, 주제, 화자의 정서를 파악하는 연습을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 시간 관리
@@ -74,11 +74,11 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 비문학은 30분입니다. 세 지문에 각 10분씩 배분합니다. 시간이 오래 걸리는 지문은 건너뛰고 나중에 풉니다.
 
-문학은 25분입니다. 네 작품에 각 6~7분씩 배분합니다. 익숙한 작품이 나오면 빠르게 풀 수 있습니다.
+문학은 25분입니다. 네 작품에 각 6-7분씩 배분합니다. 익숙한 작품이 나오면 빠르게 풀 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 연습을 합니다. 실전처럼 시간을 재고 풀어봅니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 오답 분석
@@ -91,7 +91,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 함께 합니다. 왜 틀렸는지, 어떻게 해야 안 틀리는지 파악합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 주의사항
@@ -115,6 +115,14 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 **Q. 문학 작품을 다 외워야 하나요?**
 
 외울 필요 없습니다. 분석하는 방법을 익히면 처음 보는 작품도 풀 수 있습니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
 
 ## 마무리
 

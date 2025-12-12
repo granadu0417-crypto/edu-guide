@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "국내외 주요 수학 대회를 총정리했습니다. 대회 정보부터 준비 전략까지, 1:1 과외 전문가가 알려드리는 수학 대회 완벽 가이드입니다."
 tags: ["수학대회", "경시대회", "올림피아드", "1:1과외", "수상전략", "대회정보", "입시스펙"]
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0512_3Oo24ExxTn8.jpg"
 ---
 
 ## 수학 대회에 도전하고 싶은데 어떤 대회가 있는지 모르겠다고요? 준비는 어떻게 해야 하는지도 궁금하시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수준과 목표에 맞는 대회를 추천합니다. 대회별 출제 경향을 분석하여 맞춤 준비를 도와드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 국제 수학 대회
@@ -24,7 +24,7 @@ IMO는 세계 최고 권위의 국제수학올림피아드로 100여 개국이 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국제 대회 기출 문제를 분석하고 유형별 풀이 전략을 지도합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 국내 올림피아드
@@ -35,7 +35,7 @@ KMO는 한국수학올림피아드로 국내 최고 권위를 자랑합니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-KMO 기출 분석과 예상 문제 풀이를 진행합니다. 단계별로 난이도를 높여갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 대회 준비 전략
@@ -44,7 +44,7 @@ KMO 기출 분석과 예상 문제 풀이를 진행합니다. 단계별로 난�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 학습 계획을 함께 세웁니다. 매주 진도를 점검하고 부족한 부분을 보완합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 학년별 추천 대회
@@ -53,7 +53,7 @@ KMO 기출 분석과 예상 문제 풀이를 진행합니다. 단계별로 난�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 수준에 맞는 대회를 추천합니다. 장기 로드맵을 함께 설계합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,30 @@ KMO 기출 분석과 예상 문제 풀이를 진행합니다. 단계별로 난�
 **Q. 수상 경력이 입시에 얼마나 도움이 되나요?**
 
 과학고 영재고 입시에서 KMO 수상은 큰 가산점입니다. 대학 입시에서도 자기소개서와 면접에서 활용할 수 있습니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

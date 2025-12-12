@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 ---
 
 ## 시간 팽창과 길이 수축이 이해가 안 되고 추상적으로 느껴진다고요? 광속 불변의 원리부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특수상대성이론의 두 가지 가정을 명확히 설명합니다. 왜 이런 결론이 나오는지 논리적으로 이해합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 시간 팽창
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 팽창 공식을 유도합니다. 다양한 상황에서 계산 문제를 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 길이 수축
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-길이 수축 공식을 적용합니다. 시간 팽창과 함께 문제를 분석합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 질량 에너지 등가
@@ -55,7 +55,7 @@ E=mc²는 질량과 에너지가 같다는 것을 의미합니다. 작은 질량
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-질량-에너지 등가 원리의 의미를 설명합니다. 핵반응에서의 적용을 이해합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ E=mc²는 질량과 에너지가 같다는 것을 의미합니다. 작은 질량
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 분석합니다. 계산 문제와 개념 문제를 집중 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ E=mc²는 질량과 에너지가 같다는 것을 의미합니다. 작은 질량
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 상대성이론을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>

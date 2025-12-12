@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등 과학탐구 영역(물리, 화학, 생명과학, 지구과학) 완벽 대비 전략. 과목 선택부터 개념 정립, 킬러 문항 대비, 실전 모의고사까지 과탐 1등급 로드맵."
 tags: ["과학탐구", "과탐과외", "물리과외", "화학과외", "생명과학", "지구과학", "이과과외", "과학공부"]
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0690_t_0zK-Nz_lQ.jpg"
 ---
 
 ## 과탐 어떤 과목을 선택해야 할지 모르겠어요. 물리는 어렵고 지구과학은 쉽다는데 뭘 선택하는 게 유리한가요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 적성과 진로에 맞는 과목 선택을 돕습니다. 과목별 학습 전략을 세웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과목별 특징
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성을 설명하고 학생에게 맞는 선택을 권합니다. 선택 후 학습 계획을 세웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 물리학 학습 전략
@@ -35,11 +35,11 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 {{< cta-dual type="final" >}}
 
-물리는 그림을 그리며 상황을 파악하는 연습이 필수입니다. 개념 이해에 2~3개월, 기출 분석에 2~3개월, 킬러 대비에 1~2개월이 필요합니다.
+물리는 그림을 그리며 상황을 파악하는 연습이 필수입니다. 개념 이해에 2-3개월, 기출 분석에 2-3개월, 킬러 대비에 1-2개월이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 증명과 유도 과정을 설명합니다. 문제 접근법을 가르치고 실수 패턴을 분석합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 화학과 생명과학 학습법
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-몰 계산과 유전 문제를 집중 훈련합니다. 개념 암기를 점검하고 오답 분석을 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 수능 대비 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석과 실전 연습을 병행합니다. 시간 배분과 실수 방지 전략을 훈련합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,6 +77,30 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 **Q. 지구과학이 쉬우면 선택해도 되나요?**
 
 쉽지만 표준점수가 낮습니다. 만점을 받아도 물리 1등급보다 점수가 낮을 수 있습니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

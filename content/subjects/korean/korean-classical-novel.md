@@ -11,7 +11,7 @@ tags:
 - 영웅소설
 - 판소리계소설
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0437_VieM9BdZKFo.jpg"
 ---
 
 ## 고전소설이 너무 낯설고 어렵다고요? 유형별 특징을 알면 분석이 쉬워집니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어려워하는 소설 유형을 파악합니다. 유형별 분석 방법을 체계적으로 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 영웅소설의 특징
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영웅소설의 서사 구조를 분석합니다. 대표 작품의 주제와 특징을 정리합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 판소리계 소설
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-판소리계 소설의 문체적 특징을 분석합니다. 작품별 주제와 인물 유형을 정리합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 풍자소설의 이해
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풍자의 대상과 방법을 분석합니다. 사회적 맥락과 작가 의도를 연결합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 소설 분석 방법
@@ -58,14 +58,14 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소설 분석의 단계별 방법을 훈련합니다. 실제 기출 문제에 적용하는 연습을 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 고전소설을 몇 편이나 읽어야 하나요?**
 
-필수 작품 15~20편을 깊이 분석하면 됩니다. 낯선 작품이 나와도 분석 능력으로 해결할 수 있습니다.
+필수 작품 15-20편을 깊이 분석하면 됩니다. 낯선 작품이 나와도 분석 능력으로 해결할 수 있습니다.
 
 **Q. 줄거리를 외워야 하나요?**
 
@@ -75,11 +75,35 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 자주 나오는 고어 표현을 정리하고, 문맥으로 추론하는 연습을 하세요.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 고전소설은 유형별 특징을 이해하면 분석이 쉬워집니다. 영웅소설, 판소리계 소설, 풍자소설의 구조와 주제를 정리하세요. 꾸준한 작품 분석 연습이 실력을 키웁니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 고전소설 분석력을 키웁니다. 수능 빈출 작품을 집중 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 집중력 완벽 향상 전략 | 1:1 맞춤 지도, 몰입·지속·관리 [2025년]"
 tags: ["중학생", "집중력", "몰입", "학습능력", "효율", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0951_5I6SeQJejm8.jpg"
 ---
 
 ## 공부할 때 자꾸 딴 생각이 나요. 집중력을 어떻게 키울 수 있나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력은 타고나는 게 아닙니다. 훈련으로 충분히 늘릴 수 있습니다. 학생의 집중 패턴을 먼저 파악합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 집중력이 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 집중하는 연습부터 시작합니다. 25분 집중하는 것부터 차근차근 늘려갑니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 집중을 방해하는 게 뭔가요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 환경을 점검합니다. 집중을 방해하는 요소를 찾아 제거하는 것부터 시작합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 집중력을 키우려면 어떻게 해야 하나요?
@@ -50,23 +50,23 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간을 활용해 집중력 훈련을 합니다. 처음에는 짧게, 점점 길게 집중하는 연습을 함께 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학년별로 목표가 다른가요?
 
-중1은 30~40분 지속 집중이 목표입니다. 초등학교에서 막 올라온 시기라 집중 습관이 아직 약합니다. 짧은 집중을 반복하는 연습이 필요합니다. 중2는 50분 이상 지속 집중을 목표로 합니다. 학교 수업 한 시간만큼 집중할 수 있어야 합니다. 중3은 1시간 이상 깊은 몰입이 목표입니다. 고등학교 입시를 앞두고 장시간 집중이 필요합니다.
+중1은 30-40분 지속 집중이 목표입니다. 초등학교에서 막 올라온 시기라 집중 습관이 아직 약합니다. 짧은 집중을 반복하는 연습이 필요합니다. 중2는 50분 이상 지속 집중을 목표로 합니다. 학교 수업 한 시간만큼 집중할 수 있어야 합니다. 중3은 1시간 이상 깊은 몰입이 목표입니다. 고등학교 입시를 앞두고 장시간 집중이 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 현재 수준에 맞는 목표를 세웁니다. 무리한 목표보다 달성 가능한 목표로 자신감을 키웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 집중력은 타고나는 건가요?**
 
-아닙니다. 운동으로 근육을 키우듯 집중력도 훈련으로 향상됩니다. 매일 조금씩 연습하면 2~4주 후부터 효과를 느낄 수 있습니다.
+아닙니다. 운동으로 근육을 키우듯 집중력도 훈련으로 향상됩니다. 매일 조금씩 연습하면 2-4주 후부터 효과를 느낄 수 있습니다.
 
 **Q. 음악 들으면서 공부해도 되나요?**
 

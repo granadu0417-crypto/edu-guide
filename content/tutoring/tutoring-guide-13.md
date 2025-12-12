@@ -12,7 +12,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 ---
 
 ## 방문 과외를 받으려면 집에 뭘 준비해야 하나요? 어떤 환경이 좋을까요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방문 과외 상담에서는 학습 환경을 먼저 확인합니다. 어떤 공간에서 수업할 건지, 필요한 준비물이 뭔지 안내해드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 방문 과외가 왜 좋은가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 전에 학습 환경을 점검합니다. 책상 배치, 조명, 소음 등 수업에 영향을 주는 요소를 함께 확인합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 가족에게도 미리 알려주세요. 수업 시간에는 조용히 해달라고 부탁하세요. TV 소리, 대화 소리가 들리면 집중이 어렵습니다.
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 마다 학습 내용과 숙제를 학부모님께 공유합니다. 아이의 진도와 상태를 함께 확인합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 방문 과외에서 가장 중요한 건 뭔가요?
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 5분 전까지 준비를 마치도록 안내합니다. 시간 낭비 없이 바로 수업을 시작할 수 있습니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,8 +87,48 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방문 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 최적의 학습 환경 조성 방법을 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

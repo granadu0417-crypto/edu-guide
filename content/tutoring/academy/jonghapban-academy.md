@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 학원 유형별 특징. 장단점, 선택 기준, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 검증된 노하우로 실력을 키우세요.
-featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0752_tBgXVOOSRo4.jpg"
 reading_time: 270줄
 ---
 
@@ -23,7 +23,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향과 목표에 맞는 학원 유형을 함께 상담해 드립니다. 어떤 방식이 맞는지 먼저 파악합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 종합반 학원의 특징은 뭔가요?
@@ -36,7 +36,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합반에서 약한 과목은 과외로 보완합니다. 학원 진도에 맞춰 과외 수업을 설계합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 종합반의 단점은 뭔가요?
@@ -49,7 +49,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합반에서 맞지 않는 과목은 과외로 대체할 수 있습니다. 유연하게 조합하는 게 효과적입니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 어떤 학생에게 종합반이 맞나요?
@@ -72,7 +72,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황을 파악해서 어떤 유형이 맞는지 안내해 드립니다. 정답은 학생마다 다릅니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 과외랑 병행하면 어떤가요?
@@ -85,7 +85,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 수업을 설계합니다. 학원에서 못 따라간 부분을 과외에서 잡습니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,6 +105,26 @@ reading_time: 270줄
 **Q. 종합반이랑 단과를 섞어도 되나요?**
 
 됩니다. 종합반에서 기본 과목을 듣고, 특정 과목만 단과학원으로 보완하는 방법도 있습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
 
 ## 마무리
 

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "진로상담 완벽 가이드 | 청소년 진로탐색·진로검사 종류·상담 받는 방법·학년별 진로준비·진학 전략까지 상세 안내"
 tags: ["진로상담", "진로탐색", "진로검사", "커리어코칭", "청소년진로", "직업탐색", "대학진학", "진로교육"]
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0183_5NKadumpkhc.jpg"
 ---
 
 ## 아이가 뭘 좋아하는지 모르겠어요. 진로를 정하지 못해서 공부에 동기가 없는 것 같은데 어떻게 해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 흥미와 적성을 파악합니다. 다양한 직업과 학과 정보를 함께 탐색합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 진로검사의 종류와 활용
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 종류의 진로검사를 실시합니다. 결과를 종합하여 학생의 강점을 분석합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년별 진로 준비 가이드
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 진로 준비 로드맵을 세웁니다. 단계별로 목표를 설정하고 점검합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 무료 진로상담 활용하기
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 진로상담 자원을 안내합니다. 학교와 지역 프로그램 활용법을 알려드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 부모-자녀 진로 갈등 해결
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모와 자녀가 함께 상담에 참여할 수 있습니다. 객관적인 정보를 바탕으로 대화를 돕습니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,38 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 **Q. 진로를 자주 바꾸는데 문제인가요?**
 
 청소년기에는 자연스러운 현상입니다. 탐색 과정 자체가 중요합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

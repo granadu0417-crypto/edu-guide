@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 학년·대상별 1:1 과외 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 전략적 접근으로 경쟁력을 강화하세요.
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0901__E9nefvfSSE.jpg"
 reading_time: 160줄
 ---
 
@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교는 학습 습관을 잡는 중요한 시기입니다. 기초를 탄탄히 다지면 고등학교가 수월합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 중학교 공부가 왜 중요한가요?
@@ -34,7 +34,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준을 정확히 진단합니다. 부족한 부분을 먼저 채우고 진도를 나갑니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 과외가 학원보다 나은 점이 있나요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 편하게 소통합니다. 모르는 게 있으면 편하게 물어볼 수 있는 분위기를 만듭니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과외는 주 몇 회가 적당한가요?
@@ -64,7 +64,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞춰 유연하게 운영합니다. 시험 기간에는 추가 수업도 가능합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 학부모가 신경 써야 할 것은요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 정기적으로 피드백 드립니다. 학생의 진행 상황을 함께 공유합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -95,6 +95,26 @@ reading_time: 160줄
 **Q. 효과는 언제쯤 나타나나요?**
 
 보통 2-3개월 후부터 변화가 나타납니다. 꾸준히 해야 합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

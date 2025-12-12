@@ -11,7 +11,7 @@ tags:
 - 수능
 - 시험대비
 - 시험전략
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 ---
 ## 영어 시험에서 독해랑 문법 중 뭘 먼저 공부해야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 실력을 진단하고 약점을 파악합니다. 독해, 문법, 어휘 중 부족한 부분을 집중적으로 보완합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 영어 시험의 구성
@@ -32,12 +32,12 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능의 출제 특성을 분석합니다. 시험 유형에 맞는 맞춤 전략을 세웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 어휘 학습 전략
 
-매일 꾸준히 외우세요. 한 번에 많이 외우려고 하면 금방 까먹습니다. 매일 20~30개씩 꾸준히 외우는 것이 효과적입니다.
+매일 꾸준히 외우세요. 한 번에 많이 외우려고 하면 금방 까먹습니다. 매일 20-30개씩 꾸준히 외우는 것이 효과적입니다.
 
 예문과 함께 외우세요. 단어만 따로 외우면 실제 문장에서 어떻게 쓰이는지 모릅니다. 예문을 통해 사용법을 익히세요.
 
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 암기 진도를 체크합니다. 복습 테스트로 까먹은 단어를 다시 잡아줍니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 문법 학습 전략
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 문법을 정리하고 문제에 적용합니다. 약한 문법을 집중 훈련하여 정확도를 높입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 독해 전략
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 전략을 연습합니다. 빠르고 정확하게 읽는 기술을 훈련하여 시간을 절약합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 내신 영어 대비
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 본문을 분석하고 예상 문제를 풀어봅니다. 학교별 출제 경향에 맞춰 대비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시험장 전략
@@ -113,7 +113,15 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 **Q. 내신과 수능 중 뭘 먼저 해야 하나요?**
 
-학년에 따라 다릅니다. 고1~2는 내신에 집중하고, 고3은 병행해야 합니다.
+학년에 따라 다릅니다. 고1-2는 내신에 집중하고, 고3은 병행해야 합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 꾸준히 3개월 이상 수업하면 확실한 성적 향상을 기대할 수 있습니다.
+
+**Q. 다른 학생과 함께 수업해도 되나요?**
+
+소그룹 수업도 가능합니다. 비슷한 수준의 친구와 함께 하면 비용도 절약하고 경쟁 효과도 있습니다.
 
 ## 마무리
 

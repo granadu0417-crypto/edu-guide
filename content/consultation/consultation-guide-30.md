@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0051_6Bae9-46yeU.jpg"
 ---
 
 ## 공부하라고 하면 싸우게 되고, 안 하면 걱정되고. 부모로서 어떻게 도와줘야 할지 모르겠어요.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모 상담에서는 자녀와의 소통 방식을 분석합니다. 어떤 말이 효과적이고, 어떤 말이 역효과인지 구체적으로 안내합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학부모 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀 교육이 고민이라면 학부모 상담을 받으세요. 부모 역할에 대한 구체적인 가이드를 안내합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 자녀의 진로가 걱정되면 진로 상담, 입시가 걱정되면 진학 상담을 자녀와 함께 받으실 수도 있습니다.
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 실천할 수 있는 소통 방법을 안내합니다. 말투, 타이밍, 내용 등 구체적인 팁을 알려드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자녀 학년에 따라 부모 역할이 다른가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀 학년에 맞는 부모 역할을 안내합니다. 언제 개입하고 언제 물러서야 하는지 알려드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀 교육에 대해 더 궁금한 점이 있으시면 문의하세요. 효과적인 학습 지도 방법을 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 마무리

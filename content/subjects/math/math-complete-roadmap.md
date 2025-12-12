@@ -16,7 +16,7 @@ tags:
 - 기하
 - 확률과통계
 description: 수학 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 기초 개념부터 고난도 문제 풀이까지, 효과적인 학습 전략과 로드맵을 제시합니다.
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0513_MiZd3-92iDE.jpg"
 ---
 
 ## 수학 공부를 어디서부터 시작해야 할지 막막하시죠? 기초부터 심화까지 체계적인 로드맵이 필요하다고 느끼시고요.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 수준을 정확히 진단합니다. 어디서부터 시작해야 하는지 파악하고 맞춤 로드맵을 설계합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 중학 수학 로드맵
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학 수학의 핵심 개념을 정리합니다. 고등 수학과 연결되는 부분을 강조하여 가르칩니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 고등 수학 로드맵
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 개념을 체계적으로 정리합니다. 선택과목 결정도 함께 상담합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 영역별 학습 전략
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 특성에 맞는 학습법을 적용합니다. 취약 영역을 집중 보완합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 수능 대비 전략
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석과 킬러 문항 대비를 진행합니다. 실전 모의고사로 시간 관리 훈련을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,12 +80,36 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 진로와 적성을 고려합니다. 이공계는 미적분이 거의 필수이고 인문계는 확률과통계가 유리합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 수학은 체계적인 로드맵이 중요합니다. 기초를 탄탄히 하고 단계적으로 심화해 가면 어떤 문제도 풀 수 있습니다. 혼자 어렵다면 전문가의 도움을 받으세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인별 맞춤 로드맵을 설계합니다. 기초부터 심화까지 체계적으로 학습을 진행합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 

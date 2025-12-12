@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 ---
 
 ## 다음 시험까지 한 달밖에 안 남았는데, 지금이라도 성적을 올릴 수 있을까요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적 향상 상담에서는 현재 성적과 목표 성적의 갭을 분석합니다. 남은 시간 안에 가장 효과적으로 점수를 올릴 수 있는 부분을 찾아냅니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 성적 향상 컨설팅이 왜 필요한가요?
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단기간 성적 향상이 목표라면 학습 상담에 집중하세요. 시험 범위 내에서 효율적으로 공부하는 방법을 구체적으로 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 진학 상담은 입시 전략과 학교 정보를 제공합니다. 심리 상담은 시험 불안이나 스트레스가 심할 때 도움이 됩니다.
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 시험까지 구체적인 학습 계획을 세웁니다. 하루하루 무엇을 할지 로드맵을 만들고 실천합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학년별로 성적 향상 전략이 다른가요?
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 상황에 맞는 성적 향상 전략을 제안합니다. 시험까지 남은 시간에 따라 우선순위를 조정합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적 향상에 대해 더 궁금한 점이 있으시면 문의하세요. 학생 상황에 맞는 맞춤 전략을 제안합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 마무리

@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 ---
 ## 예체능 이론 시험이 생각보다 어려워요. 어떻게 준비해야 하나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 이론 시험의 출제 범위와 유형을 파악합니다. 실기와 이론의 균형 잡힌 대비 전략을 세워드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 예체능 시험의 구성
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 이론 범위를 정리하고 핵심 내용을 추출합니다. 효율적인 암기와 이해를 도와드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 체육 이론 대비
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체육 이론의 핵심 내용을 체계적으로 정리합니다. 종목별 규칙, 건강 지식 등을 효율적으로 암기하도록 돕습니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 음악 이론 대비
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-음악 이론의 핵심을 정리합니다. 작곡가, 작품, 음악 용어 등을 체계적으로 암기하도록 지도합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 미술 이론 대비
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미술 이론의 핵심을 정리합니다. 미술사, 작품 분석, 표현 기법 등을 체계적으로 학습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 실기와 이론의 균형
@@ -103,6 +103,30 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 **Q. 예체능 성적도 대입에 반영되나요?**
 
 내신 등급 산출에 포함되는 경우가 많습니다. 정확한 반영 방법은 학교와 대학별로 다르니 확인하세요.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
 
 ## 마무리
 

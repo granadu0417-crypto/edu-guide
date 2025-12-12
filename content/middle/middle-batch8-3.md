@@ -15,7 +15,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0950_bFMmD2yufEI.jpg"
 ---
 ## 특목고, 자사고 정말 갈 수 있을까요?
 
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 성적과 특성을 분석합니다. 지원 가능한 학교와 전략을 함께 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 특목고 종류와 특징
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 적성과 진로를 고려해 맞는 학교를 추천합니다. 각 학교의 특성을 상세히 안내합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자사고와 일반고의 차이
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 학교 유형의 장단점을 비교 분석합니다. 학생에게 맞는 선택을 돕습니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 특목고 지원 자격
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지원 자격을 꼼꼼히 확인합니다. 부족한 부분을 보완할 수 있도록 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 준비 일정
@@ -67,7 +67,7 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-월별 준비 일정을 함께 세웁니다. 빠뜨리는 것 없이 체계적으로 준비합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자기소개서와 면접 준비
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기소개서 작성을 도와드립니다. 모의 면접으로 실전 감각을 키웁니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,6 +96,14 @@ featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=
 **Q. 특목고 가면 대학 가기 쉬운가요?**
 
 내신 경쟁이 치열해서 오히려 어려울 수 있습니다. 본인 실력을 객관적으로 판단하세요.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
 
 ## 마무리
 

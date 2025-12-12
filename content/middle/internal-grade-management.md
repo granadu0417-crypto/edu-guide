@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진학정보
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0792_pwcKF7L4-no.jpg"
 ---
 ## 중학교 내신, 어떻게 관리해야 할지 모르겠다고요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리의 기본 틀을 잡아드립니다. 시험 일정에 맞춘 학습 계획 세우는 법을 알려드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 내신 성적의 구성
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지필 평가와 수행평가를 균형 있게 준비하도록 돕습니다. 과목별 평가 방식을 분석하여 전략을 세웁니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 학기 초 기초 다지기
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학기 초에 학습 습관을 잡아드립니다. 수업 시간에 집중하고 당일 복습하는 루틴을 만듭니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학기 중 꾸준한 관리
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 복습하는 습관을 잡아드립니다. 수행평가 일정을 체크하고 미리 준비하도록 관리합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시험 대비 전략
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞추어 학습 계획을 세웁니다. 과목별로 효율적인 시험 대비 전략을 알려드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학년별 내신 관리
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 특성에 맞는 내신 관리 전략을 제시합니다. 장기적인 학습 로드맵을 함께 세웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,14 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 **Q. 벼락치기로 시험을 잘 볼 수 있나요?**
 
 단기적으로는 가능할 수 있지만 권장하지 않습니다. 벼락치기는 금방 잊어버리고, 고등학교에서 통하지 않습니다. 지금부터 꾸준히 공부하는 습관을 들이세요.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

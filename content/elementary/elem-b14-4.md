@@ -11,7 +11,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0118_j9jZSqfH5YI.jpg"
 ---
 ## 정답은 하나지만 풀이법은 여러 개입니다
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 하나를 여러 방법으로 풀어봅니다. 다른 방법으로도 풀 수 있을까? 질문하면 아이들이 스스로 생각합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀려도 괜찮다고 말해줍니다. 틀린 과정에서 배우는 게 있습니다. 틀림을 두려워하면 창의성이 자라지 않습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답이 없는 질문을 던집니다. 만약 ~라면 어떻게 될까? 같은 질문에 자유롭게 생각하도록 유도합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 창의적 사고의 특징
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-브레인스토밍을 합니다. 아이디어를 마음껏 내보게 하고, 그중에서 좋은 것을 골라봅니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 가정에서의 역할
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중 창의 퀴즈 시간을 갖습니다. 정답이 여러 개인 문제를 내고, 다양한 답을 인정합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 주의사항
@@ -101,6 +101,26 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 **Q. 공부와 창의성을 어떻게 함께 키우나요?**
 
 공부할 때 왜?, 다른 방법은?이라고 질문해보세요. 단순 암기가 아닌 생각하는 공부가 됩니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

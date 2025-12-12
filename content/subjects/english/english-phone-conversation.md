@@ -13,7 +13,7 @@ tags:
 - conversation
 - speaking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0400_dGxOgeXAXm8.jpg"
 ---
 
 ## 영어 전화만 오면 심장이 뛰시죠? 뭐라고 받아야 할지 모르겠다고요.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전화 상황별 기본 표현을 익힙니다. 실제 전화처럼 역할극으로 연습합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 전화 받기와 걸기
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전화 받기/걸기 기본 패턴을 암기합니다. 상황별로 변형해서 연습합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 문제 상황 대처
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 상황 대처 표현을 집중 연습합니다. 당황하지 않고 대응하는 법을 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 메시지와 전화 끝내기
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-메시지 남기기와 받기 표현을 정리합니다. 자연스러운 마무리 인사를 연습합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 실전 팁
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 팁을 적용한 모의 통화를 합니다. 피드백으로 개선점을 찾습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ Sorry, wrong number라고 하고 끊으세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 회화 수업으로 전화 영어를 자신 있게 구사합니다. 실제 상황처럼 연습하고 즉각 피드백을 받습니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>

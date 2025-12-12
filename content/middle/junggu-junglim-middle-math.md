@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0844_rKuWB69j9W8.jpg"
 
 ---
 ## 중구 중림동 중학생, 수학 등식의 변형이 어렵다면
@@ -28,7 +28,7 @@ a = b이면 a + c = b + c인데, 왜 양변에 같은 수를 더해도 등호가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 등식의 변형 이해 수준을 진단합니다. 등식의 성질, 식의 변형 방법, 방정식으로의 연결을 체계적으로 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 등식의 변형이 어려운 이유
@@ -39,7 +39,7 @@ a = b이면 a + c = b + c인데, 왜 양변에 같은 수를 더해도 등호가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-등식의 성질 네 가지를 정확히 이해합니다. 각 성질을 이용한 식 변형 연습을 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 덕수중·환일중·장원중 수학 시험의 특징
@@ -52,7 +52,7 @@ a = b이면 a + c = b + c인데, 왜 양변에 같은 수를 더해도 등호가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·환일중·장원중 기출 등식 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ a = b이면 a + c = b + c인데, 왜 양변에 같은 수를 더해도 등호가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 등식을 변형해보게 합니다. 왜 그렇게 변형했는지 설명하는 훈련을 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,18 +76,18 @@ a = b이면 a + c = b + c인데, 왜 양변에 같은 수를 더해도 등호가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 방정식 내용을 정확히 이해합니다. 등식을 자유롭게 다루는 능력을 키웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 등식 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,18 @@ a = b이면 a + c = b + c인데, 왜 양변에 같은 수를 더해도 등호가
 **Q. 0으로 나누면 안 되는 이유는요?**
 
 0으로 나누는 것은 정의되지 않습니다. 등식의 성질에서도 나눗셈은 0이 아닌 수로만 가능합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

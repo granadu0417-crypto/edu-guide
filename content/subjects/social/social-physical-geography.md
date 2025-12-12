@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 ---
 
 ## 산지와 평야가 어떻게 만들어지는지 어렵고 지형 특성이 복잡하다고요? 내적 작용과 외적 작용부터 구분하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지형 형성의 두 가지 작용을 먼저 구분합니다. 각 지형의 형성 과정과 특징을 연결합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 내적 작용
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화산 지형과 지각 변동의 원리를 설명합니다. 실제 지형 사진과 연결해서 이해합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 외적 작용
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-침식 지형과 퇴적 지형의 차이를 비교합니다. 각 지형의 형성 조건을 정리합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 한반도의 지형
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한반도 지형의 특징을 지도와 함께 학습합니다. 각 지역의 지형 특성을 비교합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 지형과 인간 생활
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지형과 인간 활동의 관계를 분석합니다. 지형 활용 사례를 정리합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,47 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 석회암 지대에서 빗물의 용식 작용으로 동굴, 돌리네 등이 만들어집니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
 ## 마무리
 
 지형은 내적 작용과 외적 작용, 지형 특성, 인간 생활과의 관계가 핵심입니다. 지형 형성 원리를 이해하고 실제 지형과 연결하세요. 지형도 해석 연습도 중요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 지형을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

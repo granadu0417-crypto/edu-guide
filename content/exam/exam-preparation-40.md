@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0180_HZhPIqXdwYI.jpg"
 ---
 ## 예체능 내신도 성적에 들어가는데 실기랑 이론 어떻게 준비해야 하나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 이론과 실기를 함께 준비합니다. 각각의 비중과 평가 기준을 파악하여 전략적으로 대비합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 예체능 시험의 구성
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 평가 구성을 분석합니다. 실기와 이론 각각에 맞는 준비 방법을 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 실기 준비 전략
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실기 평가 기준을 분석하고 맞춤 연습을 합니다. 기본기를 탄탄히 다져 좋은 평가를 받도록 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 이론 시험 준비
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 이론 시험을 체계적으로 대비합니다. 핵심 내용을 정리하고 예상 문제를 풀어봅니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 과목별 이론 전략
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 이론 핵심을 정리합니다. 자주 출제되는 내용을 집중적으로 공부합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 시간 배분 전략
@@ -109,6 +109,22 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 **Q. 시간이 부족해요.**
 
 조금씩이라도 꾸준히 하세요. 마지막에 몰아서 하는 것보다 효과적입니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

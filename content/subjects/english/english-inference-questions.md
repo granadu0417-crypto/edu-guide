@@ -13,7 +13,7 @@ tags:
 - 암시
 - 논리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0380_uus72YDRZzw.jpg"
 ---
 
 ## 지문에 없는 내용을 어떻게 찾냐고요? 선택지가 다 맞는 것 같으시죠.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 문제의 유형을 분류합니다. 논리적 추론 과정을 단계별로 훈련합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 추론의 종류
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 종류별로 접근법을 달리합니다. 다양한 유형의 문제로 연습합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 추론 전략
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 단서를 찾는 훈련을 합니다. 연결어와 핵심 표현에 집중합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 선택지 분석법
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답과 오답의 특징을 분석합니다. 선택지 소거법을 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 주의사항
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론의 오류를 교정합니다. 논리적 사고력을 체계적으로 훈련합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,11 +77,35 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 행동과 감정 단어를 보세요. smiled, laughed는 happy, frowned, cried는 sad입니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 추론 문제는 연결어와 논리 관계만 파악하면 쉽게 정복할 수 있습니다. 과도한 추론을 피하고 한 단계씩 논리적으로 접근하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 추론 능력을 키웁니다. 논리적 사고력 훈련으로 빠르게 향상합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>

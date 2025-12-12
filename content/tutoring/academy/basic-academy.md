@@ -13,7 +13,7 @@ tags:
 - 노원
 - 대치동학원
 description: 학원 선택 가이드. 특징, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 맞춤형 솔루션으로 빠른 향상을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0721_CwC_2MmMdhA.jpg"
 reading_time: 270줄
 ---
 
@@ -23,7 +23,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기초가 부족한 학생은 먼저 진단부터 합니다. 어디서부터 막히는지 파악한 후 수업을 시작합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 중하위권 학생에게 어떤 학원이 맞나요?
@@ -36,7 +36,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞춰 진도를 조절합니다. 무리하게 빨리 나가지 않습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 중하위권 학생의 학습 전략은 뭔가요?
@@ -49,7 +49,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기초가 약한 학생은 한 단계씩 천천히 올라갑니다. 무리한 진도는 오히려 역효과입니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 학원과 과외 중 뭐가 나을까요?
@@ -62,7 +62,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 따라 학원 병행 여부를 상담해 드립니다. 과외만으로 충분한 경우도 많습니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -77,7 +77,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 속도로 수업합니다. 이해 못 한 채 넘어가지 않습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -96,11 +96,11 @@ reading_time: 270줄
 
 **Q. 성적이 언제쯤 오르나요?**
 
-기초부터 다시 잡으면 최소 3~6개월은 걸립니다. 조급해하지 마세요. 꾸준히 하면 반드시 올라갑니다.
+기초부터 다시 잡으면 최소 3-6개월은 걸립니다. 조급해하지 마세요. 꾸준히 하면 반드시 올라갑니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중하위권 학습 전략에 대해 더 궁금한 점이 있으시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 마무리

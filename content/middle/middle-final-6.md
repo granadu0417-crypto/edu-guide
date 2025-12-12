@@ -13,7 +13,7 @@ tags:
 - 자기주도학습
 - 중등교육
 - 중학교
-featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0965_z1d-LP8sjuI.jpg"
 ---
 ## 초등학교 때 영어 잘했는데, 중학교 오니까 왜 안 될까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 정확히 진단합니다. 단어, 문법, 독해 중 어느 부분이 약한지 파악합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 단어가 기본입니다
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 단어 테스트를 합니다. 모르는 단어는 반복해서 확인합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 문법 공부법
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 개념을 쉽게 설명합니다. 다양한 예문으로 적용 연습을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 독해 실력 키우기
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 구조 분석을 철저히 합니다. 긴 문장도 쪼개서 이해하는 방법을 알려드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 듣기 공부
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-듣기 자료를 제공하고 같이 들어봅니다. 잘 안 들리는 부분을 집중적으로 연습합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 내신 영어 시험 대비
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위의 본문을 철저히 분석합니다. 예상 문제를 풀며 실전 감각을 키웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,34 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 **Q. 긴 문장이 해석이 안 돼요.**
 
 문장 구조를 분석하는 연습이 필요합니다. 주어, 동사, 목적어를 찾는 연습을 하세요.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
 
 ## 마무리
 

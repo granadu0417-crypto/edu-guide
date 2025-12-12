@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 분당 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0866_XAcvOQaT7e8.jpg"
 reading_time: 160줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 지역 선생님은 이동 시간이 짧아 효율적입니다. 분당 지역 학교 정보에도 밝아서 내신 대비에 유리합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 분당 지역 과외의 특징이에요
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 지역 학교별 내신 출제 경향을 파악하고 있습니다. 낙생고, 분당중앙고, 서현고 등 학교별 특성에 맞춰 수업합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 방문 과외 장소는 어디가 좋을까요?
@@ -54,18 +54,18 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 현재 상황과 목표를 파악합니다. 내신 대비인지, 수능 대비인지에 따라 수업 방향을 정합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 비용은 어느 정도인가요?
 
 분당 지역 과외비는 서울 강남권과 비슷한 수준입니다. 교육열이 높고 우수한 선생님이 많기 때문입니다. 과목, 학년, 선생님 경력에 따라 차이가 있습니다.
 
-교통비는 별도인 경우가 많습니다. 거리에 따라 1~2만 원 정도 추가됩니다. 분당 내 선생님이면 교통비 부담이 줄어듭니다. 정기적인 수업이면 교통비를 포함해서 조율하는 것도 방법입니다.
+교통비는 별도인 경우가 많습니다. 거리에 따라 1-2만 원 정도 추가됩니다. 분당 내 선생님이면 교통비 부담이 줄어듭니다. 정기적인 수업이면 교통비를 포함해서 조율하는 것도 방법입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비용은 상담 시 투명하게 안내합니다. 교통비, 교재비 등 추가 비용도 미리 말씀드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 효과적으로 활용하는 방법이에요
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 간단한 보고를 드립니다. 오늘 뭘 배웠는지, 숙제는 무엇인지, 다음엔 뭘 할지 알려드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,7 +87,7 @@ reading_time: 160줄
 
 **Q. 교통비는 별도인가요?**
 
-보통 별도입니다. 거리에 따라 1~2만 원 정도 추가됩니다.
+보통 별도입니다. 거리에 따라 1-2만 원 정도 추가됩니다.
 
 **Q. 집에서 수업하기 어려우면요?**
 
@@ -96,6 +96,14 @@ reading_time: 160줄
 **Q. 선생님 교체가 가능한가요?**
 
 가능합니다. 맞지 않으면 교체를 요청하세요.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
 
 ## 마무리
 

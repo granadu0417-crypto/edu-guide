@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "오답노트로 성적 올리는 완벽 가이드. 작성법, 활용법, 과외 연계 전략까지 모두 알려드립니다."
 tags: ["중등과외", "오답노트", "학습전략", "성적향상"]
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0479_cHBdiSTqgN8.jpg"
 ---
 
 ## 오답노트가 진짜 효과가 있나요? 귀찮기만 하고 시간만 잡아먹는 것 같은데요
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트는 만드는 게 목적이 아닙니다. 활용하는 방법까지 함께 익혀야 진짜 효과가 나타납니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 오답노트가 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 자주 틀리는 유형을 분석합니다. 왜 틀렸는지 원인을 정확히 파악해야 같은 실수를 반복하지 않습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 오답노트는 어떻게 만드나요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 양식을 학생 성향에 맞게 조절합니다. 꼼꼼한 학생은 상세하게, 간결한 걸 좋아하는 학생은 핵심만 정리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 복습은 언제 하나요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 스케줄을 함께 관리합니다. 매 수업 시작 전에 지난 오답을 점검하고 넘어갑니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과목별로 오답노트가 다른가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 오답노트 양식을 제공합니다. 수학은 풀이 중심, 영어는 규칙 중심으로 정리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문

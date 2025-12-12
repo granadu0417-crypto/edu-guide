@@ -11,7 +11,7 @@ tags:
 - 1:1과외
 - 중2학습
 - 사춘기학습
-featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0992_pXjgGTV-NgE.jpg"
 ---
 ## 중2는 공부해도 소용없다고요? 그 말을 믿으면 안 됩니다
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2 학생에게는 공부보다 관계가 먼저입니다. 첫 달은 친해지는 데 집중합니다. 선생님을 믿어야 공부를 시작합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 중2가 위기인 이유
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사춘기 학생의 특성을 이해합니다. 강요하지 않고 스스로 하고 싶게 만듭니다. 작은 성공 경험이 동기 부여의 시작입니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 중2 과외가 필요한 경우
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 성적표와 시험지를 함께 봅니다. 성적 하락의 원인이 개념인지 태도인지 파악하고 그에 맞는 전략을 세웁니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 중2 과외의 핵심은 동기 부여입니다
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2 수학에서 함수 단원이 고비입니다. 일차함수를 완벽히 이해해야 중3 이차함수, 고등 함수가 가능합니다. 이 단원에 시간을 충분히 씁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 선생님 선택이 가장 중요합니다
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2 학생은 칭찬에 민감합니다. 작은 발전도 알아차리고 인정해줍니다. 자존감이 회복되어야 공부 의욕이 생깁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -97,6 +97,14 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 **Q. 주 몇 회가 적당한가요?**
 
 주 2에서 3회를 권장합니다. 규칙적 만남이 중요합니다. 중2는 관계 유지가 핵심이라 자주 보는 것이 좋습니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
 
 ## 마무리
 

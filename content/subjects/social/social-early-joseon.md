@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0658_e_RpjNyMgEM.jpg"
 ---
 
 ## 조선 전기 왕들이 헷갈리고 제도 구분이 어렵다고요? 건국 과정부터 순서대로 따라가면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조선 건국 과정을 정리합니다. 주요 왕의 업적을 시간순으로 정리합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 조선의 건국과 정비
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 왕의 핵심 업적을 정리합니다. 왕권 강화 과정을 설명합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 조선의 통치 체제
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조선의 통치 체제를 도표로 정리합니다. 각 기관의 역할을 비교합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 조선 전기의 문화
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조선 전기 문화의 특징을 정리합니다. 대표 문화유산과 연결합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 왕과 업적 연결 문제를 집중 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 조선 전기를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>

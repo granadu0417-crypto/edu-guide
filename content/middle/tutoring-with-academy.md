@@ -9,7 +9,7 @@ tags:
 - 중등과외
 - 학원
 - 병행전략
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0236_Z2thb_BS1eY.jpg"
 ---
 ## 학원 다니는데 과외까지 해야 할까요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학원 상황을 파악합니다. 어떤 학원에서 어떤 수업을 듣는지 확인하고, 과외의 역할을 명확히 정합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 병행이 필요한 경우
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용 중 이해 안 된 부분을 과외 시간에 다시 설명합니다. 학원 숙제 중 틀린 문제를 분석하고 약점을 보완합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 병행 전략 3가지
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도표를 공유받아서 과외 내용을 조정합니다. 학원에서 배운 직후에 과외에서 복습하면 효과가 두 배입니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과목별 병행 전략
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상태를 항상 확인합니다. 피곤해 보이면 빈도를 조정하고, 과부하가 느껴지면 솔직하게 말씀드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 병행 시 흔한 실수
@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞게 빈도를 조정합니다. 중1은 가볍게, 중2는 본격적으로, 중3은 전략적으로 접근합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,6 +103,50 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 **Q. 학원과 과외 선생님께 서로 다니는 것 말해야 하나요?**
 
 반드시 말씀드리세요. 학원에는 과외도 받고 있다고, 과외 선생님께는 학원에서 뭘 배우는지 알려주세요. 숨기면 진도가 안 맞고 역할이 중복됩니다. 오픈하면 역할 구분이 명확해지고 시너지가 납니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 고등학교 가서도 계속 과외 받을 수 있나요?**
+
+가능합니다. 중학교부터 고등학교까지 연계해서 수업하면 학습 연속성이 유지되어 효과가 좋습니다.
+
+**Q. 수업 시간은 조절 가능한가요?**
+
+네, 학생의 학교 일정과 학원 시간표를 고려해서 조율합니다. 저녁 시간이나 주말 수업도 가능합니다.
+
+**Q. 교재비는 별도인가요?**
+
+기본적으로 학교 교과서와 기출문제를 활용합니다. 추가 교재가 필요한 경우 상담 후 안내드립니다.
+
+**Q. 시험 범위가 넓을 때는 어떻게 대비하나요?**
+
+우선순위를 정해서 핵심 단원부터 집중 공략합니다. 기출 분석을 통해 자주 나오는 유형을 파악하고, 취약 부분에 시간을 더 투자합니다.
+
+**Q. 중간고사와 기말고사 대비가 다른가요?**
+
+범위와 난이도가 다르므로 전략도 달라집니다. 기말고사는 범위가 넓어 전체적인 복습이 중요하고, 중간고사는 심화 문제 대비가 더 중요한 경우가 많습니다.
+
+**Q. 과외 시작 전 테스트가 있나요?**
+
+첫 수업에서 간단한 진단 테스트를 진행합니다. 학생의 현재 실력과 취약점을 파악하여 맞춤 커리큘럼을 설계합니다.
 
 ## 마무리
 

@@ -9,7 +9,7 @@ tags:
 - 1:1과외
 - 학습전략
 - 과외횟수
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0232_mN3PsFWbmIE.jpg"
 ---
 ## 과외 많이 하면 성적도 많이 오르나요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생 상태와 목표를 파악합니다. 현재 성적, 학원 병행 여부, 자기주도 학습 가능 여부를 확인하고 적정 횟수를 제안합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 과외 횟수 결정의 핵심 원칙
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3개월 후 목표 달성 여부를 확인하고 횟수를 조정합니다. 목표보다 빨리 달성하면 줄이고, 부족하면 늘립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 횟수별 장단점
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞게 횟수를 조정합니다. 수학은 주 2회 이상, 영어는 주 1에서 2회, 국어는 필요시에만 권합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학년별 권장 횟수
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 4주 전에는 자동으로 시험 대비 모드로 전환합니다. 필요하면 횟수를 늘리고, 기출 문제와 오답 정리에 집중합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과외 시간 배분
@@ -108,6 +108,22 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 **Q. 비용 때문에 횟수를 줄여야 하는데요.**
 
 횟수보다 질을 선택하세요. 주 3회를 주 2회로 줄이고 좋은 선생님을 유지하거나, 여러 과목 대신 주력 과목만 집중하세요. 적은 횟수로도 자습을 잘 하면 효과가 있습니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

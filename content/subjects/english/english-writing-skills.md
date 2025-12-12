@@ -15,7 +15,7 @@ tags:
 - 문법
 - 표현
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0429_OA7dHq3Hf3Q.jpg"
 ---
 
 ## 한국어로 생각한 걸 영어로 옮기기가 어렵다고요? 영어식 사고로 바꿔야 합니다.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 작문을 분석하여 약점을 파악합니다. 문법, 표현, 구조를 체계적으로 교정합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 작문의 3가지 핵심
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법, 어휘, 구조를 균형 있게 훈련합니다. 수준에 맞는 표현을 확장해갑니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 흔한 오류와 교정
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 오류 유형을 정리합니다. 같은 실수를 반복하지 않도록 집중 교정합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 1:1 첨삭의 효과
@@ -53,16 +53,16 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-즉각적인 첨삭과 피드백을 제공합니다. 오류 원인을 이해하고 올바른 표현을 익힙니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 연습 방법
 
-매일 5~10문장 영어 일기를 쓰세요. 주 1회 첨삭을 받고 오류 노트를 작성하세요. 좋은 글을 보고 문장 구조와 연결어 사용법을 분석하세요. 꾸준히 연습하면 3~6개월 내 변화를 느낍니다.
+매일 5-10문장 영어 일기를 쓰세요. 주 1회 첨삭을 받고 오류 노트를 작성하세요. 좋은 글을 보고 문장 구조와 연결어 사용법을 분석하세요. 꾸준히 연습하면 3-6개월 내 변화를 느낍니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 작문 과제를 내고 첨삭합니다. 모범 답안 분석으로 좋은 표현을 익힙니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,11 +73,35 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 **Q. 작문 실력이 늘는 데 얼마나 걸리나요?**
 
-꾸준히 연습하면 3~6개월 내 변화를 느낍니다. 매일 10분씩만 투자해도 1년 후엔 큰 발전이 있습니다.
+꾸준히 연습하면 3-6개월 내 변화를 느낍니다. 매일 10분씩만 투자해도 1년 후엔 큰 발전이 있습니다.
 
 **Q. 긴 문장과 짧은 문장 중 어떤 것이 좋나요?**
 
 짧고 명확한 문장이 더 좋습니다. 실력이 늘면 자연스럽게 길어집니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 
@@ -85,5 +109,5 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 첨삭과 전문가 지도로 영어 작문 실력을 빠르게 향상시킵니다. 체계적인 피드백으로 자신감을 키웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>

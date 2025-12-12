@@ -12,7 +12,7 @@ tags:
 - 집중력
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0068_4-4WPFLVhAY.jpg"
 ---
 
 ## 책상에 앉으면 딴 생각이 먼저 나요. 집중하려고 해도 금방 다른 곳으로 빠져요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 상담에서는 학생의 집중 패턴을 먼저 분석합니다. 언제 집중이 잘 되는지, 무엇이 집중을 방해하는지 파악하고 개선 방법을 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 집중력 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중이 안 된다면 학습 상담을 받으세요. 집중력을 높이는 실전 기법을 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 심리 상담은 불안이나 스트레스로 인해 집중이 안 될 때 도움이 됩니다. 진로 상담은 공부 동기가 없어서 집중이 안 될 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 적용할 수 있는 집중력 향상 기법을 안내합니다. 뽀모도로 기법, 환경 정리법 등 실전 방법을 알려드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 집중력은 어떻게 높이나요?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향에 맞는 집중력 향상 방법을 찾아드립니다. 모든 학생에게 같은 방법이 맞지 않으므로 맞춤형으로 안내합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 향상에 대해 더 궁금한 점이 있으시면 문의하세요. 몰입하는 공부법을 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 마무리

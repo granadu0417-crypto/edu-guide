@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 경제 완전 정복 가이드. 미시경제부터 거시경제, 국제경제까지 개념 이해와 실생활 적용. 수능 만점을 위한 체계적 접근법."
 tags: ["고등경제", "경제학습법", "수능경제", "미시경제", "거시경제", "사회탐구", "경제개념", "경제시사"]
-featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0650_viY-ACkx2iE.jpg"
 ---
 
 ## 경제가 어렵고 복잡하게 느껴져요. 그래프도 많고 용어도 어렵고 어떻게 공부하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경제 뉴스와 연결해서 개념을 설명합니다. 이론이 실제로 어떻게 작동하는지 보여드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 수요와 공급부터 시작하세요
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수요-공급 그래프를 직접 그려보며 원리를 체득합니다. 다양한 상황에서 균형 변화를 분석하는 연습을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 그래프 완전 정복
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 그래프를 손으로 그리는 연습을 합니다. 왜 그렇게 움직이는지 원리와 함께 설명합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 거시경제 핵심 정리
@@ -50,7 +50,7 @@ GDP, 실업률, 물가는 경제의 건강 상태를 보여주는 지표입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 한국은행 기준금리 발표나 정부 예산안을 보며 경제 정책을 분석합니다. 교과서 내용이 현실에서 어떻게 작동하는지 보여드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 경제 뉴스로 공부하기
@@ -61,7 +61,7 @@ GDP, 실업률, 물가는 경제의 건강 상태를 보여주는 지표입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최신 경제 이슈를 수업에 활용합니다. 뉴스 속 경제 개념을 찾고 분석하는 훈련을 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,6 +77,38 @@ GDP, 실업률, 물가는 경제의 건강 상태를 보여주는 지표입니�
 **Q. 미시와 거시 중 뭐가 더 어려운가요?**
 
 미시는 논리적이고 직관적입니다. 거시는 추상적이고 복잡합니다. 보통 미시가 더 쉽게 느껴집니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

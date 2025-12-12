@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 고등 수학 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 학년별 맞춤 커리큘럼과 체계적인 관리 시스템을 소개합니다.
 
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0744_ySZdYkPGEbs.jpg"
 reading_time: 275줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수학 수준을 먼저 파악합니다. 내신이 급한지, 수능이 급한지에 따라 수업 방향이 달라집니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 고등 수학학원은 어떤 유형이 있나요?
@@ -37,12 +37,12 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 학원 유형을 상담에서 안내해 드립니다. 내신형인지, 수능형인지 파악한 후 추천합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 내신이랑 수능, 뭐부터 해야 하나요?
 
-학년에 따라 다릅니다. 고1~고2는 내신 비중이 큽니다. 수시 지원을 고려하면 내신이 중요합니다. 하지만 수능 기초도 함께 쌓아야 합니다.
+학년에 따라 다릅니다. 고1-고2는 내신 비중이 큽니다. 수시 지원을 고려하면 내신이 중요합니다. 하지만 수능 기초도 함께 쌓아야 합니다.
 
 고3은 수능 비중이 커집니다. 정시를 고려한다면 수능에 집중해야 합니다. 내신은 1학기까지만 반영되는 경우가 많습니다.
 
@@ -50,7 +50,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 내신과 수능의 비중을 조절해서 수업합니다. 시험 일정에 맞춰 유연하게 대응합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 수능 수학은 어떻게 공부해야 하나요?
@@ -73,7 +73,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 수업을 설계합니다. 학원에서 못 따라간 부분을 과외에서 잡습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 학원 선택할 때 뭘 확인해야 하나요?
@@ -88,7 +88,7 @@ reading_time: 275줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 수학 학습에 대해 궁금한 점이 있으시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -108,6 +108,18 @@ reading_time: 275줄
 **Q. 고3인데 수학 등급이 안 올라요.**
 
 전략을 점검해 보세요. 개념이 부족한지, 유형 연습이 부족한지, 시간 관리가 안 되는지 파악해야 합니다. 과외로 약점을 집중 공략하는 것도 방법입니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
 
 ## 마무리
 

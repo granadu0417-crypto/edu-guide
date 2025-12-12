@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0106_gTpdbw9E3Gg.jpg"
 ---
 ## 정해진 답 말고 다른 방법으로 풀어볼래? 이 질문에 흥미를 보이나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한 문제를 여러 방법으로 풀어보게 합니다. 네 방법도 맞아, 선생님 방법도 있어라고 하면 사고가 넓어집니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 그렇게 생각했어?라고 자주 물어봅니다. 과정을 설명할 수 있으면 진짜 이해입니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 문제를 풀면 다른 방법은 없을까?라고 물어봅니다. 처음에는 힌트를 주고, 점차 스스로 찾게 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 5학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-만약 ~라면 어떻게 될까?라는 질문을 자주 합니다. 가정하고 추론하는 연습이 창의적 사고를 키웁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 가정에서의 역할
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=
 
 방과 후 15시에서 16시에는 간식 먹고 휴식하고 학교 준비물을 정리합니다.
 
-학습 시간 16시에서 18시에는 숙제를 먼저 하고, 교과서 복습 40분, 심화 문제 풀이 30분, 독서 30분을 합니다. 5학년은 1시간 30분~2시간이 적당합니다.
+학습 시간 16시에서 18시에는 숙제를 먼저 하고, 교과서 복습 40분, 심화 문제 풀이 30분, 독서 30분을 합니다. 5학년은 1시간 30분-2시간이 적당합니다.
 
 저녁 18시에서 19시에는 저녁식사와 가족 대화 시간을 갖습니다.
 
@@ -79,12 +79,12 @@ featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심화 문제 시간에는 틀려도 괜찮아, 어떻게 생각했는지가 중요해라고 격려합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 주의사항
 
-과도한 학습은 금물입니다. 5학년은 하루 1시간 30분~2시간이면 충분합니다. 충분한 휴식 시간이 필요합니다.
+과도한 학습은 금물입니다. 5학년은 하루 1시간 30분-2시간이면 충분합니다. 충분한 휴식 시간이 필요합니다.
 
 균형 잡힌 성장도 중요합니다. 공부만이 아닌 전인적 발달이 필요합니다. 다양한 경험이 창의력을 키웁니다.
 
@@ -103,6 +103,14 @@ featured_image: "https://images.unsplash.com/photo-1588702547919-26089e690ecc?w=
 **Q. 엉뚱한 생각을 많이 해요.**
 
 좋은 징조입니다. 창의적 사고가 발달하고 있다는 뜻입니다. 왜 그렇게 생각했어?라고 물어봐주세요.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
 
 ## 마무리
 

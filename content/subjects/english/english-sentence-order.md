@@ -13,7 +13,7 @@ tags:
 - 논리
 - 연결어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0412_BlIhVfXbi9s.jpg"
 ---
 
 ## 문장 순서를 어떻게 맞춰야 할지 모르겠다고요? 시간이 너무 오래 걸린다고요.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연결어와 대명사를 빠르게 찾는 훈련을 합니다. 논리적 흐름을 파악하는 방법을 체계적으로 익힙니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 연결어로 순서 잡기
@@ -31,7 +31,7 @@ First는 맨 처음에 옵니다. Then, Next는 중간에 옵니다. Finally, Th
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연결어별 위치 패턴을 정리합니다. 실전 문제로 빠르게 적용하는 연습을 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 대명사로 순서 확인
@@ -42,7 +42,7 @@ he, she, it, they는 앞에 명사가 있어야 합니다. this, that은 앞 문
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대명사 추적 훈련을 합니다. 지칭 대상을 빠르게 찾는 연습을 반복합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 실전 풀이 순서
@@ -51,7 +51,7 @@ he, she, it, they는 앞에 명사가 있어야 합니다. this, that은 앞 문
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 풀이 순서를 훈련합니다. 2분 안에 푸는 연습을 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 나오는 패턴
@@ -60,7 +60,7 @@ he, she, it, they는 앞에 명사가 있어야 합니다. this, that은 앞 문
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 나오는 패턴을 정리합니다. 패턴별 풀이 전략을 익힙니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,11 +77,35 @@ he, she, it, they는 앞에 명사가 있어야 합니다. this, that은 앞 문
 
 연결어부터 체크하세요. First, However, Therefore만 봐도 대략적 순서를 알 수 있습니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 순서 배열은 연결어와 대명사만 체크하면 쉽게 정복할 수 있습니다. First, However, Therefore에 집중하고 대명사 추적을 연습하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 순서 배열을 빠르게 마스터합니다. 단서 찾기와 논리 연결을 체계적으로 훈련합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>

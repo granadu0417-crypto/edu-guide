@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 논술 완벽 작성 전략 | 제시문 분석, 논증 구조, 유형별 대비, 대학별 특징, 첨삭 방법, 1:1 맞춤 논술 코칭 [2025년]"
 tags: ["논술작성", "논술전형", "제시문분석", "논리전개", "인문논술", "사회논술", "자연논술", "수리논술", "논증구조", "첨삭", "기출문제", "대학논술", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 ---
 
 ## 논술 시험이 점점 다가오는데 어디서부터 어떻게 준비해야 할지 막막해요. 글쓰기가 어렵고 논리적으로 쓰는 게 안 돼요.
@@ -15,18 +15,18 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 수준을 진단하고 논술의 기본 구조부터 차근차근 가르칩니다. 제시문 읽기부터 개요 작성까지 단계별로 연습합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 논술 전형의 특징
 
-논술 전형은 대학이 출제한 논술 시험으로 사고력과 표현력을 평가합니다. 논술 성적이 60~80% 반영되어 내신보다 논술 실력이 더 중요합니다. 수능 최저학력기준이 있는 대학이 대부분이므로 수능 공부도 병행해야 합니다. 경쟁률이 높지만 실력만 있으면 합격할 수 있습니다.
+논술 전형은 대학이 출제한 논술 시험으로 사고력과 표현력을 평가합니다. 논술 성적이 60-80% 반영되어 내신보다 논술 실력이 더 중요합니다. 수능 최저학력기준이 있는 대학이 대부분이므로 수능 공부도 병행해야 합니다. 경쟁률이 높지만 실력만 있으면 합격할 수 있습니다.
 
 연세대, 이화여대, 경희대, 한국외대, 서울시립대 등 주요 대학에서 논술 전형을 실시합니다. 대학마다 출제 유형과 평가 기준이 다르므로 목표 대학의 기출문제를 반드시 분석해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 대학의 최근 3개년 기출문제를 분석합니다. 대학별 출제 경향과 평가 기준을 파악하고 맞춤 전략을 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 제시문 분석 방법
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제시문 분석 연습을 반복합니다. 키워드 찾기, 논지 파악하기, 관계 도식화하기 등 실전 기법을 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 논증 구조와 글쓰기
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논증 구조를 체계적으로 가르칩니다. 개요 작성부터 퇴고까지 실제 글쓰기 과정을 함께 진행합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 유형별 대비 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 대학과 계열에 맞는 유형별 전략을 지도합니다. 실전 문제를 풀고 첨삭받으며 실력을 키웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,6 +77,30 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 **Q. 배경지식이 많아야 하나요?**
 
 제시문 기반 논술에서는 배경지식보다 분석력이 더 중요합니다. 다만 시사 이슈와 기본적인 인문 개념을 알면 이해가 빠릅니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

@@ -14,7 +14,7 @@ tags:
 - 유리수
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0531_XElzSkhBd4g.jpg"
 ---
 
 ## 중학교 수학이 초등학교랑 완전 다르다고요? 음수가 뭔지도 모르겠고 문자를 쓰는 게 낯설게 느껴지시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학교 수학과 연결하면서 새로운 개념을 소개합니다. 음수와 문자에 익숙해지도록 돕습니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 정수와 유리수
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수직선으로 음수를 시각화합니다. 부호 규칙을 확실히 익히도록 반복 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 문자와 식 그리고 일차방정식
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-구체적인 수로 연습 후 문자로 일반화합니다. 방정식 풀이를 체계적으로 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 좌표평면과 도형
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좌표평면을 직접 그려보며 이해시킵니다. 도형 공식을 원리부터 설명합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학습 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이해 중심으로 개념을 설명합니다. 꾸준한 문제 풀이 습관을 들입니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,36 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 많이 풀어보세요. 미지수를 설정하고 식을 세우는 패턴이 보이면 쉬워집니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 중1 수학은 모든 중고등 수학의 기초입니다. 음수와 문자와 방정식이라는 새로운 개념이 많지만 차근차근 이해하면 누구나 정복할 수 있습니다. 지금 기초를 탄탄히 다지세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 전 과정을 체계적으로 정리합니다. 탄탄한 기초를 다져 중2로 연결합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 

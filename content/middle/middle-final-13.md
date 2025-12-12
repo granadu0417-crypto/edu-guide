@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0960_f2lCwI0V1BM.jpg"
 ---
 ## 봉사활동, 시간만 채우면 되는 거 아닌가요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-의미 있는 봉사활동의 가치를 알려드립니다. 형식이 아닌 진정성의 중요성을 강조합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 봉사활동의 진짜 의미
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-봉사활동 경험을 나눕니다. 무엇을 느꼈는지, 어떤 점이 달라졌는지 이야기합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 관심 분야와 연결하기
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사에 맞는 봉사활동을 함께 찾아봅니다. 진로와 연결할 수 있는 활동을 추천합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 꾸준한 활동의 가치
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-꾸준한 활동의 중요성을 알려드립니다. 장기적인 계획을 세우도록 돕습니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 봉사활동 기록하기
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-봉사활동 후 느낀 점을 정리하는 방법을 알려드립니다. 기록하는 습관을 기르도록 돕습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 봉사활동 찾는 방법
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-봉사활동을 찾는 방법을 안내합니다. 적합한 활동을 함께 검색해봅니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,34 @@ featured_image: "https://images.unsplash.com/photo-1528980917907-8df7f48f6f2a?w=
 **Q. 어떤 봉사활동이 입시에 유리한가요?**
 
 유리한 봉사는 없습니다. 진정성 있게 꾸준히 한 활동이 좋은 평가를 받습니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
 
 ## 마무리
 

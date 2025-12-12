@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0692_pXHlA1cg1IU.jpg"
 ---
 
 ## 냉전과 세계화가 헷갈리고 국제 질서가 복잡하다고요? 2차 세계대전 이후부터 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2차 세계대전 이후 국제 질서 재편을 먼저 설명합니다. 냉전의 형성과 전개를 정리합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 냉전 시대
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-냉전의 원인과 전개를 정리합니다. 주요 사건을 지도와 연결합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 탈냉전과 세계화
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-탈냉전의 과정을 정리합니다. 세계화의 특징과 영향을 분석합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 국제 기구와 협력
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 국제 기구의 역할을 정리합니다. 국제 협력의 성과와 한계를 분석합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 현대 세계의 과제
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현대 세계의 과제를 유형별로 정리합니다. 해결 방안을 토론합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,47 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 국제 평화 유지, 인권 보호, 지속가능한 발전을 위해 활동합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
 ## 마무리
 
 현대 세계는 냉전, 탈냉전, 세계화, 국제 협력이 핵심입니다. 시대별 특징을 비교표로 정리하세요. 현재 국제 뉴스와 연결하면 이해가 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 현대 세계를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 기출 문제 완벽 활용 전략 | 연도별·유형별 분석, N회독 전략, 영역별 활용법, 변형 문제 대비 [2025년]"
 tags: ["기출문제", "수능기출", "패턴분석", "유형정리", "N회독", "수능대비", "고등학생"]
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 ---
 
 ## 기출문제만 풀면 수능 점수가 오르는 건가요? 몇 개년치를 풀어야 하고 어떻게 분석해야 효과가 있는지 모르겠어요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석법을 가르치고 함께 오답 정리를 합니다. 학생 약점에 맞춰 회독 계획을 세웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 기출문제가 중요한 이유
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 유형을 분류하고 출제 패턴을 분석합니다. 자주 틀리는 유형을 집중 연습합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## N회독 전략
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-회독 계획을 함께 세웁니다. 회독별 학습 방향을 제시하고 진도를 체크합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 영역별 기출 활용법
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 기출 분석법을 지도합니다. 약점 영역을 집중 보완하고 강점은 유지합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 오답 노트 작성법
@@ -61,14 +61,14 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 작성법을 가르칩니다. 함께 분석하고 주기적으로 복습을 점검합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 몇 개년을 풀어야 하나요?**
 
-최소 10개년을 권장합니다. 국어는 15~20개년, 수학 킬러는 20개년까지 풀어도 좋습니다.
+최소 10개년을 권장합니다. 국어는 15-20개년, 수학 킬러는 20개년까지 풀어도 좋습니다.
 
 **Q. 답을 외우게 되면요?**
 
@@ -77,6 +77,30 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 **Q. 오래된 기출도 풀어야 하나요?**
 
 교육과정이 같다면 풀어도 좋습니다. 개념은 변하지 않기 때문입니다. 단 교육과정 바뀐 부분은 제외하세요.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

@@ -14,7 +14,7 @@ tags:
 - 수능
 - 실전테크닉
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0550_6NbSIxwZ3_4.jpg"
 ---
 
 ## 개념은 아는데 막상 문제만 보면 막막하다고요? 시간은 부족하고 실수는 잦고 점수는 안 오른다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점 유형을 정확히 파악합니다. 어떤 유형에서 막히는지 어디서 실수하는지 분석합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 문제풀이 4단계 전략
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4단계 전략을 체화시킵니다. 문제를 보는 순간 자연스럽게 적용하도록 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 유형별 전략
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 접근법을 정리합니다. 문제 유형을 보는 순간 전략이 떠오르도록 훈련합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시간 관리
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 재며 실전처럼 풀게 합니다. 개인별 시간 배분 전략을 세웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 실수 줄이기
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 패턴을 분석하고 검산 습관을 들입니다. 같은 실수를 반복하지 않도록 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ featured_image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 개인별 약점을 진단하고 유형별 전략을 체계적으로 훈련합니다. 실전 감각까지 키웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 

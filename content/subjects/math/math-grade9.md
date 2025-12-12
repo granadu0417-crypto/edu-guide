@@ -14,7 +14,7 @@ tags:
 - 제곱근
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0533_MmxI2Kw6ep8.jpg"
 ---
 
 ## 이차함수랑 이차방정식이 도대체 뭐가 다른지 모르겠다고요? 제곱근이랑 루트 계산이 너무 복잡하게 느껴지시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2까지의 내용과 연결하면서 새로운 개념을 확장합니다. 고등학교 수학을 미리 준비시킵니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 제곱근과 인수분해
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제곱근의 개념을 명확히 이해시킵니다. 인수분해 공식을 전개와 연결하여 설명합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 이차방정식
@@ -43,7 +43,7 @@ ax 제곱 더하기 bx 더하기 c가 0인 방정식이 이차방정식입니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차방정식 풀이법 세 가지를 상황에 맞게 선택하도록 훈련합니다. 근의 공식을 확실히 익힙니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 이차함수
@@ -52,7 +52,7 @@ y가 a 괄호 x 빼기 p 제곱 더하기 q는 꼭짓점이 괄호 p 콤마 q인
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차함수 그래프를 직접 그려보며 이해시킵니다. 이차방정식과의 관계를 시각화합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 삼각비와 원의 성질
@@ -61,7 +61,7 @@ y가 a 괄호 x 빼기 p 제곱 더하기 q는 꼭짓점이 괄호 p 콤마 q인
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼각비를 직각삼각형으로 시각화합니다. 특수각의 값을 확실히 암기시킵니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,36 @@ y가 a 괄호 x 빼기 p 제곱 더하기 q는 꼭짓점이 괄호 p 콤마 q인
 
 고등학교 삼각함수의 기초입니다. 실생활 측량에도 활용됩니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 중3 수학은 중등 수학의 완성이자 고등 수학의 시작점입니다. 이차함수와 이차방정식을 완벽히 이해하면 고등학교 수학이 훨씬 쉬워집니다. 지금 확실히 정리하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 전 과정을 체계적으로 정리합니다. 고등학교 수학을 완벽히 준비시킵니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 

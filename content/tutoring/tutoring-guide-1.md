@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0943_HdVeYMcIzfw.jpg"
 ---
 
 ## 처음 과외를 시작하려고 하는데, 뭘 어떻게 준비해야 할지 모르겠어요. 첫 수업 전에 뭘 해야 하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작 상담에서는 학생의 현재 학습 상태를 먼저 파악합니다. 어떤 유형의 선생님이 맞는지, 어떤 방식으로 진행해야 하는지 함께 설계합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 1:1 과외가 왜 효과적인가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작 전 상담을 받으세요. 준비할 것들을 체크리스트로 정리해드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 학부모 상담은 자녀에게 맞는 과외 유형을 정할 때 도움이 됩니다. 진학 상담은 입시 목표에 맞는 과외 계획을 세울 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서는 학생의 현재 수준을 파악하는 진단 시간을 가집니다. 어디서부터 시작해야 하는지 정확히 알려드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과외를 효과적으로 받으려면 어떻게 해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 복습 가이드와 적절한 분량의 숙제를 안내합니다. 학생이 감당할 수 있는 수준으로 조절합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-주 2~3회가 일반적입니다. 과목 난이도와 학생 수준에 따라 조절하세요.
+주 2-3회가 일반적입니다. 과목 난이도와 학생 수준에 따라 조절하세요.
 
 **Q. 온라인 과외도 효과가 있나요?**
 
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작에 대해 더 궁금한 점이 있으시면 문의하세요. 성공적인 과외 시작을 도와드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

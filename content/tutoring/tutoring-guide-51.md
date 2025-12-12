@@ -11,7 +11,7 @@ tags:
 - 수능
 - 학부모가이드
 - 학습가이드
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0989_dN3r0Z84qGc.jpg"
 ---
 
 ## 내신이랑 수능이랑 공부 방법이 다른데, 둘 다 어떻게 준비해야 하나요?
@@ -20,33 +20,33 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 입시 전형에 맞춰 내신과 수능 비중을 조절합니다. 시험 일정에 맞춰 유연하게 운영합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 내신과 수능, 뭐가 더 중요한가요?
 
 입시 전형에 따라 다릅니다. 학생부 교과 전형이면 내신이 핵심입니다. 수능 정시면 수능이 핵심입니다. 종합 전형이면 둘 다 중요합니다. 목표 전형을 먼저 정해야 합니다.
 
-학년에 따라 비중이 달라집니다. 고1~2는 내신 비중을 높이세요. 아직 수능까지 시간이 있습니다. 고3은 내신과 수능을 병행하되, 6월 모의고사 후부터 수능 비중을 높입니다.
+학년에 따라 비중이 달라집니다. 고1-2는 내신 비중을 높이세요. 아직 수능까지 시간이 있습니다. 고3은 내신과 수능을 병행하되, 6월 모의고사 후부터 수능 비중을 높입니다.
 
 둘 다 놓치면 안 됩니다. 내신만 하면 수능에서 약해지고, 수능만 하면 내신이 망가집니다. 균형을 잡아야 합니다. 한 쪽에 몰빵하면 선택지가 줄어듭니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 전형과 현재 성적을 분석해서 내신-수능 비중을 조절합니다. 전략적으로 접근합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 내신과 수능을 어떻게 병행하나요?
 
 평소에는 수능 스타일로 공부하세요. 수능 기출, 개념서로 기초를 다지면서 공부하세요. 수능 스타일이 기본입니다. 내신은 그 위에 학교 맞춤 준비를 덧붙이는 겁니다.
 
-시험 2~3주 전에 내신 모드로 전환하세요. 학교 시험 범위에 집중합니다. 교과서, 프린트, 기출 문제를 봅니다. 이 기간에는 수능 공부를 잠시 줄여도 됩니다.
+시험 2-3주 전에 내신 모드로 전환하세요. 학교 시험 범위에 집중합니다. 교과서, 프린트, 기출 문제를 봅니다. 이 기간에는 수능 공부를 잠시 줄여도 됩니다.
 
 시험 끝나면 다시 수능 모드로 돌아오세요. 내신 끝나고 쉬지 말고 바로 수능 공부로 복귀하세요. 쉬는 기간이 길어지면 감을 잃습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 학교 시험에 맞춰 수업합니다. 시험 끝나면 수능 대비로 바로 전환합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과목별로 다르게 접근해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞춰 내신-수능 연계 전략을 세워드립니다. 효율적으로 공부할 수 있도록 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 내신과 수능 병행 전략을 상세히 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 마무리

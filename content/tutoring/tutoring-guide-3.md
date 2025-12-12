@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0965_z1d-LP8sjuI.jpg"
 ---
 
 ## 과외를 받는데 성적이 안 올라요. 뭐가 문제일까요? 돈만 쓰고 있는 것 같아요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과 점검 상담에서는 현재 과외가 왜 효과가 없는지 원인을 분석합니다. 수업 방식, 학생 태도, 복습 상황을 종합적으로 점검합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 과외 효과가 안 나오는 이유가 뭔가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과가 안 난다면 학습 상담을 받으세요. 원인을 찾고 해결책을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 학부모 상담은 가정에서 어떻게 지원해야 하는지 알고 싶을 때 도움이 됩니다.
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 전 준비 체크리스트를 안내합니다. 예습 방법과 질문 정리법도 함께 알려드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수업 후에는 뭘 해야 하나요?
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 복습 가이드를 제공합니다. 얼마나, 어떻게 복습해야 하는지 구체적으로 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,8 +87,32 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과에 대해 더 궁금한 점이 있으시면 문의하세요. 효과를 높이는 방법을 안내합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

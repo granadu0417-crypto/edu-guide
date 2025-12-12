@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 ---
 
 ## 과학은 실험이 중요한데, 과외로 실험을 어떻게 대체하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외에서는 개념을 먼저 잡습니다. 왜 그런 현상이 일어나는지 원리부터 이해시킵니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과학 과외가 왜 필요한가요?
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어디서 막히는지 먼저 파악합니다. 그 부분부터 차근차근 설명합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과학 과외는 어떻게 진행되나요?
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 → 실험 분석 → 문제 풀이 순서로 진행합니다. 이해 없이 넘어가지 않습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 과학 과외에서 가장 중요한 건 뭔가요?
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 그림을 많이 그립니다. 학생이 직접 그려보게 하고, 맞는지 확인합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 **Q. 과학 과외 주 몇 회가 좋나요?**
 
-주 1~2회면 충분합니다. 과학 한 과목만 하면 주 1회, 여러 과목 하면 주 2회가 적당합니다.
+주 1-2회면 충분합니다. 과학 한 과목만 하면 주 1회, 여러 과목 하면 주 2회가 적당합니다.
 
 **Q. 실험을 직접 안 해도 되나요?**
 
@@ -82,7 +82,7 @@ featured_image: "https://images.unsplash.com/photo-1622556498246-755f44ca76f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 실험 원리부터 문제 풀이까지 체계적으로 안내합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 마무리

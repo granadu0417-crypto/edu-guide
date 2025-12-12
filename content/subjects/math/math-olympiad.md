@@ -17,7 +17,7 @@ tags:
 - 문제해결력
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 ---
 
 ## 수학 올림피아드에 도전하고 싶은데 어디서부터 시작해야 할지 막막하다고요? 일반 수학과 뭐가 다른지 궁금하시죠.
@@ -26,16 +26,16 @@ featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-올림피아드 준비를 위한 맞춤 커리큘럼을 제공합니다. 4대 영역을 체계적으로 학습하고 창의적 문제 해결력을 키웁니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학년별 준비 전략
 
-초등 4~6학년은 흥미 개발 시기입니다. KMC나 캥거루 수학대회로 경험을 쌓고 하루 30분~1시간씩 사고력 수학을 합니다. 중학생은 본격 준비 시기입니다. KMO 중등부와 AMC 8/10에 도전하고 경시 전문 교재로 증명 연습을 합니다. 하루 1~2시간씩 주 5~6회 학습합니다. 고등학생은 수상을 목표로 합니다. KMO 고등부와 AMC 12에 도전하고 국제 대회 기출로 고난도 문제에 집중합니다. 하루 2~3시간씩 심도 있게 학습합니다.
+초등 4-6학년은 흥미 개발 시기입니다. KMC나 캥거루 수학대회로 경험을 쌓고 하루 30분-1시간씩 사고력 수학을 합니다. 중학생은 본격 준비 시기입니다. KMO 중등부와 AMC 8/10에 도전하고 경시 전문 교재로 증명 연습을 합니다. 하루 1-2시간씩 주 5-6회 학습합니다. 고등학생은 수상을 목표로 합니다. KMO 고등부와 AMC 12에 도전하고 국제 대회 기출로 고난도 문제에 집중합니다. 하루 2-3시간씩 심도 있게 학습합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 로드맵을 제공합니다. 학생 수준에 맞는 대회를 선택하고 단계적으로 준비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 영역별 학습 방법
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4대 영역을 균형 있게 학습합니다. 취약한 영역을 집중 보완하고 강점을 더욱 강화합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 문제 풀이와 실전 대비
@@ -55,18 +55,18 @@ featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 전략을 체계적으로 훈련합니다. 증명 문제 첨삭과 실전 대비를 집중적으로 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 올림피아드 준비, 언제 시작해야 하나요?**
 
-늦어도 중1부터 시작해야 경쟁력이 있습니다. 초등 4~5학년에 흥미 위주로 시작하면 좋습니다.
+늦어도 중1부터 시작해야 경쟁력이 있습니다. 초등 4-5학년에 흥미 위주로 시작하면 좋습니다.
 
 **Q. 교과 공부와 병행 가능한가요?**
 
-가능합니다. 올림피아드 30~40%, 학교 공부 50~60% 비율을 권장합니다. 어느 한쪽에만 치우치면 안 됩니다.
+가능합니다. 올림피아드 30-40%, 학교 공부 50-60% 비율을 권장합니다. 어느 한쪽에만 치우치면 안 됩니다.
 
 **Q. 상을 못 받으면 의미 없나요?**
 
@@ -78,6 +78,6 @@ featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-올림피아드 수상을 목표로 맞춤 준비를 합니다. 4대 영역 전문 지도와 증명 첨삭으로 실력을 키워드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 

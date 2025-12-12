@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0958_u5spNAl_350.jpg"
 ---
 
 ## 같은 시간 과외받는데 왜 누구는 오르고 누구는 안 오르나요? 뭐가 다른 건가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과 극대화 상담에서는 수업 외에 학생이 어떻게 공부하는지도 점검합니다. 수업만 받고 끝나면 효과가 절반입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 과외 효과가 안 나는 이유는 뭔가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 학생이 집중하고 있는지 수시로 확인합니다. 멍하게 듣는 시간이 없도록 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 효과를 극대화하려면 어떻게 해야 하나요?
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 복습 방법을 구체적으로 안내합니다. 혼자 공부하는 방법까지 알려드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 부모가 도울 수 있는 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님이 어떻게 도와주시면 좋을지 구체적으로 안내합니다. 함께 노력하면 효과가 배가됩니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=
 
 **Q. 효과가 언제부터 나야 정상인가요?**
 
-1~2개월 후부터 변화가 보여야 합니다. 3개월이 지나도 변화가 없으면 점검이 필요합니다.
+1-2개월 후부터 변화가 보여야 합니다. 3개월이 지나도 변화가 없으면 점검이 필요합니다.
 
 **Q. 수업 시간을 늘리면 효과가 커지나요?**
 
@@ -86,8 +86,40 @@ featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과 극대화에 대해 더 궁금한 점이 있으시면 문의하세요. 같은 시간으로 더 큰 효과를 내는 방법을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

@@ -12,7 +12,7 @@ tags:
 - 수능
 - 시험대비
 - 시험전략
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 ---
 ## 영어 시험에서 독해랑 문법 비중이 어떻게 되나요? 어디에 집중해야 할까요?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 시험 유형을 분석합니다. 독해와 문법 비중에 맞춰 맞춤 학습을 진행합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 단어 공부
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 암기를 체계적으로 합니다. 예문과 함께 외우고 정기적으로 확인합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 독해 전략
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해력을 키웁니다. 본문 분석과 직독직해 연습을 통해 속도와 정확도를 높입니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 문법 전략
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 포인트를 정리합니다. 본문에 나온 문법을 중심으로 문제 풀이를 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 서술형 대비
@@ -80,7 +80,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 연습합니다. 정확한 문장을 쓰는 훈련을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 듣기 대비
@@ -110,6 +110,22 @@ featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=
 **Q. 서술형에서 점수를 못 받아요.**
 
 간단한 문장부터 정확하게 쓰세요. 어려운 표현보다 정확성이 중요합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

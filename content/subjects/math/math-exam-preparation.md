@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0519_0G8M3LVT5Ds.jpg"
 ---
 
 ## 시험 범위가 너무 넓어서 어디서부터 손대야 할지 막막하시죠? 공부는 했는데 실전에서 자꾸 실수하고요.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춘 학습 계획을 세웁니다. 약점 단원을 집중 보완합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 유형별 준비
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 모의고사와 수능 각각에 맞는 전략을 적용합니다. 학교별 출제 경향도 분석합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시험 준비 타임라인
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험까지 남은 기간에 맞춰 학습 계획을 조정합니다. 실전 모의고사로 감각을 키웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 당일 전략
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 배분 전략을 연습합니다. 막혔을 때 넘어가는 판단력을 키웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 실수 방지
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 유형을 파악하고 방지 전략을 훈련합니다. 검산 습관을 들입니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,52 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 검산 시간을 반드시 확보하세요. 천천히 정확하게 푸는 연습을 합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
 ## 마무리
 
 수학 시험은 철저한 준비와 실전 전략으로 정복할 수 있습니다. 체계적인 타임라인을 따라 준비하고 시험 당일에는 시간 배분과 실수 방지에 집중하면 원하는 성적을 얻을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 대비 전략을 맞춤으로 설계합니다. 취약 유형을 집중 공략하고 실전 감각을 키웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 

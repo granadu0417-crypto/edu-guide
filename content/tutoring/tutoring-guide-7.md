@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0999_-IcHDTruvBA.jpg"
 ---
 
 ## 과학 개념은 이해했는데 시험에서 자료 해석 문제만 나오면 틀려요. 어떻게 해야 하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외 상담에서는 학생이 개념 이해가 문제인지, 적용력이 문제인지 먼저 파악합니다. 어디서 막히는지 진단하고 맞춤 수업을 설계합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 과학 과외가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외 시작 전 진단 테스트를 진행합니다. 개념 이해도와 문제 풀이력을 함께 체크해드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 진학 상담은 이과 진학이나 과학 관련 진로를 고민할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 → 자료 해석 연습 → 문제 풀이 순서로 진행합니다. 학생이 완전히 이해할 때까지 반복합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과학 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 개념 정리와 오답 분석 숙제를 내드립니다. 이해하고 적용하는 힘을 함께 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-과학은 주 1~2회로도 충분합니다. 대신 수업 사이에 개념 복습과 문제 풀이를 해야 합니다.
+과학은 주 1-2회로도 충분합니다. 대신 수업 사이에 개념 복습과 문제 풀이를 해야 합니다.
 
 **Q. 실험을 직접 해볼 수 있나요?**
 
@@ -86,8 +86,32 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 개념과 적용력을 함께 키우는 수업을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

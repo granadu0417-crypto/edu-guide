@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 확률과 통계 완전 정복 가이드. 경우의 수, 확률, 통계의 개념과 계산. 수능 만점을 위한 체계적 접근법."
 tags: ["고등확률통계", "확률통계학습법", "수능확률통계", "경우의수", "확률", "통계", "수학", "확통개념"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0683_nxJgmZfLcJI.jpg"
 ---
 
 ## 확률과 통계는 쉽다고 해서 선택했는데 생각보다 헷갈리고 실수가 많아요. 어떻게 공부해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경우의 수 세는 체계적 방법을 가르칩니다. 실수하기 쉬운 부분을 집중 연습합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 경우의 수 완전 정복
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-순열과 조합의 차이를 명확히 정리합니다. 다양한 유형의 문제로 적용 연습을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 확률의 핵심 개념
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조건부 확률의 개념을 명확히 설명합니다. 헷갈리기 쉬운 문제를 집중적으로 풀어봅니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 확률분포와 정규분포
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정규분포표 사용법을 연습합니다. 표준화 과정을 단계별로 정리합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 수능 대비 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사를 풀며 시간 배분을 연습합니다. 실수 패턴을 분석하고 방지책을 세웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,6 +77,30 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 **Q. 언제부터 수능 대비하나요?**
 
 고3 여름방학부터 시작해도 충분합니다. 다른 수학보다 분량이 적어 단기간 완성이 가능합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 ---
 
 ## 공부는 열심히 하는데 성적이 안 오르는 이유, 혹시 방향이 잘못된 건 아닐까요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 현재 학습 상태를 진단합니다. 어떤 과목이 약하고, 어떤 공부 방법을 쓰고 있는지 파악한 후 맞춤 로드맵을 제시합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생마다 필요한 상담 유형이 다릅니다. 성적 고민인지, 진로 고민인지, 심리적 어려움인지 먼저 파악하고 적합한 상담 방향을 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 진학 상담은 상급 학교 선택을 돕습니다. 입시 전략과 학교 정보를 제공하며 진학을 앞둔 학생에게 전략적 진학 계획을 세워줍니다.
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후 실천 계획을 함께 세웁니다. 구체적인 실행 방안을 수립하고 바로 실천할 수 있도록 안내합니다. 정기적으로 진행 상황을 점검하며 필요시 추가 상담을 진행합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학년별로 어떤 상담이 필요한가요?
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 상담 포인트를 중심으로 진행합니다. 초등학생은 습관 형성, 중학생은 내신과 진로, 고등학생은 입시 전략에 집중합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에 대한 궁금증이 있으시면 편하게 문의하세요. 학생 상황에 맞는 최적의 상담 방법을 함께 찾아드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 마무리

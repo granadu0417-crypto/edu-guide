@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습방법
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0048_xaWCjNBEu5w.jpg"
 ---
 
 ## 국어, 영어, 수학 공부법이 다 다른가요? 과목마다 어떻게 공부해야 하나요?
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 상담에서는 각 과목의 특성에 맞는 공부법을 안내합니다. 수학, 영어, 국어뿐 아니라 사회, 과학도 포함합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 과목별 학습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 다른 공부법을 배우고 싶다면 학습 상담을 받으세요. 각 과목의 특성에 맞는 전략을 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 진로 상담은 어떤 과목에 집중해야 할지 모를 때 도움이 됩니다. 진학 상담은 입시에 유리한 과목 선택을 다룹니다. 심리 상담은 특정 과목에 대한 두려움이 있을 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 공부 계획을 세웁니다. 각 과목의 비중과 공부 순서, 방법을 구체적으로 안내합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과목별로 어떻게 다르게 공부해야 하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 공부법을 상세히 안내합니다. 학생의 약점에 맞춰 우선순위를 정합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,8 +86,48 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 공부법에 대해 더 궁금한 점이 있으시면 문의하세요. 학생에게 맞는 과목별 전략을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

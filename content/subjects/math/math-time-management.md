@@ -15,7 +15,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0564_PG-r-Iv5Q3Y.jpg"
 ---
 
 ## 시간을 많이 쓰는데 성적이 안 올라요? 시험 때마다 시간이 부족하다고 느끼시죠.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 공부 패턴을 분석합니다. 어디서 시간이 낭비되는지 파악하고 효율적인 방법을 알려드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 공부 시간 배분
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 공부 시간대를 찾습니다. 집중력이 높은 시간에 어려운 내용을 학습하도록 조언합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 단계별 시간 배분
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념과 문제와 복습의 시간 배분을 조정합니다. 학생 상황에 맞는 최적의 비율을 찾습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시험 시간 관리
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 시간 배분을 연습합니다. 시험 때 당황하지 않도록 시간 감각을 키웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 집중력 관리
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 집중 패턴을 파악합니다. 집중력이 떨어질 때 어떻게 회복하는지 방법을 알려드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시간 낭비 유형과 해결
@@ -83,12 +83,36 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 뽀모도로 기법을 시도하세요. 25분 집중과 5분 휴식을 반복하세요.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 시간 관리는 성적 향상의 핵심입니다. 효율적으로 시간을 사용하면 같은 시간에 더 많은 것을 얻습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 전략을 맞춤 지도합니다. 효율적인 학습으로 단기간에 성적을 올릴 수 있습니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 

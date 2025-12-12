@@ -9,7 +9,7 @@ tags:
 - 토요일과외
 - 일요일과외
 - 중등과외
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0238_1jF-rt6MokU.jpg"
 ---
 ## 주중에 학원이 너무 많아서 과외할 시간이 없다고요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 주중 스케줄을 확인합니다. 학원이 많아서 주말만 가능하면 주말 집중 과외로 진행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 주말 과외의 장점
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주말 과외는 긴 시간을 활용합니다. 2에서 3시간 동안 복습, 새 내용, 문제 풀이를 한 번에 진행합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 주말 과외의 단점
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주말 과외 학생에게는 주중 과제를 꼭 냅니다. 매일 30분씩 복습해야 한다고 강조하고, 복습 여부를 확인합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 토요일 과외 운영법
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞게 토요일과 일요일을 조합합니다. 한 과목만 하면 토요일만, 두 과목이면 토요일과 일요일 모두 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 주중 과제가 핵심이다
@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작할 때 주중 복습 여부를 확인합니다. 복습을 잘 했으면 바로 다음 단계로, 안 했으면 다시 설명합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 토요일 오전이 가장 좋다
@@ -107,6 +107,18 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 **Q. 2에서 3시간 집중 가능할까요?**
 
 연습하면 가능합니다. 처음에는 2시간으로 시작해서 점진적으로 늘리세요. 50분 학습 후 10분 휴식, 스트레칭과 물 마시기로 재충전하면 3시간도 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

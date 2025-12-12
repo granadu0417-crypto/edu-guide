@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "재수 결정부터 성공까지 - 재수학원 유형별 비교, 선택 기준, 효과적인 학습 전략, 멘탈 관리 방법, 반수와 독학재수까지 재수생이 알아야 할 모든 정보를 담은 완벽 가이드입니다."
 tags: ["재수학원", "재수", "수능", "대학입시", "기숙학원", "반수", "독학재수", "입시전략", "과외", "학습관리"]
-featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0303_2dim_8iYCws.jpg"
 ---
 
 ## 재수를 해야 할지 말아야 할지 고민이시죠? 학원이랑 독학 중에 뭐가 나은지도 모르겠고요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 성적과 목표를 분석합니다. 재수가 적합한지 함께 판단하고 방향을 안내합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 재수학원 유형별 비교
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향에 맞는 학원 유형을 안내합니다. 자기주도 학습 능력을 고려해 추천합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 재수학원 선택 기준
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 학원을 비교 분석합니다. 학생에게 맞는 학원을 함께 선택합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 재수 성공 학습 전략
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습 계획을 수립합니다. 월별 목표를 설정하고 진도를 점검합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 멘탈 관리 방법
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적인 상담으로 멘탈을 관리합니다. 슬럼프 극복 방법을 함께 찾습니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,30 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 **Q. 재수 중 과외를 추가로 받아야 하나요?**
 
 학원 수업만으로 부족한 과목이 있다면 과외를 추가하는 것이 좋습니다. 특히 수학은 1대1 과외가 효과적입니다. 주 1회에서 2회 정도가 적당합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

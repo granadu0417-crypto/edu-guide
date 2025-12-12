@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 ---
 
 ## 과외비가 얼마나 하는지 몰라서 바가지 쓸까 봐 걱정이에요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 비용 구조를 투명하게 안내합니다. 숨겨진 비용 없이 명확하게 설명드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 과외비는 뭘로 결정되나요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 학년과 목표에 맞는 적정 비용을 안내합니다. 무조건 비싼 게 좋은 건 아닙니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 과외비의 적정 범위는 어떻게 되나요?
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역과 학년에 맞는 시세를 안내합니다. 합리적인 범위에서 선택하실 수 있게 도와드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과외비 협상은 어떻게 하나요?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료 외 추가 비용은 없습니다. 교재비만 별도이고, 그마저도 미리 안내드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -79,14 +79,42 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 보통 월 단위로 선불입니다. 한 달치를 먼저 내고 수업을 받습니다. 너무 긴 기간을 미리 내는 건 조심하세요.
 
-**Q. 환불은 어떻게 되나요?**
-
-중간에 그만두면 남은 횟수만큼 환불받을 수 있습니다. 시작 전에 환불 조건을 꼭 확인하세요.
-
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 비용에 대해 더 궁금한 점이 있으시면 문의하세요. 투명한 비용 구조를 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

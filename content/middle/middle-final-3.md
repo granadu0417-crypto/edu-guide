@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 ---
 ## 어느 고등학교를 가야 대학을 잘 갈 수 있을까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 성적과 성향을 분석합니다. 어떤 유형의 고등학교가 유리한지 객관적으로 판단해드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 고등학교 유형별 특징
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 유형의 장단점을 상세히 설명합니다. 학생의 상황에 맞는 선택지를 추천합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 내신과 학교 선택의 관계
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 등급과 앞으로의 성장 가능성을 고려합니다. 현실적인 조언을 드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 고교 선택을 위한 준비
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고교 입시 일정에 맞춰 준비합니다. 놓치기 쉬운 부분까지 꼼꼼히 챙깁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자기소개서와 면접
@@ -67,7 +67,7 @@ featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기소개서 작성을 도와드립니다. 면접 예상 질문으로 실전 연습을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 떨어져도 괜찮습니다
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-결과에 상관없이 학생이 최선을 다할 수 있도록 멘탈 관리도 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,6 +96,34 @@ featured_image: "https://images.unsplash.com/photo-1588072432836-e10032774350?w=
 **Q. 자사고 가면 내신 따기 어려운가요?**
 
 일반고보다 경쟁이 치열합니다. 하지만 본인 실력이면 충분히 할 수 있습니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

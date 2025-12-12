@@ -13,7 +13,7 @@ tags:
 - 노원
 - 의대생과외
 description: 학년·대상별 1:1 과외 찾기. 선택 기준, 비용, 효과적 활용법을 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 맞춤형 솔루션으로 빠른 향상을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0920__HuCXV2qpOo.jpg"
 reading_time: 160줄
 ---
 
@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특목고 입시는 개인별 맞춤 전략이 중요합니다. 학생 수준과 목표에 맞춰 체계적으로 준비합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 특목고 입시가 왜 어려운가요?
@@ -34,7 +34,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 학교에 맞춘 전략을 세웁니다. 내신, 자소서, 면접을 체계적으로 준비합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과외가 왜 효과적인가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 학교 출신 또는 입시 지도 경험이 있는 선생님을 연결합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 언제부터 준비해야 하나요?
@@ -64,7 +64,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞춰 일정을 조율합니다. 단계별 목표를 세우고 준비합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 내신, 자소서, 면접 어떻게 준비하나요?
@@ -75,7 +75,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리부터 자소서 작성, 면접 연습까지 전 과정을 지도합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문
@@ -95,6 +95,22 @@ reading_time: 160줄
 **Q. 온라인 과외도 가능한가요?**
 
 가능합니다. 면접 연습도 화상으로 할 수 있습니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
 
 ## 마무리
 

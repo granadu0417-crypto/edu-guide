@@ -7,7 +7,7 @@ lastmod: 2025-01-17
 reading_time: "814줄"
 draft: false
 description: "고등학교 내신 1등급을 위한 완벽 과외 전략. 학교별 출제 경향 분석부터 서술형 대비, 수행평가 관리까지. 수시 학생부 전형을 목표로 하는 학생을 위한 내신 과외 완벽 가이드."
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0676_ggeZ9oyI-PE.jpg"
 tags: ["내신과외", "고등내신", "1등급", "학생부전형", "내신관리", "서술형대비", "수행평가", "학교시험", "과외전략"]
 categories: ["고등"]
 sitemap:
@@ -20,20 +20,20 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 출제 경향을 분석합니다. 선생님 스타일에 맞춰 맞춤형으로 대비합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 내신 시험의 특징
 
 학교마다 출제 스타일이 다릅니다. 교과서 그대로 나오는 학교가 있고, 변형 문제가 많은 학교도 있습니다. 선생님별로도 다릅니다.
 
-서술형 비중이 높습니다. 수학은 30~40%, 다른 과목도 20~30%가 서술형입니다. 서술형 한 문제에 등급이 갈립니다.
+서술형 비중이 높습니다. 수학은 30-40%, 다른 과목도 20-30%가 서술형입니다. 서술형 한 문제에 등급이 갈립니다.
 
 수행평가도 반영됩니다. 시험만 잘 봐서는 안 됩니다. 발표, 보고서, 수행평가까지 관리해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 기출을 분석합니다. 서술형 예상 문제를 만들고 답안 작성 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 기출 분석
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 기출 문제를 함께 분석합니다. 자주 나오는 유형을 집중 연습합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 서술형 대비
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 예상 문제를 풀고 첨삭합니다. 채점 기준에 맞게 쓰는 연습을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시험 기간 전략
@@ -72,7 +72,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간에 맞춰 수업을 구성합니다. 2주 전부터 집중 대비합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 수행평가 관리
@@ -85,7 +85,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수행평가 주제 선정, 보고서 첨삭, 발표 연습을 도와줍니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 주의사항
@@ -109,6 +109,26 @@ sitemap:
 **Q. 내신 1등급이 되려면 몇 점이 필요한가요?**
 
 학교마다 다르지만 보통 90점대 중후반 이상이 필요합니다. 상위 4% 이내입니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

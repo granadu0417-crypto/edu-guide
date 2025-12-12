@@ -10,7 +10,7 @@ tags:
 - 학습전략
 - 방학과외
 - 새학년준비
-featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 ---
 ## 겨울방학, 그냥 놀다 보내도 되는 걸까요?
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-겨울방학에는 수업 횟수를 늘려 집중적으로 진행합니다. 30일 안에 다음 학년 핵심 개념을 미리 익히도록 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 겨울방학 전략
@@ -29,27 +29,27 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 단원을 파악하고 그 부분을 집중 공략합니다. 무리한 전체 선행보다 중요한 개념을 확실히 잡는 것이 효과적입니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 30일 시간표 짜기
 
 첫 주는 2학기 내용을 마무리하고 겨울방학 계획을 세웁니다. 2주차에는 현재 학년 전체를 복습하며 약한 부분을 보완합니다. 3주차부터 본격적으로 다음 학년 예습에 들어가세요. 마지막 주는 배운 내용을 정리하고 개학 준비를 합니다.
 
-설 연휴에는 완전히 쉬기보다 하루 1~2시간 가벼운 복습을 권합니다. 생활 패턴이 무너지면 다시 잡기 어렵습니다. 가족 시간을 보내면서도 아침에 짧게 공부하는 습관을 유지하세요.
+설 연휴에는 완전히 쉬기보다 하루 1-2시간 가벼운 복습을 권합니다. 생활 패턴이 무너지면 다시 잡기 어렵습니다. 가족 시간을 보내면서도 아침에 짧게 공부하는 습관을 유지하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-30일 전체 로드맵을 학생과 공유합니다. 매주 목표를 정하고 달성 여부를 체크하며 진행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 추운 날씨 극복하기
 
-겨울에는 아침에 일어나기가 힘들고 추워서 집중이 안 됩니다. 난방 타이머를 기상 30분 전에 맞춰두세요. 따뜻한 물로 세수하고 가벼운 스트레칭을 하면 정신이 맑아집니다. 실내 온도는 20~22도로 유지하고 30분마다 환기하세요.
+겨울에는 아침에 일어나기가 힘들고 추워서 집중이 안 됩니다. 난방 타이머를 기상 30분 전에 맞춰두세요. 따뜻한 물로 세수하고 가벼운 스트레칭을 하면 정신이 맑아집니다. 실내 온도는 20-22도로 유지하고 30분마다 환기하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 컨디션을 고려해 수업 시간을 조정합니다. 오전에 집중이 잘 되는 학생, 오후가 편한 학생에 맞춰 스케줄을 잡습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 개학 전 마무리
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개학 전 마지막 수업에서 첫 시험 대비 방향을 안내합니다. 새 학년 시작을 자신감 있게 맞이하도록 돕습니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 **Q. 설 연휴에도 공부해야 하나요?**
 
-완전히 쉬기보다 하루 1~2시간 가볍게 복습하세요. 생활 리듬을 유지하는 것이 중요합니다.
+완전히 쉬기보다 하루 1-2시간 가볍게 복습하세요. 생활 리듬을 유지하는 것이 중요합니다.
 
 **Q. 선행을 많이 해야 하나요?**
 

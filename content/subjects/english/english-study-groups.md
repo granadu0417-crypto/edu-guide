@@ -13,7 +13,7 @@ tags:
 - 협업
 - study group
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 ---
 
 ## 혼자 공부하기 외롭다고요? 스터디를 만들어도 흐지부지된다고요.
@@ -22,27 +22,27 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스터디 구성과 운영 방법을 안내합니다. 효과적인 그룹 학습 전략을 설계합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 스터디 구성 원칙
 
-인원은 3~5명이 적당합니다. 너무 적으면 부담이 크고, 너무 많으면 관리가 어렵습니다. 비슷한 수준과 목표를 가진 멤버를 구하세요. 성실하고 책임감 있는 사람이 중요합니다. 시간을 맞출 수 있는지도 확인하세요.
+인원은 3-5명이 적당합니다. 너무 적으면 부담이 크고, 너무 많으면 관리가 어렵습니다. 비슷한 수준과 목표를 가진 멤버를 구하세요. 성실하고 책임감 있는 사람이 중요합니다. 시간을 맞출 수 있는지도 확인하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-멤버 선정 기준을 정리합니다. 효과적인 스터디 구성 방법을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 운영 규칙 만들기
 
-주 1~2회, 2시간 정도가 적당합니다. 같은 요일, 같은 시간에 모이세요. 시간 엄수, 과제 준비, 적극 참여가 필수 규칙입니다. 핸드폰은 멀리 두세요. 불참 시 사전 연락은 기본입니다. 가벼운 벌칙을 정하면 책임감이 높아집니다.
+주 1-2회, 2시간 정도가 적당합니다. 같은 요일, 같은 시간에 모이세요. 시간 엄수, 과제 준비, 적극 참여가 필수 규칙입니다. 핸드폰은 멀리 두세요. 불참 시 사전 연락은 기본입니다. 가벼운 벌칙을 정하면 책임감이 높아집니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 운영 규칙을 함께 만듭니다. 지속 가능한 스터디 시스템을 설계합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 스터디 유형별 방법
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표에 맞는 스터디 유형을 선택합니다. 효과적인 진행 방법을 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 갈등 해결과 동기 유지
@@ -60,14 +60,14 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-갈등 해결 방법을 안내합니다. 동기 유지 전략을 함께 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 몇 명이 적당한가요?**
 
-3~5명이 적당합니다. 너무 적으면 부담이 크고, 너무 많으면 관리가 어렵습니다.
+3-5명이 적당합니다. 너무 적으면 부담이 크고, 너무 많으면 관리가 어렵습니다.
 
 **Q. 온라인으로도 가능한가요?**
 
@@ -83,5 +83,5 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외와 스터디 그룹을 병행하면 더욱 효과적입니다. 기초는 과외로, 실전은 스터디로 시너지를 내세요.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

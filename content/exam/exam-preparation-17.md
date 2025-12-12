@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0154_TOBRTuE_uXA.jpg"
 ---
 ## 국어 지문 읽다 보면 뒤에 뭐가 있었는지 기억이 안 나요. 어떻게 해야 하죠?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 독해력을 먼저 진단합니다. 읽기 속도, 이해력, 문제 풀이 패턴을 파악하고 취약한 부분부터 개선해 나갑니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 국어 시험의 특성
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 구분해서 대비합니다. 내신은 교과서 작품 분석, 수능은 독해력과 문제 풀이 전략을 따로 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 문학 영역 공략법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 작품별 분석법을 훈련합니다. 시, 소설, 수필의 장르별 특성을 이해하고 적용하는 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 비문학 영역 공략법
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 독해 전략을 체계적으로 훈련합니다. 문단별 핵심 파악, 구조 분석, 추론하기 등의 기술을 연습합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 내신 국어 대비 전략
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 수업 내용을 바탕으로 내신을 대비합니다. 교과서, 프린트, 기출문제를 중심으로 완벽하게 준비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 수능 국어 대비 전략

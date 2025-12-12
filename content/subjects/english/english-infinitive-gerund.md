@@ -15,7 +15,7 @@ tags:
 - infinitive
 - gerund
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 ---
 
 ## to V와 V-ing 중 뭘 써야 하는지 모르겠다고요? remember to call과 remember calling이 다르다는데 헷갈리시죠.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동사별로 to V인지 V-ing인지 정리합니다. 핵심 동사를 확실히 암기합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## to부정사만 쓰는 동사
@@ -33,7 +33,7 @@ want to V는 하고 싶다, hope to V는 바라다, plan to V는 계획하다, d
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-to부정사만 쓰는 동사를 예문과 함께 익힙니다. 미래지향적 의미를 이해합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 동명사만 쓰는 동사
@@ -44,7 +44,7 @@ enjoy V-ing는 즐기다, finish V-ing는 끝내다, avoid V-ing는 피하다, m
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동명사만 쓰는 동사를 체계적으로 정리합니다. 과거경험적 의미를 이해합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 의미 차이가 있는 동사
@@ -53,16 +53,16 @@ remember to V는 할 것을 기억하다(미래)이고, remember V-ing는 한 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-의미 차이가 있는 동사를 집중 연습합니다. 문맥 속에서 구별하는 훈련을 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 관용표현
 
-look forward to V-ing는 기대하다입니다. 여기서 to는 전치사라서 동명사가 옵니다. be used to V-ing도 마찬가지입니다. too ~ to V는 너무 ~해서 못하다, enough to V는 ~할 만큼 충분히입니다. cannot help V-ing는 하지 않을 수 없다입니다.
+look forward to V-ing는 기대하다입니다. 여기서 to는 전치사라서 동명사가 옵니다. be used to V-ing도 마찬가지입니다. too - to V는 너무 -해서 못하다, enough to V는 -할 만큼 충분히입니다. cannot help V-ing는 하지 않을 수 없다입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관용표현을 덩어리로 익힙니다. 전치사 to와 to부정사를 구별합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -79,11 +79,51 @@ to V는 하기 위해 멈추다, V-ing는 하는 것을 멈추다입니다. 의�
 
 여기서 to는 전치사입니다. 전치사 뒤에는 명사(동명사)가 옵니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
 ## 마무리
 
 부정사와 동명사는 동사별 규칙을 익히고 의미 차이를 이해하면 쉽게 정복할 수 있습니다. remember, forget, stop, try, regret의 의미 차이를 확실히 익히세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 부정사·동명사를 마스터합니다. 자주 틀리는 동사를 집중 연습합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>

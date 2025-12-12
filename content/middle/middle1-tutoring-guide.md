@@ -11,7 +11,7 @@ tags:
 - 1:1과외
 - 중1학습
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0991_NIrRqqrs0Fs.jpg"
 ---
 ## 초등학교 때 100점 맞던 아이가 왜 갑자기 70점을 받아올까요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 첫 수업에서 초등학교 기초가 얼마나 탄탄한지 먼저 확인합니다. 구멍이 있으면 거기부터 메우고 시작합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 중1이 중요한 이유
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 시험 전에 학교별 출제 경향을 파악하고 대비합니다. 첫 시험에서 좋은 점수를 받으면 자신감이 생깁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과외 시작 시기
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 시험지를 함께 분석합니다. 어디서 틀렸는지, 왜 틀렸는지 파악하고 그에 맞는 학습 계획을 세웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 어떤 과목부터 시작할까
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 어떤 과목이 가장 급한지 함께 판단합니다. 우선순위를 정하고 그 과목부터 집중합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 중1 과외 진행 방법
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관을 정립하는 것이 목표입니다. 숙제하고 복습하는 루틴을 만들어서 점차 혼자 공부할 수 있게 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -93,6 +93,26 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 **Q. 언제까지 해야 하나요?**
 
 내신 3등급 이상, 혼자 공부 가능, 학습 습관 정립되면 중단해도 됩니다. 평생 과외는 답이 아닙니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

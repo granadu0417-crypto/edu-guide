@@ -14,7 +14,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0638_44yHbssvRDI.jpg"
 ---
 ## 고등학생이 되면 뭐가 달라지나요? 중학교 때처럼 하면 안 되나요?
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 학습법을 알려줍니다. 중학교 때 습관을 버리고 새로운 방법을 익힙니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 고등학교 공부의 특징
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 공부의 특징을 설명하고, 어떻게 대응해야 하는지 알려줍니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 학습 습관 만들기
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관을 만드는 걸 도와줍니다. 어떻게 계획을 세우고 실행하는지 알려줍니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 내신 시험 대비
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출을 분석합니다. 선생님마다 출제 스타일이 다르니까 맞춤 대비를 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 생기부 채우기
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부에 뭘 채워야 하는지 계획을 세웁니다. 고1 때부터 시작해야 풍성해집니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 진로 탐색
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 탐색을 도와줍니다. 어떤 분야에 관심이 있는지 함께 알아봅니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 주의사항
@@ -110,7 +110,15 @@ featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=
 
 **Q. 하루에 얼마나 공부해야 하나요?**
 
-고1은 학교 수업 외 3~4시간이면 됩니다. 시간보다 집중도가 중요합니다.
+고1은 학교 수업 외 3-4시간이면 됩니다. 시간보다 집중도가 중요합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

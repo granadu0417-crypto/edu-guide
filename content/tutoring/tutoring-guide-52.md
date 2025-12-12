@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0990_S8qw5hyFoo8.jpg"
 ---
 
 ## 온라인 과외로도 집중이 가능한가요? 화상으로 하면 효과가 떨어지지 않나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 수업에서도 실시간 소통을 많이 합니다. 멍하게 듣고 있지 않도록 계속 질문하고 확인합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 온라인 과외, 정말 효과 있나요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화면 공유, 판서 앱을 활용해서 대면과 비슷한 수업을 합니다. 학생 화면도 같이 보면서 진행합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 온라인 과외의 장점은 뭔가요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원하시면 수업 녹화를 제공합니다. 복습할 때 활용하세요.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 온라인 과외를 잘 받으려면 어떻게 해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 멍하게 있으면 바로 질문을 던집니다. 집중하도록 유도합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 환경 세팅부터 효과적인 수업 방법까지 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

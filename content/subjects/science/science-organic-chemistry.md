@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 ---
 
 ## 유기 화합물 명명법이 복잡하고 반응 예측이 어렵다고요? 탄소 결합의 특성부터 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-탄소의 결합 특성부터 시작합니다. 단일결합, 이중결합, 삼중결합의 차이를 이해합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 탄화수소
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-탄화수소의 분류를 체계적으로 정리합니다. IUPAC 명명법을 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 작용기
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 작용기를 표로 정리합니다. 각 작용기의 특성과 반응을 연결합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 고분자 화합물
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중합 반응의 종류를 비교합니다. 대표적인 고분자의 단위체를 암기합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 구조식 그리기와 반응 예측을 집중 훈련합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,11 +81,47 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 카복실산과 알코올이 반응하여 에스터와 물이 생성됩니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
 ## 마무리
 
 유기화학은 탄소 화합물의 구조와 반응이 핵심입니다. 작용기를 체계적으로 정리하세요. 반복 연습으로 구조와 반응을 익히면 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 유기화학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>

@@ -11,15 +11,15 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0126_qDY9ahp0Mto.jpg"
 ---
 ## 예습하고 복습하면 성적이 올라간다, 말은 쉬운데 실천이 어렵죠?
 
-3학년은 공부 습관이 만들어지는 결정적 시기입니다. 1~2학년 때는 학교에서 시키는 대로만 해도 됐지만, 3학년부터는 스스로 공부하는 힘을 길러야 합니다. 지금 좋은 습관을 들이면 평생 갑니다.
+3학년은 공부 습관이 만들어지는 결정적 시기입니다. 1-2학년 때는 학교에서 시키는 대로만 해도 됐지만, 3학년부터는 스스로 공부하는 힘을 길러야 합니다. 지금 좋은 습관을 들이면 평생 갑니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3학년부터 예습과 복습 방법을 구체적으로 가르칩니다. 내일 배울 내용 10분 훑어보기, 오늘 배운 내용 5분 정리하기부터 시작합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스스로 학습 계획표를 만들어보게 합니다. 처음에는 함께 만들고, 점차 혼자 만들도록 유도합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,18 +45,18 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오늘 배운 내용을 말로 설명하게 합니다. 선생님한테 설명할 수 있으면 진짜 이해한 것입니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 3학년의 특징과 대응
 
 3학년은 저학년의 마지막이면서 고학년으로 넘어가는 과도기입니다. 호기심이 여전히 왕성하지만, 추상적 사고가 조금씩 시작됩니다.
 
-학습법은 놀이 요소를 줄이고 체계적 학습을 늘립니다. 집중 시간이 20~30분으로 늘어나니 학습 시간도 조금씩 늘립니다.
+학습법은 놀이 요소를 줄이고 체계적 학습을 늘립니다. 집중 시간이 20-30분으로 늘어나니 학습 시간도 조금씩 늘립니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스스로 했다는 성취감을 느끼게 합니다. 살짝 도와주되, 결국 혼자 해냈다고 느끼도록 유도합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 계획표를 함께 만들고, 매주 얼마나 지켰는지 확인합니다. 지킨 만큼 칭찬합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 주의사항
@@ -103,6 +103,22 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 **Q. 학습 계획을 못 지켜요.**
 
 처음부터 완벽히 지키기는 어렵습니다. 50%만 지켜도 칭찬하고, 점차 비율을 높여갑니다. 계획 자체가 무리한 건 아닌지도 확인하세요.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
 
 ## 마무리
 

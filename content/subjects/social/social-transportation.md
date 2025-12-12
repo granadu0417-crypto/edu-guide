@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0710_N-2rrerXzxw.jpg"
 ---
 
 ## 도로와 철도, 항공 교통이 어떻게 발달했는지 복잡하다고요? 교통수단의 발전 과정부터 따라가면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교통수단의 발달 과정을 시대순으로 정리합니다. 각 교통수단의 특성과 영향을 분석합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 교통수단의 발달
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 교통수단의 등장 시기와 영향을 정리합니다. 교통혁명이 사회에 미친 영향을 분석합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 교통 체계
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 교통수단의 장단점을 비교합니다. 수송 목적에 따른 교통수단 선택을 분석합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 한국의 교통
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한국의 교통망 특성을 지도로 확인합니다. 교통 발달이 지역 발전에 미친 영향을 분석합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 교통 문제와 해결
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교통 문제의 원인과 해결책을 분석합니다. 지속 가능한 교통 시스템을 토론합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 교통을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>

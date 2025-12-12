@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 일본어 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 개인별 학습 진단과 맞춤형 지도로 빠른 성과를 만들어보세요.
 
-featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0891_vi23DZ7WQL4.jpg"
 reading_time: 160줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 목적에 맞춰 수업합니다. JLPT 시험 대비, 여행 회화, 비즈니스 일본어 등 목표에 따라 방향을 정합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 일본어 과외의 장점이에요
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간 내내 일본어로 대화합니다. 처음엔 어렵지만 빠르게 회화 실력이 늡니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## JLPT 시험 대비는 이렇게 해요
@@ -54,7 +54,7 @@ JLPT나 문법이 목적이라면 한국인 선생님이 나을 수 있습니다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목적에 맞는 선생님을 추천합니다. 회화는 원어민, 시험은 한국인 선생님이 효과적입니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 선생님 선택 기준이에요
@@ -65,7 +65,7 @@ JLPT N1 이상 또는 원어민 수준의 실력이 필요합니다. 일본 유�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 현재 수준을 진단합니다. 목표와 기간에 맞춰 학습 계획을 세웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학습 목적별 추천이에요
@@ -76,7 +76,7 @@ JLPT N1 이상 또는 원어민 수준의 실력이 필요합니다. 일본 유�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목적에 맞는 커리큘럼을 제공합니다. 여행 회화, JLPT, 비즈니스 중 선택합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,7 +87,7 @@ JLPT N1 이상 또는 원어민 수준의 실력이 필요합니다. 일본 유�
 
 **Q. 얼마나 배우면 JLPT N3을 볼 수 있나요?**
 
-기초부터 시작하면 6개월~1년 정도 걸립니다. 꾸준히 하는 게 중요합니다.
+기초부터 시작하면 6개월-1년 정도 걸립니다. 꾸준히 하는 게 중요합니다.
 
 **Q. 화상 과외도 가능한가요?**
 
@@ -95,7 +95,15 @@ JLPT N1 이상 또는 원어민 수준의 실력이 필요합니다. 일본 유�
 
 **Q. 주 몇 회가 적당한가요?**
 
-주 2~3회가 적당합니다. 복습 시간도 필요합니다.
+주 2-3회가 적당합니다. 복습 시간도 필요합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
 
 ## 마무리
 

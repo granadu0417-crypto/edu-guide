@@ -14,7 +14,7 @@ tags:
 - 함수변환
 - 함수의응용
 - 함수
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0523_ix9I7kfMpcc.jpg"
 ---
 
 ## 함수가 도대체 뭔지 감이 안 잡힌다고요? 그래프를 어떻게 그려야 하는지 막막하시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수의 정의부터 차근차근 설명합니다. 그래프로 시각화하여 이해시킵니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 함수의 기본 개념
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수의 정의와 조건을 정확히 이해시킵니다. 함수인 것과 아닌 것을 구분하는 연습을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 함수의 종류
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 함수의 특징과 그래프를 체계적으로 정리합니다. 비교하며 학습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 그래프 그리기와 변환
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프 그리기를 체계적으로 연습합니다. 변환 규칙을 확실히 익힙니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 합성함수와 역함수
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-합성함수와 역함수를 명확히 이해시킵니다. 순서를 헷갈리지 않도록 연습합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ g 동그라미 f 괄호 x는 f를 먼저 g를 나중에입니다. 안에서 바�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수를 체계적으로 정리합니다. 다양한 유형의 문제로 실전 감각을 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 

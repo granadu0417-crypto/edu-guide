@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0511_SZW4OQA_lME.jpg"
 ---
 
 ## 아는 문제인데 자꾸 틀린다고요? 계산 실수가 너무 많아서 성적이 안 오른다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실수 패턴을 분석합니다. 어떤 유형에서 자주 틀리는지 파악하고 맞춤 방지 전략을 세웁니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 계산 실수 유형
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계산 과정을 한 줄씩 확인합니다. 자주 실수하는 부분을 체크리스트로 만들어 습관화합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 개념 오해 실수
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 다시 정리합니다. 비슷한 개념의 차이점을 명확히 구분하고 조건 체크 습관을 들입니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 문제 오독 실수
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 읽기 훈련을 합니다. 조건 표시 습관을 들이고 마지막에 구하는 것을 다시 확인합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 실수 방지 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검산 습관을 훈련합니다. 시간 내에 풀고 검산까지 하는 실전 연습을 반복합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,36 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 급한 마음을 버리고 한 단계씩 확인하며 푸세요. 기본 계산 연습을 매일 10분씩 하면 자동화됩니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 실수는 노력으로 줄일 수 있습니다. 패턴을 파악하고 방지 전략을 세우면 같은 실수를 반복하지 않습니다. 실수를 줄이는 것만으로도 성적은 확실히 오릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인별 실수 패턴을 분석하고 맞춤 방지 전략을 세웁니다. 실수를 줄여 성적을 올리세요.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 

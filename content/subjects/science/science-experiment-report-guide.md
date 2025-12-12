@@ -17,12 +17,12 @@ tags:
 - 과학공부법
 - 탐구보고서
 - 실험기록
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0600_4bF980HkVWA.jpg"
 ---
 
 과학 실력은 실험 보고서 작성 능력에서 판가름 납니다. 잘 작성된 실험 보고서는 단순한 기록이 아니라 과학적 사고의 증거입니다. 이 글에서는 초등학생부터 고등학생까지 완벽한 실험 보고서를 작성하는 모든 방법을 단계별로 안내합니다.
 
-![과학 실험 보고서](https://images.unsplash.com/photo-1530210124550-912dc1381cb8?w=1200&h=600&fit=crop)
+![과학 실험 보고서](/images/edu_0303_2dim_8iYCws.jpg)
 
 ## 실험 보고서가 중요한 이유
 
@@ -158,12 +158,12 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 목적:
 → 무엇을 알고 싶은가?
 → 질문 형태로 생각
-→ "~을 알아보다"
+→ "-을 알아보다"
 
 가설:
 → 어떻게 될 것 같은가?
 → 예상 답변
-→ "~일 것이다"
+→ "-일 것이다"
 
 예시:
 목적: 온도가 용해도에 미치는 영향 확인
@@ -659,16 +659,16 @@ Y축: 용해도 (g/100mL)
 ✓ 측정한 값
 ✓ 있는 그대로
 
-❌ "~이기 때문에" (해석 X)
-❌ "~라고 생각한다" (의견 X)
+❌ "-이기 때문에" (해석 X)
+❌ "-라고 생각한다" (의견 X)
 
 고찰:
 ✓ 결과의 의미
 ✓ 원인 분석
 ✓ 개인 생각
 
-⭕ "~이기 때문에"
-⭕ "~라고 판단된다"
+⭕ "-이기 때문에"
+⭕ "-라고 판단된다"
 ```
 
 **실수 2: 단위 누락**:
@@ -708,21 +708,5 @@ Y축: 용해도 (g/100mL)
 
 
 
-## 📚 관련 가이드
 
-- [과학 탐구 활동 추천 가이드 | 주제~발표 2025](/subjects/science/science-research-guide/)
-- [과학 개념 정리 완벽 정리 | 암기~이해 2025](/subjects/science/science-concept-organization/)
-- [과학 실험보고서 과외 | 작성법·분석법 완벽 마스터](/subjects/science/science-lab-report/)
-- [과학 암기 고민? | 생물·지구과학 전략 솔루션 2025](/subjects/science/science-memorization-strategies/)
-- [과학 통합 완성 가이드 - 물화생지 전 영역 정복](/subjects/science/science-integrated-mastery/)
-
-{{< cta-consultation-final >}}
-
----
-
-## 관련 글
-
-- [과학 개념 정리 노하우 - 암기부터 이해까지](/subjects/science/science-concept-organization/)
-- [과학 탐구 활동 가이드 - 주제 선정부터 발표까지](/subjects/science/science-research-guide/)
-- [중학생 과학 공부법 - 실험과 이론의 조화](/middle/science-study-methods/)
-- [고등학생 과학 탐구 - 생기부 완벽 대비](/high/science-research-preparation/)
+{{< cta-dual type="final" >}}

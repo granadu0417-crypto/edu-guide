@@ -14,7 +14,7 @@ tags:
 - 의대생과외
 description: 음악 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0903_EFIvaYLABmU.jpg"
 reading_time: 160줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-취미든 입시든 학생 목표에 맞춰 진행합니다. 원하는 곡을 칠 수 있도록 단계별로 가르칩니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 음악 과외의 장점은 뭔가요?
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 연주하고 싶은 곡을 목표로 삼습니다. 흥미를 잃지 않도록 재미있게 가르칩니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 입시와 취미, 뭐가 다른가요?
@@ -54,7 +54,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 레슨을 통해 선생님과의 궁합을 확인합니다. 맞지 않으면 다른 선생님을 찾아드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 어디서 수업하나요?
@@ -65,7 +65,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞게 장소를 정합니다. 온라인과 오프라인을 병행할 수도 있습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 연습은 어떻게 해야 하나요?
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-레슨 때 연습 방법을 상세히 알려드립니다. 효율적으로 연습할 수 있도록 도와드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -96,6 +96,22 @@ reading_time: 160줄
 **Q. 레슨비는 얼마나 하나요?**
 
 선생님 경력과 분야에 따라 다릅니다. 상담 시 확인하세요.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

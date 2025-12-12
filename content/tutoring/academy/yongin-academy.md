@@ -14,7 +14,7 @@ tags:
 - 초등
 description: 용인 학원 추천. 수지·죽전·동백 지역, 과목별, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의
   모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0787__whop2XD0Mk.jpg"
 reading_time: 160줄
 ---
 
@@ -24,12 +24,12 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-용인 지역 학교의 시험 패턴과 출제 경향을 분석합니다. 지역 특성에 맞는 학습 전략을 세워드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 용인 학원가는 어떤 특징이 있나요?
 
-비용이 합리적입니다. 강남 대비 30~40% 정도 저렴합니다. 같은 비용으로 더 많은 수업을 받을 수 있고, 강남까지 이동하는 시간과 비용도 절약됩니다.
+비용이 합리적입니다. 강남 대비 30-40% 정도 저렴합니다. 같은 비용으로 더 많은 수업을 받을 수 있고, 강남까지 이동하는 시간과 비용도 절약됩니다.
 
 지역 학교에 강합니다. 용인 학교의 족보와 출제 경향을 잘 파악하고 있습니다. 학교별 내신 대비가 잘 됩니다. 서울 학원에서는 받기 어려운 지역 밀착 정보가 있습니다.
 
@@ -37,7 +37,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-용인 학원에서 배운 내용을 과외에서 다시 점검합니다. 학원 진도에 맞춰 이해 안 된 부분을 집중 보완합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 지역별로 어떤 학원이 있나요?
@@ -50,7 +50,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 지역과 학원 유형을 안내해 드립니다. 통학 거리, 예산, 학습 목표를 종합적으로 고려합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학년별로 어떤 학원이 맞나요?
@@ -73,7 +73,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강남까지 가지 않아도 강남 수준의 수업을 받을 수 있습니다. 과외로 개인 맞춤을 더하면 충분합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과외를 병행하면 어떤 효과가 있나요?
@@ -86,7 +86,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-용인 학원 진도에 맞춰 과외 커리큘럼을 짭니다. 학원에서 부족한 부분을 과외에서 확실히 잡습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

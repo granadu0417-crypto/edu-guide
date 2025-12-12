@@ -16,7 +16,7 @@ tags:
 - 생물
 - 학습환경
 - 노원
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0861_pZA4eNKBz20.jpg"
 draft: false
 ---
 
@@ -26,7 +26,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담 때 아이 성향과 현재 수준을 파악합니다. 학원이 맞는지 과외가 맞는지 솔직하게 안내드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 학원과 과외, 뭐가 다른가요?
@@ -39,7 +39,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원을 다니고 있는 학생이라면, 학원에서 부족한 부분을 보완하는 방식으로 수업합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 어떤 학생에게 학원이 맞나요?
@@ -52,7 +52,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향을 파악해서 학원이 맞겠다 싶으면 솔직히 말씀드립니다. 과외가 무조건 좋은 건 아닙니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 어떤 학생에게 과외가 맞나요?
@@ -65,7 +65,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-약점 파악부터 시작합니다. 어디가 부족한지 정확히 진단하고, 그 부분을 집중 공략합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 좋은 과외 선생님은 어떻게 찾나요?
@@ -78,7 +78,7 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담은 부담 없이 진행됩니다. 맞지 않으면 안 하셔도 됩니다. 편하게 경험해 보세요.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,8 +103,28 @@ draft: false
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 과외 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 아이 상황에 맞는 방향을 함께 찾아드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 꾸준히 3개월 이상 수업하면 확실한 성적 향상을 기대할 수 있습니다.
+
+**Q. 다른 학생과 함께 수업해도 되나요?**
+
+소그룹 수업도 가능합니다. 비슷한 수준의 친구와 함께 하면 비용도 절약하고 경쟁 효과도 있습니다.
 
 ## 마무리
 

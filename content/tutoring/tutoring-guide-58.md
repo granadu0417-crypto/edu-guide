@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 ---
 
 ## 과외 숙제를 해도 실력이 안 느는 것 같아요. 숙제를 어떻게 활용해야 효과가 나나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제는 양보다 질입니다. 학생 수준에 맞는 적정량을 내고, 다음 시간에 꼭 점검합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 숙제가 왜 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제에서 틀린 문제는 다음 수업에서 반드시 다시 풀어봅니다. 넘어가지 않습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 숙제를 효과적으로 하려면 어떻게 해야 하나요?
@@ -46,20 +46,20 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정 없이 답만 쓴 숙제는 다시 풀게 합니다. 과정이 있어야 점검이 가능합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 숙제량은 어느 정도가 적당한가요?
 
 너무 많으면 역효과입니다. 많이 내면 좋을 것 같지만 아닙니다. 학생이 감당 못 하면 대충 하거나 안 합니다. 적당히 해야 제대로 합니다.
 
-30분에서 1시간 분량이 적당합니다. 하루에 과외 숙제로 30분~1시간 투자할 수 있는 양이면 됩니다. 다른 과목 숙제도 있으니까요.
+30분에서 1시간 분량이 적당합니다. 하루에 과외 숙제로 30분-1시간 투자할 수 있는 양이면 됩니다. 다른 과목 숙제도 있으니까요.
 
 선생님과 조율하세요. 너무 많거나 적으면 말씀하세요. 학생 상황에 맞게 조절해야 합니다. 말하지 않으면 모릅니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제량이 많다고 느끼시면 말씀해 주세요. 학생 상황에 맞게 조절합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 활용에 대해 더 궁금한 점이 있으시면 문의하세요. 효과적인 복습법을 함께 설계합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 마무리

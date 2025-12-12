@@ -8,7 +8,7 @@ regions:
 cities:
   - 강동구
 tags: ["강동구", "수학과외", "고덕동", "명일동", "천호동", "수학", "과외", "초등수학", "중등수학", "고등수학", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0321_NItozEcUPrw.jpg"
 ---
 
 "강동구 수학과외, 송파구랑 비교하면 어때요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 많이들 물어보시는 부분입니다.
 솔직히 말씀드리면, **강동구는 송파구보다 경쟁이 덜 치열합니다.** 그래서 오히려 아이가 자기 페이스대로 공부할 수 있어요.
 
-![강동구 수학과외](https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=600&fit=crop)
+![강동구 수학과외](/images/edu_0271_CL9OLZqPdus.jpg)
 
 ## 강동구 수학 교육, 어떤 특징이 있나요?
 
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 이렇게 풀어야 해요?"라는 질문이 나올 때까지. 공식 암기가 아니라 원리 이해부터 시작합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ### 명일동 - 안정적인 학습 환경
@@ -56,14 +56,14 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 수학 수준을 정확히 파악합니다. 어디서 막혔는지, 어디까지 알고 있는지 진단부터 꼼꼼히!
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 학년별 수학과외 가이드
 
 ### 초등학생 - 수학이랑 친해지는 시간
 
-**저학년(1~3학년): "수학 재밌다!"가 목표**
+**저학년(1-3학년): "수학 재밌다!"가 목표**
 
 이 시기에 무리하게 진도 빼면 수학을 싫어하게 됩니다.
 **놀이처럼 수학을 접하는** 게 최고예요.
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 수학에 대한 흥미와 자신감
 - 놀이를 통한 수학적 사고
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 수학이 확 어려워집니다.
 미리 **분수, 소수, 도형 개념**을 완벽히 잡아두세요.
@@ -83,16 +83,16 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 문제 해결 능력 단계적 향상
 - 중등 대비 기초 다지기
 
-초등 수학과외 비용은 주 1회 기준 약 12만원에서 20만원, 주 2회 기준 약 22만원에서 35만원 선입니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원 -  20만원, 주 2회 기준 약 22만원 -  35만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피자를 똑같이 나누면? 분수 개념을 일상에서 찾습니다. "1/4이랑 2/8이 같다고요?" 아이가 직접 발견하면 절대 안 잊어요!
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ### 중학생 - 고등 수학의 기초를 다지는 시기
 
-**중1~중2: 수학의 뼈대를 세우세요**
+**중1-중2: 수학의 뼈대를 세우세요**
 
 중학교 수학을 대충 넘기면 고등 수학이 안 됩니다.
 **방정식과 함수**가 핵심이에요.
@@ -111,16 +111,16 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 고등 선행은 중등 이해 후 진행
 - 수능 기초 핵심 개념 정리
 
-중학생 수학과외 비용은 주 1회 기준 약 20만원에서 30만원, 주 2회 기준 약 28만원에서 45만원 선입니다.
+중학생 수학과외 비용은 주 1회 기준 약 20만원 -  30만원, 주 2회 기준 약 28만원 -  45만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 x에 숫자를 대입해야 해요?" 문자와 식의 개념부터 차근차근. 원리를 알면 응용이 됩니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 수학은 중등과 차원이 다릅니다.
 개념 하나 놓치면 다음 단원 전체가 안 돼요.
@@ -140,11 +140,11 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 최신 출제 경향 파악
 - 취약 유형 체계적 보완
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -182,7 +182,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 강동구의 장점을 활용하세요
@@ -212,7 +212,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 **매일 수학 복습 (하루 30분)**
 - 그날 배운 개념 다시 보기
 - 틀린 문제 다시 풀기
-- 비슷한 유형 2~3문제 추가
+- 비슷한 유형 2-3문제 추가
 
 **오답노트 작성**
 - 틀린 문제만 모아두기
@@ -221,7 +221,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 수업 내용 확인 테스트! 복습 안 하면 티가 납니다. 작은 습관이 큰 실력이 됩니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -257,7 +257,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명해보기! 배운 내용을 말로 설명할 수 있으면 진짜 이해한 거예요. 설명이 안 되면 다시 공부합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 마치며

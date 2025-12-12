@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어유치원 완벽 가이드 | 영어유치원 종류·선택 기준·입학 준비·커리큘럼·적응 방법·장단점·주의사항까지 상세 안내"
 tags: ["영어유치원", "유아영어교육", "조기영어", "영어교육", "유치원선택", "유아교육", "이중언어", "영어몰입"]
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0200_LGkyjQQIM_o.jpg"
 ---
 
 ## 영어유치원 보내야 할까요? 우리 아이에게 맞는지 고민이시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 성향과 적성을 먼저 파악합니다. 영어유치원이 아이에게 맞는지 함께 고민해드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 영어유치원의 종류
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 유형의 장단점을 설명합니다. 아이와 가정 상황에 맞는 유형을 추천해드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 영어유치원 선택 기준
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방문 시 확인해야 할 체크리스트를 안내합니다. 좋은 영어유치원을 선택할 수 있도록 도와드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 입학 전 준비와 적응
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적응 기간 동안 아이의 변화를 관찰합니다. 힘들어하면 충분한 휴식을 제공하고 무리하지 않습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 주의사항과 한국어 보완
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한국어와 영어의 균형 잡힌 발달을 안내합니다. 장기적 관점에서 교육 방향을 함께 고민합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문

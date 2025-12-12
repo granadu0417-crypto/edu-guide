@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0198_vdXMSiX-n6M.jpg"
 ---
 ## 국어에서 문학이랑 비문학 공부법이 다른데 어떻게 해야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학과 비문학 취약점을 각각 분석합니다. 영역별 맞춤 전략으로 균형 있게 준비합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 문학 영역 접근법
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작품별 핵심 포인트를 정리합니다. 주제, 표현법, 출제 예상 문제를 함께 분석합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 비문학 영역 접근법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 분석 연습을 반복합니다. 빠르고 정확하게 읽는 방법을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 문법 영역 준비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 개념을 체계적으로 정리합니다. 자주 출제되는 유형을 집중 연습합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 서술형 대비
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 연습합니다. 근거를 들어 논리적으로 쓰는 훈련을 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 시험 전략
@@ -99,6 +99,14 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 **Q. 국어 점수가 안 올라요.**
 
 문학, 비문학, 문법 중 어디서 틀리는지 분석하세요. 약점을 집중 보완하면 점수가 오릅니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 꾸준히 3개월 이상 수업하면 확실한 성적 향상을 기대할 수 있습니다.
+
+**Q. 다른 학생과 함께 수업해도 되나요?**
+
+소그룹 수업도 가능합니다. 비슷한 수준의 친구와 함께 하면 비용도 절약하고 경쟁 효과도 있습니다.
 
 ## 마무리
 

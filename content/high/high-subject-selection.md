@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 과목 선택 완벽 전략 | 계열별 과목 조합, 진로 연계 선택, 대학 권장 이수 과목, 학년별 로드맵, 1:1 맞춤 진로 상담 [2025년]"
 tags: ["과목선택", "진로상담", "선택과목", "이수과목", "계열선택", "인문계열", "자연계열", "과목조합", "대입준비", "학생부관리"]
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0697_UTVJbUK9hPg.jpg"
 ---
 
 ## 고2 올라가면서 과목을 선택해야 하는데, 뭘 골라야 할지 너무 막막해요. 문과냐 이과냐부터 정해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 적성을 파악합니다. 희망 학과의 권장 이수 과목을 확인하고 최적의 과목 조합을 추천합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 계열별 과목 선택
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계열별 필수 과목과 권장 과목을 정리해드립니다. 학생의 강점을 고려해 조합을 만듭니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 대학 권장 이수 과목
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-희망 대학의 권장 이수 과목을 확인합니다. 학교 개설 과목과 비교해 현실적인 계획을 세웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과목 선택 시 고려사항
@@ -50,18 +50,18 @@ featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 조합안을 만들고 장단점을 비교합니다. 학생에게 가장 유리한 선택을 함께 결정합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학년별 과목 선택
 
-고1은 공통 과목을 이수하며 진로를 탐색하는 시기입니다. 12월~1월경 고2 과목 선택을 하므로 미리 준비하세요. 고2는 일반선택과 진로선택을 조합해 본격적으로 전공 관련 과목을 이수합니다.
+고1은 공통 과목을 이수하며 진로를 탐색하는 시기입니다. 12월-1월경 고2 과목 선택을 하므로 미리 준비하세요. 고2는 일반선택과 진로선택을 조합해 본격적으로 전공 관련 과목을 이수합니다.
 
 고3은 심화 과목을 중심으로 이수하고 수능 선택과목과 연계합니다. 진로선택 과목은 성취도 평가가 적용되어 상대적으로 부담이 적습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 과목 선택 로드맵을 세웁니다. 매 학기 점검하고 필요하면 조정합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문

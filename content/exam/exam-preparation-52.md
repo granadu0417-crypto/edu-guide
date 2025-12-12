@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0193_WC7KIHo13Fc.jpg"
 ---
 ## 시험 시간 안에 다 못 풀어요. 시간 배분 어떻게 하면 좋을까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시간 관리 전략을 연습합니다. 실전처럼 시간을 재고 문제를 푸는 훈련을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 시간 부족의 원인
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 부족의 원인을 분석합니다. 어디서 시간을 낭비하는지 파악하고 개선합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시간 배분 전략
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 배분 전략을 세웁니다. 과목별 특성에 맞게 시간을 분배하는 연습을 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 어려운 문제 대처법
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문제를 만났을 때 대처법을 연습합니다. 당황하지 않고 전략적으로 접근합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과목별 시간 관리
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 시간 관리 전략을 세웁니다. 특성에 맞게 시간을 배분하는 연습을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 연습 방법
@@ -109,6 +109,30 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 **Q. 시간 배분 연습은 어떻게 하나요?**
 
 모의고사를 실전처럼 풀어보세요. 시간을 재고 중간에 쉬지 마세요.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

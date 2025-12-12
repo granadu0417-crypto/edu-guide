@@ -12,7 +12,7 @@ tags:
 - 국어공부법
 - 비문학
 - 문학
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0482_jCIMcOpFHig.jpg"
 ---
 
 ## 글을 읽어도 무슨 말인지 모르겠다고요? 독해의 기술을 익히면 됩니다.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해력 수준을 진단합니다. 학년과 수준에 맞는 맞춤 훈련을 진행합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 독해의 기본 원리
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해의 기본 원리를 정리합니다. 실제 지문으로 적용 연습을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 학년별 독해 전략
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 전략을 적용합니다. 단계적으로 실력을 향상시킵니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 독해력 향상 습관
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해력 향상 습관을 안내합니다. 꾸준한 훈련을 지원합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 시험 대비
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 원인을 파악하고 보완합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -76,11 +76,35 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 처음에는 정확성을 우선하세요. 익숙해지면 자연스럽게 속도가 붙습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 독해력은 모든 학습의 기초입니다. 학년에 맞는 전략으로 체계적으로 훈련하세요. 꾸준한 연습이 실력 향상으로 이어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 독해력을 키웁니다. 학년별 전략과 실전 연습을 병행합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>

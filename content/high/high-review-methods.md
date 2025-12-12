@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 과학적 복습 전략. 망각곡선 극복부터 간격 반복, 능동적 회상까지. 적은 시간으로 최대 효과를 내는 완벽한 복습 시스템."
 tags: ["고등복습법", "복습전략", "망각곡선", "간격반복", "학습효율", "내신대비", "수능준비", "성적향상"]
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0687_1deQbU6DhBg.jpg"
 ---
 
 ## 분명히 배웠는데 시험 때는 기억이 안 나요. 복습해도 금방 까먹는데 어떻게 해야 제대로 기억이 남나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 맞춤 복습 스케줄을 세웁니다. 과목별 복습법을 가르치고 실천 여부를 점검합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 망각곡선을 이기는 방법
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-간격 반복 스케줄을 함께 만듭니다. 복습 타이밍을 알려주고 지켜지는지 확인합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 능동적 회상의 힘
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-능동적 회상 연습을 함께 합니다. 매 수업 시작 전 지난 내용을 스스로 설명하게 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과목별 복습 전략
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞는 복습법을 알려드립니다. 오답 노트 작성법과 정리 노트 활용법을 지도합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 복습 시간 단축법
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 내용을 선별하는 방법을 가르칩니다. 압축 노트 작성을 도와드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -77,6 +77,42 @@ featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=
 **Q. 여러 번 복습해도 잊어버려요.**
 
 읽기만 하면 효과가 없습니다. 책 덮고 떠올리는 능동적 회상을 해야 기억에 남습니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

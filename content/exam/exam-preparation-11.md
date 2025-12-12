@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0148_HADKIO0EFXQ.jpg"
 ---
 ## 답이 두 개로 좁혀지면 항상 틀린 걸 고르게 돼요. 어떻게 해야 하죠?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-객관식 선지 분석법을 연습합니다. 오답이 왜 오답인지 근거를 찾고, 매력적인 오답에 속지 않는 방법을 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 객관식 문제의 구조 이해하기
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 출제 의도를 파악하는 연습을 합니다. 어떤 개념을 묻는지, 어떤 함정이 있는지 분석합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 오답 제거 기법
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 제거 기법을 실전 문제로 연습합니다. 왜 틀린지 근거를 찾는 훈련을 반복합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 문제 유형별 접근법
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별로 접근법을 다르게 가져갑니다. 유형에 맞는 풀이 전략을 익힙니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시간 부족할 때 전략
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 안배 연습을 함께 합니다. 실제 시험 시간에 맞춰 문제를 풀면서 시간 감각을 익힙니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 답 바꾸기에 대해
@@ -102,6 +102,26 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 **Q. 객관식 실수를 줄이려면요?**
 
 문제를 끝까지 읽고, 부정어에 표시하고, OMR 마킹을 확인하세요. 대부분의 실수는 문제를 덜 읽어서 생깁니다.
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
 
 ## 마무리
 

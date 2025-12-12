@@ -12,7 +12,7 @@ tags:
 - 시분석
 - 소설분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0465_Wh6zKRoLnrE.jpg"
 ---
 
 ## 문학 작품을 어떻게 분석해야 할지 모르겠다고요? 장르별 분석법이 있습니다.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 문학 분석 능력을 진단합니다. 장르별 분석 방법을 체계적으로 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시 분석법
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시 분석의 기본 틀을 훈련합니다. 다양한 작품에 적용하는 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 소설 분석법
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소설의 구조를 분석하는 방법을 훈련합니다. 서술 시점별 특징을 익힙니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 수필과 극문학 분석
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수필과 극문학의 특성을 정리합니다. 장르별 분석 연습을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 문제 풀이 적용
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분석 능력을 문제 풀이에 적용합니다. 유형별 접근법을 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -76,11 +76,35 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 작품 전체를 보고 반복되는 요소를 찾으세요. 부분만 보면 오류가 생깁니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 문학 분석은 체계적인 방법이 필요합니다. 장르별 분석 틀을 익히고 다양한 작품에 적용하세요. 분석력이 생기면 문학 성적이 안정됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 문학 분석력을 키웁니다. 이론과 실전 문제 풀이를 병행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>

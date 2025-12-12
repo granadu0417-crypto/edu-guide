@@ -15,7 +15,7 @@ tags:
 description: 분당 수학학원 추천. 판교·정자·서현 지역, 최상위권 전문, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1
   맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한
   선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0724_VDow9qDDMKc.jpg"
 reading_time: 300줄
 ---
 
@@ -25,7 +25,7 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 지역 학교 내신 경향을 파악하고 있습니다. 학교별 맞춤 수업이 가능합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 분당 수학학원의 특징은 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 부족한 부분은 과외로 보충할 수 있습니다. 약점 과목만 집중 케어합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 지역별로 학원 특징이 다른가요?
@@ -51,20 +51,20 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 지역 학교 시험 일정에 맞춰 수업 계획을 세웁니다. 내신 대비도 함께 진행합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 대치동과 비교하면 어떤가요?
 
 수준은 비슷합니다. 최상위권 학원 기준으로 대치동과 분당의 차이는 크지 않습니다.
 
-비용은 분당이 약간 저렴합니다. 대치동보다 10~20% 정도 저렴한 경우가 많습니다.
+비용은 분당이 약간 저렴합니다. 대치동보다 10-20% 정도 저렴한 경우가 많습니다.
 
 접근성으로 결정하세요. 분당에 사는데 대치동까지 갈 필요는 없습니다. 이동 시간만 낭비됩니다. 분당에서 충분히 좋은 학원을 찾을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 거주 학생은 분당 학원을 추천합니다. 이동 시간을 공부에 쓰는 게 더 효율적입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ reading_time: 300줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분당 지역 학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,6 +105,14 @@ reading_time: 300줄
 **Q. 경시대회는 분당이 강한가요?**
 
 강합니다. 분당은 경시대회 준비하는 학생이 많아서 경시반이 잘 되어 있습니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
 
 ## 마무리
 

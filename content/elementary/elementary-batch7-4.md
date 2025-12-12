@@ -11,7 +11,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"
 ---
 ## 왜 그런지 모르겠는데 틀렸어요, 이 말을 자주 듣나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 이 답이 나왔는지 설명하게 합니다. 답만 맞추는 게 아니라, 풀이 과정을 말로 설명할 수 있어야 진짜 이해입니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문제는 바로 답을 알려주지 않습니다. 힌트를 주고 스스로 생각하게 합니다. 끈기를 기르는 훈련입니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 문제는 그림으로 그려봅니다. 사과가 3개 있고, 2개를 더 받으면이라는 말을 그림으로 표현하면 이해가 빨라집니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 고학년의 특징과 대응
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4학년은 아직 부모님 말을 잘 듣는 시기입니다. 이때 학습 습관을 확실히 잡아두면 사춘기에도 흔들리지 않습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 가정에서의 역할
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 만들어봅니다. 틀린 문제를 모아두고, 왜 틀렸는지 분석하면 같은 실수를 반복하지 않습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 주의사항
@@ -102,6 +102,30 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 갑자기 늘리지 마세요. 3학년 때 1시간 했다면 4학년은 1시간 30분부터 시작해서 점차 늘립니다.
 
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
 ## 마무리
 
-4학년은 사고력이 급성장하는 시기입니다. 단순 암기가 아닌 생각하는 힘을 길러주세요. 왜 그런지 설명할 수 있다면 진짜 이해한 것입니다. 지금 사고력을 잡아두면 5~6학년이 훨씬 수월해집니다.
+4학년은 사고력이 급성장하는 시기입니다. 단순 암기가 아닌 생각하는 힘을 길러주세요. 왜 그런지 설명할 수 있다면 진짜 이해한 것입니다. 지금 사고력을 잡아두면 5-6학년이 훨씬 수월해집니다.

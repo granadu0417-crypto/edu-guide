@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0619_VdPTlyp60ys.jpg"
 ---
 ## 내신이랑 수능이랑 둘 다 챙기려니 시간이 부족해요
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간과 비내신 기간을 나눠서 계획을 세웁니다. 시기에 따라 집중할 대상을 바꿉니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 내신과 수능 병행 전략
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 전형에 맞춰 내신과 수능 비중을 조절합니다. 수시 위주면 내신을, 정시 위주면 수능을 더 챙깁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 내신 기간 학습법
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간에는 내신 과목만 집중 수업합니다. 학교별 출제 경향에 맞춰 준비합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 비내신 기간 학습법
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비내신 기간에는 수능 기출 분석을 합니다. 어떤 유형이 나오는지, 어떻게 풀어야 하는지 익힙니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과목별 병행 전략
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 공부하면서 수능에도 도움 되는 방식으로 가르칩니다. 시간을 두 배로 효율적으로 씁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 주의사항
@@ -100,6 +100,38 @@ featured_image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=120
 **Q. 내신은 좋은데 모의고사는 나빠요.**
 
 수능 문제에 익숙해져야 합니다. 비내신 기간에 기출문제를 많이 풀어보세요.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

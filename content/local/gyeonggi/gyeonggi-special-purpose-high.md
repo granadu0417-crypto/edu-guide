@@ -9,7 +9,7 @@ regions:
 cities:
   - 경기도
 tags: ["경기특목고", "특목고입시", "외고입시", "과학고입시", "경기교육"]
-featured_image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0240_P7f93IxPOfM.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특목고 입시를 목표로 하는 학생들에게 내신 관리와 면접/자기소개서 준비를 체계적으로 지도합니다. 합격 사례를 바탕으로 맞춤 전략을 설계해드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ### 경기도 주요 특목고
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 학교의 입시 전형을 철저히 분석하여 맞춤 준비를 도와드립니다. 내신 관리부터 면접/자기소개서 준비까지 단계별로 지도합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ### 준비 시기
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 학교에 맞춰 핵심 과목을 집중 관리합니다. 기출 문제 분석과 시험 대비를 철저히 하여 내신 성적을 끌어올립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ### 비교과 활동
@@ -76,7 +76,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예상 질문을 바탕으로 모의 면접을 반복 실시합니다. 자기소개서 작성부터 면접 답변까지 전문가의 피드백으로 완성도를 높입니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ### 자기소개서 작성 팁
@@ -87,11 +87,11 @@ sitemap:
 
 **Q. 준비 시기는 언제가 좋을까요?**
 
-중1부터 내신 관리를 시작하고, 중2~3 때 면접과 자기소개서 준비에 집중하세요. 과학고는 더 일찍 준비를 시작해야 합니다.
+중1부터 내신 관리를 시작하고, 중2-3 때 면접과 자기소개서 준비에 집중하세요. 과학고는 더 일찍 준비를 시작해야 합니다.
 
 **Q. 내신은 어느 정도 필요한가요?**
 
-학교마다 다르지만 일반적으로 상위 5~10% 이내가 필요합니다. 핵심 과목은 최상위를 유지해야 합니다.
+학교마다 다르지만 일반적으로 상위 5-10% 이내가 필요합니다. 핵심 과목은 최상위를 유지해야 합니다.
 
 **Q. 불합격하면 어떻게 하나요?**
 

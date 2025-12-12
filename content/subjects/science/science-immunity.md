@@ -10,7 +10,7 @@ tags:
 - 면역
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0608_SS-r7BvCqTY.jpg"
 ---
 
 ## 면역 반응 과정이 복잡하고 세포 종류가 헷갈린다고요? 비특이적 면역과 특이적 면역을 구분하면 됩니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1차 방어선과 2차 방어선을 먼저 구분합니다. 비특이적 면역의 특징을 이해합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 비특이적 면역
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-염증 반응의 단계를 정리합니다. 식세포의 작용을 그림으로 이해합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 특이적 면역
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-항원-항체 반응을 이해합니다. T세포와 B세포의 역할을 비교합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 면역과 질병
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-백신의 원리를 설명합니다. 면역 관련 질환의 특징을 정리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 면역 반응 그래프 해석을 집중 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ T세포는 세포성 면역(직접 공격), B세포는 체액성 면역(항체 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 면역을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>

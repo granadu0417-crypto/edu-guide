@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 ---
 
 ## 수학 과외를 오래 했는데 여전히 개념이 부족해요. 개념부터 다시 잡으려면 어떻게 해야 하나요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명을 학생이 직접 해보게 합니다. 말로 설명할 수 있어야 진짜 아는 겁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 개념이 중요한 이유는 뭔가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 전에 개념을 먼저 설명합니다. 왜 이 공식을 쓰는지, 어디서 나온 건지 이해시킵니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 개념을 어떻게 잡아야 하나요?
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식 암기가 아니라 유도 과정을 함께 해봅니다. 왜 그렇게 되는지 이해하면 응용이 됩니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 개념부터 심화까지 어떻게 가나요?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞춰 단계별로 진행합니다. 기초가 안 되어 있으면 기초부터 다시 잡습니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 개념 공부에 대해 더 궁금한 점이 있으시면 문의하세요. 맞춤 커리큘럼을 설계해 드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 마무리

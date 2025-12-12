@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 중간고사
-featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 ---
 ## 중간고사가 첫 시험이라 감이 안 잡혀요. 어떻게 준비해야 하나요?
 
@@ -19,12 +19,12 @@ featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사 대비 전략을 안내합니다. 시험 범위를 파악하고 효율적인 공부 계획을 세워드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 중간고사의 특징
 
-중간고사는 학기 초부터 시험 직전까지 배운 내용이 범위입니다. 보통 4~6주 정도의 분량입니다. 기말고사보다 범위가 좁아 집중적으로 준비하기 좋습니다.
+중간고사는 학기 초부터 시험 직전까지 배운 내용이 범위입니다. 보통 4-6주 정도의 분량입니다. 기말고사보다 범위가 좁아 집중적으로 준비하기 좋습니다.
 
 학기 첫 시험이라는 점이 중요합니다. 중간고사 성적이 좋으면 기말고사에 부담이 줄어듭니다. 반대로 중간고사를 망치면 기말고사에서 만회해야 합니다.
 
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사의 의미와 중요성을 설명합니다. 학기 전체 성적 관리 관점에서 접근합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시험 범위 파악하기
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위와 출제 형식을 꼼꼼히 확인합니다. 애매한 부분은 먼저 파악하고 대비합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 2주 전 대비 계획
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2주 계획을 함께 세웁니다. 첫째 주 개념 완성, 둘째 주 문제 풀이로 체계적으로 대비합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 과목별 중간고사 전략
@@ -73,14 +73,14 @@ featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 대비 전략을 안내합니다. 각 과목의 핵심을 짚어 효율적으로 준비합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 전날과 당일
 
 시험 전날에는 새로운 내용을 공부하지 마세요. 이미 공부한 내용을 훑어보면서 정리합니다. 요약 노트와 오답 노트를 확인합니다.
 
-일찍 자서 컨디션을 만드세요. 밤새 공부하면 시험 당일 집중력이 떨어집니다. 최소 6~7시간은 자야 합니다.
+일찍 자서 컨디션을 만드세요. 밤새 공부하면 시험 당일 집중력이 떨어집니다. 최소 6-7시간은 자야 합니다.
 
 시험 당일에는 긴장을 풀고 차분하게 문제를 푸세요. 쉬운 문제부터 풀고, 어려운 문제는 나중에 다시 봅니다.
 
@@ -103,6 +103,14 @@ featured_image: "https://images.unsplash.com/photo-1551434678-e076c223a692?w=120
 **Q. 중간고사 망하면 어떡해요?**
 
 기말고사에서 만회할 수 있습니다. 중간고사를 통해 선생님 출제 스타일을 파악했으니 기말고사는 더 잘 준비할 수 있습니다.
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
 
 ## 마무리
 

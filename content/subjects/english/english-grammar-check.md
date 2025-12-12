@@ -13,7 +13,7 @@ tags:
 - grammar
 - 오류
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 ---
 
 ## 영어 글을 쓰면 매번 같은 실수를 반복한다고요? 뭐가 틀렸는지 모르겠다는 피드백을 받으시죠.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 반복 오류 패턴을 분석합니다. 가장 자주 틀리는 부분부터 집중 교정합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 흔한 문법 오류
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 오류 유형을 체계적으로 정리합니다. 각 유형별 규칙을 명확히 알려드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 문장 구조 오류
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 구조의 기본을 확실히 잡습니다. 한국어와 다른 영어의 특성을 이해하도록 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 교정 방법
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자가 교정 방법을 알려드립니다. 스스로 오류를 찾고 고칠 수 있도록 훈련합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 예방 전략
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 습관을 형성하도록 지도합니다. 실수를 줄이는 작문 습관을 익힙니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,11 +77,35 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 완벽을 추구하되 집착하지 마세요. 의미를 바꾸는 큰 오류만 없으면 됩니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 영어 문법 교정은 꾸준한 연습으로 반드시 향상됩니다. 자주 틀리는 부분을 파악하고 집중 연습하세요. 완벽을 추구하되 실수를 두려워하지 마세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 첨삭으로 정확한 영어 글쓰기를 배웁니다. 반복 오류를 분석하고 맞춤 교정을 제공합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

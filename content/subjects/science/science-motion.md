@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0617_9wnPGjaUk94.jpg"
 ---
 
 ## 속도와 가속도가 헷갈리고 등가속도 공식 적용이 어렵다고요? 변위부터 차근차근 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-변위와 이동 거리의 차이부터 명확히 합니다. 속도와 속력을 구분하여 이해합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 속도와 가속도
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-속도와 가속도의 정의를 정확히 이해합니다. 스칼라와 벡터의 차이를 구분합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 등가속도 운동 공식
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 공식의 유도 과정을 이해합니다. 어떤 상황에 어떤 공식을 쓸지 판단합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 운동 그래프
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프에서 물리량을 읽는 방법을 훈련합니다. 다양한 운동의 그래프를 분석합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 유형별로 분석합니다. 조건에 따른 공식 선택을 연습합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,11 +81,43 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 다릅니다. 음의 가속도는 방향을 나타내고, 감속은 속력이 줄어드는 것입니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
 ## 마무리
 
 운동학은 변위, 속도, 가속도의 관계와 그래프 해석이 핵심입니다. 공식을 정확히 이해하고 적용하세요. 다양한 문제 풀이로 실력을 다지면 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 운동학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>

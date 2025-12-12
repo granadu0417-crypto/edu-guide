@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0963_6W_SNsrKIZE.jpg"
 ---
 
 ## 사회는 그냥 외우면 되는 거 아닌가요? 과외까지 필요한가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 과외에서는 무작정 외우지 않습니다. 왜 그런 일이 일어났는지, 어떤 맥락인지 먼저 이해시킵니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 사회 과외가 왜 필요한가요?
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 암기가 아니라 스토리텔링으로 가르칩니다. 역사의 흐름, 지리의 원리, 사회 현상의 배경을 설명합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 사회 과외는 어떻게 진행되나요?
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 정리 → 흐름 이해 → 문제 풀이 → 오답 분석 순서로 진행합니다. 막힘없이 연결됩니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 사회 과외에서 가장 중요한 건 뭔가요?
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 연표와 비교표를 함께 만듭니다. 학생이 직접 정리하면서 기억에 남깁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -82,7 +82,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 효율적인 암기와 이해 전략을 안내합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 마무리

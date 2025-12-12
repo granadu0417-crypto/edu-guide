@@ -10,7 +10,7 @@ tags:
 - 호르몬
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0607_rgHoMdcYmYQ.jpg"
 ---
 
 ## 호르몬 종류가 많아서 헷갈리고 피드백 조절이 어렵다고요? 분비 기관별로 정리하면 됩니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신경계와 호르몬의 차이부터 비교합니다. 호르몬의 특성을 이해합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 주요 호르몬
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분비 기관별로 호르몬을 정리합니다. 각 호르몬의 기능을 표로 만듭니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 피드백 조절
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피드백 조절을 그림으로 이해합니다. 티록신 분비 조절을 예시로 학습합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 혈당 조절
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-혈당 조절 과정을 단계별로 정리합니다. 인슐린과 글루카곤의 작용을 비교합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 호르몬 그래프 해석을 집중 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,51 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 인슐린은 혈당을 낮추고(식후), 글루카곤은 혈당을 높입니다(공복 시).
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
 ## 마무리
 
 호르몬은 분비 기관과 기능의 연결이 핵심입니다. 피드백 조절 원리를 이해하세요. 혈당 조절 과정을 완벽히 익히면 호르몬 단원이 완성됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 호르몬을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

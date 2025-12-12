@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 내신과 수능 균형 전략. 수시·정시 목표별 시간 배분, 학원과 1:1 과외 활용, 효율적 학습 방법을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0824_auzqb3op9WQ.jpg"
 reading_time: 160줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 내신과 모의고사 성적을 분석합니다. 수시와 정시 중 유리한 방향을 함께 찾아드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 내신이랑 수능은 뭐가 다른가요?
@@ -33,16 +33,16 @@ reading_time: 160줄
 
 수능은 전국 통일 시험입니다. 고등학교 전 과정이 범위고, 난이도가 높습니다. 연 1회 11월에 봅니다. 정시 입시에 사용됩니다.
 
-핵심 차이는 준비 기간입니다. 내신은 시험 2~4주 전에 집중하면 됩니다. 수능은 3년 동안 장기적으로 준비해야 합니다.
+핵심 차이는 준비 기간입니다. 내신은 시험 2-4주 전에 집중하면 됩니다. 수능은 3년 동안 장기적으로 준비해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험 기간에는 내신 중심으로, 평소에는 수능 중심으로 수업을 조절합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 수시랑 정시 중에 뭘 목표로 해야 하나요?
 
-내신이 좋으면 수시가 유리합니다. 내신 1~2등급이고 학종 준비가 되어 있다면 수시 집중이 좋습니다. 내신에 70%, 수능에 30% 정도 배분하세요. 수능은 최저 충족 수준만 준비하면 됩니다.
+내신이 좋으면 수시가 유리합니다. 내신 1-2등급이고 학종 준비가 되어 있다면 수시 집중이 좋습니다. 내신에 70%, 수능에 30% 정도 배분하세요. 수능은 최저 충족 수준만 준비하면 됩니다.
 
 내신이 불리하고 수능에 자신 있으면 정시가 유리합니다. 내신에 30%, 수능에 70% 배분하세요. 내신은 최소한만 챙기고 수능에 올인합니다.
 
@@ -50,7 +50,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신과 모의고사 성적을 보고 유리한 전형을 함께 분석해 드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 학년별로 비중을 어떻게 잡아야 하나요?
@@ -77,7 +77,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험 기간에는 학교 범위에 맞춰 집중 수업합니다. 시험 끝나면 수능 모드로 전환합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 과목별로 내신이랑 수능이 연계되나요?
@@ -92,7 +92,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞게 내신과 수능 비중을 조절합니다. 연계가 높은 과목은 효율적으로 병행합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문

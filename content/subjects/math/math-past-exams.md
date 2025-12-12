@@ -15,7 +15,7 @@ tags:
 - 문제풀이
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0548_t4B_JcUofvY.jpg"
 ---
 
 ## 기출문제가 중요하다는데 어떻게 활용해야 할지 모르겠다고요? 그냥 많이 풀면 되는 건지 분석을 해야 하는 건지 헷갈리시죠.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 체계적으로 분석합니다. 출제 경향을 파악하고 효율적인 학습 계획을 세웁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 기출문제 수집과 분류
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제 수집과 분류 방법을 알려줍니다. 체계적인 기출 관리 시스템을 구축합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 분석 방법
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석 방법을 체계적으로 가르칩니다. 출제자의 의도를 파악하도록 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 단계별 학습법
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 기출 학습법을 안내합니다. 난이도를 점진적으로 높여갑니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 오답노트 작성
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 오답노트 작성법을 가르칩니다. 같은 실수를 반복하지 않도록 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -79,12 +79,52 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 그대로는 안 나오지만 유사한 유형과 같은 개념이 자주 출제됩니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
 ## 마무리
 
 기출문제 분석은 수학 성적 향상의 지름길입니다. 체계적으로 분석하고 반복하면 출제 경향을 파악하고 실전에서 좋은 결과를 얻을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 분석을 개인별로 맞춤 지도합니다. 효율적인 학습으로 성적 향상을 이끕니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 

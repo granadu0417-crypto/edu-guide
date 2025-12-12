@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0967_UN4PadDppAU.jpg"
 ---
 ## 역사 연대와 인물, 다 외워야 하나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단편적인 암기가 아닌 흐름 중심으로 가르칩니다. 인과관계를 이해하면 기억이 오래갑니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 역사 공부법
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 연표를 함께 정리합니다. 사건 간의 인과관계를 명확히 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 지리 공부법
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지도를 활용해서 수업합니다. 지역의 특성을 연결해서 이해하게 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 일반사회 공부법
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실생활 예시와 연결해서 설명합니다. 어려운 개념도 쉽게 이해하도록 돕습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자료 해석 능력
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 자료를 함께 분석합니다. 자료 해석 능력을 키워 시험에 대비합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 내신 사회 시험 대비
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위의 핵심 개념을 정리합니다. 서술형 문제 대비를 철저히 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,22 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 **Q. 사회 서술형이 어려워요.**
 
 핵심 용어를 정확히 사용하세요. 문제에서 요구하는 것을 정확히 파악하고 답하세요.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

@@ -16,7 +16,7 @@ tags:
 - 그룹학습
 - 학습환경
 - 노원
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0792_pwcKF7L4-no.jpg"
 ---
 
 ## 학원을 보내야 할까요, 과외를 시켜야 할까요?
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 성향과 현재 실력을 파악합니다. 학원형인지 과외형인지 판단해서 맞는 방식을 추천해 드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 학원의 장점은 무엇인가요?
@@ -38,7 +38,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원처럼 체계적인 커리큘럼을 따르면서도, 1대1로 학생 속도에 맞춰 진행합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학원의 단점은 무엇인가요?
@@ -61,12 +61,12 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점을 정확히 파악해서 그 부분만 집중 보완합니다. 불필요한 시간 낭비 없이 효율적으로 진행합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 과외의 단점은 무엇인가요?
 
-비용이 높습니다. 학원 대비 2~3배 정도 들 수 있어서 장기적으로 부담이 됩니다.
+비용이 높습니다. 학원 대비 2-3배 정도 들 수 있어서 장기적으로 부담이 됩니다.
 
 선생님 검증이 어렵습니다. 실력과 경력을 확인하는 데 시간이 걸리고, 신뢰성 검증도 필요합니다.
 
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중간중간 목표를 세우고 달성 여부를 확인합니다. 동기부여가 떨어지지 않도록 관리합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 어떤 학생이 학원에 맞나요?
@@ -91,7 +91,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 직전에는 시험 범위 위주로 집중 학습합니다. 빈출 유형과 약점 단원을 우선 공략합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과목별로 다르게 선택할 수 있나요?
@@ -118,11 +118,11 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 **Q. 비용 차이가 얼마나 나요?**
 
-과외가 학원보다 2~3배 정도 비쌉니다. 하지만 효과 대비로 보면 과외가 더 효율적일 수 있습니다. 예산에 맞게 선택하세요.
+과외가 학원보다 2-3배 정도 비쌉니다. 하지만 효과 대비로 보면 과외가 더 효율적일 수 있습니다. 예산에 맞게 선택하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 학습 방법을 상담해 드립니다. 학원과 과외 중 뭐가 맞는지 함께 판단해 드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 마무리

@@ -14,7 +14,7 @@ tags:
 - 이차방정식
 - 인수분해
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0505_ymVaGKsBQXM.jpg"
 ---
 
 ## 방정식만 나오면 머리가 하얘진다고요? 인수분해가 안 되거나 함수 그래프가 도무지 이해가 안 되시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대수의 어느 부분에서 막히는지 정확히 진단합니다. 구멍 난 개념부터 메워 탄탄한 기초를 만듭니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 방정식의 핵심
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방정식 유형별 풀이법을 체계적으로 훈련합니다. 어떤 방법을 써야 할지 판단하는 눈을 기릅니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 부등식 정복하기
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부등식 풀이의 핵심 원리를 정확히 이해시킵니다. 그래프와 연결하여 직관적으로 파악하도록 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 함수의 이해
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수의 개념과 그래프를 연결하여 설명합니다. 직접 그래프를 그려보며 이해를 확실히 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 인수분해 마스터
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인수분해 공식을 완벽히 익히도록 반복 훈련합니다. 빠르고 정확하게 분해하는 실력을 키웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문

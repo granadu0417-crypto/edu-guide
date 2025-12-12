@@ -13,7 +13,7 @@ tags:
 - 멘탈
 - 긴장
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0372_5fNmWej4tAA.jpg"
 ---
 
 ## 평소엔 잘 푸는데 시험만 보면 머리가 하얘진다고요? 긴장해서 아는 것도 틀리시죠.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 시험 불안 원인을 파악합니다. 개인별 맞춤 멘탈 관리법을 제시하고 실전 훈련을 병행합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 불안의 원인
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-불안 원인을 함께 분석합니다. 원인별로 맞춤 해결 전략을 세웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 긴장 극복법
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-호흡법과 이완 기법을 직접 연습합니다. 모의고사 전에 적용해서 효과를 확인합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 시험 중 대처법
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 중 상황별 대처법을 훈련합니다. 모의고사로 실전 연습을 반복합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 컨디션 관리
@@ -60,7 +60,7 @@ D-7부터 규칙적인 수면이 중요합니다. 8시간 자고 일찍 일어�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전 컨디션 관리법을 안내합니다. 수면, 식사, 운동 등 생활 전반을 점검합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,11 +77,47 @@ D-7부터 규칙적인 수면이 중요합니다. 8시간 자고 일찍 일어�
 
 즉시 리셋하세요. 다음 문제가 중요하다고 생각하고 심호흡 후 집중합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
 ## 마무리
 
 시험 심리는 이해하고 훈련하면 극복할 수 있습니다. 호흡법과 긍정적 자기암시, 충분한 준비로 자신감을 가지세요. 적당한 긴장은 당신의 집중력을 높여줍니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 멘탈 수업으로 시험 불안을 극복합니다. 실전 훈련과 심리 코칭을 병행합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>

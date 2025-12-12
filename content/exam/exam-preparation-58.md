@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0199_i5nMmbr8JYg.jpg"
 ---
 ## 과학 공식이랑 실험을 같이 공부해야 하는데 어떻게 정리해야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념과 실험을 연결해서 정리합니다. 공식이 왜 나왔는지, 실험이 무엇을 증명하는지 함께 배웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 개념 이해가 먼저
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념의 원리를 이해하도록 합니다. 암기하기 전에 왜 그런지 먼저 설명합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 공식 활용법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식 유도 과정을 함께 확인합니다. 공식의 의미를 알면 외우기도 적용하기도 쉬워집니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 실험 정리 방법
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험을 목적-과정-결과-결론 순서로 정리합니다. 왜 그런 결과가 나오는지 이해하도록 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 그래프와 도표 해석
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프와 도표 해석 연습을 합니다. 자료를 보고 의미를 파악하는 훈련을 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 계산 문제 대비
@@ -101,6 +101,14 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 **Q. 과학이 재미없어서 집중이 안 돼요.**
 
 일상생활과 연결해서 생각해보세요. 우리 주변에서 과학 원리가 어떻게 적용되는지 찾아보면 흥미로워집니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

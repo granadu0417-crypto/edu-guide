@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 사회 완벽 학습 전략 | 1:1 맞춤 지도, 역사·지리·일반사회 [2025년]"
 tags: ["중학생", "사회", "역사", "지리", "일반사회", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0985_kGZjnKp7KLQ.jpg"
 ---
 
 ## 사회 과목이 외울 게 너무 많아요. 역사, 지리, 일반사회 다 어떻게 공부해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-역사, 지리, 일반사회 각 영역의 약점을 진단합니다. 학생의 이해 수준에 맞춰 영역별 맞춤 전략을 세웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 사회는 왜 통합적으로 공부해야 하나요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 영역을 연결해서 설명합니다. 역사 사건의 지리적 배경, 일반사회 개념의 역사적 발전 과정을 함께 다룹니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 역사는 어떻게 공부하나요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연표를 함께 만들며 시대 흐름을 잡습니다. 사건의 배경과 결과를 연결해 이해하도록 지도합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 지리는 어떻게 공부하나요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-백지도 연습을 함께 합니다. 지형과 기후가 생활에 미치는 영향을 원리로 설명합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 일반사회는 어떻게 공부하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추상적 개념을 실생활 사례로 설명합니다. 시사 뉴스와 교과서 내용을 연결하는 연습을 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문

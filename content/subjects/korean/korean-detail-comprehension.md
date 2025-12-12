@@ -11,7 +11,7 @@ tags:
 - 사실관계
 - 정보파악
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0445_5bYxXawHOQg.jpg"
 ---
 
 ## 지문 읽어도 세부 내용이 기억 안 난다고요? 정보를 구조화해서 파악하면 됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 패턴을 분석합니다. 핵심 정보 파악과 표시 방법을 체계적으로 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 정보 파악 전략
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정보 표시 방법을 훈련합니다. 효율적인 메모와 정리 방법을 연습합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 선지 대조법
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선지와 지문 대조 훈련을 합니다. 오답 함정을 피하는 방법을 익힙니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 틀리는 유형
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 분석합니다. 오답 패턴을 파악하고 실수를 줄이는 훈련을 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 시간 관리
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간을 재며 실전 연습을 합니다. 효율적인 풀이 순서를 찾습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,51 @@ featured_image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=120
 
 외우려 하지 말고 위치를 파악하세요. 필요할 때 빠르게 찾을 수 있으면 됩니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 세부 내용 이해는 정확한 정보 파악이 핵심입니다. 지문을 읽으며 핵심을 표시하고 선지와 꼼꼼히 대조하세요. 꾸준한 연습으로 정확도와 속도를 함께 높일 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 세부 내용 이해력을 키웁니다. 정확하고 빠른 정보 파악 훈련을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

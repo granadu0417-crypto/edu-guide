@@ -9,7 +9,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0140__PXtCCQ4Dj0.jpg"
 ---
 ## 혼자 공부하라고 하면 책상 앞에서 멍만 때리나요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 학년과 수준에 맞는 자기주도학습 방법을 알려줍니다. 처음부터 혼자 하라고 두지 않고, 단계적으로 독립성을 키워갑니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자기주도학습의 4단계
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작할 때 지난 시간 내용을 스스로 설명하게 합니다. 설명할 수 있어야 진짜 이해한 것입니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학년별 자기주도학습 실천 방법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 수준으로 접근합니다. 저학년은 함께 계획 세우고 옆에서 도와주고, 고학년은 스스로 하게 두고 결과만 확인합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 부모의 역할 변화
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 질책하지 않습니다. 왜 틀렸는지 함께 분석하고, 다음에 어떻게 하면 좋을지 이야기합니다. 실수는 배움의 기회입니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 하는 질문과 대응

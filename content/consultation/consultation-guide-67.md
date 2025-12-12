@@ -11,7 +11,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0091_jugJ0wmZ7wk.jpg"
 ---
 
 ## 왜 공부해야 하는지 모르겠어요. 해야 한다는 건 아는데, 하고 싶지가 않아요.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 상담에서는 학생이 왜 공부에 흥미가 없는지 원인을 찾습니다. 목표가 없어서인지, 자신감이 없어서인지, 방향을 몰라서인지 파악합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학습 동기 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부할 이유를 모르겠다면 진로 상담을 받으세요. 나만의 동기를 찾아드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 심리 상담은 무기력함이 심할 때 도움이 됩니다. 학습 상담은 동기는 있는데 방법을 모를 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 학생 개인에게 맞는 동기 부여 방법을 안내합니다. 외적 동기와 내적 동기를 함께 설계해드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 동기는 어떻게 만드나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 상황에 맞는 동기 부여 전략을 설계합니다. 지속 가능한 동기를 만들어드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 동기에 대해 더 궁금한 점이 있으시면 문의하세요. 공부할 이유를 찾아드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 마무리

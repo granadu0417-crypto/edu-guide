@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"
 ---
 
 ## 초등학생한테 과외가 필요한가요? 아직 어린데 너무 이른 건 아닌가요?
@@ -20,25 +20,25 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생 눈높이에 맞춰 재미있게 수업합니다. 억지로 공부시키지 않고 흥미를 유도합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 초등학교 때 과외가 필요한 경우가 있나요?
 
 기초가 안 잡힐 때 필요합니다. 초등학교 수학, 영어는 중학교 기초입니다. 지금 구멍이 나면 나중에 메우기 어렵습니다. 기초가 흔들리면 빨리 잡아야 합니다.
 
-학교 수업을 못 따라갈 때 필요합니다. 선생님 한 분이 20~30명을 가르칩니다. 개별 케어가 어렵습니다. 뒤처지는 아이는 과외로 보충해야 합니다.
+학교 수업을 못 따라갈 때 필요합니다. 선생님 한 분이 20-30명을 가르칩니다. 개별 케어가 어렵습니다. 뒤처지는 아이는 과외로 보충해야 합니다.
 
 특별한 목표가 있을 때 필요합니다. 영재교육원, 특목중 준비는 학교 수업만으로 부족합니다. 심화 학습이 필요하면 과외가 도움됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상황을 먼저 파악합니다. 기초 보충이 필요한지, 심화가 필요한지 진단 후 수업 방향을 정합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 초등학생 과외는 어떻게 다르게 해야 하나요?
 
-짧게 집중합니다. 초등학생 집중력은 30~40분이 한계입니다. 1시간 내내 앉아 있게 하면 안 됩니다. 중간중간 쉬면서 해야 합니다.
+짧게 집중합니다. 초등학생 집중력은 30-40분이 한계입니다. 1시간 내내 앉아 있게 하면 안 됩니다. 중간중간 쉬면서 해야 합니다.
 
 재미 요소를 넣습니다. 딱딱하게 공부만 하면 싫어합니다. 게임 형식, 보상, 칭찬을 활용합니다. 공부가 싫어지지 않게 해야 합니다.
 
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생은 칭찬을 많이 합니다. 작은 성취도 인정해주면서 자신감을 키워줍니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 초등학생 과외에서 주의할 점은 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 매번 피드백을 드립니다. 아이 상태와 반응을 공유하면서 조절합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-주 1~2회면 충분합니다. 초등학생은 많이 하는 것보다 꾸준히 하는 게 중요합니다. 부담 없이 오래 할 수 있는 양이 좋습니다.
+주 1-2회면 충분합니다. 초등학생은 많이 하는 것보다 꾸준히 하는 게 중요합니다. 부담 없이 오래 할 수 있는 양이 좋습니다.
 
 **Q. 어떤 과목을 먼저 해야 하나요?**
 
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 아이 상황에 맞는 학습 방향을 안내해 드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 마무리

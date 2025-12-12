@@ -14,7 +14,7 @@ tags:
 - 그룹학습
 description: 특목고 입시 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 검증된 학원 정보와 1:1 과외 병행 전략을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0780_SwCMZwrhQm8.jpg"
 reading_time: 160줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 실력을 먼저 파악합니다. 과학고형인지 외고형인지, 어떤 특목고가 맞는지 함께 분석합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 특목고는 어떤 종류가 있나요?
@@ -37,20 +37,20 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 학교에 맞춰 커리큘럼을 구성합니다. 과학고는 수학·과학 심화, 외고는 영어와 면접 중심으로 준비합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 언제부터 준비해야 하나요?
 
 빠르면 초등학교 때부터 시작합니다. 수학 선행과 과학 심화를 미리 해두면 유리합니다. 경시대회나 영재교육원 경험도 도움이 됩니다.
 
-중학교 1학년부터 본격 준비합니다. 내신 관리와 함께 심화 학습을 병행합니다. 2학년 2학기~3학년 1학기에 지원하므로 그 전에 실력을 완성해야 합니다.
+중학교 1학년부터 본격 준비합니다. 내신 관리와 함께 심화 학습을 병행합니다. 2학년 2학기-3학년 1학기에 지원하므로 그 전에 실력을 완성해야 합니다.
 
 늦어도 중2 초에는 시작하세요. 남은 시간이 1년 반 정도입니다. 집중적으로 준비해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황에 맞춰 로드맵을 짭니다. 남은 기간과 실력에 따라 현실적인 목표를 설정합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 특목고 학원은 어떤 걸 가르치나요?
@@ -73,7 +73,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 놓친 부분을 과외에서 잡습니다. 자소서와 면접은 개인 맞춤으로 집중 준비합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 과외를 병행하면 어떤 효과가 있나요?
@@ -86,7 +86,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특목고 합격에 필요한 것을 집중 준비합니다. 심화 학습, 자소서, 면접을 종합적으로 대비합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -10,7 +10,7 @@ tags:
 - 통합과학
 - 융합과학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0586_pMnw5BSZYsA.jpg"
 ---
 
 ## 과학 과목들이 따로따로 노는 것 같고 연결이 안 된다고요? 통합적 시각을 기르면 됩니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 알고 있는 개념을 먼저 파악합니다. 분야 간 연결고리를 찾아 통합적으로 이해하도록 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 분야 간 연결
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마인드맵으로 개념 연결망을 그립니다. 공통 주제를 중심으로 분야별 내용을 연결합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 주제별 통합
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주제를 중심으로 여러 분야 개념을 연결합니다. 비교표와 도식으로 정리합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 융합 문제 해결
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-융합 문제 풀이 전략을 훈련합니다. 단계별 접근 방법을 익힙니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 융합 문제를 분석합니다. 연결 사고력을 집중 훈련합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,35 @@ featured_image: "https://images.unsplash.com/photo-1543269865-0a740d43b90c?w=120
 
 연결하면 오히려 암기량이 줄어듭니다. 이해가 깊어지면 기억도 오래 갑니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 개념 연결은 과학 학습의 핵심입니다. 분야 간 연결고리를 파악하면 융합 문제가 쉬워집니다. 통합적 시각으로 과학 전체를 조망하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 개념 연결 능력을 키웁니다. 통합적 사고력을 체계적으로 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>

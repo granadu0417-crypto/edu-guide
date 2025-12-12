@@ -11,7 +11,7 @@ tags:
 - 5등급
 - 중등과외
 - 등급올리기
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0387_4Ba20U1MA1I.jpg"
 ---
 ## 기초가 없어서 뭘 해도 안 된다고요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-먼저 어디서부터 막혔는지 정확히 진단합니다. 중1 내용이 부족하면 중1부터 다시 시작합니다. 자존심보다 실력이 중요합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 기초가 부족한 이유
@@ -30,18 +30,18 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 기초가 부족해졌는지 함께 파악합니다. 원인을 알아야 같은 실수를 반복하지 않습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 기초 과외 진행 방식
 
-첫 1~2주는 철저한 진단 기간입니다. 문제를 풀어보면서 어디서부터 막히는지 확인합니다. 중3인데 중1 내용이 안 되면 중1부터 시작합니다. 진도를 빼는 것보다 이해하는 것이 중요합니다.
+첫 1-2주는 철저한 진단 기간입니다. 문제를 풀어보면서 어디서부터 막히는지 확인합니다. 중3인데 중1 내용이 안 되면 중1부터 시작합니다. 진도를 빼는 것보다 이해하는 것이 중요합니다.
 
 수업은 천천히 확실하게 진행합니다. 하나의 개념을 완전히 이해할 때까지 반복합니다. 쉬운 문제부터 풀면서 성공 경험을 쌓고 점차 난이도를 높여갑니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도보다 이해를 우선합니다. 한 개념을 여러 번 설명하고 다양한 예시로 확인합니다. 이해될 때까지 기다립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 과목별 기초 쌓기
@@ -52,18 +52,18 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 가장 중요한 기초 개념을 정리해드립니다. 우선순위를 정해 효율적으로 학습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 변화에 시간이 걸립니다
 
-1개월 차에는 아직 성적 변화가 없을 수 있습니다. 하지만 수업이 이해되기 시작하고 숙제를 완수하는 것 자체가 발전입니다. 3개월이 지나면 5~10점 상승이 보이기 시작합니다.
+1개월 차에는 아직 성적 변화가 없을 수 있습니다. 하지만 수업이 이해되기 시작하고 숙제를 완수하는 것 자체가 발전입니다. 3개월이 지나면 5-10점 상승이 보이기 시작합니다.
 
 6개월이면 한 등급 상승을 기대할 수 있습니다. 1년이면 안정적인 3등급, 잘하면 2등급 진입도 가능합니다. 조급해하지 말고 꾸준히 하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작은 발전도 함께 기뻐합니다. 과정을 인정하고 격려하면서 자신감을 심어줍니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 부모님께 드리는 말씀
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 학부모님과 소통합니다. 아이의 변화와 앞으로의 계획을 공유하며 함께 이끌어갑니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -93,6 +93,6 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 ## 마무리
 
-지금 4~5등급이어도 1년 후에는 3등급이 될 수 있습니다. 기초부터 차근차근 쌓으면 누구나 올라갈 수 있습니다. 포기하지 마세요. 시작이 반입니다.
+지금 4-5등급이어도 1년 후에는 3등급이 될 수 있습니다. 기초부터 차근차근 쌓으면 누구나 올라갈 수 있습니다. 포기하지 마세요. 시작이 반입니다.
 
 

@@ -8,7 +8,7 @@ regions:
 cities:
   - 서초구
 tags: ["서초구", "수학과외", "반포동", "서초동", "방배동", "수학", "과외", "내신수학", "수능수학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
 ---
 
 "서초구에서 수학 잘 가르치는 선생님 어디서 찾죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 학부모님들이 가장 많이 하시는 질문입니다.
 솔직히 말씀드리면, **서초구는 좋은 선생님이 많습니다.** 문제는 우리 아이에게 맞는 선생님을 찾는 것이죠.
 
-![서초구 수학과외](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=600&fit=crop)
+![서초구 수학과외](/images/edu_0297_9fyvN-6aiJg.jpg)
 
 ## 서초구 수학 교육, 뭐가 다를까요?
 
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 성향을 먼저 파악합니다. 경쟁형인지, 자기주도형인지에 따라 수업 방식이 달라져야 효과가 납니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ### 반포동 - 교대 출신 선생님이 많은 동네
@@ -70,14 +70,14 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"수학이 어렵다"고 느끼는 지점을 찾아냅니다. 개념이 헷갈리는 건지, 계산 실수가 많은 건지, 응용력이 부족한 건지 정확히 진단합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학년별 수학과외 가이드
 
 ### 초등학생 - 수학이랑 친해지는 시간
 
-**저학년(1~3학년): 원리 이해가 먼저입니다**
+**저학년(1-3학년): 원리 이해가 먼저입니다**
 
 연산 속도? 아직 중요하지 않습니다.
 **"왜 이렇게 되는지"** 이해하는 게 핵심이에요.
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 - 수학 놀이로 흥미 유발
 - "수학 재밌다"는 경험 축적
 
-**고학년(4~6학년): 중등 준비 시작**
+**고학년(4-6학년): 중등 준비 시작**
 
 중학교 수학이 확 어려워집니다.
 미리 **분수·소수, 도형 개념**을 확실히 잡아두세요.
@@ -97,16 +97,16 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 - 비와 비율, 비례식 기초
 - 문장제 문제 해결력 훈련
 
-초등 수학과외 비용은 주 1회 기준 약 12만원에서 22만원, 주 2회 기준 약 25만원에서 38만원 선입니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원 -  22만원, 주 2회 기준 약 25만원 -  38만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교구와 게임으로 수학이 재미있어지는 경험을 선물합니다. 아이가 "수학 시간이 기다려져요"라고 말할 때까지!
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ### 중학생 - 고등 수학의 뿌리를 심는 시간
 
-**중1~중2: 방정식과 함수, 여기서 갈립니다**
+**중1-중2: 방정식과 함수, 여기서 갈립니다**
 
 중학교 때 대충 넘어가면 고등 가서 무너집니다.
 특히 **방정식, 함수, 도형 증명**은 확실히 잡으세요.
@@ -126,16 +126,16 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 - 고등 선행은 중등 이해 후에!
 - 중3 겨울방학이 골든타임
 
-중학생 수학과외 비용은 주 1회 기준 약 22만원에서 32만원, 주 2회 기준 약 29만원에서 47만원 선입니다.
+중학생 수학과외 비용은 주 1회 기준 약 22만원 -  32만원, 주 2회 기준 약 29만원 -  47만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 함수도 원리부터 차근차근! "아, 이래서 이렇게 되는구나" 이해의 순간을 만들어드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ### 고등학생 - 수능을 향한 본격 레이스
 
-**고1~고2: 수학 I, II가 수능의 기초입니다**
+**고1-고2: 수학 I, II가 수능의 기초입니다**
 
 고등 수학은 중등과 차원이 다릅니다.
 지금 제대로 안 잡으면 고3 때 시간이 없어요.
@@ -150,16 +150,16 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 남은 시간은 한정되어 있습니다.
 **될 것은 확실히, 안 될 것은 과감히!**
 
-- 4점짜리 킬러보다 2~3점 완벽 대비
+- 4점짜리 킬러보다 2-3점 완벽 대비
 - 계산 실수 줄이기 훈련
 - 시간 배분 연습으로 실전 감각
 - 자주 틀리는 유형 집중 반복
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 서초구 주요 학교 수학 내신 특징
@@ -195,7 +195,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제 분석으로 출제 패턴을 파악합니다. "이 학교 선생님은 이런 스타일로 내"를 알면 대비가 쉬워집니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -230,7 +230,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 아이 성향과 현재 실력을 파악한 후 맞춤 커리큘럼을 제안해 드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 수학 실력, 이렇게 올리세요
@@ -265,7 +265,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 시간 복습 테스트를 봅니다. 까먹기 전에 다시 한 번! 이게 실력이 되는 비결입니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문

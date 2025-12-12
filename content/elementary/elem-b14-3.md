@@ -11,7 +11,7 @@ tags:
 - 연산
 - 읽기
 - 자기주도학습
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0117_RCpqgcVK9xA.jpg"
 ---
 ## 숙제하라고 안 해도 스스로 하는 아이, 어떻게 만들까요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오늘 뭘 해야 하지?라고 물어봅니다. 스스로 해야 할 일을 말하게 하고, 순서를 정하게 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스스로 문제를 풀게 하고, 모르면 손을 들게 합니다. 바로 답을 알려주지 않고 힌트를 줍니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 스스로 다시 풀게 합니다. 왜 틀렸는지 설명하게 하면 같은 실수를 반복하지 않습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자기주도 학습의 시작
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 끝나고 오늘 배운 거 세 가지 말해봐라고 합니다. 스스로 정리하는 습관을 들입니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 가정에서의 역할
@@ -69,7 +69,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 방과 후 15시에서 16시에는 간식 먹고 휴식하고 학교 준비물을 정리합니다.
 
-학습 시간 16시에서 17시 30분에는 스스로 할 일 목록을 적고, 숙제부터 시작합니다. 교과서 복습 30분, 오답 정리 20분, 독서 20분을 합니다. 3학년은 1시간~1시간 30분이 적당합니다.
+학습 시간 16시에서 17시 30분에는 스스로 할 일 목록을 적고, 숙제부터 시작합니다. 교과서 복습 30분, 오답 정리 20분, 독서 20분을 합니다. 3학년은 1시간-1시간 30분이 적당합니다.
 
 저녁 17시 30분에서 19시에는 저녁식사와 가족 대화 시간을 갖습니다.
 
@@ -79,12 +79,12 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 계획표를 스스로 만들어보게 합니다. 처음에는 같이 만들고, 점차 혼자 만들도록 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 주의사항
 
-과도한 학습은 금물입니다. 3학년은 하루 1시간~1시간 30분이면 충분합니다. 충분한 놀이와 휴식 시간이 필요합니다.
+과도한 학습은 금물입니다. 3학년은 하루 1시간-1시간 30분이면 충분합니다. 충분한 놀이와 휴식 시간이 필요합니다.
 
 균형 잡힌 성장도 중요합니다. 공부만이 아닌 전인적 발달이 필요합니다. 운동, 예술 활동, 친구 관계 모두 중요합니다.
 
@@ -102,7 +102,23 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 **Q. 언제부터 완전히 혼자 할 수 있나요?**
 
-아이마다 다릅니다. 3학년 때 연습을 시작해서 4~5학년에 완성되는 경우가 많습니다. 조급해하지 마세요.
+아이마다 다릅니다. 3학년 때 연습을 시작해서 4-5학년에 완성되는 경우가 많습니다. 조급해하지 마세요.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

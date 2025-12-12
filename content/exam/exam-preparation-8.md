@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 중간고사
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0212_mi13tiWIJk0.jpg"
 ---
 ## 중간고사가 코앞인데 아직 1단원도 못 끝냈어요. 어떻게 해야 하죠?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사 직전에는 핵심만 집중 정리합니다. 남은 시간에 맞춰 우선순위를 정하고 효율적으로 대비합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 중간고사의 특징
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사 범위를 먼저 확인하고 학습 계획을 세웁니다. 범위가 좁은 만큼 깊이 있는 공부가 가능합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 시간이 부족할 때 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남은 시간에 맞춰 핵심 내용만 빠르게 정리합니다. 버릴 건 버리고 챙길 건 확실히 챙기는 전략을 세웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과목별 대비법
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞춘 대비법을 안내합니다. 각 과목에서 점수를 올릴 수 있는 포인트를 짚어드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시험 기간 생활 관리
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부뿐 아니라 생활 패턴도 함께 관리합니다. 시험 기간에 컨디션을 유지하는 방법을 안내합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 전날과 당일
@@ -103,6 +103,30 @@ featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=
 **Q. 시험 때 긴장이 심해요.**
 
 심호흡을 하세요. 긴장하면 아는 것도 생각이 안 납니다. 쉬운 문제부터 풀면서 자신감을 회복하고 어려운 문제는 나중에 푸세요.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

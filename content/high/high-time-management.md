@@ -6,16 +6,16 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 실전 시간 관리 시스템. 우선순위 설정부터 타임 블로킹, 데드라인 관리까지. 공부·휴식·수면을 모두 챙기는 완벽한 일정 관리법."
 tags: ["고등시간관리", "공부계획", "학습효율", "일정관리", "우선순위", "타임블로킹", "수능준비", "내신대비"]
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0702_tyIfU4epeC8.jpg"
 ---
 
 ## 하루가 너무 빨리 가요. 공부하려고 앉으면 어느새 잘 시간인데 왜 이렇게 시간이 없나요?
 
-시간이 없는 게 아니라 관리가 안 되는 겁니다. 하루 24시간 중 실제로 공부에 쓸 수 있는 시간은 4~5시간입니다. 이 시간을 어떻게 쓰느냐에 따라 성적이 달라집니다.
+시간이 없는 게 아니라 관리가 안 되는 겁니다. 하루 24시간 중 실제로 공부에 쓸 수 있는 시간은 4-5시간입니다. 이 시간을 어떻게 쓰느냐에 따라 성적이 달라집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 하루 시간 사용을 분석합니다. 낭비되는 시간을 찾고 공부 시간을 확보합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 우선순위 설정하기
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-우선순위를 정하는 방법을 가르칩니다. 시간 낭비 요소를 파악하고 제거 방법을 알려드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 타임 블로킹 활용하기
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 시간표를 함께 만듭니다. 매주 점검하고 필요하면 조정합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 시간 도둑 제거하기
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스마트폰 차단 방법을 알려드립니다. 실천 가능한 계획을 세우도록 도와드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시험 기간 시간 관리
@@ -59,14 +59,14 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간 시간 배분을 세웁니다. 과목별 시간을 정하고 실천 여부를 점검합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 계획대로 안 되면 어떡하나요?**
 
-처음부터 100% 지키는 사람은 없습니다. 60~70% 실행하면 성공입니다. 너무 빡빡한 계획이 문제일 수 있으니 조정하세요.
+처음부터 100% 지키는 사람은 없습니다. 60-70% 실행하면 성공입니다. 너무 빡빡한 계획이 문제일 수 있으니 조정하세요.
 
 **Q. 공부 말고 다른 것 할 시간이 없어요.**
 
@@ -75,6 +75,30 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 **Q. 스마트폰을 도저히 못 끊겠어요.**
 
 의지력만으로는 어렵습니다. 물리적으로 차단하세요. 부모님께 맡기거나 다른 방에 두세요.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

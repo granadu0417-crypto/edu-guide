@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0200_LGkyjQQIM_o.jpg"
 ---
 ## 사회는 외워야 하는 건지 이해해야 하는 건지 헷갈려요. 어떻게 공부하나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념의 배경과 의미를 먼저 설명합니다. 이해한 후 정리해서 암기할 수 있도록 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 개념 이해가 기본
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념의 왜를 함께 공부합니다. 배경을 알면 암기도 쉬워집니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 암기 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 암기법을 안내합니다. 정리-암기-복습 사이클을 만들어 드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 지도와 도표 활용
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지도와 도표 해석 연습을 합니다. 자료를 보고 정보를 찾아내는 훈련을 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과목별 포인트
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞는 학습법을 적용합니다. 각 과목에서 중요한 포인트를 짚어드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 서술형 대비
@@ -105,6 +105,26 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 **Q. 사회 점수가 안 올라요.**
 
 이해 없이 암기만 하면 한계가 있습니다. 왜 그런지 이해하고 외우세요.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
 
 ## 마무리
 

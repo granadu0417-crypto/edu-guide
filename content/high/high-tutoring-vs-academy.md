@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 과외와 학원, 어느 것이 더 좋을까요? 내신·수능·수시·정시별 장단점부터 선택 기준까지 완벽 비교 가이드입니다."
 tags: ["고등과외", "고등학원", "과외vs학원", "1:1과외", "학원선택", "내신관리", "수능대비"]
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0703_czZumandoIQ.jpg"
 ---
 
 ## 고등학교 가니까 학원도 다니고 과외도 받으라는데, 둘 다 하면 비용도 시간도 너무 많이 들어요. 어떻게 해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력과 목표를 파악합니다. 과외와 학원 중 적합한 방식을 추천해드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 과외의 장점과 단점
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점을 정확히 진단합니다. 맞춤형 수업으로 효율을 극대화합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 학원의 장점과 단점
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원과 과외의 장단점을 비교해드립니다. 학생에게 최적의 조합을 찾아드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 내신 vs 수능별 선택
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시인지 정시인지에 따라 전략을 달리합니다. 효율적인 조합을 함께 설계합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과목별 추천
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습 방법을 안내합니다. 비용 대비 효과를 고려해 추천합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,6 +75,30 @@ featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=
 **Q. 학원 다니다가 과외로 바꾸면 성적 오르나요?**
 
 상황에 따라 다릅니다. 학원 진도를 못 따라가거나 기초가 약하면 과외로 바꾸면 효과가 있습니다. 하지만 본인 노력이 없으면 무엇을 해도 안 오릅니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

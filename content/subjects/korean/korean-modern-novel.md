@@ -11,7 +11,7 @@ tags:
 - 서사구조
 - 소설분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0471_NYHwFg-a9xI.jpg"
 ---
 
 ## 현대소설 지문이 길어서 읽기 힘들다고요? 핵심을 파악하는 방법이 있습니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현대소설 분석의 기본 틀을 훈련합니다. 다양한 작품에 적용하는 연습을 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 소설의 구성 요소
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-소설의 구성 요소를 정리합니다. 실제 작품에서 요소를 찾는 연습을 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 서술 시점 분석
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술 시점별 특징을 정리합니다. 시점 파악 문제를 집중 훈련합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 주요 작품 분석
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 현대소설을 분석합니다. 작품별 출제 포인트를 정리합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 유형별 풀이 전략을 정리합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,35 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 교과서 수록 작품을 중심으로 학습하세요. 주제와 특징을 정리하면 됩니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 현대소설은 체계적인 분석이 필요합니다. 구성 요소와 서술 시점을 파악하는 연습을 하세요. 주요 작품을 정리하면 시험 대비에 효과적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 현대소설 분석력을 키웁니다. 작품 분석과 문제 풀이를 함께 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>

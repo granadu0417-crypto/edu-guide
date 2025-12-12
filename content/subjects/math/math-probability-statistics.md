@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 심화
 - 과외
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0549_W-BwZe5I3Z8.jpg"
 ---
 
 ## 확률과 통계가 도대체 뭔지 감이 안 잡힌다고요? 경우의 수부터 헷갈리고 정규분포는 더 어렵게 느껴지시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률과 통계의 기초 개념부터 차근차근 설명합니다. 실생활 예시로 직관적 이해를 돕습니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 경우의 수 심화
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-순열과 조합의 차이를 명확히 이해시킵니다. 표와 나무그림으로 시각화합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 확률 심화
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조건부확률의 의미를 확실히 이해시킵니다. 표와 그림으로 시각화하여 직관을 기릅니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 확률분포
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률분포의 개념을 그래프로 시각화합니다. 이항분포와 정규분포의 관계를 이해시킵니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 통계적 추정
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-통계적 추정의 의미를 실생활 예시로 설명합니다. 신뢰구간 계산을 반복 연습합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,36 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 모평균이 이 구간에 있을 확률이 95퍼센트라는 뜻입니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 확률과 통계는 실생활에 가장 유용한 수학입니다. 개념을 정확히 이해하고 문제 유형을 익히면 누구나 마스터할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률과 통계 전 범위를 체계적으로 정리합니다. 개념 이해와 문제 풀이를 균형 있게 진행합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 

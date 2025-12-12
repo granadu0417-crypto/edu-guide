@@ -10,7 +10,7 @@ tags:
 - 역학
 - 물리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0613_7o7DqXJArf4.jpg"
 ---
 
 ## 운동 그래프 해석이 어렵고 역학 계산이 헷갈린다고요? 변위, 속도, 가속도의 관계부터 이해하면 됩니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-위치, 변위, 이동 거리의 차이부터 명확히 합니다. 속도와 속력의 구분을 이해합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 등속 운동과 등가속도 운동
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-등가속도 운동 공식을 유도합니다. 각 공식의 적용 상황을 구분합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 운동 그래프
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프 해석 방법을 체계적으로 훈련합니다. 다양한 운동의 그래프를 분석합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 포물선 운동
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수평 성분과 연직 성분을 분리합니다. 각 성분의 운동을 분석한 후 합성합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 그래프 해석 문제를 집중 훈련합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 역학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>

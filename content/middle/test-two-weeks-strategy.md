@@ -10,7 +10,7 @@ tags:
 - 학습전략
 - 시험대비
 - 내신관리
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0227_2AYotdRGSWY.jpg"
 ---
 ## 시험 2주 전, 지금 시작해도 늦지 않았을까요?
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전에는 과외 횟수를 늘립니다. 평소 주 2회면 주 4에서 5회로 늘려서 집중적으로 대비합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 2주 전체 일정
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위를 함께 확인하고 과목별 학습 시간을 배분합니다. 취약 과목에 35퍼센트, 보통 과목에 30퍼센트, 강점 과목에 20퍼센트, 암기 과목에 15퍼센트로 나눕니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 1회독 단계 전략
@@ -54,7 +54,7 @@ D-13에서 D-10까지 과목별 1회독을 완성합니다. 수학은 매일 70�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시간에 학생 오답을 집중 분석합니다. 왜 틀렸는지 파악하고 약한 단원을 반복 설명합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 최종 마무리 전략
@@ -69,7 +69,7 @@ D-1은 컨디션 관리의 날입니다. 새로운 문제를 풀거나, 모르�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-1 수업에서는 새 내용을 가르치지 않습니다. 헷갈리는 개념만 최종 정리하고, 자주 틀리는 유형만 반복합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 암기 효율 높이기
@@ -95,6 +95,26 @@ D-1 수업에서는 새 내용을 가르치지 않습니다. 헷갈리는 개념
 **Q. 시험 전날 새로운 내용 공부해도 되나요?**
 
 안 됩니다. 혼란만 가중되고 자신감이 하락합니다. 요약노트 3회 읽기, 자주 틀리는 문제만 확인하고 일찍 자세요.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

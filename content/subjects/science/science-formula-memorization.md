@@ -11,7 +11,7 @@ tags:
 - 물리공식
 - 화학공식
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0603_Mux4hASIqhc.jpg"
 ---
 
 ## 과학 공식이 너무 많아서 헷갈리고 외워도 금방 잊어버린다고요? 이해가 먼저입니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식의 유도 과정을 설명합니다. 왜 이런 공식이 나왔는지 이해하면 암기가 쉬워집니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 물리 공식
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리 공식을 단원별로 정리합니다. 각 공식의 물리적 의미를 실생활 예시로 설명합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 화학 공식
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화학 공식의 단위를 함께 이해합니다. 단위가 맞으면 공식도 맞는다는 원리를 적용합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 공식 암기 전략
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 맞춤 공식 노트를 함께 만듭니다. 효과적인 복습 주기를 설정합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제에서 자주 나오는 공식을 분석합니다. 빠른 적용 훈련을 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,51 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 과목별, 단원별로 핵심 공식만 먼저 정복하세요. 기본 공식을 확실히 알면 파생 공식은 유도할 수 있습니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
 ## 마무리
 
 과학 공식은 이해와 반복이 핵심입니다. 의미를 알고 문제에 적용하면 자연스럽게 기억됩니다. 체계적인 정리와 주기적 복습으로 공식을 완벽히 익히세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 공식 암기의 어려움을 해결합니다. 이해 중심 학습으로 오래 기억됩니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>

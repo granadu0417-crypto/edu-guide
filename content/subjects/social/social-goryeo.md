@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0670_AuhmviYMmCE.jpg"
 ---
 
 ## 고려 왕들이 헷갈리고 제도 변화가 복잡하다고요? 건국부터 멸망까지 순서대로 따라가면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고려 건국 과정을 정리합니다. 주요 왕의 업적을 시간순으로 연결합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 고려의 건국과 발전
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 왕의 핵심 업적을 정리합니다. 왕권 강화 정책의 흐름을 설명합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 대외 관계와 항쟁
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대외 항쟁의 원인과 결과를 연결합니다. 주요 인물의 역할을 정리합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 고려의 문화
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고려 문화의 특징을 정리합니다. 대표 문화유산과 연결합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 왕과 업적 연결 문제를 집중 훈련합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 고려시대를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>

@@ -10,7 +10,7 @@ tags:
 - 무기화학
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0609_xCga8aZ7KW4.jpg"
 ---
 
 ## 금속 화합물과 비금속 화합물이 헷갈리고 반응 예측이 어렵다고요? 주기율표와 연결하면 됩니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주기율표에서 금속과 비금속의 위치를 확인합니다. 각 특성을 비교 정리합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 금속의 성질
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-금속 원소의 공통 성질을 정리합니다. 반응성 순서를 암기합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 비금속의 성질
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비금속 원소의 특징을 정리합니다. 주요 비금속 화합물을 학습합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 무기물의 반응
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-산화물의 산성/염기성을 구분합니다. 대표적인 반응들을 정리합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 주기율표 활용 문제를 집중 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,35 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 K-Ca-Na-Mg-Al-Zn-Fe-Ni-Sn-Pb-H-Cu-Hg-Ag-Pt-Au 순서입니다. 반복 암기가 필요합니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 무기화학은 주기율표의 이해가 핵심입니다. 금속과 비금속의 성질을 구분하고 반응을 예측하세요. 주요 화합물의 특징을 정리하면 완벽합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 무기화학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>

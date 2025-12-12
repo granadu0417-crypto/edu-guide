@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0173_yioua5jPPjc.jpg"
 ---
 ## 외울 게 너무 많은데 다 까먹어요. 암기 잘하는 방법 없나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 암기 전략을 안내합니다. 단순 반복이 아닌 이해 기반 암기로 오래 기억할 수 있도록 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 왜 외운 것을 까먹을까
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기억의 원리를 설명합니다. 왜 까먹는지 이해하면 효과적으로 외울 수 있습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 효과적인 암기법
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학적인 암기법을 적용합니다. 반복 주기에 맞춰 복습하고 효과적으로 외우는 방법을 훈련합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 암기 과목별 전략
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 암기 전략을 안내합니다. 이해와 암기를 병행하여 효율적으로 공부합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 암기량 관리
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기량을 조절하고 진도를 관리합니다. 무리하지 않으면서 꾸준히 외울 수 있도록 계획을 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 시험 직전 암기 전략
@@ -105,6 +105,22 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 **Q. 암기 과목은 벼락치기 해도 되나요?**
 
 단기적으로는 가능하지만 금방 까먹습니다. 중요한 시험은 미리 준비하는 것이 좋습니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
 
 ## 마무리
 

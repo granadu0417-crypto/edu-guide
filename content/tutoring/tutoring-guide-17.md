@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0951_5I6SeQJejm8.jpg"
 ---
 
 ## 과외를 받는데 진도만 나가고 실력이 안 오르는 것 같아요. 진도 관리를 어떻게 해야 하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도 관리 상담에서는 현재 수업이 어떻게 진행되고 있는지 먼저 파악합니다. 진도 속도와 이해도의 균형을 점검합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 진도 관리가 왜 중요한가요?
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 이해 속도에 맞춰 진도를 조절합니다. 빠르다고 좋은 게 아니라 제대로 이해했는지가 기준입니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 효율적인 진도 관리는 어떻게 하나요?
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 간단한 테스트로 이해도를 확인합니다. 넘어가기 전에 정말 알고 있는지 점검합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 진도가 밀리면 어떻게 하나요?
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도가 밀리면 긴급 보충 수업을 진행합니다. 시험 전에 필수 범위는 반드시 마무리합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -82,7 +82,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 효율적인 커리큘럼 운영 방법을 안내합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 마무리

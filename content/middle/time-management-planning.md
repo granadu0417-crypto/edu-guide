@@ -10,7 +10,7 @@ tags:
 - 복습전략
 - 중등교육
 - 중학교
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0228_PmB37RaXlR0.jpg"
 ---
 ## 하루 24시간이 모자란다고요? 시간은 충분합니다
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생의 일과를 분석합니다. 어디서 시간이 새는지 파악하고, 현실적인 학습 계획을 함께 세웁니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시간 관리가 성적을 결정하는 이유
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시간에 학습 계획표를 함께 점검합니다. 지난주 계획 달성률을 확인하고, 이번 주 우선순위를 조정합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시간 낭비 요인 파악하기
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 4주 전부터는 과외 내용을 시험 대비로 바꿉니다. 과목별 우선순위를 정하고, 취약 과목에 35퍼센트, 보통 과목에 30퍼센트, 강점 과목에 20퍼센트, 암기 과목에 15퍼센트로 배분합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 학습 계획표 작성법
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 계획표 양식을 함께 만듭니다. 시간 블록 방식이든 할 일 리스트 방식이든, 학생이 실천하기 편한 형태로 정합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 집중력 높이는 방법
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작 전에 책상 정리를 확인합니다. 산만한 환경에서는 수업 효과도 떨어지기 때문입니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 시기별 시간 배분
@@ -98,6 +98,26 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 **Q. 주말에도 계획대로 해야 하나요?**
 
 토요일은 부족한 과목 보충, 일요일은 다음 주 계획과 휴식이 좋습니다. 주말도 완전히 놀면 월요일에 힘듭니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
 
 ## 마무리
 

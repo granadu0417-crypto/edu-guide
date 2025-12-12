@@ -10,7 +10,7 @@ tags:
 - 창의적글쓰기
 - 작문
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0362_6MePtA9EVDA.jpg"
 ---
 
 ## 영어로 이야기를 쓰고 싶은데 어떻게 시작해야 할지 막막하다고요? 묘사가 생생하지 않다고요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-창의적 글쓰기의 기본 기법을 익힙니다. 학생의 아이디어를 글로 발전시키는 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 스토리 구조
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스토리 구조를 체계적으로 배웁니다. 플롯 짜기 연습을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 묘사 기법
@@ -39,7 +39,7 @@ Show, Don't Tell이 핵심입니다. She was angry 대신 Her face turned red, a
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-Show, Don't Tell 기법을 연습합니다. 감각적 묘사로 생생한 글쓰기를 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 비유와 문체
@@ -48,7 +48,7 @@ Show, Don't Tell 기법을 연습합니다. 감각적 묘사로 생생한 글쓰
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비유 표현을 연습합니다. 문체와 어휘 선택을 지도합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 글쓰기 과정
@@ -57,7 +57,7 @@ Show, Don't Tell 기법을 연습합니다. 감각적 묘사로 생생한 글쓰
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글쓰기 전 과정을 함께 진행합니다. 첨삭과 피드백으로 완성도를 높입니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,51 @@ Writing prompts를 활용하세요. What if 질문으로 상상력을 자극하�
 
 매일 10-15분이면 충분합니다. 양보다 꾸준함이 중요합니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 창의적 글쓰기는 특별한 재능이 아니라 연습의 결과입니다. 매일 조금씩 쓰다 보면 자신만의 목소리를 찾게 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 작문 수업으로 창의적 글쓰기를 지도합니다. 첨삭과 피드백으로 실력을 키워드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>

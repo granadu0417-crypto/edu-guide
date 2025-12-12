@@ -5,13 +5,13 @@ date: 2025-01-29
 categories:
   - 지역정보
 tags:
-  - 지역
-  - 서울
-  - 경기
-  - 학원
-  - 과외
-  - 교육정보
-featured_image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=1200&h=630&fit=crop"
+- 지역
+- 서울
+- 경기
+- 학원
+- 과외
+- 교육정보
+featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 ---
 
 ## 지역별 교육 정보

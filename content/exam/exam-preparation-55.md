@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 ---
 ## 수학 문제 유형이 너무 다양해요. 어떤 유형부터 공부해야 하나요?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 문제 유형을 분석합니다. 자주 출제되는 유형을 집중적으로 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 수학 공부의 기본
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 정확히 이해하도록 합니다. 공식의 의미를 알고 문제에 적용합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 유형별 접근법
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별로 문제를 정리합니다. 중요도에 따라 순서를 정해 연습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 계산 실수 줄이기
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계산 실수 패턴을 분석합니다. 자주 하는 실수를 잡아서 점수를 올립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 전략
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험장에서의 전략을 연습합니다. 시간 배분과 문제 풀이 순서를 훈련합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 오답 분석
@@ -106,6 +106,14 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 **Q. 서술형은 어떻게 준비하나요?**
 
 풀이 과정을 정확하게 쓰는 연습을 하세요. 공식을 쓰고 대입 과정을 보여주세요.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
 
 ## 마무리
 

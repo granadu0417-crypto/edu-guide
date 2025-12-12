@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0760_gKUC4TMhOiY.jpg"
 ---
 
 선행은 했는데 내신이 안 나온다면? 학교별 출제 경향 분석이 필요합니다.
@@ -27,7 +27,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학교 기출을 먼저 분석합니다. 출제 경향과 난이도를 파악한 후 맞춤형 내신 전략을 세웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고, 장충고, 환일고 기출을 면밀히 분석합니다. 학교마다 출제 경향이 다르기 때문에, 맞춤형 내신 대비를 진행합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ### 치열한 등급 경쟁
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고 학생은 계산 정확성에, 장충고 학생은 다양한 유형에, 환일고 학생은 심화 문제에 집중합니다. 학교별 맞춤 전략으로 내신을 공략합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 수학과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 철저히 분석합니다. 원인을 파악하여 같은 유형에서 반복하지 않도록 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 고등 수학 학습 순서
@@ -119,7 +119,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습량과 진도를 설계합니다. 시험 기간에는 내신에 집중하고, 방학에는 선행과 심화를 병행합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ### 고3: 마무리
@@ -130,13 +130,13 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 장충동 고등 수학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 25만원에서 35만원, 주2회 기준 42만원에서 58만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 30만원에서 42만원, 주2회 기준 50만원에서 70만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황을 고려하여 합리적으로 정합니다. 무료 상담에서 학생 수준을 파악한 뒤, 적절한 수업 횟수와 시간을 안내드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -147,7 +147,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 **Q. 내신과 수능, 뭘 먼저?**
 
-고1~2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
+고1-2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
 
 **Q. 개념은 아는데 문제가 안 풀려요.**
 

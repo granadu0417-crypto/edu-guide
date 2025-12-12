@@ -17,7 +17,7 @@ tags:
   - 중등과외
   - 내신관리
   - 수능대비
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0861_pZA4eNKBz20.jpg"
 ---
 
 ## 영등포구 고등학생 과외 안내
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 - [영등포본동 고등 영어과외](/high/yeongdeungpo-bon-high-english/) - 관악고·선유고 내신·수능 대비
 - [영등포동 고등 영어과외](/high/yeongdeungpo-yeongdeungpo-high-english/) - 관악고·선유고 맞춤 커리큘럼
 
-### 대림동·도림동 (대림1동~대림3동, 도림동)
+### 대림동·도림동 (대림1동-대림3동, 도림동)
 
 **영등포여고, 영신고** 학생들이 거주하는 지역입니다.
 
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 - [대림3동 고등 영어과외](/high/yeongdeungpo-daerim3-high-english/) - 영등포여고·영신고 맞춤 커리큘럼
 - [도림동 고등 영어과외](/high/yeongdeungpo-dorim-high-english/) - 영등포여고·영신고 내신·수능 대비
 
-### 신길동 (신길1동, 신길3동~신길7동)
+### 신길동 (신길1동, 신길3동-신길7동)
 
 **영등포여고, 영신고, 장훈고, 대영고** 학생들이 거주하는 지역입니다.
 
@@ -178,8 +178,6 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 - [신길5동 중등 영어과외](/middle/yeongdeungpo-singil5-middle-english/)
 - [신길6동 중등 영어과외](/middle/yeongdeungpo-singil6-middle-english/)
 - [신길7동 중등 영어과외](/middle/yeongdeungpo-singil7-middle-english/)
-
-
 ## 영등포구 주요 고등학교 안내
 
 ### 여의도고등학교·여의도여고
@@ -193,8 +191,6 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 ### 관악고등학교·선유고등학교
 
 당산동, 문래동 인근에 위치한 학교들입니다. 기본 문제와 응용 문제가 균형 있게 출제됩니다.
-
-
 ### 중학교
 
 지역 중학교들의 내신 특성을 파악한 맞춤 과외를 제공합니다.
@@ -206,25 +202,15 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 ## 영등포구 과외 비용 안내
 
-### 수학과외
+### 고등학생
 
-**고1~2**: 주1회 25만~35만원, 주2회 42만~58만원
+**고1-2**: 주1회 25만원 - 36만원, 주2회 33만원 - 53만원
 
-**고3**: 주1회 30만~42만원, 주2회 50만~70만원
-
-### 영어과외
-
-**고1~2**: 주1회 22만~32만원, 주2회 38만~52만원
-
-**고3**: 주1회 28만~38만원, 주2회 45만~62만원
+**고3**: 주1회 28만원 - 40만원, 주2회 37만원 - 59만원
 
 ### 중학생
 
-**수학**: 주1회 20만~28만원, 주2회 35만~48만원
-
-**영어**: 주1회 18만~25만원, 주2회 32만~45만원
-
-
+**중학생**: 주1회 22만원 - 32만원, 주2회 29만원 - 47만원
 수업 횟수, 시간, 선생님 경력에 따라 달라질 수 있습니다.
 
 {{< cta-dual type="final" >}}
@@ -233,7 +219,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 ### 내신 대비가 급할 때
 
-학교별 기출 분석이 된 선생님을 선택하세요. 시험 2~3주 전부터 집중 관리가 필요합니다.
+학교별 기출 분석이 된 선생님을 선택하세요. 시험 2-3주 전부터 집중 관리가 필요합니다.
 
 ### 수능 대비가 목표일 때
 

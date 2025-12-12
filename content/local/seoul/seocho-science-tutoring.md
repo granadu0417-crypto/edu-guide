@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["서초구", "과학과외", "반포동", "서초동", "양재동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0356_Eerotju7VgI.jpg"
 ---
 
 "서초구에서 의대생에게 과학 과외를 받을 수 있나요?"
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 과학 실력을 정확하게 진단합니다. 어느 단원에서 막히는지, 개념이 문제인지 문제 적용이 문제인지 파악하고, 그 지점부터 차근차근 다시 쌓아갑니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 서초구 동네별 과학 교육 환경
@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 수업 장소와 시간을 정합니다. 서초역 스터디카페 수업, 자택 방문, 온라인 병행 등 가장 효율적인 방식으로 진행합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 과목별 과학 과외 포인트
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리는 공식을 외우기 전에 왜 그런 공식이 나왔는지 이해시킵니다. 문제를 풀 때도 어떤 개념을 적용해야 하는지 스스로 판단할 수 있도록 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ### 화학 - 개념과 계산의 조화
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생명과학은 단원별로 핵심 개념을 정리한 후 문제로 확인합니다. 유전 파트는 체계적인 접근법을 익혀서 어떤 문제가 나와도 풀 수 있도록 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ### 지구과학 - 천문 계산이 관건입니다
@@ -80,10 +80,10 @@ featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1은 통합과학 내신을 탄탄하게 관리하면서, 학생의 성향과 진로에 맞는 선택과목을 함께 고민합니다. 여름방학에 선택과목 맛보기 수업도 가능합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
-### 고2~3 - 내신과 수능 두 마리 토끼
+### 고2-3 - 내신과 수능 두 마리 토끼
 
 고2부터는 선택과목에 집중합니다. 학기 중에는 내신 위주로, 방학에는 수능 개념과 기출 분석에 집중합니다.
 
@@ -99,22 +99,22 @@ featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 선생님의 설명이 이해하기 쉬운지, 학생과 소통이 잘 되는지 확인해보세요.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 서초구 과학과외 비용 안내
 
 서초구 과학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**중학생**은 주1회 기준 18만원에서 28만원, 주2회 기준 32만원에서 48만원 선입니다.
+**중학생**은 주1회 기준 18만원 -  28만원, 주2회 기준 32만원 -  48만원 선입니다.
 
-**고등학생**은 주1회 기준 28만원에서 45만원, 주2회 기준 45만원에서 70만원이 일반적입니다.
+**고등학생**은 주1회 기준 28만원 -  45만원, 주2회 기준 45만원 -  70만원이 일반적입니다.
 
-반포동 기준이며, 양재·방배동은 5~10% 정도 저렴합니다. 물리가 가장 비싸고, 생명과학과 지구과학이 상대적으로 저렴합니다.
+반포동 기준이며, 양재·방배동은 5-10% 정도 저렴합니다. 물리가 가장 비싸고, 생명과학과 지구과학이 상대적으로 저렴합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -133,7 +133,7 @@ featured_image: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=
 
 **Q. 과외 효과는 언제 나타나나요?**
 
-기초가 있는 학생은 1~2개월, 기초가 부족한 학생은 3~6개월 정도 걸립니다. 꾸준히 복습하는 것이 가장 중요합니다.
+기초가 있는 학생은 1-2개월, 기초가 부족한 학생은 3-6개월 정도 걸립니다. 꾸준히 복습하는 것이 가장 중요합니다.
 
 ## 마무리
 

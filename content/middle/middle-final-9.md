@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 ---
 ## 시험 기간만 되면 너무 힘들다고요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 대비 계획을 함께 세웁니다. 벼락치기가 아닌 꾸준한 학습으로 성적을 올립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 평소 학습의 중요성
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평소 학습 습관을 잡아드립니다. 수업 시간 활용법을 알려드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시험 3주 전 준비
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습 계획을 함께 세웁니다. 시간 배분을 효율적으로 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 시험 2주 전 공부법
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위의 핵심 개념을 정리합니다. 틀린 문제 분석을 철저히 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 시험 1주 전 마무리
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의 시험을 통해 실전 감각을 키웁니다. 시간 관리 능력을 기릅니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시험 당일 전략
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 전략을 알려드립니다. 실수를 줄이는 방법을 연습합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,34 @@ featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=
 **Q. 시험 때 긴장이 너무 돼요.**
 
 충분한 준비가 자신감을 줍니다. 모의 시험으로 실전 연습을 많이 하세요.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
 
 ## 마무리
 

@@ -20,7 +20,7 @@ tags:
   - 대경중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0832_sn8Pbp_X0wE.jpg"
 
 ---
 ## 중구 동화동 중학생, 수학 근사값과 유효숫자가 헷갈린다면
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 근사값과 유효숫자의 이해 수준을 진단합니다. 참값과 근사값의 차이, 유효숫자 세는 법, 오차의 한계를 체계적으로 훈련합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 근사값과 유효숫자가 어려운 이유
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유효숫자를 세는 규칙을 정확히 익힙니다. 다양한 수에서 유효숫자 개수를 찾는 연습을 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 덕수중·장원중·대경중 수학 시험의 특징
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·대경중 기출 근사값 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 측정 상황을 분석해보게 합니다. 왜 그 값이 근사값인지 설명하는 훈련을 합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 학년별 학습 전략
@@ -77,18 +77,18 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 수와 연산 내용을 정확히 이해합니다. 수학적 개념을 자유롭게 활용하는 능력을 키웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 근사값 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -106,6 +106,14 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 **Q. 오차의 한계란 무엇인가요?**
 
 근사값과 참값의 차이의 최댓값입니다. 반올림한 근사값의 오차의 한계는 마지막 자리의 절반입니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

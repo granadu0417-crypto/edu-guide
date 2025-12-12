@@ -8,7 +8,7 @@ regions:
 cities:
   - 관악구
 tags: ["관악구", "수학과외", "신림동", "봉천동", "남현동", "수학", "과외", "서울대", "내신수학", "수능수학", "1:1과외", "수학과", "수리과학부"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0335_R8NrET268eA.jpg"
 ---
 
 "서울대 수학과 학생한테 과외 받으면 정말 효과 있을까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 정답은 **"그 선생님이 잘 가르치는지에 달렸다"**입니다.
 서울대 수학과라고 다 잘 가르치는 건 아니에요. 하지만 잘 가르치는 서울대생을 만나면? 최고의 선택이 됩니다.
 
-![관악구 수학과외](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=600&fit=crop)
+![관악구 수학과외](/images/edu_0289_3S0Ucv4BDCk.jpg)
 
 ## 관악구 수학 교육, 뭐가 특별할까요?
 
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 이렇게 풀어야 해요?"라는 질문이 나올 때까지. 공식 암기가 아니라 원리 이해부터 시작합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ### 신림동 - 서울대 정문 인근
@@ -62,14 +62,14 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 수학 수준을 정확히 진단합니다. 어디서 막혔는지, 어디까지 알고 있는지 꼼꼼히 체크!
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 학년별 수학과외 가이드
 
 ### 초등학생 - 수학이랑 친해지는 시간
 
-**저학년(1~3학년): "수학 재밌다!"가 목표**
+**저학년(1-3학년): "수학 재밌다!"가 목표**
 
 이 시기에 무리하게 진도 빼면 수학을 싫어하게 됩니다.
 **놀이처럼 수학을 접하는** 게 최고예요.
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 - 재미있는 수학 활동으로 호기심 자극
 - 긍정적인 수학 경험 쌓기
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 수학이 확 어려워집니다.
 미리 **분수, 소수, 도형 개념**을 완벽히 잡아두세요.
@@ -89,16 +89,16 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 - 문제 해결 전략 체계적 훈련
 - 중등 대비 기초 다지기
 
-초등 수학과외 비용은 주 1회 기준 약 12만원에서 20만원, 주 2회 기준 약 22만원에서 35만원 선입니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원 -  20만원, 주 2회 기준 약 22만원 -  35만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피자를 똑같이 나누면? 분수 개념을 일상에서 찾습니다. "1/4이랑 2/8이 같다고요?" 아이가 직접 발견하면 절대 안 잊어요!
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ### 중학생 - 고등 수학의 기초를 다지는 시기
 
-**중1~중2: 수학의 뼈대를 세우세요**
+**중1-중2: 수학의 뼈대를 세우세요**
 
 중학교 수학을 대충 넘기면 고등 수학이 안 됩니다.
 **방정식과 함수**가 핵심이에요.
@@ -117,16 +117,16 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 - 고등 선행은 중등 이해 후 진행
 - 과학고·영재학교 대비(희망시)
 
-중학생 수학과외 비용은 주 1회 기준 약 20만원에서 30만원, 주 2회 기준 약 28만원에서 45만원 선입니다.
+중학생 수학과외 비용은 주 1회 기준 약 20만원 -  30만원, 주 2회 기준 약 28만원 -  45만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 x에 숫자를 대입해야 해요?" 문자와 식의 개념부터 차근차근. 원리를 알면 응용이 됩니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 수학은 중등과 차원이 다릅니다.
 개념 하나 놓치면 다음 단원 전체가 안 돼요.
@@ -146,11 +146,11 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 - 시간 관리 최적화
 - 취약 유형 체계적 보완
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -179,7 +179,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-올림피아드 경험이 있는 선생님은 창의적 문제 해결력을 키워줍니다. 정형화된 풀이가 아니라 "왜?"를 함께 고민해요.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 좋은 수학 선생님, 이렇게 고르세요
@@ -215,7 +215,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -256,7 +256,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 수업 내용 확인 테스트! 복습 안 하면 티가 납니다. 작은 습관이 큰 실력이 됩니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 마치며

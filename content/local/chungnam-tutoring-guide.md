@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "충남도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 대전·세종 대학생 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["충남과외", "과외", "충남교육", "천안과외", "아산과외", "충남대과외", "공주대과외", "KAIST과외", "대전과외", "세종과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0187_xHoqN_vAYR0.jpg"
 ---
 
 ## 충남에서 과외 어떻게 구해야 하나요? 대전이나 세종 대학생 과외가 가능한지 궁금해요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-충남 지역 과외 시장을 분석합니다. 거주 지역과 예산에 맞는 최적의 선생님을 추천합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 대전 대학생 과외 활용
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-KAIST와 충남대 인재풀에서 검증된 선생님을 연결합니다. 시범 수업으로 궁합을 확인합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 세종 대학생 과외 활용
@@ -39,7 +39,7 @@ KAIST와 충남대 인재풀에서 검증된 선생님을 연결합니다. 시�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세종 대학생 과외를 연결합니다. 교통비를 포함해도 서울보다 합리적입니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 충남 지역 대학 과외
@@ -48,7 +48,7 @@ KAIST와 충남대 인재풀에서 검증된 선생님을 연결합니다. 시�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 대학 인재풀을 활용합니다. 통학 거리가 가까워 비용과 시간을 절약합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 화상 과외 활용 전략
@@ -57,7 +57,7 @@ KAIST와 충남대 인재풀에서 검증된 선생님을 연결합니다. 시�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 과외 환경 세팅을 도와드립니다. 온라인 수업에 최적화된 학습 방법을 안내합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문

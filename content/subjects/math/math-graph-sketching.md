@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 좌표
-featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0534_EihY2efxBPE.jpg"
 ---
 
 ## 그래프를 어떻게 그려야 할지 막막하다고요? 함수 식만 보면 개형이 전혀 그려지지 않는다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 함수별 그래프 특징을 정리합니다. 직접 그려보며 손에 익히도록 합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 기본 함수 그래프
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 함수의 특징을 비교하며 정리합니다. 점근선과 지나는 점을 확실히 익힙니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 그래프 개형 파악
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미분을 활용한 개형 파악을 체계적으로 훈련합니다. 증감표 작성법을 익힙니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 그리기 요령
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그리기 순서를 체계화합니다. 대칭성을 활용한 효율적 그리기를 연습합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 특수 그래프와 연습
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 유형의 그래프를 직접 그려봅니다. 실전에서 빠르게 그리는 요령을 익힙니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프 그리기를 완벽히 마스터시킵니다. 시각화 능력을 키워 문제 풀이력을 향상합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 

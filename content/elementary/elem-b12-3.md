@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 ---
 ## 중학교 가기 전에 초등 과정을 완벽히 정리하셨나요?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-6학년은 기초 점검부터 합니다. 어떤 부분이 부족한지 진단하고, 초등 과정에서 놓친 부분을 집중 보완합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 핵심 학습 목표
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 1학년 내용을 살짝 맛보기로 보여줍니다. 초등 기초가 왜 중요한지 알게 되면 공부 의욕이 생깁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 과목별 학습 전략
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분수와 소수 연산을 집중 점검합니다. 이게 안 되면 중학교 수학이 안 됩니다. 부족하면 4~5학년 내용까지 돌아가서 다시 잡습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 6학년의 특징과 대응
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-6학년은 스스로 목표를 정하게 합니다. 중학교 가서 뭘 잘하고 싶어?라고 물어보고, 그에 맞춰 준비합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 가정에서의 역할
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 중에 초등 전 과정을 정리합니다. 1학년부터 6학년까지 핵심 내용을 빠르게 훑어보고, 부족한 부분을 집중 보완합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 주의사항
@@ -102,6 +102,34 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 **Q. 사춘기라 공부를 안 하려고 해요.**
 
 강요하면 역효과입니다. 왜 공부해야 하는지 대화를 나누고, 스스로 목표를 정하게 합니다. 자율성을 존중하면서도 규칙은 지키게 합니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

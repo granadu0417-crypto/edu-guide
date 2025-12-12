@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0190_uIJ_SJpp-Fw.jpg"
 ---
 ## 우리 학교 선생님 시험 문제 스타일이 다 다른데, 어떻게 준비해야 해요?
 
@@ -21,20 +21,20 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별, 선생님별 출제 경향을 먼저 분석합니다. 기출문제를 꼼꼼히 살펴보고 어떤 유형이 자주 나오는지 파악한 후 맞춤 대비를 시작합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 학교별 출제 경향 파악하기
 
 내신 시험의 핵심은 선생님이 무엇을 중요하게 생각하는지 파악하는 것입니다. 수업 시간에 강조한 부분, 반복해서 설명한 개념, 프린트로 나눠준 문제가 시험에 나올 확률이 높습니다.
 
-기출문제 분석이 가장 중요합니다. 최근 2~3년간 기출을 구해서 문제 유형을 파악하세요. 서술형 비중이 높은지, 교과서 문제 그대로 나오는지, 응용 문제가 많은지 확인합니다.
+기출문제 분석이 가장 중요합니다. 최근 2-3년간 기출을 구해서 문제 유형을 파악하세요. 서술형 비중이 높은지, 교과서 문제 그대로 나오는지, 응용 문제가 많은지 확인합니다.
 
 선배들에게 정보를 얻는 것도 좋은 방법입니다. 어떤 선생님이 어떤 스타일로 출제하는지, 어떤 부분에서 함정 문제가 나오는지 알 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해당 학교 기출문제를 함께 분석합니다. 출제 패턴을 파악하고 자주 나오는 유형을 집중적으로 연습합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 교과서 vs 프린트 vs 문제집
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님의 출제 스타일에 맞춰 학습 자료를 선별합니다. 불필요한 공부는 줄이고 효율적으로 시험 범위를 완성합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 서술형 문제 대비
@@ -60,12 +60,12 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 집중적으로 연습합니다. 채점 기준에 맞는 표현과 논리적 구성을 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 시험 기간 시간 관리
 
-내신 시험은 보통 일주일 동안 진행됩니다. 하루에 2~3과목씩 보기 때문에 전날 벼락치기로는 한계가 있습니다. 시험 2주 전부터 체계적으로 준비해야 합니다.
+내신 시험은 보통 일주일 동안 진행됩니다. 하루에 2-3과목씩 보기 때문에 전날 벼락치기로는 한계가 있습니다. 시험 2주 전부터 체계적으로 준비해야 합니다.
 
 시험 과목별 난이도와 비중을 고려해서 시간을 배분하세요. 어려운 과목에 더 많은 시간을 투자하고, 쉬운 과목은 마지막에 복습합니다.
 
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 과목별 학습 계획을 세웁니다. 무리하지 않으면서 모든 과목을 균형 있게 준비합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 오답 노트의 힘
@@ -101,6 +101,22 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 **Q. 시험 범위가 너무 많아요.**
 
 우선순위를 정하세요. 자주 출제되는 부분, 배점이 높은 부분을 먼저 공부합니다. 모든 것을 완벽하게 하려고 하면 아무것도 못합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

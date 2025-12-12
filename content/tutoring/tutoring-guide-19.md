@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0953_a6MqMqM8rGc.jpg"
 ---
 
 ## 과외 선생님이랑 뭘 얘기해야 할지 모르겠어요. 부모로서 어떻게 참여해야 하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 소통 상담에서는 효과적인 커뮤니케이션 방법을 안내합니다. 언제, 뭘, 어떻게 물어봐야 하는지 정리해드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 왜 선생님과 소통해야 하나요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 학습 상황을 학부모님께 공유합니다. 묻지 않아도 먼저 알려드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 언제, 뭘 물어봐야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님의 질문에 항상 성실하게 답변드립니다. 궁금한 건 언제든 물어보셔도 됩니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 부모가 어디까지 참여해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모님이 어떻게 도와주시면 좋을지 함께 상의합니다. 가정에서 할 수 있는 구체적인 방법을 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,8 +84,48 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님과의 소통 방법에 대해 더 궁금한 점이 있으시면 문의하세요. 효과적인 학부모 참여 방법을 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

@@ -12,7 +12,7 @@ tags:
 - 의식요
 - 문학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0450_RvPiAVE-zWo.jpg"
 ---
 
 ## 민요가 구비문학에서 왜 중요한지 모르겠다고요? 서민의 삶과 정서가 담긴 노래입니다.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요의 개념과 특징을 정리합니다. 기능별 분류와 주요 작품을 체계적으로 학습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 민요의 종류
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요의 분류 기준을 익힙니다. 유형별 대표작과 특징을 정리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 민요의 형식적 특징
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요의 형식적 특징을 분석합니다. 실제 작품에서 율격과 표현을 확인합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 민요에 담긴 정서
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요에 담긴 정서를 분석합니다. 서민 문학으로서의 가치를 이해합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시험 대비
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민요 관련 기출 문제를 분석합니다. 유형별 접근법을 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -76,11 +76,35 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 시집살이 노래, 베틀가, 강강술래 등 교과서 수록 작품을 중심으로 학습하세요.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 민요는 서민의 삶과 정서가 담긴 노래입니다. 기능별 분류와 형식적 특징을 정리하고 대표 작품을 분석하세요. 구비문학의 특성을 이해하면 문제 풀이가 쉬워집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 민요를 체계적으로 학습합니다. 작품 분석과 문제 풀이를 함께 연습합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

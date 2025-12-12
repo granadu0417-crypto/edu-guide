@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0938_sI1mbxJFFpU.jpg"
 ---
 ## 국어, 영어, 수학 다 잘하고 싶은데 시간이 부족해요
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 과목별 성적을 분석합니다. 취약 과목과 강점 과목을 파악해 맞춤 전략을 세웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 주요 과목별 학습 비중
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습 스케줄을 짭니다. 매일 공부할 과목과 시험 대비 과목을 구분합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 수학 학습법
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 바로 문제를 풀어봅니다. 이해와 적용을 동시에 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 영어 학습법
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 테스트로 시작합니다. 교과서 본문 분석을 통해 문법과 독해를 동시에 익힙니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 국어 학습법
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 영역별 학습법을 안내합니다. 문법, 문학, 비문학 각각에 맞는 접근을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 암기 과목 학습법
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기 과목도 이해 중심으로 접근합니다. 효과적인 암기법을 알려드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,34 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 **Q. 어떤 과목부터 공부해야 하나요?**
 
 집중력이 좋을 때 어려운 과목을 하세요. 피곤할 때는 암기나 단어 공부를 하면 됩니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

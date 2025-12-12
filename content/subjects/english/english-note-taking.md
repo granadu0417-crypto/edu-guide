@@ -13,7 +13,7 @@ tags:
 - 공부법
 - note-taking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0395__vosoOa-lD4.jpg"
 ---
 
 ## 영어 노트를 어떻게 정리해야 할지 모르겠다고요? 예쁘게만 쓰고 끝이죠.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 필기 습관을 분석합니다. 효율적인 필기법을 개인에 맞게 설계합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 좋은 필기의 원칙
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필기의 4가지 원칙을 적용합니다. 학생에게 맞는 노트 양식을 함께 만듭니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 영역별 필기법
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 노트 양식을 제공합니다. 실제 학습 내용으로 작성 연습을 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 코넬식 노트 활용
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-코넬식 노트 작성법을 실습합니다. 복습에 활용하는 방법을 훈련합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 오답 노트의 중요성
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 양식을 제공합니다. 오답 분석을 함께 진행하고 복습을 관리합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 수업으로 효율적인 필기법을 익힙니다. 체계적인 정리와 복습 관리로 학습 효율을 높입니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>

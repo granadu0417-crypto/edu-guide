@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0993_bEY5NoCSQ8s.jpg"
 ---
 
 ## 과외비가 천차만별인데, 어느 정도가 적당한 건가요? 비싸면 무조건 좋은가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 때 비용을 투명하게 안내드립니다. 추가 비용 없이 약속된 금액만 받습니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 과외비는 왜 차이가 나나요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준과 목표에 맞는 적정 비용을 상담 때 안내드립니다. 무조건 비싸게 받지 않습니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 비싸면 무조건 좋은 건가요?
@@ -46,12 +46,12 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담 때 수업 방식과 예상 효과를 설명드립니다. 가격만 보지 마시고 내용을 보세요.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 적정 비용은 얼마인가요?
 
-지역과 학년에 따라 다릅니다. 서울 기준, 초등은 시간당 3~5만원, 중등은 4~6만원, 고등은 5~10만원 정도입니다. 수능 전문이면 더 비쌀 수 있습니다.
+지역과 학년에 따라 다릅니다. 서울 기준, 초등은 시간당 3-5만원, 중등은 4-6만원, 고등은 5-10만원 정도입니다. 수능 전문이면 더 비쌀 수 있습니다.
 
 너무 싸면 주의하세요. 시장 가격보다 너무 싸면 이유가 있습니다. 경험이 없거나, 전문성이 부족할 수 있습니다. 싼 게 비지떡일 수 있습니다.
 
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-합리적인 가격으로 최선의 수업을 제공합니다. 비용 대비 효과를 중요하게 생각합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 비용에 대해 더 궁금한 점이 있으시면 문의하세요. 투명하게 안내해 드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 마무리

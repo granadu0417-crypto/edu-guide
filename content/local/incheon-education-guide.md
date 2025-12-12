@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "인천시의 학원, 과외, 교육 환경을 완벽 분석합니다. 송도·청라 신도시부터 인하대·인천대 과외까지, 수도권 접근성을 활용한 맞춤 교육 정보를 제공합니다."
 tags: ["인천교육", "인천학원", "인천과외", "송도학원", "청라학원", "인하대과외", "인천대과외", "수도권교육", "신도시학원", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0283_ijhzqAm3N1Y.jpg"
 ---
 
 ## 인천에서 아이 교육 어떻게 해야 할까요? 송도가 좋다던데 부평이랑 뭐가 다른지 궁금하시죠.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인천 지역 교육 환경을 종합적으로 분석합니다. 거주 지역, 예산, 목표에 맞는 최적의 교육 방법을 찾아드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 인천 주요 교육 지구
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 특성과 장단점을 꼼꼼히 설명합니다. 거주지, 예산, 목표에 맞는 지역을 함께 찾아드립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 인천 주요 학교 분석
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 시험 특성과 출제 경향을 분석합니다. 선생님별 문제 스타일까지 파악해 맞춤 내신 대비를 진행합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인하대, 인천대, 경인교대 등 검증된 인재풀에서 선생님을 연결합니다. 전공, 경력, 수업 스타일을 꼼꼼히 확인합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 학년별 교육 전략
@@ -91,7 +91,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 목표와 전략을 구체적으로 수립합니다. 단기 목표와 장기 목표를 균형 있게 설정합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 서울 접근성 활용 전략
@@ -102,7 +102,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인천과 서울 병행 전략을 안내합니다. 비용 대비 효과를 극대화하는 방법을 찾아드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -126,6 +126,30 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 **Q. 인하대생 과외와 전문 강사 중 어느 게 좋나요?**
 
 초중등은 인하대생 과외로도 충분합니다. 고3 입시는 경험 많은 전문 강사가 유리할 수 있습니다.
+
+**Q. 수업 후 질문은 어떻게 하나요?**
+
+카카오톡으로 언제든 질문하시면 됩니다. 숙제하다가 모르는 문제나 궁금한 점을 사진으로 보내주시면 답변해 드립니다.
+
+**Q. 선생님과 안 맞으면 어떻게 하나요?**
+
+수업 스타일이 맞지 않으면 다른 선생님으로 변경 가능합니다. 학생과의 궁합도 학습에 중요한 요소입니다.
+
+**Q. 방학 동안 수업은 어떻게 되나요?**
+
+방학에는 부족한 부분 보충이나 다음 학기 선행 학습에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 학교 수행평가도 도움받을 수 있나요?**
+
+네, 수행평가 준비도 함께 합니다. 포트폴리오 작성, 발표 준비, 프로젝트 진행 등 다양한 수행평가를 지도해 드립니다.
+
+**Q. 학원보다 과외가 더 효과적인가요?**
+
+학생마다 다릅니다. 스스로 질문하기 어려워하거나, 맞춤형 설명이 필요한 학생에게는 과외가 더 효과적입니다. 경쟁 환경에서 동기부여가 되는 학생은 학원이 맞을 수도 있습니다.
+
+**Q. 결제는 어떻게 하나요?**
+
+월 단위로 선결제가 기본입니다. 계좌이체로 진행하며, 매달 같은 날짜에 결제해 주시면 됩니다.
 
 ## 마무리
 

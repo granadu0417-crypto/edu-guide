@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 ---
 
 ## 과외를 3개월째 받고 있는데, 효과가 있는지 모르겠어요. 어떻게 확인하나요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성과 측정 상담에서는 과외 시작 전 기준점을 먼저 설정합니다. 비교할 대상이 있어야 변화를 알 수 있습니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 성과 측정이 왜 필요한가요?
@@ -34,12 +34,12 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매달 학습 성과를 정리해서 공유합니다. 어떤 부분이 좋아졌고 어떤 부분이 더 필요한지 알려드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 뭘로 측정해야 하나요?
 
-시험 점수가 가장 명확합니다. 과외 전 점수와 후 점수를 비교하세요. 다만 한 번 시험으로 판단하지 말고 2~3번 추이를 보세요.
+시험 점수가 가장 명확합니다. 과외 전 점수와 후 점수를 비교하세요. 다만 한 번 시험으로 판단하지 말고 2-3번 추이를 보세요.
 
 오답률을 확인하세요. 같은 유형 문제를 얼마나 맞히는지 보세요. 예전에 틀리던 유형을 이제 맞히면 효과가 있는 겁니다.
 
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 같은 유형 테스트를 진행합니다. 시간과 정답률 변화를 기록해서 성장을 확인합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 효과가 없으면 어떻게 하나요?
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과가 미흡하면 원인 분석 후 수업 방식을 조정합니다. 필요하면 과감하게 바꿉니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 **Q. 언제부터 효과가 나야 정상인가요?**
 
-보통 1~2개월 후부터 변화가 보입니다. 3개월까지는 기다려보세요. 그 이상 변화가 없으면 점검이 필요합니다.
+보통 1-2개월 후부터 변화가 보입니다. 3개월까지는 기다려보세요. 그 이상 변화가 없으면 점검이 필요합니다.
 
 **Q. 점수는 그대론데 이해도는 올랐다면요?**
 
@@ -87,8 +87,40 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 성과 측정에 대해 더 궁금한 점이 있으시면 문의하세요. 객관적인 평가 방법을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

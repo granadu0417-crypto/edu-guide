@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 ---
 ## 수학은 어디서부터 무너지기 시작했을까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어디서부터 막히기 시작했는지 찾아냅니다. 기초가 부족하면 돌아가서 채웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 개념이 먼저입니다
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식을 외우게 하지 않습니다. 원리를 이해하게 해서 스스로 유도할 수 있게 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학년별 핵심 단원
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 단원을 철저히 다집니다. 빠르게 진도 나가는 것보다 정확하게 이해하는 것을 우선합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 문제 풀이 순서
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 문제부터 풀게 합니다. 무리하게 어려운 문제를 주지 않습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 오답 관리가 핵심입니다
@@ -67,7 +67,7 @@ featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제를 반드시 다시 풀게 합니다. 왜 틀렸는지 설명하게 해서 이해 여부를 확인합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 내신 시험 대비
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춰 계획을 세웁니다. 학교별 출제 경향을 분석해서 대비합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,6 +96,30 @@ featured_image: "https://images.unsplash.com/photo-1587691592099-24045742c181?w=
 **Q. 수학 공부 시간이 많은데 성적이 안 올라요.**
 
 푸는 양보다 제대로 이해하는 게 중요합니다. 틀린 문제 분석에 시간을 더 쓰세요.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

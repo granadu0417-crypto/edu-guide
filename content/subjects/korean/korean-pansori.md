@@ -11,7 +11,7 @@ tags:
 - 춘향가
 - 심청가
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0476_FMlWDLErXzA.jpg"
 ---
 
 ## 판소리가 뭔지도 모르겠고 어떻게 공부하냐고요? 핵심만 알면 쉽습니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-판소리의 기본 개념을 정리합니다. 작품별 특징과 출제 포인트를 분석합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 판소리의 구성 요소
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-판소리 구성 요소를 정리합니다. 실제 판소리 영상으로 이해를 돕습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 판소리 다섯마당
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다섯마당을 작품별로 분석합니다. 주제와 인물, 명장면을 정리합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 판소리의 특징
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-판소리의 미학적 특징을 정리합니다. 출제 빈도가 높은 개념을 집중 학습합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 자주 출제되는 유형을 정리합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,47 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 노래 부분이 창, 말하는 부분이 아니리입니다. 운문과 산문의 차이로 구분하세요.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
 ## 마무리
 
 판소리는 우리 고유의 공연 예술입니다. 구성 요소와 다섯마당을 정리하면 시험 대비가 됩니다. 작품별 특징을 이해하면 감상도 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 판소리를 체계적으로 학습합니다. 작품 분석과 문제 풀이를 함께 진행합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>

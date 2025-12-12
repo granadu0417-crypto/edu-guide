@@ -11,7 +11,7 @@ tags:
 - 원소
 - 주기율표
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0583_vU9O3QsNYd4.jpg"
 ---
 
 ## 화학이 처음부터 막막하고 원소 기호부터 어렵다고요? 기초부터 하나씩 쌓으면 됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원소 기호 암기부터 시작합니다. 학생 수준에 맞춰 기초를 차근차근 쌓아갑니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 원소와 주기율표
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주기율표의 규칙성을 설명합니다. 원소 기호 암기법을 알려드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 원자 구조와 전자 배치
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원자 모형을 그려가며 설명합니다. 전자 배치 규칙을 정리합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 화학 결합과 물질
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-결합 유형별 특징을 비교합니다. 화학식 쓰기와 명명법을 연습합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제로 출제 유형을 파악합니다. 기초 개념 복습을 철저히 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 화학 기초를 완벽히 다집니다. 학생 수준에 맞춘 학습을 제공합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>

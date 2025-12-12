@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0059_0sljWIZH4IQ.jpg"
 ---
 
 ## 서점에 가면 문제집이 수백 권인데, 우리 아이한테 맞는 건 어떻게 골라야 하나요?
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교재 상담에서는 학생의 현재 수준을 먼저 파악합니다. 어떤 과목이 어렵고, 어느 정도 난이도가 적절한지 확인한 후 맞춤 교재를 추천합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 교재 선택 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교재 고르기가 어렵다면 학습 상담을 받으세요. 수준과 목표에 맞는 교재를 구체적으로 안내합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시에 필요한 교재를 추천받을 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별, 목적별 교재 추천 리스트를 안내합니다. 개념서, 유형서, 기출문제집 등 단계별로 어떤 교재가 필요한지 정리해드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 교재는 어떤 기준으로 골라야 하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 수준에 맞는 교재 로드맵을 세워드립니다. 언제 어떤 교재를 풀어야 하는지 순서까지 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,8 +86,32 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교재 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 낭비 없는 교재 활용법을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

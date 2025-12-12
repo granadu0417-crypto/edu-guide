@@ -11,7 +11,7 @@ tags:
 - 한자어
 - 관용어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0499_TRVSyEf4UEE.jpg"
 ---
 
 ## 단어를 외워도 금방 잊어버린다고요? 어원으로 접근하면 다릅니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 어휘 수준을 진단합니다. 어원을 활용한 어휘 확장법을 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 한자 어근 학습
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고빈도 한자를 선별하여 학습합니다. 한자 하나로 여러 단어를 확장합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 접사 활용
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 접사를 정리합니다. 단어 분석 훈련을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 주제별 어휘 확장
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주제별 어휘를 체계적으로 정리합니다. 유의어와 반의어를 함께 학습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 유형을 파악하고 보완합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,7 +73,31 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 **Q. 하루에 몇 개씩 익혀야 하나요?**
 
-5~10개를 꾸준히 익히세요. 주기적 복습이 중요합니다.
+5-10개를 꾸준히 익히세요. 주기적 복습이 중요합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 
@@ -81,5 +105,5 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 어휘력을 확장합니다. 어원 학습과 실전 활용을 함께합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>

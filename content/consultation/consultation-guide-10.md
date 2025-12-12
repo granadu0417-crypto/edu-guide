@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 ---
 
 ## 아이한테 공부하라고 하면 싸우게 되고, 안 하면 걱정되고, 어떻게 해야 할까요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모 상담에서는 현재 가정에서의 학습 지도 상황을 파악합니다. 어떤 점이 잘 되고 있는지, 어디서 어려움을 느끼는지 함께 분석합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학부모 교육 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모 상담은 부모만 받을 수도 있고, 자녀와 함께 받을 수도 있습니다. 상황에 따라 적절한 방식을 선택합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 진학 상담은 입시 정보와 전략을 제공합니다. 부모도 입시 제도를 이해해야 아이를 도울 수 있습니다. 심리 상담은 자녀와의 관계가 힘들 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 가정에서 실천할 수 있는 구체적인 방법을 안내합니다. 작은 것부터 시작해서 변화를 만들어갑니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자녀 학년에 따라 부모 역할이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀 학년에 맞는 부모 역할을 안내합니다. 적절한 거리감을 유지하면서 효과적으로 지원하는 방법을 배웁니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀 학습 지도에 대해 더 궁금한 점이 있으시면 문의하세요. 부모님의 고민을 함께 해결해드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 마무리

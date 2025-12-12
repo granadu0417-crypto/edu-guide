@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0946_E6rHg7X5Ybg.jpg"
 ---
 
 ## 온라인 과외도 효과가 있나요? 대면만큼 집중이 될까요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외 상담에서는 학생의 집중력과 학습 환경을 먼저 확인합니다. 온라인 수업에 맞는 학생인지 판단하고 적합한 수업 방식을 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 온라인 과외가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외 시작 전 테스트 수업을 진행합니다. 화면 공유, 필기 공유가 잘 되는지 확인하고 본 수업을 시작합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 조용히 공부할 수 있는 공간이 있어야 합니다. 거실에서 가족들이 왔다 갔다 하면 집중이 안 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화면 공유와 실시간 필기로 대면 수업처럼 진행합니다. 필요시 녹화본을 제공해 복습을 돕습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 온라인 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중 카메라와 마이크를 켜고 적극적으로 소통하도록 안내합니다. 질문은 언제든 환영합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,8 +86,32 @@ featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 학생 상황에 맞는 온라인 수업 방식을 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

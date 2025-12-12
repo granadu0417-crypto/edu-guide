@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 고등 영어 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0885_cpborMPOnHw.jpg"
 reading_time: 160줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능은 접근 방식이 다릅니다. 학생 목표에 맞춰 두 가지를 균형 있게 준비합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 고등 영어의 특징이에요
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 기간에는 교과서 중심으로, 그 외에는 수능 독해 중심으로 수업합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 내신 대비는 이렇게 해요
@@ -54,7 +54,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별로 풀이 전략을 가르칩니다. 시간 내에 정확하게 푸는 연습을 반복합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 선생님 선택 기준이에요
@@ -65,7 +65,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생 수준을 진단합니다. 어디가 부족한지 파악하고 맞춤 계획을 세웁니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학년별 전략이 달라요
@@ -74,14 +74,14 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 커리큘럼으로 진행합니다. 남은 시간과 목표에 따라 계획을 조정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 수능이랑 내신 중 뭘 먼저 해야 하나요?**
 
-고1~2는 내신 위주로, 고3은 수능 비중을 높이세요. 둘 다 놓치면 안 됩니다.
+고1-2는 내신 위주로, 고3은 수능 비중을 높이세요. 둘 다 놓치면 안 됩니다.
 
 **Q. 영어 과외 주 몇 회가 좋나요?**
 
@@ -94,6 +94,18 @@ reading_time: 160줄
 **Q. 온라인 과외도 효과가 있나요?**
 
 네, 대면과 비슷합니다. 화면 공유로 지문을 함께 볼 수 있어서 편리합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
 
 ## 마무리
 

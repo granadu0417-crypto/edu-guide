@@ -11,7 +11,7 @@ tags:
 - 한문
 - 사자성어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0457_5KPA4nFtHbU.jpg"
 ---
 
 ## 한자가 너무 많아서 외우기 힘들다고요? 효율적인 암기 방법이 있습니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 한자 수준을 진단합니다. 효율적인 암기 방법을 알려드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 한자 학습의 기본
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부수별로 한자를 분류해서 학습합니다. 체계적인 암기 계획을 세웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 사자성어 학습
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 출제되는 사자성어를 정리합니다. 유래와 함께 익혀 기억을 강화합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 한자어 이해
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한자어 구성 원리를 이해합니다. 어휘력 확장에 한자를 활용합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 시험 대비
@@ -58,14 +58,14 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 자주 출제되는 한자와 성어를 집중 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 한자를 몇 개나 알아야 하나요?**
 
-기초 한자 200~500자를 알면 대부분의 한자어를 이해할 수 있습니다.
+기초 한자 200-500자를 알면 대부분의 한자어를 이해할 수 있습니다.
 
 **Q. 한자 공부가 국어에 정말 도움이 되나요?**
 
@@ -81,5 +81,5 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 한자를 체계적으로 학습합니다. 암기부터 활용까지 단계별로 지도합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

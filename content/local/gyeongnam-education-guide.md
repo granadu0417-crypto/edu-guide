@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "경남도의 교육 환경을 완벽 분석합니다. 창원·김해·진주 학원가부터 부산 접근성, 경상국립대 과외, 온라인 교육 전략까지 경남 지역 맞춤 교육 정보를 제공합니다."
 tags: ["경남교육", "경남학원", "경남과외", "창원학원", "김해학원", "진주학원", "부산접근성", "경상국립대과외", "창원대과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0280_2eM_-v2o0Ik.jpg"
 ---
 
 ## 경남도에서 아이 교육 어떻게 해야 할까요? 창원에서 해결될지 부산까지 가야 할지 고민되시죠.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경남 지역 교육 환경을 분석합니다. 거주 지역과 예산에 맞는 최적의 교육 방법을 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 지역별 학원 특성
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학원과 과외 시장을 파악합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 온라인 교육 전략
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인 병행 전략을 안내합니다. 비용을 절감하면서 효과를 극대화하는 방법을 찾아드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학년별 교육 전략
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 전략을 안내합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,6 +73,46 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 **Q. 창원과 김해 중 어디가 좋나요?**
 
 교육 수준은 비슷하지만 김해가 부산 접근성이 좋습니다. 창원은 학원 인프라가 우수하고 인구가 많습니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

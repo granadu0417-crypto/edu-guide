@@ -11,7 +11,7 @@ tags:
 - 연어
 - collocation
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0356_Eerotju7VgI.jpg"
 ---
 
 ## Do homework인지 make homework인지 헷갈린다고요? 단어는 아는데 조합이 어색하다고 느끼시죠.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 쓰는 연어 패턴을 덩어리로 익힙니다. 한국식 영어의 어색한 표현을 교정합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## make 연어와 do 연어
@@ -29,7 +29,7 @@ make는 창조나 생산의 의미로 쓰입니다. make a decision 결정하다
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-make와 do의 구별법을 명확히 정리합니다. 예문을 통해 사용법을 익힙니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## take, have, get 연어
@@ -40,7 +40,7 @@ take는 잡다나 받다의 의미로 쓰입니다. take a break 휴식하다, t
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동사별 연어를 체계적으로 정리합니다. 실전 문장으로 연습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 형용사와 부사 연어
@@ -49,7 +49,7 @@ take는 잡다나 받다의 의미로 쓰입니다. take a break 휴식하다, t
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-형용사와 부사 연어를 세트로 정리합니다. 자연스러운 표현력을 키웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -72,5 +72,5 @@ take는 잡다나 받다의 의미로 쓰입니다. take a break 휴식하다, t
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 수업으로 빈출 연어를 효율적으로 익힙니다. 자연스러운 영어 표현력을 키워드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>

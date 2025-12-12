@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 장학금 완전 정복 가이드. 교내 장학금부터 대외 장학금까지 종류별 준비 전략과 신청 노하우."
 tags: ["장학금", "장학금신청", "학비지원", "대입장학금", "장학금전략", "교내장학금", "대외장학금", "장학금조건"]
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 ---
 
 ## 장학금은 공부 잘하는 애들만 받는 거 아닌가요? 저도 받을 수 있는 장학금이 있을까요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장학금 정보를 함께 찾습니다. 자기소개서 작성과 면접 준비를 도와드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 장학금의 종류
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 장학금을 찾아드립니다. 신청 기한과 조건을 정리해드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 학년별 장학금 전략
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 장학금 전략을 세웁니다. 신청 일정을 관리하고 서류 준비를 도와드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 서류 준비와 자기소개서
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기소개서를 함께 작성하고 첨삭합니다. 면접이 있으면 예상 질문으로 연습합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 장학금 유지 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장학금 유지 조건을 확인합니다. 성적 관리와 의무 활동을 함께 점검합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문

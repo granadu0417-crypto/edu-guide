@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0653_4V1dC_eoCwg.jpg"
 ---
 
 ## 기본권 종류가 헷갈리고 헌법 조문 암기가 어렵다고요? 헌법의 기본 원리부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헌법의 기본 원리를 설명합니다. 각 원리가 실생활에 어떻게 적용되는지 연결합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 헌법의 기본 원리
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-네 가지 기본 원리의 의미를 정리합니다. 헌법 조문과 연결합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 기본권의 종류
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본권의 종류를 비교합니다. 실제 사례와 연결하여 이해합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 국가 기관
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼권분립의 의미를 설명합니다. 각 기관의 역할을 비교합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 기본권과 국가 기관 비교 문제를 집중 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,11 +81,35 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 권력이 한 곳에 집중되면 남용될 수 있어 견제와 균형을 위해 필요합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 헌법은 기본 원리, 기본권, 국가 기관이 핵심입니다. 조문을 직접 읽고 정리하세요. 실제 사례와 연결하면 이해가 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 헌법을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

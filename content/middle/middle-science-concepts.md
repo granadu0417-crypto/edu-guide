@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 과학 개념 완벽 정리 전략 | 1:1 맞춤 지도, 물리·화학·생물·지구과학 [2025년]"
 tags: ["중학생", "과학", "개념", "정리", "이해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 ---
 
 ## 과학 개념이 너무 많고 복잡해요. 어떻게 정리해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별로 개념을 체계적으로 정리합니다. 물리, 화학, 생물, 지구과학 각각의 핵심 개념을 잡아드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 과학 개념 정리가 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념의 정의를 먼저 정확히 이해시킵니다. 왜 그런지 원리를 설명하고, 문제에 적용하는 연습을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 영역별로 어떻게 정리하나요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 특성에 맞게 개념 정리법을 다르게 적용합니다. 물리는 공식, 화학은 반응식, 생물은 그림, 지구과학은 도식 중심으로 정리합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 개념 노트는 어떻게 만드나요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 노트 작성법을 지도합니다. 수업 시간에 함께 정리하면서 효과적인 방법을 익힙니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 그림을 잘 못 그리는데 어떻게 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그림 그리면서 정리하는 연습을 합니다. 꼭 필요한 그림을 함께 그려봅니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -79,6 +79,46 @@ featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=120
 **Q. 실험 정리도 해야 하나요?**
 
 네, 실험은 개념을 눈으로 확인하는 과정입니다. 실험 목적, 방법, 결과, 결론을 개념과 연결해서 정리하세요.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

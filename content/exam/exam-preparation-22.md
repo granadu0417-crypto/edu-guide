@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0160_AD7mteun_Qs.jpg"
 ---
 ## 시험이 일주일 남았는데 아직 준비가 부족해요. 지금부터 뭘 해야 하나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 1주 전, 남은 시간에 최대 효과를 낼 수 있는 핵심 포인트를 집어드립니다. 포기할 것과 집중할 것을 구분합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 1주 전 마인드셋
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1주 전 학습 전략과 멘탈 관리를 함께 안내합니다. 남은 시간을 최대로 활용하면서 컨디션도 유지합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 최종 점검 체크리스트
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최종 점검 체크리스트를 함께 만들고 하나씩 확인합니다. 놓치는 부분이 없도록 꼼꼼히 점검합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 실전 모의고사 활용법
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사를 풀고 함께 분석합니다. 약점을 찾아 집중적으로 보완하고 실전 감각을 키웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 일별 학습 계획
@@ -73,7 +73,7 @@ D-1에는 새로운 공부를 하지 마세요. 요약 노트와 오답 노트�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일별 학습 계획을 세우고 진도를 체크합니다. 계획대로 되지 않아도 유연하게 조정합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 실수 줄이기 전략

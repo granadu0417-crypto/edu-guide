@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 중등교육
-featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0477_PL3jwQzb1Lk.jpg"
 ---
 ## 영어 문법, 암기만 해서는 한계가 있다고요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 규칙을 암기시키지 않습니다. 예문을 통해 원리를 이해시키고, 직접 문장을 만들어보며 체화시킵니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학년별 핵심 문법
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 문법을 단계적으로 학습합니다. 이전 학년 기초가 부족하면 먼저 보완합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시제를 확실히 잡으세요
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시제별로 예문을 만들어보는 연습을 합니다. 같은 상황을 다른 시제로 표현해보며 차이를 체감합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## to부정사와 동명사 구분
@@ -56,7 +56,7 @@ to부정사는 to 뒤에 동사원형이 오는 것입니다. 명사, 형용사,
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-to부정사만 쓰는 동사, 동명사만 쓰는 동사, 둘 다 쓰는 동사를 정리합니다. 예문과 함께 암기합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 관계대명사로 문장 연결하기
@@ -67,7 +67,7 @@ to부정사만 쓰는 동사, 동명사만 쓰는 동사, 둘 다 쓰는 동사�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-두 문장을 관계대명사로 연결하는 연습을 반복합니다. 직접 문장을 만들어보며 익숙해집니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 문법 공부 방법
@@ -78,7 +78,7 @@ to부정사만 쓰는 동사, 동명사만 쓰는 동사, 둘 다 쓰는 동사�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 배운 문법으로 직접 문장을 만들어봅니다. 틀린 부분은 바로 교정합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,6 +96,26 @@ to부정사만 쓰는 동사, 동명사만 쓰는 동사, 둘 다 쓰는 동사�
 **Q. 관계대명사가 어려워요.**
 
 두 문장을 연결하는 연습을 많이 하세요. 원리를 이해하면 어렵지 않습니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 과학 완벽 이해 전략 | 1:1 맞춤 지도, 개념·실험·탐구 [2025년]"
 tags: ["중학생", "과학", "실험", "탐구", "이해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 ---
 
 ## 과학 공부를 어떻게 해야 할지 막막해요. 외워야 하나요 이해해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이해가 먼저, 암기는 그 다음입니다. 원리를 이해하면 암기할 것이 줄어듭니다. 무작정 외우지 않습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과학은 왜 이해가 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜?"라는 질문을 중심으로 수업합니다. 원리를 이해시킨 후 용어와 공식을 정리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 실험이 왜 중요한가요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 원리를 설명하고 결과를 개념과 연결합니다. 실험 보고서 작성법도 지도합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 오개념은 어떻게 고치나요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 가진 오개념을 찾아냅니다. 왜 틀렸는지 설명하고 올바른 개념을 정립합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 분야별로 공부법이 다른가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리, 화학, 생물, 지구과학 각각의 특성에 맞게 다른 방법으로 지도합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,6 +81,30 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 **Q. 수학을 못해서 과학도 못하나요?**
 
 중학 과학에 필요한 수학은 사칙연산, 비례식, 그래프 해석 정도입니다. 그 부분만 보충하면 됩니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

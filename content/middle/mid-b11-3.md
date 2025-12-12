@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0930_bOrjvtn7aY0.jpg"
 ---
 ## 중3 2학기, 마지막 내신이 남았습니다
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마지막 내신 시험까지 집중력을 유지하도록 돕습니다. 생기부 기재 사항도 함께 점검합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 마지막 내신의 중요성
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마지막 시험이라고 방심하지 않도록 동기 부여합니다. 목표 성적을 정하고 달성을 위해 함께 노력합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 생활기록부 마무리
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부에 들어갈 활동을 점검합니다. 부족한 부분은 남은 기간 보완할 수 있도록 안내합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 중3 2학기 학습 전략
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 2학기 핵심 단원을 집중적으로 학습합니다. 고등학교 내용과 연결해서 설명합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 입시 준비 병행
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 일정에 맞춰 학습 계획을 조정합니다. 자기소개서 첨삭, 면접 연습도 도와드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 고등학교 선행 준비
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사 후 겨울방학 기간에 고등학교 선행을 진행합니다. 고1 첫 시험에서 좋은 성적을 받을 수 있도록 준비합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -97,6 +97,14 @@ featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=
 **Q. 일반고 가는데도 생기부가 중요한가요?**
 
 일반고 진학에는 직접 영향이 적습니다. 하지만 고등학교에서 생기부 관리가 중요하므로 중학교 때부터 좋은 습관을 들여두면 좋습니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 꾸준히 3개월 이상 수업하면 확실한 성적 향상을 기대할 수 있습니다.
+
+**Q. 다른 학생과 함께 수업해도 되나요?**
+
+소그룹 수업도 가능합니다. 비슷한 수준의 친구와 함께 하면 비용도 절약하고 경쟁 효과도 있습니다.
 
 ## 마무리
 

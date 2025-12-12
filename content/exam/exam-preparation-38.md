@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 ---
 ## 과학은 공식도 많고 실험도 외워야 하는데 어떻게 정리해야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 개념과 실험을 체계적으로 정리합니다. 원리를 이해하고 문제에 적용하는 연습을 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과학 시험의 특성
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념과 실험을 연결하여 이해합니다. 왜 그렇게 되는지 원리 중심으로 공부합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 과목별 과학 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 학습법을 안내합니다. 약한 부분을 집중적으로 보완합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 실험 정리법
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 실험을 분석하고 정리합니다. 실험 설계 원리를 이해하여 응용 문제에 대비합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 공식 정리법
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식을 이해 중심으로 정리합니다. 문제에 적용하는 연습을 반복합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 대비 전략
@@ -105,6 +105,22 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 **Q. 계산 실수가 많아요.**
 
 단위를 확인하는 습관을 들이세요. 중간 과정을 생략하지 말고 꼼꼼히 쓰세요.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

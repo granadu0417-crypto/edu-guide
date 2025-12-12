@@ -10,7 +10,7 @@ tags:
 - 현대시
 - 문학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0472_YQeaFRCB7f0.jpg"
 ---
 
 ## 현대시가 어렵고 무슨 말인지 모르겠다고요? 감상의 틀을 익히면 이해됩니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 시 감상 수준을 파악합니다. 부족한 부분을 찾아 기초부터 다져갑니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시의 기본 요소
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시의 기본 요소를 정리합니다. 실제 작품에서 요소를 찾는 연습을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 표현 기법
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표현 기법을 유형별로 정리합니다. 작품에서 기법을 찾고 효과를 분석합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주요 작품 분석
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 현대시를 분석합니다. 시대별, 주제별로 작품을 정리합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 유형별 풀이 전략을 정리합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 현대시 감상력을 키웁니다. 작품 분석과 문제 풀이를 함께 훈련합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>

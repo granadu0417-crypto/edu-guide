@@ -16,7 +16,7 @@ tags:
 - 학원평가
 - 사교육
 - 학부모가이드
-featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0717__P9fwHnwhcA.jpg"
 ---
 
 ## 학원을 등록하려는데, 뭘 어떻게 확인해야 하는지 모르겠어요. 체크리스트 같은 게 있으면 좋겠는데요.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 선택이 어려우시면 상담해 주세요. 아이 상황에 맞는 학원 유형을 안내해 드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학원 정보는 어떻게 모으나요?
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 학원 정보가 필요하시면 문의해 주세요. 학원 선택에 도움이 될 정보를 안내해 드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 현장 방문하면 뭘 봐야 하나요?
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 현장 방문 전 체크리스트가 필요하시면 상담해 주세요. 구체적인 질문 목록을 드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 관리 시스템은 뭘 확인해야 하나요?
@@ -62,12 +62,12 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외는 학부모님과의 소통을 중요하게 생각합니다. 정기적으로 학습 현황을 보고드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 계약할 때 뭘 주의해야 하나요?
 
-계약서를 꼼꼼히 읽으세요. 수강 기간과 과목, 수업 요일과 시간이 정확히 적혀 있는지 확인하세요. 환불 규정이 매우 중요합니다. 1개월 미만, 1~3개월 환불 조건, 환불 절차와 기간, 위약금 여부를 확인하세요.
+계약서를 꼼꼼히 읽으세요. 수강 기간과 과목, 수업 요일과 시간이 정확히 적혀 있는지 확인하세요. 수업 조건과 학원 운영 규정을 꼼꼼히 체크하세요.
 
 특약 사항도 체크하세요. 강사 변경 시 어떻게 대응하는지, 수업 변경이나 취소가 가능한지, 휴학 규정은 어떤지, 분반 이동 조건은 뭔지 물어보세요.
 
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 계약은 투명하게 진행합니다. 모든 조건을 명확히 안내드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -90,7 +90,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향을 먼저 파악합니다. 어떤 학습 방식이 맞는지 함께 상담해 드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -101,15 +101,27 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 **Q. 계약서를 꼭 써야 하나요?**
 
-필수입니다. 구두 약속은 나중에 분쟁 소지가 됩니다. 특히 환불 조건은 반드시 문서화하세요.
+필수입니다. 구두 약속은 나중에 분쟁 소지가 됩니다. 중요한 조건은 반드시 문서화하세요.
 
 **Q. 학원을 옮기고 싶을 때 언제가 좋나요?**
 
-학기 초나 방학 시작 시점이 좋습니다. 환불 규정 확인 후 손해 없는 시점에 이동하세요.
+학기 초나 방학 시작 시점이 좋습니다. 진도에 맞춰 적절한 시점에 이동하세요.
 
 **Q. 재원생 부모님께 조언을 구해도 되나요?**
 
 매우 좋습니다. 실제 경험담이 가장 정확한 정보입니다. 학원 측에 소개를 부탁하거나, 학원 앞에서 자연스럽게 대화해 보세요.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
 
 ## 마무리
 

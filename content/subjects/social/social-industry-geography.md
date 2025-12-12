@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 ---
 
 ## 농업, 공업, 서비스업의 구분이 복잡하고 산업 입지가 어렵다고요? 산업 발달 단계부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-산업의 분류와 특징을 정리합니다. 산업 구조 변화를 그래프와 함께 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 1차 산업
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1차 산업의 종류와 특징을 설명합니다. 기후와 산업의 관계를 분석합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 2차 산업과 공업 입지
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공업 입지 유형을 비교표로 정리합니다. 한국의 주요 공업 지역을 지도와 함께 익힙니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 3차 산업
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3차 산업의 종류와 특징을 정리합니다. 산업 구조 변화와 연결하여 설명합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 산업 구조의 변화
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국가별 산업 구조를 비교합니다. 산업 구조 그래프 해석법을 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,35 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 1960년대 경공업에서 1970년대 중화학공업, 현재 첨단 산업으로 발전했습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 산업은 분류, 입지 요인, 구조 변화가 핵심입니다. 경제 발달에 따른 산업 구조 변화를 이해하세요. 그래프와 지도 해석을 반복 연습하면 효과적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 산업을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>

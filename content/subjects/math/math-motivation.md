@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0542_u0zTce7KNlY.jpg"
 ---
 
 ## 수학 공부할 의욕이 전혀 안 생긴다고요? 왜 수학을 해야 하는지 이유를 모르겠다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 수학에서 성취감을 느낄 수 있는 경험을 만들어줍니다. 작은 성공부터 시작합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 동기의 종류
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학의 재미를 느낄 수 있는 문제를 선정합니다. 내재적 동기를 자극합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 목표 설정
@@ -43,7 +43,7 @@ SMART 원칙으로 목표를 세웁니다. S는 구체적으로 이차함수 완
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 함께 달성 가능한 목표를 세웁니다. 목표 달성의 성취감을 경험하게 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 성취감 만들기
@@ -52,7 +52,7 @@ SMART 원칙으로 목표를 세웁니다. S는 구체적으로 이차함수 완
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 학생이 성취감을 느낄 수 있도록 합니다. 작은 성공을 자주 경험하게 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 슬럼프 극복
@@ -61,7 +61,7 @@ SMART 원칙으로 목표를 세웁니다. S는 구체적으로 이차함수 완
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-슬럼프에 빠진 학생을 다독이며 다시 일으켜 세웁니다. 새로운 방법으로 흥미를 되살립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,48 @@ SMART 원칙으로 목표를 세웁니다. S는 구체적으로 이차함수 완
 
 하루 이틀 쉬어보세요. 환경을 바꾸거나 다른 방법을 시도해보세요.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 동기는 수학 공부의 연료입니다. 작은 성공을 자주 경험하고 재미를 찾으면 수학도 즐거울 수 있습니다. 지금 시작해보세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인별 동기 유발 전략을 세웁니다. 지속 가능한 수학 공부 습관을 만들어줍니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 

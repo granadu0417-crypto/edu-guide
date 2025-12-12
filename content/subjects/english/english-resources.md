@@ -13,16 +13,16 @@ tags:
 - resources
 - 추천
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0408_ecUurQklEtk.jpg"
 ---
 
 ## 어떤 자료로 공부해야 좋을지 모르겠다고요? 자료가 너무 많아서 선택이 어렵다고요.
 
-올바른 자료 선택이 효율적 학습의 시작입니다. 자신의 목적과 레벨에 맞는 자료를 고르고, 2~3개에 집중하세요. 너무 많은 자료는 오히려 독이 됩니다.
+올바른 자료 선택이 효율적 학습의 시작입니다. 자신의 목적과 레벨에 맞는 자료를 고르고, 2-3개에 집중하세요. 너무 많은 자료는 오히려 독이 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 현재 레벨을 파악합니다. 개인에게 최적화된 자료를 추천하고 활용법을 안내합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자료 선택 3원칙
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자료 선택 기준을 함께 정립합니다. 시행착오 없이 바로 효과적인 자료를 선택하도록 돕습니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 무료 자료 활용법
@@ -42,7 +42,7 @@ EBS는 수능 중심 무료 강의를 제공합니다. BBC Learning English와 V
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검증된 무료 자료 목록을 정리해드립니다. 효과적인 활용 방법까지 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 유료 자료 선택
@@ -51,16 +51,16 @@ EBS는 수능 중심 무료 강의를 제공합니다. BBC Learning English와 V
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필요한 유료 자료만 선별합니다. 불필요한 지출 없이 효율적으로 투자하도록 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자료 활용 전략
 
-한꺼번에 많은 자료를 사지 마세요. 2~3개를 완전히 마스터하는 것이 10개를 조금씩 보는 것보다 낫습니다. 교재는 기본으로, 앱은 보조로, 영상은 재미로 병행하세요. 매일 루틴을 만들어 활용하세요.
+한꺼번에 많은 자료를 사지 마세요. 2-3개를 완전히 마스터하는 것이 10개를 조금씩 보는 것보다 낫습니다. 교재는 기본으로, 앱은 보조로, 영상은 재미로 병행하세요. 매일 루틴을 만들어 활용하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자료 활용 루틴을 함께 만듭니다. 선택한 자료를 최대한 효과적으로 쓰는 방법을 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -71,11 +71,43 @@ EBS는 수능 중심 무료 강의를 제공합니다. BBC Learning English와 V
 
 **Q. 자료를 몇 개나 써야 하나요?**
 
-2~3개면 충분합니다. 너무 많으면 오히려 비효율적입니다.
+2-3개면 충분합니다. 너무 많으면 오히려 비효율적입니다.
 
 **Q. 교재는 어떤 것이 좋나요?**
 
 검증된 기본서가 좋습니다. 학교 교재, EBS, Grammar in Use 등을 추천합니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 
@@ -83,5 +115,5 @@ EBS는 수능 중심 무료 강의를 제공합니다. BBC Learning English와 V
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외에서 개인에게 최적의 자료를 추천받을 수 있습니다. 효과적인 활용법까지 함께 지도합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

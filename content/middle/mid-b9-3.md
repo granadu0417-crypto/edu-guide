@@ -14,7 +14,7 @@ tags:
 - 중1학년
 - 중등교육
 - 중학교
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"
 ---
 ## 고등학교가 코앞입니다, 중3 1년이 승부처입니다
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고교 입시 일정에 맞춰 연간 학습 계획을 세웁니다. 내신과 고교 대비를 균형 있게 진행합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 중3 교과 내용의 중요성
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 핵심 개념을 완벽히 이해시킵니다. 고등학교 내용과 어떻게 연결되는지 미리 설명해줍니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 월별 학습 및 입시 로드맵
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 일정에 맞춰 학습 계획을 조정합니다. 내신 대비와 입시 준비를 효율적으로 병행합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 수학 학습 전략
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이차방정식과 이차함수를 연결해서 설명합니다. 문제 유형별로 풀이 전략을 정리하고 반복 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 영어 학습 전략
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 설명과 함께 예문을 많이 보여줍니다. 긴 문장을 끊어 읽는 방법도 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 고교 입시 준비
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 고교에 맞는 입시 전략을 제시합니다. 자기소개서 작성, 면접 준비도 함께 도와드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,30 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 **Q. 중3 겨울방학에 뭘 해야 하나요?**
 
 고등학교 수학 선행이 1순위입니다. 수학 상 과정을 미리 공부해두면 고1 1학기가 훨씬 수월합니다. 영어 독해 실력도 미리 키워두면 좋습니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

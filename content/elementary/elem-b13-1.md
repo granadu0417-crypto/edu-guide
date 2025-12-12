@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0111_Q8HfuO9udts.jpg"
 ---
 ## 1학년부터 6학년까지, 학년마다 뭐가 중요할까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 특성에 맞춰 수업합니다. 저학년은 재미있게 게임처럼, 고학년은 체계적으로 계획표대로 진행합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작은 성취도 크게 칭찬합니다. 성공 경험이 쌓이면 공부가 즐거워집니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,18 +47,18 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 약한 부분을 집중 보완합니다. 모든 걸 다 잘할 필요 없습니다. 부족한 부분부터 채우면 됩니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학년별 특징과 대응
 
-저학년 1~3학년은 호기심이 왕성하고 활동적입니다. 구체적 사고 중심이고, 오래 앉아있기 어렵습니다. 놀이를 통한 학습, 짧은 시간 자주 반복, 칭찬과 격려가 중요합니다.
+저학년 1-3학년은 호기심이 왕성하고 활동적입니다. 구체적 사고 중심이고, 오래 앉아있기 어렵습니다. 놀이를 통한 학습, 짧은 시간 자주 반복, 칭찬과 격려가 중요합니다.
 
-고학년 4~6학년은 추상적 사고가 시작되고 학습량이 증가합니다. 사춘기가 시작되기도 합니다. 스스로 계획하고 실천하고, 자기주도 학습을 연습합니다.
+고학년 4-6학년은 추상적 사고가 시작되고 학습량이 증가합니다. 사춘기가 시작되기도 합니다. 스스로 계획하고 실천하고, 자기주도 학습을 연습합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-저학년은 15분씩 쉬어가며, 고학년은 30분 집중 후 휴식합니다. 학년에 맞는 집중 시간을 고려합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 가정에서의 역할
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 방과 후 15시에서 16시에는 간식 먹고 휴식하고 학교 준비물을 정리합니다.
 
-학습 시간은 학년에 따라 다릅니다. 저학년은 30분~1시간, 고학년은 1시간 30분~2시간이 적당합니다. 숙제를 먼저 하고, 교과서 복습, 오답 정리, 독서를 합니다.
+학습 시간은 학년에 따라 다릅니다. 저학년은 30분-1시간, 고학년은 1시간 30분-2시간이 적당합니다. 숙제를 먼저 하고, 교과서 복습, 오답 정리, 독서를 합니다.
 
 저녁에는 저녁식사와 가족 대화 시간을 갖습니다.
 
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정에서 해야 할 복습 내용을 구체적으로 안내합니다. 막연히 복습하라가 아니라 오늘 배운 내용 5분 다시 읽기처럼 명확하게 알려드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 주의사항
@@ -94,7 +94,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 **Q. 학년별로 공부 시간이 얼마나 필요한가요?**
 
-저학년은 30분~1시간, 중학년은 1시간~1시간 30분, 고학년은 1시간 30분~2시간이 적당합니다.
+저학년은 30분-1시간, 중학년은 1시간-1시간 30분, 고학년은 1시간 30분-2시간이 적당합니다.
 
 **Q. 선행학습은 언제부터 하나요?**
 
@@ -103,6 +103,14 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 **Q. 학년이 올라가면 뭐가 달라지나요?**
 
 학습량이 늘고, 내용이 어려워지고, 스스로 해야 할 게 많아집니다. 각 학년에서 해야 할 걸 제때 해두면 다음 학년이 수월합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

@@ -11,7 +11,7 @@ tags:
 - 논리
 - 논증
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0448_2THdTdKs0yU.jpg"
 ---
 
 ## 논술 시험지 앞에서 막막하다고요? 논리적 글쓰기에도 공식이 있습니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 수준을 진단합니다. 논리적 구성력과 표현력을 단계별로 향상시킵니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 논술의 기본 구조
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논술의 기본 구조를 반복 연습합니다. 실제 글쓰기에 적용하는 훈련을 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 논증의 방법
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 논증 방법을 분석합니다. 논제에 맞는 논증 전략을 선택하는 연습을 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 효과적인 근거 제시
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-근거 수집과 활용법을 훈련합니다. 효과적인 인용 방법을 익힙니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 첨삭과 수정
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글을 꼼꼼히 첨삭합니다. 수정 포인트를 짚어주고 다시 쓰는 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 논술 실력을 완성합니다. 논제 분석부터 첨삭까지 체계적으로 지도합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>

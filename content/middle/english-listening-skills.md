@@ -14,7 +14,7 @@ tags:
 - 쓰기
 - 중등교육
 - 중학교
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0478_CjZDX_61LyA.jpg"
 ---
 ## 영어 듣기, 분명 들었는데 왜 기억이 안 날까요?
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 듣기 실력을 진단하고 약한 부분을 파악합니다. 발음 규칙부터 시작해서 단계별로 청취력을 키워갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 중학교 영어 듣기의 특징
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 듣기 평가 유형을 분석합니다. 자주 나오는 문제 유형에 맞추어 전략적으로 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 기초 청취력 다지기
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-받아쓰기 훈련을 체계적으로 진행합니다. 교과서 대화문을 활용하여 단계별로 청취력을 키웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 듣기 유형별 공략법
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 풀이 전략을 훈련합니다. 실제 기출 문제를 풀면서 전략을 적용하는 연습을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 일일 듣기 훈련 루틴
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-쉐도잉과 받아쓰기를 병행합니다. 매일 일정한 시간에 듣기 훈련을 하도록 습관을 잡아드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 하는 실수와 해결법
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 철저히 합니다. 왜 틀렸는지 파악하고 같은 실수를 반복하지 않도록 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -95,6 +95,38 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 **Q. 듣기 평가 시간이 너무 짧아요.**
 
 2회 청취를 전략적으로 활용하세요. 1회차에 전체 내용을 파악하고, 2회차에 애매한 부분을 집중해서 듣습니다. 선택지를 미리 읽어두면 시간을 아낄 수 있습니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

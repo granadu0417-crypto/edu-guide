@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "울산 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 tags: ["울산영어과외", "울산과외", "영어과외", "울산교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 ---
 
 ## 영어 단어는 외우는데 독해가 안 된다고요? 듣기랑 말하기는 더 어렵고요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 4대 영역별로 진단합니다. 읽기와 쓰기 그리고 듣기와 말하기 중 취약한 부분을 집중 보완합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 영어 과외가 필요한 이유
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 공백이 어디에서 시작되었는지 파악합니다. 기초부터 차근차근 채워가며 실력을 쌓습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 학년별 영어 과외 전략
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습 목표를 설정합니다. 내신 시험 기간에는 학교 진도에 맞춰 집중 대비합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 영어 4대 영역 학습법
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4대 영역의 균형 발전을 목표로 수업합니다. 취약 영역에 더 많은 시간을 배분합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 목표에 맞는 선생님을 연결합니다. 시범 수업 후 학생과의 궁합을 확인합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 울산 지역 중학교 영어 내신 특징
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 영작 훈련을 집중적으로 하고, 자주 틀리는 문법을 정리합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 울산 지역 고등학교 영어 내신 특징
@@ -83,24 +83,24 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출 문제를 분석합니다. 취약 유형을 집중적으로 훈련하고 오답 노트를 함께 관리합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과외 비용 안내
 
 울산 지역 영어 과외 비용은 다음과 같습니다.
 
-**초등학생**은 주1회 기준 15만원에서 20만원, 주2회 기준 25만원에서 35만원 선입니다.
+**초등학생**은 주1회 12만원 - 22만원, 주2회 25만원 - 38만원 선입니다.
 
-**중학생**은 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원이 일반적입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**고등학생**은 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 55만원 정도입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다. **고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 원어민 회화 수업은 별도 비용이 책정됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 횟수와 시간은 학생 상황에 맞게 조율합니다. 예산에 맞는 최적의 수업 방식을 찾아드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -124,6 +124,30 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 **Q. 온라인 과외도 효과가 있나요?**
 
 집중력만 유지된다면 온라인도 효과적입니다. 거리가 먼 지역 선생님 수업을 받을 수 있다는 장점도 있습니다.
+
+**Q. 내신 대비와 수능 대비 중 어디에 집중하나요?**
+
+학년과 목표에 따라 다릅니다. 중학생은 내신 위주로, 고등학생은 내신과 수능을 병행합니다. 상담 시 맞춤 계획을 세워드립니다.
+
+**Q. 수업 장소는 어디서 하나요?**
+
+학생 자택, 카페, 스터디카페 등 협의 가능합니다. 온라인 화상 수업도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 형제자매가 함께 수업하면 할인을 적용해 드립니다. 상담 시 문의해 주세요.
+
+**Q. 학교 수행평가도 도움받을 수 있나요?**
+
+네, 수행평가 준비도 함께 합니다. 포트폴리오 작성, 발표 준비, 프로젝트 진행 등 다양한 수행평가를 지도해 드립니다.
+
+**Q. 학원보다 과외가 더 효과적인가요?**
+
+학생마다 다릅니다. 스스로 질문하기 어려워하거나, 맞춤형 설명이 필요한 학생에게는 과외가 더 효과적입니다. 경쟁 환경에서 동기부여가 되는 학생은 학원이 맞을 수도 있습니다.
+
+**Q. 결제는 어떻게 하나요?**
+
+월 단위로 선결제가 기본입니다. 계좌이체로 진행하며, 매달 같은 날짜에 결제해 주시면 됩니다.
 
 ## 마무리
 

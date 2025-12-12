@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 ---
 
 ## 초등학생인데 벌써 과외가 필요할까요? 학원만 보내면 되는 거 아닌가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외 상담에서는 학생이 어느 단원에서 막히는지 먼저 파악합니다. 기초가 부족한 건지, 응용이 안 되는 건지 정확히 진단하고 맞춤 수업을 설계합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 초등 과외가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외 시작 전 기초 학력 테스트를 진행합니다. 어느 학년 내용부터 보충해야 하는지 정확히 파악해드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 진로 상담은 아직 이르지만, 학습 습관 형성에 대한 조언을 받을 수 있습니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 학습 → 문제 풀이 → 오답 정리 → 복습 순서로 진행합니다. 학생 속도에 맞춰 천천히 진행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 초등 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 학부모님께 수업 내용과 학생 상태를 공유합니다. 가정에서 어떻게 도와주면 좋을지 안내드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -74,11 +74,11 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 **Q. 몇 학년부터 과외를 시작하면 좋나요?**
 
-정해진 건 없습니다. 학습에 어려움을 느끼기 시작하면 빨리 시작하는 게 좋습니다. 보통 3~4학년부터 많이 시작합니다.
+정해진 건 없습니다. 학습에 어려움을 느끼기 시작하면 빨리 시작하는 게 좋습니다. 보통 3-4학년부터 많이 시작합니다.
 
 **Q. 주 몇 회가 적당한가요?**
 
-초등학생은 주 1~2회면 충분합니다. 너무 많으면 지칩니다. 대신 수업 사이에 복습을 잘 해야 합니다.
+초등학생은 주 1-2회면 충분합니다. 너무 많으면 지칩니다. 대신 수업 사이에 복습을 잘 해야 합니다.
 
 **Q. 학원과 과외 중 뭐가 나아요?**
 
@@ -86,8 +86,32 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 아이 성향에 맞는 학습 방법을 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

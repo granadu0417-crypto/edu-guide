@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0961_QfrTfjHzQIU.jpg"
 ---
 ## 중2가 왜 이렇게 힘들다고 하죠?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2 학생의 특성을 이해합니다. 억지로 시키지 않고 스스로 하게 만듭니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 중2가 힘든 이유
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2 시기의 특성을 설명합니다. 힘든 게 당연하다고 안심시킵니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 성적 관리 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현실적인 목표를 세웁니다. 작은 성취를 경험하게 해서 자신감을 키웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 학습 동기 부여
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사를 파악합니다. 공부와 연결해 동기를 부여합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 학부모의 역할
@@ -67,7 +67,7 @@ featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과 소통합니다. 가정에서의 대화법을 안내합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 균형 잡힌 생활
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1525921429624-479b6a26d84d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-건강한 생활 습관을 안내합니다. 공부와 휴식의 균형을 맞춥니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}

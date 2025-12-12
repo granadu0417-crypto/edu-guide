@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0128_ojBd8yB5KDM.jpg"
 ---
 ## 처음 학교 가는 아이, 뭐부터 챙겨야 할지 막막하시죠?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학년은 공부보다 학교 적응이 먼저입니다. 재미있게 수업하면서 공부가 즐겁다는 경험을 쌓아줍니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작할 때 오늘 뭘 배울지 미리 이야기해줍니다. 끝날 때는 오늘 뭘 배웠는지 물어봅니다. 이게 예습과 복습의 시작입니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학년에게 무조건 많은 양을 시키지 않습니다. 적은 양이라도 제대로, 재미있게 하는 것이 목표입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 저학년 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-게임처럼 수업합니다. 카드 맞추기, 퀴즈 내기, 스티커 모으기 등으로 공부가 재미있다는 인식을 심어줍니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 배운 내용을 집에서 어떻게 복습하면 좋을지 안내해드립니다. 부모님이 어떻게 도와주시면 좋을지도 말씀드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 주의사항
@@ -105,6 +105,18 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 **Q. 학원을 보내야 하나요?**
 
 1학년은 꼭 학원에 보낼 필요 없습니다. 학교 적응이 먼저입니다. 아이가 학교생활을 잘 하고, 특별히 보충이 필요한 부분이 있을 때 고려하세요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

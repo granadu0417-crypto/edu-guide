@@ -11,7 +11,7 @@ tags:
 - 수능
 - 시험대비
 - 시험전략
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 ---
 ## 영어 지문 읽는데 시간이 너무 오래 걸려요. 어떻게 해야 빨리 읽을 수 있나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 속도가 느린 원인을 먼저 파악합니다. 어휘 문제인지, 문장 구조 파악 문제인지 진단하고 맞춤 훈련을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 영어 시험의 구조
@@ -32,12 +32,12 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능을 구분해서 대비합니다. 내신은 본문 중심, 수능은 독해력 중심으로 전략을 다르게 가져갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 어휘 학습법
 
-단어는 매일 조금씩 외우세요. 한 번에 많이 외우려고 하면 금방 까먹습니다. 매일 20~30개씩 꾸준히 외우는 것이 효과적입니다.
+단어는 매일 조금씩 외우세요. 한 번에 많이 외우려고 하면 금방 까먹습니다. 매일 20-30개씩 꾸준히 외우는 것이 효과적입니다.
 
 단어만 따로 외우지 말고 예문과 함께 외우세요. 문장 속에서 어떻게 쓰이는지 알아야 실제로 활용할 수 있습니다.
 
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 암기 상황을 체크하고 복습 테스트를 진행합니다. 까먹은 단어를 다시 잡아주고 장기 기억으로 만듭니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 문법 학습법
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 출제되는 문법을 정리하고 문제로 적용합니다. 틀리는 유형을 분석해서 약점을 보완합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 독해 전략
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 전략을 연습합니다. 문제 먼저 보기, 핵심 파악하기, 문맥 추론하기 등의 기술을 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 내신 영어 대비
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 본문 분석과 프린트 문제 풀이를 집중적으로 합니다. 내신에 나올 유형을 예상하고 대비합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 수능 영어 대비
@@ -114,6 +114,14 @@ EBS 연계 교재를 익히세요. 연계율이 높으므로 EBS 지문에 익�
 **Q. 영어 듣기가 안 들려요.**
 
 매일 조금씩 영어를 들으세요. 처음엔 안 들려도 계속 노출되면 점점 들리게 됩니다.
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
 
 ## 마무리
 

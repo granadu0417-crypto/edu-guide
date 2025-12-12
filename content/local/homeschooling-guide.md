@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "홈스쿨링(재택 교육) 완벽 가이드입니다. 법적 지위, 장단점, 시작 방법, 교육과정 구성, 학력 인정, 검정고시까지 홈스쿨링의 모든 것을 안내합니다."
 tags: ["홈스쿨링", "재택교육", "대안교육", "검정고시", "홈스쿨교육과정", "자녀교육", "언스쿨링", "홈에듀케이션"]
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 ---
 
 ## 학교를 안 보내도 괜찮을까요? 홈스쿨링을 고민하지만 어디서부터 시작해야 할지 막막하시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 학습 스타일과 관심 분야를 파악합니다. 홈스쿨링 적합성을 함께 판단하고 준비 방향을 안내합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 홈스쿨링의 법적 지위
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-법적 절차와 서류 준비 방법을 안내합니다. 검정고시 준비 로드맵을 함께 설계합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 홈스쿨링의 장단점
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-홈스쿨링 환경 세팅과 일과표 작성을 도와드립니다. 학습 공간과 교육 자료 준비 방법을 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학년별 홈스쿨링 전략
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼을 설계합니다. 검정고시 대비와 수능 준비를 체계적으로 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 사회화와 또래 교류
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-또래 교류 프로그램을 안내합니다. 지역 홈스쿨링 커뮤니티 연결을 도와드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,42 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 **Q. 다시 학교로 돌아갈 수 있나요?**
 
 가능합니다. 학교 유예 상태였다면 복학 절차를 밟고 미등록 상태였다면 교육청과 학교에 문의하여 편입합니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고2 과외, 어떻게 해야 할까요? 수시 vs 정시 결정 시기, 생기부 핵심 만들기, 심화 과목 선택부터 모의고사 전략까지 완벽 가이드입니다."
 tags: ["고2과외", "고등과외", "수시대비", "정시대비", "생기부관리", "모의고사", "내신관리"]
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0709_qODdqdGXWsI.jpg"
 ---
 
 ## 고2가 되니까 갑자기 모든 게 어려워졌어요. 내신도 안 나오고 모의고사도 떨어지는데 이제 와서 수시를 해야 할지 정시를 해야 할지도 모르겠어요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신과 모의고사 성적을 분석합니다. 수시와 정시 중 유리한 방향을 함께 결정합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 수시 vs 정시 선택 기준
@@ -26,20 +26,20 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 강점을 파악해 방향을 추천합니다. 시기별로 내신과 수능 비중을 조절합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 고2 과목별 전략
 
-수학이 가장 중요합니다. 수학I과 수학II가 수능 핵심이고 고1보다 2배 어렵습니다. 개념 30% 유형 50% 심화 20%로 배분하세요. 주 2~3회 과외를 권장합니다.
+수학이 가장 중요합니다. 수학I과 수학II가 수능 핵심이고 고1보다 2배 어렵습니다. 개념 30% 유형 50% 심화 20%로 배분하세요. 주 2-3회 과외를 권장합니다.
 
 {{< cta-dual type="final" >}}
 
-영어는 안정화 시기입니다. 절대평가 90점이 목표이므로 1~2등급이면 학원이나 인강으로 충분합니다. 국어는 장기 투자가 필요합니다. 비문학과 독해 속도 향상에 시간이 걸립니다.
+영어는 안정화 시기입니다. 절대평가 90점이 목표이므로 1-2등급이면 학원이나 인강으로 충분합니다. 국어는 장기 투자가 필요합니다. 비문학과 독해 속도 향상에 시간이 걸립니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 우선순위를 정합니다. 학생 상황에 맞게 시간 배분을 조절합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 생기부 관리 전략
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전공과 연계된 심화 주제를 함께 정합니다. 수업 시간 활용법을 안내해드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 모의고사 전략
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 대비와 오답 분석을 함께 합니다. 취약 영역을 파악하고 보완 전략을 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 **Q. 고2 과외 몇 과목이 적당한가요?**
 
-2~3과목이 현실적입니다. 수학은 필수이고 영어와 국어 중 약한 과목을 추가하세요. 4과목 이상은 부담이 됩니다.
+2-3과목이 현실적입니다. 수학은 필수이고 영어와 국어 중 약한 과목을 추가하세요. 4과목 이상은 부담이 됩니다.
 
 ## 마무리
 

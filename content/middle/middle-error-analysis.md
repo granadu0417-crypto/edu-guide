@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 오답 분석 완벽 마스터 전략 | 1:1 맞춤 지도, 오답노트, 분석, 복습 [2025년]"
 tags: ["중학생", "오답노트", "분석", "복습", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0954__yxsJEUJySM.jpg"
 ---
 
 ## 틀린 문제는 그냥 정답 확인하고 넘어가면 안 되나요? 오답 분석까지 해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정답만 확인하면 다음에 또 틀립니다. 왜 틀렸는지 정확히 분석해야 같은 실수를 반복하지 않습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 오답 분석이 성적에 어떤 영향을 주나요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 자주 틀리는 패턴을 분석합니다. 개념 문제인지 실수인지 구분해서 맞춤 대책을 세웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 오답 원인은 어떻게 분류하나요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제마다 원인을 분류합니다. 원인별로 다른 해결책을 적용합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 오답노트는 어떻게 작성하나요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 작성법을 직접 보여드립니다. 과목별로 효과적인 양식을 알려드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 복습은 어떻게 하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전에 지난 오답을 점검합니다. 복습 스케줄을 함께 관리합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문

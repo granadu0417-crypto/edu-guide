@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0103_X_3seo62yfs.jpg"
 ---
 ## 4학년까지는 쉬웠는데, 5학년 되니까 갑자기 어렵다고요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4학년까지와 달라진 점을 설명합니다. 이제 더 깊이 생각해야 해라고 하면 아이도 마음의 준비가 됩니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이건 왜 그래?라고 물어봅니다. 이유를 설명할 수 있으면 진짜 이해입니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 개념을 설명하고 왜 그런지 알겠어?라고 확인합니다. 고개만 끄덕이면 다시 설명합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 5학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 만들어봅니다. 틀린 이유를 적고, 다음에 어떻게 풀지 정리합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 가정에서의 역할
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 방과 후 15시에서 16시에는 간식 먹고 휴식하고 학교 준비물을 정리합니다.
 
-학습 시간 16시에서 18시에는 숙제를 먼저 하고, 교과서 복습 40분, 심화 학습 30분, 독서 30분을 합니다. 5학년은 1시간 30분~2시간이 적당합니다.
+학습 시간 16시에서 18시에는 숙제를 먼저 하고, 교과서 복습 40분, 심화 학습 30분, 독서 30분을 합니다. 5학년은 1시간 30분-2시간이 적당합니다.
 
 저녁 18시에서 19시에는 저녁식사와 가족 대화 시간을 갖습니다.
 
@@ -79,12 +79,12 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 학습 계획표를 함께 만들고, 매주 점검합니다. 계획 세우고 지키는 연습이 중학교 대비입니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 주의사항
 
-과도한 학습은 금물입니다. 5학년은 하루 1시간 30분~2시간이면 충분합니다. 충분한 휴식 시간이 필요합니다.
+과도한 학습은 금물입니다. 5학년은 하루 1시간 30분-2시간이면 충분합니다. 충분한 휴식 시간이 필요합니다.
 
 균형 잡힌 성장도 중요합니다. 공부만이 아닌 전인적 발달이 필요합니다. 운동, 취미, 친구 관계도 중요합니다.
 
@@ -102,7 +102,23 @@ featured_image: "https://images.unsplash.com/photo-1603354350317-6f7aaa5911c5?w=
 
 **Q. 공부 시간이 늘어나야 하나요?**
 
-시간보다 효율이 중요합니다. 1시간 30분~2시간을 집중해서 하는 게 3시간 대충 하는 것보다 낫습니다.
+시간보다 효율이 중요합니다. 1시간 30분-2시간을 집중해서 하는 게 3시간 대충 하는 것보다 낫습니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

@@ -11,7 +11,7 @@ tags:
 - 문맥파악
 - 1:1과외
 - 독해
-featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 ---
 
 ## 빈칸에 들어갈 말을 고르는 게 어렵다고요? 문맥을 읽는 눈을 키워야 합니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈칸 앞뒤 문맥을 분석하는 방법을 훈련합니다. 논리적 연결 관계를 파악하는 연습을 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 빈칸 추론 전략
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 빈칸 추론 전략을 훈련합니다. 문맥 분석 능력을 체계적으로 키웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 핵심 단서 찾기
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-접속어와 지시어의 기능을 정리합니다. 단서를 활용한 추론 연습을 반복합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 틀리는 유형
@@ -49,16 +49,16 @@ featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 분석합니다. 오답 함정을 피하는 방법을 훈련합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시험 대비
 
-수능에서 빈칸 추론은 매년 2~3문항 출제됩니다. 시간을 많이 쓰지 말고 문맥을 빠르게 파악하세요. 내신에서는 교과서 지문의 핵심 내용을 정확히 이해하는 것이 중요합니다. 빈칸 위치에 따른 유형별 접근법을 익히세요.
+수능에서 빈칸 추론은 매년 2-3문항 출제됩니다. 시간을 많이 쓰지 말고 문맥을 빠르게 파악하세요. 내신에서는 교과서 지문의 핵심 내용을 정확히 이해하는 것이 중요합니다. 빈칸 위치에 따른 유형별 접근법을 익히세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제로 출제 유형을 분석합니다. 시간 내 정확히 푸는 연습을 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,35 @@ featured_image: "https://images.unsplash.com/photo-1526666923127-b2970f64b422?w=
 
 전체 글을 먼저 훑고 주제를 파악하세요. 빈칸 앞뒤만 집중해서 분석하면 시간을 아낄 수 있습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 빈칸 추론은 문맥 파악 능력이 핵심입니다. 접속어와 지시어를 단서로 활용하고 글의 논리 흐름을 파악하세요. 꾸준한 연습으로 문맥 분석 능력을 키우세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 국어 과외로 빈칸 추론을 완벽히 마스터합니다. 문맥 분석 능력을 체계적으로 키웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>

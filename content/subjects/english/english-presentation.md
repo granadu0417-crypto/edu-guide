@@ -12,7 +12,7 @@ tags:
 - presentation
 - speaking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0402_MChSQHxGZrQ.jpg"
 ---
 
 ## 영어 발표를 앞두고 막막하시죠? 뭐라고 시작해야 할지 모르겠다고요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 발표 주제와 목적을 파악합니다. 구조화된 발표 스크립트를 함께 작성합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 프레젠테이션 구조
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서론-본론-결론 구조를 익힙니다. 각 부분의 필수 표현을 정리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 필수 표현 정리
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상황별 필수 표현을 암기합니다. 실제 발표에서 자연스럽게 나오도록 연습합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 질의응답 대처
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-질의응답 대처 표현을 익힙니다. 예상 질문을 만들고 답변을 준비합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 발표 팁
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전처럼 모의 발표를 합니다. 자세, 눈맞춤, 목소리까지 피드백합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -76,11 +76,35 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 솔직하게 I'll find out and get back to you라고 하세요.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 영어 프레젠테이션은 구조와 표현만 익히면 누구나 할 수 있습니다. 충분히 연습하고 자신감을 가지세요. 완벽을 추구하지 말고 명확한 전달에 집중하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 발표 수업으로 자신감을 키웁니다. 실전 연습과 즉각 피드백으로 발표 실력을 향상시킵니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>

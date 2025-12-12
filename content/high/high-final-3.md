@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0661_6zlgM-GUd6I.jpg"
 ---
 ## 수능이 다가오는데 합격 전략이 없어요. 어떤 대학을 어떻게 지원해야 하나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신과 모의고사 성적을 분석합니다. 어떤 대학, 어떤 전형이 유리한지 전략을 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 입시 전략의 기본
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 유리한 전형을 찾습니다. 내신, 모의고사, 비교과를 종합적으로 분석해서 최적의 전략을 세웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 수시 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시 6개를 어떻게 배분할지 전략을 세웁니다. 상향 2개, 적정 2개, 안정 2개로 배분합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 정시 전략
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 성적 발표 후 바로 정시 전략을 세웁니다. 어떤 대학에 지원할지 데이터로 분석합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 시기별 준비
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별 계획을 세웁니다. 언제 뭘 해야 하는지 구체적으로 정합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 면접 준비
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-면접 대비를 도와줍니다. 예상 질문을 만들고 모의 면접을 진행합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 주의사항
@@ -110,6 +110,22 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 **Q. 면접 준비는 언제부터 해요?**
 
 수시 원서 넣고 바로 시작합니다. 1차 합격 발표 후에 시작하면 늦습니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
 
 ## 마무리
 

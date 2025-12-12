@@ -20,7 +20,7 @@ tags:
   - 대경중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0831_zeH-ljawHtg.jpg"
 
 ---
 ## 중구 동화동 중학생, 영어 사역동사가 헷갈린다면
@@ -29,7 +29,7 @@ I made him go와 I let him go에서 뒤에 오는 동사 형태는 왜 같고, I
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 사역동사의 이해 수준을 진단합니다. make, have, let의 용법, 목적격 보어의 형태를 체계적으로 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 사역동사가 어려운 이유
@@ -40,7 +40,7 @@ I made him go와 I let him go에서 뒤에 오는 동사 형태는 왜 같고, I
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사역동사별 의미 차이를 정확히 구분합니다. 다양한 문장에서 올바른 동사 형태를 선택하는 연습을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 덕수중·장원중·대경중 영어 시험의 특징
@@ -53,7 +53,7 @@ I made him go와 I let him go에서 뒤에 오는 동사 형태는 왜 같고, I
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·대경중 기출 사역동사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -64,7 +64,7 @@ I made him go와 I let him go에서 뒤에 오는 동사 형태는 왜 같고, I
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 사역동사 문장을 만들어보게 합니다. 왜 그 동사 형태를 선택했는지 설명하는 훈련을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -77,18 +77,18 @@ I made him go와 I let him go에서 뒤에 오는 동사 형태는 왜 같고, I
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 동사 유형을 정확히 이해합니다. 다양한 동사를 자유롭게 활용하는 능력을 키웁니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 사역동사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -106,6 +106,14 @@ make, have, let 뒤에는 동사원형이 옵니다. 하지만 get 뒤에는 to�
 **Q. 사역동사의 수동태는 어떻게 만드나요?**
 
 make만 수동태가 가능합니다. He made me go → I was made to go. 수동태에서는 to가 붙습니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

@@ -8,7 +8,7 @@ tags:
 - 과외교체
 - 선생님교체
 - 중등과외
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 ---
 ## 선생님을 바꿔야 할 것 같은데, 망설여지시죠?
 
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3개월마다 학생과 학부모님께 피드백을 드립니다. 효과가 나타나고 있는지, 방향 조정이 필요한지 함께 점검합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 즉시 교체해야 할 신호
@@ -27,18 +27,18 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 편안하게 질문하고 소통할 수 있는 분위기를 만듭니다. 불편함이 있으면 언제든 말씀해주세요.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 기다려야 할 상황
 
-과외를 시작한 지 1~2개월이라면 아직 이릅니다. 적응 기간이 필요하고 효과가 나타나려면 최소 3~4개월은 지켜봐야 합니다. 이해도가 조금씩 향상되고 학습 태도가 좋아지고 있다면 긍정적인 신호입니다. 성적 반영은 느리니까 과정을 믿으세요.
+과외를 시작한 지 1-2개월이라면 아직 이릅니다. 적응 기간이 필요하고 효과가 나타나려면 최소 3-4개월은 지켜봐야 합니다. 이해도가 조금씩 향상되고 학습 태도가 좋아지고 있다면 긍정적인 신호입니다. 성적 반영은 느리니까 과정을 믿으세요.
 
-숙제 양이 조금 많거나 적다, 설명 속도가 약간 빠르다 같은 사소한 불만은 선생님과 대화로 조정 가능합니다. 교체보다는 소통이 먼저입니다. 학생이 갑자기 싫다고 하는 것이 시험 스트레스나 사춘기 때문일 수도 있으니 1~2주 지켜보세요.
+숙제 양이 조금 많거나 적다, 설명 속도가 약간 빠르다 같은 사소한 불만은 선생님과 대화로 조정 가능합니다. 교체보다는 소통이 먼저입니다. 학생이 갑자기 싫다고 하는 것이 시험 스트레스나 사춘기 때문일 수도 있으니 1-2주 지켜보세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 방식에 대한 요청은 언제든 말씀해주세요. 학생에게 맞게 조정해드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 교체 방법
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업을 그만두실 때도 편하게 말씀해주세요. 학생에게 맞는 선생님을 찾는 것이 중요합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 하는 실수
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 힘들어하면 원인을 함께 파악합니다. 무조건 바꾸기보다 조정이 가능한지 먼저 확인합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -69,7 +69,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 **Q. 몇 회 정도 해보고 판단해야 하나요?**
 
-최소 10~12회, 약 3개월은 해보세요. 첫 달은 서로 파악하는 기간이고, 3개월이 지나야 효과를 판단할 수 있습니다.
+최소 10-12회, 약 3개월은 해보세요. 첫 달은 서로 파악하는 기간이고, 3개월이 지나야 효과를 판단할 수 있습니다.
 
 **Q. 선생님께 솔직히 이유를 말해야 하나요?**
 
@@ -78,6 +78,30 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 **Q. 선생님과 친해졌는데 어떻게 바꾸나요?**
 
 어렵지만 학생 성장이 우선입니다. 정중하게 감사 인사와 함께 말씀드리면 대부분 이해하십니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

@@ -18,7 +18,7 @@ tags:
 - 수능수학
 - 1:1과외
 - 맞춤수업
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0343_WiAxPadtLFQ.jpg"
 ---
 
 "우리 아이 수학 성적, 어떻게 하면 올릴 수 있을까요?"
@@ -27,7 +27,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 명동의 번화한 거리, 을지로의 활기찬 분위기, 남산 아래 조용한 주택가...
 서울 한복판이지만 우리 아이에게 딱 맞는 수학 교육, 충분히 가능합니다.
 
-![중구 교육환경](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![중구 교육환경](/images/edu_0294_-uHVRvDr7pg.jpg)
 
 ## 중구, 수학 공부하기 좋은 이유
 
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 집, 스터디카페, 도서관 등 편한 장소에서 1:1 맞춤 수업을 진행합니다. 바쁜 일정에 맞춰 유연하게 시간 조율이 가능합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ### 동네별 학습 분위기
@@ -74,14 +74,14 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 학교 시험 일정에 맞춰 내신 대비를 진행합니다. 덕수중, 중동중 등 학교별 출제 경향을 파악하여 맞춤 대비해 드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학년별 수학과외, 이렇게 다릅니다
 
 ### 초등학생 수학 - 수학이 재미있어지는 시간
 
-**초등 저학년(1~3학년)**
+**초등 저학년(1-3학년)**
 
 이 시기 목표는 단 하나, **"수학이 싫지 않게"** 만드는 것입니다.
 무리한 선행보다 수 감각을 키우고 자신감을 심어주는 게 중요합니다.
@@ -91,28 +91,28 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 - 틀려도 괜찮다는 안전한 학습 경험
 - 작은 성공 경험 쌓아 자신감 키우기
 
-**초등 고학년(4~6학년)**
+**초등 고학년(4-6학년)**
 
 중학교 수학의 기초가 되는 **핵심 개념**을 확실히 잡는 시기입니다.
 분수, 소수, 비율... 여기서 흔들리면 중등 수학이 힘들어집니다.
 
-![수학 학습](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![수학 학습](/images/edu_0295_IJrIeCs3D4g.jpg)
 
 - 분수·소수 연산 완벽 마스터
 - 도형의 넓이, 부피 개념 정확히 이해
 - 비와 비율, 비례식 기초 다지기
 - 문장제 문제 해결력 훈련
 
-초등 수학과외 비용은 주 1회 기준 약 12만원에서 22만원, 주 2회 기준 약 25만원에서 38만원 선입니다. 수업 시간과 선생님 경력에 따라 달라지니 상담 시 정확히 안내드립니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원 -  22만원, 주 2회 기준 약 25만원 -  38만원 선입니다. 수업 시간과 선생님 경력에 따라 달라지니 상담 시 정확히 안내드립니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교구와 게임을 활용해 수학이 재미있어지는 경험을 선물합니다. 아이가 "수학 시간이 기다려져요"라고 말할 때까지!
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ### 중학생 수학 - 고등 수학의 뿌리를 심는 시간
 
-**중1~중2 과정**
+**중1-중2 과정**
 
 중학교 수학은 **고등 수학 성공의 80%를 결정**합니다.
 방정식, 함수, 도형의 성질... 지금 배우는 게 수능까지 갑니다.
@@ -132,16 +132,16 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 - 고등 선행은 중등 완성 후에!
 - 중3 겨울방학이 골든타임
 
-중학생 수학과외 비용은 주 1회 기준 약 22만원에서 32만원, 주 2회 기준 약 29만원에서 47만원 선입니다. 내신 대비 기간에는 보충 수업도 가능합니다.
+중학생 수학과외 비용은 주 1회 기준 약 22만원 -  32만원, 주 2회 기준 약 29만원 -  47만원 선입니다. 내신 대비 기간에는 보충 수업도 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 방정식, 함수도 원리부터 차근차근! "아, 이래서 이렇게 되는구나" 이해의 순간을 만들어드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 고등학생 수학 - 수능을 향한 본격 레이스
 
-**고1~고2 과정**
+**고1-고2 과정**
 
 고등 수학은 중등과 **차원이 다릅니다.**
 처음엔 누구나 어려워합니다. 중요한 건 포기하지 않고 꾸준히 하는 것!
@@ -156,16 +156,16 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 남은 시간은 한정되어 있습니다.
 **될 것은 확실히, 안 될 것은 과감히** 전략을 세워야 합니다.
 
-- 킬러 문항보다 2~3점 문제 완벽 대비
+- 킬러 문항보다 2-3점 문제 완벽 대비
 - 실수 줄이기 훈련 (계산 실수 = 등급 하락)
 - 시간 배분 연습으로 실전 감각 키우기
 - 자주 틀리는 유형 집중 반복
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리를 제공합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리를 제공합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능까지 함께 달립니다! 모의고사 분석, 취약 유형 집중 공략으로 목표 등급 달성을 도와드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 중구 주요 학교별 수학 내신 전략
@@ -206,7 +206,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석하여 출제 패턴을 파악합니다. 시험 4주 전부터 단계별 내신 대비 플랜으로 목표 등급 달성을 도와드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 좋은 수학 선생님, 이렇게 찾으세요
@@ -230,7 +230,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 아이 성향과 현재 실력을 파악한 후 맞춤 커리큘럼을 제안해 드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -266,7 +266,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 대비 기간에는 카카오톡으로 질문을 받습니다. 모르는 문제 사진 찍어 보내면 풀이 영상이나 설명을 보내드려요.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 하시는 질문
@@ -282,7 +282,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 **Q. 선행학습 어디까지 해야 하나요?**
 
 무조건 빨리 나가는 게 능사가 아닙니다.
-- 상위권: 1학기~1년 선행 가능
+- 상위권: 1학기-1년 선행 가능
 - 중위권: 현행 완벽히 → 반 학기 선행
 - 하위권: 선행보다 복습 우선
 

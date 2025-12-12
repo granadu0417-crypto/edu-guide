@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 관리형 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 학원 선택 기준과 효율적인 활용법을 상세히 설명합니다.
 
-featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0757_LK4sk81TZh8.jpg"
 reading_time: 270줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 자기 관리 능력을 먼저 파악합니다. 어떤 수준의 관리가 필요한지 상담에서 안내해 드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 관리형학원이란 뭔가요?
@@ -39,7 +39,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관리형학원에서 부족한 부분은 과외로 보완합니다. 학원 진도에 맞춰 약점만 집중 케어합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 관리형학원의 장점은 뭔가요?
@@ -52,7 +52,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관리형학원 수업 외에 심화가 필요하면 과외를 추천합니다. 기본 관리는 학원, 실력 향상은 과외로 나눕니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 관리형학원의 단점은 뭔가요?
@@ -75,7 +75,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황을 파악해서 어떤 수준의 관리가 맞는지 안내해 드립니다. 과도한 관리가 역효과일 수도 있습니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 관리형학원 선택할 때 뭘 확인해야 하나요?
@@ -90,7 +90,7 @@ reading_time: 270줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관리형학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문
@@ -110,6 +110,18 @@ reading_time: 270줄
 **Q. 언제까지 관리형학원을 다녀야 하나요?**
 
 자기 주도 학습이 될 때까지입니다. 관리가 습관이 되면 일반 학원으로 옮겨도 됩니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
 
 ## 마무리
 

@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0131_jfnUC7s3iuw.jpg"
 ---
 ## 4학년, 공부량이 확 늘어서 당황스러우시죠?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4학년은 고학년의 시작입니다. 스스로 계획하고 실천하는 자기주도 학습을 본격적으로 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문제도 포기하지 않고 끝까지 생각하는 습관을 들입니다. 바로 답을 알려주지 않고, 힌트를 주면서 스스로 풀게 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분수는 피자나 초콜릿으로 시각화해서 가르칩니다. 2분의 1이 왜 반인지, 눈으로 보면 이해가 빠릅니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 고학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4학년은 사춘기 시작 전입니다. 아직은 부모님 말을 잘 듣는 시기이니, 이때 학습 습관을 확실히 잡아두세요.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전부터 시험 계획표를 함께 만듭니다. 스스로 계획하고 지키는 연습이 중고등학교 내신 관리의 기초가 됩니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 주의사항
@@ -103,6 +103,26 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 **Q. 학원을 추가로 보내야 하나요?**
 
 아이가 학교 수업을 잘 따라가고 있다면 꼭 학원을 늘릴 필요는 없습니다. 부족한 부분이 있을 때 보충 목적으로 고려하세요.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

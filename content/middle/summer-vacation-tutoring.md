@@ -10,7 +10,7 @@ tags:
 - 학습전략
 - 방학과외
 - 선행학습
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0226_9eppPl9-5T8.jpg"
 ---
 ## 여름방학 40일, 놀기만 하면 2학기에 무너집니다
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 시작 전에 1학기 성적을 분석합니다. 취약 과목을 파악하고 방학 학습 계획을 세웁니다. 복습과 선행 비율을 학생 상태에 맞게 정합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 방학이 중요한 이유
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 동안 과외 횟수를 늘립니다. 평소 주 2회면 방학에는 주 3에서 4회로 늘려서 집중적으로 학습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 40일 전체 계획
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 계획을 세웁니다. 중1은 습관에, 중2는 실력에, 중3은 고등 대비에 초점을 맞춥니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 선행과 복습의 비율
@@ -69,7 +69,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 과외는 평소보다 시간을 늘립니다. 90분에서 120분으로 늘려서 개념과 문제 풀이를 충분히 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 생활 관리
@@ -95,6 +95,14 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 **Q. 방학 때 과외 횟수를 늘려야 하나요?**
 
 선택적으로 늘리는 것이 좋습니다. 수학은 주 2회에서 주 3에서 4회로, 영어는 주 2회에서 주 2에서 3회로 늘립니다. 하지만 과외 시간이 너무 많으면 자율 학습 시간이 부족해집니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

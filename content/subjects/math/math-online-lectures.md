@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 기하
-featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0546_O5EMzfdxedg.jpg"
 ---
 
 ## 인강만 보면 아는 것 같은데 막상 문제를 풀면 안 풀린다고요? 봤는데 성적이 오르지 않아서 의문이시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인강 활용법을 체계적으로 안내합니다. 수동적 시청을 능동적 학습으로 바꿉니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 강사 선택
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 강사 선택을 도웁니다. 시기별 수강 전략을 안내합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 효과적 시청법
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 인강 시청법을 가르칩니다. 능동적으로 참여하도록 유도합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 시청 후 활동
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인강 후 복습과 문제 풀이를 강조합니다. 실천 계획을 세우도록 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 인강의 함정
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인강 활용의 함정을 미리 알려줍니다. 올바른 방법으로 학습하도록 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,36 @@ featured_image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=
 
 복습과 문제 풀이를 하고 있나요? 인강 시청만으로는 부족합니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 인강은 올바르게 활용하면 강력한 도구입니다. 수동적 시청이 아닌 능동적 학습으로 인강의 효과를 극대화하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인강 활용법을 완벽히 가르칩니다. 인강과 과외의 시너지를 만들어냅니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 

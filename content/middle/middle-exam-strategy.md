@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 시험 완벽 대비 전략 | 과목별 공부법, 시험 기간별 전략, 당일 준비, 오답 노트 활용 [2025년]"
 tags: ["중학생", "시험대비", "내신시험", "중간고사", "기말고사", "과목별공부법", "시험전략"]
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0955_yILvKBWR41k.jpg"
 ---
 
 ## 시험 준비가 너무 막막해요. 어디서부터 시작해야 하는지 모르겠어요
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황에 맞는 시험 대비 계획을 함께 세웁니다. 실현 가능한 계획이 최고의 계획입니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 시험 3주 전에는 뭘 해야 하나요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위를 파악하고 주간 계획을 함께 세웁니다. 학생의 약점 과목에 더 많은 시간을 배분합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 시험 2주 전에는요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이를 시작하고 틀린 문제를 분석합니다. 오답 노트 작성법을 지도합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 시험 1주 전에는 어떻게 하나요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최종 정리 수업을 합니다. 자주 틀리는 유형을 집중적으로 점검합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시험 전날에는 뭘 하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날에는 핵심 정리만 합니다. 긴장을 풀고 컨디션을 최상으로 유지합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문

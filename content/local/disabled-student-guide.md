@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "장애학생 교육 지원 완벽 가이드 | 특수교육 대상자 선정·장애 유형별 지원·통합교육·개별화교육계획·치료지원·진로교육·법적 권리까지 상세 안내"
 tags: ["장애학생", "특수교육", "통합교육", "개별화교육", "특수교육지원", "장애학생지원", "특수학급", "치료지원", "진로교육"]
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0196_vEmsPRxxPJQ.jpg"
 ---
 
 ## 장애가 있는 우리 아이도 제대로 된 교육을 받을 수 있을까요? 특수교육 대상자 선정부터 치료지원까지 막막하시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장애학생의 교육적 요구를 정확히 파악합니다. 개별 학생에게 맞는 맞춤형 교육 계획을 수립합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 특수교육 대상자 선정 절차
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선정 절차를 상세히 안내합니다. 필요한 서류와 일정을 확인하고 준비할 수 있도록 도와드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 개별화교육계획의 중요성
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개별화교육계획 회의에 적극 참여하세요. 자녀에 대한 정보를 공유하고 의견을 제시하는 것이 중요합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 치료지원 서비스 활용
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필요한 치료지원 서비스를 안내합니다. 신청 방법과 이용 절차를 확인할 수 있도록 도와드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 통합교육과 특수학급
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 적합한 교육 환경을 찾아드립니다. 통합교육의 장점을 최대한 활용할 수 있도록 지원합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,30 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 **Q. 장애가 있어도 대학에 갈 수 있나요?**
 
 네 가능합니다. 일반 대학의 장애학생 특별전형이나 장애인 대상 대학에 진학할 수 있습니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

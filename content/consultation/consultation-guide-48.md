@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습방법
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0070_zFSo6bnZJTw.jpg"
 ---
 
 ## 수학은 수학대로, 영어는 영어대로 따로 공부해야 하나요? 과목마다 공부법이 다른 거예요?
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습 상담에서는 각 과목의 특성에 맞는 공부법을 안내합니다. 어떤 과목이 취약한지, 왜 안 오르는지 분석하고 맞춤 전략을 세웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과목별 학습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특정 과목이 안 오른다면 학습 상담을 받으세요. 그 과목에 맞는 공부법을 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시에서 어떤 과목에 집중해야 하는지 다룹니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 맞춤 학습 전략을 안내합니다. 어떤 순서로, 어떤 방법으로 공부해야 하는지 구체적으로 정리해드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 과목별 공부법은 어떻게 다른가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 취약 과목을 집중 분석하고 맞춤 전략을 세워드립니다. 각 과목에 얼마나 시간을 배분해야 하는지도 함께 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 공부법에 대해 더 궁금한 점이 있으시면 문의하세요. 각 과목에 맞는 전략을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 마무리

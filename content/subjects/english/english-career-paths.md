@@ -12,7 +12,7 @@ tags:
 - 직업
 - 전문영어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 ---
 
 ## 의대 가려는데 어떤 영어를 공부해야 하는지 모르겠다고요? 공대나 경영대 진학에 필요한 영어가 다른지 궁금하다고요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로에 맞춤화된 영어 학습을 진행합니다. 전공 분야에 필요한 영어를 미리 준비합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 이공계 진로 영어
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이공계 진로에 맞는 전문 영어를 익힙니다. 영어 논문 읽기의 기초를 다집니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 인문사회 진로 영어
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인문사회 계열에 맞는 영어 학습을 진행합니다. 원서 읽기와 에세이 작성 연습을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 예체능 진로 영어
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 진로에 맞는 영어를 준비합니다. 해외 활동에 필요한 영어 능력을 키웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,5 +73,5 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 진로 영어 수업으로 미래를 준비합니다. 진로에 맞는 영어 실력을 키워드립니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

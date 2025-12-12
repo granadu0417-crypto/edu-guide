@@ -15,7 +15,7 @@ tags:
 - 자기주도학습
 - 중6학년
 - 중등교육
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0939_pYWuOMhtc6k.jpg"
 ---
 ## 이제 진짜 고등학교 입시가 시작됩니다
 
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 입시 일정에 맞춰 학습 계획을 세웁니다. 내신, 생기부, 고교 지원을 체계적으로 준비합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 중3 내신의 중요성
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마지막 내신 시험까지 집중력을 유지하도록 관리합니다. 방심하지 않도록 동기 부여합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 생활기록부 마무리
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부 기재 내용을 함께 점검합니다. 부족한 부분은 남은 기간 보완하도록 안내합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 고교 지원 전략
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적과 성향에 맞는 고교를 함께 분석합니다. 지원 전략을 구체적으로 세웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자기소개서와 면접 준비
@@ -67,7 +67,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자기소개서 작성을 도와드립니다. 모의 면접으로 실전 감각을 키웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 겨울방학 선행 계획
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-겨울방학 동안 고등학교 과정을 미리 준비합니다. 고1 첫 시험에 대비합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,6 +96,18 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 **Q. 면접이 떨려요.**
 
 연습이 최고입니다. 거울 앞에서 말하는 연습을 하세요. 모의 면접을 여러 번 해보면 긴장이 줄어듭니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

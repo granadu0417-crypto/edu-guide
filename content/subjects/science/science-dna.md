@@ -10,7 +10,7 @@ tags:
 - DNA
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0590_HjxXBQ4MKD8.jpg"
 ---
 
 ## DNA가 복잡하고 유전자 발현이 이해가 안 된다고요? 구조부터 차근차근 정리하면 됩니다.
@@ -19,7 +19,7 @@ DNA는 유전 정보를 저장하고 전달하는 물질입니다. 이중 나선
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-DNA 구조를 그림으로 그려보며 이해합니다. 뉴클레오타이드 구성 요소를 하나씩 확인합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## DNA 구조
@@ -28,7 +28,7 @@ DNA는 뉴클레오타이드가 연결된 사슬입니다. 뉴클레오타이드
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-염기쌍 결합 규칙을 정리합니다. 이중 나선의 방향성을 이해합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## DNA 복제
@@ -39,7 +39,7 @@ DNA는 뉴클레오타이드가 연결된 사슬입니다. 뉴클레오타이드
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복제 과정을 단계별로 정리합니다. 관련 효소의 역할을 구분합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 유전자 발현
@@ -48,7 +48,7 @@ DNA는 뉴클레오타이드가 연결된 사슬입니다. 뉴클레오타이드
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전사와 번역의 차이를 명확히 구분합니다. 코돈표 읽는 법을 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ DNA는 내신과 수능에서 필수 출제 단원입니다. 복제 과정, 염�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제 유형을 분석합니다. 계산 문제와 그림 해석을 집중 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ DNA는 구조, 복제, 발현의 흐름이 핵심입니다. 뉴클레오타이�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 DNA를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>

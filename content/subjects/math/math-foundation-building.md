@@ -1,5 +1,5 @@
 ---
-title: 수학 기초 vs 심화 학습 | 연산~응용 균형 비교 완벽 가이드 - 성공적인 학습법과 활용 전략
+title: 수학 기초 vs 심화 학습 | 연산-응용 균형 비교 완벽 가이드 - 성공적인 학습법과 활용 전략
 date: 2025-01-26
 reading_time: "160줄"
 description: 수학 기초를 체계적으로 다지는 완벽한 학습법을 소개합니다. 연산 능력부터 기본 개념, 응용력까지 수학 실력의 토대를 확실하게 세우는 모든 방법을 안내합니다.
@@ -16,7 +16,7 @@ tags:
 - 초등수학
 - 중학수학
 - 기초다지기
-featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0522_A-ymoZYu5J8.jpg"
 ---
 
 ## 수학 기초가 부족한 것 같은데 어디서부터 시작해야 할지 모르겠다고요? 기초를 다시 잡고 싶은데 방법을 모르시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 수준을 정확히 진단합니다. 부족한 기초부터 차근차근 채워나갑니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 연산 능력 다지기
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연산 약점을 파악합니다. 매일 계산 연습으로 연산을 자동화시킵니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 기초 개념 학습
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 원리부터 설명합니다. 이해한 후 암기하도록 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 기초 다지기 5단계
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-5단계를 체계적으로 진행합니다. 학생의 속도에 맞춰 차근차근 진행합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 흔한 실수
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 실수를 미리 짚어줍니다. 올바른 학습 습관을 들입니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,12 +80,36 @@ featured_image: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=
 
 기초가 먼저입니다. 기초 없이 심화는 불가능합니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 수학 기초 다지기의 핵심은 원리 이해와 꾸준한 반복입니다. 매일 조금씩 꾸준히 하면 반드시 수학 실력이 향상됩니다. 기초가 탄탄하면 어떤 문제도 두렵지 않습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기초부터 탄탄히 다져드립니다. 학생의 속도에 맞춰 체계적으로 진행합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 

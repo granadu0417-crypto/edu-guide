@@ -14,7 +14,7 @@ tags:
 - 수능
 - 수시
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0637_OP3vR-ojnT0.jpg"
 ---
 ## 수시로 갈지 정시로 갈지, 아직도 결정을 못 했어요
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신과 모의고사 성적을 분석합니다. 수시와 정시 중 어디가 유리한지 파악하고 전략을 세웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 수시 전략
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시 6개를 어떻게 배분할지 전략을 세웁니다. 대학별 입결을 분석해서 합격 가능성을 계산합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 정시 전략
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 성적 발표 후 바로 정시 전략을 세웁니다. 어떤 대학에 지원할지 데이터로 분석합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시기별 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별로 비중을 조절합니다. 언제 내신에 집중하고, 언제 수능에 집중할지 계획을 세웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 수능 최종 점검
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 전 최종 점검을 합니다. 오답 복습, 시간 관리, 컨디션 관리를 체크합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 멘탈 관리
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-멘탈 관리도 도와줍니다. 불안하면 이야기하세요. 혼자 끙끙 앓지 마세요.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 주의사항
@@ -111,6 +111,18 @@ featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=
 **Q. 정시는 언제부터 준비하나요?**
 
 지금부터 수능 공부하면 됩니다. 정시 전략은 수능 성적 발표 후에 세웁니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
 
 ## 마무리
 

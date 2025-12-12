@@ -11,7 +11,7 @@ tags:
 - 시대구분
 - 문학운동
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0470_6N5XRJSiE64.jpg"
 ---
 
 ## 현대문학사 시대 구분이 복잡하다고요? 흐름을 잡으면 정리됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현대문학사의 시대 구분을 정리합니다. 시대별 대표 작가와 작품을 체계적으로 학습합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 개화기와 1910년대
@@ -29,10 +29,10 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개화기 문학의 특징을 정리합니다. 신소설과 근대 문학의 연결점을 분석합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
-## 1920~30년대
+## 1920-30년대
 
 1920년대는 동인지 시대로 낭만주의가 유행했습니다. 김소월, 한용운 등 대표 시인이 활동했습니다. 1930년대는 모더니즘과 리얼리즘이 대립했습니다. 이상, 김유정, 이효석 등이 이 시기 작가입니다.
 
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1920~30년대 문학의 다양성을 정리합니다. 사조별 대표 작품을 분석합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 해방 이후
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해방 이후 문학사의 흐름을 정리합니다. 시대별 주요 논쟁과 작품을 분석합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 문학사 관련 출제 유형을 정리합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 현대문학사를 체계적으로 학습합니다. 작품 분석과 연결하여 이해를 깊게 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>

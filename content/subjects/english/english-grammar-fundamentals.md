@@ -12,7 +12,7 @@ tags:
 - 시제
 - 문장구조
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0377_tvB0cS5WZZU.jpg"
 ---
 
 ## 문법이 너무 헷갈려서 어디서부터 시작해야 할지 모르겠다고요? 배워도 금방 까먹으시죠.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 문법 약점을 진단합니다. 기초부터 차근차근 체계적으로 정리합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 8품사 기초
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-8품사를 예문과 함께 익힙니다. 문장 속에서 각 품사의 역할을 파악합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 12시제 체계
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-12시제를 체계적으로 정리합니다. 시제별 용법과 시간 표현의 관계를 명확히 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 5형식 문장구조
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-5형식 문장 구조를 예문으로 익힙니다. 모든 문장을 형식으로 분석하는 훈련을 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 준동사
@@ -59,7 +59,7 @@ to부정사는 명사적, 형용사적, 부사적 용법이 있습니다. To stu
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-준동사를 용법별로 정리합니다. 동사에 따른 목적어 선택(to V vs V-ing)을 익힙니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -76,11 +76,47 @@ to부정사는 명사적, 형용사적, 부사적 용법이 있습니다. To stu
 
 실전에 적용하세요. 독해하며 문법 확인, 작문에 활용하면 흥미가 생깁니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 영어 문법은 모든 영어 실력의 토대입니다. 8품사, 12시제, 5형식만 확실히 잡으면 독해와 작문 모두 쉬워집니다. 이해하고 반복하면 자동화됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 기초를 확실히 다집니다. 체계적 정리와 반복 연습으로 문법을 정복합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>

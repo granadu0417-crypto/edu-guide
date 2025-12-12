@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 함수
 - 과외
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0565_u7i3ZvZOEUM.jpg"
 ---
 
 ## sin, cos, tan이 도대체 뭔지 모르겠다고요? 삼각함수 공식이 너무 많아서 외워지지 않는다고 느끼시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼각비의 정의부터 차근차근 설명합니다. 암기법을 알려주고 혼동하지 않도록 반복 확인합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 특수각과 사분면
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특수각을 완벽히 암기시킵니다. 사분면 부호를 빠르게 판단하는 방법을 훈련합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 삼각함수 그래프
@@ -45,7 +45,7 @@ sin x의 그래프는 주기가 2파이이고 최댓값이 1이며 최솟값이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프를 직접 그리며 이해시킵니다. 주기와 진폭과 이동의 의미를 명확히 설명합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 핵심 공식
@@ -54,7 +54,7 @@ sin x의 그래프는 주기가 2파이이고 최댓값이 1이며 최솟값이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덧셈정리를 완벽히 암기시킵니다. 유도 과정을 이해시켜 공식을 잊어도 스스로 만들 수 있게 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 삼각방정식과 실전 팁
@@ -63,7 +63,7 @@ sin x의 그래프는 주기가 2파이이고 최댓값이 1이며 최솟값이 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 집중 연습합니다. 실수 패턴을 파악하고 같은 실수를 반복하지 않도록 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,12 +80,36 @@ sin x의 그래프는 주기가 2파이이고 최댓값이 1이며 최솟값이 
 
 덧셈정리와 2배각과 반각만 완벽히 암기하면 나머지는 유도할 수 있습니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 삼각함수는 공식 암기와 적용이 핵심입니다. 특수각과 덧셈정리를 완벽히 암기하고 다양한 문제로 연습하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체계적인 공식 정리와 실전 문제 풀이로 삼각함수를 완벽하게 마스터시킵니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 

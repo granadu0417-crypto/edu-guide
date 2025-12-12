@@ -7,7 +7,7 @@ reading_time: "701줄"
 description: "고등학생을 위한 효과적인 노트 필기 전략. 코넬식, 마인드맵, 디지털 노트 활용법부터 과목별 맞춤 필기법까지. 내신과 수능을 동시에 잡는 노트 필기 시스템."
 categories: ["고등"]
 tags: ["고등노트필기", "필기법", "코넬노트", "마인드맵", "학습전략", "내신대비", "수능준비", "효율적공부"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -18,7 +18,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 필기법을 알려줍니다. 과목별 맞춤 필기 방법을 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 필기의 원칙
@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필기 방법을 점검합니다. 좋은 필기 습관을 만들어줍니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 코넬 노트
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-코넬 노트 양식을 함께 만듭니다. 사용법을 연습합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 과목별 필기법
@@ -57,7 +57,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞는 필기법을 알려줍니다. 실제 수업 내용으로 연습합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 복습 활용
@@ -70,12 +70,12 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 방법을 알려줍니다. 오답 노트 작성법을 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 색상 활용
 
-3~4가지 색으로 제한합니다. 검정은 기본 내용, 빨강은 핵심 개념, 노랑 형광펜은 시험 예상. 너무 많은 색은 역효과입니다.
+3-4가지 색으로 제한합니다. 검정은 기본 내용, 빨강은 핵심 개념, 노랑 형광펜은 시험 예상. 너무 많은 색은 역효과입니다.
 
 일관성을 유지합니다. 항상 같은 규칙으로 색을 사용해야 한눈에 중요도가 보입니다.
 
@@ -94,6 +94,14 @@ sitemap:
 **Q. 친구 필기를 빌려봐도 되나요?**
 
 급한 경우는 괜찮지만 직접 쓰는 게 훨씬 효과적입니다. 친구 필기는 참고용으로만 활용하세요.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

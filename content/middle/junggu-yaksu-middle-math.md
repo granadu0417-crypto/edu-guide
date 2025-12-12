@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0856_tIwx9Fu7rOU.jpg"
 
 ---
 ## 중구 약수동 중학생, 수학 연립방정식 가감법이 안 풀린다면
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 연립방정식의 이해 수준을 진단합니다. 대입법과 가감법의 차이, 계수 맞추기, 검산까지 체계적으로 훈련합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 연립방정식 가감법이 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가감법의 원리를 정확히 이해합니다. 어떤 문자를 소거할지 판단하는 연습을 반복합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 장충중·대경중·장원중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·대경중·장원중 기출 연립방정식 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 풀이 방법을 선택하고 문제를 풀게 합니다. 왜 그 방법을 선택했는지 설명하는 훈련을 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,18 +76,18 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 방정식 내용을 정확히 이해합니다. 방정식을 자유롭게 다루는 능력을 키웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 방정식 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,22 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 **Q. 연립방정식 활용 문제는 어떻게 세우나요?**
 
 미지수 두 개를 정하고, 조건 두 개로 식 두 개를 세웁니다. 속도 문제는 거리 = 속력 × 시간으로 식을 세웁니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
 
 ## 마무리
 

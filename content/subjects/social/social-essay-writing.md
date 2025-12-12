@@ -18,12 +18,12 @@ tags:
 - 역사논술
 - 지리논술
 - 내신대비
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0664_k60YOEjB75k.jpg"
 ---
 
 사회 과목에서 논술·서술형 평가의 비중이 점점 높아지고 있습니다. 단순 암기만으로는 좋은 점수를 받기 어렵습니다. 이 글에서는 사회 과목 논술·서술형 답안을 효과적으로 작성하는 완벽한 전략을 안내합니다.
 
-![사회 논술 대비](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![사회 논술 대비](/images/edu_0306_usdlEYpKueY.jpg)
 
 ## 사회 논술·서술형 평가의 특징
 
@@ -90,23 +90,23 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 질문 유형:
 
 설명형:
-- "~을 설명하시오"
-- "~이 무엇인지 서술하시오"
+- "-을 설명하시오"
+- "-이 무엇인지 서술하시오"
 → 개념 정의 + 구체적 내용
 
 비교형:
-- "~의 공통점과 차이점"
-- "~를 비교하시오"
+- "-의 공통점과 차이점"
+- "-를 비교하시오"
 → 비교 기준 + 항목별 비교
 
 분석형:
-- "~의 원인을 분석하시오"
-- "~의 영향을 논하시오"
+- "-의 원인을 분석하시오"
+- "-의 영향을 논하시오"
 → 원인/결과 + 근거
 
 평가형:
-- "~의 의의를 평가하시오"
-- "~의 한계를 논하시오"
+- "-의 의의를 평가하시오"
+- "-의 한계를 논하시오"
 → 긍정적 측면 + 부정적 측면
 ```
 
@@ -692,7 +692,7 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 질문: "원인을 3가지"
 → 정확히 3가지 제시
 
-질문: "~의 영향을 분석"
+질문: "-의 영향을 분석"
 → 영향 중심으로 서술
 ```
 
@@ -740,7 +740,7 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 접속어 활용:
 - 따라서, 그러므로
-- 왜냐하면, ~때문에
+- 왜냐하면, -때문에
 - 그러나, 하지만
 ```
 
@@ -830,21 +830,5 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 
 
-## 📚 관련 가이드
 
-- [사회 암기 전략 추천 방법 | 역사·지리 용어 2025](/subjects/social/social-memorization-strategies/)
-- [사회 지리 vs 역사 학습 | 자연·인문 비교 2025](/subjects/social/social-geography-mastery/)
-- [사회 역사 학습 고민? | 한국사·세계사 솔루션 2025](/subjects/social/social-history-study-methods/)
-- [국어 독해력 5단계 추천 전략 | 초등~고등](/subjects/korean-reading-improvement/)
-- [영어 문법 핵심 추천 정리 | 중고등 필수 2025](/subjects/english/english-grammar-essentials/)
-
-{{< cta-consultation-final >}}
-
----
-
-## 관련 글
-
-- [사회 역사 학습법 - 한국사·세계사 완벽 정복](/subjects/social/social-history-study-methods/)
-- [사회 지리 완벽 정리 - 자연·인문지리 학습법](/subjects/social/social-geography-mastery/)
-- [사회 암기 전략 - 역사·지리 용어 완벽 암기](/subjects/social/social-memorization-strategies/)
-- [중학생 서술형 평가 전략](/middle/descriptive-assessment-strategy/)
+{{< cta-dual type="final" >}}

@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 ---
 
 ## 처음 과외를 시작하는데 뭐부터 해야 할지 모르겠어요. 어디서부터 시작하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 과외가 처음이신 분들께 전체적인 진행 과정을 설명드립니다. 모르는 건 편하게 질문하세요.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 왜 1:1 과외를 선택하나요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 개인의 스케줄을 고려해서 수업 시간을 정합니다. 갑자기 일정이 바뀌면 미리 말씀해 주세요.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과외를 시작할 때 뭘 준비해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 현재 수준을 진단합니다. 최근 시험지를 가져오시면 더 정확하게 파악할 수 있습니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 선생님은 어떻게 구하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담은 부담 없이 진행됩니다. 서로 맞는지 확인하는 시간이니 편하게 질문하세요.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 **Q. 과외를 시작하면 바로 효과가 나나요?**
 
-보통 1~2개월 후부터 변화가 보입니다. 처음에는 기초를 잡는 시간이 필요합니다. 너무 급하게 결과를 기대하면 실망합니다.
+보통 1-2개월 후부터 변화가 보입니다. 처음에는 기초를 잡는 시간이 필요합니다. 너무 급하게 결과를 기대하면 실망합니다.
 
 **Q. 주 몇 회가 적당한가요?**
 
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작에 대해 더 궁금한 점이 있으시면 문의하세요. 처음이셔도 쉽게 안내해 드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

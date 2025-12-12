@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0753_VJsYpLovLA4.jpg"
 ---
 
 수능 독해에서 시간 배분이 안 된다면? 유형별 접근법이 필요합니다.
@@ -27,7 +27,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 유형별 정답률을 먼저 분석합니다. 어느 유형에서 약한지 파악한 후 집중적인 유형 훈련을 시작합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 고등 영어가 어려운 이유
@@ -42,12 +42,12 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고, 장충고, 환일고 기출을 꼼꼼히 분석합니다. 학교별로 출제 경향이 다르므로, 맞춤형 내신 대비를 진행합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ### 한 문제가 등급을 바꿉니다
 
-내신에서는 1~2문제로 등급이 바뀝니다. 교과서 암기는 기본이고, 외부 지문 독해력도 필요합니다. 서술형 비중이 높아 영작 실력까지 요구됩니다.
+내신에서는 1-2문제로 등급이 바뀝니다. 교과서 암기는 기본이고, 외부 지문 독해력도 필요합니다. 서술형 비중이 높아 영작 실력까지 요구됩니다.
 
 ## 광희동 고등학교 영어 내신 특징
 
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고 학생은 본문 암기에, 장충고 학생은 논리 독해에, 환일고 학생은 외부 지문에 집중합니다. 학교별 맞춤 전략으로 내신을 공략합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 영어과외가 필요한 이유
@@ -80,11 +80,11 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 ### 어휘가 기초
 
-고등학교 3년간 필요한 어휘는 5,000~6,000개입니다. 어휘력이 부족하면 독해 속도가 느려지고, 빈칸 추론에서 막힙니다.
+고등학교 3년간 필요한 어휘는 5,000-6,000개입니다. 어휘력이 부족하면 독해 속도가 느려지고, 빈칸 추론에서 막힙니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 철저히 분석합니다. 왜 틀렸는지, 어떤 부분이 부족했는지 파악하여 같은 실수가 반복되지 않도록 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 고등 영어 학습 순서
@@ -119,7 +119,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 적절한 학습량과 진도를 설계합니다. 시험 기간에는 내신에 집중하고, 방학에는 수능 대비를 병행합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ### 고3: 최종 완성
@@ -130,13 +130,13 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 광희동 고등 영어과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 52만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 28만원에서 38만원, 주2회 기준 45만원에서 62만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황을 고려하여 합리적으로 정합니다. 무료 상담에서 학생 수준을 파악한 뒤, 필요한 수업 횟수와 시간을 안내드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -147,7 +147,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 **Q. 내신과 수능, 뭘 먼저?**
 
-고1~2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
+고1-2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
 
 **Q. 단어가 안 외워져요.**
 

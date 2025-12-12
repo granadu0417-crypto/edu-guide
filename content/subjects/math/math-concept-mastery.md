@@ -1,5 +1,5 @@
 ---
-title: 수학 개념 이해 완벽 정리 | 기초~심화 2025 완벽 가이드 - 성공적인 학습법과 활용 전략
+title: 수학 개념 이해 완벽 정리 | 기초-심화 2025 완벽 가이드 - 성공적인 학습법과 활용 전략
 date: 2025-01-26
 reading_time: "160줄"
 description: 수학 개념을 체계적으로 이해하는 완벽한 학습법을 소개합니다. 공식 암기가 아닌 원리 이해부터 개념 적용, 문제 풀이까지 수학 실력을 높이는 모든 방법을 안내합니다.
@@ -16,7 +16,7 @@ tags:
 - 고등수학
 - 수능수학
 - 수학원리
-featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0515_MRQFatc33cw.jpg"
 ---
 
 ## 공식은 다 외웠는데 문제에 적용이 안 된다고요? 개념을 어떻게 이해해야 하는지 모르겠다고 느끼시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념의 의미를 정확히 설명합니다. 왜 그런지 원리부터 이해시킵니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 개념 학습 5단계
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-5단계를 체계적으로 진행합니다. 학생이 직접 설명할 수 있을 때까지 반복합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 함수 개념 이해
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함수의 정의를 정확히 이해시킵니다. 다양한 예시로 함수와 비함수를 구분하는 연습을 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 미분 개념 이해
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미분의 의미를 정확히 이해시킵니다. 정의에서 공식을 유도하는 과정을 함께 진행합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 흔한 실수와 해결법
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 이해도를 확인하며 진행합니다. 이해 안 되는 부분은 다시 설명하고 넘어갑니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -86,6 +86,6 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 이해 중심으로 수업합니다. 학생이 스스로 설명할 수 있을 때까지 반복합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 

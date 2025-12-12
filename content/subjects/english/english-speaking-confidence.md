@@ -13,7 +13,7 @@ tags:
 - 발음
 - 자신감
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 ---
 
 ## 영어로 말하려고 하면 긴장된다고요? 문법은 아는데 막상 말이 안 나온다고요.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 긴장하는 원인을 파악합니다. 안전한 환경에서 편하게 말할 수 있도록 분위기를 만듭니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자신감이 없는 이유
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-완벽주의에서 벗어나도록 도와드립니다. 의사소통 중심으로 마인드셋을 전환합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자신감 키우는 5단계
@@ -42,16 +42,16 @@ featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별로 자신감을 쌓아갑니다. 작은 성공 경험을 축적하며 점진적으로 도전합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 실전 회화 연습
 
-자기소개부터 시작하세요. 이름, 학년, 취미를 2~3문장으로 말합니다. 일상 대화는 인사, 날씨, 감사 표현을 연습합니다. 학교생활 관련 표현도 익히세요. 반복해서 연습하면 자연스럽게 나옵니다.
+자기소개부터 시작하세요. 이름, 학년, 취미를 2-3문장으로 말합니다. 일상 대화는 인사, 날씨, 감사 표현을 연습합니다. 학교생활 관련 표현도 익히세요. 반복해서 연습하면 자연스럽게 나옵니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실생활에서 바로 쓸 수 있는 표현을 연습합니다. 상황별 역할극으로 실전 감각을 키웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 긴장 극복 전략
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긴장 극복 전략을 함께 연습합니다. 심리적 안정감 속에서 자신감을 키웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -71,11 +71,51 @@ featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=
 
 **Q. 말하기 자신감이 생기는 데 얼마나 걸리나요?**
 
-일반적으로 2~3개월이면 변화를 느낍니다. 꾸준함과 적극적인 참여가 중요합니다.
+일반적으로 2-3개월이면 변화를 느낍니다. 꾸준함과 적극적인 참여가 중요합니다.
 
 **Q. 발음이 안 좋은데 회화가 가능한가요?**
 
 완벽한 발음보다 의사소통이 더 중요합니다. 명확하게 말하려고 노력하면 충분히 이해받을 수 있습니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 
@@ -83,5 +123,5 @@ featured_image: "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 회화 수업으로 안전한 환경에서 자신감을 키웁니다. 실수에 대한 즉각 피드백으로 빠르게 향상합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

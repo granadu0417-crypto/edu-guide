@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 학생부 완벽 관리 전략 | 세특 작성, 창체 관리, 진로 일관성, 학년별 전략, 교사 소통법 [2025년]"
 tags: ["학생부", "생기부", "세특", "창체", "학생부종합", "진로일관성", "비교과활동", "독서활동", "고등학생"]
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 ---
 
 ## 학생부 어떻게 관리해야 하는지 감도 안 오시죠? 세특이랑 창체는 뭐가 다른 건가요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로 방향을 파악하고 학년별 학생부 관리 계획을 세웁니다. 세특과 창체의 균형을 맞추어 드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 세특 관리 전략
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 탐구 주제를 함께 정합니다. 탐구 보고서 작성법을 지도하고 선생님께 제출할 자료를 점검합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 창체 활동 관리
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로에 맞는 동아리와 활동을 추천합니다. 활동 후 정리 방법을 알려드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학년별 전략
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 로드맵을 세우고 매 학기 점검합니다. 부족한 부분을 파악해 다음 학기에 보완합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 진로 일관성 만들기
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로 스토리를 함께 구성합니다. 활동 간 연결고리를 찾고 일관성을 점검합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,6 +75,30 @@ featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=
 **Q. 내신이 낮으면 학생부가 의미 없나요?**
 
 학종은 종합 평가입니다. 성적이 다소 낮아도 우수한 학생부로 보완할 수 있으며 성적의 상승 추세도 긍정적으로 평가됩니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

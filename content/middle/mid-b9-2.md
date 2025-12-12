@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0943_HdVeYMcIzfw.jpg"
 ---
 ## 중2병이라고 무시하지 마세요, 이 시기가 가장 중요합니다
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 정서 상태를 파악하고 학습 동기를 자극합니다. 강압적인 방식이 아니라 스스로 공부해야 하는 이유를 찾도록 돕습니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 중2 학습의 특징
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 실력을 진단하고 부족한 부분을 찾습니다. 필요하면 중1 내용도 복습하며 탄탄한 기초를 다집니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 월별 학습 로드맵
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-월별 학습 계획을 함께 세웁니다. 학생의 목표와 현재 실력에 맞춰 현실적인 계획을 수립합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 수학 학습 전략
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 기본 문제, 응용 문제, 심화 문제 순으로 단계적 학습을 진행합니다. 학생이 직접 풀이를 설명하게 해서 이해도를 확인합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 영어 학습 전략
@@ -69,7 +69,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법은 예문 중심으로 설명합니다. 문장 속에서 문법이 어떻게 쓰이는지 직접 보여주고 비슷한 문장을 만들어보게 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 내신 관리의 중요성
@@ -80,7 +80,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춘 학습 계획을 세웁니다. 학교별 출제 경향을 파악하고 예상 문제를 풀어봅니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -98,6 +98,14 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 **Q. 중2 겨울방학에 뭘 해야 하나요?**
 
 2학기 총복습과 중3 1학기 선행이 일반적입니다. 특히 수학은 인수분해, 이차방정식이 나오니 중2 일차함수를 완벽히 익혀둬야 합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

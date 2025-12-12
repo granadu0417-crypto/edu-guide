@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "전북도의 교육 환경을 완벽 분석합니다. 전주 학원가부터 전북대 과외, 온라인 교육 전략까지 전북 지역 맞춤 교육 정보를 제공합니다."
 tags: ["전북교육", "전북학원", "전북과외", "전주학원", "전주과외", "익산과외", "전북대과외", "원광대과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0289_3S0Ucv4BDCk.jpg"
 ---
 
 ## 전북도에서 아이 교육 어떻게 해야 할까요? 전주에서 해결될지 광주까지 가야 할지 고민이시죠.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전북 지역 교육 환경을 분석합니다. 거주 지역과 예산에 맞는 최적의 교육 방법을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 지역별 학원 특성
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학원과 과외 시장을 파악합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 온라인 교육 전략
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인 병행 전략을 안내합니다. 비용을 절감하면서 효과를 극대화하는 방법을 찾아드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학년별 교육 전략
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 전략을 안내합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,6 +73,30 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 **Q. 전주와 광주 중 어디가 좋나요?**
 
 전주는 교육비가 저렴하고 광주는 학원 인프라가 우수합니다. 광주 접근이 가능한 전주가 비용 대비 효율적입니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

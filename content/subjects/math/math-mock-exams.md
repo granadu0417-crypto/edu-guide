@@ -15,7 +15,7 @@ tags:
 - 수능준비
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0541_oALARAQGPoA.jpg"
 ---
 
 ## 모의고사 볼 때마다 시간이 부족하다고요? 평소에는 푸는 문제도 시험장만 가면 안 풀린다고 느끼시죠.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전과 동일한 환경에서 모의고사 연습을 합니다. 시간 관리 전략을 구체적으로 세웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 모의고사 종류별 특징
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 종류별 특성을 알려주고 효율적인 활용법을 안내합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시간 배분 전략
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인별 풀이 속도에 맞춘 시간 배분 전략을 세웁니다. 실전에서 시간에 쫓기지 않도록 훈련합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 오답 분석 방법
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석 방법을 체계적으로 가르칩니다. 틀린 문제를 완전히 자기 것으로 만들도록 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학년별 전략
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 시기에 맞는 모의고사 활용 전략을 안내합니다. 효율적인 학습 계획을 세웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -79,12 +79,44 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 목표 점수에 따라 다릅니다. 80점 목표면 킬러 문항은 과감히 패스하고 나머지를 완벽히 하세요.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 모의고사는 실전을 위한 최고의 훈련입니다. 정기적으로 응시하고 철저히 오답 분석하면 실전에서 최고의 결과를 얻을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 전략을 개인별로 맞춤 지도합니다. 실전에서 최고의 성과를 낼 수 있도록 준비시킵니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 

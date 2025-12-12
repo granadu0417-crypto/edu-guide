@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 ---
 
 ## 막부 시대와 메이지 유신이 헷갈리고 한일 관계사가 복잡하다고요? 일본 역사의 전환점부터 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일본사의 시대 구분을 정리합니다. 주요 전환점과 한일 관계를 연결합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 고대와 중세 일본
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일본 고대사의 특징을 정리합니다. 막부 체제의 시작과 특징을 설명합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 에도 막부와 쇄국
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-에도 막부의 통치 구조를 설명합니다. 쇄국과 개항의 과정을 정리합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 메이지 유신과 근대화
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-메이지 유신의 배경과 내용을 분석합니다. 일본 제국주의와 한국 침략을 연결합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 현대 일본
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전후 일본의 변화를 정리합니다. 한일 관계의 쟁점을 분석합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 일본사를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>

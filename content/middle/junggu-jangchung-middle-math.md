@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0842_3A9-18atj_o.jpg"
 
 ---
 ## 중구 장충동 중학생, 수학 원과 직선이 어렵다면
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 원과 직선의 이해 수준을 진단합니다. 현, 접선, 할선의 정의, 접선의 성질, 접선의 길이를 체계적으로 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 원과 직선이 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원과 직선의 위치 관계를 정확히 이해합니다. 접선의 성질을 이용한 문제 풀이를 연습합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 장충중·장원중·대경중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·장원중·대경중 기출 원과 직선 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 접선을 작도해보게 합니다. 왜 그 성질이 성립하는지 설명하는 훈련을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,18 +76,18 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 도형 내용을 정확히 이해합니다. 도형을 자유롭게 활용하는 능력을 키웁니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 원과 직선 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,26 @@ featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=
 **Q. 한 점에서 그은 두 접선의 길이는 왜 같나요?**
 
 직각삼각형의 합동 조건을 이용해 증명할 수 있습니다. 두 삼각형이 합동이므로 접선의 길이가 같습니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
 
 ## 마무리
 

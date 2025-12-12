@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "국제학교 완벽 가이드입니다. 입학 자격, IB·AP 교육과정, 입학 전형, 장단점, 해외·국내 대학 진학까지 국제학교의 모든 정보를 안내합니다."
 tags: ["국제학교", "IB학교", "AP과정", "외국인학교", "국제학교입학", "국제학교교육과정", "해외대학진학", "국제바칼로레아"]
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0286_oLFD6zMxdOY.jpg"
 ---
 
 ## 우리 아이를 국제학교에 보내야 할까요? IB와 AP 과정 차이가 뭔지 헷갈리시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 영어 수준과 학습 스타일을 파악합니다. 국제학교 적합성을 함께 판단하고 준비 방향을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 국제학교 교육과정
@@ -24,7 +24,7 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 교육과정의 특성과 장단점을 설명합니다. 아이에게 맞는 교육과정을 추천해드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 국제학교의 장단점
@@ -35,7 +35,7 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 시험과 면접 준비를 도와드립니다. 영어 에세이와 수학 문제 풀이를 집중 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주요 국제학교 소개
@@ -44,7 +44,7 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 학교의 특성과 입학 조건을 안내합니다. 학교 선택을 함께 고민해드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 대학 진학 전략
@@ -53,7 +53,7 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학 진학 로드맵을 함께 설계합니다. 에세이 작성과 면접 준비를 지원합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,30 @@ IB 프로그램은 국제 바칼로레아 기구가 제공하는 통합 교육 �
 **Q. 국제학교 졸업 후 국내 대학 갈 수 있나요?**
 
 네. 재외국민 특별전형이나 외국인 특별전형으로 지원할 수 있습니다. 다만 외국인학교는 한국 학력 인정이 안 될 수 있으니 사전 확인이 필요합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

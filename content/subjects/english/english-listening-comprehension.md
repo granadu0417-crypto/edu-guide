@@ -14,7 +14,7 @@ tags:
 - 듣기훈련
 - 청취력
 - 발음
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0385_OL5FSVty0IE.jpg"
 ---
 
 ## 영어가 안 들린다고요? 들리는 대로 받아쓰면 다 틀리시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 듣기 수준을 정확히 진단합니다. 안 들리는 소리와 원인을 파악해 맞춤 훈련 계획을 세웁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 음소 구별 훈련
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한국인이 어려워하는 음소를 집중 훈련합니다. 최소 대립쌍으로 차이를 명확히 구별하게 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 연음과 축약
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연음, 축약, 동화 규칙을 체계적으로 정리합니다. 실제 음성에서 규칙을 찾는 연습을 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 받아쓰기 방법
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수준에 맞는 자료로 받아쓰기를 진행합니다. 오답을 분석해 약점을 집중 보완합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 단계별 학습
@@ -61,14 +61,14 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 자료를 선별합니다. 성취감을 느끼며 단계적으로 실력을 올립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 듣기 실력을 어떻게 키우나요?**
 
-매일 10~30분씩 꾸준히 들으세요. 받아쓰기를 병행하면 더 효과적입니다.
+매일 10-30분씩 꾸준히 들으세요. 받아쓰기를 병행하면 더 효과적입니다.
 
 **Q. 단어는 아는데 문장이 안 들려요.**
 
@@ -84,5 +84,5 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 듣기 과외로 체계적으로 훈련합니다. 발음 교정, 받아쓰기, 섀도잉으로 빠르게 실력을 올립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>

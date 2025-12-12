@@ -1,0 +1,586 @@
+{{ define "title" }}검색 | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<div class="search-page">
+    <div class="search-header">
+        <h1>검색</h1>
+        <p class="search-subtitle">원하는 교육 정보를 검색하세요</p>
+    </div>
+
+    <div class="search-container">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="검색어를 입력하세요 (예: 강남구 수학과외, 고등 영어)" autofocus>
+            <button id="searchBtn" aria-label="검색">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"/>
+                    <path d="M21 21l-4.35-4.35"/>
+                </svg>
+            </button>
+        </div>
+
+        <div class="quick-filters">
+            <span class="filter-label">빠른 필터:</span>
+            <button class="filter-btn" data-filter="수학과외">수학과외</button>
+            <button class="filter-btn" data-filter="영어과외">영어과외</button>
+            <button class="filter-btn" data-filter="강남구">강남구</button>
+            <button class="filter-btn" data-filter="서초구">서초구</button>
+            <button class="filter-btn" data-filter="고등">고등학생</button>
+            <button class="filter-btn" data-filter="중등">중학생</button>
+        </div>
+    </div>
+
+    <div class="search-results-info" id="resultsInfo" style="display: none;">
+        <span id="resultsCount">0</span>개의 결과
+    </div>
+
+    <div class="search-results" id="searchResults">
+        <div class="search-initial">
+            <div class="initial-icon">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                    <circle cx="11" cy="11" r="8"/>
+                    <path d="M21 21l-4.35-4.35"/>
+                </svg>
+            </div>
+            <p>검색어를 입력하면 결과가 표시됩니다</p>
+            <div class="popular-searches">
+                <h4>인기 검색어</h4>
+                <div class="popular-tags">
+                    <a href="#" class="popular-tag" data-search="강남구 고등 수학과외">강남구 고등 수학과외</a>
+                    <a href="#" class="popular-tag" data-search="서초구 영어과외">서초구 영어과외</a>
+                    <a href="#" class="popular-tag" data-search="노원구 과외">노원구 과외</a>
+                    <a href="#" class="popular-tag" data-search="수능 대비">수능 대비</a>
+                    <a href="#" class="popular-tag" data-search="내신 관리">내신 관리</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="search-loading" id="searchLoading" style="display: none;">
+        <div class="loading-spinner"></div>
+        <p>검색 중...</p>
+    </div>
+</div>
+
+<!-- Fuse.js CDN -->
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+
+<script>
+let searchIndex = null;
+let fuse = null;
+
+// 검색 인덱스 로드
+async function loadSearchIndex() {
+    try {
+        const response = await fetch('/index.json');
+        searchIndex = await response.json();
+
+        // Fuse.js 초기화
+        fuse = new Fuse(searchIndex, {
+            keys: [
+                { name: 'title', weight: 0.4 },
+                { name: 'description', weight: 0.3 },
+                { name: 'content', weight: 0.2 },
+                { name: 'categories', weight: 0.05 },
+                { name: 'tags', weight: 0.05 }
+            ],
+            threshold: 0.3,
+            includeScore: true,
+            minMatchCharLength: 2
+        });
+    } catch (error) {
+        console.error('검색 인덱스 로드 실패:', error);
+    }
+}
+
+// 검색 실행
+function performSearch(query) {
+    if (!fuse || !query.trim()) {
+        showInitialState();
+        return;
+    }
+
+    document.getElementById('searchLoading').style.display = 'flex';
+    document.getElementById('searchResults').innerHTML = '';
+
+    setTimeout(() => {
+        const results = fuse.search(query.trim());
+        displayResults(results, query.trim());
+        document.getElementById('searchLoading').style.display = 'none';
+    }, 100);
+}
+
+// 결과 표시
+function displayResults(results, query) {
+    const container = document.getElementById('searchResults');
+    const infoEl = document.getElementById('resultsInfo');
+    const countEl = document.getElementById('resultsCount');
+
+    if (results.length === 0) {
+        infoEl.style.display = 'none';
+        container.innerHTML = `
+            <div class="no-results">
+                <div class="no-results-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <circle cx="12" cy="12" r="10"/>
+                        <path d="M8 15s1.5-2 4-2 4 2 4 2"/>
+                        <line x1="9" y1="9" x2="9.01" y2="9"/>
+                        <line x1="15" y1="9" x2="15.01" y2="9"/>
+                    </svg>
+                </div>
+                <h3>"${escapeHtml(query)}"에 대한 검색 결과가 없습니다</h3>
+                <p>다른 검색어로 시도해보세요</p>
+                <div class="suggestions">
+                    <p>추천 검색어:</p>
+                    <div class="suggestion-tags">
+                        <button onclick="searchFor('수학과외')">수학과외</button>
+                        <button onclick="searchFor('영어과외')">영어과외</button>
+                        <button onclick="searchFor('강남구')">강남구</button>
+                    </div>
+                </div>
+            </div>
+        `;
+        return;
+    }
+
+    infoEl.style.display = 'block';
+    countEl.textContent = results.length;
+
+    const html = results.slice(0, 50).map(result => {
+        const item = result.item;
+        const categories = item.categories || [];
+        const categoryHtml = categories.slice(0, 2).map(cat =>
+            `<span class="result-category">${escapeHtml(cat)}</span>`
+        ).join('');
+
+        return `
+            <article class="result-card">
+                <a href="${item.url}">
+                    <div class="result-categories">${categoryHtml}</div>
+                    <h3 class="result-title">${highlightMatch(item.title, query)}</h3>
+                    <p class="result-description">${highlightMatch(item.description, query)}</p>
+                    <div class="result-meta">
+                        <span class="result-date">${item.date}</span>
+                    </div>
+                </a>
+            </article>
+        `;
+    }).join('');
+
+    container.innerHTML = html;
+}
+
+// 초기 상태 표시
+function showInitialState() {
+    document.getElementById('resultsInfo').style.display = 'none';
+    document.getElementById('searchResults').innerHTML = `
+        <div class="search-initial">
+            <div class="initial-icon">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                    <circle cx="11" cy="11" r="8"/>
+                    <path d="M21 21l-4.35-4.35"/>
+                </svg>
+            </div>
+            <p>검색어를 입력하면 결과가 표시됩니다</p>
+            <div class="popular-searches">
+                <h4>인기 검색어</h4>
+                <div class="popular-tags">
+                    <a href="#" class="popular-tag" data-search="강남구 고등 수학과외">강남구 고등 수학과외</a>
+                    <a href="#" class="popular-tag" data-search="서초구 영어과외">서초구 영어과외</a>
+                    <a href="#" class="popular-tag" data-search="노원구 과외">노원구 과외</a>
+                    <a href="#" class="popular-tag" data-search="수능 대비">수능 대비</a>
+                    <a href="#" class="popular-tag" data-search="내신 관리">내신 관리</a>
+                </div>
+            </div>
+        </div>
+    `;
+    bindPopularTags();
+}
+
+// 검색어 하이라이트
+function highlightMatch(text, query) {
+    if (!text || !query) return escapeHtml(text || '');
+    const escaped = escapeHtml(text);
+    const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+    return escaped.replace(regex, '<mark>$1</mark>');
+}
+
+function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+}
+
+function escapeRegex(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function searchFor(query) {
+    document.getElementById('searchInput').value = query;
+    performSearch(query);
+}
+
+function bindPopularTags() {
+    document.querySelectorAll('.popular-tag').forEach(tag => {
+        tag.addEventListener('click', (e) => {
+            e.preventDefault();
+            const searchTerm = tag.dataset.search;
+            document.getElementById('searchInput').value = searchTerm;
+            performSearch(searchTerm);
+        });
+    });
+}
+
+// 이벤트 리스너
+document.addEventListener('DOMContentLoaded', () => {
+    loadSearchIndex();
+
+    const input = document.getElementById('searchInput');
+    const btn = document.getElementById('searchBtn');
+
+    // 디바운스 검색
+    let timeout;
+    input.addEventListener('input', () => {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => performSearch(input.value), 300);
+    });
+
+    input.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            clearTimeout(timeout);
+            performSearch(input.value);
+        }
+    });
+
+    btn.addEventListener('click', () => performSearch(input.value));
+
+    // 필터 버튼
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const filter = btn.dataset.filter;
+            input.value = filter;
+            performSearch(filter);
+        });
+    });
+
+    // 인기 검색어 태그
+    bindPopularTags();
+
+    // URL 파라미터로 검색
+    const urlParams = new URLSearchParams(window.location.search);
+    const q = urlParams.get('q');
+    if (q) {
+        input.value = q;
+        setTimeout(() => performSearch(q), 500);
+    }
+});
+</script>
+
+<style>
+.search-page {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+}
+
+.search-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.search-header h1 {
+    font-size: 32px;
+    font-weight: 800;
+    color: #212529;
+    margin-bottom: 8px;
+}
+
+.search-subtitle {
+    font-size: 16px;
+    color: #6c757d;
+}
+
+.search-container {
+    margin-bottom: 32px;
+}
+
+.search-box {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.search-box input {
+    flex: 1;
+    padding: 16px 24px;
+    font-size: 16px;
+    border: 2px solid #e9ecef;
+    border-radius: 12px;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+.search-box input:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.1);
+}
+
+.search-box button {
+    padding: 16px 24px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.search-box button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(102, 126, 234, 0.4);
+}
+
+.quick-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.filter-label {
+    font-size: 14px;
+    color: #6c757d;
+    font-weight: 600;
+}
+
+.filter-btn {
+    padding: 8px 16px;
+    background: #f1f3f4;
+    border: none;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #495057;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.filter-btn:hover {
+    background: #667eea;
+    color: white;
+}
+
+.search-results-info {
+    padding: 12px 0;
+    font-size: 14px;
+    color: #6c757d;
+    border-bottom: 1px solid #e9ecef;
+    margin-bottom: 24px;
+}
+
+.search-results-info span {
+    font-weight: 700;
+    color: #667eea;
+}
+
+.result-card {
+    margin-bottom: 20px;
+}
+
+.result-card a {
+    display: block;
+    padding: 24px;
+    background: white;
+    border: 1px solid #e9ecef;
+    border-radius: 12px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.result-card a:hover {
+    border-color: #667eea;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+}
+
+.result-categories {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.result-category {
+    padding: 4px 10px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 12px;
+}
+
+.result-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #212529;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.result-title mark {
+    background: #fff3cd;
+    padding: 0 2px;
+    border-radius: 2px;
+}
+
+.result-description {
+    font-size: 14px;
+    color: #6c757d;
+    line-height: 1.6;
+    margin-bottom: 12px;
+}
+
+.result-description mark {
+    background: #fff3cd;
+    padding: 0 2px;
+    border-radius: 2px;
+}
+
+.result-meta {
+    font-size: 13px;
+    color: #adb5bd;
+}
+
+.search-initial, .no-results {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.initial-icon, .no-results-icon {
+    color: #dee2e6;
+    margin-bottom: 20px;
+}
+
+.search-initial p, .no-results p {
+    font-size: 16px;
+    color: #6c757d;
+    margin-bottom: 8px;
+}
+
+.no-results h3 {
+    font-size: 18px;
+    color: #495057;
+    margin-bottom: 8px;
+}
+
+.popular-searches {
+    margin-top: 32px;
+}
+
+.popular-searches h4 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #495057;
+    margin-bottom: 16px;
+}
+
+.popular-tags, .suggestion-tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.popular-tag {
+    padding: 8px 16px;
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 20px;
+    font-size: 13px;
+    color: #495057;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.popular-tag:hover {
+    background: #667eea;
+    color: white;
+    border-color: #667eea;
+}
+
+.suggestions {
+    margin-top: 24px;
+}
+
+.suggestions p {
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.suggestion-tags button {
+    padding: 8px 16px;
+    background: #667eea;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.suggestion-tags button:hover {
+    background: #764ba2;
+}
+
+.search-loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+}
+
+.loading-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid #e9ecef;
+    border-top-color: #667eea;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-bottom: 16px;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+@media (max-width: 768px) {
+    .search-page {
+        padding: 24px 16px 60px;
+    }
+
+    .search-header h1 {
+        font-size: 24px;
+    }
+
+    .search-box {
+        flex-direction: column;
+    }
+
+    .search-box button {
+        padding: 14px;
+    }
+
+    .filter-label {
+        width: 100%;
+        margin-bottom: 4px;
+    }
+
+    .result-card a {
+        padding: 20px;
+    }
+
+    .result-title {
+        font-size: 16px;
+    }
+}
+</style>
+{{ end }}

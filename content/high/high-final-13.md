@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0659_1tFThJ5OD1w.jpg"
 ---
 ## 내신을 잘 받고 싶은데, 학교 시험이 너무 어려워요. 어떻게 대비해야 하죠?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험 특성을 분석합니다. 선생님 출제 경향을 파악하고 맞춤형 대비 전략을 세웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 내신의 중요성
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신의 중요성과 평가 방식을 설명합니다. 학년별로 어떻게 관리해야 하는지 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 고1 내신 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 첫 시험 대비를 도와줍니다. 중학교와 다른 공부법을 알려줍니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 고2 내신 전략
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고2 시기에 맞는 학습 계획을 세웁니다. 내신과 수능을 어떻게 병행할지 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 고3 내신 전략
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 입시 전략에 맞춰 내신 비중을 조절합니다. 수능과 어떻게 병행할지 계획을 세웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 내신 대비법
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춰 학습합니다. 학교 시험에 나올 만한 문제를 집중적으로 연습합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 주의사항
@@ -101,7 +101,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 **Q. 내신 몇 등급이면 좋은 건가요?**
 
-목표 대학에 따라 다릅니다. 상위권 대학은 1~2등급, 중상위권은 2~3등급이 필요합니다.
+목표 대학에 따라 다릅니다. 상위권 대학은 1-2등급, 중상위권은 2-3등급이 필요합니다.
 
 **Q. 내신이 안 좋으면 대학 못 가나요?**
 

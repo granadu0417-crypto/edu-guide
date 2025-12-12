@@ -11,7 +11,7 @@ tags:
 - 신라가요
 - 불교
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0460_eMP4sYPJ9x0.jpg"
 ---
 
 ## 향가가 뭐고 어떻게 공부해야 할지 모르겠다고요? 향찰 표기를 이해하면 됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-향가의 기본 개념과 형식을 정리합니다. 주요 작품을 체계적으로 분석합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 향가의 형식
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-향가의 구조별 특징을 정리합니다. 대표 작품을 구체별로 분류합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 주요 작품 분석
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 작품의 배경과 주제를 분석합니다. 현대어 풀이와 함께 이해를 돕습니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 향찰의 이해
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-향찰 표기의 원리를 설명합니다. 현대어 해석을 통해 작품을 이해합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 작품별 출제 포인트를 정리합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,51 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 주요 작품 위주로 학습하세요. 제망매가, 처용가, 찬기파랑가 등 자주 출제되는 작품을 우선합니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
 ## 마무리
 
 향가는 우리 문학의 소중한 유산입니다. 형식별 특징과 주요 작품의 주제를 정리하세요. 배경 설화와 함께 작품을 이해하면 시험 대비에도 효과적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 향가를 체계적으로 학습합니다. 작품 분석과 문제 풀이를 함께 진행합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>

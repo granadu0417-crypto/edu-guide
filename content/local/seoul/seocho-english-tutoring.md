@@ -8,7 +8,7 @@ regions:
 cities:
   - 서초구
 tags: ["서초구", "영어과외", "반포동", "서초동", "방배동", "영어", "과외", "영어회화", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0354_C2yJnLEtb74.jpg"
 ---
 
 "우리 아이 영어, 회화도 중요하고 내신도 챙겨야 하는데..."
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 서초구 학부모님들이 가장 많이 하시는 고민입니다.
 솔직히 말씀드리면, **둘 다 잡으려면 전략이 필요합니다.**
 
-![서초구 영어과외](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=600&fit=crop)
+![서초구 영어과외](/images/edu_0296_1K9T5YiZ2WU.jpg)
 
 ## 서초구 영어 교육, 뭐가 다를까요?
 
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 영어 수준과 성향을 먼저 파악합니다. "이 아이는 어떻게 배울 때 가장 잘 흡수하는가"를 고민하고 수업을 설계합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ### 서초동 - 입시 영어의 중심
@@ -53,14 +53,14 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"영어로 말하는 게 재밌어요!"라는 말이 나올 때까지. 회화로 흥미를 잡고, 문법으로 탄탄하게 다져갑니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 영어과외 가이드
 
 ### 초등학생 - 영어와 친해지는 시간
 
-**저학년(1~3학년)은 "영어가 재밌다"는 느낌이 목표입니다.**
+**저학년(1-3학년)은 "영어가 재밌다"는 느낌이 목표입니다.**
 
 아직 문법을 따지고 외울 나이가 아닙니다.
 영어 동화책, 노래, 게임을 통해 **자연스럽게 영어에 노출**시키는 게 핵심이에요.
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 영어 거부감 없이 친숙해지기
 - 간단한 회화 표현 익히기
 
-**고학년(4~6학년)부터는 체계가 필요합니다.**
+**고학년(4-6학년)부터는 체계가 필요합니다.**
 
 중등 영어가 확 어려워지거든요. 미리 기초 문법을 잡아두면 중학교 가서 편합니다.
 
@@ -79,16 +79,16 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 영작문 기초 다지기
 - 어휘력 확장 (중등 대비)
 
-초등 영어과외 비용은 주 1회 기준 약 12만원에서 22만원, 주 2회 기준 약 25만원에서 38만원 선입니다.
+초등 영어과외 비용은 주 1회 기준 약 12만원 -  22만원, 주 2회 기준 약 25만원 -  38만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 그림책을 함께 읽으며 단어를 익히고, 간단한 문장을 만들어봅니다. "I like pizza!"처럼 아이가 좋아하는 것부터 시작해요.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ### 중학생 - 고등 영어의 기초를 다지는 시기
 
-**중1~중2: 문법의 뼈대를 세우세요**
+**중1-중2: 문법의 뼈대를 세우세요**
 
 중학교 문법은 고등 영어의 기초입니다.
 이때 대충 넘어가면 고등 가서 독해가 안 됩니다.
@@ -108,16 +108,16 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 고등 어휘 미리 확장
 - 특목고 준비 (해당 시)
 
-중학생 영어과외 비용은 주 1회 기준 약 22만원에서 32만원, 주 2회 기준 약 29만원에서 47만원 선입니다.
+중학생 영어과외 비용은 주 1회 기준 약 22만원 -  32만원, 주 2회 기준 약 29만원 -  47만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법은 암기가 아니라 이해입니다. "왜 여기서 have been을 쓰는지" 원리를 알면 응용이 됩니다. 매 수업 문법+독해+어휘를 균형 있게!
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 기초 체력을 키우는 시기**
+**고1-고2: 기초 체력을 키우는 시기**
 
 고등 영어는 중등과 차원이 다릅니다.
 지문 길이도, 어휘 수준도, 문법의 복잡도도 확 올라가요.
@@ -137,11 +137,11 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 실수 줄이기 (3점짜리 날리면 등급 하락)
 - EBS 연계 지문 분석
 
-고등학생 영어과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 영어과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다. 수능까지 함께 달립니다!
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 서초구 주요 학교 영어 내신 특징
@@ -177,7 +177,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석해서 출제 패턴을 파악합니다. "이 학교는 서술형에서 이런 유형이 자주 나와"를 알면 대비가 쉬워집니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -217,7 +217,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 아이가 편하게 말할 수 있는 분위기인지가 가장 중요합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 영어 실력, 이렇게 올리세요
@@ -235,7 +235,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 - 주기적 복습 (망각 곡선 활용)
 
 **영어 일기 쓰기**
-- 하루 3~5문장
+- 하루 3-5문장
 - 배운 표현 실제로 써보기
 - 선생님께 첨삭 받기
 
@@ -252,7 +252,7 @@ featured_image: "https://images.unsplash.com/photo-1491841651911-c44c30c34548?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 10분 영어 듣기 과제를 드립니다. 작은 습관이 쌓이면 큰 실력이 됩니다. 꾸준함을 이길 재능은 없어요!
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -15,7 +15,7 @@ tags:
 - must
 - should
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0393_wFpe6LYz27c.jpg"
 ---
 
 ## can과 be able to 차이가 뭐냐고요? must와 have to는 언제 쓰냐고요.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1472173148041-00294f0814a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조동사 간 뉘앙스 차이를 명확히 정리합니다. 상황별 예문으로 감을 익힙니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 능력: can vs be able to
@@ -33,7 +33,7 @@ can은 현재 능력입니다. I can swim은 지금 수영할 수 있다입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-can과 be able to의 시제별 차이를 정리합니다. 예문으로 구분하는 연습을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 의무: must vs have to vs should
@@ -44,7 +44,7 @@ must는 화자의 강한 의지입니다. You must finish this는 내가 시키�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-의무 조동사의 강도 차이를 정리합니다. 특히 부정형의 의미 차이를 강조합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 추측: 확신도 순서
@@ -53,16 +53,16 @@ must는 95% 확신입니다. He must be tired는 틀림없이 피곤하다입니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추측 조동사의 확신도를 순서대로 정리합니다. 문맥에 맞게 선택하는 연습을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 조동사 + have p.p.
 
-과거 추측입니다. must have p.p.는 틀림없이 ~했다입니다. may have p.p.는 ~했을지도입니다. 과거 후회는 should have p.p.입니다. You should have studied harder는 더 열심히 공부했어야 했다(안 했다)입니다.
+과거 추측입니다. must have p.p.는 틀림없이 -했다입니다. may have p.p.는 -했을지도입니다. 과거 후회는 should have p.p.입니다. You should have studied harder는 더 열심히 공부했어야 했다(안 했다)입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조동사 + have p.p. 구문을 집중 연습합니다. 과거 추측과 후회 표현을 구분합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,11 +73,43 @@ must는 화자의 의지, have to는 외부 규칙입니다. 부정도 다릅니
 
 **Q. should have p.p.는 무슨 뜻인가요?**
 
-~했어야 했는데 안 했다는 과거 후회입니다.
+-했어야 했는데 안 했다는 과거 후회입니다.
 
 **Q. can't와 must not의 차이는요?**
 
 can't는 불가능(추측), must not은 금지(명령)입니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 
@@ -85,5 +117,5 @@ can't는 불가능(추측), must not은 금지(명령)입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 조동사를 완벽히 정복합니다. 상황별 예문과 실전 연습으로 빠르게 마스터합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>

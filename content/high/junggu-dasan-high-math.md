@@ -18,7 +18,7 @@ tags:
   - 성동고
   - 장충고
   - 환일고
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0748_Vs6ip7fsld8.jpg"
 ---
 
 기본 문제는 풀리는데 심화에서 막힌다면? 개념 간 연결이 부족한 것입니다.
@@ -27,7 +27,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어느 개념에서 끊기는지 먼저 파악합니다. 개념 사이의 빈틈을 채운 후 심화 문제 훈련을 시작합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 고등 수학이 어려운 이유
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고, 장충고, 환일고 기출을 면밀히 분석합니다. 학교마다 출제 경향이 다르기 때문에, 맞춤형 내신 대비를 진행합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ### 치열한 등급 경쟁
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성동고 학생은 계산 정확성에, 장충고 학생은 다양한 유형에, 환일고 학생은 심화 문제에 집중합니다. 학교별 맞춤 전략으로 내신을 공략합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 수학과외가 필요한 이유
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 철저히 분석합니다. 원인을 파악하여 같은 유형에서 반복하지 않도록 훈련합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 고등 수학 학습 순서
@@ -119,7 +119,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습량과 진도를 설계합니다. 시험 기간에는 내신에 집중하고, 방학에는 선행과 심화를 병행합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ### 고3: 마무리
@@ -130,13 +130,13 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 다산동 고등 수학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**고1~2**는 주1회 기준 25만원에서 35만원, 주2회 기준 42만원에서 58만원 선입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
 
-**고3**은 주1회 기준 30만원에서 42만원, 주2회 기준 50만원에서 70만원이 일반적입니다.
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황을 고려하여 합리적으로 정합니다. 무료 상담에서 학생 수준을 파악한 뒤, 적절한 수업 횟수와 시간을 안내드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -147,7 +147,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 **Q. 내신과 수능, 뭘 먼저?**
 
-고1~2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
+고1-2는 내신 중심, 고3은 둘을 병행합니다. 학기 중에는 내신에 집중하고, 방학에는 수능을 대비합니다.
 
 **Q. 개념은 아는데 문제가 안 풀려요.**
 
@@ -156,6 +156,22 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 **Q. 학원과 과외, 어떤 게 좋아요?**
 
 스스로 공부가 되고 기초가 있으면 학원, 개별 관리가 필요하면 과외를 추천합니다. 학원에서 진도를 나가고 과외로 약점을 보완하는 병행도 좋습니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 현재 수준과 목표에 따라 맞춤 진도를 설계합니다. 학교 진도에 맞추어 내신 대비를 하거나, 선행 학습을 원하시면 그에 맞춰 진행합니다. 정기적으로 진도를 점검하고 조정합니다.
+
+**Q. 모의고사 대비도 가능한가요?**
+
+가능합니다. 학력평가, 모의고사 대비를 위한 수업도 진행합니다. 기출 분석과 시간 배분 연습을 통해 실전 감각을 키웁니다.
+
+**Q. 수업 후에도 질문이 가능한가요?**
+
+물론입니다. 카카오톡으로 언제든 질문하시면 됩니다. 숙제하다 막히는 문제나 궁금한 점을 사진으로 보내주시면 답변해 드립니다.
+
+**Q. 성적이 갑자기 떨어졌어요. 원인을 찾을 수 있을까요?**
+
+찾을 수 있습니다. 시험지 분석과 학습 패턴 점검을 통해 문제점을 파악합니다. 개념 이해 부족인지, 실수가 잦은지, 시간 부족인지 등을 진단하고 맞춤 해결책을 제시합니다.
 
 ## 마무리
 

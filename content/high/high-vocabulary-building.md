@@ -7,7 +7,7 @@ reading_time: "642줄"
 description: "고등학생을 위한 체계적인 어휘력 향상 가이드. 효율적인 암기법부터 문맥 활용, 어원 분석까지. 수능 필수 어휘를 완벽하게 정복하는 전략."
 categories: ["고등"]
 tags: ["고등어휘", "어휘력향상", "영단어암기", "국어어휘", "수능어휘", "단어암기법", "어원", "문맥파악"]
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0704_mJaLWCgI1KY.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -18,18 +18,18 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 어휘 수준을 진단합니다. 수능 빈출 어휘부터 체계적으로 학습하고 정기 테스트로 확인합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 어휘력이 중요한 이유
 
 어휘력이 높으면 독해 속도가 빠르고 이해도가 높습니다. 표현력이 풍부해지고 사고력이 발달합니다. 반대로 어휘력이 낮으면 지문 이해가 어렵고 문제 풀이 시간이 오래 걸립니다. 서술형 답안 작성도 곤란해집니다.
 
-수능 필수 어휘량도 상당합니다. 국어는 수능 필수 3,000~5,000단어에 한자성어 500개, 속담과 관용구 300개가 필요합니다. 영어는 수능 필수 2,000~2,500단어에 숙어 500개, 연어 300개가 필요합니다.
+수능 필수 어휘량도 상당합니다. 국어는 수능 필수 3,000-5,000단어에 한자성어 500개, 속담과 관용구 300개가 필요합니다. 영어는 수능 필수 2,000-2,500단어에 숙어 500개, 연어 300개가 필요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 필수 어휘 리스트를 제공합니다. 우선순위를 정해 효율적으로 학습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 효율적인 어휘 암기법
@@ -42,7 +42,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 암기법을 소개하고 학생에게 맞는 방법을 찾습니다. 문맥과 어원 분석을 함께 적용합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 간격 반복 학습
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 단어 테스트를 합니다. 틀린 것은 다음 시간에 재테스트하며 누적 관리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 영단어 암기 루틴
@@ -76,7 +76,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 한자 500자를 단계별로 학습합니다. 한자어 이해가 국어 어휘의 핵심임을 강조합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 고유어도 중요합니다. 보다, 바라보다, 쳐다보다 같은 유사어를 구분하고 의성어, 의태어, 속담, 관용구를 익힙니다. 문맥 속에서 의미를 파악하는 연습도 필요합니다.

@@ -11,7 +11,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 ---
 
 ## 내신이 중요하다는 건 아는데, 어떻게 관리해야 하는지 모르겠어요. 과목이 너무 많아서 다 신경 쓸 수가 없어요.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 상담에서는 학생의 현재 성적과 목표를 분석합니다. 어떤 과목에 집중해야 하는지, 어떻게 시간을 배분해야 하는지 구체적으로 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 내신 관리 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리가 안 된다면 학습 상담을 받으세요. 체계적인 관리 방법을 알려드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 진학 상담은 내신이 입시에 어떻게 반영되는지 알고 싶을 때 도움이 됩니다. 심리 상담은 시험 불안이 심할 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 우선순위와 시험 대비 타임라인을 안내합니다. 시험 2주 전부터 어떻게 준비해야 하는지 구체적으로 알려드립니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 내신은 어떻게 관리해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성적과 목표에 맞는 내신 관리 계획을 세워드립니다. 실현 가능한 계획으로 안정적인 성적을 유지하도록 돕습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 **Q. 내신과 수능 중 뭐가 더 중요한가요?**
 
-학년과 입시 전형에 따라 다릅니다. 일반적으로 고1~2는 내신, 고3은 수능과 병행합니다.
+학년과 입시 전형에 따라 다릅니다. 일반적으로 고1-2는 내신, 고3은 수능과 병행합니다.
 
 **Q. 포기하고 싶은 과목이 있어요.**
 
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 체계적인 관리 방법을 안내합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

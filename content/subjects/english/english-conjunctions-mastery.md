@@ -10,7 +10,7 @@ tags:
 - 문법
 - 접속사
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0359_3Qys6LzrXu0.jpg"
 ---
 
 ## because와 so를 같이 쓰면 안 되는 건지 헷갈린다고요? when과 while의 차이가 뭔지 모르겠다고요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-등위접속사와 종속접속사를 명확히 구별합니다. 중복 오류를 교정합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 등위접속사
@@ -28,27 +28,27 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-등위접속사의 의미와 용법을 예문으로 익힙니다. 실전 문장으로 연습합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 종속접속사 - 시간과 이유
 
-시간 접속사로 when은 ~할 때, while은 ~하는 동안입니다. when은 시점이고 while은 기간입니다. When I arrived는 도착했을 때, While I was studying은 공부하는 동안입니다. 이유 접속사로 because는 ~때문에입니다. I'm happy because I passed. because와 so는 함께 쓸 수 없습니다.
+시간 접속사로 when은 -할 때, while은 -하는 동안입니다. when은 시점이고 while은 기간입니다. When I arrived는 도착했을 때, While I was studying은 공부하는 동안입니다. 이유 접속사로 because는 -때문에입니다. I'm happy because I passed. because와 so는 함께 쓸 수 없습니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-when과 while의 차이를 명확히 합니다. because + so 중복 오류를 교정합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 종속접속사 - 조건과 양보
 
-조건 접속사 if는 만약 ~라면입니다. If it rains, I'll stay home. unless는 ~하지 않으면으로 if not과 같습니다. 양보 접속사 although와 though는 비록 ~하지만입니다. Although it was raining, we went out. although와 but은 함께 쓸 수 없습니다.
+조건 접속사 if는 만약 -라면입니다. If it rains, I'll stay home. unless는 -하지 않으면으로 if not과 같습니다. 양보 접속사 although와 though는 비록 -하지만입니다. Although it was raining, we went out. although와 but은 함께 쓸 수 없습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-조건과 양보 접속사를 연습합니다. although + but 중복 오류를 교정합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 상관접속사
@@ -57,7 +57,7 @@ both A and B는 A와 B 둘 다입니다. Both you and I are students. either A o
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상관접속사의 의미와 수일치를 정리합니다. 실전 문제로 연습합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,35 @@ when은 시점, while은 기간입니다. When I arrived는 도착했을 때, Wh
 
 네, 의미가 같습니다. Unless you hurry = If you don't hurry입니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 접속사는 등위접속사와 종속접속사를 구별하고 중복 사용을 피하면 쉽게 정복할 수 있습니다. because + so, although + but 같은 중복 오류를 주의하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 접속사를 마스터합니다. 자주 틀리는 패턴을 교정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>

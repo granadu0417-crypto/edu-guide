@@ -10,7 +10,7 @@ tags:
 - 화학 평형
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0598_HEL6Cx3pDwE.jpg"
 ---
 
 ## 평형 상수 계산이 어렵고 르샤틀리에 원리 적용이 헷갈린다고요? 평형의 본질을 이해하면 풀립니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동적 평형의 의미를 먼저 이해합니다. 평형 상수 식을 세우는 연습을 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 화학 평형의 이해
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동적 평형을 그래프로 이해합니다. 평형 상태의 특징을 정리합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 평형 상수
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평형 상수 식 세우는 법을 익힙니다. K 값의 의미를 해석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 르샤틀리에 원리
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 조건별 평형 이동 방향을 정리합니다. 실제 예시로 적용 연습을 합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 평형 관련 그래프 해석을 집중 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ Kc는 농도 기반, Kp는 분압 기반입니다. 기체 반응에서 둘 다 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 화학 평형을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>

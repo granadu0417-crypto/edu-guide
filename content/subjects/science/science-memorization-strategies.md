@@ -18,12 +18,12 @@ tags:
 - 과학용어
 - 개념암기
 - 장기기억
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0614_hZNpKQq3bYU.jpg"
 ---
 
 과학 암기 과목은 단순 암기가 아닙니다. 이해와 암기를 함께해야 진짜 실력이 됩니다. 이 글에서는 생물, 지구과학 등 암기가 많은 과학 과목을 효과적으로 정복하는 모든 전략을 안내합니다.
 
-![과학 암기 전략](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=600&fit=crop)
+![과학 암기 전략](/images/edu_0304_X916crnB9NM.jpg)
 
 ## 과학 암기 과목의 특징
 
@@ -711,21 +711,5 @@ Quizlet:
 
 
 
-## 📚 관련 가이드
 
-- [과학 개념 정리 완벽 정리 | 암기~이해 2025](/subjects/science/science-concept-organization/)
-- [과학 실험보고서 vs 탐구활동 | 작성법 비교 2025](/subjects/science/science-experiment-report-guide/)
-- [과학 탐구 활동 추천 가이드 | 주제~발표 2025](/subjects/science/science-research-guide/)
-- [사회 암기 전략 추천 방법 | 역사·지리 용어 2025](/subjects/social/social-memorization-strategies/)
-- [과학 통합 완성 가이드 - 물화생지 전 영역 정복](/subjects/science/science-integrated-mastery/)
-
-{{< cta-consultation-final >}}
-
----
-
-## 관련 글
-
-- [과학 개념 정리 노하우 - 체계적 학습법](/subjects/science/science-concept-organization/)
-- [과학 실험 보고서 작성법 - 완벽 가이드](/subjects/science/science-experiment-report-guide/)
-- [과학 탐구 활동 가이드 - 주제부터 발표까지](/subjects/science/science-research-guide/)
-- [중학생 과학 공부법 - 개념과 암기](/middle/science-study-methods/)
+{{< cta-dual type="final" >}}

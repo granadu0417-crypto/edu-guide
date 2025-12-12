@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "학습 플래너 완벽 가이드 | 학습 계획 세우는 법·시간 관리 기법·학년별 플래너 작성·디지털·아날로그 도구·실천 방법까지 상세 안내"
 tags: ["학습플래너", "공부계획", "시간관리", "학습계획", "스터디플래너", "공부스케줄", "학습관리", "자기주도학습", "목표설정"]
-featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0381_7nhFmxT84l4.jpg"
 ---
 
 ## 공부 계획은 매번 세우는데 왜 작심삼일로 끝날까요? 어떻게 해야 꾸준히 실천할 수 있는지 고민이시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 학습 패턴을 분석합니다. 실현 가능한 계획을 함께 세우고 실천 여부를 점검합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 좋은 학습 플래너의 조건
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-80퍼센트 달성 가능한 계획으로 시작합니다. 점진적으로 난이도를 높여갑니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 학습 플래너 작성 방법
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장기 중기 단기 플래너를 함께 작성합니다. 주간 점검을 통해 실천율을 높입니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 효과적인 시간 관리 기법
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 시간 관리 기법을 찾습니다. 포모도로나 시간대별 학습 전략을 적용합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 학년별 플래너 전략
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 플래너 양식을 제공합니다. 주간 점검을 통해 실천율을 확인합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,38 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 **Q. 하루에 공부 시간을 얼마나 계획해야 하나요?**
 
 학년과 개인 상황에 따라 다릅니다. 초등학생은 1시간에서 2시간 중학생은 2시간에서 4시간 고등학생은 4시간에서 8시간 정도가 적정합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

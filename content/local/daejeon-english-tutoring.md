@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "대전 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 tags: ["대전영어과외", "대전과외", "영어과외", "대전교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 ---
 
 ## 대전에서 영어 과외 찾기 어려우신가요? 유성구와 둔산동 중 어디가 좋을지 고민되시죠.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 4대 영역을 진단합니다. 부족한 부분을 집중적으로 보완하는 맞춤 수업을 진행합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 대전 지역 중학교 영어 내신 특징
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 영작 훈련을 집중적으로 하고, 자주 틀리는 문법을 정리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 대전 지역 고등학교 영어 내신 특징
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 다양한 주제의 지문을 읽어 독해력을 키우고, 추론 문제 풀이 전략을 익힙니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ### 대전외고 등 특목고
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 따라 커리큘럼을 설계합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 한국인 선생님과 원어민 선생님
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업 후 결정할 수 있도록 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 대전 지역별 영어 교육 환경
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 영어 교육 환경을 분석합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 영어 4대 영역 균형 학습
@@ -93,7 +93,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4대 영역을 균형 있게 학습합니다. 취약한 영역을 집중 보완하면서 전체적인 실력을 높입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수능 영어 대비 전략
@@ -104,24 +104,24 @@ EBS 연계율이 높으므로 수능특강과 수능완성을 철저히 학습�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 기출 문제를 분석합니다. 취약 유형을 집중적으로 훈련하고 오답 노트를 함께 관리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과외 비용 안내
 
 대전 지역 영어 과외 비용은 다음과 같습니다.
 
-**초등학생**은 주1회 기준 15만원에서 20만원, 주2회 기준 25만원에서 35만원 선입니다.
+**초등학생**은 주1회 12만원 - 22만원, 주2회 25만원 - 38만원 선입니다.
 
-**중학생**은 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원이 일반적입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**고등학생**은 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 55만원 정도입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다. **고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 원어민 회화 수업은 별도 비용이 책정됩니다. 유성구는 국제적 환경으로 원어민 선생님 접근성이 좋습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 횟수와 시간은 학생 상황에 맞게 조율합니다. 예산에 맞는 최적의 수업 방식을 찾아드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문

@@ -12,7 +12,7 @@ tags:
 - 수능영어
 - 내신영어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0358_smgTvepind4.jpg"
 ---
 
 ## 영어 공부, 어디서부터 시작해야 할지 막막하다고요? 듣기 말하기 읽기 쓰기 다 해야 하는데 정신없다고요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 약점 영역을 진단하고 맞춤 학습 계획을 세웁니다. 균형 잡힌 영어 실력을 키웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 듣기와 말하기
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-듣기 유형별 전략을 익히고 말하기 연습을 병행합니다. 발음 교정도 함께 진행합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 읽기와 독해 전략
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 유형별 전략을 체계적으로 훈련합니다. 시간 관리 연습도 함께 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 문법과 어휘
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 문법을 체계적으로 정리합니다. 빈출 어휘를 효율적으로 암기합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 쓰기와 서술형
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 대비 영작 연습을 합니다. 첨삭과 피드백으로 실력을 키웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -82,5 +82,5 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 영어 수업으로 전 영역을 체계적으로 정복합니다. 수능과 내신을 동시에 대비합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>

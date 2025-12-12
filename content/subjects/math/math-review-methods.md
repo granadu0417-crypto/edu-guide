@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0555_KhZcK8J-py0.jpg"
 ---
 
 ## 분명히 공부했는데 시험 때 기억이 안 난다고요? 열심히 해도 금방 까먹어서 답답하다고 느끼시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 내용을 다음 시간에 반드시 확인합니다. 복습이 습관이 될 때까지 체계적으로 관리합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 복습 주기
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 스케줄을 함께 세웁니다. 학생이 스스로 복습할 수 있도록 체크리스트를 제공합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 복습 방법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 복습 방법을 가르칩니다. 학생에게 맞는 복습법을 찾아 습관화시킵니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 오답 노트 작성법
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 작성법을 지도합니다. 오답을 정기적으로 점검하여 같은 실수를 반복하지 않게 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 시험 대비 복습
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전 복습 계획을 함께 세웁니다. 시기별로 무엇을 어떻게 복습할지 구체적으로 안내합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,12 +80,48 @@ featured_image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=
 
 복습이 훨씬 중요합니다. 선행보다 복습에 집중하세요.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
 ## 마무리
 
 복습은 수학 학습에서 가장 중요한 과정입니다. 배운 내용을 완전히 자기 것으로 만드는 유일한 방법입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체계적인 복습 관리로 배운 내용을 장기 기억으로 만들어드립니다. 복습 습관을 완전히 정착시킵니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 

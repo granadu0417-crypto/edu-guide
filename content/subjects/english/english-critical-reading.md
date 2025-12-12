@@ -10,7 +10,7 @@ tags:
 - 비판적독해
 - 논리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 ---
 
 ## 글 내용은 이해하는데 논리 구조는 모르겠다고요? 주장과 근거를 구분하기 어렵다고요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비판적 독해의 기본 사고방식을 익힙니다. 글의 논리 구조를 파악하는 훈련을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 핵심 요소 파악
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주장, 근거, 전제를 구분하는 연습을 합니다. 실전 지문으로 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 읽기 전략
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4단계 읽기 전략을 체계적으로 훈련합니다. 실전 문제에 적용합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 논리와 오류
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논리적 오류를 찾는 연습을 합니다. 편향을 파악하는 눈을 키웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 수능 적용
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비판적 독해를 수능 문제에 적용합니다. 고난도 문제 풀이 전략을 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,47 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 네, 특히 고난도 문제에 필수입니다. 빈칸 추론, 주제 파악에 효과적입니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
 ## 마무리
 
 비판적 독해는 단순 이해를 넘어 논리를 분석하고 평가하는 고급 사고입니다. 질문하며 읽고 논리를 파악하는 연습을 꾸준히 하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 비판적 독해 수업으로 분석력을 키웁니다. 고난도 문제 정복을 도와드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

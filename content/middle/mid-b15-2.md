@@ -14,7 +14,7 @@ tags:
 - 중전학년
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 ---
 ## 학원 없으면 공부를 못하는 아이, 걱정되시죠?
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에 의존하지 않고 스스로 공부하는 능력을 키워줍니다. 점차 혼자 학습하는 비중을 늘립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자기주도 학습이 필요한 이유
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜 스스로 공부해야 하는지 이해시킵니다. 동기 부여가 되어야 실천합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자기주도 학습의 핵심
@@ -44,18 +44,18 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 오늘 할 일을 정합니다. 수업 끝에 달성 여부를 점검합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 계획 세우는 방법
 
 주간 단위로 계획을 세우세요. 이번 주에 해야 할 일을 정하고 요일별로 나눕니다. 매일 할 양이 너무 많지 않게 적절히 배분합니다.
 
-계획은 구체적으로 적어야 합니다. 수학 공부하기 대신 수학 문제집 20~25페이지 풀기처럼 적습니다. 구체적이어야 했는지 안 했는지 알 수 있습니다.
+계획은 구체적으로 적어야 합니다. 수학 공부하기 대신 수학 문제집 20-25페이지 풀기처럼 적습니다. 구체적이어야 했는지 안 했는지 알 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 함께 주간 계획표를 작성합니다. 처음에는 도와주고 점차 혼자 하게 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 실행과 점검
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-계획 실행 여부를 매 수업 확인합니다. 잘된 점과 개선할 점을 함께 이야기합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학원과 자기 학습의 균형
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 스케줄을 점검하고 자기 학습 시간을 확보하도록 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -95,6 +95,42 @@ featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=
 **Q. 학원을 끊으면 성적이 떨어질까 봐 걱정이에요.**
 
 학원을 끊으라는 게 아닙니다. 학원에 의존하지 않고 자기 공부도 할 수 있게 키우라는 것입니다. 균형이 중요합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

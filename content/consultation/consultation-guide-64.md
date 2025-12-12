@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 ---
 
 ## 공부하려고 마음은 먹는데 실천이 안 돼요. 계획만 세우고 작심삼일로 끝납니다. 어떻게 하면 꾸준히 할 수 있나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-습관 상담에서는 왜 작심삼일로 끝나는지 원인을 분석합니다. 너무 큰 계획, 잘못된 환경, 보상 부재 등 문제를 찾고 해결책을 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학습 습관 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작심삼일이 반복된다면 학습 상담을 받으세요. 습관을 만드는 방법을 알려드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 심리 상담은 무기력이 심할 때 도움이 됩니다. 진로 상담은 동기가 없어서 공부가 안 될 때 도움이 됩니다.
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 실천 가능한 작은 습관부터 시작합니다. 하루 10분이라도 매일 하는 루틴을 설계해드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 학습 습관은 어떻게 만드나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 습관을 설계합니다. 무리하지 않으면서도 지속 가능한 루틴을 함께 만들어갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 **Q. 습관 만드는 데 얼마나 걸리나요?**
 
-개인차가 있지만 보통 2~3주면 어느 정도 자리 잡습니다. 3개월이면 완전히 몸에 붙습니다.
+개인차가 있지만 보통 2-3주면 어느 정도 자리 잡습니다. 3개월이면 완전히 몸에 붙습니다.
 
 **Q. 부모도 상담에 참여하나요?**
 
@@ -84,8 +84,48 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관에 대해 더 궁금한 점이 있으시면 문의하세요. 꾸준히 하는 방법을 안내합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

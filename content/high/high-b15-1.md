@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0630_D9ZYbb_Kjic.jpg"
 ---
 ## 아직 뭘 하고 싶은지 모르겠어요. 고1인데 진로를 안 정하면 안 되나요?
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 성향을 파악합니다. 어떤 분야에 흥미가 있는지 함께 탐색해봅니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 진로 탐색의 핵심
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 탐색 활동을 설계합니다. 어떤 경험을 해보면 좋을지 구체적으로 계획을 세웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 진로 탐색 방법
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관심 분야의 도서를 추천하고 함께 읽어봅니다. 그 분야가 정말 맞는지 확인하는 과정입니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 학과 선택 기준
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관심 학과의 교육 과정과 진출 분야를 함께 조사합니다. 실제로 뭘 배우고 뭘 하게 되는지 알아야 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 진로와 입시의 연결
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로에 맞는 입시 전략을 안내합니다. 어떤 전형이 유리한지, 어떤 활동을 해야 하는지 계획합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 진로 변경에 대하여
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로가 바뀌더라도 스토리가 연결되게 합니다. 어떻게 탐색했고 왜 바뀌었는지 설명할 수 있어야 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 주의사항
@@ -111,6 +111,22 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 **Q. 취업 잘 되는 학과를 가야 하나요?**
 
 맞지 않으면 취업이 잘 되어도 행복하지 않습니다. 흥미와 적성을 먼저 고려하세요.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

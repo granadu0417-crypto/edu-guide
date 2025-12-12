@@ -13,7 +13,7 @@ tags:
 - 어법
 - grammar
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0371_w9i7wMaM3EE.jpg"
 ---
 
 ## 어법 문제만 보면 헷갈린다고요? 분명히 배운 건데 막상 풀면 틀리시죠.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 문법 약점을 진단합니다. 빈출 유형 중심으로 개념을 정리하고 오답 패턴을 분석합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 빈출 문법 순위
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈출 순위에 따라 학습 우선순위를 정합니다. 자주 나오는 것부터 완벽히 익힙니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 핵심 문법 포인트
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 문법을 예문과 함께 정리합니다. 헷갈리기 쉬운 개념을 비교하며 명확히 구분합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## that과 what 구분
@@ -51,7 +51,7 @@ that은 접속사로 뒤에 완전한 문장이 옵니다. I know that he is bus
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-완전/불완전 문장 판단법을 훈련합니다. 실전 문제로 반복 연습합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 실전 전략
@@ -60,7 +60,7 @@ that은 접속사로 뒤에 완전한 문장이 옵니다. I know that he is bus
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 순서와 전략을 체계적으로 훈련합니다. 시간 관리와 정확도를 동시에 높입니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ that은 접속사로 뒤에 완전한 문장이 옵니다. I know that he is bus
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 약점을 집중 보완합니다. 오답 분석과 반복 훈련으로 29번을 확실히 잡습니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>

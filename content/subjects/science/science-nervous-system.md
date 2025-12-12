@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0618_hzYlOPm3frA.jpg"
 ---
 
 ## 신경 전달 과정이 복잡하고 중추신경과 말초신경이 헷갈린다고요? 뉴런의 구조부터 시작하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-뉴런의 세 부분(세포체, 가지돌기, 축삭돌기)을 그림으로 이해합니다. 각 부분의 역할을 명확히 합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 뉴런과 신경 전달
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-휴지 전위와 활동 전위의 차이를 설명합니다. 시냅스 전달 과정을 단계별로 정리합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 중추신경계
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-뇌의 각 부위와 기능을 표로 정리합니다. 손상 시 나타나는 증상을 연결합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 말초신경계
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교감신경과 부교감신경의 작용을 비교합니다. 각 기관에 미치는 효과를 정리합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 그림 문제 풀이를 집중 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 신경계를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

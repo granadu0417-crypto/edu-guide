@@ -17,7 +17,7 @@ tags:
 - 입학준비
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0525_je240KkJIuA.jpg"
 ---
 
 ## 영재교육원에 보내고 싶은데 어떻게 준비해야 하는지 모르겠다고요? 일반 학원으로는 안 될 것 같다고 느끼시죠.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영재교육원 준비를 위한 맞춤 커리큘럼을 제공합니다. 창의적 사고와 문제 해결력을 체계적으로 키웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 선발 과정
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선발 과정별 맞춤 준비를 합니다. 창의적 문제 해결력 평가와 면접을 집중 대비합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학년별 준비 전략
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 로드맵을 제공합니다. 학생의 수준에 맞는 단계적 준비를 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 효과적인 학습 방법
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-창의적 사고와 증명 능력을 체계적으로 훈련합니다. 다양한 접근법을 익히도록 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 부모 가이드
@@ -82,6 +82,6 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영재교육원 합격을 위한 맞춤 준비를 합니다. 창의적 사고와 문제 해결력을 체계적으로 키워드립니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 

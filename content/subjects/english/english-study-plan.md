@@ -13,7 +13,7 @@ tags:
 - study plan
 - 전략
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0416_ti4kGLkGgmU.jpg"
 ---
 
 ## 영어 공부 계획을 세워도 실천이 안 된다고요? 무엇부터 시작해야 할지 막막하다고요.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준과 목표를 분석합니다. 개인에게 맞는 학습 계획을 설계합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 목표 설정 SMART 원칙
@@ -31,18 +31,18 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 시간 배분 원칙
 
-하루 2~3시간이 적당합니다. 기초 단계는 어휘 40%, 문법 30%, 독해 20%, 듣기 10%로 배분하세요. 중급 이상은 독해 비중을 높이세요. 복습에 30~40% 시간을 쓰세요. 새로운 것만 배우면 잊어버립니다.
+하루 2-3시간이 적당합니다. 기초 단계는 어휘 40%, 문법 30%, 독해 20%, 듣기 10%로 배분하세요. 중급 이상은 독해 비중을 높이세요. 복습에 30-40% 시간을 쓰세요. 새로운 것만 배우면 잊어버립니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 시간 배분을 설계합니다. 학생의 수준과 목표에 맞게 조정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 주간 학습 루틴
@@ -51,7 +51,7 @@ SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 루틴을 만듭니다. 지속 가능한 학습 시스템을 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 평가와 조정
@@ -60,7 +60,7 @@ SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적인 평가와 조정을 함께합니다. 목표 달성까지 지속적으로 관리합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -71,11 +71,35 @@ SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니
 
 **Q. 하루에 몇 시간이 적당한가요?**
 
-목표에 따라 다릅니다. 1등급은 3시간 이상, 2~3등급은 1~2시간이 적당합니다.
+목표에 따라 다릅니다. 1등급은 3시간 이상, 2-3등급은 1-2시간이 적당합니다.
 
 **Q. 슬럼프가 왔어요.**
 
-2~3일 쉬고 작은 목표부터 다시 시작하세요.
+2-3일 쉬고 작은 목표부터 다시 시작하세요.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 
@@ -83,5 +107,5 @@ SMART 목표를 함께 설정합니다. 큰 목표를 작은 단계로 나눕니
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 학습 전략 수업으로 체계적인 계획을 세웁니다. 지속적인 관리로 목표를 달성합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

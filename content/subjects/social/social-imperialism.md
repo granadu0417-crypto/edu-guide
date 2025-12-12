@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0675_hzuY8YVnUSA.jpg"
 ---
 
 ## 제국주의 열강들이 헷갈리고 식민 지배 과정이 복잡하다고요? 산업 혁명과의 연결부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제국주의의 배경과 원인을 분석합니다. 산업 혁명과의 연결 고리를 설명합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 제국주의의 등장
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제국주의의 경제적, 사상적 배경을 정리합니다. 열강별 특징을 비교합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 아시아의 식민 지배
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아시아 식민 지배의 과정을 지도와 함께 설명합니다. 민족 운동의 전개를 정리합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 아프리카의 분할
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아프리카 분할 과정을 지도로 정리합니다. 열강 간 경쟁과 충돌 사례를 분석합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 제국주의의 결과
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제국주의가 세계사에 미친 영향을 분석합니다. 식민 지배의 결과와 독립 운동을 연결합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 제국주의를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>

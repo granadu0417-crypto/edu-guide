@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영재교육의 모든 것! 영재교육원, 영재학급 선발 과정부터 합격 전략, 교육 프로그램까지 영재교육 완벽 가이드입니다."
 tags: ["영재교육", "영재교육원", "영재학급", "영재선발", "영재교육프로그램", "교육청영재교육원", "대학부설영재교육원", "과학영재", "수학영재"]
-featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 ---
 
 ## 우리 아이가 영재교육 대상일까요? 선발 과정이 복잡해서 어떻게 준비해야 할지 막막하시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 재능과 관심 분야를 파악합니다. 영재교육 대상 여부를 함께 판단하고 준비 방향을 안내합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 영재교육 기관의 종류
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 기관의 특성과 장단점을 설명합니다. 아이에게 맞는 영재교육 기관을 추천해드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 영재 선발 과정
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선발 단계별 준비 방법을 안내합니다. 자기소개서 작성과 면접 준비를 함께 진행합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 영재교육 준비 전략
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 준비 로드맵을 제시합니다. 포트폴리오 구축과 탐구 활동을 체계적으로 지도합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 학부모의 역할
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정에서의 지원 방법을 안내합니다. 아이의 균형 잡힌 성장을 위한 조언을 드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,30 @@ featured_image: "https://images.unsplash.com/photo-1580894906475-403935091be2?w=
 **Q. 영재교육을 받지 못하면 영재가 아닌가요?**
 
 아닙니다. 선발은 특정 시점의 역량을 평가하는 것일 뿐입니다. 가정과 학교에서도 충분히 재능을 키울 수 있으며 다양한 경로로 성장할 수 있습니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

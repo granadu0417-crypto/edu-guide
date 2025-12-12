@@ -20,7 +20,7 @@ tags:
   - 대경중
   - 수학개념
   - 수학심화
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0848_enkc-M8PNhc.jpg"
 
 ---
 ## 중구 필동 중학생, 수학 삼각형의 중점 연결 정리가 어렵다면
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 삼각형의 중점 연결 정리 이해 수준을 진단합니다. 정리의 증명, 역의 성립, 응용 문제 풀이를 체계적으로 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 삼각형의 중점 연결 정리가 어려운 이유
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중점 연결 정리를 직접 증명해봅니다. 정리와 역을 구분하고 각각 활용하는 연습을 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 장충중·장원중·대경중 수학 시험의 특징
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·장원중·대경중 기출 중점 연결 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 중점 연결 정리를 활용해 문제를 풀어보게 합니다. 어떤 상황에서 이 정리를 쓰는지 판단하는 훈련을 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -77,18 +77,18 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 도형 내용을 정확히 이해합니다. 도형 정리를 자유롭게 활용하는 능력을 키웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 도형 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -106,6 +106,14 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 **Q. 이 정리는 어디에 활용되나요?**
 
 사각형의 성질 증명, 도형의 넓이 계산, 좌표평면에서의 중점 문제 등에 활용됩니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
 
 ## 마무리
 

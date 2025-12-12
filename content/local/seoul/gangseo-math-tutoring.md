@@ -8,7 +8,7 @@ regions:
 cities:
   - 강서구
 tags: ["강서구", "수학과외", "목동", "화곡동", "염창동", "수학", "과외", "목동학원가", "내신수학", "수능수학", "1:1과외", "초등수학", "중등수학", "고등수학"]
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0329_nyZauHXn3P0.jpg"
 ---
 
 "목동 학원가가 있으니까 과외는 필요 없겠죠?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 그렇게 생각하실 수 있어요.
 하지만 **학원과 과외는 역할이 다릅니다.** 학원에서 배운 내용을 과외로 보완하면 시너지가 나요.
 
-![강서구 수학과외](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=600&fit=crop)
+![강서구 수학과외](/images/edu_0283_ijhzqAm3N1Y.jpg)
 
 ## 강서구 수학 교육, 어떤 특징이 있나요?
 
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 이렇게 풀어야 해요?"라는 질문이 나올 때까지. 공식 암기가 아니라 원리 이해부터 시작합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ### 화곡동 - 목동 교육 시스템 공유
@@ -54,14 +54,14 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 수학 수준을 정확히 파악합니다. 어디서 막혔는지, 어디까지 알고 있는지 진단부터 꼼꼼히!
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 수학과외 가이드
 
 ### 초등학생 - 수학이랑 친해지는 시간
 
-**저학년(1~3학년): "수학 재밌다!"가 목표**
+**저학년(1-3학년): "수학 재밌다!"가 목표**
 
 이 시기에 무리하게 진도 빼면 수학을 싫어하게 됩니다.
 **놀이처럼 수학을 접하는** 게 최고예요.
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 수학적 호기심 자극
 - 재미있는 수학 경험 쌓기
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 수학이 확 어려워집니다.
 미리 **분수, 소수, 도형 개념**을 완벽히 잡아두세요.
@@ -81,16 +81,16 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 문제 해결 전략 체계적 훈련
 - 중등 대비 기초 다지기
 
-초등 수학과외 비용은 주 1회 기준 약 12만원에서 20만원, 주 2회 기준 약 22만원에서 35만원 선입니다.
+초등 수학과외 비용은 주 1회 기준 약 12만원 -  20만원, 주 2회 기준 약 22만원 -  35만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-피자를 똑같이 나누면? 분수 개념을 일상에서 찾습니다. "1/4이랑 2/8이 같다고요?" 아이가 직접 발견하면 절대 안 잊어요!
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ### 중학생 - 고등 수학의 기초를 다지는 시기
 
-**중1~중2: 수학의 뼈대를 세우세요**
+**중1-중2: 수학의 뼈대를 세우세요**
 
 중학교 수학을 대충 넘기면 고등 수학이 안 됩니다.
 **방정식과 함수**가 핵심이에요.
@@ -118,16 +118,16 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 고등 선행은 중등 이해 후 진행
 - 수능 기초 핵심 개념 정리
 
-중학생 수학과외 비용은 주 1회 기준 약 20만원에서 30만원, 주 2회 기준 약 28만원에서 45만원 선입니다.
+중학생 수학과외 비용은 주 1회 기준 약 20만원 -  30만원, 주 2회 기준 약 28만원 -  45만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"왜 x에 숫자를 대입해야 해요?" 문자와 식의 개념부터 차근차근. 원리를 알면 응용이 됩니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 수학은 중등과 차원이 다릅니다.
 개념 하나 놓치면 다음 단원 전체가 안 돼요.
@@ -147,11 +147,11 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 - 최신 출제 경향 파악
 - 취약 유형 체계적 보완
 
-고등학생 수학과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 수학과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -177,7 +177,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용 중 이해 안 된 부분을 과외에서 집중 보완합니다. 빈틈 없는 학습이 가능해요!
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 좋은 수학 선생님, 이렇게 고르세요
@@ -213,7 +213,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -255,7 +255,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 지난 수업 내용 확인 테스트! 복습 안 하면 티가 납니다. 작은 습관이 큰 실력이 됩니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 마치며

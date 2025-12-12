@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0960_f2lCwI0V1BM.jpg"
 ---
 
 ## 영어 회화랑 문법이랑 다 해야 하는데, 과외로 둘 다 잡을 수 있나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 과외 첫 시간에 회화, 문법, 독해, 작문 중 어디가 약한지 체크합니다. 약한 부분 위주로 커리큘럼을 짭니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 영어 과외가 왜 필요한가요?
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법을 배우면 바로 회화로 적용해 봅니다. 배운 문법이 실제로 어떻게 쓰이는지 체험합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 영어 과외는 어떻게 진행되나요?
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간을 문법, 회화, 독해로 나눠서 진행합니다. 어느 하나만 치우치지 않게 균형을 잡습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 영어 과외에서 가장 중요한 건 뭔가요?
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 단어 테스트를 진행합니다. 외운 단어를 활용한 회화 연습도 함께합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -78,12 +78,36 @@ featured_image: "https://images.unsplash.com/photo-1609234656388-0ff363383899?w=
 
 **Q. 영어 과외 효과가 언제 나타나나요?**
 
-꾸준히 하면 2~3개월 후부터 체감됩니다. 특히 듣기와 읽기에서 먼저 효과가 나타납니다.
+꾸준히 하면 2-3개월 후부터 체감됩니다. 특히 듣기와 읽기에서 먼저 효과가 나타납니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 회화부터 문법까지 균형 잡힌 영어 학습을 안내합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

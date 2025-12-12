@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0948_FG15xOczy78.jpg"
 ---
 ## 3년 안에 대학이 결정됩니다, 중학교가 그 시작입니다
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 3년 전체를 조망합니다. 학년별로 무엇에 집중해야 하는지 로드맵을 그립니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 중1: 기초를 다지는 해
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 학습 방식에 적응하도록 돕습니다. 첫 시험 대비를 철저히 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 중2: 실력을 쌓는 해
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-취약 과목을 집중 보완합니다. 공부 습관을 더 견고하게 만듭니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 중3: 마무리하는 해
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마지막 내신까지 관리합니다. 고등학교 선행도 함께 준비합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 내신 관리의 핵심
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 철저히 합니다. 같은 실수를 반복하지 않도록 관리합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 진로 탐색 방법
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사를 파악합니다. 진로와 공부를 연결해 동기를 부여합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,14 @@ featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=
 **Q. 부족한 과목은 어떻게 보완하나요?**
 
 원인을 파악하세요. 기초가 부족하면 이전 학년으로 돌아가세요. 문제 풀이가 부족하면 연습량을 늘리세요.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

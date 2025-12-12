@@ -8,7 +8,7 @@ regions:
 cities:
   - 구로구
 tags: ["구로구", "영어과외", "가산동", "신도림", "구로동", "영어", "과외", "가산디지털단지", "내신영어", "수능영어", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0332_S4-PeFaWY7c.jpg"
 ---
 
 "IT 업계 학부모들은 영어 교육 어떻게 시키나요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 가산디지털단지 인근이라 **실용 영어**에 대한 관심이 높습니다.
 하지만 입시 영어도 놓칠 수 없죠. **둘 다 잡는** 방법이 있습니다.
 
-![구로구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![구로구 영어과외](/images/edu_0286_oLFD6zMxdOY.jpg)
 
 ## 구로구 영어 교육, 어떤 특징이 있나요?
 
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"이 문장 해석은 되는데 왜 이런 뜻이에요?" 문법 암기가 아니라 영어의 논리를 이해시킵니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ### 신도림동 - 교통 중심지의 다양성
@@ -54,14 +54,14 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 영어 수준을 정확히 진단합니다. 어휘력, 문법 이해도, 독해 속도까지 꼼꼼히 체크!
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 학년별 영어과외 가이드
 
 ### 초등학생 - 영어랑 친해지는 시간
 
-**저학년(1~3학년): "영어 재밌다!"가 목표**
+**저학년(1-3학년): "영어 재밌다!"가 목표**
 
 이 시기에 문법부터 시작하면 영어를 싫어하게 됩니다.
 **놀이처럼 영어를 접하는** 게 최고예요.
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 - 노래와 게임으로 흥미 유발
 - 원어민 발음에 충분한 노출
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 영어가 확 어려워집니다.
 미리 **기초 문법과 어휘력**을 잡아두세요.
@@ -81,16 +81,16 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 - 영작문 기초 다지기
 - 중등 대비 어휘력 확장
 
-초등 영어과외 비용은 주 1회 기준 약 12만원에서 22만원, 주 2회 기준 약 25만원에서 38만원 선입니다.
+초등 영어과외 비용은 주 1회 기준 약 12만원 -  22만원, 주 2회 기준 약 25만원 -  38만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 동화책을 함께 읽습니다. "이 단어 뭐예요?"라고 물으면 그림을 보며 스스로 추측하게 해요. 맥락에서 단어를 익히면 절대 안 잊어요!
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ### 중학생 - 입시 영어의 기초를 다지는 시기
 
-**중1~중2: 영어 실력의 뼈대를 세우세요**
+**중1-중2: 영어 실력의 뼈대를 세우세요**
 
 중학교 영어를 대충 넘기면 고등 영어가 안 됩니다.
 **문법과 독해**가 핵심이에요.
@@ -108,16 +108,16 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 - 수능형 독해 지문 적응
 - 내신과 수능 영어 차이 이해
 
-중학생 영어과외 비용은 주 1회 기준 약 22만원에서 32만원, 주 2회 기준 약 30만원에서 48만원 선입니다.
+중학생 영어과외 비용은 주 1회 기준 약 22만원 -  32만원, 주 2회 기준 약 30만원 -  48만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"to부정사의 부사적 용법이 뭐예요?" 단순 암기 대신 예문으로 이해시킵니다. 왜 그렇게 쓰는지 알면 문법이 쉬워져요!
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 영어는 지문이 길고 어려워집니다.
 **독해 전략**이 필수예요.
@@ -137,11 +137,11 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 - 시간 관리와 실수 최소화
 - 최신 출제 경향 파악
 
-고등학생 영어과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 영어과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -165,7 +165,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원어민 과외와 한국인 과외를 병행하면 최고의 효과! 회화는 원어민, 문법은 한국인 선생님과 함께합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 좋은 영어 선생님, 이렇게 고르세요
@@ -200,7 +200,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -234,7 +234,7 @@ featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 영어 10분! 하루 단어 10개, 짧은 지문 1개 읽기. 작은 습관이 큰 실력이 됩니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 마치며

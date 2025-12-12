@@ -15,7 +15,7 @@ tags:
 - at
 - for
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0401_e_0aPdC-UzQ.jpg"
 ---
 
 ## in과 on을 언제 쓰는지 헷갈리시죠? for와 during 차이도 모르겠다고요.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 자주 틀리는 전치사를 파악합니다. 헷갈리는 전치사 쌍을 집중 비교합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 시간 전치사: at/on/in
@@ -33,18 +33,18 @@ at은 시각과 시점입니다. at 7 o'clock, at noon, at night입니다. on은
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-at/on/in 시간 용법을 표로 정리합니다. 예문으로 구분 연습을 반복합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## for/during/while과 by/until
 
-for + 기간은 for 3 hours, for a week입니다. during + 특정 기간은 during the summer, during the meeting입니다. while + 주어 + 동사는 while I was sleeping입니다. by는 마감(~까지 끝내기), until은 지속(~까지 계속)입니다. Finish by 5, Wait until 5입니다.
+for + 기간은 for 3 hours, for a week입니다. during + 특정 기간은 during the summer, during the meeting입니다. while + 주어 + 동사는 while I was sleeping입니다. by는 마감(-까지 끝내기), until은 지속(-까지 계속)입니다. Finish by 5, Wait until 5입니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-for/during/while, by/until 차이를 명확히 합니다. 문맥에서 선택하는 연습을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 장소 전치사: at/in/on
@@ -53,16 +53,16 @@ at은 지점입니다. at the door, at the bus stop, at home입니다. in은 공
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-at/in/on 장소 용법을 정리합니다. 시간과 장소 용법을 통합해서 연습합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 혼동하는 전치사
 
-besides는 포함(~외에도), except는 제외(~을 빼고)입니다. on time은 정각, in time은 제시간입니다. made of는 원재료가 보이고, made from은 변형됩니다. through는 내부 통과, across는 표면 가로지름입니다.
+besides는 포함(-외에도), except는 제외(-을 빼고)입니다. on time은 정각, in time은 제시간입니다. made of는 원재료가 보이고, made from은 변형됩니다. through는 내부 통과, across는 표면 가로지름입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 혼동하는 전치사 쌍을 비교합니다. 미묘한 뉘앙스 차이를 설명합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -85,5 +85,5 @@ by + 교통수단은 관사 없이 씁니다. by car, by bus, by train입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 전치사를 완벽히 정복합니다. 자주 틀리는 전치사를 실전 예문으로 연습합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>

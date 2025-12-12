@@ -10,7 +10,7 @@ tags:
 - 2:1과외
 - 중등과외
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 ---
 ## 친구랑 같이 과외 받으면 비용도 아끼고 좋지 않을까요?
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그룹과외를 시작하기 전에 두 학생의 실력과 성향을 꼼꼼히 확인합니다. 맞지 않으면 솔직히 1:1을 권합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 그룹과외의 종류
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2:1 과외에서도 학생 각자의 약점을 파악합니다. 공통으로 설명할 부분과 개별로 지도할 부분을 구분해서 진행합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 그룹과외의 장점
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-건강한 경쟁 분위기를 만듭니다. 점수로 비교하지 않고 각자의 성장에 초점을 맞춥니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 그룹과외의 단점
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실력 차이가 벌어지면 솔직하게 말씀드립니다. 억지로 계속하면 둘 다 손해입니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 그룹과외 성공 조건
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 규칙을 함께 정합니다. 서로 약속하면 지키려는 의지가 생깁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 추천 대상과 비추천 대상
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업에서 두 학생의 반응을 관찰합니다. 억지로 맞추지 않고 적합한 방식을 찾아드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -93,6 +93,26 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 **Q. 형제자매도 가능한가요?**
 
 학년 차이 없으면 최고입니다. 같은 집에서 하니 이동도 편하고 경제적입니다. 다만 학년 차이가 크면 진도가 달라서 어렵습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

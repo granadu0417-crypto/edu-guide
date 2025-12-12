@@ -13,7 +13,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0139_Hk1E9wiebKU.jpg"
 ---
 ## 책 읽으라고 하면 도망가는 아이, 어떻게 해야 할까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 어떤 책을 좋아하는지, 왜 책을 싫어하는지 먼저 파악합니다. 흥미를 느낄 수 있는 책부터 시작해서 점차 독서 습관을 만들어갑니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 책이 있는 환경 만들기
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업할 때 아이에게 좋아하는 책을 가져오게 합니다. 관심사를 파악하고, 그와 연결된 다른 책을 추천해줍니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 매일 정해진 시간에 읽기
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-책을 싫어하는 아이에게는 만화책부터 시작합니다. 학습 만화도 좋은 시작점입니다. 점차 글 비중이 높은 책으로 넘어갑니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 부모가 먼저 책 읽는 모습 보이기
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-책 내용에 대해 이야기 나눕니다. 요약해서 말하기, 등장인물 분석하기, 느낌 표현하기 등을 통해 독해력과 표현력을 함께 키웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 도서관과 서점 자주 방문하기
@@ -96,6 +96,18 @@ featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=
 **Q. 독후감을 꼭 써야 하나요?**
 
 반드시 쓸 필요는 없습니다. 독후감 강요가 오히려 독서를 싫어하게 만들 수 있습니다. 부담 없이 그림을 그리거나 한 줄 감상을 쓰는 정도로 충분합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

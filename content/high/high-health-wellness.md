@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 건강 관리 완전 가이드. 수면, 운동, 영양, 자세까지 성적과 건강을 모두 잡는 실천 전략."
 tags: ["건강관리", "수면", "운동", "영양", "체력관리", "건강습관", "바른자세", "면역력"]
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"
 ---
 
 ## 공부하느라 잠도 못 자고 밥도 제대로 못 먹어요. 몸이 안 좋아지는 것 같은데 성적도 잡고 건강도 챙길 수 있나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 효율을 높이는 건강 관리법을 알려드립니다. 공부와 건강의 균형을 찾도록 도와드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 수면 관리가 성적을 결정한다
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수면 패턴을 분석하고 개선 방안을 제시합니다. 수면의 질을 높이는 실천 방법을 알려드립니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 운동이 뇌를 깨운다
@@ -39,29 +39,29 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-바쁜 일정 속에서도 실천할 수 있는 운동 계획을 함께 세웁니다. 간단한 스트레칭 동작도 알려드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 영양이 뇌의 연료다
 
 아침 식사는 뇌의 연료입니다. 아침을 거르면 오전 수업에 집중하기 어렵습니다. 탄수화물은 뇌의 에너지원이고 단백질은 성장과 회복에 필요합니다. 비타민과 무기질도 균형 있게 섭취해야 합니다.
 
-견과류, 과일, 요거트 같은 건강한 간식을 선택하세요. 과자, 탄산음료, 라면은 피하는 것이 좋습니다. 물을 하루 8잔 이상 마시면 집중력이 향상됩니다. 카페인은 하루 1~2잔으로 제한하고 오후 4시 이후에는 피하세요.
+견과류, 과일, 요거트 같은 건강한 간식을 선택하세요. 과자, 탄산음료, 라면은 피하는 것이 좋습니다. 물을 하루 8잔 이상 마시면 집중력이 향상됩니다. 카페인은 하루 1-2잔으로 제한하고 오후 4시 이후에는 피하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습에 도움이 되는 식습관을 안내합니다. 실천 가능한 영양 관리 방법을 제시합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 바른 자세가 건강을 지킨다
 
-구부정한 자세로 오래 앉아 있으면 거북목과 척추 문제가 생깁니다. 의자에 깊숙이 앉아 등을 등받이에 밀착하세요. 발바닥은 바닥에 딱 붙이고 무릎은 90도를 유지합니다. 책과 눈의 거리는 30~40cm를 유지하세요.
+구부정한 자세로 오래 앉아 있으면 거북목과 척추 문제가 생깁니다. 의자에 깊숙이 앉아 등을 등받이에 밀착하세요. 발바닥은 바닥에 딱 붙이고 무릎은 90도를 유지합니다. 책과 눈의 거리는 30-40cm를 유지하세요.
 
 20분마다 20초간 6m 거리를 바라보는 20-20-20 규칙으로 눈의 피로를 줄일 수 있습니다. 조명은 너무 밝거나 어둡지 않게 하고 적절한 환기로 신선한 공기를 유지하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경과 자세를 점검합니다. 건강한 학습 환경을 만드는 방법을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문

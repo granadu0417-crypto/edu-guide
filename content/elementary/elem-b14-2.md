@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0116_h0tMHMyfr9A.jpg"
 ---
 ## 매일 같은 시간에 책상에 앉는 것, 생각보다 어렵죠?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 시간을 정확히 지킵니다. 매주 같은 요일, 같은 시간에 수업하면서 규칙적인 학습 습관을 만들어갑니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,12 +34,12 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 검사를 꼼꼼히 합니다. 숙제를 하면 칭찬, 안 하면 왜 못 했는지 이야기 나누고 다음엔 꼭 하도록 격려합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과목별 학습 전략
 
-국어는 매일 10~15개 단어 받아쓰기 연습을 합니다. 하루 20분 이상 책을 읽고, 읽은 내용을 말로 설명해봅니다. 모르는 단어는 물어보거나 사전에서 찾아봅니다.
+국어는 매일 10-15개 단어 받아쓰기 연습을 합니다. 하루 20분 이상 책을 읽고, 읽은 내용을 말로 설명해봅니다. 모르는 단어는 물어보거나 사전에서 찾아봅니다.
 
 수학은 2학년 2학기에 구구단을 배웁니다. 구구단은 무조건 외워야 합니다. 연산의 정확성을 먼저 잡고, 속도는 나중에 올립니다.
 
@@ -47,18 +47,18 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-받아쓰기 틀린 단어는 3번씩 쓰게 합니다. 단순 반복이 아니라, 보면서 쓰고, 가리고 쓰고, 확인하는 과정으로 진행합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 2학년의 특징과 대응
 
-2학년은 1학년보다 좀 더 오래 앉아있을 수 있습니다. 하지만 여전히 집중 시간이 15~20분 정도입니다. 놀이를 좋아하고, 칭찬에 민감합니다.
+2학년은 1학년보다 좀 더 오래 앉아있을 수 있습니다. 하지만 여전히 집중 시간이 15-20분 정도입니다. 놀이를 좋아하고, 칭찬에 민감합니다.
 
 학습법은 놀이를 통한 학습, 짧은 시간 자주 반복, 시각 자료 활용, 칭찬과 격려가 중요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-20분 공부하면 5분 쉬는 시간을 줍니다. 작은 보상이 학습 동기를 높입니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 가정에서의 역할
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 방과 후 15시에서 16시에는 간식 먹고 휴식하고 학교 준비물을 정리합니다.
 
-학습 시간 16시에서 17시에는 숙제를 먼저 하고, 받아쓰기 연습 10분, 구구단 연습 10분, 독서 10분을 합니다. 2학년은 30분~1시간이면 충분합니다.
+학습 시간 16시에서 17시에는 숙제를 먼저 하고, 받아쓰기 연습 10분, 구구단 연습 10분, 독서 10분을 합니다. 2학년은 30분-1시간이면 충분합니다.
 
 저녁 17시에서 19시에는 저녁식사와 가족 대화 시간을 갖습니다.
 
@@ -81,12 +81,12 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집에서 할 복습 내용을 구체적으로 안내합니다. 구구단 3단 10번 읽기처럼 분명하게 알려드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주의사항
 
-과도한 학습은 금물입니다. 2학년은 하루 30분~1시간이면 충분합니다. 충분한 놀이와 휴식 시간이 필요합니다.
+과도한 학습은 금물입니다. 2학년은 하루 30분-1시간이면 충분합니다. 충분한 놀이와 휴식 시간이 필요합니다.
 
 균형 잡힌 성장도 중요합니다. 공부만이 아닌 전인적 발달이 필요합니다. 운동과 놀이로 신체가 발달하고, 예술 활동으로 정서가 발달합니다.
 

@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0937_LLfRMRT-9AY.jpg"
 ---
 ## 공부 습관이 없으면 성적은 오르지 않습니다
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 공부 습관을 점검합니다. 문제가 되는 습관을 찾아 개선합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 좋은 공부 습관이란
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좋은 습관을 하나씩 만들어갑니다. 작은 것부터 시작해서 점점 확장합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 매일 공부하는 습관
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 공부 시간대를 찾습니다. 규칙적인 학습 루틴을 만들도록 돕습니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 복습 습관의 중요성
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 복습 방법을 알려드립니다. 복습 습관이 자리 잡도록 관리합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 모르는 것을 해결하는 습관
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 이해 안 되는 부분은 바로 질문하게 합니다. 모르는 것을 부끄러워하지 않도록 분위기를 만듭니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 습관을 바꾸는 데 걸리는 시간
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한 달 동안 한 가지 습관에 집중합니다. 작은 성공을 쌓아 큰 변화를 만듭니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,26 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 **Q. 공부 습관이 정말 성적에 영향을 주나요?**
 
 영향을 줍니다. 같은 시간 공부해도 습관이 좋은 학생이 더 좋은 성적을 받습니다. 효율의 차이입니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

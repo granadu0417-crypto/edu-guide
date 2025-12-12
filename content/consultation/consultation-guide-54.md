@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0077_O0MACozeyPc.jpg"
 ---
 
 ## 필기를 열심히 하는데, 나중에 보면 내가 뭘 썼는지도 모르겠어요. 필기, 제대로 하는 법이 있나요?
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필기 상담에서는 학생의 현재 노트를 함께 분석합니다. 어떤 점이 비효율적인지 찾고, 알아보기 쉽게 정리하는 방법을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 필기 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필기가 정리 안 된다면 학습 상담을 받으세요. 나만의 필기 시스템을 만들어드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 심리 상담은 수업 집중이 안 돼서 필기가 어려울 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 과목별 필기 템플릿과 핵심 정리 방법을 안내합니다. 바로 적용할 수 있는 실전 팁을 드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 효과적인 필기는 어떻게 하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 과목 특성에 맞는 필기법을 안내합니다. 코넬 노트법, 마인드맵 등 다양한 방법 중 맞는 것을 찾아드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,8 +86,32 @@ featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필기 전략에 대해 더 궁금한 점이 있으시면 문의하세요. 효율적으로 정리하는 방법을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

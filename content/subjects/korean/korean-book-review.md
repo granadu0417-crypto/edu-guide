@@ -11,7 +11,7 @@ tags:
 - 독후감
 - 비평
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0434_s1jiWXu6lHU.jpg"
 ---
 
 ## 서평을 어떻게 써야 할지 모르겠다고요? 독후감과는 다른 글쓰기입니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서평의 구조와 특징을 정리합니다. 객관적 분석과 주관적 평가를 균형 있게 쓰는 방법을 훈련합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 서평의 구조
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서론-본론-결론 구조를 연습합니다. 각 부분에 들어갈 내용을 명확히 정리합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 분석 포인트
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분석 포인트별 평가 방법을 훈련합니다. 구체적 근거를 들어 평가하는 연습을 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 서평 작성 팁
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 인용법을 연습합니다. 설득력 있는 평가 문장 쓰기를 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 독후감과의 차이
@@ -58,14 +58,14 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독후감과 서평의 차이를 명확히 합니다. 목적에 맞는 글쓰기 방식을 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 서평은 얼마나 써야 하나요?**
 
-학교 과제는 보통 A4 1~2장입니다. 분량보다 내용의 충실함이 중요합니다.
+학교 과제는 보통 A4 1-2장입니다. 분량보다 내용의 충실함이 중요합니다.
 
 **Q. 부정적 평가를 해도 되나요?**
 
@@ -73,7 +73,31 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 **Q. 줄거리는 얼마나 써야 하나요?**
 
-전체 분량의 20~30%가 적당합니다. 서평의 핵심은 분석과 평가입니다.
+전체 분량의 20-30%가 적당합니다. 서평의 핵심은 분석과 평가입니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 
@@ -81,5 +105,5 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 국어 과외로 서평 쓰기를 마스터합니다. 비평적 사고력과 글쓰기 능력을 함께 키웁니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>

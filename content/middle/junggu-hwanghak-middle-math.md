@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0840_1H0kSvm4I3k.jpg"
 
 ---
 ## 중구 황학동 중학생, 수학 사각형의 성질이 헷갈린다면
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 사각형의 성질 이해 수준을 진단합니다. 평행사변형, 직사각형, 마름모, 정사각형의 성질과 포함 관계를 체계적으로 훈련합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 사각형의 성질이 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사각형들의 포함 관계를 그림으로 이해합니다. 각 사각형의 성질을 비교하며 정리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 덕수중·장원중·대경중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·대경중 기출 사각형 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 사각형의 성질을 증명해보게 합니다. 왜 그 성질이 성립하는지 설명하는 훈련을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,18 +76,18 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 도형 내용을 정확히 이해합니다. 도형을 자유롭게 활용하는 능력을 키웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 사각형 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,14 @@ featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=
 **Q. 정사각형은 직사각형인가요?**
 
 네, 정사각형은 직사각형이면서 마름모입니다. 네 각이 직각이고 네 변이 같습니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

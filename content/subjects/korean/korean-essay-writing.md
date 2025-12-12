@@ -12,7 +12,7 @@ tags:
 - 작문
 - 첨삭
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0449_iFLzEx6RNmI.jpg"
 ---
 
 ## 글쓰기만 하면 뭘 써야 할지 모르겠다고요? 논술의 틀을 배우면 달라집니다.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 습관과 약점을 파악합니다. 단계별로 논술의 기본기를 다져갑니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 논술의 시작: 주제 파악
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 논제를 분석하는 연습을 합니다. 논제의 요구사항을 정확히 파악하는 훈련을 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 개요 작성의 중요성
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개요 작성법을 체계적으로 지도합니다. 논리적 구성력을 키우는 훈련을 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 서론 본론 결론
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서론 본론 결론 작성법을 익힙니다. 각 부분의 역할과 분량 배분을 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 표현력 향상
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 표현력을 다듬는 훈련을 합니다. 첨삭을 통해 더 나은 표현을 익힙니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -76,11 +76,35 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 스스로는 자신의 글의 문제점을 발견하기 어렵습니다. 전문가의 첨삭으로 빠르게 개선할 수 있습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 논술은 체계적 연습과 첨삭으로 반드시 향상됩니다. 주제 파악, 개요 작성, 논리적 전개의 기본을 익히세요. 꾸준히 쓰고 고치면 어떤 논술 시험도 자신있게 대비할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 논술 과외로 실력을 키웁니다. 개인별 약점을 분석하고 집중 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>

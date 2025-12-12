@@ -12,7 +12,7 @@ tags:
 - 초등1학년
 - 초등교육
 - 초등학습
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"
 ---
 ## 처음 학교에 간 우리 아이, 공부는 어떻게 시작해야 할까요?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학년은 재미있게가 원칙입니다. 놀이처럼 공부하면 공부가 즐거워집니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 핵심 학습 목표
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-잘했어! 할 수 있어!를 많이 들려줍니다. 작은 성취도 크게 칭찬합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -46,18 +46,18 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학은 구체물을 사용합니다. 블록, 과자, 사탕으로 덧셈 뺄셈을 하면 재미있어합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 1학년의 특징과 대응
 
-1학년은 집중 시간이 10~15분입니다. 오래 앉아있게 하면 역효과입니다. 짧게 자주 하는 게 효과적입니다.
+1학년은 집중 시간이 10-15분입니다. 오래 앉아있게 하면 역효과입니다. 짧게 자주 하는 게 효과적입니다.
 
 학습법은 놀이 중심입니다. 게임처럼 공부하면 재미있어합니다. 시각 자료, 노래, 율동을 활용합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-10분 공부하고 5분 쉬는 패턴으로 진행합니다. 짧게 자주가 1학년에게 맞습니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 가정에서의 역할
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 방과 후 14시에서 15시에는 간식 먹고 충분히 쉽니다. 1학년은 학교만 다녀와도 피곤합니다.
 
-학습 시간 15시에서 16시에는 숙제를 먼저 하고, 독서 15분, 복습 15분을 합니다. 1학년은 30분~1시간이면 충분합니다.
+학습 시간 15시에서 16시에는 숙제를 먼저 하고, 독서 15분, 복습 15분을 합니다. 1학년은 30분-1시간이면 충분합니다.
 
 놀이 시간 16시에서 18시에는 실컷 놀게 합니다. 놀아야 공부도 잘합니다.
 
@@ -80,12 +80,12 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제할 때 옆에서 지켜봐줍니다. 1학년은 아직 혼자 하기 어렵습니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 주의사항
 
-과도한 학습은 금물입니다. 1학년은 하루 30분~1시간이면 충분합니다. 충분한 놀이와 휴식이 필요합니다.
+과도한 학습은 금물입니다. 1학년은 하루 30분-1시간이면 충분합니다. 충분한 놀이와 휴식이 필요합니다.
 
 균형 잡힌 성장도 중요합니다. 공부만이 아닌 전인적 발달이 필요합니다. 운동과 놀이로 신체가 발달하고, 친구 사귀기로 사회성이 발달합니다.
 
@@ -95,7 +95,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 **Q. 1학년 적정 공부 시간은요?**
 
-30분~1시간이면 충분합니다. 집중력이 짧으니 10분 공부, 5분 쉬기를 반복하세요.
+30분-1시간이면 충분합니다. 집중력이 짧으니 10분 공부, 5분 쉬기를 반복하세요.
 
 **Q. 한글을 아직 잘 못 읽어요.**
 

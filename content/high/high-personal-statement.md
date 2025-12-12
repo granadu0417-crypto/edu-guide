@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 자기소개서 완벽 작성 전략 | 소재 발굴, 스토리 구성, 문항별 작성법, 효과적인 표현, 첨삭 방법, 1:1 맞춤 첨삭 지도 [2025년]"
 tags: ["자기소개서", "자소서작성", "대입자소서", "학생부종합", "스토리텔링", "첨삭", "소재발굴", "진정성", "전공적합성", "자기주도성", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0680_ZPkG0EdWQa8.jpg"
 ---
 
 ## 자기소개서 쓰라는데 뭘 써야 할지 모르겠어요. 특별한 경험도 없고 글도 잘 못 쓰는데 어떻게 해야 하나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생부를 함께 분석합니다. 소재를 발굴하고 스토리 구조를 잡은 후 첨삭을 진행합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자소서의 기본 원칙
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자소서 작성의 기본 원칙을 설명합니다. 좋은 예시와 나쁜 예시를 비교 분석합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 소재 발굴 방법
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-브레인스토밍을 통해 소재를 발굴합니다. 마인드맵을 그리며 활동의 의미를 찾습니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 스토리 구성하기
@@ -50,7 +50,7 @@ STAR 기법을 활용하세요. 상황을 설명하고 과제를 제시하고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스토리 구조를 함께 설계합니다. 개요를 작성하고 초안을 쓴 후 여러 번 수정합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 첨삭의 중요성
@@ -61,7 +61,7 @@ STAR 기법을 활용하세요. 상황을 설명하고 과제를 제시하고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초안부터 최종본까지 꼼꼼히 첨삭합니다. 대학별 평가 기준에 맞춰 조언합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,6 +77,30 @@ STAR 기법을 활용하세요. 상황을 설명하고 과제를 제시하고 �
 **Q. 실패 경험을 써도 되나요?**
 
 오히려 좋습니다. 실패를 어떻게 극복하고 무엇을 배웠는지가 중요합니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

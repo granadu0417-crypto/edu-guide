@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0982_XzUMBNmQro0.jpg"
 ---
 
 ## 영어는 회화도 중요하고 문법도 중요한데, 어느 걸 먼저 해야 하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 영어 수준과 목표를 먼저 파악합니다. 시험 대비인지, 회화 위주인지에 따라 우선순위를 다르게 잡습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 문법과 회화, 뭐가 먼저인가요?
@@ -33,20 +33,20 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법을 배우면 그 문법을 사용해서 바로 문장을 만들어 봅니다. 배운 걸 바로 써먹어야 남습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 독해는 언제 해야 하나요?
 
 문법 공부와 함께 합니다. 문법을 배웠으면 실제 지문에서 확인해야 합니다. 이 문장이 왜 이렇게 구성됐는지 보면서 문법이 정리됩니다. 따로 하는 것보다 같이 하는 게 효율적입니다.
 
-독해는 매일 조금씩 하세요. 한 번에 많이 하는 것보다 매일 1~2지문씩 꾸준히 하는 게 낫습니다. 긴 지문이 부담스러우면 짧은 것부터 시작하세요.
+독해는 매일 조금씩 하세요. 한 번에 많이 하는 것보다 매일 1-2지문씩 꾸준히 하는 게 낫습니다. 긴 지문이 부담스러우면 짧은 것부터 시작하세요.
 
 모르는 단어는 정리하세요. 독해하다 보면 모르는 단어가 나옵니다. 그냥 넘기지 말고 정리해서 외우세요. 단어가 쌓이면 독해가 편해집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 지문을 같이 분석합니다. 문법이 어떻게 쓰였는지, 문장 구조가 어떻게 되는지 설명합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 회화는 과외로 어떻게 배우나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 영어로 대화하는 시간을 갖습니다. 처음에는 간단한 것부터, 점점 복잡한 대화로 늘려갑니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 **Q. 단어는 어떻게 외우나요?**
 
-매일 정해진 양을 외우세요. 하루 20~30개씩 꾸준히. 까먹어도 반복하면 남습니다. 문장 속에서 외우면 더 오래 기억납니다.
+매일 정해진 양을 외우세요. 하루 20-30개씩 꾸준히. 까먹어도 반복하면 남습니다. 문장 속에서 외우면 더 오래 기억납니다.
 
 **Q. 문법책 뗐는데 왜 성적이 안 오르나요?**
 
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 회화와 문법 균형 잡힌 학습을 안내해 드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

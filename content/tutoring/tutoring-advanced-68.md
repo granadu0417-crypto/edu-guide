@@ -11,7 +11,7 @@ tags:
 - 학습상담
 - 학습코칭
 - 학원
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0942_1VqHRwxcCCw.jpg"
 ---
 
 ## 사회는 외우기만 하면 된다고 하는데, 외워도 시험 보면 헷갈려요. 효율적으로 암기하는 방법이 있나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무작정 외우게 하지 않습니다. 흐름과 맥락을 먼저 이해시킵니다. 이해하면 암기가 쉬워집니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 사회 과목은 왜 어렵나요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비슷한 개념은 표로 정리해서 비교합니다. 차이점이 뭔지 명확히 해야 헷갈리지 않습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 효율적으로 암기하려면 어떻게 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 키워드를 뽑고 연결해서 정리합니다. 스토리가 되면 기억에 오래 남습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자료 해석은 어떻게 연습하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자료 해석 문제를 함께 풀면서 어떻게 읽어야 하는지 알려드립니다. 읽는 방법이 있습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 학습에 대해 더 궁금한 점이 있으시면 문의하세요. 효율적인 암기법을 함께 설계해 드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 마무리

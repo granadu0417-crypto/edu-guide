@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0979_zP80MWApkn8.jpg"
 ---
 
 ## 어떤 선생님이 좋은 선생님인지 어떻게 알 수 있나요? 기준이 있나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 수업 방식, 경력, 진행 계획을 솔직하게 설명드립니다. 궁금한 점은 편하게 질문하세요.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 선생님을 볼 때 뭘 확인해야 하나요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 때 어떤 방식으로 수업하는지, 어떤 교재를 쓰는지 상세하게 설명드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 첫 상담에서 뭘 물어봐야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 짧게라도 학부모님께 피드백을 드립니다. 월 1회는 자세한 학습 상황을 공유합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 아이와의 궁합은 어떻게 확인하나요?
@@ -55,11 +55,11 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 아이 반응을 살피세요. 수업 끝나고 아이가 어땠는지 물어보세요. 편했는지, 설명이 이해됐는지, 또 받고 싶은지. 아이 반응이 가장 중요합니다.
 
-2~3주는 지켜보세요. 첫 수업 한 번으로 판단하기는 어렵습니다. 적어도 2~3주는 지켜보세요. 그래도 안 맞으면 그때 바꾸면 됩니다.
+2-3주는 지켜보세요. 첫 수업 한 번으로 판단하기는 어렵습니다. 적어도 2-3주는 지켜보세요. 그래도 안 맞으면 그때 바꾸면 됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이와의 궁합을 중요하게 생각합니다. 안 맞는다고 느끼시면 솔직하게 말씀해 주세요.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 좋은 선생님 찾는 기준을 안내해 드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 마무리

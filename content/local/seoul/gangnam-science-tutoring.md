@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["강남구", "과학과외", "대치동", "역삼동", "삼성동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0327_tz7CUhdxwW4.jpg"
 ---
 
 "대치동에서 과학 과외 선생님을 찾으려면 어떻게 해야 하나요?"
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 과학 실력을 정확하게 진단합니다. 어느 단원에서 막히는지, 개념이 문제인지 문제 적용이 문제인지 파악하고, 그 지점부터 차근차근 다시 쌓아갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 강남구 동네별 과학 교육 환경
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 ### 역삼·삼성동 - 대치동의 대안
 
-역삼동과 삼성동은 대치동보다 과외 비용이 10~20% 저렴합니다. 우수한 선생님이 많으면서도 상대적으로 합리적인 가격에 과외를 받을 수 있습니다.
+역삼동과 삼성동은 대치동보다 과외 비용이 10-20% 저렴합니다. 우수한 선생님이 많으면서도 상대적으로 합리적인 가격에 과외를 받을 수 있습니다.
 
 ### 청담·압구정 - 국제학교 특화
 
@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 수업 장소와 시간을 정합니다. 대치동 스터디카페 수업, 자택 방문, 온라인 병행 등 가장 효율적인 방식으로 진행합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 과목별 과학 과외 포인트
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리는 공식을 외우기 전에 왜 그런 공식이 나왔는지 이해시킵니다. 문제를 풀 때도 어떤 개념을 적용해야 하는지 스스로 판단할 수 있도록 훈련합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ### 화학 - 개념과 계산의 조화
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생명과학은 단원별로 핵심 개념을 정리한 후 문제로 확인합니다. 유전 파트는 체계적인 접근법을 익혀서 어떤 문제가 나와도 풀 수 있도록 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ### 지구과학 - 공간 지각력과 천문 계산
@@ -86,10 +86,10 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1은 통합과학 내신을 탄탄하게 관리하면서, 학생의 성향과 진로에 맞는 선택과목을 함께 고민합니다. 여름방학에 선택과목 맛보기 수업도 가능합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
-### 고2~3 - 내신과 수능 두 마리 토끼
+### 고2-3 - 내신과 수능 두 마리 토끼
 
 고2부터는 선택과목에 집중합니다. 수시 준비는 내신 70%, 수능 30%, 정시 준비는 내신 30%, 수능 70% 비중으로 학습합니다.
 
@@ -107,29 +107,29 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 선생님의 설명이 이해하기 쉬운지, 학생과 소통이 잘 되는지 확인해보세요.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 강남구 과학과외 비용 안내
 
 강남구 과학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**중학생**은 주1회 기준 18만원에서 30만원, 주2회 기준 32만원에서 52만원 선입니다.
+**중학생**은 주1회 기준 18만원 -  30만원, 주2회 기준 32만원 -  52만원 선입니다.
 
-**고등학생**은 주1회 기준 30만원에서 50만원, 주2회 기준 48만원에서 78만원이 일반적입니다.
+**고등학생**은 주1회 기준 30만원 -  50만원, 주2회 기준 48만원 -  78만원이 일반적입니다.
 
-대치동 기준이며, 역삼·삼성동은 10~20% 저렴합니다. 물리가 가장 비싸고, 생명과학과 지구과학이 상대적으로 저렴합니다.
+대치동 기준이며, 역삼·삼성동은 10-20% 저렴합니다. 물리가 가장 비싸고, 생명과학과 지구과학이 상대적으로 저렴합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 강남구 과학 과외 시세가 비싼 편인가요?**
 
-강남구, 특히 대치동은 서울에서 가장 비싼 편입니다. 하지만 우수한 선생님이 가장 많이 모이는 곳이기도 합니다. 역삼·삼성동은 대치동보다 10~20% 저렴하면서 우수한 선생님을 만날 수 있습니다.
+강남구, 특히 대치동은 서울에서 가장 비싼 편입니다. 하지만 우수한 선생님이 가장 많이 모이는 곳이기도 합니다. 역삼·삼성동은 대치동보다 10-20% 저렴하면서 우수한 선생님을 만날 수 있습니다.
 
 **Q. 과외와 학원 중 뭐가 좋나요?**
 

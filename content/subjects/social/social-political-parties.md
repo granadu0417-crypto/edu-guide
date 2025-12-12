@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0694_nEibjJh1_5I.jpg"
 ---
 
 ## 여당과 야당의 역할이 헷갈리고 정당 제도가 복잡하다고요? 정당의 기능과 의의부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정당의 정의와 기능을 먼저 설명합니다. 이익 집단, 시민 단체와의 차이를 비교합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 정당의 기능
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정당의 다양한 기능을 구체적 사례로 설명합니다. 여당과 야당의 역할 차이를 비교합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 정당 제도
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-양당제와 다당제의 장단점을 비교합니다. 각 제도를 채택한 국가 사례를 분석합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 정당과 선거
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정당과 선거의 관계를 설명합니다. 지역구 선거와 비례대표 선거의 차이를 정리합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 정당 정치의 과제
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현대 정당 정치의 문제점과 개선 방안을 토론합니다. 바람직한 정당 정치의 방향을 생각합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,35 @@ featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=120
 
 정당 득표율에 비례하여 의석을 배분하는 선거 제도입니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 정당은 기능, 정당 제도, 선거와의 관계가 핵심입니다. 정당과 다른 정치 집단의 차이를 명확히 구분하세요. 정당 제도의 장단점을 비교하면 이해가 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 정당을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>

@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 ---
 ## 공부는 하는데 성적이 안 오른다면, 습관이 문제입니다
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 공부 방식을 점검합니다. 비효율적인 부분을 찾아서 개선합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 효율적 학습의 핵심
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 전에 오늘 할 내용을 정하고, 끝날 때 얼마나 했는지 확인합니다. 계획과 실천을 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 집중력 높이는 방법
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 스마트폰은 치웁니다. 50분 집중, 10분 휴식을 반복하면서 집중력을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 복습 습관 만들기
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 끝날 때 오늘 배운 내용을 5분 정리합니다. 복습 습관을 만드는 훈련입니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 계획 세우는 방법
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매주 일요일에 다음 주 계획을 함께 세웁니다. 지난주 실천 여부도 점검합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 하루 학습 루틴
@@ -91,7 +91,7 @@ featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 루틴을 조정합니다. 모든 학생에게 같은 루틴이 맞지는 않습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 주의사항
@@ -114,7 +114,15 @@ featured_image: "https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?w=
 
 **Q. 공부 시간은 얼마나 해야 하나요?**
 
-고1은 하루 3~4시간이면 충분합니다. 중요한 건 시간보다 집중도입니다.
+고1은 하루 3-4시간이면 충분합니다. 중요한 건 시간보다 집중도입니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

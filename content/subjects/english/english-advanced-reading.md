@@ -11,7 +11,7 @@ tags:
 - 비문학독해
 - 수능독해
 - 영어과외
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0350_8qpXHC4XtcU.jpg"
 ---
 
 ## 영어 지문이 길어지면 무슨 말인지 모르겠다고요? 수능 고난도 문제에서 막힌다고 느끼시죠.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고급 독해에 필요한 구문 분석 능력을 체계적으로 훈련합니다. 복잡한 문장도 쉽게 해석할 수 있도록 지도합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 복잡한 구문 분석하기
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장의 구조를 시각적으로 분석하는 방법을 익힙니다. 주어와 동사를 빠르게 찾는 훈련을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 비문학 지문 공략법
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문의 논리 구조를 분석하는 연습을 합니다. 연결어와 논리 흐름을 파악하는 능력을 키웁니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 추론과 함축 의미 파악
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 문제 풀이 전략을 체계적으로 익힙니다. 함축 의미를 파악하는 연습을 반복합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 수능 고난도 문제 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 고난도 유형별 풀이 전략을 익힙니다. 실전 문제로 반복 연습하여 감각을 키웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,35 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 꾸준히 연습하면 3개월 정도면 눈에 띄는 향상을 느낄 수 있습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 고급 독해는 체계적인 훈련으로 반드시 정복할 수 있습니다. 구문 분석, 논리 파악, 추론 능력을 꾸준히 연습하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 고급 독해 수업으로 수능 고난도 문제를 정복합니다. 체계적인 훈련으로 실력을 키워드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>

@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 중간고사
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 ---
 ## 중간고사에서 학기 초반에 배운 내용을 어떻게 정리해야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학기 초반 내용을 체계적으로 정리합니다. 중간고사를 통해 기본기를 확실히 잡습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 중간고사의 특징
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중간고사의 중요성을 알려드립니다. 전략적으로 준비해서 좋은 출발을 하도록 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학습 내용 정리
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 내용을 단원별로 정리합니다. 이해 안 된 부분을 확인하고 보충합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 문제 풀이 연습
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 유형의 문제를 풀어봅니다. 문제 적용력을 키웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시험 일정 관리
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 학습 계획을 세웁니다. 효율적으로 준비하도록 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 기말고사와의 연결
@@ -101,6 +101,26 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 **Q. 중간고사 준비 언제부터 해야 하나요?**
 
 시험 3주 전부터 본격적으로 하세요. 평소에 수업을 잘 들으면 복습 위주로 하면 됩니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

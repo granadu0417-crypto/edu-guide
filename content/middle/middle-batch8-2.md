@@ -13,7 +13,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 ---
 ## 우리 아이가 갑자기 달라졌어요
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 심리 상태를 이해합니다. 강압적으로 가르치지 않고 스스로 공부하고 싶게 만듭니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 사춘기, 왜 이렇게 힘든 걸까
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 편하게 대화합니다. 공부 이야기만 하지 않고 관심사도 물어봅니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 사춘기 자녀와 대화하는 법
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 가정에서의 대화법을 안내합니다. 가정과 수업이 연계되어야 효과가 있습니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 성적 유지 전략
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현실적인 목표를 세웁니다. 작은 성취를 경험하게 해서 자신감을 키웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 학습 동기 찾기
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사를 파악합니다. 공부와 연결해 동기를 부여합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 균형 잡힌 생활
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-건강한 생활 습관을 안내합니다. 공부와 휴식의 균형을 맞추도록 돕습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,26 @@ featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=
 **Q. 사춘기가 언제 끝나나요?**
 
 개인차가 있지만 보통 중3에서 고1 사이에 안정됩니다. 지금은 함께 버티는 시기입니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
 
 ## 마무리
 

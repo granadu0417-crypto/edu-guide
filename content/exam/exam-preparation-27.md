@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0165_oOEz7c7V3gk.jpg"
 ---
 ## 수능 100일 남았는데 아직 개념도 안 잡혔어요. 뭐부터 해야 하죠?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 100일 전, 현재 상태를 진단하고 남은 시간에 최대 효과를 낼 수 있는 전략을 세웁니다. 우선순위를 정하고 실행합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 100일의 의미
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남은 100일을 어떻게 쓸지 계획을 세웁니다. 현실적인 목표를 정하고 매일 실천할 수 있도록 관리합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 우선순위 정하기
@@ -45,10 +45,10 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 상태를 분석하고 우선순위를 정합니다. 효율적인 시간 투자로 최대의 효과를 낼 수 있도록 안내합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
-## D-100 ~ D-50 전략
+## D-100 - D-50 전략
 
 이 기간은 개념 완성의 마지막 기회입니다. 아직 개념이 부족하다면 이때 잡아야 합니다. 50일 전부터는 문제 풀이에 집중해야 합니다.
 
@@ -58,10 +58,10 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-100부터 D-50까지는 개념 완성에 집중합니다. 빠르게 핵심을 정리하고 기출로 확인하는 과정을 함께합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
-## D-50 ~ D-10 전략
+## D-50 - D-10 전략
 
 이 기간은 문제 풀이 집중 기간입니다. 기출문제를 중심으로 유형을 익히고 실전 감각을 키웁니다.
 
@@ -71,10 +71,10 @@ D-100부터 D-50까지는 개념 완성에 집중합니다. 빠르게 핵심을 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-50부터 D-10까지는 기출 분석과 실전 연습에 집중합니다. 유형별 풀이법과 시간 배분을 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
-## D-10 ~ D-Day 전략
+## D-10 - D-Day 전략
 
 마지막 10일은 새로운 공부를 하지 마세요. 지금까지 공부한 것을 정리하고 컨디션을 만드는 기간입니다.
 
@@ -101,6 +101,18 @@ D-50부터 D-10까지는 기출 분석과 실전 연습에 집중합니다. 유�
 **Q. 막막해서 뭘 해야 할지 모르겠어요.**
 
 먼저 현재 상태를 파악하세요. 각 과목별로 어느 정도인지 알면 계획을 세울 수 있습니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

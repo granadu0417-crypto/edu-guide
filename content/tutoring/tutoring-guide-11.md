@@ -12,7 +12,7 @@ tags:
 - 수능
 - 학부모가이드
 - 학습가이드
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 ---
 
 ## 내신과 수능 둘 다 해야 하는데, 과외로 뭘 집중해야 하나요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 과외 상담에서는 학생의 목표 대학과 전형을 먼저 확인합니다. 내신 위주인지, 수능 위주인지에 따라 전략이 완전히 달라집니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 고등 과외가 왜 필요한가요?
@@ -34,14 +34,14 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 시작 전 내신 성적표와 모의고사 성적표를 분석합니다. 어느 쪽에 더 집중해야 하는지 전략을 세워드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 진학 상담은 수시, 정시 전략을 세울 때 필수입니다. 상담을 통해 구체적인 로드맵을 만들 수 있습니다.
 
 ## 고등 과외는 어떻게 진행되나요?
 
-학년에 따라 다르게 진행합니다. 고1~2는 내신 중심으로 가되, 수능 기초도 함께 쌓습니다. 고3은 전형에 따라 내신 마무리 또는 수능 집중으로 갑니다.
+학년에 따라 다르게 진행합니다. 고1-2는 내신 중심으로 가되, 수능 기초도 함께 쌓습니다. 고3은 전형에 따라 내신 마무리 또는 수능 집중으로 갑니다.
 
 내신 기간에는 내신만 합니다. 시험 3주 전부터는 모든 수업을 시험 대비로 전환합니다. 학교 기출, 프린트, 선생님 스타일에 맞춰서 준비합니다.
 
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평소에는 수능 대비, 시험 전에는 내신 대비로 탄력적으로 운영합니다. 학생 상황에 맞게 비중을 조절합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 고등 과외에서 가장 중요한 건 뭔가요?
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 현재 위치에 맞는 맞춤 전략을 함께 세웁니다. 매달 진도와 성적을 점검하고 계획을 조정합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 **Q. 내신과 수능 비중을 어떻게 잡나요?**
 
-학년과 목표에 따라 다릅니다. 고1~2는 내신 70%, 수능 30%. 고3은 전형에 따라 조정합니다.
+학년과 목표에 따라 다릅니다. 고1-2는 내신 70%, 수능 30%. 고3은 전형에 따라 조정합니다.
 
 **Q. 과외로 킬러 문항도 대비할 수 있나요?**
 
@@ -87,8 +87,32 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 내신과 수능 병행 전략을 안내합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

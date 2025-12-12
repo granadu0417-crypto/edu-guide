@@ -17,16 +17,16 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0645_-8atMWER8bI.jpg"
 ---
 
 ## 절대왕정 시대 국왕들이 헷갈리고 각국 상황 비교가 어렵다고요? 왕권 강화의 배경부터 이해하면 됩니다.
 
-절대왕정은 16~18세기 유럽에서 국왕이 절대적 권력을 행사한 정치 체제입니다. 중앙 집권화, 상비군 창설, 관료제 확립이 특징입니다. 각국의 절대왕정 성립 배경과 대표 군주를 정리하면 절대왕정이 완성됩니다.
+절대왕정은 16-18세기 유럽에서 국왕이 절대적 권력을 행사한 정치 체제입니다. 중앙 집권화, 상비군 창설, 관료제 확립이 특징입니다. 각국의 절대왕정 성립 배경과 대표 군주를 정리하면 절대왕정이 완성됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-절대왕정 성립의 배경을 정리합니다. 각국 대표 군주와 정책을 비교합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 절대왕정의 특징
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왕권신수설의 의미를 설명합니다. 절대왕정의 핵심 특징을 정리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 프랑스의 절대왕정
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-루이 14세의 정책을 정리합니다. 프랑스 절대왕정의 성과와 한계를 분석합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 영국, 프로이센, 러시아
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각국 절대군주의 정책을 비교합니다. 계몽 전제군주의 특징을 설명합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 군주별 정책 비교와 시대 순서 문제를 집중 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,11 +81,51 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 재정 악화, 시민 계층 성장, 계몽사상 확산으로 시민 혁명이 일어났습니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 절대왕정은 성립 배경, 각국 군주, 한계와 붕괴가 핵심입니다. 국가별 특징을 비교표로 정리하세요. 계몽 전제군주와 연결하면 이해가 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 절대왕정을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>

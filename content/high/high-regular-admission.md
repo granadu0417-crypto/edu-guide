@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 정시 전형 완전 정복 가이드. 수능 준비 전략부터 가채점, 원서접수, 추가합격까지 정시의 모든 것."
 tags: ["정시전형", "수능준비", "가채점", "정시지원", "대입전략", "입시준비", "백분위", "표준점수"]
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0686_BlCJi8walFQ.jpg"
 ---
 
 ## 정시는 수능 점수만 잘 받으면 되는 거 아닌가요? 지원 전략이 왜 중요한지 모르겠어요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 전략과 지원 전략을 함께 세웁니다. 모의고사 분석으로 지원선을 예측합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 정시 전형의 구조
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정시 전형 구조를 설명합니다. 대학별 반영 방법과 유불리를 분석합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 수능 준비 전략
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연간 학습 계획을 함께 세웁니다. 시기별 목표와 전략을 구체적으로 정합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 지원 전략 수립
@@ -50,18 +50,18 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가채점 분석과 지원 전략 상담을 합니다. 대학별 합격 가능성을 예측합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 원서접수와 추가합격
 
 원서접수 기간이 짧으니 미리 준비하세요. 증명사진, 학생부, 전형료를 확인하고 마감 직전에 몰리지 않도록 여유 있게 접수합니다. 합격 발표 후 등록 기간도 짧으니 기한을 꼭 지키세요.
 
-추가합격은 2월 말까지 진행됩니다. 연락을 받을 수 있도록 휴대폰을 켜두고 등록금을 미리 준비해두세요. 모집 인원의 30~50% 정도 추가합격이 나오니 끝까지 포기하지 마세요.
+추가합격은 2월 말까지 진행됩니다. 연락을 받을 수 있도록 휴대폰을 켜두고 등록금을 미리 준비해두세요. 모집 인원의 30-50% 정도 추가합격이 나오니 끝까지 포기하지 마세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-원서접수 과정을 안내합니다. 추가합격까지 지원 현황을 함께 점검합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 **Q. 추가합격 확률은 얼마나 되나요?**
 
-대학과 학과마다 다르지만 보통 모집 인원의 30~50% 정도가 추가합격으로 채워집니다.
+대학과 학과마다 다르지만 보통 모집 인원의 30-50% 정도가 추가합격으로 채워집니다.
 
 **Q. 재수를 고려해야 할까요?**
 

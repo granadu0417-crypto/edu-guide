@@ -17,7 +17,7 @@ tags:
 - 특수교육
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0536_uuDow7WaSAw.jpg"
 ---
 
 ## 아이가 수학을 유독 어려워한다고요? 게으른 게 아닌 것 같은데 뭐가 문제인지 모르겠다고 느끼시죠.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상태를 정확히 진단합니다. 난산증인지 수포자인지 파악하고 맞춤 전략을 세웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 맞춤 학습 전략
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시각 자료와 구체물을 적극 활용합니다. 학생 속도에 맞춰 단계별로 천천히 진행합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 심리적 지원
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-심리적 안정을 최우선으로 합니다. 절대 화내지 않고 칭찬을 많이 하며 기다려주고 믿어줍니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 1:1 과외의 중요성
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습장애 학생 전문 지도 경험이 있습니다. 인내심과 긍정적 태도로 끝까지 함께합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 부모 가이드
@@ -76,12 +76,36 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 매우 어렵습니다. 전문적 지도와 맞춤 교육과 지속적 피드백과 심리 지원이 필요합니다. 1:1 과외가 거의 필수입니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 수학 학습장애는 게으름이 아닙니다. 적절한 지원과 1:1 맞춤 교육으로 충분히 극복할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 학습장애 전문 1:1 과외로 희망을 찾아드립니다. 학생 속도에 맞춰 끝까지 함께합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 

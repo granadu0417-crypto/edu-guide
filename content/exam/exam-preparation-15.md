@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 ---
 ## 수학 개념은 아는데 문제만 보면 손이 안 움직여요. 왜 그런 거죠?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 이해도를 먼저 점검합니다. 공식만 외운 건지, 진짜 이해한 건지 확인하고 부족한 부분부터 채워갑니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수학 실력이 안 느는 이유
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제만 푸는 게 아니라 풀이 과정을 함께 분석합니다. 왜 이렇게 푸는지 이해하고 비슷한 문제에 적용합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 개념 학습 방법
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 바로 적용 문제를 풉니다. 이해했는지 확인하고 부족하면 다시 설명합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 유형별 풀이 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 접근법을 훈련합니다. 문제를 보고 어떤 유형인지 파악하고 적절한 풀이법을 적용합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 내신 수학 대비
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서, 프린트, 기출문제를 중심으로 대비합니다. 학교별 출제 경향에 맞춰 준비합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 실수 줄이는 방법
@@ -104,6 +104,38 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 **Q. 수학 공부 시간은 얼마나 해야 하나요?**
 
 매일 조금씩 꾸준히 하는 것이 중요합니다. 몰아서 하면 효율이 떨어집니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

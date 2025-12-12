@@ -14,7 +14,7 @@ tags:
 - 수학과외
 - 수능기하
 - 기하
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0524_C9X7scal6Jo.jpg"
 ---
 
 ## 도형 문제만 나오면 머릿속이 하얘진다고요? 공간 감각이 없어서 입체도형이 도무지 그려지지 않으시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도형을 직접 그리고 만들면서 이해시킵니다. 눈으로 보고 손으로 그리는 기하를 경험하게 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 평면도형의 기초
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 도형의 성질을 정확히 정리합니다. 넓이와 둘레 공식을 원리부터 이해시킵니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 입체도형과 공간지각
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종이 접기와 3D 모델을 활용합니다. 머릿속에서 입체를 그릴 수 있도록 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 좌표기하와 벡터
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-좌표계에서 도형을 다루는 방법을 체계적으로 가르칩니다. 벡터의 기하학적 의미를 설명합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 공간도형과 증명
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3차원 공간을 다루는 방법을 가르칩니다. 논리적 증명 작성법을 단계적으로 연습합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,36 @@ featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=
 
 이공계 진학을 원하고 벡터와 공간에 자신 있다면 선택을 고려해보세요.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 기하는 보이는 수학이자 생각하는 수학입니다. 시각화와 논리적 증명을 함께 훈련하면 공간지각력과 창의적 문제 해결 능력이 향상됩니다. 기하를 정복하면 수학 전체가 쉬워집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도형을 체계적으로 정리하고 공간지각력을 키웁니다. 수능 기하까지 완벽 대비합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 

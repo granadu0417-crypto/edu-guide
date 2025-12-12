@@ -11,7 +11,7 @@ tags:
 - 설명문
 - 논설문
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0474_flaT0Fqd4j8.jpg"
 ---
 
 ## 설명문, 논설문 읽기가 지루하고 어렵다고요? 구조를 파악하면 쉬워집니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 수준을 파악합니다. 어떤 유형에서 막히는지 진단하고 맞춤 훈련을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 설명문 독해
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-설명문의 전개 방식을 정리합니다. 다양한 지문으로 연습합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 논설문 독해
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논설문의 논증 구조를 분석합니다. 주장과 근거를 파악하는 연습을 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 독해력 향상 방법
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해력 향상을 위한 체계적인 훈련을 합니다. 단계별로 실력을 높여갑니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 원인을 파악하고 보완합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,35 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 문맥으로 의미를 추론하세요. 모르는 어휘는 따로 정리해서 익히면 됩니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 비문학 독해는 모든 과목의 기초입니다. 글의 구조를 파악하고 핵심을 찾는 연습을 하세요. 꾸준한 훈련이 실력 향상으로 이어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 비문학 독해력을 키웁니다. 설명문, 논설문 독해를 체계적으로 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>

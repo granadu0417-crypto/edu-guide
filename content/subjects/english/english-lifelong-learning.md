@@ -13,7 +13,7 @@ tags:
 - 실용영어
 - 1:1과외
 - 회화
-featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 ---
 
 ## 시험 끝나면 영어 안 해도 되는 거 아니냐고요? 그래서 평생 영어가 안 느시는 거예요.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 목표를 파악합니다. 흥미를 느낄 수 있는 학습 자료와 방법을 함께 설계합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 단계별 평생 학습
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재 단계에 맞는 학습 방향을 제시합니다. 다음 단계를 미리 준비하는 로드맵을 함께 만듭니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 실용 영어 분야
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 당장 필요한 분야부터 시작합니다. 실제 상황에서 바로 활용할 수 있도록 연습합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 흥미 유지 방법
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사에 맞는 영어 콘텐츠를 추천합니다. 즐기면서 배우는 방법을 알려드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 무료 학습 자료
@@ -60,7 +60,7 @@ YouTube, BBC Learning English, TED는 무료로 양질의 콘텐츠를 제공합
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수준과 목적에 맞는 무료 자료를 선별해 드립니다. 효과적으로 활용하는 방법을 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ YouTube, BBC Learning English, TED는 무료로 양질의 콘텐츠를 제공합
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 수업으로 평생 영어 학습의 방향을 잡아드립니다. 지속 가능한 학습 습관을 함께 만들어갑니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>

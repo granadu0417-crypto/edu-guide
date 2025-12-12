@@ -13,7 +13,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0108_AsPbtcPqgfY.jpg"
 ---
 ## 6학년 2학기, 중학교 예습을 시작할 타이밍입니다
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 전 과정을 빠르게 훑어보며 약한 부분을 찾습니다. 약점 보완이 끝나면 중학교 첫 학기 예습을 시작합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학을 활용해서 초등 전 과정 정리와 중1 첫 학기 예습을 진행합니다. 집중할 수 있는 시간입니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 수학 첫 단원인 정수와 유리수를 맛보기로 다뤄봅니다. 음수 개념을 미리 알아두면 중학교 가서 헷갈리지 않습니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학습 마무리 체크리스트
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체크리스트로 진단한 후 부족한 부분을 집중 보완합니다. 모든 항목이 확인되면 중등 예습을 시작합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 가정에서의 역할
@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 마무리가 급하면 중등 예습 비중을 줄입니다. 기초가 먼저입니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 주의사항
@@ -105,6 +105,30 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 **Q. 방학에 뭘 해야 하나요?**
 
 초등 전 과정을 빠르게 훑어보고, 약한 부분을 보완하세요. 시간이 남으면 중1 예습을 시작합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
 
 ## 마무리
 

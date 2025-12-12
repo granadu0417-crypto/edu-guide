@@ -13,7 +13,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0033_AiCJW1QhLB0.jpg"
 ---
 
 ## 수업 시간에 열심히 필기하는데 막상 보면 무슨 내용인지 모르겠어요. 어떻게 해야 할까요?
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-노트 필기 상담에서는 현재 필기 방식을 분석합니다. 어떤 점이 문제인지 파악하고 과목별로 효과적인 필기법을 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 노트 필기 상담이 왜 필요한가요?
@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필기 방법을 개선하고 싶다면 학습 상담을 받으세요. 과목 특성에 맞는 다양한 필기법을 배울 수 있습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 진학 상담은 입시 정보와 전략을 제공합니다. 심리 상담은 학습에 대한 스트레스가 심할 때 도움이 됩니다.
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 새로운 필기 방법을 적용해봅니다. 코넬 필기법, 마인드맵 등 다양한 기법 중 자신에게 맞는 것을 찾아 실천합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 학년에 따라 필기 방법이 다른가요?
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 과목에 맞는 필기법을 안내합니다. 수학, 영어, 국어 등 과목별로 다른 전략을 제시합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-노트 필기 전략에 대해 더 알고 싶으시면 문의하세요. 학생에게 맞는 효율적인 필기법을 안내합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 마무리

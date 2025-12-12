@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "전북도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 전북대·원광대 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["전북과외", "과외", "전북교육", "전주과외", "익산과외", "전북대과외", "원광대과외", "전남대과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0290_Bys31wQcP4Q.jpg"
 ---
 
 ## 전북에서 괜찮은 과외 선생님 구하기 힘드시죠? 전북대생이 좋은지 원광대생이 좋은지도 고민이시고요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전북 지역 과외 시장을 분석합니다. 거주 지역과 학생 수준에 맞는 최적의 선생님을 찾아드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 전북대 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준과 목표를 파악합니다. 전북대 의대생이 필요한지 일반 학과생으로 충분한지 판단합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 원광대 과외와 전주교대 과외
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-거주 지역에 따라 적합한 대학 과외를 연결합니다. 시범 수업으로 선생님과의 궁합을 확인합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 화상 과외 전략
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 수업 환경 세팅을 안내합니다. 오프라인과 온라인 중 어떤 방식이 학생에게 맞는지 확인합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과목별 과외 전략
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 최적의 선생님을 매칭합니다. 학생의 약점 과목에 집중하여 효율을 높입니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -73,6 +73,46 @@ featured_image: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?w=
 **Q. 과외 횟수는 몇 회가 적당한가요?**
 
 기초가 부족하면 주 2에서 3회를 중위권은 주 2회를 상위권은 주 1에서 2회를 추천합니다. 학원과 병행하면 과외 횟수를 줄여도 됩니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

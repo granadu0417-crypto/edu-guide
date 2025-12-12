@@ -9,7 +9,7 @@ tags:
 - 중등과외
 - 1:1과외
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0230_5pQN_nlRbN4.jpg"
 ---
 ## 과외비가 비싸면 효과도 좋을까요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 학생 상태와 목표를 파악합니다. 필요한 과외 횟수와 기간을 솔직하게 말씀드리고, 예산에 맞는 방법을 함께 찾습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과외 비용이 결정되는 요소
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업 후 학생에게 맞는 형태를 제안합니다. 기초가 많이 약하면 1:1을, 기본이 되어 있으면 그룹과외나 온라인도 권합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 선생님 유형별 특징
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 수업도 방문 수업만큼 꼼꼼하게 진행합니다. 화면 공유로 문제 풀이를 확인하고, 필요하면 녹화해서 복습 자료로 드립니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 합리적인 선택 기준
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예산이 부담되면 솔직하게 말씀해주세요. 가장 필요한 부분에 집중해서 효율적으로 진행하는 방법을 찾아드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 흔한 비용 실수
@@ -92,6 +92,22 @@ featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=
 **Q. 과외 효과는 언제 나타나나요?**
 
 최소 3개월, 보통 6개월 후입니다. 1개월에 판단하지 마세요. 3개월 후 이해도가 올랐는지, 6개월 후 성적에 반영되는지 확인하세요.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

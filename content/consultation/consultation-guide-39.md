@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0060_7ebCN7FwH3g.jpg"
 ---
 
 ## 인강을 틀어놓으면 5분도 안 돼서 다른 창을 열어요. 온라인 수업은 어떻게 들어야 효과가 있나요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습 상담에서는 현재 인강 수강 패턴을 먼저 분석합니다. 어떤 강의를 듣는지, 어디서 집중이 깨지는지 파악하고 개선 방법을 안내합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 온라인 학습 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 수업에 집중이 안 된다면 학습 상담을 받으세요. 인강을 제대로 활용하는 방법을 안내합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 심리 상담은 학습 의욕 저하나 집중력 문제가 심할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 적용할 수 있는 온라인 학습 루틴을 안내합니다. 집중 시간, 휴식 시간, 복습 시간까지 구체적으로 설계해드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 온라인 학습 효율을 높이려면?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 인강 수강 계획을 세워드립니다. 언제, 얼마나, 어떻게 들을지 구체적으로 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -69,7 +69,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 **Q. 인강 배속으로 들어도 되나요?**
 
-이해되는 부분은 1.2~1.5배속으로 들어도 됩니다. 하지만 어려운 부분은 천천히 들으세요. 시간 절약보다 이해가 우선입니다.
+이해되는 부분은 1.2-1.5배속으로 들어도 됩니다. 하지만 어려운 부분은 천천히 들으세요. 시간 절약보다 이해가 우선입니다.
 
 **Q. 인강이 너무 많아서 다 못 들어요.**
 
@@ -85,8 +85,32 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습에 대해 더 궁금한 점이 있으시면 문의하세요. 인강 효과를 높이는 방법을 안내합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

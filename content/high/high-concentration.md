@@ -6,16 +6,16 @@ categories:
 reading_time: "160줄"
 description: "고등학생 집중력 향상의 모든 것. 산만함 원인 진단부터 몰입 기술, 환경 조성, 과외를 통한 집중력 훈련까지. 공부 효율을 10배 높이는 실전 전략."
 tags: ["고등집중력", "공부집중", "몰입학습", "학습효율", "집중력과외", "공부습관", "시험집중", "학습환경"]
-featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0647_COWf-5ZtZ6w.jpg"
 ---
 
 ## 책상에 앉아 있는 시간은 긴데 공부한 게 머릿속에 안 남아요. 어떻게 해야 집중이 되나요?
 
-집중력은 성적을 좌우합니다. 같은 3시간을 공부해도 집중도에 따라 결과가 10배 차이 납니다. 일반 학생의 평균 집중 시간은 15~20분이지만, 상위권 학생은 50분 이상 지속적으로 집중할 수 있습니다.
+집중력은 성적을 좌우합니다. 같은 3시간을 공부해도 집중도에 따라 결과가 10배 차이 납니다. 일반 학생의 평균 집중 시간은 15-20분이지만, 상위권 학생은 50분 이상 지속적으로 집중할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 집중력 패턴을 파악하고 원인을 진단합니다. 맞춤 훈련 프로그램으로 집중 시간을 늘려갑니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 집중력 저하의 원인
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 습관을 점검해 집중력 저하 원인을 찾습니다. 원인별로 맞춤 해결책을 제시합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 과학적 집중력 향상법
@@ -39,18 +39,18 @@ featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-포모도로 테크닉을 수업에 적용합니다. 10분에서 시작해 점진적으로 집중 시간을 늘려갑니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 집중력을 위한 환경 조성
 
-책상 위에는 필요한 것만 두세요. 시각적 자극을 최소화하면 집중력이 20% 향상됩니다. 조명은 충분히 밝게, 온도는 18~22도로 유지하세요. 50분마다 10분 환기로 신선한 공기를 공급하세요.
+책상 위에는 필요한 것만 두세요. 시각적 자극을 최소화하면 집중력이 20% 향상됩니다. 조명은 충분히 밝게, 온도는 18-22도로 유지하세요. 50분마다 10분 환기로 신선한 공기를 공급하세요.
 
 소음 관리도 중요합니다. 도서관이나 스터디카페를 활용하거나 노이즈 캔슬링 이어폰을 쓰세요. 의자는 허리를 지지하는 것으로, 자세는 90도 각도로 앉으세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 환경 점검 체크리스트를 제공합니다. 집에서 최적의 공부 환경을 만들 수 있도록 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 과외가 집중력에 도움 되는 이유
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 집중력 훈련을 병행합니다. 정기적으로 집중력 향상 정도를 점검하고 피드백합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문

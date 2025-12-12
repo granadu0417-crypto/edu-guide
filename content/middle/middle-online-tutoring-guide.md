@@ -10,7 +10,7 @@ tags:
 - 비대면과외
 - 중등과외
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0977_1-YQiOijio8.jpg"
 ---
 ## 이동 시간 40분, 아깝지 않으세요?
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화면 공유와 태블릿 필기로 대면과 거의 동일하게 수업합니다. 수업 녹화도 가능해서 복습할 때 다시 볼 수 있습니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 온라인 과외의 장점
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 녹화본을 제공합니다. 시험 전에 어려웠던 부분을 다시 보면 효과적입니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 온라인 과외의 단점
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 자주 질문하고 반응을 확인합니다. 딴짓하면 바로 알 수 있습니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 온라인 과외 추천 대상
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체험 수업에서 온라인이 맞는지 확인합니다. 안 맞으면 대면을 권합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 과목별 적합도
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목에 맞게 화면 공유, 태블릿 필기, 자료 활용을 적절히 섞어서 수업합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 준비사항
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 전에 기술 테스트 시간을 갖습니다. 인터넷, 카메라, 마이크가 제대로 작동하는지 확인합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 기대 효과
@@ -101,6 +101,14 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 **Q. 프로그램은 뭐가 좋나요?**
 
 선생님이 익숙한 것을 따르세요. Zoom이 가장 많이 쓰이고 Google Meet도 간편합니다. 중요한 것은 안정성입니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

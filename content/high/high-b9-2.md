@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0633_wK-vDG9eHs4.jpg"
 ---
 ## 고2가 가장 중요하다고 하는데, 왜 그런 건가요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고2 시작과 동시에 3월 모의고사 목표를 세웁니다. 현재 위치를 파악하고 1년간의 성장 계획을 구체화합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 고2 연간 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 등급과 목표 대학을 분석합니다. 수시에 유리한지, 정시에 유리한지 판단하고 그에 맞춘 전략을 세웁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학기별 세부 계획
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-겨울방학에 가장 집중적으로 수업합니다. 이때 얼마나 하느냐가 고3 성적을 결정합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과목별 학습 전략
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 선택한 탐구 과목에 맞춰 개념 수업을 진행합니다. 고3 때 시간이 없으니 고2 때 탐구 기초를 끝냅니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 하루 학습 루틴
@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 수능 시간표대로 공부하는 연습을 시작합니다. 고3이 되면 익숙해져 있어야 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 주의사항
@@ -105,6 +105,14 @@ featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=
 **Q. 모의고사 성적이 안 오르면 어떻게 하나요?**
 
 성적이 오르는 데는 시간이 걸립니다. 3개월 이상 꾸준히 해야 결과가 나옵니다. 조급해하지 마세요.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

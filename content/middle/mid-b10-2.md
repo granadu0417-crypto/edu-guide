@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0926_iggWDxHTAUQ.jpg"
 ---
 ## 책상 앞에 앉아도 집중이 안 돼요
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 저하의 원인을 파악합니다. 환경 문제인지, 방법 문제인지, 동기 문제인지 진단 후 맞춤 솔루션을 제공합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 집중력이 떨어지는 이유
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 환경과 습관을 점검합니다. 집중을 방해하는 요소를 찾아 개선 방법을 제안합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 집중력 높이는 환경 만들기
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 학습 환경을 찾아줍니다. 집, 도서관, 스터디카페 등 어디서 집중이 잘 되는지 파악합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 집중력 높이는 공부법
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 학습 방법을 찾아줍니다. 시간 관리, 목표 설정, 과목 순서 등을 함께 정합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 수업 시간 집중력 높이기
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간 활용법을 안내합니다. 필기 방법, 예습 요령 등 수업 집중력을 높이는 방법을 알려줍니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 집중력과 체력 관리
@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 효율을 높이는 생활 습관을 안내합니다. 수면, 운동, 식사 등 전반적인 컨디션 관리법을 알려줍니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -103,6 +103,26 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 **Q. 공부 시간을 얼마나 해야 하나요?**
 
 중2는 하루 2시간에서 3시간 정도가 적당합니다. 시간보다 집중도가 중요합니다. 집중해서 2시간 하는 것이 멍하니 5시간 앉아있는 것보다 낫습니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 꾸준히 3개월 이상 수업하면 확실한 성적 향상을 기대할 수 있습니다.
+
+**Q. 다른 학생과 함께 수업해도 되나요?**
+
+소그룹 수업도 가능합니다. 비슷한 수준의 친구와 함께 하면 비용도 절약하고 경쟁 효과도 있습니다.
 
 ## 마무리
 

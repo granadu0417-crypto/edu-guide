@@ -13,7 +13,7 @@ tags:
 - 노원
 - 대치동학원
 description: 학원 선택 가이드. 특징, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 실전 중심 방법으로 성과를 만드세요.
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0767_Kyx4rL5g7yA.jpg"
 reading_time: 160줄
 ---
 
@@ -23,7 +23,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학원으로 기본 강의를 듣고, 과외에서 이해 안 되는 부분을 해결합니다. 온라인의 효율과 과외의 맞춤을 함께 누릴 수 있습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 온라인 학원의 장점은 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 강의에서 이해 못 한 부분을 과외 시간에 질문합니다. 혼자 고민하지 않아도 됩니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 온라인 학원의 단점은 뭔가요?
@@ -53,7 +53,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학원의 단점을 과외로 보완합니다. 질문은 과외 시간에 해결하고, 개인 맞춤은 과외에서 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 어떤 학생에게 온라인 학원이 맞나요?
@@ -76,7 +76,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향을 파악해서 온라인이 맞는지 오프라인이 맞는지 안내해 드립니다. 온라인을 선택해도 과외로 보완하면 단점을 극복할 수 있습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 온라인 학원에 과외를 병행하면요?
@@ -89,7 +89,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학원 강의를 함께 선정해 드립니다. 어떤 인강이 학생에게 맞는지 추천하고, 과외에서 부족한 부분을 채워드립니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -109,6 +109,14 @@ reading_time: 160줄
 **Q. 과외가 꼭 필요한가요?**
 
 필수는 아니지만 추천합니다. 온라인 학원의 약점인 질문 해결과 개인 맞춤을 과외로 보완하면 훨씬 효과적입니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
 
 ## 마무리
 

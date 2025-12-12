@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 ---
 ## 아직 학과를 못 정했다면, 고2 끝나기 전에 꼭 정해야 합니다
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 성적을 분석해서 적합한 학과를 함께 찾습니다. 막연한 고민을 구체적인 목표로 바꿔드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 진로 확정이 중요한 이유
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학과별 입시 정보를 함께 조사합니다. 어떤 전형이 유리한지, 어떤 활동이 필요한지 구체적으로 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학과 선택 방법
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로 관련 책을 함께 읽고 토론합니다. 책 내용이 세특에 반영되면 생기부가 풍성해집니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 학과 계열별 특징
@@ -63,20 +63,20 @@ featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 희망 계열에 맞춰 필요한 준비를 구체적으로 안내합니다. 인문 계열이면 독서 활동을, 자연 계열이면 탐구 활동을 강화합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 고2 진로 활동 로드맵
 
-1학기에는 관심 학과를 3~5개 정도로 좁힙니다. 학과 관련 책을 읽고 세특에 연결합니다.
+1학기에는 관심 학과를 3-5개 정도로 좁힙니다. 학과 관련 책을 읽고 세특에 연결합니다.
 
 여름방학에는 진로 관련 활동을 집중적으로 합니다. 캠프, 봉사, 체험 활동을 찾아봅니다.
 
-2학기에는 최종 학과를 1~2개로 확정합니다. 남은 기간 동안 일관된 활동을 이어갑니다.
+2학기에는 최종 학과를 1-2개로 확정합니다. 남은 기간 동안 일관된 활동을 이어갑니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학기별 진로 활동 계획을 함께 세웁니다. 활동만 하고 기록을 못 남기면 소용없으니, 기록까지 챙깁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 주의사항
@@ -100,6 +100,22 @@ featured_image: "https://images.unsplash.com/photo-1580537659466-0a9bfa916a54?w=
 **Q. 부모님이 원하는 학과와 제가 원하는 게 달라요.**
 
 충분히 대화하세요. 서로의 이유를 듣고, 타협점을 찾아야 합니다. 결국 공부할 사람은 본인입니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
 
 ## 마무리
 

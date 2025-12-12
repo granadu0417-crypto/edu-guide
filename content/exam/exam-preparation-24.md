@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0162__JZuBu_CEII.jpg"
 ---
 ## 시험장에만 들어가면 머리가 하얘져요. 긴장을 어떻게 풀어야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 긴장 관리법과 문제 풀이 전략을 안내합니다. 시험장에서 실력을 100% 발휘할 수 있도록 준비합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 전 아침 루틴
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 아침 루틴을 정리합니다. 차분하게 준비해서 좋은 컨디션으로 시험장에 들어갑니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시험장 도착 후
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험장 도착 후 해야 할 것들을 정리합니다. 차분하게 준비해서 시험에 집중할 수 있도록 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 시험 시작 직전
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 시작 직전 긴장 완화법을 훈련합니다. 마음을 진정시키고 집중할 수 있는 상태를 만듭니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 문제 풀이 전략
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 문제 풀이 순서와 시간 배분을 훈련합니다. 실수를 줄이고 실력을 발휘할 수 있도록 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시간 관리
@@ -103,6 +103,26 @@ featured_image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=
 **Q. 답을 바꿔야 할까요?**
 
 확실한 근거가 있으면 바꾸세요. 그냥 불안해서 바꾸면 오히려 틀릴 확률이 높습니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

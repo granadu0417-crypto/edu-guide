@@ -9,7 +9,7 @@ regions:
 cities:
   - 의정부시
 tags: ["의정부교육", "의정부학원", "의정부과외", "경기북부교육", "의정부입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0271_CL9OLZqPdus.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-의정부 지역 학교의 내신 출제 경향을 철저히 분석하여, 학교별 맞춤 대비를 해드립니다. 경기 북부 최고 수준의 선생님들이 체계적으로 지도합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ### 합리적인 교육비
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 수준을 정확히 진단하여 적합한 학원 유형을 추천해드립니다. 기초가 부족하면 소형 학원이나 과외를, 경쟁을 통해 동기부여가 되는 아이라면 대형 학원을 권장합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ### 영어 학원 선택하기
@@ -65,7 +65,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 성향과 학습 상태를 파악하여 과외와 학원 중 적합한 방식을 제안해드립니다. 필요하다면 학원과 과외를 병행하는 전략도 설계해드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ### 좋은 과외 선생님 찾는 법
@@ -74,23 +74,23 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검증된 선생님만 매칭해드립니다. 학력, 경력, 성적 향상 사례를 꼼꼼히 확인하고, 시범 수업으로 아이와의 궁합까지 체크하실 수 있습니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년별 학습 전략
 
 ### 초등학생
 
-초등 저학년(1~3학년)은 학습 습관을 기르고 기초를 다지는 시기입니다. 공부에 대한 흥미를 키우는 것이 가장 중요합니다. 고학년(4~6학년)부터는 중등 과정을 대비한 선행 학습을 시작해야 합니다.
+초등 저학년(1-3학년)은 학습 습관을 기르고 기초를 다지는 시기입니다. 공부에 대한 흥미를 키우는 것이 가장 중요합니다. 고학년(4-6학년)부터는 중등 과정을 대비한 선행 학습을 시작해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생에게는 재미있는 수업으로 학습에 대한 흥미를 키워드립니다. 게임, 퍼즐 등을 활용해 아이가 공부를 즐기면서 실력을 쌓을 수 있도록 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ### 중학생
 
-중1~2학년은 내신의 기반을 다지면서 적절한 선행을 병행해야 합니다. 중3은 내신 관리가 최우선이며, 고등 과정 선행과 입시 준비를 병행해야 합니다.
+중1-2학년은 내신의 기반을 다지면서 적절한 선행을 병행해야 합니다. 중3은 내신 관리가 최우선이며, 고등 과정 선행과 입시 준비를 병행해야 합니다.
 
 ### 고등학생
 
@@ -98,7 +98,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼으로 체계적으로 지도합니다. 내신과 수능 두 마리 토끼를 잡을 수 있도록 균형 잡힌 학습 계획을 설계해드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -114,6 +114,14 @@ sitemap:
 **Q. 교육비를 절감하는 방법이 있나요?**
 
 온라인 학습을 병행하고, 과목별 우선순위를 정해 꼭 필요한 곳에 집중 투자하는 것이 좋습니다. 그룹 과외를 활용하면 비용을 줄일 수 있습니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

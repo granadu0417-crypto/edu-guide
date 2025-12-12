@@ -15,7 +15,7 @@ tags:
 description: 평촌 학원가 완전 가이드. 인덕원·범계 지역, 과목별 학원, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1
   맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한
   선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0768_FgZQjlIs8qk.jpg"
 reading_time: 165줄
 ---
 
@@ -25,7 +25,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평촌 학원가에서 오래 지도한 경험을 바탕으로, 평촌 지역에 맞는 학습 전략을 세워드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 평촌 학원가는 어떤 특징이 있나요?
@@ -40,7 +40,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평촌 학원에서 배운 내용을 과외에서 다시 점검합니다. 학원 진도에 맞춰 약점을 집중 보완합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 지역별로 어떤 학원이 있나요?
@@ -53,7 +53,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 지역과 학원 유형을 안내해 드립니다. 통학 거리, 예산, 학습 목표를 종합적으로 고려합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학년별로 어떤 학원이 맞나요?
@@ -76,7 +76,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대치동까지 가지 않아도 대치동 수준의 수업을 받을 수 있습니다. 평촌에서 학원을 다니고, 과외로 개인 맞춤을 더하면 됩니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과외를 병행하면 어떤 효과가 있나요?
@@ -89,7 +89,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평촌 학원 진도에 맞춰 과외 커리큘럼을 짭니다. 학원에서 못 따라간 부분을 과외에서 확실히 잡습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문

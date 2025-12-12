@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 ---
 
 ## 과학은 실험이 많은데, 과외로 실험은 어떻게 배우나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 원리와 결과를 이해 중심으로 설명합니다. 왜 그런 결과가 나오는지 논리적으로 분석합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과학 과외에서 실험은 어떻게 다루나요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 문제를 풀 때 변인 통제 개념을 철저히 짚어줍니다. 조작 변인, 통제 변인, 종속 변인을 구분하도록 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과학은 개념을 어떻게 공부해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 설명할 때 공식이 어떻게 유도되는지 함께 보여줍니다. 그냥 외우게 하지 않습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과학 과목 선택은 어떻게 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 성향에 맞는 과목 선택을 상담해 드립니다. 어떤 과목이 맞을지 고민이면 문의하세요.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 **Q. 과학 과외 주 몇 회가 좋나요?**
 
-주 1~2회가 적당합니다. 과학은 개념 이해 후 문제 풀이 시간이 필요합니다. 너무 빽빽하게 하면 소화가 안 됩니다.
+주 1-2회가 적당합니다. 과학은 개념 이해 후 문제 풀이 시간이 필요합니다. 너무 빽빽하게 하면 소화가 안 됩니다.
 
 **Q. 어떤 과학이 제일 어렵나요?**
 
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 개념부터 실험 분석까지 체계적으로 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 마무리

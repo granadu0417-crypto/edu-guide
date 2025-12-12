@@ -16,7 +16,7 @@ tags:
 - 과학개념
 description: 과학 전 영역을 체계적으로 정복하는 통합 가이드입니다. 물리, 화학, 생명과학, 지구과학의 핵심 개념과 탐구 방법, 효과적인
   학습 전략을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 과학 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요.
-featured_image: "https://images.unsplash.com/photo-1544776193-352d25ca82cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0610__DuPFcCEYA0.jpg"
 reading_time: 638줄
 ---
 
@@ -594,16 +594,5 @@ A: 네, 1:1 과외는 과학 실력 향상에 매우 효과적입니다. 복잡�
 
 
 
-## 📚 관련 가이드
 
-- [과학 화학 결합 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-chemical-bonding/)
-- [과학 화학 반응 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-chemical-reactions/)
-- [과학 개념연결 과외 | 통합사고·융합문제 완벽 대비](/subjects/science/science-concept-connection/)
-- [과학 전기화학 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-electrochemistry/)
-- [과학 화학 평형 완벽 가이드 | 1:1 과학 과외 [2025]](/subjects/science/science-equilibrium/)
-
-{{< cta-consultation-final >}}
-
----
-
-과학은 우리를 둘러싼 자연을 이해하고, 미래를 준비하는 필수 학문입니다. 이 가이드의 전략을 실천하며 체계적으로 학습하세요. 필요하다면 전문가의 도움을 받아 더 효과적으로 실력을 향상시킬 수 있습니다. 과학적 사고력은 입시를 넘어 평생의 자산이 될 것입니다.
+{{< cta-dual type="final" >}}

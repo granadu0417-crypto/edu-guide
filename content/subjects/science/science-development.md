@@ -10,7 +10,7 @@ tags:
 - 발생
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0588_CzShzocZtW0.jpg"
 ---
 
 ## 발생 과정이 복잡하고 용어가 많아서 헷갈린다고요? 단계별로 정리하면 명확해집니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 개념 이해도를 진단합니다. 발생 단계를 그림과 함께 순서대로 정리합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 수정과 난할
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-난할 과정을 그림으로 정리합니다. 각 단계의 특징을 비교합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 낭배와 기관 형성
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 배엽의 분화를 표로 정리합니다. 각 배엽이 형성하는 기관을 암기합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 발생 조절
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발생 조절 메커니즘을 설명합니다. 주요 실험과 그 의미를 정리합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 그림 해석 능력을 집중 훈련합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,47 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 형성체 이식 실험을 예로 이해하세요. 신호가 주변 세포의 분화를 유도합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 발생은 단계별 특징과 배엽 분화가 핵심입니다. 순서대로 정리하고 그림과 함께 학습하세요. 발생 조절 원리까지 이해하면 완벽합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 발생을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>

@@ -11,7 +11,7 @@ tags:
 - 문제풀이
 - 수능
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 ---
 
 ## 문법 개념은 아는데 문제만 풀면 틀린다고요? 유형별 접근법을 익히면 됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 자주 틀리는 문제 유형을 분석합니다. 약점 유형을 집중 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 품사 관련 문제
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-품사 구별의 핵심 기준을 정리합니다. 헷갈리는 품사를 반복 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 문장 성분 문제
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장 성분 분석 연습을 체계적으로 합니다. 겹문장 구조 파악 훈련을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 음운 변동 문제
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-음운 변동 규칙을 정리합니다. 발음 분석 과정을 단계별로 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 오답 분석 방법
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 패턴을 분석합니다. 개인별 약점을 파악하고 보완합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,47 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 문법 문제는 빠르게 푸는 연습이 필요합니다. 유형별 접근법을 익히면 시간이 단축됩니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
 ## 마무리
 
 문법 실전 문제는 개념 이해와 유형별 훈련이 핵심입니다. 기출 문제를 분석하고 오답을 꼼꼼히 정리하세요. 반복 연습으로 정확도와 속도를 함께 높일 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 문법 문제 풀이 능력을 키웁니다. 기출 분석과 유형별 훈련을 체계적으로 진행합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

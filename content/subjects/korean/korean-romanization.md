@@ -10,7 +10,7 @@ tags:
 - 로마자
 - 표기법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 ---
 
 ## 로마자 표기법이 헷갈리고 규칙이 복잡하다고요? 원리를 알면 명확해집니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-로마자 표기법의 기본 원리를 정리합니다. 자주 틀리는 표기를 집중적으로 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 기본 원칙
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 원칙을 체계적으로 정리합니다. 예시와 함께 원칙을 익힙니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자음 표기
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자음 표기 규칙을 정리합니다. 실제 단어로 적용 연습을 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 인명과 지명
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인명과 지명 표기법을 훈련합니다. 실제 사례로 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 자주 출제되는 유형을 집중 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,35 @@ featured_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=
 
 성과 이름 사이를 띄어 씁니다. 이름 음절 사이에는 붙임표를 쓸 수 있습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 로마자 표기법은 규칙을 이해하면 어렵지 않습니다. 기본 원칙과 예외 규정을 정리하고 꾸준히 연습하세요. 정확한 표기가 습관이 되면 시험에서도 자신 있게 풀 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 로마자 표기법을 완벽히 익힙니다. 규칙 정리와 실전 적용을 함께 훈련합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>

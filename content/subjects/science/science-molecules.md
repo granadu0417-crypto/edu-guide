@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0616_yl3p-M9bxTw.jpg"
 ---
 
 ## 분자 구조와 극성 판단이 어렵고 결합각 예측이 안 된다고요? 전자쌍 반발 이론부터 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-루이스 전자점식부터 시작합니다. 옥텟 규칙과 예외 상황을 정리합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 루이스 구조
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-루이스 구조 그리는 방법을 단계별로 연습합니다. 자주 나오는 분자들을 반복 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## VSEPR 이론과 분자 구조
@@ -46,7 +46,7 @@ VSEPR은 전자쌍이 서로 밀어내어 가장 멀리 떨어지려 한다는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전자쌍 수에 따른 분자 모양을 체계적으로 정리합니다. 모형이나 그림으로 3차원 구조를 이해합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 분자의 극성
@@ -55,7 +55,7 @@ VSEPR은 전자쌍이 서로 밀어내어 가장 멀리 떨어지려 한다는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-결합 극성과 분자 극성을 구분합니다. 대칭성 판단 방법을 훈련합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ VSEPR은 전자쌍이 서로 밀어내어 가장 멀리 떨어지려 한다는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 자주 출제되는 분자의 구조와 극성을 집중 정리합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,11 +81,35 @@ VSEPR은 전자쌍이 서로 밀어내어 가장 멀리 떨어지려 한다는 �
 
 H는 2개, B는 6개로 안정하고, 3주기 이상 원소는 확장된 옥텟이 가능합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 분자는 루이스 구조, 분자 모양, 극성이 핵심입니다. 전자쌍 반발 이론을 정확히 적용하세요. 다양한 분자를 연습하면 패턴이 보입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 분자를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>

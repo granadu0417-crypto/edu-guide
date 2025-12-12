@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 ---
 
 ## 생명 윤리와 환경 윤리가 헷갈리고 현대 윤리 문제가 복잡하다고요? 윤리적 판단의 기준부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-윤리적 판단의 기준을 먼저 설명합니다. 각 영역의 쟁점을 사례로 분석합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 생명 윤리
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생명 윤리의 주요 쟁점을 정리합니다. 찬반 논거를 비교 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 환경 윤리
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인간 중심주의와 생태 중심주의를 비교합니다. 환경 문제의 윤리적 해결책을 토론합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 정보 윤리
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정보 윤리의 주요 쟁점을 정리합니다. 디지털 시민 의식의 중요성을 분석합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 과학 기술 윤리
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 기술 윤리의 쟁점을 정리합니다. 기술 발전과 윤리의 관계를 분석합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,35 @@ featured_image: "https://images.unsplash.com/photo-1532622785990-d2c36a76f5a6?w=
 
 디지털 시대에 개인 정보 보호와 책임 있는 정보 활용이 중요해졌기 때문입니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 생활윤리는 쟁점 이해, 논거 비교, 관점 적용이 핵심입니다. 각 영역의 핵심 쟁점을 정리하세요. 다양한 관점을 비교하며 논리적으로 사고하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 생활윤리를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>

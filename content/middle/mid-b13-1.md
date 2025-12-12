@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0934_5uDpj9z3WsY.jpg"
 ---
 ## 성적이 오르지 않아 답답하시죠?
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 과목별 학습 방법을 점검합니다. 잘못된 습관을 바로잡고 효과적인 공부법을 알려드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 국어, 감으로 푸는 시대는 끝났습니다
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 영역별 학습법을 체계적으로 안내합니다. 교과서 지문 분석부터 문제 풀이 요령까지 익힙니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 수학, 개념 없이 문제만 풀면 안 됩니다
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식만 외우지 않고 개념의 원리를 이해하게 합니다. 다양한 유형을 접하며 응용력을 키웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 영어, 단어만 외운다고 되는 게 아닙니다
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어 암기와 문법 이해를 병행합니다. 교과서 본문 분석을 통해 독해력을 키웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 사회, 암기만 하면 서술형에서 틀립니다
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 간의 연결 고리를 이해하도록 설명합니다. 자료 해석 연습으로 서술형에 대비합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 과학, 실험 과정을 이해해야 합니다
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 영역별 특성에 맞는 학습법을 안내합니다. 실험 문제 접근법도 함께 연습합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -95,6 +95,22 @@ featured_image: "https://images.unsplash.com/photo-1457314880312-5d4aa18f8bc1?w=
 **Q. 서술형 문제 준비는 어떻게 하나요?**
 
 교과서 핵심 개념을 자기 말로 정리하는 연습을 하세요. 용어를 정확히 사용하고 논리적으로 서술하는 훈련이 필요합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
 
 ## 마무리
 

@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0969_DmeZC9riGkk.jpg"
 ---
 
 ## 방문 과외를 받으려면 집에서 뭘 준비해야 하나요? 공간이 따로 필요한가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방문 과외 전에 집 환경을 미리 파악합니다. 어떻게 하면 집중할 수 있는지 함께 고민합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 방문 과외의 장점은 뭔가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 부모님께 오늘 수업 내용을 바로 공유합니다. 궁금한 건 바로 여쭤보실 수 있습니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 방문 과외 환경은 어떻게 만들어야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 전에 어떤 환경이 좋을지 안내해 드립니다. 집 상황에 맞게 조언합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 방문 과외에서 주의할 점은 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간 10분 전에 알림을 드립니다. 학생이 준비할 시간을 가질 수 있습니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,8 +84,40 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방문 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 집 환경에 맞는 최적의 수업 방법을 안내합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

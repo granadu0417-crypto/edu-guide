@@ -7,7 +7,7 @@ lastmod: 2025-01-16
 reading_time: "578줄"
 draft: false
 description: "고등학생 온라인 과외의 모든 것. 화상 과외, 태블릿 과외, 메타버스 수업까지. 비대면 1:1 과외의 장단점부터 효과적인 학습 환경 구축, 과목별 적합도까지 완벽 가이드."
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0678_bgQgAKagQB4.jpg"
 tags: ["온라인과외", "화상과외", "비대면과외", "고등과외", "1:1과외", "태블릿과외", "줌수업", "원격수업", "인터넷과외"]
 categories: ["고등"]
 sitemap:
@@ -20,12 +20,12 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 환경과 학습 스타일을 파악합니다. 온라인 수업에 최적화된 방법을 안내합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 온라인 과외의 장점
 
-이동 시간이 제로입니다. 하루 1~2시간을 절약할 수 있고, 그 시간에 복습이나 자습을 할 수 있습니다. 교통비도 들지 않습니다.
+이동 시간이 제로입니다. 하루 1-2시간을 절약할 수 있고, 그 시간에 복습이나 자습을 할 수 있습니다. 교통비도 들지 않습니다.
 
 전국 어디서나 실력 있는 선생님을 만날 수 있습니다. 지방에 살아도 서울의 명문대 출신 선생님과 수업할 수 있습니다. 선택의 폭이 넓어집니다.
 
@@ -33,7 +33,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 녹화 파일을 제공합니다. 복습할 때 활용할 수 있도록 정리해드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 온라인 과외의 단점
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-카메라를 켜고 얼굴을 보며 수업합니다. 집중도를 높이기 위한 방법을 함께 실천합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 효과적인 환경 만들기
@@ -59,7 +59,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 전 환경 세팅을 점검합니다. 기술적 문제 없이 수업에 집중할 수 있도록 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과목별 적합도
@@ -74,7 +74,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞는 온라인 수업 방식을 적용합니다. 디지털 자료를 적극 활용합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 학년별 활용
@@ -106,6 +106,22 @@ sitemap:
 **Q. 인강과 온라인 과외의 차이는 무엇인가요?**
 
 인강은 녹화된 영상으로 질문이 불가능합니다. 온라인 과외는 실시간 소통이 가능하고 1:1 맞춤 수업입니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
 
 ## 마무리
 

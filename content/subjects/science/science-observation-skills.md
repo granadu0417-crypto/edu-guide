@@ -15,7 +15,7 @@ tags:
 - 실험기록
 - 과학적사고
 - 과학
-featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0620_nzhG0jElDfs.jpg"
 ---
 
 ## 과학 관찰이 무엇인지 모르겠고 기록 방법이 막막하다고요? 오감 활용부터 시작하면 됩니다.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관찰과 추리의 차이를 명확히 합니다. 객관적 관찰의 중요성을 이해합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 오감 활용 관찰
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-감각별로 관찰할 수 있는 항목을 정리합니다. 안전 수칙을 먼저 확인합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 정성적 관찰과 정량적 관찰
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 대상을 두 방법으로 관찰해봅니다. 각 방법의 장단점을 비교합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 관찰 기록 방법
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관찰 일지 작성법을 훈련합니다. 실제 관찰 기록을 함께 검토합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 시험 대비
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수행평가 대비 관찰 연습을 합니다. 평가 기준에 맞춘 기록법을 훈련합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -85,5 +85,5 @@ featured_image: "https://images.unsplash.com/photo-1515169067868-5387ec356754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 관찰력을 완벽히 키웁니다. 다양한 실험과 기록 연습을 함께합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

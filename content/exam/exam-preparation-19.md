@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0156_Dt71N8C-8Uw.jpg"
 ---
 ## 사회는 외울 게 너무 많아서 시험 때마다 헷갈려요. 효율적으로 외우는 방법 없나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 과목의 전체 흐름을 먼저 잡습니다. 큰 그림을 이해하고 세부 내용을 채워가는 방식으로 효율적인 암기를 돕습니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 사회 시험의 특성
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능의 출제 경향을 구분해서 대비합니다. 각각에 맞는 학습 전략으로 효율적으로 준비합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 효과적인 암기 방법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 암기법을 훈련합니다. 마인드맵, 표 정리, 출력 중심 암기 등 학생에게 맞는 방법을 찾아드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자료 분석 능력 키우기
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자료 분석 문제를 집중적으로 훈련합니다. 그래프, 표, 지도 등 다양한 유형의 자료 해석 연습을 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 내신 사회 대비
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 교과서, 프린트, 기출문제를 중심으로 내신을 준비합니다. 선생님별 출제 경향에 맞춰 전략적으로 대비합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 수능 사회탐구 대비
@@ -101,6 +101,26 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 **Q. 자료 분석 문제가 어려워요.**
 
 자료와 개념을 연결하는 연습을 하세요. 자료가 무엇을 말하는지, 어떤 개념과 관련되는지 생각하는 습관을 들이세요.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

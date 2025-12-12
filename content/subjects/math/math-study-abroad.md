@@ -17,7 +17,7 @@ tags:
 - SAT
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0560_nqI3t8M3qcI.jpg"
 ---
 
 ## 유학을 준비하는데 해외 수학 시험이 뭐가 있는지도 모르겠다고요? SAT와 AP와 IB 차이가 헷갈린다고 느끼시죠.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 국가와 시험에 맞춰 맞춤 커리큘럼을 제공합니다. 영어 수학 용어부터 차근차근 익힙니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 주요 국가별 수학 교육
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표 국가의 커리큘럼에 맞춰 학습합니다. 시험 형식과 출제 경향을 분석하여 효율적으로 준비합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## SAT Math
@@ -46,7 +46,7 @@ SAT Math는 800점 만점으로 Section 1은 계산기 없이 25분에 20문항�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-SAT Math 만점 전략을 가르칩니다. 시간 배분과 실수 방지와 빠른 풀이법을 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## AP와 IB
@@ -55,7 +55,7 @@ AP Calculus는 AB와 BC로 나뉩니다. AB는 기본 미적분이고 BC는 심�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-AP와 IB 시험 형식에 맞춰 준비합니다. 과거 문제를 반복하고 IA 주제 선정도 도와드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 유학 준비 로드맵
@@ -64,7 +64,7 @@ AP와 IB 시험 형식에 맞춰 준비합니다. 과거 문제를 반복하고 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 로드맵을 제공합니다. 목표 대학에 맞춰 시험 일정과 준비 계획을 세웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,12 +81,36 @@ AP와 IB 시험 형식에 맞춰 준비합니다. 과거 문제를 반복하고 
 
 가능합니다. 수학 용어 100개 정도와 기본 문장 구조만 익히면 됩니다. 3개월에서 6개월 준비하면 충분합니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 해외 수학은 한국 수학 실력이 있으면 수월합니다. 목표에 맞는 시험을 선택하고 체계적으로 준비하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-SAT, AP, IB 목표에 맞춰 맞춤 지도합니다. 영어 수학 용어와 문제 해석과 답안 작성법까지 완벽히 준비시킵니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 

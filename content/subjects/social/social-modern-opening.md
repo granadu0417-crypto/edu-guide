@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0691_9M9VYzjHYB8.jpg"
 ---
 
 ## 강화도 조약과 개화파가 헷갈리고 외세 침략이 복잡하다고요? 흥선대원군의 정책부터 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흥선대원군의 쇄국 정책부터 시작합니다. 개항의 배경과 과정을 정리합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 흥선대원군과 쇄국 정책
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흥선대원군의 개혁 정책을 정리합니다. 쇄국 정책의 배경과 한계를 분석합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 개항과 불평등 조약
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강화도 조약의 내용과 의미를 설명합니다. 불평등 조약의 특징을 비교합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 개화 운동과 갈등
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개화파의 주장과 활동을 정리합니다. 동학농민운동의 원인과 의의를 분석합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 국권 피탈
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국권 피탈 과정을 연표로 정리합니다. 항일 운동의 전개를 설명합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,35 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 반봉건, 반외세 운동으로 아래로부터의 근대화 시도였습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 개항기는 쇄국, 개항, 개화운동, 국권피탈의 흐름이 핵심입니다. 주요 사건과 인물을 연결해서 정리하세요. 국제 정세와 연결하면 이해가 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 개항기를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>

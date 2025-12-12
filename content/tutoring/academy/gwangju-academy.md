@@ -14,7 +14,7 @@ tags:
 - 초등
 description: 광주 학원가. 수완·첨단 지역, 과목별, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든
   것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0741_06CE33PclHg.jpg"
 reading_time: 280줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광주 지역 학교 내신 경향을 파악하고 있습니다. 학교별 맞춤 수업이 가능합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 수완지구 학원가는 어떤가요?
@@ -37,7 +37,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험 일정에 맞춰 내신 대비를 진행합니다. 족보 분석도 함께 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 첨단지구 학원가는 어떤가요?
@@ -50,12 +50,12 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 부족한 부분은 과외로 보충합니다. 약점 과목만 집중 케어합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 서울 강남 학원이랑 비교하면 어떤가요?
 
-비용은 광주가 훨씬 저렴합니다. 강남 대비 30~40% 저렴합니다. 가성비가 좋습니다.
+비용은 광주가 훨씬 저렴합니다. 강남 대비 30-40% 저렴합니다. 가성비가 좋습니다.
 
 수준은 충분합니다. 최상위권 학원을 제외하면 광주 학원으로 충분히 대비 가능합니다.
 
@@ -73,7 +73,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광주 거주 학생은 광주 학원을 추천합니다. 이동 시간을 공부에 쓰는 게 더 효율적입니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 과외랑 병행하면 좋은가요?
@@ -86,7 +86,7 @@ reading_time: 280줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-광주 지역 학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -106,6 +106,14 @@ reading_time: 280줄
 **Q. 과외가 필요한가요?**
 
 추천합니다. 학원에서 부족한 부분을 과외로 보충하면 효과적입니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

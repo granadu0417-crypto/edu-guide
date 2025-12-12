@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "제주도의 교육 환경을 완벽 분석합니다. 제주시·서귀포 학원가부터 제주대 과외, 온라인 교육 전략, 국제학교까지 제주 지역 맞춤 교육 정보를 제공합니다."
 tags: ["제주교육", "제주학원", "제주과외", "제주시학원", "서귀포학원", "제주대과외", "제주국제학교", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0287_XkKCui44iM0.jpg"
 ---
 
 ## 제주도에서 아이 교육 어떻게 해야 할까요? 국제학교가 좋은지 일반학교가 좋은지 고민이시죠.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제주 지역 교육 환경을 분석합니다. 거주 지역과 예산에 맞는 최적의 교육 방법을 안내합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 지역별 학원 특성
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학원과 과외 시장을 파악합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 온라인 교육 전략
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인 병행 전략을 안내합니다. 비용을 절감하면서 효과를 극대화하는 방법을 찾아드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 교육 전략
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 전략을 안내합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,6 +73,30 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 **Q. 서귀포와 제주시 중 어디가 좋나요?**
 
 교육 인프라는 제주시가 우수합니다. 서귀포는 국제학교가 밀집해 있고 자연환경이 더 좋습니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

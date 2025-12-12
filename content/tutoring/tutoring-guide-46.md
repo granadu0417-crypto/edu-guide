@@ -12,7 +12,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0983_goSsHZX2hpw.jpg"
 ---
 
 ## 국어 점수가 안 오르는 이유가 독해력 때문이라는데, 독해력은 어떻게 키우나요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 습관을 먼저 분석합니다. 어디서 막히는지, 어떻게 읽는지 파악하고 맞춤 지도합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 독해력이 뭔가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문을 읽을 때 핵심 문장을 찾는 연습을 합니다. 전체를 다 외우려 하지 말고 중요한 것을 잡도록 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 독해력을 어떻게 키우나요?
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 지문을 같이 읽으면서 어떻게 분석하는지 보여줍니다. 혼자 할 때도 같은 방식으로 하도록 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 국어 과외에서는 뭘 하나요?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 문제는 왜 틀렸는지 같이 분석합니다. 오답 패턴을 파악하면 같은 실수가 줄어듭니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -81,12 +81,36 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 **Q. 얼마나 걸려요?**
 
-사람마다 다릅니다. 꾸준히 하면 2~3개월 후부터 변화가 느껴집니다. 급하게 생각하면 지칩니다. 꾸준함이 답입니다.
+사람마다 다릅니다. 꾸준히 하면 2-3개월 후부터 변화가 느껴집니다. 급하게 생각하면 지칩니다. 꾸준함이 답입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 독해력 향상 방법을 자세히 안내해 드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

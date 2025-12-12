@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0974_U2eUlPEKIgU.jpg"
 ---
 
 ## 숙제를 해도 효과가 없는 것 같아요. 그냥 시간만 낭비하는 건 아닌가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제를 내기만 하고 끝이 아닙니다. 다음 수업에서 숙제를 어떻게 했는지 꼭 확인합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 숙제가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제에서 틀린 문제를 중심으로 다음 수업을 시작합니다. 약한 부분을 집중 보완합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 숙제를 제대로 하려면 어떻게 해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정을 보면서 어디서 실수했는지, 어떻게 생각했는지 파악합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 숙제 양은 얼마가 적당한가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 전체 학습량을 고려해서 숙제를 냅니다. 너무 많거나 적으면 말씀해 주세요.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 활용에 대해 더 궁금한 점이 있으시면 문의하세요. 복습 효과를 높이는 방법을 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 마무리

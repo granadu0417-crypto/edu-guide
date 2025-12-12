@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0929_yFpnkorlodo.jpg"
 ---
 ## 중1 때 잘했는데 중2 되니까 성적이 떨어졌어요
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적이 떨어진 원인을 분석합니다. 공부 방법이 문제인지, 내용이 어려워진 건지, 집중력이 떨어진 건지 파악합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 중2 성적이 떨어지는 이유
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 기초가 부족한지 확인합니다. 중1 내용을 복습하면서 중2 내용을 병행합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 내신 안정화를 위한 핵심 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 후 다양한 문제를 풀어봅니다. 같은 유형이라도 여러 번 반복해서 익숙해지게 합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 수학 내신 안정화 방법
@@ -56,7 +56,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학은 개념 이해 후 기본 문제, 응용 문제, 심화 문제 순으로 단계적으로 학습합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 영어 내신 안정화 방법
@@ -67,7 +67,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법은 예문 중심으로 설명합니다. 직접 문장을 만들어보면서 문법이 어떻게 쓰이는지 체득합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 대비 전략
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춰 학습 계획을 세웁니다. 오답 정리와 취약 단원 보충을 병행합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,6 +96,30 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 **Q. 공부해도 성적이 안 올라요.**
 
 공부 방법이 잘못됐을 수 있습니다. 그냥 책만 읽는 건 공부가 아닙니다. 직접 문제를 풀고, 틀린 건 왜 틀렸는지 분석하고, 다시 풀어봐야 합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
 
 ## 마무리
 

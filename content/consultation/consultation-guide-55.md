@@ -13,7 +13,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0078_RwZzAcRmbbI.jpg"
 ---
 
 ## 분명히 공부했는데 시험 때 기억이 안 나요. 복습은 어떻게 해야 머릿속에 남나요?
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 상담에서는 학생의 현재 복습 패턴을 분석합니다. 왜 기억이 안 남는지 원인을 찾고, 과학적인 복습 주기와 방법을 안내합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 복습 상담이 왜 필요한가요?
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습을 안 하거나 해도 효과가 없다면 학습 상담을 받으세요. 과학적인 복습 시스템을 만들어드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 진학 상담은 시험 대비 복습 계획을 세울 때 도움이 됩니다. 심리 상담은 공부 자체에 거부감이 있을 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 학생의 스케줄에 맞는 복습 계획표를 함께 만듭니다. 부담되지 않으면서도 효과적인 복습 루틴을 설계합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 효과적인 복습은 어떻게 하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 과목별, 시험별 상황에 맞는 복습 계획을 세워드립니다. 무리하지 않으면서 효과를 극대화하는 방법을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -86,8 +86,32 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 전략에 대해 더 궁금한 점이 있으시면 문의하세요. 기억에 남는 공부법을 안내합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

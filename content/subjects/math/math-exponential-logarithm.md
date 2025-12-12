@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0520_hjZlhj8ej7U.jpg"
 ---
 
 ## 지수법칙이 너무 많아서 헷갈린다고요? 로그가 뭔지 잘 모르겠고 밑 변환 공식이 복잡하게 느껴지시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지수와 로그의 관계부터 설명합니다. 법칙을 체계적으로 정리하고 암기시킵니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 지수법칙
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지수법칙을 완벽히 암기시킵니다. 근호와의 연결까지 확실히 이해시킵니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 로그의 정의와 법칙
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-로그법칙과 지수법칙의 대응 관계를 설명합니다. 밑 변환 공식 활용법을 익힙니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 지수함수와 로그함수
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프의 특징을 시각적으로 이해시킵니다. 지수함수와 로그함수의 대칭 관계를 설명합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 방정식과 부등식
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방정식과 부등식 풀이법을 체계적으로 연습합니다. 진수 조건 체크 습관을 들입니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,44 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 계산기에는 상용로그와 자연로그만 있어서 다른 밑의 로그 계산에 필요합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
 ## 마무리
 
 지수와 로그는 서로 역관계이며 법칙 암기가 핵심입니다. 지수법칙과 로그법칙을 완벽히 암기하고 진수 조건을 항상 확인하면 어렵지 않습니다. 복리 계산과 지진 규모와 소리 크기 등 실생활에서도 많이 활용됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지수 로그를 체계적으로 정리합니다. 다양한 유형의 문제로 실전 감각을 키웁니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 

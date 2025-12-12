@@ -14,7 +14,7 @@ tags:
 - 성적향상
 description: 중학생을 위한 과외 선택의 모든 것. 학년별 전략, 과목별 선택, 내신 관리, 고등학교 준비까지 완벽 가이드입니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 학년별 특성에 맞는 구체적인 학습 방법을 제시합니다. 내신 관리의 모든 것을 알려드립니다.
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0821_lkltJEm0RpA.jpg"
 reading_time: 160줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학생은 초등학교와 완전히 다릅니다. 시험 대비 요령, 노트 필기법, 복습 습관까지 중학교 적응을 도와드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 중학교가 초등학교랑 뭐가 달라요?
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사춘기 학생의 특성을 이해하고 수업합니다. 동기부여와 멘탈 관리도 함께 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 학년별로 뭘 해야 해요?
@@ -58,7 +58,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞게 수업합니다. 수학은 개념 이해, 영어는 문법 정리, 국어는 독해력 향상에 초점을 맞춥니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 어떤 유형의 과외가 좋아요?
@@ -69,7 +69,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 성향에 맞는 수업 방식을 선택합니다. 집중이 필요하면 1대1로, 경쟁이 필요하면 소그룹으로 추천합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 과외 선생님은 어떻게 골라요?
@@ -86,7 +86,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지난 수업 복습 여부를 확인하고 시작합니다. 질문 리스트를 가져오면 그것부터 해결합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -97,15 +97,23 @@ reading_time: 160줄
 
 **Q. 몇 과목 정도 과외를 받는 게 적당해요?**
 
-1~2과목이 적당합니다. 최대 3과목을 넘지 않는 게 좋습니다. 너무 많으면 스스로 공부하는 시간이 부족해집니다.
+1-2과목이 적당합니다. 최대 3과목을 넘지 않는 게 좋습니다. 너무 많으면 스스로 공부하는 시간이 부족해집니다.
 
 **Q. 과외 효과는 언제 나타나요?**
 
-최소 2~3개월은 지켜봐야 합니다. 성적보다 학습 태도, 이해도, 자신감 변화를 먼저 관찰하세요.
+최소 2-3개월은 지켜봐야 합니다. 성적보다 학습 태도, 이해도, 자신감 변화를 먼저 관찰하세요.
 
 **Q. 과외 선생님과 안 맞으면요?**
 
 1개월 지켜본 후에도 개선이 없으면 교체를 고려하세요. 실력도 중요하지만 아이와의 궁합이 더 중요합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

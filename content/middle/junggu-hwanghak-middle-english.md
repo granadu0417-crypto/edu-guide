@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0839_q2OoPUDGC7E.jpg"
 
 ---
 ## 중구 황학동 중학생, 영어 현재완료진행형이 어렵다면
@@ -28,7 +28,7 @@ I have been waiting for an hour에서 have been waiting은 왜 이렇게 복잡�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 현재완료진행형의 이해 수준을 진단합니다. have been -ing 형태, 현재완료와의 차이, 사용 상황을 체계적으로 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 현재완료진행형이 어려운 이유
@@ -39,7 +39,7 @@ I have been waiting for an hour에서 have been waiting은 왜 이렇게 복잡�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재완료와 현재완료진행형의 의미 차이를 정확히 구분합니다. 다양한 상황에서 올바른 시제를 선택하는 연습을 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 덕수중·장원중·대경중 영어 시험의 특징
@@ -52,7 +52,7 @@ I have been waiting for an hour에서 have been waiting은 왜 이렇게 복잡�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·대경중 기출 시제 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I have been waiting for an hour에서 have been waiting은 왜 이렇게 복잡�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 현재완료진행형 문장을 만들어보게 합니다. 왜 그 시제를 선택했는지 설명하는 훈련을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,18 +76,18 @@ I have been waiting for an hour에서 have been waiting은 왜 이렇게 복잡�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 시제 내용을 정확히 이해합니다. 시제를 자유롭게 활용하는 능력을 키웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 시제 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,18 @@ I have been waiting for an hour에서 have been waiting은 왜 이렇게 복잡�
 **Q. 상태동사도 진행형으로 쓸 수 있나요?**
 
 일반적으로 know, have, like 같은 상태동사는 진행형으로 잘 안 씁니다. 하지만 의미에 따라 예외도 있습니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

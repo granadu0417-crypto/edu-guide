@@ -9,7 +9,7 @@ regions:
 cities:
   - 양주시
 tags: ["양주교육", "양주학원", "양주과외", "경기북부교육", "양주입시"]
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0275_2N518py2mrQ.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -29,7 +29,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-양주 지역 학교의 내신 출제 경향을 철저히 분석하여, 학교별 맞춤 대비를 해드립니다. 검증된 선생님들이 체계적으로 지도합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ### 합리적인 교육비
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 수준을 정확히 진단하여 적합한 학원 유형을 추천해드립니다. 기초가 부족하면 소형 학원이나 과외를, 경쟁을 통해 동기부여가 되는 아이라면 대형 학원을 권장합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ### 영어 학원 선택하기
@@ -65,7 +65,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 성향과 학습 상태를 파악하여 과외와 학원 중 적합한 방식을 제안해드립니다. 필요하다면 학원과 과외를 병행하는 전략도 설계해드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ### 좋은 과외 선생님 찾는 법
@@ -74,23 +74,23 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검증된 선생님만 매칭해드립니다. 학력, 경력, 성적 향상 사례를 꼼꼼히 확인하고, 시범 수업으로 아이와의 궁합까지 체크하실 수 있습니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학년별 학습 전략
 
 ### 초등학생
 
-초등 저학년(1~3학년)은 학습 습관을 기르고 기초를 다지는 시기입니다. 공부에 대한 흥미를 키우는 것이 가장 중요합니다. 고학년(4~6학년)부터는 중등 과정을 대비한 선행 학습을 시작해야 합니다.
+초등 저학년(1-3학년)은 학습 습관을 기르고 기초를 다지는 시기입니다. 공부에 대한 흥미를 키우는 것이 가장 중요합니다. 고학년(4-6학년)부터는 중등 과정을 대비한 선행 학습을 시작해야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학생에게는 재미있는 수업으로 학습에 대한 흥미를 키워드립니다. 게임, 퍼즐 등을 활용해 아이가 공부를 즐기면서 실력을 쌓을 수 있도록 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ### 중학생
 
-중1~2학년은 내신의 기반을 다지면서 적절한 선행을 병행해야 합니다. 중3은 내신 관리가 최우선이며, 고등 과정 선행과 입시 준비를 병행해야 합니다.
+중1-2학년은 내신의 기반을 다지면서 적절한 선행을 병행해야 합니다. 중3은 내신 관리가 최우선이며, 고등 과정 선행과 입시 준비를 병행해야 합니다.
 
 ### 고등학생
 
@@ -98,7 +98,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 커리큘럼으로 체계적으로 지도합니다. 내신과 수능 두 마리 토끼를 잡을 수 있도록 균형 잡힌 학습 계획을 설계해드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문

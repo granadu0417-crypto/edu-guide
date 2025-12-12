@@ -11,7 +11,7 @@ tags:
 - 리얼리즘
 - 모더니즘
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0464_NIJuEQw0RKg.jpg"
 ---
 
 ## 리얼리즘, 모더니즘이 뭔지 헷갈린다고요? 각 사조의 핵심 특징을 알면 구분됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 문학 사조의 개념을 정리합니다. 사조별 대표 작가와 작품을 체계적으로 학습합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 낭만주의와 사실주의
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-낭만주의와 사실주의의 차이를 비교합니다. 대표 작품을 분석합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 모더니즘과 리얼리즘
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모더니즘과 리얼리즘의 특징을 정리합니다. 대표 작품의 특징을 분석합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 한국 근현대 문학사
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한국 문학사의 흐름을 시대별로 정리합니다. 시대별 대표 작품을 분석합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 사조별 출제 포인트를 정리합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 문학 사조를 체계적으로 학습합니다. 이론과 작품 분석을 병행합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>

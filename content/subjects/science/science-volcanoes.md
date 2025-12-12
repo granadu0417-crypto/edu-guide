@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0641_21OtEJZ4GJA.jpg"
 ---
 
 ## 화산의 종류와 분출 유형이 헷갈리고 용암 특성 구분이 어렵다고요? 마그마의 성질부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마그마의 성질과 화산 형태를 연결합니다. 분출 유형을 그림으로 비교합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 마그마와 화산 분출
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-마그마의 종류와 특성을 표로 정리합니다. SiO2 함량과 점성의 관계를 설명합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 화산의 형태
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화산 형태별 특징을 그림으로 비교합니다. 실제 화산 사례를 연결하여 설명합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 화산 분출물
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화산 분출물의 종류와 특성을 정리합니다. 화산 재해와 연결하여 설명합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 마그마 특성과 화산 형태 연결 문제를 집중 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 화산을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>

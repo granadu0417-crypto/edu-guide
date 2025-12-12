@@ -10,7 +10,7 @@ tags:
 - 딕테이션
 - 듣기
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0368_mHjvJqvj1XE.jpg"
 ---
 
 ## 받아쓰기를 하면 다 틀린다고요? 들리는 대로 쓰면 어디서 끊어야 할지 모르겠다고요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 딕테이션 자료를 제공합니다. 틀린 부분을 분석하고 발음 규칙을 설명합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 딕테이션 3단계
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 단계부터 시작합니다. 점진적으로 난이도를 높여갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 틀린 부분 분석
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 부분의 원인을 분석합니다. 연음, 탈락 등 발음 규칙을 설명합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 효과적인 연습법
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 딕테이션 방법을 알려드립니다. 수준에 맞는 자료를 제공합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 추천 자료
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 자료를 추천합니다. 단계적으로 난이도를 높여갑니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,47 @@ featured_image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=
 
 꾸준히 하면 1-2주 후부터 듣기가 더 명확해지는 것을 느낄 수 있습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
 ## 마무리
 
 딕테이션은 듣기 실력을 가장 빠르게 향상시키는 훈련법입니다. 매일 30분씩 꾸준히 하면 1개월에 확실한 효과를 볼 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 딕테이션 수업으로 듣기 실력을 빠르게 향상시킵니다. 틀린 부분을 분석하고 발음 규칙을 설명합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>

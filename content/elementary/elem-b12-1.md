@@ -13,7 +13,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0107_F5puEdv5eDs.jpg"
 ---
 ## 초등학교 마지막 학년, 무엇을 준비해야 할까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-먼저 초등 6년간의 학습 상태를 점검합니다. 어디가 부족한지 파악하고, 우선순위를 정해 보완합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스스로 계획표를 만들어보게 합니다. 처음에는 함께 만들고, 점차 혼자 만들도록 유도합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학의 경우 4~5학년 내용까지 거슬러 올라가 점검합니다. 분수, 소수가 안 되면 중학교 수학이 안 됩니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 6학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 스스로 중학교에서 어떤 학생이 되고 싶은지 생각해보게 합니다. 자기 목표가 생기면 공부에 대한 동기가 달라집니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 가정에서의 역할
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 학습 계획표를 함께 만들고, 매주 얼마나 지켰는지 점검합니다. 지킨 만큼 칭찬합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 주의사항
@@ -103,6 +103,14 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 **Q. 사춘기라 말을 안 들어요.**
 
 강요하면 역효과입니다. 왜 공부해야 하는지 대화를 나누고, 스스로 목표를 정하게 합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

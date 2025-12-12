@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0678_bgQgAKagQB4.jpg"
 ---
 
 ## 무역과 환율이 복잡하고 국제기구 구분이 어렵다고요? 국가 간 교류의 기본부터 파악하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국제경제의 기본 원리를 설명합니다. 무역과 환율의 개념을 쉽게 정리합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 국제 무역
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비교 우위와 무역의 원리를 설명합니다. 자유 무역과 보호 무역을 비교 분석합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 환율
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-환율의 개념과 결정 원리를 설명합니다. 환율 변동이 경제에 미치는 영향을 분석합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 국제기구
@@ -55,7 +55,7 @@ WTO는 세계 무역을 관리하고 무역 분쟁을 조정합니다. IMF는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 국제기구의 역할을 비교합니다. 한국이 가입한 경제 협력체를 정리합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 세계화와 국제경제
@@ -64,7 +64,7 @@ WTO는 세계 무역을 관리하고 무역 분쟁을 조정합니다. IMF는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세계화의 장단점을 분석합니다. 국제경제 문제와 해결 방안을 토론합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,47 @@ WTO는 다자간 무역 기구이고, FTA는 특정 국가 간 자유 무역 협
 
 빈부 격차 심화, 문화 획일화, 경제 위기의 전파 등이 있습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
 ## 마무리
 
 국제경제는 무역, 환율, 국제기구, 세계화가 핵심입니다. 국가 간 경제 교류의 원리를 이해하세요. 시사 뉴스와 연결하면 이해가 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 국제경제를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>

@@ -11,7 +11,7 @@ tags:
 - 리포트
 - 학술글
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0484_e3R4lxISkeA.jpg"
 ---
 
 ## 보고서 쓰기가 막막하고 어디서부터 시작해야 할지 모르겠다고요? 구조를 알면 쉬워집니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 수준을 파악합니다. 보고서 구조와 작성법을 단계별로 훈련합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 보고서의 구조
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-보고서 구조를 체계적으로 정리합니다. 실제 보고서를 분석하며 구조를 익힙니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 작성 원칙
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-보고서 작성 원칙을 안내합니다. 직접 작성하며 원칙을 적용해봅니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자료 정리법
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자료 정리 방법을 훈련합니다. 실제 자료로 정리 연습을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 유형별 풀이 전략을 정리합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ featured_image: "https://images.unsplash.com/photo-1573496774426-fe3dce7ef4df?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 보고서 작성 능력을 키웁니다. 구조 잡기부터 완성까지 함께합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>

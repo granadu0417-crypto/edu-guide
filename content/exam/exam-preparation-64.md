@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0206_Yp-_3DJ1Rd0.jpg"
 ---
 ## 시험 당일 아침부터 긴장이 돼요. 시험장에서 어떻게 해야 실력 발휘가 잘 될까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 긴장 관리법을 연습합니다. 실력을 100% 발휘할 수 있도록 실전 전략을 훈련합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 시험 전 준비
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 아침 루틴을 정해드립니다. 여유 있게 준비해서 안정된 상태로 시험을 보도록 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 긴장 완화법
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긴장 완화 기법을 미리 연습합니다. 시험장에서 바로 적용할 수 있도록 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 문제 풀이 전략
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 문제 풀이 순서를 연습합니다. 시간 배분과 전략적 풀이법을 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 실수 방지
@@ -81,7 +81,7 @@ OMR 마킹을 정확히 하세요. 답을 알아도 마킹이 잘못되면 틀�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 하는 실수 유형을 분석합니다. 시험장에서 같은 실수를 하지 않도록 주의시킵니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시험 후
@@ -109,6 +109,22 @@ OMR 마킹을 정확히 하세요. 답을 알아도 마킹이 잘못되면 틀�
 **Q. 모르는 문제가 나왔어요.**
 
 포기하지 마세요. 아는 내용으로 추론해보세요. 그래도 모르면 찍고 넘어가세요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

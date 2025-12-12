@@ -14,7 +14,7 @@ tags:
 - 수능
 - 시험준비
 - 쓰기
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0667_l1-8DyUwhbQ.jpg"
 ---
 ## 내신이 좀 부족한데 논술로 만회할 수 있다고 들었어요. 어떻게 준비해야 하나요?
 
@@ -22,12 +22,12 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 논술 실력을 진단합니다. 어떤 부분이 부족한지 파악하고 체계적으로 연습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 논술 전형의 특징
 
-내신 반영 비율이 낮습니다. 대부분 내신을 10~20% 정도만 반영합니다. 내신이 3~4등급이어도 논술을 잘 보면 합격할 수 있습니다.
+내신 반영 비율이 낮습니다. 대부분 내신을 10-20% 정도만 반영합니다. 내신이 3-4등급이어도 논술을 잘 보면 합격할 수 있습니다.
 
 논술 실력이 당락을 결정합니다. 논술 시험에서 높은 점수를 받아야 합니다. 글쓰기 실력이 핵심입니다.
 
@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논술 전형의 특징을 설명합니다. 학생에게 유리한 대학을 함께 찾습니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 인문논술 준비
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제시문 분석 연습을 합니다. 논리적인 글쓰기 방법을 알려줍니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 수리논술 준비
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수리논술 기출을 분석합니다. 풀이 과정을 어떻게 써야 하는지 연습합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 기출 분석
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출을 함께 분석합니다. 학생이 쓴 답안을 첨삭하고 개선점을 알려줍니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 논술 학습 시기
@@ -89,7 +89,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별 계획을 세웁니다. 언제 뭘 해야 하는지 구체적으로 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 주의사항
@@ -112,7 +112,15 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 **Q. 내신 몇 등급까지 논술로 가능한가요?**
 
-대학에 따라 다르지만 3~4등급도 합격 가능합니다. 논술 실력이 뛰어나면 내신을 극복할 수 있습니다.
+대학에 따라 다르지만 3-4등급도 합격 가능합니다. 논술 실력이 뛰어나면 내신을 극복할 수 있습니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

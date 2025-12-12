@@ -16,7 +16,7 @@ tags:
 - 내신수학
 - 서술형전략
 - 수학
-featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0569_sG2EggQLl14.jpg"
 ---
 
 ## 서술형 문제만 보면 막막하다고요? 풀이 과정을 어떻게 써야 점수를 받는지 모르겠다고 느끼시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 문제 푸는 방법을 체계적으로 가르칩니다. 채점 기준을 이해시켜 점수 받는 서술을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 문장제 해결 전략
@@ -34,18 +34,18 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 분석하는 방법을 알려줍니다. 조건을 정리하고 전략을 세우는 과정을 함께 연습합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 풀이 과정 작성
 
-기본 원칙은 단계별로, 명확하게, 정확하게입니다. 한 단계씩 논리적 순서로 생략하지 않고 정확한 수학 용어와 기호를 사용하며 계산 실수에 주의하고 검산합니다. 서술 형식은 미지수 설정할 때 ~라고 하자를 쓰고 이유를 제시할 때 ~이므로를 쓰며 결론을 낼 때 따라서를 씁니다.
+기본 원칙은 단계별로, 명확하게, 정확하게입니다. 한 단계씩 논리적 순서로 생략하지 않고 정확한 수학 용어와 기호를 사용하며 계산 실수에 주의하고 검산합니다. 서술 형식은 미지수 설정할 때 -라고 하자를 쓰고 이유를 제시할 때 -이므로를 쓰며 결론을 낼 때 따라서를 씁니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정을 실시간으로 관찰하며 교정합니다. 점수 받는 서술 형식을 익히도록 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 부분 점수 전략
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 채점 기준을 설명합니다. 부분 점수를 최대화하는 전략을 알려드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 실수 줄이기
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실수 패턴을 분석합니다. 같은 실수를 반복하지 않도록 즉각 피드백을 제공합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 **Q. 답은 맞는데 과정에서 감점당해요.**
 
-서술을 더 자세히 하세요. ~이므로를 사용하고 각 단계를 설명하며 근거를 명시하세요.
+서술을 더 자세히 하세요. -이므로를 사용하고 각 단계를 설명하며 근거를 명시하세요.
 
 ## 마무리
 
@@ -86,6 +86,6 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형을 체계적으로 훈련합니다. 채점 기준 학습과 즉각 피드백으로 서술형 고득점을 달성시킵니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 

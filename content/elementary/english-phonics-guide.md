@@ -12,7 +12,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습가이드
-featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0134_zGn2cg9qBvU.jpg"
 ---
 ## 영어 단어를 외우지 않아도 읽을 수 있다면요?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 파닉스 수준을 먼저 확인합니다. 알파벳 소리부터 시작해야 하는지, CVC 단어부터 가능한지 파악하고 맞춤 수업을 진행합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 파닉스 학습 5단계
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-알파벳 이름만 가르치고 소리를 소홀히 하면 안 됩니다. B는 비가 아니라 브 소리가 나는 것, 이것을 확실히 익혀야 다음 단계로 넘어갑니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## CVC 단어와 자음 조합
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-라임 단어끼리 묶어서 익히면 효과적입니다. cat, bat, hat, mat처럼 같은 패턴의 단어를 연달아 읽으면 규칙이 자연스럽게 익혀집니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 장모음과 이중모음
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습보다 놀이처럼 접근합니다. 파닉스 노래와 챈트로 리듬을 타며 단어를 읽고, 파닉스 스토리북으로 반복 패턴을 자연스럽게 익힙니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학년별 파닉스 학습 가이드
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-파닉스가 끝나면 리딩 수업으로 자연스럽게 연결합니다. 파닉스 규칙이 적용된 간단한 책부터 시작해서 점점 긴 글을 읽어갑니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -92,6 +92,46 @@ featured_image: "https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?w=
 **Q. 파닉스 학습에서 가장 중요한 건 뭔가요?**
 
 소리에 집중하는 것입니다. 알파벳 이름이 아니라 소리를 정확히 익혀야 합니다. 그리고 꾸준함이 핵심입니다. 일주일에 한 번 1시간보다 매일 15분이 훨씬 효과적입니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

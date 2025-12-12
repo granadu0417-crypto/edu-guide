@@ -9,7 +9,7 @@ tags:
 - 중등과외
 - 과외종료
 - 자기주도학습
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0239_qgzeWrw4tEs.jpg"
 ---
 ## 과외, 언제까지 해야 하는 건가요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외의 최종 목표는 학생이 혼자서도 공부할 수 있게 만드는 것입니다. 처음부터 독립을 목표로 수업을 설계합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 중단해야 할 신호들
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 3개월마다 목표 달성도를 점검합니다. 학생의 자기주도 학습 능력이 어느 정도인지 함께 평가하고 향후 계획을 조정합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 점진적 중단이 답입니다
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중단 계획을 미리 세우고 학생과 공유합니다. 언젠가는 혼자 해야 한다는 것을 알고 수업에 임하면 더 적극적으로 배웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 학년별 중단 시점
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 특성을 고려해 중단 시점을 조언합니다. 중요한 시기에는 무리한 중단보다 안정적인 관리를 권합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 중단 후에도 연락하세요
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중단 후에도 질문이나 상담이 필요하면 연락 주세요. 짧은 조언이나 단기 과외로 도움드릴 수 있습니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}

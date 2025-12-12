@@ -13,7 +13,7 @@ tags:
 - 수능
 - 시험
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0388_1zqhNlDaltE.jpg"
 ---
 
 ## 듣기만 하면 집중력이 금방 떨어진다고요? 작은 팁들이 큰 점수 차이를 만듭니다.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 듣기 습관을 분석합니다. 점수를 올릴 수 있는 실전 팁을 하나씩 적용합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 시험 중 전략
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 전략을 적용합니다. 선택지 읽기, 메모, 소거법을 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 집중력 유지
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집중력 유지 기술을 가르칩니다. 긴장 완화와 리셋 방법을 연습합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 실수 방지
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 하는 실수 유형을 분석합니다. 같은 실수를 반복하지 않도록 점검합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 효율적 학습법
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관을 점검합니다. 효과적인 일일 학습 계획을 함께 세웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,11 +77,35 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 일찍 자세요. 밤샘 공부는 오히려 역효과입니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 영어 듣기는 작은 팁들이 모여 큰 점수 향상을 만듭니다. 선택지 미리 보기, 키워드 집중, 메모하기를 습관화하세요. 매일 30분씩 꾸준히 연습하면 만점이 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 듣기 수업으로 실전 팁을 완벽히 적용합니다. 빠르게 만점에 도달합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>

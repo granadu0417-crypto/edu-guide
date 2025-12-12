@@ -10,7 +10,7 @@ tags:
 - 기후
 - 지구과학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0585_okUVwmx7n2I.jpg"
 ---
 
 ## 기후와 날씨의 차이가 뭔지 모르겠고 기후 변화 원인이 복잡하다고요? 개념부터 정리하면 명확해집니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기후와 날씨의 차이를 명확히 정리합니다. 기후 요소와 요인을 구분합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 기후 요소와 기후 요인
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기후 요소와 요인을 비교표로 정리합니다. 각 요인의 영향을 설명합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 기후대
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기후대별 특징을 정리합니다. 기후 그래프 읽는 법을 연습합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 기후 변화
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기후 변화의 원인과 영향을 연결합니다. 시사적인 내용도 함께 다룹니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 그래프와 자료 해석을 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 기후를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>

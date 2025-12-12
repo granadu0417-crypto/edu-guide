@@ -14,7 +14,7 @@ tags:
 - 확률과통계
 - 1:1과외
 - 과외
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0529_5uhOqA194JQ.jpg"
 ---
 
 ## 수능까지 시간이 얼마 안 남았는데 점수가 안 오른다고요? 킬러 문제가 안 풀리고 시간도 부족하다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 출제 경향을 분석하여 효율적으로 학습합니다. 취약 유형을 집중 공략합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 수학 1 총정리
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 1 전 범위를 체계적으로 정리합니다. 킬러 포인트를 집중 훈련합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 확률과 통계 완성
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-확률과 통계를 유형별로 정리합니다. 표와 그림을 활용한 풀이법을 훈련합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 실전 전략
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 시간 관리를 훈련합니다. 검산 습관을 들여 실수를 줄입니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학습 계획
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능까지 체계적인 학습 계획을 세웁니다. 시기별 맞춤 전략으로 효율을 높입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,36 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 경우의 수를 체계적으로 세는 연습을 하세요. 표와 그림을 활용하면 쉬워집니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 고3 문과 수학은 수능이라는 명확한 목표가 있습니다. 전략적으로 준비하고 꾸준히 연습하면 반드시 원하는 점수를 얻을 수 있습니다. 지금부터 체계적으로 시작하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능까지 책임지고 완벽 대비합니다. 목표 점수 달성을 위해 함께합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 

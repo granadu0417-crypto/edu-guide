@@ -11,7 +11,7 @@ tags:
 - 논쟁
 - 반론
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0444_IMyyeJrwcPk.jpg"
 ---
 
 ## 토론에서 논리적으로 말하기가 어렵다고요? 주장과 근거를 체계적으로 정리하면 됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 논리적 사고력을 진단합니다. 주장-근거 구조 훈련부터 실전 토론까지 단계별로 연습합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 토론의 구조
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론의 각 단계별 전략을 훈련합니다. 입론 작성부터 최종 발언까지 실전 연습을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 논증 방법
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논증 구조를 체계적으로 훈련합니다. 다양한 논제로 주장-근거 연결 연습을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 반박 기술
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논리적 오류 유형을 정리합니다. 효과적인 반박 문장 작성법을 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 토론 예절
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론 예절을 익히고 실전에 적용합니다. 논리와 예의를 갖춘 토론 훈련을 합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,43 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 화법과 작문 선택 시 토론 관련 문제가 출제됩니다. 토론의 원리와 전략을 이해해야 합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 토론은 논리적 사고력과 말하기 능력을 키우는 활동입니다. 주장과 근거를 체계적으로 구성하고 상대 논거의 약점을 찾는 연습을 하세요. 실전 토론 경험을 쌓으면 실력이 향상됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 토론 능력을 완성합니다. 실전 토론 연습으로 논리력과 말하기를 키웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>

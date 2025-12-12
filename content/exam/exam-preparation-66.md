@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 ---
 ## 모의고사에서 실전 감각을 유지하려면 어떻게 해야 하나요? 계속 점수가 오르락내리락해요.
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 점수 변동 원인을 분석합니다. 실전 감각을 유지할 수 있는 훈련 방법을 안내합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 점수 변동의 원인
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-점수 변동 원인을 함께 분석합니다. 문제점을 파악하고 해결책을 찾습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 실전 감각 유지 방법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 모의고사를 풀어봅니다. 실전과 같은 환경에서 연습하도록 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 오답 분석 방법
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답을 철저히 분석합니다. 같은 실수를 반복하지 않도록 취약점을 보완합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 과목별 전략 수립
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 약점을 파악하고 맞춤 전략을 세웁니다. 효율적으로 점수를 올리는 방법을 찾습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 컨디션 관리
@@ -101,6 +101,42 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 **Q. 실전에서만 점수가 떨어져요.**
 
 실전 긴장감 때문입니다. 연습할 때도 실전처럼 긴장감을 가지고 풀어보세요.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

@@ -13,7 +13,7 @@ tags:
 - idiom
 - 관용표현
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0379_cXjcd98U4mY.jpg"
 ---
 
 ## kick the bucket이 양동이를 차다가 아니라고요? 단어는 아는데 문장이 이해가 안 되시죠.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이미지 연상법으로 이디엄을 익힙니다. 유래와 함께 배워 오래 기억합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 신체 부위 이디엄
@@ -31,7 +31,7 @@ give someone a hand는 도와주다입니다. keep an eye on은 주시하다, �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신체 부위별로 이디엄을 분류합니다. 상황극으로 실제 사용법을 익힙니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 색깔 이디엄
@@ -42,7 +42,7 @@ out of the blue는 갑자기, 뜻밖에입니다. once in a blue moon은 아주 
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-색깔별, 주제별로 이디엄을 정리합니다. 그림과 함께 연상해서 기억합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 수능 빈출 이디엄
@@ -51,7 +51,7 @@ take for granted는 당연하게 여기다입니다. take into account는 고려
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 빈출 이디엄을 우선 정리합니다. 실전 지문으로 사용법을 확인합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 비유적 표현
@@ -60,7 +60,7 @@ a piece of cake는 아주 쉬운 일입니다. hit the nail on the head는 정�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비유의 원리를 설명합니다. 문맥 속에서 자연스럽게 익히도록 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ a piece of cake는 아주 쉬운 일입니다. hit the nail on the head는 정�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 수업으로 이디엄을 효과적으로 익힙니다. 이미지 연상법과 실전 적용으로 빠르게 정복합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>

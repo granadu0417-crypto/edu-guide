@@ -11,7 +11,7 @@ tags:
 - 함축의미
 - 행간읽기
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0461_4o3FFu9jenw.jpg"
 ---
 
 ## 지문에 안 나온 내용을 어떻게 추론하냐고요? 행간을 읽는 방법이 있습니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 추론 능력 수준을 진단합니다. 논리적 사고 훈련을 체계적으로 진행합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 추론의 유형
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 유형을 분류합니다. 유형별 해결 전략을 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 추론 문제 해결 전략
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추론 문제 풀이 과정을 단계별로 연습합니다. 실전 문제를 함께 분석합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 논리적 오류 피하기
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 오류 패턴을 분석합니다. 적절한 추론 범위를 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 영역별 추론 문제 풀이 전략을 정리합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,47 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 항상 지문에 근거가 있는지 확인하세요. 추론은 상상이 아닙니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
 ## 마무리
 
 추론 능력은 국어 고득점의 열쇠입니다. 유형별 접근법을 익히고 논리적 오류를 피하는 연습을 하세요. 꾸준한 훈련으로 행간을 읽는 능력이 향상됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 추론 능력을 체계적으로 향상시킵니다. 유형별 전략과 실전 연습을 병행합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>

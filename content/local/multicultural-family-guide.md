@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "다문화가정 자녀 교육 지원 완벽 가이드입니다. 한국어 교육, 학교 적응, 학습 지원, 장학금, 대입 특별전형까지 다문화가정을 위한 모든 정보를 안내합니다."
 tags: ["다문화가정", "다문화교육", "한국어교육", "다문화가정지원", "다문화장학금", "이중언어", "다문화학생", "다문화특별전형"]
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0296_1K9T5YiZ2WU.jpg"
 ---
 
 ## 다문화가정 자녀 교육 어떻게 지원받을 수 있나요? 한국어 교육이나 학교 적응이 걱정되시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 현재 상황을 파악합니다. 한국어 수준과 학습 필요에 맞는 지원을 안내합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 한국어 교육 지원
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한국어 능력 수준을 평가합니다. 학교와 다문화가족지원센터의 교육 프로그램을 연결합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 이중언어 교육과 학교 적응
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이중언어 능력 유지 방법을 안내합니다. 학교 적응 프로그램을 연결합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 장학금과 학습 지원
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장학금 신청 방법을 안내합니다. 학습 지원 프로그램을 연결합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 대입 특별전형
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대입 특별전형 준비를 지원합니다. 자기소개서와 면접 준비를 함께합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문

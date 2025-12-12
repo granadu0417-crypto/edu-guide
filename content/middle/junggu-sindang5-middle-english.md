@@ -20,7 +20,7 @@ tags:
   - 장원중
   - 영어문법
   - 영어독해
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0851_e3aA8wXfIPk.jpg"
 
 ---
 ## 중구 신당5동 중학생, 영어 현재분사와 과거분사가 헷갈린다면
@@ -29,7 +29,7 @@ The boring movie와 The bored student에서 boring과 bored의 차이가 무엇�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 현재분사와 과거분사의 이해 수준을 진단합니다. 분사의 형용사적 쓰임, 능동과 수동의 의미 차이를 체계적으로 훈련합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 현재분사와 과거분사가 어려운 이유
@@ -40,7 +40,7 @@ The boring movie와 The bored student에서 boring과 bored의 차이가 무엇�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현재분사와 과거분사의 의미 차이를 정확히 구분합니다. 다양한 문맥에서 올바른 분사를 선택하는 연습을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 장충중·대경중·장원중 영어 시험의 특징
@@ -53,7 +53,7 @@ The boring movie와 The bored student에서 boring과 bored의 차이가 무엇�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·대경중·장원중 기출 분사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -64,7 +64,7 @@ The boring movie와 The bored student에서 boring과 bored의 차이가 무엇�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 분사를 사용한 문장을 만들어보게 합니다. 현재분사와 과거분사의 선택 이유를 설명하는 훈련을 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -77,18 +77,18 @@ The boring movie와 The bored student에서 boring과 bored의 차이가 무엇�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 분사 내용을 정확히 이해합니다. 분사를 자유롭게 활용하는 능력을 키웁니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 분사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -106,6 +106,18 @@ The boring movie와 The bored student에서 boring과 bored의 차이가 무엇�
 **Q. 분사는 왜 형용사처럼 쓰이나요?**
 
 분사는 동사에서 파생되어 명사를 수식하는 형용사 역할을 합니다. a sleeping baby = a baby who is sleeping
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
 
 ## 마무리
 

@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "대구 영어 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·4대 영역 학습·내신 수능 대비·1:1 과외 추천"
 tags: ["대구영어과외", "대구과외", "영어과외", "대구교육", "초등영어", "중등영어", "고등영어", "영어회화"]
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 ---
 
 ## 영어 단어는 외우는데 문장이 안 읽혀요. 듣기는 괜찮은데 말하기가 너무 어렵고요. 어떻게 해야 할까요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 영어 실력을 정확히 진단합니다. 문법, 독해, 어휘, 듣기 중 어느 부분이 약한지 파악하고 맞춤 수업을 진행합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 대구 지역 중학교 영어 내신 특징
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 영작 훈련을 집중적으로 하고, 자주 틀리는 문법을 정리합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 대구 지역 고등학교 영어 내신 특징
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 다양한 주제의 지문을 읽어 독해력을 키우고, 추론 문제 풀이 전략을 익힙니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ### 수성구 일반고
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별로 다른 커리큘럼을 적용합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 대구 지역별 교육 특성
@@ -89,7 +89,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육 환경을 분석합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 선생님 선택 가이드
@@ -100,7 +100,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업 후 결정할 수 있도록 도와드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 수능 영어 대비 전략
@@ -113,11 +113,11 @@ EBS 연계율이 높으므로 수능특강과 수능완성을 철저히 학습�
 
 대구 지역 영어 과외 비용은 다음과 같습니다.
 
-**초등학생**은 주1회 기준 15만원에서 20만원, 주2회 기준 25만원에서 35만원 선입니다.
+**초등학생**은 주1회 12만원 - 22만원, 주2회 25만원 - 38만원 선입니다.
 
-**중학생**은 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원이 일반적입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**고등학생**은 주1회 기준 22만원에서 32만원, 주2회 기준 38만원에서 55만원 정도입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다. **고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 원어민 회화 수업은 별도 비용이 책정됩니다. 수성구는 평균보다 높은 편입니다.
 

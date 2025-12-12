@@ -16,7 +16,7 @@ tags:
 - 인과관계
 - 역사분석
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0672_z8XO8BfqpYc.jpg"
 ---
 
 ## 역사가 암기 과목처럼 느껴지고 사료 해석이 막막하다고요? 사건의 인과 관계부터 찾으면 됩니다.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-역사적 사건의 인과 관계를 분석합니다. 시대별 흐름을 연결하여 정리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 사료 해석의 기본
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사료 분석의 4단계를 훈련합니다. 기출 사료를 통해 키워드 찾기를 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 한국사의 흐름
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한국사 시대 구분과 핵심 사건을 정리합니다. 왕별 업적을 연결하여 설명합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 세계사의 흐름
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세계사 주요 사건을 시대순으로 정리합니다. 한국사와 세계사를 동시대로 비교합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 인과 관계 분석
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 사건의 인과 관계를 분석합니다. 원인과 결과를 연결하는 사고력을 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 대비
@@ -84,11 +84,35 @@ featured_image: "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=120
 
 한국사를 먼저 탄탄히 한 후 세계사를 병행하면 이해도가 높아집니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 역사는 흐름과 인과 관계가 핵심입니다. 사건을 암기하기보다 연결하여 이해하세요. 사료 해석 연습을 꾸준히 하면 역사적 사고력이 길러집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 역사의 흐름을 완벽히 이해합니다. 사료 해석과 문제 풀이를 함께합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>

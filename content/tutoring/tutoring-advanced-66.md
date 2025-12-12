@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0940_pLRAaxH0vHA.jpg"
 ---
 
 ## 국어는 한국어인데 왜 이렇게 어려운 거예요? 독해력을 어떻게 키워야 하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문을 어떻게 읽어야 하는지부터 알려드립니다. 읽는 방법이 있습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 국어가 어려운 이유는 뭔가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 유형별로 읽는 방법을 다르게 알려드립니다. 문학은 문학 방식으로, 비문학은 비문학 방식으로요.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 독해력은 어떻게 키우나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문을 함께 읽으면서 요약하는 연습을 합니다. 핵심을 짚어내는 훈련이 독해력입니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 문학과 비문학, 뭐가 다른가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학과 비문학을 번갈아가며 학습합니다. 한쪽만 하면 균형이 안 맞습니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 학습에 대해 더 궁금한 점이 있으시면 문의하세요. 독해력 향상 전략을 함께 세워드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 마무리

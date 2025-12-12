@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0615_mi3xdm-GQs4.jpg"
 ---
 ## 중학교 때 공부 안 해도 잘 나왔는데, 고등학교는 왜 이렇게 어려운가요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 때 공부 습관을 점검합니다. 잘못된 습관이 있으면 고치고, 고등학교에 맞는 새로운 습관을 만듭니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 고교 적응의 핵심
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 중간고사 전에 모의 시험 공부를 해봅니다. 실제로 3주 전부터 어떻게 준비해야 하는지 경험하게 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과목별 적응 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 고등학교 수준이 어떤지 보여줍니다. 중학교 때와 얼마나 다른지 체감하면 위기감이 생깁니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 첫 내신 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 4주 전부터 주별 계획을 세웁니다. 계획대로 실천하는지 매주 점검합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 하루 학습 루틴
@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학교 일정에 맞춰 루틴을 조정합니다. 야자 시간, 학원 시간을 고려해서 현실적인 계획을 세웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 주의사항
@@ -100,11 +100,31 @@ featured_image: "https://images.unsplash.com/photo-1592280771190-3e2e4d977f1e?w=
 
 **Q. 학원을 많이 다녀야 하나요?**
 
-많이 다닌다고 성적이 오르지 않습니다. 자습 시간이 확보되어야 합니다. 학원은 2~3개면 충분합니다.
+많이 다닌다고 성적이 오르지 않습니다. 자습 시간이 확보되어야 합니다. 학원은 2-3개면 충분합니다.
 
 **Q. 고1 내신이 망하면 대학 못 가나요?**
 
 아닙니다. 고2, 고3에서 올릴 수 있습니다. 중요한 건 고1 때 공부 방법을 익히는 겁니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
 
 ## 마무리
 

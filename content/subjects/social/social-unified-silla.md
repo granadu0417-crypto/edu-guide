@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0711_pvHma684eEI.jpg"
 ---
 
 ## 삼국 통일 과정과 남북국 시대가 헷갈린다고요? 신라의 통일 전쟁부터 따라가면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼국 통일 과정을 시간순으로 정리합니다. 나당 전쟁의 의미를 분석합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 삼국 통일 과정
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼국 통일의 과정을 연표로 정리합니다. 통일의 의의와 한계를 분석합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 통일신라의 발전
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신문왕의 개혁을 정리합니다. 통일신라의 지방 행정 체제를 설명합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 통일신라의 문화
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-통일신라 문화재의 특징을 정리합니다. 불교 문화의 발전 과정을 설명합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 남북국 시대
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발해의 건국과 발전을 정리합니다. 통일신라와 발해의 관계를 분석합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 통일신라를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>

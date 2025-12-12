@@ -10,7 +10,7 @@ tags:
 - 경시대회
 - 중등과외
 - 영재교육
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0386_cEiCBMK_Ob8.jpg"
 ---
 ## 이미 1등급인데 과외가 필요할까요?
 
@@ -18,18 +18,18 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순히 답을 알려주지 않습니다. 왜 이 방법을 썼는지, 다른 풀이는 없는지 함께 탐구합니다. 스스로 생각하는 힘을 키웁니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 심화 과외가 필요한 학생
 
-현재 1~2등급이고 학교 시험에서 90점 이상을 받는 학생에게 적합합니다. 기본 개념은 완벽히 알고 있지만 어려운 문제에서 막히거나, 경시대회나 특목고를 준비하는 학생이 대상입니다.
+현재 1-2등급이고 학교 시험에서 90점 이상을 받는 학생에게 적합합니다. 기본 개념은 완벽히 알고 있지만 어려운 문제에서 막히거나, 경시대회나 특목고를 준비하는 학생이 대상입니다.
 
 기초가 부족한 상태에서 심화를 시도하면 역효과가 납니다. 현행 과정을 완벽히 이해한 후에 심화로 넘어가야 합니다. 순서가 중요합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 현재 수준을 정확히 진단합니다. 기본이 탄탄한지 확인한 후 심화 수업을 시작합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 심화 수업의 특징
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고난도 문제를 함께 풀면서 사고 과정을 공유합니다. 틀린 문제는 왜 틀렸는지, 어떻게 접근해야 하는지 깊이 분석합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 경시대회와 특목고 준비
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경시대회 기출문제를 분석하고 유형별로 연습합니다. 특목고 면접까지 대비할 수 있도록 종합적으로 지도합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 주의할 점
@@ -62,14 +62,14 @@ featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간에는 내신 대비로 전환합니다. 심화와 내신의 균형을 잡으며 전체적인 성적 관리를 돕습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
 
 ## 자주 묻는 질문
 
-**Q. 2~3등급인데 심화 과외를 해도 되나요?**
+**Q. 2-3등급인데 심화 과외를 해도 되나요?**
 
 기본부터 먼저 잡으세요. 1등급이 안정된 후에 심화로 넘어가는 것이 효과적입니다.
 

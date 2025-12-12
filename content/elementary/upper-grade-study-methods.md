@@ -10,7 +10,7 @@ tags:
 - 초등학습
 - 학습방법
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0142_duPw_zX-A7I.jpg"
 ---
 ## 4학년 되더니 갑자기 성적이 떨어졌나요?
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고학년 학생에게 맞는 학습 방법을 알려줍니다. 암기가 아닌 이해 중심으로, 개념을 연결해서 전체 그림을 파악하게 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 사회 공부법
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-배운 내용을 직접 설명하게 합니다. 설명할 수 있어야 진짜 이해한 것입니다. 막히는 부분이 있으면 그 부분을 다시 잡아줍니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 지도와 자료 활용하기
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성 연습을 합니다. 키워드만 나열하지 말고 완전한 문장으로 쓰는 연습을 반복합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 과학 공부법
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 개념을 그림으로 그려보게 합니다. 증발, 응결 같은 개념을 화살표와 그림으로 표현하면 오래 기억에 남습니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 예습 수업 복습 사이클
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작할 때 지난 시간 내용을 간단히 점검합니다. 기억이 안 나면 그 부분부터 복습하고 넘어갑니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 문제집 활용법과 시험 대비

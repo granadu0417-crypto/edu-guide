@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 모의고사
 - 수능
-featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0628_4wSQmHIlD0Q.jpg"
 ---
 ## 모의고사 등급이 오락가락해요. 어떻게 해야 안정적인 등급이 나올까요?
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 성적표를 분석합니다. 어떤 영역에서 점수가 흔들리는지 파악하고 그 부분을 집중 보완합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 모의고사 대비의 핵심
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 후 오답 분석을 함께 합니다. 틀린 이유를 파악하고 같은 유형 문제를 더 풀어봅니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과목별 모의고사 전략
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 취약 영역을 파악하고 집중 훈련합니다. 어디서 점수가 빠지는지 알아야 대비할 수 있습니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 모의고사 활용법
@@ -61,12 +61,12 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 노트를 함께 만듭니다. 어떻게 정리해야 효과적인지 방법을 알려드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 등급 안정화 방법
 
-기본 문제를 확실히 맞추세요. 1~2등급을 가르는 건 어려운 문제가 아니라 기본 문제입니다.
+기본 문제를 확실히 맞추세요. 1-2등급을 가르는 건 어려운 문제가 아니라 기본 문제입니다.
 
 약점을 집중 공략하세요. 모의고사마다 틀리는 유형이 있습니다. 그 유형을 집중 훈련하세요.
 
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-약점 유형을 파악하고 집중 훈련합니다. 같은 유형을 반복해서 풀면 실력이 안정됩니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 모의고사 일정 활용
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 일정에 맞춰 학습 계획을 세웁니다. 시험 전 2주가 가장 중요한 준비 기간입니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 주의사항
@@ -111,6 +111,22 @@ featured_image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=120
 **Q. 학평과 모평 중 뭐가 더 중요한가요?**
 
 평가원이 출제하는 모평이 수능과 유사합니다. 모평 성적을 더 중요하게 보세요.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

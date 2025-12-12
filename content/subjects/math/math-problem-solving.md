@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0551_kZO9xqmO_TA.jpg"
 ---
 
 ## 문제만 보면 어디서부터 시작해야 할지 모르겠다고요? 시간은 오래 걸리고 자꾸 막힌다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 풀이 4단계를 체화시킵니다. 문제를 보는 순간 접근법이 떠오르도록 훈련합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 1단계 문제 이해
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 꼼꼼히 읽는 습관을 기릅니다. 조건을 놓치지 않도록 훈련합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 2단계 풀이 계획
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관련 개념을 떠올리고 전략을 선택하는 사고 과정을 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 3단계 풀이 실행
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-풀이 과정을 깔끔하게 쓰는 습관을 기릅니다. 중간 과정을 생략하지 않습니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 4단계 답 검증
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검산을 습관화합니다. 실수를 스스로 잡을 수 있도록 훈련합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 문제 풀이 전략을 체계적으로 훈련합니다. 개인별 약점을 파악하고 보완합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 

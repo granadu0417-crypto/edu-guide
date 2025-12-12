@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0843_hQQbrgB-mfs.jpg"
 
 ---
 ## 중구 중림동 중학생, 영어 명사절이 어렵다면
@@ -28,7 +28,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 명사절의 이해 수준을 진단합니다. that절, whether/if절, 의문사절의 쓰임을 체계적으로 훈련합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 명사절이 어려운 이유
@@ -39,7 +39,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명사절의 종류와 역할을 정확히 구분합니다. 문장에서 명사절을 찾고 해석하는 연습을 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 덕수중·환일중·장원중 영어 시험의 특징
@@ -52,7 +52,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·환일중·장원중 기출 명사절 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 명사절을 포함한 문장을 만들어보게 합니다. 문장에서 명사절의 역할을 설명하는 훈련을 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,18 +76,18 @@ I know that he is honest에서 that절이 왜 목적어 역할을 하는지, 명
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 절 내용을 정확히 이해합니다. 복잡한 문장을 자유롭게 분석하는 능력을 키웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 명사절 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -104,7 +104,23 @@ that은 접속사로 뒤에 완전한 문장이 오고, what은 관계대명사�
 
 **Q. if와 whether는 같은 의미인가요?**
 
-둘 다 "~인지 아닌지"를 뜻하지만, whether는 or not과 함께 쓸 수 있고 주어 자리에도 올 수 있습니다.
+둘 다 "-인지 아닌지"를 뜻하지만, whether는 or not과 함께 쓸 수 있고 주어 자리에도 올 수 있습니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
 
 ## 마무리
 

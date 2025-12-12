@@ -16,7 +16,7 @@ tags:
 - 창의적사고
 - 문제해결
 - 과학
-featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 ---
 
 ## 과학 원리가 일상과 어떻게 연결되는지 모르겠다고요? 주변 현상을 관찰하는 것부터 시작하면 됩니다.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사에서 시작합니다. 좋아하는 것에서 과학 원리를 찾아 연결합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 가정에서의 과학
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-집에서 관찰할 수 있는 현상을 정리합니다. 각 현상에 적용되는 원리를 설명합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 교통과 통신의 과학
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이동수단별 과학 원리를 비교합니다. 실생활 기술과 교과서 개념을 연결합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 에너지와 환경
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신재생 에너지의 원리를 설명합니다. 환경 문제를 과학적으로 이해합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 시험과의 연결
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실생활 관련 기출 문제를 분석합니다. 개념과 응용을 연결하는 훈련을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,11 +80,51 @@ featured_image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=
 
 원리 이해가 깊어지고 응용 문제 해결력이 향상됩니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
 ## 마무리
 
 실생활 과학은 관찰, 탐구, 연결이 핵심입니다. 주변 현상에 호기심을 가지세요. 과학을 알면 세상이 더 재미있어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 실생활 과학을 완벽히 이해합니다. 흥미와 개념을 연결합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>

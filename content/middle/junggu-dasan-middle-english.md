@@ -19,7 +19,7 @@ tags:
 - 장충중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a9c85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0829_XxlZrSiPwpU.jpg"
 
 ---
 ## 중구 다산동 중학생, 영어 가주어 it 구문이 어렵다면
@@ -28,7 +28,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 가주어 it 구문의 이해 수준을 진단합니다. It ~ to 구문, It ~ that 구문, 진주어 파악을 체계적으로 훈련합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 가주어 it 구문이 어려운 이유
@@ -39,7 +39,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가주어 it과 대명사 it을 구분하는 연습을 합니다. 다양한 문장에서 진주어를 찾는 훈련을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 장원중·대경중·장충중 영어 시험의 특징
@@ -52,7 +52,7 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장원중·대경중·장충중 기출 it 구문 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,31 +63,31 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 가주어 구문을 만들어보게 합니다. 진주어가 무엇인지 설명하는 훈련을 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 영어 학습 전략
 
 중1은 기본 문장 구조를 배우는 시기입니다. 주어, 동사, 목적어, 보어의 위치를 익힙니다. 가주어를 배우기 전 기초를 다집니다.
 
-중2는 가주어 it 구문을 배우기 시작하는 시기입니다. It ~ to 구문, It ~ that 구문을 익힙니다. 다양한 표현을 연습합니다.
+중2는 가주어 it 구문을 배우기 시작하는 시기입니다. It - to 구문, It - that 구문을 익힙니다. 다양한 표현을 연습합니다.
 
 중3은 it 구문을 완성하는 시기입니다. 가목적어 it, 강조 구문과의 구별을 익힙니다. 고등학교 영어 문법을 미리 경험합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 it 구문 내용을 정확히 이해합니다. it 구문을 자유롭게 활용하는 능력을 키웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 it 구문 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -98,13 +98,33 @@ It is important to study hard에서 왜 It으로 시작하고 진짜 주어는 �
 
 가주어 it 뒤에는 to부정사나 that절(진주어)이 있습니다. 대명사 it은 앞에 나온 명사를 가리킵니다.
 
-**Q. It ~ to 구문 예시를 알려주세요.**
+**Q. It - to 구문 예시를 알려주세요.**
 
 It is easy to learn English. (영어를 배우는 것은 쉽다) 여기서 진주어는 to learn English입니다.
 
 **Q. 가목적어 it은 무엇인가요?**
 
 목적어가 길 때 it을 먼저 쓰고 진목적어를 뒤에 놓습니다. I find it difficult to wake up early. (일찍 일어나는 것이 어렵다)
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

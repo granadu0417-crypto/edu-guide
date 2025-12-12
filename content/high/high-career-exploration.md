@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생 진로 탐색 완벽 전략 | 적성 검사·학과 정보·전공 선택·진로 설계 1:1 맞춤 진로 상담 로드맵 [2025년]"
 tags: ["진로탐색", "진로상담", "적성검사", "전공선택", "학과정보", "진로설계", "대학전공", "직업탐색", "고등진로"]
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0644_CJmOrnngHlE.jpg"
 ---
 
 ## 진로를 어떻게 정해야 할지 모르겠어요. 좋아하는 것도 잘하는 것도 잘 모르겠어요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적성 검사와 상담을 통해 학생의 강점과 흥미를 파악합니다. 다양한 학과와 직업 정보를 함께 탐색합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자기 이해가 먼저입니다
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-적성 검사 결과를 함께 분석합니다. 학생의 강점과 흥미를 연결해 가능한 진로 방향을 제시합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학과와 직업 정보 수집
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관심 학과를 2~3개로 좁히고 심층 정보를 함께 조사합니다. 학과별 입시 전략도 함께 분석합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 계열 선택 문과와 이과
@@ -50,18 +50,18 @@ featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 적성과 희망 진로를 종합해 계열 선택을 돕습니다. 선택과목 전략도 함께 세웁니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 진로 탐색 로드맵
 
-고1은 자기 이해와 다양한 탐색의 시기입니다. 적성 검사를 받고, 여러 학과와 직업을 조사하고, 관심 분야 동아리에 참여하세요. 고2는 진로를 구체화하는 시기입니다. 관심 학과를 2~3개로 좁히고 심화 활동을 합니다.
+고1은 자기 이해와 다양한 탐색의 시기입니다. 적성 검사를 받고, 여러 학과와 직업을 조사하고, 관심 분야 동아리에 참여하세요. 고2는 진로를 구체화하는 시기입니다. 관심 학과를 2-3개로 좁히고 심화 활동을 합니다.
 
 고3은 최종 결정의 시기입니다. 지원 학과를 확정하고 수시와 정시 전략을 세웁니다. 자소서 작성이 필요한 경우 진로 스토리를 정리하고 면접을 준비합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 진로 활동을 안내합니다. 학생부 기록과 연계해 일관된 진로 스토리를 만들어갑니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문

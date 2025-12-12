@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0663_1iuxWsIZ6ko.jpg"
 ---
 ## 수학이 발목을 잡아요. 킬러 문항은 손도 못 대고 시간만 가요.
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 진단합니다. 개념 이해도, 계산 정확도, 문제 해결 속도를 파악해서 맞춤 전략을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 수능 수학의 구조
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 등급에 맞춰 전략을 세웁니다. 1등급을 노리면 킬러까지, 2등급을 노리면 킬러 전까지 확실히 맞추는 게 핵심입니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 개념 학습
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념을 처음부터 정리합니다. 왜 이런 공식이 나왔는지, 어디에 쓰이는지 설명합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 유형별 문제 풀이
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출을 유형별로 분석합니다. 각 유형의 풀이법을 정리하고 반복 연습합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 킬러 문항 대비
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-킬러 문항의 접근법을 알려줍니다. 어떻게 조건을 해석하고, 어떻게 풀이를 시작하는지 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 실수 줄이기
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실수 유형을 분석합니다. 어디서 실수가 나는지 파악하고 보완합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 주의사항
@@ -110,6 +110,46 @@ featured_image: "https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?w=
 **Q. 수학II가 너무 어려워요.**
 
 개념이 부족한 겁니다. 공식만 외우지 말고 왜 그런지 이해하는 게 먼저입니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 성적이 많이 떨어졌는데 따라갈 수 있을까요?**
+
+가능합니다. 부족한 부분을 정확히 진단하고, 기초부터 차근차근 잡아갑니다. 포기하지 않으면 반드시 오릅니다.
+
+**Q. 다른 과목도 함께 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 수학과 영어를 함께 가르치시는 분도 계시고, 한 과목 전문인 분도 계십니다. 상담 시 확인해 드립니다.
+
+**Q. 첫 수업 전에 준비할 것이 있나요?**
+
+최근 시험지나 오답노트가 있으면 가져와 주세요. 학생의 현재 실력을 파악하는 데 도움이 됩니다.
+
+**Q. 시험 범위가 넓을 때는 어떻게 대비하나요?**
+
+우선순위를 정해서 핵심 단원부터 집중 공략합니다. 기출 분석을 통해 자주 나오는 유형을 파악하고, 취약 부분에 시간을 더 투자합니다.
+
+**Q. 중간고사와 기말고사 대비가 다른가요?**
+
+범위와 난이도가 다르므로 전략도 달라집니다. 기말고사는 범위가 넓어 전체적인 복습이 중요하고, 중간고사는 심화 문제 대비가 더 중요한 경우가 많습니다.
+
+**Q. 과외 시작 전 테스트가 있나요?**
+
+첫 수업에서 간단한 진단 테스트를 진행합니다. 학생의 현재 실력과 취약점을 파악하여 맞춤 커리큘럼을 설계합니다.
 
 ## 마무리
 

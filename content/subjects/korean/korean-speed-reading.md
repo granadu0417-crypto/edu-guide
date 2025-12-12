@@ -11,7 +11,7 @@ tags:
 - 스피드리딩
 - 읽기속도
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0494_cIOo7AXHiZ4.jpg"
 ---
 
 ## 지문 읽는 속도가 느려서 시간이 부족하다고요? 속독 기술을 익히면 됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 읽기 속도를 측정합니다. 맞춤형 속독 훈련을 진행합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 읽기 습관 점검
@@ -29,18 +29,18 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-읽기 습관을 진단합니다. 개선이 필요한 부분을 파악합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 덩어리 읽기
 
-단어 단위가 아닌 의미 단위로 읽습니다. 한 줄을 2~3개의 덩어리로 나누어 인식하세요. 처음에는 어렵지만 연습하면 자연스러워집니다. 이 기술이 속독의 핵심입니다.
+단어 단위가 아닌 의미 단위로 읽습니다. 한 줄을 2-3개의 덩어리로 나누어 인식하세요. 처음에는 어렵지만 연습하면 자연스러워집니다. 이 기술이 속독의 핵심입니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덩어리 읽기 훈련을 합니다. 단계적으로 범위를 넓혀갑니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 핵심 파악하기
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 파악 방법을 훈련합니다. 실제 지문으로 연습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 시험 활용
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 상황에서의 속독법을 훈련합니다. 시간 측정 연습을 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,11 +69,47 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 **Q. 얼마나 연습해야 하나요?**
 
-매일 15~20분씩 꾸준히 하세요. 한 달이면 효과가 나타납니다.
+매일 15-20분씩 꾸준히 하세요. 한 달이면 효과가 나타납니다.
 
 **Q. 모든 글을 빨리 읽어야 하나요?**
 
 아닙니다. 글의 종류와 목적에 따라 속도를 조절하세요.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 
@@ -81,5 +117,5 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 속독 능력을 키웁니다. 읽기 습관 교정과 실전 훈련을 함께합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>

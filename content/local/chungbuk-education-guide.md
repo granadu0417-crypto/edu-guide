@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "충북도의 교육 환경을 완벽 분석합니다. 청주·충주·제천 학원가부터 충북대·한국교원대 과외, 세종 접근성까지 충북 지역 맞춤 교육 정보를 제공합니다."
 tags: ["충북교육", "충북학원", "충북과외", "청주학원", "청주과외", "충북대과외", "한국교원대과외", "세종접근성", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0184_0QuFmCS8K24.jpg"
 ---
 
 ## 충북에서 아이 교육 어떻게 해야 하나요? 청주는 괜찮은데 충주나 제천은 학원이 부족한 것 같아서 걱정이에요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-충북 지역 교육 환경을 분석합니다. 거주 지역에 맞는 최적의 학습 방법을 안내합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 충북 주요 교육 지역
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육 인프라를 파악합니다. 통학 거리와 비용을 고려한 교육 계획을 세웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 충북 대학생 과외 활용
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 과외 선생님을 연결합니다. 충북대와 교원대 인재풀을 활용합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 온라인 교육 활용 전략
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인 교육을 병행합니다. 학생 상황에 맞는 최적의 조합을 찾아드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 교육비 절감 방법
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예산에 맞는 교육 계획을 세웁니다. 비용 대비 효과를 극대화하는 방법을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,6 +73,42 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 **Q. 온라인만으로 충분한가요?**
 
 오프라인과 병행이 최선입니다. 진도와 동기부여는 오프라인에서 심화는 온라인으로 하세요.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
 
 ## 마무리
 

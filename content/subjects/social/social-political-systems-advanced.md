@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0695_2e4vwwDFoKw.jpg"
 ---
 
 ## 민주주의와 권위주의 체제가 헷갈리고 정치 제도 비교가 복잡하다고요? 정치 체제의 유형과 특징부터 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정치 체제의 분류 기준을 먼저 설명합니다. 각 체제의 특징을 비교 분석합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 민주주의 정치 체제
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민주주의의 핵심 원리를 정리합니다. 직접 민주주의와 간접 민주주의를 비교합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 대통령제와 의원내각제
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대통령제와 의원내각제의 장단점을 비교표로 정리합니다. 각 제도를 채택한 국가를 사례로 분석합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 권위주의 체제
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-권위주의의 유형과 특징을 분류합니다. 민주화 과정의 사례를 분석합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 정치 체제의 변화
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정치 체제 변화의 요인을 분석합니다. 한국의 민주화 과정을 정리합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 정치 체제를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>

@@ -14,7 +14,7 @@ tags:
 - 중학교
 - 진로탐색
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 ---
 ## 중학교 3년을 그냥 보내면 안 됩니다
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 3년 전체를 보는 로드맵을 함께 그립니다. 학년별로 집중해야 할 것을 정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 중학교가 중요한 진짜 이유
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 진도보다 기초 실력 쌓기에 집중합니다. 스스로 공부하는 힘을 키웁니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 핵심 과제
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 과제에 집중합니다. 지금 해야 할 일에 에너지를 집중합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 효과적인 학습 방법
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 학습 방법을 가르칩니다. 오답 분석을 철저히 합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 내신 시험 대비
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 계획을 세웁니다. 서술형 문제 대비를 철저히 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 진로 탐색
@@ -81,7 +81,7 @@ featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사를 함께 찾아갑니다. 공부와 진로를 연결해 동기를 부여합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -99,6 +99,26 @@ featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=
 **Q. 선행 학습은 어느 정도 해야 하나요?**
 
 과도한 선행은 역효과입니다. 현재 과정을 완벽히 이해하는 게 먼저입니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
 
 ## 마무리
 

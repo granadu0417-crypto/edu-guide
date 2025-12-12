@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "영어 과학 주제 어휘 완벽 정복 | 물리·화학·생물·지구과학 필수 어휘, 1:1 맞춤 어휘 지도 [2025년]"
 tags: ["영어", "어휘", "과학", "science vocabulary", "수능", "독해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0423_4OdjDeB78GM.jpg"
 ---
 
 ## 과학 지문에 나오는 영어 단어가 너무 어렵다고요? 전문 용어 때문에 지문을 이해 못 한다고 느끼시죠.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 빈출 과학 어휘를 주제별로 정리합니다. 효율적인 학습 순서를 제시합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 분야별 핵심 어휘
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리 화학 생물 지구과학으로 분류하여 학습합니다. 연관 단어를 함께 외워 효율을 높입니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 과학 지문 독해 팁
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 지문의 구조와 연결어를 분석합니다. 지문 유형별 독해 전략을 가르칩니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 효과적인 학습법
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어근 학습과 문맥 학습을 병행합니다. 실전 지문으로 적용 연습을 합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -61,12 +61,36 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 전문 용어와 수동태가 많기 때문입니다. 핵심 어휘만 알면 구조는 단순합니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 과학 어휘는 주제별로 체계적으로 정리하면 쉽게 정복할 수 있습니다. 매일 10개씩 10일이면 100개를 마스터할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 어휘 전문 1:1 과외로 효율적으로 학습합니다. 실전 지문으로 연습하여 빠르게 실력을 향상시킵니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 

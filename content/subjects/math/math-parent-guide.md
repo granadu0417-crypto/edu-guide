@@ -17,7 +17,7 @@ tags:
 - 교육정보
 - '2025'
 author: 에듀코리아 수학교육연구소
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0547_TJxotQTUr8o.jpg"
 ---
 
 ## 아이 수학 성적이 걱정되는데 어떻게 도와줘야 할지 모르겠다고요? 직접 가르치자니 싸우게 되고 막막하시죠.
@@ -26,16 +26,16 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과 정기적으로 소통합니다. 학생 상황을 공유하고 가정에서 지원할 부분을 안내드립니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 점수대별 전략
 
-50점 미만은 기초가 부족합니다. 쉬운 개념부터 시작하고 1:1 과외가 필수이며 6개월 집중이 필요합니다. 50~70점은 개념 정리와 유형 연습이 필요하고 학원이나 과외로 3~6개월 집중합니다. 70~85점은 심화 문제와 실수 줄이기가 목표이고 과외 추천입니다. 85점 이상은 고난도 도전과 시간 단축이 목표이고 심화 과외로 유지 관리합니다. 현재 수준을 정확히 파악하고 단계에 맞는 전략을 세우세요.
+50점 미만은 기초가 부족합니다. 쉬운 개념부터 시작하고 1:1 과외가 필수이며 6개월 집중이 필요합니다. 50-70점은 개념 정리와 유형 연습이 필요하고 학원이나 과외로 3-6개월 집중합니다. 70-85점은 심화 문제와 실수 줄이기가 목표이고 과외 추천입니다. 85점 이상은 고난도 도전과 시간 단축이 목표이고 심화 과외로 유지 관리합니다. 현재 수준을 정확히 파악하고 단계에 맞는 전략을 세우세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준을 정확히 진단합니다. 점수대에 맞는 맞춤 전략으로 단계적 향상을 도와드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 대화법과 환경 조성
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긍정적인 분위기에서 수업합니다. 학생의 자존감을 높이고 수학에 대한 자신감을 키워줍니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학원 vs 과외 선택
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 학습 방법을 제안합니다. 학원과 병행하거나 과외만으로도 효과적인 학습이 가능합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -66,11 +66,35 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 **Q. 과외 비용이 부담되는데요?**
 
-그룹 과외로 30~40% 절감하거나 온라인으로 저렴하게 하거나 인강과 병행하는 방법이 있습니다.
+그룹 과외로 30-40% 절감하거나 온라인으로 저렴하게 하거나 인강과 병행하는 방법이 있습니다.
 
 **Q. 아이와 수학 때문에 싸워요.**
 
 직접 가르치지 말고 전문가에게 맡기세요. 부모는 지원만 하고 결과보다 과정을 칭찬하세요. 관계가 성적보다 중요합니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 
@@ -78,6 +102,6 @@ featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님과 함께 자녀 학습을 관리합니다. 정기적 피드백으로 가정과 연계하여 효과를 극대화합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 

@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 과학교육연구소
-featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0638_44yHbssvRDI.jpg"
 ---
 
 ## 엔탈피 계산이 헷갈리고 발열 반응과 흡열 반응 구분이 어렵다고요? 에너지 출입의 방향부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-발열 반응과 흡열 반응의 에너지 다이어그램을 비교합니다. 엔탈피 부호의 의미를 정확히 이해합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 엔탈피와 반응열
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표준 생성 엔탈피 표를 활용합니다. 반응 엔탈피 계산을 단계별로 연습합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 헤스의 법칙
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헤스의 법칙을 적용하는 문제를 풀어봅니다. 반응식 조합을 연습합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 결합 에너지
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-결합 에너지를 이용한 반응열 계산을 연습합니다. 결합의 세기와 안정성을 연결합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 시험 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 반응 엔탈피 계산과 에너지 다이어그램 해석을 집중 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -87,5 +87,5 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 열화학을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>

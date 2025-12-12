@@ -13,7 +13,7 @@ tags:
 - 창의력
 - 초등1학년
 - 초등교육
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"
 ---
 ## 내년에 초등학교 들어가는데, 뭘 준비해야 할지 막막하시죠?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 전 아이들은 학교생활을 미리 연습합니다. 앉아서 듣기, 손 들고 말하기 같은 기본 규칙을 익힙니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 핵심 준비 사항
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 전에 한글을 완전히 익히게 합니다. 받침 있는 글자까지 읽을 수 있으면 수업 따라가기가 수월합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 학교 적응 준비
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 필요한 말하기를 연습합니다. 모르겠어요, 다시 설명해 주세요 같은 표현을 익히게 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 입학 전 학습 준비
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 전 아이의 한글 수준을 점검합니다. 부족하면 입학 전까지 집중해서 채웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 가정에서의 역할
@@ -73,13 +73,13 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 생활 습관으로는 혼자 화장실 가기, 손 씻기, 가방 챙기기, 신발 신기가 되어야 합니다.
 
-학습 준비로는 자기 이름 읽고 쓰기, 간단한 단어 읽기, 1~20 세기가 필요합니다.
+학습 준비로는 자기 이름 읽고 쓰기, 간단한 단어 읽기, 1-20 세기가 필요합니다.
 
 사회성으로는 친구와 놀기, 차례 지키기, 도움 요청하기를 할 수 있어야 합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 전 체크리스트를 함께 점검합니다. 부족한 부분이 있으면 입학 전까지 보완합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 주의사항
@@ -103,6 +103,30 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 **Q. 적응 못 할까 봐 걱정돼요.**
 
 대부분의 아이가 한 달 정도면 적응합니다. 처음엔 힘들어해도 금방 괜찮아집니다. 부모가 불안해하면 아이도 불안해하니, 믿고 기다려주세요.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

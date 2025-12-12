@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0163_ywqa9IZB-dU.jpg"
 ---
 ## 우리 학교 시험 문제가 특이한데 어떻게 준비해야 하나요?
 
@@ -21,20 +21,20 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 먼저 분석합니다. 선생님의 출제 스타일, 기출 패턴을 파악하고 그에 맞는 대비 전략을 세웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학교별 출제 경향 분석의 중요성
 
 같은 교과서를 쓰더라도 학교마다 시험 문제가 다릅니다. 선생님마다 강조하는 부분이 다르고, 문제 유형도 다릅니다. 이 차이를 파악하는 것이 내신 공략의 핵심입니다.
 
-기출문제 분석이 가장 중요합니다. 최근 2~3년간 기출을 구해서 어떤 유형이 자주 나오는지, 서술형 비중은 얼마나 되는지 파악하세요. 패턴이 보이면 대비가 쉬워집니다.
+기출문제 분석이 가장 중요합니다. 최근 2-3년간 기출을 구해서 어떤 유형이 자주 나오는지, 서술형 비중은 얼마나 되는지 파악하세요. 패턴이 보이면 대비가 쉬워집니다.
 
 선배들에게 정보를 얻는 것도 좋습니다. 어떤 선생님이 어떤 스타일로 출제하는지, 함정 문제가 어디서 나오는지 알 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해당 학교 기출문제를 함께 분석합니다. 출제 패턴을 파악하고 자주 나오는 유형을 집중적으로 연습합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 교과서 중심 출제 대비
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서를 체계적으로 분석합니다. 핵심 개념, 예제, 탐구 활동을 모두 점검하고 시험에 나올 포인트를 짚어드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 프린트 중심 출제 대비
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-프린트를 중심으로 학습합니다. 문제 풀이뿐 아니라 개념 설명, 변형 예상 문제까지 철저히 대비합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 서술형 비중 높은 시험 대비
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 집중적으로 연습합니다. 채점 기준에 맞는 표현과 논리적 구성을 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 실전 내신 대비 일정
@@ -103,6 +103,18 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 **Q. 시험 범위가 너무 많아요.**
 
 우선순위를 정하세요. 자주 출제되는 부분, 배점이 높은 부분을 먼저 공부합니다. 모든 것을 완벽하게 하려고 하면 아무것도 못합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

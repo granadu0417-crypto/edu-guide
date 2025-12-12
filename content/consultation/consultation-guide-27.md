@@ -11,7 +11,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 ---
 
 ## 공부해야 하는 건 아는데 몸이 안 움직여요. 어떻게 하면 동기가 생길까요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 부여 상담에서는 왜 동기가 없는지 원인을 찾습니다. 목표가 없는 건지, 자신감이 없는 건지, 다른 문제가 있는 건지 파악합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 동기 부여 상담이 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기가 없다면 진로 상담을 먼저 받아보세요. 목표를 찾으면 자연스럽게 동기가 생깁니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 학습 상담은 공부 방법을 다룹니다. 심리 상담은 무기력감이나 우울감이 있을 때 도움이 됩니다. 진학 상담은 구체적인 입시 목표를 세울 때 필요합니다.
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 작은 목표부터 세웁니다. 큰 목표보다 당장 할 수 있는 작은 것부터 시작해서 성취감을 느끼게 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 학년에 따라 동기 부여 방법이 다른가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 동기 부여 방법을 안내합니다. 억지로 만드는 동기가 아니라 내면에서 우러나오는 동기를 찾도록 돕습니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,8 +84,48 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 동기에 대해 더 궁금한 점이 있으시면 문의하세요. 아이가 스스로 공부하고 싶어지는 방법을 함께 찾습니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

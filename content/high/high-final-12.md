@@ -13,7 +13,7 @@ tags:
 - 모의고사
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0658_e_RpjNyMgEM.jpg"
 ---
 ## 모의고사 성적이 들쭉날쭉해요. 이게 실력인지 운인지 모르겠어요.
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 꼼꼼히 분석합니다. 왜 틀렸는지, 어떤 유형이 약한지 파악하고 보완합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 모의고사의 역할
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사의 중요성을 설명합니다. 어떻게 활용해야 하는지 구체적으로 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 모의고사 분석법
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 후 분석 시간을 갖습니다. 틀린 문제를 함께 검토하고 약점을 파악합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 오답 분석
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트를 함께 만듭니다. 왜 틀렸는지, 어떻게 해야 안 틀리는지 정리합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시간 관리 훈련
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전처럼 시간을 재고 문제를 풉니다. 시간 관리 전략을 연습합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 6월, 9월 모평의 중요성
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-6월, 9월 모평 전에 집중 대비합니다. 실전처럼 준비하고 결과를 분석합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 주의사항

@@ -12,7 +12,7 @@ tags:
 - 검산
 - 수능
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0507_F8sCVSW4t4E.jpg"
 ---
 
 ## 계산기를 어떻게 써야 시험에서 유리한지 모르겠다고요? 암산이 나은지 계산기가 나은지 헷갈리시죠.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 계산기 사용법을 익히도록 합니다. 언제 계산기를 쓰고 언제 암산을 할지 판단력을 키웁니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 계산기 종류와 기능
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 계산기의 주요 기능을 하나씩 익힙니다. 모드 설정과 메모리 기능 활용법을 알려드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 계산기 활용 전략
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상황별 계산기 사용 전략을 훈련합니다. 시간을 절약하면서 정확성을 높이는 방법을 연습합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 계산 실수 방지
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 하는 계산 실수 패턴을 분석합니다. 검산 습관을 만들어 실수를 줄입니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 암산 능력 향상
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암산 능력을 키우는 훈련을 합니다. 계산기와 암산의 균형을 잡도록 지도합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 자주 묻는 질문

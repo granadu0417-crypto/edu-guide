@@ -12,7 +12,7 @@ tags:
 - 고려가요
 - 시조
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0438_1lhU60WK9Us.jpg"
 ---
 
 ## 향가, 고려가요, 시조가 헷갈린다고요? 장르별 특징을 정리하면 구분이 쉬워집니다.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 혼동하는 장르를 파악합니다. 시대별 특징을 비교하며 체계적으로 정리합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 향가와 고려가요
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-향가와 고려가요의 형식적 차이를 정리합니다. 대표 작품의 주제와 표현을 분석합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 시조의 이해
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시조의 3장 구조를 분석합니다. 평시조와 사설시조의 차이를 정리합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 가사 문학
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가사의 4음보 율격을 분석합니다. 대표 작품의 주제와 정서를 파악합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 고전시가 분석법
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단계별 시가 분석법을 훈련합니다. 기출 문제에 적용하는 연습을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -82,5 +82,5 @@ featured_image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 고전시가를 체계적으로 마스터합니다. 장르별 분석법을 집중 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>

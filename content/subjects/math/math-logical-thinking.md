@@ -14,7 +14,7 @@ tags:
 - 사고력수학
 - 증명
 - 수학
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0538_82HwZKi4fYI.jpg"
 ---
 
 ## 수학이 너무 기계적으로 느껴진다고요? 공식만 외워서 푸니까 응용이 안 되고 생각하는 힘이 안 기른다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-왜라는 질문을 던지며 생각하는 습관을 들입니다. 공식을 외우기 전에 이해시킵니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 논리적 추론
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연역과 귀납의 차이를 이해시킵니다. 다양한 추론 연습을 통해 논리력을 키웁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 문제 해결 전략
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 해결 4단계를 체화시킵니다. 특히 반성하기 단계를 통해 사고를 확장합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 창의적 사고와 증명
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-여러 가지 풀이 방법을 시도하도록 유도합니다. 간단한 증명부터 따라 쓰는 연습을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 패턴과 추상화
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-규칙 찾기 연습을 통해 패턴 인식 능력을 키웁니다. 추상과 구체를 오가는 사고를 훈련합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,12 +78,48 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 다른 전략을 시도하거나 잠시 쉬었다가 오세요. 잠재의식이 작동하면 새로운 시각이 생깁니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
 ## 마무리
 
 수학적 사고력은 수학의 본질이며 진정한 실력의 토대입니다. 질문하고 다양한 방법을 시도하고 논리적으로 추론하면 깊이 있는 이해와 문제 해결 능력을 얻을 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생각하는 수학을 가르칩니다. 논리적 사고력과 창의력을 함께 키웁니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 

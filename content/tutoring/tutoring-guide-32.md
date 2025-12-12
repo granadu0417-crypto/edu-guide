@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0968_Bn0QBYYwUmc.jpg"
 ---
 
 ## 온라인 과외, 정말 대면만큼 집중이 될까요? 화면으로 공부가 되나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외에서는 학생이 집중하고 있는지 수시로 확인합니다. 화면 공유로 필기를 보면서 진행합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 온라인 과외가 왜 효과적인가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업을 녹화해서 학생에게 공유합니다. 시험 기간에 돌려보면서 복습할 수 있습니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 온라인 과외는 어떻게 진행되나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-10분에 한 번씩 학생에게 질문합니다. 이해했는지 확인하고, 직접 설명해 보게 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 온라인 과외에서 가장 중요한 건 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 환경 점검을 합니다. 준비가 안 되면 수업 효과가 떨어집니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 **Q. 온라인 과외 주 몇 회가 좋나요?**
 
-대면과 같습니다. 주 1~2회가 일반적입니다. 온라인이라고 더 많이 할 필요는 없습니다.
+대면과 같습니다. 주 1-2회가 일반적입니다. 온라인이라고 더 많이 할 필요는 없습니다.
 
 **Q. 집에서 집중이 안 되면 어떡하나요?**
 
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 비대면에서도 효과를 내는 방법을 안내합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

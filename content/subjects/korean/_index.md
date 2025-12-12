@@ -6,7 +6,7 @@ description: 독해력 향상부터 문법, 문학 작품 분석까지 국어 �
 categories:
 - 국어
 - 학습법
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0431_505eectW54k.jpg"
 tags:
 - 국어
 - 독해력

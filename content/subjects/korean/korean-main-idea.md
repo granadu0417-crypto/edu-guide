@@ -11,7 +11,7 @@ tags:
 - 중심내용
 - 주제파악
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0467_1ixT36dfuSQ.jpg"
 ---
 
 ## 글의 요지를 찾는 게 어렵다고요? 중심 문장을 찾는 방법이 있습니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-요지 파악의 기본 원리를 설명합니다. 다양한 글에서 연습합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 중심 문장 찾기
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중심 문장 찾기 연습을 합니다. 문단 구조를 분석하는 훈련을 합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 글의 구조 파악
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-글의 구조별 특징을 정리합니다. 구조에 따른 요지 파악 전략을 훈련합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 요지와 주제의 차이
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-요지와 주제의 차이를 명확히 합니다. 개념별 문제 풀이 연습을 합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답의 특징을 정리하고 함정을 피하는 연습을 합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,35 @@ featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=120
 
 다양한 글을 읽으며 한 문장으로 요약하는 연습을 하세요.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 요지 파악은 독해의 기본입니다. 중심 문장 찾기와 글 구조 파악을 훈련하세요. 요지를 정확히 찾으면 전체 독해 실력이 향상됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 요지 파악 능력을 키웁니다. 기본기부터 실전 문제까지 체계적으로 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>

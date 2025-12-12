@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 ---
 ## 모의고사 점수랑 실제 수능 점수가 다르다는데, 어떻게 활용해야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사를 단순 점수 확인이 아닌 학습 도구로 활용합니다. 오답 분석, 시간 배분, 실전 감각을 키우는 방법을 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 모의고사의 역할
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사의 의미와 활용법을 설명합니다. 점수에 일희일비하지 않고 실력 향상의 도구로 사용하도록 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 모의고사 분석 방법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 분석을 함께 합니다. 틀린 원인을 파악하고 보완할 부분을 찾아 다음 시험에 반영합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 실전 감각 유지하기
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 감각을 유지하는 방법을 안내합니다. 정기적인 모의고사 풀이와 분석을 통해 수능 당일까지 감각을 유지합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시간 배분 연습
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 배분 전략을 훈련합니다. 모의고사를 풀면서 효율적인 시간 사용법을 체득할 수 있도록 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 모의고사 점수 해석
@@ -92,7 +92,7 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 
 **Q. 모의고사는 얼마나 자주 봐야 하나요?**
 
-학교에서 치르는 것 외에 혼자서도 한 달에 1~2회 정도 풀어보세요. 실전 감각 유지가 중요합니다.
+학교에서 치르는 것 외에 혼자서도 한 달에 1-2회 정도 풀어보세요. 실전 감각 유지가 중요합니다.
 
 **Q. 오답 분석 어떻게 해요?**
 
@@ -101,6 +101,42 @@ featured_image: "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=
 **Q. 모의고사 점수가 실제 수능과 얼마나 비슷해요?**
 
 경향성은 비슷하지만 똑같지는 않습니다. 모의고사는 연습이고, 실제 수능에서 더 잘 볼 수도, 못 볼 수도 있습니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

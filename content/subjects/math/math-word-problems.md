@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 계산
-featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0570_ZsWaYLImZFs.jpg"
 ---
 
 ## 문장제만 나오면 무슨 말인지 이해가 안 된다고요? 식을 어떻게 세워야 할지 막막하시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 해석 방법을 차근차근 알려드립니다. 문장을 수식으로 바꾸는 연습을 반복합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 풀이 4단계
@@ -34,18 +34,18 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4단계 풀이법을 체계적으로 훈련합니다. 각 단계를 습관으로 만들도록 반복 연습합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 핵심 기술
 
-미지수 설정은 명확히 합니다. 구하는 것을 x로 놓고 ~을 x라 하면이라고 선언합니다. 조건 찾기는 중요 정보에 밑줄을 그어 시각화합니다. 3개 더 사면, 10% 할인하면, 2배 빠르면 같은 표현을 찾으세요. 식 세우기는 조건 하나하나를 수식으로 번역합니다. 사과 3개 + 배 2개 = 5000원은 3x + 2y = 5000이 됩니다.
+미지수 설정은 명확히 합니다. 구하는 것을 x로 놓고 -을 x라 하면이라고 선언합니다. 조건 찾기는 중요 정보에 밑줄을 그어 시각화합니다. 3개 더 사면, 10% 할인하면, 2배 빠르면 같은 표현을 찾으세요. 식 세우기는 조건 하나하나를 수식으로 번역합니다. 사과 3개 + 배 2개 = 5000원은 3x + 2y = 5000이 됩니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미지수 설정과 식 세우기를 집중 훈련합니다. 조건을 찾고 번역하는 과정을 함께 연습합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 주요 유형
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별로 풀이 패턴을 정리합니다. 자주 나오는 유형부터 익히고 다양한 문제로 확장합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 흔한 실수와 시간 관리
@@ -75,12 +75,52 @@ featured_image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=
 
 답을 조건에 대입해보세요. 상식적으로 타당한지 확인하세요.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
 ## 마무리
 
 문장제는 수학의 꽃입니다. 패턴을 익히고 많이 연습하면 누구나 정복합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 해석 방법과 식 세우기 전략을 체계적으로 가르칩니다. 개인별 맞춤 지도로 문장제를 정복합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 

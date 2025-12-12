@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "특수교육의 모든 것 - 특수교육 대상, 진단 및 선정 절차, 특수학교와 특수학급, 통합교육, 개별화교육계획(IEP), 치료지원, 전환교육까지 특수교육이 필요한 자녀를 위한 완벽 가이드입니다."
 tags: ["특수교육", "장애학생", "특수학교", "특수학급", "통합교육", "IEP", "개별화교육", "치료지원", "발달장애", "교육지원"]
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0378_Z87rselSHkU.jpg"
 ---
 
 ## 우리 아이가 특수교육 대상인지 모르겠다고요? 특수학교랑 일반학교 중 어디가 맞는지도 고민이시고요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 발달 상황을 파악합니다. 특수교육 대상 여부와 적합한 교육 형태를 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 특수교육 대상자 선정 절차
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-특수교육 신청 절차를 안내합니다. 진단 평가 준비와 IEP 작성에 함께 참여합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 특수교육 형태별 비교
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 장애 정도와 성향에 맞는 교육 형태를 안내합니다. 배치 변경 절차도 안내합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 관련 서비스와 지원
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필요한 치료지원과 보조공학을 연결합니다. 방과후 돌봄 신청 방법을 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 부모의 역할과 권리
@@ -53,7 +53,7 @@ IEP 회의에 참여하는 것은 법적으로 보장된 권리입니다. 자녀
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-IEP 회의 참여 방법을 안내합니다. 가정에서 연계할 수 있는 활동을 알려드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,46 @@ IEP 회의 참여 방법을 안내합니다. 가정에서 연계할 수 있는 �
 **Q. 특수교육 대상자로 선정되면 낙인이 찍히지 않을까요?**
 
 특수교육은 필요한 지원을 받을 권리입니다. 오히려 지원 없이 어려움을 겪는 것이 자녀에게 더 힘듭니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

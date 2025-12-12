@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0159_oB2aEeE8s4A.jpg"
 ---
 ## 2주 남았는데 뭘 해야 할지 모르겠어요. 어디서부터 시작해야 하죠?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 2주 전, 현재 학습 상태를 점검하고 남은 시간에 맞는 맞춤 계획을 세웁니다. 가장 효과적인 공부 순서를 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 2주 전이 중요한 이유
@@ -32,10 +32,10 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위 전체를 빠르게 점검하고 취약한 부분을 찾아냅니다. 남은 시간에 최대 효과를 낼 수 있도록 우선순위를 정합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
-## 첫째 주 전략 (D-14 ~ D-8)
+## 첫째 주 전략 (D-14 - D-8)
 
 첫째 주는 개념 정리에 집중하세요. 교과서와 노트를 다시 훑어보고 핵심 개념을 정리합니다. 이해가 안 되는 부분은 이때 해결해야 합니다.
 
@@ -45,10 +45,10 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫째 주는 개념 완성에 집중합니다. 이해가 부족한 부분을 집중적으로 보충하고 기본 문제로 확인합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
-## 둘째 주 전략 (D-7 ~ D-1)
+## 둘째 주 전략 (D-7 - D-1)
 
 둘째 주는 문제 풀이에 집중하세요. 개념은 이미 잡혔다고 가정하고 문제에 적용하는 연습을 합니다. 다양한 유형의 문제를 풀어보세요.
 
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-둘째 주는 문제 풀이와 오답 분석에 집중합니다. 자주 틀리는 유형을 집중 훈련하고 실전 감각을 키웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과목별 마무리 전략
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 마무리 전략을 안내합니다. 각 과목의 핵심을 짚어 효율적으로 대비합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시간 관리 요령
@@ -82,7 +82,7 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 
 중간중간 휴식을 취하세요. 50분 공부하고 10분 쉬는 것이 효과적입니다. 쉬지 않고 계속하면 효율이 떨어집니다.
 
-수면 시간을 줄이지 마세요. 잠이 부족하면 집중력이 떨어지고 외운 것도 잊어버립니다. 최소 6~7시간은 자야 합니다.
+수면 시간을 줄이지 마세요. 잠이 부족하면 집중력이 떨어지고 외운 것도 잊어버립니다. 최소 6-7시간은 자야 합니다.
 
 {{< cta-dual type="final" >}}
 
@@ -103,6 +103,26 @@ featured_image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=
 **Q. 집중이 안 돼요.**
 
 환경을 바꿔보세요. 도서관이나 스터디카페에서 공부하면 집중이 잘 됩니다. 핸드폰은 멀리 두세요.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
 
 ## 마무리
 

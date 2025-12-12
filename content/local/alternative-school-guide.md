@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "대안학교 완벽 가이드 | 대안학교 종류·인가 vs 비인가·교육과정·입학 절차·학력 인정·장단점·선택 기준까지 상세 안내"
 tags: ["대안학교", "대안교육", "인가형대안학교", "비인가형대안학교", "특성화중학교", "특성화고등학교", "홈스쿨링", "자유학교"]
-featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0178_uWrumIrt6wI.jpg"
 ---
 
 ## 아이가 학교에 잘 적응하지 못해요. 대안학교가 우리 아이에게 맞을까요? 학력 인정은 어떻게 되나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 성향과 가정의 교육 철학을 파악합니다. 적합한 대안학교 유형을 함께 찾아드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 대안학교의 종류
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인가형과 비인가형의 차이를 상세히 설명합니다. 학력 인정 방식과 진학 경로를 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 대안학교의 교육 특징
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 교육과정과 생활 방식을 비교합니다. 학생에게 맞는 환경인지 함께 판단합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 입학 절차와 준비
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입학 절차와 준비사항을 안내합니다. 학교 방문 시 확인해야 할 질문 목록을 정리해드립니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 대안학교의 장단점
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 특성에 맞는지 객관적으로 평가합니다. 장단점을 솔직하게 설명해드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,42 @@ featured_image: "https://images.unsplash.com/photo-1546953304-5d96f43c2e94?w=120
 **Q. 대안학교는 공부를 안 해도 되나요?**
 
 아닙니다. 방식이 다를 뿐 학습을 중요하게 여깁니다. 오히려 자기주도 학습 능력이 더 필요합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

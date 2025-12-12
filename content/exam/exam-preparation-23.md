@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0161_GMY1JbRHlB0.jpg"
 ---
 ## 내일이 시험인데 긴장돼서 잠이 안 와요. 어떻게 해야 하죠?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날은 새로운 공부가 아닌 마무리에 집중합니다. 핵심 요약만 확인하고 컨디션 관리에 신경 씁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 시험 전날 하지 말아야 할 것
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날 해야 할 것과 하지 말아야 할 것을 명확히 구분합니다. 불필요한 불안을 줄이고 컨디션에 집중합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 효과적인 마무리 학습
@@ -45,12 +45,12 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날 마무리 학습 방법을 안내합니다. 핵심만 빠르게 확인하고 부담 없이 정리합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 컨디션 관리 전략
 
-충분한 수면이 최우선입니다. 최소 6~7시간은 자세요. 잠을 줄여서 공부한 것보다 푹 자고 맑은 머리로 시험 보는 게 낫습니다.
+충분한 수면이 최우선입니다. 최소 6-7시간은 자세요. 잠을 줄여서 공부한 것보다 푹 자고 맑은 머리로 시험 보는 게 낫습니다.
 
 가벼운 식사를 하세요. 기름진 음식이나 과식은 피하세요. 소화가 잘 되는 음식을 적당량 먹습니다.
 
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-컨디션 관리의 중요성을 강조합니다. 최상의 상태로 시험장에 들어갈 수 있도록 준비합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 준비물 점검
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-준비물 체크리스트를 함께 확인합니다. 빠뜨리는 것 없이 꼼꼼하게 준비합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 긴장 완화 방법
@@ -102,7 +102,31 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 **Q. 아침에 일찍 일어나서 공부해도 되나요?**
 
-시험 시작 2~3시간 전에 일어나는 것이 좋습니다. 너무 일찍 일어나면 시험 시간에 피곤해질 수 있습니다.
+시험 시작 2-3시간 전에 일어나는 것이 좋습니다. 너무 일찍 일어나면 시험 시간에 피곤해질 수 있습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
 
 ## 마무리
 

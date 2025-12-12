@@ -7,7 +7,7 @@ reading_time: "726줄"
 description: "고등학생을 위한 포트폴리오 구축 완전 가이드. 생활기록부 관리, 비교과 활동, 자기소개서까지 대입 포트폴리오 전략."
 categories: ["고등"]
 tags: ["포트폴리오", "생기부관리", "비교과활동", "자소서", "학생부", "대입준비", "진로활동", "동아리활동"]
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0682_9qbPV3dvna0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -18,7 +18,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로를 함께 고민합니다. 어떤 활동을 어떻게 해야 하는지 구체적으로 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 좋은 포트폴리오의 조건
@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-활동의 깊이를 높이는 방법을 알려줍니다. 같은 활동도 어떻게 기록하느냐에 따라 달라집니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 학년별 전략
@@ -44,7 +44,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 로드맵을 세웁니다. 지금 해야 할 것과 나중에 할 것을 구분해드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 세특 관리
@@ -63,11 +63,11 @@ sitemap:
 
 진로 활동은 필수입니다. 대학 방문, 직업 체험, 멘토링 등을 경험하세요. 진로 독서도 연간 10권 이상 하면 좋습니다.
 
-봉사 활동은 양보다 질입니다. 정기적으로 1~2년 지속한 봉사가 일회성 봉사 여러 개보다 낫습니다. 전공과 연계되면 더 좋습니다.
+봉사 활동은 양보다 질입니다. 정기적으로 1-2년 지속한 봉사가 일회성 봉사 여러 개보다 낫습니다. 전공과 연계되면 더 좋습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어떤 활동을 할지 함께 계획합니다. 활동 후 어떻게 기록할지도 미리 생각합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 독서
@@ -92,7 +92,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자소서 소재를 함께 정리합니다. 초안 작성부터 첨삭까지 도와드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -101,7 +101,7 @@ sitemap:
 
 **Q. 비교과 활동은 얼마나 해야 하나요?**
 
-양보다 질입니다. 의미 있는 활동 5~10개가 형식적인 활동 30개보다 낫습니다.
+양보다 질입니다. 의미 있는 활동 5-10개가 형식적인 활동 30개보다 낫습니다.
 
 **Q. 진로가 바뀌면 불리한가요?**
 
@@ -110,6 +110,18 @@ sitemap:
 **Q. 생기부는 어떻게 확인하나요?**
 
 학기말 나이스 시스템에서 확인할 수 있습니다. 오류가 있으면 담임 선생님께 말씀드리세요.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
 
 ## 마무리
 

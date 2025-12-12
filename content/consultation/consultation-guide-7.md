@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0094_f1YfrZ1o2r8.jpg"
 ---
 
 ## 아이가 공부를 왜 해야 하는지 모르겠대요. 어떻게 동기를 심어줄 수 있을까요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 부여 상담에서는 학생이 진짜로 원하는 것이 무엇인지 탐색합니다. 부모님이 원하는 것이 아닌 아이 스스로의 목표를 찾아갑니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 왜 동기 부여 상담이 필요한가요?
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 부여가 필요하다면 학습 상담과 진로 상담을 병행하는 것이 효과적입니다. 목표를 찾고 방법을 배우는 것을 함께 진행합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 진학 상담은 입시 정보와 전략을 제공합니다. 심리 상담은 무기력감이나 우울감으로 공부가 힘든 경우에 도움이 됩니다.
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 작은 목표부터 시작합니다. 성취감을 맛보면서 점점 더 큰 목표에 도전하도록 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 학년별로 동기 부여 방법이 다른가요?
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 성향에 맞는 동기 부여 방법을 찾아갑니다. 억지로 주입하는 것이 아니라 스스로 깨닫도록 돕습니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 부여에 대해 더 궁금한 점이 있으시면 문의하세요. 아이에게 맞는 방법을 함께 찾아드립니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 마무리

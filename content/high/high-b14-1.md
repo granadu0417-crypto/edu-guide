@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0627_JLPziOM2fT8.jpg"
 ---
 ## 고1 때부터 비교과 해야 한다는데, 뭘 어디서부터 시작해야 하나요?
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 성향을 파악합니다. 어떤 활동을 시작하면 좋을지 방향을 잡아줍니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 고1 비교과의 핵심
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-활동 후 기록지를 작성합니다. 뭘 했고, 뭘 배웠는지 정리해두면 나중에 큰 도움이 됩니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 수업 시간 활용
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 어떻게 참여하면 좋은지 구체적으로 안내합니다. 세특에 뭐가 들어가면 좋은지 알려드립니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 동아리 선택
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동아리에서 어떤 역할을 맡으면 좋을지, 어떤 활동을 하면 좋을지 계획을 세웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 독서 시작
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 도서 목록을 추천합니다. 어떤 책을 어떻게 읽으면 좋은지 안내합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 봉사 활동
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 봉사 활동을 찾아봅니다. 어디서 어떻게 시작하면 좋을지 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 주의사항
@@ -110,7 +110,15 @@ featured_image: "https://images.unsplash.com/photo-1568667256549-094345857637?w=
 
 **Q. 비교과 활동은 몇 개가 적당한가요?**
 
-개수보다 깊이입니다. 2~3개를 깊이 있게 하는 게 많이 하는 것보다 낫습니다.
+개수보다 깊이입니다. 2-3개를 깊이 있게 하는 게 많이 하는 것보다 낫습니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

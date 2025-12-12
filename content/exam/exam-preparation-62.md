@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 ---
 ## 시험 1주 전인데 모의고사를 활용해서 실전 감각을 키우려면 어떻게 해야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1주 전 최종 점검을 진행합니다. 실전 모의고사로 시험 감각을 키우고 취약점을 보완합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 1주 전 해야 할 것
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-최종 점검 리스트를 확인합니다. 놓친 부분이 없는지 함께 체크합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 모의고사 활용법
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 함께 분석합니다. 시간 배분과 오답 원인을 파악해서 보완합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 취약점 집중 보완
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-취약 유형을 집중 훈련합니다. 남은 시간 내에 가장 효과적으로 점수를 올리는 방법을 찾습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 암기 사항 최종 점검
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-핵심 암기 사항을 정리해드립니다. 시험 직전에 빠르게 볼 수 있는 요약본을 만듭니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 컨디션 관리
@@ -99,6 +99,18 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 **Q. 너무 불안해요.**
 
 불안한 것은 당연합니다. 할 수 있는 것에 집중하세요. 준비한 만큼 결과가 나옵니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

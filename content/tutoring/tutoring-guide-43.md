@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0980_Jtk5X-W3cbo.jpg"
 ---
 
 ## 과외를 하고 있는데 돈 값을 못 하는 것 같아요. 어떻게 해야 효과가 나나요?
@@ -20,12 +20,12 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과가 안 나면 같이 원인을 찾습니다. 수업 방식을 바꾸거나 학습 태도를 점검하거나, 방법을 찾습니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 왜 효과가 안 나는 걸까요?
 
-수업만 받고 끝나서입니다. 과외 시간은 주 2~3시간입니다. 그 시간만으로 성적이 오르지 않습니다. 수업 외 시간에 복습하고 숙제해야 쌓입니다. 수업 받고 끝이면 효과가 안 납니다.
+수업만 받고 끝나서입니다. 과외 시간은 주 2-3시간입니다. 그 시간만으로 성적이 오르지 않습니다. 수업 외 시간에 복습하고 숙제해야 쌓입니다. 수업 받고 끝이면 효과가 안 납니다.
 
 숙제를 대충 해서입니다. 숙제를 하긴 하는데 답만 베껴 옵니다. 아니면 아예 안 합니다. 숙제는 배운 걸 확인하는 시간입니다. 대충 하면 의미가 없습니다.
 
@@ -33,12 +33,12 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 학생이 집중하는지 계속 확인합니다. 멍하게 듣고 있으면 질문을 던져서 깨웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 효과를 높이려면 어떻게 해야 하나요?
 
-수업 전에 예습하세요. 다음에 배울 내용을 미리 훑어보세요. 5~10분이면 됩니다. 뭘 배울지 알고 들으면 이해가 빠릅니다. 모르는 부분을 표시해 두면 질문할 수 있습니다.
+수업 전에 예습하세요. 다음에 배울 내용을 미리 훑어보세요. 5-10분이면 됩니다. 뭘 배울지 알고 들으면 이해가 빠릅니다. 모르는 부분을 표시해 두면 질문할 수 있습니다.
 
 수업 후에 복습하세요. 수업 끝나고 당일에 정리하세요. 30분이면 충분합니다. 다음 날로 미루면 까먹습니다. 그날 그날 정리해야 남습니다.
 
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제 검사할 때 풀이 과정을 봅니다. 어디서 막혔는지, 어떻게 생각했는지 확인하고 피드백합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 부모는 뭘 해야 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 정기적으로 학습 상황을 공유합니다. 궁금한 점이 있으면 편하게 연락 주세요.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 **Q. 효과가 언제 나타나나요?**
 
-보통 1~3개월입니다. 기초가 많이 부족하면 더 걸릴 수 있습니다. 당장 점수가 안 올라도 이해도가 높아지고 있으면 효과가 나고 있는 겁니다.
+보통 1-3개월입니다. 기초가 많이 부족하면 더 걸릴 수 있습니다. 당장 점수가 안 올라도 이해도가 높아지고 있으면 효과가 나고 있는 겁니다.
 
 **Q. 숙제를 안 하면 어떻게 해야 하나요?**
 
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과에 대해 더 궁금한 점이 있으시면 문의하세요. 효과를 높이는 방법을 함께 찾아드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

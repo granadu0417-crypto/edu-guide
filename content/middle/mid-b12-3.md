@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0933_jzcXsWmvKlw.jpg"
 ---
 ## 중학교 끝나면 끝인 게 아닙니다, 고등학교가 기다리고 있습니다
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 과정과 고1 과정의 연결고리를 파악합니다. 어디서부터 선행을 시작해야 하는지 정확히 진단합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 선행 학습, 왜 필요한가
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고등학교 교과서를 미리 살펴보며 어떤 내용이 나오는지 익힙니다. 중3 복습과 고1 예습을 병행합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 선행 학습 시작 시기
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 중3 과정 이해도를 확인한 후 선행 계획을 세웁니다. 무리한 진도보다 확실한 이해가 목표입니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 수학 선행 전략
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중3 수학 핵심 단원을 정리하고, 고1 수학 첫 단원까지 연결해서 학습합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 영어 선행 전략
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-긴 지문 독해 훈련을 하며 고등학교 영어에 대비합니다. 심화 문법도 미리 접해봅니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 선행과 내신의 균형
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 내신 대비와 선행 학습 비중을 조절합니다. 효율적인 시간 활용법을 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,18 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 **Q. 중3 과정이 부족한데 선행을 해도 되나요?**
 
 중3 복습부터 하세요. 기초가 없으면 선행 내용도 이해가 안 됩니다. 복습이 끝난 후 선행을 시작해도 늦지 않습니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

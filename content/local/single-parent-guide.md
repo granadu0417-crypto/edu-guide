@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "한부모 가정을 위한 모든 것 - 정부 교육 지원 제도, 장학금, 교육급여, 방과후 돌봄, 일과 양육 병행 전략, 자녀 정서 지원까지 한부모 가정이 알아야 할 모든 교육 정보입니다."
 tags: ["한부모가정", "교육지원", "교육급여", "장학금", "양육지원", "한부모지원", "저소득지원", "교육복지", "방과후돌봄", "과외지원"]
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0377_tvB0cS5WZZU.jpg"
 ---
 
 ## 혼자서 아이 키우면서 교육까지 챙기기 힘드시죠? 한부모 가정을 위한 교육 지원이 뭐가 있는지 궁금하시고요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정 상황에 맞는 지원 제도를 안내합니다. 신청 자격과 방법을 함께 확인합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 정부 교육 지원 제도
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교육급여 수급 자격을 확인합니다. 신청 서류 준비와 절차를 안내합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 방과후 돌봄 및 학습 지원
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역 내 무료 학습 지원 프로그램을 연결합니다. 방과후 돌봄 신청 방법을 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 경제적 학습 지원 전략
@@ -44,7 +44,7 @@ EBS 무료 인터넷강의로 초중고 전 과목을 학습할 수 있고 유�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 학습 자원 활용법을 안내합니다. 필수 과목만 집중 투자하는 전략을 세웁니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 자녀 정서 지원
@@ -53,7 +53,7 @@ EBS 무료 인터넷강의로 초중고 전 과목을 학습할 수 있고 유�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀와의 효과적인 소통법을 안내합니다. 정서적 안정을 위한 방법을 함께 찾습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,30 @@ EBS 무료 인터넷강의로 초중고 전 과목을 학습할 수 있고 유�
 **Q. 일 때문에 자녀 학습을 거의 못 챙기는데 괜찮을까요?**
 
 직접 공부를 가르칠 수 없어도 괜찮습니다. 관심과 격려가 중요합니다. 방과후 돌봄과 멘토링 프로그램을 활용하세요.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

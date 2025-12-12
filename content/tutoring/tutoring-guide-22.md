@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0957_26gnBRnIwPE.jpg"
 ---
 
 ## 과외 선생님이 너무 많은데, 뭘 보고 골라야 하나요? 좋은 선생님 기준이 뭔가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 매칭 상담에서는 학생 성향과 목표에 맞는 선생님을 추천합니다. 무조건 유명한 분이 아니라 잘 맞는 분을 찾아드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 좋은 선생님의 기준은 뭔가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 상담 시 학생에 대해 자세히 여쭤봅니다. 학생을 이해해야 맞춤 수업이 가능합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 첫 상담에서 뭘 물어봐야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 궁금한 건 다 물어보세요. 모든 질문에 성실하게 답변드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 언제 선생님을 바꿔야 하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 진행 중 불만이 있으면 말씀해 주세요. 개선이 안 되면 선생님 교체도 가능합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-선생님 선택에 대해 더 궁금한 점이 있으시면 문의하세요. 우리 아이에게 맞는 선생님 찾는 방법을 안내합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

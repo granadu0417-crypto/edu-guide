@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0192_bCx6LpXL1oE.jpg"
 ---
 ## 객관식에서 두 개 중에 하나 고르다가 맨날 틀려요. 어떻게 하면 잘 고를 수 있나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 제거 기법을 연습합니다. 헷갈리는 선지를 구분하는 방법을 훈련합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 객관식 문제 풀이 원리
@@ -32,14 +32,14 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별 함정을 분석합니다. 자주 틀리는 패턴을 파악하고 주의합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 오답 제거 기법
 
 극단적인 표현을 의심하세요. "항상", "절대", "반드시", "모든" 같은 표현은 예외가 있을 수 있습니다. 극단적인 선지는 틀릴 확률이 높습니다.
 
-범위가 너무 넓거나 좁은 선지를 확인하세요. "모든 경우에"나 "오직 ~만"은 제한적입니다. 예외가 있다면 오답입니다.
+범위가 너무 넓거나 좁은 선지를 확인하세요. "모든 경우에"나 "오직 -만"은 제한적입니다. 예외가 있다면 오답입니다.
 
 문제와 관련 없는 내용을 제거하세요. 맞는 내용이라도 문제와 관련 없으면 오답입니다. 질문에 답하는 선지를 찾으세요.
 
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 제거 기법을 실전 문제로 연습합니다. 선지 분석 능력을 키웁니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 헷갈릴 때 대처법
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헷갈릴 때 대처하는 방법을 연습합니다. 실전에서 당황하지 않도록 훈련합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 틀리는 유형
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 유형을 집중적으로 연습합니다. 실수 패턴을 파악하고 고칩니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 연습 방법

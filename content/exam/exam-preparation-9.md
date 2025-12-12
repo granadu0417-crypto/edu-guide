@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0213_6NVeLrMFu7g.jpg"
 ---
 ## 기말고사가 중간보다 어렵다던데, 범위도 넓고 어떻게 해야 하죠?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사는 중간 이후 내용과 중간 범위를 연결해서 복습합니다. 넓은 범위를 효율적으로 정리하는 방법을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 기말고사의 특징 이해하기
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사 출제 경향을 분석하고 중요한 부분을 집중적으로 다룹니다. 범위가 넓어도 핵심을 놓치지 않습니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 넓은 범위 효율적으로 정리하기
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-범위를 구간별로 나눠서 학습 계획을 세웁니다. 새로운 내용에 더 많은 시간을 배분하고 효율적으로 정리합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 과목별 기말 대비 전략
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 특성에 맞춰 기말 대비 전략을 다르게 가져갑니다. 과목별로 점수를 올릴 수 있는 포인트를 짚어드립니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 시험 기간 시간 분배
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞춰 과목별 학습 시간을 배분합니다. 무리하지 않으면서 모든 과목을 균형 있게 대비합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 중간고사 분석 활용하기
@@ -101,6 +101,30 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 **Q. 중간을 망쳤는데 기말에서 만회할 수 있나요?**
 
 물론입니다. 기말고사 비중이 중간과 같거나 더 높은 경우가 많습니다. 기말에서 잘 보면 학기 성적을 충분히 올릴 수 있습니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
 
 ## 마무리
 

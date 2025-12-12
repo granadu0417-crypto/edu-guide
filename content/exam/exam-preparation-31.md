@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0170_nHelVf7vN2Q.jpg"
 ---
 ## 객관식 문제에서 두 개 중에 하나가 맨날 헷갈려요. 어떻게 골라야 하죠?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-객관식 문제 풀이 전략을 체계적으로 훈련합니다. 오답 제거 기법을 익혀 헷갈리는 상황에서도 정답을 찾아냅니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 객관식 문제의 특성
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-출제자의 의도를 파악하는 연습을 합니다. 왜 이런 보기를 만들었는지 분석하면 함정을 피할 수 있습니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 오답 제거 기법
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 제거 기법을 실제 문제에 적용하는 연습을 합니다. 패턴을 익히면 낯선 문제에서도 정답을 찾을 수 있습니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 문제 유형별 전략
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별 접근법을 훈련합니다. 유형을 파악하면 어떻게 풀어야 하는지 바로 알 수 있습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 시험장 실전 요령
@@ -77,7 +77,7 @@ OMR 카드 마킹 실수를 조심하세요. 문제 번호와 답안지 번호�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 모의고사로 시험장 상황을 연습합니다. 시간 압박 속에서도 실수하지 않는 습관을 만듭니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 두 개 중 하나가 헷갈릴 때
@@ -109,6 +109,22 @@ OMR 카드 마킹 실수를 조심하세요. 문제 번호와 답안지 번호�
 **Q. 비슷한 보기가 두 개면 둘 중 하나가 정답인가요?**
 
 그럴 확률이 높습니다. 출제자가 헷갈리게 만든 것이니 두 보기를 집중 분석하세요.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

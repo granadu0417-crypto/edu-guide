@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "경북도의 교육 환경을 완벽 분석합니다. 포항·구미·경주 학원가부터 대구 접근성, POSTECH 과외, 온라인 교육 전략까지 경북 지역 맞춤 교육 정보를 제공합니다."
 tags: ["경북교육", "경북학원", "경북과외", "포항학원", "구미학원", "경주학원", "대구접근성", "경북대과외", "POSTECH과외", "포항공대과외", "온라인교육", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 ---
 
 ## 경북도에서 아이 교육 어떻게 시켜야 할까요? 대구까지 가야 하나 포항에서도 가능한지 궁금하시죠.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-경북 지역 교육 환경을 분석합니다. 거주 지역과 예산에 맞는 최적의 교육 방법을 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 대학생 과외 활용법
@@ -28,7 +28,7 @@ POSTECH은 세계 100위권 대학으로 수학과 과학 최상위 실력을 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 궁합을 확인해볼 수 있습니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 지역별 학원 특성
@@ -39,7 +39,7 @@ POSTECH은 세계 100위권 대학으로 수학과 과학 최상위 실력을 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 학원과 과외 시장을 파악합니다. 통학 거리와 예산을 고려해 최적의 방법을 찾아드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 온라인 교육 전략
@@ -48,7 +48,7 @@ POSTECH은 세계 100위권 대학으로 수학과 과학 최상위 실력을 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인과 오프라인 병행 전략을 안내합니다. 비용을 절감하면서 효과를 극대화하는 방법을 찾아드립니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학년별 교육 전략
@@ -57,7 +57,7 @@ POSTECH은 세계 100위권 대학으로 수학과 과학 최상위 실력을 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 전략을 안내합니다. 내신과 수능 비중을 학생 상황에 맞게 조절합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -73,6 +73,30 @@ POSTECH이나 SKY 또는 의대 목표 최상위권에게 추천합니다. 기�
 **Q. 대구 통학 가능한가요?**
 
 구미에서 대구까지 30분 경주에서 30분 포항에서 40분이면 가능합니다. 주말 대구 학원 통학을 추천합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

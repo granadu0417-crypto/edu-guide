@@ -12,7 +12,7 @@ tags:
 - 연산
 - 읽기
 - 집중력
-featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 ---
 ## 4학년이 되면서 갑자기 과목이 많아졌죠?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 다른 학습법을 가르칩니다. 국어는 이렇게, 수학은 저렇게 공부해야 한다는 걸 알려줍니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 핵심 학습 목표
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 공부 순서를 정해봅니다. 어려운 과목을 먼저 할지, 쉬운 과목을 먼저 할지 스스로 정하게 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회, 과학 시험 전에 핵심 내용을 정리하는 방법을 알려줍니다. 교과서 요약 연습을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 4학년의 특징과 대응
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오늘 배운 내용을 한 문장으로 정리해봐라고 합니다. 정리할 수 있으면 이해한 겁니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 가정에서의 역할
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 
 방과 후 15시에서 16시에는 간식 먹고 휴식하고 학교 준비물을 정리합니다.
 
-학습 시간 16시에서 17시 30분에는 숙제를 먼저 하고, 국어/수학 복습 30분, 사회/과학 정리 20분, 독서 20분을 합니다. 4학년은 1시간~1시간 30분이 적당합니다.
+학습 시간 16시에서 17시 30분에는 숙제를 먼저 하고, 국어/수학 복습 30분, 사회/과학 정리 20분, 독서 20분을 합니다. 4학년은 1시간-1시간 30분이 적당합니다.
 
 저녁 17시 30분에서 19시에는 저녁식사와 가족 대화 시간을 갖습니다.
 
@@ -84,12 +84,12 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 기간에는 과목별 복습 순서를 함께 정합니다. 어떤 과목을 언제 공부할지 계획합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 주의사항
 
-과도한 학습은 금물입니다. 4학년은 하루 1시간~1시간 30분이면 충분합니다. 충분한 휴식 시간이 필요합니다.
+과도한 학습은 금물입니다. 4학년은 하루 1시간-1시간 30분이면 충분합니다. 충분한 휴식 시간이 필요합니다.
 
 균형 잡힌 성장도 중요합니다. 공부만이 아닌 전인적 발달이 필요합니다. 운동, 놀이, 친구 관계도 중요합니다.
 
@@ -108,6 +108,18 @@ featured_image: "https://images.unsplash.com/photo-1609234656432-46d0b41c3dad?w=
 **Q. 영어 문법이 어려워요.**
 
 문장을 많이 읽고 익숙해지는 게 먼저입니다. 문법 규칙을 외우기 전에 문장 패턴에 익숙해지세요.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
 
 ## 마무리
 

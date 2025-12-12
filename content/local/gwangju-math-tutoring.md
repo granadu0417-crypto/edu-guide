@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "광주 수학 과외 완벽 가이드 | 학년별 맞춤 전략·선생님 선택법·개념 이해·문제 풀이·내신 수능 대비·1:1 과외 추천"
 tags: ["광주수학과외", "광주과외", "수학과외", "광주교육", "초등수학", "중등수학", "고등수학", "수학학원"]
-featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 ---
 
 ## 수학 공식은 외웠는데 문제가 안 풀리나요? 수학 성적이 계속 떨어져서 고민이시죠.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 정확히 진단합니다. 개념 이해도와 문제 해결 능력을 파악하고 부족한 부분부터 채워갑니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 광주 지역 중학교 수학 내신 특징
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 서술형 답안 작성법을 집중 훈련하고 부분 점수 전략까지 준비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 광주 지역 고등학교 수학 내신 특징
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-명문고 기출문제를 철저히 분석합니다. 고난도 문제 풀이 전략을 익히고 시간 안에 정확하게 푸는 훈련을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ### 숭덕고, 문정고 등 일반고
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 개념을 정리합니다. 현재 학년 내용을 완벽히 이해한 후 적절한 선행을 진행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 대학생 선생님과 전문 강사
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님을 추천합니다. 시범 수업으로 설명 방식과 궁합을 확인합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 광주 지역별 교육 특성
@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지역별 교육 환경을 분석합니다. 학생에게 맞는 최적의 학습 환경을 찾아드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 효과적인 과외 활용법
@@ -97,24 +97,24 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 관리와 복습 방법을 안내합니다. 학생의 실수 패턴을 분석하고 맞춤 문제를 제공합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 과외 비용 안내
 
 광주 지역 수학 과외 비용은 다음과 같습니다.
 
-**초등학생**은 주1회 기준 15만원에서 20만원, 주2회 기준 25만원에서 35만원 선입니다.
+**초등학생**은 주1회 12만원 - 22만원, 주2회 25만원 - 38만원 선입니다.
 
-**중학생**은 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원이 일반적입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**고등학생**은 주1회 기준 25만원에서 35만원, 주2회 기준 42만원에서 60만원 정도입니다.
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다. **고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
 
 수완지구와 봉선동은 평균보다 높은 편이고, 동구와 남구는 전남대 대학생 과외를 활용하면 저렴하게 이용할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 횟수와 시간은 학생 상황에 맞게 조율합니다. 예산에 맞는 최적의 수업 방식을 찾아드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -138,6 +138,30 @@ featured_image: "https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?w=
 **Q. 온라인 과외도 효과가 있나요?**
 
 집중력만 유지된다면 온라인도 효과적입니다. 거리가 먼 지역 선생님 수업을 받을 수 있다는 장점도 있습니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+학생의 학습 상황에 맞춰 적절한 양의 숙제를 내드립니다. 숙제를 통해 복습하고, 다음 수업 때 점검합니다. 부담되지 않는 선에서 효과적인 양을 조절합니다.
+
+**Q. 부모님께 진도 보고는 어떻게 되나요?**
+
+매 수업 후 카카오톡이나 문자로 수업 내용과 학생 상태를 간단히 보고드립니다. 월 1회 상세한 학습 리포트도 제공합니다.
+
+**Q. 수업 중 질문을 많이 해도 되나요?**
+
+당연합니다. 질문을 많이 하는 학생이 더 빨리 성장합니다. 이해될 때까지 여러 번 설명해드립니다.
+
+**Q. 수업 교재는 어떻게 준비하나요?**
+
+기본적으로 학교 교과서와 자체 프린트물을 사용합니다. 필요에 따라 개념서나 문제집을 추가로 준비하기도 합니다. 교재비는 별도로 받지 않는 것이 원칙이지만, 고가의 문제집이 필요한 경우 상담 후 결정합니다.
+
+**Q. 학부모 상담은 얼마나 자주 하나요?**
+
+정기 상담은 월 1회 진행하며, 필요시 추가 상담도 가능합니다. 매 수업 후에는 간단한 문자 피드백을 드리고, 시험 전후로는 더 상세한 학습 리포트를 제공합니다.
+
+**Q. 과외 선생님의 경력은 어떻게 되나요?**
+
+대부분 3년 이상의 과외 경력을 가진 선생님들입니다. 학생 지도 경험이 풍부하고, 최근 입시 트렌드도 잘 파악하고 계십니다.
 
 ## 마무리
 

@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 계산
-featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0562_rccbptXljzw.jpg"
 ---
 
 ## 계획 없이 공부하고 있다고요? 뭘 먼저 해야 할지 모르겠다고 느끼시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 실력과 목표를 분석합니다. 실현 가능한 학습 계획을 함께 세우고 지속적으로 점검합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 좋은 계획의 조건
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-막연한 계획이 아닌 구체적인 계획을 세웁니다. 학생이 실천 가능한 수준으로 조정합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 목표 설정과 현재 파악
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표 점수에 맞는 계획을 수립합니다. 무리한 목표보다 단계적으로 달성 가능한 목표를 설정합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 기간별 계획
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학기별로 맞춤 로드맵을 제공합니다. 시험 일정에 맞춰 계획을 조정합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 주간과 일일 계획
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 점검을 통해 계획 실천 여부를 확인합니다. 학생 상황에 맞게 유연하게 조정합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 흔한 실수와 해결
@@ -84,12 +84,48 @@ featured_image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=
 
 현재 과정을 80% 이상 이해했을 때만 하세요. 무리한 선행은 오히려 독이 됩니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
 ## 마무리
 
 좋은 학습 계획은 성적 향상의 시작입니다. 자신에게 맞는 계획을 세우고 꾸준히 실천하면 목표를 달성할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 계획 수립부터 실천 점검까지 체계적으로 관리합니다. 학생 맞춤 계획으로 효율적인 학습을 도와드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 

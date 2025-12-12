@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0963_6W_SNsrKIZE.jpg"
 ---
 ## 국어는 모국어인데 왜 점수가 안 나올까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 어느 영역에서 어려움을 겪는지 파악합니다. 문학인지, 문법인지, 독해인지 정확히 진단합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 문학 공부법
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-작품을 함께 읽으며 분석하는 방법을 알려드립니다. 스스로 해석하는 힘을 키웁니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 문법 공부법
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어려운 문법 개념을 쉽게 설명합니다. 다양한 예문으로 이해를 돕습니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 비문학 독해력 키우기
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 지문을 함께 분석합니다. 구조를 파악하는 방법을 반복 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 내신 국어 시험 대비
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 출제 경향을 분석합니다. 서술형 답안 작성법을 집중 연습합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 독서의 중요성
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수준에 맞는 책을 추천합니다. 읽은 책에 대해 대화하며 이해를 깊게 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,22 @@ featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=
 **Q. 비문학 지문을 읽어도 이해가 안 돼요.**
 
 모르는 단어를 찾아보세요. 문단별로 요약하는 연습을 꾸준히 하세요.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

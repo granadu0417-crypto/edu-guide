@@ -14,7 +14,7 @@ tags:
 - 중등교육
 - 중학교
 - 진로탐색
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0942_1VqHRwxcCCw.jpg"
 ---
 ## 중학교 입학, 막막하다면 여기서 시작하세요
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중1 첫 학기는 중학교 시스템에 적응하는 시기입니다. 과목별 학습 방법, 시험 대비 요령, 시간 관리법을 하나씩 익혀갑니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 중학교가 초등학교와 다른 점
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등학교와 중학교의 차이를 명확히 이해시킵니다. 달라진 학습 환경에 맞는 공부 방법을 안내합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 중1 학습의 핵심 포인트
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학, 영어, 국어 각 과목별로 중1 핵심 내용을 정리합니다. 기초가 부족한 부분은 보충 학습을 병행합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 첫 중간고사 대비법
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위에 맞춰 학습 계획을 세웁니다. 과목별로 출제 유형을 분석하고 그에 맞는 대비 전략을 세웁니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자기주도 학습 습관 만들기
@@ -66,7 +66,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 학습 루틴을 설계합니다. 주간 계획표를 함께 작성하고 실천 여부를 점검합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 학습 방법을 구체적으로 안내합니다. 학생의 취약 과목에 맞춰 보충 학습 방향을 제시합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -97,6 +97,14 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 **Q. 내신 몇 등급을 목표로 해야 하나요?**
 
 특목고, 자사고 목표라면 전 과목 1등급 이상이 필요합니다. 일반고 진학이라면 2등급에서 3등급 정도면 상위권입니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 공식
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0568_JiOFFI3W7IA.jpg"
 ---
 
 ## 벡터가 도대체 뭔지 감이 안 온다고요? 내적이 뭔지, 어디에 쓰는지 모르겠다고 느끼시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-벡터의 기본 개념을 그림과 함께 설명합니다. 크기와 방향의 의미를 직관적으로 이해시킵니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 벡터의 연산
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-벡터 연산을 그림으로 시각화하며 설명합니다. 성분 계산도 함께 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 내적
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내적의 두 정의를 연결하여 설명합니다. 수직과 평행 조건을 활용하는 문제를 집중 연습합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 평행과 수직
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평행과 수직 조건을 문제에 적용하는 연습을 합니다. 조건식을 세우고 미지수를 구하는 유형을 훈련합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 공간벡터와 외적
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공간벡터를 입체적으로 이해시킵니다. 내적과 외적의 차이를 명확히 구분하도록 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,12 +80,52 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 평면벡터와 거의 같습니다. 성분이 하나 더 있을 뿐입니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
 ## 마무리
 
 벡터는 크기와 방향을 동시에 다루는 강력한 도구입니다. 기본 연산과 내적을 완벽히 이해하면 다양한 문제를 쉽게 풉니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그림과 함께 벡터를 설명하며 다양한 유형을 연습합니다. 추상적인 개념을 직관적으로 이해시킵니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 

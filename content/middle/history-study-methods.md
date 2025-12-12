@@ -10,7 +10,7 @@ tags:
 - 중학교
 - 학습가이드
 - 학습방법
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 ---
 ## 역사 시험, 외워도 외워도 끝이 없다고요?
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-역사를 이야기로 풀어드립니다. 단순 암기가 아닌 흐름 이해 중심으로 공부하는 방법을 알려드립니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 역사 공부의 3단계 접근법
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-연표를 함께 만들면서 시대의 흐름을 정리합니다. 인물과 사건을 이야기로 연결하여 기억에 남게 합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 한국사 핵심 정리
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 내용을 정리해드립니다. 시험에 자주 나오는 중요 사건과 인물을 집중적으로 다룹니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 효과적인 암기 전략
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기 팁을 알려드립니다. 연도와 사건을 쉽게 기억할 수 있는 방법을 함께 만들어봅니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 서술형 문제 대비
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성법을 훈련합니다. 채점 기준에 맞는 답안을 쓰는 연습을 합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 시험 대비 전략
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 일정에 맞추어 학습 계획을 세웁니다. 학교별 출제 경향을 분석하여 효율적으로 대비합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -93,6 +93,26 @@ featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=
 **Q. 역사 만화나 드라마가 도움이 되나요?**
 
 흥미를 유발하고 시대 분위기를 이해하는 데는 도움이 됩니다. 하지만 허구가 섞여 있으므로 교과서로 정확한 내용을 확인해야 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
 
 ## 마무리
 

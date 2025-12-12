@@ -12,7 +12,7 @@ tags:
 - 물리
 - 화학
 - 생물
-featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 ---
 ## 과학, 암기만 하면 된다더니 왜 이렇게 점수가 안 나올까요?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-네 영역 중 어디가 약한지 먼저 파악합니다. 물리 계산이 약한지, 화학 개념이 약한지, 생물 암기가 안 되는지 정확히 진단합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과외가 필요한 경우
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담에서 네 영역별로 이해도를 체크합니다. 필요한 부분만 집중해서 시간을 효율적으로 씁니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과외의 장점
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단순 암기가 아니라 이해 기반 암기를 시킵니다. 왜 그런지 알면 외우기도 쉽고 오래 갑니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 영역별 과외 내용
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-네 영역을 균형 있게 가르칩니다. 특정 영역만 강한 선생님은 곤란합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 학년별 과외 내용
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중2에서 무너지지 않도록 어려운 개념을 집중 관리합니다. 전기, 화학 반응 단원이 고비입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 수업 진행 방법
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 문제 비중이 높습니다. 실험 원리, 변인 통제, 결과 해석을 꼼꼼히 정리합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 암기 관리
@@ -101,6 +101,22 @@ featured_image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=
 **Q. 암기가 안 되는데요?**
 
 이해 기반 암기를 하세요. 개념 먼저 이해하고, 그림으로 외우고, 연상법을 활용하고, 주기적으로 복습하세요.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

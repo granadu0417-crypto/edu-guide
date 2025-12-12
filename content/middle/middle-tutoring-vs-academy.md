@@ -11,7 +11,7 @@ tags:
 - 1:1과외
 - 학원선택
 - 과외선택
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0989_dN3r0Z84qGc.jpg"
 ---
 ## 과외랑 학원, 뭐가 더 낫냐고요? 답은 아이한테 있습니다
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 상담에서 아이의 현재 상태를 정확히 파악합니다. 기초가 약한지, 자기주도가 되는지, 어떤 환경에서 집중을 잘하는지 확인한 후 방향을 제안합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 과외와 학원의 차이
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 집중력과 학습 스타일을 체험 수업에서 확인합니다. 혼자서 집중 못 하면 과외, 경쟁에서 자극받으면 학원을 권합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 과외가 맞는 학생
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기초가 약한 학생은 학년을 넘어 기초부터 다시 잡습니다. 학원에서는 불가능한 맞춤형 보강입니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 학원이 맞는 학생
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 배운 내용을 혼자 정리하지 못하는 학생은 과외로 보완합니다. 학원과 과외를 병행하는 전략도 있습니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 과목별로 다르게 선택해도 됩니다
@@ -69,7 +69,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3개월마다 학습 상태를 점검합니다. 목표 달성 여부에 따라 과외 지속, 학원 전환, 독립 학습 전환을 함께 결정합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 {{< cta-dual type="final" >}}

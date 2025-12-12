@@ -12,7 +12,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 ---
 ## 모의고사 성적이 들쭉날쭉해요. 어떻게 하면 안정적으로 점수를 받을 수 있나요?
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 성적 변동 원인을 분석합니다. 약점을 파악하고 안정적인 점수를 받을 수 있도록 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 모의고사와 내신의 차이
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 유형에 맞는 학습법을 안내합니다. 사고력과 시간 관리 능력을 함께 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 기출문제 활용법
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 체계적으로 분석합니다. 유형별로 정리하고 취약한 부분을 집중적으로 보완합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과목별 전략
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 전략을 세웁니다. 학생의 약점을 파악하고 맞춤 학습을 진행합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 실전 감각 유지법
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-정기적으로 모의고사를 풀어봅니다. 실전처럼 시간을 지키고 집중하는 연습을 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 성적 분석 방법
@@ -104,6 +104,14 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 **Q. 모의고사는 언제부터 풀어야 하나요?**
 
 고1 때부터 풀어보세요. 일찍 시작할수록 실전 감각이 좋아집니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

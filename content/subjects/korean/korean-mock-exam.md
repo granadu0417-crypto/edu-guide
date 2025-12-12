@@ -11,7 +11,7 @@ tags:
 - 실전연습
 - 수능대비
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0469_GCoGY0_IBts.jpg"
 ---
 
 ## 모의고사 점수가 들쭉날쭉하다고요? 효과적인 활용 방법이 있습니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 결과를 함께 분석합니다. 학생별 약점을 파악하고 보완 계획을 세웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 실전처럼 풀기
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전 환경에서 모의고사를 풉니다. 시간 관리 전략을 훈련합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 오답 분석하기
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 분석을 함께 진행합니다. 틀린 패턴을 파악하고 보완합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 영역별 점검
@@ -49,23 +49,23 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영역별 성취도를 분석합니다. 약점 영역 맞춤 학습을 진행합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 모의고사 활용 계획
 
-모의고사는 월 1~2회 정기적으로 풀어야 합니다. 평가원, 교육청 모의고사를 번갈아 풀면 좋습니다. 점수 추이를 기록하여 성장을 확인하세요. 실전 감각 유지가 수능 당일 성적으로 이어집니다.
+모의고사는 월 1-2회 정기적으로 풀어야 합니다. 평가원, 교육청 모의고사를 번갈아 풀면 좋습니다. 점수 추이를 기록하여 성장을 확인하세요. 실전 감각 유지가 수능 당일 성적으로 이어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 학습 계획을 세웁니다. 정기적인 점검과 피드백을 진행합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 자주 묻는 질문
 
 **Q. 모의고사를 얼마나 자주 풀어야 하나요?**
 
-월 1~2회가 적당합니다. 너무 자주 풀면 분석할 시간이 부족합니다.
+월 1-2회가 적당합니다. 너무 자주 풀면 분석할 시간이 부족합니다.
 
 **Q. 틀린 문제만 다시 풀면 되나요?**
 
@@ -75,11 +75,51 @@ featured_image: "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=
 
 약점 영역을 집중 보완하세요. 같은 유형을 반복 연습하면 향상됩니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
 ## 마무리
 
 모의고사는 수능 대비의 핵심입니다. 실전처럼 풀고 철저히 분석하세요. 약점 보완에 집중하면 점수가 꾸준히 상승합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 모의고사를 체계적으로 활용합니다. 실전 감각과 분석력을 함께 키웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>

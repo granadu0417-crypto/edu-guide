@@ -16,7 +16,7 @@ tags:
 - 산업
 - 지도읽기
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"
 ---
 
 ## 지형, 기후, 인구, 산업이 따로 노는 것 같고 지도 읽기가 어렵다고요? 지리의 인과 관계부터 파악하면 됩니다.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지리의 핵심 인과 관계를 설명합니다. 지형, 기후, 인구, 산업의 연결 고리를 정리합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 지형의 이해
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지형의 형성 과정을 단계별로 설명합니다. 한국 지형의 특징을 지도와 함께 익힙니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 기후의 이해
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기후 요인과 기후 지역을 비교표로 정리합니다. 기후와 인간 생활의 관계를 설명합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 인구와 도시화
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-인구 분포의 원인을 분석합니다. 인구 피라미드 해석법을 집중 훈련합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 산업의 이해
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-산업 입지 유형을 정리합니다. 산업 구조 변화와 그래프 해석을 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 시험 대비
@@ -84,11 +84,35 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 원료가 무거우면 원료 지향형, 제품이 무거우면 시장 지향형, 노동력이 많으면 노동력 지향형입니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 지리는 지형, 기후, 인구, 산업의 연결 관계가 핵심입니다. 인과 관계를 이해하면 암기량이 줄어듭니다. 지도와 통계 자료 해석을 반복 연습하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 지리의 인과 관계를 완벽히 이해합니다. 지도 해석과 문제 풀이를 함께합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>

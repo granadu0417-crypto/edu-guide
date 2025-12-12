@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "부모 코칭의 모든 것 - 자녀와의 효과적인 소통법, 학습지도 전략, 정서적 지원 방법, 성장 마인드셋 형성까지 전문가 노하우를 담은 실전 가이드입니다."
 tags: ["부모코칭", "자녀교육", "부모역할", "학습코칭", "소통법", "양육전략", "교육상담", "가정교육", "과외선택", "학부모교육"]
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0299_djDgVMWd04E.jpg"
 ---
 
 ## 아이한테 공부하라고 말하면 자꾸 싸우게 되시죠? 잔소리 없이 공부시키는 방법이 뭔지 모르겠다고요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀의 학습 상황을 파악합니다. 가정에서 효과적인 지원 방법을 함께 찾습니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 효과적인 소통법
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 소통법을 안내합니다. 가정에서 실천할 수 있는 대화 방법을 알려드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 학년별 코칭 전략
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자녀 학년에 맞는 코칭 전략을 안내합니다. 가정에서 바로 적용할 수 있는 방법을 알려드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 동기 부여와 정서 지원
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 부여 방법을 안내합니다. 자녀의 정서적 안정을 지원하는 방법을 알려드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 과외와 학원 연계
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 선생님과의 소통 방법을 안내합니다. 가정 학습과 학원 학습을 연계합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -69,6 +69,30 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 **Q. 아이가 공부를 전혀 안 하려고 해요.**
 
 공부를 안 하는 이유를 먼저 파악하세요. 대화를 통해 이유를 찾고 강요보다 작은 목표부터 함께 세워보세요.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 함수
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0518_HjOTzLVirtQ.jpg"
 ---
 
 ## 미분 공식은 다 외웠는데 문제에 적용이 안 된다고요? 극값이랑 최댓값이 뭐가 다른지 헷갈리시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미분의 의미부터 설명합니다. 기하학적 물리학적 의미를 함께 이해시킵니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 기본 미분 공식
@@ -32,7 +32,7 @@ x의 n 제곱을 미분하면 nx의 n 빼기 1 제곱입니다. 상수를 미분
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기본 공식을 확실히 암기시킵니다. 왜 그런지 유도 과정도 함께 설명합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 미분법
@@ -43,7 +43,7 @@ x의 n 제곱을 미분하면 nx의 n 빼기 1 제곱입니다. 상수를 미분
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 가지 미분법을 반복 연습합니다. 특히 합성함수 미분을 확실히 익힙니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 도함수의 활용
@@ -52,7 +52,7 @@ x의 n 제곱을 미분하면 nx의 n 빼기 1 제곱입니다. 상수를 미분
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도함수 활용 문제를 체계적으로 연습합니다. 증가 감소 표 만드는 습관을 들입니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 흔한 실수
@@ -61,7 +61,7 @@ x의 n 제곱을 미분하면 nx의 n 빼기 1 제곱입니다. 상수를 미분
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 실수를 미리 짚어줍니다. 실수하지 않도록 체크리스트를 만듭니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ x의 n 제곱을 미분하면 nx의 n 빼기 1 제곱입니다. 상수를 미분
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미분의 개념과 공식과 활용을 체계적으로 정리합니다. 다양한 유형으로 실전 감각을 키웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 

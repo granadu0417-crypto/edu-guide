@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0713_9FwZsKFnZ9c.jpg"
 ---
 
 ## 1차 대전과 2차 대전의 원인이 헷갈리고 전쟁 결과가 복잡하다고요? 제국주의 경쟁과 민족주의부터 이해하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-두 세계대전의 배경을 비교 분석합니다. 원인과 결과의 인과 관계를 정리합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 제1차 세계대전
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1차 대전의 동맹 관계를 정리합니다. 전쟁의 특징과 새로운 무기를 분석합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 베르사유 체제
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-베르사유 조약의 내용을 정리합니다. 전후 국제 질서의 특징과 한계를 분석합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 제2차 세계대전
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-2차 대전의 주요 전투와 전환점을 정리합니다. 전체주의 국가들의 특징을 비교합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 전후 세계 질서
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전후 국제 질서의 변화를 정리합니다. 냉전 체제의 형성 과정을 분석합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 세계대전을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>

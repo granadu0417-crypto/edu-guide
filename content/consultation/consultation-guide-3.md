@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 ---
 
 ## 내신 성적이 왜 이렇게 안 오르는 걸까요? 시험공부는 열심히 하는데 말이에요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 상담에서는 먼저 학생의 시험 준비 패턴을 분석합니다. 언제부터 공부를 시작하는지, 어떤 방식으로 복습하는지 파악하여 개선점을 찾습니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 내신 관리를 위한 상담이 왜 필요한가요?
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리가 급하다면 학습 상담부터 시작하세요. 당장의 시험 전략과 함께 장기적인 학습 습관 개선도 함께 진행합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 진학 상담은 상급 학교 진학을 준비하는 학생을 위한 것입니다. 입시 전략과 학교 정보를 바탕으로 전략적인 계획을 세웁니다. 심리 상담은 시험 불안이나 스트레스가 심한 학생에게 도움이 됩니다.
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담이 끝나면 실천 계획을 함께 작성합니다. 다음 시험까지 무엇을 어떻게 할지 구체적인 로드맵을 세우고, 정기적으로 점검합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학년마다 내신 관리 포인트가 다른가요?
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 특성을 고려하여 상담을 진행합니다. 중학생은 기본기와 습관, 고등학생은 전략과 효율에 집중합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -87,8 +87,48 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 관리에 대해 더 궁금한 점이 있으시면 편하게 문의하세요. 학생 상황에 맞는 맞춤 전략을 제안해드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

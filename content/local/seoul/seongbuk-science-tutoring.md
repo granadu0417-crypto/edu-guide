@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["성북구", "과학과외", "길음동", "안암동", "정릉동", "고려대", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0361_MSX3O-Sqa8U.jpg"
 ---
 
 "고려대 과학 전공자에게 직접 과외를 받을 수 있나요?"
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 과학 실력을 정확하게 진단합니다. 어느 단원에서 막히는지, 개념이 문제인지 문제 적용이 문제인지 파악하고, 그 지점부터 차근차근 다시 쌓아갑니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 성북구 동네별 과학 교육 환경
@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 수업 장소와 시간을 정합니다. 안암역 스터디카페, 길음뉴타운 카페, 자택 방문, 온라인 병행 등 가장 효율적인 방식으로 진행합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 성북구 과학 과외의 최대 장점
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고대 전공자가 대학 수준 지식까지 연계해서 설명합니다. 단순 암기가 아니라 왜 그런지 원리를 이해시키고, 고등 과학과 대학 과학의 연결고리를 보여줍니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 과목별 과학 과외 포인트
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화학은 몰 개념을 완벽하게 숙달하는 것부터 시작합니다. 계산 문제는 여러 유형을 반복 연습해서 실수 없이 풀 수 있도록 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ### 생명과학 - 고려대 생명과학부·의대생이 가르칩니다
@@ -88,10 +88,10 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1은 통합과학 내신을 탄탄하게 관리하면서, 학생의 성향과 진로에 맞는 선택과목을 함께 고민합니다. 고려대 입시 경험을 바탕으로 조언드립니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
-### 고2~3 - 내신과 수능 동시 준비
+### 고2-3 - 내신과 수능 동시 준비
 
 고2부터는 선택과목에 집중합니다. 학기 중에는 내신 위주로, 방학에는 수능 개념과 기출 분석에 집중합니다.
 
@@ -103,26 +103,26 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 고려대생이라고 다 실력이 좋은 것은 아닙니다. 전공 관련성(물리 과외는 물리학과가 최적), 과외 경험(처음이면 티칭 스킬 부족 가능), 학점(3.5 이상 권장), 소통 능력을 확인하세요.
 
-시범 수업은 필수입니다. 2~3명 시범 수업 받고 비교해서 결정하세요.
+시범 수업은 필수입니다. 2-3명 시범 수업 받고 비교해서 결정하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 선생님의 설명이 이해하기 쉬운지, 학생과 소통이 잘 되는지 확인해보세요.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 성북구 과학과외 비용 안내
 
 성북구 과학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**중학생**은 주1회 기준 15만원에서 25만원, 주2회 기준 28만원에서 42만원 선입니다.
+**중학생**은 주1회 기준 15만원 -  25만원, 주2회 기준 28만원 -  42만원 선입니다.
 
-**고등학생**은 주1회 기준 22만원에서 33만원, 주2회 기준 33만원에서 52만원이 일반적입니다.
+**고등학생**은 주1회 기준 22만원 -  33만원, 주2회 기준 33만원 -  52만원이 일반적입니다.
 
-고대생이 풍부해서 가격이 경쟁적입니다. 강남보다 15~20% 저렴하면서 우수한 선생님을 만날 수 있습니다.
+고대생이 풍부해서 가격이 경쟁적입니다. 강남보다 15-20% 저렴하면서 우수한 선생님을 만날 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -145,6 +145,6 @@ featured_image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=
 
 ## 마무리
 
-성북구는 고려대학교가 있어 이공계 전공자에게 과학을 배울 수 있는 최고의 환경입니다. 공대, 자연대, 의대 학생들에게 직접 배울 수 있고, 강남보다 15~20% 저렴합니다.
+성북구는 고려대학교가 있어 이공계 전공자에게 과학을 배울 수 있는 최고의 환경입니다. 공대, 자연대, 의대 학생들에게 직접 배울 수 있고, 강남보다 15-20% 저렴합니다.
 
 과학은 혼자 공부하기 어려운 과목이지만, 좋은 선생님과 함께라면 충분히 정복할 수 있습니다. 고려대라는 최고의 자원을 활용해서 과학에 대한 자신감을 키워주시기 바랍니다.

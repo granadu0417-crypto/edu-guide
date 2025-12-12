@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0167_4b3E-WvrStk.jpg"
 ---
 ## 기말고사가 한 학기 성적을 결정하는데, 어떻게 마무리해야 할지 모르겠어요.
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사 범위를 분석하고 우선순위를 정합니다. 자주 출제되는 부분부터 집중 공략하여 효율적으로 대비합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 기말고사가 중간고사와 다른 점
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기말고사 출제 범위를 확인하고 전략을 세웁니다. 전 범위인지, 중간 이후인지에 따라 공부 방법이 달라집니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 기말고사 준비 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기말고사 대비 우선순위를 함께 정합니다. 출제 가능성이 높은 부분을 집중적으로 훈련하고 약점을 보완합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 주차별 학습 계획
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주차별 학습 계획을 세우고 진도를 체크합니다. 계획대로 되지 않으면 유연하게 조정하며 목표를 향해 나아갑니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 과목별 기말고사 전략
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 기말고사 출제 경향을 분석합니다. 학교마다 선생님마다 다른 출제 스타일을 파악하고 맞춤 대비를 합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 기말고사 시험 당일
@@ -101,6 +101,30 @@ featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=
 **Q. 기말고사 전날에 무엇을 해야 하나요?**
 
 요약 노트와 오답 노트만 가볍게 훑어보세요. 새로운 것을 공부하지 말고 컨디션 관리에 집중하세요.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
 
 ## 마무리
 

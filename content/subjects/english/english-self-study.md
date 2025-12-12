@@ -13,7 +13,7 @@ tags:
 - self-study
 - 혼자
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0410_ZG4Y6lLPARw.jpg"
 ---
 
 ## 혼자서 영어 공부하려니 막막하시죠? 어디서부터 시작해야 할지 모르겠다고요.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준과 목표를 파악합니다. 독학에 최적화된 학습 계획과 자료를 설계합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 독학 시작 3단계
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독학의 시작점을 함께 잡아드립니다. 목표 설정부터 자료 선택까지 체계적으로 안내합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 일일 학습 루틴
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 학습 루틴을 만듭니다. 지속 가능한 독학 시스템을 설계합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 동기 유지 방법
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 유지 전략을 함께 세웁니다. 슬럼프 없이 꾸준히 공부할 수 있도록 지원합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 독학의 한계 극복
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독학의 한계를 넘도록 돕습니다. 막히는 부분을 해결하고 올바른 방향으로 안내합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -71,11 +71,35 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 **Q. 하루에 몇 시간이 적당한가요?**
 
-2~3시간이 적당합니다. 너무 무리하면 지속하기 어렵습니다.
+2-3시간이 적당합니다. 너무 무리하면 지속하기 어렵습니다.
 
 **Q. 동기가 안 생겨요.**
 
 작은 목표를 세우세요. 달성 가능한 목표가 성취감과 동기를 줍니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 
@@ -83,5 +107,5 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독학의 한계를 느끼면 1:1 맞춤 과외가 도움이 됩니다. 방향 설정, 맞춤 피드백, 동기 부여를 받을 수 있습니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>

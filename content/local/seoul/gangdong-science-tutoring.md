@@ -9,7 +9,7 @@ regions:
 cities:
   - 서울시
 tags: ["강동구", "과학과외", "천호동", "명일동", "고덕동", "물리", "화학", "생명과학", "지구과학", "내신", "수능"]
-featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0322_t4AttMseigU.jpg"
 ---
 
 "물리는 수식이 어렵고, 화학은 개념이 복잡한데 어떻게 해야 할까요?"
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생의 과학 실력을 정확하게 진단합니다. 어느 단원에서 막히는지, 개념이 문제인지 문제 적용이 문제인지 파악하고, 그 지점부터 차근차근 다시 쌓아갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 강동구 동네별 과학 교육 환경
@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞춰 수업 장소와 시간을 정합니다. 천호역 스터디카페 수업, 자택 방문, 온라인 병행 등 가장 효율적인 방식으로 진행합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 과목별 과학 과외 포인트
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-물리는 공식을 외우기 전에 왜 그런 공식이 나왔는지 이해시킵니다. 문제를 풀 때도 어떤 개념을 적용해야 하는지 스스로 판단할 수 있도록 훈련합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 화학 - 개념과 계산의 균형
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생명과학은 단원별로 핵심 개념을 정리한 후 문제로 확인합니다. 유전 파트는 체계적인 접근법을 익혀서 어떤 문제가 나와도 풀 수 있도록 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ### 지구과학 - 천문 계산이 핵심입니다
@@ -86,10 +86,10 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1은 통합과학 내신을 탄탄하게 관리하면서, 학생의 성향과 진로에 맞는 선택과목을 함께 고민합니다. 여름방학에 선택과목 맛보기 수업도 가능합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
-### 고2~3 - 내신과 수능 동시 준비
+### 고2-3 - 내신과 수능 동시 준비
 
 고2부터는 선택과목에 집중합니다. 학기 중에는 내신 70%, 수능 30% 비중으로, 방학에는 수능 80%, 내신 20% 비중으로 학습합니다.
 
@@ -103,26 +103,26 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 물리 과외는 물리학과나 기계·전자공학과, 화학 과외는 화학과나 화학공학과, 생명과학 과외는 생명과학과나 의대생, 지구과학 과외는 지구환경과학과나 천문학과 출신이 좋습니다.
 
-과외 경력 1~3년의 중급 선생님이 가성비가 좋습니다. 초보는 저렴하지만 티칭 스킬이 부족할 수 있고, 베테랑은 실력은 검증되지만 비용이 높습니다.
+과외 경력 1-3년의 중급 선생님이 가성비가 좋습니다. 초보는 저렴하지만 티칭 스킬이 부족할 수 있고, 베테랑은 실력은 검증되지만 비용이 높습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시범 수업에서 학생의 현재 실력을 파악하고, 구체적인 학습 계획을 제시합니다. 선생님의 설명이 이해하기 쉬운지, 학생과 소통이 잘 되는지 확인해보세요.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 강동구 과학과외 비용 안내
 
 강동구 과학과외 비용은 학년과 수업 횟수에 따라 달라집니다.
 
-**중학생**은 주1회 기준 15만원에서 25만원, 주2회 기준 28만원에서 42만원 선입니다.
+**중학생**은 주1회 기준 15만원 -  25만원, 주2회 기준 28만원 -  42만원 선입니다.
 
-**고등학생**은 주1회 기준 25만원에서 38만원, 주2회 기준 38만원에서 58만원이 일반적입니다.
+**고등학생**은 주1회 기준 25만원 -  38만원, 주2회 기준 38만원 -  58만원이 일반적입니다.
 
-물리가 가장 비싸고, 생명과학과 지구과학이 상대적으로 저렴합니다. 강남구 대비 10~20% 정도 저렴한 편입니다.
+물리가 가장 비싸고, 생명과학과 지구과학이 상대적으로 저렴합니다. 강남구 대비 10-20% 정도 저렴한 편입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업료는 학생 상황에 맞춰 합리적으로 책정합니다. 무료 상담을 통해 학생 수준을 파악한 후, 필요한 수업 횟수와 시간을 제안드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -141,7 +141,7 @@ featured_image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=
 
 **Q. 과외 효과는 언제 나타나나요?**
 
-기초가 있는 학생은 1~2개월 후 등급 상승이 보이고, 기초가 부족한 학생은 3~6개월 정도 걸립니다. 꾸준히 복습하는 것이 가장 중요합니다.
+기초가 있는 학생은 1-2개월 후 등급 상승이 보이고, 기초가 부족한 학생은 3-6개월 정도 걸립니다. 꾸준히 복습하는 것이 가장 중요합니다.
 
 ## 마무리
 

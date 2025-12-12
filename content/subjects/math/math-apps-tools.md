@@ -12,7 +12,7 @@ tags:
 - 모바일
 - 디지털학습
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0506_RlC1eHzJOFI.jpg"
 ---
 
 ## 스마트폰으로 수학 공부가 될까 싶으시죠? 어떤 앱을 써야 효과가 있는지 모르겠다고요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 앱을 추천합니다. 앱을 효과적으로 활용하는 방법을 안내합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 유형별 추천 앱
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 목적에 맞는 앱을 선별합니다. 앱을 보조 도구로 적절히 활용하도록 지도합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 효과적인 활용 시간
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틈새 시간을 활용한 학습법을 안내합니다. 앱과 정규 학습을 연계하여 효율을 높입니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 앱 사용 시 주의사항
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-앱 사용의 균형을 잡아줍니다. 과의존하지 않도록 관리합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 암기에 효과적인 앱
@@ -59,7 +59,7 @@ Anki와 Quizlet은 플래시카드와 간격 반복 기능을 제공합니다. �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기 앱 활용법을 알려드립니다. 학습 계획 앱과 연계하여 체계적으로 관리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,6 +75,30 @@ Anki와 Quizlet은 플래시카드와 간격 반복 기능을 제공합니다. �
 **Q. Photomath가 공부에 도움이 되나요?**
 
 과정을 이해하며 사용하면 도움이 됩니다. 답만 베끼면 안 됩니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

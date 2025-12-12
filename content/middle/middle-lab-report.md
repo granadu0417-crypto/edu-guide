@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 실험 보고서 완벽 마스터 전략 | 1:1 맞춤 지도, 실험, 보고서, 과학 [2025년]"
 tags: ["중학생", "실험", "보고서", "과학", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 ---
 
 ## 실험 보고서 쓰기가 너무 어려워요. 어떻게 써야 점수를 잘 받나요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 보고서 양식부터 익힙니다. 결과와 고찰의 차이, 좋은 보고서의 조건을 알려드립니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 실험 보고서가 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험 보고서의 중요성을 이해시키고, 체계적인 작성법을 단계별로 지도합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 실험 보고서는 어떻게 구성하나요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-보고서 양식을 함께 작성합니다. 각 항목에 무엇을 써야 하는지 예시로 보여줍니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 결과와 고찰은 뭐가 다른가요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-결과와 고찰의 차이를 명확히 알려줍니다. 좋은 고찰 작성법을 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 하는 실수가 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1578574577315-3fbeb0cecdc2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 보고서를 첨삭합니다. 자주 하는 실수를 짚어주고 개선 방법을 알려드립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문

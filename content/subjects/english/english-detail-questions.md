@@ -10,7 +10,7 @@ tags:
 - 독해
 - 세부정보
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
 ---
 
 ## 세부 정보 찾기 문제에서 지문이 너무 길어서 찾기 힘들다고요? 비슷한 내용이 많아서 헷갈린다고요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스캐닝 기법을 체계적으로 훈련합니다. 빠르고 정확하게 정보를 찾는 법을 익힙니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 스캐닝 3단계
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-3단계 스캐닝 기법을 연습합니다. 타이머를 사용해 속도를 높입니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 키워드 매칭 전략
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-키워드 매칭 전략을 실전 문제로 연습합니다. 정확도와 속도를 높입니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 함정 선택지 패턴
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-함정 선택지 패턴을 분석합니다. 실수를 줄이는 방법을 훈련합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 동의어 치환 주의
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동의어 치환 패턴을 정리합니다. 다른 표현도 같은 의미임을 인식하는 연습을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,35 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 100% 일치만 정답입니다. 부분 일치, 과장, 축소는 모두 오답입니다. 의심되면 지문을 다시 확인하세요.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 세부 정보 찾기는 스캐닝 기법과 키워드 매칭만 익히면 쉽게 정복할 수 있습니다. 고유명사와 숫자를 빠르게 찾는 연습을 하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 스캐닝 기법을 마스터합니다. 정확도와 속도를 동시에 높여드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>

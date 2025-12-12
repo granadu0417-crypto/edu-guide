@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0988_j0BYuVLswQw.jpg"
 ---
 
 ## 중학교 내신이 고등학교에 영향이 있나요? 지금부터 관리해야 하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 내신 시험 일정에 맞춰 체계적으로 준비합니다. 시험 전 집중 복습 기간을 따로 잡습니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 중학교 내신이 왜 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험 범위에 맞춰 내신을 준비합니다. 학교별 기출 유형을 분석해서 시험에 나올 문제를 예측합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 중학교 내신은 어떻게 관리하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 선생님의 수업 자료와 프린트를 같이 분석합니다. 시험에 나올 포인트를 짚어줍니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 중학교 때 선행을 해야 하나요?
@@ -55,11 +55,11 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 그런데 현재가 먼저입니다. 현재 학년 내용도 안 되는데 선행하면 안 됩니다. 기초 없이 선행하면 둘 다 망합니다. 현재가 완벽하면 그 다음 선행입니다.
 
-무리하지 마세요. 선행 2~3학년은 무리입니다. 한 학기 정도 앞서가는 게 현실적입니다. 너무 많이 하면 지치고 까먹습니다.
+무리하지 마세요. 선행 2-3학년은 무리입니다. 한 학기 정도 앞서가는 게 현실적입니다. 너무 많이 하면 지치고 까먹습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞춰 선행 진행 여부를 결정합니다. 무리한 선행은 권하지 않습니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 **Q. 특목고를 가려면 어떻게 해야 하나요?**
 
-내신 1~2등급이 기본입니다. 영어, 수학은 특히 중요합니다. 자기소개서와 면접 준비도 해야 합니다.
+내신 1-2등급이 기본입니다. 영어, 수학은 특히 중요합니다. 자기소개서와 면접 준비도 해야 합니다.
 
 **Q. 학원이 나은가요, 과외가 나은가요?**
 
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중학교 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 내신 관리 전략을 안내해 드립니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 마무리

@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0157_FHnnjk1Yj7Y.jpg"
 ---
 ## 시험 일주일 남았는데 범위가 너무 많아요. 지금이라도 다 볼 수 있을까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 1주 전에는 오답 중심으로 빠르게 복습합니다. 새로운 문제보다 틀렸던 문제를 다시 풀어보는 것이 효과적입니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 시험 유형별 최종 점검
@@ -34,12 +34,12 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 직전에는 불안을 줄이는 것도 중요합니다. 할 수 있는 것에 집중하고 완벽보다 완주를 목표로 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 마지막 1주일 활용법
 
-이 시기의 목표는 완성도 높이기입니다. 문제집을 2회독하고 오답을 재풀이하며 모의고사를 풀고 실수 노트를 정리합니다. 평일에는 4~5시간, 주말에는 8~10시간 집중 학습합니다.
+이 시기의 목표는 완성도 높이기입니다. 문제집을 2회독하고 오답을 재풀이하며 모의고사를 풀고 실수 노트를 정리합니다. 평일에는 4-5시간, 주말에는 8-10시간 집중 학습합니다.
 
 새로운 문제집을 시작하지 마세요. 지금까지 풀었던 문제에서 틀린 것을 다시 푸는 것이 더 효과적입니다. 핵심 개념을 빠르게 훑어보고 암기 사항을 최종 점검하세요.
 
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전날까지 학습 상황을 체크합니다. 무리하지 않도록 컨디션 관리에 대한 조언도 함께 드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 시험 당일 체크리스트
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 루틴까지 함께 점검합니다. 긴장을 푸는 방법과 실수를 줄이는 방법을 미리 연습합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 {{< cta-dual type="final" >}}

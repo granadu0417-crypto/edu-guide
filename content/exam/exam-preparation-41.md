@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0181_l9QiVK1TmPs.jpg"
 ---
 ## 시험이 2주 밖에 안 남았는데 아직 준비가 덜 됐어요. 지금부터 뭘 해야 하나요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-남은 2주를 최대한 효율적으로 활용하도록 합니다. 시험 범위를 분석하고 자주 출제되는 부분부터 집중 공략합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 2주 전에 해야 할 일
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상태를 진단하고 2주 학습 계획을 세웁니다. 매일 목표를 정해 실천하도록 관리합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 첫째 주 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 주에 개념을 확실히 잡습니다. 모르는 부분을 질문하고 바로 해결하도록 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 둘째 주 전략
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-둘째 주에는 실전 문제 풀이 위주로 수업합니다. 오답 분석을 꼼꼼히 하여 같은 실수를 반복하지 않도록 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 과목별 2주 전략
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성에 맞는 공부법을 안내합니다. 남은 시간 동안 효율적으로 준비할 수 있도록 관리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 컨디션 관리
@@ -99,6 +99,38 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 **Q. 오답 노트 꼭 만들어야 하나요?**
 
 시간이 없으면 간단하게라도 정리하세요. 틀린 문제를 다시 보는 것만으로도 효과가 있습니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

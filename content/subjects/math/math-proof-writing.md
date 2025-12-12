@@ -14,7 +14,7 @@ tags:
 - 1:1과외
 - 과외
 - 추론
-featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0552_QAwSbedbHD0.jpg"
 ---
 
 ## 증명 문제만 나오면 막막하다고요? 어디서부터 시작해야 할지도 모르겠고 논리적으로 쓰는 게 어렵다고 느끼시죠.
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-증명의 기본 구조부터 차근차근 가르칩니다. 논리적 전개를 체계적으로 훈련합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 증명 기법
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-네 가지 증명 기법을 각각 연습합니다. 상황에 맞는 기법을 선택하도록 훈련합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 증명 작성 단계
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4단계 작성 과정을 체화시킵니다. 스스로 증명을 완성할 수 있도록 훈련합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 논리적 표현
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기호 사용과 서술 표현을 연습합니다. 명확하고 엄밀한 증명을 쓰도록 합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 흔한 실수
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 실수를 미리 짚어줍니다. 같은 실수를 반복하지 않도록 훈련합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 자주 묻는 질문
@@ -84,6 +84,6 @@ featured_image: "https://images.unsplash.com/photo-1589395937527-f9d5b2a9e1f9?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-증명 작성을 완벽히 마스터시킵니다. 논리적 사고와 명확한 표현 능력을 키워드립니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 

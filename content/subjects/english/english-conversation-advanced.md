@@ -10,7 +10,7 @@ tags:
 - 고급회화
 - 토론
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 ---
 
 ## 기본 대화는 되는데 더 깊은 얘기를 하려면 막힌다고요? 토론이나 발표를 영어로 하고 싶은데 자신이 없다고요.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 회화 수준을 진단하고 유창성 향상 계획을 세웁니다. 토론과 발표 연습을 진행합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 토론 능력 키우기
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-토론 표현을 체계적으로 익힙니다. 실제 주제로 토론 연습을 진행합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 고급 표현 익히기
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이디엄과 구동사를 상황별로 정리합니다. 자연스러운 표현력을 키웁니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 유창성 향상법
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유창성 향상을 위한 즉흥 말하기 연습을 합니다. 자연스러운 연결 표현을 익힙니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -65,11 +65,35 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 많이 말하는 것이 답입니다. 연습량이 유창성을 만듭니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 고급 회화는 유창함과 자연스러움을 목표로 합니다. 많이 말하고 다양한 주제로 토론하면 누구나 마스터할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 고급 회화 수업으로 유창성을 키웁니다. 토론과 발표 실력을 향상시킵니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>

@@ -16,7 +16,7 @@ tags:
 - 1:1과외
 - 과외
 - 기초
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0563_Vdoz_CbxB4g.jpg"
 ---
 
 ## 문제집이 너무 많아서 뭘 사야 할지 모르겠다고요? 어떤 게 내 수준에 맞는지 헷갈리시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수준을 정확히 파악하여 맞춤 문제집을 추천합니다. 서점에서 혼자 고르지 않아도 됩니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 수준별 선택
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 문제집을 단계별로 추천합니다. 너무 쉽거나 어려운 문제집으로 시간 낭비하지 않습니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 시기별 선택
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기에 맞는 문제집을 추천합니다. 내신 시험 전과 방학 때 다른 전략으로 접근합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 문제집 선택 기준
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-해설이 좋은 문제집을 추천합니다. 학생이 혼자서도 복습할 수 있는 교재를 선택합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 효과적인 활용법
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제집 활용법까지 지도합니다. 한 권을 어떻게 완벽히 소화하는지 방법을 알려드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 주의사항
@@ -84,12 +84,48 @@ featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=
 
 최소 3번을 권장합니다. 1회독 전체, 2회독 틀린 것, 3회독 다시 틀린 것을 풉니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
 ## 마무리
 
 문제집은 많이 푸는 것보다 한 권을 완벽히 하는 것이 중요합니다. 자신의 수준에 맞는 문제집을 선택하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개인 수준에 맞는 문제집을 추천하고 효과적인 활용법까지 지도합니다. 문제집 선택 고민을 해결해드립니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 

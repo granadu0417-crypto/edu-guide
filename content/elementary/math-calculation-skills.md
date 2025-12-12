@@ -9,7 +9,7 @@ tags:
 - 연산
 - 초등교육
 - 초등학습
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0137_7ub1eAqc2vw.jpg"
 ---
 ## 계산이 느려서 시험 시간이 부족하다고요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 연산 속도와 정확도를 확인합니다. 어디서 막히는지, 어떤 실수를 자주 하는지 파악하고 약점부터 보완합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 학년별 연산 목표
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞지 않게 앞서가려 하지 않습니다. 현재 학년 내용이 완벽해야 다음 단계로 넘어갑니다. 기초가 단단해야 응용이 됩니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 매일 꾸준한 연산 연습
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 암산 연습을 자주 합니다. 10 만들기, 구구단 거꾸로 말하기 같은 간단한 게임으로 연산 감각을 키웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 오답 노트 활용하기
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-구구단도 단순 암기가 아니라 규칙을 찾으며 외웁니다. 왜 그렇게 되는지 이해하면 잊어버려도 다시 유추할 수 있습니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 학년별 추가 팁

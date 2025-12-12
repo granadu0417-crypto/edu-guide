@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0708_lP8sahz2M84.jpg"
 ---
 
 ## 고구려, 백제, 신라 특징이 헷갈리고 삼국 관계가 복잡하다고요? 각 나라의 건국과 발전부터 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼국의 건국 시기와 위치를 지도로 확인합니다. 각 나라의 특징을 비교합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 고구려
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고구려의 전성기 영토를 지도로 확인합니다. 광개토대왕릉비의 내용을 분석합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 백제
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-백제의 도읍 변천을 정리합니다. 백제 문화의 특징과 일본 전파를 분석합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 신라
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-신라의 발전 과정을 정리합니다. 진흥왕 순수비의 의미를 분석합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 삼국의 문화
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-삼국의 문화재를 비교합니다. 불교 문화의 특징을 정리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,35 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 한강 유역 차지와 당나라 동맹으로 국력을 키웠기 때문입니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 삼국시대는 각 나라 특징, 전성기, 문화가 핵심입니다. 삼국의 왕과 업적을 비교표로 정리하세요. 지도와 문화재를 연결하면 이해가 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 삼국시대를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>

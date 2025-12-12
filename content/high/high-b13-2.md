@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 ---
 ## 생기부가 중요하다는 건 알겠는데, 뭘 어떻게 채워야 하는 건지 모르겠어요
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 관심 분야를 파악하고, 그에 맞는 비교과 활동을 설계합니다. 생기부 전체의 일관성을 유지합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 비교과 활동의 핵심
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1학년 때 한 활동을 2학년 때 심화합니다. 성장 스토리를 만들어가는 게 핵심입니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 세부능력특기사항 관리
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 어떻게 참여해야 하는지, 어떤 주제로 발표하면 좋은지 코칭합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 동아리 활동
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동아리에서 어떤 프로젝트를 하면 좋을지, 어떻게 기록을 남길지 함께 계획합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 독서 활동
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진로에 맞는 필독서를 선정하고, 깊이 있게 읽는 방법을 안내합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 봉사 활동
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-봉사 활동도 진로와 연결합니다. 의미 있는 봉사가 무엇인지 함께 찾아봅니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 주의사항
@@ -102,7 +102,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 **Q. 비교과 활동은 몇 개가 적당한가요?**
 
-개수보다 깊이입니다. 의미 있는 활동 3~4개가 잡다한 활동 10개보다 낫습니다.
+개수보다 깊이입니다. 의미 있는 활동 3-4개가 잡다한 활동 10개보다 낫습니다.
 
 **Q. 진로가 바뀌면 어떡하나요?**
 
@@ -111,6 +111,18 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 **Q. 학종이 아니면 비교과 안 해도 되나요?**
 
 교과전형이나 정시라도 최소한의 활동은 필요합니다. 면접이 있는 전형도 있고, 대학 생활에도 도움이 됩니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
 
 ## 마무리
 

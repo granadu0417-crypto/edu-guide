@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "울산시의 학원, 과외, 교육 환경을 완벽 분석합니다. 산업도시 울산의 삼산동 학원가부터 울산대·UNIST 과외, 부산 접근성까지 맞춤 교육 정보를 제공합니다."
 tags: ["울산교육", "울산학원", "울산과외", "삼산동학원", "울산대과외", "UNIST과외", "산업도시교육", "현대중공업", "부산접근성", "지역교육"]
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 ---
 
 ## 울산에서 아이 교육 어떻게 시키면 좋을까요? 대전이나 부산보다 학원이 적어서 걱정되시죠.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 거주 지역과 목표에 맞는 교육 환경을 분석합니다. 울산 지역 특성에 맞춘 학습 전략을 안내합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 울산 교육의 강점과 약점
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-울산 교육의 강점을 최대한 활용하는 방법을 안내합니다. 약점을 보완할 수 있는 대안도 함께 제시합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 울산 주요 교육 지역
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-거주 지역의 교육 환경을 분석합니다. 지역별 학원과 과외 선택지를 안내합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 울산 대학생 과외 시장
@@ -50,7 +50,7 @@ UNIST생 과외는 전국 최상위 이공계 학생에게 수학과 과학 심�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표와 수준에 맞는 대학생 과외 선생님을 연결합니다. UNIST나 울산대 또는 부산 대학 중 적합한 선택지를 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 교육 전략
@@ -59,7 +59,7 @@ UNIST생 과외는 전국 최상위 이공계 학생에게 수학과 과학 심�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년과 목표에 맞는 학습 로드맵을 제시합니다. 울산 지역 특성을 반영한 입시 전략을 안내합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 울산 주요 학교 분석
@@ -74,7 +74,7 @@ UNIST생 과외는 전국 최상위 이공계 학생에게 수학과 과학 심�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 시험 특성과 출제 경향을 분석합니다. 선생님별 문제 스타일까지 파악해 맞춤 내신 대비를 진행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -98,6 +98,30 @@ UNIST 학생회 게시판이나 울산 과외 중개 플랫폼, 삼산동 학원
 **Q. 온라인 과외도 효과가 있나요?**
 
 집중력만 유지된다면 온라인도 효과적입니다. UNIST나 부산대 선생님 수업을 받을 수 있다는 장점이 있습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

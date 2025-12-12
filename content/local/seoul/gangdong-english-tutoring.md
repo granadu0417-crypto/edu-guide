@@ -8,7 +8,7 @@ regions:
 cities:
   - 강동구
 tags: ["강동구", "영어과외", "고덕동", "명일동", "천호동", "영어", "과외", "영어회화", "내신영어", "수능영어", "1:1과외", "초등영어", "중등영어", "고등영어"]
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0320_h4ftfGi2gBs.jpg"
 ---
 
 "송파구 옆이니까 영어 교육도 비슷할까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 많이들 물어보시는 부분입니다.
 솔직히 말씀드리면, **강동구는 강동구만의 장점이 있습니다.** 송파구보다 경쟁이 덜 치열하면서도, 건국대가 가까워서 검증된 대학생 선생님을 만나기 좋아요.
 
-![강동구 영어과외](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=600&fit=crop)
+![강동구 영어과외](/images/edu_0270_dUEys4mnoK4.jpg)
 
 ## 강동구 영어 교육, 어떤 특징이 있나요?
 
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"오늘 학교에서 뭐 했어?" 영어로 일상 대화부터 시작합니다. 자연스럽게 말하는 습관이 영어 실력의 기본이에요.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ### 명일동 - 안정적인 학습 환경
@@ -56,14 +56,14 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 영어 수준을 정확히 파악합니다. 어디서 막혔는지, 어떤 부분이 약한지 진단부터 꼼꼼히!
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 학년별 영어과외 가이드
 
 ### 초등학생 - 영어랑 친해지는 시간
 
-**저학년(1~3학년): "영어 재밌다!"가 목표**
+**저학년(1-3학년): "영어 재밌다!"가 목표**
 
 이 시기에 문법 먼저 가르치면 영어를 싫어하게 됩니다.
 **자연스럽게 영어에 노출**되는 게 최고예요.
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 - 노래와 게임으로 흥미 유발
 - 원어민 발음에 충분히 노출
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 영어가 확 어려워집니다.
 **기초 문법과 어휘력**을 미리 잡아두세요.
@@ -83,16 +83,16 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 - 영작문 기초 다지기
 - 중등 대비 어휘력 확장
 
-초등 영어과외 비용은 주 1회 기준 약 12만원에서 22만원, 주 2회 기준 약 25만원에서 38만원 선입니다.
+초등 영어과외 비용은 주 1회 기준 약 12만원 -  22만원, 주 2회 기준 약 25만원 -  38만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 그림책을 함께 읽으며 단어를 익힙니다. "이 그림 뭐야?" "It's a cat!" 자연스럽게 말하기 연습!
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ### 중학생 - 문법과 독해의 기초를 다지는 시기
 
-**중1~중2: 영어의 뼈대를 세우세요**
+**중1-중2: 영어의 뼈대를 세우세요**
 
 중학교 영어를 대충 넘기면 고등 영어가 안 됩니다.
 **문법 개념 정리**가 핵심이에요.
@@ -111,16 +111,16 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 - 내신과 수능의 차이 이해
 - 특목고 진학 대비(필요시)
 
-중학생 영어과외 비용은 주 1회 기준 약 22만원에서 32만원, 주 2회 기준 약 30만원에서 48만원 선입니다.
+중학생 영어과외 비용은 주 1회 기준 약 22만원 -  32만원, 주 2회 기준 약 30만원 -  48만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"관계대명사가 뭐예요?" 문법 용어보다 실제 문장에서 어떻게 쓰이는지 보여줍니다. 예문으로 이해하면 잊어버리지 않아요.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 영어는 문장 구조가 복잡합니다.
 **구문 분석 능력**을 확실히 잡아야 해요.
@@ -140,11 +140,11 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 - 시간 관리와 실수 최소화
 - 최신 출제 경향 파악
 
-고등학생 영어과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 집중 관리가 가능합니다.
+고등학생 영어과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 집중 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. "이 문제 왜 틀렸지?" 틀린 이유를 알면 같은 실수를 안 해요.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 회화 vs 문법, 뭘 먼저 해야 하나요?
@@ -171,7 +171,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-목표에 따라 수업 방향을 정합니다. 회화가 목표면 회화 중심으로, 입시가 목표면 독해 중심으로!
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -208,7 +208,7 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 영어로 말하기 편한 분위기인지가 가장 중요합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 강동구의 장점을 활용하세요
@@ -257,12 +257,12 @@ featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=
 **Q. 과외만으로 영어 실력이 늘까요?**
 
 솔직히 **과외만으로는 부족**합니다.
-일주일에 2~3시간 과외보다 매일 30분 영어 노출이 더 중요해요.
+일주일에 2-3시간 과외보다 매일 30분 영어 노출이 더 중요해요.
 과외는 방향을 제시하고, 실력은 스스로 하는 학습에서 나옵니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 영어 단어 10개씩! 작은 습관이 큰 실력이 됩니다. 과외 시간에는 암기 점검과 활용 연습을 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 마치며

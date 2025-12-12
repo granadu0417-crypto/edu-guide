@@ -11,7 +11,7 @@ tags:
 - 초등학습
 - 학습가이드
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0138_ToXcOYNaqzo.jpg"
 ---
 ## 수학 문장제만 나오면 막히나요? 독해력이 문제입니다
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 글을 읽고 이해하는 수준을 먼저 확인합니다. 어디서 막히는지 파악하고, 학년에 맞는 독해 연습부터 시작합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 매일 꾸준한 독서 습관 만들기
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작 전에 아이가 최근에 읽은 책에 대해 이야기 나눕니다. 책 내용을 말로 설명하는 것 자체가 독해력 훈련입니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 읽은 내용 대화로 확인하기
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 종류의 글을 읽습니다. 설명문, 논설문, 이야기 글 등 글의 종류에 따라 읽는 방법이 다르다는 것을 알려줍니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 소리 내어 읽기 연습
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 문제를 풀 때 왜 그 답이 맞는지 설명하게 합니다. 답만 맞히는 것보다 근거를 찾는 연습이 더 중요합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 독해력 향상을 위한 가정 환경 조성

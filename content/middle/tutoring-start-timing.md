@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "과외는 언제 시작해야 할까요? 학년별, 상황별 최적의 과외 시작 시점을 알려드립니다."
 tags: ["중등과외", "1:1과외", "학습전략", "과외시기"]
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0233_A6YXVe6Qcnw.jpg"
 ---
 
 ## 과외를 언제 시작해야 하나요? 지금 시작해도 늦지 않았을까요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황을 분석하고 최적의 시작 시기를 조언합니다. 늦었다고 생각할 때가 가장 빠릅니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 성적이 떨어지기 시작할 때가 적기입니다
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-성적 하락의 원인을 진단합니다. 개념 이해 부족인지 문제 풀이력 부족인지 파악하고 맞춤 전략을 세웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 학년 올라가기 전이 중요합니다
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 때 다음 학기 선행과 이전 학기 복습을 병행합니다. 학년 전환기를 안정적으로 넘길 수 있도록 준비합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 특정 과목에서 막혔을 때 시작하세요
@@ -50,18 +50,18 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-어디서 막혔는지 정확히 진단합니다. 기초부터 다시 잡을지 현재 진도를 따라갈지 판단하고 진행합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 학습 습관이 무너졌을 때 시작하세요
 
-숙제를 시작은 하는데 끝을 못 내나요? 공부 계획은 세우는데 실행이 안 되나요? 벼락치기로만 시험 준비하나요? 이런 패턴이 보이면 습관 교정이 필요합니다. 중1이라면 2~3개월이면 교정 가능합니다. 중2는 4~6개월, 중3은 6개월 이상 걸립니다.
+숙제를 시작은 하는데 끝을 못 내나요? 공부 계획은 세우는데 실행이 안 되나요? 벼락치기로만 시험 준비하나요? 이런 패턴이 보이면 습관 교정이 필요합니다. 중1이라면 2-3개월이면 교정 가능합니다. 중2는 4-6개월, 중3은 6개월 이상 걸립니다.
 
 습관 문제라면 과외보다 먼저 습관 코칭이 필요할 수 있습니다. 학습 의지가 전혀 없다면 강제로 시작해도 효과가 없습니다. 동기부여 면담을 먼저 하고 학생이 원할 때 시작하는 것이 좋습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관 점검부터 시작합니다. 숙제 관리, 복습 시스템, 시간 관리를 함께 만들어갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=
 
 **Q. 여러 과목을 동시에 시작해야 하나요?**
 
-아니요. 1~2과목부터 시작하세요. 가장 급한 과목, 올리기 쉬운 과목부터 합니다. 안정화 후 추가하세요.
+아니요. 1-2과목부터 시작하세요. 가장 급한 과목, 올리기 쉬운 과목부터 합니다. 안정화 후 추가하세요.
 
 **Q. 과외 효과는 언제 나타나나요?**
 

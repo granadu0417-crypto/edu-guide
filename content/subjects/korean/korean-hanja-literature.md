@@ -11,7 +11,7 @@ tags:
 - 한시
 - 한문산문
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0458_BGycTXIrth4.jpg"
 ---
 
 ## 한문학 지문이 나오면 어떻게 읽어야 할지 모르겠다고요? 기본 구조를 알면 해석이 쉬워집니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한문학의 기본 개념을 정리합니다. 한시와 한문 산문의 감상법을 체계적으로 학습합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 한시의 이해
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한시의 형식과 구조를 정리합니다. 대표 작품을 분석합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 한문 산문의 이해
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-한문 산문의 유형을 정리합니다. 주요 작품과 작가를 학습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 주요 작품 정리
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 작품을 분석합니다. 작가별 특징과 주제를 정리합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 유형별 접근법을 훈련합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 한문학을 체계적으로 학습합니다. 작품 분석과 문제 풀이를 함께 연습합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>

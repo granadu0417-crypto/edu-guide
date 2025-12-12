@@ -13,16 +13,16 @@ tags:
 - e-learning
 - 디지털
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0397_omeaHbEFlN4.jpg"
 ---
 
 ## 온라인으로 영어 공부해도 효과가 있냐고요? 어떤 사이트를 써야 할지 모르겠다고요.
 
-영어 온라인 학습은 올바른 선택과 활용으로 매우 효과적입니다. 무료 자료가 넘쳐나지만 검증된 것을 골라야 합니다. 목적에 맞게 2~3개만 집중해서 사용하세요.
+영어 온라인 학습은 올바른 선택과 활용으로 매우 효과적입니다. 무료 자료가 넘쳐나지만 검증된 것을 골라야 합니다. 목적에 맞게 2-3개만 집중해서 사용하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 목표와 환경을 파악합니다. 목적에 맞는 플랫폼과 자료를 추천합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 무료 플랫폼 추천
@@ -31,18 +31,18 @@ EBS는 수능 준비에 필수입니다. 무료이고 검증된 콘텐츠입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-검증된 무료 플랫폼 리스트를 제공합니다. 레벨에 맞는 콘텐츠를 함께 선별합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 앱 활용법
 
-어휘 암기는 Anki나 Quizlet이 좋습니다. 간격 반복으로 장기 기억을 만듭니다. 틈새 시간에 활용하세요. 듣기는 TED나 팟캐스트를 추천합니다. 다양한 주제와 레벨이 있고 이동 중에 들을 수 있습니다. 앱은 2~3개면 충분합니다. 너무 많으면 오히려 비효율입니다.
+어휘 암기는 Anki나 Quizlet이 좋습니다. 간격 반복으로 장기 기억을 만듭니다. 틈새 시간에 활용하세요. 듣기는 TED나 팟캐스트를 추천합니다. 다양한 주제와 레벨이 있고 이동 중에 들을 수 있습니다. 앱은 2-3개면 충분합니다. 너무 많으면 오히려 비효율입니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생에게 맞는 앱을 선별합니다. 효율적인 활용법을 함께 계획합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 효과적인 활용 전략
@@ -51,7 +51,7 @@ EBS는 수능 준비에 필수입니다. 무료이고 검증된 콘텐츠입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 일과에 맞는 학습 루틴을 설계합니다. 능동적 학습법을 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 주의사항
@@ -60,7 +60,7 @@ EBS는 수능 준비에 필수입니다. 무료이고 검증된 콘텐츠입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-온라인 학습의 함정을 알려드립니다. 효과적인 병행 학습 전략을 제시합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,7 +75,7 @@ EBS는 수능 준비에 필수입니다. 무료이고 검증된 콘텐츠입니�
 
 **Q. 앱을 몇 개나 써야 하나요?**
 
-2~3개면 충분합니다. 너무 많으면 오히려 비효율적입니다.
+2-3개면 충분합니다. 너무 많으면 오히려 비효율적입니다.
 
 ## 마무리
 
@@ -83,5 +83,5 @@ EBS는 수능 준비에 필수입니다. 무료이고 검증된 콘텐츠입니�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 온라인 과외로 체계적으로 학습합니다. 자료 추천과 활용법 지도로 온라인 학습 효과를 극대화합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>

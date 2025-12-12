@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0976_uwNceBkSV3U.jpg"
 ---
 
 ## 수학 공식은 알겠는데 문제가 안 풀려요. 과외를 받으면 나아질까요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 과외 상담에서는 학생이 어디서 막히는지 먼저 진단합니다. 개념 이해가 문제인지, 적용력이 문제인지, 연산 실수가 문제인지 파악합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 수학 과외가 왜 효과적인가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 과외 시작 전 진단 테스트를 진행합니다. 어디서부터 시작해야 하는지 정확히 파악해드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 진학 상담은 입시에서 수학 전략을 세울 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 설명 → 예제 풀이 → 유사 문제 연습 → 오답 분석 순서로 진행합니다. 학생이 완전히 이해할 때까지 반복합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 수학 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 적정량의 숙제를 내드립니다. 다음 수업에서 숙제 점검하고, 틀린 문제는 다시 풀어봅니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 **Q. 주 몇 회가 적당한가요?**
 
-수학은 주 2~3회 추천합니다. 수학은 연습이 중요해서 자주 점검해야 합니다.
+수학은 주 2-3회 추천합니다. 수학은 연습이 중요해서 자주 점검해야 합니다.
 
 **Q. 문제집은 뭘 써야 하나요?**
 
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 개념부터 심화까지 맞춤 수업을 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 마무리

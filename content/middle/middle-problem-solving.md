@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 문제 풀이 완벽 마스터 전략 | 1:1 맞춤 지도, 문제풀이, 전략, 유형 [2025년]"
 tags: ["중학생", "문제풀이", "전략", "유형", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 ---
 
 ## 개념은 아는 것 같은데 막상 문제를 풀면 안 풀려요. 왜 그런 거예요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념과 문제를 연결하는 훈련을 합니다. 문제를 보고 어떤 개념을 적용해야 하는지 판단하는 연습을 집중적으로 합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 개념을 아는 것과 적용하는 것은 다릅니다
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제를 풀기 전에 분석하는 습관을 훈련합니다. 어떤 개념인지, 어떤 유형인지 판단하는 연습을 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 문제 풀이 4단계가 뭔가요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-4단계 문제 풀이법을 체계적으로 훈련합니다. 문제를 어떻게 접근해야 하는지 하나씩 알려드립니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 실수는 어떻게 줄이나요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실수 패턴을 분석합니다. 맞춤형 실수 방지 전략을 세워드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 시간이 부족할 때는 어떻게 하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 재면서 푸는 훈련을 합니다. 실전처럼 연습해서 시간 관리 능력을 키웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문

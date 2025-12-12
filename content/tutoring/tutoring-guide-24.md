@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 ---
 
 ## 수학 과외를 시작하려는데, 개념이 먼저인가요 문제 풀이가 먼저인가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 과외 상담에서는 학생이 개념이 부족한지 문제 풀이력이 부족한지 먼저 진단합니다. 둘 다 잡아야 점수가 옵니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 수학 과외가 왜 필요한가요?
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 과외 시작 전에 진단 테스트를 진행합니다. 어디서부터 막히는지 정확히 파악한 후 수업을 시작합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 수학 과외는 어떻게 진행되나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 → 기본 → 유형 → 심화 순서로 단계별 진행합니다. 학생 수준에 맞춰 속도를 조절합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 수학 과외에서 가장 중요한 건 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 오답 노트 작성을 권장합니다. 틀린 문제를 다시 안 틀리는 게 실력입니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1599687351724-dfa3c4ff81b5?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수학 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 개념부터 심화까지 맞춤 수업을 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 마무리

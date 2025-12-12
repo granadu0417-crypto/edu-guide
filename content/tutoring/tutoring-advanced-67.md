@@ -11,7 +11,7 @@ tags:
 - 학습상담
 - 학습코칭
 - 학원
-featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0941_ItFTJoh1A8c.jpg"
 ---
 
 ## 과학은 외우려고 해도 너무 양이 많아요. 개념 이해랑 암기 중 뭐가 더 중요한가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무작정 외우지 않습니다. 왜 그렇게 되는지 원리부터 설명합니다. 이해하면 외울 것이 줄어듭니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과학에서 이해가 왜 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식이 어디서 나왔는지 유도해 봅니다. 유도할 수 있으면 까먹어도 다시 만들 수 있습니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 개념 이해는 어떻게 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그림을 그리면서 설명합니다. 눈으로 보면 이해가 훨씬 빠릅니다. 학생도 직접 그려보게 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 실험은 어떻게 공부하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실험을 직접 설계해 보는 연습을 합니다. 변인 통제를 이해하면 실험 문제가 쉬워집니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,8 +84,32 @@ featured_image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과학 학습에 대해 더 궁금한 점이 있으시면 문의하세요. 이해 중심 학습법을 안내해 드립니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

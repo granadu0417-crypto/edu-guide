@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0956_5kCcraippAg.jpg"
 ---
 
 ## 과외를 처음 해보는데 첫 수업에서 뭘 해야 하나요? 긴장되네요.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 상담에서는 학생의 현재 상태와 목표를 먼저 파악합니다. 바로 진도를 나가지 않고, 서로 알아가는 시간을 가집니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 첫 수업에서는 뭘 하나요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 학생 진단 후 맞춤 커리큘럼을 설계합니다. 바로 다음 수업부터 본격적으로 시작합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 첫 수업 전에 뭘 준비해야 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 전에 필요한 준비물을 미리 안내해 드립니다. 준비가 되어 있으면 첫 수업이 더 알차집니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 첫 수업에서 중요한 건 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서는 학생이 편하게 이야기할 수 있는 분위기를 만듭니다. 긴장 풀고 편하게 대화해 주세요.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에 대해 더 궁금한 점이 있으시면 문의하세요. 성공적인 과외 시작을 위한 준비 방법을 안내합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 마무리

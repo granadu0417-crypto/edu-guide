@@ -17,7 +17,7 @@ tags:
 - 과외
 - 고급
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0700_Zww0wvbcy8Y.jpg"
 ---
 
 ## 직업인의 책임과 윤리가 헷갈리고 직업윤리 문제가 복잡하다고요? 직업의 의미와 직업윤리의 원칙부터 파악하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-직업의 의미와 가치를 먼저 설명합니다. 직업윤리의 기본 원칙을 정리합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 직업의 의미
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-직업의 의미를 여러 관점에서 분석합니다. 바람직한 직업관을 토론합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 직업윤리의 원칙
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-직업윤리의 기본 덕목을 정리합니다. 실제 사례에 원칙을 적용합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 전문직 윤리
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전문직별 윤리 강령을 비교합니다. 전문직 윤리의 중요성을 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 기업 윤리
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기업의 사회적 책임을 분석합니다. 윤리적 기업 경영 사례를 정리합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 시험 대비
@@ -85,11 +85,35 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 이윤 추구 외에 환경, 사회, 윤리적 책임을 다하는 것입니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 직업윤리는 직업의 의미, 윤리 원칙, 분야별 윤리가 핵심입니다. 기본 덕목을 정리하고 사례에 적용하세요. 전문직과 기업 윤리의 특성을 비교하면 이해가 깊어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 직업윤리를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>

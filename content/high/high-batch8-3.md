@@ -15,7 +15,7 @@ tags:
 - 수능
 - 시험준비
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0640_8Z9z5rSuahA.jpg"
 ---
 ## 이제 진짜 수능까지 얼마 안 남았어요. 뭐부터 해야 할지 너무 막막해요.
 
@@ -23,7 +23,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 상황을 정확히 파악합니다. 내신 등급, 모의고사 등급, 목표 대학을 분석해서 합격 전략을 세웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 고3 시기별 전략
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시기별 계획을 세웁니다. 언제 내신에 집중하고, 언제 수능에 집중할지 구체적으로 정합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 수시 전략
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시 6개를 어떻게 배분할지 전략을 세웁니다. 대학별 입결을 분석해서 합격 가능성을 계산합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 정시 전략
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 성적 발표 후 바로 정시 전략을 세웁니다. 어떤 대학에 지원할지 데이터로 분석합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 수능 최종 점검
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 전 최종 점검을 합니다. 오답 복습, 시간 관리, 컨디션 관리를 체크합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 멘탈 관리
@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-멘탈 관리도 도와줍니다. 불안하면 이야기하세요. 혼자 끙끙 앓지 말고 같이 해결합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 주의사항
@@ -112,6 +112,26 @@ featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=
 **Q. 정시는 언제부터 본격적으로 준비해요?**
 
 수능 공부는 지금부터 하면 됩니다. 정시 지원 전략은 수능 성적 발표 후에 세웁니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

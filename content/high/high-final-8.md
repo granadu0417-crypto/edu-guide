@@ -13,7 +13,7 @@ tags:
 - 수능
 - 입시전략
 - 정시
-featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0666_e1JRrh9sb-I.jpg"
 ---
 ## 학종으로 대학 가고 싶은데, 생기부를 어떻게 채워야 하는 건지 모르겠어요.
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 진로와 목표 대학을 파악합니다. 생기부를 어떻게 채워야 하는지 계획을 함께 세웁니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학종에서 보는 것
@@ -36,7 +36,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학종에서 무엇을 평가하는지 설명합니다. 학생에게 부족한 부분을 파악하고 보완합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 세특 관리
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세특을 어떻게 채워야 하는지 구체적으로 안내합니다. 어떤 활동을 할지 함께 계획합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 동아리 활동
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동아리 활동 계획을 세웁니다. 어떤 프로젝트를 할지, 어떤 역할을 맡을지 함께 정합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 독서 활동
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독서 목록을 함께 만듭니다. 진로에 맞는 책을 추천하고 독후 활동을 안내합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 일관성이 핵심
@@ -88,7 +88,7 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부 전체를 점검합니다. 일관성이 있는지, 빈틈은 없는지 확인하고 보완합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주의사항
@@ -107,11 +107,27 @@ featured_image: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=120
 
 **Q. 동아리 몇 개 해야 하나요?**
 
-1~2개면 충분합니다. 중요한 건 개수가 아니라 깊이입니다.
+1-2개면 충분합니다. 중요한 건 개수가 아니라 깊이입니다.
 
 **Q. 내신이 안 좋으면 학종은 안 되나요?**
 
 내신만 보는 게 아닙니다. 하지만 내신이 너무 낮으면 불리합니다. 내신도 어느 정도는 관리해야 합니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

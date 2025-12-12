@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 ---
 
 ## 초등학생 때부터 과외하면 너무 일찍 시작하는 건 아닌가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외는 공부 습관을 들이는 데 초점을 맞춥니다. 억지로 시키지 않고, 재미있게 배우는 방법을 찾아드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 초등 과외가 왜 필요한가요?
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원에서 못 따라가는 부분을 집중적으로 보충합니다. 학원과 병행하면서 구멍을 메웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 초등 과외는 어떻게 진행되나요?
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 목표를 작게 잡습니다. 목표를 달성하면 칭찬하고, 작은 성공 경험을 쌓아갑니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 초등 과외에서 가장 중요한 건 뭔가요?
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 후 학부모님께 오늘 배운 내용과 아이 상태를 공유합니다. 가정에서 어떻게 도와주면 좋을지 안내합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -70,11 +70,11 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 **Q. 몇 학년부터 시작하면 좋나요?**
 
-정해진 건 없습니다. 아이가 학습에 어려움을 느끼기 시작하면 빨리 시작하는 게 좋습니다. 보통 3~4학년부터 많이 시작합니다.
+정해진 건 없습니다. 아이가 학습에 어려움을 느끼기 시작하면 빨리 시작하는 게 좋습니다. 보통 3-4학년부터 많이 시작합니다.
 
 **Q. 초등 과외 주 몇 회가 적당한가요?**
 
-주 1~2회면 충분합니다. 초등학생은 너무 많으면 지칩니다. 대신 수업 사이에 복습을 잘 해야 합니다.
+주 1-2회면 충분합니다. 초등학생은 너무 많으면 지칩니다. 대신 수업 사이에 복습을 잘 해야 합니다.
 
 **Q. 학원 다니면서 과외도 해야 하나요?**
 
@@ -82,7 +82,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-초등 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 아이 수준에 맞는 학습 방법을 안내합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 마무리

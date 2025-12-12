@@ -13,7 +13,7 @@ tags:
 - motivation
 - habit
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0394_hCb3lIB8L8E.jpg"
 ---
 
 ## 영어 공부가 작심삼일이라고요? 시작은 열심히 하는데 며칠 못 간다고요.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 학습 패턴과 포기 원인을 분석합니다. 개인에게 맞는 동기부여 전략을 설계합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 동기의 종류와 활용
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 동기 유형을 파악합니다. 내재적 동기를 키울 수 있는 성공 경험을 만들어줍니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 목표 설정: SMART 원칙
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생과 함께 SMART 목표를 설정합니다. 큰 목표를 작은 단계로 나눕니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 습관 형성의 핵심
@@ -51,16 +51,16 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 하루 일과를 분석합니다. 습관 스택킹으로 자연스러운 학습 루틴을 만듭니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 슬럼프 극복법
 
-슬럼프는 누구에게나 옵니다. 의욕 저하, 집중 안 됨, 미루기가 징후입니다. 2~3일 완전히 쉬세요. 원인을 파악하세요. 목표가 불명확한지, 방법이 잘못됐는지, 과로인지 확인합니다. 작은 목표로 다시 시작하세요. 하루 안 했다고 포기하지 마세요.
+슬럼프는 누구에게나 옵니다. 의욕 저하, 집중 안 됨, 미루기가 징후입니다. 2-3일 완전히 쉬세요. 원인을 파악하세요. 목표가 불명확한지, 방법이 잘못됐는지, 과로인지 확인합니다. 작은 목표로 다시 시작하세요. 하루 안 했다고 포기하지 마세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-슬럼프 징후를 조기에 발견합니다. 원인을 함께 분석하고 재시작을 돕습니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 자주 묻는 질문
@@ -77,11 +77,35 @@ featured_image: "https://images.unsplash.com/photo-1453906971074-ce568cccbc63?w=
 
 최소 21일입니다. 66일 정도면 완전히 습관이 됩니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 영어 학습의 성공은 재능이 아닌 꾸준함입니다. 명확한 목표를 세우고 작은 습관부터 시작하세요. 슬럼프가 와도 포기하지 마세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 수업으로 지속적인 동기 관리와 습관 형성을 도와드립니다. 함께하면 포기하지 않습니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>

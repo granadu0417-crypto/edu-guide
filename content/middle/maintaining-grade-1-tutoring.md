@@ -10,7 +10,7 @@ tags:
 - 학습전략
 - 1등급
 - 내신관리
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 ---
 ## 1등급을 받았는데, 유지하는 게 더 힘들다고요?
 
@@ -18,7 +18,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1등급 학생에게는 기본 설명 대신 심화 문제와 전략에 집중합니다. 개념은 이미 아니까 더 높은 수준을 목표로 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 1등급을 잃는 이유
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에 학생의 컨디션을 확인합니다. 지쳐 보이면 무리하게 밀어붙이지 않습니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 심리 관리가 핵심입니다
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에 긴장이 심하면 마음을 가라앉히는 시간을 갖습니다. 수업이 아니라 대화가 필요할 때도 있습니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 학습 전략
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 이미 아는 내용은 빠르게 넘어갑니다. 시간을 절약해서 심화 문제에 더 투자합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 시험 준비 루틴
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전 마지막 수업에서는 새로운 내용을 가르치지 않습니다. 정리와 점검에 집중합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 번아웃 예방
@@ -75,7 +75,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 지쳐 보이면 과외 횟수를 줄이자고 먼저 제안합니다. 무리하면 역효과입니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 실수 최소화
@@ -99,6 +99,26 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 **Q. 고난도 문제는 어떻게 대비하나요?**
 
 심화 문제집을 과목당 1권 추가하고 하루 5에서 10문제씩 푸세요. 과외에서 고난도 문제 풀이 전략을 배우고, 변형 문제를 스스로 만들어보세요.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 시험 기간에만 과외 가능한가요?**
+
+가능합니다. 시험 2-3주 전부터 집중 수업을 진행합니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_1000_SqS3dho7PIU.jpg"
 ---
 
 ## 사회는 외울 게 너무 많아요. 다 외웠는데 시험 때 헷갈려요. 효율적으로 공부하는 방법이 있나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 과외 상담에서는 학생의 암기 방법과 이해도를 먼저 점검합니다. 무작정 외우는지, 맥락을 잡고 있는지 파악하고 맞춤 수업을 설계합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 사회 과외가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 과외 시작 전 진단 테스트를 진행합니다. 암기 위주로 공부하는지, 이해 위주로 공부하는지 확인해드립니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 진학 상담은 문과 진학이나 사회 관련 진로를 고민할 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-맥락 이해 → 핵심 정리 → 문제 풀이 순서로 진행합니다. 효율적으로 공부하는 방법을 알려드립니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 사회 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 핵심 정리와 복습 숙제를 내드립니다. 효율적인 암기법과 복습 주기를 안내합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-사회는 주 1~2회로도 충분합니다. 대신 수업 사이에 복습과 암기를 꾸준히 해야 합니다.
+사회는 주 1-2회로도 충분합니다. 대신 수업 사이에 복습과 암기를 꾸준히 해야 합니다.
 
 **Q. 사회도 기출문제를 풀어야 하나요?**
 
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사회 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 효율적인 암기법과 맥락 이해를 함께 안내합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 마무리

@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0837_Vpz_i_tpPiM.jpg"
 
 ---
 ## 중구 회현동 중학생, 영어 수여동사가 헷갈린다면
@@ -28,18 +28,18 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 수여동사의 이해 수준을 진단합니다. 4형식과 3형식 전환, 전치사 선택을 체계적으로 훈련합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 수여동사가 어려운 이유
 
-수여동사는 두 개의 목적어를 가지는 동사입니다. 간접목적어(~에게)와 직접목적어(~을)를 가집니다. give, send, show, teach 등이 있습니다. 문제는 3형식으로 바꿀 때 전치사가 다르다는 것입니다.
+수여동사는 두 개의 목적어를 가지는 동사입니다. 간접목적어(-에게)와 직접목적어(-을)를 가집니다. give, send, show, teach 등이 있습니다. 문제는 3형식으로 바꿀 때 전치사가 다르다는 것입니다.
 
 수여동사를 잘 사용하려면 전치사 규칙을 알아야 합니다. give, send, show, teach 등은 to를 쓰고, buy, make, cook 등은 for를 씁니다. 또한 explain, suggest 등은 수여동사가 아니므로 4형식으로 쓸 수 없습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수여동사별 전치사 규칙을 정확히 익힙니다. 4형식과 3형식을 자유롭게 전환하는 연습을 합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 덕수중·환일중·장원중 영어 시험의 특징
@@ -52,7 +52,7 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·환일중·장원중 기출 수여동사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,12 +63,12 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 수여동사 문장을 만들어보게 합니다. 왜 그 전치사를 선택했는지 설명하는 훈련을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년별 영어 학습 전략
 
-중1은 기본 문장 구조를 배우는 시기입니다. 1~3형식 문장을 익힙니다. 문장의 기본을 다집니다.
+중1은 기본 문장 구조를 배우는 시기입니다. 1-3형식 문장을 익힙니다. 문장의 기본을 다집니다.
 
 중2는 다양한 문장 형식을 배우는 시기입니다. 4형식, 5형식 문장을 익힙니다. 수여동사와 불완전타동사를 배웁니다.
 
@@ -76,18 +76,18 @@ I gave him a book과 I gave a book to him은 왜 둘 다 맞고, I explained him
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 문장 구조를 정확히 이해합니다. 다양한 문장을 자유롭게 활용하는 능력을 키웁니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수여동사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,14 @@ give, send, show, teach, tell 등은 to를 쓰고, buy, make, cook, get 등은 f
 **Q. explain은 수여동사인가요?**
 
 아닙니다. I explained the problem to him은 맞지만, I explained him the problem은 틀립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

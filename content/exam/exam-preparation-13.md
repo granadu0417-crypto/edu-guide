@@ -11,7 +11,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0150_ucUB9wxkPgY.jpg"
 ---
 ## 국어는 잘하는데 수학은 못해요. 과목마다 공부법이 다른 건가요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 특성을 분석하고 학생에게 맞는 학습 전략을 세웁니다. 약한 과목은 기초부터, 강한 과목은 심화까지 맞춤 대비합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 과목별 특성 이해하기
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목 유형에 따라 학습 방법을 다르게 접근합니다. 언어 과목, 개념 과목, 암기 과목 각각의 특성에 맞춰 지도합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 국어 시험 전략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신과 수능 국어를 구분해서 대비합니다. 학교 수업 내용과 수능형 문제 풀이 전략을 함께 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 수학 시험 전략
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개념 이해부터 시작해서 문제 풀이까지 단계별로 진행합니다. 자주 틀리는 유형은 반복 훈련으로 완성합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 영어 시험 전략
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 영어와 수능 영어를 균형 있게 대비합니다. 어휘, 문법, 독해를 종합적으로 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 암기 과목 전략
@@ -101,6 +101,42 @@ featured_image: "https://images.unsplash.com/photo-1596496181871-9681eacf9764?w=
 **Q. 암기가 안 돼요.**
 
 무작정 외우지 말고 이해하면서 외우세요. 마인드맵, 표 정리 등 자신에게 맞는 암기 방법을 찾아보세요.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

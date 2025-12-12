@@ -15,7 +15,7 @@ tags:
 description: 관악 내신학원 추천. 신림·봉천 중고등 전문, 학교별 내신 대비, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지,
   1:1 맞춤 지도의 모든 것을 알려드립니다. 입시 전문가의 노하우로 합격 전략을 설계합니다. 수능 대비 완벽 가이드를 제공합니다. 입시 전문가의
   노하우로 합격 전략을 설계합니다.
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0740_b28quyxFrI0.jpg"
 reading_time: 160줄
 ---
 
@@ -25,12 +25,12 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관악 지역 학교의 내신 패턴을 분석합니다. 학교별 출제 경향에 맞춰 맞춤 대비를 해드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 관악 학원가는 어떤 특징이 있나요?
 
-비용이 저렴합니다. 강남보다 30~40% 정도 저렴합니다. 가성비가 좋은 편이라 같은 비용으로 더 많은 수업을 받을 수 있습니다.
+비용이 저렴합니다. 강남보다 30-40% 정도 저렴합니다. 가성비가 좋은 편이라 같은 비용으로 더 많은 수업을 받을 수 있습니다.
 
 내신에 강합니다. 관악 학교 학생들이 많이 다니니까 학교별 족보와 출제 경향을 잘 파악하고 있습니다. 내신 대비가 잘 됩니다.
 
@@ -38,7 +38,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 커리큘럼을 짭니다. 학원에서 부족한 부분을 과외에서 채웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 신림이랑 봉천, 뭐가 다른가요?
@@ -51,7 +51,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 지역과 학원 유형을 안내합니다. 통학 거리, 예산, 학습 스타일을 종합적으로 고려합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 강남보다 많이 떨어지나요?
@@ -74,7 +74,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험 전에는 서술형 문제를 집중 훈련합니다. 학생이 쓴 답안을 첨삭하고 개선점을 알려드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 학년별로 어떻게 접근하나요?
@@ -85,7 +85,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 맞춤 전략을 세웁니다. 중등은 내신 위주, 고등은 내신과 수능 비중을 조절합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -105,6 +105,22 @@ reading_time: 160줄
 **Q. 과외가 꼭 필요한가요?**
 
 추천합니다. 관악 학원 + 과외 조합이 가성비 좋습니다.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
 
 ## 마무리
 

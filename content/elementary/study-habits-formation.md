@@ -9,7 +9,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0141_rYwsJLyhvC4.jpg"
 ---
 ## 공부하라고 하면 매번 싸우게 되나요?
 
@@ -17,7 +17,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 현재 학습 습관을 먼저 파악합니다. 잘하고 있는 부분은 유지하고, 부족한 부분만 보완해서 무리 없이 습관을 형성해갑니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년별 공부습관 만들기
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 학습량과 난이도로 진행합니다. 너무 많은 양을 주면 습관 형성에 실패합니다. 작은 것부터 확실히 지키는 연습을 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 고학년은 독립적 학습 확립 시기
@@ -37,7 +37,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고학년은 스스로 계획을 세우게 합니다. 수업 시작할 때 지난주 계획 달성 여부를 점검하고, 함께 다음 주 계획을 조정합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 효과적인 공부습관 7가지
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시간에는 휴대폰을 치워둡니다. 1시간이라도 완전히 집중하는 경험이 쌓여야 혼자서도 집중할 수 있게 됩니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 복습과 오답 정리의 중요성
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트를 직접 만들어보게 합니다. 왜 틀렸는지 스스로 분석하면 같은 실수를 반복하지 않습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 부모의 올바른 역할
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모님께 수업 내용과 진도를 공유합니다. 집에서 어떻게 도와주시면 좋을지 구체적으로 안내해드립니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 겪는 어려움과 해결법
@@ -104,6 +104,26 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 **Q. 형제자매가 공부를 잘해서 비교가 돼요.**
 
 개인 맞춤 목표를 세워주세요. 다른 사람이 아닌 자신의 과거와 비교하고, 각자의 강점을 인정해줍니다. 개별 목표와 보상을 설정하면 의욕이 생깁니다.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

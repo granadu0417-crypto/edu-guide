@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 수학 완벽 정복 전략 | 1:1 맞춤 지도, 개념·유형·심화 [2025년]"
 tags: ["중학생", "수학", "학습전략", "개념", "문제풀이", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0972_eVPxIeMubl8.jpg"
 ---
 
 ## 수학은 무조건 많이 풀어야 하나요? 아무리 풀어도 실력이 안 느는 것 같아요
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-많이 푸는 것보다 제대로 푸는 게 중요합니다. 개념 이해가 먼저인지, 유형 연습이 필요한지 진단합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 중학 수학이 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 수준을 정확히 진단합니다. 어디서부터 막혔는지 찾아 그 부분부터 채워갑니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 개념 공부는 어떻게 해야 하나요?
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공식 암기가 아니라 원리 이해 위주로 수업합니다. 학생이 설명할 수 있을 때까지 반복합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 문제 풀이는 어떻게 해야 효과적인가요?
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 수준에 맞는 문제부터 시작합니다. 약점 유형을 집중적으로 연습합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 계산 실수가 너무 많아요. 어떻게 하나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실수 패턴을 분석합니다. 깔끔한 필기와 검산 습관을 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,6 +81,30 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 **Q. 수학을 포기하고 싶어요.**
 
 포기하면 고등학교, 대학 입시가 매우 어려워집니다. 기초부터 다시 시작하면 됩니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

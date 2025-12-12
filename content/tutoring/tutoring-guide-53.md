@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0991_NIrRqqrs0Fs.jpg"
 ---
 
 ## 방문 과외를 받으려면 집에서 뭘 준비해야 하나요? 따로 공간이 필요한가요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업에 필요한 기본 환경만 갖춰지면 됩니다. 거창하게 준비하지 않아도 괜찮습니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 방문 과외에 필요한 환경은 뭔가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 전에 환경을 확인하고, 필요하면 조정을 요청드립니다. 큰 준비 없어도 됩니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 방문 과외의 장점은 뭔가요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에는 아이가 집중할 수 있도록 최대한 방해가 없는 환경을 만들어 주세요.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 방문 과외 시 주의할 점은 뭔가요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-편하게 수업할 수 있는 환경만 만들어 주시면 됩니다. 대접 같은 건 신경 쓰지 마세요.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방문 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 환경 준비부터 안내해 드립니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 마무리

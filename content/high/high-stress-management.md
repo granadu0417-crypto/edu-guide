@@ -7,7 +7,7 @@ reading_time: "713줄"
 description: "고등학생을 위한 스트레스 관리 완전 가이드. 시험 불안부터 대인 관계까지 건강하게 스트레스 대처하는 방법."
 categories: ["고등"]
 tags: ["스트레스관리", "시험불안", "멘탈관리", "심리건강", "스트레스해소", "불안극복", "감정관리", "마음건강"]
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0693_47gcGwUUHb0.jpg"
 sitemap:
   changefreq: "monthly"
   priority: 0.8
@@ -18,7 +18,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 스트레스 원인을 파악합니다. 상황에 맞는 대처법을 알려드리고 함께 연습합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 스트레스 신호 인식
@@ -31,7 +31,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 상태를 주기적으로 체크합니다. 스트레스 신호가 보이면 조기에 대응합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 시험 스트레스 관리
@@ -46,7 +46,7 @@ sitemap:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전략을 세우고 불안 관리 기법을 알려드립니다. 시험 기간에 맞춤 지원을 합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 일상 스트레스 관리
@@ -63,11 +63,11 @@ sitemap:
 
 점진적 근육 이완도 효과적입니다. 손부터 다리까지 순서대로 힘을 주었다가 풀어줍니다.
 
-명상은 편안한 자세로 호흡에 집중하고 생각을 흘려보냅니다. 10~20분이면 마음이 안정됩니다.
+명상은 편안한 자세로 호흡에 집중하고 생각을 흘려보냅니다. 10-20분이면 마음이 안정됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이완 기법을 함께 연습합니다. 일상에서 활용할 수 있도록 습관화를 도와드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 스트레스 해소 활동
@@ -99,6 +99,18 @@ sitemap:
 **Q. 부모님과 자꾸 충돌해요.**
 
 감정이 격해질 때는 잠시 멈추세요. 진정 후 "나는 이렇게 느껴요"라고 말하며 대화하세요.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
 
 ## 마무리
 

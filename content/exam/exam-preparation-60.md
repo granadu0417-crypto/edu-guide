@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0202_c-mgSuxqpzA.jpg"
 ---
 ## 체육이나 음악 이론 시험은 어떻게 준비해야 하나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예체능 이론 시험 대비법을 안내합니다. 실기와 이론을 균형 있게 준비하도록 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 체육 이론 준비
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-체육 이론의 핵심 내용을 정리합니다. 자주 나오는 유형을 파악해서 준비합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 음악 이론 준비
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-음악 이론 기초부터 정리합니다. 악보 읽기와 음악사를 체계적으로 학습합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 미술 이론 준비
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미술 이론 핵심을 정리합니다. 작품과 작가를 연결해서 학습합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 실기 준비와 병행
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이론과 실기를 연결해서 공부합니다. 균형 있게 준비할 수 있도록 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시험 전략
@@ -103,6 +103,22 @@ featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=
 **Q. 음악 이론을 처음 배우는데 어려워요.**
 
 기본 용어부터 천천히 익히세요. 악보 읽기부터 시작하면 됩니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
 
 ## 마무리
 

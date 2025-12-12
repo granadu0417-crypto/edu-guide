@@ -19,7 +19,7 @@ tags:
 - 환일중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0854_V0ogk2x_WdA.jpg"
 
 ---
 ## 중구 소공동 중학생, 수학 함수의 그래프 해석이 어렵다면
@@ -28,7 +28,7 @@ y = 2x + 1의 그래프를 보고 기울기와 y절편을 바로 읽어낼 수 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 함수 그래프의 이해 수준을 진단합니다. 기울기와 절편의 의미, 그래프와 식의 연결을 체계적으로 훈련합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 함수의 그래프 해석이 어려운 이유
@@ -39,7 +39,7 @@ y = 2x + 1의 그래프를 보고 기울기와 y절편을 바로 읽어낼 수 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-그래프에서 기울기와 절편을 읽는 연습을 합니다. 그래프를 보고 식을 세우는 훈련을 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 덕수중·장원중·환일중 수학 시험의 특징
@@ -52,7 +52,7 @@ y = 2x + 1의 그래프를 보고 기울기와 y절편을 바로 읽어낼 수 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·환일중 기출 함수 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ y = 2x + 1의 그래프를 보고 기울기와 y절편을 바로 읽어낼 수 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 그래프를 그리고 해석해보게 합니다. 그래프와 식의 연결 관계를 설명하는 훈련을 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,18 +76,18 @@ y = 2x + 1의 그래프를 보고 기울기와 y절편을 바로 읽어낼 수 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 함수 내용을 정확히 이해합니다. 함수와 그래프를 자유롭게 다루는 능력을 키웁니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 함수 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,14 @@ y절편(b)을 읽고, 두 점을 이용해 기울기(a)를 구합니다. 그러�
 **Q. 두 직선의 교점은 어떻게 구하나요?**
 
 두 일차함수의 식을 연립방정식으로 풀면 교점의 좌표를 구할 수 있습니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 수업 시간은 얼마나 되나요?**
+
+1회 수업은 2시간 기본입니다. 조절 가능합니다.
 
 ## 마무리
 

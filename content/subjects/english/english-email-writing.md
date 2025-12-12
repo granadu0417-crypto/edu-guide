@@ -13,7 +13,7 @@ tags:
 - 비즈니스
 - 작문
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0369_VU1gurPfbek.jpg"
 ---
 
 ## 비즈니스 이메일 첫 문장에서 막힌다고요? Dear로 시작해야 할지 Hello로 해야 할지 고민되시죠.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 이메일 작성 목적을 파악합니다. 비즈니스, 유학 지원, 일상 소통 등 상황별 맞춤 표현을 가르칩니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 이메일 기본 구조
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이메일 구조를 템플릿으로 정리합니다. 반복 연습으로 자연스럽게 익히도록 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 격식체와 비격식체
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-격식 수준 판단법을 알려드립니다. 상황별로 적절한 표현을 선택하는 연습을 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 쓰는 비즈니스 표현
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈출 비즈니스 표현을 상황별로 정리합니다. 실전 이메일 작성으로 익숙해지도록 연습합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 주의사항
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-흔한 실수 패턴을 점검합니다. 첨삭을 통해 자연스럽고 적절한 표현을 익힙니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -77,11 +77,35 @@ featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=
 
 비즈니스는 24시간 이내, 개인은 1-2일 이내가 적당합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 영어 이메일은 기본 구조와 상황별 표현만 익히면 누구나 쓸 수 있습니다. 제목부터 서명까지 체계적으로 연습하면 자신 있게 영어 이메일을 작성할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 작문 수업으로 이메일 작성 실력을 키워드립니다. 첨삭과 피드백으로 자연스러운 표현을 익힙니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>

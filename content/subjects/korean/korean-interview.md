@@ -11,7 +11,7 @@ tags:
 - 구술
 - 답변기술
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0462_RgKmrxpIraY.jpg"
 ---
 
 ## 면접에서 무슨 말을 해야 할지 모르겠다고요? 답변의 구조를 알면 됩니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 말하기 습관을 점검합니다. 답변 구조화 훈련을 체계적으로 진행합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 답변의 기본 구조
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-답변의 기본 구조를 반복 연습합니다. 다양한 질문에 적용하는 훈련을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 예상 질문 준비
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-예상 질문 목록을 작성합니다. 질문별 답변을 함께 만들어봅니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 비언어적 표현
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비언어적 표현을 점검합니다. 모의 면접으로 실전 감각을 키웁니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 돌발 질문 대처
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-돌발 질문 대처법을 훈련합니다. 다양한 상황을 시뮬레이션합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,47 @@ featured_image: "https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?w=
 
 외운 티가 나면 좋지 않습니다. 핵심만 정리하고 자연스럽게 말하세요.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
 ## 마무리
 
 면접은 준비한 만큼 결과가 나옵니다. 답변 구조를 익히고 예상 질문을 준비하세요. 모의 면접으로 실전 감각을 키우면 자신감이 생깁니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 면접을 철저히 준비합니다. 모의 면접과 피드백으로 실력을 키웁니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>

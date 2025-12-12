@@ -12,7 +12,7 @@ tags:
 - 문맥
 - 논리
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0352_n2obCYYPwmk.jpg"
 ---
 
 ## 빈칸 추론 문제만 나오면 막막하다고요? 선택지가 다 맞는 것 같아서 고르기 어렵다고요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈칸 추론의 핵심 전략을 체계적으로 훈련합니다. 문맥 파악 능력을 키우는 연습을 집중적으로 합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 빈칸 위치별 전략
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-빈칸 위치에 따른 풀이 전략을 익힙니다. 다양한 유형의 문제로 연습합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 연결어 활용법
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 연결어의 역할을 완벽히 익힙니다. 연결어를 단서로 활용하는 연습을 반복합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 선택지 분석법
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효과적인 선택지 분석법을 익힙니다. 오답을 빠르게 제외하는 방법을 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 자주 묻는 질문
@@ -67,11 +67,35 @@ featured_image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=
 
 매일 5문제씩 꾸준히 풀면 한 달 후 눈에 띄는 향상을 느낄 수 있습니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 빈칸 추론은 문맥 파악과 논리적 사고가 핵심입니다. 연결어를 단서로 활용하고 꾸준히 연습하면 반드시 정복할 수 있습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 빈칸 추론 문제를 정복합니다. 체계적인 훈련으로 실력을 키워드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>

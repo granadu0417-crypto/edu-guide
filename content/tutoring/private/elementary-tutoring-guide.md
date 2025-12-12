@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 초등 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0876_zVTcMtEmPTQ.jpg"
 reading_time: 160줄
 ---
 
@@ -24,7 +24,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모든 초등학생에게 과외가 필요한 건 아닙니다. 기초가 부족하거나 학원에서 따라가기 어려운 경우 1대1 맞춤 지도가 효과적입니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 초등 과외가 필요한 경우에요
@@ -35,7 +35,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 어디서 막히는지 정확히 파악합니다. 모르는 부분을 아이 속도에 맞춰 차근차근 설명합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 학년별 특성이 달라요
@@ -54,7 +54,7 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이 성향과 수준을 파악합니다. 아이가 편하게 느끼는지 확인한 후 본 수업을 시작합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 과목별 과외 방향이에요
@@ -65,18 +65,18 @@ reading_time: 160줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이에게 부족한 과목을 집중합니다. 모든 과목을 다 하면 효과가 떨어집니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 과외 횟수와 시간은요?
 
-저학년은 주 1~2회, 회당 1시간 정도가 적당합니다. 집중 시간이 짧으므로 짧게 자주 하는 게 좋습니다. 고학년은 주 2회, 회당 1.5~2시간까지 가능합니다.
+저학년은 주 1-2회, 회당 1시간 정도가 적당합니다. 집중 시간이 짧으므로 짧게 자주 하는 게 좋습니다. 고학년은 주 2회, 회당 1.5-2시간까지 가능합니다.
 
 너무 많으면 지치고, 너무 적으면 효과가 없습니다. 아이 상태를 보면서 조절하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이가 지치지 않는 선에서 수업합니다. 집중이 떨어지면 잠시 쉬었다가 다시 합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -96,6 +96,14 @@ reading_time: 160줄
 **Q. 선생님 교체가 가능한가요?**
 
 가능합니다. 맞지 않으면 교체를 요청하세요.
+
+**Q. 과외 선생님은 어떤 분인가요?**
+
+교육에 열정을 가진 대학생이나 전문 강사분들입니다. 학생과의 소통을 중시하고, 맞춤 지도에 능숙하신 분들로 연결해 드립니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 숙제 검사와 오답 분석을 통해 부족한 부분을 파악하고 보완합니다.
 
 ## 마무리
 

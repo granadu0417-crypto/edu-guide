@@ -15,7 +15,7 @@ tags:
 - 리스닝
 - 영어청취
 - 듣기훈련
-featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0386_cEiCBMK_Ob8.jpg"
 ---
 
 ## 수능 듣기 17문항, 정말 만점이 가능하냐고요? 유형별 전략만 알면 됩니다.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 듣기 유형별 정답률을 분석합니다. 약한 유형부터 집중 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 핵심 유형별 전략
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 키워드를 정리합니다. 기출 문제로 키워드 찾는 연습을 반복합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 숫자 문제 정복
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숫자 문제만 모아서 집중 훈련합니다. 계산 실수를 줄이는 메모법을 가르칩니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 시험 당일 전략
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전처럼 모의고사를 진행합니다. 시간 배분과 멘탈 관리까지 코칭합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 실수 방지
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 유형을 분석합니다. 같은 실수를 반복하지 않도록 점검합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문
@@ -85,5 +85,5 @@ featured_image: "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 듣기 수업으로 유형별 전략을 완벽히 익힙니다. 실전 모의고사로 만점을 달성합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>

@@ -15,7 +15,7 @@ tags:
 - 확률
 - 통계
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0559_lJl75Qah5vc.jpg"
 ---
 
 ## 순열과 조합이 도대체 뭐가 다른 건지 모르겠다고요? 경우의 수를 세다가 자꾸 빠뜨리거나 중복으로 세는 실수를 하시죠.
@@ -24,7 +24,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-순열과 조합의 차이를 명확하게 이해시킵니다. 문제를 보는 순간 순열인지 조합인지 판단하도록 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 경우의 수 기초
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-합의 법칙과 곱의 법칙을 다양한 예시로 연습합니다. 언제 더하고 언제 곱하는지 직관을 기릅니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 순열과 조합
@@ -44,7 +44,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-순열과 조합 공식을 유도 과정과 함께 이해시킵니다. 공식 암기뿐 아니라 왜 그런지 이해하도록 합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 확률
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독립과 종속을 명확히 구분시킵니다. 조건부확률 문제를 유형별로 정리하여 연습합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 통계
@@ -62,7 +62,7 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분산 계산 공식을 두 가지 방법으로 익힙니다. 이항분포와 정규분포의 성질을 완벽히 이해시킵니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -79,12 +79,36 @@ featured_image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=
 
 적어도 하나가 나오면 여사건을 씁니다. 1 빼기 하나도 없는 경우로 계산하면 훨씬 쉽습니다.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 확률과 통계는 체계적 학습과 꼼꼼함으로 정복할 수 있습니다. 개념을 정확히 이해하고 실수를 줄이세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-헷갈리는 개념을 명확히 정리합니다. 실수를 줄이는 훈련으로 확률과 통계 고득점을 달성시킵니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 

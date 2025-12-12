@@ -13,7 +13,7 @@ tags:
 - 입학
 - speaking
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0382_v6vxTvqeVuo.jpg"
 ---
 
 ## 영어 면접 시작만 하면 머리가 하얘진다고요? Tell me about yourself부터 막히시죠.
@@ -22,16 +22,16 @@ featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 면접 목적(취업, 유학, 입학)을 파악합니다. 목적에 맞는 예상 질문을 정리하고 답변을 함께 만들어갑니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 필수 질문과 답변 전략
 
-Tell me about yourself는 가장 중요한 질문입니다. 현재 상황, 과거 경험, 미래 목표 순서로 2~3분 내로 답변합니다. Why do you want to work here는 회사 조사가 필수입니다. 회사의 강점과 본인의 적합성을 연결하세요. What are your strengths는 구체적 예시와 함께 2~3가지를 말합니다. What are your weaknesses는 개선 노력을 강조하세요.
+Tell me about yourself는 가장 중요한 질문입니다. 현재 상황, 과거 경험, 미래 목표 순서로 2-3분 내로 답변합니다. Why do you want to work here는 회사 조사가 필수입니다. 회사의 강점과 본인의 적합성을 연결하세요. What are your strengths는 구체적 예시와 함께 2-3가지를 말합니다. What are your weaknesses는 개선 노력을 강조하세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-필수 질문별로 맞춤 답변을 작성합니다. STAR 기법으로 구조적인 답변을 만듭니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## STAR 기법 활용
@@ -42,16 +42,16 @@ STAR는 Situation, Task, Action, Result의 약자입니다. 상황을 설명하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 실제 경험을 STAR 기법에 맞게 정리합니다. 반복 연습으로 자연스럽게 나오도록 훈련합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 면접 당일 준비
 
-10~15분 일찍 도착하세요. 정장을 깔끔하게 입고 단정한 인상을 줍니다. 아이컨택을 유지하고 자신감 있는 목소리로 말하세요. 질문을 못 들었으면 Could you please repeat that이라고 정중하게 요청합니다. 모르는 질문은 솔직하게 Let me think about that이라고 말하고 시간을 버세요.
+10-15분 일찍 도착하세요. 정장을 깔끔하게 입고 단정한 인상을 줍니다. 아이컨택을 유지하고 자신감 있는 목소리로 말하세요. 질문을 못 들었으면 Could you please repeat that이라고 정중하게 요청합니다. 모르는 질문은 솔직하게 Let me think about that이라고 말하고 시간을 버세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 면접처럼 모의 면접을 진행합니다. 태도, 표정, 목소리까지 피드백합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 유용한 면접 표현
@@ -60,7 +60,7 @@ STAR는 Situation, Task, Action, Result의 약자입니다. 상황을 설명하�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상황별 면접 표현을 정리합니다. 실전에서 바로 쓸 수 있도록 반복 연습합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ Tell me about yourself입니다. 첫인상을 결정하므로 완벽하게 준�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 면접 수업으로 실전 감각을 키웁니다. 모의 면접과 즉각적인 피드백으로 합격을 이끕니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>

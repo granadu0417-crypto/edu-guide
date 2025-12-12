@@ -8,7 +8,7 @@ regions:
 cities:
   - 광진구
 tags: ["광진구", "영어과외", "건대입구", "구의동", "자양동", "광장동", "영어", "과외", "건국대", "내신영어", "수능영어", "1:1과외", "영문과"]
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0337_N3o-leQyFsI.jpg"
 ---
 
 "건대 근처라서 대학생 과외 쉽게 구할 수 있다는데, 믿을 만할까요?"
@@ -16,7 +16,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 **건국대 영문과 학생이라고 다 잘 가르치는 건 아니에요.**
 하지만 잘 가르치는 건대 영문과 학생을 만나면? 최고의 선택이 됩니다.
 
-![광진구 영어과외](https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=600&fit=crop)
+![광진구 영어과외](/images/edu_0290_Bys31wQcP4Q.jpg)
 
 ## 광진구 영어 교육, 어떤 특징이 있나요?
 
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"이 문장 해석은 되는데 왜 이런 뜻이에요?" 문법 암기가 아니라 영어의 논리를 이해시킵니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ### 구의동·자양동 - 안정적인 주거 환경
@@ -53,14 +53,14 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 영어 수준을 정확히 진단합니다. 어휘력, 문법 이해도, 독해 속도까지 꼼꼼히 체크!
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 학년별 영어과외 가이드
 
 ### 초등학생 - 영어랑 친해지는 시간
 
-**저학년(1~3학년): "영어 재밌다!"가 목표**
+**저학년(1-3학년): "영어 재밌다!"가 목표**
 
 이 시기에 문법부터 시작하면 영어를 싫어하게 됩니다.
 **놀이처럼 영어를 접하는** 게 최고예요.
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 노래와 게임으로 흥미 유발
 - 원어민 발음에 충분한 노출
 
-**고학년(4~6학년): 체계 잡기 시작**
+**고학년(4-6학년): 체계 잡기 시작**
 
 중학교 영어가 확 어려워집니다.
 미리 **기초 문법과 어휘력**을 잡아두세요.
@@ -80,16 +80,16 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 영작문 기초 다지기
 - 중등 대비 어휘력 확장
 
-초등 영어과외 비용은 주 1회 기준 약 12만원에서 22만원, 주 2회 기준 약 25만원에서 38만원 선입니다.
+초등 영어과외 비용은 주 1회 기준 약 12만원 -  22만원, 주 2회 기준 약 25만원 -  38만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 동화책을 함께 읽습니다. "이 단어 뭐예요?"라고 물으면 그림을 보며 스스로 추측하게 해요. 맥락에서 단어를 익히면 절대 안 잊어요!
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ### 중학생 - 입시 영어의 기초를 다지는 시기
 
-**중1~중2: 영어 실력의 뼈대를 세우세요**
+**중1-중2: 영어 실력의 뼈대를 세우세요**
 
 중학교 영어를 대충 넘기면 고등 영어가 안 됩니다.
 **문법과 독해**가 핵심이에요.
@@ -109,16 +109,16 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 내신과 수능 영어 차이 이해
 - 특목고 대비(희망시)
 
-중학생 영어과외 비용은 주 1회 기준 약 22만원에서 32만원, 주 2회 기준 약 30만원에서 48만원 선입니다.
+중학생 영어과외 비용은 주 1회 기준 약 22만원 -  32만원, 주 2회 기준 약 30만원 -  48만원 선입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-"to부정사의 부사적 용법이 뭐예요?" 단순 암기 대신 예문으로 이해시킵니다. 왜 그렇게 쓰는지 알면 문법이 쉬워져요!
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ### 고등학생 - 내신과 수능, 둘 다 잡아야 합니다
 
-**고1~고2: 수능의 기틀을 다지는 시기**
+**고1-고2: 수능의 기틀을 다지는 시기**
 
 고등 영어는 지문이 길고 어려워집니다.
 **독해 전략**이 필수예요.
@@ -138,11 +138,11 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 - 시간 관리와 실수 최소화
 - 최신 출제 경향 파악
 
-고등학생 영어과외 비용은 주 1회 기준 약 25만원에서 36만원, 주 2회 기준 약 33만원에서 53만원 선입니다. 고3의 경우 주 1회 28만원에서 40만원, 주 2회 37만원에서 59만원으로 더 집중적인 관리가 가능합니다.
+고등학생 영어과외 비용은 주 1회 기준 약 25만원 -  36만원, 주 2회 기준 약 33만원 -  53만원 선입니다. 고3의 경우 주 1회 28만원 -  40만원, 주 2회 37만원 -  59만원으로 더 집중적인 관리가 가능합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-모의고사 오답 분석이 핵심입니다. 어떤 유형에서 틀리는지 패턴을 찾고, 그 유형만 집중 훈련합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -171,7 +171,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대학생 선생님은 학생과 나이 차이가 적어 친근해요. 질문하기 편한 분위기가 자연스럽게 형성됩니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 좋은 영어 선생님, 이렇게 고르세요
@@ -207,7 +207,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무료 체험수업으로 선생님과의 궁합을 먼저 확인하세요. 질문하기 편한 분위기인지가 가장 중요합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -215,7 +215,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 **Q. 건대 영문과 과외 vs 전문 강사, 뭐가 나을까요?**
 
 학생 수준과 목표에 따라 다릅니다.
-- 기초~중급: 건대 영문과 과외도 충분히 효과적
+- 기초-중급: 건대 영문과 과외도 충분히 효과적
 - 최상위권/특수 목표: 전문 강사가 더 적합할 수 있음
 아이의 현재 상황을 고려해서 선택하세요.
 
@@ -250,7 +250,7 @@ featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매일 영어 10분! 하루 단어 10개, 짧은 지문 1개 읽기. 작은 습관이 큰 실력이 됩니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 마치며

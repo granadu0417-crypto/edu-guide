@@ -10,7 +10,7 @@ tags:
 - 생물 다양성
 - 생물
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0578_EhTcC9sYXsw.jpg"
 ---
 
 ## 생물 다양성이 왜 중요한지 모르겠고 분류 체계가 복잡하다고요? 단계별로 접근하면 됩니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 개념 이해도를 먼저 파악합니다. 생물 다양성의 세 수준부터 차근차근 학습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 생물 다양성의 세 수준
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-세 수준의 차이를 명확히 정리합니다. 실제 사례로 각 수준을 구분하는 연습을 합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 생물 분류
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-분류 단계를 암기하는 요령을 알려드립니다. 대표 생물로 분류 연습을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 생물 다양성 보전
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생물 다양성 감소 원인과 보전 방법을 연결합니다. 시사적인 내용도 함께 다룹니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 헷갈리는 개념은 반복 학습합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 생물 다양성을 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

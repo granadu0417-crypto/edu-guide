@@ -15,7 +15,7 @@ tags:
 description: 안양 종합학원 추천. 평촌·범계·인덕원 지역, 국·수·영 통합, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지,
   1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된 정보로
   현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0719_ycaYQ9qn2pE.jpg"
 reading_time: 285줄
 ---
 
@@ -25,7 +25,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-안양 지역 학생들 학교 내신 경향을 파악하고 있습니다. 학교별 맞춤 수업이 가능합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 안양 종합학원의 특징은 뭔가요?
@@ -38,7 +38,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합학원에서 부족한 과목이 있으면 과외로 보충할 수 있습니다. 병행도 좋은 방법입니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 지역별로 학원 특징이 다른가요?
@@ -51,7 +51,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-안양 지역 학교 시험 일정에 맞춰 수업 계획을 세웁니다. 내신 대비도 함께 진행합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 종합학원의 장점은 뭔가요?
@@ -66,7 +66,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-종합학원과 과외를 병행하면 효과가 더 좋습니다. 약점 과목만 과외로 집중하면 됩니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -75,7 +75,7 @@ reading_time: 285줄
 
 중학생은 기초와 내신 중심으로 가세요. 세 과목 균형 있게 학습하면서 기본기를 다지는 게 중요합니다. 종합학원이 효과적입니다.
 
-고1~2는 내신 중심으로 가세요. 학교별 내신 대비를 잘 하는 학원을 선택하세요. 수능 준비도 병행하되 내신이 우선입니다.
+고1-2는 내신 중심으로 가세요. 학교별 내신 대비를 잘 하는 학원을 선택하세요. 수능 준비도 병행하되 내신이 우선입니다.
 
 고3은 수능 집중이 필요합니다. 내신보다 수능 비중이 커지는 시기입니다. 수능 전문 학원이나 과외를 고려하세요.
 
@@ -87,7 +87,7 @@ reading_time: 285줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-안양 지역 학원 상황에 대해 궁금하시면 상담해 주세요. 학생 상황에 맞는 방향을 안내해 드립니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 자주 묻는 질문
@@ -103,6 +103,22 @@ reading_time: 285줄
 **Q. 안양 지역 학원 중 어디가 좋나요?**
 
 학원마다 특징이 다릅니다. 아이 성향, 학교, 목표에 따라 맞는 곳이 다릅니다. 직접 방문해서 상담받아 보세요.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

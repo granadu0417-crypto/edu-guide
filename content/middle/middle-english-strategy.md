@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "중학생 영어 완벽 학습 전략 | 1:1 맞춤 지도, 문법·독해·듣기·말하기 [2025년]"
 tags: ["중학생", "영어", "학습전략", "문법", "독해", "1:1과외"]
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0952_1eTnRZ2TwnE.jpg"
 ---
 
 ## 영어 문법이랑 단어 외우는데 시간은 많이 쓰는데 성적이 안 올라요. 뭐가 문제일까요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-영어 실력이 안 느는 이유를 정확히 진단합니다. 문법, 어휘, 독해 중 어디가 약한지 파악하고 맞춤 전략을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 중학 영어가 왜 중요한가요?
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 필수 문법과 어휘를 점검합니다. 빠진 부분은 바로 채워 다음 단계로 넘어갑니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 문법은 어떻게 공부해야 하나요?
@@ -39,18 +39,18 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문법 개념을 이해 중심으로 설명합니다. 예문을 많이 보여주고 직접 문장을 만들어보게 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 단어는 어떻게 외워야 효과적인가요?
 
-단어장만 보면서 외우면 금방 잊어버립니다. 문장 속에서 외워야 오래 갑니다. 예문을 직접 만들어보면 더 잘 기억됩니다. 하루 10~20개를 확실히 외우는 게 30개를 대충 외우는 것보다 낫습니다.
+단어장만 보면서 외우면 금방 잊어버립니다. 문장 속에서 외워야 오래 갑니다. 예문을 직접 만들어보면 더 잘 기억됩니다. 하루 10-20개를 확실히 외우는 게 30개를 대충 외우는 것보다 낫습니다.
 
 반복이 핵심입니다. 오늘 외운 단어를 내일 복습하고, 일주일 후에 또 복습합니다. 30일 후에 전체를 다시 봅니다. 이렇게 하면 장기 기억에 저장됩니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 단어 테스트를 합니다. 틀린 단어는 다음 시간에 다시 확인합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 독해 실력은 어떻게 키우나요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 문제 유형별 풀이 전략을 가르칩니다. 주제 찾기, 빈칸 추론, 순서 배열 등 유형별로 연습합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -72,7 +72,7 @@ featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=
 
 **Q. 단어를 하루에 몇 개 외워야 하나요?**
 
-10~20개가 적당합니다. 양보다 제대로 외우는 게 중요합니다.
+10-20개가 적당합니다. 양보다 제대로 외우는 게 중요합니다.
 
 **Q. 듣기 실력은 어떻게 키우나요?**
 

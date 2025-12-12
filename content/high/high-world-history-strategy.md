@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "고등학생을 위한 세계사 완전 정복 가이드. 고대문명부터 현대사까지 역사의 흐름과 맥락 이해. 수능 만점을 위한 체계적 학습법."
 tags: ["고등세계사", "세계사학습법", "수능세계사", "역사공부", "문명사", "사회탐구", "역사암기", "세계사개념"]
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0706_D-4Wg5l8Hks.jpg"
 ---
 
 ## 세계사가 너무 복잡해요. 로마랑 그리스랑 뭐가 다른 건지, 중세랑 근대랑 어떻게 구분하는지 모르겠어요.
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 큰 흐름부터 정리합니다. 개별 사건을 연결고리로 이어주어 이해를 돕습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 시대별 흐름 파악하기
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시대별 핵심 키워드를 정리합니다. 연표를 활용해 동시대 비교를 연습합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 효율적인 암기법
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스토리텔링으로 역사를 이해시킵니다. 연상법과 연표 활용법을 가르쳐드립니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 사료 해석 연습
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-사료 분석 방법을 가르칩니다. 기출문제로 유형별 풀이법을 훈련합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 수능 세계사 대비
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 출제 경향을 분석합니다. 시간 배분 전략과 문제 풀이 스킬을 훈련합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,6 +75,42 @@ featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=
 **Q. 연표를 꼭 외워야 하나요?**
 
 정확한 연도보다 시대 순서가 중요합니다. 주요 사건의 대략적인 시기만 알면 됩니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 시험 불안이 심해요. 도움이 되나요?**
+
+실전 연습을 통해 시험 상황에 익숙해지도록 합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 

@@ -12,7 +12,7 @@ tags:
 - 수능영어
 - 내신영어
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0405_KXtTWJZgw8g.jpg"
 ---
 
 ## 영어 독해 지문이 너무 길다고요? 시간 안에 못 푼다고요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해 약점을 분석합니다. 유형별 맞춤 전략을 체계적으로 훈련합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 문제 유형별 전략
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 풀이 전략을 정리합니다. 기출 문제로 패턴을 익히고 실전 연습을 합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 독해 속도 향상
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-스키밍, 스캐닝, 정독을 훈련합니다. 타이머를 켜고 시간 제한 연습을 합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 문장 구조 분석
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복잡한 문장 분석법을 훈련합니다. 구문 독해 능력을 체계적으로 키웁니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 하는 실수
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 하는 실수를 점검합니다. 오답 분석으로 같은 실수를 반복하지 않게 합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -78,9 +78,9 @@ featured_image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=
 
 ## 마무리
 
-영어 독해 정복의 핵심은 체계적인 전략과 꾸준한 연습입니다. 유형별 접근법을 익히고 매일 2~3개 지문을 읽으세요.
+영어 독해 정복의 핵심은 체계적인 전략과 꾸준한 연습입니다. 유형별 접근법을 익히고 매일 2-3개 지문을 읽으세요.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 독해 수업으로 유형별 전략을 완벽히 익힙니다. 약점 분석과 실전 연습으로 빠르게 향상합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>

@@ -10,7 +10,7 @@ tags:
 - 기체
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0604_fvT3t9iOaJI.jpg"
 ---
 
 ## 보일 샤를 법칙이 혼란스럽고 이상 기체 방정식이 어렵다고요? 기체의 성질부터 이해하면 됩니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기체의 거시적 성질과 미시적 성질을 연결합니다. 분자 운동으로 압력을 이해합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 보일의 법칙과 샤를의 법칙
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-PV 그래프와 VT 그래프를 그려봅니다. 각 법칙의 조건을 명확히 정리합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 이상 기체 방정식
@@ -39,7 +39,7 @@ PV=nRT는 기체의 모든 성질을 하나로 통합합니다. P는 압력, V�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이상 기체 방정식의 각 변수를 이해합니다. 단위 환산을 정확히 훈련합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 실제 기체와 이상 기체
@@ -48,7 +48,7 @@ PV=nRT는 기체의 모든 성질을 하나로 통합합니다. P는 압력, V�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이상 기체와 실제 기체의 차이를 비교합니다. 언제 이상 기체 방정식이 유효한지 정리합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ PV=nRT는 기체의 모든 성질을 하나로 통합합니다. P는 압력, V�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 기체 계산 문제를 집중 훈련합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,35 @@ PV=nRT는 기체의 모든 성질을 하나로 통합합니다. P는 압력, V�
 
 단위에 따라 다릅니다. 압력이 atm이면 R=0.082, Pa이면 R=8.314를 사용합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 기체 단원은 법칙과 방정식의 이해가 핵심입니다. 각 법칙의 조건을 정확히 알고 이상 기체 방정식을 활용하세요. 단위 환산을 정확히 하면 계산 문제도 어렵지 않습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 기체를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>

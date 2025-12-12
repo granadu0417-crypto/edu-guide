@@ -12,7 +12,7 @@ tags:
 - 초등교육
 - 초등학습
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0132_QhdiNLAOz-4.jpg"
 ---
 ## 왜 그래를 입에 달고 사는 아이, 과학적 사고력으로 키우세요
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이의 질문을 그냥 넘기지 않습니다. 왜 그럴까, 어떻게 하면 알 수 있을까를 함께 생각하며 탐구하는 습관을 들입니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 초등 교육의 중요성
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학습 습관부터 잡아줍니다. 공부 잘하는 방법을 알려주기 전에, 제대로 앉아서 집중하는 연습부터 합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 학년별 맞춤 전략
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞게 접근합니다. 저학년은 재미있게, 고학년은 체계적으로. 아이의 발달 단계에 맞춘 수업을 합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 효과적인 학습 방법
@@ -53,7 +53,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 시작할 때 지난 시간 배운 내용을 물어봅니다. 기억이 안 나면 그 부분부터 다시 잡고 넘어갑니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 학부모가 해야 할 것
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-부모님께 집에서 어떻게 도와주시면 좋을지 안내해드립니다. 학습 환경과 동기 부여 방법을 구체적으로 공유합니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -90,6 +90,38 @@ featured_image: "https://images.unsplash.com/photo-1513001900722-370f803f498d?w=
 **Q. 게임과 스마트폰 관리는?**
 
 학습 후 보상으로 제공하되, 시간 제한으로 하루 30분에서 1시간을 두세요. 부모와 함께 규칙을 정하는 것이 효과적입니다.
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

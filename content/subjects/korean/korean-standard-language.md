@@ -10,7 +10,7 @@ tags:
 - 표준어
 - 문법
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0496_VLaKsTkmVhk.jpg"
 ---
 
 ## 표준어 규정이 복잡하고 외울 게 많다고요? 원리를 알면 쉬워집니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표준어 규정의 기본 원리를 정리합니다. 자주 출제되는 유형을 집중 훈련합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 표준어 사정 원칙
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표준어 사정의 원칙을 설명합니다. 주요 변화 사례를 함께 학습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 복수 표준어
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 복수 표준어를 정리합니다. 기출 문제로 출제 유형을 파악합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 표준 발음법
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-표준 발음 규정을 체계적으로 정리합니다. 발음과 표기의 관계를 이해합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 유형을 파악하고 보완합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ featured_image: "https://images.unsplash.com/photo-1464082354059-27db6ce50048?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 표준어 규정을 완벽히 익힙니다. 원리 이해와 실전 적용을 함께합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>

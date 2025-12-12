@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0067_4-EeTnaC1S4.jpg"
 ---
 
 ## 할 일은 많은데 시간이 모자라요. 학교, 학원, 숙제, 수면까지... 하루 24시간이 부족해요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 상담에서는 학생의 하루 일과를 먼저 분석합니다. 시간이 어디에 쓰이는지, 낭비되는 시간은 어디인지 파악하고 효율적인 시간 배분 방법을 안내합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 시간 관리 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간이 부족하다면 학습 상담을 받으세요. 효율적인 시간 활용법을 안내합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 심리 상담은 시간 압박으로 인한 스트레스가 심할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 적용할 수 있는 주간 계획표를 함께 만듭니다. 현실적이고 지킬 수 있는 계획을 세워드립니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 시간 관리는 어떻게 해야 하나요?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 생활 패턴에 맞는 시간 관리 방법을 안내합니다. 무리한 계획이 아니라 지속 가능한 계획을 세워드립니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,8 +85,40 @@ featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 하루를 효율적으로 쓰는 방법을 안내합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

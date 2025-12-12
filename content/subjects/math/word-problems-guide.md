@@ -1,5 +1,5 @@
 ---
-title: 수학 문장제 정복 추천 방법 | 초등~고등 완벽 가이드 - 성공적인 학습법과 활용 전략
+title: 수학 문장제 정복 추천 방법 | 초등-고등 완벽 가이드 - 성공적인 학습법과 활용 전략
 date: 2025-01-24
 reading_time: "160줄"
 description: 수학 문장제를 쉽게 푸는 방법과 실전 팁을 학년별로 정리했습니다. 유형별 풀이 전략, 실전 예시, 흔한 실수 해결법 포함 과목별
@@ -16,7 +16,7 @@ tags:
 - 계산
 - 그래프
 - 연산
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0572_xoCrMyMFt7s.jpg"
 ---
 
 ## 문장제만 나오면 머리가 하얘진다고요? 문제는 이해하겠는데 식을 세우는 게 막막하시죠.
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 푸는 5단계 전략을 체계적으로 가르칩니다. 꼼꼼히 읽고 정리하고 그림 그리고 식 세우고 확인하는 과정을 훈련합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 문장제 푸는 5단계
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 단계를 습관으로 만들도록 반복 훈련합니다. 문제를 보는 순간 5단계가 자동으로 떠오르게 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 주요 유형별 공략
@@ -45,7 +45,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 풀이 패턴을 정리합니다. 자주 나오는 유형부터 익히고 다양한 문제로 확장합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 자주 틀리는 표현
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-자주 틀리는 표현을 집중 연습합니다. 헷갈리는 용어를 명확히 구분하도록 합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 학년별 전략
@@ -75,12 +75,52 @@ featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=
 
 네, 답을 문제에 대입해보고 상황에 맞는 답인지 확인하고 계산 과정을 다시 보는 습관이 필수입니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
 ## 마무리
 
 문장제는 패턴이 있습니다. 꾸준히 연습하고 5단계 전략을 습관으로 만들면 누구나 정복합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문장제 풀이를 체계적으로 훈련합니다. 약점을 파악하고 유형별로 집중 연습하여 문장제를 정복합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 

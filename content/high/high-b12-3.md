@@ -13,7 +13,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0623_LCDQCcENnc8.jpg"
 ---
 ## 수능 한 달 전, 이제 뭘 해야 할지 모르겠어요
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 전 한 달은 새로운 내용 없이 복습만 합니다. 오답 노트, 정리 노트 위주로 학습합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 수능 마무리 핵심
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실제 수능 시간표대로 모의시험을 봅니다. 8시 40분에 시작해서 5시 40분에 끝나는 연습을 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## D-30 학습 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1560439514-4e9645039924?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-30부터는 오답 복습 위주로 합니다. 새 문제는 최소화하고 익숙한 문제를 확실히 합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## D-7 최종 점검
@@ -60,7 +60,7 @@ D-30부터는 오답 복습 위주로 합니다. 새 문제는 최소화하고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-D-7부터는 무리하지 않습니다. 가볍게 복습하고 컨디션 관리에 집중합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 과목별 마무리 전략
@@ -75,7 +75,7 @@ D-7부터는 무리하지 않습니다. 가볍게 복습하고 컨디션 관리�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 가장 자주 틀리는 유형을 정리해서 마지막까지 점검합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 시험 당일 전략
@@ -90,7 +90,7 @@ D-7부터는 무리하지 않습니다. 가볍게 복습하고 컨디션 관리�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 당일 사용할 정리 노트를 미리 만들어둡니다. 쉬는 시간에 볼 핵심 내용만 간추립니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>
 
 ## 주의사항

@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0841_mESBBxizd4c.jpg"
 
 ---
 ## 중구 장충동 중학생, 영어 관계대명사의 계속적 용법이 어렵다면
@@ -28,7 +28,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 관계대명사의 계속적 용법 이해 수준을 진단합니다. 제한적 용법과 계속적 용법의 차이, 콤마의 역할을 체계적으로 훈련합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 관계대명사의 계속적 용법이 어려운 이유
@@ -39,7 +39,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-제한적 용법과 계속적 용법의 의미 차이를 정확히 구분합니다. 콤마의 유무에 따른 해석 연습을 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 장충중·장원중·대경중 영어 시험의 특징
@@ -52,7 +52,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·장원중·대경중 기출 관계대명사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 관계대명사 문장을 만들어보게 합니다. 콤마를 넣을지 말지 판단하는 훈련을 합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,18 +76,18 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 관계사 내용을 정확히 이해합니다. 관계사를 자유롭게 활용하는 능력을 키웁니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 관계대명사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,22 @@ I have a brother, who lives in Seoul에서 콤마가 왜 필요한지, 콤마가
 **Q. which가 문장 전체를 받을 수 있나요?**
 
 네, 계속적 용법에서 which는 앞 문장 전체를 선행사로 받을 수 있습니다. He passed the exam, which made me happy.
+
+**Q. 학기 중과 방학 중 수업이 다른가요?**
+
+네, 학기 중에는 학교 진도에 맞춘 내신 대비 위주로, 방학에는 부족한 부분 보충이나 선행 학습에 집중합니다.
+
+**Q. 부모가 수업 참관해도 되나요?**
+
+물론입니다. 초반에 수업 분위기를 확인하시고 싶으시면 참관 가능합니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
 
 ## 마무리
 

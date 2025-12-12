@@ -10,7 +10,7 @@ tags:
 - 산과 염기
 - 화학
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0574_8vn4KvfU640.jpg"
 ---
 
 ## 산과 염기 개념이 헷갈리고 pH 계산이 어렵다고요? 원리를 알면 명확해집니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 개념 이해도를 진단합니다. 산염기 정의부터 pH 계산까지 단계별로 학습합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 산과 염기의 정의
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-산염기 정의를 비교 정리합니다. 실제 반응 예시로 적용 연습을 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## pH와 지시약
@@ -39,7 +39,7 @@ pH는 수소 이온 농도의 음의 로그값입니다. pH 7이 중성이고 �
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-pH 계산 방법을 훈련합니다. 지시약 변색 범위를 정리합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 중화 반응
@@ -48,7 +48,7 @@ pH 계산 방법을 훈련합니다. 지시약 변색 범위를 정리합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-중화 반응의 양적 관계를 정리합니다. 적정 문제 풀이를 훈련합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 시험 대비
@@ -57,7 +57,7 @@ pH 계산 방법을 훈련합니다. 지시약 변색 범위를 정리합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 오답 유형을 파악하고 보완합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -80,5 +80,5 @@ pH 계산 방법을 훈련합니다. 지시약 변색 범위를 정리합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 산과 염기를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>

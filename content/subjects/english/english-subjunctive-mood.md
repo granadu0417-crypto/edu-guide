@@ -13,7 +13,7 @@ tags:
 - 조건문
 - ifonly
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0417_ObTfaF2hngw.jpg"
 ---
 
 ## 가정법 과거와 과거완료를 헷갈리시죠? I wish 용법이 복잡하다고요.
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시제 역행 원칙을 명확히 정리합니다. 학생이 헷갈리는 부분을 집중 훈련합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 가정법 과거
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정법 과거 형태와 의미를 정확히 익힙니다. 다양한 예문으로 연습합니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 가정법 과거완료
@@ -42,25 +42,25 @@ featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-가정법 과거완료 형태를 정확히 익힙니다. 가정법 과거와의 차이를 명확히 합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## I wish / as if 가정법
 
-I wish + 과거형은 현재 이룰 수 없는 소망입니다. I wish I were rich는 부자가 아니라서 아쉽다는 뜻입니다. I wish + had p.p.는 과거에 이루지 못한 소망입니다. as if + 과거형은 마치 ~인 것처럼이라는 뜻입니다.
+I wish + 과거형은 현재 이룰 수 없는 소망입니다. I wish I were rich는 부자가 아니라서 아쉽다는 뜻입니다. I wish + had p.p.는 과거에 이루지 못한 소망입니다. as if + 과거형은 마치 -인 것처럼이라는 뜻입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-I wish, as if 용법을 체계적으로 정리합니다. 실전 예문으로 연습합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## if 생략 도치와 기타 표현
 
-If를 생략하면 주어와 동사가 도치됩니다. Were I you는 If I were you와 같습니다. Had I known은 If I had known과 같습니다. without, but for도 가정법을 만듭니다. It's time + 과거형은 ~할 시간이다라는 뜻입니다.
+If를 생략하면 주어와 동사가 도치됩니다. Were I you는 If I were you와 같습니다. Had I known은 If I had known과 같습니다. without, but for도 가정법을 만듭니다. It's time + 과거형은 -할 시간이다라는 뜻입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-도치 구문과 기타 가정법 표현을 정리합니다. 다양한 형태를 연습합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -83,5 +83,5 @@ I hope는 실현 가능, I wish는 이루기 어려운 소망입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 문법 수업으로 가정법을 빠르게 마스터합니다. 헷갈리는 부분을 집중 훈련합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>

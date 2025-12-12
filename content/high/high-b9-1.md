@@ -14,7 +14,7 @@ tags:
 - 대학입시
 - 수능
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 ---
 ## 고1 1학기 내신, 생각보다 중요한 거 알고 계셨나요?
 
@@ -22,7 +22,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고1 첫 중간고사 전에 학습 스타일을 진단합니다. 중학교 때와 달라진 학습량에 어떻게 적응할지 함께 계획을 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 고1 연간 학습 목표
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 달은 고등학교 학습에 적응하는 데 집중합니다. 무리한 선행보다 학교 진도를 완벽히 따라가는 게 먼저입니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 학기별 세부 계획
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-방학 때는 평소보다 집중 학습을 합니다. 학기 중에 부족했던 과목을 방학에 집중적으로 보완합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 과목별 학습 전략
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 취약점을 진단하고 맞춤 커리큘럼을 짭니다. 수학이 약하면 수학을 집중적으로, 영어가 약하면 영어를 집중적으로 잡습니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 하루 학습 루틴
@@ -80,7 +80,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 컨디션에 따라 일정을 조정합니다. 무조건 많이 하는 것보다 집중해서 효율적으로 하는 게 중요합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 주의사항
@@ -95,7 +95,7 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 **Q. 고1 내신이 얼마나 중요한가요?**
 
-학생부 교과 전형에서 1학년 내신 비중은 20~30% 정도입니다. 절대 무시할 수 없는 비중입니다. 학종에서도 1학년 때의 성장세가 중요합니다.
+학생부 교과 전형에서 1학년 내신 비중은 20-30% 정도입니다. 절대 무시할 수 없는 비중입니다. 학종에서도 1학년 때의 성장세가 중요합니다.
 
 **Q. 지금부터 수능 준비를 해야 하나요?**
 
@@ -103,7 +103,23 @@ featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=
 
 **Q. 학원은 몇 개를 다녀야 하나요?**
 
-2~3개면 충분합니다. 학원이 많으면 자습 시간이 부족해집니다. 자습 시간 확보가 더 중요합니다.
+2-3개면 충분합니다. 학원이 많으면 자습 시간이 부족해집니다. 자습 시간 확보가 더 중요합니다.
+
+**Q. 수업 취소는 어떻게 하나요?**
+
+24시간 전까지 연락 주시면 됩니다. 당일 취소는 보강으로 대체합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 온라인 수업의 효과는 어떤가요?**
+
+대면과 비슷합니다. 태블릿으로 필기 공유하며 실시간으로 수업합니다.
 
 ## 마무리
 

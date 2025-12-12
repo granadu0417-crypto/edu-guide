@@ -14,7 +14,7 @@ tags:
 - 수능
 - 수시
 - 입시전략
-featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0657_BWfJvlISbmk.jpg"
 ---
 ## 수시 전형이 너무 복잡해요. 학종, 교과, 논술 중에 뭘 준비해야 할지 모르겠어요.
 
@@ -22,20 +22,20 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 내신, 비교과, 모의고사 성적을 종합적으로 분석합니다. 어떤 전형이 유리한지 파악하고 전략을 세웁니다.
+실수 패턴을 분석합니다. 반복되는 실수를 줄이면 점수가 오릅니다.
 </div>
 
 ## 수시 전형 종류
 
-학생부종합전형은 내신과 비교과를 종합적으로 평가합니다. 세특, 동아리, 독서 활동이 중요합니다. 내신 1~3등급 학생에게 적합합니다.
+학생부종합전형은 내신과 비교과를 종합적으로 평가합니다. 세특, 동아리, 독서 활동이 중요합니다. 내신 1-3등급 학생에게 적합합니다.
 
-학생부교과전형은 내신 성적이 핵심입니다. 비교과는 거의 반영하지 않습니다. 내신 1~2등급 학생에게 유리합니다.
+학생부교과전형은 내신 성적이 핵심입니다. 비교과는 거의 반영하지 않습니다. 내신 1-2등급 학생에게 유리합니다.
 
 논술전형은 논술 실력으로 당락이 결정됩니다. 내신이 부족해도 논술을 잘 보면 합격할 수 있습니다. 다만 경쟁률이 매우 높습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-각 전형의 특징을 설명합니다. 학생의 현재 상황에 맞는 전형을 함께 선택합니다.
+스스로 공부하는 방법을 알려드립니다. 과외가 끝나도 혼자 할 수 있어야 합니다.
 </div>
 
 ## 학종 준비 전략
@@ -48,12 +48,12 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-생기부를 점검합니다. 부족한 부분을 파악하고 보완할 수 있도록 계획을 세웁니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 교과전형 준비 전략
 
-내신 관리가 전부입니다. 1~2등급을 유지해야 합니다. 한 과목이라도 낮으면 불리합니다.
+내신 관리가 전부입니다. 1-2등급을 유지해야 합니다. 한 과목이라도 낮으면 불리합니다.
 
 내신 시험 대비에 집중합니다. 학교 수업을 충실히 듣고, 시험 범위를 완벽히 정리합니다. 기출을 분석해서 출제 경향을 파악합니다.
 
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험 대비 전략을 세웁니다. 과목별로 어떻게 공부해야 하는지 구체적으로 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 ## 논술전형 준비 전략
@@ -74,7 +74,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-논술 기출을 분석합니다. 학생이 쓴 답안을 첨삭하고 개선 방향을 알려줍니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 지원 전략
@@ -87,7 +87,7 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지원 전략을 세웁니다. 어떤 대학에 어떤 전형으로 지원할지 함께 정합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 주의사항
@@ -111,6 +111,14 @@ featured_image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?w=
 **Q. 수시 6장을 어떻게 배분해야 하나요?**
 
 상향 2개, 적정 2개, 안정 2개가 기본입니다. 본인 상황에 따라 조절합니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
 
 ## 마무리
 

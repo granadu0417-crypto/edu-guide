@@ -11,7 +11,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0390_mt4xBHKxFH4.jpg"
 ---
 ## 서술형 문제만 보면 머리가 하얘진다고요?
 
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-서술형 답안 작성의 기본 틀을 잡아드립니다. 문제가 원하는 것을 파악하고 체계적으로 답안을 구성하는 방법을 연습합니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 서술형 평가의 특징
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-채점 기준을 분석하는 방법을 알려드립니다. 출제자가 원하는 핵심 키워드를 찾아내는 연습을 합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 답안 작성의 기본 원칙
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별로 답안 구조를 잡는 연습을 합니다. 실제 기출 문제를 가지고 모범 답안을 분석해봅니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 과목별 서술형 전략
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 자주 나오는 서술형 유형을 정리해드립니다. 각 유형에 맞는 답안 작성 공식을 연습합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 사회와 과학 서술형
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기 과목의 서술형 답안 작성법을 훈련합니다. 핵심 키워드를 포함한 완전한 문장을 쓰는 연습을 합니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 감점 요소 피하기
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-감점 요소를 미리 체크하는 습관을 기릅니다. 작성한 답안을 채점자 관점에서 검토하는 연습을 합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,14 @@ featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=
 **Q. 시험 시간이 부족해서 서술형을 다 못 쓰겠어요.**
 
 시간 배분 연습이 필요합니다. 평소에 시간을 재고 서술형을 쓰는 연습을 하세요. 객관식을 빨리 풀고 서술형에 충분한 시간을 확보하는 전략도 중요합니다.
+
+**Q. 시험 성적이 안 올라요. 왜 그럴까요?**
+
+여러 이유가 있을 수 있습니다. 개념 이해 부족, 응용력 부족, 시간 부족 등 원인을 정확히 파악해야 합니다. 진단 후 맞춤 해결책을 제시합니다.
+
+**Q. 수학과 영어 중 뭘 먼저 해야 하나요?**
+
+학생마다 다릅니다. 더 부족하거나 급한 과목부터 시작하는 게 좋습니다. 상담 시 우선순위를 함께 정해드립니다.
 
 ## 마무리
 

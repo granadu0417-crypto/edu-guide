@@ -19,7 +19,7 @@ tags:
 - 대경중
 - 영어문법
 - 영어독해
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0833_NoFtd1FtntI.jpg"
 
 ---
 ## 중구 을지로동 중학생, 영어 지각동사가 헷갈린다면
@@ -28,7 +28,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 지각동사의 이해 수준을 진단합니다. see, hear, watch, feel, notice 등의 용법, 목적격 보어의 형태를 체계적으로 훈련합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 지각동사가 어려운 이유
@@ -39,7 +39,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동사원형과 현재분사의 의미 차이를 정확히 구분합니다. 다양한 상황에서 올바른 형태를 선택하는 연습을 합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 덕수중·장원중·대경중 영어 시험의 특징
@@ -52,7 +52,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-덕수중·장원중·대경중 기출 지각동사 문제를 분석합니다. 학교별 출제 유형에 맞춰 집중 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 1:1 영어 과외의 강점
@@ -63,7 +63,7 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 지각동사 문장을 만들어보게 합니다. 왜 그 동사 형태를 선택했는지 설명하는 훈련을 합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 학년별 영어 학습 전략
@@ -76,18 +76,18 @@ I saw him run과 I saw him running은 뭐가 다른가요? 동사원형과 현�
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 동사 유형을 정확히 이해합니다. 다양한 동사를 자유롭게 활용하는 능력을 키웁니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 지각동사 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,18 @@ see, hear, watch, feel, notice, observe 등이 있습니다. 감각으로 인지
 **Q. 지각동사의 수동태는 어떻게 만드나요?**
 
 목적어가 주어로 가고, 동사원형은 to부정사로 바뀝니다. He saw me go → I was seen to go.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 교재는 뭘 쓰나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
 
 ## 마무리
 

@@ -12,7 +12,7 @@ tags:
 - 독해전략
 - 지문분석
 - 수능국어
-featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0473_vcSyYj_r5ck.jpg"
 ---
 
 ## 비문학 지문이 머리에 안 들어온다고요? 유형별 독해법이 있습니다.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 독해력 수준을 진단합니다. 취약한 유형을 파악하여 맞춤 훈련을 진행합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 지문 유형별 특성
@@ -30,7 +30,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-유형별 특성을 정리합니다. 각 유형에 맞는 독해 전략을 훈련합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 독해 전략
@@ -41,7 +41,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해 전략을 실전에 적용합니다. 지문을 읽으며 구조를 분석하는 연습을 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 문제 풀이 전략
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별 풀이 전략을 정리합니다. 오답 패턴을 분석하여 실수를 줄입니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 시험 대비
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 시간 배분 전략을 세웁니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -82,5 +82,5 @@ featured_image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 비문학 독해력을 키웁니다. 유형별 전략과 실전 연습을 병행합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>

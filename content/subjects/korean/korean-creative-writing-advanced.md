@@ -10,7 +10,7 @@ tags:
 - 창작글쓰기
 - 스토리텔링
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0442_lbO1iCnbTW0.jpg"
 ---
 
 ## 글을 쓰려고 하면 머릿속이 하얘진다고요? 창작에도 방법이 있습니다.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 글쓰기 습관을 분석합니다. 아이디어 발상부터 퇴고까지 단계별로 훈련합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 아이디어 발상
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 아이디어 발상 기법을 연습합니다. 글감 찾기와 주제 선정 훈련을 합니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 ## 글의 구성
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-개요 작성법을 훈련합니다. 논리적 구성과 문단 연결을 연습합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 표현과 문체
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 표현 기법을 연습합니다. 문체 개선과 문장력 향상 훈련을 합니다.
+방학은 부족한 부분을 채우는 시간입니다. 효율적으로 활용합니다.
 </div>
 
 ## 퇴고의 중요성
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-퇴고 방법을 체계적으로 훈련합니다. 첨삭 피드백으로 글쓰기 실력을 키웁니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 자주 묻는 질문
@@ -74,11 +74,35 @@ featured_image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=
 
 소리 내어 읽어보면 어색한 부분을 찾을 수 있습니다. 간결하고 명확하게 쓰는 연습을 하세요.
 
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
 ## 마무리
 
 창작 글쓰기는 체계적인 훈련으로 향상됩니다. 아이디어 발상, 구성, 표현, 퇴고의 과정을 반복하세요. 꾸준히 쓰고 피드백을 받으면 글쓰기 실력이 늡니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 창작 글쓰기를 마스터합니다. 전문가 첨삭으로 실력을 빠르게 키웁니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>

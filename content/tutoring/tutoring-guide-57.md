@@ -11,7 +11,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습코칭
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0995_L5WJmPsFkHg.jpg"
 ---
 
 ## 과외를 하는데 진도가 들쭉날쭉해요. 체계적으로 관리하려면 어떻게 해야 하나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업마다 진도표를 작성합니다. 어디까지 했는지, 다음에 뭘 할지 기록하고 공유합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 왜 진도 관리가 중요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험 일정, 학교 진도를 파악하고 과외 계획을 세웁니다. 학교와 보조를 맞춥니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 진도 관리는 어떻게 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학부모님께 월간 진도 계획을 공유합니다. 진행 상황을 정기적으로 보고드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 진도가 안 나가면 어떻게 해요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도가 밀리면 즉시 학부모님께 알립니다. 원인을 분석하고 대책을 함께 세웁니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-진도 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 맞춤 커리큘럼을 함께 설계합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 마무리

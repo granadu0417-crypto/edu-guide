@@ -12,7 +12,7 @@ tags:
 - 1:1과외
 - 이공계
 - 수학전공
-featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0509_AvmWvuseawE.jpg"
 ---
 
 ## 수학을 잘하면 어떤 일을 할 수 있을까요? 수학 좋아하는데 진로를 어떻게 정해야 할지 모르겠다고요.
@@ -21,27 +21,27 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심 분야와 적성을 파악합니다. 진로에 필요한 수학 역량을 집중 훈련합니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 고연봉 수학 직업
 
-퀀트는 금융상품 가격 모델링과 트레이딩 전략 개발을 합니다. 확률미적분과 프로그래밍이 필요하며 석사 이상을 요구합니다. 연봉은 초봉 7천만원에서 경력 2억원 이상입니다. 데이터 사이언티스트는 빅데이터 분석과 머신러닝 모델 개발을 합니다. 통계와 프로그래밍이 핵심이며 연봉은 초봉 5천만원에서 경력 1억5천만원입니다. AI 연구원은 선형대수와 확률통계 그리고 딥러닝이 필요하며 박사가 유리합니다.
+퀀트는 금융상품 가격 모델링과 트레이딩 전략 개발을 합니다. 확률미적분과 프로그래밍이 필요하며 석사 이상을 요구합니다. 연봉은 초봉 7천만원 -  경력 2억원 이상입니다. 데이터 사이언티스트는 빅데이터 분석과 머신러닝 모델 개발을 합니다. 통계와 프로그래밍이 핵심이며 연봉은 초봉 5천만원 -  경력 1억5천만원입니다. AI 연구원은 선형대수와 확률통계 그리고 딥러닝이 필요하며 박사가 유리합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-고연봉 진로에 필요한 수학을 집중 학습합니다. 프로그래밍과 연계한 수학도 안내합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 안정적인 수학 직업
 
-수학 교사는 사범대 또는 교직이수 후 임용시험을 거칩니다. 연봉은 3500만원에서 7000만원이며 안정적이고 복지가 좋습니다. 액추어리는 보험료 산정과 리스크 분석을 합니다. 보험계리사 자격증이 필수이며 연봉은 초봉 4500만원에서 경력 1억원입니다. 경제학자와 통계학자도 수학이 기반입니다.
+수학 교사는 사범대 또는 교직이수 후 임용시험을 거칩니다. 연봉은 3500만원 -  7000만원이며 안정적이고 복지가 좋습니다. 액추어리는 보험료 산정과 리스크 분석을 합니다. 보험계리사 자격증이 필수이며 연봉은 초봉 4500만원 -  경력 1억원입니다. 경제학자와 통계학자도 수학이 기반입니다.
 
 {{< cta-dual type="final" >}}
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-안정적인 진로 준비 방법을 안내합니다. 필요한 자격증과 시험 정보를 제공합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 미래 유망 직업
@@ -50,7 +50,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-미래 유망 진로에 필요한 수학 역량을 파악합니다. 장기적인 학습 로드맵을 설계합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 학년별 진로 준비
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 진로 탐색 활동을 안내합니다. 진로 연계 수학 학습을 설계합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 자주 묻는 질문

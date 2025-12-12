@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0998_ppeg9hVJvUc.jpg"
 ---
 
 ## 국어 지문을 읽어도 무슨 말인지 모르겠어요. 독해력은 어떻게 키우나요?
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 과외 상담에서는 학생의 독해 습관을 먼저 분석합니다. 어디서 막히는지, 어떻게 읽는지 파악하고 맞춤 수업을 설계합니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 국어 과외가 왜 필요한가요?
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 과외 시작 전 진단 테스트를 진행합니다. 어떤 유형의 지문이 어렵고, 어떤 문제에서 틀리는지 파악해드립니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 진학 상담은 입시에서 국어 전략을 세울 때 도움이 됩니다.
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-지문 읽기 → 문제 유형 분석 → 어휘 정리 순서로 진행합니다. 학생이 취약한 부분에 더 시간을 배분합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 국어 과외에서 가장 중요한 건 뭔가요?
@@ -61,7 +61,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 후 지문 요약과 오답 분석 숙제를 내드립니다. 읽는 방법과 푸는 방법을 동시에 연습합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -78,7 +78,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 **Q. 주 몇 회가 적당한가요?**
 
-국어는 주 1~2회로도 충분합니다. 대신 수업 사이에 지문 읽기와 어휘 암기를 꾸준히 해야 합니다.
+국어는 주 1-2회로도 충분합니다. 대신 수업 사이에 지문 읽기와 어휘 암기를 꾸준히 해야 합니다.
 
 **Q. 문학과 비문학 중 뭐가 더 어려워요?**
 
@@ -86,7 +86,7 @@ featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-국어 과외에 대해 더 궁금한 점이 있으시면 문의하세요. 독해력 향상을 위한 맞춤 수업을 안내합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 마무리

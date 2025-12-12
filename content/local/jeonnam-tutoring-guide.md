@@ -10,7 +10,7 @@ cities:
 reading_time: "160줄"
 description: "전남도의 과외 선택부터 학습 전략까지 완벽 가이드입니다. 광주 대학생 과외 시세, 화상 과외 활용법, 과목별 전략을 제공합니다."
 tags: ["전남과외", "과외", "전남교육", "순천과외", "여수과외", "목포과외", "전남대과외", "조선대과외", "순천대과외", "화상과외"]
-featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0292_OCIicZ3Tfco.jpg"
 ---
 
 ## 전남에서 실력 있는 과외 선생님 찾기 어렵지 않나요? 광주까지 가야 하는지 지역 대학생으로 충분한지 궁금하시죠.
@@ -19,7 +19,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-전남 지역 과외 시장을 분석합니다. 학생 수준과 거주 지역에 맞는 최적의 선생님을 찾아드립니다.
+꾸준함이 중요함을 알려드립니다. 하루에 많이 하는 것보다 매일 조금씩이 낫습니다.
 </div>
 
 ## 광주 대학생 과외 활용법
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 목표에 맞는 선생님 수준을 결정합니다. 시범 수업으로 궁합을 확인합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 지역 대학 과외
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-거주 지역에 따라 적합한 대학 과외를 연결합니다. 비용 대비 효과를 고려하여 추천합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 ## 화상 과외 전략
@@ -48,7 +48,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-화상 수업 환경 세팅을 도와드립니다. 오프라인과 온라인 중 학생에게 맞는 방식을 선택합니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 과목별 과외 전략
@@ -57,7 +57,7 @@ featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 최적의 선생님을 매칭합니다. 학생의 약점 과목에 집중하여 효율을 높입니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 자주 묻는 질문

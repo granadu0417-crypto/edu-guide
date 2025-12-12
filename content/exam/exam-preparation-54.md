@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0195_h3BWE-uMJUY.jpg"
 ---
 ## 외울 게 너무 많아요. 효율적으로 암기하는 방법 없나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 암기 방법을 안내합니다. 학생에게 맞는 암기법을 찾아 적용합니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 ## 암기가 안 되는 이유
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-암기가 안 되는 원인을 파악합니다. 문제점을 개선하고 효율을 높입니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 효과적인 암기 방법
@@ -51,7 +51,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 암기 방법을 연습합니다. 학생에게 맞는 방법을 찾아 적용합니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 ## 반복 복습 전략
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-복습 주기를 정해 드립니다. 정기적으로 확인하여 잊어버리지 않도록 합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 과목별 암기 전략
@@ -79,7 +79,7 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별 암기 전략을 안내합니다. 특성에 맞는 방법으로 효율적으로 외웁니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 시험 직전 암기
@@ -109,6 +109,18 @@ featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=
 **Q. 암기할 때 집중이 안 돼요.**
 
 환경을 바꿔보세요. 조용한 곳에서, 짧은 시간 동안 집중해서 외우세요.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 학원과 과외를 같이 해도 되나요?**
+
+가능합니다. 학습량 조절이 필요할 수 있어요.
 
 ## 마무리
 

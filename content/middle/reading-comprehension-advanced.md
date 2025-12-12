@@ -13,7 +13,7 @@ tags:
 - 중등교육
 - 중학교
 - 학습전략
-featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 ---
 ## 국어 지문, 읽어도 무슨 소리인지 모르겠다고요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독해력의 기초부터 점검합니다. 어휘력, 문장 이해력, 글 구조 파악 능력을 단계별로 키워드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 독해력이 중요한 이유
@@ -32,7 +32,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-다양한 유형의 지문을 읽으면서 독해 훈련을 합니다. 매 수업 비문학과 문학 지문을 하나씩 분석합니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 비문학 독해 전략
@@ -43,7 +43,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-비문학 지문의 구조를 분석하는 방법을 알려드립니다. 중심 문장과 키워드를 찾는 연습을 합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 문학 독해 전략
@@ -54,7 +54,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문학 작품을 분석하는 틀을 알려드립니다. 시와 소설의 감상 방법을 체계적으로 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 독해력 향상 방법
@@ -65,7 +65,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 중에 새로운 어휘를 정리합니다. 다양한 주제의 지문을 읽으면서 배경지식을 넓힙니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 문제 풀이 전략
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문제 유형별로 풀이 전략을 훈련합니다. 오답을 분석하여 같은 실수를 반복하지 않게 합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -94,6 +94,22 @@ featured_image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120
 **Q. 문학 작품이 이해가 안 돼요.**
 
 작품의 시대적 배경을 먼저 알아보세요. 작가가 왜 이 글을 썼는지 이해하면 작품이 더 잘 읽힙니다. 어려운 고전 문학은 현대어 해설과 함께 읽으세요.
+
+**Q. 수업 장소는 어디인가요?**
+
+학생 자택 또는 카페에서 수업합니다. 온라인도 가능합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+3개월 이상 꾸준히 수업하면 대부분 향상됩니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
 
 ## 마무리
 

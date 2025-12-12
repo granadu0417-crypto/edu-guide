@@ -16,7 +16,7 @@ tags:
 - 프랜차이즈학원
 - 학원고르기
 - 학원
-featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0756_Uh6-JgCwbfM.jpg"
 ---
 
 ## 대형 학원이 좋다는 말도 있고, 소형 학원이 더 낫다는 말도 있어요. 우리 아이한테는 뭐가 맞을까요?
@@ -25,7 +25,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향과 현재 상황을 파악해서 어떤 형태가 맞을지 안내해 드립니다. 무조건 좋은 건 없습니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 대형 학원의 장점은 뭔가요?
@@ -38,12 +38,12 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대형 학원 다니면서 부족한 부분을 과외로 보충하는 학생도 많습니다. 병행도 가능합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 대형 학원의 단점은 뭔가요?
 
-개인 관리가 부족합니다. 반당 학생 수가 20~30명 정도라 개별 피드백이 제한적입니다. 질문 시간이 부족하고, 진도가 획일적입니다. 중간쯤 되는 학생은 상위권만큼 관심을 못 받을 수 있습니다.
+개인 관리가 부족합니다. 반당 학생 수가 20-30명 정도라 개별 피드백이 제한적입니다. 질문 시간이 부족하고, 진도가 획일적입니다. 중간쯤 되는 학생은 상위권만큼 관심을 못 받을 수 있습니다.
 
 진도가 빠릅니다. 상위권 기준으로 진도가 나가서 뒤처지면 따라가기 어렵습니다. 개인 속도 조절이 안 되고, 보강 수업도 제한적입니다.
 
@@ -51,12 +51,12 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대형 학원에서 뒤처지는 학생이라면 기초를 다시 잡아드립니다. 무리하게 따라가지 않아도 됩니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 소형 학원의 장점은 뭔가요?
 
-맞춤형 관리가 됩니다. 반당 학생 수가 5~10명 정도라 개별 진도 관리가 가능합니다. 세심한 피드백을 받을 수 있고, 질문에 즉각 응답해 줍니다. 선생님이 아이 약점을 정확히 알고 매일 학습 상황을 보고해 주는 곳도 있습니다.
+맞춤형 관리가 됩니다. 반당 학생 수가 5-10명 정도라 개별 진도 관리가 가능합니다. 세심한 피드백을 받을 수 있고, 질문에 즉각 응답해 줍니다. 선생님이 아이 약점을 정확히 알고 매일 학습 상황을 보고해 주는 곳도 있습니다.
 
 유연하게 운영됩니다. 개인 일정을 고려해 줍니다. 보강 수업이 융통성 있고, 진도 조절도 가능합니다. 수업 방식도 아이에 맞게 조정됩니다.
 
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외도 소형 학원처럼 맞춤 관리가 됩니다. 1:1이라 더 세밀한 케어가 가능합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 소형 학원의 단점은 뭔가요?
@@ -77,7 +77,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-입시 정보나 최신 트렌드가 궁금하시면 상담해 주세요. 필요한 정보를 안내해 드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -96,7 +96,7 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-아이 성향을 파악해서 어떤 학습 환경이 맞을지 안내해 드립니다. 상담 후 결정하셔도 됩니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -111,11 +111,27 @@ featured_image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=120
 
 **Q. 중간에 학원을 바꿔도 되나요?**
 
-가능합니다. 최소 3개월은 다녀보고 판단하세요. 환불 규정 확인 후 학기 초나 방학 때 이동하는 게 좋습니다.
+가능합니다. 최소 3개월은 다녀보고 판단하세요. 학기 초나 방학 때 이동하는 게 좋습니다.
 
 **Q. 대형과 소형을 병행할 수 있나요?**
 
 가능합니다. 주력 과목은 대형 학원에서, 약점 과목은 소형 학원에서 관리받는 방식을 추천합니다. 총 수업 시간이 과도하지 않게 조절하세요.
+
+**Q. 선생님 변경이 가능한가요?**
+
+가능합니다. 수업 스타일이 맞지 않으면 다른 선생님으로 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
+
+**Q. 내신과 수능 중 어디에 집중하나요?**
+
+학년에 따라 다릅니다. 중등은 내신 위주, 고3은 수능도 병행합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
 
 ## 마무리
 

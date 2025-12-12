@@ -11,7 +11,7 @@ tags:
 - 학부모가이드
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0935_0oa1jhDLevQ.jpg"
 ---
 
 ## 첫 과외 수업에서 뭘 준비해 가야 하나요? 아이가 긴장을 많이 하는데 어떡해요?
@@ -20,12 +20,12 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업은 진단과 친해지기가 목적입니다. 긴장하지 않도록 편안한 분위기에서 시작합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 첫 수업 전에 뭘 준비해야 하나요?
 
-최근 시험지를 준비하세요. 가장 최근 시험지 2~3개를 준비하면 좋습니다. 어디가 약한지 파악하는 데 큰 도움이 됩니다. 없으면 문제집이라도요.
+최근 시험지를 준비하세요. 가장 최근 시험지 2-3개를 준비하면 좋습니다. 어디가 약한지 파악하는 데 큰 도움이 됩니다. 없으면 문제집이라도요.
 
 현재 사용하는 교재를 챙기세요. 학교 교과서, 학원 교재, 문제집 등. 뭘 어디까지 했는지 선생님이 파악해야 합니다.
 
@@ -33,7 +33,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 시험지와 교재를 보면서 현재 상태를 진단합니다. 정확한 출발점을 찾습니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 첫 수업에서는 뭘 하나요?
@@ -46,7 +46,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업 후에 진단 결과와 앞으로 계획을 학부모님께 공유드립니다. 방향을 함께 잡습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 아이가 긴장하면 어떡하나요?
@@ -59,7 +59,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업은 부담 없이 진행합니다. 아이가 편해질 때까지 천천히 시작합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -68,7 +68,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 **Q. 첫 수업에 부모님이 있어야 하나요?**
 
-처음 10~15분 정도는 같이 계시는 게 좋습니다. 목표와 상황을 함께 나눌 수 있습니다. 그 후에는 아이만 수업하는 게 집중에 좋습니다.
+처음 10-15분 정도는 같이 계시는 게 좋습니다. 목표와 상황을 함께 나눌 수 있습니다. 그 후에는 아이만 수업하는 게 집중에 좋습니다.
 
 **Q. 첫 수업에서 바로 진도를 나가나요?**
 
@@ -76,7 +76,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 **Q. 첫 수업이 안 맞으면 바로 끊어도 되나요?**
 
-한두 번 더 해보세요. 첫 날은 서로 어색합니다. 2~3회 정도 하고 판단하세요. 그래도 안 맞으면 바꾸는 게 낫습니다.
+한두 번 더 해보세요. 첫 날은 서로 어색합니다. 2-3회 정도 하고 판단하세요. 그래도 안 맞으면 바꾸는 게 낫습니다.
 
 **Q. 선생님께 뭘 말씀드려야 하나요?**
 
@@ -84,7 +84,7 @@ featured_image: "https://images.unsplash.com/photo-1489533119213-66a5cd877091?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에 대해 더 궁금한 점이 있으시면 문의하세요. 편하게 시작할 수 있도록 도와드립니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 마무리

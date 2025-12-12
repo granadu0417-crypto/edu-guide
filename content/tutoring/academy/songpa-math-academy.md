@@ -15,7 +15,7 @@ tags:
 description: 송파 수학학원 추천. 잠실·문정·가락 지역별 학원, 선택 기준, 1:1 수학 과외 병행 전략을 안내합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
   정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0779_Q7ngZ0oKIfc.jpg"
 reading_time: 165줄
 ---
 
@@ -25,7 +25,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 수학 실력을 먼저 진단합니다. 개념이 부족한지, 문제 풀이가 안 되는지, 응용이 약한지 파악합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 송파 수학학원은 어떤 특징이 있나요?
@@ -38,7 +38,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-송파 학원 진도에 맞춰 과외에서 복습하고 심화합니다. 학원에서 이해 안 된 부분을 과외에서 확실히 잡습니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 지역별로 어떤 학원이 있나요?
@@ -51,7 +51,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생 상황에 맞는 지역과 학원 유형을 안내해 드립니다. 예산, 수준, 학습 목표를 종합적으로 고려합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 수학학원 유형은 어떤 게 있나요?
@@ -76,7 +76,7 @@ reading_time: 165줄
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 커리큘럼으로 수업합니다. 초등은 개념, 중등은 내신+선행, 고등은 목표에 맞춰 수업합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 수학은 과외가 꼭 필요한가요?
@@ -85,11 +85,11 @@ reading_time: 165줄
 
 과외에서 맞춤 설명을 받을 수 있습니다. 이해 안 되는 개념, 풀리지 않는 유형을 1:1로 집중 보완합니다. 학원에서 놓친 부분을 과외에서 잡습니다.
 
-역할 분담이 효과적입니다. 학원에서 진도, 자료, 유형 훈련을 받습니다. 과외에서 이해, 약점, 심화를 다룹니다. 평소에는 주 1~2회, 시험 전에는 주 2~3회 과외가 효과적입니다.
+역할 분담이 효과적입니다. 학원에서 진도, 자료, 유형 훈련을 받습니다. 과외에서 이해, 약점, 심화를 다룹니다. 평소에는 주 1-2회, 시험 전에는 주 2-3회 과외가 효과적입니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학원 진도에 맞춰 과외 커리큘럼을 짭니다. 학원에서 배운 내용을 과외에서 다시 정리하고, 부족한 부분을 집중 보완합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 자주 묻는 질문

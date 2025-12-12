@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"
 ---
 ## 내신 1등급 받고 싶은데 학교 시험이 너무 어려워요. 어떻게 준비해야 하나요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교별 기출문제를 분석합니다. 선생님의 출제 패턴을 파악하고 그에 맞춰 준비합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 내신 시험의 특징
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학교 시험 유형을 분석합니다. 객관식, 서술형 비중에 맞춰 맞춤 학습을 진행합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 기출문제 분석법
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출문제를 함께 분석합니다. 출제 패턴을 파악하고 예상 문제를 만들어 연습합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 수업 활용법
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 내용 정리를 도와드립니다. 선생님이 강조한 부분을 중심으로 핵심을 정리합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 교과서 공부법
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-교과서 분석을 함께 합니다. 출제 가능한 부분을 표시하고 중요 내용을 정리합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 프린트와 문제집 활용
@@ -103,6 +103,18 @@ featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=120
 **Q. 내신과 모의고사 중 뭘 먼저 해야 하나요?**
 
 내신을 먼저 챙기세요. 내신은 범위가 정해져 있어서 단기간에 올릴 수 있습니다.
+
+**Q. 방학 때 수업은 어떻게 되나요?**
+
+방학에는 선행 학습이나 부족한 부분 보충에 집중합니다. 수업 횟수 조정도 가능합니다.
+
+**Q. 첫 수업은 어떻게 진행되나요?**
+
+첫 수업에서 학생의 현재 실력을 진단합니다. 맞춤 학습 계획을 세웁니다.
+
+**Q. 형제 할인이 있나요?**
+
+있습니다. 형제자매가 함께 수업하면 할인을 적용해 드립니다.
 
 ## 마무리
 

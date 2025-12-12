@@ -11,7 +11,7 @@ tags:
 - 평시조
 - 사설시조
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0492_4nKOEAQaTgA.jpg"
 ---
 
 ## 시조가 다 비슷비슷해 보이고 구분이 안 된다고요? 형식의 특징을 알면 명확해집니다.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시조의 형식과 특징을 정리합니다. 대표 작품으로 감상 연습을 합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 시조의 형식
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시조 형식을 체계적으로 정리합니다. 실제 작품에서 구조를 파악하는 연습을 합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 평시조와 사설시조
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-평시조와 사설시조의 차이를 정리합니다. 대표 작품을 비교 분석합니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 주요 작품 감상
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주요 시조 작품을 분석합니다. 작가별, 주제별로 정리합니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 시험 대비
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-기출 문제를 분석합니다. 유형별 풀이 전략을 정리합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -75,11 +75,35 @@ featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=
 
 주요 작품 위주로 학습하세요. 주제와 특징을 정리하면 충분합니다.
 
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
+
 ## 마무리
 
 시조는 형식을 이해하면 어렵지 않습니다. 3장 구조와 음보를 파악하고, 대표 작품을 정리하세요. 꾸준한 감상 연습이 실력 향상으로 이어집니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 시조 감상력을 키웁니다. 형식 분석과 작품 해석을 함께 훈련합니다.
+무작정 진도를 나가지 않습니다. 기초부터 차근차근 쌓아갑니다.
 </div>

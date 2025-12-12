@@ -11,7 +11,7 @@ tags:
 - 어휘
 - 1등급
 - 1:1과외
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0351_eVpZxkNY3bw.jpg"
 ---
 
 ## 기본 단어는 아는데 지문에 모르는 단어가 자꾸 나온다고요? 1등급을 위한 고급 어휘가 부족하다고 느끼시죠.
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수능 고빈출 고급 어휘를 주제별로 정리합니다. 효율적인 암기법과 활용법을 함께 지도합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 고빈출 추상 개념 어휘
@@ -29,7 +29,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-추상 개념 어휘를 예문과 함께 익힙니다. 실제 지문에서 어떻게 쓰이는지 분석합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 변화와 영향 관련 어휘
@@ -40,7 +40,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-강도 표현 어휘의 뉘앙스 차이를 명확히 익힙니다. 비슷한 단어들을 비교 정리합니다.
+실력에 맞는 교재를 선택합니다. 너무 쉽거나 어려우면 효과가 없습니다.
 </div>
 
 ## 관계와 연결 어휘
@@ -49,7 +49,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-관계와 연결 어휘를 논리 구조와 연결하여 학습합니다. 독해에서 어떻게 활용되는지 익힙니다.
+이해가 될 때까지 설명합니다. 외우기보다 이해가 먼저입니다.
 </div>
 
 ## 효과적인 고급 어휘 암기법
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-접두사, 접미사, 어근을 활용한 효율적인 암기법을 지도합니다. 기출 지문으로 어휘를 익힙니다.
+시간 관리도 훈련합니다. 실전에서는 시간이 부족합니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,5 +81,5 @@ featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 어휘 수업으로 고급 어휘를 효율적으로 익힙니다. 수능 고빈출 어휘를 완벽히 정복합니다.
+흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.
 </div>

@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0058_zn9QqA-JTmY.jpg"
 ---
 
 ## 시험 때마다 똑같은 유형에서 틀려요. 분명 틀린 문제 다시 풀었는데 왜 또 틀리는 걸까요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 상담에서는 학생이 현재 어떻게 오답 정리를 하는지 먼저 점검합니다. 문제만 적는지, 풀이도 적는지, 왜 틀렸는지 분석은 하는지 확인하고 개선점을 안내합니다.
+목표를 명확히 설정합니다. 목표가 있어야 동기가 생깁니다.
 </div>
 
 ## 오답노트 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-같은 실수가 반복된다면 학습 상담을 받으세요. 오답 분석 방법과 효과적인 복습 전략을 함께 안내합니다.
+시험 전에는 집중 대비합니다. 시험 범위를 철저히 준비합니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략을 다룹니다. 심리 상담은 시험 불안이 심할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 바로 적용할 수 있는 오답노트 양식을 안내합니다. 문제, 틀린 이유, 정답 풀이, 유사 문제까지 체계적으로 정리하는 방법을 알려드립니다.
+자신감을 키워줍니다. 할 수 있다는 믿음이 중요합니다.
 </div>
 
 ## 효과적인 오답노트 작성법은?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 과목과 수준에 맞는 오답 관리법을 안내합니다. 수학, 영어, 과학 등 과목별로 다른 접근법을 알려드립니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,8 +85,32 @@ featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답노트 활용에 대해 더 궁금한 점이 있으시면 문의하세요. 실수를 줄이는 학습법을 안내합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
+
+**Q. 첫 수업은 어떻게 하나요?**
+
+학생 실력을 진단하고 맞춤 계획을 세웁니다.
+
+**Q. 숙제는 얼마나 나오나요?**
+
+부담되지 않는 선에서 복습용 과제를 내드립니다.
+
+**Q. 학부모 상담은 어떻게 하나요?**
+
+매 수업 후 간단한 피드백을 드립니다.
+
+**Q. 시험 기간 집중 수업이 가능한가요?**
+
+네, 2-3주 전부터 집중 대비합니다.
+
+**Q. 고등학교까지 연계 가능한가요?**
+
+가능합니다. 연속성 있게 지도합니다.
+
+**Q. 성적이 안 오르면 어떻게 하나요?**
+
+원인을 분석하고 방법을 조정합니다.
 
 ## 마무리
 

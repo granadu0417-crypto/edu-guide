@@ -17,7 +17,7 @@ tags:
 - 고급
 - 심화
 author: 에듀코리아 사회교육연구소
-featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0680_ZPkG0EdWQa8.jpg"
 ---
 
 ## 무단통치와 민족말살정책이 헷갈리고 독립운동 흐름이 복잡하다고요? 시기별 통치 정책부터 정리하면 됩니다.
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일제 통치 정책의 변화를 시기별로 정리합니다. 각 시기의 특징과 독립운동을 연결합니다.
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
 </div>
 
 ## 무단통치기 (1910년대)
@@ -35,7 +35,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-무단통치의 특징과 수탈 정책을 정리합니다. 토지조사사업의 결과를 분석합니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 문화통치기 (1920년대)
@@ -46,16 +46,16 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-문화통치의 실제 목적을 분석합니다. 3·1 운동 전후 변화를 비교합니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
-## 민족말살통치기 (1930~40년대)
+## 민족말살통치기 (1930-40년대)
 
 1930년대 이후 일제는 전쟁 준비를 위해 민족말살정책을 펼쳤습니다. 황국신민서사 암송, 창씨개명, 신사참배를 강요했습니다. 징병제와 징용으로 조선인을 전쟁에 동원했습니다. 국가총동원법으로 인적, 물적 자원을 수탈했습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-민족말살정책의 구체적 내용을 정리합니다. 강제 동원의 실태를 파악합니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 독립운동의 전개
@@ -64,7 +64,7 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-독립운동의 주요 사건을 시간순으로 정리합니다. 국내외 독립운동을 비교합니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 시험 대비
@@ -91,5 +91,5 @@ featured_image: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1:1 맞춤 과외로 일제강점기를 완벽히 이해합니다. 개념 정리와 문제 풀이를 함께합니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>

@@ -12,7 +12,7 @@ tags:
 - 집중력
 - 초등교육
 - 초등학습
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0098_gCWabF9Z9pI.jpg"
 ---
 ## 받아쓰기 100점, 한두 번 틀린다고 포기하지 마세요
 
@@ -20,7 +20,7 @@ featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 아이의 받아쓰기 실력을 확인합니다. 자주 틀리는 유형을 파악하고, 맞춤법 규칙부터 차근차근 익혀갑니다.
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
 </div>
 
 ## 시험 일주일 전 학습 계획
@@ -31,7 +31,7 @@ featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-단어를 외울 때 그냥 쓰기만 하지 않습니다. 소리 내어 읽고, 뜻을 이해하고, 문장에서 어떻게 쓰이는지까지 함께 익힙니다.
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
 </div>
 
 ## 틀리기 쉬운 맞춤법 정리
@@ -42,7 +42,7 @@ featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-틀린 단어는 오답 노트에 정리합니다. 틀린 표기, 올바른 표기, 틀린 이유, 기억법, 예문까지 함께 적으면 오래 기억됩니다.
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
 </div>
 
 ## 문장 받아쓰기 연습법
@@ -55,7 +55,7 @@ featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-띄어쓰기는 교과서 문장을 손가락으로 띄어 읽으며 연습합니다. 슬래시 표시를 하며 읽으면 규칙이 자연스럽게 익혀집니다.
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
 </div>
 
 ## 집중력 높이는 듣기 연습
@@ -70,7 +70,7 @@ featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 전에 실전처럼 모의 받아쓰기를 봅니다. 타이머를 맞춰놓고 부모님이 실제 속도로 읽어주면, 시험장에서 당황하지 않습니다.
+다양한 유형의 문제를 경험하게 합니다. 새로운 문제도 풀 수 있게 됩니다.
 </div>
 
 ## 학년별 대비법
@@ -96,6 +96,18 @@ featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=
 **Q. 부모가 읽어줄 때 어떻게 해야 하나요?**
 
 적절한 속도를 유지하고 또박또박 발음합니다. 실전처럼 한 번만 읽어주세요. 즉시 피드백을 주고 틀린 곳을 표시해서 다시 쓰게 합니다. 잘한 부분은 칭찬하고 틀려도 다독여주세요.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 다른 과목도 같이 배울 수 있나요?**
+
+선생님에 따라 다릅니다. 상담 시 확인해 드립니다.
 
 ## 마무리
 

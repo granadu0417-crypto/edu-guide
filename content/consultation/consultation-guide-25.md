@@ -12,7 +12,7 @@ tags:
 - 학습가이드
 - 학습상담
 - 학습습관
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 ---
 
 ## 학원, 숙제, 인강까지 할 게 너무 많은데, 시간이 모자라요. 어떻게 관리해야 할까요?
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리 상담에서는 현재 하루 일과를 분석합니다. 어디서 시간이 새는지 파악하고 효율적으로 배분하는 방법을 안내합니다.
+학생의 현재 상황과 목표를 정확히 파악합니다. 맞춤 계획을 세우는 것이 첫걸음입니다.
 </div>
 
 ## 시간 관리 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간이 부족하다면 학습 상담을 받으세요. 우선순위를 정하고 효율적으로 시간을 쓰는 방법을 안내합니다.
+약점을 정확히 파악합니다. 약점을 보완해야 성적이 오릅니다.
 </div>
 
 진로 상담은 방향을 찾는 데 도움이 됩니다. 진학 상담은 입시 전략을 다룹니다. 심리 상담은 시간 관리 스트레스가 심할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 현실적인 시간표를 함께 만듭니다. 지킬 수 있는 계획을 세우고, 점검 방법도 안내합니다.
+선행보다 현행이 중요합니다. 지금 배우는 것을 확실히 해야 합니다.
 </div>
 
 ## 학년에 따라 시간 관리 방법이 다른가요?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년에 맞는 시간 관리 방법을 안내합니다. 너무 빡빡하지 않으면서도 효율적인 계획을 함께 세웁니다.
+결과를 급하게 기대하지 않습니다. 시간이 필요합니다. 꾸준히 하면 반드시 오릅니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -69,7 +69,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 **Q. 계획을 세워도 못 지키면 어떡하나요?**
 
-처음엔 50~60%만 지켜도 성공입니다. 점점 늘려가세요. 너무 빡빡하게 짜면 실패합니다.
+처음엔 50-60%만 지켜도 성공입니다. 점점 늘려가세요. 너무 빡빡하게 짜면 실패합니다.
 
 **Q. 자투리 시간 활용이 정말 도움이 되나요?**
 
@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시간 관리에 대해 더 궁금한 점이 있으시면 문의하세요. 실천 가능한 시간 관리 방법을 안내합니다.
+단계별로 진행합니다. 갑자기 어려운 내용으로 넘어가지 않습니다.
 </div>
 
 ## 마무리

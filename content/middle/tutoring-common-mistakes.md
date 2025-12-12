@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "과외를 시작하는 학생과 부모님이 흔히 저지르는 실수와 해결 방법. 시행착오를 줄이고 과외 효과를 극대화하세요."
 tags: ["중등과외", "1:1과외", "학습전략", "과외선택", "학습효율"]
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0229_ib4VRerGeDA.jpg"
 ---
 
 ## 과외를 시작했는데 효과가 없는 것 같아요. 뭘 잘못하고 있는 걸까요?
@@ -15,7 +15,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 효과가 없는 원인을 함께 분석합니다. 숙제 완료율, 복습 여부, 학습 태도를 점검하고 개선 방안을 제시합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 과외가 만능이라고 생각하면 안 됩니다
@@ -26,7 +26,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과외 의존도를 낮추고 자기주도 학습 능력을 키웁니다. 혼자 공부하는 시간을 어떻게 써야 하는지 함께 계획합니다.
+계산 실수를 줄이는 방법을 훈련합니다. 실수도 실력입니다.
 </div>
 
 ## 숙제를 안 하면 효과가 없습니다
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-숙제를 철저히 확인합니다. 안 해오면 과외 시간에 먼저 합니다. 부모님께 주간 피드백을 드립니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 진도만 나가고 복습을 안 합니다
@@ -50,18 +50,18 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-매 수업 시작 전 복습 테스트를 합니다. 지난 시간 내용을 기억하는지 확인하고 진도를 나갑니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 비현실적인 목표를 세웁니다
 
-이번 시험 100점, 3개월 안에 1등급 같은 목표는 비현실적입니다. 달성 불가능한 목표는 실패하면 좌절만 남깁니다. 한 번에 10~15점 상승이 현실적입니다. 50점대라면 3개월 안에 65~70점을 목표로 하세요.
+이번 시험 100점, 3개월 안에 1등급 같은 목표는 비현실적입니다. 달성 불가능한 목표는 실패하면 좌절만 남깁니다. 한 번에 10-15점 상승이 현실적입니다. 50점대라면 3개월 안에 65-70점을 목표로 하세요.
 
 작은 성공 경험을 쌓는 것이 중요합니다. 결과 목표만 세우지 말고 과정 목표도 세우세요. 매일 2시간 공부, 학교 프린트 3회 반복, 오답노트 완성처럼 측정 가능한 목표가 좋습니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-현실적인 목표를 함께 세웁니다. 단기, 중기, 장기 목표를 단계적으로 설정하고 달성해나갑니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 자주 묻는 질문
@@ -81,6 +81,30 @@ featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=
 **Q. 과외 횟수를 늘리면 좋아질까요?**
 
 아닙니다. 횟수보다 효율이 중요합니다. 혼자 공부하는 시간이 더 중요합니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
 
 ## 마무리
 

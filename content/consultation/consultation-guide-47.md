@@ -12,7 +12,7 @@ tags:
 - 진학정보
 - 학습가이드
 - 학습상담
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0069_wWgfpLY7Ims.jpg"
 ---
 
 ## 왜 공부해야 하는지 모르겠어요. 해야 하는 건 아는데 하고 싶지가 않아요.
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-동기 부여 상담에서는 학생이 공부를 왜 싫어하는지 먼저 파악합니다. 진짜 하고 싶은 게 뭔지, 공부가 그것과 어떻게 연결되는지 함께 찾아봅니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 동기 부여 상담이 왜 필요한가요?
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부 동기가 없다면 학습 상담을 받으세요. 공부의 이유를 함께 찾아드립니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 진로 상담은 미래 목표를 찾는 데 도움이 됩니다. 목표가 생기면 공부 동기도 생깁니다. 심리 상담은 무기력이 심할 때 도움이 됩니다.
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-상담 후에는 학생 스스로 공부하고 싶어지는 동기를 찾아드립니다. 작은 목표부터 세우고 성취감을 느끼는 경험을 설계합니다.
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
 </div>
 
 ## 어떻게 하면 공부하고 싶어질까요?
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 관심사와 목표를 연결해서 공부 동기를 찾아드립니다. 억지로 동기를 만들지 않고 자연스럽게 찾도록 도와드립니다.
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -85,7 +85,7 @@ featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-공부 동기에 대해 더 궁금한 점이 있으시면 문의하세요. 스스로 공부하고 싶어지는 방법을 안내합니다.
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
 </div>
 
 ## 마무리

@@ -19,7 +19,7 @@ tags:
 - 장원중
 - 수학개념
 - 수학심화
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0828_ImRm8T6DNTc.jpg"
 
 ---
 ## 중구 청구동 중학생, 수학 대푯값과 산포도가 헷갈린다면
@@ -28,7 +28,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-첫 수업에서 대푯값과 산포도의 이해 수준을 진단합니다. 평균, 중앙값, 최빈값, 분산, 표준편차를 체계적으로 훈련합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 대푯값과 산포도가 어려운 이유
@@ -39,7 +39,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-대푯값 각각의 의미를 정확히 이해합니다. 상황에 맞는 대푯값을 선택하는 연습을 합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 장충중·대경중·장원중 수학 시험의 특징
@@ -52,7 +52,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-장충중·대경중·장원중 기출 통계 문제를 분석합니다. 학교별 출제 스타일에 맞춰 집중 연습합니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 1:1 수학 과외의 효과
@@ -63,7 +63,7 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생이 직접 자료를 분석하고 대푯값을 구해보게 합니다. 왜 그 대푯값을 선택했는지 설명하는 훈련을 합니다.
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
 </div>
 
 ## 학년별 학습 전략
@@ -76,18 +76,18 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학년별 핵심 통계 내용을 정확히 이해합니다. 통계를 자유롭게 활용하는 능력을 키웁니다.
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
 </div>
 
 ## 수업료 안내
 
-**중1~2**는 주1회 기준 18만원에서 25만원, 주2회 기준 32만원에서 45만원 선입니다.
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
 
-**중3**은 주1회 기준 20만원에서 28만원, 주2회 기준 36만원에서 50만원이 일반적입니다.
+
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-학생의 현재 통계 이해 수준에 따라 수업 횟수를 정합니다. 상담 후 맞춤 학습 계획을 세웁니다.
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
 </div>
 
 {{< cta-dual type="final" >}}
@@ -105,6 +105,14 @@ featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=120
 **Q. 표준편차의 의미는요?**
 
 자료가 평균에서 평균적으로 얼마나 떨어져 있는지를 나타냅니다. 단위가 원래 자료와 같아서 해석이 쉽습니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 꾸준히 3개월 이상 수업하면 확실한 성적 향상을 기대할 수 있습니다.
+
+**Q. 다른 학생과 함께 수업해도 되나요?**
+
+소그룹 수업도 가능합니다. 비슷한 수준의 친구와 함께 하면 비용도 절약하고 경쟁 효과도 있습니다.
 
 ## 마무리
 

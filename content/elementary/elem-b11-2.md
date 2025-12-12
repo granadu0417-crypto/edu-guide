@@ -13,7 +13,7 @@ tags:
 - 어휘력
 - 연산
 - 읽기
-featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0104_N_aihp118p8.jpg"
 ---
 ## 중학교까지 2년, 지금 만드는 습관이 내신의 기초가 됩니다
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-주간 학습 계획표를 함께 만들고, 매주 얼마나 지켰는지 점검합니다. 스스로 계획하는 연습이 중학교 대비입니다.
+학생 수준에 맞는 난이도로 시작합니다. 너무 어려우면 포기하게 됩니다.
 </div>
 
 ## 핵심 학습 목표
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-오답 노트 작성법을 가르칩니다. 왜 틀렸는지 적고, 다음에 어떻게 풀지 정리합니다.
+내신과 수능을 효율적으로 병행합니다. 두 마리 토끼를 잡는 전략이 있습니다.
 </div>
 
 ## 과목별 학습 전략
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-과목별로 다른 학습법을 적용합니다. 국어는 읽기 중심, 수학은 풀이 중심, 영어는 암기 중심으로 접근합니다.
+문제를 읽는 방법부터 알려드립니다. 문제 이해가 반입니다.
 </div>
 
 ## 5학년의 특징과 대응
@@ -58,7 +58,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-이번 주 계획은 뭐야?라고 물어봅니다. 스스로 말할 수 있어야 진짜 자기 계획입니다.
+개념을 확실히 잡은 후 문제로 넘어갑니다. 기본이 중요합니다.
 </div>
 
 ## 가정에서의 역할
@@ -71,7 +71,7 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 방과 후 15시에서 16시에는 간식 먹고 휴식하고 학교 준비물을 정리합니다.
 
-학습 시간 16시에서 18시에는 숙제를 먼저 하고, 교과서 복습 40분, 심화 학습 30분, 독서 30분을 합니다. 5학년은 1시간 30분~2시간이 적당합니다.
+학습 시간 16시에서 18시에는 숙제를 먼저 하고, 교과서 복습 40분, 심화 학습 30분, 독서 30분을 합니다. 5학년은 1시간 30분-2시간이 적당합니다.
 
 저녁 18시에서 19시에는 저녁식사와 가족 대화 시간을 갖습니다.
 
@@ -79,12 +79,12 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수업 끝나고 오늘 배운 거 집에서 뭘 복습할지 스스로 정해보게 합니다. 스스로 정하면 더 잘 지킵니다.
+학교 수업과 연계하여 진행합니다. 학교 진도에 맞춰 준비합니다.
 </div>
 
 ## 주의사항
 
-과도한 학습은 금물입니다. 5학년은 하루 1시간 30분~2시간이면 충분합니다. 충분한 휴식 시간이 필요합니다.
+과도한 학습은 금물입니다. 5학년은 하루 1시간 30분-2시간이면 충분합니다. 충분한 휴식 시간이 필요합니다.
 
 균형 잡힌 성장도 중요합니다. 공부만이 아닌 전인적 발달이 필요합니다. 운동, 취미, 친구 관계도 중요합니다.
 
@@ -103,6 +103,26 @@ featured_image: "https://images.unsplash.com/photo-1603354350266-f2b10492ea3e?w=
 **Q. 중학교 대비는 언제부터 하나요?**
 
 지금부터입니다. 중학교 대비는 선행학습이 아니라 공부 습관 완성입니다. 5학년 때 습관을 만들어두면 중학교가 수월합니다.
+
+**Q. 고등학교 진학 후에도 과외 가능한가요?**
+
+가능합니다. 중등에서 고등까지 연계해서 수업하는 학생이 많습니다.
+
+**Q. 과외 횟수는 어떻게 정하나요?**
+
+학생 상황에 따라 다릅니다. 기초가 부족하면 주2회, 유지 목적이면 주1회를 권장합니다.
+
+**Q. 숙제 검사도 해주시나요?**
+
+물론입니다. 오답 분석도 함께합니다.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 진도는 어떻게 정해지나요?**
+
+학생의 수준과 목표에 따라 맞춤 설계합니다.
 
 ## 마무리
 

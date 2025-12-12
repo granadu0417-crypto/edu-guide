@@ -13,7 +13,7 @@ tags:
 - 시험전략
 - 시험준비
 - 진학정보
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 ---
 ## 시험이 1주일 남았는데 준비가 안 된 것 같아 불안해요. 뭘 해야 할까요?
 
@@ -21,7 +21,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 1주 전에는 새로운 내용보다 복습에 집중합니다. 그동안 공부한 내용을 점검하고 빈틈을 메웁니다.
+학부모님과 정기적으로 소통합니다. 진행 상황을 공유합니다.
 </div>
 
 ## 1주 전 점검 사항
@@ -34,7 +34,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-시험 범위 전체를 점검합니다. 놓친 부분이 없는지 확인하고 약점을 집중적으로 보완합니다.
+기출문제를 분석합니다. 출제 경향을 파악하면 대비가 쉬워집니다.
 </div>
 
 ## 실전 연습의 중요성
@@ -47,7 +47,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-실전처럼 모의고사를 풀어봅니다. 시간 관리와 문제 풀이 순서를 연습하여 시험장에서 당황하지 않도록 합니다.
+학생의 페이스에 맞춥니다. 빠르게 갈 수 있으면 빠르게, 천천히 가야 하면 천천히.
 </div>
 
 ## 일별 학습 계획
@@ -60,7 +60,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-일주일 학습 계획을 함께 세웁니다. 매일 진도를 체크하고 계획대로 진행되도록 관리합니다.
+수업 후 피드백을 드립니다. 오늘 무엇을 배웠고, 무엇을 더 해야 하는지 알려드립니다.
 </div>
 
 ## 효율적인 복습 방법
@@ -73,7 +73,7 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-효율적인 복습 방법을 안내합니다. 짧은 시간에 핵심을 정리할 수 있도록 도와드립니다.
+풀이 과정을 깔끔하게 쓰는 연습을 합니다. 서술형에서 점수를 잃지 않습니다.
 </div>
 
 ## 멘탈 관리
@@ -101,6 +101,18 @@ featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=
 **Q. 시험이 너무 불안해요.**
 
 충분히 준비하면 불안이 줄어듭니다. 할 수 있는 것에 집중하고 심호흡으로 마음을 진정시키세요.
+
+**Q. 상위권 학생도 과외가 필요한가요?**
+
+최상위권을 목표로 한다면 맞춤 지도가 도움됩니다.
+
+**Q. 수업 후에도 질문 가능한가요?**
+
+카카오톡으로 언제든 질문 가능합니다.
+
+**Q. 과외 효과는 언제쯤 나타나나요?**
+
+보통 1-2개월 후 변화가 느껴지기 시작합니다. 3개월 이상 꾸준히 하면 확실한 성적 향상이 있습니다.
 
 ## 마무리
 
