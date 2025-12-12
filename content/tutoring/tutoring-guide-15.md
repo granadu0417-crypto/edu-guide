@@ -78,10 +78,6 @@ featured_image: "/images/edu_0949_j2SfdG8rR2Y.jpg"
 
 보통 월 단위로 선불입니다. 첫 달은 횟수대로 내고, 다음 달부터 월정액으로 내는 경우도 있습니다. 상의하세요.
 
-**Q. 중간에 그만두면 환불되나요?**
-
-보통 남은 횟수만큼 환불됩니다. 계약 전에 환불 정책을 확인하세요.
-
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
 긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.

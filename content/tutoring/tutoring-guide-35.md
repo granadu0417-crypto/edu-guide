@@ -79,10 +79,6 @@ featured_image: "/images/edu_0971_7JL7NdhaRd8.jpg"
 
 보통 월 단위로 선불입니다. 한 달치를 먼저 내고 수업을 받습니다. 너무 긴 기간을 미리 내는 건 조심하세요.
 
-**Q. 환불은 어떻게 되나요?**
-
-중간에 그만두면 남은 횟수만큼 환불받을 수 있습니다. 시작 전에 환불 조건을 꼭 확인하세요.
-
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
 흥미를 유지하도록 합니다. 재미가 있어야 오래 합니다.

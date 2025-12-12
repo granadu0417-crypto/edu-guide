@@ -60,7 +60,7 @@ reading_time: 160줄
 
 장기 계약 시 할인을 받을 수 있습니다. 6개월, 1년 단위로 계약하면 월별 비용이 줄어드는 경우가 많습니다. 미리 상담해서 조율하세요.
 
-중간에 그만두면 환불 문제가 생길 수 있습니다. 계약 전에 환불 규정을 명확히 정해두세요. 선불로 많이 내지 않는 게 안전합니다.
+수업 일정이나 진도에 대해 미리 명확히 정해두세요. 선불로 많이 내지 않는 게 안전합니다.
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
