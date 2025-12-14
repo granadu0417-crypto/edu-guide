@@ -1,7 +1,0 @@
-middle/middle-final-5.md
-tutoring/tutoring-guide-25.md
-tutoring/academy/mapo-international-academy.md
-tutoring/academy/sinchon-jaesu-academy.md
-tutoring/guide/exam-panic-recovery-guide.md
-tutoring/guide/seoul-mokdong-education.md
-tutoring/guide/study-abroad-preparation.md
