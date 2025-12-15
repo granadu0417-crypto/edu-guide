@@ -1,5 +1,5 @@
 name = "edu-guide-api"
-main = "worker.js"
+main = "worker-md.js"
 compatibility_date = "2024-01-01"
 account_id = "24e3ddf8c8b069f1e45525a1242a29db"
 workers_dev = true
