@@ -1,0 +1,27 @@
+{{- /* Organization Schema - 홈페이지 전용 */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}images/logo.png",
+  "description": "{{ .Site.Params.description }}",
+  "foundingDate": "2024",
+  "sameAs": [
+    "{{ .Site.Params.social.facebook }}",
+    "{{ .Site.Params.social.twitter }}",
+    "{{ .Site.Params.social.instagram }}"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Service",
+    "email": "{{ .Site.Params.email }}",
+    "availableLanguage": ["Korean"]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "KR"
+  }
+}
+</script>

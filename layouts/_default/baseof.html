@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Resource Hints for Core Web Vitals -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
+    <!-- SEO 최적화 -->
+    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit . ", " }}{{ else }}{{ .Site.Params.keywords }}{{ end }}">
+    <meta name="author" content="{{ .Site.Params.author }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <!-- Naver 웹마스터 도구 인증 -->
+    <meta name="naver-site-verification" content="228c0da6bfc9eda328a78ce3a4417c8ff8630d59" />
+
+    <!-- Open Graph (페이스북, 카카오톡 등) -->
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:locale" content="ko_KR">
+    {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ .Site.BaseURL }}images/og-default.jpg">{{ end }}
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    {{ if .IsPage }}
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+    <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+    <meta property="article:author" content="{{ .Site.Params.author }}">
+    {{ end }}
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}">
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    {{ with .Params.image }}<meta name="twitter:image" content="{{ . | absURL }}">{{ else }}<meta name="twitter:image" content="{{ .Site.BaseURL }}images/og-default.jpg">{{ end }}
+    
+    <!-- 구조화된 데이터 (JSON-LD) -->
+    {{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "{{ .Title }}",
+        "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
+        "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.BaseURL }}images/og-default.jpg{{ end }}",
+        "author": {
+            "@type": "Organization",
+            "name": "{{ .Site.Params.author }}"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{ .Site.Title }}",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "{{ .Site.BaseURL }}images/logo.png"
+            }
+        },
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ .Permalink }}"
+        },
+        "keywords": "{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}",
+        "articleSection": "{{ with .Params.categories }}{{ index . 0 }}{{ end }}",
+        "inLanguage": "ko-KR"
+    }
+    </script>
+    {{ else }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}",
+        "description": "{{ .Site.Params.description }}",
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{ .Site.Title }}"
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{{ .Site.BaseURL }}search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        },
+        "inLanguage": "ko-KR"
+    }
+    </script>
+    {{ end }}
+    
+    <!-- BreadcrumbList 구조화된 데이터 -->
+    {{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "홈",
+                "item": "{{ .Site.BaseURL }}"
+            }{{ with .Params.categories }},
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "{{ index . 0 }}",
+                "item": "{{ $.Site.BaseURL }}categories/{{ index . 0 | urlize }}/"
+            }{{ end }},
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "{{ .Title }}",
+                "item": "{{ .Permalink }}"
+            }
+        ]
+    }
+    </script>
+    {{ end }}
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP3W863XX4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-FP3W863XX4');
+    </script>
+    
+    <!-- Pretendard Font with Performance Optimization -->
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"></noscript>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    <!-- PWA -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#667eea">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/icon-192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/images/icon-512.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="과외를부탁해">
+
+    <!-- CSS with Deferred Loading -->
+    <link rel="preload" as="style" href="/css/style.css">
+    <link rel="preload" as="style" href="/css/viral.css">
+    <link rel="stylesheet" href="/css/style.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/css/viral.css" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="/css/viral.css">
+    </noscript>
+</head>
+<body>
+    {{ partial "header.html" . }}
+    
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    {{ partial "footer.html" . }}
+
+    <!-- Floating 카카오톡 상담 버튼 -->
+    {{ partial "floating-kakao.html" . }}
+
+    <!-- 북마크 추가 팝업 -->
+    <div id="bookmarkPopup" class="bookmark-popup" style="display: none;">
+        <h4>⭐ 북마크 추가</h4>
+        <p>자주 사용하시나요? 북마크에 추가하고 빠르게 접속하세요!</p>
+        <div class="bookmark-popup-buttons">
+            <button class="btn-bookmark-yes" onclick="closeBookmarkPopup(true)">추가하기</button>
+            <button class="btn-bookmark-no" onclick="closeBookmarkPopup(false)">나중에</button>
+        </div>
+    </div>
+
+    <!-- 바이럴 기능 스크립트 with defer -->
+    <script src="/js/viral.js" defer></script>
+
+    <!-- 방문자 추적 스크립트 -->
+    <script>
+    (function() {
+      const startTime = Date.now();
+
+      window.addEventListener('beforeunload', function() {
+        const duration = Math.floor((Date.now() - startTime) / 1000);
+
+        const data = {
+          referrer: document.referrer || 'direct',
+          page_url: window.location.href,
+          session_duration: duration
+        };
+
+        navigator.sendBeacon(
+          'https://analytics-tracker.granadu0417.workers.dev/track',
+          JSON.stringify(data)
+        );
+      });
+    })();
+    </script>
+</body>
+</html>

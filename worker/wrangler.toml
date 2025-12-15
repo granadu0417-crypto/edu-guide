@@ -1,0 +1,16 @@
+name = "edu-guide-api"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+account_id = "24e3ddf8c8b069f1e45525a1242a29db"
+workers_dev = true
+
+# Custom domain routes
+routes = [
+  { pattern = "edukoreaai.com/*", zone_name = "edukoreaai.com" },
+  { pattern = "www.edukoreaai.com/*", zone_name = "edukoreaai.com" }
+]
+
+# KV namespace binding
+[[kv_namespaces]]
+binding = "KV"
+id = "725aefb7b1c64c6c90d2cf4daf061bf3"

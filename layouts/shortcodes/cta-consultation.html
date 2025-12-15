@@ -1,0 +1,172 @@
+<!-- 콘텐츠 중간용 CTA (Subtle 스타일) -->
+<div class="cta-consultation cta-subtle">
+    <div class="cta-content">
+        <div class="cta-icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+            </svg>
+        </div>
+        <div class="cta-text">
+            <p class="cta-message">{{ .Get "message" | default "추가 상담이 필요하시다면 언제든지 문의해주세요" }}</p>
+        </div>
+        <a href="https://pf.kakao.com/_Cixlaxl/chat"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="cta-button cta-button-subtle"
+           onclick="gtag('event', 'click', {
+               'event_category': 'Conversion',
+               'event_label': 'Content CTA Subtle - {{ .Page.Title }}',
+               'value': 1
+           });">
+            카카오톡 상담하기
+        </a>
+    </div>
+</div>
+
+<style>
+/* 중간용 CTA - Subtle 스타일 */
+.cta-consultation {
+    margin: 40px 0;
+    padding: 24px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border: 1px solid #dee2e6;
+    transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+    border-color: #ced4da;
+}
+
+.cta-content {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.cta-icon {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+    border-radius: 12px;
+    color: #3C1E1E;
+}
+
+.cta-text {
+    flex: 1;
+}
+
+.cta-message {
+    margin: 0;
+    font-size: 15px;
+    color: #495057;
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.cta-button {
+    flex-shrink: 0;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.cta-button-subtle {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+    transform: translateY(0);
+}
+
+/* 태블릿 */
+@media (max-width: 768px) {
+    .cta-consultation {
+        padding: 20px;
+        margin: 32px 0;
+    }
+
+    .cta-content {
+        gap: 12px;
+    }
+
+    .cta-icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .cta-icon svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .cta-message {
+        font-size: 14px;
+    }
+
+    .cta-button {
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+}
+
+/* 모바일 */
+@media (max-width: 480px) {
+    .cta-consultation {
+        padding: 16px;
+        margin: 24px 0;
+    }
+
+    .cta-content {
+        flex-direction: column;
+        text-align: center;
+        gap: 16px;
+    }
+
+    .cta-icon {
+        width: 56px;
+        height: 56px;
+        margin: 0 auto;
+    }
+
+    .cta-message {
+        font-size: 14px;
+    }
+
+    .cta-button {
+        width: 100%;
+        padding: 14px 24px;
+        font-size: 14px;
+    }
+}
+
+/* 접근성 */
+.cta-button:focus {
+    outline: 3px solid #667eea;
+    outline-offset: 4px;
+}
+
+/* 프린트 시 숨김 */
+@media print {
+    .cta-consultation {
+        display: none !important;
+    }
+}
+</style>

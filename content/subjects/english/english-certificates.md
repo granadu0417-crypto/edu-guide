@@ -1,0 +1,102 @@
+---
+title: 영어 시험·자격증 완벽 가이드 | 1:1 시험 대비 과외
+date: 2025-01-29
+reading_time: 160줄
+description: 영어 시험·자격증 완벽 정복 | TOEIC, TOEFL, IELTS, TEPS 완벽 대비, 1:1 맞춤 시험 지도 [2025년]
+categories:
+- 영어
+tags:
+- 영어
+- 시험
+- 자격증
+- TOEIC
+- TOEFL
+- IELTS
+- 1:1과외
+featured_image: "/images/edu_0355_bksvKtDNqns.jpg"
+---
+
+## 취업이나 유학을 위해 어떤 영어 시험을 봐야 하는지 모르겠다고요? TOEIC과 TOEFL 차이가 궁금하다고요.
+
+영어 시험은 목적에 맞게 선택하는 것이 중요합니다. 취업용과 유학용이 다르고 각 시험마다 특징이 있습니다. 목표를 정하고 효율적으로 준비하면 원하는 점수를 얻을 수 있습니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+취약한 단원을 집중적으로 보완합니다. 모든 단원을 똑같이 하지 않습니다.
+</div>
+
+## 국내용 영어 시험
+
+TOEIC은 취업과 승진에 가장 많이 활용됩니다. 990점 만점으로 비즈니스 영어가 출제됩니다. TEPS는 대학원 진학과 공무원 시험에 활용됩니다. 600점 만점으로 한국에서 개발된 시험입니다. G-TELP는 일부 기업과 공무원 시험에서 인정합니다. 목적에 맞는 시험을 선택하는 것이 중요합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+틀린 문제를 분석합니다. 같은 실수를 반복하지 않도록 합니다.
+</div>
+
+## 해외용 영어 시험
+
+TOEFL은 미국 유학에 필요합니다. 120점 만점으로 Reading, Listening, Speaking, Writing 4영역을 평가합니다. IELTS는 영국, 호주, 캐나다 유학에 많이 씁니다. 9.0점 만점으로 Academic과 General 유형이 있습니다. SAT는 미국 대학 입시에 필요합니다. 유학 목표 국가에 맞는 시험을 선택하세요.
+
+{{< cta-dual type="final" >}}
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+개념과 문제 풀이를 병행합니다. 이론만 알아서는 부족합니다.
+</div>
+
+## 효과적인 시험 준비법
+
+목표 점수를 먼저 정하고 현재 실력을 진단합니다. 취약 영역을 파악하고 집중 보완합니다. 실전 모의고사로 시간 관리 연습을 합니다. 오답 노트를 만들어 같은 실수를 반복하지 않도록 합니다. 꾸준한 연습이 가장 중요합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+정기적인 테스트로 실력을 점검합니다. 현재 위치를 알아야 합니다.
+</div>
+
+## 자주 묻는 질문
+
+**Q. TOEIC과 TOEFL 중 뭘 봐야 하나요?**
+
+취업이 목적이면 TOEIC, 유학이 목적이면 TOEFL을 보세요. 목적에 따라 선택이 달라집니다.
+
+**Q. 영어 시험 점수가 얼마나 유효한가요?**
+
+대부분 2년입니다. 필요한 시점에 맞춰 준비하세요.
+
+**Q. 독학으로 준비할 수 있나요?**
+
+기본 실력이 있다면 가능합니다. 하지만 Speaking이나 Writing은 피드백을 받는 것이 효과적입니다.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+## 마무리
+
+영어 시험은 목적에 맞게 선택하고 체계적으로 준비하면 목표 점수를 달성할 수 있습니다. 꾸준한 연습이 가장 중요합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+문제 풀이 과정을 함께 점검합니다. 어디서 막히는지 정확히 파악합니다.
+</div>

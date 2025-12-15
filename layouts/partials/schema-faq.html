@@ -1,0 +1,40 @@
+{{- /* FAQ Schema 생성 - 본문에 FAQ 섹션이 있으면 자동 생성 */ -}}
+{{- $content := .Content -}}
+{{- if (findRE "(?s)## FAQ.+?(?:##|$)" $content) -}}
+
+{{- /* FAQ 섹션 추출 */ -}}
+{{- $faqSection := index (findRE "(?s)## FAQ.+?(?=##|$)" $content) 0 -}}
+
+{{- if $faqSection -}}
+  {{- /* Q&A 패턴 찾기 */ -}}
+  {{- $questions := findRE `\*\*Q\d+\.\s*(.+?)\?\*\*\s*\n\s*A\d+\.\s*(.+?)(?=\n\n|\*\*Q|\z)` $faqSection -}}
+
+  {{- if gt (len $questions) 0 -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $qa := $questions -}}
+    {{- $parts := findRE `\*\*Q\d+\.\s*(.+?)\?\*\*\s*\n\s*A\d+\.\s*(.+?)` $qa -}}
+    {{- if $parts -}}
+      {{- $question := replaceRE `\*\*Q\d+\.\s*(.+?)\?\*\*.*` "$1?" $qa -}}
+      {{- $answer := replaceRE `.*A\d+\.\s*(.+)` "$1" $qa -}}
+      {{- $question = trim $question " \n\r\t" -}}
+      {{- $answer = trim $answer " \n\r\t" -}}
+    {
+      "@type": "Question",
+      "name": {{ $question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $answer | jsonify }}
+      }
+    }{{ if ne (add $i 1) (len $questions) }},{{ end }}
+    {{- end -}}
+    {{- end -}}
+  ]
+}
+</script>
+  {{- end -}}
+{{- end -}}
+{{- end -}}

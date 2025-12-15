@@ -1,0 +1,2197 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
+    
+    <title>수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략 | 과외를부탁해</title>
+    <meta name="description" content="수학 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 기초 개념부터 고난도 문제 풀이까지, 효과적인 학습 전략과 로드맵을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 수학 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 단계별로 자세하게 안내드립니다.">
+    <meta name="keywords" content="초등학생, 중학생, 고등학생, 공부법, 내신, 수능, 학원, 과외, 교육정보">
+    <meta name="author" content="과외를부탁해 편집팀">
+    <link rel="canonical" href="https://edukoreaai.com/subjects/math/math-complete-roadmap/">
+
+    
+    <meta name="naver-site-verification" content="228c0da6bfc9eda328a78ce3a4417c8ff8630d59" />
+
+    
+    <meta property="og:title" content="수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략 | 과외를부탁해">
+    <meta property="og:description" content="수학 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 기초 개념부터 고난도 문제 풀이까지, 효과적인 학습 전략과 로드맵을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 수학 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 단계별로 자세하게 안내드립니다.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://edukoreaai.com/subjects/math/math-complete-roadmap/">
+    <meta property="og:site_name" content="과외를부탁해">
+    <meta property="og:locale" content="ko_KR">
+    <meta property="og:image" content="https://edukoreaai.com/images/og-default.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    
+    <meta property="article:published_time" content="2025-01-15T00:00:00Z">
+    <meta property="article:modified_time" content="2025-01-15T00:00:00Z">
+    <meta property="article:author" content="과외를부탁해 편집팀">
+    
+    
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략 | 과외를부탁해">
+    <meta name="twitter:description" content="수학 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 기초 개념부터 고난도 문제 풀이까지, 효과적인 학습 전략과 로드맵을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 수학 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 단계별로 자세하게 안내드립니다.">
+    <meta name="twitter:image" content="https://edukoreaai.com/images/og-default.jpg">
+    
+    
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략",
+        "description": "수학 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 기초 개념부터 고난도 문제 풀이까지, 효과적인 학습 전략과 로드맵을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 수학 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 단계별로 자세하게 안내드립니다.",
+        "image": "https:\/\/edukoreaai.com\/images/og-default.jpg",
+        "author": {
+            "@type": "Organization",
+            "name": "과외를부탁해 편집팀"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "과외를부탁해",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/edukoreaai.com\/images/logo.png"
+            }
+        },
+        "datePublished": "2025-01-15T00:00:00Z",
+        "dateModified": "2025-01-15T00:00:00Z",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/edukoreaai.com\/subjects\/math\/math-complete-roadmap\/"
+        },
+        "keywords": "수학, 학습로드맵, 수학개념, 문제풀이, 수능수학, 내신수학, 수학공부법, 미적분, 기하, 확률과통계",
+        "articleSection": "수학",
+        "inLanguage": "ko-KR"
+    }
+    </script>
+    
+    
+    
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "홈",
+                "item": "https:\/\/edukoreaai.com\/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "수학",
+                "item": "https:\/\/edukoreaai.com\/categories/%EC%88%98%ED%95%99/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략",
+                "item": "https:\/\/edukoreaai.com\/subjects\/math\/math-complete-roadmap\/"
+            }
+        ]
+    }
+    </script>
+    
+    
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP3W863XX4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-FP3W863XX4');
+    </script>
+    
+    
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"></noscript>
+
+    
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#667eea">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/icon-192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/images/icon-512.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="과외를부탁해">
+
+    
+    <link rel="preload" as="style" href="/css/style.css">
+    <link rel="preload" as="style" href="/css/viral.css">
+    <link rel="stylesheet" href="/css/style.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/css/viral.css" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="/css/viral.css">
+    </noscript>
+</head>
+<body>
+    <header class="site-header">
+    <div class="wide-container">
+        <div class="header-content">
+            <div class="header-top">
+                <div class="site-logo">
+                    <a href="/">
+                        <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
+                        <span>과외를부탁해</span>
+                    </a>
+                </div>
+                <button class="mobile-menu-toggle" aria-label="메뉴 열기">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+            <div class="usage-counter">
+                <div class="label">누적 사용자</div>
+                <div class="count"><span id="usageCount">0</span>명</div>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    
+                        
+                            <li class="has-dropdown">
+                                <a href="">학습 가이드</a>
+                                <ul class="dropdown">
+                                    
+                                        <li><a href="/elementary/">초등학생</a></li>
+                                    
+                                        <li><a href="/middle/">중학생</a></li>
+                                    
+                                        <li><a href="/high/">고등학생</a></li>
+                                    
+                                </ul>
+                            </li>
+                        
+                    
+                        
+                            <li class="has-dropdown">
+                                <a href="">과목별</a>
+                                <ul class="dropdown">
+                                    
+                                        <li><a href="/subjects/korean/">국어</a></li>
+                                    
+                                        <li><a href="/subjects/english/">영어</a></li>
+                                    
+                                        <li><a href="/subjects/math/">수학</a></li>
+                                    
+                                        <li><a href="/subjects/science/">과학</a></li>
+                                    
+                                        <li><a href="/subjects/social/">사회</a></li>
+                                    
+                                </ul>
+                            </li>
+                        
+                    
+                        
+                            <li class="has-dropdown">
+                                <a href="">학원·과외</a>
+                                <ul class="dropdown">
+                                    
+                                        <li><a href="/tutoring/guide/">선택 가이드</a></li>
+                                    
+                                        <li><a href="/tutoring/academy/">학원 찾기</a></li>
+                                    
+                                        <li><a href="/tutoring/private/">과외 찾기</a></li>
+                                    
+                                </ul>
+                            </li>
+                        
+                    
+                        
+                            <li><a href="/exam/">시험 대비</a></li>
+                        
+                    
+                        
+                            <li class="has-dropdown">
+                                <a href="">지역정보</a>
+                                <ul class="dropdown">
+                                    
+                                        <li><a href="/local/seoul/">서울</a></li>
+                                    
+                                        <li><a href="/local/gyeonggi/">경기</a></li>
+                                    
+                                        <li><a href="/local/">전체 지역</a></li>
+                                    
+                                </ul>
+                            </li>
+                        
+                    
+                        
+                            <li><a href="/consultation/">무료 상담</a></li>
+                        
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<script>
+
+(function() {
+    const menuToggle = document.querySelector('.mobile-menu-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    const header = document.querySelector('.site-header');
+
+    if (menuToggle) {
+        menuToggle.addEventListener('click', function() {
+            this.classList.toggle('active');
+            mainNav.classList.toggle('active');
+            document.body.classList.toggle('menu-open');
+
+            
+            const isOpen = this.classList.contains('active');
+            this.setAttribute('aria-label', isOpen ? '메뉴 닫기' : '메뉴 열기');
+        });
+
+        
+        document.addEventListener('click', function(e) {
+            if (!header.contains(e.target) && mainNav.classList.contains('active')) {
+                menuToggle.classList.remove('active');
+                mainNav.classList.remove('active');
+                document.body.classList.remove('menu-open');
+                menuToggle.setAttribute('aria-label', '메뉴 열기');
+            }
+        });
+    }
+
+    
+})();
+</script>
+
+    
+    <main>
+        
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략",
+  "description": "수학 전 영역을 체계적으로 정복하는 완벽 가이드입니다. 기초 개념부터 고난도 문제 풀이까지, 효과적인 학습 전략과 로드맵을 제시합니다. 1:1 과외를 통한 맞춤 학습으로 수학 실력을 완성하세요 과목별 특성을 고려한 맞춤형 학습법으로 성적 향상의 기초를 다져보세요. 단계별로 자세하게 안내드립니다.",
+  "url": "https:\/\/edukoreaai.com\/subjects\/math\/math-complete-roadmap\/",
+  "image": "https:\/\/images.unsplash.com\/photo-1580582932707-520aed937b7b?w=1200\u0026h=630\u0026fit=crop",
+  "datePublished": "2025-01-15T00:00:00Z",
+  "dateModified": "2025-01-15T00:00:00Z",
+  "timeRequired": "PT23M",
+  "wordCount":  4676 ,
+  "author": {
+    "@type": "Organization",
+    "name": "과외를부탁해 편집팀",
+    "url": "https:\/\/edukoreaai.com\/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "과외를부탁해",
+    "url": "https:\/\/edukoreaai.com\/"
+  },
+  "articleSection": "수학",
+  "keywords": ["수학", "학습로드맵", "수학개념", "문제풀이", "수능수학", "내신수학", "수학공부법", "미적분", "기하", "확률과통계"],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https:\/\/edukoreaai.com\/subjects\/math\/math-complete-roadmap\/"
+  }
+}
+</script>
+
+<div class="container">
+    <article>
+        
+        <div class="article-meta">
+            
+            <div class="categories">
+                
+                <span class="category-tag">수학</span>
+                
+            </div>
+            
+        </div>
+
+        
+        <h1 class="article-title">수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략</h1>
+
+        
+        <div class="article-info">
+            <span class="author">✍️ 과외를부탁해 편집팀</span>
+            <span class="date">📅 2025년 01월 15일</span>
+            <span class="reading-time">⏱️ 23분</span>
+        </div>
+
+        
+        
+        <div class="featured-image">
+            <img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&amp;h=630&amp;fit=crop" alt="수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략" loading="lazy" width="1200" height="630" decoding="async">
+        </div>
+        
+
+        
+        <div class="article-content">
+            <h2 id="수학-완벽-로드맵---기초부터-심화까지-총정리">수학 완벽 로드맵 - 기초부터 심화까지 총정리</h2>
+<p>수학은 논리적 사고력과 문제 해결 능력을 키우는 핵심 과목입니다. 체계적인 학습과 꾸준한 연습으로 누구나 수학을 정복할 수 있습니다. 이 가이드는 수학 학습의 모든 것을 담았습니다.</p>
+
+<div class="cta-consultation cta-subtle">
+    <div class="cta-content">
+        <div class="cta-icon">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2C6.477 2 2 5.589 2 10c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S17.523 2 12 2z" fill="currentColor"/>
+            </svg>
+        </div>
+        <div class="cta-text">
+            <p class="cta-message">과목별 맞춤 학습 전략이 필요하신가요?</p>
+        </div>
+        <a href="https://pf.kakao.com/_Cixlaxl/chat"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="cta-button cta-button-subtle"
+           onclick="gtag('event', 'click', {
+               'event_category': 'Conversion',
+               'event_label': 'Content CTA Subtle - 수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략',
+               'value': 1
+           });">
+            카카오톡 상담하기
+        </a>
+    </div>
+</div>
+
+<style>
+ 
+.cta-consultation {
+    margin: 40px 0;
+    padding: 24px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border: 1px solid #dee2e6;
+    transition: all 0.3s ease;
+}
+
+.cta-consultation:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+    border-color: #ced4da;
+}
+
+.cta-content {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.cta-icon {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+    border-radius: 12px;
+    color: #3C1E1E;
+}
+
+.cta-text {
+    flex: 1;
+}
+
+.cta-message {
+    margin: 0;
+    font-size: 15px;
+    color: #495057;
+    line-height: 1.6;
+    font-weight: 500;
+}
+
+.cta-button {
+    flex-shrink: 0;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.cta-button-subtle {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.cta-button-subtle:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(102, 126, 234, 0.4);
+}
+
+.cta-button-subtle:active {
+    transform: translateY(0);
+}
+
+ 
+@media (max-width: 768px) {
+    .cta-consultation {
+        padding: 20px;
+        margin: 32px 0;
+    }
+
+    .cta-content {
+        gap: 12px;
+    }
+
+    .cta-icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .cta-icon svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .cta-message {
+        font-size: 14px;
+    }
+
+    .cta-button {
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+}
+
+ 
+@media (max-width: 480px) {
+    .cta-consultation {
+        padding: 16px;
+        margin: 24px 0;
+    }
+
+    .cta-content {
+        flex-direction: column;
+        text-align: center;
+        gap: 16px;
+    }
+
+    .cta-icon {
+        width: 56px;
+        height: 56px;
+        margin: 0 auto;
+    }
+
+    .cta-message {
+        font-size: 14px;
+    }
+
+    .cta-button {
+        width: 100%;
+        padding: 14px 24px;
+        font-size: 14px;
+    }
+}
+
+ 
+.cta-button:focus {
+    outline: 3px solid #667eea;
+    outline-offset: 4px;
+}
+
+ 
+@media print {
+    .cta-consultation {
+        display: none !important;
+    }
+}
+</style>
+
+<h2 id="1-수학-학습의-중요성">1. 수학 학습의 중요성</h2>
+<h3 id="11-왜-수학을-공부해야-하는가">1.1 왜 수학을 공부해야 하는가</h3>
+<p>수학은 단순한 계산 능력을 넘어 다양한 능력을 키웁니다:</p>
+<p><strong>논리적 사고력</strong></p>
+<ul>
+<li>문제의 본질을 파악하는 능력</li>
+<li>단계적으로 해결 방법을 찾는 능력</li>
+<li>논리적으로 결론을 도출하는 능력</li>
+</ul>
+<p><strong>문제 해결 능력</strong></p>
+<ul>
+<li>복잡한 문제를 단순화하는 능력</li>
+<li>다양한 접근 방법을 시도하는 능력</li>
+<li>최적의 해법을 찾는 능력</li>
+</ul>
+<p><strong>추상적 사고력</strong></p>
+<ul>
+<li>구체적 상황을 일반화하는 능력</li>
+<li>패턴과 규칙을 발견하는 능력</li>
+<li>수학적 모델링 능력</li>
+</ul>
+<h3 id="12-수능-수학의-특징">1.2 수능 수학의 특징</h3>
+<p>수능 수학은 다음과 같은 특성이 있습니다:</p>
+<p><strong>변별력이 가장 높은 과목</strong></p>
+<ul>
+<li>상위권 대학 입학의 결정적 요소</li>
+<li>한두 문제로 등급이 갈리는 킬러 문항</li>
+<li>시간 관리가 매우 중요</li>
+</ul>
+<p><strong>선택과목 체제</strong></p>
+<ul>
+<li>확률과 통계</li>
+<li>미적분</li>
+<li>기하</li>
+</ul>
+<p>1:1 과외를 통해 선택과목 결정과 효과적인 학습 전략을 수립할 수 있습니다.</p>
+<h2 id="2-수학-영역별-완전정복">2. 수학 영역별 완전정복</h2>
+<h3 id="21-대수-영역">2.1 대수 영역</h3>
+<p><strong>다항식과 방정식</strong></p>
+<ul>
+<li>다항식의 연산과 인수분해</li>
+<li>이차방정식과 이차함수</li>
+<li>고차방정식과 나머지정리</li>
+</ul>
+<p><strong>부등식</strong></p>
+<ul>
+<li>일차부등식과 연립부등식</li>
+<li>이차부등식</li>
+<li>절댓값을 포함한 부등식</li>
+</ul>
+<p><strong>방정식과 부등식의 활용</strong></p>
+<ul>
+<li>실생활 문제로의 적용</li>
+<li>최댓값과 최솟값 문제</li>
+<li>도형과의 연계</li>
+</ul>
+<h3 id="22-함수-영역">2.2 함수 영역</h3>
+<p><strong>함수의 기본 개념</strong></p>
+<ul>
+<li>함수의 정의와 그래프</li>
+<li>합성함수와 역함수</li>
+<li>함수의 성질 (증가, 감소, 대칭)</li>
+</ul>
+<p><strong>유리함수와 무리함수</strong></p>
+<ul>
+<li>유리함수의 그래프</li>
+<li>무리함수의 그래프</li>
+<li>점근선과 정의역</li>
+</ul>
+<p><strong>지수함수와 로그함수</strong></p>
+<ul>
+<li>지수법칙과 로그법칙</li>
+<li>지수함수와 로그함수의 그래프</li>
+<li>지수방정식과 로그방정식</li>
+</ul>
+<p><strong>삼각함수</strong></p>
+<ul>
+<li>삼각비와 삼각함수</li>
+<li>삼각함수의 그래프</li>
+<li>삼각방정식과 삼각부등식</li>
+</ul>
+<p>1:1 과외를 통해 함수의 개념을 확실히 이해하고 그래프 해석 능력을 키울 수 있습니다.</p>
+<h3 id="23-해석-영역">2.3 해석 영역</h3>
+<p><strong>수열</strong></p>
+<ul>
+<li>등차수열과 등비수열</li>
+<li>여러 가지 수열</li>
+<li>수열의 합</li>
+<li>수학적 귀납법</li>
+</ul>
+<p><strong>극한</strong></p>
+<ul>
+<li>수열의 극한</li>
+<li>급수</li>
+<li>함수의 극한과 연속</li>
+</ul>
+<p><strong>미분</strong></p>
+<ul>
+<li>미분계수와 도함수</li>
+<li>여러 가지 함수의 미분</li>
+<li>도함수의 활용 (접선, 증감, 극값, 최댓값/최솟값)</li>
+<li>방정식과 부등식에의 활용</li>
+</ul>
+<p><strong>적분</strong></p>
+<ul>
+<li>부정적분과 정적분</li>
+<li>여러 가지 함수의 적분</li>
+<li>정적분의 활용 (넓이, 부피)</li>
+</ul>
+<h3 id="24-기하-영역">2.4 기하 영역</h3>
+<p><strong>평면좌표</strong></p>
+<ul>
+<li>점과 직선</li>
+<li>원의 방정식</li>
+<li>도형의 이동</li>
+</ul>
+<p><strong>평면벡터</strong></p>
+<ul>
+<li>벡터의 연산</li>
+<li>평면벡터의 성분</li>
+<li>평면벡터의 내적</li>
+</ul>
+<p><strong>공간도형과 공간좌표</strong></p>
+<ul>
+<li>직선과 평면의 위치 관계</li>
+<li>정사영</li>
+<li>공간좌표</li>
+</ul>
+<p><strong>공간벡터</strong></p>
+<ul>
+<li>공간벡터의 성분</li>
+<li>공간벡터의 내적</li>
+<li>직선과 평면의 방정식</li>
+</ul>
+<h3 id="25-확률과-통계">2.5 확률과 통계</h3>
+<p><strong>경우의 수</strong></p>
+<ul>
+<li>순열과 조합</li>
+<li>분할과 이항정리</li>
+</ul>
+<p><strong>확률</strong></p>
+<ul>
+<li>확률의 뜻과 활용</li>
+<li>조건부확률</li>
+<li>확률의 곱셈정리</li>
+<li>독립시행의 확률</li>
+</ul>
+<p><strong>통계</strong></p>
+<ul>
+<li>확률분포</li>
+<li>이산확률분포 (이항분포, 정규분포)</li>
+<li>통계적 추정</li>
+</ul>
+<h2 id="3-학년별-학습-로드맵">3. 학년별 학습 로드맵</h2>
+<h3 id="31-중학교-과정">3.1 중학교 과정</h3>
+<p><strong>중1 과정</strong></p>
+<ul>
+<li>소인수분해</li>
+<li>정수와 유리수</li>
+<li>문자와 식</li>
+<li>좌표평면과 그래프</li>
+<li>기본 도형</li>
+<li>평면도형</li>
+<li>입체도형</li>
+</ul>
+<p><strong>중2 과정</strong></p>
+<ul>
+<li>유리수와 순환소수</li>
+<li>식의 계산</li>
+<li>일차부등식</li>
+<li>연립일차방정식</li>
+<li>일차함수</li>
+<li>확률</li>
+</ul>
+<p><strong>중3 과정</strong></p>
+<ul>
+<li>실수와 그 연산</li>
+<li>다항식의 곱셈과 인수분해</li>
+<li>이차방정식</li>
+<li>이차함수</li>
+<li>통계</li>
+</ul>
+<p>1:1 과외를 통해 중학 수학의 개념을 확실히 다지면 고등 수학이 훨씬 쉬워집니다.</p>
+<h3 id="32-고등학교-과정">3.2 고등학교 과정</h3>
+<p><strong>고1 - 수학</strong></p>
+<ul>
+<li>다항식</li>
+<li>방정식과 부등식</li>
+<li>도형의 방정식</li>
+<li>집합과 명제</li>
+<li>함수</li>
+<li>경우의 수</li>
+</ul>
+<p><strong>고2 - 수학Ⅰ</strong></p>
+<ul>
+<li>지수함수와 로그함수</li>
+<li>삼각함수</li>
+<li>수열</li>
+</ul>
+<p><strong>고2 - 수학Ⅱ</strong></p>
+<ul>
+<li>함수의 극한과 연속</li>
+<li>미분</li>
+<li>적분</li>
+</ul>
+<p><strong>고3 - 선택과목</strong></p>
+<ul>
+<li>확률과 통계</li>
+<li>미적분</li>
+<li>기하</li>
+</ul>
+<h3 id="33-선택과목-가이드">3.3 선택과목 가이드</h3>
+<p><strong>확률과 통계</strong></p>
+<ul>
+<li>상대적으로 학습량이 적음</li>
+<li>개념 이해와 계산 정확도가 중요</li>
+<li>인문계열 학생들이 많이 선택</li>
+<li>실생활 적용 문제가 많음</li>
+</ul>
+<p><strong>미적분</strong></p>
+<ul>
+<li>수학Ⅱ의 연장선</li>
+<li>이공계 필수 선택</li>
+<li>고난도 문제가 많음</li>
+<li>논리적 사고력 필요</li>
+</ul>
+<p><strong>기하</strong></p>
+<ul>
+<li>공간지각력이 중요</li>
+<li>학습량은 많지 않음</li>
+<li>상위권 학생들이 선택</li>
+<li>벡터의 이해가 핵심</li>
+</ul>
+<p>1:1 과외 선생님과 상담하여 자신에게 맞는 선택과목을 정하는 것이 중요합니다.</p>
+<h2 id="4-효과적인-수학-학습법">4. 효과적인 수학 학습법</h2>
+<h3 id="41-개념-학습">4.1 개념 학습</h3>
+<p><strong>개념의 정확한 이해</strong></p>
+<ul>
+<li>정의와 정리를 정확히 이해</li>
+<li>왜 그런지 원리 파악</li>
+<li>개념 간의 연관성 이해</li>
+</ul>
+<p><strong>개념 정리 방법</strong></p>
+<ul>
+<li>개념노트 작성</li>
+<li>마인드맵으로 정리</li>
+<li>스스로 설명해보기</li>
+</ul>
+<p><strong>공식의 이해와 암기</strong></p>
+<ul>
+<li>공식의 유도 과정 이해</li>
+<li>공식의 의미 파악</li>
+<li>반복 연습으로 체득</li>
+</ul>
+<h3 id="42-문제-풀이">4.2 문제 풀이</h3>
+<p><strong>기본 문제부터 시작</strong></p>
+<ul>
+<li>개념 확인 문제</li>
+<li>기본 유형 문제</li>
+<li>단계적으로 난이도 상승</li>
+</ul>
+<p><strong>문제 풀이 전략</strong></p>
+<ul>
+<li>문제를 정확히 읽고 이해</li>
+<li>주어진 조건 정리</li>
+<li>필요한 개념과 공식 떠올리기</li>
+<li>풀이 과정 논리적으로 전개</li>
+<li>답 검산하기</li>
+</ul>
+<p><strong>오답 노트 활용</strong></p>
+<ul>
+<li>틀린 문제 분석</li>
+<li>왜 틀렸는지 원인 파악</li>
+<li>올바른 풀이 정리</li>
+<li>유사 문제 추가 풀이</li>
+</ul>
+<p>1:1 과외를 통해 문제 풀이 전략을 배우고 즉각적인 피드백을 받을 수 있습니다.</p>
+<h3 id="43-심화-학습">4.3 심화 학습</h3>
+<p><strong>고난도 문제 접근</strong></p>
+<ul>
+<li>기본 개념의 확장</li>
+<li>여러 개념의 융합</li>
+<li>창의적 사고 필요</li>
+</ul>
+<p><strong>사고력 향상 방법</strong></p>
+<ul>
+<li>다양한 풀이 방법 시도</li>
+<li>문제 변형해보기</li>
+<li>새로운 문제 만들어보기</li>
+</ul>
+<p><strong>경시대회 대비</strong></p>
+<ul>
+<li>KMO (한국수학올림피아드)</li>
+<li>각종 교내외 경시대회</li>
+<li>사고력 수학 문제집</li>
+</ul>
+<h2 id="5-내신-대비-전략">5. 내신 대비 전략</h2>
+<h3 id="51-교과서-완벽-이해">5.1 교과서 완벽 이해</h3>
+<p><strong>교과서 중심 학습</strong></p>
+<ul>
+<li>개념 설명 꼼꼼히 읽기</li>
+<li>예제 문제 완벽히 이해</li>
+<li>연습 문제 반복 풀이</li>
+</ul>
+<p><strong>교과서 심화 문제</strong></p>
+<ul>
+<li>단원 종합 문제</li>
+<li>서술형 문제</li>
+<li>창의·융합 문제</li>
+</ul>
+<h3 id="52-학교-시험-분석">5.2 학교 시험 분석</h3>
+<p><strong>기출 문제 분석</strong></p>
+<ul>
+<li>최근 3년간 기출 문제</li>
+<li>자주 나오는 유형 파악</li>
+<li>선생님의 출제 스타일 분석</li>
+</ul>
+<p><strong>시험 범위 완벽 대비</strong></p>
+<ul>
+<li>수업 내용 복습</li>
+<li>프린트와 부교재</li>
+<li>수행평가 내용</li>
+</ul>
+<p>1:1 과외로 학교별 내신 경향을 분석하고 맞춤 대비할 수 있습니다.</p>
+<h3 id="53-서술형-대비">5.3 서술형 대비</h3>
+<p><strong>서술형 문제의 특징</strong></p>
+<ul>
+<li>풀이 과정의 논리성</li>
+<li>수학적 표현의 정확성</li>
+<li>부분 점수 체계</li>
+</ul>
+<p><strong>서술형 답안 작성</strong></p>
+<ul>
+<li>풀이 과정 자세히 서술</li>
+<li>수학 기호 정확히 사용</li>
+<li>결론 명확히 제시</li>
+</ul>
+<h2 id="6-수능-대비-전략">6. 수능 대비 전략</h2>
+<h3 id="61-기출-문제-분석">6.1 기출 문제 분석</h3>
+<p><strong>기출의 중요성</strong></p>
+<ul>
+<li>출제 경향 파악</li>
+<li>중요 개념 확인</li>
+<li>난이도 체감</li>
+</ul>
+<p><strong>기출 활용 방법</strong></p>
+<ul>
+<li>최근 10년 기출 반복</li>
+<li>오답 완벽히 분석</li>
+<li>유형별로 정리</li>
+</ul>
+<p><strong>킬러 문항 대비</strong></p>
+<ul>
+<li>고난도 문제 패턴 분석</li>
+<li>다양한 접근 방법 연습</li>
+<li>시간 관리 전략</li>
+</ul>
+<h3 id="62-모의고사-활용">6.2 모의고사 활용</h3>
+<p><strong>정기적인 실전 연습</strong></p>
+<ul>
+<li>주 1~2회 모의고사</li>
+<li>실제 시간 (100분) 준수</li>
+<li>실전처럼 긴장감 유지</li>
+</ul>
+<p><strong>모의고사 복습</strong></p>
+<ul>
+<li>채점 후 즉시 복습</li>
+<li>틀린 문제 완벽 분석</li>
+<li>시간 배분 점검</li>
+</ul>
+<p><strong>성적 분석</strong></p>
+<ul>
+<li>영역별 정답률</li>
+<li>난이도별 정답률</li>
+<li>취약 부분 파악</li>
+</ul>
+<h3 id="63-시간-관리">6.3 시간 관리</h3>
+<p><strong>문항별 시간 배분</strong></p>
+<ul>
+<li>4점 문항: 5~7분</li>
+<li>3점 문항: 3~4분</li>
+<li>2점 문항: 2~3분</li>
+</ul>
+<p><strong>시간 단축 전략</strong></p>
+<ul>
+<li>쉬운 문제부터 풀기</li>
+<li>막히는 문제 과감히 넘기기</li>
+<li>남은 시간에 어려운 문제 집중</li>
+</ul>
+<p>1:1 과외를 통해 실전 시간 관리 훈련을 체계적으로 할 수 있습니다.</p>
+<h2 id="7-수학-실력-향상을-위한-팁">7. 수학 실력 향상을 위한 팁</h2>
+<h3 id="71-계산-능력-향상">7.1 계산 능력 향상</h3>
+<p><strong>정확한 계산</strong></p>
+<ul>
+<li>기본 연산 완벽히</li>
+<li>분수와 소수 계산</li>
+<li>복잡한 식의 정리</li>
+</ul>
+<p><strong>빠른 계산</strong></p>
+<ul>
+<li>암산 능력 키우기</li>
+<li>계산 요령 익히기</li>
+<li>계산기 효율적 사용 (허용 시)</li>
+</ul>
+<h3 id="72-그래프-해석-능력">7.2 그래프 해석 능력</h3>
+<p><strong>함수의 그래프</strong></p>
+<ul>
+<li>기본 함수의 그래프 암기</li>
+<li>그래프의 이동과 대칭</li>
+<li>그래프로 문제 해결</li>
+</ul>
+<p><strong>도형의 시각화</strong></p>
+<ul>
+<li>평면도형 정확히 그리기</li>
+<li>입체도형 상상하기</li>
+<li>좌표평면 활용</li>
+</ul>
+<h3 id="73-논리적-사고력">7.3 논리적 사고력</h3>
+<p><strong>논증 능력</strong></p>
+<ul>
+<li>명제의 참거짓 판단</li>
+<li>논리적으로 증명하기</li>
+<li>반례 찾기</li>
+</ul>
+<p><strong>문제 해결 전략</strong></p>
+<ul>
+<li>패턴 찾기</li>
+<li>역으로 생각하기</li>
+<li>단순화하기</li>
+<li>일반화하기</li>
+</ul>
+<h2 id="8-수학-학습-도구-활용">8. 수학 학습 도구 활용</h2>
+<h3 id="81-교재-선택">8.1 교재 선택</h3>
+<p><strong>개념서</strong></p>
+<ul>
+<li>자세한 설명과 예제</li>
+<li>단계별 학습 가능</li>
+<li>고등학교 전 학년 대비</li>
+</ul>
+<p><strong>문제집</strong></p>
+<ul>
+<li>유형별 문제집</li>
+<li>난이도별 문제집</li>
+<li>기출 문제집</li>
+</ul>
+<p><strong>인터넷 강의</strong></p>
+<ul>
+<li>개념 강의</li>
+<li>문제 풀이 강의</li>
+<li>반복 시청 가능</li>
+</ul>
+<p>1:1 과외는 학생 맞춤형 교재와 커리큘럼을 제공할 수 있습니다.</p>
+<h3 id="82-온라인-자료">8.2 온라인 자료</h3>
+<p><strong>수학 학습 사이트</strong></p>
+<ul>
+<li>EBS 수학</li>
+<li>칸아카데미</li>
+<li>수학 전문 사이트</li>
+</ul>
+<p><strong>모바일 앱</strong></p>
+<ul>
+<li>수학 문제 풀이 앱</li>
+<li>수식 계산기</li>
+<li>그래프 그리기 앱</li>
+</ul>
+<h3 id="83-학습-관리">8.3 학습 관리</h3>
+<p><strong>진도 관리</strong></p>
+<ul>
+<li>주간 학습 계획</li>
+<li>진도 체크리스트</li>
+<li>복습 계획</li>
+</ul>
+<p><strong>성적 관리</strong></p>
+<ul>
+<li>모의고사 성적 기록</li>
+<li>영역별 정답률 분석</li>
+<li>목표 설정과 달성</li>
+</ul>
+<h2 id="9-수학-학습의-어려움-극복">9. 수학 학습의 어려움 극복</h2>
+<h3 id="91-흔한-어려움과-해결책">9.1 흔한 어려움과 해결책</h3>
+<p><strong>개념 이해가 안 돼요</strong></p>
+<ul>
+<li>더 기초적인 개념부터 다시</li>
+<li>여러 자료로 반복 학습</li>
+<li>선생님이나 친구에게 질문</li>
+<li>1:1 과외로 맞춤 설명</li>
+</ul>
+<p><strong>문제 풀이가 안 돼요</strong></p>
+<ul>
+<li>기본 문제부터 단계적으로</li>
+<li>해설을 보고 이해한 후 다시 풀기</li>
+<li>유사 문제 반복 연습</li>
+</ul>
+<p><strong>계산 실수가 많아요</strong></p>
+<ul>
+<li>계산 과정 자세히 쓰기</li>
+<li>검산 습관 들이기</li>
+<li>기본 연산 반복 훈련</li>
+</ul>
+<p><strong>시간이 부족해요</strong></p>
+<ul>
+<li>문제 풀이 속도 훈련</li>
+<li>쉬운 문제부터 풀기</li>
+<li>시간 관리 전략 연습</li>
+</ul>
+<h3 id="92-슬럼프-극복">9.2 슬럼프 극복</h3>
+<p><strong>성적 정체기</strong></p>
+<ul>
+<li>학습 방법 점검</li>
+<li>약점 집중 보완</li>
+<li>새로운 문제집 도전</li>
+</ul>
+<p><strong>수학 포기 위기</strong></p>
+<ul>
+<li>작은 목표부터 달성</li>
+<li>흥미로운 수학 이야기 접하기</li>
+<li>수학의 실용성 인식</li>
+<li>전문가의 도움 받기</li>
+</ul>
+<h2 id="10-수학과-진로">10. 수학과 진로</h2>
+<h3 id="101-수학-관련-진로">10.1 수학 관련 진로</h3>
+<p><strong>이공계열</strong></p>
+<ul>
+<li>공학 (기계, 전기전자, 컴퓨터 등)</li>
+<li>자연과학 (수학, 물리, 화학 등)</li>
+<li>의학 계열</li>
+</ul>
+<p><strong>사회과학계열</strong></p>
+<ul>
+<li>경제학</li>
+<li>경영학</li>
+<li>통계학</li>
+</ul>
+<p><strong>전문직</strong></p>
+<ul>
+<li>금융권 (애널리스트, 액추어리)</li>
+<li>데이터 과학자</li>
+<li>인공지능 전문가</li>
+</ul>
+<h3 id="102-수학의-실생활-활용">10.2 수학의 실생활 활용</h3>
+<p><strong>일상생활</strong></p>
+<ul>
+<li>금융 (이자 계산, 투자)</li>
+<li>통계 (설문 조사, 데이터 분석)</li>
+<li>확률 (위험 관리, 의사 결정)</li>
+</ul>
+<p><strong>기술 발전</strong></p>
+<ul>
+<li>인공지능과 빅데이터</li>
+<li>암호학과 정보 보안</li>
+<li>컴퓨터 그래픽스</li>
+</ul>
+<h2 id="자주-묻는-질문-faq">자주 묻는 질문 (FAQ)</h2>
+<h3 id="q1-수학을-잘하려면-타고난-재능이-필요한가요">Q1: 수학을 잘하려면 타고난 재능이 필요한가요?</h3>
+<p>A: 아닙니다. 수학은 재능보다 노력과 올바른 학습 방법이 더 중요합니다. 기초부터 차근차근 쌓아가고, 꾸준히 연습하면 누구나 실력을 향상시킬 수 있습니다. 중요한 것은 포기하지 않는 것과 자신에게 맞는 학습 방법을 찾는 것입니다.</p>
+<h3 id="q2-수학-공부는-하루에-얼마나-해야-하나요">Q2: 수학 공부는 하루에 얼마나 해야 하나요?</h3>
+<p>A: 학년과 목표에 따라 다르지만, 고등학생 기준 평일 2-3시간, 주말 3-4시간이 적당합니다. 중요한 것은 시간보다 집중도입니다. 집중해서 1시간 공부하는 것이 산만하게 3시간 하는 것보다 효과적입니다.</p>
+<h3 id="q3-개념-공부와-문제-풀이-어느-것이-더-중요한가요">Q3: 개념 공부와 문제 풀이, 어느 것이 더 중요한가요?</h3>
+<p>A: 둘 다 중요하지만 순서가 있습니다. 먼저 개념을 정확히 이해한 후 문제를 풀어야 합니다. 개념 이해 없이 문제만 풀면 응용력이 부족해지고, 문제 풀이 없이 개념만 공부하면 실전 대응력이 떨어집니다. 개념 5, 문제 풀이 5의 비율이 이상적입니다.</p>
+<h3 id="q4-수학-문제집은-몇-권-정도-풀어야-하나요">Q4: 수학 문제집은 몇 권 정도 풀어야 하나요?</h3>
+<p>A: 많이 푸는 것보다 제대로 푸는 것이 중요합니다. 한 권을 여러 번 반복하는 것이 여러 권을 한 번씩 푸는 것보다 효과적입니다. 개념서 1권, 유형 문제집 1-2권, 심화 문제집 1권, 기출 문제집 1권 정도면 충분합니다.</p>
+<h3 id="q5-확률과-통계-미적분-기하-중-어떤-것을-선택해야-하나요">Q5: 확률과 통계, 미적분, 기하 중 어떤 것을 선택해야 하나요?</h3>
+<p>A: 진로와 적성을 고려해 선택하세요. 이공계는 미적분이 거의 필수이고, 인문계는 확률과 통계를 많이 선택합니다. 기하는 공간지각력이 좋고 도형 문제를 좋아하는 학생에게 유리합니다. 1:1 과외 선생님과 상담하여 결정하는 것이 좋습니다.</p>
+<h3 id="q6-수학-성적이-오르지-않는데-어떻게-해야-하나요">Q6: 수학 성적이 오르지 않는데 어떻게 해야 하나요?</h3>
+<p>A: 먼저 원인을 파악해야 합니다. 개념 이해 부족인지, 문제 풀이 연습 부족인지, 시간 관리 문제인지 확인하세요. 오답 노트를 작성하며 자신의 약점을 분석하고, 그 부분을 집중적으로 보완하세요. 혼자 어렵다면 1:1 과외를 통해 전문가의 진단을 받는 것이 효과적입니다.</p>
+<h3 id="q7-계산-실수를-줄이려면-어떻게-해야-하나요">Q7: 계산 실수를 줄이려면 어떻게 해야 하나요?</h3>
+<p>A: 계산 과정을 자세히 쓰고, 암산을 줄이세요. 답을 구한 후 반드시 검산하는 습관을 들이고, 자주 실수하는 부분을 정리해 주의하세요. 기본 연산을 반복 연습하여 자동화하는 것도 도움이 됩니다.</p>
+<h3 id="q8-수능-수학-시간이-항상-부족한데-어떻게-하죠">Q8: 수능 수학 시간이 항상 부족한데 어떻게 하죠?</h3>
+<p>A: 문항별 시간 배분을 정하고 연습하세요. 쉬운 문제부터 풀고, 3분 이상 고민해도 안 풀리면 일단 넘어가세요. 주 1~2회 실전 모의고사를 풀며 시간 관리 감각을 키우는 것이 중요합니다. 문제를 많이 풀어 익숙해질수록 속도가 빨라집니다.</p>
+<h3 id="q9-고난도-문제를-풀-수-없는데-어떻게-하나요">Q9: 고난도 문제를 풀 수 없는데 어떻게 하나요?</h3>
+<p>A: 고난도 문제는 기본 개념의 확장이므로, 먼저 기본을 확실히 하세요. 그 다음 중난도 문제를 충분히 풀고, 점차 난이도를 높여가세요. 고난도 문제 풀이 과정을 자세히 분석하며 사고 패턴을 익히는 것이 중요합니다.</p>
+<h3 id="q10-수학-실력-향상을-위해-11-과외가-도움이-되나요">Q10: 수학 실력 향상을 위해 1:1 과외가 도움이 되나요?</h3>
+<p>A: 네, 1:1 과외는 수학 실력 향상에 매우 효과적입니다. 학생의 현재 수준을 정확히 파악하고, 개념 이해도를 확인하며, 취약 부분을 집중적으로 보완할 수 있습니다. 문제 풀이 과정에서 즉각적인 피드백을 받고, 올바른 풀이 습관을 들일 수 있습니다. 특히 혼자 공부하기 어려운 고난도 문제나 심화 개념은 전문가의 설명을 들으면 훨씬 쉽게 이해할 수 있습니다.</p>
+<h2 id="-관련-가이드">📚 관련 가이드</h2>
+<ul>
+<li><a href="/subjects/math/math-concept-mastery/">수학 개념 이해 완벽 정리 | 기초~심화 2025</a></li>
+<li><a href="/subjects/math/math-grade12-liberal/">고3 문과 수학 완벽 가이드 | 1:1 고등 수학 과외</a></li>
+<li><a href="/subjects/math/math-grade12-science/">고3 이과 수학 완벽 가이드 | 1:1 고등 수학 과외</a></li>
+<li><a href="/elementary/elementary-math-study-guide/index/">초등 수학 공부법 완벽 가이드 | 학년별 맞춤 전략</a></li>
+<li><a href="/subjects/math/math-conic-sections/">수학 이차곡선 완벽 정복 가이드 | 1:1 이차곡선 과외</a></li>
+</ul>
+
+<div class="cta-consultation-final">
+    <div class="cta-final-content">
+        <div class="cta-final-icon">
+            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="24" cy="24" r="22" fill="#FEE500" opacity="0.2"/>
+                <path d="M24 12C17.373 12 12 16.589 12 22c0 3.441 2.271 6.471 5.714 8.25-.194.704-.75 2.732-.861 3.175-.147.561.207.555.434.404.176-.117 2.815-1.887 3.878-2.599.644.087 1.305.132 1.935.132 6.627 0 12-4.589 12-10S30.627 12 24 12z" fill="#3C1E1E"/>
+            </svg>
+        </div>
+        <div class="cta-final-text">
+            <h3 class="cta-final-title">학습 상담이 필요하신가요?</h3>
+            <p class="cta-final-message">언제든지 카카오톡으로 문의해주세요. 빠르게 답변드리겠습니다.</p>
+        </div>
+        <a href="https://pf.kakao.com/_Cixlaxl/chat"
+           target="_blank"
+           rel="noopener noreferrer"
+           class="cta-final-button"
+           onclick="gtag('event', 'click', {
+               'event_category': 'Conversion',
+               'event_label': 'Content CTA Final - 수학 완벽 로드맵 - 기초부터 심화까지 총정리 완벽 가이드 - 성공적인 학습법과 활용 전략',
+               'value': 2
+           });">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M10 3C6.134 3 3 5.589 3 8.75c0 2.005 1.316 3.773 3.303 4.823-.112.41-.435 1.591-.5 1.847-.085.327.12.323.252.236.103-.068 1.636-1.098 2.253-1.512.374.051.759.077 1.192.077 3.866 0 7-2.589 7-5.75S13.866 3 10 3z" fill="currentColor"/>
+            </svg>
+            <span>지금 바로 카카오톡 상담하기</span>
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </a>
+        <p class="cta-final-note">💬 평일/주말 언제든지 문의 가능합니다</p>
+    </div>
+</div>
+
+<style>
+ 
+.cta-consultation-final {
+    margin: 60px 0 40px;
+    padding: 40px;
+    border-radius: 24px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    position: relative;
+    overflow: hidden;
+}
+
+.cta-consultation-final::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+    animation: rotate 20s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.cta-final-content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+
+.cta-final-icon {
+    margin: 0 auto 24px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: bounce 2s ease-in-out infinite;
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.cta-final-text {
+    margin-bottom: 32px;
+}
+
+.cta-final-title {
+    font-size: 28px;
+    font-weight: 800;
+    color: white;
+    margin: 0 0 12px;
+    line-height: 1.3;
+}
+
+.cta-final-message {
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0;
+    line-height: 1.6;
+}
+
+.cta-final-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 18px 36px;
+    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+    color: #3C1E1E;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 17px;
+    box-shadow: 0 12px 32px rgba(254, 229, 0, 0.4);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    margin: 0 auto;
+}
+
+.cta-final-button:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 40px rgba(254, 229, 0, 0.5);
+    background: linear-gradient(135deg, #FFD700 0%, #FEE500 100%);
+}
+
+.cta-final-button:active {
+    transform: translateY(-2px);
+}
+
+.cta-final-note {
+    margin: 20px 0 0;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+ 
+@media (max-width: 768px) {
+    .cta-consultation-final {
+        padding: 32px 24px;
+        margin: 48px 0 32px;
+    }
+
+    .cta-final-icon {
+        width: 64px;
+        height: 64px;
+        margin-bottom: 20px;
+    }
+
+    .cta-final-icon svg {
+        width: 40px;
+        height: 40px;
+    }
+
+    .cta-final-title {
+        font-size: 24px;
+    }
+
+    .cta-final-message {
+        font-size: 16px;
+    }
+
+    .cta-final-button {
+        padding: 16px 32px;
+        font-size: 16px;
+        gap: 10px;
+    }
+
+    .cta-final-button svg {
+        width: 18px;
+        height: 18px;
+    }
+}
+
+ 
+@media (max-width: 480px) {
+    .cta-consultation-final {
+        padding: 28px 20px;
+        margin: 40px 0 24px;
+        border-radius: 20px;
+    }
+
+    .cta-final-icon {
+        width: 56px;
+        height: 56px;
+        margin-bottom: 16px;
+    }
+
+    .cta-final-icon svg {
+        width: 36px;
+        height: 36px;
+    }
+
+    .cta-final-title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .cta-final-message {
+        font-size: 15px;
+    }
+
+    .cta-final-button {
+        width: 100%;
+        padding: 16px 24px;
+        font-size: 15px;
+        gap: 8px;
+    }
+
+    .cta-final-button svg {
+        width: 16px;
+        height: 16px;
+    }
+
+    .cta-final-note {
+        font-size: 13px;
+        margin-top: 16px;
+    }
+}
+
+ 
+.cta-final-button:focus {
+    outline: 3px solid #FEE500;
+    outline-offset: 4px;
+}
+
+ 
+@media print {
+    .cta-consultation-final {
+        display: none !important;
+    }
+}
+
+ 
+@media (prefers-color-scheme: dark) {
+    .cta-consultation-final {
+        background: linear-gradient(135deg, #5568d3 0%, #6a4b91 100%);
+    }
+}
+</style>
+
+<hr>
+<p>수학은 단기간에 성적이 오르는 과목이 아니지만, 올바른 방법으로 꾸준히 노력하면 반드시 향상됩니다. 이 로드맵을 따라 체계적으로 학습하고, 필요하다면 전문가의 도움을 받으세요. 수학 실력은 대학 입시를 넘어 미래의 경쟁력이 될 것입니다.</p>
+
+        </div>
+
+        
+        <div class="ad-banner">
+            <h3 style="font-size: 1.5rem; color: var(--text-primary); margin-bottom: 0.8rem;">🎯 맞춤 학습 컨설팅</h3>
+            <p style="color: #5a6c7d; font-size: 1.1rem; margin-bottom: 1.5rem;">
+                전문가와 함께하는 1:1 학습 설계
+            </p>
+            <a href="https://pf.kakao.com/_Cixlaxl/chat" target="_blank" rel="noopener noreferrer">
+                <button style="padding: 12px 32px; background: #FEE500; color: #3c1e1e; font-size: 1rem; font-weight: 700; border: none; border-radius: 8px; cursor: pointer; transition: all 0.3s ease;">
+                    💬 카카오톡 상담하기
+                </button>
+            </a>
+        </div>
+
+        
+        <div class="share-section">
+    <h4>💬 친구에게 공유하기</h4>
+    <div class="share-buttons">
+        <button class="btn-share btn-facebook" onclick="shareFacebook()">
+            <span>📘</span> 페이스북
+        </button>
+        <button class="btn-share btn-twitter" onclick="shareTwitter()">
+            <span>🐦</span> 트위터
+        </button>
+        <button class="btn-share btn-copy" id="copyBtn" onclick="copyLink()">
+            <span>🔗</span> 링크 복사
+        </button>
+    </div>
+</div>
+
+
+        
+        
+        <div class="article-tags">
+            <strong>태그:</strong>
+            
+            <a href="/tags/%EC%88%98%ED%95%99" class="tag">#수학</a>
+            
+            <a href="/tags/%ED%95%99%EC%8A%B5%EB%A1%9C%EB%93%9C%EB%A7%B5" class="tag">#학습로드맵</a>
+            
+            <a href="/tags/%EC%88%98%ED%95%99%EA%B0%9C%EB%85%90" class="tag">#수학개념</a>
+            
+            <a href="/tags/%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4" class="tag">#문제풀이</a>
+            
+            <a href="/tags/%EC%88%98%EB%8A%A5%EC%88%98%ED%95%99" class="tag">#수능수학</a>
+            
+            <a href="/tags/%EB%82%B4%EC%8B%A0%EC%88%98%ED%95%99" class="tag">#내신수학</a>
+            
+            <a href="/tags/%EC%88%98%ED%95%99%EA%B3%B5%EB%B6%80%EB%B2%95" class="tag">#수학공부법</a>
+            
+            <a href="/tags/%EB%AF%B8%EC%A0%81%EB%B6%84" class="tag">#미적분</a>
+            
+            <a href="/tags/%EA%B8%B0%ED%95%98" class="tag">#기하</a>
+            
+            <a href="/tags/%ED%99%95%EB%A5%A0%EA%B3%BC%ED%86%B5%EA%B3%84" class="tag">#확률과통계</a>
+            
+        </div>
+        
+    </article>
+
+    
+    <section class="related-posts">
+  <div class="related-posts-header">
+    <h2>📚 함께 읽으면 좋은 글</h2>
+    <p class="related-posts-subtitle">비슷한 주제의 다른 학습 가이드를 확인해보세요</p>
+  </div>
+
+  <div class="related-posts-grid"><article class="related-post-card">
+        <a href="/subjects/math/math-grade12-liberal/" class="related-post-link">
+          <div class="related-post-content"><div class="related-post-categories"><span class="category-badge">수학</span></div><h3 class="related-post-title">고3 문과 수학 완벽 가이드 | 1:1 고등 수학 과외 - 체계적인 학습 방법과 실전 노하우</h3><p class="related-post-description">고3 문과 수학 완벽 정복 | 수능 수학 대비, 수학 I 총정리, 확률과 통계 완성, 1:1 맞춤 고3 문과 수학 지도 [2025년] 과목별 특성을 고려한 맞춤형 학습법으로 성적  …</p><div class="related-post-meta"><span class="related-post-date">2025.01.29</span></div>
+          </div>
+
+          <div class="related-post-arrow">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M7 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </a>
+      </article><article class="related-post-card">
+        <a href="/subjects/math/math-grade12-science/" class="related-post-link">
+          <div class="related-post-content"><div class="related-post-categories"><span class="category-badge">수학</span></div><h3 class="related-post-title">고3 이과 수학 완벽 가이드 | 1:1 고등 수학 과외 - 체계적인 학습 방법과 실전 노하우</h3><p class="related-post-description">고3 이과 수학 완벽 정복 | 수능 미적분 대비, 수학 I·II 총정리, 킬러 문제 공략, 1:1 맞춤 고3 이과 수학 지도 [2025년] 과목별 특성을 고려한 맞춤형 학습법으로  …</p><div class="related-post-meta"><span class="related-post-date">2025.01.29</span></div>
+          </div>
+
+          <div class="related-post-arrow">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M7 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </a>
+      </article><article class="related-post-card">
+        <a href="/subjects/math/math-concept-mastery/" class="related-post-link">
+          <div class="related-post-content"><div class="related-post-categories"><span class="category-badge">과목별</span><span class="category-badge">수학</span></div><h3 class="related-post-title">수학 개념 이해 완벽 정리 | 기초~심화 2025 완벽 가이드 - 성공적인 학습법과 활용 전략</h3><p class="related-post-description">수학 개념을 체계적으로 이해하는 완벽한 학습법을 소개합니다. 공식 암기가 아닌 원리 이해부터 개념 적용, 문제 풀이까지 수학 실력을 높이는 모든 방법을 안내합니다 과목별 특성을 고 …</p><div class="related-post-meta"><span class="related-post-date">2025.01.26</span></div>
+          </div>
+
+          <div class="related-post-arrow">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M7 4l6 6-6 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </a>
+      </article></div>
+</section>
+
+<style>
+ 
+.related-posts {
+  margin: 60px 0 40px;
+  padding: 40px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-radius: 16px;
+  border: 1px solid #e9ecef;
+}
+
+.related-posts-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.related-posts-header h2 {
+  font-size: 24px;
+  font-weight: 800;
+  color: #212529;
+  margin: 0 0 8px;
+}
+
+.related-posts-subtitle {
+  font-size: 15px;
+  color: #6c757d;
+  margin: 0;
+}
+
+.related-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.related-post-card {
+  background: white;
+  border-radius: 12px;
+  border: 1px solid #dee2e6;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: hidden;
+}
+
+.related-post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+  border-color: #667eea;
+}
+
+.related-post-link {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.related-post-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.related-post-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.category-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 12px;
+}
+
+.related-post-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #212529;
+  margin: 0 0 8px;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.related-post-description {
+  font-size: 14px;
+  color: #6c757d;
+  margin: 0 0 12px;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.related-post-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 13px;
+  color: #868e96;
+}
+
+.related-post-arrow {
+  flex-shrink: 0;
+  color: #667eea;
+  transition: transform 0.3s ease;
+}
+
+.related-post-card:hover .related-post-arrow {
+  transform: translateX(4px);
+}
+
+ 
+@media (max-width: 768px) {
+  .related-posts {
+    padding: 32px 24px;
+    margin: 48px 0 32px;
+  }
+
+  .related-posts-header h2 {
+    font-size: 22px;
+  }
+
+  .related-posts-subtitle {
+    font-size: 14px;
+  }
+
+  .related-posts-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .related-post-link {
+    padding: 16px;
+  }
+
+  .related-post-title {
+    font-size: 15px;
+  }
+
+  .related-post-description {
+    font-size: 13px;
+  }
+}
+
+ 
+@media (max-width: 480px) {
+  .related-posts {
+    padding: 24px 16px;
+    margin: 40px 0 24px;
+    border-radius: 12px;
+  }
+
+  .related-posts-header {
+    margin-bottom: 24px;
+  }
+
+  .related-posts-header h2 {
+    font-size: 20px;
+  }
+
+  .related-posts-subtitle {
+    font-size: 13px;
+  }
+
+  .related-post-link {
+    padding: 14px;
+    gap: 12px;
+  }
+
+  .related-post-title {
+    font-size: 14px;
+  }
+
+  .related-post-description {
+    font-size: 13px;
+  }
+
+  .related-post-arrow svg {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+ 
+@media print {
+  .related-posts {
+    display: none !important;
+  }
+}
+</style>
+</div>
+
+<style>
+.article-meta {
+    margin-bottom: 1rem;
+}
+
+.categories {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.category-tag {
+    background: var(--primary-color);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 4px;
+    font-size: var(--font-xs);
+    font-weight: 600;
+}
+
+.article-title {
+    font-size: 2.5rem;
+    line-height: 1.3;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+}
+
+.article-info {
+    display: flex;
+    gap: 1.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--border-light);
+    margin-bottom: 3rem;
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+}
+
+.article-content {
+    font-size: var(--font-base);
+    line-height: var(--line-height-relaxed);
+}
+
+.featured-image {
+    margin: 2rem 0 3rem 0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.featured-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.article-tags {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-light);
+}
+
+.tag {
+    display: inline-block;
+    margin: 0 0.5rem;
+    color: var(--primary-color);
+    font-size: var(--font-sm);
+}
+
+ 
+@media (max-width: 768px) {
+    .article-title {
+        font-size: 1.6rem;  
+        line-height: 1.4;
+        margin-bottom: 0.8rem;
+    }
+
+    .article-info {
+        gap: 1rem;
+        padding-bottom: 1.5rem;
+        margin-bottom: 2rem;
+        font-size: 0.85rem;
+    }
+
+    .article-content {
+        font-size: 1rem;  
+        line-height: 1.7;
+    }
+
+     
+    .article-content h2 {
+        font-size: 1.4rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    .article-content h3 {
+        font-size: 1.2rem;
+        margin-top: 1.5rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .article-content h4 {
+        font-size: 1.1rem;
+    }
+
+     
+    .article-content ul,
+    .article-content ol {
+        padding-left: 1.5rem;
+        margin: 1rem 0;
+    }
+
+    .article-content li {
+        margin-bottom: 0.5rem;
+    }
+
+    .article-content table {
+        font-size: 0.85rem;
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .article-content code {
+        font-size: 0.85rem;
+    }
+
+    .article-content pre {
+        font-size: 0.8rem;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .featured-image {
+        margin: 1.5rem 0 2rem 0;
+        border-radius: 8px;
+    }
+
+    .article-tags {
+        margin-top: 2rem;
+        padding-top: 1.5rem;
+    }
+
+    .tag {
+        font-size: 0.85rem;
+        margin: 0 0.3rem;
+    }
+
+     
+    .ad-banner h3 {
+        font-size: 1.2rem !important;
+    }
+
+    .ad-banner p {
+        font-size: 0.95rem !important;
+    }
+
+    .ad-banner button {
+        padding: 14px 24px !important;
+        font-size: 0.95rem !important;
+        width: 100% !important;
+        max-width: 280px;
+    }
+}
+</style>
+
+    </main>
+    
+    <footer class="site-footer">
+    <div class="wide-container">
+        <div class="footer-content">
+            <div class="footer-info">
+                <h4>📚 과외를부탁해</h4>
+                <p>초등학생부터 고등학생까지<br>학습에 필요한 모든 정보를 한곳에서</p>
+            </div>
+            <div class="footer-disclaimer">
+                <p><strong>⚠️ 안내사항</strong></p>
+                <p>본 사이트의 모든 콘텐츠는 정보 제공 목적이며, 학습 효과를 보장하지 않습니다.</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 과외를부탁해. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+
+<style>
+.site-footer {
+    background: #2c3e50;
+    color: white;
+    padding: 3rem 0 2rem;
+    margin-top: 4rem;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    margin-bottom: 2rem;
+}
+
+.footer-info h4 {
+    margin-bottom: 1rem;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.footer-info p {
+    color: rgba(255,255,255,0.9);
+    line-height: 1.6;
+}
+
+.footer-disclaimer {
+    font-size: var(--font-sm);
+    color: rgba(255,255,255,0.8);
+}
+
+.footer-disclaimer p {
+    color: rgba(255,255,255,0.8);
+}
+
+.footer-disclaimer strong {
+    color: #ffd93d;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    font-size: var(--font-sm);
+    color: rgba(255,255,255,0.7);
+}
+
+@media (max-width: 768px) {
+    .site-footer {
+        padding: 2rem 0 1.5rem;  
+    }
+
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;  
+    }
+
+    .footer-info h4 {
+        font-size: 1.1rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .footer-info p {
+        font-size: 0.9rem;  
+        line-height: 1.6;
+    }
+
+    .footer-disclaimer {
+        font-size: 0.85rem;  
+    }
+
+    .footer-bottom {
+        font-size: 0.8rem;
+        padding-top: 1.5rem;
+    }
+}
+</style>
+
+
+    
+    
+<div class="floating-dual-buttons" id="floatingButtons">
+    
+    <a href="https://pf.kakao.com/_Cixlaxl/chat"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="floating-btn floating-kakao"
+       onclick="gtag('event', 'click', {
+           'event_category': 'Conversion',
+           'event_label': 'Floating KakaoTalk Button',
+           'value': 1
+       });">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M14 4C8.477 4 4 7.589 4 12c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S19.523 4 14 4z" fill="currentColor"/>
+        </svg>
+        <span class="floating-text">카카오톡 상담</span>
+    </a>
+    
+    
+    <a href="https://naver.me/FGENm9ex"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="floating-btn floating-trial"
+       onclick="gtag('event', 'click', {
+           'event_category': 'Conversion',
+           'event_label': 'Floating Trial Button',
+           'value': 1
+       });">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="currentColor"/>
+        </svg>
+        <span class="floating-text">무료체험 신청</span>
+    </a>
+</div>
+
+<style>
+ 
+.floating-dual-buttons {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+ 
+.floating-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 22px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 15px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    white-space: nowrap;
+    animation: floatPulse 3s ease-in-out infinite;
+}
+
+ 
+.floating-kakao {
+    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+    color: #3C1E1E;
+}
+
+.floating-kakao:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(254, 229, 0, 0.5);
+    background: linear-gradient(135deg, #FFD700 0%, #FEE500 100%);
+}
+
+ 
+.floating-trial {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.floating-trial:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(102, 126, 234, 0.5);
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+.floating-btn:active {
+    transform: translateY(-2px);
+}
+
+.floating-btn svg {
+    flex-shrink: 0;
+}
+
+.floating-text {
+    font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+ 
+@keyframes floatPulse {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-6px);
+    }
+}
+
+.floating-trial {
+    animation-delay: 0.5s;
+}
+
+ 
+@media (max-width: 768px) {
+    .floating-dual-buttons {
+        bottom: 20px;
+        right: 20px;
+        gap: 10px;
+    }
+
+    .floating-btn {
+        padding: 12px 18px;
+        font-size: 14px;
+        gap: 8px;
+    }
+
+    .floating-btn svg {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+ 
+@media (max-width: 480px) {
+    .floating-dual-buttons {
+        bottom: 16px;
+        right: 16px;
+        gap: 8px;
+    }
+
+     
+    .floating-text {
+        display: none;
+    }
+
+    .floating-btn {
+        width: 52px;
+        height: 52px;
+        padding: 0;
+        justify-content: center;
+        border-radius: 50%;
+    }
+
+    .floating-btn svg {
+        width: 24px;
+        height: 24px;
+    }
+}
+
+ 
+@media (prefers-color-scheme: dark) {
+    .floating-kakao {
+        background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+        color: #3C1E1E;
+    }
+    
+    .floating-trial {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+    }
+}
+
+ 
+.floating-btn:focus {
+    outline: 3px solid #667eea;
+    outline-offset: 4px;
+}
+
+ 
+@media print {
+    .floating-dual-buttons {
+        display: none !important;
+    }
+}
+
+ 
+.floating-dual-buttons.scrolled {
+    opacity: 0.95;
+}
+
+ 
+@media (max-width: 375px) {
+    .floating-dual-buttons {
+        bottom: 12px;
+        right: 12px;
+        gap: 6px;
+    }
+    
+    .floating-btn {
+        width: 48px;
+        height: 48px;
+    }
+    
+    .floating-btn svg {
+        width: 22px;
+        height: 22px;
+    }
+}
+</style>
+
+<script>
+
+(function() {
+    let lastScroll = 0;
+    const floatingBtns = document.getElementById('floatingButtons');
+
+    window.addEventListener('scroll', function() {
+        const currentScroll = window.pageYOffset;
+
+        
+        if (currentScroll > 100) {
+            floatingBtns.classList.add('scrolled');
+        } else {
+            floatingBtns.classList.remove('scrolled');
+        }
+
+        lastScroll = currentScroll;
+    });
+})();
+</script>
+
+
+    
+    <div id="bookmarkPopup" class="bookmark-popup" style="display: none;">
+        <h4>⭐ 북마크 추가</h4>
+        <p>자주 사용하시나요? 북마크에 추가하고 빠르게 접속하세요!</p>
+        <div class="bookmark-popup-buttons">
+            <button class="btn-bookmark-yes" onclick="closeBookmarkPopup(true)">추가하기</button>
+            <button class="btn-bookmark-no" onclick="closeBookmarkPopup(false)">나중에</button>
+        </div>
+    </div>
+
+    
+    <script src="/js/viral.js" defer></script>
+
+    
+    <script>
+    (function() {
+      const startTime = Date.now();
+
+      window.addEventListener('beforeunload', function() {
+        const duration = Math.floor((Date.now() - startTime) / 1000);
+
+        const data = {
+          referrer: document.referrer || 'direct',
+          page_url: window.location.href,
+          session_duration: duration
+        };
+
+        navigator.sendBeacon(
+          'https://analytics-tracker.granadu0417.workers.dev/track',
+          JSON.stringify(data)
+        );
+      });
+    })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+---
+title: 영어 세부 정보 찾기 완벽 가이드 | 1:1 독해 과외
+date: 2025-01-29
+reading_time: 160줄
+description: 영어 세부 정보 찾기 완벽 정복 | 스캐닝 기법, 키워드 매칭, 일치·불일치 판단, 1:1 맞춤 독해 지도 [2025년]
+categories:
+- 영어
+tags:
+- 영어
+- 독해
+- 세부정보
+- 1:1과외
+featured_image: "/images/edu_0367_EeS69TTPQ18.jpg"
+---
+
+## 세부 정보 찾기 문제에서 지문이 너무 길어서 찾기 힘들다고요? 비슷한 내용이 많아서 헷갈린다고요.
+
+세부 정보 찾기는 스캐닝 기법으로 빠르게 정복할 수 있습니다. 모든 문장을 읽지 말고 키워드를 찾아 그 주변만 확인하면 됩니다. 고유명사나 숫자를 먼저 찾으면 시간을 크게 절약할 수 있습니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+어려운 개념도 쉽게 풀어서 설명합니다. 이해가 안 되면 다른 방법으로 설명합니다.
+</div>
+
+## 스캐닝 3단계
+
+1단계로 선택지에서 고유명사, 숫자, 특이한 단어를 키워드로 파악합니다. 2단계로 눈으로 빠르게 지문을 훑으며 키워드를 찾습니다. 모든 문장을 읽지 마세요. 3단계로 키워드를 발견하면 앞뒤 문장을 정독하여 선택지와 일치하는지 확인합니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+상담을 통해 학생에게 맞는 방법을 찾습니다. 모든 학생이 같은 방법으로 배우지 않습니다.
+</div>
+
+## 키워드 매칭 전략
+
+고유명사가 가장 찾기 쉽습니다. John, Seoul, Monday 같은 대문자로 시작하는 단어를 먼저 찾으세요. 숫자도 눈에 잘 띕니다. 70%, 3 months, $100 같은 숫자를 키워드로 활용하세요. 특수 명사로 smartphone, photosynthesis 같은 독특한 단어도 효과적입니다.
+
+{{< cta-dual type="final" >}}
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+오답 노트를 함께 만듭니다. 시험 전에 다시 보면 도움이 됩니다.
+</div>
+
+## 함정 선택지 패턴
+
+부분 일치 함정은 일부만 맞는 경우입니다. 지문에 biology and chemistry라고 했는데 선택지에 biology만 있으면 불완전합니다. 과장 함정은 many를 most나 all로 바꾼 경우입니다. 축소 함정은 일부를 생략한 경우입니다. 시제 변경과 주어 바꾸기도 흔한 함정입니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+긴 지문을 빠르게 읽는 연습을 합니다. 시간 싸움이기 때문입니다.
+</div>
+
+## 동의어 치환 주의
+
+지문과 선택지가 다른 단어를 쓰는 경우가 많습니다. important는 essential, crucial, vital로, help는 assist, aid, support로, show는 demonstrate, indicate, reveal로 바뀝니다. 부정 표현도 치환됩니다. not easy는 difficult로, not many는 few로 바뀝니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+꾸준히 복습하도록 안내합니다. 한 번 배운 것을 잊지 않게 합니다.
+</div>
+
+## 자주 묻는 질문
+
+**Q. 스캐닝은 어떻게 하나요?**
+
+모든 문장을 읽지 말고 고유명사나 숫자를 찾는 데 집중하세요. 키워드 발견 후 앞뒤 문장만 정독하면 됩니다.
+
+**Q. 시간이 너무 오래 걸려요.**
+
+스캐닝 연습이 필요합니다. 타이머를 사용해서 속도를 높이세요. 목표는 1분 30초에서 2분입니다.
+
+**Q. 선택지가 다 맞는 것 같아요.**
+
+100% 일치만 정답입니다. 부분 일치, 과장, 축소는 모두 오답입니다. 의심되면 지문을 다시 확인하세요.
+
+**Q. 수업 시간은 어떻게 되나요?**
+
+기본 2시간이며, 학생 상황에 맞게 조절 가능합니다.
+
+**Q. 온라인 수업도 가능한가요?**
+
+네, 화상 수업으로 진행 가능합니다.
+
+**Q. 교재는 어떻게 준비하나요?**
+
+학교 교과서와 기출문제를 기본으로 합니다.
+
+**Q. 선생님 변경이 가능한가요?**
+
+수업 스타일이 맞지 않으면 변경해 드립니다.
+
+**Q. 형제 할인이 있나요?**
+
+네, 함께 수업하면 할인 적용됩니다.
+
+**Q. 방학 수업은 어떻게 하나요?**
+
+선행이나 보충 학습에 집중합니다. 횟수 조절도 가능합니다.
+
+## 마무리
+
+세부 정보 찾기는 스캐닝 기법과 키워드 매칭만 익히면 쉽게 정복할 수 있습니다. 고유명사와 숫자를 빠르게 찾는 연습을 하세요.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>이렇게 수업합니다!</strong><br>
+질문을 많이 하도록 유도합니다. 질문해야 배웁니다.
+</div>

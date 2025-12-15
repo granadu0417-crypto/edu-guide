@@ -1,0 +1,166 @@
+baseURL = "https://edukoreaai.com/"
+languageCode = "ko-kr"
+title = "과외를부탁해"
+
+[params]
+  description = "초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서. 과목별 공부법, 내신 대비, 수능 준비, 지역별 학원·과외 정보까지."
+  keywords = "초등학생, 중학생, 고등학생, 공부법, 내신, 수능, 학원, 과외, 교육정보"
+  author = "과외를부탁해 편집팀"
+  
+  # SEO 최적화
+  enableRobotsTXT = true
+  enableGitInfo = true
+  
+  # 소셜 미디어
+  [params.social]
+    naver = "https://blog.naver.com/eduguide"
+    instagram = "https://instagram.com/eduguide"
+    youtube = "https://youtube.com/@eduguide"
+
+[menu]
+  # 지역별 과외 (드롭다운) - 최우선 메뉴
+  [[menu.main]]
+    name = "지역별 과외"
+    identifier = "regions"
+    weight = 1
+
+  [[menu.main]]
+    name = "서울"
+    parent = "regions"
+    url = "/seoul/"
+    weight = 1
+
+  [[menu.main]]
+    name = "경기"
+    parent = "regions"
+    url = "/gyeonggi/"
+    weight = 2
+
+  [[menu.main]]
+    name = "부산"
+    parent = "regions"
+    url = "/busan/"
+    weight = 3
+
+  [[menu.main]]
+    name = "인천"
+    parent = "regions"
+    url = "/incheon/"
+    weight = 4
+
+  [[menu.main]]
+    name = "대구"
+    parent = "regions"
+    url = "/daegu/"
+    weight = 5
+
+  [[menu.main]]
+    name = "기타 지역"
+    parent = "regions"
+    url = "/cities/"
+    weight = 6
+
+  # 학습 가이드 (드롭다운)
+  [[menu.main]]
+    name = "학습 가이드"
+    identifier = "learning"
+    weight = 2
+
+  [[menu.main]]
+    name = "초등학생"
+    parent = "learning"
+    url = "/elementary/"
+    weight = 1
+
+  [[menu.main]]
+    name = "중학생"
+    parent = "learning"
+    url = "/middle/"
+    weight = 2
+
+  [[menu.main]]
+    name = "고등학생"
+    parent = "learning"
+    url = "/high/"
+    weight = 3
+
+  # 과목별 (드롭다운)
+  [[menu.main]]
+    name = "과목별"
+    identifier = "subjects"
+    weight = 3
+
+  [[menu.main]]
+    name = "국어"
+    parent = "subjects"
+    url = "/subjects/korean/"
+    weight = 1
+
+  [[menu.main]]
+    name = "영어"
+    parent = "subjects"
+    url = "/subjects/english/"
+    weight = 2
+
+  [[menu.main]]
+    name = "수학"
+    parent = "subjects"
+    url = "/subjects/math/"
+    weight = 3
+
+  [[menu.main]]
+    name = "과학"
+    parent = "subjects"
+    url = "/subjects/science/"
+    weight = 4
+
+  [[menu.main]]
+    name = "사회"
+    parent = "subjects"
+    url = "/subjects/social/"
+    weight = 5
+
+  # 학습플랜 (단독 메뉴)
+  [[menu.main]]
+    name = "학습플랜"
+    url = "/tutoring/"
+    weight = 4
+
+  # 시험 대비 (단독 메뉴)
+  [[menu.main]]
+    name = "시험 대비"
+    url = "/exam/"
+    weight = 5
+
+  # 무료 상담 (단독 메뉴)
+  [[menu.main]]
+    name = "무료 상담"
+    url = "/consultation/"
+    weight = 6
+
+# Taxonomies 비활성화 (파일 수 최적화)
+# 기존: categories, tags, grades, regions, cities → 수천 개 페이지 생성
+# 변경: 모두 비활성화 → 개별 글만 유지
+[taxonomies]
+  # 모두 비활성화
+
+# 페이지네이션 설정 (목록 페이지 수 최소화)
+[pagination]
+  pagerSize = 1000
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+# Sitemap 설정
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# Markdown 렌더링 설정
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # HTML 렌더링 허용 (상담 페이지 등에서 필요)
+

@@ -1,0 +1,344 @@
+{{- /*
+  카카오톡 상담 버튼 컴포넌트 (GA4 추적 포함)
+
+  사용법:
+  {{< cta-kakao-consultation type="hero" >}}
+  {{< cta-kakao-consultation type="inline" >}}
+  {{< cta-kakao-consultation type="final" >}}
+
+  type 옵션:
+  - hero: 히어로 섹션용 (대형, 중앙 정렬)
+  - inline: 본문 중간용 (중간 크기)
+  - final: 최종 CTA용 (대형, 그라디언트 배경)
+*/ -}}
+
+{{- $type := .Get "type" | default "inline" -}}
+{{- $kakaoUrl := "https://pf.kakao.com/_Cixlaxl/chat" -}}
+
+{{- if eq $type "hero" -}}
+{{- /* 히어로 섹션 대형 버튼 */ -}}
+<div class="cta-kakao-hero">
+  <a href="{{ $kakaoUrl }}"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="kakao-btn-hero"
+     onclick="gtag('event', 'click_consultation', {
+       'event_category': 'engagement',
+       'event_label': 'consultation_hero',
+       'value': 1
+     });">
+    💬 카카오톡으로 무료 상담 시작하기
+  </a>
+  <p class="kakao-subtitle">⏰ 24시간 언제든지 문의 가능 · 완전 무료</p>
+</div>
+
+<style>
+.cta-kakao-hero {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.kakao-btn-hero {
+  display: inline-block;
+  padding: 24px 56px;
+  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+  color: #3C1E1E;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 800;
+  font-size: 22px;
+  box-shadow: 0 12px 32px rgba(254, 229, 0, 0.4);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: none;
+  cursor: pointer;
+}
+
+.kakao-btn-hero:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(254, 229, 0, 0.6);
+  background: linear-gradient(135deg, #FFD700 0%, #FEE500 100%);
+}
+
+.kakao-subtitle {
+  margin-top: 16px;
+  color: #6c757d;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .kakao-btn-hero {
+    padding: 20px 40px;
+    font-size: 18px;
+  }
+
+  .kakao-subtitle {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .kakao-btn-hero {
+    padding: 18px 32px;
+    font-size: 16px;
+    width: 100%;
+    max-width: 320px;
+  }
+}
+</style>
+
+{{- else if eq $type "inline" -}}
+{{- /* 본문 중간 인라인 버튼 */ -}}
+<div class="cta-kakao-inline">
+  <div class="kakao-inline-box">
+    <div class="kakao-inline-icon">💬</div>
+    <div class="kakao-inline-content">
+      <h3>궁금한 점이 있으신가요?</h3>
+      <p>전문가와 1:1 무료 상담을 받아보세요</p>
+    </div>
+    <a href="{{ $kakaoUrl }}"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="kakao-btn-inline"
+       onclick="gtag('event', 'click_consultation', {
+         'event_category': 'engagement',
+         'event_label': 'consultation_inline',
+         'value': 1
+       });">
+      상담 신청하기 →
+    </a>
+  </div>
+</div>
+
+<style>
+.cta-kakao-inline {
+  margin: 48px 0;
+}
+
+.kakao-inline-box {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 32px;
+  background: linear-gradient(135deg, #fff9e6 0%, #ffffff 100%);
+  border-radius: 16px;
+  border: 2px solid #FEE500;
+}
+
+.kakao-inline-icon {
+  font-size: 48px;
+  flex-shrink: 0;
+}
+
+.kakao-inline-content {
+  flex: 1;
+}
+
+.kakao-inline-content h3 {
+  margin: 0 0 8px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #212529;
+}
+
+.kakao-inline-content p {
+  margin: 0;
+  font-size: 15px;
+  color: #6c757d;
+}
+
+.kakao-btn-inline {
+  flex-shrink: 0;
+  padding: 14px 28px;
+  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+  color: #3C1E1E;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: 700;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.kakao-btn-inline:hover {
+  transform: translateX(4px);
+  box-shadow: 0 8px 20px rgba(254, 229, 0, 0.4);
+}
+
+@media (max-width: 768px) {
+  .kakao-inline-box {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    padding: 28px 20px;
+  }
+
+  .kakao-inline-icon {
+    font-size: 40px;
+  }
+
+  .kakao-inline-content h3 {
+    font-size: 18px;
+  }
+
+  .kakao-inline-content p {
+    font-size: 14px;
+  }
+
+  .kakao-btn-inline {
+    width: 100%;
+    padding: 16px 24px;
+  }
+}
+</style>
+
+{{- else if eq $type "final" -}}
+{{- /* 최종 CTA 섹션 */ -}}
+<div class="cta-kakao-final">
+  <div class="kakao-final-box">
+    <h3>지금 바로 무료 상담을 시작하세요</h3>
+    <p class="kakao-final-desc">24시간 언제든지 카카오톡으로 편하게 문의하세요</p>
+
+    <a href="{{ $kakaoUrl }}"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="kakao-btn-final"
+       onclick="gtag('event', 'click_consultation', {
+         'event_category': 'engagement',
+         'event_label': 'consultation_final',
+         'value': 1
+       });">
+      💬 카카오톡 상담 시작하기
+    </a>
+
+    <div class="kakao-final-features">
+      <div class="feature-item">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">완전 무료</span>
+      </div>
+      <div class="feature-item">
+        <span class="feature-icon">⚡</span>
+        <span class="feature-text">빠른 답변</span>
+      </div>
+      <div class="feature-item">
+        <span class="feature-icon">🔒</span>
+        <span class="feature-text">정보 보호</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.cta-kakao-final {
+  margin: 60px 0 40px;
+}
+
+.kakao-final-box {
+  text-align: center;
+  padding: 56px 40px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 24px;
+  box-shadow: 0 20px 60px rgba(102, 126, 234, 0.3);
+}
+
+.kakao-final-box h3 {
+  color: white;
+  font-size: 32px;
+  font-weight: 800;
+  margin: 0 0 12px;
+  line-height: 1.3;
+}
+
+.kakao-final-desc {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 17px;
+  margin: 0 0 32px;
+  font-weight: 500;
+}
+
+.kakao-btn-final {
+  display: inline-block;
+  padding: 20px 48px;
+  background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+  color: #3C1E1E;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 800;
+  font-size: 19px;
+  box-shadow: 0 12px 32px rgba(254, 229, 0, 0.4);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  margin-bottom: 32px;
+}
+
+.kakao-btn-final:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(254, 229, 0, 0.6);
+}
+
+.kakao-final-features {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.feature-icon {
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .kakao-final-box {
+    padding: 40px 24px;
+  }
+
+  .kakao-final-box h3 {
+    font-size: 26px;
+  }
+
+  .kakao-final-desc {
+    font-size: 15px;
+  }
+
+  .kakao-btn-final {
+    padding: 18px 36px;
+    font-size: 17px;
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .kakao-final-features {
+    gap: 20px;
+  }
+
+  .feature-item {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .kakao-final-box {
+    padding: 32px 20px;
+    border-radius: 16px;
+  }
+
+  .kakao-final-box h3 {
+    font-size: 22px;
+  }
+
+  .kakao-btn-final {
+    padding: 16px 32px;
+    font-size: 16px;
+  }
+}
+</style>
+
+{{- end -}}

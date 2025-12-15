@@ -1,0 +1,266 @@
+<!-- Floating 전화상담 + 카카오톡 상담 + 무료체험 버튼 -->
+<div class="floating-dual-buttons" id="floatingButtons">
+    <!-- 전화상담 버튼 -->
+    <a href="tel:010-9220-0653"
+       class="floating-btn floating-phone"
+       onclick="gtag('event', 'click', {
+           'event_category': 'Conversion',
+           'event_label': 'Floating Phone Button',
+           'value': 1
+       });">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
+        </svg>
+        <span class="floating-text">전화상담</span>
+    </a>
+
+    <!-- 카카오톡 상담 버튼 -->
+    <a href="http://pf.kakao.com/_mELUxj/chat"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="floating-btn floating-kakao"
+       onclick="gtag('event', 'click', {
+           'event_category': 'Conversion',
+           'event_label': 'Floating KakaoTalk Button',
+           'value': 1
+       });">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M14 4C8.477 4 4 7.589 4 12c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S19.523 4 14 4z" fill="currentColor"/>
+        </svg>
+        <span class="floating-text">카카오톡 상담</span>
+    </a>
+
+    <!-- 무료체험 신청 버튼 -->
+    <a href="https://naver.me/FGENm9ex"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="floating-btn floating-trial"
+       onclick="gtag('event', 'click', {
+           'event_category': 'Conversion',
+           'event_label': 'Floating Trial Button',
+           'value': 1
+       });">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="4" y="2" width="16" height="20" rx="2" fill="currentColor"/>
+            <line x1="8" y1="7" x2="16" y2="7" stroke="white" stroke-width="2" stroke-linecap="round"/>
+            <line x1="8" y1="11" x2="16" y2="11" stroke="white" stroke-width="2" stroke-linecap="round"/>
+            <line x1="8" y1="15" x2="13" y2="15" stroke="white" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <span class="floating-text">무료체험 신청</span>
+    </a>
+</div>
+
+<style>
+/* Floating 듀얼 버튼 컨테이너 */
+.floating-dual-buttons {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* 공통 버튼 스타일 */
+.floating-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 22px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 15px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    white-space: nowrap;
+    animation: floatPulse 3s ease-in-out infinite;
+}
+
+/* 카카오톡 버튼 */
+.floating-kakao {
+    background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+    color: #3C1E1E;
+}
+
+.floating-kakao:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(254, 229, 0, 0.5);
+    background: linear-gradient(135deg, #FFD700 0%, #FEE500 100%);
+}
+
+/* 무료체험 버튼 */
+.floating-trial {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.floating-trial:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(102, 126, 234, 0.5);
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+/* 전화상담 버튼 */
+.floating-phone {
+    background: linear-gradient(135deg, #00C853 0%, #00E676 100%);
+    color: white;
+}
+
+.floating-phone:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(0, 200, 83, 0.5);
+    background: linear-gradient(135deg, #00E676 0%, #00C853 100%);
+}
+
+.floating-btn:active {
+    transform: translateY(-2px);
+}
+
+.floating-btn svg {
+    flex-shrink: 0;
+}
+
+.floating-text {
+    font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+}
+
+/* 펄스 애니메이션 - 각 버튼 딜레이 */
+@keyframes floatPulse {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-6px);
+    }
+}
+
+.floating-trial {
+    animation-delay: 0.3s;
+}
+
+.floating-phone {
+    animation-delay: 0.6s;
+}
+
+/* 태블릿 */
+@media (max-width: 768px) {
+    .floating-dual-buttons {
+        bottom: 20px;
+        right: 20px;
+        gap: 10px;
+    }
+
+    .floating-btn {
+        padding: 12px 18px;
+        font-size: 14px;
+        gap: 8px;
+    }
+
+    .floating-btn svg {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+/* 모바일 - 3개 버튼 모두 텍스트 포함 */
+@media (max-width: 480px) {
+    .floating-dual-buttons {
+        bottom: 16px;
+        right: 16px;
+        gap: 8px;
+    }
+
+    .floating-btn {
+        padding: 10px 16px;
+        font-size: 13px;
+        gap: 6px;
+    }
+
+    .floating-btn svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    .floating-text {
+        display: inline; /* 모바일에서도 텍스트 표시 */
+    }
+}
+
+/* 다크모드 지원 */
+@media (prefers-color-scheme: dark) {
+    .floating-kakao {
+        background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%);
+        color: #3C1E1E;
+    }
+
+    .floating-trial {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+    }
+
+    .floating-phone {
+        background: linear-gradient(135deg, #00C853 0%, #00E676 100%);
+        color: white;
+    }
+}
+
+/* 접근성: 포커스 스타일 */
+.floating-btn:focus {
+    outline: 3px solid #667eea;
+    outline-offset: 4px;
+}
+
+/* 프린트 시 숨김 */
+@media print {
+    .floating-dual-buttons {
+        display: none !important;
+    }
+}
+
+/* 스크롤 시 살짝 투명도 조정 */
+.floating-dual-buttons.scrolled {
+    opacity: 0.95;
+}
+
+/* 매우 작은 화면 (iPhone SE 등) */
+@media (max-width: 375px) {
+    .floating-dual-buttons {
+        bottom: 12px;
+        right: 12px;
+        gap: 6px;
+    }
+
+    .floating-btn {
+        padding: 8px 14px;
+        font-size: 12px;
+    }
+
+    .floating-btn svg {
+        width: 16px;
+        height: 16px;
+    }
+}
+</style>
+
+<script>
+// 스크롤 시 버튼 상태 관리
+(function() {
+    let lastScroll = 0;
+    const floatingBtns = document.getElementById('floatingButtons');
+
+    window.addEventListener('scroll', function() {
+        const currentScroll = window.pageYOffset;
+
+        // 100px 이상 스크롤 시 살짝 투명도 조정
+        if (currentScroll > 100) {
+            floatingBtns.classList.add('scrolled');
+        } else {
+            floatingBtns.classList.remove('scrolled');
+        }
+
+        lastScroll = currentScroll;
+    });
+})();
+</script>
