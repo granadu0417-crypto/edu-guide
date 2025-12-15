@@ -71,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-내신 시험이 끝나면 바로 수능 대비로 전환합니다.
+내신 시험이 끝나면 부족한 부분을 보완합니다. 다음 시험을 위한 기초를 다집니다.
 </div>
 
 {{< cta-dual type="final" >}}

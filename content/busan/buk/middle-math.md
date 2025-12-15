@@ -71,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-수시와 정시, 어느 쪽에 무게를 둘지에 따라 전략이 달라집니다.
+학생의 목표와 현재 실력에 따라 학습 전략이 달라집니다.
 </div>
 
 {{< cta-dual type="final" >}}

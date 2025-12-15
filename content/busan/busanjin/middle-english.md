@@ -71,7 +71,7 @@ tags:
 
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
-1, 2학년은 내신 집중, 3학년은 수능 비중을 높입니다.
+1, 2학년은 기초 다지기, 3학년은 고등 영어 대비를 합니다.
 </div>
 
 {{< cta-dual type="final" >}}
