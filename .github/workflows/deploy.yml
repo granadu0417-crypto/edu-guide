@@ -13,119 +13,229 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true
-          fetch-depth: 0
+          fetch-depth: 2  # 이전 커밋과 비교 위해
+
+      - name: Get changed content files
+        id: changed
+        run: |
+          # 변경된 content/*.md 파일 목록 추출
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'content/**/*.md' 2>/dev/null || echo "")
+
+          # 파일 개수 카운트
+          if [ -z "$CHANGED_FILES" ]; then
+            COUNT=0
+          else
+            COUNT=$(echo "$CHANGED_FILES" | wc -l)
+          fi
+
+          echo "changed_files<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGED_FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+          echo "📝 변경된 content 파일: $COUNT개"
+          if [ "$COUNT" -gt 0 ]; then
+            echo "$CHANGED_FILES" | head -20
+            if [ "$COUNT" -gt 20 ]; then
+              echo "... 외 $((COUNT - 20))개"
+            fi
+          fi
+
+      - name: Check if full deploy needed
+        id: deploy_type
+        run: |
+          # config, layouts, worker 등이 변경되면 전체 배포
+          OTHER_CHANGES=$(git diff --name-only HEAD~1 HEAD -- 'config.toml' 'layouts/**' 'worker/**' 'static/**' 2>/dev/null || echo "")
+
+          if [ -n "$OTHER_CHANGES" ]; then
+            echo "type=full" >> $GITHUB_OUTPUT
+            echo "⚡ 전체 배포 필요 (설정/템플릿 변경)"
+          elif [ "${{ steps.changed.outputs.count }}" -gt 100 ]; then
+            echo "type=full" >> $GITHUB_OUTPUT
+            echo "⚡ 전체 배포 (변경 파일 100개 초과)"
+          elif [ "${{ steps.changed.outputs.count }}" -eq 0 ]; then
+            echo "type=skip" >> $GITHUB_OUTPUT
+            echo "⏭️ 배포 스킵 (content 변경 없음)"
+          else
+            echo "type=incremental" >> $GITHUB_OUTPUT
+            echo "🚀 증분 배포 (${{ steps.changed.outputs.count }}개 파일)"
+          fi
 
       - name: Setup Node.js
+        if: steps.deploy_type.outputs.type != 'skip'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Setup Hugo
+        if: steps.deploy_type.outputs.type != 'skip'
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build Hugo site
-        run: hugo --minify
+      - name: Cache Hugo modules
+        if: steps.deploy_type.outputs.type != 'skip'
+        uses: actions/cache@v4
+        with:
+          path: /tmp/hugo_cache
+          key: hugo-${{ runner.os }}-${{ hashFiles('**/config.toml') }}
+          restore-keys: |
+            hugo-${{ runner.os }}-
 
-      - name: Generate KV JSON files
-        working-directory: worker
-        run: node generate-kv-json.js
+      - name: Build Hugo site
+        if: steps.deploy_type.outputs.type != 'skip'
+        run: |
+          hugo --minify
+          echo "✅ Hugo 빌드 완료"
 
       - name: Install Wrangler
+        if: steps.deploy_type.outputs.type != 'skip'
         run: npm install -g wrangler
 
+      # ========== 증분 배포 (변경분만) ==========
+      - name: Generate incremental KV JSON
+        if: steps.deploy_type.outputs.type == 'incremental'
+        working-directory: worker
+        run: |
+          echo "🔄 증분 KV JSON 생성 중..."
+          node generate-incremental-kv.js "${{ steps.changed.outputs.changed_files }}"
+
+      - name: Upload incremental KV data
+        if: steps.deploy_type.outputs.type == 'incremental'
+        working-directory: worker
+        run: |
+          if [ -s kv-incremental.json ] && [ "$(cat kv-incremental.json)" != "[]" ]; then
+            echo "📤 증분 KV 업로드 중..."
+            npx wrangler kv bulk put "kv-incremental.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
+            echo "✅ 증분 업로드 완료!"
+          else
+            echo "ℹ️ 업로드할 항목 없음"
+          fi
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+      # ========== 전체 배포 (100개 초과 또는 설정 변경) ==========
+      - name: Generate full KV JSON
+        if: steps.deploy_type.outputs.type == 'full'
+        working-directory: worker
+        run: |
+          echo "🔄 전체 KV JSON 생성 중..."
+          node generate-kv-json.js
+
       - name: Upload KV data batch 1
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-1.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 2
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-2.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 3
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-3.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 4
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-4.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 5
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-5.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 6
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-6.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 7
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-7.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 8
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-8.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 9
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-9.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 10
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-10.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 11
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-11.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 12
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-12.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 13
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-13.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 14
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-14.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload KV data batch 15
+        if: steps.deploy_type.outputs.type == 'full'
         working-directory: worker
         run: npx wrangler kv bulk put "kv-data-15.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
+      # ========== 완료 ==========
       - name: Deployment complete
-        run: echo "✅ edu-guide 사이트가 edukoreaai.com에 배포되었습니다!"
+        run: |
+          if [ "${{ steps.deploy_type.outputs.type }}" == "skip" ]; then
+            echo "⏭️ 배포 스킵됨 (content 변경 없음)"
+          elif [ "${{ steps.deploy_type.outputs.type }}" == "incremental" ]; then
+            echo "✅ 증분 배포 완료! (${{ steps.changed.outputs.count }}개 파일)"
+          else
+            echo "✅ 전체 배포 완료!"
+          fi
+          echo "🌐 https://edukoreaai.com"
