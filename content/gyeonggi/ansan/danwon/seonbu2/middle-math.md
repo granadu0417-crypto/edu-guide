@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안산중
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0052_hlfh_7qQQYs.jpg"
 ---
 수학, 포기하기엔 너무 중요한 과목입니다.
 

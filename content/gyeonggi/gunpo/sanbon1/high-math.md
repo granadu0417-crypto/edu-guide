@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 군포고
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0866_XAcvOQaT7e8.jpg"
 ---
 수학은 한 번 놓치면 따라잡기 어렵습니다.
 

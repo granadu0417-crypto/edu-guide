@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 당감동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 ---
 
 수능 영어 모의고사 보고 멘붕 오셨나요? 부산 당감동 고등학생이라면 지금 제대로 잡아야 합니다.

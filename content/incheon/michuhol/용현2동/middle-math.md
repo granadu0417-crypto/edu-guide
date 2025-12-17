@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 미추홀구 용현2동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0868_Vq6N_xWdJyc.jpg"
 ---
 
 인천 미추홀구 용현2동 고등학생 여러분, 수학은 포기 과목이 아닙니다.

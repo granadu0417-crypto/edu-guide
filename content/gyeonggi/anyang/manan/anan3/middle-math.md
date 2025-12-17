@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안양중
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0188_8xb4NrbpxTg.jpg"
 ---
 중학교 수학, 전략이 필요합니다.
 

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 덕천동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0010_quZwYcr1upY.jpg"
 ---
 
 수학이 발목을 잡고 있나요? 부산 덕천동 고등학생 여러분, 수학만 잘해도 대학 선택의 폭이 확 넓어집니다.

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 초량동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 ---
 
 영어 지문이 길어지면 읽다가 지치시나요? 부산 초량동 고등학생이라면 읽기 전략부터 바꿔야 합니다.

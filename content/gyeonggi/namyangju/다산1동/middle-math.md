@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 남양주시 다산1동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0444_IMyyeJrwcPk.jpg"
 ---
 
 남양주시 다산1동 학생 여러분, 수학 성적 때문에 고민이신가요? 혼자 공부하면 어디가 문제인지 파악하기 어렵습니다.

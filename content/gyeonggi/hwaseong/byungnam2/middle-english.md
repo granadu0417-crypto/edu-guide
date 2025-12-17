@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 화성중
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 ---
 문법 기초가 핵심입니다.
 

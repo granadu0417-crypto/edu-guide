@@ -1,5 +1,5 @@
 ---
-title: "강동구 과외 | 중등·고등 맞춤 과외"
+title: "강동구 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "강동구 중등·고등 수학·영어 과외. 배재고, 광문고, 한영고, 명일여고 등 강동구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0785_WIT_bQPUrvg.jpg"

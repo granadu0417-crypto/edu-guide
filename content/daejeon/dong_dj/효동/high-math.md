@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대전 효동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0702_tyIfU4epeC8.jpg"
 ---
 
 대전 효동에서 수학 전문 과외를 찾으신다면 주목하세요. 학생 맞춤형 수업으로 실력을 키워드립니다.

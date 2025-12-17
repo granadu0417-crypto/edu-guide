@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 김포고
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0566_jiCEld2Ed50.jpg"
 ---
 수학 실력, 키울 수 있습니다.
 

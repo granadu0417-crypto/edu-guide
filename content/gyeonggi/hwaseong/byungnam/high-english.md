@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화성고
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0169_bjGGaNF0fKY.jpg"
 ---
 영어 실력, 확실히 올려드립니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 의정부고
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0173_yioua5jPPjc.jpg"
 ---
 지금 시작해야 늦지 않습니다.
 

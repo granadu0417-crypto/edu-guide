@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1598025678451-af5c59b29c40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0371_w9i7wMaM3EE.jpg"
 ---
 상위권 학생들의 공부법은 다릅니다.
 

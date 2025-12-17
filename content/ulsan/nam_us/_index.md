@@ -1,5 +1,5 @@
 ---
-title: "남구 과외 | 중등·고등 맞춤 과외"
+title: "울산 남구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "남구 중등·고등 수학·영어 과외. 울산고, 현대고, 학성고, 무거고 등 내신 완벽 대비."
 featured_image: "/images/edu_0120_0QcmCwu6Mys.jpg"

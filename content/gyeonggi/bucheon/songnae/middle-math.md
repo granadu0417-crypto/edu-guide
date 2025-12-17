@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 부천중
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0312_WIF-497cRec.jpg"
 ---
 중학교 수학, 정복할 수 있습니다.
 

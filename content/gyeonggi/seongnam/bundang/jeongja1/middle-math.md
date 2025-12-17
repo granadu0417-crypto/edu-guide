@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0620_nzhG0jElDfs.jpg"
 ---
 성적이 안 오르는 데는 이유가 있습니다.
 

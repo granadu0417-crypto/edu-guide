@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 군포고
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0873_jBSTNenQxok.jpg"
 ---
 기초부터 탄탄히, 실력을 쌓아갑니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0696_OTNBYwfirV0.jpg"
 ---
 수학이 갑자기 어려워졌다면 이유가 있습니다.
 

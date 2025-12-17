@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 수안동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0091_jugJ0wmZ7wk.jpg"
 ---
 
 부산 수안동 중학생 여러분, 영어가 어렵게 느껴지시나요? 기초부터 차근차근 다시 시작해보세요.

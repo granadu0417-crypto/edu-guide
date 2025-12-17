@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0433_j8xtNz0xMQ4.jpg"
 ---
 영어 지문이 길어지면 시간이 부족해집니다.
 

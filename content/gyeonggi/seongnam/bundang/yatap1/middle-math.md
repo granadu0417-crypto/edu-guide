@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0664_k60YOEjB75k.jpg"
 ---
 수학 실력 향상의 비결이 있습니다.
 

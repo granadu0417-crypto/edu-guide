@@ -1,5 +1,5 @@
 ---
-title: "동구 과외 | 중등·고등 맞춤 과외"
+title: "부산 동구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "동구 중등·고등 수학·영어 과외. 동구고, 부산자동차고, 성광고, 초량중 등 내신 완벽 대비."
 featured_image: "/images/edu_0185_KV9F7Ypl2N0.jpg"

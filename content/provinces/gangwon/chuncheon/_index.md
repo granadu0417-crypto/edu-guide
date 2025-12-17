@@ -1,5 +1,5 @@
 ---
-title: "춘천시 과외 | 중등·고등 맞춤 과외"
+title: "춘천시 과외 | 중등·고등 맞춤 과외 1:1 수업"
 date: 2025-12-10
 description: "춘천시 중등·고등 수학·영어 과외. 춘천고, 봉의고, 강원고, 춘천여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0295_IJrIeCs3D4g.jpg"

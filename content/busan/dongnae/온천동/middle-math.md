@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 온천동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0100_b9-odQi5oDo.jpg"
 ---
 
 내 아이 수학, 왜 안 오를까요? 부산 온천동 학부모님이라면 한 번쯤 고민해보셨을 겁니다.

@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 동구 송림2동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"
 ---
 
 인천 동구 송림2동에서 영어 과외 알아보시나요?

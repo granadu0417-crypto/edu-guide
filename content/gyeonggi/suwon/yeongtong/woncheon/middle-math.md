@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0068_4-4WPFLVhAY.jpg"
 ---
 중학교 수학 완성이 고등학교 성공의 열쇠입니다.
 

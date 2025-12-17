@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화성고
-featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0197_54uolC2jjm4.jpg"
 ---
 독해부터 문법까지, 완벽하게.
 

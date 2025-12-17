@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0947_3Wd0YV0YPXE.jpg"
 ---
 중학교 영어, 기초부터 심화까지.
 

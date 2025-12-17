@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 하남고
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 ---
 고등학교 영어, 걱정하지 마세요.
 

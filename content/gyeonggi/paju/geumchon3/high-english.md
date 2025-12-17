@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 파주고
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"
 ---
 영어 실력, 확실히 올려드립니다.
 

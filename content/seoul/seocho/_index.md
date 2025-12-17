@@ -1,5 +1,5 @@
 ---
-title: "서초구 과외 | 중등·고등 맞춤 과외"
+title: "서초구 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "서초구 중등·고등 수학·영어 과외. 서초고, 반포고, 세화고, 세화여고 등 서초구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0744_ySZdYkPGEbs.jpg"

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 부천중
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0308_ZnuhSdvBqzU.jpg"
 ---
 수학, 기초가 답입니다.
 

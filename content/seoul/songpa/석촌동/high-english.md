@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "서울 송파구 석촌동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0322_t4AttMseigU.jpg"
 ---
 
 영어만 잘해도 대학이 달라집니다. 송파구 석촌동 고등학생 여러분, 지금 시작하세요.

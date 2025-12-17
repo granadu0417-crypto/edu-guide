@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 부천고
-featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0298_YRMWVcdyhmI.jpg"
 ---
 수학, 시작이 반입니다.
 

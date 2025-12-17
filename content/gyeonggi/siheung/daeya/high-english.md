@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 시흥고
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0777_LJ2ksdahQZ8.jpg"
 ---
 영어가 약점이라면 강점으로 바꿔드립니다.
 

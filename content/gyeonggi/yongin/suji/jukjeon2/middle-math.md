@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0392_Quy_k-l8zRY.jpg"
 ---
 수학, 체계적으로 배우면 다릅니다.
 

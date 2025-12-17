@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0395__vosoOa-lD4.jpg"
 ---
 영어의 기초가 흔들리면 고등학교가 힘들어집니다.
 

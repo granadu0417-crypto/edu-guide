@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 범일동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 ---
 
 영어 등급이 오르지 않아 고민인가요? 부산 범일동 고등학생이라면 방법을 바꿔볼 때입니다.

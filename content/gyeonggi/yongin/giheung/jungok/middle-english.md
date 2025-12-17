@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0363_fOZFF3TsVgE.jpg"
 ---
 문법이 약하면 고등학교에서 고생합니다.
 

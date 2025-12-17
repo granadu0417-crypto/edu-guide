@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0415_nUiZfUcFOxw.jpg"
 ---
 중학교 영어, 혼자 하지 마세요.
 

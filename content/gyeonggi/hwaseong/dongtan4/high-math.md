@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화성고
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0194_TMgQMXoglsM.jpg"
 ---
 수학, 기초부터 다시 시작해도 괜찮습니다.
 

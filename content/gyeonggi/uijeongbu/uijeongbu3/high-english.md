@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 의정부고
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0217_QeuyVLxJwBE.jpg"
 ---
 지금이 영어를 잡을 최적의 시기입니다.
 

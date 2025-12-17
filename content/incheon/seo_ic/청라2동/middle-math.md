@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 서구 청라2동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0164_dwZlYC-6-9c.jpg"
 ---
 
 인천 서구 청라2동 학생들의 수학 고민, 이해합니다.

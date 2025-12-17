@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0749_r_m-JKJVto0.jpg"
 ---
 1등급을 만드는 영어 공부법.
 

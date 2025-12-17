@@ -1,5 +1,5 @@
 ---
-title: "서울 과외 | 구별 맞춤 과외 정보"
+title: "서울 과외 | 25개 구별 맞춤 과외 안내"
 date: 2025-12-10
 description: "서울시 25개 구별 초등·중등·고등 과외 정보. 지역별 학교 특성에 맞는 맞춤 과외를 찾아보세요."
 featured_image: "/images/edu_0001_stwfGwdy67g.jpg"

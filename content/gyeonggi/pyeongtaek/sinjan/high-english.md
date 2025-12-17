@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 평택고
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0581_qYfwGVNJqSA.jpg"
 ---
 영어 성적 올리기, 생각보다 어렵지 않습니다.
 

@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "서울 마포구 연남동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0045_oxrHRHEByuc.jpg"
 ---
 
 마포구 연남동 학부모님, 아이의 수학 실력이 걱정되시죠? 전문 과외로 확실하게 잡아드립니다.

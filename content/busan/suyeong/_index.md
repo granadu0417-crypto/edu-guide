@@ -1,5 +1,5 @@
 ---
-title: "수영구 과외 | 중등·고등 맞춤 과외"
+title: "수영구 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "수영구 중등·고등 수학·영어 과외. 수영고, 광안고, 망미고, 민락고 등 내신 완벽 대비."
 featured_image: "/images/edu_0880_C4EphYa7EDA.jpg"

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 초량동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0067_4-EeTnaC1S4.jpg"
 ---
 
 영어 수업 시간이 점점 버거워지나요? 부산 초량동 중학생이라면 지금이 영어 기초를 잡을 최적의 시기입니다.

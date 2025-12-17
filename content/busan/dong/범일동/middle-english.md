@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 범일동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0055_DknG_UtWXyA.jpg"
 ---
 
 영어가 점점 어려워지고 있나요? 부산 범일동 중학생이라면 지금 기초를 단단히 다져야 합니다.

@@ -1,5 +1,5 @@
 ---
-title: "성동구 과외 | 중등·고등 맞춤 과외"
+title: "성동구 과외 | 중등·고등 맞춤 과외 수학·영어 전문"
 date: 2025-12-10
 description: "성동구 중등·고등 수학·영어 과외. 성동고, 한양대부고, 금옥여고, 무학고 등 성동구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0520_hjZlhj8ej7U.jpg"

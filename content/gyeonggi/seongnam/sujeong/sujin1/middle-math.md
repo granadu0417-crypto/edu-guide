@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0744_ySZdYkPGEbs.jpg"
 ---
 기초부터 탄탄히, 실력을 쌓아갑니다.
 

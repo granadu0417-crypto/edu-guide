@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 시흥시 거모동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0813_c7TQmOOaKbM.jpg"
 ---
 
 영어 점수가 안 오르는 시흥시 거모동 학생들, 지금 시작해도 늦지 않았습니다.

@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 미추홀구 숭의3동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0852_FqJXv_wO-GY.jpg"
 ---
 
 수학은 계단식 과목입니다. 인천 미추홀구 숭의3동 학생 여러분, 기초부터 쌓아가세요.

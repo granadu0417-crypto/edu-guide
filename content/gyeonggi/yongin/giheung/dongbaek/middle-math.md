@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0348_IloOidPqA3Q.jpg"
 ---
 수학의 벽을 넘는 방법이 있습니다.
 

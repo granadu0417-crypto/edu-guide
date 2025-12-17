@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 이천고
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0278_h6pUcouJ9BA.jpg"
 ---
 수학의 벽을 넘는 방법이 있습니다.
 

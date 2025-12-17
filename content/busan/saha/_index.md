@@ -1,5 +1,5 @@
 ---
-title: "사하구 과외 | 중등·고등 맞춤 과외"
+title: "사하구 과외 | 중등·고등 맞춤 과외 1:1 수업"
 date: 2025-12-10
 description: "사하구 중등·고등 수학·영어 과외. 사하고, 다대고, 괴정고, 신평고 등 내신 완벽 대비."
 featured_image: "/images/edu_0429_OA7dHq3Hf3Q.jpg"

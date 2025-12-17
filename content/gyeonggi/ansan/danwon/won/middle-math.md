@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안산중
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0060_7ebCN7FwH3g.jpg"
 ---
 수학 성적, 올릴 수 있습니다.
 

@@ -14,7 +14,7 @@ tags:
 - 과학
 description: 대전 학원과 1:1 과외 선택의 모든 것. 지역 특성, 유명 학원, 과외 시세, 온라인 과외 활용 전략을 제시합니다 과외 선택부터
   효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1552581234-26160f608093?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0477_PL3jwQzb1Lk.jpg"
 reading_time: 160줄
 ---
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0691_9M9VYzjHYB8.jpg"
 ---
 영어 성적, 바꿀 수 있습니다.
 

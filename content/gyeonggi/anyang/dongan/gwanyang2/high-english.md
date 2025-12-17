@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안양고
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0153_azA1hLbjBBo.jpg"
 ---
 문법이 잡히면 자신감이 생깁니다.
 

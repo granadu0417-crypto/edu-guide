@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 시흥고
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0802_4dXO2xAzRQk.jpg"
 ---
 고등학교 수학의 핵심을 잡아드립니다.
 

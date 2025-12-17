@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0065_awnu4mkV0nw.jpg"
 ---
 고등학교 영어, 두렵지 않습니다.
 

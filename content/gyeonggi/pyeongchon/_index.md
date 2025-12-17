@@ -1,0 +1,86 @@
+---
+title: "평촌 과외 | 안양 동안구 맞춤 수학·영어 과외"
+date: 2025-12-17
+description: "평촌 지역 중등·고등 수학·영어 과외. 범계역, 평촌역 학원가 인근 1:1 맞춤 과외 정보."
+featured_image: "/images/edu_0023_I_LxDFIIRIA.jpg"
+regions:
+  - 경기도
+cities:
+  - 안양시
+tags:
+  - 평촌과외
+  - 평촌수학과외
+  - 평촌영어과외
+  - 동안구과외
+  - 범계동과외
+---
+
+평촌은 경기도 안양시 동안구에 위치한 대표적인 교육특구입니다. 범계역과 평촌역을 중심으로 대형 학원가가 형성되어 있으며, 분당, 일산과 함께 수도권 3대 학원가로 꼽힙니다.
+
+## 평촌 지역 특징
+
+평촌 학원가는 1990년대 신도시 개발과 함께 성장했습니다. 현재 범계역 일대에만 수백 개의 학원이 밀집해 있으며, 안양외고, 평촌고, 범계고, 귀인고 등 명문 학교들이 자리하고 있습니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>평촌 과외의 장점</strong><br>
+학원가 인근에서 과외를 병행하면 학원의 체계적 커리큘럼과 과외의 1:1 맞춤 지도를 동시에 받을 수 있습니다. 특히 내신 대비나 취약 과목 보강에 과외가 효과적입니다.
+</div>
+
+## 평촌 주요 학교
+
+**고등학교**: 안양외고, 평촌고, 범계고, 귀인고, 안양고, 비산고
+**중학교**: 평촌중, 범계중, 귀인중, 부흥중, 호계중
+
+이 학교들은 내신 경쟁이 치열하며, 학교별로 시험 출제 경향이 다릅니다. 학교 내신에 맞춘 과외가 필요한 이유입니다.
+
+## 평촌 지역별 과외 정보
+
+아래에서 동을 선택하여 상세 과외 정보를 확인하세요.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 10px; margin: 20px 0;">
+<a href="/gyeonggi/anyang/평촌동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">평촌동</a>
+<a href="/gyeonggi/anyang/범계동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">범계동</a>
+<a href="/gyeonggi/anyang/호계1동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">호계1동</a>
+<a href="/gyeonggi/anyang/호계2동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">호계2동</a>
+<a href="/gyeonggi/anyang/호계3동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">호계3동</a>
+<a href="/gyeonggi/anyang/비산1동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">비산1동</a>
+<a href="/gyeonggi/anyang/비산2동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">비산2동</a>
+<a href="/gyeonggi/anyang/비산3동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">비산3동</a>
+<a href="/gyeonggi/anyang/관양1동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">관양1동</a>
+<a href="/gyeonggi/anyang/관양2동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">관양2동</a>
+<a href="/gyeonggi/anyang/귀인동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">귀인동</a>
+<a href="/gyeonggi/anyang/달안동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">달안동</a>
+<a href="/gyeonggi/anyang/부흥동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">부흥동</a>
+<a href="/gyeonggi/anyang/평안동/" style="padding: 12px; background: #7c3aed; color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: 600;">평안동</a>
+</div>
+
+## 평촌 과외 비용 안내
+
+평촌 지역 과외비는 수도권 평균 수준입니다.
+
+**중학생**은 주1회 22만원 - 32만원, 주2회 29만원 - 47만원 선입니다.
+
+**고1-2**는 주1회 25만원 - 36만원, 주2회 33만원 - 53만원 선입니다.
+
+**고3**은 주1회 28만원 - 40만원, 주2회 37만원 - 59만원이 일반적입니다.
+
+<div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
+<strong>수업 방식</strong><br>
+방문 과외와 화상 과외 모두 가능합니다. 평촌 학원가 인근이라면 학원 수업 전후로 과외 시간을 잡는 학생들도 많습니다.
+</div>
+
+## 자주 묻는 질문
+
+**Q. 학원과 과외를 병행해도 되나요?**
+
+네, 오히려 효과적입니다. 학원에서 기본 진도를 나가고, 과외에서 취약 부분을 집중 보강하는 방식이 많습니다.
+
+**Q. 평촌 지역 선생님을 매칭받을 수 있나요?**
+
+평촌 인근 대학(한양대 에리카, 경희대, 아주대 등) 출신 선생님이나 평촌 학원 강사 출신 선생님을 매칭해드립니다.
+
+**Q. 내신 시험 기간에만 과외를 받을 수 있나요?**
+
+가능합니다. 시험 2-3주 전부터 단기 집중 과외를 진행하는 경우도 많습니다.
+
+{{< cta-dual type="final" >}}

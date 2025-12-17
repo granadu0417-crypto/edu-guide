@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광명고
-featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0978_d2lO9btumD4.jpg"
 ---
 수학은 노력만으로 되지 않습니다. 방법이 필요합니다.
 

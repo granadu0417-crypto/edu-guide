@@ -1,5 +1,5 @@
 ---
-title: "기장군 과외 | 중등·고등 맞춤 과외"
+title: "기장군 과외 | 중등·고등 맞춤 과외 수학·영어 전문"
 date: 2025-12-10
 description: "기장군 중등·고등 수학·영어 과외. 기장고, 일광고, 정관고, 장안고 등 내신 완벽 대비."
 featured_image: "/images/edu_0631_0dctnxHg0L4.jpg"

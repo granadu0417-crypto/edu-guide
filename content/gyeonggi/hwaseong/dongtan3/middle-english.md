@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 화성중
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0191_1K8pIbIrhkQ.jpg"
 ---
 기초부터 심화까지 체계적으로 잡아드립니다.
 

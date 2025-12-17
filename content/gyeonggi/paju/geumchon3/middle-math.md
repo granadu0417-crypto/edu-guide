@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 파주중
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0520_hjZlhj8ej7U.jpg"
 ---
 중학교 수학을 놓치면 고등학교가 힘들어집니다.
 

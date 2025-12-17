@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0662_k4vFDPJoDZk.jpg"
 ---
 수학 실력, 3개월이면 달라집니다.
 

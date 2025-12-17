@@ -11,7 +11,7 @@ tags:
 - 영어과외
 - 내신대비
 description: "부산 사직동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 ---
 
 부산 사직동 중학생 여러분, 영어 성적 향상을 원한다면 지금이 기회입니다. 체계적인 과외로 기초를 확실히 다져보세요.

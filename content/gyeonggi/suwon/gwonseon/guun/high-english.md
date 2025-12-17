@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0893_Za8ciSD0XWE.jpg"
 ---
 내신과 수능, 둘 다 잡는 전략이 있습니다.
 

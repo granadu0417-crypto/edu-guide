@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 범천동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0032_GGlz-QSvL38.jpg"
 ---
 
 수학 문제 풀 때 어디서부터 손대야 할지 모르겠나요? 부산 범천동 중학생이라면 지금이 중요합니다.

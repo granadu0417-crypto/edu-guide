@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 용인고
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0329_nyZauHXn3P0.jpg"
 ---
 영어, 어렵게 생각하지 마세요.
 

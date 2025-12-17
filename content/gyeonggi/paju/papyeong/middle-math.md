@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 파주중
-featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"
 ---
 수학은 한 번 놓치면 따라잡기 어렵습니다.
 

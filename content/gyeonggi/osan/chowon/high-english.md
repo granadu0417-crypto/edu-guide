@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 오산고
-featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0485_jCEpN62oWL4.jpg"
 ---
 등급을 올리고 싶다면 전략이 필요합니다.
 

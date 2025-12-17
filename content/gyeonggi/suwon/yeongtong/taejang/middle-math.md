@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0060_7ebCN7FwH3g.jpg"
 ---
 기초부터 심화까지, 체계적으로 잡아드립니다.
 

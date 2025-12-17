@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 화명동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0017_iNrPyufE9zE.jpg"
 ---
 
 수능 영어 1등급, 생각보다 멀지 않습니다. 부산 화명동 고등학생 여러분, 방법만 알면 됩니다.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0976_uwNceBkSV3U.jpg"
 ---
 수학, 기초부터 다시 시작해도 괜찮습니다.
 

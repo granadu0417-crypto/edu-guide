@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 중구 중산동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0816_WFSRs3qGdC8.jpg"
 ---
 
 수학 점수가 안 오르는 인천 중구 중산동 학생들, 지금 시작해도 늦지 않았습니다.

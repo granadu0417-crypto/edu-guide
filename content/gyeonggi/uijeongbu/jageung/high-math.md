@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 의정부고
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0186_avMyDRq-9fU.jpg"
 ---
 내신과 수능, 둘 다 잡는 방법이 있습니다.
 

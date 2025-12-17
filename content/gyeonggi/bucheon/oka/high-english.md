@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 부천고
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0293_ZDlJ7R4F6Yg.jpg"
 ---
 영어 실력, 확실히 올려드립니다.
 

@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 미추홀구 숭의동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0859_RMlAk7sPc54.jpg"
 ---
 
 인천 미추홀구 숭의동에서 영어 성적 때문에 고민이신가요? 단어만 외운다고 영어 실력이 늘지 않습니다. 문법을 알아야 문장을 정확히 해석할 수 있습니다.

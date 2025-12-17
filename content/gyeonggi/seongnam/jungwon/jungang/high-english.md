@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0697_UTVJbUK9hPg.jpg"
 ---
 영어, 올바른 방법으로 시작하세요.
 

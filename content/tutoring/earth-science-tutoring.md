@@ -14,7 +14,7 @@ tags:
 - 학습환경
 description: 지구과학 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 우수한 선생님 선택과 효율적인 과외 활용법을 안내합니다.
 
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0480_Xte1LQ7KjtQ.jpg"
 reading_time: 160줄
 ---
 

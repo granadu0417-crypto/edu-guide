@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0773_O6gGWPHv_HE.jpg"
 ---
 영어, 기초부터 다시 시작해도 괜찮습니다.
 

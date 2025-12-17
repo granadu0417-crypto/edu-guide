@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0915_v-0eLg0SrYU.jpg"
 ---
 지금 투자하는 시간이 미래를 바꿉니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0664_k60YOEjB75k.jpg"
 ---
 수학이 약점이라면 강점으로 바꿔드립니다.
 

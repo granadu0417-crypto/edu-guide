@@ -1,5 +1,5 @@
 ---
-title: "연수구 과외 | 중등·고등 맞춤 과외"
+title: "연수구 과외 | 중등·고등 맞춤 과외 1:1 수업"
 date: 2025-12-10
 description: "연수구 중등·고등 수학·영어 과외. 연수고, 인천포스코고, 송도고, 선학고 등 내신 완벽 대비."
 featured_image: "/images/edu_0636_GaUM9PSNcH4.jpg"

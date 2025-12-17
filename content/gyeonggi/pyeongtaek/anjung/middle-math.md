@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 평택중
-featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0552_QAwSbedbHD0.jpg"
 ---
 중학교 수학의 벽, 넘을 수 있습니다.
 

@@ -1,5 +1,5 @@
 ---
-title: "사상구 과외 | 중등·고등 맞춤 과외"
+title: "사상구 과외 | 중등·고등 맞춤 과외 수학·영어"
 date: 2025-12-10
 description: "사상구 중등·고등 수학·영어 과외. 사상고, 덕포고, 모라고, 동주여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0590_HjxXBQ4MKD8.jpg"

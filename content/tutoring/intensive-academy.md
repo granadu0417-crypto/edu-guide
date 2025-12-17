@@ -13,7 +13,7 @@ tags:
 - 노원
 - 대치동학원
 description: 학원 선택 가이드. 특징, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 효과적인 방법으로 실력을 향상시키세요.
-featured_image: "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0526_PklUasni4f8.jpg"
 reading_time: 160줄
 ---
 

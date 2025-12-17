@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0684_A7Dw7hIj5uU.jpg"
 ---
 어려운 수학, 쉽게 설명해드립니다.
 

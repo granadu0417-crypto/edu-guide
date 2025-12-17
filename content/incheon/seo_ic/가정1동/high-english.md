@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 서구 가정1동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0077_O0MACozeyPc.jpg"
 ---
 
 인천 서구 가정1동 학생들의 영어 고민, 이해합니다.

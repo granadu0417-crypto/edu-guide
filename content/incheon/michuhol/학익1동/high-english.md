@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 미추홀구 학익1동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0921_Dpjx9BiTftQ.jpg"
 ---
 
 인천 미추홀구 학익1동에서 영어 전문 과외를 찾으신다면 주목하세요.

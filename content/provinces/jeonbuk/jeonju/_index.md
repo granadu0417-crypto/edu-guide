@@ -1,5 +1,5 @@
 ---
-title: "전주시 과외 | 중등·고등 맞춤 과외"
+title: "전주시 과외 | 중등·고등 맞춤 과외 수학·영어 전문"
 date: 2025-12-10
 description: "전주시 중등·고등 수학·영어 과외. 전주고, 전북고, 전주여고, 신흥고 등 내신 완벽 대비."
 featured_image: "/images/edu_0986_bsk8f6BVSHc.jpg"

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 양주고
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0305_BQtOr3KnU9o.jpg"
 ---
 영어, 기초가 답입니다.
 

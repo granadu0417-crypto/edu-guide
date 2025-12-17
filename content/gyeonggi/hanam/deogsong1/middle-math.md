@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 하남중
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 ---
 기초부터 탄탄히, 실력을 쌓아갑니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 의정부고
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0210_vjprN8SZq14.jpg"
 ---
 고등 수학의 벽, 넘을 수 있습니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 시흥고
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0809_h91Zt0qVPcM.jpg"
 ---
 고등학교 영어, 중학교와 차원이 다릅니다.
 

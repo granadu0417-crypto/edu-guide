@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 부천고
-featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0282_g1Kr4Ozfoac.jpg"
 ---
 수학 실력 향상의 비결이 있습니다.
 

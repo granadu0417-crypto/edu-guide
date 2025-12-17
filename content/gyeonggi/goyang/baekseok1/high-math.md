@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0638_44yHbssvRDI.jpg"
 ---
 수학 성적 향상, 함께하면 가능합니다.
 

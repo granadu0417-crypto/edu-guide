@@ -1,5 +1,5 @@
 ---
-title: "옹진군 과외 | 중등·고등 맞춤 과외"
+title: "옹진군 과외 | 중등·고등 맞춤 과외 수학·영어 전문"
 date: 2025-12-10
 description: "옹진군 중등·고등 수학·영어 과외. 영흥고, 옹진고, 북도초, 자월초 등 내신 완벽 대비."
 featured_image: "/images/edu_0994_iXq7XedOsGA.jpg"

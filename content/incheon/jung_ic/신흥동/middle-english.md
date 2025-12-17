@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 중구 신흥동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 ---
 
 영어 성적이 오르지 않아 고민이신 인천 중구 신흥동 학생 여러분, 공부 방법을 바꿔볼 때입니다.

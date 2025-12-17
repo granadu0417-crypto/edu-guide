@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 수원시 영통3동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0143_bZqitd_ae0A.jpg"
 ---
 
 수원시 영통3동에서 영어 과외 알아보시나요? 학생의 수준에 맞춘 1:1 수업을 제공합니다.

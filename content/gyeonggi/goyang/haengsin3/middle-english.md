@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0679_1lmGTHdQdjM.jpg"
 ---
 중학교 영어의 핵심을 잡아드립니다.
 

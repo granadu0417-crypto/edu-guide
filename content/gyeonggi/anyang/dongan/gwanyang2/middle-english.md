@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안양중
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0155_WE_Kv_ZB1l0.jpg"
 ---
 영어 공부, 제대로 해봅시다.
 

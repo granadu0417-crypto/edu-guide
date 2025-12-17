@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안산중
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 ---
 수학 공부법을 바꾸면 결과가 바뀝니다.
 

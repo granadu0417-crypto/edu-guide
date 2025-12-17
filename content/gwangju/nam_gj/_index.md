@@ -1,5 +1,5 @@
 ---
-title: "남구 과외 | 중등·고등 맞춤 과외"
+title: "광주 남구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "남구 중등·고등 수학·영어 과외. 광주고, 광주제일고, 전남고, 수완고 등 내신 완벽 대비."
 featured_image: "/images/edu_0578_EhTcC9sYXsw.jpg"

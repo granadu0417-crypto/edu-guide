@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0785_WIT_bQPUrvg.jpg"
 ---
 제대로 배우면 영어도 재미있습니다.
 

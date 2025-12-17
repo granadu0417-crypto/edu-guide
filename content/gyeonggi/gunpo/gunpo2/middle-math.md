@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 군포중
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0864_WIdhvewqlOo.jpg"
 ---
 이제 혼자 고민하지 마세요.
 

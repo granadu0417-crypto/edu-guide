@@ -1,5 +1,5 @@
 ---
-title: "울주군 과외 | 중등·고등 맞춤 과외"
+title: "울주군 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "울주군 중등·고등 수학·영어 과외. 언양고, 범서고, 온양고, 서생고 등 내신 완벽 대비."
 featured_image: "/images/edu_0122_CYlPykF-qAM.jpg"

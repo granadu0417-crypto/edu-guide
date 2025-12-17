@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 광명시 철산3동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0058_zn9QqA-JTmY.jpg"
 ---
 
 광명시 철산3동 고등학생 여러분, 수학은 포기 과목이 아닙니다. 제대로 된 방법으로 공부하면 성적이 오릅니다.

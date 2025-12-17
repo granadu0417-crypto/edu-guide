@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0962_1DcSofmwH-8.jpg"
 ---
 수학 실력 향상의 첫걸음을 떼세요.
 

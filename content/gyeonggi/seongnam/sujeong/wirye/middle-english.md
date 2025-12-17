@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0767_Kyx4rL5g7yA.jpg"
 ---
 내신 영어, 제대로 잡아야 합니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 하남중
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0099_CAtC53bw-Ko.jpg"
 ---
 지금 시작하면 충분히 따라잡을 수 있습니다.
 

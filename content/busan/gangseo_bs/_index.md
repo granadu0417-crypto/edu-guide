@@ -1,5 +1,5 @@
 ---
-title: "강서구 과외 | 중등·고등 맞춤 과외"
+title: "강서구 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "강서구 중등·고등 수학·영어 과외. 강서고, 명지고, 가락고, 녹산고 등 내신 완벽 대비."
 featured_image: "/images/edu_0451_eB51IYKpYoQ.jpg"

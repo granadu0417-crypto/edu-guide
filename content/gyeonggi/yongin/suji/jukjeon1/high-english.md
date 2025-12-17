@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 용인고
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0385_OL5FSVty0IE.jpg"
 ---
 문법을 알면 독해가 쉬워집니다.
 

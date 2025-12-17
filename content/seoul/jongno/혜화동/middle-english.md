@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "서울 종로구 혜화동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0860_NWIXUYT6NUY.jpg"
 ---
 
 종로구 혜화동에서 영어 전문 과외를 찾으신다면 주목하세요.

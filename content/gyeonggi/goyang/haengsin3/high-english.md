@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0677_iLzeDliQeNA.jpg"
 ---
 내신 1등급, 방법만 알면 됩니다.
 

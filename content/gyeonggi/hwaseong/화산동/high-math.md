@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 화성시 화산동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0270_dUEys4mnoK4.jpg"
 ---
 
 고등학교 수학, 어디서부터 잡아야 할지 모르겠다면 화성시 화산동에서 시작하세요.

@@ -1,5 +1,5 @@
 ---
-title: "중구 과외 | 중등·고등 맞춤 과외"
+title: "대구 중구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "중구 중등·고등 수학·영어 과외. 대구중앙고, 경북고, 계성고, 대구상고 등 내신 완벽 대비."
 featured_image: "/images/edu_0669_T-tVt4xsCdE.jpg"

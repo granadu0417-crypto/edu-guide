@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 의정부고
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0174_nFrp4u2Pkxw.jpg"
 ---
 수학 성적이 갑자기 떨어졌다면 이유가 있습니다.
 

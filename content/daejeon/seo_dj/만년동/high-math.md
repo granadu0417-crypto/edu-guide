@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대전 만년동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0766_qumPIiXQQWk.jpg"
 ---
 
 대전 만년동 학생 여러분, 수학 성적 때문에 스트레스받고 계신가요? 중학교 때는 잘했는데 고등학교에 와서 갑자기 어려워졌다는 말, 정말 많이 듣습니다.

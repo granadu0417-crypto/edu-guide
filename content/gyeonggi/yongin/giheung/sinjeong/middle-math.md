@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0376_Eti6ph51H4A.jpg"
 ---
 중학교 수학, 두렵지 않습니다.
 

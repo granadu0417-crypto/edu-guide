@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 계양구 임학동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0747_ElM2sQGkRjQ.jpg"
 ---
 
 인천 계양구 임학동 학생 여러분, 영어 성적 때문에 고민이신가요?

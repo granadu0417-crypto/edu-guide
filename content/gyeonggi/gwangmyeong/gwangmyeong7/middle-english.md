@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 ---
 중학교 영어, 초등학교와 차원이 다릅니다.
 

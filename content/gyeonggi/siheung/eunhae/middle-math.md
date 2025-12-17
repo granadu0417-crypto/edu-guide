@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 시흥중
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0784_yS3XM9qx3hQ.jpg"
 ---
 수학 성적, 상승 곡선을 그려보세요.
 

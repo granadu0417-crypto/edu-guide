@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 하남중
-featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0115_cPyO3GEYjZ4.jpg"
 ---
 영어 공부, 방향이 중요합니다.
 

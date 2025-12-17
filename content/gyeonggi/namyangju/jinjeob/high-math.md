@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0422_1T3Ng46czSw.jpg"
 ---
 고등학교 수학의 비밀을 알려드립니다.
 

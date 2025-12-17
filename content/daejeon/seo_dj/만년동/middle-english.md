@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대전 만년동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0767_Kyx4rL5g7yA.jpg"
 ---
 
 대전 만년동 고등학생 영어 성적 향상, 체계적인 과외로 가능합니다.

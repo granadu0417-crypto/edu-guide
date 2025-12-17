@@ -1,5 +1,5 @@
 ---
-title: "과외 FAQ 자주 묻는 질문 모음"
+title: "과외 FAQ | 과외에 관한 자주 묻는 질문 모음"
 date: 2025-01-26
 description: "과외 FAQ로 자주 묻는 질문에 답합니다. 과외에 대한 궁금증을 해결합니다."
 categories:

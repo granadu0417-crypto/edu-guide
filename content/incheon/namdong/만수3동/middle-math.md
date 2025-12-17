@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 남동구 만수3동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0012_YQF3s4rs2ZE.jpg"
 ---
 
 인천 남동구 만수3동에서 수학 과외 알아보시나요?

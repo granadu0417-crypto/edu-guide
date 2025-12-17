@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 군포중
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0867_fNe0qWL_kZ0.jpg"
 ---
 중학교 영어의 해법을 제시합니다.
 

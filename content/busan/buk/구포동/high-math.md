@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 구포동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0002_F5ohqqoA9nA.jpg"
 ---
 
 수학, 포기하기엔 너무 아까운 과목입니다. 부산 구포동 학생 여러분, 제대로 된 방법으로 공부하면 반드시 성적이 오릅니다. 지금까지 안 됐던 건 방법이 잘못됐기 때문입니다.

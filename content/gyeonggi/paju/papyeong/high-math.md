@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 파주고
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0530_yAzSi3ZXJ64.jpg"
 ---
 수학, 기초부터 차근차근.
 

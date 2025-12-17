@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0324_QBqVONlhr1Y.jpg"
 ---
 수학, 기초부터 다시 시작해도 괜찮습니다.
 

@@ -1,5 +1,5 @@
 ---
-title: "남동구 과외 | 중등·고등 맞춤 과외"
+title: "남동구 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "남동구 중등·고등 수학·영어 과외. 남동고, 인천논현고, 구월고, 만수고 등 내신 완벽 대비."
 featured_image: "/images/edu_0127_83tkHLPgg2Q.jpg"

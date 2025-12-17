@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 구리중
-featured_image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0879_5RkPbcmo7r8.jpg"
 ---
 성적 향상, 시작은 지금입니다.
 

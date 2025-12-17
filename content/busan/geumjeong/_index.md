@@ -1,5 +1,5 @@
 ---
-title: "금정구 과외 | 중등·고등 맞춤 과외"
+title: "금정구 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "금정구 중등·고등 수학·영어 과외. 금정고, 부산대부고, 오륜고, 금명여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0477_PL3jwQzb1Lk.jpg"

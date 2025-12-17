@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 평택고
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0586_pMnw5BSZYsA.jpg"
 ---
 성적 향상의 기회를 잡으세요.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0425_7tEQ-jnx9-o.jpg"
 ---
 단어만 외운다고 성적이 오르지 않습니다.
 

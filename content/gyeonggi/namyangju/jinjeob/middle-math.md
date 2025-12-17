@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0424_B4GwdlgTh5Y.jpg"
 ---
 수학, 시간 투자 대비 효과를 높여드립니다.
 

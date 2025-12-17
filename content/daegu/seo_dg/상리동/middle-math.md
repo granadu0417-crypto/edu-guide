@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대구 상리동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0580_faEfWCdOKIg.jpg"
 ---
 
 대구 상리동 고등학생 여러분, 수학은 포기 과목이 아닙니다. 제대로 된 방법으로 공부하면 반드시 성적이 오릅니다.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안산중
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0079_r6iOdqrV1z4.jpg"
 ---
 영어 성적 올리기, 함께해요.
 

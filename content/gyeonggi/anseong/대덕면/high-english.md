@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "안성시 대덕면 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0101_1-aA2Fadydc.jpg"
 ---
 
 안성시 대덕면에서 영어 성적 때문에 고민이신가요? 단어만 외운다고 영어 실력이 늘지 않습니다. 문법을 알아야 문장을 정확히 해석할 수 있습니다.

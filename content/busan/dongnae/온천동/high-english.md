@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 온천동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0097_CV3nkG7XIwg.jpg"
 ---
 
 고등학교 영어가 갑자기 어려워졌나요? 부산 온천동 고등학생이라면 제대로 된 방법을 알아야 합니다.

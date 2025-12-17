@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1596496578664-db76b5bf3f63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0760_gKUC4TMhOiY.jpg"
 ---
 고등학교 선행, 지금 준비해야 합니다.
 

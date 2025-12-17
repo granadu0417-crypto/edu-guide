@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 화성중
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0172_WO6DaQWPbAk.jpg"
 ---
 수학이 어려운 건 방법을 몰라서입니다.
 

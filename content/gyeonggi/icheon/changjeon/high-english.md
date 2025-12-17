@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 이천고
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0277_WQl_OMbF6nA.jpg"
 ---
 영어는 꾸준함이 답입니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안양고
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0145_eKBWFd47Lg8.jpg"
 ---
 고등학교 영어, 정복할 수 있습니다.
 

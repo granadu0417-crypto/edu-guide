@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 구포동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 ---
 
 고등학교 영어, 단어만 외운다고 되는 게 아닙니다. 부산 구포동 학생 여러분, 문법도 독해도 다 해야 하는데 어디서부터 손대야 할지 막막하신가요?

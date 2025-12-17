@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 오산중
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0495_KrfID_ZQxWs.jpg"
 ---
 영어, 기초부터 다시 시작해도 괜찮습니다.
 

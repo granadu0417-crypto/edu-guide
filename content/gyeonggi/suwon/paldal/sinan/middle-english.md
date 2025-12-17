@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0015_yyX0b05Gl-U.jpg"
 ---
 중학교 영어, 두렵지 않습니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0716_tgANYv9U10Q.jpg"
 ---
 수학 성적, 바꿀 수 있습니다.
 

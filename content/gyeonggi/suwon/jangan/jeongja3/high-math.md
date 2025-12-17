@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0946_E6rHg7X5Ybg.jpg"
 ---
 제대로 된 수업이 성적을 바꿉니다.
 

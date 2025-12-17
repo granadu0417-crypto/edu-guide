@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 오산고
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0501_9x-E8o8SaNY.jpg"
 ---
 같은 시간 공부해도 결과가 다른 이유.
 

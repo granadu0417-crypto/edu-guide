@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0670_AuhmviYMmCE.jpg"
 ---
 수학을 잘하는 학생들의 비결이 있습니다.
 

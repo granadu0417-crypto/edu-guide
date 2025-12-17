@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 파주중
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0512_3Oo24ExxTn8.jpg"
 ---
 중학교 수학, 초등학교와 완전히 다릅니다.
 

@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 김포시 통진읍 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0625_szbx2L3M0fo.jpg"
 ---
 
 김포시 통진읍에서 영어 과외를 찾고 계신가요? 학원에서 따라가기 힘들다면 1:1 과외가 답입니다.

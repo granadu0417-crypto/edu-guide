@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0344_qx-gV45_8-A.jpg"
 ---
 지금 시작해야 늦지 않습니다.
 

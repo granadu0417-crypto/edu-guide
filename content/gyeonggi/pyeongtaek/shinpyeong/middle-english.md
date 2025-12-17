@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 평택중
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0579_N9wfSgiVNO4.jpg"
 ---
 영어 성적, 상승 곡선을 그려보세요.
 

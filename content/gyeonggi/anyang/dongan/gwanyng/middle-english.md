@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안양중
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0159_oB2aEeE8s4A.jpg"
 ---
 영어 성적, 바뀔 수 있습니다.
 

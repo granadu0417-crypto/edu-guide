@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 사직동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0086_8T-lK9FkzyI.jpg"
 ---
 
 중학교 때는 수학 잘했는데, 고등학교 와서 갑자기 안 되나요? 부산 사직동 학생이라면 이 글을 끝까지 읽어보세요.

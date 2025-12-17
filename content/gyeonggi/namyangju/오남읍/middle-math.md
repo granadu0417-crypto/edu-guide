@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 남양주시 오남읍 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 ---
 
 남양주시 오남읍 학생들의 수학 고민, 이해합니다. 함께라면 달라질 수 있습니다.

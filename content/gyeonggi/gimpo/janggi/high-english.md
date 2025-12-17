@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 김포고
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0557_xZJK3Dp65OU.jpg"
 ---
 문법이 약하면 독해도 어렵습니다.
 

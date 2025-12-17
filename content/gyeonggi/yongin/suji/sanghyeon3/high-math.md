@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 용인고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0418_vqNYSTwcTW8.jpg"
 ---
 문제 풀이력은 훈련으로 키워집니다.
 

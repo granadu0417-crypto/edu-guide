@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 오산고
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0506_RlC1eHzJOFI.jpg"
 ---
 성적 향상의 비결을 알려드립니다.
 

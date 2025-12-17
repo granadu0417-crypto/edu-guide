@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 구리고
-featured_image: "https://images.unsplash.com/photo-1596495578144-45fa0dc87783?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0877_SjwHMCqT-1M.jpg"
 ---
 영어 실력, 키울 수 있습니다.
 

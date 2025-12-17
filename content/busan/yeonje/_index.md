@@ -1,5 +1,5 @@
 ---
-title: "연제구 과외 | 중등·고등 맞춤 과외"
+title: "연제구 과외 | 중등·고등 맞춤 과외 수학·영어 전문"
 date: 2025-12-10
 description: "연제구 중등·고등 수학·영어 과외. 연제고, 거제고, 연산고, 토현고 등 내신 완벽 대비."
 featured_image: "/images/edu_0897_f6PLZoNXweA.jpg"

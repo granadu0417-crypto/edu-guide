@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 평택고
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0549_W-BwZe5I3Z8.jpg"
 ---
 영어, 어렵다고 피하면 안 됩니다.
 

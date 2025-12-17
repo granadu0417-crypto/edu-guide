@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 시흥중
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0791_wDxFn_dBEC0.jpg"
 ---
 영어, 어디서부터 시작해야 할지 모르겠다면
 

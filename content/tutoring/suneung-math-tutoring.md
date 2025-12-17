@@ -14,7 +14,7 @@ tags:
 - 노원
 description: 수능 수학 1:1 과외의 모든 것. 선택 기준, 시세, 효과적 활용법을 상세히 안내합니다. 개인별 학습 진단과 맞춤형 지도로 빠른 성과를 만들어보세요.
 
-featured_image: "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0632_3Z1E6EuarbI.jpg"
 reading_time: 160줄
 ---
 

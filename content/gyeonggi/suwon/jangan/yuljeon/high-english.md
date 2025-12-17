@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0973_mRMQwK513hY.jpg"
 ---
 영어 과외, 제대로 받으면 달라집니다.
 

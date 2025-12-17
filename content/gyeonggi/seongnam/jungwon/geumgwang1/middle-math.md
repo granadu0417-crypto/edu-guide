@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0688_z7Z2IVsBKM4.jpg"
 ---
 수학 성적 올리기, 생각보다 어렵지 않습니다.
 

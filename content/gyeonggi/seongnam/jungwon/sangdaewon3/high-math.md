@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0710_N-2rrerXzxw.jpg"
 ---
 수학 과외, 제대로 받으면 달라집니다.
 

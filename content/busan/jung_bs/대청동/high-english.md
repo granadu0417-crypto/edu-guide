@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 대청동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0217_QeuyVLxJwBE.jpg"
 ---
 
 영어만 잘해도 대학이 달라집니다. 부산 대청동 고등학생 여러분, 지금 시작하세요.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 의정부중
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0187_xHoqN_vAYR0.jpg"
 ---
 영어, 기초부터 차근차근.
 

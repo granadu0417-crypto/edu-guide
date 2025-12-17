@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 파주고
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0545_6cSii5M3GBw.jpg"
 ---
 지금 투자하는 시간이 미래를 바꿉니다.
 

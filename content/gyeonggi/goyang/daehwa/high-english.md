@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0645_-8atMWER8bI.jpg"
 ---
 내신 영어와 수능 영어, 둘 다 잡아야 합니다.
 

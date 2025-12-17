@@ -14,7 +14,7 @@ tags:
 - 생물
 description: 고등 수학 학원 완벽 가이드. 유형별 특징, 선택 기준, 비용 정보를 제공합니다. 학년별 맞춤 커리큘럼과 체계적인 관리 시스템을 소개합니다.
 
-featured_image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0520_hjZlhj8ej7U.jpg"
 reading_time: 275줄
 ---
 

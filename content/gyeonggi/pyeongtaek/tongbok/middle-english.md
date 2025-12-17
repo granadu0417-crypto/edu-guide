@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 평택중
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0591_UbLDAaubUY4.jpg"
 ---
 영어 실력 향상의 첫걸음을 떼세요.
 

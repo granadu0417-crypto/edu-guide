@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0027_oCWYjKfWQP8.jpg"
 ---
 지금이 영어를 잡을 최적의 시기입니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 하남고
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0109_ik6PqzTmYqM.jpg"
 ---
 영어, 시간 투자 대비 효과를 높여드립니다.
 

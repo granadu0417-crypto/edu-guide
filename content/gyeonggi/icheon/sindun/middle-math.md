@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 이천중
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0296_1K9T5YiZ2WU.jpg"
 ---
 수학 실력, 업그레이드할 시간입니다.
 

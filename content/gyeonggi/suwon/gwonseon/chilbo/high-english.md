@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0881_c4vUTnU7Q3o.jpg"
 ---
 영어 성적이 오르지 않아 고민이신가요?
 

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 용호동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0258_K-g-Kt1vAHs.jpg"
 ---
 
 부산 용호동에서 수학 과외 알아보시나요? 학생의 수준에 맞춘 1:1 맞춤 수업을 제공합니다.

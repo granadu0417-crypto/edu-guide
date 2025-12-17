@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a7c85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0948_FG15xOczy78.jpg"
 ---
 수학이 발목을 잡고 있다면 도와드리겠습니다.
 

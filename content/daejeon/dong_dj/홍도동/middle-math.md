@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대전 홍도동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0700_Zww0wvbcy8Y.jpg"
 ---
 
 수학은 계단식 과목입니다. 대전 홍도동 학생 여러분, 앞 단계를 완벽히 이해해야 다음 단계로 넘어갈 수 있습니다.

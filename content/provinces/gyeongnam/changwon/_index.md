@@ -1,5 +1,5 @@
 ---
-title: "창원시 과외 | 중등·고등 맞춤 과외"
+title: "창원시 과외 | 중등·고등 맞춤 과외 1:1 수업"
 date: 2025-12-10
 description: "창원시 중등·고등 수학·영어 과외. 창원고, 마산고, 창원중앙고, 진해고 등 내신 완벽 대비."
 featured_image: "/images/edu_0505_ymVaGKsBQXM.jpg"

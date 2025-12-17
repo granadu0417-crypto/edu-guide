@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 파주중
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0540_FHFfHWWzbCc.jpg"
 ---
 수학 때문에 자신감을 잃지 마세요.
 

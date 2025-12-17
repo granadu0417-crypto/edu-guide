@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0716_tgANYv9U10Q.jpg"
 ---
 개념이 흔들리면 문제가 안 풀립니다.
 

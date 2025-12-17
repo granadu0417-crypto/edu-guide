@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0404_WzhRnBQY9es.jpg"
 ---
 수학, 제대로 알면 풀립니다.
 

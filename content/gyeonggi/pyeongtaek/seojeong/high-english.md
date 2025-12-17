@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 평택고
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0573_Xj4mcAdRHJ8.jpg"
 ---
 영어, 시작이 반입니다.
 

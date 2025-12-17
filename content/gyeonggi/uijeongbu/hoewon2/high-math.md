@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 의정부고
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0182_c-sZD1o9zOY.jpg"
 ---
 수포자가 되기 전에, 지금 잡아야 합니다.
 

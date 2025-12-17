@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 구리중
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0883_DhOcwxGFBGQ.jpg"
 ---
 영어, 제대로 알면 읽힙니다.
 

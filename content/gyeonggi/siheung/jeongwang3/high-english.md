@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 시흥고
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0797_9Njoam3Vesc.jpg"
 ---
 영어 성적, 바뀔 수 있습니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0896_4vdSve_Fr_g.jpg"
 ---
 제대로 배우면 수학이 쉬워집니다.
 

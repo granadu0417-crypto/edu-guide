@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 김포고
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0573_Xj4mcAdRHJ8.jpg"
 ---
 지금 시작하면 충분히 따라잡을 수 있습니다.
 

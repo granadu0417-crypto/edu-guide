@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 의정부고
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0198_vdXMSiX-n6M.jpg"
 ---
 수학 때문에 대학을 포기하지 마세요.
 

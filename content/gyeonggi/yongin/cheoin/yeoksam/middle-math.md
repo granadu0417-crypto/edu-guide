@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0336_T6j9OptJLTU.jpg"
 ---
 제대로 배우면 수학도 재미있습니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0901__E9nefvfSSE.jpg"
 ---
 독해 속도가 느리다면 방법이 있습니다.
 

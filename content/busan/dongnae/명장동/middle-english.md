@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 명장동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0079_r6iOdqrV1z4.jpg"
 ---
 
 영어 성적이 오르지 않아 고민이신 부산 명장동 중학생 여러분, 공부 방법을 바꿔볼 때입니다.

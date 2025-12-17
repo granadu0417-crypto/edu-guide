@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0039_90ctJcyrRLs.jpg"
 ---
 영어가 어려운 건 방법을 몰라서입니다.
 

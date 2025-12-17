@@ -1,5 +1,5 @@
 ---
-title: "평택시 팽성읍 과외"
+title: "경기 평택시 paengsung 과외 | 중등·고등 맞춤 수업"
 date: 2025-01-15
 description: "평택시 팽성읍 지역 과외 정보."
 ---

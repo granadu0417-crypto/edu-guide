@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 시흥고
-featured_image: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0810_rtBufpeb828.jpg"
 ---
 제대로 배우면 수학도 재미있습니다.
 

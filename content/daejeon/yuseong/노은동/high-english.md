@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대전 노은동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0801_RQjVO9KFMUg.jpg"
 ---
 
 대전 노은동 학생들의 영어 고민, 이해합니다. 실력 있는 선생님과 함께라면 달라질 수 있습니다.

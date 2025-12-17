@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 낙민동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0072_oikrPWDdbF4.jpg"
 ---
 
 수학 문제집 펴면 한숨부터 나오나요? 부산 낙민동 중학생이라면 지금이 기초를 잡을 마지막 기회입니다.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0666_e1JRrh9sb-I.jpg"
 ---
 개념부터 다시 잡으면 성적이 오릅니다.
 

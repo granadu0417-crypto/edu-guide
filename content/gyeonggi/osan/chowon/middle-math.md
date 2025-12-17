@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 오산중
-featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0488_ls5wepv5pW4.jpg"
 ---
 성적 향상의 기회를 잡으세요.
 

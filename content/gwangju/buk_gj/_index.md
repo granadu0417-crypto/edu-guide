@@ -1,5 +1,5 @@
 ---
-title: "북구 과외 | 중등·고등 맞춤 과외"
+title: "광주 북구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "북구 중등·고등 수학·영어 과외. 북구고, 전대부고, 광주과학고, 문정고 등 내신 완벽 대비."
 featured_image: "/images/edu_0397_omeaHbEFlN4.jpg"

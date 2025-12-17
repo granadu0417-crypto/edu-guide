@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 ---
 지금 시작하면 아직 늦지 않았습니다.
 

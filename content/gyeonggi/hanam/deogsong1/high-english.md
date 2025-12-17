@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 하남고
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0085_SrJuOjX2qso.jpg"
 ---
 성적 향상, 시작은 지금입니다.
 

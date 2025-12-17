@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 파주중
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 ---
 중학교 수학, 제대로 잡으면 고등학교가 쉬워집니다.
 

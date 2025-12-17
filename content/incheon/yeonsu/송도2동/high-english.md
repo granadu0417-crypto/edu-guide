@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 연수구 송도2동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0193_WC7KIHo13Fc.jpg"
 ---
 
 고등학교 영어, 어디서부터 잡아야 할지 모르겠다면 인천 연수구 송도2동에서 시작하세요.

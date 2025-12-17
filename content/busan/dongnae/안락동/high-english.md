@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 안락동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0093_Y125COCWeuQ.jpg"
 ---
 
 학원에서 따라가기 힘든가요? 부산 안락동 고등학생이라면 1:1 과외가 답일 수 있습니다.

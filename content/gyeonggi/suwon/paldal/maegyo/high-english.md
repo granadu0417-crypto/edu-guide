@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0997_md36JWJzrTk.jpg"
 ---
 고등학교 영어가 어려운 진짜 이유.
 

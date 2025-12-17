@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0951_5I6SeQJejm8.jpg"
 ---
 영어 성적 올리기, 생각보다 어렵지 않습니다.
 

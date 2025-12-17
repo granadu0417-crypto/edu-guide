@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "광주 오치동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1447069387593-a5de0862481e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0853_fx8l015fEBs.jpg"
 ---
 
 광주 오치동에서 영어 과외 알아보시나요? 학생의 수준에 맞춘 1:1 맞춤 수업을 제공합니다.

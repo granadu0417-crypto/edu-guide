@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0053_9A9ayYqsI5M.jpg"
 ---
 영어, 포기는 없습니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0945_SQdDlk2laPs.jpg"
 ---
 구문 분석 능력이 핵심입니다.
 

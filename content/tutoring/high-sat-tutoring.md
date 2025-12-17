@@ -1,5 +1,5 @@
 ---
-title: "고등 SAT과외 SAT 고득점 전략"
+title: "고등 SAT과외 | SAT 고득점을 위한 학습 전략"
 date: 2025-01-26
 description: "고등 SAT과외로 SAT 고득점을 달성합니다. Reading, Writing, Math 영역별 맞춤 전략 1:1 수업입니다."
 categories:

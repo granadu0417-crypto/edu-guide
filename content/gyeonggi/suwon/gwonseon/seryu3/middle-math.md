@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0932_C9pamXRgk14.jpg"
 ---
 수학 성적 올리기, 함께해요.
 

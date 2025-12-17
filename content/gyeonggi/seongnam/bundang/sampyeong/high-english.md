@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0633_wK-vDG9eHs4.jpg"
 ---
 영어, 포기는 없습니다.
 

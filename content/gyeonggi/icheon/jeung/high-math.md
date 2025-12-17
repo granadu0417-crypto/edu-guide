@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 이천고
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0286_oLFD6zMxdOY.jpg"
 ---
 수학 공부의 방향을 잡아드립니다.
 

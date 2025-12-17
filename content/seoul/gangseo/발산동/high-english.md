@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "서울 강서구 발산동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 ---
 
 강서구 발산동에서 영어 과외를 찾고 계신가요? 학원에서 따라가기 힘들다면 1:1 과외가 답입니다.

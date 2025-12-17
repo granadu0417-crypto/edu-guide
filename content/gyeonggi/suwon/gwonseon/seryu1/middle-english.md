@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0923_yhTtJm0E_hk.jpg"
 ---
 제대로 된 방법으로 공부하면 결과가 다릅니다.
 

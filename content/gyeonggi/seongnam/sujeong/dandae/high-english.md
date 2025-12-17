@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0721_CwC_2MmMdhA.jpg"
 ---
 제대로 배우면 영어가 쉬워집니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 평택고
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0550_6NbSIxwZ3_4.jpg"
 ---
 수학, 제대로 알면 풀립니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 용인고
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0398_yE7hWGYte4A.jpg"
 ---
 1등급을 만드는 공부법이 따로 있습니다.
 

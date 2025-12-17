@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대구 두산동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0595_Os3OAZ30Og0.jpg"
 ---
 
 고등학교 영어, 어디서부터 잡아야 할지 모르겠다면 대구 두산동에서 시작하세요.

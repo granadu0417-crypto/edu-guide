@@ -1,5 +1,5 @@
 ---
-title: "순천시 과외 | 중등·고등 맞춤 과외"
+title: "순천시 과외 | 중등·고등 맞춤 과외 1:1 수업"
 date: 2025-12-10
 description: "순천시 중등·고등 수학·영어 과외. 순천고, 매산고, 순천여고, 팔마고 등 내신 완벽 대비."
 featured_image: "/images/edu_0537_Gao5bjSywkE.jpg"

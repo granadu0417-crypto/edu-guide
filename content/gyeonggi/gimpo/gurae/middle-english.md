@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 김포중
-featured_image: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0551_kZO9xqmO_TA.jpg"
 ---
 중학교 영어가 어려운 진짜 이유.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0411_5ibMJiDCEss.jpg"
 ---
 영어 실력 향상의 비결이 있습니다.
 

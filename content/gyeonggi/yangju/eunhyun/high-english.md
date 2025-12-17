@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 양주고
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0289_3S0Ucv4BDCk.jpg"
 ---
 고등학교 영어의 비밀을 알려드립니다.
 

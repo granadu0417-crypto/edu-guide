@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0740_b28quyxFrI0.jpg"
 ---
 지금 시작하면 아직 늦지 않았습니다.
 

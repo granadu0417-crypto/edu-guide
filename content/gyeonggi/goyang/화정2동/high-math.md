@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 고양시 화정2동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0838_f5xddISq428.jpg"
 ---
 
 고양시 화정2동 고등학생 수학 성적 향상, 체계적인 과외로 가능합니다.

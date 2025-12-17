@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 화명동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0019_PZAVhoJMWd4.jpg"
 ---
 
 중학교 영어가 슬슬 어려워지고 있나요? 부산 화명동 중학생 여러분, 지금이 중요한 시점입니다.

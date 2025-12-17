@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 양주중
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0311_WfHnx3B0o_M.jpg"
 ---
 영어, 포기하지 마세요.
 

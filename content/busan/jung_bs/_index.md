@@ -1,5 +1,5 @@
 ---
-title: "중구 과외 | 중등·고등 맞춤 과외"
+title: "부산 중구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "중구 중등·고등 수학·영어 과외. 중앙고, 부산상고, 부산외고, 해양고 등 내신 완벽 대비."
 featured_image: "/images/edu_0057_T5r6OUgw5tw.jpg"

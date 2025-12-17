@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "광주 광천동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 ---
 
 광주 광천동 학생들의 수학 고민, 이해합니다. 실력 있는 선생님과 함께라면 달라질 수 있습니다.

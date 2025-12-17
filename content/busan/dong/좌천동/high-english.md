@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 좌천동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0061_GMvn7T0Ha8M.jpg"
 ---
 
 영어 성적이 안 오르는 이유, 알고 계신가요? 부산 좌천동 고등학생이라면 방법을 점검해볼 때입니다.

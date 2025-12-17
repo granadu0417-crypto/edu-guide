@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 화성중
-featured_image: "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0207_cO2w1rB-_QQ.jpg"
 ---
 중학교 영어, 막막하다면 함께해요.
 

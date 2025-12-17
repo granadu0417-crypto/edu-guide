@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안산중
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 ---
 중학교 수학, 혼자 하지 마세요.
 

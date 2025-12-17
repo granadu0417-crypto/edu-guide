@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대구 가창면 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0477_PL3jwQzb1Lk.jpg"
 ---
 
 대구 가창면에서 영어 때문에 고민이시라면 잘 찾아오셨습니다. 혼자 공부하면 어디가 문제인지 모를 수 있습니다.

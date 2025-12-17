@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안양중
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0152_jcLQisOu7jA.jpg"
 ---
 개념 이해가 먼저입니다.
 

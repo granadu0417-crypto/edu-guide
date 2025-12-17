@@ -1,5 +1,5 @@
 ---
-title: "종로구 과외 | 중등·고등 맞춤 과외"
+title: "종로구 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "종로구 중등·고등 수학·영어 과외. 경복고, 동성고, 중앙고, 창덕여고 등 종로구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0902_MCzoo60m-Nw.jpg"

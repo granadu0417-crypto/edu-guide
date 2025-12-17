@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 파주중
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0539_leyUrzdwurc.jpg"
 ---
 기초부터 탄탄히, 실력을 쌓아갑니다.
 

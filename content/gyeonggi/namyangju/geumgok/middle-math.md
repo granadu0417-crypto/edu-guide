@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0408_ecUurQklEtk.jpg"
 ---
 중학교 수학, 걱정하지 마세요.
 

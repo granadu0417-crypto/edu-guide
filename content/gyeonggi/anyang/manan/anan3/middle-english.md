@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안양중
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0187_xHoqN_vAYR0.jpg"
 ---
 지금 기초를 잡아야 수능이 쉬워집니다.
 

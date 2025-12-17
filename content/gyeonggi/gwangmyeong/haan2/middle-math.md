@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 ---
 지금 시작해야 늦지 않습니다.
 

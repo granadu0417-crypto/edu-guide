@@ -1,5 +1,5 @@
 ---
-title: "강서구 과외 | 중등·고등 맞춤 과외"
+title: "강서구 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "강서구 중등·고등 수학·영어 과외. 명덕외고, 경인고, 진명여고, 신목고 등 강서구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0907_PDRFeeDniCk.jpg"

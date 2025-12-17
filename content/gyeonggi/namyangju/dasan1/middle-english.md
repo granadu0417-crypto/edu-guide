@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0399_p74ndnYWRY4.jpg"
 ---
 지금 투자하는 시간이 미래를 바꿉니다.
 

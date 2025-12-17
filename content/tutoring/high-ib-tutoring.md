@@ -1,5 +1,5 @@
 ---
-title: "고등 IB과외 IB 디플로마 대비"
+title: "고등 IB과외 | IB 디플로마 완벽 대비 가이드"
 date: 2025-01-26
 description: "고등 IB과외로 IB 디플로마를 완벽하게 대비합니다. HL/SL 과목별 맞춤 수업과 IA, EE 지도까지 1:1 수업입니다."
 categories:

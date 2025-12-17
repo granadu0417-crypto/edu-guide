@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 만덕동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0013_RUfIB_sT1QE.jpg"
 ---
 
 영어 등급이 안 나와서 고민이신가요? 부산 만덕동 고등학생 여러분, 방법을 바꾸면 결과도 바뀝니다.

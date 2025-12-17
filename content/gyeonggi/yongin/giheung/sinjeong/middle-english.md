@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0375_yvEkwjSBZIY.jpg"
 ---
 영어 성적, 한 학기면 달라질 수 있습니다.
 

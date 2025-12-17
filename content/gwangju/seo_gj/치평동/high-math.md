@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "광주 치평동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0022_0nyR0Aw5fCA.jpg"
 ---
 
 수학 점수가 안 오르는 광주 치평동 학생들, 지금 시작해도 늦지 않았습니다. 기초부터 차근차근 잡아드립니다.

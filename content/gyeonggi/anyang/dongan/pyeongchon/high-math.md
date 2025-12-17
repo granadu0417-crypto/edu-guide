@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안양고
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0174_nFrp4u2Pkxw.jpg"
 ---
 고등학교 수학, 막막하다면 함께 시작해요.
 

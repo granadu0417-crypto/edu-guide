@@ -1,5 +1,5 @@
 ---
-title: "세종시 과외 | 중등·고등 맞춤 과외"
+title: "세종시 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "세종시 중등·고등 수학·영어 과외. 세종고, 양지고, 아름고, 도담고 등 내신 완벽 대비."
 featured_image: "/images/edu_0532_gMg3zSOdlgE.jpg"

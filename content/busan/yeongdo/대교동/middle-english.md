@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 대교동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0371_w9i7wMaM3EE.jpg"
 ---
 
 부산 대교동 고등학생 여러분, 영어은 포기 과목이 아닙니다. 제대로 된 방법으로 공부하면 반드시 성적이 오릅니다.

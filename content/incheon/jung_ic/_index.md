@@ -1,5 +1,5 @@
 ---
-title: "중구 과외 | 중등·고등 맞춤 과외"
+title: "인천 중구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "중구 중등·고등 수학·영어 과외. 인천중앙고, 인천여상, 신흥고, 답동초 등 내신 완벽 대비."
 featured_image: "/images/edu_0457_5KPA4nFtHbU.jpg"

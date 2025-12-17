@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 평택중
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0568_JiOFFI3W7IA.jpg"
 ---
 개념부터 다시 잡으면 성적이 오릅니다.
 

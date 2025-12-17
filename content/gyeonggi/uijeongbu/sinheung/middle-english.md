@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 의정부중
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0195_h3BWE-uMJUY.jpg"
 ---
 영어 실력, 업그레이드할 시간입니다.
 

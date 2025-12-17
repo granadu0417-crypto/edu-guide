@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 연지동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0044_FoB-ImUjLqE.jpg"
 ---
 
 초등학교 때 수학 잘했는데 중학교 오니까 갑자기 안 되나요? 부산 연지동 중학생이라면 흔한 일입니다.

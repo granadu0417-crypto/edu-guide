@@ -13,7 +13,7 @@ tags:
 - 학습환경
 - 노원
 description: 학원 선택 가이드. 특징, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 효과적인 학습법으로 빠르게 성장하세요.
-featured_image: "https://images.unsplash.com/photo-1562654501-a0ccc0fc3fb1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"
 reading_time: 160줄
 ---
 

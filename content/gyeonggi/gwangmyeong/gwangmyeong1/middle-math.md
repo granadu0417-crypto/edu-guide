@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0964_w5_tbFyYFUA.jpg"
 ---
 수학 성적 올리기, 생각보다 어렵지 않습니다.
 

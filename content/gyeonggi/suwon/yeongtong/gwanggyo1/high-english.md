@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0025_ADcGTvU-lF0.jpg"
 ---
 영어 실력 향상의 비결이 있습니다.
 

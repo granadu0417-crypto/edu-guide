@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 용인고
-featured_image: "https://images.unsplash.com/photo-1596496578664-db76b5bf3f63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0374_hMFkHxwP4ZU.jpg"
 ---
 지금 투자하는 시간이 대학을 결정합니다.
 

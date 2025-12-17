@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 명장동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0080_wwy-z7NPTTM.jpg"
 ---
 
 수학 문제집만 펴면 한숨이 나오나요? 부산 명장동 중학생이라면 이 고민을 해결할 수 있습니다.

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 만덕동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0014_cRR-aTdLAu4.jpg"
 ---
 
 수학 문제집만 쌓여가고 성적은 그대로인가요? 부산 만덕동 고등학생 여러분, 공부 방법을 점검해볼 때입니다.

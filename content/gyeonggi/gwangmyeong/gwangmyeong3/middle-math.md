@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0972_eVPxIeMubl8.jpg"
 ---
 문제 풀이력은 훈련으로 키워집니다.
 

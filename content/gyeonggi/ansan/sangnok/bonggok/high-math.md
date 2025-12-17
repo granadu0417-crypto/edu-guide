@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0062_iQPr1XkF5F0.jpg"
 ---
 1등급과 3등급의 차이는 생각보다 작습니다.
 

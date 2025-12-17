@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0885_cpborMPOnHw.jpg"
 ---
 수능 영어 1등급, 생각보다 어렵지 않습니다.
 

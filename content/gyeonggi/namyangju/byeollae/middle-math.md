@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0396_SYTO3xs06fU.jpg"
 ---
 수학이 두려우신가요? 도와드리겠습니다.
 

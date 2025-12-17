@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0771_R5dKk1oXPAM.jpg"
 ---
 영어 실력 향상의 첫걸음을 떼세요.
 

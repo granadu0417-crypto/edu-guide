@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 초량동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0068_4-4WPFLVhAY.jpg"
 ---
 
 수학 문제집을 펴면 한숨부터 나오나요? 부산 초량동 중학생이라면 지금 잡아야 합니다.

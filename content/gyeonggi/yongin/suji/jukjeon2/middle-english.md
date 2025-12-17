@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0391_zoy1t0UPg30.jpg"
 ---
 내신 영어, 제대로 잡아야 합니다.
 

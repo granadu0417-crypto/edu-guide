@@ -1,5 +1,5 @@
 ---
-title: "동구 과외 | 중등·고등 맞춤 과외"
+title: "광주 동구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "동구 중등·고등 수학·영어 과외. 동구고, 광주중앙고, 조대부고, 성덕고 등 내신 완벽 대비."
 featured_image: "/images/edu_0745_Mn4_KuFSpe4.jpg"

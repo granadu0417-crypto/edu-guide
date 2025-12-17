@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 사직동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0085_SrJuOjX2qso.jpg"
 ---
 
 영어 포기하려고요? 잠깐만요. 부산 사직동 고등학생이라면 아직 늦지 않았습니다.

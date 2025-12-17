@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 좌천동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0063_v7FT5ngIEfA.jpg"
 ---
 
 영어가 점점 어려워지나요? 부산 좌천동 중학생이라면 지금 기초를 확실히 잡아야 합니다.

@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "서울 용산구 원효로 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0417_ObTfaF2hngw.jpg"
 ---
 
 수학 점수가 안 오르는 용산구 원효로 학생들, 지금 시작해도 늦지 않았습니다.

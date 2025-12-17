@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0959_tP666CeG03o.jpg"
 ---
 영어 실력은 훈련으로 키워집니다.
 

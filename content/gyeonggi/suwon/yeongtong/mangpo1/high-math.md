@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 ---
 수학이 약점이라면 강점으로 바꿔드립니다.
 

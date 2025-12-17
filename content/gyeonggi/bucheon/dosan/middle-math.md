@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 부천중
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0284_ihXg_a-9Tmk.jpg"
 ---
 지금이 수학을 잡을 최적의 시기입니다.
 

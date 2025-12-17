@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0993_bEY5NoCSQ8s.jpg"
 ---
 영어, 포기하기엔 너무 중요한 과목입니다.
 

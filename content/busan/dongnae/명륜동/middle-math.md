@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 명륜동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1476234251651-f353703a034d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0076_Ufw5hHEADP4.jpg"
 ---
 
 수학 점수가 안 오르나요? 부산 명륜동 중학생이라면 개념부터 다시 점검해보세요.

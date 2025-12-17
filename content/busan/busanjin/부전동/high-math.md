@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 부전동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1550399105-c4db5fb85c18?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0034_K1P_W3JbCpI.jpg"
 ---
 
 고등학교 수학, 중학교 때와 완전히 다르네요. 부산 부전동 고등학생이라면 이 말에 공감하실 겁니다.

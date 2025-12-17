@@ -1,5 +1,5 @@
 ---
-title: "수성구 과외 | 중등·고등 맞춤 과외"
+title: "수성구 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "수성구 중등·고등 수학·영어 과외. 대구고, 경신고, 정화여고, 수성고 등 내신 완벽 대비."
 featured_image: "/images/edu_0820_ERQbeOUuM5s.jpg"

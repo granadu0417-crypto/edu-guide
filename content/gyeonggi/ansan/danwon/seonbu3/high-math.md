@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0054_syyjbNKTzjs.jpg"
 ---
 개념이 흔들리면 문제가 안 풀립니다.
 

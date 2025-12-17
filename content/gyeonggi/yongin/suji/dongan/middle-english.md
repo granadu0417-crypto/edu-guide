@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0383_QWuqPKFQ_c4.jpg"
 ---
 중학교 영어가 고등학교 영어의 기초입니다.
 

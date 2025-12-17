@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0882_2SgCw9D4G2E.jpg"
 ---
 수학 성적, 바꿀 수 있습니다.
 

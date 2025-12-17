@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대구 상인동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 ---
 
 수학만 잘해도 대학이 달라집니다. 대구 상인동 고등학생 여러분, 지금 시작하세요.

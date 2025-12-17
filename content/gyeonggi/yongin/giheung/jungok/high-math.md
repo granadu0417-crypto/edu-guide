@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 용인고
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0362_6MePtA9EVDA.jpg"
 ---
 수학 성적, 올릴 수 있습니다.
 

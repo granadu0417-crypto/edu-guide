@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 구리고
-featured_image: "https://images.unsplash.com/photo-1510154221590-ff0b49f38f88?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0894_jvitXXO6KdM.jpg"
 ---
 지금 시작하면 아직 늦지 않았습니다.
 

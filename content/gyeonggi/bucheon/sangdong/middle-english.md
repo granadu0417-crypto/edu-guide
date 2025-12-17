@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 부천중
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0303_2dim_8iYCws.jpg"
 ---
 고등학교 선행, 지금 준비해야 합니다.
 

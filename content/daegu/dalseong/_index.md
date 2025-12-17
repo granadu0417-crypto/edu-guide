@@ -1,5 +1,5 @@
 ---
-title: "달성군 과외 | 중등·고등 맞춤 과외"
+title: "달성군 과외 | 중등·고등 맞춤 과외 수학·영어"
 date: 2025-12-10
 description: "달성군 중등·고등 수학·영어 과외. 달성고, 다사고, 화원고, 논공고 등 내신 완벽 대비."
 featured_image: "/images/edu_0695_2e4vwwDFoKw.jpg"

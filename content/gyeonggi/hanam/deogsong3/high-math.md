@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 하남고
-featured_image: "https://images.unsplash.com/photo-1596496578664-db76b5bf3f63?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0094_f1YfrZ1o2r8.jpg"
 ---
 지금 투자하는 시간이 대학을 결정합니다.
 

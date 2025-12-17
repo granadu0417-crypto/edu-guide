@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1599687267812-35c05ff70ee9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0981_KYZoOmpn1Aw.jpg"
 ---
 성적이 정체되어 있다면 방법을 바꿔야 합니다.
 

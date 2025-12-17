@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안산중
-featured_image: "https://images.unsplash.com/photo-1635070041409-e63e783ce3b1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 ---
 중학교 수학이 어려운 진짜 이유를 알려드립니다.
 

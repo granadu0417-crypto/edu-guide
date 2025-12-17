@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 초량동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0066_s9CC2SKySJM.jpg"
 ---
 
 수학 문제를 보면 막막하신가요? 부산 초량동 고등학생이라면 접근법을 바꿔볼 때입니다.

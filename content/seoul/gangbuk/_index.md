@@ -1,5 +1,5 @@
 ---
-title: "강북구 과외 | 중등·고등 맞춤 과외"
+title: "강북구 과외 | 중등·고등 맞춤 과외 수학·영어"
 date: 2025-12-10
 description: "강북구 중등·고등 수학·영어 과외. 창문여고, 성신여고, 수유고, 미양고 등 강북구 학교 내신 완벽 대비."
 featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"

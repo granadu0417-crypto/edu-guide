@@ -1,5 +1,5 @@
 ---
-title: "서구 과외 | 중등·고등 맞춤 과외"
+title: "부산 서구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "서구 중등·고등 수학·영어 과외. 서구고, 부산공고, 서여고, 남천고 등 내신 완벽 대비."
 featured_image: "/images/edu_0582_gjx4NNYyB00.jpg"

@@ -15,7 +15,7 @@ tags:
 description: 특목고 준비 전략. 과학고·외고·국제고별 준비 방법, 학원과 1:1 과외 활용, 입시 스케줄을 제시합니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요. 검증된
   정보로 현명한 선택을 도와드립니다.
-featured_image: "https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0621_8u-GQiK_J5c.jpg"
 reading_time: 160줄
 ---
 

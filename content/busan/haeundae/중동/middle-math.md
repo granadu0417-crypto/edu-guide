@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 중동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0208_OvXht_wi5Ew.jpg"
 ---
 
 부산 중동에서 수학 과외를 찾고 계신가요? 학원에서 따라가기 힘들다면 1:1 과외가 답입니다.

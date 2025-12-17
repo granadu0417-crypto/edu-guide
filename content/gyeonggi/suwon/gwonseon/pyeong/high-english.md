@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0913_GDbkqAHjDRY.jpg"
 ---
 1등급 학생들의 공부법은 다릅니다.
 

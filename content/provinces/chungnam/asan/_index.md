@@ -1,5 +1,5 @@
 ---
-title: "아산시 과외 | 중등·고등 맞춤 과외"
+title: "아산시 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "아산시 중등·고등 수학·영어 과외. 아산고, 온양고, 배방고, 아산여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0944_0_PB9TgMLzA.jpg"

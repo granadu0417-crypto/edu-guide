@@ -1,5 +1,5 @@
 ---
-title: "충주시 과외 | 중등·고등 맞춤 과외"
+title: "충주시 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "충주시 중등·고등 수학·영어 과외. 충주고, 충주상고, 충주공고, 충주여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0091_jugJ0wmZ7wk.jpg"

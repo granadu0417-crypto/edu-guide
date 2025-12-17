@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 의정부고
-featured_image: "https://images.unsplash.com/photo-1473186578172-c141e6798cf4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0214_d2ghfhU7Az8.jpg"
 ---
 혼자 공부하는 수학은 한계가 있습니다.
 

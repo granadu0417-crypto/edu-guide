@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "광주 주월동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0987_pTh-Ov673Os.jpg"
 ---
 
 광주 주월동 학부모님, 아이의 영어 실력이 걱정되시죠? 전문 과외로 확실하게 잡아드립니다.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0759_fR-gYngSK9s.jpg"
 ---
 중학교 영어가 고등학교 영어의 기초입니다.
 

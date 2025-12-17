@@ -13,7 +13,7 @@ tags:
 - 그룹학습
 - 학습환경
 description: 전문 과정 학원. 단기 목표, 전략, 1:1 과외를 안내합니다 과외 선택부터 효과적인 활용까지, 1:1 맞춤 지도의 모든 것을 맞춤형 전략으로 목표를 달성하세요.
-featured_image: "https://images.unsplash.com/photo-1600195077077-7c815f540a3d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0466_KSt0_N9TP08.jpg"
 reading_time: 270줄
 ---
 

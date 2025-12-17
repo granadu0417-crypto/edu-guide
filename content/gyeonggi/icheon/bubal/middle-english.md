@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 이천중
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0275_2N518py2mrQ.jpg"
 ---
 영어 실력, 확실히 올려드립니다.
 

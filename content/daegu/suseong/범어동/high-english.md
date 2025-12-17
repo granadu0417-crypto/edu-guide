@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "대구 범어동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0605_WIDa2mfXWpA.jpg"
 ---
 
 영어 성적이 오르지 않아 고민이신 대구 범어동 학생 여러분, 공부 방법을 바꿔볼 때입니다.

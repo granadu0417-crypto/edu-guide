@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0922_OmCH8sh_UcM.jpg"
 ---
 수학의 원리를 알면 문제가 보입니다.
 

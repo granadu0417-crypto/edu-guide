@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 남양주시 평내동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0473_vcSyYj_r5ck.jpg"
 ---
 
 영어만 잘해도 대학이 달라집니다. 남양주시 평내동 고등학생 여러분, 지금 시작하세요.

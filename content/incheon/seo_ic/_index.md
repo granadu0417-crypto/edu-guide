@@ -1,5 +1,5 @@
 ---
-title: "서구 과외 | 중등·고등 맞춤 과외"
+title: "인천 서구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "서구 중등·고등 수학·영어 과외. 서구고, 검단고, 가좌고, 인천공고 등 내신 완벽 대비."
 featured_image: "/images/edu_0410_ZG4Y6lLPARw.jpg"

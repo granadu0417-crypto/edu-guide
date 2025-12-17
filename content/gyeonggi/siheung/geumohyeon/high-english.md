@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 시흥고
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0785_WIT_bQPUrvg.jpg"
 ---
 영어, 포기하지 마세요.
 

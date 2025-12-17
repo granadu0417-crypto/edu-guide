@@ -1,5 +1,5 @@
 ---
-title: "북구 과외 | 중등·고등 맞춤 과외"
+title: "대구 북구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "북구 중등·고등 수학·영어 과외. 북구고, 복현고, 대구공고, 무학고 등 내신 완벽 대비."
 featured_image: "/images/edu_0793_aj3C4f6T8fA.jpg"

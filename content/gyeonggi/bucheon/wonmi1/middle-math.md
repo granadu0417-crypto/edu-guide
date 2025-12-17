@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 부천중
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0324_QBqVONlhr1Y.jpg"
 ---
 수학, 올바른 방법으로 시작하세요.
 

@@ -1,5 +1,5 @@
 ---
-title: "유성구 과외 | 중등·고등 맞춤 과외"
+title: "유성구 과외 | 중등·고등 맞춤 과외 수학·영어 전문"
 date: 2025-12-10
 description: "유성구 중등·고등 수학·영어 과외. 유성고, 대전과학고, 충남삼성고, 노은고 등 내신 완벽 대비."
 featured_image: "/images/edu_0903_EFIvaYLABmU.jpg"

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0761_H9t723yPjYI.jpg"
 ---
 문법을 알면 독해가 쉬워집니다.
 

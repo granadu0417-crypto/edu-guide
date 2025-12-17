@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0076_Ufw5hHEADP4.jpg"
 ---
 같은 시간을 공부해도 성적 차이가 나는 이유.
 

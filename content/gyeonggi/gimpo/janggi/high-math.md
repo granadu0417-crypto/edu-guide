@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 김포고
-featured_image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0558_W2XKkxg4IxE.jpg"
 ---
 수학, 포기는 없습니다.
 

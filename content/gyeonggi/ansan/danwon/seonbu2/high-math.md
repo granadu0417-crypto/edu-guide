@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0050_VOUicg8Ejus.jpg"
 ---
 수학은 한 번 놓치면 따라잡기 어렵습니다.
 

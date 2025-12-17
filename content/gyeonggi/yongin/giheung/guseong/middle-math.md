@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0360_q3zZHY5GHu0.jpg"
 ---
 성적 향상의 시작점에 서세요.
 

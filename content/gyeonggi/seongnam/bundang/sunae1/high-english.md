@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1611329532992-0b7ba27d85fb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0645_-8atMWER8bI.jpg"
 ---
 고등학교 영어, 두렵지 않습니다.
 

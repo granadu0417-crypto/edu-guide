@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 덕천동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0011_Qy7OZf0FUTA.jpg"
 ---
 
 중학교 영어에서 자신감을 잃으면 안 됩니다. 부산 덕천동 학생 여러분, 지금 기초를 잡으면 고등학교가 훨씬 수월합니다.

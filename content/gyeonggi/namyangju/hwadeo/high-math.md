@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 ---
 지금이 수학을 잡을 최적의 시기입니다.
 

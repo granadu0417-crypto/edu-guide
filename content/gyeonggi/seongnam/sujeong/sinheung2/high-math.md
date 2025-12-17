@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0734_C7eQtdkINpc.jpg"
 ---
 고등학교 수학이 어려운 진짜 이유를 알려드립니다.
 

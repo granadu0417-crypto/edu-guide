@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안양고
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0166_B4Ngz_pdvz4.jpg"
 ---
 같은 시간을 공부해도 성적 차이가 나는 이유.
 

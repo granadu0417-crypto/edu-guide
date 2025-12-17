@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 양주중
-featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0307_eKRxDhh6meI.jpg"
 ---
 성적 향상의 기회를 잡으세요.
 

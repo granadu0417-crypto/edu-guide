@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 구리중
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0884_6SrQ_-Uk220.jpg"
 ---
 수학의 기초가 흔들리면 고등학교가 무너집니다.
 

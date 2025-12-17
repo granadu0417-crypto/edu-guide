@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0984_4cdEnaiSb8g.jpg"
 ---
 수학 때문에 힘들어하지 마세요.
 

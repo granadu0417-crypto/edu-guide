@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 평택중
-featured_image: "https://images.unsplash.com/photo-1596496181848-3091d4878b24?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0584_TLAuf1Z3VG8.jpg"
 ---
 등급을 올리고 싶다면 지금 시작하세요.
 

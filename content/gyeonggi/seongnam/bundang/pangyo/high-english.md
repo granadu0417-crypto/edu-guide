@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0629_HFi6XHkEynU.jpg"
 ---
 성적 향상의 시작점에 서세요.
 

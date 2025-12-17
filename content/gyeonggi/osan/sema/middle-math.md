@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 오산중
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0504_P7yu-JaYm64.jpg"
 ---
 수학 성적, 바뀔 수 있습니다.
 

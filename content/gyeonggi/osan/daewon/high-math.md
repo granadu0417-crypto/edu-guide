@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 오산고
-featured_image: "https://images.unsplash.com/photo-1580894732930-0babd100d356?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0490_pGnXCqKNhYA.jpg"
 ---
 고등학교 수학, 정복할 수 있습니다.
 

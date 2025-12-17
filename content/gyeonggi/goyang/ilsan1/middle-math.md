@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0704_mJaLWCgI1KY.jpg"
 ---
 수포자가 되기 전에 잡아야 합니다.
 

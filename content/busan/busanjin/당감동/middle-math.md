@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 당감동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0028_ec3SJoypVKM.jpg"
 ---
 
 수학 시험 볼 때마다 긴장되시나요? 부산 당감동 중학생이라면 지금 기초를 잡아야 합니다.

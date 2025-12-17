@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 오산고
-featured_image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0486_-hgJu2ykh4E.jpg"
 ---
 수학, 기초가 답입니다.
 

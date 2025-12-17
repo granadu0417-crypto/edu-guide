@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0907_PDRFeeDniCk.jpg"
 ---
 독해력을 키우면 성적이 오릅니다.
 

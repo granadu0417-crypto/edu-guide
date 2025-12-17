@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0698_Bgd_03zqF9Q.jpg"
 ---
 수학 공부의 돌파구를 찾아드립니다.
 

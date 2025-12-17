@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1581078426770-6d336e5de7bf?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0029_DRZB3gjiHeY.jpg"
 ---
 영어 성적, 바꿀 수 있습니다.
 

@@ -1,5 +1,5 @@
 ---
-title: "동구 과외 | 중등·고등 맞춤 과외"
+title: "대전 동구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "동구 중등·고등 수학·영어 과외. 동구고, 대전대신고, 보문고, 대성고 등 내신 완벽 대비."
 featured_image: "/images/edu_0326_n9AaeihA9HI.jpg"

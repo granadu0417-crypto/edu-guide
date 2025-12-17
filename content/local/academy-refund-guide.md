@@ -6,7 +6,7 @@ categories:
 reading_time: "160줄"
 description: "학원 환불 규정 완벽 가이드 | 법적 근거·정확한 환불 계산법·단계별 환불 절차·분쟁 해결 방법·필요 서류까지 상세 안내"
 tags: ["학원환불", "학원법", "환불규정", "소비자권리", "교육환불", "학원계약", "환불계산", "학원분쟁"]
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0241_Z44qEGdwaIo.jpg"
 ---
 
 ## 학원을 그만두려고 하는데 환불은 얼마나 받을 수 있나요? 학원에서 환불이 안 된다고 하는데 어떻게 해야 하죠?

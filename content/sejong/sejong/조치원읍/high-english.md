@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "세종 조치원읍 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0278_h6pUcouJ9BA.jpg"
 ---
 
 내신과 수능을 동시에 준비해야 하는 세종 조치원읍 학생들, 영어은 전략적으로 공부해야 합니다.

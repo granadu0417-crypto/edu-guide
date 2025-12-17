@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0430_FovL46JCjdk.jpg"
 ---
 제대로 된 수업이 성적을 바꿉니다.
 

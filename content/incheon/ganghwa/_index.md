@@ -1,5 +1,5 @@
 ---
-title: "강화군 과외 | 중등·고등 맞춤 과외"
+title: "강화군 과외 | 중등·고등 맞춤 과외 수학·영어"
 date: 2025-12-10
 description: "강화군 중등·고등 수학·영어 과외. 강화고, 강화여고, 합일고, 덕신고 등 내신 완벽 대비."
 featured_image: "/images/edu_0538_82HwZKi4fYI.jpg"

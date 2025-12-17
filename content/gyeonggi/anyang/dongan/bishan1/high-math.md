@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안양고
-featured_image: "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0134_zGn2cg9qBvU.jpg"
 ---
 문제 풀이 시간이 부족하다면 방법이 있습니다.
 

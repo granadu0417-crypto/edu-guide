@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "광주 신안동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0849_cwnuAihc4Lw.jpg"
 ---
 
 광주 신안동 고등학생 영어 성적 향상, 체계적인 과외로 가능합니다.

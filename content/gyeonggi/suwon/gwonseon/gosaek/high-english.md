@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0889_90gz3pn2AdQ.jpg"
 ---
 영어는 꾸준함이 답입니다.
 

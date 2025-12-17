@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안양중
-featured_image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0151_jAebodq7oxk.jpg"
 ---
 중학교 영어, 새롭게 시작해보세요.
 

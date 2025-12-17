@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0024_zgq9OXecyqI.jpg"
 ---
 혼자 공부하는 수학은 한계가 있습니다.
 

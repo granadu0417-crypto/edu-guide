@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0996_n-d2fx7Qbxw.jpg"
 ---
 지금 기초를 잡아야 고등학교가 편합니다.
 

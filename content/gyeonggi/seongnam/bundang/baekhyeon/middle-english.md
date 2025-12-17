@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0595_Os3OAZ30Og0.jpg"
 ---
 문법이 잡히면 자신감이 생깁니다.
 

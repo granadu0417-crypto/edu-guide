@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "광주시 실촌읍 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0929_yFpnkorlodo.jpg"
 ---
 
 광주시 실촌읍 학생 여러분, 영어 공부 어떻게 해야 할지 모르겠나요? 많은 학생들이 영어를 어려워합니다.

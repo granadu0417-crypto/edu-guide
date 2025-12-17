@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1580894908361-967195033215?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0746_5kfz_3mC2gI.jpg"
 ---
 수학의 기초가 흔들리면 모든 게 무너집니다.
 

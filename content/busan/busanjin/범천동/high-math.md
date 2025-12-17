@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 범천동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 ---
 
 수학 공식은 외웠는데 문제를 못 푸시나요? 부산 범천동 고등학생이라면 접근법을 바꿔야 합니다.

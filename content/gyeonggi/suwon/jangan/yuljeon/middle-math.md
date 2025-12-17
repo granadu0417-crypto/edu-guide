@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0976_uwNceBkSV3U.jpg"
 ---
 개념부터 문제 풀이까지, 완벽하게.
 

@@ -1,5 +1,5 @@
 ---
-title: "고등 AP과외 AP 시험 완벽 대비"
+title: "고등 AP과외 | AP 시험 완벽 대비 전략 가이드"
 date: 2025-01-26
 description: "고등 AP과외로 AP 시험을 완벽하게 대비합니다. 과목별 맞춤 학습과 고득점 전략 1:1 수업입니다."
 categories:

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "광주 비아동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0926_iggWDxHTAUQ.jpg"
 ---
 
 광주 비아동 학부모님, 아이의 수학 실력이 걱정되시죠? 전문 과외로 확실하게 잡아드립니다.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0721_CwC_2MmMdhA.jpg"
 ---
 영어의 기초가 흔들리면 한계가 옵니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 하남고
-featured_image: "https://images.unsplash.com/photo-1598025678451-af5c59b29c40?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0110_GWtB5_Ack7M.jpg"
 ---
 고등학교 수학, 혼자 하지 마세요.
 

@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 남동구 만수1동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 ---
 
 영어은 계단식 과목입니다. 인천 남동구 만수1동 학생 여러분, 기초부터 쌓아가세요.

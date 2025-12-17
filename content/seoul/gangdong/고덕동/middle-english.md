@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "서울 강동구 고덕동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0456_g3O5ZtRk2E4.jpg"
 ---
 
 고등학교 영어, 어디서부터 잡아야 할지 모르겠다면 강동구 고덕동에서 시작하세요.

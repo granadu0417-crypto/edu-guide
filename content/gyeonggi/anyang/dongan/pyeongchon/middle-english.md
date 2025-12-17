@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안양중
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0175_W9KUr9oKJoc.jpg"
 ---
 영어 성적이 오르지 않아 고민이신가요?
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0001_stwfGwdy67g.jpg"
 ---
 영어 성적, 올릴 수 있습니다.
 

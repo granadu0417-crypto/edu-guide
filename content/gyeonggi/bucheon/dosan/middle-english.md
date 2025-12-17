@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 부천중
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0283_ijhzqAm3N1Y.jpg"
 ---
 영어는 혼자 하면 늘지 않습니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 시흥중
-featured_image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0803_81-Sn_ab6IQ.jpg"
 ---
 같은 시간 공부해도 결과가 다른 이유.
 

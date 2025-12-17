@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 김포중
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0544_p_KJvKVsH14.jpg"
 ---
 수학 성적, 지금부터 올려보세요.
 

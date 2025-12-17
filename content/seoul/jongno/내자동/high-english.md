@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "서울 종로구 내자동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0702_tyIfU4epeC8.jpg"
 ---
 
 영어 점수가 안 오르는 종로구 내자동 학생들, 지금 시작해도 늦지 않았습니다.

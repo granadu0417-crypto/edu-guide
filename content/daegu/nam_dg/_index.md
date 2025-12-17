@@ -1,5 +1,5 @@
 ---
-title: "남구 과외 | 중등·고등 맞춤 과외"
+title: "대구 남구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "남구 중등·고등 수학·영어 과외. 남구고, 대명고, 영남고, 덕화여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0960_f2lCwI0V1BM.jpg"

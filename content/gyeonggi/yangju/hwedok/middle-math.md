@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 양주중
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0300_CtKO4NGiEhE.jpg"
 ---
 상위권을 만드는 공부법이 따로 있습니다.
 

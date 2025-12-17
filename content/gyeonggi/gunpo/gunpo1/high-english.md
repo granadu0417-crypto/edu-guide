@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 군포고
-featured_image: "https://images.unsplash.com/photo-1611351888222-c5797b8b5c2f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0857_NIdp9nL9JAg.jpg"
 ---
 고등학교 영어, 전략이 필요합니다.
 

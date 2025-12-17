@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "인천 연수구 연수2동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0209_2JIvboGLeho.jpg"
 ---
 
 인천 연수구 연수2동 고등학생 영어 성적 향상, 체계적인 과외로 가능합니다.

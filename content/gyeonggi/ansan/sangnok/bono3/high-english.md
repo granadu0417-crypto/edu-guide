@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0069_wWgfpLY7Ims.jpg"
 ---
 영어의 원리를 알면 지문이 보입니다.
 

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 화명동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0020_604JVKk-WZM.jpg"
 ---
 
 수학 점수가 오락가락한다면 기초가 불안한 겁니다. 부산 화명동 중학생 여러분, 지금 확인하세요.

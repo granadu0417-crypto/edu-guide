@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 광명중
-featured_image: "https://images.unsplash.com/photo-1596495578034-4b9c9c7b0de9?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0012_YQF3s4rs2ZE.jpg"
 ---
 성적 향상의 시작점에 서세요.
 

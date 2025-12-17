@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0675_hzuY8YVnUSA.jpg"
 ---
 영어 실력, 확실히 올려드립니다.
 

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 부전동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1491841573634-28140fc7ced7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0033_AiCJW1QhLB0.jpg"
 ---
 
 수능 영어 1등급, 생각보다 어렵지 않습니다. 부산 부전동 고등학생이라면 지금 방법을 바꿔보세요.

@@ -1,5 +1,5 @@
 ---
-title: "익산시 과외 | 중등·고등 맞춤 과외"
+title: "익산시 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "익산시 중등·고등 수학·영어 과외. 익산고, 이리고, 남성고, 원광고 등 내신 완벽 대비."
 featured_image: "/images/edu_0281_F8DmZwGFPwo.jpg"

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 명장동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1474932430478-367dbb6832c1?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0077_O0MACozeyPc.jpg"
 ---
 
 영어 때문에 대학 못 가면 너무 억울하지 않나요? 부산 명장동 고등학생이라면 지금 잡아야 합니다.

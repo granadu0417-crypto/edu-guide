@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 시흥중
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0775_f8kW9cbVzwM.jpg"
 ---
 단어만 외운다고 성적이 오르지 않습니다.
 

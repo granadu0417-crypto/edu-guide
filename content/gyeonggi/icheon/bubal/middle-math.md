@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 이천중
-featured_image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0276_CBztr5_8Hso.jpg"
 ---
 수학 공부의 돌파구를 찾아드립니다.
 

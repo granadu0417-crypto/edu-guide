@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 전포동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0047_ILPhgj8lowQ.jpg"
 ---
 
 영어 성적이 제자리인가요? 부산 전포동 중학생이라면 지금 방법을 바꿔야 합니다.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안양중
-featured_image: "https://images.unsplash.com/photo-1560785496-3c9d27877182?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0179_RVgS11Bv6So.jpg"
 ---
 중학교 영어를 잡아야 고등학교가 편합니다.
 

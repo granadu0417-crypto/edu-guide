@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 구리중
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0892_MbfoexSDPx0.jpg"
 ---
 수학, 어렵다고 피하면 안 됩니다.
 

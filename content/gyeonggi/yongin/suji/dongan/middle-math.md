@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 용인중
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0384_OCSpJFUXYds.jpg"
 ---
 수학 성적 향상, 함께하면 가능합니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 평택고
-featured_image: "https://images.unsplash.com/photo-1518435579668-52e6c59a7c85?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0585_okUVwmx7n2I.jpg"
 ---
 독해력 향상이 먼저입니다.
 

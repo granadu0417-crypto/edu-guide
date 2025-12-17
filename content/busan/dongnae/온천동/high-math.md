@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 온천동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0098_gCWabF9Z9pI.jpg"
 ---
 
 고등학교 수학, 어디서부터 손을 대야 할지 모르겠다면 읽어보세요. 부산 온천동 고등학생을 위한 수학 공부법입니다.

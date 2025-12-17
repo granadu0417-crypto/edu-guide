@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0401_e_0aPdC-UzQ.jpg"
 ---
 영어 성적, 3개월이면 달라질 수 있습니다.
 

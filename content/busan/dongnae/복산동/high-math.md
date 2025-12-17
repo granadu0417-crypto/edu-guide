@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 복산동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0082_Hav7EXRbDoE.jpg"
 ---
 
 수학 점수가 원하는 만큼 안 나오시나요? 부산 복산동 고등학생이라면 원인부터 찾아야 합니다.

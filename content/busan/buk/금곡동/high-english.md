@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 금곡동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0005_qqyomuTLOpo.jpg"
 ---
 
 영어 성적표를 받아들 때마다 한숨이 나오시나요? 부산 금곡동 고등학생 여러분, 영어는 노력하면 반드시 오르는 과목입니다.

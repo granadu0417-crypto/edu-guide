@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 화성중
-featured_image: "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0204_ft2uNDDP0HU.jpg"
 ---
 성적 향상의 비결을 알려드립니다.
 

@@ -1,5 +1,5 @@
 ---
-title: "원주시 과외 | 중등·고등 맞춤 과외"
+title: "원주시 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "원주시 중등·고등 수학·영어 과외. 원주고, 상지대부고, 진광고, 원주여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0977_1-YQiOijio8.jpg"

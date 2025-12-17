@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 가야동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0021_1KNAPQ9Oq6k.jpg"
 ---
 
 영어 성적표를 볼 때마다 한숨이 나온다면, 부산 가야동에서 제대로 시작해보세요.

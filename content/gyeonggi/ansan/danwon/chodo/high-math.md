@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0030_4r5Hogjbgkw.jpg"
 ---
 고등학교 수학, 중학교 때와 완전히 다릅니다.
 

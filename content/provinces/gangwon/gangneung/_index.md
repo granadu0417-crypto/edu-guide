@@ -1,5 +1,5 @@
 ---
-title: "강릉시 과외 | 중등·고등 맞춤 과외"
+title: "강릉시 과외 | 중등·고등 맞춤 과외 수학·영어"
 date: 2025-12-10
 description: "강릉시 중등·고등 수학·영어 과외. 강릉고, 명륜고, 강릉중앙고, 강릉여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0861_pZA4eNKBz20.jpg"

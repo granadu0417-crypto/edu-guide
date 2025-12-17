@@ -1,5 +1,5 @@
 ---
-title: "제주시 과외 | 중등·고등 맞춤 과외"
+title: "제주시 과외 | 중등·고등 맞춤 과외 내신 대비"
 date: 2025-12-10
 description: "제주시 중등·고등 수학·영어 과외. 제주고, 오현고, 제주여고, 제주중앙고 등 내신 완벽 대비."
 featured_image: "/images/edu_0165_oOEz7c7V3gk.jpg"

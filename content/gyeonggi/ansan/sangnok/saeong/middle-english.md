@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 안산중
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0087_mblRP7b3Ubo.jpg"
 ---
 영어, 시간 투자 대비 효과를 높여드립니다.
 

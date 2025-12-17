@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "안성시 서운면 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0114_bCdIx5LjrYo.jpg"
 ---
 
 안성시 서운면에서 수학 때문에 고민이신가요? 문제를 많이 풀어도 실력이 늘지 않는다면 방법이 잘못된 것입니다. 수학은 개념 이해가 먼저입니다. 공식을 외우기만 해서는 응용 문제를 풀 수 없습니다.

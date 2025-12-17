@@ -1,5 +1,5 @@
 ---
-title: "대덕구 과외 | 중등·고등 맞춤 과외"
+title: "대덕구 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "대덕구 중등·고등 수학·영어 과외. 대덕고, 신탄진고, 송촌고, 법동고 등 내신 완벽 대비."
 featured_image: "/images/edu_0517_aM2rIxOeEQc.jpg"

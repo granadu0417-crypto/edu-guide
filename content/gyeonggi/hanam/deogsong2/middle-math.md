@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 하남중
-featured_image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0092_JexAuNCfefs.jpg"
 ---
 수학 실력, 키울 수 있습니다.
 

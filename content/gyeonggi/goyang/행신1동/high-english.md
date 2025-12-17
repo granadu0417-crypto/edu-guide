@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 고양시 행신1동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0813_c7TQmOOaKbM.jpg"
 ---
 
 고양시 행신1동 고등학생 여러분, 영어은 포기 과목이 아닙니다. 제대로 된 방법으로 공부하면 성적이 오릅니다.

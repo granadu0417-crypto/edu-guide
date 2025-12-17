@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 용인시 풍덕천1동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0498_w55SpMmoPgE.jpg"
 ---
 
 용인시 풍덕천1동에서 수학 과외 알아보시나요? 학생의 수준에 맞춘 1:1 수업을 제공합니다.

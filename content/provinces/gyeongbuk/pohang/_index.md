@@ -1,5 +1,5 @@
 ---
-title: "포항시 과외 | 중등·고등 맞춤 과외"
+title: "포항시 과외 | 중등·고등 맞춤 과외 수학·영어 전문"
 date: 2025-12-10
 description: "포항시 중등·고등 수학·영어 과외. 포항고, 포항제철고, 포항여고, 영흥고 등 내신 완벽 대비."
 featured_image: "/images/edu_0325_wUU86kym4EA.jpg"

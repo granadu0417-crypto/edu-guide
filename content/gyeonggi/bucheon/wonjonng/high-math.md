@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 부천고
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0318_veFJDSGg4IM.jpg"
 ---
 수학, 기초부터 다시 시작해도 괜찮습니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 화성고
-featured_image: "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0198_vdXMSiX-n6M.jpg"
 ---
 고등학교 수학의 핵심을 잡아드립니다.
 

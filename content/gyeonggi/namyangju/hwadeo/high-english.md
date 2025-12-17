@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0413_HaU6PimvBQw.jpg"
 ---
 영어는 혼자 하면 늘지 않습니다.
 

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 양정동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1596495578065-6e0763fa1178?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 ---
 
 수학을 포기하기엔 아직 이릅니다. 부산 양정동 중학생이라면 지금 다시 시작할 수 있습니다.

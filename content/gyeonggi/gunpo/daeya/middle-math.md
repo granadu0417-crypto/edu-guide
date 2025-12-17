@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 군포중
-featured_image: "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0848_enkc-M8PNhc.jpg"
 ---
 수학 과외, 제대로 받으면 달라집니다.
 

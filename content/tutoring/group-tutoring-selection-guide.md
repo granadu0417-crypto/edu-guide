@@ -14,7 +14,7 @@ tags:
 - 맞춤학습
 description: 그룹 과외의 모든 것을 담았습니다. 인원별 장단점, 친구 구성법, 효과적인 운영 방법까지 완벽 가이드입니다 과외 선택부터 효과적인
   활용까지, 1:1 맞춤 지도의 모든 것을 알려드립니다. 검증된 정보로 현명한 선택을 도와드립니다. 효과적인 1:1 맞춤 학습을 경험하세요.
-featured_image: "https://images.unsplash.com/photo-1650089271678-1b54f3c3e9e5?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0508_iHUaev9SKRI.jpg"
 reading_time: 160줄
 ---
 

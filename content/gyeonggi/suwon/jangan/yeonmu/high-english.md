@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0969_DmeZC9riGkk.jpg"
 ---
 같은 시간 공부해도 결과가 다른 이유.
 

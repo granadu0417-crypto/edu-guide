@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 파주중
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0528_m6SdXgCMXvA.jpg"
 ---
 지금 기초를 잡아야 고등학교가 편합니다.
 

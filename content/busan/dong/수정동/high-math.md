@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "부산 수정동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1544717305-2782549b5136?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0058_zn9QqA-JTmY.jpg"
 ---
 
 수학 때문에 잠을 못 자고 있나요? 부산 수정동 고등학생이라면 지금 전략을 바꿔야 합니다.

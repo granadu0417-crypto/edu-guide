@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 분당고
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0597_qPl8Qy8NPyY.jpg"
 ---
 고등학교 영어의 핵심을 잡아드립니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 김포고
-featured_image: "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0565_u7i3ZvZOEUM.jpg"
 ---
 1등급 학생들의 공부법은 다릅니다.
 

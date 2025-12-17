@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 분당중
-featured_image: "https://images.unsplash.com/photo-1511629091441-ee46146481b6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0715_4fR4tXpSSkU.jpg"
 ---
 영어 성적이 오르지 않아 고민이신가요?
 

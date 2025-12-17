@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 범천동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0031_XFajQ988KNI.jpg"
 ---
 
 영어 문장이 길어지면 해석이 안 되나요? 부산 범천동 중학생이라면 지금 문법을 잡아야 합니다.

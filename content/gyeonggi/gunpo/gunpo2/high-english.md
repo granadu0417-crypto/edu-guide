@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 군포고
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0861_pZA4eNKBz20.jpg"
 ---
 영어 공부의 방향을 잡아드립니다.
 

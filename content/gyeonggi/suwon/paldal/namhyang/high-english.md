@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 수원외고
-featured_image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0005_qqyomuTLOpo.jpg"
 ---
 독해력을 키우면 성적이 오릅니다.
 

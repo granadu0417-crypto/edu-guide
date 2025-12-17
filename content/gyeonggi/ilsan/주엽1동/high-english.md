@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 고양시 주엽1동 지역 고등 영어 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0365_yW-Qgw_IJXg.jpg"
 ---
 
 고등학교 영어, 어디서부터 잡아야 할지 모르겠다면 고양시 주엽1동에서 시작하세요.

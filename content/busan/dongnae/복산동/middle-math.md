@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 복산동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0084_g4WinrGsMl0.jpg"
 ---
 
 수학 성적표를 보며 한숨 쉬고 계신가요? 부산 복산동 학부모님이라면 걱정 마세요.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안양고
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0177_EIUy0Ubpe6U.jpg"
 ---
 영어 성적, 지금부터 올려보세요.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1596495577933-6c64e3a7d20a?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0434_s1jiWXu6lHU.jpg"
 ---
 수학 성적, 상승 곡선을 그려보세요.
 

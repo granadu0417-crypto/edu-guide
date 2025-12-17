@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0916_yvTRTEnoL1k.jpg"
 ---
 성적 향상, 시작은 지금입니다.
 

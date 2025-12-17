@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0056_FMk_-rH3zjg.jpg"
 ---
 수학, 어디서부터 시작해야 할지 모르겠다면
 

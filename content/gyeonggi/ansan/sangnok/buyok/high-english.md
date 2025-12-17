@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안산고
-featured_image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0073_kcT-7cirBEw.jpg"
 ---
 영어 성적 향상, 함께하면 가능합니다.
 

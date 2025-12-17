@@ -1,5 +1,5 @@
 ---
-title: "진주시 과외 | 중등·고등 맞춤 과외"
+title: "진주시 과외 | 중등·고등 맞춤 과외 수학·영어"
 date: 2025-12-10
 description: "진주시 중등·고등 수학·영어 과외. 진주고, 경남고, 진주여고, 대아고 등 내신 완벽 대비."
 featured_image: "/images/edu_0852_FqJXv_wO-GY.jpg"

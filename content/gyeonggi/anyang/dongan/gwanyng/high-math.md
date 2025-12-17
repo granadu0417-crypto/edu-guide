@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 안양고
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0158_U3Ptj3jafX8.jpg"
 ---
 수능 수학 1등급의 비결을 알려드립니다.
 

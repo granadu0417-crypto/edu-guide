@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 양주중
-featured_image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0287_XkKCui44iM0.jpg"
 ---
 문법을 알면 독해가 쉬워집니다.
 

@@ -1,5 +1,5 @@
 ---
-title: "중구 과외 | 중등·고등 맞춤 과외"
+title: "울산 중구 과외 | 중등·고등 맞춤 과외"
 date: 2025-12-10
 description: "중구 중등·고등 수학·영어 과외. 중앙고, 울산여고, 함월고, 학성여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0801_RQjVO9KFMUg.jpg"

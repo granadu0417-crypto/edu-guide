@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 남양주중
-featured_image: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0420_kGUmNEYaSMY.jpg"
 ---
 개념을 알면 문제가 쉬워집니다.
 

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 일산중
-featured_image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0680_ZPkG0EdWQa8.jpg"
 ---
 수학 공부, 제대로 해봅시다.
 

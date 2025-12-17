@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 김포고
-featured_image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0549_W-BwZe5I3Z8.jpg"
 ---
 영어 때문에 대학 못 가면 억울합니다.
 

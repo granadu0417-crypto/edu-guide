@@ -1,5 +1,5 @@
 ---
-title: "광명시 광명6동 과외"
+title: "경기 광명시 gwangmyeong6 과외 | 중등·고등 맞춤 수업"
 date: 2025-01-15
 description: "광명시 광명6동 지역 과외 정보."
 ---

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 김포고
-featured_image: "https://images.unsplash.com/photo-1516796181074-bf453fbfa3e6?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0574_8vn4KvfU640.jpg"
 ---
 수학의 원리를 알면 문제가 보입니다.
 

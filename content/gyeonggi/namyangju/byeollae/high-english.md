@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 남양주고
-featured_image: "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0393_wFpe6LYz27c.jpg"
 ---
 영어, 제대로 배우면 오릅니다.
 

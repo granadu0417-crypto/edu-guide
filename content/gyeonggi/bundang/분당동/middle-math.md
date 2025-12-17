@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "경기 성남시 분당동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0452_oEth91n2dhQ.jpg"
 ---
 
 성남시 분당동에서 수학 전문 과외를 찾으신다면 주목하세요.

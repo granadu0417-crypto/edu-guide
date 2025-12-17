@@ -1,5 +1,5 @@
 ---
-title: "여수시 과외 | 중등·고등 맞춤 과외"
+title: "여수시 과외 | 중등·고등 맞춤 과외 수학·영어"
 date: 2025-12-10
 description: "여수시 중등·고등 수학·영어 과외. 여수고, 여천고, 여수여고, 중앙여고 등 내신 완벽 대비."
 featured_image: "/images/edu_0357_Y8TiLvKnLeg.jpg"

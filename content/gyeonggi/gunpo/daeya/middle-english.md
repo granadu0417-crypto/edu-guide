@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 군포중
-featured_image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0847_Zck1ap7muew.jpg"
 ---
 중학교 영어, 함께 풀어나가요.
 

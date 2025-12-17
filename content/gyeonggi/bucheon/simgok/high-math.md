@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 부천고
-featured_image: "https://images.unsplash.com/photo-1607013407627-6ee814329547?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0306_usdlEYpKueY.jpg"
 ---
 수학 성적 올리기, 생각보다 어렵지 않습니다.
 

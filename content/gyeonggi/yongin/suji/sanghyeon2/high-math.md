@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 용인고
-featured_image: "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0414_tOVmshavtoo.jpg"
 ---
 개념 이해가 먼저입니다.
 

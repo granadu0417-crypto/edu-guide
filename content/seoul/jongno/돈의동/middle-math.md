@@ -13,7 +13,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "서울 종로구 돈의동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0725__NVv2eYwaYs.jpg"
 ---
 
 종로구 돈의동에서 수학 전문 과외를 찾으신다면 주목하세요.

@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 평택고
-featured_image: "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0561_2MkOQs3KrQY.jpg"
 ---
 고등학교 영어, 혼자 하지 마세요.
 

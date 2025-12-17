@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 광명고
-featured_image: "https://images.unsplash.com/photo-1544717305-f9c88f2897bc?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0998_ppeg9hVJvUc.jpg"
 ---
 수학 공부법을 바꾸면 결과가 바뀝니다.
 

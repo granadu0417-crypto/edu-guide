@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초수학
 description: "부산 사직동 지역 중등 수학 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0088_-2vD8lIhdnw.jpg"
 ---
 
 수학 점수가 생각만큼 안 나오시나요? 부산 사직동 중학생이라면 방법을 바꿔볼 때입니다.

@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 수능대비
 description: "광주 매곡동 지역 고등 수학 과외 전문. 학생 맞춤 1:1 수업으로 내신과 수능을 동시에 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0842_3A9-18atj_o.jpg"
 ---
 
 수학은 계단식 과목입니다. 광주 매곡동 학생 여러분, 앞 단계를 완벽히 이해해야 다음 단계로 넘어갈 수 있습니다.

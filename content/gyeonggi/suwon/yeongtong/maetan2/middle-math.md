@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 수원중
-featured_image: "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0040_EYkx28n9Gi0.jpg"
 ---
 수학을 잘하는 학생들의 비결이 있습니다.
 

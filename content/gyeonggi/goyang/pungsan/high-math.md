@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0750_3HI5vRAI178.jpg"
 ---
 수학, 시간 투자 대비 효과를 높여드립니다.
 

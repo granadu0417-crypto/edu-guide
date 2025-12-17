@@ -1,5 +1,5 @@
 ---
-title: "구미시 과외 | 중등·고등 맞춤 과외"
+title: "구미시 과외 | 중등·고등 맞춤 과외 학교별 맞춤"
 date: 2025-12-10
 description: "구미시 중등·고등 수학·영어 과외. 구미고, 금오고, 구미여고, 현일고 등 내신 완벽 대비."
 featured_image: "/images/edu_0121_GDokEYnOfnE.jpg"

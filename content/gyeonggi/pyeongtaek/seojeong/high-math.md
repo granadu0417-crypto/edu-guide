@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 평택고
-featured_image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0574_8vn4KvfU640.jpg"
 ---
 고등학교 수학, 기초부터 심화까지.
 

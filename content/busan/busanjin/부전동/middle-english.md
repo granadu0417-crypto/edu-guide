@@ -12,7 +12,7 @@ tags:
 - 내신대비
 - 기초영어
 description: "부산 부전동 지역 중등 영어 과외 전문. 학생 맞춤 1:1 수업으로 기초부터 탄탄하게 준비합니다."
-featured_image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0035_iaJ6xi44LTU.jpg"
 ---
 
 영어 성적이 오르지 않아 고민이신가요? 부산 부전동 중학생이라면 지금이 기회입니다.

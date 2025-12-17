@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 선행학습
   - 부천중
-featured_image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0327_tz7CUhdxwW4.jpg"
 ---
 영어 과외, 제대로 받으면 달라집니다.
 

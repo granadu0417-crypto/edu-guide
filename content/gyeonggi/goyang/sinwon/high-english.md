@@ -18,7 +18,7 @@ tags:
   - 내신관리
   - 수능대비
   - 일산고
-featured_image: "https://images.unsplash.com/photo-1611329857570-f02f340e7378?w=1200&h=630&fit=crop"
+featured_image: "/images/edu_0769_hMGhFaFMG2I.jpg"
 ---
 영어 실력은 훈련으로 키워집니다.
 
