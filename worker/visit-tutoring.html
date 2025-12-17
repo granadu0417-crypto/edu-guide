@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>방문과외 | 1:1 맞춤 가정방문 수업 | 과외를부탁해</title>
+    <meta name="description" content="초중고 전문 1:1 방문과외, 내신부터 수능까지 개별 맞춤 대비! 검증된 선생님이 직접 방문합니다.">
+    <meta property="og:title" content="전국 방문과외 전문 - 과외를부탁해">
+    <meta property="og:description" content="초중고 전문 1:1 방문과외, 내신부터 수능까지 개별 맞춤 대비!">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Noto Sans KR', sans-serif; color: #333; line-height: 1.6; }
+
+        /* Header */
+        .header {
+            background: #fff;
+            padding: 15px 20px;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo { font-size: 1.4rem; font-weight: 700; color: #FF6B35; text-decoration: none; }
+        .header-btn {
+            background: #FF6B35;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%);
+            padding: 120px 20px 80px;
+            text-align: center;
+            color: #fff;
+        }
+        .hero-badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin-bottom: 20px;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            line-height: 1.3;
+        }
+        .hero p {
+            font-size: 1.1rem;
+            opacity: 0.95;
+            margin-bottom: 30px;
+        }
+        .hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+        .stat-item { text-align: center; }
+        .stat-label { font-size: 0.85rem; opacity: 0.9; }
+        .stat-value { font-size: 2rem; font-weight: 700; }
+        .hero-cta {
+            display: inline-block;
+            background: #fff;
+            color: #FF6B35;
+            padding: 15px 40px;
+            border-radius: 30px;
+            font-weight: 700;
+            font-size: 1.1rem;
+            text-decoration: none;
+            margin-top: 30px;
+            transition: transform 0.3s;
+        }
+        .hero-cta:hover { transform: translateY(-3px); }
+
+        /* Promo Banner */
+        .promo-banner {
+            background: #1a1a2e;
+            color: #fff;
+            text-align: center;
+            padding: 15px 20px;
+            font-size: 1rem;
+        }
+        .promo-banner strong { color: #FFD700; }
+
+        /* Section Styles */
+        .section { padding: 80px 20px; }
+        .section-title {
+            text-align: center;
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            color: #1a1a2e;
+        }
+        .section-subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 50px;
+        }
+        .container { max-width: 1100px; margin: 0 auto; }
+
+        /* Benefits */
+        .benefits { background: #f8f9fa; }
+        .benefits-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+        .benefit-card {
+            background: #fff;
+            padding: 35px 25px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        .benefit-icon { font-size: 3rem; margin-bottom: 20px; }
+        .benefit-card h3 { font-size: 1.1rem; margin-bottom: 12px; color: #1a1a2e; }
+        .benefit-card p { color: #666; font-size: 0.95rem; }
+
+        /* Features */
+        .features { background: #fff; }
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 25px;
+        }
+        .feature-card {
+            background: linear-gradient(135deg, #fff5f0 0%, #fff 100%);
+            padding: 30px 25px;
+            border-radius: 15px;
+            border-left: 4px solid #FF6B35;
+        }
+        .feature-number {
+            display: inline-block;
+            background: #FF6B35;
+            color: #fff;
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            border-radius: 50%;
+            text-align: center;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+        .feature-card h3 { font-size: 1.1rem; margin-bottom: 10px; color: #1a1a2e; }
+        .feature-card p { color: #666; font-size: 0.9rem; }
+
+        /* Process */
+        .process { background: #1a1a2e; color: #fff; }
+        .process .section-title { color: #fff; }
+        .process .section-subtitle { color: rgba(255,255,255,0.7); }
+        .process-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+        .process-card {
+            background: rgba(255,255,255,0.1);
+            padding: 30px 20px;
+            border-radius: 12px;
+            text-align: center;
+        }
+        .process-number {
+            display: inline-block;
+            background: #FF6B35;
+            color: #fff;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            border-radius: 50%;
+            font-weight: 700;
+            margin-bottom: 15px;
+        }
+        .process-card h3 { font-size: 1.1rem; margin-bottom: 10px; }
+        .process-card p { font-size: 0.9rem; opacity: 0.8; }
+
+        /* Results */
+        .results { background: #f8f9fa; }
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .result-card {
+            background: #fff;
+            padding: 35px 20px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+        .result-icon { font-size: 2.5rem; margin-bottom: 15px; }
+        .result-card h3 { font-size: 0.95rem; color: #666; margin-bottom: 10px; }
+        .result-value { font-size: 2rem; font-weight: 700; color: #FF6B35; }
+
+        /* Subjects */
+        .subjects { background: #fff; }
+        .subjects-grid {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .subject-tag {
+            background: #f0f0f0;
+            padding: 12px 25px;
+            border-radius: 25px;
+            font-weight: 500;
+        }
+
+        /* Contact */
+        .contact {
+            background: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%);
+            padding: 80px 20px;
+            text-align: center;
+            color: #fff;
+        }
+        .contact h2 { font-size: 2rem; margin-bottom: 15px; }
+        .contact > p { opacity: 0.95; margin-bottom: 40px; }
+        .contact-grid {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .contact-card {
+            background: #fff;
+            padding: 25px 30px;
+            border-radius: 15px;
+            text-decoration: none;
+            color: #333;
+            min-width: 250px;
+            transition: transform 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .contact-card:hover { transform: translateY(-5px); }
+        .contact-card img { width: 45px; height: 45px; }
+        .contact-info { text-align: left; }
+        .contact-label { font-weight: 600; font-size: 1rem; color: #333; }
+        .contact-detail { font-size: 0.85rem; color: #666; }
+        .contact-note { margin-top: 25px; font-size: 0.85rem; opacity: 0.9; }
+
+        /* Footer */
+        .footer {
+            background: #222;
+            color: #888;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .footer-logo { font-size: 1.2rem; color: #fff; margin-bottom: 15px; }
+        .footer p { font-size: 0.85rem; line-height: 1.8; }
+
+        /* Bottom Banner */
+        .bottom-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: #1a1a2e;
+            color: #fff;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            z-index: 1000;
+        }
+        .bottom-banner p { font-size: 0.95rem; }
+        .bottom-banner em { color: #FFD700; font-style: normal; font-weight: 600; }
+        .bottom-banner a {
+            background: #FF6B35;
+            color: #fff;
+            padding: 12px 25px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 1.8rem; }
+            .hero-stats { gap: 25px; }
+            .stat-value { font-size: 1.5rem; }
+            .section-title { font-size: 1.6rem; }
+            .results-grid { grid-template-columns: 1fr; max-width: 300px; }
+            .bottom-banner { flex-direction: column; gap: 10px; padding: 12px 15px; }
+            .bottom-banner p { font-size: 0.85rem; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <a href="/" class="logo">과외를부탁해</a>
+        <a href="#contact" class="header-btn">무료 상담받기</a>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-badge">🏠 전국 방문과외 전문</div>
+        <h1>선생님이 직접 방문하는<br>1:1 맞춤 과외</h1>
+        <p>검증된 선생님이 집으로 찾아갑니다. 내신부터 수능까지 완벽 대비!</p>
+        <div class="hero-stats">
+            <div class="stat-item">
+                <div class="stat-label">교육노하우</div>
+                <div class="stat-value">30년</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-label">누적회원수</div>
+                <div class="stat-value">100만</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-label">회원만족도</div>
+                <div class="stat-value">96.7%</div>
+            </div>
+        </div>
+        <a href="#contact" class="hero-cta">지금 상담 신청하기</a>
+    </section>
+
+    <!-- Promo Banner -->
+    <div class="promo-banner">
+        🎁 지금 수업 진행 시, <strong>110만원 상당의 혜택</strong> 제공!
+    </div>
+
+    <!-- Benefits Section -->
+    <section class="section benefits">
+        <div class="container">
+            <h2 class="section-title">방문과외, 이런 분들께 추천합니다</h2>
+            <p class="section-subtitle">1:1 맞춤 수업으로 확실한 성적 향상을 경험하세요</p>
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <div class="benefit-icon">👨‍🏫</div>
+                    <h3>선생님의 직접 관리가 필요한 학생</h3>
+                    <p>눈앞에서 밀착 지도받으며 집중력 있게 공부할 수 있습니다.</p>
+                </div>
+                <div class="benefit-card">
+                    <div class="benefit-icon">🏠</div>
+                    <h3>이동 없이 편하게 수업받고 싶은 학생</h3>
+                    <p>집에서 편안하게 수업받아 학습 효율이 높아집니다.</p>
+                </div>
+                <div class="benefit-card">
+                    <div class="benefit-icon">📚</div>
+                    <h3>학원에서 효과를 못 본 학생</h3>
+                    <p>1:1 맞춤 커리큘럼으로 부족한 부분만 집중 보완합니다.</p>
+                </div>
+                <div class="benefit-card">
+                    <div class="benefit-icon">🎯</div>
+                    <h3>내신과 수능 둘 다 잡고 싶은 학생</h3>
+                    <p>학교별 내신 대비와 수능 준비를 병행할 수 있습니다.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="section features">
+        <div class="container">
+            <h2 class="section-title">과외를부탁해 방문과외가 특별한 이유</h2>
+            <p class="section-subtitle">검증된 시스템으로 확실한 성적 향상을 보장합니다</p>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-number">1</div>
+                    <h3>검증된 선생님 매칭</h3>
+                    <p>학력, 경력, 수업 스타일까지 검증된 선생님만 매칭</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-number">2</div>
+                    <h3>학생 맞춤 커리큘럼</h3>
+                    <p>학생의 수준과 목표에 맞는 개인별 학습 계획 수립</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-number">3</div>
+                    <h3>정기 학습 리포트</h3>
+                    <p>매 수업 후 학습 상황을 학부모님께 상세히 보고</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-number">4</div>
+                    <h3>내신 기출 분석</h3>
+                    <p>학교별 기출문제 분석으로 내신 완벽 대비</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Process Section -->
+    <section class="section process">
+        <div class="container">
+            <h2 class="section-title">방문과외 진행 과정</h2>
+            <p class="section-subtitle">간편한 4단계로 시작하세요</p>
+            <div class="process-grid">
+                <div class="process-card">
+                    <div class="process-number">1</div>
+                    <h3>상담 신청</h3>
+                    <p>학생 상황과 목표를 상담합니다</p>
+                </div>
+                <div class="process-card">
+                    <div class="process-number">2</div>
+                    <h3>선생님 매칭</h3>
+                    <p>최적의 선생님을 추천해드립니다</p>
+                </div>
+                <div class="process-card">
+                    <div class="process-number">3</div>
+                    <h3>무료 시범수업</h3>
+                    <p>수업 스타일을 직접 체험해봅니다</p>
+                </div>
+                <div class="process-card">
+                    <div class="process-number">4</div>
+                    <h3>정규 수업 시작</h3>
+                    <p>맞춤 커리큘럼으로 학습 시작</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Results Section -->
+    <section class="section results">
+        <div class="container">
+            <h2 class="section-title">실제 학생들의 성과</h2>
+            <p class="section-subtitle">데이터로 증명하는 과외를부탁해의 성과</p>
+            <div class="results-grid">
+                <div class="result-card">
+                    <div class="result-icon">📈</div>
+                    <h3>평균 성적 향상</h3>
+                    <div class="result-value">2등급 UP</div>
+                </div>
+                <div class="result-card">
+                    <div class="result-icon">🎯</div>
+                    <h3>목표 달성률</h3>
+                    <div class="result-value">94.3%</div>
+                </div>
+                <div class="result-card">
+                    <div class="result-icon">⭐</div>
+                    <h3>학부모 만족도</h3>
+                    <div class="result-value">96.7%</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Subjects Section -->
+    <section class="section subjects">
+        <div class="container">
+            <h2 class="section-title">수업 가능 과목</h2>
+            <p class="section-subtitle">초등학생부터 고등학생까지 전 과목 수업 가능</p>
+            <div class="subjects-grid">
+                <span class="subject-tag">📐 수학</span>
+                <span class="subject-tag">📖 영어</span>
+                <span class="subject-tag">📝 국어</span>
+                <span class="subject-tag">🔬 과학</span>
+                <span class="subject-tag">🌍 사회</span>
+                <span class="subject-tag">✏️ 논술</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <h2>지금 바로 상담받으세요!</h2>
+        <p>전문 학습 코치가 1:1 맞춤 상담을 도와드립니다.</p>
+        <div class="contact-grid">
+            <a href="tel:010-9220-0653" class="contact-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="전화">
+                <div class="contact-info">
+                    <div class="contact-label">전화상담</div>
+                    <div class="contact-detail">010-9220-0653</div>
+                </div>
+            </a>
+            <a href="http://pf.kakao.com/_mELUxj/chat" target="_blank" class="contact-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111466.png" alt="카카오톡">
+                <div class="contact-info">
+                    <div class="contact-label">카카오톡 상담</div>
+                    <div class="contact-detail">실시간 채팅 상담</div>
+                </div>
+            </a>
+            <a href="https://naver.me/FGENm9ex" target="_blank" class="contact-card">
+                <img src="https://cdn-icons-png.flaticon.com/512/2111/2111320.png" alt="네이버">
+                <div class="contact-info">
+                    <div class="contact-label">무료체험 신청</div>
+                    <div class="contact-detail">부담없이 체험해보세요</div>
+                </div>
+            </a>
+        </div>
+        <p class="contact-note">※ 상담 가능 시간: 평일 09:00 - 21:00 / 주말 10:00 - 18:00</p>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p class="footer-logo">📚 과외를부탁해</p>
+        <p>초등학생부터 고등학생까지 학습에 필요한 모든 정보를 한곳에서</p>
+        <p>© 2025 과외를부탁해. All rights reserved.</p>
+    </footer>
+
+    <!-- Bottom Banner -->
+    <div class="bottom-banner">
+        <p>방문과외 상담 시, <em>특별 혜택</em> 제공!</p>
+        <a href="#contact">지금 상담 신청하기</a>
+    </div>
+</body>
+</html>

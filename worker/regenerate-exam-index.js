@@ -1,0 +1,166 @@
+// /exam/ 인덱스 페이지 재생성 스크립트
+// 시험 대비 가이드 - 카드 그리드 UI + 페이지네이션 버전
+
+const fs = require('fs');
+const path = require('path');
+
+const contentDir = path.join(__dirname, '..', 'content', 'exam');
+const outputFile = path.join(__dirname, 'exam-index-update.json');
+
+const ITEMS_PER_PAGE = 12;
+
+const defaultImages = [
+  'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=450&fit=crop',
+  'https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&h=450&fit=crop',
+  'https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=800&h=450&fit=crop',
+  'https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=800&h=450&fit=crop',
+  'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop'
+];
+
+function parseYaml(content) {
+  const match = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!match) return null;
+  const yaml = match[1];
+  const result = {};
+  const titleMatch = yaml.match(/title:\s*"?([^"\n]+)"?/);
+  if (titleMatch) result.title = titleMatch[1].trim();
+  const descMatch = yaml.match(/description:\s*"?([^"\n]+)"?/);
+  if (descMatch) result.description = descMatch[1].trim().substring(0, 120);
+  const dateMatch = yaml.match(/date:\s*(\d{4}-\d{2}-\d{2})/);
+  if (dateMatch) result.date = dateMatch[1];
+  const imgMatch = yaml.match(/featured_image:\s*"?([^"\n]+)"?/);
+  if (imgMatch) result.featured_image = imgMatch[1].trim();
+  return result;
+}
+
+async function main() {
+  console.log('=== /exam/ 인덱스 페이지 재생성 (카드 그리드 UI + 페이지네이션) ===\n');
+
+  const files = fs.readdirSync(contentDir)
+    .filter(f => f.endsWith('.md') && f !== '_index.md');
+  console.log(`총 파일 수: ${files.length}`);
+
+  const articles = [];
+  for (let i = 0; i < files.length; i++) {
+    const file = files[i];
+    const filePath = path.join(contentDir, file);
+    const content = fs.readFileSync(filePath, 'utf8');
+    const meta = parseYaml(content);
+    if (meta && meta.title) {
+      const slug = file.replace('.md', '');
+      let image = meta.featured_image;
+      if (!image || image === '/images/default.jpg') {
+        image = defaultImages[i % defaultImages.length];
+      }
+      articles.push({
+        title: meta.title,
+        url: `/exam/${slug}/`,
+        description: meta.description || '시험 대비에 관한 유용한 정보를 확인하세요.',
+        date: meta.date || '2025-10-28',
+        image: image
+      });
+    }
+  }
+
+  articles.sort((a, b) => new Date(b.date) - new Date(a.date));
+  console.log(`생성할 글 목록: ${articles.length}개 (${Math.ceil(articles.length / ITEMS_PER_PAGE)}페이지)`);
+
+  const itemListElement = articles.map((article, index) => ({
+    "@type": "ListItem", "position": index + 1,
+    "item": { "@type": "Article", "name": article.title, "url": `https://edukoreaai.com${article.url}`,
+      "description": article.description, "datePublished": article.date, "image": article.image,
+      "author": { "@type": "Organization", "name": "과외를부탁해 편집팀" } }
+  }));
+
+  const html = generateHtml(articles, itemListElement);
+  const kvData = [{ key: "/exam/index", value: html }];
+  fs.writeFileSync(outputFile, JSON.stringify(kvData, null, 2));
+  console.log(`\n✅ 생성 완료: ${outputFile}`);
+  console.log(`npx wrangler kv bulk put "exam-index-update.json" --namespace-id 725aefb7b1c64c6c90d2cf4daf061bf3 --remote`);
+}
+
+function generateHtml(articles, itemListElement) {
+  const title = '시험 대비 전략 | 중간고사 기말고사 수능 | 과외를부탁해';
+  const description = '중간고사, 기말고사, 수능 대비를 위한 전략 가이드입니다. 시험 유형별 공부법, 시간 관리, 컨디션 조절까지 꼼꼼하게 안내합니다.';
+  const jsonLd = { "@context": "https://schema.org", "@type": "ItemList", "name": "시험 대비 전략",
+    "description": description, "url": "https://edukoreaai.com/exam/", "numberOfItems": articles.length, "itemListElement": itemListElement };
+
+  const totalPages = Math.ceil(articles.length / ITEMS_PER_PAGE);
+
+  const articleCards = articles.map((article, index) => `
+<a href="${article.url}" class="guide-card" data-index="${index}">
+<div class="guide-card-image-wrapper"><img src="${article.image}" alt="${article.title}" class="guide-card-image" loading="lazy"></div>
+<div class="guide-card-content"><span class="guide-card-category">시험대비</span><h3 class="guide-card-title">${article.title}</h3>
+<p class="guide-card-desc">${article.description}</p><div class="guide-card-footer"><span class="guide-card-date">${article.date}</span><span class="guide-card-arrow">→</span></div></div></a>`).join('\n');
+
+  const paginationHtml = totalPages > 1 ? `
+<div class="pagination" id="pagination">
+<button class="pagination-btn" id="prevBtn" onclick="changePage(-1)">← 이전</button>
+<div id="pageNumbers"></div>
+<button class="pagination-btn" id="nextBtn" onclick="changePage(1)">다음 →</button>
+</div>
+<div class="pagination-info" id="pageInfo"></div>` : '';
+
+  const paginationJs = totalPages > 1 ? `
+<script>
+(function(){
+const ITEMS_PER_PAGE=${ITEMS_PER_PAGE},TOTAL=${articles.length},TOTAL_PAGES=${totalPages};
+let currentPage=1;
+function showPage(p){
+currentPage=Math.max(1,Math.min(p,TOTAL_PAGES));
+const cards=document.querySelectorAll('.guide-card');
+const start=(currentPage-1)*ITEMS_PER_PAGE,end=start+ITEMS_PER_PAGE;
+cards.forEach((c,i)=>{c.style.display=(i>=start&&i<end)?'flex':'none';});
+document.getElementById('prevBtn').disabled=currentPage===1;
+document.getElementById('nextBtn').disabled=currentPage===TOTAL_PAGES;
+document.getElementById('pageInfo').textContent='총 '+TOTAL+'개 중 '+(start+1)+'-'+Math.min(end,TOTAL)+'번째';
+renderPageNumbers();
+window.scrollTo({top:document.querySelector('.guide-index-container').offsetTop-100,behavior:'smooth'});
+history.replaceState(null,null,'#page='+currentPage);
+}
+function renderPageNumbers(){
+const c=document.getElementById('pageNumbers');
+c.innerHTML='';
+let pages=[];
+if(TOTAL_PAGES<=7){for(let i=1;i<=TOTAL_PAGES;i++)pages.push(i);}
+else{
+pages.push(1);
+if(currentPage>3)pages.push('...');
+for(let i=Math.max(2,currentPage-1);i<=Math.min(TOTAL_PAGES-1,currentPage+1);i++)pages.push(i);
+if(currentPage<TOTAL_PAGES-2)pages.push('...');
+pages.push(TOTAL_PAGES);
+}
+pages.forEach(p=>{
+if(p==='...'){const s=document.createElement('span');s.className='pagination-ellipsis';s.textContent='...';c.appendChild(s);}
+else{const b=document.createElement('button');b.className='pagination-btn'+(p===currentPage?' active':'');b.textContent=p;b.onclick=()=>showPage(p);c.appendChild(b);}
+});
+}
+window.changePage=function(d){showPage(currentPage+d);};
+const hash=window.location.hash.match(/page=(\\d+)/);
+showPage(hash?parseInt(hash[1]):1);
+})();
+</script>` : '';
+
+  return `<!doctype html><html lang=ko><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel=preconnect href=https://www.googletagmanager.com crossorigin><link rel=preconnect href=https://cdn.jsdelivr.net crossorigin><title>${title}</title>
+<meta name=description content="${description}"><meta name=keywords content="시험대비,중간고사,기말고사,수능,내신,공부법,시험전략"><meta name=author content="과외를부탁해 편집팀"><link rel=canonical href=https://edukoreaai.com/exam/><meta name=naver-site-verification content="228c0da6bfc9eda328a78ce3a4417c8ff8630d59"><meta property="og:title" content="${title}"><meta property="og:description" content="${description}"><meta property="og:type" content="website"><meta property="og:url" content="https://edukoreaai.com/exam/"><meta property="og:site_name" content="과외를부탁해"><meta property="og:locale" content="ko_KR"><meta property="og:image" content="https://edukoreaai.com/images/og-default.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="${title}"><meta name=twitter:description content="${description}"><meta name=twitter:image content="https://edukoreaai.com/images/og-default.jpg"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","name":"과외를부탁해","url":"https:\\/\\/edukoreaai.com\\/","description":"초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서.","publisher":{"@type":"Organization","name":"과외를부탁해"},"potentialAction":{"@type":"SearchAction","target":"https:\\/\\/edukoreaai.com\\/search?q={search_term_string}","query-input":"required name=search_term_string"},"inLanguage":"ko-KR"}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-FP3W863XX4"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-FP3W863XX4")</script><link rel=preload as=style href=https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css><link rel=stylesheet href=https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css media=print onload='this.media="all"'><noscript><link rel=stylesheet href=https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css></noscript><link rel=icon type=image/x-icon href=/images/favicon.ico><link rel=icon type=image/png sizes=16x16 href=/images/favicon-16x16.png><link rel=icon type=image/png sizes=32x32 href=/images/favicon-32x32.png><link rel=apple-touch-icon sizes=180x180 href=/images/apple-touch-icon.png><link rel=manifest href=/manifest.json><meta name=theme-color content="#ef4444"><link rel=icon type=image/png sizes=192x192 href=/images/icon-192.png><link rel=icon type=image/png sizes=512x512 href=/images/icon-512.png><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="black-translucent"><meta name=apple-mobile-web-app-title content="과외를부탁해"><link rel=preload as=style href=/css/style.css><link rel=preload as=style href=/css/viral.css><link rel=stylesheet href=/css/style.css media=print onload='this.media="all"'><link rel=stylesheet href=/css/viral.css media=print onload='this.media="all"'><noscript><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/viral.css></noscript></head><body><header class=site-header><div class=wide-container><div class=header-content><div class=header-top><div class=site-logo><a href=/><img src=/images/logo.svg alt="과외를부탁해 로고" class=logo-image loading=eager><span>과외를부탁해</span></a></div><button class=mobile-menu-toggle aria-label="메뉴 열기"><span></span><span></span><span></span></button></div><div class=header-actions><a href=/search/ class=search-btn aria-label=검색><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></a><div class=usage-counter><div class=label>누적 사용자</div><div class=count><span id="usageCount">1,000</span>명</div></div></div><nav class=main-nav><ul><li class=has-dropdown><a href>지역별 과외</a><ul class=dropdown><li><a href=/seoul/>서울</a></li><li><a href=/gyeonggi/>경기</a></li><li><a href=/busan/>부산</a></li><li><a href=/incheon/>인천</a></li><li><a href=/daegu/>대구</a></li><li><a href=/cities/>기타 지역</a></li></ul></li><li class=has-dropdown><a href>학습 가이드</a><ul class=dropdown><li><a href=/elementary/>초등학생</a></li><li><a href=/middle/>중학생</a></li><li><a href=/high/>고등학생</a></li></ul></li><li class=has-dropdown><a href>과목별</a><ul class=dropdown><li><a href=/subjects/korean/>국어</a></li><li><a href=/subjects/english/>영어</a></li><li><a href=/subjects/math/>수학</a></li><li><a href=/subjects/science/>과학</a></li><li><a href=/subjects/social/>사회</a></li></ul></li><li><a href=/tutoring/>학습플랜</a></li><li><a href=/exam/>시험 대비</a></li><li><a href=/consultation/>무료 상담</a></li></ul></nav></div></div></header><script>(function(){const e=document.querySelector(".mobile-menu-toggle"),t=document.querySelector(".main-nav"),n=document.querySelector(".site-header");e&&(e.addEventListener("click",function(){this.classList.toggle("active"),t.classList.toggle("active"),document.body.classList.toggle("menu-open");const e=this.classList.contains("active");this.setAttribute("aria-label",e?"메뉴 닫기":"메뉴 열기")}),document.addEventListener("click",function(s){!n.contains(s.target)&&t.classList.contains("active")&&(e.classList.remove("active"),t.classList.remove("active"),document.body.classList.remove("menu-open"),e.setAttribute("aria-label","메뉴 열기"))}))})()</script><main>
+<script type=application/ld+json>${JSON.stringify(jsonLd)}</script>
+<div class="guide-index-container">
+<div class="guide-header guide-header-exam">
+<h1 class="guide-header-title">시험 대비 전략</h1>
+<p class="guide-header-desc">${description}</p>
+<div class="guide-header-stats">
+<span class="guide-stat"><strong>${articles.length}</strong>개의 가이드</span>
+<span class="guide-stat-divider">|</span>
+<span class="guide-stat">중간고사 · 기말고사 · 수능</span>
+</div>
+</div>
+<div class="guide-card-grid">
+${articleCards}
+</div>
+${paginationHtml}
+</div>
+${paginationJs}
+</main><footer class=site-footer><div class=wide-container><div class=footer-content><div class=footer-brand><div class=footer-logo><img src=/images/logo.svg alt="과외를부탁해 로고" loading=lazy><span>과외를부탁해</span></div><p class=footer-tagline>초등학생부터 고등학생까지,<br>학습에 필요한 모든 정보를 한곳에서</p></div><div class=footer-links><div class=footer-column><h4>학습 가이드</h4><ul><li><a href=/elementary/>초등학생 가이드</a></li><li><a href=/middle/>중학생 가이드</a></li><li><a href=/high/>고등학생 가이드</a></li><li><a href=/exam/>시험 대비 전략</a></li></ul></div><div class=footer-column><h4>과목별 학습</h4><ul><li><a href=/subjects/korean/>국어 학습법</a></li><li><a href=/subjects/english/>영어 학습법</a></li><li><a href=/subjects/math/>수학 학습법</a></li><li><a href=/subjects/science/>과학 학습법</a></li></ul></div><div class=footer-column><h4>지역별 과외</h4><ul><li><a href=/seoul/>서울</a></li><li><a href=/gyeonggi/>경기</a></li><li><a href=/busan/>부산</a></li><li><a href=/cities/>기타 지역</a></li></ul></div><div class=footer-column><h4>상담 서비스</h4><ul><li><a href=/consultation/>무료 상담 신청</a></li><li><a href=/tutoring/>학습플랜</a></li></ul></div></div></div><div class=footer-bottom><p>© 2025 과외를부탁해. All rights reserved. | <a href=/privacy/>개인정보처리방침</a> | <a href=/terms/>이용약관</a></p></div></div></footer><div class=floating-cta><a href=/consultation/ class=cta-button>무료 상담 신청</a></div><script>document.addEventListener("DOMContentLoaded",function(){const e=document.querySelector(".floating-cta");if(e){let t=window.pageYOffset;window.addEventListener("scroll",function(){const n=window.pageYOffset;n>t&&n>300?e.classList.add("hidden"):e.classList.remove("hidden"),t=n})}})</script></body></html>`;
+}
+
+main().catch(console.error);

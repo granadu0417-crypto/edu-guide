@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>온라인과외 | 1:1 화상 학습코칭 | 과외를부탁해</title>
+    <meta name="description" content="타 지역, 해외에서도 딱 맞는 베테랑 선생님과 1:1 화상코칭. 언제 어디서나 최고의 수업을 받으세요.">
+    <link rel="canonical" href="https://edukoreaai.com/online-tutoring/">
+
+    <meta property="og:title" content="온라인과외 | 1:1 화상 학습코칭">
+    <meta property="og:description" content="타 지역, 해외에서도 딱 맞는 베테랑 선생님과 1:1 화상코칭">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://edukoreaai.com/online-tutoring/">
+
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, sans-serif; background: #f8f9fa; }
+
+    .landing-header { background: rgba(26, 26, 46, 0.95); padding: 15px 20px; position: fixed; top: 0; left: 0; right: 0; z-index: 1000; }
+    .landing-header .container { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+    .landing-header .logo { color: white; font-size: 1.3rem; font-weight: 800; text-decoration: none; }
+    .landing-header .logo span { color: #667eea; }
+    .landing-header .cta-btn { background: #7c3aed; color: white; padding: 10px 20px; border-radius: 50px; text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+
+    .landing-hero { background: linear-gradient(135deg, #1a1a2e 0%, #2a1a4a 50%, #4a1a6c 100%); color: white; padding: 120px 20px 80px; text-align: center; position: relative; overflow: hidden; }
+    .landing-hero::before { content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="0.5"/></svg>'); background-size: 80px 80px; }
+    .hero-content { position: relative; z-index: 1; max-width: 800px; margin: 0 auto; }
+    .hero-badge { display: inline-block; background: rgba(255,255,255,0.15); padding: 8px 24px; border-radius: 50px; font-size: 14px; margin-bottom: 25px; backdrop-filter: blur(10px); }
+    .hero-title { font-size: clamp(2rem, 5vw, 3.2rem); font-weight: 800; line-height: 1.3; margin-bottom: 20px; }
+    .hero-title span { color: #a78bfa; }
+    .hero-subtitle { font-size: 1.1rem; opacity: 0.9; margin-bottom: 35px; }
+    .hero-stats { display: flex; justify-content: center; gap: 50px; margin: 45px 0; flex-wrap: wrap; }
+    .stat-item { text-align: center; }
+    .stat-label { display: block; font-size: 13px; opacity: 0.7; margin-bottom: 8px; }
+    .stat-value { display: block; font-size: 2.2rem; font-weight: 800; color: #ffd700; }
+    .hero-cta .btn-primary { display: inline-block; background: linear-gradient(135deg, #a78bfa 0%, #c4b5fd 100%); color: white; padding: 18px 50px; border-radius: 50px; font-size: 1.1rem; font-weight: 700; text-decoration: none; box-shadow: 0 10px 30px rgba(167, 139, 250, 0.4); transition: all 0.3s ease; }
+    .hero-cta .btn-primary:hover { transform: translateY(-3px); box-shadow: 0 15px 40px rgba(167, 139, 250, 0.5); }
+
+    .benefit-banner { background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%); padding: 20px; text-align: center; color: white; font-size: 1.1rem; }
+    .benefit-banner strong { color: #ffd700; }
+
+    section { padding: 70px 20px; }
+    .container { max-width: 1100px; margin: 0 auto; }
+    .section-title { text-align: center; font-size: 1.8rem; font-weight: 800; margin-bottom: 50px; color: #1a1a2e; }
+
+    .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 25px; }
+    .feature-card { background: white; padding: 35px 25px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); text-align: center; transition: transform 0.3s ease; }
+    .feature-card:hover { transform: translateY(-5px); }
+    .feature-icon { font-size: 3rem; margin-bottom: 20px; }
+    .feature-card h3 { font-size: 1.15rem; margin-bottom: 12px; color: #1a1a2e; }
+    .feature-card p { color: #666; line-height: 1.7; font-size: 0.95rem; }
+
+    .difference-section { background: #1a1a2e; color: white; }
+    .difference-section .section-title { color: white; }
+    .difference-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 30px; }
+    .difference-item { text-align: center; padding: 25px; }
+    .diff-number { width: 55px; height: 55px; background: linear-gradient(135deg, #a78bfa 0%, #c4b5fd 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 800; margin: 0 auto 20px; }
+    .difference-item h3 { font-size: 1.15rem; margin-bottom: 12px; }
+    .difference-item p { opacity: 0.8; line-height: 1.7; font-size: 0.95rem; }
+
+    .process-steps { display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; }
+    .process-step { flex: 1; min-width: 200px; max-width: 250px; text-align: center; }
+    .step-number { width: 65px; height: 65px; background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.6rem; font-weight: 800; margin: 0 auto 20px; }
+    .process-step h3 { font-size: 1.1rem; margin-bottom: 10px; color: #1a1a2e; }
+    .process-step p { color: #666; font-size: 0.95rem; }
+
+    .advantages-section { background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%); }
+    .advantages-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; }
+    .advantage-card { background: white; padding: 30px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+    .advantage-card h3 { font-size: 1.1rem; margin-bottom: 15px; color: #7c3aed; display: flex; align-items: center; gap: 10px; }
+    .advantage-card p { color: #666; line-height: 1.7; font-size: 0.95rem; }
+
+    .results-section { background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%); }
+    .results-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 25px; }
+    .result-card { background: white; padding: 35px; border-radius: 16px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+    .result-icon { font-size: 2.8rem; margin-bottom: 15px; }
+    .result-card h3 { font-size: 1rem; color: #666; margin-bottom: 10px; }
+    .result-value { font-size: 2.2rem; font-weight: 800; color: #7c3aed; }
+
+    .subjects-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; }
+    .subject-item { background: white; padding: 15px 30px; border-radius: 50px; display: flex; align-items: center; gap: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); font-weight: 600; font-size: 1rem; }
+    .subject-icon { font-size: 1.4rem; }
+
+    .cta-section { background: linear-gradient(135deg, #1a1a2e 0%, #2a1a4a 100%); padding: 80px 20px; text-align: center; }
+    .cta-title { color: white; font-size: 2rem; font-weight: 800; margin-bottom: 15px; }
+    .cta-subtitle { color: rgba(255,255,255,0.8); font-size: 1.1rem; margin-bottom: 45px; }
+    .cta-buttons { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto; }
+    .cta-btn { display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 28px 45px; border-radius: 16px; text-decoration: none; min-width: 220px; transition: all 0.3s ease; }
+    .cta-btn svg { width: 32px; height: 32px; }
+    .cta-btn span { font-size: 1.25rem; font-weight: 700; }
+    .cta-btn small { font-size: 0.9rem; opacity: 0.9; }
+    .cta-phone { background: linear-gradient(135deg, #00C853 0%, #00E676 100%); color: white; }
+    .cta-phone:hover { transform: translateY(-5px); box-shadow: 0 15px 35px rgba(0, 200, 83, 0.4); }
+    .cta-kakao { background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%); color: #3C1E1E; }
+    .cta-kakao:hover { transform: translateY(-5px); box-shadow: 0 15px 35px rgba(254, 229, 0, 0.4); }
+    .cta-trial { background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%); color: white; }
+    .cta-trial:hover { transform: translateY(-5px); box-shadow: 0 15px 35px rgba(124, 58, 237, 0.4); }
+
+    .notice-section { background: #f1f3f5; padding: 30px 20px; text-align: center; }
+    .notice-section p { color: #666; font-size: 0.9rem; margin: 5px 0; }
+
+    .landing-footer { background: #1a1a2e; color: rgba(255,255,255,0.7); padding: 40px 20px; text-align: center; font-size: 0.85rem; }
+    .landing-footer p { margin: 8px 0; }
+
+    @media (max-width: 768px) {
+        .hero-stats { gap: 25px; }
+        .stat-value { font-size: 1.7rem; }
+        .cta-buttons { flex-direction: column; align-items: center; }
+        .cta-btn { width: 100%; max-width: 320px; }
+        .section-title { font-size: 1.5rem; }
+    }
+    </style>
+</head>
+<body>
+    <header class="landing-header">
+        <div class="container">
+            <a href="/" class="logo">과외를<span>부탁해</span></a>
+            <a href="#contact" class="cta-btn">무료 상담받기</a>
+        </div>
+    </header>
+
+    <section class="landing-hero">
+        <div class="hero-content">
+            <p class="hero-badge">💻 No.1 화상과외 전문</p>
+            <h1 class="hero-title">1등급을 완성하라,<br><span>온라인과외</span>를 부탁해</h1>
+            <p class="hero-subtitle">타 지역, 해외에서도 딱 맞는 베테랑 선생님과 1:1 화상코칭</p>
+            <div class="hero-stats">
+                <div class="stat-item"><span class="stat-label">교육노하우</span><span class="stat-value">30년</span></div>
+                <div class="stat-item"><span class="stat-label">누적회원수</span><span class="stat-value">100만</span></div>
+                <div class="stat-item"><span class="stat-label">회원만족도</span><span class="stat-value">96.7%</span></div>
+            </div>
+            <div class="hero-cta"><a href="#contact" class="btn-primary">지금 상담 신청하기</a></div>
+        </div>
+    </section>
+
+    <div class="benefit-banner">🎁 지금 수업 진행 시, <strong>110만원 상당의 혜택</strong> 제공!</div>
+
+    <section>
+        <div class="container">
+            <h2 class="section-title">이런 분들께 추천합니다</h2>
+            <div class="features-grid">
+                <div class="feature-card"><div class="feature-icon">🌏</div><h3>지방/해외 거주 학생</h3><p>위치에 상관없이 서울 강남권 top 선생님의 수업을 받을 수 있습니다.</p></div>
+                <div class="feature-card"><div class="feature-icon">⏰</div><h3>시간이 부족한 학생</h3><p>이동 시간 제로! 원하는 시간에 바로 수업을 시작합니다.</p></div>
+                <div class="feature-card"><div class="feature-icon">💻</div><h3>디지털 학습에 익숙한 학생</h3><p>화면 공유, 실시간 필기 등 다양한 디지털 도구로 효과적인 학습</p></div>
+                <div class="feature-card"><div class="feature-icon">🔄</div><h3>유연한 스케줄이 필요한 학생</h3><p>수업 일정 조율이 자유롭고 급한 보충 수업도 가능합니다.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="difference-section">
+        <div class="container">
+            <h2 class="section-title">과외를부탁해 온라인과외가 특별한 이유</h2>
+            <div class="difference-grid">
+                <div class="difference-item"><div class="diff-number">1</div><h3>최고급 화상 시스템</h3><p>끊김 없는 고화질 화상 수업, 실시간 화면 공유 및 녹화 제공</p></div>
+                <div class="difference-item"><div class="diff-number">2</div><h3>전국 TOP 선생님</h3><p>지역 제한 없이 전국 최고의 실력있는 선생님과 매칭</p></div>
+                <div class="difference-item"><div class="diff-number">3</div><h3>스마트 학습 관리</h3><p>AI 기반 학습 분석으로 취약점 파악 및 맞춤 커리큘럼 제공</p></div>
+                <div class="difference-item"><div class="diff-number">4</div><h3>100% 환불 보장</h3><p>첫 수업 불만족 시 전액 환불, 선생님 무료 교체 가능</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2 class="section-title">온라인과외 진행 과정</h2>
+            <div class="process-steps">
+                <div class="process-step"><div class="step-number">1</div><h3>상담 신청</h3><p>학생 상황과 목표를 상담합니다</p></div>
+                <div class="process-step"><div class="step-number">2</div><h3>선생님 매칭</h3><p>전국 TOP 선생님을 추천해드립니다</p></div>
+                <div class="process-step"><div class="step-number">3</div><h3>무료 시범수업</h3><p>온라인 수업을 체험해봅니다</p></div>
+                <div class="process-step"><div class="step-number">4</div><h3>정규 수업 시작</h3><p>맞춤 커리큘럼으로 학습 시작</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="advantages-section">
+        <div class="container">
+            <h2 class="section-title">온라인과외의 장점</h2>
+            <div class="advantages-grid">
+                <div class="advantage-card"><h3>🎬 수업 녹화 제공</h3><p>모든 수업이 녹화되어 복습이 가능합니다. 이해가 안 된 부분을 반복해서 볼 수 있어요.</p></div>
+                <div class="advantage-card"><h3>📱 어디서든 접속</h3><p>PC, 태블릿, 스마트폰 어디서든 수업에 참여할 수 있습니다.</p></div>
+                <div class="advantage-card"><h3>✍️ 실시간 판서 공유</h3><p>선생님의 필기를 실시간으로 확인하고, 수업 후 자료로 저장됩니다.</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="results-section">
+        <div class="container">
+            <h2 class="section-title">실제 학생들의 성과</h2>
+            <div class="results-grid">
+                <div class="result-card"><div class="result-icon">📈</div><h3>평균 성적 향상</h3><p class="result-value">2등급 UP</p></div>
+                <div class="result-card"><div class="result-icon">🎯</div><h3>목표 달성률</h3><p class="result-value">94.3%</p></div>
+                <div class="result-card"><div class="result-icon">⭐</div><h3>학부모 만족도</h3><p class="result-value">96.7%</p></div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2 class="section-title">수업 가능 과목</h2>
+            <div class="subjects-grid">
+                <div class="subject-item"><span class="subject-icon">📐</span><span>수학</span></div>
+                <div class="subject-item"><span class="subject-icon">📖</span><span>영어</span></div>
+                <div class="subject-item"><span class="subject-icon">📝</span><span>국어</span></div>
+                <div class="subject-item"><span class="subject-icon">🔬</span><span>과학</span></div>
+                <div class="subject-item"><span class="subject-icon">🌍</span><span>사회</span></div>
+                <div class="subject-item"><span class="subject-icon">✏️</span><span>논술</span></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cta-section" id="contact">
+        <div class="container">
+            <h2 class="cta-title">지금 바로 상담받으세요!</h2>
+            <p class="cta-subtitle">전문 학습 코치가 1:1 맞춤 상담을 도와드립니다.</p>
+            <div class="cta-buttons">
+                <a href="tel:010-9220-0653" class="cta-btn cta-phone">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+                    <span>전화상담</span><small>010-9220-0653</small>
+                </a>
+                <a href="http://pf.kakao.com/_mELUxj/chat" target="_blank" rel="noopener" class="cta-btn cta-kakao">
+                    <svg viewBox="0 0 28 28" fill="currentColor"><path d="M14 4C8.477 4 4 7.589 4 12c0 2.805 1.843 5.274 4.619 6.75-.157.574-.609 2.228-.7 2.586-.12.458.168.452.353.329.143-.095 2.29-1.537 3.155-2.117.524.071 1.062.108 1.573.108 5.523 0 10-3.589 10-8S19.523 4 14 4z"/></svg>
+                    <span>카카오톡 상담</span><small>실시간 채팅 상담</small>
+                </a>
+                <a href="https://naver.me/FGENm9ex" target="_blank" rel="noopener" class="cta-btn cta-trial">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="7" x2="16" y2="7" stroke="white" stroke-width="2" stroke-linecap="round"/><line x1="8" y1="11" x2="16" y2="11" stroke="white" stroke-width="2" stroke-linecap="round"/><line x1="8" y1="15" x2="13" y2="15" stroke="white" stroke-width="2" stroke-linecap="round"/></svg>
+                    <span>무료체험 신청</span><small>부담없이 체험해보세요</small>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section class="notice-section">
+        <p>※ 상담 가능 시간: 평일 09:00 - 21:00 / 주말 10:00 - 18:00</p>
+        <p>※ 인터넷 환경에 따라 수업 품질이 달라질 수 있습니다.</p>
+    </section>
+
+    <footer class="landing-footer">
+        <p>📚 과외를부탁해</p>
+        <p>초등학생부터 고등학생까지 학습에 필요한 모든 정보를 한곳에서</p>
+        <p style="margin-top: 15px; opacity: 0.6;">© 2025 과외를부탁해. All rights reserved.</p>
+    </footer>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP3W863XX4"></script>
+    <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-FP3W863XX4');</script>
+</body>
+</html>

@@ -202,7 +202,7 @@ function getCTAInlineHTML() {
 // ============================================================
 // HTML 템플릿 렌더링
 // ============================================================
-function renderFullHTML(frontMatter, contentHtml, path) {
+function renderFullHTML(frontMatter, contentHtml, path, visitorCount = 0) {
   const title = frontMatter.title || '과외를부탁해';
   const description = frontMatter.description || '초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서.';
   const featuredImage = frontMatter.featured_image || '';
@@ -285,7 +285,7 @@ function renderFullHTML(frontMatter, contentHtml, path) {
     </style>
 </head>
 <body>
-    ${getHeaderHTML()}
+    ${getHeaderHTML(visitorCount)}
 
     <main>
         <div class="container">
@@ -379,7 +379,10 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;');
 }
 
-function getHeaderHTML() {
+function getHeaderHTML(visitorCount = 0) {
+  // 숫자 포맷팅 (천 단위 콤마)
+  const formattedCount = visitorCount.toLocaleString('ko-KR');
+
   return `
 <header class="site-header">
     <div class="wide-container">
@@ -402,8 +405,8 @@ function getHeaderHTML() {
                     </svg>
                 </a>
                 <div class="usage-counter">
-                    <div class="label">누적 사용자</div>
-                    <div class="count"><span id="usageCount">0</span>명</div>
+                    <div class="label">누적 방문자</div>
+                    <div class="count"><span id="usageCount">${formattedCount}</span>명</div>
                 </div>
             </div>
             <nav class="main-nav">
@@ -542,7 +545,7 @@ function getInlineStyles() {
 // ============================================================
 // 404 페이지
 // ============================================================
-function render404HTML() {
+function render404HTML(visitorCount = 0) {
   return `<!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -559,7 +562,7 @@ function render404HTML() {
     </style>
 </head>
 <body>
-    ${getHeaderHTML()}
+    ${getHeaderHTML(visitorCount)}
     <main>
         <div class="error-page">
             <h1>404</h1>
@@ -577,20 +580,99 @@ function render404HTML() {
 // Worker 메인 핸들러
 // ============================================================
 const PAGES_ORIGIN = 'https://3842efa4.edu-guide.pages.dev';
+const VISITOR_COUNT_KEY = '__visitor_count__';
+
+// 방문자 카운터 증가 및 조회
+async function incrementVisitorCount(env) {
+  try {
+    // 현재 값 조회
+    const currentValue = await env.KV.get(VISITOR_COUNT_KEY, 'text');
+    let count = currentValue ? parseInt(currentValue, 10) : 0;
+
+    // 카운터 증가
+    count += 1;
+
+    // 새 값 저장 (비동기로 처리하여 응답 속도에 영향 없도록)
+    await env.KV.put(VISITOR_COUNT_KEY, count.toString());
+
+    return count;
+  } catch (e) {
+    console.error('Visitor count error:', e);
+    return 0;
+  }
+}
+
+// 방문자 카운터 조회만 (증가 없이)
+async function getVisitorCount(env) {
+  try {
+    const currentValue = await env.KV.get(VISITOR_COUNT_KEY, 'text');
+    return currentValue ? parseInt(currentValue, 10) : 0;
+  } catch (e) {
+    return 0;
+  }
+}
 
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     let path = decodeURIComponent(url.pathname);
 
-    // 정적 파일은 Pages에서 프록시
+    // 정적 파일: KV에서 먼저 찾고, 없으면 Pages 폴백 (카운터 증가 안 함)
     if (isStaticFile(path)) {
+      const kvContent = await env.KV.get(path, 'text');
+      if (kvContent !== null) {
+        const contentType = getContentType(path);
+        return new Response(kvContent, {
+          headers: {
+            'Content-Type': contentType,
+            'Cache-Control': 'public, max-age=86400',
+            'X-Content-Source': 'KV-Static'
+          }
+        });
+      }
+      // KV에 없으면 Pages로 폴백
       return proxyToPages(path);
     }
 
     // 경로 정규화
     if (!path.endsWith('/') && !path.includes('.')) {
       return Response.redirect(`${url.origin}${path}/`, 301);
+    }
+
+    // 301 리다이렉트: /high/ 지역별 콘텐츠 → /seoul/
+    // 예: /high/dobong-banghak1-high-math/ → /seoul/dobong/banghak1-high-math/
+    const highRegionalMatch = path.match(/^\/high\/([a-z]+)-(.+)-high-(math|english)\/$/);
+    if (highRegionalMatch) {
+      const district = highRegionalMatch[1];
+      const neighborhood = highRegionalMatch[2];
+      const subject = highRegionalMatch[3];
+      const newPath = `/seoul/${district}/${neighborhood}-high-${subject}/`;
+      return Response.redirect(`${url.origin}${newPath}`, 301);
+    }
+
+    // 301 리다이렉트: /middle/ 지역별 콘텐츠 → /seoul/
+    // 예: /middle/gangnam-apgujeong-middle-english/ → /seoul/gangnam/apgujeong-middle-english/
+    const middleRegionalMatch = path.match(/^\/middle\/([a-z]+)-(.+)-middle-(math|english)\/$/);
+    if (middleRegionalMatch) {
+      const district = middleRegionalMatch[1];
+      const neighborhood = middleRegionalMatch[2];
+      const subject = middleRegionalMatch[3];
+      const newPath = `/seoul/${district}/${neighborhood}-middle-${subject}/`;
+      return Response.redirect(`${url.origin}${newPath}`, 301);
+    }
+
+    // 방문자 카운터 증가 (HTML 페이지 요청에만)
+    // waitUntil을 사용하여 응답 속도에 영향 없이 처리
+    let visitorCount = 0;
+    try {
+      // 카운터 증가는 백그라운드에서 처리
+      const countPromise = incrementVisitorCount(env);
+      ctx.waitUntil(countPromise.then(() => {}));
+
+      // 현재 값은 바로 조회
+      visitorCount = await getVisitorCount(env);
+    } catch (e) {
+      console.error('Counter error:', e);
     }
 
     // KV 키 생성
@@ -605,18 +687,42 @@ export default {
     const mdContent = await env.KV.get(kvKey, 'text');
 
     if (mdContent) {
-      // Markdown → HTML 변환
+      const trimmedContent = mdContent.trim().toLowerCase();
+
+      // KV에 저장된 콘텐츠가 이미 HTML인 경우 (기존 Hugo 빌드 데이터 또는 메인 페이지)
+      // 직접 반환하되, 카운터 값은 동적으로 주입
+      if (trimmedContent.startsWith('<!doctype') || trimmedContent.startsWith('<html')) {
+        // 카운터 값을 HTML에 주입 (id="usageCount" 또는 id="userCount" 찾아서 교체)
+        // 따옴표 있는 경우(id="usageCount")와 없는 경우(id=usageCount) 모두 매칭
+        const formattedCount = visitorCount.toLocaleString('ko-KR');
+        let modifiedHtml = mdContent
+          .replace(/<span id="?usageCount"?>[^<]*<\/span>/gi, `<span id="usageCount">${formattedCount}</span>`)
+          .replace(/<span id="?userCount"?>[^<]*<\/span>/gi, `<span id="usageCount">${formattedCount}</span>`);
+
+        return new Response(modifiedHtml, {
+          status: 200,
+          headers: {
+            'Content-Type': 'text/html; charset=utf-8',
+            'Cache-Control': 'public, max-age=60',
+            'X-Content-Source': 'KV-HTML',
+            'X-Visitor-Count': visitorCount.toString()
+          }
+        });
+      }
+
+      // Markdown 콘텐츠 → HTML 변환
       const { frontMatter, body } = parseYamlFrontMatter(mdContent);
       let htmlContent = markdownToHtml(body);
       htmlContent = processShortcodes(htmlContent);
-      const fullHtml = renderFullHTML(frontMatter, htmlContent, path);
+      const fullHtml = renderFullHTML(frontMatter, htmlContent, path, visitorCount);
 
       return new Response(fullHtml, {
         status: 200,
         headers: {
           'Content-Type': 'text/html; charset=utf-8',
-          'Cache-Control': 'public, max-age=3600',
-          'X-Content-Source': 'KV-MD'
+          'Cache-Control': 'public, max-age=60',
+          'X-Content-Source': 'KV-MD',
+          'X-Visitor-Count': visitorCount.toString()
         }
       });
     }
@@ -636,10 +742,11 @@ export default {
     }
 
     // 404
-    return new Response(render404HTML(), {
+    return new Response(render404HTML(visitorCount), {
       status: 404,
       headers: {
-        'Content-Type': 'text/html; charset=utf-8'
+        'Content-Type': 'text/html; charset=utf-8',
+        'X-Visitor-Count': visitorCount.toString()
       }
     });
   }

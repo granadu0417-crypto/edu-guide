@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>과외를부탁해 | 초중고 학습 정보 플랫폼</title>
+    <meta name="description" content="30년 교육 노하우의 결정체. 100만 학생의 성적 향상을 이끌어낸 전문 과외 매칭 서비스.">
+    <link rel="canonical" href="https://edukoreaai.com/">
+
+    <meta property="og:title" content="과외를부탁해 | 초중고 학습 정보 플랫폼">
+    <meta property="og:description" content="30년 교육 노하우의 결정체. 100만 학생의 성적 향상을 이끌어낸 전문 과외 매칭 서비스.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://edukoreaai.com/">
+
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+
+    <!-- 공통 스타일시트 (내부 페이지와 동일) -->
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/viral.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "과외를부탁해",
+      "url": "https://edukoreaai.com/",
+      "description": "초중고 학습 정보 플랫폼",
+      "publisher": {
+        "@type": "Organization",
+        "name": "과외를부탁해",
+        "url": "https://edukoreaai.com/"
+      }
+    }
+    </script>
+
+    <style>
+    /* ========== 변수 ========== */
+    :root {
+        --hero-dark: #1a1a2e;
+        --hero-accent: #ffd700;
+        --primary: #4a90e2;
+        --primary-dark: #357abd;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Pretendard Variable', -apple-system, BlinkMacSystemFont, sans-serif; background: #f8f9fa; }
+    a { text-decoration: none; }
+
+    /* ========== 메인 컨테이너 ========== */
+    .main-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 80px 20px 40px;
+    }
+
+    /* ========== 히어로 섹션 ========== */
+    .hero-section {
+        position: relative;
+        padding: 100px 20px 120px;
+        text-align: center;
+        color: white;
+        border-radius: 20px;
+        margin-bottom: 80px;
+        overflow: hidden;
+        background: var(--hero-dark);
+    }
+
+    .hero-bg-slider { position: absolute; inset: 0; z-index: 0; }
+    .hero-bg-slide {
+        position: absolute; inset: 0;
+        background-size: cover; background-position: center;
+        opacity: 0; transition: opacity 1.2s ease;
+    }
+    .hero-bg-slide.active { opacity: 0.25; }
+
+    .hero-overlay {
+        position: absolute; inset: 0; z-index: 1;
+        background: linear-gradient(135deg, rgba(26,26,46,0.92) 0%, rgba(22,33,62,0.88) 100%);
+    }
+
+    .hero-content { position: relative; z-index: 2; max-width: 800px; margin: 0 auto; }
+
+    .hero-badge {
+        display: inline-block;
+        padding: 8px 20px;
+        background: rgba(255,215,0,0.15);
+        border: 1px solid rgba(255,215,0,0.3);
+        border-radius: 30px;
+        font-size: 0.9rem;
+        color: var(--hero-accent);
+        margin-bottom: 24px;
+    }
+
+    .hero-title {
+        font-size: 2.8rem;
+        font-weight: 400;
+        line-height: 1.4;
+        margin-bottom: 20px;
+    }
+    .hero-title .highlight { font-weight: 800; color: var(--hero-accent); }
+
+    .hero-subtitle {
+        font-size: 1.15rem;
+        opacity: 0.9;
+        margin-bottom: 40px;
+    }
+
+    .hero-cta { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+
+    .btn-primary, .btn-secondary {
+        display: inline-flex; align-items: center; gap: 8px;
+        padding: 16px 32px;
+        border-radius: 50px;
+        font-size: 1rem; font-weight: 700;
+        text-decoration: none;
+        transition: all 0.3s;
+    }
+    .btn-primary {
+        background: #fee500; color: #000;
+    }
+    .btn-primary:hover { background: #ffd700; transform: translateY(-2px); box-shadow: 0 8px 24px rgba(254,229,0,0.4); }
+    .btn-secondary {
+        background: rgba(255,255,255,0.12); color: white;
+        border: 2px solid rgba(255,255,255,0.25);
+    }
+    .btn-secondary:hover { background: rgba(255,255,255,0.2); }
+
+    /* ========== 강점 섹션 ========== */
+    .strength-section {
+        padding: 80px 20px;
+        background: linear-gradient(135deg, #f8fafc 0%, #e8f4f8 100%);
+        border-radius: 20px;
+        margin-bottom: 80px;
+    }
+
+    .section-label {
+        text-align: center;
+        font-size: 0.85rem;
+        font-weight: 600;
+        color: var(--primary);
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 12px;
+    }
+
+    .section-title {
+        text-align: center;
+        font-size: 1.9rem;
+        font-weight: 700;
+        color: #1a1a2e;
+        line-height: 1.4;
+        margin-bottom: 48px;
+    }
+    .section-title span { color: var(--primary); }
+
+    .strength-header { margin-bottom: 48px; }
+
+    .strength-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 24px;
+        max-width: 1100px;
+        margin: 0 auto;
+    }
+
+    .strength-card {
+        background: white;
+        border-radius: 16px;
+        padding: 32px 20px;
+        text-align: center;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+        transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .strength-card:hover {
+        transform: translateY(-6px);
+        box-shadow: 0 12px 32px rgba(0,0,0,0.12);
+    }
+
+    .strength-icon {
+        width: 72px; height: 72px;
+        margin: 0 auto 16px;
+        display: flex; align-items: center; justify-content: center;
+    }
+    .strength-icon img { width: 60px; height: 60px; object-fit: contain; }
+
+    .strength-label { font-size: 0.8rem; color: #666; margin-bottom: 4px; }
+    .strength-value { font-size: 2.2rem; font-weight: 800; color: var(--primary); margin-bottom: 8px; }
+    .strength-desc { font-size: 0.9rem; color: #555; }
+
+    /* ========== 서비스 섹션 ========== */
+    .service-section { padding: 60px 20px 80px; margin-bottom: 60px; }
+
+    .service-header { margin-bottom: 48px; }
+
+    .service-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 32px;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .service-card {
+        position: relative;
+        background: white;
+        border: 2px solid #e5e7eb;
+        border-radius: 16px;
+        overflow: hidden;
+        text-decoration: none;
+        transition: all 0.3s;
+    }
+    .service-card:hover {
+        border-color: var(--primary);
+        box-shadow: 0 8px 32px rgba(74,144,226,0.15);
+    }
+    .service-card:hover .service-img img {
+        transform: scale(1.05);
+    }
+
+    .service-img {
+        width: 100%;
+        height: 180px;
+        overflow: hidden;
+        background: #f0f0f0;
+    }
+    .service-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.3s;
+    }
+
+    .service-content {
+        padding: 24px;
+        position: relative;
+    }
+
+    .service-num {
+        font-size: 2.5rem; font-weight: 800;
+        color: var(--primary); opacity: 0.15;
+        position: absolute; top: 12px; right: 16px;
+    }
+    .service-card h3 { font-size: 1.3rem; color: #1a1a2e; margin-bottom: 10px; }
+    .service-card p { font-size: 0.9rem; color: #666; line-height: 1.6; }
+
+    /* ========== 카테고리 허브 ========== */
+    .category-hub {
+        padding: 60px 20px 80px;
+        background: #fafbfc;
+        border-radius: 20px;
+        margin-bottom: 80px;
+    }
+
+    .category-row { margin-bottom: 40px; }
+    .category-row:last-child { margin-bottom: 0; }
+
+    .category-row-title {
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: #333;
+        margin-bottom: 20px;
+        padding-left: 12px;
+        border-left: 4px solid var(--primary);
+    }
+
+    .category-cards {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+    .category-cards.five-cols { grid-template-columns: repeat(5, 1fr); }
+
+    .cat-card {
+        display: flex; align-items: center; gap: 16px;
+        background: white;
+        border: 2px solid #e5e7eb;
+        border-radius: 12px;
+        padding: 20px;
+        text-decoration: none;
+        transition: all 0.3s;
+    }
+    .cat-card:hover { border-color: var(--primary); transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+
+    .cat-icon {
+        width: 56px; height: 56px;
+        display: flex; align-items: center; justify-content: center;
+        background: #e3f2fd;
+        border-radius: 12px;
+        flex-shrink: 0;
+    }
+    .cat-icon svg { width: 28px; height: 28px; stroke: #1976d2; }
+    .cat-icon.middle { background: #e8f5e9; }
+    .cat-icon.middle svg { stroke: #388e3c; }
+    .cat-icon.high { background: #fce4ec; }
+    .cat-icon.high svg { stroke: #c2185b; }
+
+    .cat-info h4 { font-size: 1.1rem; color: #1a1a2e; margin-bottom: 4px; }
+    .cat-info p { font-size: 0.85rem; color: #888; }
+
+    /* 과목 작은 카드 */
+    .cat-card-sm {
+        display: flex; align-items: center; gap: 12px;
+        background: white;
+        border: 2px solid #e5e7eb;
+        border-radius: 10px;
+        padding: 14px 18px;
+        text-decoration: none;
+        transition: all 0.3s;
+    }
+    .cat-card-sm:hover { border-color: var(--primary); }
+    .cat-card-sm span { font-size: 0.95rem; color: #333; }
+    .cat-card-sm em { color: #888; font-style: normal; }
+
+    .subject-badge {
+        width: 36px; height: 36px;
+        display: flex; align-items: center; justify-content: center;
+        border-radius: 8px;
+        font-weight: 700; font-size: 0.9rem;
+        color: white;
+    }
+    .subject-badge.korean { background: #e91e63; }
+    .subject-badge.english { background: #2196f3; }
+    .subject-badge.math { background: #ff9800; }
+    .subject-badge.science { background: #4caf50; }
+    .subject-badge.social { background: #9c27b0; }
+
+    /* 지역 그리드 */
+    .region-grid {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        gap: 12px;
+    }
+
+    .region-card {
+        display: flex; align-items: center; justify-content: space-between;
+        background: white;
+        border: 2px solid #e5e7eb;
+        border-radius: 10px;
+        padding: 16px 20px;
+        text-decoration: none;
+        transition: all 0.3s;
+    }
+    .region-card:hover { border-color: var(--primary); background: #f0f7ff; }
+    .region-card.more { background: var(--primary); border-color: var(--primary); }
+    .region-card.more .region-name, .region-card.more .region-arrow { color: white; }
+
+    .region-name { font-size: 0.95rem; font-weight: 600; color: #333; }
+    .region-arrow { color: #aaa; font-size: 1.1rem; }
+
+    /* ========== 후기 영상 ========== */
+    .testimonial-section {
+        padding: 80px 20px;
+        background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+        border-radius: 20px;
+        margin-bottom: 80px;
+        color: white;
+    }
+
+    .testimonial-header { text-align: center; margin-bottom: 48px; }
+    .testimonial-header h2 { font-size: 1.9rem; font-weight: 500; margin-bottom: 12px; }
+    .testimonial-header h2 span { font-weight: 800; color: var(--hero-accent); }
+    .testimonial-header p { opacity: 0.8; }
+
+    .testimonial-slider { max-width: 800px; margin: 0 auto; }
+    .testimonial-track { position: relative; }
+
+    .testimonial-slide { display: none; }
+    .testimonial-slide.active { display: block; }
+
+    .video-container {
+        position: relative;
+        padding-bottom: 56.25%;
+        border-radius: 12px;
+        overflow: hidden;
+        margin-bottom: 16px;
+    }
+    .video-container iframe { position: absolute; inset: 0; width: 100%; height: 100%; }
+
+    .video-caption { text-align: center; font-size: 0.95rem; opacity: 0.9; }
+
+    .testimonial-nav { display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 24px; }
+
+    .nav-btn {
+        width: 44px; height: 44px;
+        display: flex; align-items: center; justify-content: center;
+        background: rgba(255,255,255,0.1);
+        border: 2px solid rgba(255,255,255,0.2);
+        border-radius: 50%;
+        cursor: pointer;
+        transition: all 0.3s;
+    }
+    .nav-btn:hover { background: rgba(255,255,255,0.2); }
+    .nav-btn svg { width: 20px; height: 20px; stroke: white; }
+
+    .nav-dots { display: flex; gap: 10px; }
+    .dot {
+        width: 10px; height: 10px;
+        background: rgba(255,255,255,0.3);
+        border-radius: 50%;
+        cursor: pointer;
+        transition: all 0.3s;
+    }
+    .dot.active { background: var(--hero-accent); transform: scale(1.2); }
+
+    /* ========== CTA 섹션 ========== */
+    .cta-section {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border-radius: 20px;
+        padding: 60px 24px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .cta-content h2 { font-size: 1.8rem; font-weight: 700; color: white; margin-bottom: 12px; }
+    .cta-content p { font-size: 1.1rem; color: rgba(255,255,255,0.9); margin-bottom: 32px; }
+
+    .cta-buttons { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+
+    .cta-kakao, .cta-consult {
+        display: inline-flex; align-items: center; gap: 8px;
+        padding: 16px 32px;
+        border-radius: 50px;
+        font-size: 1rem; font-weight: 700;
+        text-decoration: none;
+        transition: all 0.3s;
+    }
+    .cta-kakao { background: #fee500; color: #000; }
+    .cta-kakao:hover { background: #ffd700; transform: translateY(-2px); }
+    .cta-consult { background: white; color: var(--primary); }
+    .cta-consult:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(255,255,255,0.3); }
+
+    /* ========== 푸터 ========== */
+    .site-footer {
+        background: #1a1a2e;
+        color: rgba(255,255,255,0.7);
+        padding: 50px 20px;
+        text-align: center;
+    }
+    .footer-logo { color: white; font-size: 1.3rem; font-weight: 800; margin-bottom: 20px; }
+    .footer-logo span { color: #667eea; }
+    .footer-info { font-size: 0.85rem; line-height: 1.8; margin-bottom: 15px; }
+    .footer-copyright { font-size: 0.8rem; opacity: 0.6; }
+
+    /* ========== 플로팅 버튼 그룹 ========== */
+    .floating-buttons {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        z-index: 999;
+    }
+    .floating-btn {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 12px 18px;
+        border-radius: 50px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        transition: all 0.3s;
+        white-space: nowrap;
+    }
+    .floating-btn:hover {
+        transform: translateX(-5px);
+        box-shadow: 0 6px 24px rgba(0,0,0,0.2);
+    }
+    .floating-btn svg { width: 20px; height: 20px; flex-shrink: 0; }
+    .floating-btn .btn-text { display: inline; }
+
+    .floating-btn.phone {
+        background: #4CAF50;
+        color: white;
+    }
+    .floating-btn.kakao {
+        background: #fee500;
+        color: #000;
+    }
+    .floating-btn.consult {
+        background: var(--primary);
+        color: white;
+    }
+
+    @media (max-width: 768px) {
+        .floating-buttons {
+            bottom: 20px;
+            right: 15px;
+        }
+        .floating-btn {
+            padding: 10px 14px;
+            font-size: 0.85rem;
+        }
+        .floating-btn .btn-text { display: none; }
+        .floating-btn { border-radius: 50%; padding: 12px; }
+    }
+
+    /* ========== 반응형 ========== */
+    @media (max-width: 1024px) {
+        .strength-grid { grid-template-columns: repeat(2, 1fr); }
+        .category-cards.five-cols { grid-template-columns: repeat(3, 1fr); }
+        .region-grid { grid-template-columns: repeat(3, 1fr); }
+    }
+
+    @media (max-width: 768px) {
+        .hero-section { padding: 60px 20px 80px; margin-top: 1rem; }
+        .hero-title { font-size: 1.9rem; }
+        .hero-cta { flex-direction: column; align-items: center; }
+        .btn-primary, .btn-secondary { width: 100%; max-width: 280px; justify-content: center; }
+
+        .strength-section, .service-section, .testimonial-section, .category-hub { padding: 50px 20px; margin-bottom: 50px; }
+        .strength-grid { grid-template-columns: 1fr; gap: 16px; }
+        .service-grid { grid-template-columns: 1fr; }
+
+        .section-title { font-size: 1.5rem; }
+
+        .category-cards { grid-template-columns: 1fr; }
+        .category-cards.five-cols { grid-template-columns: repeat(2, 1fr); }
+        .region-grid { grid-template-columns: repeat(2, 1fr); }
+
+        .cta-section { padding: 40px 20px; }
+        .cta-buttons { flex-direction: column; align-items: center; }
+        .cta-kakao, .cta-consult { width: 100%; max-width: 280px; justify-content: center; }
+    }
+
+    @media (max-width: 480px) {
+        .hero-title { font-size: 1.6rem; }
+        .strength-value { font-size: 1.8rem; }
+        .category-cards.five-cols { grid-template-columns: 1fr 1fr; }
+        .cat-card-sm:last-child { grid-column: span 2; justify-content: center; }
+    }
+
+    /* ========== 애니메이션 ========== */
+    @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(30px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+    .hero-section { animation: fadeInUp 0.8s ease-out; }
+    .strength-card, .service-card, .cat-card { animation: fadeInUp 0.6s ease-out both; }
+    </style>
+</head>
+<body>
+    <!-- 헤더 (내부 페이지와 동일) -->
+    <header class="site-header">
+        <div class="wide-container">
+            <div class="header-content">
+                <div class="header-top">
+                    <div class="site-logo">
+                        <a href="/">
+                            <img src="/images/logo.svg" alt="과외를부탁해 로고" class="logo-image" loading="eager">
+                            <span>과외를부탁해</span>
+                        </a>
+                    </div>
+                    <button class="mobile-menu-toggle" aria-label="메뉴 열기">
+                        <span></span><span></span><span></span>
+                    </button>
+                </div>
+                <div class="header-actions">
+                    <a href="/search/" class="search-btn" aria-label="검색">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+                        </svg>
+                    </a>
+                    <div class="usage-counter">
+                        <div class="label">누적 사용자</div>
+                        <div class="count"><span id="usageCount">0</span>명</div>
+                    </div>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li class="has-dropdown">
+                            <a href="#">지역별 과외</a>
+                            <ul class="dropdown">
+                                <li><a href="/seoul/">서울</a></li>
+                                <li><a href="/gyeonggi/">경기</a></li>
+                                <li><a href="/busan/">부산</a></li>
+                                <li><a href="/incheon/">인천</a></li>
+                                <li><a href="/daegu/">대구</a></li>
+                                <li><a href="/cities/">기타 지역</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown">
+                            <a href="#">학습 가이드</a>
+                            <ul class="dropdown">
+                                <li><a href="/elementary/">초등학생</a></li>
+                                <li><a href="/middle/">중학생</a></li>
+                                <li><a href="/high/">고등학생</a></li>
+                            </ul>
+                        </li>
+                        <li class="has-dropdown">
+                            <a href="#">과목별</a>
+                            <ul class="dropdown">
+                                <li><a href="/subjects/korean/">국어</a></li>
+                                <li><a href="/subjects/english/">영어</a></li>
+                                <li><a href="/subjects/math/">수학</a></li>
+                                <li><a href="/subjects/science/">과학</a></li>
+                                <li><a href="/subjects/social/">사회</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/tutoring/">학습플랜</a></li>
+                        <li><a href="/exam/">시험 대비</a></li>
+                        <li><a href="/consultation/">무료 상담</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <script>
+    (function() {
+        const menuToggle = document.querySelector('.mobile-menu-toggle');
+        const mainNav = document.querySelector('.main-nav');
+        if (menuToggle) {
+            menuToggle.addEventListener('click', function() {
+                this.classList.toggle('active');
+                mainNav.classList.toggle('active');
+                document.body.classList.toggle('menu-open');
+            });
+        }
+    })();
+    </script>
+
+    <main class="main-container">
+        <!-- 히어로 섹션 -->
+        <section class="hero-section">
+            <div class="hero-bg-slider">
+                <div class="hero-bg-slide active" style="background-image: url('/images/img01.jpg')"></div>
+                <div class="hero-bg-slide" style="background-image: url('/images/img02.jpg')"></div>
+                <div class="hero-bg-slide" style="background-image: url('/images/img03.jpg')"></div>
+            </div>
+            <div class="hero-overlay"></div>
+            <div class="hero-content">
+                <p class="hero-badge">30년 교육 노하우의 결정체</p>
+                <h1 class="hero-title"><span class="highlight">좋은 선생님</span>을 만나야,<br><span class="highlight">성적</span>이 바뀝니다.</h1>
+                <p class="hero-subtitle">100만 학생의 성적 향상을 이끌어낸 전문 과외 매칭 서비스</p>
+                <div class="hero-cta">
+                    <a href="http://pf.kakao.com/_mELUxj/chat" target="_blank" rel="noopener noreferrer" class="btn-primary">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3c-5.52 0-10 3.59-10 8 0 2.85 1.89 5.35 4.72 6.77-.16.57-.59 2.06-.68 2.38-.11.4.15.39.31.28.13-.08 2.01-1.36 2.82-1.91.93.13 1.88.2 2.83.2 5.52 0 10-3.59 10-8s-4.48-8-10-8z"/></svg>
+                        카카오톡 상담
+                    </a>
+                    <a href="https://form.naver.com/response/lJd2Yu-JFmraiir0RsIEsQ" target="_blank" rel="noopener noreferrer" class="btn-secondary">무료 상담 신청</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- 강점 섹션 -->
+        <section class="strength-section">
+            <div class="strength-header">
+                <p class="section-label">Our Strength</p>
+                <h2 class="section-title">30년의 교육 노하우,<br><span>믿을 수 있는 과외를부탁해</span></h2>
+            </div>
+            <div class="strength-grid">
+                <div class="strength-card">
+                    <div class="strength-icon">
+                        <img src="/images/icon01.png" alt="30년 노하우" loading="lazy">
+                    </div>
+                    <p class="strength-label">No.1 청소년 학습코칭</p>
+                    <p class="strength-value">30년</p>
+                    <p class="strength-desc">남다른 교육/코칭 노하우</p>
+                </div>
+                <div class="strength-card">
+                    <div class="strength-icon">
+                        <img src="/images/icon02.png" alt="전문 학습코치" loading="lazy">
+                    </div>
+                    <p class="strength-label">최정예 전문 학습코치</p>
+                    <p class="strength-value">3,000명</p>
+                    <p class="strength-desc">검증된 1:1 밀착 관리</p>
+                </div>
+                <div class="strength-card">
+                    <div class="strength-icon">
+                        <img src="/images/icon03.png" alt="누적 회원수" loading="lazy">
+                    </div>
+                    <p class="strength-label">누적 체험 회원수</p>
+                    <p class="strength-value">100만명</p>
+                    <p class="strength-desc">월평균 3만명 진행</p>
+                </div>
+                <div class="strength-card">
+                    <div class="strength-icon">
+                        <img src="/images/icon04.png" alt="만족도" loading="lazy">
+                    </div>
+                    <p class="strength-label">학습 만족도</p>
+                    <p class="strength-value">96.7%</p>
+                    <p class="strength-desc">학생/학부모 모두 만족</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- 서비스 소개 -->
+        <section class="service-section">
+            <div class="service-header">
+                <p class="section-label">About Us</p>
+                <h2 class="section-title">언제 어디서나 원하는 수업을<br>나와 잘 맞는 선생님과 1:1로<br><span>과외를 부탁해!</span></h2>
+            </div>
+            <div class="service-grid">
+                <a href="/visit-tutoring/" class="service-card">
+                    <div class="service-img">
+                        <img src="/images/edu_0020_604JVKk-WZM.jpg" alt="방문과외" loading="lazy">
+                    </div>
+                    <div class="service-content">
+                        <span class="service-num">01</span>
+                        <h3>방문과외</h3>
+                        <p>거주 지역 내 검증된 과외선생님과<br>1:1 멘토링 학습관리</p>
+                    </div>
+                </a>
+                <a href="/online-tutoring/" class="service-card">
+                    <div class="service-img">
+                        <img src="/images/edu_0025_ADcGTvU-lF0.jpg" alt="온라인과외" loading="lazy">
+                    </div>
+                    <div class="service-content">
+                        <span class="service-num">02</span>
+                        <h3>온라인과외</h3>
+                        <p>타 지역, 해외에서도 딱 맞는<br>베테랑 선생님과 1:1 화상코칭</p>
+                    </div>
+                </a>
+            </div>
+        </section>
+
+        <!-- 종합 카테고리 섹션 -->
+        <section class="category-hub">
+            <h2 class="section-title">원하는 정보를 빠르게 찾아보세요</h2>
+
+            <!-- 학년별 -->
+            <div class="category-row">
+                <h3 class="category-row-title">학년별 가이드</h3>
+                <div class="category-cards">
+                    <a href="/elementary/" class="cat-card">
+                        <div class="cat-icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+                        </div>
+                        <div class="cat-info">
+                            <h4>초등학생</h4>
+                            <p>50+ 가이드</p>
+                        </div>
+                    </a>
+                    <a href="/middle/" class="cat-card">
+                        <div class="cat-icon middle">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                        </div>
+                        <div class="cat-info">
+                            <h4>중학생</h4>
+                            <p>400+ 가이드</p>
+                        </div>
+                    </a>
+                    <a href="/high/" class="cat-card">
+                        <div class="cat-icon high">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+                        </div>
+                        <div class="cat-info">
+                            <h4>고등학생</h4>
+                            <p>400+ 가이드</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- 과목별 -->
+            <div class="category-row">
+                <h3 class="category-row-title">과목별 공부법</h3>
+                <div class="category-cards five-cols">
+                    <a href="/subjects/korean/" class="cat-card-sm">
+                        <span class="subject-badge korean">국</span>
+                        <span>국어</span>
+                    </a>
+                    <a href="/subjects/english/" class="cat-card-sm">
+                        <span class="subject-badge english">영</span>
+                        <span>영어</span>
+                    </a>
+                    <a href="/subjects/math/" class="cat-card-sm">
+                        <span class="subject-badge math">수</span>
+                        <span>수학</span>
+                    </a>
+                    <a href="/subjects/science/" class="cat-card-sm">
+                        <span class="subject-badge science">과</span>
+                        <span>과학</span>
+                    </a>
+                    <a href="/subjects/social/" class="cat-card-sm">
+                        <span class="subject-badge social">사</span>
+                        <span>사회</span>
+                    </a>
+                </div>
+            </div>
+
+            <!-- 인기 지역 -->
+            <div class="category-row">
+                <h3 class="category-row-title">인기 지역 바로가기</h3>
+                <div class="region-grid">
+                    <a href="/cities/강남구/" class="region-card">
+                        <span class="region-name">강남구</span>
+                        <span class="region-arrow">→</span>
+                    </a>
+                    <a href="/cities/서초구/" class="region-card">
+                        <span class="region-name">서초구</span>
+                        <span class="region-arrow">→</span>
+                    </a>
+                    <a href="/cities/송파구/" class="region-card">
+                        <span class="region-name">송파구</span>
+                        <span class="region-arrow">→</span>
+                    </a>
+                    <a href="/cities/양천구/" class="region-card">
+                        <span class="region-name">양천구</span>
+                        <span class="region-arrow">→</span>
+                    </a>
+                    <a href="/cities/노원구/" class="region-card">
+                        <span class="region-name">노원구</span>
+                        <span class="region-arrow">→</span>
+                    </a>
+                    <a href="/cities/" class="region-card more">
+                        <span class="region-name">전체 보기</span>
+                        <span class="region-arrow">→</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- YouTube 후기 영상 -->
+        <section class="testimonial-section">
+            <div class="testimonial-header">
+                <h2>실제 학생들의 <span>100% 리얼 후기</span></h2>
+                <p>과외를부탁해를 만나고 이렇게 변했습니다.</p>
+            </div>
+            <div class="testimonial-slider">
+                <div class="testimonial-track">
+                    <div class="testimonial-slide active">
+                        <div class="video-container">
+                            <iframe src="https://www.youtube.com/embed/eyD4mLiP-Ow" title="동국대 영어영문학과 합격 후기" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                        </div>
+                        <p class="video-caption">동국대 영어영문학과 22학번 김민서 학생</p>
+                    </div>
+                    <div class="testimonial-slide">
+                        <div class="video-container">
+                            <iframe src="https://www.youtube.com/embed/REhoCORAl3A" title="수학 11점에서 80점대까지" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                        </div>
+                        <p class="video-caption">서울여대 22학번 하현서 학생 - 수학 11점 → 80점대</p>
+                    </div>
+                    <div class="testimonial-slide">
+                        <div class="video-container">
+                            <iframe src="https://www.youtube.com/embed/pLt0AFEppQ8" title="건국대 행정학과 합격" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+                        </div>
+                        <p class="video-caption">건국대 행정학과 23학번 염지원 학생</p>
+                    </div>
+                </div>
+                <div class="testimonial-nav">
+                    <button class="nav-btn prev" aria-label="이전"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg></button>
+                    <div class="nav-dots">
+                        <span class="dot active"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                    </div>
+                    <button class="nav-btn next" aria-label="다음"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg></button>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA 배너 -->
+        <section class="cta-section">
+            <div class="cta-content">
+                <h2>지금 바로 무료 상담 받으세요!</h2>
+                <p>전문 학습 코치가 맞춤 학습 설계를 도와드립니다.</p>
+                <div class="cta-buttons">
+                    <a href="http://pf.kakao.com/_mELUxj/chat" target="_blank" rel="noopener noreferrer" class="cta-kakao">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3c-5.52 0-10 3.59-10 8 0 2.85 1.89 5.35 4.72 6.77-.16.57-.59 2.06-.68 2.38-.11.4.15.39.31.28.13-.08 2.01-1.36 2.82-1.91.93.13 1.88.2 2.83.2 5.52 0 10-3.59 10-8s-4.48-8-10-8z"/></svg>
+                        카카오톡 상담
+                    </a>
+                    <a href="https://form.naver.com/response/lJd2Yu-JFmraiir0RsIEsQ" target="_blank" rel="noopener noreferrer" class="cta-consult">무료 상담 신청</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 푸터 (내부 페이지와 동일) -->
+    <footer class="site-footer">
+        <div class="wide-container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <h4>📚 과외를부탁해</h4>
+                    <p>초등학생부터 고등학생까지<br>학습에 필요한 모든 정보를 한곳에서</p>
+                </div>
+                <div class="footer-disclaimer">
+                    <p><strong>⚠️ 안내사항</strong></p>
+                    <p>본 사이트의 모든 콘텐츠는 정보 제공 목적이며, 학습 효과를 보장하지 않습니다.</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 과외를부탁해. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 플로팅 버튼 그룹 -->
+    <div class="floating-buttons">
+        <a href="tel:010-9220-0653" class="floating-btn phone">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+            <span class="btn-text">전화상담</span>
+        </a>
+        <a href="http://pf.kakao.com/_mELUxj/chat" target="_blank" rel="noopener noreferrer" class="floating-btn kakao">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 3c-5.52 0-10 3.59-10 8 0 2.85 1.89 5.35 4.72 6.77-.16.57-.59 2.06-.68 2.38-.11.4.15.39.31.28.13-.08 2.01-1.36 2.82-1.91.93.13 1.88.2 2.83.2 5.52 0 10-3.59 10-8s-4.48-8-10-8z"/></svg>
+            <span class="btn-text">카카오톡 상담</span>
+        </a>
+        <a href="https://naver.me/FGENm9ex" target="_blank" rel="noopener noreferrer" class="floating-btn consult">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+            <span class="btn-text">무료체험 신청</span>
+        </a>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // 히어로 배경 슬라이더
+        const heroSlides = document.querySelectorAll('.hero-bg-slide');
+        let heroIndex = 0;
+        if (heroSlides.length > 0) {
+            setInterval(() => {
+                heroSlides[heroIndex].classList.remove('active');
+                heroIndex = (heroIndex + 1) % heroSlides.length;
+                heroSlides[heroIndex].classList.add('active');
+            }, 5000);
+        }
+
+        // 후기 영상 슬라이더
+        const slides = document.querySelectorAll('.testimonial-slide');
+        const dots = document.querySelectorAll('.nav-dots .dot');
+        const prevBtn = document.querySelector('.nav-btn.prev');
+        const nextBtn = document.querySelector('.nav-btn.next');
+        let current = 0;
+
+        function showSlide(i) {
+            slides.forEach((s, idx) => s.classList.toggle('active', idx === i));
+            dots.forEach((d, idx) => d.classList.toggle('active', idx === i));
+            current = i;
+        }
+
+        if (prevBtn) prevBtn.addEventListener('click', () => showSlide((current - 1 + slides.length) % slides.length));
+        if (nextBtn) nextBtn.addEventListener('click', () => showSlide((current + 1) % slides.length));
+        dots.forEach((d, i) => d.addEventListener('click', () => showSlide(i)));
+    });
+    </script>
+</body>
+</html>
