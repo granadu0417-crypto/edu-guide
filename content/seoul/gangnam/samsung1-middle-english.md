@@ -28,6 +28,31 @@ featured_image: "/images/edu_0215_RYLS_8oj5jQ.jpg"
 
 문법을 알면 영어가 쉬워집니다.
 
+<div class="service-selector-banner">
+<div class="service-selector-title">
+<span class="selector-icon">✨</span>
+<span class="selector-text">무료 상담 신청</span>
+</div>
+<div class="service-selector-cards">
+<a href="/visit-tutoring/" class="service-card service-card-visit">
+<div class="service-card-icon">🏠</div>
+<div class="service-card-content">
+<h4>방문 과외</h4>
+<p>선생님이 집으로 방문해요</p>
+</div>
+<div class="service-card-arrow">→</div>
+</a>
+<a href="/online-tutoring/" class="service-card service-card-online">
+<div class="service-card-icon">💻</div>
+<div class="service-card-content">
+<h4>온라인 과외</h4>
+<p>화상으로 편하게 수업해요</p>
+</div>
+<div class="service-card-arrow">→</div>
+</a>
+</div>
+</div>
+
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
 학생의 영어 습관과 실력을 함께 분석합니다. 효과적인 학습법을 찾아드립니다.

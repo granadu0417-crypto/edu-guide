@@ -20,6 +20,31 @@ featured_image: "/images/edu_0019.jpg"
 
 수학 성적, 올릴 수 있습니다. 강남구 일원1동에서 고등학교 수학 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
 
+<div class="service-selector-banner">
+<div class="service-selector-title">
+<span class="selector-icon">✨</span>
+<span class="selector-text">무료 상담 신청</span>
+</div>
+<div class="service-selector-cards">
+<a href="/visit-tutoring/" class="service-card service-card-visit">
+<div class="service-card-icon">🏠</div>
+<div class="service-card-content">
+<h4>방문 과외</h4>
+<p>선생님이 집으로 방문해요</p>
+</div>
+<div class="service-card-arrow">→</div>
+</a>
+<a href="/online-tutoring/" class="service-card service-card-online">
+<div class="service-card-icon">💻</div>
+<div class="service-card-content">
+<h4>온라인 과외</h4>
+<p>화상으로 편하게 수업해요</p>
+</div>
+<div class="service-card-arrow">→</div>
+</a>
+</div>
+</div>
+
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
 성적표만 보지 않습니다. 실제로 문제를 풀어보면서 어디서 막히는지 정확히 파악합니다.

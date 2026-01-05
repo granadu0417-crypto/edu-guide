@@ -23,6 +23,31 @@ tags:
 
 고등학교 영어, 내신과 수능 모두 만만치 않습니다. 강남구 고등학교 영어 내신은 까다롭고, 수능 영어 1등급도 쉽지 않습니다.
 
+<div class="service-selector-banner">
+<div class="service-selector-title">
+<span class="selector-icon">✨</span>
+<span class="selector-text">무료 상담 신청</span>
+</div>
+<div class="service-selector-cards">
+<a href="/visit-tutoring/" class="service-card service-card-visit">
+<div class="service-card-icon">🏠</div>
+<div class="service-card-content">
+<h4>방문 과외</h4>
+<p>선생님이 집으로 방문해요</p>
+</div>
+<div class="service-card-arrow">→</div>
+</a>
+<a href="/online-tutoring/" class="service-card service-card-online">
+<div class="service-card-icon">💻</div>
+<div class="service-card-content">
+<h4>온라인 과외</h4>
+<p>화상으로 편하게 수업해요</p>
+</div>
+<div class="service-card-arrow">→</div>
+</a>
+</div>
+</div>
+
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
 첫 수업에서 학생의 영어 실력을 종합 진단합니다. 문법, 독해, 어휘, 듣기 각 영역을 점검하고 약점부터 집중 보완합니다.

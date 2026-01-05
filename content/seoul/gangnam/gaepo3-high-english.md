@@ -20,6 +20,31 @@ featured_image: "/images/edu_0825_cuvK4j-qXIs.jpg"
 
 영어 때문에 대학 못 가면 너무 억울하지 않나요? 강남구 개포3동에서 고등학교 영어 과외를 찾고 계시다면, 체계적인 수업으로 내신과 수능을 동시에 준비하세요.
 
+<div class="service-selector-banner">
+<div class="service-selector-title">
+<span class="selector-icon">✨</span>
+<span class="selector-text">무료 상담 신청</span>
+</div>
+<div class="service-selector-cards">
+<a href="/visit-tutoring/" class="service-card service-card-visit">
+<div class="service-card-icon">🏠</div>
+<div class="service-card-content">
+<h4>방문 과외</h4>
+<p>선생님이 집으로 방문해요</p>
+</div>
+<div class="service-card-arrow">→</div>
+</a>
+<a href="/online-tutoring/" class="service-card service-card-online">
+<div class="service-card-icon">💻</div>
+<div class="service-card-content">
+<h4>온라인 과외</h4>
+<p>화상으로 편하게 수업해요</p>
+</div>
+<div class="service-card-arrow">→</div>
+</a>
+</div>
+</div>
+
 <div style="background-color: #FDF8F0; border-left: 3px solid #d4a574; padding: 18px; margin: 15px 0; font-size: 0.95em;">
 <strong>이렇게 수업합니다!</strong><br>
 모든 수업은 진단에서 시작합니다. 학생의 현재 위치를 파악하고, 목표까지의 로드맵을 설계합니다.
