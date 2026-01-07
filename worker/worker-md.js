@@ -468,10 +468,20 @@ function renderFullHTML(frontMatter, contentHtml, path, visitorCount = 0) {
 
     ${getFooterHTML()}
 
-    <a href="https://pf.kakao.com/_Cixlaxl/chat" target="_blank" class="floating-kakao" rel="noopener noreferrer">
-        <span class="kakao-icon">💬</span>
-        <span class="kakao-text">무료상담</span>
-    </a>
+    <div class="floating-buttons">
+        <a href="tel:010-5765-0417" class="floating-btn floating-phone">
+            <span class="btn-icon">📞</span>
+            <span class="btn-text">전화상담</span>
+        </a>
+        <a href="https://pf.kakao.com/_Cixlaxl/chat" target="_blank" class="floating-btn floating-kakao" rel="noopener noreferrer">
+            <span class="btn-icon">💬</span>
+            <span class="btn-text">카카오톡 상담</span>
+        </a>
+        <a href="https://naver.me/FGENm9ex" target="_blank" class="floating-btn floating-trial" rel="noopener noreferrer">
+            <span class="btn-icon">✨</span>
+            <span class="btn-text">무료체험 신청</span>
+        </a>
+    </div>
 
     <script src="/js/viral.js" defer></script>
 
@@ -569,6 +579,21 @@ function getHeaderHTML(visitorCount = 0) {
                             <li><a href="/subjects/math/">수학</a></li>
                             <li><a href="/subjects/science/">과학</a></li>
                             <li><a href="/subjects/social/">사회</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-dropdown">
+                        <a href="#">학교별 과외</a>
+                        <ul class="dropdown">
+                            <li><a href="/high/">고등학교</a></li>
+                            <li><a href="/middle/">중학교</a></li>
+                            <li><a href="/elementary/">초등학교</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-dropdown">
+                        <a href="#">해외/귀국</a>
+                        <ul class="dropdown">
+                            <li><a href="/overseas/">해외학교</a></li>
+                            <li><a href="/returnee/">귀국학생</a></li>
                         </ul>
                     </li>
                     <li><a href="/tutoring/">학습플랜</a></li>
@@ -676,8 +701,19 @@ function getInlineStyles() {
 .kakao-final-features { display: flex; justify-content: center; gap: 24px; margin-top: 24px; flex-wrap: wrap; }
 .kakao-final-features span { color: #5C4E1E; font-size: 14px; font-weight: 600; }
 
-.floating-kakao { position: fixed; bottom: 20px; right: 20px; background: #FEE500; color: #3C1E1E; padding: 15px 20px; border-radius: 50px; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 1000; display: flex; align-items: center; gap: 8px; }
-.floating-kakao:hover { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(0,0,0,0.2); }
+.floating-buttons { position: fixed; bottom: 20px; right: 20px; display: flex; flex-direction: column; gap: 10px; z-index: 1000; }
+.floating-btn { display: flex; align-items: center; gap: 8px; padding: 12px 18px; border-radius: 50px; text-decoration: none; font-weight: 700; font-size: 14px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: all 0.3s ease; }
+.floating-btn:hover { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(0,0,0,0.2); }
+.floating-phone { background: #4A90E2; color: white; }
+.floating-kakao { background: #FEE500; color: #3C1E1E; }
+.floating-trial { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
+.btn-icon { font-size: 18px; }
+.btn-text { white-space: nowrap; }
+@media (max-width: 768px) {
+  .floating-buttons { bottom: 15px; right: 15px; gap: 8px; }
+  .floating-btn { padding: 10px 14px; font-size: 13px; }
+  .btn-icon { font-size: 16px; }
+}
 
 @media (max-width: 768px) {
   .article-title { font-size: 1.6rem; }
