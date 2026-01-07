@@ -78,13 +78,14 @@ function markdownToHtml(markdown) {
     return `__INLINE_CODE_${inlineCodes.length - 1}__`;
   });
 
-  // 헤딩 (H1-H6)
+  // 헤딩 (H2-H6로 변환 - H1은 페이지 타이틀 전용)
+  // SEO: 페이지당 H1은 하나만 있어야 함 (article-title이 H1)
   html = html.replace(/^######\s+(.+)$/gm, '<h6>$1</h6>');
-  html = html.replace(/^#####\s+(.+)$/gm, '<h5>$1</h5>');
-  html = html.replace(/^####\s+(.+)$/gm, '<h4>$1</h4>');
-  html = html.replace(/^###\s+(.+)$/gm, '<h3>$1</h3>');
-  html = html.replace(/^##\s+(.+)$/gm, '<h2>$1</h2>');
-  html = html.replace(/^#\s+(.+)$/gm, '<h1>$1</h1>');
+  html = html.replace(/^#####\s+(.+)$/gm, '<h6>$1</h6>');
+  html = html.replace(/^####\s+(.+)$/gm, '<h5>$1</h5>');
+  html = html.replace(/^###\s+(.+)$/gm, '<h4>$1</h4>');
+  html = html.replace(/^##\s+(.+)$/gm, '<h3>$1</h3>');
+  html = html.replace(/^#\s+(.+)$/gm, '<h2>$1</h2>');
 
   // 볼드, 이탤릭
   html = html.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>');
@@ -331,11 +332,33 @@ function getCTAKakaoFinalHTML() {
 }
 
 // ============================================================
+// Description 자동 생성 함수 (SEO: 중복 방지)
+// ============================================================
+function generateAutoDescription(title, path) {
+  // path에서 지역/카테고리 정보 추출
+  const pathParts = path.split('/').filter(p => p);
+
+  // 과목/카테고리별 설명 템플릿
+  const templates = [
+    '{title}에 대한 상세 정보와 학습 가이드를 제공합니다. 맞춤형 1:1 과외로 실력 향상을 경험하세요.',
+    '{title} 관련 최신 정보와 효과적인 학습 방법을 안내합니다. 전문 선생님과 함께하세요.',
+    '{title}의 모든 것을 한눈에. 검증된 교육 정보와 맞춤 과외 매칭 서비스입니다.',
+    '{title} 전문 가이드. 내신부터 수능까지 체계적인 학습 전략을 제시합니다.',
+    '{title} 완벽 정리. 효율적인 학습법과 1:1 맞춤 과외 정보를 확인하세요.'
+  ];
+
+  // path 기반으로 템플릿 선택 (해시 함수로 일관된 선택)
+  const pathHash = path.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
+  const templateIndex = pathHash % templates.length;
+
+  return templates[templateIndex].replace('{title}', title);
+}
+
 // HTML 템플릿 렌더링
 // ============================================================
 function renderFullHTML(frontMatter, contentHtml, path, visitorCount = 0) {
   const title = frontMatter.title || '과외를부탁해';
-  const description = frontMatter.description || '초등학생부터 고등학생까지, 학습에 필요한 모든 정보를 한곳에서.';
+  const description = frontMatter.description || generateAutoDescription(title, path);
   const featuredImage = frontMatter.featured_image || '';
   const categories = frontMatter.categories || [];
   const tags = frontMatter.tags || [];
@@ -469,7 +492,7 @@ function renderFullHTML(frontMatter, contentHtml, path, visitorCount = 0) {
     ${getFooterHTML()}
 
     <div class="floating-buttons">
-        <a href="tel:010-5765-0417" class="floating-btn floating-phone">
+        <a href="tel:010-9220-0653" class="floating-btn floating-phone">
             <span class="btn-icon">📞</span>
             <span class="btn-text">전화상담</span>
         </a>
@@ -894,6 +917,15 @@ export default {
       const neighborhood = middleRegionalMatch[2];
       const subject = middleRegionalMatch[3];
       const newPath = `/seoul/${district}/${neighborhood}-middle-${subject}/`;
+      return Response.redirect(`${url.origin}${newPath}`, 301);
+    }
+
+    // 301 리다이렉트: rewrite 페이지 → 정상 페이지
+    // 예: /local/seoul/gangnam-math-tutoring-rewrite/ → /local/seoul/gangnam-math-tutoring/
+    // 대소문자 무관 (REWRITE, Rewrite, rewrite 모두 처리)
+    const rewriteMatch = path.match(/^(\/local\/seoul\/gangnam-math-tutoring)[-_]?(rewrite|REWRITE)[-_]?(v2|V2)?\/$/i);
+    if (rewriteMatch) {
+      const newPath = '/local/seoul/gangnam-math-tutoring/';
       return Response.redirect(`${url.origin}${newPath}`, 301);
     }
 
