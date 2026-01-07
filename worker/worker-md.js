@@ -820,7 +820,7 @@ function render404HTML(visitorCount = 0) {
 // ============================================================
 // Worker 메인 핸들러
 // ============================================================
-const PAGES_ORIGIN = 'https://3842efa4.edu-guide.pages.dev';
+const PAGES_ORIGIN = 'https://edu-guide.pages.dev';
 const VISITOR_COUNT_KEY = '__visitor_count__';
 
 // 방문자 카운터 증가 및 조회
