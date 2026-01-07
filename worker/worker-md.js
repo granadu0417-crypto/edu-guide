@@ -91,11 +91,11 @@ function markdownToHtml(markdown) {
   html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
   html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
 
+  // 이미지 (링크보다 먼저 처리해야 함!)
+  html = html.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" loading="lazy">');
+
   // 링크
   html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
-
-  // 이미지
-  html = html.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" loading="lazy">');
 
   // 수평선
   html = html.replace(/^---$/gm, '<hr>');
@@ -152,6 +152,88 @@ function processShortcodes(html) {
 
   // {{< cta-dual type="inline" >}}
   html = html.replace(/\{\{<\s*cta-dual\s+type="inline"\s*>\}\}/g, getCTAInlineHTML());
+
+  return html;
+}
+
+// ============================================================
+// 긴 이미지 자동 삽입 (개별 콘텐츠 페이지에만)
+// ============================================================
+function insertLongImage(html, path) {
+  // 제외할 경로 패턴 (인덱스, 홈, 랜딩 페이지 등)
+  const excludePaths = [
+    /^\/$/, // 홈페이지
+    /^\/high\/?$/, /^\/middle\/?$/, /^\/elementary\/?$/, // 학년별 인덱스
+    /^\/subjects\/?$/, /^\/tutoring\/?$/, /^\/exam\/?$/, // 카테고리 인덱스
+    /^\/consultation\/?$/, /^\/search\/?$/, // 기타 인덱스
+    /^\/visit-tutoring\/?$/, /^\/online-tutoring\/?$/, // 랜딩 페이지
+    /^\/seoul\/?$/, /^\/gyeonggi\/?$/, /^\/busan\/?$/, // 지역 인덱스
+    /^\/tags\//, /^\/categories\//, // 태그/카테고리 페이지
+  ];
+
+  // 제외 경로면 그대로 반환
+  for (const pattern of excludePaths) {
+    if (pattern.test(path)) return html;
+  }
+
+  // 이미 long-image가 있으면 스킵
+  if (html.includes('/images/long-image.jpg')) return html;
+
+  const longImageHtml = '<div class="long-image-container"><img src="/images/long-image.jpg" alt="과외를부탁해 안내" loading="lazy" class="long-image"></div>';
+
+  // 아이보리 박스 찾기 (background-color: #FDF8F0)
+  const ivoryBoxPattern = /<div[^>]*style="[^"]*background-color:\s*#FDF8F0[^"]*"[^>]*>[\s\S]*?<\/div>/gi;
+  const ivoryBoxes = html.match(ivoryBoxPattern) || [];
+
+  if (ivoryBoxes.length >= 3) {
+    // 3개 이상: 3번째 박스 뒤에 삽입
+    let count = 0;
+    html = html.replace(ivoryBoxPattern, (match) => {
+      count++;
+      if (count === 3) {
+        return match + '\n\n' + longImageHtml;
+      }
+      return match;
+    });
+  } else if (ivoryBoxes.length >= 1) {
+    // 1~2개: 마지막 박스 뒤에 삽입
+    let count = 0;
+    html = html.replace(ivoryBoxPattern, (match) => {
+      count++;
+      if (count === ivoryBoxes.length) {
+        return match + '\n\n' + longImageHtml;
+      }
+      return match;
+    });
+  } else {
+    // 박스 없음: 두 번째 H2 뒤에 삽입
+    const h2Pattern = /<h2[^>]*>[\s\S]*?<\/h2>/gi;
+    const h2Matches = html.match(h2Pattern) || [];
+
+    if (h2Matches.length >= 2) {
+      let count = 0;
+      html = html.replace(h2Pattern, (match) => {
+        count++;
+        if (count === 2) {
+          return match + '\n\n' + longImageHtml;
+        }
+        return match;
+      });
+    } else if (h2Matches.length === 1) {
+      // H2가 1개면 그 뒤에 삽입
+      html = html.replace(h2Pattern, (match) => match + '\n\n' + longImageHtml);
+    } else {
+      // H2도 없으면 콘텐츠 30% 지점에 삽입
+      const insertPos = Math.floor(html.length * 0.3);
+      // 가장 가까운 </p> 태그 찾기
+      const afterInsert = html.substring(insertPos);
+      const pEndMatch = afterInsert.match(/<\/p>/);
+      if (pEndMatch) {
+        const actualPos = insertPos + pEndMatch.index + 4;
+        html = html.substring(0, actualPos) + '\n\n' + longImageHtml + html.substring(actualPos);
+      }
+    }
+  }
 
   return html;
 }
@@ -539,6 +621,38 @@ function getInlineStyles() {
   .dual-inline-box { flex-wrap: wrap; justify-content: center; text-align: center; }
   .dual-inline-buttons { width: 100%; justify-content: center; flex-direction: column; }
 }
+
+.service-selector-banner { background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 16px; padding: 28px; margin: 32px 0; }
+.service-selector-title { display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px; }
+.selector-icon { font-size: 24px; }
+.selector-text { font-size: 18px; font-weight: 700; color: #333; }
+.service-selector-cards { display: flex; gap: 16px; flex-wrap: wrap; }
+.service-card { flex: 1; min-width: 220px; display: flex; align-items: center; gap: 14px; padding: 20px; background: white; border-radius: 12px; text-decoration: none; color: inherit; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: all 0.2s ease; border: 2px solid transparent; }
+.service-card:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(0,0,0,0.12); }
+.service-card-visit:hover { border-color: #667eea; }
+.service-card-online:hover { border-color: #28a745; }
+.service-card-icon { font-size: 32px; flex-shrink: 0; }
+.service-card-content { flex: 1; }
+.service-card-content h4 { margin: 0 0 4px; font-size: 16px; font-weight: 700; color: #333; }
+.service-card-content p { margin: 0; font-size: 13px; color: #666; }
+.service-card-arrow { font-size: 18px; color: #aaa; flex-shrink: 0; }
+@media (max-width: 480px) {
+  .service-selector-cards { flex-direction: column; }
+  .service-card { min-width: 100%; }
+}
+
+.long-image-container { margin: 32px 0; text-align: center; }
+.long-image { max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
+
+/* 인덱스 페이지 네비게이션 버튼 스타일 */
+.index-links { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; margin: 20px 0 40px; }
+.index-link { display: flex; align-items: center; justify-content: space-between; padding: 14px 18px; background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; text-decoration: none; transition: all 0.2s ease; }
+.index-link:hover { border-color: #667eea; background: #f8fafc; transform: translateX(4px); }
+.link-text { font-size: 0.95rem; font-weight: 600; color: #333; line-height: 1.4; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.index-link:hover .link-text { color: #667eea; }
+.link-arrow { font-size: 1.1rem; color: #aaa; margin-left: 12px; flex-shrink: 0; transition: transform 0.2s ease; }
+.index-link:hover .link-arrow { color: #667eea; transform: translateX(4px); }
+@media (max-width: 768px) { .index-links { grid-template-columns: 1fr; gap: 8px; } .index-link { padding: 12px 16px; } .link-text { font-size: 0.9rem; } }
 `;
 }
 
@@ -616,6 +730,24 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     let path = decodeURIComponent(url.pathname);
+
+    // R2에서 이미지 서빙 (/images/* 경로)
+    if (path.startsWith('/images/')) {
+      const key = path.replace('/images/', '');
+      try {
+        const object = await env.IMAGES.get(key);
+        if (object) {
+          const headers = new Headers();
+          headers.set('Content-Type', object.httpMetadata?.contentType || getContentType(path));
+          headers.set('Cache-Control', 'public, max-age=31536000'); // 1년 캐시
+          headers.set('X-Content-Source', 'R2');
+          return new Response(object.body, { headers });
+        }
+      } catch (e) {
+        console.error('R2 error:', e);
+      }
+      // R2에 없으면 기존 로직으로 폴백 (KV 또는 Pages)
+    }
 
     // 정적 파일: KV에서 먼저 찾고, 없으면 Pages 폴백 (카운터 증가 안 함)
     if (isStaticFile(path)) {
@@ -714,6 +846,7 @@ export default {
       const { frontMatter, body } = parseYamlFrontMatter(mdContent);
       let htmlContent = markdownToHtml(body);
       htmlContent = processShortcodes(htmlContent);
+      htmlContent = insertLongImage(htmlContent, path); // 긴 이미지 자동 삽입
       const fullHtml = renderFullHTML(frontMatter, htmlContent, path, visitorCount);
 
       return new Response(fullHtml, {
