@@ -89,9 +89,5 @@ User-agent: DotBot
 Disallow: /
 
 # 사이트맵 (XML Sitemap)
-# 메인 사이트맵 인덱스 (분할된 사이트맵 포함)
+# 메인 사이트맵 인덱스 (30개의 세분화된 사이트맵 자동 참조)
 Sitemap: https://edukoreaai.com/sitemap-index.xml
-# 개별 사이트맵 (검색엔진 호환성용)
-Sitemap: https://edukoreaai.com/sitemap-1.xml
-Sitemap: https://edukoreaai.com/sitemap-2.xml
-Sitemap: https://edukoreaai.com/sitemap-3.xml
