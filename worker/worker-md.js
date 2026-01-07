@@ -393,12 +393,12 @@ function renderFullHTML(frontMatter, contentHtml, path, visitorCount = 0) {
     }
     </script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FP3W863XX4"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFDBWDLHC2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-FP3W863XX4');
+        gtag('config', 'G-CFDBWDLHC2');
     </script>
 
     <link rel="preload" as="style" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
