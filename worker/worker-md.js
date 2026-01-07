@@ -153,6 +153,15 @@ function processShortcodes(html) {
   // {{< cta-dual type="inline" >}}
   html = html.replace(/\{\{<\s*cta-dual\s+type="inline"\s*>\}\}/g, getCTAInlineHTML());
 
+  // {{< cta-kakao-consultation type="hero" >}}
+  html = html.replace(/\{\{<\s*cta-kakao-consultation\s+type="hero"\s*>\}\}/g, getCTAKakaoHeroHTML());
+
+  // {{< cta-kakao-consultation type="inline" >}}
+  html = html.replace(/\{\{<\s*cta-kakao-consultation\s+type="inline"\s*>\}\}/g, getCTAKakaoInlineHTML());
+
+  // {{< cta-kakao-consultation type="final" >}}
+  html = html.replace(/\{\{<\s*cta-kakao-consultation\s+type="final"\s*>\}\}/g, getCTAKakaoFinalHTML());
+
   return html;
 }
 
@@ -276,6 +285,46 @@ function getCTAInlineHTML() {
       <a href="https://naver.me/FGENm9ex" target="_blank" rel="noopener noreferrer" class="dual-btn-trial">
         ✨ 무료체험 신청
       </a>
+    </div>
+  </div>
+</div>`;
+}
+
+// 카카오 상담 전용 CTA - Hero
+function getCTAKakaoHeroHTML() {
+  return `
+<div class="cta-kakao-hero">
+  <a href="https://pf.kakao.com/_Cixlaxl/chat" target="_blank" rel="noopener noreferrer" class="kakao-hero-btn">
+    <span class="kakao-icon">💬</span>
+    <span class="kakao-text">카카오톡으로 무료 상담받기</span>
+  </a>
+</div>`;
+}
+
+// 카카오 상담 전용 CTA - Inline
+function getCTAKakaoInlineHTML() {
+  return `
+<div class="cta-kakao-inline">
+  <a href="https://pf.kakao.com/_Cixlaxl/chat" target="_blank" rel="noopener noreferrer" class="kakao-inline-btn">
+    💬 지금 바로 카카오톡 상담하기
+  </a>
+</div>`;
+}
+
+// 카카오 상담 전용 CTA - Final
+function getCTAKakaoFinalHTML() {
+  return `
+<div class="cta-kakao-final">
+  <div class="kakao-final-box">
+    <h3>💬 지금 바로 무료 상담 신청하세요!</h3>
+    <p>학습 고민, 과외/학원 선택 등 무엇이든 편하게 물어보세요.</p>
+    <a href="https://pf.kakao.com/_Cixlaxl/chat" target="_blank" rel="noopener noreferrer" class="kakao-final-btn">
+      카카오톡으로 상담하기
+    </a>
+    <div class="kakao-final-features">
+      <span>✅ 완전 무료</span>
+      <span>⚡ 빠른 답변</span>
+      <span>🔒 개인정보 보호</span>
     </div>
   </div>
 </div>`;
@@ -607,6 +656,25 @@ function getInlineStyles() {
 .dual-btn-kakao, .dual-btn-trial { padding: 12px 24px; text-decoration: none; border-radius: 25px; font-weight: 700; font-size: 15px; }
 .dual-btn-kakao { background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%); color: #3C1E1E; }
 .dual-btn-trial { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
+
+/* 카카오 상담 전용 CTA 스타일 */
+.cta-kakao-hero { text-align: center; margin: 32px 0; }
+.kakao-hero-btn { display: inline-flex; align-items: center; gap: 12px; background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%); color: #3C1E1E; padding: 20px 48px; border-radius: 50px; text-decoration: none; font-weight: 800; font-size: 20px; box-shadow: 0 8px 24px rgba(254, 229, 0, 0.4); transition: all 0.3s ease; }
+.kakao-hero-btn:hover { transform: translateY(-3px); box-shadow: 0 12px 32px rgba(254, 229, 0, 0.5); }
+.kakao-icon { font-size: 28px; }
+
+.cta-kakao-inline { text-align: center; margin: 28px 0; }
+.kakao-inline-btn { display: inline-block; background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%); color: #3C1E1E; padding: 16px 36px; border-radius: 50px; text-decoration: none; font-weight: 700; font-size: 17px; transition: all 0.3s ease; }
+.kakao-inline-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(254, 229, 0, 0.4); }
+
+.cta-kakao-final { margin: 48px 0; }
+.kakao-final-box { text-align: center; padding: 48px 36px; background: linear-gradient(135deg, #FEE500 0%, #FFD700 100%); border-radius: 20px; box-shadow: 0 12px 36px rgba(254, 229, 0, 0.3); }
+.kakao-final-box h3 { color: #3C1E1E; font-size: 26px; font-weight: 800; margin: 0 0 12px; }
+.kakao-final-box p { color: #5C4E1E; font-size: 16px; margin: 0 0 28px; }
+.kakao-final-btn { display: inline-block; background: #3C1E1E; color: #FEE500; padding: 18px 48px; border-radius: 50px; text-decoration: none; font-weight: 800; font-size: 18px; transition: all 0.3s ease; }
+.kakao-final-btn:hover { background: #2C0E0E; transform: translateY(-2px); }
+.kakao-final-features { display: flex; justify-content: center; gap: 24px; margin-top: 24px; flex-wrap: wrap; }
+.kakao-final-features span { color: #5C4E1E; font-size: 14px; font-weight: 600; }
 
 .floating-kakao { position: fixed; bottom: 20px; right: 20px; background: #FEE500; color: #3C1E1E; padding: 15px 20px; border-radius: 50px; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 1000; display: flex; align-items: center; gap: 8px; }
 .floating-kakao:hover { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(0,0,0,0.2); }

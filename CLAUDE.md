@@ -310,6 +310,8 @@ curl -sI "https://edukoreaai.com/" | grep -i "x-content-source"
 |------|------|------|------|
 | 2025-12-15 | /busan/ 이중 헤더 | Worker 미배포 | `npx wrangler deploy` |
 | 2025-12-17 | / (메인) 이중 헤더 | Worker 미배포 (세션 넘어가면서 누락) | `npx wrangler deploy` |
+| 2026-01-07 | /images/long-image.jpg 404 오류 | R2 이미지 서빙 로직이 Worker에 배포 안 됨 | `npx wrangler deploy` |
+| 2026-01-07 | /consultation/ 숏코드 미렌더링 | `cta-kakao-consultation` 숏코드 처리 로직 누락 | Worker에 숏코드 처리 추가 후 배포 |
 
 ---
 

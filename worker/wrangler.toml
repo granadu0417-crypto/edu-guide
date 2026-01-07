@@ -14,3 +14,8 @@ routes = [
 [[kv_namespaces]]
 binding = "KV"
 id = "725aefb7b1c64c6c90d2cf4daf061bf3"
+
+# R2 bucket binding (이미지 서빙용)
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "edu-guide-images"
