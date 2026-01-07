@@ -15,6 +15,16 @@ featured_image: "/images/edu_0346_MOLqTb7Vfl4.jpg"
 각 과목마다 효과적인 공부 방법이 다릅니다. 과목 특성에 맞는 학습법을 적용하면 같은 시간을 투자해도 더 좋은 결과를 얻을 수 있습니다.
 </div>
 
+## 과목 선택하기
+
+<div class="index-links">
+<a href="./korean/" class="index-link"><span class="link-text">국어 공부법</span><span class="link-arrow">→</span></a>
+<a href="./english/" class="index-link"><span class="link-text">영어 공부법</span><span class="link-arrow">→</span></a>
+<a href="./math/" class="index-link"><span class="link-text">수학 공부법</span><span class="link-arrow">→</span></a>
+<a href="./science/" class="index-link"><span class="link-text">과학 공부법</span><span class="link-arrow">→</span></a>
+<a href="./social/" class="index-link"><span class="link-text">사회 공부법</span><span class="link-arrow">→</span></a>
+</div>
+
 ## 주요 과목 학습법
 
 ### 국어
