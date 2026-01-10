@@ -175,6 +175,7 @@ function insertLongImage(html, path) {
     /^\/$/, // 홈페이지
     /^\/high\/?$/, /^\/middle\/?$/, /^\/elementary\/?$/, // 학년별 인덱스
     /^\/subjects\/?$/, /^\/tutoring\/?$/, /^\/exam\/?$/, // 카테고리 인덱스
+    /^\/coaching/, // coaching 카테고리 전체 (인덱스 + 하위 페이지)
     /^\/consultation\/?$/, /^\/search\/?$/, // 기타 인덱스
     /^\/visit-tutoring\/?$/, /^\/online-tutoring\/?$/, // 랜딩 페이지
     /^\/seoul\/?$/, /^\/gyeonggi\/?$/, /^\/busan\/?$/, // 지역 인덱스
@@ -427,6 +428,17 @@ function renderFullHTML(frontMatter, contentHtml, path, visitorCount = 0) {
     <link rel="preload" as="style" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 
+    <!-- Font Display Swap Override for Core Web Vitals -->
+    <style>
+        @font-face {
+            font-family: "Pretendard Variable";
+            font-style: normal;
+            font-display: swap;
+            font-weight: 45 920;
+            src: local("Pretendard Variable"), url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/woff2-subset/PretendardVariable.subset.woff2") format("woff2-variations");
+        }
+    </style>
+
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#667eea">
@@ -576,7 +588,7 @@ function getHeaderHTML(visitorCount = 0) {
             <nav class="main-nav">
                 <ul>
                     <li class="has-dropdown">
-                        <a href="#">지역별 과외</a>
+                        <a href="#">지역/학년별</a>
                         <ul class="dropdown">
                             <li><a href="/seoul/">서울</a></li>
                             <li><a href="/gyeonggi/">경기</a></li>
@@ -584,18 +596,13 @@ function getHeaderHTML(visitorCount = 0) {
                             <li><a href="/incheon/">인천</a></li>
                             <li><a href="/daegu/">대구</a></li>
                             <li><a href="/cities/">기타 지역</a></li>
-                        </ul>
-                    </li>
-                    <li class="has-dropdown">
-                        <a href="#">학습 가이드</a>
-                        <ul class="dropdown">
                             <li><a href="/elementary/">초등학생</a></li>
                             <li><a href="/middle/">중학생</a></li>
                             <li><a href="/high/">고등학생</a></li>
                         </ul>
                     </li>
                     <li class="has-dropdown">
-                        <a href="#">과목별</a>
+                        <a href="#">과목/학교별</a>
                         <ul class="dropdown">
                             <li><a href="/subjects/korean/">국어</a></li>
                             <li><a href="/subjects/english/">영어</a></li>
@@ -605,23 +612,21 @@ function getHeaderHTML(visitorCount = 0) {
                         </ul>
                     </li>
                     <li class="has-dropdown">
-                        <a href="#">학교별 과외</a>
+                        <a href="#">학습플랜/해외</a>
                         <ul class="dropdown">
-                            <li><a href="/high/">고등학교</a></li>
-                            <li><a href="/middle/">중학교</a></li>
-                            <li><a href="/elementary/">초등학교</a></li>
-                        </ul>
-                    </li>
-                    <li class="has-dropdown">
-                        <a href="#">해외/귀국</a>
-                        <ul class="dropdown">
+                            <li><a href="/tutoring/">학습플랜</a></li>
+                            <li><a href="/coaching/">학원</a></li>
                             <li><a href="/overseas/">해외학교</a></li>
                             <li><a href="/returnee/">귀국학생</a></li>
                         </ul>
                     </li>
-                    <li><a href="/tutoring/">학습플랜</a></li>
-                    <li><a href="/exam/">시험 대비</a></li>
-                    <li><a href="/consultation/">무료 상담</a></li>
+                    <li class="has-dropdown">
+                        <a href="#">시험/상담</a>
+                        <ul class="dropdown">
+                            <li><a href="/exam/">시험 대비</a></li>
+                            <li><a href="/consultation/">무료 상담</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </nav>
         </div>
@@ -793,6 +798,20 @@ function render404HTML(visitorCount = 0) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>페이지를 찾을 수 없습니다 | 과외를부탁해</title>
+
+    <link rel="preload" as="style" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+
+    <style>
+    @font-face {
+        font-family: "Pretendard Variable";
+        font-style: normal;
+        font-display: swap;
+        font-weight: 45 920;
+        src: local("Pretendard Variable"), url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/woff2-subset/PretendardVariable.subset.woff2") format("woff2-variations");
+    }
+    </style>
+
     <link rel="stylesheet" href="/css/style.css">
     <style>
     .error-page { text-align: center; padding: 100px 20px; }
@@ -857,6 +876,33 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     let path = decodeURIComponent(url.pathname);
+
+    // robots.txt 처리: Cloudflare가 추가한 Content-signal 부분 제거
+    if (path === '/robots.txt') {
+      try {
+        // Pages에서 robots.txt 가져오기
+        const pagesResponse = await fetch(`${PAGES_ORIGIN}/robots.txt`, {
+          cf: { cacheTtl: 3600 }
+        });
+
+        if (pagesResponse.ok) {
+          let robotsTxt = await pagesResponse.text();
+
+          // Cloudflare Managed Content 섹션 제거
+          robotsTxt = robotsTxt.replace(/# BEGIN Cloudflare Managed content[\s\S]*?# END Cloudflare Managed Content\n?/gi, '');
+
+          return new Response(robotsTxt, {
+            headers: {
+              'Content-Type': 'text/plain; charset=utf-8',
+              'Cache-Control': 'no-cache, no-store, must-revalidate',
+              'X-Content-Source': 'Worker-Cleaned'
+            }
+          });
+        }
+      } catch (e) {
+        console.error('robots.txt processing error:', e);
+      }
+    }
 
     // R2에서 이미지 서빙 (/images/* 경로)
     if (path.startsWith('/images/')) {
