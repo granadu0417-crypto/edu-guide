@@ -267,7 +267,7 @@ function generateContent(centerSlug, articleId, pool, centerConfigs) {
     'date: 2026-01-11\n' +
     'description: "' + description + '"\n' +
     'tags:\n  - ' + tags.join('\n  - ') + '\n' +
-    'featured_image: "/images/coaching-' + ((articleId % 10) + 1) + '.jpg"\n' +
+    'featured_image: "/images/wawalong.jpg"\n' +
     '---\n\n' +
     opening + '\n\n' +
     createBox(boxes[0] || '첫 수업에서 학생의 현재 실력을 정확히 진단합니다.') + '\n\n' +
@@ -331,7 +331,7 @@ function generateIndexPage(centerSlug, centerConfigs) {
     'date: 2026-01-11\n' +
     'description: "' + center.city + ' ' + (center.district || '') + ' ' + center.name + '. ' + stationName + ' 인근 초중고 학습코칭센터."\n' +
     'tags:\n  - ' + tags.join('\n  - ') + '\n' +
-    'featured_image: "/images/coaching-center.jpg"\n' +
+    'featured_image: "/images/wawalong.jpg"\n' +
     '---\n\n' +
     '# 와와학습코칭센터 ' + center.name + '\n\n' +
     center.city + ' ' + (center.district || '') + ' 지역의 학습코칭 전문 센터입니다.\n\n' +
